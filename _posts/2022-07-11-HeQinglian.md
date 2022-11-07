@@ -25,7 +25,7 @@ Re @bcyixiu 这我还真不能写，主要原因是：我并不比你们了解�
 
 ### 3: [2022-07-11 02:05:45+08:00 推文](https://twitter.com/HeQinglian/status/1546193978126733313)
 
-将熊熊一窝。不是美国能力不行，是领导人不行。<br>我要是布林肯，拒绝接受那四份要求美国纠正错误言论与政策的清单，让王毅带回北京去。
+将熊熊一窝。不是美国能力不行，是领导人不行。<br>我要是布林肯，拒绝接受那四份要求美国纠正错误言论与政策的清单，让王毅带回北京去。<br><br>华尔街日报中文网: #本周热读 经济专栏记者Greg Ip写道，虽然美国的经济体系已准备好迎接与中国的地缘政治竞赛，但政治体系是否做好了准备还不好说。过去一周发生的一些重大事件引起了很多疑问。<br> <a href="https://on.wsj.com/3AyyOBw" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3AyyOBw</a>
 
 ### 4: [2022-07-11 04:16:48+08:00 推文](https://twitter.com/HeQinglian/status/1546226957813256192)
 
@@ -37,7 +37,7 @@ Re @Bforge3 @Wu_Zhi 开会嘛，就是开会。
 
 ### 6: [2022-07-11 08:51:41+08:00 推文](https://twitter.com/HeQinglian/status/1546296130752987136)
 
-这位外长在不正确的时间说不正确的话。<br>据日本共同社报道，在10日举行的日本参议院选举中，包括非改选席位在内，对修宪持积极态度的自民党、公明党、日本维新会、国民民主党等的参议院议席已达到166席，已确保维持提议修宪所需的三分之二以上议席。<br>安倍虽然被刺杀，但他的修宪主张终于成功。<br><br>DW 中文- 德国之声: 在出席完G20外长会议后，德国外长贝尔伯克取道帕劳前往日本。在长崎，贝尔伯克呼吁全球各国放弃核武器。<br> <a href="https://p.dw.com/p/4DvdG" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4DvdG</a>
+这位外长在不正确的时间说不正确的话。<br>据日本共同社报道，在10日举行的日本参议院选举中，包括非改选席位在内，对修宪持积极态度的自民党、公明党、日本维新会、国民民主党等的参议院议席已达到166席，已确保维持提议修宪所需的三分之二以上议席。<br>安倍虽然被刺杀，但他的修宪主张终于成功。
 
 ### 7: [2022-07-11 10:54:40+08:00 推文](https://twitter.com/HeQinglian/status/1546327081554001920)
 
@@ -361,7 +361,7 @@ Re @shenliangqing2 应该说，你是现在各方都想争取的力量，因此�
 
 ### 87: [2022-07-14 05:59:24+08:00 推文](https://twitter.com/HeQinglian/status/1547339938559135744)
 
-美军在阿富汗“有序撤退”时，留下价值数百亿的军事装备，算不算资敌？美国媒体讨论了一阵就放弃了。因为《纽约时报》等主媒发现，再讨论下去，有损他们力推的拜登总统的光辉形象，让亲者痛仇者快。<br><br>Ezio Mao☢: 这事儿有更新了，根据俄罗斯方面可靠消息来源 - 乌克兰以 80 万美元的价格向俄军出售了一架 HIMARS火箭炮。<br><br>此外，正在协商转让33万美元的弹药问题。<br><br>选择的交货方法非常有趣：将海马斯留在灰色区域的棚子中，以便俄罗斯军人在扫荡过程中“不小心”偶然发现它。<br><br><img style="" src="https://pbs.twimg.com/media/FXey6GKUEAANz9X?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/KELMAND1/status/1543106999222939648" target="_blank" rel="noopener noreferrer">https://twitter.com/KELMAND1/status/1543106999222939648</a>
+美军在阿富汗“有序撤退”时，留下价值数百亿的军事装备，算不算资敌？美国媒体讨论了一阵就放弃了。因为《纽约时报》等主媒发现，再讨论下去，有损他们力推的拜登总统的光辉形象，让亲者痛仇者快。
 
 ### 88: [2022-07-14 07:58:47+08:00 推文](https://twitter.com/HeQinglian/status/1547369983457607686)
 
@@ -409,7 +409,7 @@ Re 曾有推友认为我讲40国联军是段子，真不是，就是美国讲过
 
 ### 99: [2022-07-14 08:47:17+08:00 推文](https://twitter.com/HeQinglian/status/1547382189557440513)
 
-这句话……，<br>是念稿子还是拜登即兴发挥？白宫发言人能否解释一下？以释天下之疑。
+这句话……，<br>是念稿子还是拜登即兴发挥？白宫发言人能否解释一下？以释天下之疑。<br><br>Newsmax: President Biden, after touching down in Israel on Wednesday, mistakenly said we must keep alive the "honor of the Holocaust," instead of the "horror of the Holocaust." <br><br>Biden also mispronounced the name of the Jerusalem Holocaust museum Yad Vashem.<br><br><video src="https://video.twimg.com/ext_tw_video/1547351417999872001/pu/vid/720x720/sVbxqwFXpVticfYH.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1547351417999872001/pu/img/wNf8BYThTWYdtlcd.jpg"></video> <a href="https://bit.ly/3Ru2PZ7" target="_blank" rel="noopener noreferrer">https://bit.ly/3Ru2PZ7</a>
 
 ### 100: [2022-07-14 10:21:19+08:00 推文](https://twitter.com/HeQinglian/status/1547405851232796672)
 
@@ -417,7 +417,7 @@ Re @dongle_smith @RFI_Cn 这是谴责名单，不是一回事。
 
 ### 101: [2022-07-14 10:29:59+08:00 推文](https://twitter.com/HeQinglian/status/1547408034061815815)
 
-历史的经验告诉人们：<br>当年拿破仑要回来了，巴黎的报纸一天换一个标题。<br>第一天：“科西嘉的怪物在儒安港登陆”<br>第二天：“吃人的魔鬼向格腊斯前进”<br>第三天：“篡位者进入格勒诺布尔”<br>第四天：“波拿巴占领里昂”<br>第五天：“拿破仑接近枫丹白露”<br>第六天：“皇帝陛下将于今日抵达他忠实的巴黎”<br><br>Frank Tian Xie (謝田), Ph.D.: 纽约时报六月卅日报导：普京近来神情“轻松、耐心、自信”，告别数月前“紧张、易怒，甚至心神不定”的他。这戏剧化转变怎么来的？<br> <a href="https://twitter.com/bannedebook/status/1547372813874794496" target="_blank" rel="noopener noreferrer">https://twitter.com/bannedebook/status/1547372813874794496</a>
+历史的经验告诉人们：<br>当年拿破仑要回来了，巴黎的报纸一天换一个标题。<br>第一天：“科西嘉的怪物在儒安港登陆”<br>第二天：“吃人的魔鬼向格腊斯前进”<br>第三天：“篡位者进入格勒诺布尔”<br>第四天：“波拿巴占领里昂”<br>第五天：“拿破仑接近枫丹白露”<br>第六天：“皇帝陛下将于今日抵达他忠实的巴黎”
 
 ### 102: [2022-07-14 22:04:25+08:00 推文](https://twitter.com/HeQinglian/status/1547582795123343366)
 
@@ -537,7 +537,7 @@ Re @Meitiaowushi @shenliangqing2 变革，要有时机、条件。<br>斯里兰�
 
 ### 131: [2022-07-15 21:32:53+08:00 推文](https://twitter.com/HeQinglian/status/1547937246170427392)
 
-彭博这篇文章还在讨论衰退到底是否到来，列出的指标是连续两个季节衰退。<br>美国衰退不可避免，彭博谈的只是经济，其实还有国势。<br>2020年的大选，无论如何是一场国运之赌，希望民主党选民想清楚，自己到底要什么。<br>拜登履行了绝大部分竞选承诺，不太撒谎，除了没亲口承认自己家族是个犯罪家族。
+彭博这篇文章还在讨论衰退到底是否到来，列出的指标是连续两个季节衰退。<br>美国衰退不可避免，彭博谈的只是经济，其实还有国势。<br>2020年的大选，无论如何是一场国运之赌，希望民主党选民想清楚，自己到底要什么。<br>拜登履行了绝大部分竞选承诺，不太撒谎，除了没亲口承认自己家族是个犯罪家族。<br><br>Bloomberg: Is the US in a recession? Here's what you need to know and how to prepare<br> <a href="https://trib.al/L6SduXt" target="_blank" rel="noopener noreferrer">https://trib.al/L6SduXt</a>
 
 ### 132: [2022-07-15 21:36:33+08:00 推文](https://twitter.com/HeQinglian/status/1547938169093402624)
 
