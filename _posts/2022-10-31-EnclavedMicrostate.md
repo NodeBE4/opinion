@@ -87,7 +87,15 @@ If you feel this was done in error, or would like better clarification or need f
 
 思一园茶行出品 – *si1yi1yuan2 cha2hang2 chu1pin3*: Product of [the] Siyiyuan Tea Company
 
-普洱茶【熟茶】– *pu3er3cha2 shu2cha2*: Pu'er tea (ripe tea)
+普洱茶【熟茶】– *pu3er3cha2 (shu2cha2)*: Pu'er tea (ripe tea)
 
 净含量：200克 – *jing4han2liang4 er4bai3ke4*: Net weight: 200 grams
+
+### 912: [[Hobby Scuffles] Week of November 7, 2022](https://old.reddit.com/r/HobbyDrama/comments/ynsk0l/hobby_scuffles_week_of_november_7_2022/), submitted on 2022-11-06 23:13:10+08:00.
+
+----- __912.1__ -----2022-11-07 19:07:05+08:00:
+
+I have more or less planned out a wargame scenario that I may run as a participation game early next year, based on the 1864 Shimonoseki Expedition. I'll be using Daniel Mersey's *The Men Who Would be Kings* with a couple of minor tweaks, mainly to do with movement (which I can elaborate on).
+
+The overall plan means I need to do up 60 figures for the Europeans: 24 Royal Marines, 24 British sailors, and 12 French sailors. I have most of what I need for the Japanese force, but I'll need to do up an extra unit of 16 armoured pikemen, as well as a few extra unarmoured swordsmen. The big thing is that I'll need a battery of coastal artillery, so it's a question of budget+table space in terms of where on the scale of 3 to 5 I do, especially as I'll also need to do some terrain-building for a breastwork to actually mount the guns behind.
 
