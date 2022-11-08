@@ -17,11 +17,11 @@ The China Media Project (中国传媒研究计划) is an independent think
 
 ### 1: [2021-12-13 10:59:59+08:00 推文](https://twitter.com/cnmediaproject/status/1470226969992200196)
 
-For those who missed it: Douban, which had slightly more chatter last month about the Peng Shuai case, is among 106 apps dropped from app stores in China (along with karaoke app Changba). <a href="https://chinamediaproject.org/2021/12/10/douban-pulled-from-app-stores/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/10/douban-pulled-from-app-stores/</a><br><img style src="https://pbs.twimg.com/media/FGdLVzMVcAAxM1x?format=jpg&name=orig" referrerpolicy="no-referrer">
+For those who missed it: Douban, which had slightly more chatter last month about the Peng Shuai case, is among 106 apps dropped from app stores in China (along with karaoke app Changba). <a href="https://chinamediaproject.org/2021/12/10/douban-pulled-from-app-stores/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/10/douban-pulled-from-app-stores/</a><br><img style="" src="https://pbs.twimg.com/media/FGdLVzMVcAAxM1x?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2021-12-13 11:04:23+08:00 推文](https://twitter.com/cnmediaproject/status/1470228074658922497)
 
-Our latest in the CMP Dictionary: "Party spirit" (党性), an old term of new importance in the Xi era. <a href="https://chinamediaproject.org/the_ccp_dictionary/party-spirit/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/party-spirit/</a><br><img style="" src="https://pbs.twimg.com/media/FGdMoayUUAMkkIO?format=jpg&name=orig" referrerpolicy="no-referrer">
+Our latest in the CMP Dictionary: "Party spirit" (党性), an old term of new importance in the Xi era. <a href="https://chinamediaproject.org/the_ccp_dictionary/party-spirit/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/party-spirit/</a><br><img style src="https://pbs.twimg.com/media/FGdMoayUUAMkkIO?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2021-12-14 04:26:32+08:00 推文](https://twitter.com/niubi/status/1470490343669997571)
 
@@ -57,7 +57,7 @@ RT Made in China Journal<br>Re No. 2 is again @lingli_vienna in conversation w
 
 ### 11: [2021-12-14 20:34:28+08:00 推文](https://twitter.com/AlexDukalskis/status/1470733930286440468)
 
-RT Alex Dukalskis<br>As usual some excellent reporting by @paulmozur & team about 🇨🇳 external propaganda. <br><br>This photo of the other side of one of these "spontaneous" pro-CCP YouTube videos is worth its full 1,000 words. <a href="https://www.nytimes.com/interactive/2021/12/13/technology/china-propaganda-youtube-influencers.html" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/interactive/2021/12/13/technology/china-propaganda-youtube-influencers.html</a><br><img style="" src="https://pbs.twimg.com/media/FGkYgsqXoAQWv-Y?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Alex Dukalskis<br>As usual some excellent reporting by @paulmozur & team about 🇨🇳 external propaganda. <br><br>This photo of the other side of one of these "spontaneous" pro-CCP YouTube videos is worth its full 1,000 words. <a href="https://www.nytimes.com/interactive/2021/12/13/technology/china-propaganda-youtube-influencers.html" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/interactive/2021/12/13/technology/china-propaganda-youtube-influencers.html</a><br><img style src="https://pbs.twimg.com/media/FGkYgsqXoAQWv-Y?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2021-12-15 17:34:01+08:00 推文](https://twitter.com/ABPevzner/status/1471050904820461574)
 
@@ -77,7 +77,7 @@ Re @TruthOfFinance @niubi But perhaps "top online influencer" also good here.
 
 ### 16: [2021-12-16 10:59:23+08:00 推文](https://twitter.com/cnmediaproject/status/1471313981596106754)
 
-In the latest move against influencers, the CAC announced yesterday it had shut down 20,000 “top online influencer accounts” (头部账号), including that of a well-known former magazine editor detained back in October on charges that he had “insulted heroes and martyrs.”<br><img style src="https://pbs.twimg.com/media/FGsoOvlVUAACvEU?format=jpg&name=orig" referrerpolicy="no-referrer">
+In the latest move against influencers, the CAC announced yesterday it had shut down 20,000 “top online influencer accounts” (头部账号), including that of a well-known former magazine editor detained back in October on charges that he had “insulted heroes and martyrs.”<br><img style="" src="https://pbs.twimg.com/media/FGsoOvlVUAACvEU?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 17: [2021-12-16 11:07:49+08:00 推文](https://twitter.com/cnmediaproject/status/1471316101632262144)
 
@@ -101,7 +101,7 @@ RT Tuvia Gering 陶文亚<br>"Let Lithuania taste the bitter fruit of serving 
 
 ### 22: [2021-12-16 13:34:07+08:00 推文](https://twitter.com/cnmediaproject/status/1471352921329893377)
 
-After serving more than 15 years as the controversial editor-in-chief of China's most outspoken newspaper on foreign affairs, Hu Xijin (胡锡进) announced his retirement on Weibo today. Other sources say his departure has been compelled. <a href="https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/</a><br><img style="" src="https://pbs.twimg.com/media/FGtLhQ-UcAIwfgo?format=jpg&name=orig" referrerpolicy="no-referrer">
+After serving more than 15 years as the controversial editor-in-chief of China's most outspoken newspaper on foreign affairs, Hu Xijin (胡锡进) announced his retirement on Weibo today. Other sources say his departure has been compelled. <a href="https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/</a><br><img style src="https://pbs.twimg.com/media/FGtLhQ-UcAIwfgo?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 23: [2021-12-16 13:36:40+08:00 推文](https://twitter.com/cnmediaproject/status/1471353563909861376)
 
@@ -121,7 +121,7 @@ Re Serious question: How long before he posts the same news to Twitter?
 
 ### 27: [2021-12-16 15:17:20+08:00 推文](https://twitter.com/cnmediaproject/status/1471378897703157760)
 
-Our report on the "retirement" of Hu Xijin as editor-in-chief of the Global Times, with some notes on his possible replacements. <a href="https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/</a><br><img style="" src="https://pbs.twimg.com/media/FGtjR5zVcAYHjIK?format=jpg&name=orig" referrerpolicy="no-referrer">
+Our report on the "retirement" of Hu Xijin as editor-in-chief of the Global Times, with some notes on his possible replacements. <a href="https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/</a><br><img style src="https://pbs.twimg.com/media/FGtjR5zVcAYHjIK?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 28: [2021-12-16 16:32:34+08:00 推文](https://twitter.com/vshih2/status/1471397830212218884)
 
@@ -133,15 +133,15 @@ RT Hu Xijin 胡锡进<br>I have retired and my new role is Global Times specia
 
 ### 30: [2021-12-17 08:07:39+08:00 推文](https://twitter.com/DemesDavid/status/1471633150808068097)
 
-RT David Demes 戴達衛<br>Re @cnmediaproject<br><br>David Demes 戴達衛: In his English-language tweet, Hu Xijin omits a key details from his original Weibo-post: That he will "continue to do my best for the party's news and public opinion work". So when he’s talking about "both sides", he’s actually referring to his work as a CCP mouthpiece.<br><br><img style="" src="https://pbs.twimg.com/media/FGvTchRUUA853IO?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/HuXijin_GT/status/1471488933192433664" target="_blank" rel="noopener noreferrer">https://twitter.com/HuXijin_GT/status/1471488933192433664</a>
+RT David Demes 戴達衛<br>Re @cnmediaproject<br><br>David Demes 戴達衛: In his English-language tweet, Hu Xijin omits a key details from his original Weibo-post: That he will "continue to do my best for the party's news and public opinion work". So when he’s talking about "both sides", he’s actually referring to his work as a CCP mouthpiece.<br><br><img style src="https://pbs.twimg.com/media/FGvTchRUUA853IO?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/HuXijin_GT/status/1471488933192433664" target="_blank" rel="noopener noreferrer">https://twitter.com/HuXijin_GT/status/1471488933192433664</a>
 
 ### 31: [2021-12-17 08:31:32+08:00 推文](https://twitter.com/cnmediaproject/status/1471639162776584193)
 
-A must-read post by CMP's Stella Chen on the history (and current practice) of "ideological and political education" (思政). Quite a chilling glimpse into how the CCP weaves the study of obedience and gratitude into all subjects in higher education. <a href="https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/</a><br><img style="" src="https://pbs.twimg.com/media/FGxP88OVcAAixQI?format=jpg&name=orig" referrerpolicy="no-referrer">
+A must-read post by CMP's Stella Chen on the history (and current practice) of "ideological and political education" (思政). Quite a chilling glimpse into how the CCP weaves the study of obedience and gratitude into all subjects in higher education. <a href="https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/</a><br><img style src="https://pbs.twimg.com/media/FGxP88OVcAAixQI?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 32: [2021-12-17 09:34:35+08:00 推文](https://twitter.com/cnmediaproject/status/1471655029144981505)
 
-In our dictionary entry on "ideol. and pol. education" (思政), this example stands out: a university biology textbook instructing teachers to related a study of DNA to the concept of "red genes" and gratitude to the mother country. <a href="https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/</a><br><img style src="https://pbs.twimg.com/media/FGxebRZaIAEfOTo?format=jpg&name=orig" referrerpolicy="no-referrer">
+In our dictionary entry on "ideol. and pol. education" (思政), this example stands out: a university biology textbook instructing teachers to related a study of DNA to the concept of "red genes" and gratitude to the mother country. <a href="https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/</a><br><img style="" src="https://pbs.twimg.com/media/FGxebRZaIAEfOTo?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 33: [2021-12-17 09:36:29+08:00 推文](https://twitter.com/cnmediaproject/status/1471655508486811652)
 
