@@ -239,3 +239,11 @@ Re @Oininderk @dinglili7 不是似乎，是觉得。
 
 Re @Sam812019 @Vince6610 @Frank26970699 @xxj2040 这些人如果喜欢2020后的拜登美国，那应该是他们从来没爱过美国，也不了解美。
 
+### 57: [2022-11-09 03:54:15+08:00 推文](https://twitter.com/NAConservative9/status/1590070212837068800)
+
+RT 北美保守评论🇺🇸🇨🇦<br>《选举日快报：投票机宕机、炸弹威胁、ABC窃选预告、民主党人不会和平放弃权力》<br><br>当民主党人拒绝接受他们没有得到人民的授权而继续掌权的事实，并不可避免地为坚持掌权寻找其他理由时，危险就来了。尽管他们一直在谈论共和党对民主的 “威胁”但真正构成威胁的是民主党人。 <a href="https://nacr.info/WordPress/index.php/2022/11/08/election-day-flash-voting-machine-outages-bomb-threats-abc-stealing-prenotices-democrats-wont-give-up-power-peacefully/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/11/08/election-day-flash-voting-machine-outages-bomb-threats-abc-stealing-prenotices-democrats-wont-give-up-power-peacefully/</a><br><img style="" src="https://pbs.twimg.com/media/FhEP1tOWIAIxDX7?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 58: [2022-11-09 04:40:23+08:00 推文](https://twitter.com/HeQinglian/status/1590081820791803907)
+
+Re @NAConservative9 故伎重施。<br>所有的套路都是2020年玩过的。
+
