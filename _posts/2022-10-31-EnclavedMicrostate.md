@@ -99,3 +99,7 @@ I have more or less planned out a wargame scenario that I may run as a participa
 
 The overall plan means I need to do up 60 figures for the Europeans: 24 Royal Marines, 24 British sailors, and 12 French sailors. I have most of what I need for the Japanese force, but I'll need to do up an extra unit of 16 armoured pikemen, as well as a few extra unarmoured swordsmen. The big thing is that I'll need a battery of coastal artillery, so it's a question of budget+table space in terms of where on the scale of 3 to 5 guns I do, especially as I'll also need to do some terrain-building for a breastwork to actually mount the guns behind.
 
+----- __912.2__ -----2022-11-08 20:32:54+08:00:
+
+Similarly, early career history and history-adjacent academics have relied on Twitter for networking for a long time, and it's also been a space that has allowed a reasonable amount of public history work to be done on an open platform. There just isn't really an alternative to that at this stage. Mastodon is being floated as an option, but the relative insularity of communities could be an issue and essentially create a network of historians with little public visibility.
+
