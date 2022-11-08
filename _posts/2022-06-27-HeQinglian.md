@@ -121,7 +121,7 @@ Re @farmdirect8 很好理解。<br>左派自己喜好大麻与其他毒品，这
 
 ### 27: [2022-06-28 03:24:49+08:00 推文](https://twitter.com/JianglinLi/status/1541502832704196614)
 
-RT 李江琳<br>Re @HeQinglian @RealBeiMing @ngexp @Wu_Zhi @david_david1968 最高法院又作出一個令某些人跳脚的裁決。👇🤣<br><br>Newsmax: BREAKING: The U.S. Supreme Court on Monday backed a Christian public high school football coach who was disciplined for leading prayers on the field after games.<br><br><img style="" src="https://pbs.twimg.com/media/FWQ9yshUcAAoBn3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3xTWbCB" target="_blank" rel="noopener noreferrer">https://bit.ly/3xTWbCB</a>
+RT 李江琳<br>Re @HeQinglian @RealBeiMing @ngexp @Wu_Zhi @david_david1968 最高法院又作出一個令某些人跳脚的裁決。👇🤣
 
 ### 28: [2022-06-28 04:49:17+08:00 推文](https://twitter.com/HeQinglian/status/1541524088094605312)
 
@@ -305,7 +305,7 @@ Re @Wu_Zhi @JianglinLi @RealBeiMing @ngexp @david_david1968 去之前，李显�
 
 ### 73: [2022-06-30 20:22:02+08:00 推文](https://twitter.com/HeQinglian/status/1542483599534039042)
 
-译：西方将在数年内失去俄罗斯能源市场。<br>再比对：德总理萧兹：不排除出席G20峰会 即使普京在场 <br>还有没在这条消息中出现的话：欧洲国家都不会破坏G20.<br>竞猜：西方政府首脑出席G20，是为了普京入场时集体退场羞辱他，还是别有目的？ <a href="https://rfi.my/8XK6.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8XK6.T</a>
+译：西方将在数年内失去俄罗斯能源市场。<br>再比对：德总理萧兹：不排除出席G20峰会 即使普京在场 <br>还有没在这条消息中出现的话：欧洲国家都不会破坏G20.<br>竞猜：西方政府首脑出席G20，是为了普京入场时集体退场羞辱他，还是别有目的？<br><br>🅰pocalypsis 🅰pocalypseos 🇷🇺 🇨🇳 🅉: “The energy market of the West will be lost for Russia for several years. The processes are irreversible. For Europe, these are questions of pure politics, insane and reckless, but such are modern realities.” — Spydell 🧵<br>
 
 ### 74: [2022-06-30 20:47:44+08:00 推文](https://twitter.com/HeQinglian/status/1542490064806101001)
 
@@ -637,7 +637,7 @@ Re @ricco_chen @KELMAND1 这是纽约邮报，非纽约时报，纽约时报现�
 
 ### 156: [2022-07-02 09:53:11+08:00 推文](https://twitter.com/HeQinglian/status/1543050120815575040)
 
-中国经济事实上无法超越美国。但美国拜登当总统，一年新增10多万亿债务，超过GDP总量的50%，再不断支持代理人战争，中国有赢的可能。<br>选败登，败美国。<br><br>华尔街日报中文网: 中美两国领导人正将大国竞争的部分焦点转向比拼谁的国家增长更强劲。<br>很长时间以来，经济学家一直认为中国经济超越美国是迟早的事。但现在一些人指出，随着中国政府对经济的控制不断加强，加上生产力增长放缓和劳动力萎缩，中国也可能永远无法超越美国。<br> <a href="https://on.wsj.com/3QZLOpr" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3QZLOpr</a>
+中国经济事实上无法超越美国。但美国拜登当总统，一年新增10多万亿债务，超过GDP总量的50%，再不断支持代理人战争，中国有赢的可能。<br>选败登，败美国。
 
 ### 157: [2022-07-02 09:54:48+08:00 推文](https://twitter.com/HeQinglian/status/1543050526757199874)
 
@@ -689,11 +689,11 @@ Re @fanggexu @JianglinLi @david_david1968 @Wu_Zhi 我完全不耽心2035年的�
 
 ### 169: [2022-07-03 03:25:03+08:00 推文](https://twitter.com/HeQinglian/status/1543314830785904642)
 
-BRICKS在俄乌战后启动内部结算系统，五国贸易不再用美元结算，可以用五国货币结算，印度、中国都增加对俄能源天然气的购买，不知这算不算“实质性援助”？
+BRICKS在俄乌战后启动内部结算系统，五国贸易不再用美元结算，可以用五国货币结算，印度、中国都增加对俄能源天然气的购买，不知这算不算“实质性援助”？<br><br>美国之音中文网: 白宫再次表示，尚未发现中国为俄罗斯提供实质性援助<br> <a href="http://dlvr.it/STBcg9" target="_blank" rel="noopener noreferrer">http://dlvr.it/STBcg9</a>
 
 ### 170: [2022-07-03 03:46:49+08:00 推文](https://twitter.com/HeQinglian/status/1543320305912905729)
 
-如果泽连斯基真说了这话，说明他知道乌克兰现在、过去在西方的安全架构中的位置“不体面”。从这点来说，他有自知之明，比如3月28日接受《经济学人》采访时很明确地挑明自己在打代理人战争。<br><br>绫波: 乌克兰总统泽连斯基：待与俄罗斯的冲突结束后，乌克兰必须在西方安全架构中有一个“体面的位置”，而不是充当北约和俄罗斯之间的“灰色地带”。<br><br><img style="" src="https://pbs.twimg.com/media/FWpVYJnWIAEsu70?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+如果泽连斯基真说了这话，说明他知道乌克兰现在、过去在西方的安全架构中的位置“不体面”。从这点来说，他有自知之明，比如3月28日接受《经济学人》采访时很明确地挑明自己在打代理人战争。
 
 ### 171: [2022-07-03 04:33:29+08:00 推文](https://twitter.com/HeQinglian/status/1543332051557941249)
 
