@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-11-08
+date: 2022-11-09
 from: https://twitter.com/HeQinglian/status/1589288925755232256
 layout: post
 tags:
@@ -226,4 +226,16 @@ Re @LiLi68987735 @ChengYizhong @xxj2040 你的新台湾绝对是LGBTQI乱舞之�
 ### 53: [2022-11-08 23:24:06+08:00 推文](https://twitter.com/HeQinglian/status/1590002226260738048)
 
 Re @zhixiangziyou 我这是在高中的体育馆里。
+
+### 54: [2022-11-09 02:48:09+08:00 推文](https://twitter.com/HeQinglian/status/1590053580211642368)
+
+Re @weakweek2 那是另一个县。凡选举日当天出现问题的，都有想舞弊嫌疑。
+
+### 55: [2022-11-09 02:49:24+08:00 推文](https://twitter.com/HeQinglian/status/1590053892175572992)
+
+Re @Oininderk @dinglili7 不是似乎，是觉得。
+
+### 56: [2022-11-09 03:02:48+08:00 推文](https://twitter.com/HeQinglian/status/1590057266166009861)
+
+Re @Sam812019 @Vince6610 @Frank26970699 @xxj2040 这些人如果喜欢2020后的拜登美国，那应该是他们从来没爱过美国，也不了解美。
 
