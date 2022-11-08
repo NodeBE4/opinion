@@ -17,11 +17,11 @@ The China Media Project (中国传媒研究计划) is an independent think
 
 ### 1: [2021-12-13 10:59:59+08:00 推文](https://twitter.com/cnmediaproject/status/1470226969992200196)
 
-For those who missed it: Douban, which had slightly more chatter last month about the Peng Shuai case, is among 106 apps dropped from app stores in China (along with karaoke app Changba). <a href="https://chinamediaproject.org/2021/12/10/douban-pulled-from-app-stores/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/10/douban-pulled-from-app-stores/</a><br><img style src="https://pbs.twimg.com/media/FGdLVzMVcAAxM1x?format=jpg&name=orig" referrerpolicy="no-referrer">
+For those who missed it: Douban, which had slightly more chatter last month about the Peng Shuai case, is among 106 apps dropped from app stores in China (along with karaoke app Changba). <a href="https://chinamediaproject.org/2021/12/10/douban-pulled-from-app-stores/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/10/douban-pulled-from-app-stores/</a><br><img style="" src="https://pbs.twimg.com/media/FGdLVzMVcAAxM1x?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2021-12-13 11:04:23+08:00 推文](https://twitter.com/cnmediaproject/status/1470228074658922497)
 
-Our latest in the CMP Dictionary: "Party spirit" (党性), an old term of new importance in the Xi era. <a href="https://chinamediaproject.org/the_ccp_dictionary/party-spirit/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/party-spirit/</a><br><img style="" src="https://pbs.twimg.com/media/FGdMoayUUAMkkIO?format=jpg&name=orig" referrerpolicy="no-referrer">
+Our latest in the CMP Dictionary: "Party spirit" (党性), an old term of new importance in the Xi era. <a href="https://chinamediaproject.org/the_ccp_dictionary/party-spirit/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/party-spirit/</a><br><img style src="https://pbs.twimg.com/media/FGdMoayUUAMkkIO?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2021-12-14 04:26:32+08:00 推文](https://twitter.com/niubi/status/1470490343669997571)
 
@@ -41,7 +41,7 @@ RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>How does the people’s congress system realiz
 
 ### 7: [2021-12-14 15:52:38+08:00 推文](https://twitter.com/cnmediaproject/status/1470663005452996609)
 
-The "real results" reading of China's political system would be far more compelling if the CCP did not have a vast and expanding propaganda system to manufacture them.<br><img style src="https://pbs.twimg.com/media/FGjYNW3UcAUXmaL?format=jpg&name=orig" referrerpolicy="no-referrer">
+The "real results" reading of China's political system would be far more compelling if the CCP did not have a vast and expanding propaganda system to manufacture them.<br><img style="" src="https://pbs.twimg.com/media/FGjYNW3UcAUXmaL?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2021-12-14 17:07:40+08:00 推文](https://twitter.com/MIC_Journal/status/1470681885978218509)
 
@@ -57,7 +57,7 @@ RT Made in China Journal<br>Re No. 2 is again @lingli_vienna in conversation w
 
 ### 11: [2021-12-14 20:34:28+08:00 推文](https://twitter.com/AlexDukalskis/status/1470733930286440468)
 
-RT Alex Dukalskis<br>As usual some excellent reporting by @paulmozur & team about 🇨🇳 external propaganda. <br><br>This photo of the other side of one of these "spontaneous" pro-CCP YouTube videos is worth its full 1,000 words. <a href="https://www.nytimes.com/interactive/2021/12/13/technology/china-propaganda-youtube-influencers.html" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/interactive/2021/12/13/technology/china-propaganda-youtube-influencers.html</a><br><img style="" src="https://pbs.twimg.com/media/FGkYgsqXoAQWv-Y?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Alex Dukalskis<br>As usual some excellent reporting by @paulmozur & team about 🇨🇳 external propaganda. <br><br>This photo of the other side of one of these "spontaneous" pro-CCP YouTube videos is worth its full 1,000 words. <a href="https://www.nytimes.com/interactive/2021/12/13/technology/china-propaganda-youtube-influencers.html" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/interactive/2021/12/13/technology/china-propaganda-youtube-influencers.html</a><br><img style src="https://pbs.twimg.com/media/FGkYgsqXoAQWv-Y?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2021-12-15 17:34:01+08:00 推文](https://twitter.com/ABPevzner/status/1471050904820461574)
 
@@ -81,7 +81,7 @@ In the latest move against influencers, the CAC announced yesterday it had shut 
 
 ### 17: [2021-12-16 11:07:49+08:00 推文](https://twitter.com/cnmediaproject/status/1471316101632262144)
 
-Re CMP looks a bit more closely at the language in the CAC notice. One point is that the mandate of "guidance," once the resp. of traditional media gatekeepers, is now the responsibility of ALL. See Bandurski's 2017 analysis on the "hive" approach. <a href="https://bit.ly/3GSVIn7" target="_blank" rel="noopener noreferrer">https://bit.ly/3GSVIn7</a><br><img style src="https://pbs.twimg.com/media/FGsqL6uVkAEsAQB?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re CMP looks a bit more closely at the language in the CAC notice. One point is that the mandate of "guidance," once the resp. of traditional media gatekeepers, is now the responsibility of ALL. See Bandurski's 2017 analysis on the "hive" approach. <a href="https://bit.ly/3GSVIn7" target="_blank" rel="noopener noreferrer">https://bit.ly/3GSVIn7</a><br><img style="" src="https://pbs.twimg.com/media/FGsqL6uVkAEsAQB?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2021-12-16 11:09:12+08:00 推文](https://twitter.com/cnmediaproject/status/1471316452531904512)
 
@@ -89,7 +89,7 @@ Re Sorry, link to the article is here: <a href="https://chinamediaproject.org/
 
 ### 19: [2021-12-16 11:10:38+08:00 推文](https://twitter.com/cnmediaproject/status/1471316813388869633)
 
-The CAC announced yesterday it has shut down 20,000 “top online influencer accounts” (头部账号), including that of a well-known former magazine editor detained back in October on charges that he had “insulted heroes and martyrs.” <a href="https://chinamediaproject.org/2021/12/16/shutting-down-top-influencers/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/16/shutting-down-top-influencers/</a><br><img style="" src="https://pbs.twimg.com/media/FGsq0A9VQAAScX8?format=jpg&name=orig" referrerpolicy="no-referrer">
+The CAC announced yesterday it has shut down 20,000 “top online influencer accounts” (头部账号), including that of a well-known former magazine editor detained back in October on charges that he had “insulted heroes and martyrs.” <a href="https://chinamediaproject.org/2021/12/16/shutting-down-top-influencers/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/16/shutting-down-top-influencers/</a><br><img style src="https://pbs.twimg.com/media/FGsq0A9VQAAScX8?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 20: [2021-12-16 11:19:35+08:00 推文](https://twitter.com/cnmediaproject/status/1471319064304054280)
 
@@ -105,7 +105,7 @@ After serving more than 15 years as the controversial editor-in-chief of China's
 
 ### 23: [2021-12-16 13:36:40+08:00 推文](https://twitter.com/cnmediaproject/status/1471353563909861376)
 
-Re We also look at Fan Zhengwei (范正伟), who is rumored to be taking up a new "director" post at the Global Times -- likely a move to enforce greater political discipline.<br><img style="" src="https://pbs.twimg.com/media/FGtMQxPVkAAKL0p?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re We also look at Fan Zhengwei (范正伟), who is rumored to be taking up a new "director" post at the Global Times -- likely a move to enforce greater political discipline.<br><img style src="https://pbs.twimg.com/media/FGtMQxPVkAAKL0p?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 24: [2021-12-16 13:39:50+08:00 推文](https://twitter.com/cnmediaproject/status/1471354358847918082)
 
@@ -113,7 +113,7 @@ Re @emilyjodell It certainly does look that way.
 
 ### 25: [2021-12-16 13:54:06+08:00 推文](https://twitter.com/cnmediaproject/status/1471357948480073728)
 
-This is perhaps one of Hu's last spin jobs -- depicting his own departure from the Global Times as a "retirement."<br><img style src="https://pbs.twimg.com/media/FGtQOh5VUAAHh-e?format=jpg&name=orig" referrerpolicy="no-referrer">
+This is perhaps one of Hu's last spin jobs -- depicting his own departure from the Global Times as a "retirement."<br><img style="" src="https://pbs.twimg.com/media/FGtQOh5VUAAHh-e?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 26: [2021-12-16 13:55:18+08:00 推文](https://twitter.com/cnmediaproject/status/1471358253871562752)
 
@@ -137,19 +137,19 @@ RT David Demes 戴達衛<br>Re @cnmediaproject<br><br>David Demes 戴達衛:�
 
 ### 31: [2021-12-17 08:31:32+08:00 推文](https://twitter.com/cnmediaproject/status/1471639162776584193)
 
-A must-read post by CMP's Stella Chen on the history (and current practice) of "ideological and political education" (思政). Quite a chilling glimpse into how the CCP weaves the study of obedience and gratitude into all subjects in higher education. <a href="https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/</a><br><img style="" src="https://pbs.twimg.com/media/FGxP88OVcAAixQI?format=jpg&name=orig" referrerpolicy="no-referrer">
+A must-read post by CMP's Stella Chen on the history (and current practice) of "ideological and political education" (思政). Quite a chilling glimpse into how the CCP weaves the study of obedience and gratitude into all subjects in higher education. <a href="https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/</a><br><img style src="https://pbs.twimg.com/media/FGxP88OVcAAixQI?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 32: [2021-12-17 09:34:35+08:00 推文](https://twitter.com/cnmediaproject/status/1471655029144981505)
 
-In our dictionary entry on "ideol. and pol. education" (思政), this example stands out: a university biology textbook instructing teachers to related a study of DNA to the concept of "red genes" and gratitude to the mother country. <a href="https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/</a><br><img style src="https://pbs.twimg.com/media/FGxebRZaIAEfOTo?format=jpg&name=orig" referrerpolicy="no-referrer">
+In our dictionary entry on "ideol. and pol. education" (思政), this example stands out: a university biology textbook instructing teachers to related a study of DNA to the concept of "red genes" and gratitude to the mother country. <a href="https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/</a><br><img style="" src="https://pbs.twimg.com/media/FGxebRZaIAEfOTo?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 33: [2021-12-17 09:36:29+08:00 推文](https://twitter.com/cnmediaproject/status/1471655508486811652)
 
-Re "Red Genes" (红色基因) is another term in our growing CMP Dictionary. <a href="https://chinamediaproject.org/the_ccp_dictionary/red-genes/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/red-genes/</a><br><img style src="https://pbs.twimg.com/media/FGxe4E2aMAEucKz?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re "Red Genes" (红色基因) is another term in our growing CMP Dictionary. <a href="https://chinamediaproject.org/the_ccp_dictionary/red-genes/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/red-genes/</a><br><img style="" src="https://pbs.twimg.com/media/FGxe4E2aMAEucKz?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 34: [2021-12-17 09:37:42+08:00 推文](https://twitter.com/cnmediaproject/status/1471655811298791426)
 
-Re Here is a page from the textbook, now deleted from WeChat.<br><img style src="https://pbs.twimg.com/media/FGxfItQaUAwfIPf?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Here is a page from the textbook, now deleted from WeChat.<br><img style="" src="https://pbs.twimg.com/media/FGxfItQaUAwfIPf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 35: [2021-12-17 09:42:30+08:00 推文](https://twitter.com/cnmediaproject/status/1471657021661663238)
 
