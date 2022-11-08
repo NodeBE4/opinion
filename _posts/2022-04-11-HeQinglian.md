@@ -293,7 +293,7 @@ Re @jason78proton 这是重大消息，类于二战时期？看来美国没打�
 
 ### 70: [2022-04-13 08:35:58+08:00 推文](https://twitter.com/HeQinglian/status/1514039656052109318)
 
-2021年，按官方平均汇率计算，人均名义GDP折合12173美元，乌克兰2021年人均GDP为4532美元，俄的人均GDP约为乌克兰的2.7倍。<br>数字说话。
+2021年，按官方平均汇率计算，人均名义GDP折合12173美元，乌克兰2021年人均GDP为4532美元，俄的人均GDP约为乌克兰的2.7倍。<br>数字说话。<br><br>jiang shangrong: 这段视频我笑了3分钟。特意做了字幕分享。虽然好笑却发人深省。翻墙出来那些被洗脑教育的又自以为是民主志士的中国人和这个姑娘本质上没有太大区别的。很多人眼里俄罗斯就是个连微波炉都要拼了坦克和命去抢的地方……<br> <a href="https://youtu.be/42GUB1j3bls" target="_blank" rel="noopener noreferrer">https://youtu.be/42GUB1j3bls</a>
 
 ### 71: [2022-04-13 08:52:20+08:00 推文](https://twitter.com/HeQinglian/status/1514043777907834890)
 
@@ -333,7 +333,7 @@ Re @princeton_walk @JiangShangrong 如今信息战，消息一定要多方Check�
 
 ### 80: [2022-04-13 10:26:50+08:00 推文](https://twitter.com/HeQinglian/status/1514067559787733004)
 
-请注意调查 样本搜集期限：“到2021年8月之前”，7个月后，发生俄乌战争。德国如今成了被泽连斯基吊打的对象，领导力江河日下。<br><br>美国之音中文网: 盖洛普全球领导地位排名：德国继续位居第一，美国出现回升，中俄相当<br> <a href="http://dlvr.it/SNTBpY" target="_blank" rel="noopener noreferrer">http://dlvr.it/SNTBpY</a>
+请注意调查 样本搜集期限：“到2021年8月之前”，7个月后，发生俄乌战争。德国如今成了被泽连斯基吊打的对象，领导力江河日下。
 
 ### 81: [2022-04-13 10:28:07+08:00 推文](https://twitter.com/HeQinglian/status/1514067881608335364)
 
@@ -505,7 +505,7 @@ Re @Zhongkui_liu 不要无视事实好不好？<br>新疆的事情，天天谴�
 
 ### 123: [2022-04-15 00:55:31+08:00 推文](https://twitter.com/HeQinglian/status/1514648556983963654)
 
-世界上欧美之外的国家如果日子过不好，有历史原因、现实原因、技不如人，资源依赖、市场依赖等各种情况，只有美国天时地利样样有，政府没钱了，有限制地印点钞票就算硬通货。<br>现在出了问题是民主党左派自找的。2020年1月以前，那是美国最后一抹灿烂。<br>病毒被认为是上帝送给美国左派的礼物，开始使劲作<br><br>Alejandro Bernard: 现在美国一片悲观主义者，突然之间感受到了美联储不会再像上次那样被市场哀嚎声吓坏了，而且金融格局今时不同往日，小国家债务崩溃，美国经济衰退，在高通胀导致的选情失利面前都是洒洒水。<br>现金为王的论调这两天又开始充斥美国金融评论界。<br>所以说你永远赢不了，评论家们永远都说当时最主流的话。<br><br><img style="" src="https://pbs.twimg.com/media/FQUWj5DakAAHrDw?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+世界上欧美之外的国家如果日子过不好，有历史原因、现实原因、技不如人，资源依赖、市场依赖等各种情况，只有美国天时地利样样有，政府没钱了，有限制地印点钞票就算硬通货。<br>现在出了问题是民主党左派自找的。2020年1月以前，那是美国最后一抹灿烂。<br>病毒被认为是上帝送给美国左派的礼物，开始使劲作
 
 ### 124: [2022-04-15 01:12:45+08:00 推文](https://twitter.com/HeQinglian/status/1514652893042950155)
 
@@ -673,7 +673,7 @@ Re @FangYiDuan1 @gong84699718 首先，我这条推没有半点不对。只是�
 
 ### 165: [2022-04-16 05:04:24+08:00 推文](https://twitter.com/HeQinglian/status/1515073578445770757)
 
-盖尔·拉夫特（美国全球安全研究所联席所长、美国能源安全理事会高级顾问）对于这一个多月制裁对美元地位严重削弱的分析。<br><br>他还说过，随着对美债需求不断下降，美国将不得不提高其债券的利率，偿债成本将飙升，而留给国防医疗教育基础设施等的资金会更少，影响美国提供对外援助 <a href="https://ourcommunitynow.com/news-local/washingtons-trigger-happy-sanctions-may-push-countries-away-from-the-dollar-says-think-tank" target="_blank" rel="noopener noreferrer">https://ourcommunitynow.com/news-local/washingtons-trigger-happy-sanctions-may-push-countries-away-from-the-dollar-says-think-tank</a>
+盖尔·拉夫特（美国全球安全研究所联席所长、美国能源安全理事会高级顾问）对于这一个多月制裁对美元地位严重削弱的分析。<br><br>他还说过，随着对美债需求不断下降，美国将不得不提高其债券的利率，偿债成本将飙升，而留给国防医疗教育基础设施等的资金会更少，影响美国提供对外援助<br><br>He Qinglian: 这次俄乌战争输得最惨的是拜登政府。<br>1、验证了美国原有软实力不再，追随者寥寥，连仅剩的盟友也三心二意，心怀不满；<br>2、自己亲手毁掉了美元的全球霸主地位，以后只是国际货币多元化当中的老大；<br>3、信誉不再，亲手终结了全球化；<br>4、生化实验室的事情再度曝光；<br>5、唯一赢的是军工企业，能源卖个好价<br>
 
 ### 166: [2022-04-16 05:07:17+08:00 推文](https://twitter.com/HeQinglian/status/1515074305532563464)
 
