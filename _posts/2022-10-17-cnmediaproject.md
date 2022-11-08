@@ -333,7 +333,7 @@ Re "Raising high the great banner of socialism with Chinese characteristics, ful
 
 ### 80: [2022-10-23 09:02:29+08:00 推文](https://twitter.com/cnmediaproject/status/1583987190119682048)
 
-In the live coverage, they almost seemed stunned into resignation: Really, back to this point again in China's history?<br><br>Bill Bishop: they look ready to go<br><br><img style="" src="https://pbs.twimg.com/media/FfsAxC3X0AEli9L?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+In the live coverage, they almost seemed stunned into resignation: Really, back to this point again in China's history? <a href="https://twitter.com/niubi/status/1583860574743539713" target="_blank" rel="noopener noreferrer">https://twitter.com/niubi/status/1583860574743539713</a>
 
 ### 81: [2022-10-23 09:56:21+08:00 推文](https://twitter.com/cnmediaproject/status/1584000745518792704)
 
