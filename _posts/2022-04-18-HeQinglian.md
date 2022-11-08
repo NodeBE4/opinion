@@ -697,7 +697,7 @@ Re @zwvrhwmjgx @pandatress1 你还有一丁点自尊心吗？<br>为什么不用
 
 ### 171: [2022-04-21 22:39:41+08:00 推文](https://twitter.com/HeQinglian/status/1517151090420051968)
 
-我一直没公开分享华邮2021 年 12 月 23 日 这篇《拜登政府正在研究如果莫斯科超越他们，如何战斗到最后一个乌克兰人》<br>其中提到：一位知识渊博的官员描述了该计划，其中包括向乌军队提供武器和其他支持以抵抗入侵的俄罗斯军队的方法。灵感从十年阿富汗战争中打败苏军中来。 <a href="https://www.washingtonpost.com/opinions/2021/12/19/biden-ukraine-insurgents-russia/" target="_blank" rel="noopener noreferrer">https://www.washingtonpost.com/opinions/2021/12/19/biden-ukraine-insurgents-russia/</a>
+我一直没公开分享华邮2021 年 12 月 23 日 这篇《拜登政府正在研究如果莫斯科超越他们，如何战斗到最后一个乌克兰人》<br>其中提到：一位知识渊博的官员描述了该计划，其中包括向乌军队提供武器和其他支持以抵抗入侵的俄罗斯军队的方法。灵感从十年阿富汗战争中打败苏军中来。<br><br>zhix: @JianglinLi @dongle_smith @HeQinglian 还会让更多无辜的人去送死😂<br>
 
 ### 172: [2022-04-21 23:05:44+08:00 推文](https://twitter.com/HeQinglian/status/1517157642434662406)
 
@@ -893,7 +893,7 @@ Re @HelloTommy2015 你本来就没名声，换个推号再来。重新开张。<
 
 ### 220: [2022-04-23 03:56:19+08:00 推文](https://twitter.com/Awaken168/status/1517593160813318144)
 
-RT ⚜️Awaken🔱<br>🔴🔥⚡電視網絡 Rasha Tudej 播放了有關 #洩露 2000 份文件的消息…⬇️<br>🔴這些文件證明了 #喬治·索羅斯 和開放社會在 #操縱 歐洲各國 #選舉 方面的責任!!!<br><br>nikola  tesla prvi: 🔥⚡Телевизијска мрежа Раша тудеј емитовала је вест о цурењу 2000 докумената који доказују одговорност Џорџа Сороша и Отвореног друштва у манипулацији изборима у земљама широм Европе!!!<br><br><video src="https://video.twimg.com/ext_tw_video/1517535973395025920/pu/vid/432x304/OcOf_8CH8iIU8ogS.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1517535973395025920/pu/img/ciYjsBp4DeS5kcy9.jpg"></video>
+RT ⚜️Awaken🔱<br>🔴🔥⚡電視網絡 Rasha Tudej 播放了有關 #洩露 2000 份文件的消息…⬇️<br>🔴這些文件證明了 #喬治·索羅斯 和開放社會在 #操縱 歐洲各國 #選舉 方面的責任!!!
 
 ### 221: [2022-04-23 08:27:28+08:00 推文](https://twitter.com/HeQinglian/status/1517661395919290368)
 
@@ -973,7 +973,7 @@ Re @JianglinLi @Wu_Zhi 好象正主儿们都没欢庆吧？<br>对双方而言�
 
 ### 240: [2022-04-24 21:37:06+08:00 推文](https://twitter.com/HeQinglian/status/1518222501918224385)
 
-感言：<br>The media has always been the best friend of those who are willing to believe them.（媒体从来都是那些愿意相信它们的人的好朋友）。<br>Guadian这篇评论文章惹祸了，因为它预测普京要赢。🤣失去民心失订户。<br><br>Junson Chan 🇺🇸: The guardian is now saying Putin may win in the Ukraine. <br><br>People are stupid though, they'll always believe the media, never questioning ever "hey, these idiots have always lied and been wrong, what does that make me?"<br> <a href="https://www.theguardian.com/world/2022/apr/24/the-awful-truth-is-dawning-putin-may-win-in-ukraine-the-result-would-be-catastrophe" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/world/2022/apr/24/the-awful-truth-is-dawning-putin-may-win-in-ukraine-the-result-would-be-catastrophe</a>
+感言：<br>The media has always been the best friend of those who are willing to believe them.（媒体从来都是那些愿意相信它们的人的好朋友）。<br>Guadian这篇评论文章惹祸了，因为它预测普京要赢。🤣失去民心失订户。
 
 ### 241: [2022-04-24 21:45:34+08:00 推文](https://twitter.com/HeQinglian/status/1518224635225161730)
 
