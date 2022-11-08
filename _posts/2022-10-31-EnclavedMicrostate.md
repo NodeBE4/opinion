@@ -103,3 +103,7 @@ The overall plan means I need to do up 60 figures for the Europeans: 24 Royal Ma
 
 Similarly, early career history and history-adjacent academics have relied on Twitter for networking for a long time, and it's also been a space that has allowed a reasonable amount of public history work to be done on an open platform. There just isn't really an alternative to that at this stage. Mastodon is being floated as an option, but the relative insularity of communities could be an issue and essentially create a network of historians with little public visibility.
 
+----- __912.3__ -----2022-11-08 22:59:16+08:00:
+
+But is anyone joining other than economists?
+
