@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2022-11-08
+date: 2022-11-09
 from: https://twitter.com/nathanlawkc/status/1589697500877053952
 layout: post
 tags:
@@ -20,4 +20,8 @@ Author of Freedom, UK (https://t.co/2OFalKXJG1) and NA (https://t.co/mkF6N8U5d0)
 ### 1: [2022-11-08 03:13:14+08:00 推文](https://twitter.com/nathanlawkc/status/1589697500877053952)
 
 The Chinese folk song that went viral.<br><video src="https://video.twimg.com/ext_tw_video/1589696852839972864/pu/vid/720x1280/nDPC6bZSc-E5-Kzj.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1589696852839972864/pu/img/R-6S8DwqxT4A7i-0.jpg"></video>
+
+### 2: [2022-11-09 00:37:56+08:00 推文](https://twitter.com/nathanlawkc/status/1590020807212036097)
+
+Go VOTE.<br>Democracy is not perfect, it's flawed, and it relies on voters to correct its mistakes. <br>We have been trying so hard to get a vote. Don't waste it.
 
