@@ -117,7 +117,7 @@ Re @seeyoua22819375 @xxj2040 高玉宝、雷锋至少是正常人、普通人。
 
 ### 26: [2022-11-08 05:20:39+08:00 推文](https://twitter.com/HeQinglian/status/1589729566943498240)
 
-“习近平思想”将中国导向何方？<br><br>人民经济、人类命运共同体、绿色经济是“道”，用来争当“世界领袖”的理论工具，这点习继承了毛的衣钵<br>加强党对经济工作的领导、坚持公有制为主体、供给侧改革谓之“术”，这是习对邓小平理论的继承，“术”可以随时调整，可以“摸着石头过河”，允许试错<br><br>自由亚洲电台: 评论 | #何清涟 @HeQinglian：“#习近平思想”将中国导向何方？<br> <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter</a>
+RT He Qinglian<br>“习近平思想”将中国导向何方？<br><br>人民经济、人类命运共同体、绿色经济是“道”，用来争当“世界领袖”的理论工具，这点习继承了毛的衣钵<br>加强党对经济工作的领导、坚持公有制为主体、供给侧改革谓之“术”，这是习对邓小平理论的继承，“术”可以随时调整，可以“摸着石头过河”，允许试错<br><br>自由亚洲电台: 评论 | #何清涟 @HeQinglian：“#习近平思想”将中国导向何方？<br> <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter</a>
 
 ### 27: [2022-11-08 05:37:04+08:00 推文](https://twitter.com/HeQinglian/status/1589733697666056192)
 
@@ -246,4 +246,12 @@ RT 北美保守评论🇺🇸🇨🇦<br>《选举日快报：投票机宕机�
 ### 58: [2022-11-09 04:40:23+08:00 推文](https://twitter.com/HeQinglian/status/1590081820791803907)
 
 Re @NAConservative9 故伎重施。<br>所有的套路都是2020年玩过的。
+
+### 59: [2022-11-09 07:17:42+08:00 推文](https://twitter.com/HeQinglian/status/1590121412131373056)
+
+Re @catland95581230 目前还挺乌而且只会唠叨那几句的人，与民主党的左疯是同类。
+
+### 60: [2022-11-09 07:20:26+08:00 推文](https://twitter.com/HeQinglian/status/1590122100299567104)
+
+Re @catland95581230 我已经说过了，如果只注重Rally的人气，不从投票监管这一基层工作做起，没用。<br>实话实说，美国的亲儿女都不在意美国变成啥样，我们只能尽力而为。
 
