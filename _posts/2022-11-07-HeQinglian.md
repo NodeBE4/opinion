@@ -133,7 +133,7 @@ Re @xxj2040 说的是思想，不是皮囊。后者没人能做到，前者有�
 
 ### 30: [2022-11-08 05:51:49+08:00 推文](https://twitter.com/HeQinglian/status/1589737413706141696)
 
-主张各种性变态，包括为恋童癖正名的，都是民主党人、左派。<br>共和党人有，但不是MAGA，是民主党资助的RINO，比如林肯项目的参与者。<br>这个人只是因为某人转推才落入我时间线。我已经准备切割了。
+主张各种性变态，包括为恋童癖正名的，都是民主党人、左派。<br>共和党人有，但不是MAGA，是民主党资助的RINO，比如林肯项目的参与者。<br>这个人只是因为某人转推才落入我时间线。我已经准备切割了。 <a href="https://twitter.com/LJardine93/status/1589082331436154880" target="_blank" rel="noopener noreferrer">https://twitter.com/LJardine93/status/1589082331436154880</a>
 
 ### 31: [2022-11-08 05:56:12+08:00 推文](https://twitter.com/HeQinglian/status/1589738514832592903)
 
@@ -306,4 +306,16 @@ Re @catland95581230 WSJ 就是将所谓独立党派算在民主党一边。确�
 ### 73: [2022-11-10 00:46:12+08:00 推文](https://twitter.com/HeQinglian/status/1590385278048354304)
 
 Re @Wu_Zhi 问题主要出在几个摇摆州，2020的老套路。<br>不过，我不认为乔治亚州是真赢了，那是共和党的一块病。共和党RINO太多。
+
+### 74: [2022-11-10 02:19:29+08:00 推文](https://twitter.com/HeQinglian/status/1590408750174982144)
+
+即时消息：435个众议院席位中，决出379个：<br>民主党得176席，失去6个原有席位；共和党得203，赢了3个新席位。<br>防止偷票，只要堵住这条路（哪怕只堵住六州中的三个），共和党必胜。 <a href="https://www.google.com/search?q=2022+election+results%EF%BC%8CHouse&amp;sxsrf=ALiCzsafr17m8Hhv6-cLVMTYdA0AqIwR8A%3A1668017729223&amp;ei=Qe5rY8eZDYmj5NoP9beT8AY&amp;ved=0ahUKEwiHvuqh2qH7AhWJEVkFHfXbBG4Q4dUDCBA&amp;uact=5&amp;oq=2022+election+results%EF%BC%8CHouse&amp;gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIGCAAQFhAeOgQIABBHSgQIQRgASgQIRhgAUMYIWOwZYIYjaABwAngAgAFsiAGvA5IBAzUuMZgBAKABAcgBBsABAQ&amp;sclient=gws-wiz-serp" target="_blank" rel="noopener noreferrer">https://www.google.com/search?q=2022+election+results%EF%BC%8CHouse&amp;sxsrf=ALiCzsafr17m8Hhv6-cLVMTYdA0AqIwR8A%3A1668017729223&amp;ei=Qe5rY8eZDYmj5NoP9beT8AY&amp;ved=0ahUKEwiHvuqh2qH7AhWJEVkFHfXbBG4Q4dUDCBA&amp;uact=5&amp;oq=2022+election+results%EF%BC%8CHouse&amp;gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIGCAAQFhAeOgQIABBHSgQIQRgASgQIRhgAUMYIWOwZYIYjaABwAngAgAFsiAGvA5IBAzUuMZgBAKABAcgBBsABAQ&amp;sclient=gws-wiz-serp</a>
+
+### 75: [2022-11-10 04:19:38+08:00 推文](https://twitter.com/HeQinglian/status/1590438989755916289)
+
+Re @tocy2000 不用提了。
+
+### 76: [2022-11-10 04:20:06+08:00 推文](https://twitter.com/HeQinglian/status/1590439107104473089)
+
+Re @JohnChe68058637 还有独立党派。
 
