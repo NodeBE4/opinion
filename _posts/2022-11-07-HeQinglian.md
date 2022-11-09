@@ -133,7 +133,7 @@ Re @xxj2040 说的是思想，不是皮囊。后者没人能做到，前者有�
 
 ### 30: [2022-11-08 05:51:49+08:00 推文](https://twitter.com/HeQinglian/status/1589737413706141696)
 
-主张各种性变态，包括为恋童癖正名的，都是民主党人、左派。<br>共和党人有，但不是MAGA，是民主党资助的RINO，比如林肯项目的参与者。<br>这个人只是因为某人转推才落入我时间线。我已经准备切割了。 <a href="https://twitter.com/LJardine93/status/1589082331436154880" target="_blank" rel="noopener noreferrer">https://twitter.com/LJardine93/status/1589082331436154880</a>
+主张各种性变态，包括为恋童癖正名的，都是民主党人、左派。<br>共和党人有，但不是MAGA，是民主党资助的RINO，比如林肯项目的参与者。<br>这个人只是因为某人转推才落入我时间线。我已经准备切割了。
 
 ### 31: [2022-11-08 05:56:12+08:00 推文](https://twitter.com/HeQinglian/status/1589738514832592903)
 
@@ -254,4 +254,48 @@ Re @catland95581230 目前还挺乌而且只会唠叨那几句的人，与民主
 ### 60: [2022-11-09 07:20:26+08:00 推文](https://twitter.com/HeQinglian/status/1590122100299567104)
 
 Re @catland95581230 我已经说过了，如果只注重Rally的人气，不从投票监管这一基层工作做起，没用。<br>实话实说，美国的亲儿女都不在意美国变成啥样，我们只能尽力而为。
+
+### 61: [2022-11-09 22:14:17+08:00 推文](https://twitter.com/HeQinglian/status/1590347043910086656)
+
+Re @sonicbeckham 你还有正常思维与阅读能力么？
+
+### 62: [2022-11-09 22:20:55+08:00 推文](https://twitter.com/HeQinglian/status/1590348713322741762)
+
+Re @XiaGuo10 我谈的不是觉醒问题，谈的是做票问题。<br>我无论如何不相信，愿意正常生活的美国选民低于51%，果如此，民主党为何腆着脸皮、厚颜无耻地坚持将选举日变成选举季，非要邮寄选票与延迟计票？
+
+### 63: [2022-11-09 22:26:26+08:00 推文](https://twitter.com/HeQinglian/status/1590350104791519232)
+
+Re @baojianella 请节哀保重。<br>公道自在人心，历史一定会还公道给鲍老。
+
+### 64: [2022-11-09 22:29:48+08:00 推文](https://twitter.com/HeQinglian/status/1590350951390810112)
+
+Re @Isabel_3299 你那个州长的坎普是共和党人，但在关键时刻却为民主党立了功（民主党公开表彰了他的战友州务卿）。😅
+
+### 65: [2022-11-09 22:34:54+08:00 推文](https://twitter.com/HeQinglian/status/1590352232351813632)
+
+好消息成双：据美联社11月8日最新消息，川普时期曾任白宫发言人、现年40岁的桑德斯在本次中期选举中击败了民主党籍对手琼斯（Chris Jones），成为阿肯色州第一位女州长。<br><br>The Hill: GOP takes out Jan. 6 panel member Luria in Virginia<br><br><img style="" src="https://pbs.twimg.com/media/FhIMnyhXwAArt1u?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://trib.al/WoQgXUX" target="_blank" rel="noopener noreferrer">https://trib.al/WoQgXUX</a>
+
+### 66: [2022-11-09 23:01:43+08:00 推文](https://twitter.com/HeQinglian/status/1590358982278860800)
+
+参议院：民主党46   共和党47，正在决战的6个州，NV粉红（计票72%），WI粉红（计票99%） NC共和党 50.7%,计票98%，OH共和党53.3，计票97%。<br>众议院民主党172，共和党199，但剩余的州有半数的计票完成率不到50%。
+
+### 67: [2022-11-09 23:16:31+08:00 推文](https://twitter.com/HeQinglian/status/1590362706388787201)
+
+Re @zhixiangziyou 今年中选期间，没任何理由大规模邮寄选票。只要保留这个邮寄选票与诞迟计票，全美邮局工会是民主党的铁臂，这邮寄选票真是可以按需制造。
+
+### 68: [2022-11-09 23:30:00+08:00 推文](https://twitter.com/HeQinglian/status/1590366101841797120)
+
+Re @catland95581230 过几小时再看吧。亚历桑那这个州，共和党也算努力，奈不何RINO麦氏党与民主党共谋。
+
+### 69: [2022-11-09 23:30:01+08:00 推文](https://twitter.com/HeQinglian/status/1590366102277586944)
+
+Re @catland95581230 过几小时再看吧。亚历桑那这个州，共和党也算努力，奈不何RINO麦氏党与民主党共谋。
+
+### 70: [2022-11-09 23:33:15+08:00 推文](https://twitter.com/HeQinglian/status/1590366918971576325)
+
+Re @KELMAND1 2022 US elections<br>你去看这个，刚更新的。
+
+### 71: [2022-11-09 23:42:32+08:00 推文](https://twitter.com/HeQinglian/status/1590369252439384065)
+
+Re @catland95581230 WSJ 就是将所谓独立党派算在民主党一边。确实也应该这样算，因为人家号称独立，其实左得出奇。 <a href="https://www.wsj.com/election/2022/general" target="_blank" rel="noopener noreferrer">https://www.wsj.com/election/2022/general</a>
 
