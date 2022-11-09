@@ -77,3 +77,17 @@ Unfortunately, I may not be of much help here. For one I'm in grad school now an
 
 A major caveat to the above sources is that they mostly concentrate on European or European-led units in the eastern theatre of the war, rather than the larger confrontations between the Taiping and the Hunanese militia in the west. Platt tries to balance between the two ends, and Lindley does record one or two confrontations further up the Yangtze to be fair, but be very aware that the focus here skews eastward towards the European-involved part of the fighting, rather than the more 'peer' conflict in the west.
 
+### 916: [East Asia - AD 1802 - WIP - [4983x6637] [OC]](https://old.reddit.com/r/Map_Porn/comments/yqmyd0/east_asia_ad_1802_wip_4983x6637_oc/), submitted on 2022-11-09 23:59:07+08:00.
+
+----- __916.1__ -----2022-11-10 05:42:29+08:00:
+
+So, ~~three~~ four suggestions, of varying levels of practicality:
+
+The first is to suggest not having a distinct colouration for China Proper vs other parts of the Qing Empire. That's not to say that the Qing should be treated as a homogeneous, 'flat' entity, but by having China's colour more saturated it implies a certain Sinocentrism when the Qing was itself a distinctly multi-constituent formation.
+
+Secondly, the Qing only controlled the west coast of Taiwan at this time. A quick browse of Qing-era maps like the ones [here](https://qingmaps.org/) will show that the interior was unmapped and beyond state control, at this time still being ruled by independent indigenous polities.
+
+Thirdly, Japan was not really a singular entity: a gander at [this article](https://t.co/VkPyRIBKFV), which summarises the goals of the still-ongoing Digital Atlas of Tokugawa Japan, ought to reveal the serious complexity of the internal structures of rule during the Edo bakufu – in essence, Japan was less a unitary state than an unequal federation of states under Tokugawa hegemony.
+
+Looking specifically at the Pearl River Delta for a sec, there are places here that should be marked and places here that should not. In 1802, Hong Kong and Shenzhen did not meaningfully exist; on the flip-side, Macau is an absolutely vital inclusion that is very noticeable by its absence. Looking northward for a sec, there are plenty of ahistorical Russian place names in still-Qing-held Manchuria. I assume part of this is because of the WIP issue, but still, worth flagging.
+
