@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-11-09
+date: 2022-11-10
 from: https://twitter.com/HeQinglian/status/1589288925755232256
 layout: post
 tags:
@@ -117,7 +117,7 @@ Re @seeyoua22819375 @xxj2040 高玉宝、雷锋至少是正常人、普通人。
 
 ### 26: [2022-11-08 05:20:39+08:00 推文](https://twitter.com/HeQinglian/status/1589729566943498240)
 
-RT He Qinglian<br>“习近平思想”将中国导向何方？<br><br>人民经济、人类命运共同体、绿色经济是“道”，用来争当“世界领袖”的理论工具，这点习继承了毛的衣钵<br>加强党对经济工作的领导、坚持公有制为主体、供给侧改革谓之“术”，这是习对邓小平理论的继承，“术”可以随时调整，可以“摸着石头过河”，允许试错<br><br>自由亚洲电台: 评论 | #何清涟 @HeQinglian：“#习近平思想”将中国导向何方？<br> <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter</a>
+“习近平思想”将中国导向何方？<br><br>人民经济、人类命运共同体、绿色经济是“道”，用来争当“世界领袖”的理论工具，这点习继承了毛的衣钵<br>加强党对经济工作的领导、坚持公有制为主体、供给侧改革谓之“术”，这是习对邓小平理论的继承，“术”可以随时调整，可以“摸着石头过河”，允许试错<br><br>自由亚洲电台: 评论 | #何清涟 @HeQinglian：“#习近平思想”将中国导向何方？<br> <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter</a>
 
 ### 27: [2022-11-08 05:37:04+08:00 推文](https://twitter.com/HeQinglian/status/1589733697666056192)
 
@@ -298,4 +298,12 @@ Re @KELMAND1 2022 US elections<br>你去看这个，刚更新的。
 ### 71: [2022-11-09 23:42:32+08:00 推文](https://twitter.com/HeQinglian/status/1590369252439384065)
 
 Re @catland95581230 WSJ 就是将所谓独立党派算在民主党一边。确实也应该这样算，因为人家号称独立，其实左得出奇。 <a href="https://www.wsj.com/election/2022/general" target="_blank" rel="noopener noreferrer">https://www.wsj.com/election/2022/general</a>
+
+### 72: [2022-11-10 00:44:28+08:00 推文](https://twitter.com/HeQinglian/status/1590384840574402561)
+
+参议院选举结果 ：48：48 。民主党的票里包含两个极左独立党派。还有四个州在拼。 <a href="https://www.wsj.com/livecoverage/election-midterms-2022" target="_blank" rel="noopener noreferrer">https://www.wsj.com/livecoverage/election-midterms-2022</a>
+
+### 73: [2022-11-10 00:46:12+08:00 推文](https://twitter.com/HeQinglian/status/1590385278048354304)
+
+Re @Wu_Zhi 问题主要出在几个摇摆州，2020的老套路。<br>不过，我不认为乔治亚州是真赢了，那是共和党的一块病。共和党RINO太多。
 
