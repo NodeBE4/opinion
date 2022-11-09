@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-11-08
+date: 2022-11-09
 from: https://twitter.com/cnmediaproject/status/1589809476412280834
 layout: post
 tags:
@@ -22,4 +22,12 @@ We take a look at the "Three Imperatives," one of the latest additions to the sp
 ### 2: [2022-11-08 17:21:38+08:00 推文](https://twitter.com/cnmediaproject/status/1589911011083321344)
 
 Today, as media across the country celebrate Chinese Journalists’ Day, there can be no question who China’s journalists are meant to serve. <a href="https://chinamediaproject.org/2022/11/08/the-good-journalist/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/11/08/the-good-journalist/</a>
+
+### 3: [2022-11-09 09:25:47+08:00 推文](https://twitter.com/cnmediaproject/status/1590153644779130888)
+
+We wrote yesterday about the meaning of a "good journalist" in China today as defined by the Chinese Communist Party, with its emphasis on obedience and stronger language on saying in the lines. But . . . <a href="https://chinamediaproject.org/2022/11/08/the-good-journalist/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/11/08/the-good-journalist/</a>
+
+### 4: [2022-11-09 09:27:44+08:00 推文](https://twitter.com/cnmediaproject/status/1590154137924423680)
+
+It's important to remember that there are still many journalists in China, media start-ups and so on, working to tell more complicated stories. For more, check out our Interviews section, where we talk to some, like Lucia Shen.<br><br>China Media Project: We wrote yesterday about the meaning of a "good journalist" in China today as defined by the Chinese Communist Party, with its emphasis on obedience and stronger language on saying in the lines. But . . .<br> <a href="https://chinamediaproject.org/2022/11/08/the-good-journalist/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/11/08/the-good-journalist/</a>
 
