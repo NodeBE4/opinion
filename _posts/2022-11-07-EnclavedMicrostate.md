@@ -59,3 +59,21 @@ The chronological compression of Great Walls is not a novel development, and ind
 
 For further reading, the definitive treatment of the Great Wall in English remains Arthur Waldron's *The Great Wall of China: From History to Myth* (1989).
 
+### 915: [What did pitched combat during the Taiping rebellion look like? How would it compare to the pitched battles of Europe/the American Civil war around the same time?](https://old.reddit.com/r/AskHistorians/comments/yq4yiz/what_did_pitched_combat_during_the_taiping/), submitted on 2022-11-09 09:36:48+08:00.
+
+----- __915.1__ -----2022-11-10 02:04:37+08:00:
+
+So, the unfortunate answer is we don't really have a good sense of it, at least not at the scholarship level. And there are a few reasons for this. Firstly, operational military history has not had as much interest from historians of China as it has for histories of warfare in other contexts. Secondly, the Chinese historiographical tradition is not as tactically detailed as the European. European historians until the last century or two came from a background in which the elite served both military and civil functions, whereas for much of Chinese history, warfare and the martial sphere were considered beneath the literati elite. That is not to say we do not have some degree of detailed operational history for large parts of Chinese military history, but the focus of our sources tends to be somewhat elsewhere. I am certain we *could* reconstruct the Taiping War in terms of operational and tactical history from the sources we have, but as it stands, nobody really has done yet. Arguably the closest we get is from Jen Yu-Wen, who gives a decent accounting of campaigns in *The Taiping Revolutionary Movement*, but he really doesn't cover *battles* in depth.
+
+Unfortunately, I may not be of much help here. For one I'm in grad school now and don't have the same level of time or energy to devote to writing something totally original as an answer on the sub these days, and for another there is a source issue here, as surviving Taiping sources are light on tactical detail compared to Qing sources, and while the former isn't too hard to muddle through, unfortunately my grasp of 19th century high-register clerical Chinese is something still being worked on, and I simply don't have the necessary time and energy to work through these sources at the moment. What I will do, however, is point you to a few English-language sources that may be of help in at least getting a partial sense of the 'face of battle' in the Taiping conflict.
+
+* Stephen R. Platt's *Autumn in the Heavenly Kingdom* is a relatively 'big picture' account, but it does include a decent amount of campaign and battle detail, just not a lot.
+
+* Augustus Lindley's *Ti-Ping Tien-Kwoh* (1866) is both a history of the Taiping and a personal narrative, the latter of which encompasses a few field battles Lindley personally participated in on the Taiping side.
+
+* Andrew Wilson's *The Ever-Victorious Army* (1868) is a triumphalist account of the Ever-Victorious Army under Charles Gordon, one which must be read with a mountain of salt, but which as an operational history should be at least decent.
+
+* Prosper Giquel's *A Journal of the Chinese Civil War, 1864*, translated by Stephen Leibo in 1985, is about the Ever-Triumphant Army, officially the Franco-Chinese Corps of Zhejiang, which was the French equivalent of the Ever-Victorious Army. Giquel doesn't go into huge tactical detail but he does have some material.
+
+A major caveat to the above sources is that they mostly concentrate on European or European-led units in the eastern theatre of the war, rather than the larger confrontations between the Taiping and the Hunanese militia in the west. Lindley does record one or two confrontations further up the Yangtze to be fair, but be very aware that the focus here skews eastward towards the European-involved part of the fighting, rather than the more 'peer' conflict in the west.
+
