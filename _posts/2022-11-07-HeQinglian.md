@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-11-10
+date: 2022-11-11
 from: https://twitter.com/HeQinglian/status/1589288925755232256
 layout: post
 tags:
@@ -117,7 +117,7 @@ Re @seeyoua22819375 @xxj2040 高玉宝、雷锋至少是正常人、普通人。
 
 ### 26: [2022-11-08 05:20:39+08:00 推文](https://twitter.com/HeQinglian/status/1589729566943498240)
 
-RT He Qinglian<br>“习近平思想”将中国导向何方？<br><br>人民经济、人类命运共同体、绿色经济是“道”，用来争当“世界领袖”的理论工具，这点习继承了毛的衣钵<br>加强党对经济工作的领导、坚持公有制为主体、供给侧改革谓之“术”，这是习对邓小平理论的继承，“术”可以随时调整，可以“摸着石头过河”，允许试错<br><br>自由亚洲电台: 评论 | #何清涟 @HeQinglian：“#习近平思想”将中国导向何方？<br> <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter</a>
+“习近平思想”将中国导向何方？<br><br>人民经济、人类命运共同体、绿色经济是“道”，用来争当“世界领袖”的理论工具，这点习继承了毛的衣钵<br>加强党对经济工作的领导、坚持公有制为主体、供给侧改革谓之“术”，这是习对邓小平理论的继承，“术”可以随时调整，可以“摸着石头过河”，允许试错<br><br>自由亚洲电台: 评论 | #何清涟 @HeQinglian：“#习近平思想”将中国导向何方？<br> <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter</a>
 
 ### 27: [2022-11-08 05:37:04+08:00 推文](https://twitter.com/HeQinglian/status/1589733697666056192)
 
@@ -133,7 +133,7 @@ Re @xxj2040 说的是思想，不是皮囊。后者没人能做到，前者有�
 
 ### 30: [2022-11-08 05:51:49+08:00 推文](https://twitter.com/HeQinglian/status/1589737413706141696)
 
-主张各种性变态，包括为恋童癖正名的，都是民主党人、左派。<br>共和党人有，但不是MAGA，是民主党资助的RINO，比如林肯项目的参与者。<br>这个人只是因为某人转推才落入我时间线。我已经准备切割了。 <a href="https://twitter.com/LJardine93/status/1589082331436154880" target="_blank" rel="noopener noreferrer">https://twitter.com/LJardine93/status/1589082331436154880</a>
+主张各种性变态，包括为恋童癖正名的，都是民主党人、左派。<br>共和党人有，但不是MAGA，是民主党资助的RINO，比如林肯项目的参与者。<br>这个人只是因为某人转推才落入我时间线。我已经准备切割了。
 
 ### 31: [2022-11-08 05:56:12+08:00 推文](https://twitter.com/HeQinglian/status/1589738514832592903)
 
@@ -378,4 +378,28 @@ Re @chinayvan 民主党只要政权，换个人也一样。
 ### 91: [2022-11-10 22:29:11+08:00 推文](https://twitter.com/HeQinglian/status/1590713182611419137)
 
 历史经验告诉我们，由年轻人导向的社会一定是悲剧收场。<br>20世纪以来世界严重的左倾从欧美（主要是欧洲）蔓延至世界，在欧洲是两次大战与共产主义思潮导引下的议会道路，产生了苏联，在中国则是中国共产党问世并夺取政权。1930年代后期至1940年代，革命青年纷纷投奔延安，下场大家都知道。<br><br>陶瑞 TaoRay: 宾夕法尼亚州一个已经去世的民主党州议员竟然再次被选上。我这些年观察下来民主党的铁票仓是越来越铁，尤其是在年轻人当中。因为他们已经被洗脑，把这看成敌我关系、阶级立场问题。在大学里面我就看到无数学生拿到选票，把民主党的勾一遍搞定。而保守派是政策导向，票往往不是那么铁。<br><br><img style="" src="https://pbs.twimg.com/media/FhKjfkBUYAAlzA0?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 92: [2022-11-11 00:01:30+08:00 推文](https://twitter.com/HeQinglian/status/1590736414886760449)
+
+Re @JianglinLi 按照民主党的逻辑，必须数到民主党的票多出共和党，选举才算结束。<br>美国邮政工会正在加紧让民主党员工加盖中选之前的日期邮戳——这把戏，2020年玩过大规模的。
+
+### 93: [2022-11-11 00:09:10+08:00 推文](https://twitter.com/HeQinglian/status/1590738345797517312)
+
+Re @whisperCDX 在你的选项里，原来世界上只有25岁以下与65岁以上这两类人群？
+
+### 94: [2022-11-11 00:11:04+08:00 推文](https://twitter.com/HeQinglian/status/1590738823897837570)
+
+Re @VictorHarford 总有人吃错药，经常处于精神错乱状态，你说A他就跳到B。<br>我说的是由年轻人主导的社会，你说的是年轻人的发言权，弄清楚一点：这是两回事情。
+
+### 95: [2022-11-11 00:43:42+08:00 推文](https://twitter.com/HeQinglian/status/1590747036684783616)
+
+Re @KhanBerke2 不读历史，没法子。<br>好歹去读一下霍布斯邦的《极权的年代》，知道左派青年如何闹欧洲这段史实吧。
+
+### 96: [2022-11-11 00:45:14+08:00 推文](https://twitter.com/HeQinglian/status/1590747419570237440)
+
+Re @JianglinLi 他们正在展示自己的阴谋——阳谋，公开偷窃。
+
+### 97: [2022-11-11 00:53:16+08:00 推文](https://twitter.com/HeQinglian/status/1590749441254125568)
+
+Re @JianglinLi 本人来美20年，亲见几度共和党掌三权却没做成大事的情况，因此有了茶党。<br>2020年，乔治亚州是共和党州长与州务卿当家、议会也势均力敌的情况下，成了反杀本党的堡垒；宾州州议会两院也是共和党占多数。
 
