@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-11-10
+date: 2022-11-11
 from: https://twitter.com/realcaixia/status/1589308561561358338
 layout: post
 tags:
@@ -29,5 +29,17 @@ title: 'Twitter @蔡霞: 2022-11-07~2022-11-13'
 
 ### 4: [2022-11-10 22:09:35+08:00 推文](https://twitter.com/realcaixia/status/1590708252110557184)
 
-昨天临登机时传来噩耗：鲍老谢世了。一路感伤不已。鲍老是中国人争取自由民主政治转型的标志性人物，作为追随老一代志士仁人的后来者和晚辈，鲍老的逝世，除了深深的悲哀，还有一幕幕往事都浮现在脑中。记得炎黄春秋老人们曾殷切嘱咐：我们都老了，事情还要继续做下去，要你们接上来啊。鲍老不朽！哀悼<br><br>高瑜: 【鮑彤90答謝辭】人是天地之間一個非常渺小的歷史的存在，在這非常渺小的歷史存在當中，我能夠和各位肝膽相照，長期互相認識，我感到這是我的榮譽。我的90不90並不重要，重要的是我們大家要爭取的未來，要爭取的今天，要在今天做自己能夠做、應該做的事情，必須做的事情，把它做好。<br><br><img style="" src="https://pbs.twimg.com/media/FgzmJW5UAAAB1xK?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/gaoyu200812/status/1588735404769161217" target="_blank" rel="noopener noreferrer">https://twitter.com/gaoyu200812/status/1588735404769161217</a>
+昨天临登机时传来噩耗：鲍老谢世了。一路感伤不已。鲍老是中国人争取自由民主政治转型的标志性人物，作为追随老一代志士仁人的后来者和晚辈，鲍老的逝世，除了深深的悲哀，还有一幕幕往事都浮现在脑中。记得炎黄春秋老人们曾殷切嘱咐：我们都老了，事情还要继续做下去，要你们接上来啊。鲍老不朽！哀悼<br><br>高瑜: 【鮑彤90答謝辭】人是天地之間一個非常渺小的歷史的存在，在這非常渺小的歷史存在當中，我能夠和各位肝膽相照，長期互相認識，我感到這是我的榮譽。我的90不90並不重要，重要的是我們大家要爭取的未來，要爭取的今天，要在今天做自己能夠做、應該做的事情，必須做的事情，把它做好。<br><br><img style="" src="https://pbs.twimg.com/media/FgzmJW5UAAAB1xK?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2022-11-11 01:57:38+08:00 推文](https://twitter.com/realcaixia/status/1590765640356614145)
+
+Re @htls3689 @Js_SydneyAu ⬆️是洗地五毛。
+
+### 6: [2022-11-11 02:21:05+08:00 推文](https://twitter.com/realcaixia/status/1590771543810134017)
+
+好珍贵的影像资料。<br><br>正视历史▪️毋忘六四🇺🇸: #鮑彤 ：“ #六四 最大的推手，唯恐天下不乱的，正是以邓小平为首的中共”<br><br>鮑老千古 RIP<br><br>#毋忘六四<br><br><video src="https://video.twimg.com/ext_tw_video/1590446456934379520/pu/vid/854x480/MKirc9OlumfUOqUu.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1590446456934379520/pu/img/uNaSJoE_unxIY6bW.jpg"></video>
+
+### 7: [2022-11-11 02:52:17+08:00 推文](https://twitter.com/realcaixia/status/1590779394011893775)
+
+这些太珍贵的影像资料，希望更多的人能够看到。<br><br>DW 中文- 德国之声: 反对 #六四 武力镇压的中共前总书记赵紫阳秘书 #鲍彤 11月9日以90岁高龄离世。<br><br>1989年6月4日的那一场悲剧，让包括鲍彤和他的儿子 #鲍朴 在内，无数中国人的命运发生重大改变。<br><br>鲍家父子2019年接受德国之声专访的内容如今已成追忆。<br><br><video src="https://video.twimg.com/amplify_video/1590537619724591104/vid/1280x720/V0yrgfyuQ6tVzwiK.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1590537619724591104/img/g8QsZpsPPwWnKtKB.jpg"></video>
 
