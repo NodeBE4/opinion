@@ -319,3 +319,31 @@ Re @tocy2000 不用提了。
 
 Re @JohnChe68058637 还有独立党派。
 
+### 77: [2022-11-10 07:55:12+08:00 推文](https://twitter.com/HeQinglian/status/1590493239605624833)
+
+更新：<br>民主党得183个席位，失去8个原有席位；共和党得207个席位，得到6个新的席位。<br>参议院是民主党48个席位（含两个左派独立党派），共和党49个席位。<br>共和党选民加油，看紧投票箱。<br><br>He Qinglian: 即时消息：435个众议院席位中，决出379个：<br>民主党得176席，失去6个原有席位；共和党得203，赢了3个新席位。<br>防止偷票，只要堵住这条路（哪怕只堵住六州中的三个），共和党必胜。<br> <a href="https://www.google.com/search?q=2022+election+results%EF%BC%8CHouse&amp;sxsrf=ALiCzsafr17m8Hhv6-cLVMTYdA0AqIwR8A%3A1668017729223&amp;ei=Qe5rY8eZDYmj5NoP9beT8AY&amp;ved=0ahUKEwiHvuqh2qH7AhWJEVkFHfXbBG4Q4dUDCBA&amp;uact=5&amp;oq=2022+election+results%EF%BC%8CHouse&amp;gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIGCAAQFhAeOgQIABBHSgQIQRgASgQIRhgAUMYIWOwZYIYjaABwAngAgAFsiAGvA5IBAzUuMZgBAKABAcgBBsABAQ&amp;sclient=gws-wiz-serp" target="_blank" rel="noopener noreferrer">https://www.google.com/search?q=2022+election+results%EF%BC%8CHouse&amp;sxsrf=ALiCzsafr17m8Hhv6-cLVMTYdA0AqIwR8A%3A1668017729223&amp;ei=Qe5rY8eZDYmj5NoP9beT8AY&amp;ved=0ahUKEwiHvuqh2qH7AhWJEVkFHfXbBG4Q4dUDCBA&amp;uact=5&amp;oq=2022+election+results%EF%BC%8CHouse&amp;gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIGCAAQFhAeOgQIABBHSgQIQRgASgQIRhgAUMYIWOwZYIYjaABwAngAgAFsiAGvA5IBAzUuMZgBAKABAcgBBsABAQ&amp;sclient=gws-wiz-serp</a>
+
+### 78: [2022-11-10 07:59:49+08:00 推文](https://twitter.com/HeQinglian/status/1590494398575706113)
+
+Re @zhixiangziyou 加州再多进口点非移，然后一州就拥有三分之选举人票，通杀通吃。<br>纽约也如此，保守派选民永无翻身之日。😅
+
+### 79: [2022-11-10 08:14:19+08:00 推文](https://twitter.com/HeQinglian/status/1590498050169925633)
+
+Re @FranzMendelsso1 可能短期内是49：50（R)，但乔治亚州的还得在1月决选，共和党真的要努力了，这是一个选举舞弊模范州。州务卿是共和党人，但民主党却感谢他为2020年大选立了奇功。
+
+### 80: [2022-11-10 08:15:30+08:00 推文](https://twitter.com/HeQinglian/status/1590498346002960385)
+
+Re @WEICHUNNNN 我这是比喻。实则机器做票，邮寄选票，延长计票，这些是民主党长项，共和党人没法看住。
+
+### 81: [2022-11-10 08:16:06+08:00 推文](https://twitter.com/HeQinglian/status/1590498498440753153)
+
+Re @wbn19971 那就少说为佳。记得前几天你说过自己对美国不了解。
+
+### 82: [2022-11-10 08:24:25+08:00 推文](https://twitter.com/HeQinglian/status/1590500591918526466)
+
+彭博社的有即时显示，从图示来看，共和党除了已确定的207个席位（路透报208个），占领先优势的还有13个席位，维持这种领先优势，共和党能够夺得众议院。<br>佩洛西做不成议长，是件大快人心事。<br><br>He Qinglian: 更新：<br>民主党得183个席位，失去8个原有席位；共和党得207个席位，得到6个新的席位。<br>参议院是民主党48个席位（含两个左派独立党派），共和党49个席位。<br>共和党选民加油，看紧投票箱。<br> <a href="https://twitter.com/HeQinglian/status/1590408750174982144" target="_blank" rel="noopener noreferrer">https://twitter.com/HeQinglian/status/1590408750174982144</a>
+
+### 83: [2022-11-10 08:32:04+08:00 推文](https://twitter.com/HeQinglian/status/1590502517653540865)
+
+Re @Corona_Requiem 确实如此。有的民主党州还扬言说要慢慢计票，哪怕整个圣诞期间都计票也在所不计。
+
