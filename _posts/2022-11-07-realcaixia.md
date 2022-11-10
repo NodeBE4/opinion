@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-11-09
+date: 2022-11-10
 from: https://twitter.com/realcaixia/status/1589308561561358338
 layout: post
 tags:
@@ -26,4 +26,8 @@ title: 'Twitter @蔡霞: 2022-11-07~2022-11-13'
 ### 3: [2022-11-09 10:36:26+08:00 推文](https://twitter.com/realcaixia/status/1590171424937103360)
 
 大兴言论罪和文字狱是习新时代的本质特征，充分表明习的所谓“全过程民主“何等虚伪何等流氓。<br><br>韩连潮: 【恶攻罪又借尸还魂了】中共高官魏彬近以恶意诋毁党和国家领导人遭到惩治，过去胆敢批评毛泽东及其亲密战友林彪者都会被以恶攻罪施以严刑，今天的“妄议”和“恶诋”与当年恶攻罪如出一辙。<br>顺便提一句，官方通报未提网络广为流传的猪论，但列出魏的罪状之一是“抨击反腐败工作”，“抨击”用得真是恰到好处！<br><br><img style="" src="https://pbs.twimg.com/media/FhCxuEcaEAAayEv?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 4: [2022-11-10 22:09:35+08:00 推文](https://twitter.com/realcaixia/status/1590708252110557184)
+
+昨天临登机时传来噩耗：鲍老谢世了。一路感伤不已。鲍老是中国人争取自由民主政治转型的标志性人物，作为追随老一代志士仁人的后来者和晚辈，鲍老的逝世，除了深深的悲哀，还有一幕幕往事都浮现在脑中。记得炎黄春秋老人们曾殷切嘱咐：我们都老了，事情还要继续做下去，要你们接上来啊。鲍老不朽！哀悼<br><br>高瑜: 【鮑彤90答謝辭】人是天地之間一個非常渺小的歷史的存在，在這非常渺小的歷史存在當中，我能夠和各位肝膽相照，長期互相認識，我感到這是我的榮譽。我的90不90並不重要，重要的是我們大家要爭取的未來，要爭取的今天，要在今天做自己能夠做、應該做的事情，必須做的事情，把它做好。<br><br><img style="" src="https://pbs.twimg.com/media/FgzmJW5UAAAB1xK?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
