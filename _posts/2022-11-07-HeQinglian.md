@@ -117,7 +117,7 @@ Re @seeyoua22819375 @xxj2040 高玉宝、雷锋至少是正常人、普通人。
 
 ### 26: [2022-11-08 05:20:39+08:00 推文](https://twitter.com/HeQinglian/status/1589729566943498240)
 
-“习近平思想”将中国导向何方？<br><br>人民经济、人类命运共同体、绿色经济是“道”，用来争当“世界领袖”的理论工具，这点习继承了毛的衣钵<br>加强党对经济工作的领导、坚持公有制为主体、供给侧改革谓之“术”，这是习对邓小平理论的继承，“术”可以随时调整，可以“摸着石头过河”，允许试错<br><br>自由亚洲电台: 评论 | #何清涟 @HeQinglian：“#习近平思想”将中国导向何方？<br> <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter</a>
+RT He Qinglian<br>“习近平思想”将中国导向何方？<br><br>人民经济、人类命运共同体、绿色经济是“道”，用来争当“世界领袖”的理论工具，这点习继承了毛的衣钵<br>加强党对经济工作的领导、坚持公有制为主体、供给侧改革谓之“术”，这是习对邓小平理论的继承，“术”可以随时调整，可以“摸着石头过河”，允许试错<br><br>自由亚洲电台: 评论 | #何清涟 @HeQinglian：“#习近平思想”将中国导向何方？<br> <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter</a>
 
 ### 27: [2022-11-08 05:37:04+08:00 推文](https://twitter.com/HeQinglian/status/1589733697666056192)
 
@@ -414,4 +414,16 @@ Re @zhixiangziyou 预料之中。上次作弊，没人付出代价，当然继�
 ### 100: [2022-11-11 03:20:48+08:00 推文](https://twitter.com/HeQinglian/status/1590786568737783808)
 
 巨资注入乔州 争夺参院最后一个未决席位<br>美国参议院民主党竞选机构11月10日宣布，为乔治亚州联邦参议员决选投入700万美元。这是在两党争夺参议院控制权的过程中最新投入的一笔巨额资金。<br>各位是否记得，2020年乔州大选风波迭起？车祸、半夜灌票、中国身影？包括贿赂问题。
+
+### 101: [2022-11-11 05:47:36+08:00 推文](https://twitter.com/HeQinglian/status/1590823515393073154)
+
+Re @Ybhu9 不仅提出了，还诉至最高法院。最高法院不接案子。<br>共和党有人提出，并且召集开会商讨如何办。但共和党的RINO根本不去，无法达到法定人数。
+
+### 102: [2022-11-11 05:49:12+08:00 推文](https://twitter.com/HeQinglian/status/1590823915047178240)
+
+Re @noxingluo 哪有那么傻？这些人的家属被邀请至中国访问；请他们购买多米尼机器。
+
+### 103: [2022-11-11 06:09:58+08:00 推文](https://twitter.com/HeQinglian/status/1590829141825585152)
+
+并非玩笑。<br>当年胡锡进在选前曾说过乔治亚州的华人社团对当地政治影响力很大。“杨千刀”也曾在决选前50天带领大批人住到乔州去。各位预测一下，明年1月乔州决选，北京会不会再帮拜登集团的忙？<br><br>He Qinglian: 巨资注入乔州 争夺参院最后一个未决席位<br>美国参议院民主党竞选机构11月10日宣布，为乔治亚州联邦参议员决选投入700万美元。这是在两党争夺参议院控制权的过程中最新投入的一笔巨额资金。<br>各位是否记得，2020年乔州大选风波迭起？车祸、半夜灌票、中国身影？包括贿赂问题。<br>
 

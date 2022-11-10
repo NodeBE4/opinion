@@ -61,7 +61,7 @@ Re @ihuyang @liqunchen 看样子你年轻，没见过铅字印刷版。
 
 ### 12: [2022-01-04 03:38:08+08:00 推文](https://twitter.com/realcaixia/status/1478088305082343432)
 
-裹挟9500万党奴的黑帮老大公开挑明向被裹挟的人开刀，习曾说要防止“祸起萧墙”，这意味着二十大前中共党内将血光一片。2022，谁是被开刀的第一个？<br><br>韩连潮: 【习近平又磨刀霍霍】中共党媒《求是》2022年第一期登了习近平以史为鉴的讲话，称中共“没有任何自己特殊的利益“，提出向党内被利益集团、权势团体、特权阶层“所裹挟的人开刀”，看到让人笑掉大牙，试问习主席，你不去惩治裹挟人的人，反而拿受害者开刀，这是什么大套路？<br><br><img style="" src="https://pbs.twimg.com/media/FIMS0O5XEAEzKKQ?format=jpg&name=orig" referrerpolicy="no-referrer">
+裹挟9500万党奴的黑帮老大公开挑明向被裹挟的人开刀，习曾说要防止“祸起萧墙”，这意味着二十大前中共党内将血光一片。2022，谁是被开刀的第一个？<br><br>韩连潮: 【习近平又磨刀霍霍】中共党媒《求是》2022年第一期登了习近平以史为鉴的讲话，称中共“没有任何自己特殊的利益“，提出向党内被利益集团、权势团体、特权阶层“所裹挟的人开刀”，看到让人笑掉大牙，试问习主席，你不去惩治裹挟人的人，反而拿受害者开刀，这是什么大套路？<br><br><img style src="https://pbs.twimg.com/media/FIMS0O5XEAEzKKQ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 13: [2022-01-04 06:17:59+08:00 推文](https://twitter.com/realcaixia/status/1478128535327887361)
 
@@ -101,7 +101,7 @@ Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style src="
 
 ### 22: [2022-01-05 22:40:25+08:00 推文](https://twitter.com/realcaixia/status/1478738161132093449)
 
-偶然读到了这篇短文，好心酸。这是大陆最底层民生艰难的真实叙述，是一颗悲苦的灵魂最后的呼喊。希望更多的网友来读这篇带着孩子稚嫩笔迹的短文。特此推荐。<br><br>请勿提我的名字🙏: 小时候学朱自清的背影，最让我感动的就是父亲肥胖的背影那段描写，这篇短文再次让我感动了，小文不是视频，没办法摆拍吧<br><br><img style src="https://pbs.twimg.com/media/FITXz2tVcAErygy?format=jpg&name=orig" referrerpolicy="no-referrer">
+偶然读到了这篇短文，好心酸。这是大陆最底层民生艰难的真实叙述，是一颗悲苦的灵魂最后的呼喊。希望更多的网友来读这篇带着孩子稚嫩笔迹的短文。特此推荐。<br><br>请勿提我的名字🙏: 小时候学朱自清的背影，最让我感动的就是父亲肥胖的背影那段描写，这篇短文再次让我感动了，小文不是视频，没办法摆拍吧<br><br><img style="" src="https://pbs.twimg.com/media/FITXz2tVcAErygy?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 23: [2022-01-05 22:59:27+08:00 推文](https://twitter.com/realcaixia/status/1478742949714399236)
 
@@ -109,7 +109,7 @@ Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style src="
 
 ### 24: [2022-01-06 08:15:19+08:00 推文](https://twitter.com/realcaixia/status/1478882837499682817)
 
-有一天，这一幕应该发生在京城。争自由争民主是所有人的权利。<br><br>韩连潮: 【勇敢的哈萨克人】哈萨克人民对30多年独裁统治的不满终于爆发，出现自苏联解体后最大的抗议浪潮，独裁者雕像被打翻在地；为哈萨克人民叫好，盼他们取得胜利。<br><br><img style="" src="https://pbs.twimg.com/media/FIX8weiWQAYA5HU?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIX8y5wXIAo3Pov?format=jpg&name=orig" referrerpolicy="no-referrer">
+有一天，这一幕应该发生在京城。争自由争民主是所有人的权利。<br><br>韩连潮: 【勇敢的哈萨克人】哈萨克人民对30多年独裁统治的不满终于爆发，出现自苏联解体后最大的抗议浪潮，独裁者雕像被打翻在地；为哈萨克人民叫好，盼他们取得胜利。<br><br><img style src="https://pbs.twimg.com/media/FIX8weiWQAYA5HU?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIX8y5wXIAo3Pov?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 25: [2022-01-06 08:38:10+08:00 推文](https://twitter.com/realcaixia/status/1478888586435080198)
 
@@ -125,7 +125,7 @@ Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style src="
 
 ### 28: [2022-01-07 11:23:14+08:00 推文](https://twitter.com/realcaixia/status/1479292517262807041)
 
-這就是中國版的塔利班炸毀巴米揚大佛。<br><br>博讯新闻网: 【藏族僧侣和民众被迫现场观看大型佛像被毁过程】中国四川省甘孜藏族自治州一座99英尺高的佛像，被中共以“太高”为由拆毁，与其一同拆除的，还有在附近竖立的45个转经轮。据悉，佛像摧毁时，当地僧侣、民众以及附近城镇的藏人均被当局强迫前去观看。有当地藏人谴责道，中共摧毁宗教认同已不择手段。<br><br><img style="" src="https://pbs.twimg.com/media/FIZGmIIaUAIpEuD?format=png&name=orig" referrerpolicy="no-referrer">
+這就是中國版的塔利班炸毀巴米揚大佛。<br><br>博讯新闻网: 【藏族僧侣和民众被迫现场观看大型佛像被毁过程】中国四川省甘孜藏族自治州一座99英尺高的佛像，被中共以“太高”为由拆毁，与其一同拆除的，还有在附近竖立的45个转经轮。据悉，佛像摧毁时，当地僧侣、民众以及附近城镇的藏人均被当局强迫前去观看。有当地藏人谴责道，中共摧毁宗教认同已不择手段。<br><br><img style src="https://pbs.twimg.com/media/FIZGmIIaUAIpEuD?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 29: [2022-01-07 20:08:52+08:00 推文](https://twitter.com/realcaixia/status/1479424797704609792)
 
@@ -205,7 +205,7 @@ Re 公共服务和基本的社会正常运转，而且意味着无法偿还债�
 
 ### 48: [2022-01-09 02:17:33+08:00 推文](https://twitter.com/realcaixia/status/1479879967638962183)
 
-宣布鹤岗市政府破产，会不会成为各地政府赖账的第一步？<br><img style src="https://pbs.twimg.com/media/FImW-FkWUAEGmFB?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FImW-WKXsAs3v8c?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FImW-ntXEAAhMmf?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FImW_GFXMAMm8Xf?format=jpg&name=orig" referrerpolicy="no-referrer">
+宣布鹤岗市政府破产，会不会成为各地政府赖账的第一步？<br><img style="" src="https://pbs.twimg.com/media/FImW-FkWUAEGmFB?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FImW-WKXsAs3v8c?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FImW-ntXEAAhMmf?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FImW_GFXMAMm8Xf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 49: [2022-01-09 02:36:51+08:00 推文](https://twitter.com/realcaixia/status/1479884825024778250)
 
