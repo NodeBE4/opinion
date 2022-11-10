@@ -41,7 +41,7 @@ Re @Wu_Zhi 因何而解？是主子放弃了？
 
 ### 7: [2022-06-06 10:49:32+08:00 推文](https://twitter.com/HeQinglian/status/1533642214479364096)
 
-不能说西方世界的社会控制不厉害：控制教育系统——教育是塑造人的灵魂（思想、品格）；控制医疗系统（生命攸关）——但相对而言较软，“细雨湿衣看不见，闲花落地听无声”。<br>一个covid-19，将人类社会折腾得天地翻覆。<br><br>北明BeiMing: 17000名醫生和醫學科學家宣布，必須解除醫療緊急狀態，恢復科學完整性，並處理反人類罪。<br><br>我們，全世界的醫生和醫學科學家，通過對《希波克拉底誓言》的忠誠團結在一起，認識到強加給醫生和我們的病人的災難性的COVID-19公共衛生政策是<br> <a href="https://globalcovidsummit.org/news/declaration-iv-restore-scientific-integrity" target="_blank" rel="noopener noreferrer">https://globalcovidsummit.org/news/declaration-iv-restore-scientific-integrity</a>
+不能说西方世界的社会控制不厉害：控制教育系统——教育是塑造人的灵魂（思想、品格）；控制医疗系统（生命攸关）——但相对而言较软，“细雨湿衣看不见，闲花落地听无声”。<br>一个covid-19，将人类社会折腾得天地翻覆。
 
 ### 8: [2022-06-06 22:17:50+08:00 推文](https://twitter.com/HeQinglian/status/1533815433186447360)
 
@@ -193,7 +193,7 @@ RT Judicial Watch ⚖️<br>NEW: Hillary did it. And the FBI helped. READ MORE
 
 ### 45: [2022-06-09 04:24:59+08:00 推文](https://twitter.com/HeQinglian/status/1534632602145005568)
 
-撤出的公司当中，比较重要的是美国苹果公司计划将iPad组件的生产从中国工厂转移到越南的决定。其余的互联网公司，比如电子书商等服务性行业，在中国本来就没多少业务好开展。<br>我相信俄乌战争后，中国会将脱离美国高科技公司包括金融业务当作一个发展方向。闭关锁国不会，但“独立自主”有了足够的理由。<br><br>美国之音中文网: 美企陆续撤离中国市场 分析：还会有更多企业离开<br> <a href="http://dlvr.it/SRmzbp" target="_blank" rel="noopener noreferrer">http://dlvr.it/SRmzbp</a>
+撤出的公司当中，比较重要的是美国苹果公司计划将iPad组件的生产从中国工厂转移到越南的决定。其余的互联网公司，比如电子书商等服务性行业，在中国本来就没多少业务好开展。<br>我相信俄乌战争后，中国会将脱离美国高科技公司包括金融业务当作一个发展方向。闭关锁国不会，但“独立自主”有了足够的理由。
 
 ### 46: [2022-06-09 04:38:59+08:00 推文](https://twitter.com/HeQinglian/status/1534636126018981891)
 
@@ -261,7 +261,7 @@ Re @Greatorentalman 实话实说，中国专家研究美国，比美国专家研
 
 ### 62: [2022-06-10 01:52:26+08:00 推文](https://twitter.com/HeQinglian/status/1534956600322031618)
 
-“应该”的事情太多了，可惜世上没有后悔药。
+“应该”的事情太多了，可惜世上没有后悔药。<br><br>DW 中文- 德国之声: "我们应将俄罗斯人至少逼退到2月23日之前的边界，而克里米亚和其它被俄罗斯人占领了8年的领土的命运应经由政治外交途径解决。"<br> <a href="https://p.dw.com/p/4CTPd" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4CTPd</a>
 
 ### 63: [2022-06-10 03:29:24+08:00 推文](https://twitter.com/HeQinglian/status/1534981005504921601)
 
