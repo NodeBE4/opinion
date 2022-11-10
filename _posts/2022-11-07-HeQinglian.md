@@ -117,7 +117,7 @@ Re @seeyoua22819375 @xxj2040 高玉宝、雷锋至少是正常人、普通人。
 
 ### 26: [2022-11-08 05:20:39+08:00 推文](https://twitter.com/HeQinglian/status/1589729566943498240)
 
-“习近平思想”将中国导向何方？<br><br>人民经济、人类命运共同体、绿色经济是“道”，用来争当“世界领袖”的理论工具，这点习继承了毛的衣钵<br>加强党对经济工作的领导、坚持公有制为主体、供给侧改革谓之“术”，这是习对邓小平理论的继承，“术”可以随时调整，可以“摸着石头过河”，允许试错<br><br>自由亚洲电台: 评论 | #何清涟 @HeQinglian：“#习近平思想”将中国导向何方？<br> <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter</a>
+RT He Qinglian<br>“习近平思想”将中国导向何方？<br><br>人民经济、人类命运共同体、绿色经济是“道”，用来争当“世界领袖”的理论工具，这点习继承了毛的衣钵<br>加强党对经济工作的领导、坚持公有制为主体、供给侧改革谓之“术”，这是习对邓小平理论的继承，“术”可以随时调整，可以“摸着石头过河”，允许试错<br><br>自由亚洲电台: 评论 | #何清涟 @HeQinglian：“#习近平思想”将中国导向何方？<br> <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter</a>
 
 ### 27: [2022-11-08 05:37:04+08:00 推文](https://twitter.com/HeQinglian/status/1589733697666056192)
 
@@ -133,7 +133,7 @@ Re @xxj2040 说的是思想，不是皮囊。后者没人能做到，前者有�
 
 ### 30: [2022-11-08 05:51:49+08:00 推文](https://twitter.com/HeQinglian/status/1589737413706141696)
 
-主张各种性变态，包括为恋童癖正名的，都是民主党人、左派。<br>共和党人有，但不是MAGA，是民主党资助的RINO，比如林肯项目的参与者。<br>这个人只是因为某人转推才落入我时间线。我已经准备切割了。
+主张各种性变态，包括为恋童癖正名的，都是民主党人、左派。<br>共和党人有，但不是MAGA，是民主党资助的RINO，比如林肯项目的参与者。<br>这个人只是因为某人转推才落入我时间线。我已经准备切割了。 <a href="https://twitter.com/LJardine93/status/1589082331436154880" target="_blank" rel="noopener noreferrer">https://twitter.com/LJardine93/status/1589082331436154880</a>
 
 ### 31: [2022-11-08 05:56:12+08:00 推文](https://twitter.com/HeQinglian/status/1589738514832592903)
 
@@ -346,4 +346,36 @@ Re @wbn19971 那就少说为佳。记得前几天你说过自己对美国不了�
 ### 83: [2022-11-10 08:32:04+08:00 推文](https://twitter.com/HeQinglian/status/1590502517653540865)
 
 Re @Corona_Requiem 确实如此。有的民主党州还扬言说要慢慢计票，哪怕整个圣诞期间都计票也在所不计。
+
+### 84: [2022-11-10 21:25:48+08:00 推文](https://twitter.com/HeQinglian/status/1590697230654386176)
+
+Re @Wu_Zhi 不是粗糙，是仗着“上面”有人，连贩毒吸毒几十年的人都可被权力打造成“英雄”，搬个投票箱，连小事都不算。
+
+### 85: [2022-11-10 21:32:26+08:00 推文](https://twitter.com/HeQinglian/status/1590698900406796288)
+
+看着美国民主党州艰难地延迟计票时间，觉得现在的美国左派可悲又可笑。<br>想学习美国的世界左派政府很多，但得伸量一下自己的能耐，否则变成缅甸就不好玩了。<br>巴西过去有军人政权，经过多年左派文官政治，这传统应该淡化了。
+
+### 86: [2022-11-10 21:36:20+08:00 推文](https://twitter.com/HeQinglian/status/1590699884486983683)
+
+Re @fading_you1 选择配偶最诚实。<br>以往的选美小姐，不少选美夺冠后，就草鸡成凤凰，嫁入豪门。<br>等这位美女被美国民主党富豪、议员、豪门公子迎娶回家，就说明他们的审美观表里如一。
+
+### 87: [2022-11-10 21:39:11+08:00 推文](https://twitter.com/HeQinglian/status/1590700599309668353)
+
+最近，冯女士与习近平或者习近平的委托代理人通过电话了？在电话中，由欧盟掌握中国的稀土开采权这事，获得习近平首肯了？或者是同意合作了？——同意合作就说明今后可以在股权问题上慢慢夺取话语权。<br><br>薛丁丁归来: 欧盟主席:中国稀土对欧盟很重要,必须由西方控制<br>欧盟主席冯德莱恩在欧盟峰会中表示，新能源发展来说至关重要的锂矿石、稀土等资源大部分都掌握在中国的手中，这对欧洲的安全产生了威胁，欧盟必须要联合起来与自己的盟友一道，确保这些资源掌握在西方手上，并由西方负责任的进行开发。<br>几个菜喝成这样🙄<br><br><img style="" src="https://pbs.twimg.com/media/FhLzPrIUoAATFNS?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 88: [2022-11-10 21:45:44+08:00 推文](https://twitter.com/HeQinglian/status/1590702250330316800)
+
+在11月8日的美国中期选举中，纽约的共和党人连下数城，长岛的四个国会众议院席位全部由共和党夺得，为国会目前的翻红局面立下了汗马功劳。<br>两年前纽约国会众议院的席位是27个，民主党占20个、共和党只有7个；而今年共和党却在保住原有席位的基础上又增加了4席，总计11席。
+
+### 89: [2022-11-10 22:18:22+08:00 推文](https://twitter.com/HeQinglian/status/1590710461787680768)
+
+乌克兰这是Learn From US-Dem。<br>美国民主党与拜登政府连选举都做成了大戏，主子-金主-老师树立了光辉榜样，仆从-受援者-徒弟学一两招哄老师开心，哪里有错？不信，某天老师追责，弟子一定会说“这是向您学习”。<br><br>Ezio Mao☢: 乌克兰方面正在往赫尔松前线放置据称被俄罗斯人遗弃的设备，准备赫尔松大胜的信息攻势。<br><br><video src="https://video.twimg.com/ext_tw_video/1590652291534553088/pu/vid/320x416/qCNeV8jyN-lUomF-.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1590652291534553088/pu/img/5asqXZ7K-Z6h5uzl.jpg"></video>
+
+### 90: [2022-11-10 22:25:41+08:00 推文](https://twitter.com/HeQinglian/status/1590712303665942533)
+
+Re @chinayvan 民主党只要政权，换个人也一样。
+
+### 91: [2022-11-10 22:29:11+08:00 推文](https://twitter.com/HeQinglian/status/1590713182611419137)
+
+历史经验告诉我们，由年轻人导向的社会一定是悲剧收场。<br>20世纪以来世界严重的左倾从欧美（主要是欧洲）蔓延至世界，在欧洲是两次大战与共产主义思潮导引下的议会道路，产生了苏联，在中国则是中国共产党问世并夺取政权。1930年代后期至1940年代，革命青年纷纷投奔延安，下场大家都知道。<br><br>陶瑞 TaoRay: 宾夕法尼亚州一个已经去世的民主党州议员竟然再次被选上。我这些年观察下来民主党的铁票仓是越来越铁，尤其是在年轻人当中。因为他们已经被洗脑，把这看成敌我关系、阶级立场问题。在大学里面我就看到无数学生拿到选票，把民主党的勾一遍搞定。而保守派是政策导向，票往往不是那么铁。<br><br><img style="" src="https://pbs.twimg.com/media/FhKjfkBUYAAlzA0?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

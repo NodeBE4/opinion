@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-11-09
+date: 2022-11-10
 from: https://old.reddit.com/r/victoria3/comments/ynvirn/voter_fraud_in_action_the_nazi_party_is_projected/
 layout: post
 tags:
@@ -90,4 +90,10 @@ Secondly, the Qing only controlled the west coast of Taiwan at this time. A quic
 Thirdly, Japan was not really a singular entity: a gander at [this article](https://t.co/VkPyRIBKFV), which summarises the goals of the still-ongoing Digital Atlas of Tokugawa Japan, ought to reveal the serious complexity of the internal structures of rule during the Edo bakufu – in essence, Japan was less a unitary state than an unequal federation of states under Tokugawa hegemony.
 
 Looking specifically at the Pearl River Delta for a sec, there are places here that should be marked and places here that should not. In 1802, Hong Kong and Shenzhen did not meaningfully exist; on the flip-side, Macau is an absolutely vital inclusion that is very noticeable by its absence. Looking northward for a sec, there are plenty of ahistorical Russian place names in still-Qing-held Manchuria. I assume part of this is because of the WIP issue, but still, worth flagging.
+
+### 917: [Got a certain character in my qing run](https://old.reddit.com/r/victoria3/comments/yqx27a/got_a_certain_character_in_my_qing_run/), submitted on 2022-11-10 06:07:25+08:00.
+
+----- __917.1__ -----2022-11-10 23:30:41+08:00:
+
+The game does generate some real personages, especially for generals. I got Moltke the Elder, Albrecht von Roon, Moltke the Younger, Paul von Hindenburg and Erich Ludendorff as Prussia.
 
