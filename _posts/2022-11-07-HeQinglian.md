@@ -133,7 +133,7 @@ Re @xxj2040 说的是思想，不是皮囊。后者没人能做到，前者有�
 
 ### 30: [2022-11-08 05:51:49+08:00 推文](https://twitter.com/HeQinglian/status/1589737413706141696)
 
-主张各种性变态，包括为恋童癖正名的，都是民主党人、左派。<br>共和党人有，但不是MAGA，是民主党资助的RINO，比如林肯项目的参与者。<br>这个人只是因为某人转推才落入我时间线。我已经准备切割了。
+主张各种性变态，包括为恋童癖正名的，都是民主党人、左派。<br>共和党人有，但不是MAGA，是民主党资助的RINO，比如林肯项目的参与者。<br>这个人只是因为某人转推才落入我时间线。我已经准备切割了。 <a href="https://twitter.com/LJardine93/status/1589082331436154880" target="_blank" rel="noopener noreferrer">https://twitter.com/LJardine93/status/1589082331436154880</a>
 
 ### 31: [2022-11-08 05:56:12+08:00 推文](https://twitter.com/HeQinglian/status/1589738514832592903)
 
@@ -426,4 +426,24 @@ Re @noxingluo 哪有那么傻？这些人的家属被邀请至中国访问；请
 ### 103: [2022-11-11 06:09:58+08:00 推文](https://twitter.com/HeQinglian/status/1590829141825585152)
 
 并非玩笑。<br>当年胡锡进在选前曾说过乔治亚州的华人社团对当地政治影响力很大。“杨千刀”也曾在决选前50天带领大批人住到乔州去。各位预测一下，明年1月乔州决选，北京会不会再帮拜登集团的忙？<br><br>He Qinglian: 巨资注入乔州 争夺参院最后一个未决席位<br>美国参议院民主党竞选机构11月10日宣布，为乔治亚州联邦参议员决选投入700万美元。这是在两党争夺参议院控制权的过程中最新投入的一笔巨额资金。<br>各位是否记得，2020年乔州大选风波迭起？车祸、半夜灌票、中国身影？包括贿赂问题。<br>
+
+### 104: [2022-11-11 08:57:12+08:00 推文](https://twitter.com/HeQinglian/status/1590871228348526592)
+
+众议院选举，路透社的刚在7点多更新，共和党已经赢了211个席位，还有选举计数已经超过90%多但未FLIP（最后Call) 的还有17个。<br>美国所有的选举图都不如这张清晰。<br>请大家按图标去计数。 <a href="https://www.reuters.com/graphics/USA-ELECTION/RESULTS/dwvkdgzdqpm/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/graphics/USA-ELECTION/RESULTS/dwvkdgzdqpm/</a>
+
+### 105: [2022-11-11 08:59:40+08:00 推文](https://twitter.com/HeQinglian/status/1590871849675948033)
+
+Re 纠正：计数在90%左右的为17个，有三个已经超过99%了。
+
+### 106: [2022-11-11 09:00:58+08:00 推文](https://twitter.com/HeQinglian/status/1590872176961654785)
+
+Re @noahmitchell07 路透的多9席。不过都赢了。😅
+
+### 107: [2022-11-11 09:02:04+08:00 推文](https://twitter.com/HeQinglian/status/1590872453689249792)
+
+Re @zhixiangziyou 希望能够反对，并打好乔治亚12月决选一战。
+
+### 108: [2022-11-11 09:03:30+08:00 推文](https://twitter.com/HeQinglian/status/1590872814634283009)
+
+Re @noahmitchell07 最好是赶快Call。计数超过95%且差距超过2个百分点的席位，除了民主党硬干（抢），恐怕没法子了。
 
