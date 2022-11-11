@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2022-11-07~2022-11-13'
 
 ### 4: [2022-11-10 22:09:35+08:00 推文](https://twitter.com/realcaixia/status/1590708252110557184)
 
-昨天临登机时传来噩耗：鲍老谢世了。一路感伤不已。鲍老是中国人争取自由民主政治转型的标志性人物，作为追随老一代志士仁人的后来者和晚辈，鲍老的逝世，除了深深的悲哀，还有一幕幕往事都浮现在脑中。记得炎黄春秋老人们曾殷切嘱咐：我们都老了，事情还要继续做下去，要你们接上来啊。鲍老不朽！哀悼<br><br>高瑜: 【鮑彤90答謝辭】人是天地之間一個非常渺小的歷史的存在，在這非常渺小的歷史存在當中，我能夠和各位肝膽相照，長期互相認識，我感到這是我的榮譽。我的90不90並不重要，重要的是我們大家要爭取的未來，要爭取的今天，要在今天做自己能夠做、應該做的事情，必須做的事情，把它做好。<br><br><img style="" src="https://pbs.twimg.com/media/FgzmJW5UAAAB1xK?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/gaoyu200812/status/1588735404769161217" target="_blank" rel="noopener noreferrer">https://twitter.com/gaoyu200812/status/1588735404769161217</a>
+昨天临登机时传来噩耗：鲍老谢世了。一路感伤不已。鲍老是中国人争取自由民主政治转型的标志性人物，作为追随老一代志士仁人的后来者和晚辈，鲍老的逝世，除了深深的悲哀，还有一幕幕往事都浮现在脑中。记得炎黄春秋老人们曾殷切嘱咐：我们都老了，事情还要继续做下去，要你们接上来啊。鲍老不朽！哀悼<br><br>高瑜: 【鮑彤90答謝辭】人是天地之間一個非常渺小的歷史的存在，在這非常渺小的歷史存在當中，我能夠和各位肝膽相照，長期互相認識，我感到這是我的榮譽。我的90不90並不重要，重要的是我們大家要爭取的未來，要爭取的今天，要在今天做自己能夠做、應該做的事情，必須做的事情，把它做好。<br><br><img style="" src="https://pbs.twimg.com/media/FgzmJW5UAAAB1xK?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2022-11-11 01:57:38+08:00 推文](https://twitter.com/realcaixia/status/1590765640356614145)
 
@@ -54,4 +54,12 @@ Re @htls3689 @Js_SydneyAu ⬆️是洗地五毛。
 ### 10: [2022-11-11 03:29:27+08:00 推文](https://twitter.com/realcaixia/status/1590788748266336257)
 
 我见到鲍老夫人时，她已80多岁了，年轻时的美丽依然可见，更多的是经岁月阅人世后，一切了然于胸、淡然于心的端庄优雅、大气沉静。<br><br>鲍简: 这是爸爸被软禁在北京西山 1996年64岁生日时所作“六四自寿”诗，该手书用硫酸纸封好于今年中秋随妈妈骨灰入葬，永远陪伴着妈妈。<br>摘录三首：<br>岁月磨人久 冰霜犁面皱 此身何所有 好似香依旧 其一<br>我有贤妻子 生死执我手 呼号奔与走 内外兼师友 其二<br>至性非天授 积积成重厚 敬严临大事 此是吾家后 其三<br><br><img style="" src="https://pbs.twimg.com/media/FhKVsWyVIAEsvbF?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 11: [2022-11-11 22:21:20+08:00 推文](https://twitter.com/realcaixia/status/1591073595908050946)
+
+习闭幕式上敢强行驱离胡锦涛退出会场，台上台下无一人敢喘大气，甚至连转头都不敢，可见中共党内人际关系有多么冷漠无情，可见中共高层有多么怯弱自私，可见当时全场氛围有多么恐怖肃杀。胡锦涛退场何等屈辱悲凉！<br>薄一巴掌把自己打进秦城，习强驱胡将给习带来什么？一切都还处于“进行时”，冷眼静观。<br><br>Bob new: 包子洗地再升級，各路媒體皆棋子！<br>@chenpokong @realcaixia<br>@realjiangfeng @RFA_Chinese<br>@dajiyuan @qinxian54220128 <br>@wuzuolai @zhanglifan <br>@ZhaoMingObserve @liyiping1911<br>@laodeng89 @Eurasch @juanli324<br><br><img style="" src="https://pbs.twimg.com/media/FhSRrisVEAIlHfw?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FhSRr2kUYAEZqjq?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 12: [2022-11-11 22:33:27+08:00 推文](https://twitter.com/realcaixia/status/1591076643191558150)
+
+Re 20大前媒体联系采访我，我回复20大后待尘埃落定再说吧。<br>年初我在议报发文章：20大前中共内斗充满变数，一切皆有可能。<br>现在看，由于习打破一切规则一切底线，20大令全世界跌破眼镜惊掉下巴，20大结束了，但尘埃是否落定却要打个❓了。<br>想起南美蝴蝶效应，或许若干年后史书评论：习即20大的南美蝴蝶。
 
