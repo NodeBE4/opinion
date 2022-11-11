@@ -117,7 +117,7 @@ Re @seeyoua22819375 @xxj2040 高玉宝、雷锋至少是正常人、普通人。
 
 ### 26: [2022-11-08 05:20:39+08:00 推文](https://twitter.com/HeQinglian/status/1589729566943498240)
 
-“习近平思想”将中国导向何方？<br><br>人民经济、人类命运共同体、绿色经济是“道”，用来争当“世界领袖”的理论工具，这点习继承了毛的衣钵<br>加强党对经济工作的领导、坚持公有制为主体、供给侧改革谓之“术”，这是习对邓小平理论的继承，“术”可以随时调整，可以“摸着石头过河”，允许试错<br><br>自由亚洲电台: 评论 | #何清涟 @HeQinglian：“#习近平思想”将中国导向何方？<br> <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter</a>
+RT He Qinglian<br>“习近平思想”将中国导向何方？<br><br>人民经济、人类命运共同体、绿色经济是“道”，用来争当“世界领袖”的理论工具，这点习继承了毛的衣钵<br>加强党对经济工作的领导、坚持公有制为主体、供给侧改革谓之“术”，这是习对邓小平理论的继承，“术”可以随时调整，可以“摸着石头过河”，允许试错<br><br>自由亚洲电台: 评论 | #何清涟 @HeQinglian：“#习近平思想”将中国导向何方？<br> <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter</a>
 
 ### 27: [2022-11-08 05:37:04+08:00 推文](https://twitter.com/HeQinglian/status/1589733697666056192)
 
@@ -526,4 +526,28 @@ Re @JianglinLi @dinglili7 昨天看到一消息，说波女士说因丈夫受袭
 ### 128: [2022-11-11 22:46:25+08:00 推文](https://twitter.com/HeQinglian/status/1591079907756453888)
 
 Re @JianglinLi @dinglili7 加州人民愿意，家族共产政治率先在加州实现。
+
+### 129: [2022-11-11 23:01:29+08:00 推文](https://twitter.com/HeQinglian/status/1591083697532723202)
+
+Re @dinglili7 英国穿越回到了大英“日不落帝国”的全盛时期：号令天下，莫敢不从。
+
+### 130: [2022-11-11 23:03:27+08:00 推文](https://twitter.com/HeQinglian/status/1591084194847141895)
+
+Re @mingshi_chen @dinglili7 我很严肃。民主党花了这么大的劲，选了两位亡者做本党的众议员，必须要尊重该党的意志——有些美粉一直认为，凡美国民主党所做的一切，皆是正确的。
+
+### 131: [2022-11-11 23:15:46+08:00 推文](https://twitter.com/HeQinglian/status/1591087292537528323)
+
+Re @mingshi_chen @dinglili7 程序正义当然重要，而且最重要，这是法治的根本。<br>问题现在出在程序被严重扰乱，不，是打乱，比如大规模邮寄选票、点票时间无限延长，本身就是改变程序。
+
+### 132: [2022-11-11 23:17:05+08:00 推文](https://twitter.com/HeQinglian/status/1591087623992483842)
+
+Re @mingshi_chen 这是当地州务卿的党派身份决定的。<br>州长任命州务卿，后者主管选举。州长什么党派，就任命什么党派的人做此职。
+
+### 133: [2022-11-11 23:20:50+08:00 推文](https://twitter.com/HeQinglian/status/1591088570709966849)
+
+Re @mingshi_chen @dinglili7 LGBTQI成为民主党政府的主流文化，是不断修改程序的结果（奥八最喜欢修改法律）；土改出自哪项程序正义，这我倒愿闻其详。连中共都说这是将被颠倒的世界重新颠倒过来。
+
+### 134: [2022-11-11 23:22:38+08:00 推文](https://twitter.com/HeQinglian/status/1591089023267004416)
+
+Re @JianglinLi @enoughtalk4 @dinglili7 你州那参议员，民主党说他的品牌效应很好。用推车推到国会开会吧。再请个中国或东南亚的气功师，开会前发功治疗，红光满面，神彩奕奕，效果不错。
 
