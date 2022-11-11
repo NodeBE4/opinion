@@ -117,7 +117,7 @@ Re @seeyoua22819375 @xxj2040 高玉宝、雷锋至少是正常人、普通人。
 
 ### 26: [2022-11-08 05:20:39+08:00 推文](https://twitter.com/HeQinglian/status/1589729566943498240)
 
-RT He Qinglian<br>“习近平思想”将中国导向何方？<br><br>人民经济、人类命运共同体、绿色经济是“道”，用来争当“世界领袖”的理论工具，这点习继承了毛的衣钵<br>加强党对经济工作的领导、坚持公有制为主体、供给侧改革谓之“术”，这是习对邓小平理论的继承，“术”可以随时调整，可以“摸着石头过河”，允许试错<br><br>自由亚洲电台: 评论 | #何清涟 @HeQinglian：“#习近平思想”将中国导向何方？<br> <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter</a>
+“习近平思想”将中国导向何方？<br><br>人民经济、人类命运共同体、绿色经济是“道”，用来争当“世界领袖”的理论工具，这点习继承了毛的衣钵<br>加强党对经济工作的领导、坚持公有制为主体、供给侧改革谓之“术”，这是习对邓小平理论的继承，“术”可以随时调整，可以“摸着石头过河”，允许试错<br><br>自由亚洲电台: 评论 | #何清涟 @HeQinglian：“#习近平思想”将中国导向何方？<br> <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter</a>
 
 ### 27: [2022-11-08 05:37:04+08:00 推文](https://twitter.com/HeQinglian/status/1589733697666056192)
 
@@ -427,23 +427,67 @@ Re @noxingluo 哪有那么傻？这些人的家属被邀请至中国访问；请
 
 并非玩笑。<br>当年胡锡进在选前曾说过乔治亚州的华人社团对当地政治影响力很大。“杨千刀”也曾在决选前50天带领大批人住到乔州去。各位预测一下，明年1月乔州决选，北京会不会再帮拜登集团的忙？<br><br>He Qinglian: 巨资注入乔州 争夺参院最后一个未决席位<br>美国参议院民主党竞选机构11月10日宣布，为乔治亚州联邦参议员决选投入700万美元。这是在两党争夺参议院控制权的过程中最新投入的一笔巨额资金。<br>各位是否记得，2020年乔州大选风波迭起？车祸、半夜灌票、中国身影？包括贿赂问题。<br>
 
-### 104: [2022-11-11 08:57:12+08:00 推文](https://twitter.com/HeQinglian/status/1590871228348526592)
+### 104: [2022-11-11 08:54:18+08:00 推文](https://twitter.com/SSK2024/status/1590870496710885376)
+
+RT 萧生客SSK🇺🇸🇨🇦<br>德桑蒂斯胜选演讲：当世界疯狂时，佛罗里达是理智的避难所：<br><br>这个国家的许多其他司法管辖区在藤蔓上枯萎了，但佛州却坚守阵地。我们选择了事实而不是恐惧；我们选择了教育而不是灌输；我们选择了法律和秩序，而不是骚乱和无序⋯ <a href="https://mp.weixin.qq.com/s/G6OtmouGcBiu3wzOPH1JXg" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/G6OtmouGcBiu3wzOPH1JXg</a><br><video src="https://video.twimg.com/ext_tw_video/1590870460488720385/pu/vid/848x448/26ljcaLfCxM_KlZ6.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1590870460488720385/pu/img/D-9PhN9fNA4lwJ-H.jpg"></video>
+
+### 105: [2022-11-11 08:57:12+08:00 推文](https://twitter.com/HeQinglian/status/1590871228348526592)
 
 众议院选举，路透社的刚在7点多更新，共和党已经赢了211个席位，还有选举计数已经超过90%多但未FLIP（最后Call) 的还有17个。<br>美国所有的选举图都不如这张清晰。<br>请大家按图标去计数。 <a href="https://www.reuters.com/graphics/USA-ELECTION/RESULTS/dwvkdgzdqpm/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/graphics/USA-ELECTION/RESULTS/dwvkdgzdqpm/</a>
 
-### 105: [2022-11-11 08:59:40+08:00 推文](https://twitter.com/HeQinglian/status/1590871849675948033)
+### 106: [2022-11-11 08:59:40+08:00 推文](https://twitter.com/HeQinglian/status/1590871849675948033)
 
 Re 纠正：计数在90%左右的为17个，有三个已经超过99%了。
 
-### 106: [2022-11-11 09:00:58+08:00 推文](https://twitter.com/HeQinglian/status/1590872176961654785)
+### 107: [2022-11-11 09:00:58+08:00 推文](https://twitter.com/HeQinglian/status/1590872176961654785)
 
 Re @noahmitchell07 路透的多9席。不过都赢了。😅
 
-### 107: [2022-11-11 09:02:04+08:00 推文](https://twitter.com/HeQinglian/status/1590872453689249792)
+### 108: [2022-11-11 09:02:04+08:00 推文](https://twitter.com/HeQinglian/status/1590872453689249792)
 
 Re @zhixiangziyou 希望能够反对，并打好乔治亚12月决选一战。
 
-### 108: [2022-11-11 09:03:30+08:00 推文](https://twitter.com/HeQinglian/status/1590872814634283009)
+### 109: [2022-11-11 09:03:30+08:00 推文](https://twitter.com/HeQinglian/status/1590872814634283009)
 
 Re @noahmitchell07 最好是赶快Call。计数超过95%且差距超过2个百分点的席位，除了民主党硬干（抢），恐怕没法子了。
+
+### 110: [2022-11-11 10:49:20+08:00 推文](https://twitter.com/HeQinglian/status/1590899445784510464)
+
+Re @JianglinLi 既然那两选区的选民喜欢让死人与脑残来做民意代表，悉随其意。下次他们找民意代表时，到其墓地去倾诉，也算民主党美国一道风景线——再加上波洛西下跪、弗洛伊德成为民主党与BLM的英雄，都是美国奇闻。
+
+### 111: [2022-11-11 10:50:56+08:00 推文](https://twitter.com/HeQinglian/status/1590899851306618881)
+
+Re @tmzgjs 这次幸亏各州共和党选民盯得紧。三权一权也不在手，谁给你解决舞弊问题？
+
+### 112: [2022-11-11 10:52:22+08:00 推文](https://twitter.com/HeQinglian/status/1590900211354054657)
+
+Re @Frank26970699 是，我记错了。谢纠正。
+
+### 113: [2022-11-11 11:09:25+08:00 推文](https://twitter.com/HeQinglian/status/1590904503783804928)
+
+FOX 近日披露一份“背后金主”的名单:<br>No.1  乔治·索罗斯，1.28亿美元-D<br>No.2 航运业巨头理查德·乌赫莱因_8070万美元-R <br>No.3 对冲基金Citadel的首席执行官肯尼斯·c·格里芬，6860万美元-R<br>No.4 量化交易公司的创始人杰弗里·雅斯，4407万美元-R<br>美国希望共和党金主迅速行动，资助乔治亚州的决选。
+
+### 114: [2022-11-11 11:13:12+08:00 推文](https://twitter.com/HeQinglian/status/1590905454548639744)
+
+美国国会众议院民主党竞选委员会主席肖恩‧帕特里克‧马洛尼（Sean Patrick Maloney）本周在竞选众议员连任时失利。11月10日，他在MSNBC的《早安乔》（Morning Joe）节目中说，民主党这次在纽约国会众议院的多场关键竞选中失利，这些竞选本应该锁定民主党对众议院的控制权，“我让人们失望了。”<br>👏👏
+
+### 115: [2022-11-11 11:19:42+08:00 推文](https://twitter.com/zhixiangziyou/status/1590907089513504770)
+
+RT L JM🇺🇸<br>突发事件：德克萨斯州的一名联邦法官裁定，乔·拜登总统取消数千亿美元学生贷款债务的计划违宪，必须撤销。<br><br>8号前裁定，🐷党还有多少选票？<br><br>unusual_whales: BREAKING: A federal judge in Texas has ruled that President Joe Biden’s plan to cancel hundreds of billions of dollars in student loan debt was unconstitutional and must be vacated.<br>
+
+### 116: [2022-11-11 11:20:52+08:00 推文](https://twitter.com/HeQinglian/status/1590907383626485760)
+
+Re 这消息特别重要。<br>肖恩是在与共和党候选人迈克尔‧劳勒（Michael Lawler）激烈竞争纽约州的联邦众议员席位中败选。<br>劳勒在纽约州第17国会选区击败了在联邦众议院工作了近十年的马洛尼。这是自1980年以来首次有竞选委员会主席在大选中失败，无论是共和党还是民主党。
+
+### 117: [2022-11-11 11:23:01+08:00 推文](https://twitter.com/HeQinglian/status/1590907922804248576)
+
+Re @Wu_Zhi @david_david1968 所以这一次中选，美国不少有钱人资助共和党，因为知道再让社会主义政治民主党执政，他们将会受到惩罚。（见我刚发的推）
+
+### 118: [2022-11-11 11:26:28+08:00 推文](https://twitter.com/HeQinglian/status/1590908793533206528)
+
+Re @Isabel_3299 我建议让“她”担任拜登政府在联合国的形象大使，非常符合拜登政府的形象。
+
+### 119: [2022-11-11 11:27:32+08:00 推文](https://twitter.com/HeQinglian/status/1590909059179417600)
+
+Re @SSK2024 👏👏👏👏👏👏
 
