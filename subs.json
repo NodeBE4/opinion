@@ -52,6 +52,10 @@
         "url": "https://stratechery.com/feed/"
     },
     {
+        "site": "不明白播客",
+        "url": "https://www.bumingbai.net/feed/"
+    },
+    {
         "site": "蔷蔷",
         "url": "http://www.youtube.com/feeds/videos.xml?playlist_id=UU_Udz5R0NCgLTWbmn-QiWGA"
     },
@@ -74,6 +78,10 @@
     {
         "site": "共识沙龙",
         "url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UU7edaZCmZEB1oynZJgDXO5Q"
+    },
+    {
+        "site": "秦晖",
+        "url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLjJtjeNhdE4CCTCYZez13MXrcT5_AxKyH"
     },
     {
         "site": "程晓农",
