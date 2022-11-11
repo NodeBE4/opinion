@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-11-10
+date: 2022-11-11
 from: https://old.reddit.com/r/victoria3/comments/ynvirn/voter_fraud_in_action_the_nazi_party_is_projected/
 layout: post
 tags:
@@ -96,4 +96,12 @@ Looking specifically at the Pearl River Delta for a sec, there are places here t
 ----- __917.1__ -----2022-11-10 23:30:41+08:00:
 
 The game does generate some real personages, especially for generals. I got Moltke the Elder, Albrecht von Roon, Moltke the Younger, Paul von Hindenburg and Erich Ludendorff as Prussia.
+
+### 918: [Are there any theories on why the ancient Chinese did not adopt an alphabetic writing system?](https://old.reddit.com/r/AskHistorians/comments/ysdbij/are_there_any_theories_on_why_the_ancient_chinese/), submitted on 2022-11-11 23:16:54+08:00.
+
+----- __918.1__ -----2022-11-12 02:59:14+08:00:
+
+> the short answer is
+
+Your comment has been removed due to violations of the [subreddit’s rules](https://www.reddit.com/r/AskHistorians/wiki/rules). We expect answers to provide [in-depth and comprehensive insight](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer) into the topic at hand and to [be free of significant errors or misunderstandings](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/) while doing so. Before contributing again, please take the time to better familiarize yourself with the [subreddit rules](https://www.reddit.com/r/AskHistorians/wiki/rules) and [expectations](https://www.reddit.com/r/AskHistorians/wiki/faq/meta#wiki_rules_discussion) for an answer.
 
