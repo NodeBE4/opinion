@@ -133,7 +133,7 @@ Re @xxj2040 说的是思想，不是皮囊。后者没人能做到，前者有�
 
 ### 30: [2022-11-08 05:51:49+08:00 推文](https://twitter.com/HeQinglian/status/1589737413706141696)
 
-主张各种性变态，包括为恋童癖正名的，都是民主党人、左派。<br>共和党人有，但不是MAGA，是民主党资助的RINO，比如林肯项目的参与者。<br>这个人只是因为某人转推才落入我时间线。我已经准备切割了。
+主张各种性变态，包括为恋童癖正名的，都是民主党人、左派。<br>共和党人有，但不是MAGA，是民主党资助的RINO，比如林肯项目的参与者。<br>这个人只是因为某人转推才落入我时间线。我已经准备切割了。 <a href="https://twitter.com/LJardine93/status/1589082331436154880" target="_blank" rel="noopener noreferrer">https://twitter.com/LJardine93/status/1589082331436154880</a>
 
 ### 31: [2022-11-08 05:56:12+08:00 推文](https://twitter.com/HeQinglian/status/1589738514832592903)
 
@@ -341,7 +341,7 @@ Re @wbn19971 那就少说为佳。记得前几天你说过自己对美国不了�
 
 ### 82: [2022-11-10 08:24:25+08:00 推文](https://twitter.com/HeQinglian/status/1590500591918526466)
 
-彭博社的有即时显示，从图示来看，共和党除了已确定的207个席位（路透报208个），占领先优势的还有13个席位，维持这种领先优势，共和党能够夺得众议院。<br>佩洛西做不成议长，是件大快人心事。<br><br>He Qinglian: 更新：<br>民主党得183个席位，失去8个原有席位；共和党得207个席位，得到6个新的席位。<br>参议院是民主党48个席位（含两个左派独立党派），共和党49个席位。<br>共和党选民加油，看紧投票箱。<br>
+彭博社的有即时显示，从图示来看，共和党除了已确定的207个席位（路透报208个），占领先优势的还有13个席位，维持这种领先优势，共和党能够夺得众议院。<br>佩洛西做不成议长，是件大快人心事。<br><br>He Qinglian: 更新：<br>民主党得183个席位，失去8个原有席位；共和党得207个席位，得到6个新的席位。<br>参议院是民主党48个席位（含两个左派独立党派），共和党49个席位。<br>共和党选民加油，看紧投票箱。<br> <a href="https://twitter.com/HeQinglian/status/1590408750174982144" target="_blank" rel="noopener noreferrer">https://twitter.com/HeQinglian/status/1590408750174982144</a>
 
 ### 83: [2022-11-10 08:32:04+08:00 推文](https://twitter.com/HeQinglian/status/1590502517653540865)
 
@@ -566,4 +566,44 @@ Re @Mailbox85780137 @JianglinLi 应该是以下情况：选票早就印好。民
 ### 138: [2022-11-12 02:37:09+08:00 推文](https://twitter.com/HeQinglian/status/1591137974124961793)
 
 Re @SSK2024 不知是谁挑起的事端。<br>好比苹果还在树上，苹果树的所有权还未明确，两兄弟就开始阅于墙——正常一点的话，好歹也等到苹果树的归属权确定了再说。<br>怪不得民主党公然作弊，看准了共和党也就那么点出息。
+
+### 139: [2022-11-12 06:17:35+08:00 推文](https://twitter.com/HeQinglian/status/1591193447419219968)
+
+Re @HuoshengW @SSK2024 其实就一句，看党内选民的选择就行了。开口威胁不是好方式。
+
+### 140: [2022-11-12 06:27:05+08:00 推文](https://twitter.com/HeQinglian/status/1591195840197976064)
+
+Re @realTaoRay 应该说，他的目标基本达到了。这位受益于传统美国，为什么必欲毁之而后快？
+
+### 141: [2022-11-12 07:07:26+08:00 推文](https://twitter.com/HeQinglian/status/1591205992750256128)
+
+刚才看到一推，说某人在MSNBC节目中发言称，没有川普，共和党不可能赢，因为没有选民。但谁也不想与川普一起。<br>转眼就找不着了，哪位推友发现，请发送给我，我想去核查一下。先🙏。
+
+### 142: [2022-11-12 07:13:35+08:00 推文](https://twitter.com/HeQinglian/status/1591207540603641857)
+
+Re @Rainding45 谢谢。
+
+### 143: [2022-11-12 07:19:12+08:00 推文](https://twitter.com/HeQinglian/status/1591208954105061376)
+
+中选结果：<br>众议院：民主党215：共和党220.<br>参议院：民主党48VS共和党49，还有两票待决。<br><br>目前，左媒的共同语言是：共和党输了，因为没出现红潮，赢得太少。民主党欢呼自己输得不多。😅 <a href="https://www.msnbc.com/opinion/msnbc-opinion/midterm-election-results-prove-republican-abortion-bans-are-fails-rcna56842" target="_blank" rel="noopener noreferrer">https://www.msnbc.com/opinion/msnbc-opinion/midterm-election-results-prove-republican-abortion-bans-are-fails-rcna56842</a>
+
+### 144: [2022-11-12 07:22:01+08:00 推文](https://twitter.com/HeQinglian/status/1591209661315035136)
+
+Re 看链接最上方。这是左媒，不会给自己找不痛快。
+
+### 145: [2022-11-12 07:31:27+08:00 推文](https://twitter.com/HeQinglian/status/1591212038176612352)
+
+请看大图：众议院：民主党215：共和党220.<br><br>现在我还有个疑问：两个亡者民主党议员的位置的重选问题。<br>如果是任上死亡，由本党继承。但这是在选举前死亡，美国尚无先例。<br>这应该由新一届国会决定。<br><br>He Qinglian: 中选结果：<br>众议院：民主党215：共和党220.<br>参议院：民主党48VS共和党49，还有两票待决。<br><br>目前，左媒的共同语言是：共和党输了，因为没出现红潮，赢得太少。民主党欢呼自己输得不多。😅<br> <a href="https://www.msnbc.com/opinion/msnbc-opinion/midterm-election-results-prove-republican-abortion-bans-are-fails-rcna56842" target="_blank" rel="noopener noreferrer">https://www.msnbc.com/opinion/msnbc-opinion/midterm-election-results-prove-republican-abortion-bans-are-fails-rcna56842</a>
+
+### 146: [2022-11-12 07:40:45+08:00 推文](https://twitter.com/HeQinglian/status/1591214376761319428)
+
+Re @FranzMendelsso1 补选也是本党继承，党内补选。如果任期只剩下几个月，由该州州长指定，加州这样干过。<br>这是选前就死亡，无先例。
+
+### 147: [2022-11-12 07:43:50+08:00 推文](https://twitter.com/HeQinglian/status/1591215151436681217)
+
+Re @JasonWa65249659 错在哪里？<br>众议院席位共435席，拿到218席就算赢了。<br>图标标明的。
+
+### 148: [2022-11-12 07:45:27+08:00 推文](https://twitter.com/HeQinglian/status/1591215558737154048)
+
+Re @JasonWa65249659 你的链接呢？
 
