@@ -117,15 +117,21 @@ I have to assume this is an American post.  In Europe and even throughout most o
 
 There are some evangelical right wing madrasas.  But they are few.  Most private religious schools are more like Columbia University than bastions of theological indoctrination.
 
-### 392: [il keep the beer belly](https://old.reddit.com/r/SuddenlyGay/comments/xr3oy9/il_keep_the_beer_belly/), submitted on 2022-09-29 17:57:25+08:00.
+### 392: [Polyphia - Ego Death feat. Steve Vai (Official Music Video)](https://old.reddit.com/r/polyphia/comments/xqf1wa/polyphia_ego_death_feat_steve_vai_official_music/), submitted on 2022-09-28 23:02:47+08:00.
 
------ __392.1__ -----2022-09-30 12:10:45+08:00:
+----- __392.1__ -----2022-11-13 05:40:10+08:00:
+
+I am in awe.  Most incredible guitarists in this generation.
+
+### 393: [il keep the beer belly](https://old.reddit.com/r/SuddenlyGay/comments/xr3oy9/il_keep_the_beer_belly/), submitted on 2022-09-29 17:57:25+08:00.
+
+----- __393.1__ -----2022-09-30 12:10:45+08:00:
 
 The guys I go for do not look like me.  They're less muscular, less darkly tanned and usually shorter than me.  This makes me the minority?
 
-### 393: [Kid destroys neighbors stuff then gets arrested later](https://old.reddit.com/r/donthelpjustfilm/comments/xs5emt/kid_destroys_neighbors_stuff_then_gets_arrested/), submitted on 2022-10-01 00:14:26+08:00.
+### 394: [Kid destroys neighbors stuff then gets arrested later](https://old.reddit.com/r/donthelpjustfilm/comments/xs5emt/kid_destroys_neighbors_stuff_then_gets_arrested/), submitted on 2022-10-01 00:14:26+08:00.
 
------ __393.1__ -----2022-10-01 11:58:53+08:00:
+----- __394.1__ -----2022-10-01 11:58:53+08:00:
 
 > Parents may not even be home, left the kid alone.
 
@@ -133,33 +139,33 @@ Normal kids raised by normal parents do not do that shit when left alone.
 
 This is what fucked up kids raised by fucked up parents do when they are left alone.
 
------ __393.2__ -----2022-10-01 11:59:13+08:00:
+----- __394.2__ -----2022-10-01 11:59:13+08:00:
 
 > As a GenX kid, I feel attacked. 
 
 I feel that.
 
------ __393.3__ -----2022-10-01 12:05:04+08:00:
+----- __394.3__ -----2022-10-01 12:05:04+08:00:
 
 > I think one assumption we can make is that whoever was supposed to be responsible for the supervision of this child demon did not do their job lol.
 
 Any kid who needs to be supervised so he doesn't go off and throw rocks at the neighbor's car has a lot more problems than lack of supervision.
 
-### 394: [I'll never understand some people's obsession with making everything about politics](https://old.reddit.com/r/TheFlyingTree/comments/xsqt9e/ill_never_understand_some_peoples_obsession_with/), submitted on 2022-10-01 17:19:19+08:00.
+### 395: [I'll never understand some people's obsession with making everything about politics](https://old.reddit.com/r/TheFlyingTree/comments/xsqt9e/ill_never_understand_some_peoples_obsession_with/), submitted on 2022-10-01 17:19:19+08:00.
 
------ __394.1__ -----2022-10-02 00:26:20+08:00:
+----- __395.1__ -----2022-10-02 00:26:20+08:00:
 
 People make everything about politics because they don't have anything else in their life.  It's sad.
 
-### 395: [Hold up… do people in Heterosexual relationships really think their partners shouldn’t be friends with people of the opposite sex?](https://old.reddit.com/r/TheFlyingTree/comments/xt6dn0/hold_up_do_people_in_heterosexual_relationships/), submitted on 2022-10-02 05:12:33+08:00.
+### 396: [Hold up… do people in Heterosexual relationships really think their partners shouldn’t be friends with people of the opposite sex?](https://old.reddit.com/r/TheFlyingTree/comments/xt6dn0/hold_up_do_people_in_heterosexual_relationships/), submitted on 2022-10-02 05:12:33+08:00.
 
------ __395.1__ -----2022-10-03 06:29:56+08:00:
+----- __396.1__ -----2022-10-03 06:29:56+08:00:
 
 I cannot imagine being so paranoid that you restricted who your significant other was friends with.
 
-### 396: [Pandemic-Inspired](https://old.reddit.com/r/TheFlyingTree/comments/xt81qb/pandemicinspired/), submitted on 2022-10-02 06:26:45+08:00.
+### 397: [Pandemic-Inspired](https://old.reddit.com/r/TheFlyingTree/comments/xt81qb/pandemicinspired/), submitted on 2022-10-02 06:26:45+08:00.
 
------ __396.1__ -----2022-10-03 06:39:56+08:00:
+----- __397.1__ -----2022-10-03 06:39:56+08:00:
 
 We will learn to live again.  Or we will [die trying](https://www.youtube.com/watch?v=4Z2y85gW84U&ab_channel=WaterTowerMusic).
 

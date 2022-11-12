@@ -13,9 +13,9 @@ title: theoryofdoom在2022-10-10~2022-10-16的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 411: [Walgreens not doing kids boosters?](https://old.reddit.com/r/CoronavirusIllinois/comments/y0vufj/walgreens_not_doing_kids_boosters/), submitted on 2022-10-11 09:22:28+08:00.
+### 412: [Walgreens not doing kids boosters?](https://old.reddit.com/r/CoronavirusIllinois/comments/y0vufj/walgreens_not_doing_kids_boosters/), submitted on 2022-10-11 09:22:28+08:00.
 
------ __411.1__ -----2022-10-11 20:09:09+08:00:
+----- __412.1__ -----2022-10-11 20:09:09+08:00:
 
 This comment was reported.  While it's wrong, I'm going to leave it up for instructive purposes.  
 
@@ -25,9 +25,9 @@ A nurse administering a vaccine wouldn't be liable for administering a vaccine (
 
 About the only way the manufacturers could be liable is if they engaged in provable fraud before the FDA.  And that's an incredibly hard thing to prove.
 
-### 412: [unpopular opinion strawberry milk is better than chocolate milk](https://old.reddit.com/r/TheFlyingTree/comments/y5h649/unpopular_opinion_strawberry_milk_is_better_than/), submitted on 2022-10-16 21:43:18+08:00.
+### 413: [unpopular opinion strawberry milk is better than chocolate milk](https://old.reddit.com/r/TheFlyingTree/comments/y5h649/unpopular_opinion_strawberry_milk_is_better_than/), submitted on 2022-10-16 21:43:18+08:00.
 
------ __412.1__ -----2022-10-16 22:21:47+08:00:
+----- __413.1__ -----2022-10-16 22:21:47+08:00:
 
 Unpopular opinion: milk as such is gross.
 
