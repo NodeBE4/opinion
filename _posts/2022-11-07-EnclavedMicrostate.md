@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-11-11
+date: 2022-11-12
 from: https://old.reddit.com/r/victoria3/comments/ynvirn/voter_fraud_in_action_the_nazi_party_is_projected/
 layout: post
 tags:
@@ -110,4 +110,18 @@ The game does generate some real personages, especially for generals. I got Molt
 > the short answer is
 
 Your comment has been removed due to violations of the [subreddit’s rules](https://www.reddit.com/r/AskHistorians/wiki/rules). We expect answers to provide [in-depth and comprehensive insight](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer) into the topic at hand and to [be free of significant errors or misunderstandings](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/) while doing so. Before contributing again, please take the time to better familiarize yourself with the [subreddit rules](https://www.reddit.com/r/AskHistorians/wiki/rules) and [expectations](https://www.reddit.com/r/AskHistorians/wiki/faq/meta#wiki_rules_discussion) for an answer.
+
+### 920: [Inexplicable reserve battalions – why do my generals not command up to their capacity?](https://old.reddit.com/r/victoria3/comments/yt2mzz/inexplicable_reserve_battalions_why_do_my/), submitted on 2022-11-12 17:57:08+08:00.
+
+----- __920.1__ -----2022-11-12 17:57:37+08:00:
+
+R5: My generals clearly have enough command capacity to actually command all the battalions in their regions, but don't. 
+
+&#x200B;
+
+???
+
+----- __920.2__ -----2022-11-12 18:40:19+08:00:
+
+Yes. North India HQ for me consists of a single state, South Bengal. It has 50 barracks, and I have a Field Marshal with 100 command limit assigned to that HQ. I am not at war; conscription centres are not activated.
 
