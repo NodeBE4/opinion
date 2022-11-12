@@ -147,3 +147,7 @@ There is only one commander at that HQ, yes; however in image 3 I have the same 
 
 Yeah, I've done that a couple times, but the number of battalions slipping into reserves seems to increase every few months and I don't like having to take hits to my Armed Forces approval every time.
 
+----- __921.5__ -----2022-11-13 03:09:03+08:00:
+
+Cheers!
+
