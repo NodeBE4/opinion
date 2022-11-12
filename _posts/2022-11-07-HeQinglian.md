@@ -133,7 +133,7 @@ Re @xxj2040 说的是思想，不是皮囊。后者没人能做到，前者有�
 
 ### 30: [2022-11-08 05:51:49+08:00 推文](https://twitter.com/HeQinglian/status/1589737413706141696)
 
-主张各种性变态，包括为恋童癖正名的，都是民主党人、左派。<br>共和党人有，但不是MAGA，是民主党资助的RINO，比如林肯项目的参与者。<br>这个人只是因为某人转推才落入我时间线。我已经准备切割了。 <a href="https://twitter.com/LJardine93/status/1589082331436154880" target="_blank" rel="noopener noreferrer">https://twitter.com/LJardine93/status/1589082331436154880</a>
+主张各种性变态，包括为恋童癖正名的，都是民主党人、左派。<br>共和党人有，但不是MAGA，是民主党资助的RINO，比如林肯项目的参与者。<br>这个人只是因为某人转推才落入我时间线。我已经准备切割了。
 
 ### 31: [2022-11-08 05:56:12+08:00 推文](https://twitter.com/HeQinglian/status/1589738514832592903)
 
@@ -606,4 +606,32 @@ Re @JasonWa65249659 错在哪里？<br>众议院席位共435席，拿到218席�
 ### 148: [2022-11-12 07:45:27+08:00 推文](https://twitter.com/HeQinglian/status/1591215558737154048)
 
 Re @JasonWa65249659 你的链接呢？
+
+### 149: [2022-11-12 07:50:35+08:00 推文](https://twitter.com/HeQinglian/status/1591216850347896832)
+
+Re 说明一下，NBC的图标下有行小字，FLIPPED 19，意思是结果已经基本定了，民主党翻盘没可能了，但还未Call。<br>民主党那边是有6个未Call。
+
+### 150: [2022-11-12 08:24:44+08:00 推文](https://twitter.com/HeQinglian/status/1591225444078354433)
+
+真的有点代美国伤心：没有川普，共和党根本无望赢；川普奔走呼号为保守派阵营助选。州长、两院中刚拿下一院（还未最后Call），内战又起。<br>斗吧，不在斗争中升华，就在斗争中灭亡。<br><br>萧生客SSK🇺🇸🇨🇦: 川普总统揭露他们“挺德倒川”欲摧毁MAGA运动领袖的叙事：<br><br>11月8日中期选举（General Election）川普背书的254名候选人中的得胜率是78%！<br><br>大批MAGA共和党人将进入新一届国会，美国的政治环境正在朝着正确的方向挪移，虽然民主党和共和党建制派在拼命的阻挡⋯<br><br><img style="" src="https://pbs.twimg.com/media/FhUpAoPWAAAdHJs?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FhUpAoRXoAASjuB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FhUpAoSX0AExfTF?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FhUpAoTWYAAonh9?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://mp.weixin.qq.com/s/iAvsVfdVKB0ljzV8abS0QQ" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/iAvsVfdVKB0ljzV8abS0QQ</a>
+
+### 151: [2022-11-12 08:29:38+08:00 推文](https://twitter.com/HeQinglian/status/1591226677937725442)
+
+Re @JianglinLi @zhixiangziyou 内部分裂虽然预测一定有而且不小，但来得有点太快了。
+
+### 152: [2022-11-12 08:58:41+08:00 推文](https://twitter.com/NAConservative9/status/1591233989989498881)
+
+RT 北美保守评论🇺🇸🇨🇦<br>如果在六月份的时候，FL的投票选举诚信法没有通过的话，根本就不知道现在的结果是什么呀！这个选举诚信法的通过就是FL草根努力的结果，特别是这里的五票姊妹和他们的DF草根组织地毯式的方式，收集大量的资料，七十多页一趟趟的跑到州首府找到州长才通过的呀⋯ <a href="https://youtu.be/sjKZzylsIAE" target="_blank" rel="noopener noreferrer">https://youtu.be/sjKZzylsIAE</a>
+
+### 153: [2022-11-12 09:09:02+08:00 推文](https://twitter.com/HeQinglian/status/1591236595532763137)
+
+Re @ln6F1O6tq7V4EUw 美国选民无论左中右，反共不是他们选总统的第一考虑，甚至不是前八位之内的考虑。
+
+### 154: [2022-11-12 09:13:47+08:00 推文](https://twitter.com/HeQinglian/status/1591237789651456000)
+
+Re @JianglinLi @zhixiangziyou 其实有些事情我早就关注到了，你也应该关注到了。<br>不少共和党人竞选时需要川普助阵，过后就切割。维吉尼亚那位州长竞选，就是依靠先说明自己与川普的区隔，才赢得当地中间选民。<br>选战时的考虑，并不能解决分歧。这是川普2016胜选后，两院都在共和党手中，他仍然举步艰难的原因。
+
+### 155: [2022-11-12 09:15:41+08:00 推文](https://twitter.com/HeQinglian/status/1591238266791301120)
+
+Re @Wu_Zhi 好象内华达又Gain一个。<br>其实要我说，不是共和党真做了什么得人心的事情，而是民主党太败坏。
 

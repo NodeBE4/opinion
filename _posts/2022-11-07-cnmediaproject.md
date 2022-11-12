@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-11-10
+date: 2022-11-12
 from: https://twitter.com/cnmediaproject/status/1589809476412280834
 layout: post
 tags:
@@ -33,5 +33,9 @@ It's important to remember that there are still many journalists in China, media
 
 ### 5: [2022-11-10 21:08:58+08:00 推文](https://twitter.com/cnmediaproject/status/1590692995846012929)
 
-So important to look at official language in a broader context to understand when and whether it marks a fresh tone.<br><br>Mao: “最大限度減少疫情對經濟社會發展的影響”不是新提法 今年4月就提過<br><br><img style="" src="https://pbs.twimg.com/media/FhNBXmsaYAExf3T?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+So important to look at official language in a broader context to understand when and whether it marks a fresh tone.<br><br>Mao: “最大限度減少疫情對經濟社會發展的影響”不是新提法 今年4月就提過<br><br><img style="" src="https://pbs.twimg.com/media/FhNBXmsaYAExf3T?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/henrysgao/status/1590679960871895046" target="_blank" rel="noopener noreferrer">https://twitter.com/henrysgao/status/1590679960871895046</a>
+
+### 6: [2022-11-12 07:36:18+08:00 推文](https://twitter.com/donaldcclarke/status/1591213259319046144)
+
+RT Donald Clarke (@donaldcclarke@mastodon.online)<br>Some Chinese law-related websites now geoblocked, including China Judgments Online, the official source for all court judgments, touted as the ultimate in transparency. <a href="https://wenshu.court.gov.cn/" target="_blank" rel="noopener noreferrer">https://wenshu.court.gov.cn/</a>
 
