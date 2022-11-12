@@ -121,6 +121,10 @@ It's worth stressing that Alexander's affinity for the Homeric epics is question
 
 Back to the original point at hand, though, it must be granted that the claim Alexander slept with an Aristotle-commissioned copy of the *Iliad* is reasonably well-supported within Plutarch, who explicitly cites Onesikritos (possibly referring to the *Education of Alexander*); that said, Plutarch's assertion that 'many trustworthy authorities' attest to his storing it in a cask left behind at Issos is much tricker to accept at face value. One would have thought he'd be willing to let us know who these authorities were...
 
+----- __920.2__ -----2022-11-13 01:15:17+08:00:
+
+You've hit the nail on the head there: Alexander seems to have felt a pressing need to actually perform Greekness because of an awareness that this was not actually taken for granted by his allies, many of whom had seen his father Philip as a marauding barbarian and would not have suddenly forgotten it the moment his son came to power.
+
 ### 921: [Inexplicable reserve battalions – why do my generals not command up to their capacity?](https://old.reddit.com/r/victoria3/comments/yt2mzz/inexplicable_reserve_battalions_why_do_my/), submitted on 2022-11-12 17:57:08+08:00.
 
 ----- __921.1__ -----2022-11-12 17:57:37+08:00:
