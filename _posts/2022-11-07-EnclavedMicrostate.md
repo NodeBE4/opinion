@@ -111,9 +111,19 @@ The game does generate some real personages, especially for generals. I got Molt
 
 Your comment has been removed due to violations of the [subreddit’s rules](https://www.reddit.com/r/AskHistorians/wiki/rules). We expect answers to provide [in-depth and comprehensive insight](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer) into the topic at hand and to [be free of significant errors or misunderstandings](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/) while doing so. Before contributing again, please take the time to better familiarize yourself with the [subreddit rules](https://www.reddit.com/r/AskHistorians/wiki/rules) and [expectations](https://www.reddit.com/r/AskHistorians/wiki/faq/meta#wiki_rules_discussion) for an answer.
 
-### 920: [Inexplicable reserve battalions – why do my generals not command up to their capacity?](https://old.reddit.com/r/victoria3/comments/yt2mzz/inexplicable_reserve_battalions_why_do_my/), submitted on 2022-11-12 17:57:08+08:00.
+### 920: [If Alexander the Great slept with a copy of the Iliad under his pillow, as according to legend, what would be the physical form of his copy - one compact scroll, a pile of scrolls, something else entirely?](https://old.reddit.com/r/AskHistorians/comments/ysrje4/if_alexander_the_great_slept_with_a_copy_of_the/), submitted on 2022-11-12 08:13:27+08:00.
 
------ __920.1__ -----2022-11-12 17:57:37+08:00:
+----- __920.1__ -----2022-11-12 22:02:43+08:00:
+
+> Alexander had been fascinated by the Homeric epics since boyhood; one of his first acts after crossing into Asia Minor had been to visit the supposed site of Troy and reenact the funeral games of Patroclus. His former tutor Aristotle had composed or commissioned a special edition of the Iliad, which Alexander brought with him to Asia (Plutarch, Alexander 8.2; 26.2). We don't know whether this was a full edition of the poem or a "greatest hits" compilation focused on Achilles, Alexander's favorite character.
+
+It's worth stressing that Alexander's affinity for the Homeric epics is questionable on some counts. While all the main literary sources on Alexander include some degree of Homeric imagery, I think it is instructive that the only one they concur on is his decision to hold rites on arriving at Troy. Only Plutarch claims he quoted the *Odyssey* when founding Alexandria on the Nile; only Arrian likens his relationship with Hephaistion to Achilles and Patroklos, or draws directly on the Iliad to get into Alexander's headspace; only Diodoros has him invoking Achilles at the Hydaspes; and only Curtius has Alexander order the governor of Gaza to be dragged round the wall by hooks through his ankles. There's an argument to be made (in my view a strong one) that we ought to read the rites at Troy as an act of political cynicism during the more pan-Hellenic, pre-Gaugamela phase of Alexander's career, and to essentially regard other Homeric references in the Alexander sources as largely later interpolations.
+
+Back to the original point at hand, though, it must be granted that the claim Alexander slept with an Aristotle-commissioned copy of the *Iliad* is reasonably well-supported within Plutarch, who explicitly cites Onesikritos (possibly referring to the *Education of Alexander*); that said, Plutarch's assertion that 'many trustworthy authorities' attest to his storing it in a cask left behind at Issos is much tricker to accept at face value. One would have thought he'd be willing to let us know who these authorities were...
+
+### 921: [Inexplicable reserve battalions – why do my generals not command up to their capacity?](https://old.reddit.com/r/victoria3/comments/yt2mzz/inexplicable_reserve_battalions_why_do_my/), submitted on 2022-11-12 17:57:08+08:00.
+
+----- __921.1__ -----2022-11-12 17:57:37+08:00:
 
 R5: My generals clearly have enough command capacity to actually command all the battalions in their regions, but don't. 
 
@@ -121,15 +131,15 @@ R5: My generals clearly have enough command capacity to actually command all the
 
 ???
 
------ __920.2__ -----2022-11-12 18:40:19+08:00:
+----- __921.2__ -----2022-11-12 18:40:19+08:00:
 
 Yes. North India HQ for me consists of a single state, South Bengal. It has 50 barracks, and I have a Field Marshal with 100 command limit assigned to that HQ. I am not at war; conscription centres are not activated.
 
------ __920.3__ -----2022-11-12 18:45:59+08:00:
+----- __921.3__ -----2022-11-12 18:45:59+08:00:
 
 There is only one commander at that HQ, yes; however in image 3 I have the same issue in a different HQ with multiple generals whose combined command limits should be more than enough.
 
------ __920.4__ -----2022-11-12 18:54:39+08:00:
+----- __921.4__ -----2022-11-12 18:54:39+08:00:
 
 Yeah, I've done that a couple times, but the number of battalions slipping into reserves seems to increase every few months and I don't like having to take hits to my Armed Forces approval every time.
 
