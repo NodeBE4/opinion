@@ -17,11 +17,11 @@ title: 'Twitter @中国文字狱事件盘点: 2022-01-03~2022-01-09'
 
 ### 1: [2022-01-04 09:37:54+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1478178845673013251)
 
-贵州省施秉县女子廖某，因在抖音发布短视频称交警“阴魂不散”，被认定为辱警并被拘留5日。<br><img style src="https://pbs.twimg.com/media/FIOLkq8XoAMjHaT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIOLm_aWQAQ-p36?format=png&name=orig" referrerpolicy="no-referrer">
+贵州省施秉县女子廖某，因在抖音发布短视频称交警“阴魂不散”，被认定为辱警并被拘留5日。<br><img style="" src="https://pbs.twimg.com/media/FIOLkq8XoAMjHaT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIOLm_aWQAQ-p36?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2022-01-04 09:39:23+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1478179218089459713)
 
-Guizhou woman Liao detained for 5 days for posting a video on Douyin to mock traffic police, saying they were like "ghosts that were seen everywhere". Police claim Liao's video humiliated them.<br><img style="" src="https://pbs.twimg.com/media/FIOL24cWYAQmzY7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIOL5GaWUAkbuFX?format=png&amp;name=orig" referrerpolicy="no-referrer">
+Guizhou woman Liao detained for 5 days for posting a video on Douyin to mock traffic police, saying they were like "ghosts that were seen everywhere". Police claim Liao's video humiliated them.<br><img style="" src="https://pbs.twimg.com/media/FIOL24cWYAQmzY7?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIOL5GaWUAkbuFX?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2022-01-04 12:03:47+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1478215559602970629)
 
@@ -29,11 +29,11 @@ Guizhou woman Liao detained for 5 days for posting a video on Douyin to mock tra
 
 ### 4: [2022-01-05 16:52:28+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1478650594701332483)
 
-Re 这些言论中的部分出处如下：<br><img style="" src="https://pbs.twimg.com/media/FIU3_hnWYAAcFiY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIU4OBQXMAMZHSt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIU42PUWUAUXnX8?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIU43hDX0AE_N--?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re 这些言论中的部分出处如下：<br><img style src="https://pbs.twimg.com/media/FIU3_hnWYAAcFiY?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIU4OBQXMAMZHSt?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIU42PUWUAUXnX8?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIU43hDX0AE_N--?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2022-01-06 11:47:17+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1478936182641856516)
 
-2019年2月，河北省灵寿县男子张某，因在快手发表一张警察巡逻的照片，并配文“xx保平安；有血统，有证的，警犬“，被处拘留5日。<br><img style src="https://pbs.twimg.com/media/FIY8C6TXoAEV_O7?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIY8IKbWYAE0KCF?format=png&name=orig" referrerpolicy="no-referrer">
+2019年2月，河北省灵寿县男子张某，因在快手发表一张警察巡逻的照片，并配文“xx保平安；有血统，有证的，警犬“，被处拘留5日。<br><img style="" src="https://pbs.twimg.com/media/FIY8C6TXoAEV_O7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIY8IKbWYAE0KCF?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2022-01-06 11:48:22+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1478936453594116099)
 
