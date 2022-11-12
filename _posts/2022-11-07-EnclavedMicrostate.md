@@ -39,9 +39,15 @@ Universal Suffrage.
 
 Okay cool, so what about the other part which is the part where the Nazis get 100% of the vote?
 
-### 914: [Is it true there were dead bodies of workers/soldiers within the Great Wall of China during construction?](https://old.reddit.com/r/AskHistorians/comments/ypt90a/is_it_true_there_were_dead_bodies_of/), submitted on 2022-11-09 01:44:53+08:00.
+### 914: [Scatterbrained Simp Supervisors - Weekly Discussion Thread, November 8th, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/yp8v5t/scatterbrained_simp_supervisors_weekly_discussion/), submitted on 2022-11-08 10:40:09+08:00.
 
------ __914.1__ -----2022-11-09 18:56:48+08:00:
+----- __914.1__ -----2022-11-12 17:08:19+08:00:
+
+I mean, I'm kind of not too surprised. Fauna has said that she adopts older cats, and I think she's been mentally and emotionally prepared for this going in. It wouldn't surprise me if Clover isn't even the first cat she's lost this way.
+
+### 915: [Is it true there were dead bodies of workers/soldiers within the Great Wall of China during construction?](https://old.reddit.com/r/AskHistorians/comments/ypt90a/is_it_true_there_were_dead_bodies_of/), submitted on 2022-11-09 01:44:53+08:00.
+
+----- __915.1__ -----2022-11-09 18:56:48+08:00:
 
 The notion that the Great Wall contains human bodies is an interesting one, and goes in some unexpected directions.
 
@@ -59,9 +65,9 @@ The chronological compression of Great Walls is not a novel development, and ind
 
 For further reading, the definitive treatment of the Great Wall in English remains Arthur Waldron's *The Great Wall of China: From History to Myth* (1989).
 
-### 915: [What did pitched combat during the Taiping rebellion look like? How would it compare to the pitched battles of Europe/the American Civil war around the same time?](https://old.reddit.com/r/AskHistorians/comments/yq4yiz/what_did_pitched_combat_during_the_taiping/), submitted on 2022-11-09 09:36:48+08:00.
+### 916: [What did pitched combat during the Taiping rebellion look like? How would it compare to the pitched battles of Europe/the American Civil war around the same time?](https://old.reddit.com/r/AskHistorians/comments/yq4yiz/what_did_pitched_combat_during_the_taiping/), submitted on 2022-11-09 09:36:48+08:00.
 
------ __915.1__ -----2022-11-10 02:04:37+08:00:
+----- __916.1__ -----2022-11-10 02:04:37+08:00:
 
 So, the unfortunate answer is we don't really have a good sense of it, at least not at the scholarship level. And there are a few reasons for this. Firstly, operational military history has not had as much interest from historians of China as it has for histories of warfare in other contexts. Secondly, the Chinese historiographical tradition is not as tactically detailed as the European. European historians until the last century or two came from a background in which the elite served both military and civil functions, whereas for much of Chinese history, warfare and the martial sphere were considered beneath the literati elite. That is not to say we do not have some degree of detailed operational history for large parts of Chinese military history, but the focus of our sources tends to be somewhat elsewhere. I am certain we *could* reconstruct the Taiping War in terms of operational and tactical history from the sources we have, but as it stands, nobody really has done yet. Arguably the closest we get is from Jen Yu-Wen, who gives a decent accounting of campaigns in *The Taiping Revolutionary Movement*, but he really doesn't cover *battles* in depth.
 
@@ -77,9 +83,9 @@ Unfortunately, I may not be of much help here. For one I'm in grad school now an
 
 A major caveat to the above sources is that they mostly concentrate on European or European-led units in the eastern theatre of the war, rather than the larger confrontations between the Taiping and the Hunanese militia in the west. Platt tries to balance between the two ends, and Lindley does record one or two confrontations further up the Yangtze to be fair, but be very aware that the focus here skews eastward towards the European-involved part of the fighting, rather than the more 'peer' conflict in the west.
 
-### 916: [East Asia - AD 1802 - WIP - [4983x6637] [OC]](https://old.reddit.com/r/Map_Porn/comments/yqmyd0/east_asia_ad_1802_wip_4983x6637_oc/), submitted on 2022-11-09 23:59:07+08:00.
+### 917: [East Asia - AD 1802 - WIP - [4983x6637] [OC]](https://old.reddit.com/r/Map_Porn/comments/yqmyd0/east_asia_ad_1802_wip_4983x6637_oc/), submitted on 2022-11-09 23:59:07+08:00.
 
------ __916.1__ -----2022-11-10 05:42:29+08:00:
+----- __917.1__ -----2022-11-10 05:42:29+08:00:
 
 So, ~~three~~ four suggestions, of varying levels of practicality:
 
@@ -91,15 +97,15 @@ Thirdly, Japan was not really a singular entity: a gander at [this article](http
 
 Looking specifically at the Pearl River Delta for a sec, there are places here that should be marked and places here that should not. In 1802, Hong Kong and Shenzhen did not meaningfully exist; on the flip-side, Macau is an absolutely vital inclusion that is very noticeable by its absence. Looking northward for a sec, there are plenty of ahistorical Russian place names in still-Qing-held Manchuria. I assume part of this is because of the WIP issue, but still, worth flagging.
 
-### 917: [Got a certain character in my qing run](https://old.reddit.com/r/victoria3/comments/yqx27a/got_a_certain_character_in_my_qing_run/), submitted on 2022-11-10 06:07:25+08:00.
+### 918: [Got a certain character in my qing run](https://old.reddit.com/r/victoria3/comments/yqx27a/got_a_certain_character_in_my_qing_run/), submitted on 2022-11-10 06:07:25+08:00.
 
------ __917.1__ -----2022-11-10 23:30:41+08:00:
+----- __918.1__ -----2022-11-10 23:30:41+08:00:
 
 The game does generate some real personages, especially for generals. I got Moltke the Elder, Albrecht von Roon, Moltke the Younger, Paul von Hindenburg and Erich Ludendorff as Prussia.
 
-### 918: [Are there any theories on why the ancient Chinese did not adopt an alphabetic writing system?](https://old.reddit.com/r/AskHistorians/comments/ysdbij/are_there_any_theories_on_why_the_ancient_chinese/), submitted on 2022-11-11 23:16:54+08:00.
+### 919: [Are there any theories on why the ancient Chinese did not adopt an alphabetic writing system?](https://old.reddit.com/r/AskHistorians/comments/ysdbij/are_there_any_theories_on_why_the_ancient_chinese/), submitted on 2022-11-11 23:16:54+08:00.
 
------ __918.1__ -----2022-11-12 02:59:14+08:00:
+----- __919.1__ -----2022-11-12 02:59:14+08:00:
 
 > the short answer is
 
