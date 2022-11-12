@@ -125,3 +125,11 @@ R5: My generals clearly have enough command capacity to actually command all the
 
 Yes. North India HQ for me consists of a single state, South Bengal. It has 50 barracks, and I have a Field Marshal with 100 command limit assigned to that HQ. I am not at war; conscription centres are not activated.
 
+----- __920.3__ -----2022-11-12 18:45:59+08:00:
+
+There is only one commander at that HQ, yes; however in image 3 I have the same issue in a different HQ with multiple generals whose combined command limits should be more than enough.
+
+----- __920.4__ -----2022-11-12 18:54:39+08:00:
+
+Yeah, I've done that a couple times, but the number of battalions slipping into reserves seems to increase every few months and I don't like having to take hits to my Armed Forces approval every time.
+
