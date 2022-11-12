@@ -117,7 +117,7 @@ Re @seeyoua22819375 @xxj2040 高玉宝、雷锋至少是正常人、普通人。
 
 ### 26: [2022-11-08 05:20:39+08:00 推文](https://twitter.com/HeQinglian/status/1589729566943498240)
 
-RT He Qinglian<br>“习近平思想”将中国导向何方？<br><br>人民经济、人类命运共同体、绿色经济是“道”，用来争当“世界领袖”的理论工具，这点习继承了毛的衣钵<br>加强党对经济工作的领导、坚持公有制为主体、供给侧改革谓之“术”，这是习对邓小平理论的继承，“术”可以随时调整，可以“摸着石头过河”，允许试错<br><br>自由亚洲电台: 评论 | #何清涟 @HeQinglian：“#习近平思想”将中国导向何方？<br> <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter</a>
+“习近平思想”将中国导向何方？<br><br>人民经济、人类命运共同体、绿色经济是“道”，用来争当“世界领袖”的理论工具，这点习继承了毛的衣钵<br>加强党对经济工作的领导、坚持公有制为主体、供给侧改革谓之“术”，这是习对邓小平理论的继承，“术”可以随时调整，可以“摸着石头过河”，允许试错<br><br>自由亚洲电台: 评论 | #何清涟 @HeQinglian：“#习近平思想”将中国导向何方？<br> <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter</a>
 
 ### 27: [2022-11-08 05:37:04+08:00 推文](https://twitter.com/HeQinglian/status/1589733697666056192)
 
@@ -133,7 +133,7 @@ Re @xxj2040 说的是思想，不是皮囊。后者没人能做到，前者有�
 
 ### 30: [2022-11-08 05:51:49+08:00 推文](https://twitter.com/HeQinglian/status/1589737413706141696)
 
-主张各种性变态，包括为恋童癖正名的，都是民主党人、左派。<br>共和党人有，但不是MAGA，是民主党资助的RINO，比如林肯项目的参与者。<br>这个人只是因为某人转推才落入我时间线。我已经准备切割了。
+主张各种性变态，包括为恋童癖正名的，都是民主党人、左派。<br>共和党人有，但不是MAGA，是民主党资助的RINO，比如林肯项目的参与者。<br>这个人只是因为某人转推才落入我时间线。我已经准备切割了。 <a href="https://twitter.com/LJardine93/status/1589082331436154880" target="_blank" rel="noopener noreferrer">https://twitter.com/LJardine93/status/1589082331436154880</a>
 
 ### 31: [2022-11-08 05:56:12+08:00 推文](https://twitter.com/HeQinglian/status/1589738514832592903)
 
@@ -634,4 +634,20 @@ Re @JianglinLi @zhixiangziyou 其实有些事情我早就关注到了，你也�
 ### 155: [2022-11-12 09:15:41+08:00 推文](https://twitter.com/HeQinglian/status/1591238266791301120)
 
 Re @Wu_Zhi 好象内华达又Gain一个。<br>其实要我说，不是共和党真做了什么得人心的事情，而是民主党太败坏。
+
+### 156: [2022-11-12 22:40:41+08:00 推文](https://twitter.com/HeQinglian/status/1591440854153142272)
+
+Re @EvanLi2020 夺回学校谈何容易。<br>目前这状态，能拿到一个众议院都不错，但也只能阻止拜登的一些极端政策。
+
+### 157: [2022-11-12 22:41:43+08:00 推文](https://twitter.com/HeQinglian/status/1591441114321813504)
+
+Re @mide56323189 这两位绝对不是攻击，只是怒共和党不争，也指出了川普一些不足——他确实有不足。
+
+### 158: [2022-11-12 22:44:44+08:00 推文](https://twitter.com/HeQinglian/status/1591441871494344710)
+
+Re @haydnleen 红潮没来，是整个选战中，在资金投入、人力动员、社区深耕上，共和党本来就远远不如民主党所致。<br>但是，面对这样一个没底线且收割选票非常有经验的对手，今年能有如此成绩，是不少共和党选民的艰苦努力。没能在各州阻止大规模邮寄选票与延迟点票时间，是共和党建制派的错，他们本应该多做点工作。
+
+### 159: [2022-11-12 22:49:49+08:00 推文](https://twitter.com/HeQinglian/status/1591443150211801088)
+
+Re @GodPAmerica 林肯项目的人，早就是拿民主党的资助，只是必须顶着共和党人的名义，才能从内部破坏。<br>2020年，AOC认为他们业绩不好，要求退款，民主党方还揭露参与者的娈童、贪污。
 
