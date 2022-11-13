@@ -341,7 +341,7 @@ Re @wbn19971 那就少说为佳。记得前几天你说过自己对美国不了�
 
 ### 82: [2022-11-10 08:24:25+08:00 推文](https://twitter.com/HeQinglian/status/1590500591918526466)
 
-彭博社的有即时显示，从图示来看，共和党除了已确定的207个席位（路透报208个），占领先优势的还有13个席位，维持这种领先优势，共和党能够夺得众议院。<br>佩洛西做不成议长，是件大快人心事。<br><br>He Qinglian: 更新：<br>民主党得183个席位，失去8个原有席位；共和党得207个席位，得到6个新的席位。<br>参议院是民主党48个席位（含两个左派独立党派），共和党49个席位。<br>共和党选民加油，看紧投票箱。<br> <a href="https://twitter.com/HeQinglian/status/1590408750174982144" target="_blank" rel="noopener noreferrer">https://twitter.com/HeQinglian/status/1590408750174982144</a>
+彭博社的有即时显示，从图示来看，共和党除了已确定的207个席位（路透报208个），占领先优势的还有13个席位，维持这种领先优势，共和党能够夺得众议院。<br>佩洛西做不成议长，是件大快人心事。<br><br>He Qinglian: 更新：<br>民主党得183个席位，失去8个原有席位；共和党得207个席位，得到6个新的席位。<br>参议院是民主党48个席位（含两个左派独立党派），共和党49个席位。<br>共和党选民加油，看紧投票箱。<br>
 
 ### 83: [2022-11-10 08:32:04+08:00 推文](https://twitter.com/HeQinglian/status/1590502517653540865)
 
@@ -651,23 +651,47 @@ Re @haydnleen 红潮没来，是整个选战中，在资金投入、人力动员
 
 Re @GodPAmerica 林肯项目的人，早就是拿民主党的资助，只是必须顶着共和党人的名义，才能从内部破坏。<br>2020年，AOC认为他们业绩不好，要求退款，民主党方还揭露参与者的娈童、贪污。
 
-### 160: [2022-11-13 03:09:31+08:00 推文](https://twitter.com/HeQinglian/status/1591508505411854336)
+### 160: [2022-11-13 01:34:03+08:00 推文](https://twitter.com/KELMAND1/status/1591484480916983809)
+
+RT Ezio Mao☢<br>来自美国的“军事援助”—被乌克兰投资于加密货币“FTX”！<br><br>FTX 的负责人山姆·班克曼-弗里德 是民主党的第二大捐助者。😅<br><br>一个骗局投资了另一个骗局，后者投资了另一个崩溃的骗局。 <a href="https://halturnerradioshow.com/index.php/en/news-page/world/breaking-news-ukraine-military-aid-from-usa-was-invested-in-crypto-ftx-by-ukraine" target="_blank" rel="noopener noreferrer">https://halturnerradioshow.com/index.php/en/news-page/world/breaking-news-ukraine-military-aid-from-usa-was-invested-in-crypto-ftx-by-ukraine</a>
+
+### 161: [2022-11-13 03:09:31+08:00 推文](https://twitter.com/HeQinglian/status/1591508505411854336)
 
 Re @farmdirect8 当林肯项目在未经本人同意的情况下，迫不及待地制作了德桑蒂斯的竞选广告之后，我对此持保留看法。<br>民主党出钱资助的林肯项目，绝对只会做民主党的马前卒。
 
-### 161: [2022-11-13 03:14:56+08:00 推文](https://twitter.com/HeQinglian/status/1591509869471076352)
+### 162: [2022-11-13 03:14:56+08:00 推文](https://twitter.com/HeQinglian/status/1591509869471076352)
 
 我多次说过，川普本人的长处是Rally，他也特别享受这种Rally，但缺乏基层的组织能力，无法深耕社区，将Rally的支持化为投票中制约民主党舞弊的组织性抗衡力量。<br>这本来是RNC应该做的工作，显然RNC工作没到位。<br><br>L JM🇺🇸: 这不是共和党的信息。这不是低质量的候选人。这不是特朗普。这不是堕胎。<br><br>这是大规模邮寄/投递箱投票。就这么简单。除非停止选举，否则共和党人将永远不会赢得另一场选举。<br><br>完全同意！<br>
 
-### 162: [2022-11-13 06:25:50+08:00 推文](https://twitter.com/HeQinglian/status/1591557909514690562)
+### 163: [2022-11-13 06:25:50+08:00 推文](https://twitter.com/HeQinglian/status/1591557909514690562)
 
 Re @heimijiu 宾州共和党躺平，可能有你讲的原因。<br>我们客观分析，于我们来说，比表达立场更重要。
 
-### 163: [2022-11-13 06:30:57+08:00 推文](https://twitter.com/HeQinglian/status/1591559200408207360)
+### 164: [2022-11-13 06:30:57+08:00 推文](https://twitter.com/HeQinglian/status/1591559200408207360)
 
 川普与桑德斯的极左都是在两党内借窝生蛋，但影响完全不同。<br>极左方阵在党内进退都是有组织的帮派，最后让拜登、波洛西这些所谓传统民主党人完全按照其意愿做事，极左当道。<br>川普从上任到现在，在党内始终是孤军奋战状态。他任命的人就算与他合作得不错，也被民主党收拾。MAGA与共和党始终是两张皮。<br><br>He Qinglian: 我多次说过，川普本人的长处是Rally，他也特别享受这种Rally，但缺乏基层的组织能力，无法深耕社区，将Rally的支持化为投票中制约民主党舞弊的组织性抗衡力量。<br>这本来是RNC应该做的工作，显然RNC工作没到位。<br>
 
-### 164: [2022-11-13 06:38:31+08:00 推文](https://twitter.com/HeQinglian/status/1591561102520901632)
+### 165: [2022-11-13 06:38:31+08:00 推文](https://twitter.com/HeQinglian/status/1591561102520901632)
 
 Re @fading_you1 我很理解家长们的痛苦。<br>有位朋友的女儿本来好好的，如今找了个英国左派做男友，自己也变得不男不女，在装束上体现出来。父母有点感觉，但无法面对。<br>这还不是变性，只是感觉女儿无法进入他们希望的正常婚姻与家庭生活，情绪就大受影响。
+
+### 166: [2022-11-13 10:26:35+08:00 推文](https://twitter.com/HeQinglian/status/1591618499616595969)
+
+Re @JianglinLi @franktianxie @ngexp @david_david1968 @Wu_Zhi 以如今的资讯之发达，世界之大，难藏七尺之身。如果抓不到，应该就是不想抓。<br>骗子与骗子风云际会，谁骗过谁，还真的得比划比划。
+
+### 167: [2022-11-13 10:33:29+08:00 推文](https://twitter.com/HeQinglian/status/1591620235291144192)
+
+Re @realTaoRay 这事情，亚历桑那的共和党其实有不少是乐意的。前天看见一消息，一共和党人士批评点票速度太慢，另一共和党高层马上喷过去。<br>这个县的作弊在2020是做过调查的，这次依然如此，只能说与宾州一样，两州的共和党上层躺平。
+
+### 168: [2022-11-13 10:44:00+08:00 推文](https://twitter.com/HeQinglian/status/1591622879543963648)
+
+Re @realTaoRay 我就不知道，为何不能象以前一样，当天晚上就截止。<br>上次败在这点，人家那邮寄选票如潮水一样，无限借给，这次还栽倒在这个坑里，只能说是有意放任。
+
+### 169: [2022-11-13 10:48:17+08:00 推文](https://twitter.com/HeQinglian/status/1591623958897516544)
+
+最新消息：<br>参议院：民主党49：共和党49 <br>众议院：民主党203：共和党211 <a href="https://www.wsj.com/election/2022/general?mod=theme_midterms2022" target="_blank" rel="noopener noreferrer">https://www.wsj.com/election/2022/general?mod=theme_midterms2022</a>
+
+### 170: [2022-11-13 10:51:40+08:00 推文](https://twitter.com/HeQinglian/status/1591624810005958657)
+
+Re 又更新了，民主党参议院为50席。
 
