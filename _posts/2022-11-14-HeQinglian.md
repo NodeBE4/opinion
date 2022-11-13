@@ -1,0 +1,29 @@
+---
+author: HeQinglian
+categories:
+- Twitter
+date: 2022-11-14
+from: https://twitter.com/HeQinglian/status/1591823531318312965
+layout: post
+tags:
+- Twitter
+title: 'Twitter @He Qinglian: 2022-11-14~2022-11-20'
+---
+
+2001年辞国，现居美国。著作有《人口：中国的悬剑》《现代化的陷阱》《雾锁中国》、《中国：溃而不崩》等。 
+
+* This will become a table of contents (this text will be scrapped).
+{:toc}
+
+### 1: [2022-11-14 00:01:19+08:00 推文](https://twitter.com/HeQinglian/status/1591823531318312965)
+
+FT：俄國入侵烏克蘭不論最終勝負 普亭都是贏家<br><br>金融時報解釋，在俄國民眾眼裡，任何形式對西方的抵抗都是勝利，無論結果是贏或輸。即使撤退，民眾也會自我安慰，認為這避免了俄國進一步被奴役。因此，軍事失利與普亭聲望無關。<br>——这是FT的看法，美国媒体可以同时欢呼两场胜利 <a href="https://udn.com/news/story/6809/6760752" target="_blank" rel="noopener noreferrer">https://udn.com/news/story/6809/6760752</a>
+
+### 2: [2022-11-14 00:01:54+08:00 推文](https://twitter.com/HeQinglian/status/1591823678815277056)
+
+Re @romagnori @zhixiangziyou 当看客。
+
+### 3: [2022-11-14 00:40:01+08:00 推文](https://twitter.com/HeQinglian/status/1591833271834669056)
+
+Re @nanjihenhao 与选民无关，与邮寄选票有关。邮寄选票并非代表真实选民。
+
