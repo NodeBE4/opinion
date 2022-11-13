@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2022-11-07~2022-11-13'
 
 ### 4: [2022-11-10 22:09:35+08:00 推文](https://twitter.com/realcaixia/status/1590708252110557184)
 
-昨天临登机时传来噩耗：鲍老谢世了。一路感伤不已。鲍老是中国人争取自由民主政治转型的标志性人物，作为追随老一代志士仁人的后来者和晚辈，鲍老的逝世，除了深深的悲哀，还有一幕幕往事都浮现在脑中。记得炎黄春秋老人们曾殷切嘱咐：我们都老了，事情还要继续做下去，要你们接上来啊。鲍老不朽！哀悼<br><br>高瑜: 【鮑彤90答謝辭】人是天地之間一個非常渺小的歷史的存在，在這非常渺小的歷史存在當中，我能夠和各位肝膽相照，長期互相認識，我感到這是我的榮譽。我的90不90並不重要，重要的是我們大家要爭取的未來，要爭取的今天，要在今天做自己能夠做、應該做的事情，必須做的事情，把它做好。<br><br><img style="" src="https://pbs.twimg.com/media/FgzmJW5UAAAB1xK?format=png&amp;name=orig" referrerpolicy="no-referrer">
+昨天临登机时传来噩耗：鲍老谢世了。一路感伤不已。鲍老是中国人争取自由民主政治转型的标志性人物，作为追随老一代志士仁人的后来者和晚辈，鲍老的逝世，除了深深的悲哀，还有一幕幕往事都浮现在脑中。记得炎黄春秋老人们曾殷切嘱咐：我们都老了，事情还要继续做下去，要你们接上来啊。鲍老不朽！哀悼<br><br>高瑜: 【鮑彤90答謝辭】人是天地之間一個非常渺小的歷史的存在，在這非常渺小的歷史存在當中，我能夠和各位肝膽相照，長期互相認識，我感到這是我的榮譽。我的90不90並不重要，重要的是我們大家要爭取的未來，要爭取的今天，要在今天做自己能夠做、應該做的事情，必須做的事情，把它做好。<br><br><img style="" src="https://pbs.twimg.com/media/FgzmJW5UAAAB1xK?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/gaoyu200812/status/1588735404769161217" target="_blank" rel="noopener noreferrer">https://twitter.com/gaoyu200812/status/1588735404769161217</a>
 
 ### 5: [2022-11-11 01:57:38+08:00 推文](https://twitter.com/realcaixia/status/1590765640356614145)
 
@@ -90,4 +90,8 @@ Re 中共国不停地做全民核酸检测，做到财政空了，民众生存�
 ### 19: [2022-11-13 00:05:21+08:00 推文](https://twitter.com/realcaixia/status/1591462159199911937)
 
 用全副武装的装甲车在街头恐吓市民，赤裸裸的极权暴力统治。全世界还有哪个国家是这样的？<br><video src="https://video.twimg.com/ext_tw_video/1591462112974479361/pu/vid/464x848/McIilYCPnPlodXGo.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1591462112974479361/pu/img/j0IWJKA9Sh15db1o.jpg"></video>
+
+### 20: [2022-11-13 11:28:21+08:00 推文](https://twitter.com/realcaixia/status/1591634041463312386)
+
+同一个民族同胞，说着同一种语言，视频中的同胞享有着行使着中国人全无的政治权利。他们视投票选举为理所当然理直气壮，中国人若争取选举投票权利，就被关进监狱扣上颠覆政权罪。两相对比，谁是国家的主人，谁是国家的奴隶，泾渭分明。感慨万千！<br><br>Js: 抖音的这条视频引起数万人点赞，评论区竟然无一条留言......<br><br><video src="https://video.twimg.com/ext_tw_video/1591526931564232705/pu/vid/1280x720/fOUE7RWjeMSVscY5.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1591526931564232705/pu/img/pPz9ZT5AxDYiTXZH.jpg"></video>
 
