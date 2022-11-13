@@ -27,3 +27,19 @@ Re @romagnori @zhixiangziyou 当看客。
 
 Re @nanjihenhao 与选民无关，与邮寄选票有关。邮寄选票并非代表真实选民。
 
+### 4: [2022-11-14 02:31:36+08:00 推文](https://twitter.com/HeQinglian/status/1591861352661925892)
+
+Re @lindahuiyun @lqfxj @realTaoRay 只想收获，不想播种，是做不到这点的。
+
+### 5: [2022-11-14 02:36:27+08:00 推文](https://twitter.com/HeQinglian/status/1591862574974472196)
+
+Re @landu20000 @realTaoRay 你大概不知纳税人有何权利。比福利族其实更有权利。
+
+### 6: [2022-11-14 02:40:14+08:00 推文](https://twitter.com/HeQinglian/status/1591863524904808448)
+
+Re @Wu_Zhi 任何胜负，都有投入与产出问题，你只要想一下就明白了。<br>唯有乌克兰，怎么算都是输了。但泽连斯基赢了。如果说乌克兰出了一个可以批评全世界各国的领导人算赢，乌克兰完胜。
+
+### 7: [2022-11-14 02:44:29+08:00 推文](https://twitter.com/HeQinglian/status/1591864594812862465)
+
+Re @Wu_Zhi 我一直说，决定何时开战不难，难在决定何时停战。<br>选在美国两院休会时撤退，这时点真是选得太好了。<br>北约东扩算是止住了。
+
