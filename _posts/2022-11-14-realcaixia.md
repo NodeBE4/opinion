@@ -31,3 +31,23 @@ title: 'Twitter @蔡霞: 2022-11-14~2022-11-20'
 
  <a href="https://youtu.be/o1jdX9I010M" target="_blank" rel="noopener noreferrer">https://youtu.be/o1jdX9I010M</a>
 
+### 5: [2022-11-14 04:20:00+08:00 推文](https://twitter.com/realcaixia/status/1591888634231533568)
+
+Re 看看第三代中央常委会常委们全体出席大会时的彼此互动交流状态，气氛轻松愉快，常委们各自表情神态那样的生动。与中共二十大会场上的气氛成鲜明对照。<br><img style="" src="https://pbs.twimg.com/media/FheGRjhUcAAbk6N?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FheGRjcVsAAjpTb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FheGRjeUYAYz5hj?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FheGRjcUUAEIi87?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-11-14 04:25:20+08:00 推文](https://twitter.com/realcaixia/status/1591889973376352256)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FheHfgQVEAE26k0?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FheHfgMVQAA6SdC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FheHfgMUcAA1bEm?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FheHfgQUoAAQJLY?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 7: [2022-11-14 04:30:43+08:00 推文](https://twitter.com/realcaixia/status/1591891328576937985)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FheIuX1VUAAeHUt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FheIuX3VEAAYFD5?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FheIuX2VQAAKDwu?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FheIuX3UcAMaTi9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 8: [2022-11-14 04:49:21+08:00 推文](https://twitter.com/realcaixia/status/1591896018085646336)
+
+Re 我专门截了这四副图：<br>前两幅请看一位大会女工作人员与江、胡说话时的神态，完全轻松愉快，没有习手下人的那种紧张拘谨猥琐奉迎神情；<br>后两幅是散会了，江走出会场时前面被李鹏、田纪云、朱榕基（？）三人说话挡住去路，那三个常委谁都没有毕恭毕敬弯腰躬背让路，等发现江泽民后田纪云走在江前面退场。<br><img style="" src="https://pbs.twimg.com/media/FheM_XCUcAAqwRC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FheM_XEVUAATU4F?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FheM_XDUcAAihW6?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FheM_XDUYAAOePb?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 9: [2022-11-14 05:02:08+08:00 推文](https://twitter.com/realcaixia/status/1591899234743484416)
+
+Re 请看中共第三代领导集体中央常委们全体出席会议的愉快神情与轻松互动。<br>而20大会议主席台上，习黑着脸眼露凶光，台上人人眼神呆滞，面无表情地僵在座位上。两相对比，恰成鲜明对照！<br><img style="" src="https://pbs.twimg.com/media/FheP6jRUAAATvWw?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FheP6jUUoAE1teY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FheP6jRVQAA4GgP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FheP6jUUUAARk_l?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

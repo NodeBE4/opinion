@@ -53,7 +53,7 @@ Re @xxj2040 英国退欧，有个原因是在欧盟内部的地位尴尬，德�
 
 ### 10: [2022-07-11 11:13:51+08:00 推文](https://twitter.com/HeQinglian/status/1546331910334517255)
 
-7月6日，由于担心基辅无法归还这笔钱，欧盟委员会预算机构拒绝批准通过欧洲投资银行向乌克兰援助的15亿欧元贷款；德国亦出手阻止欧盟对乌克兰的 90 亿欧元一揽子援助计划<br><br>此信息说明目前乌克兰战争已经成了西方世界的鸡肋。不知泽连斯基下一个筹款对象是哪些国家。<br><br>jiang shangrong: ‼️‼️泽连斯基：“我们需要惩罚俄罗斯——一个恐怖主义国家——对乌克兰和国际法律秩序所做的一切。”<br><br>泽连斯基承诺，在“未来几周”内，他将寻求全世界承认“俄罗斯的罪行”。他承诺，俄罗斯的“战犯”将在世界各地被捕，即便年龄在 90 至 100 岁之间。<br><br><video src="https://video.twimg.com/ext_tw_video/1546237120053792768/pu/vid/848x464/3-sfP6zMZP-9db3Q.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1546237120053792768/pu/img/f2OsX91TSfVeAb20.jpg"></video> <a href="https://t.me/JShangrong" target="_blank" rel="noopener noreferrer">https://t.me/JShangrong</a> <a href="https://twitter.com/jiangshangrong/status/1545832524391321602" target="_blank" rel="noopener noreferrer">https://twitter.com/jiangshangrong/status/1545832524391321602</a>
+7月6日，由于担心基辅无法归还这笔钱，欧盟委员会预算机构拒绝批准通过欧洲投资银行向乌克兰援助的15亿欧元贷款；德国亦出手阻止欧盟对乌克兰的 90 亿欧元一揽子援助计划<br><br>此信息说明目前乌克兰战争已经成了西方世界的鸡肋。不知泽连斯基下一个筹款对象是哪些国家。 <a href="https://www.bloomberg.com/news/articles/2022-07-07/eu-bureaucracy-seen-blocking-1-5-billion-euro-loan-to-ukraine" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2022-07-07/eu-bureaucracy-seen-blocking-1-5-billion-euro-loan-to-ukraine</a>
 
 ### 11: [2022-07-11 11:17:56+08:00 推文](https://twitter.com/HeQinglian/status/1546332938031321089)
 
@@ -361,7 +361,7 @@ Re @shenliangqing2 应该说，你是现在各方都想争取的力量，因此�
 
 ### 87: [2022-07-14 05:59:24+08:00 推文](https://twitter.com/HeQinglian/status/1547339938559135744)
 
-美军在阿富汗“有序撤退”时，留下价值数百亿的军事装备，算不算资敌？美国媒体讨论了一阵就放弃了。因为《纽约时报》等主媒发现，再讨论下去，有损他们力推的拜登总统的光辉形象，让亲者痛仇者快。<br><br>Ezio Mao☢: 这事儿有更新了，根据俄罗斯方面可靠消息来源 - 乌克兰以 80 万美元的价格向俄军出售了一架 HIMARS火箭炮。<br><br>此外，正在协商转让33万美元的弹药问题。<br><br>选择的交货方法非常有趣：将海马斯留在灰色区域的棚子中，以便俄罗斯军人在扫荡过程中“不小心”偶然发现它。<br><br><img style="" src="https://pbs.twimg.com/media/FXey6GKUEAANz9X?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/KELMAND1/status/1543106999222939648" target="_blank" rel="noopener noreferrer">https://twitter.com/KELMAND1/status/1543106999222939648</a>
+美军在阿富汗“有序撤退”时，留下价值数百亿的军事装备，算不算资敌？美国媒体讨论了一阵就放弃了。因为《纽约时报》等主媒发现，再讨论下去，有损他们力推的拜登总统的光辉形象，让亲者痛仇者快。
 
 ### 88: [2022-07-14 07:58:47+08:00 推文](https://twitter.com/HeQinglian/status/1547369983457607686)
 
@@ -409,7 +409,7 @@ Re 曾有推友认为我讲40国联军是段子，真不是，就是美国讲过
 
 ### 99: [2022-07-14 08:47:17+08:00 推文](https://twitter.com/HeQinglian/status/1547382189557440513)
 
-这句话……，<br>是念稿子还是拜登即兴发挥？白宫发言人能否解释一下？以释天下之疑。
+这句话……，<br>是念稿子还是拜登即兴发挥？白宫发言人能否解释一下？以释天下之疑。<br><br>Newsmax: President Biden, after touching down in Israel on Wednesday, mistakenly said we must keep alive the "honor of the Holocaust," instead of the "horror of the Holocaust." <br><br>Biden also mispronounced the name of the Jerusalem Holocaust museum Yad Vashem.<br><br><video src="https://video.twimg.com/ext_tw_video/1547351417999872001/pu/vid/720x720/sVbxqwFXpVticfYH.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1547351417999872001/pu/img/wNf8BYThTWYdtlcd.jpg"></video> <a href="https://bit.ly/3Ru2PZ7" target="_blank" rel="noopener noreferrer">https://bit.ly/3Ru2PZ7</a>
 
 ### 100: [2022-07-14 10:21:19+08:00 推文](https://twitter.com/HeQinglian/status/1547405851232796672)
 
@@ -417,7 +417,7 @@ Re @dongle_smith @RFI_Cn 这是谴责名单，不是一回事。
 
 ### 101: [2022-07-14 10:29:59+08:00 推文](https://twitter.com/HeQinglian/status/1547408034061815815)
 
-历史的经验告诉人们：<br>当年拿破仑要回来了，巴黎的报纸一天换一个标题。<br>第一天：“科西嘉的怪物在儒安港登陆”<br>第二天：“吃人的魔鬼向格腊斯前进”<br>第三天：“篡位者进入格勒诺布尔”<br>第四天：“波拿巴占领里昂”<br>第五天：“拿破仑接近枫丹白露”<br>第六天：“皇帝陛下将于今日抵达他忠实的巴黎”
+历史的经验告诉人们：<br>当年拿破仑要回来了，巴黎的报纸一天换一个标题。<br>第一天：“科西嘉的怪物在儒安港登陆”<br>第二天：“吃人的魔鬼向格腊斯前进”<br>第三天：“篡位者进入格勒诺布尔”<br>第四天：“波拿巴占领里昂”<br>第五天：“拿破仑接近枫丹白露”<br>第六天：“皇帝陛下将于今日抵达他忠实的巴黎”<br><br>Frank Tian Xie (謝田), Ph.D.: 纽约时报六月卅日报导：普京近来神情“轻松、耐心、自信”，告别数月前“紧张、易怒，甚至心神不定”的他。这戏剧化转变怎么来的？<br> <a href="https://twitter.com/bannedebook/status/1547372813874794496" target="_blank" rel="noopener noreferrer">https://twitter.com/bannedebook/status/1547372813874794496</a>
 
 ### 102: [2022-07-14 22:04:25+08:00 推文](https://twitter.com/HeQinglian/status/1547582795123343366)
 
@@ -537,7 +537,7 @@ Re @Meitiaowushi @shenliangqing2 变革，要有时机、条件。<br>斯里兰�
 
 ### 131: [2022-07-15 21:32:53+08:00 推文](https://twitter.com/HeQinglian/status/1547937246170427392)
 
-彭博这篇文章还在讨论衰退到底是否到来，列出的指标是连续两个季节衰退。<br>美国衰退不可避免，彭博谈的只是经济，其实还有国势。<br>2020年的大选，无论如何是一场国运之赌，希望民主党选民想清楚，自己到底要什么。<br>拜登履行了绝大部分竞选承诺，不太撒谎，除了没亲口承认自己家族是个犯罪家族。
+彭博这篇文章还在讨论衰退到底是否到来，列出的指标是连续两个季节衰退。<br>美国衰退不可避免，彭博谈的只是经济，其实还有国势。<br>2020年的大选，无论如何是一场国运之赌，希望民主党选民想清楚，自己到底要什么。<br>拜登履行了绝大部分竞选承诺，不太撒谎，除了没亲口承认自己家族是个犯罪家族。<br><br>Bloomberg: Is the US in a recession? Here's what you need to know and how to prepare<br> <a href="https://trib.al/L6SduXt" target="_blank" rel="noopener noreferrer">https://trib.al/L6SduXt</a>
 
 ### 132: [2022-07-15 21:36:33+08:00 推文](https://twitter.com/HeQinglian/status/1547938169093402624)
 
@@ -601,7 +601,7 @@ Re @JianglinLi @RealBeiMing @Wu_Zhi @david_david1968 @ngexp 在瑞典沦为强�
 
 ### 147: [2022-07-16 10:16:38+08:00 推文](https://twitter.com/HeQinglian/status/1548129452034363395)
 
-这是美国将向全世界推广的新人权。不信去美国政府网站上看，华拜粉如果不承认，我将那政府通告贴他们眼睛上。
+这是美国将向全世界推广的新人权。不信去美国政府网站上看，华拜粉如果不承认，我将那政府通告贴他们眼睛上。<br><br>龚小夏 Sasha Gong: 拜登政府两位高级官员在法国大使官邸参加法国国庆活动。左面为拜登任命的四星将军Rachel Levin （生来是男性，现为女性），右面为拜登能源部负责处理核废料的副部长Sam Britton （生为男性，现在还自认是男性，但爱着女装、涂口红）。<br><br><img style="" src="https://pbs.twimg.com/media/FXvKcRdVQAELBe_?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 148: [2022-07-16 12:07:35+08:00 推文](https://twitter.com/cskun1989/status/1548157370458525697)
 
