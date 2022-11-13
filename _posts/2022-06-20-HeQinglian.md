@@ -49,7 +49,7 @@ Re @FangYiDuan1 @david_david1968 华文圈的分析，作者应该在大陆才�
 
 ### 9: [2022-06-20 09:39:22+08:00 推文](https://twitter.com/HeQinglian/status/1538697987114864640)
 
-Fox：共和党人正在考虑竞选总统而不是等待川普<br>从文中内容来看，共和党内有几位将在中期选举后考虑参选2024。川普看来并未打算放弃参赛。
+Fox：共和党人正在考虑竞选总统而不是等待川普<br>从文中内容来看，共和党内有几位将在中期选举后考虑参选2024。川普看来并未打算放弃参赛。<br><br>Fox News: Republicans mulling run for president not waiting on Trump<br> <a href="https://fxn.ws/3y4hVNh" target="_blank" rel="noopener noreferrer">https://fxn.ws/3y4hVNh</a>
 
 ### 10: [2022-06-20 11:02:03+08:00 推文](https://twitter.com/HeQinglian/status/1538718795476393985)
 
@@ -177,7 +177,7 @@ Re @Dchu07559344 这面旗帜是真的吗？两个有镰刀斧头的国家都没
 
 ### 41: [2022-06-22 21:49:27+08:00 推文](https://twitter.com/HeQinglian/status/1539606494601265153)
 
-Re @enoughtalk4 @xuezhou_yang @realTaoRay 看看图右的几则马斯克的推文。<br><br>Daily Mail Online: Elon Musk's ex-wife Justine says she's 'very proud' of their 'normal' 18-year-old son for filing paperwork to change gender to become a woman<br><br><img style="" src="https://pbs.twimg.com/media/FVyHkVIWUAMgUUD?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://trib.al/OBBBPeF" target="_blank" rel="noopener noreferrer">https://trib.al/OBBBPeF</a>
+Re @enoughtalk4 @xuezhou_yang @realTaoRay 看看图右的几则马斯克的推文。 <a href="https://twitter.com/MailOnline/status/1539254232813125636" target="_blank" rel="noopener noreferrer">https://twitter.com/MailOnline/status/1539254232813125636</a>
 
 ### 42: [2022-06-22 21:51:45+08:00 推文](https://twitter.com/HeQinglian/status/1539607072173703171)
 
@@ -241,7 +241,7 @@ Re 此情景让我想起一寓言：<br>有夫妻俩听说河豚美味但有毒�
 
 ### 57: [2022-06-24 08:53:37+08:00 推文](https://twitter.com/HeQinglian/status/1540136026114609155)
 
-德国是欧盟的经济支柱，德国衰落，意味着欧盟衰落。<br>乌克兰想加入欧盟，本是想沾欧盟的光。欧盟强盛时，乌克兰不得其门而入；欧盟衰落了，乌克兰赶这晚集，图了个虚名。<br><br>华尔街日报中文网: 欧盟领导人周四同意让乌克兰成为加入该集团的正式候选国，为未来几年可能加入欧盟打开了大门。<br>同时，德国政府启动了其应对天然气短缺的三步计划中的第二步，距离天然气配给制更近一步。如果实行配给制可能将德国这个欧洲最大的经济体推入衰退。<br> <a href="https://on.wsj.com/3zUF0Dw" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3zUF0Dw</a>
+德国是欧盟的经济支柱，德国衰落，意味着欧盟衰落。<br>乌克兰想加入欧盟，本是想沾欧盟的光。欧盟强盛时，乌克兰不得其门而入；欧盟衰落了，乌克兰赶这晚集，图了个虚名。
 
 ### 58: [2022-06-24 21:39:48+08:00 推文](https://twitter.com/HeQinglian/status/1540328841717379073)
 
@@ -297,7 +297,7 @@ Re @david_david1968 这我完全不能同意。
 
 ### 71: [2022-06-25 04:46:40+08:00 推文](https://twitter.com/HeQinglian/status/1540436264884834304)
 
-立本推存照，请记住，2019年1月全美选举委员会听证，专家指出多米尼系统有问题：无法验证选民身份，对外开放不到0.1秒就会被入侵，说来不及了；2020年1月同样的听证会，同样的理由。<br>现在美国缺那几亿美元了。<br>大权在握，就是不更换偷票机，你奈我何？<br><br>He Qinglian: 美国投票机有问题，但没钱更换，美国缺钱：<br>布伦南中心和验证投票的联合分析发现，更换老化的投票设备将花费数亿美元。<br>近年来，这些模型中的一些“翻转”投票，由于与老化硬件相关的校准错误，触摸屏错误记录了选民的选择。这反过来又导致了病毒视频和机器“窃取选票”的阴谋论。<br> <a href="https://www.brennancenter.org/our-work/research-reports/voting-machines-risk-2022" target="_blank" rel="noopener noreferrer">https://www.brennancenter.org/our-work/research-reports/voting-machines-risk-2022</a>
+立本推存照，请记住，2019年1月全美选举委员会听证，专家指出多米尼系统有问题：无法验证选民身份，对外开放不到0.1秒就会被入侵，说来不及了；2020年1月同样的听证会，同样的理由。<br>现在美国缺那几亿美元了。<br>大权在握，就是不更换偷票机，你奈我何？
 
 ### 72: [2022-06-25 13:10:44+08:00 推文](https://twitter.com/bonsandcake/status/1540563119096881152)
 
