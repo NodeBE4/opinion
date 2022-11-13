@@ -81,7 +81,7 @@ Ian Curtis.
 
 I agree.  Even if as a concept it was removed from language entirely, the human spirit would still desire freedom.
 
-### 307: [Sterilizing yourself to pwn the GOP.](https://old.reddit.com/r/libsofreddit/comments/vdy2nx/sterilizing_yourself_to_pwn_the_gop/), submitted on 2022-06-17 06:43:20+08:00.
+### 307: [[deleted by user]](https://old.reddit.com/r/libsofreddit/comments/vdy2nx/deleted_by_user/), submitted on 2022-06-17 06:43:20+08:00.
 
 ----- __307.1__ -----2022-06-17 13:47:41+08:00:
 
