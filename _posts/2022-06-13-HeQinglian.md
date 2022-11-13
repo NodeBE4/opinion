@@ -289,7 +289,7 @@ Re @Vince6610 吓唬谁呢？打就打。
 
 ### 69: [2022-06-17 08:55:55+08:00 推文](https://twitter.com/HeQinglian/status/1537599889936371714)
 
-拜登进白宫一年半以来，说的最正确的就是这句话。<br>希望他某天能够说出另一句真话：支持我领导美国的人，是与我一样，或者与我儿子一样的人。
+拜登进白宫一年半以来，说的最正确的就是这句话。<br>希望他某天能够说出另一句真话：支持我领导美国的人，是与我一样，或者与我儿子一样的人。<br><br>jiang shangrong: 拜登说，美国的经济和他的一样地充满健康和活力。<br><br><img style="" src="https://pbs.twimg.com/media/FVU-KkVWYAEk-3j?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://t.me/JShangrong" target="_blank" rel="noopener noreferrer">https://t.me/JShangrong</a>
 
 ### 70: [2022-06-17 09:00:51+08:00 推文](https://twitter.com/HeQinglian/status/1537601129588084738)
 
@@ -325,7 +325,7 @@ Re @JianglinLi @nypost 戈培尔家的嫡传后裔。
 
 ### 78: [2022-06-17 10:09:04+08:00 推文](https://twitter.com/HeQinglian/status/1537618296819818496)
 
-听起来，中台开战，也会是信息战先行模式。<br>西方媒体一直说，外宣上，中国比俄罗斯笨拙。这次俄信息战完败，中国可能败得更惨？<br>中文世界的一半肯定是中国大胜，其他语种肯定是台湾一方碾压中国。<br>到时观众戏码肯定是：逼人站队表态支持、谣言满天飞。
+听起来，中台开战，也会是信息战先行模式。<br>西方媒体一直说，外宣上，中国比俄罗斯笨拙。这次俄信息战完败，中国可能败得更惨？<br>中文世界的一半肯定是中国大胜，其他语种肯定是台湾一方碾压中国。<br>到时观众戏码肯定是：逼人站队表态支持、谣言满天飞。<br><br>白月玲珑🇨🇳: 随着中国国防科技水平的不断提升，如今中国成功造出全球最小导弹，士兵一次可以背很多枚导弹，直接将士兵武装成超级战士，它就是国产QN202微型导弹，射程2公里黄瓜大小，狙击手见了头皮发麻。<br><br><img style="" src="https://pbs.twimg.com/media/FVXRZSyaUAAJVpi?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVXRZS1aAAAfOge?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVXRZSzaAAE-rPP?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 79: [2022-06-17 10:19:37+08:00 推文](https://twitter.com/HeQinglian/status/1537620951373840390)
 
@@ -349,7 +349,7 @@ Re @tankand300 那你高看了我。我是异类，你没见过我写这段生�
 
 ### 84: [2022-06-17 21:08:25+08:00 推文](https://twitter.com/HeQinglian/status/1537784230855462913)
 
-这主意不错，撒币（傻B)比赛。鼓励一带一路的国家两边通吃，一女二嫁，白天张家吃饭，晚上李家睡眠。<br>美国债务将以一年10多万亿的速度增长，通胀速度将与金元券相比。<br>当年冷战时期，里根用军备竞赛拖垮苏联；今天美中新冷战，拜登用基础设施建设竞赛消耗中国。<br>拜登与美国民主党手段实在是高。
+这主意不错，撒币（傻B)比赛。鼓励一带一路的国家两边通吃，一女二嫁，白天张家吃饭，晚上李家睡眠。<br>美国债务将以一年10多万亿的速度增长，通胀速度将与金元券相比。<br>当年冷战时期，里根用军备竞赛拖垮苏联；今天美中新冷战，拜登用基础设施建设竞赛消耗中国。<br>拜登与美国民主党手段实在是高。<br><br>联合早报 Lianhe Zaobao: 美国国家安全顾问沙利文说，美国总统拜登将发起一项全球基础设施倡议，以对抗中国在全球，特别是印太地区的野心。<br> <a href="https://www.zaobao.com.sg/realtime/world/story20220617-1283915" target="_blank" rel="noopener noreferrer">https://www.zaobao.com.sg/realtime/world/story20220617-1283915</a>
 
 ### 85: [2022-06-17 21:11:10+08:00 推文](https://twitter.com/HeQinglian/status/1537784919358849029)
 
@@ -513,7 +513,7 @@ Re @wakeup_arrow 出于好奇看了一眼。那位巴丢草我因其左得出位
 
 ### 125: [2022-06-19 23:19:59+08:00 推文](https://twitter.com/HeQinglian/status/1538542113008271364)
 
-我一直觉得西方在中俄关系上，对中国有不切实际的期待。<br>1、习近平对俄与普京的好感，中国人都知道，不是国家机密；2、地缘政治的需要，中国从未向美国许诺过亲美疏俄；3、金砖五国自2009年以来每年开会，日渐亲密，这也是公开信息。<br>西方要么不看自家之外的信息，要么将自家愿望当作他国必须要做之事
+我一直觉得西方在中俄关系上，对中国有不切实际的期待。<br>1、习近平对俄与普京的好感，中国人都知道，不是国家机密；2、地缘政治的需要，中国从未向美国许诺过亲美疏俄；3、金砖五国自2009年以来每年开会，日渐亲密，这也是公开信息。<br>西方要么不看自家之外的信息，要么将自家愿望当作他国必须要做之事<br><br>华尔街日报中文网: #本周热读 习近平在自己69岁生日这天与普京通话，重申支持莫斯科方面的安全关切，这一举动意味着中国无意在中俄密切关系上收手。保持与俄罗斯的伙伴关系意味着，中国必须继续采取一种向来很难的骑墙外交立场。<br> <a href="https://on.wsj.com/3zDmHCH" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3zDmHCH</a>
 
 ### 126: [2022-06-19 23:32:06+08:00 推文](https://twitter.com/HeQinglian/status/1538545164909682690)
 
