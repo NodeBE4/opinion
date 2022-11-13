@@ -33,9 +33,9 @@ Not sure why we continue to allow Chinese officials to use the platform they ban
 
 Huge effort on the BN(O) scheme expansion!<br><br>Luke de Pulford 裴倫德: 🚨Hearing STRONG rumours within @GOVUK that BN(O) scheme for #HongKong WILL be extended within 24 hours to include some younger #HKers (details unclear)<br><br>If so, HUGE credit @hk_watch @DamianGreen @DavidAltonHL Lord Patten @benedictrogers @Johnny_HKWatch @SamGoodman22 + others 👏<br><br><img style="" src="https://pbs.twimg.com/media/FMTNH--WYAI6Rpx?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 5: [2022-02-24 20:06:43+08:00 推文](https://twitter.com/nathanlawkc/status/1496818873668100098)
+### 5: [2022-02-24 20:06:43+08:00 推文](https://twitter.com/nathanlawkc/status/1496818871269007362)
 
-Re 2. We clearly understand one point — if the international community cannot deter dictators from advancing their interests by war, democracy and peace will never prevail. It’s time to act and put the harshest sanctions over those culpable for the invasion.
+🇺🇦🏴<br>1. The documentary “Winter on Fire” has been a documentary Hong Kong protestors are watching. We  understand how it feels to have a threatening neighbour and people’s will being suppressed by authoritarian power.<br><img style="" src="https://pbs.twimg.com/media/FMXEiDMWQAQ2SL6?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2022-02-24 20:06:44+08:00 推文](https://twitter.com/nathanlawkc/status/1496818878319583239)
 

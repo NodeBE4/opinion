@@ -51,3 +51,7 @@ Re 我专门截了这四副图：<br>前两幅请看一位大会女工作人员�
 
 Re 请看中共第三代领导集体中央常委们全体出席会议的愉快神情与轻松互动。<br>而20大会议主席台上，习黑着脸眼露凶光，台上人人眼神呆滞，面无表情地僵在座位上。两相对比，恰成鲜明对照！<br><img style="" src="https://pbs.twimg.com/media/FheP6jRUAAATvWw?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FheP6jUUoAE1teY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FheP6jRVQAA4GgP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FheP6jUUUAARk_l?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 10: [2022-11-14 07:29:51+08:00 推文](https://twitter.com/realcaixia/status/1591936409673560066)
+
+习当局阻扰人们悼念鲍老，既反人性又暴露他们是多么虚弱。<br>中共千方百计地想抹去鲍老的巨大影响力，他们一直恐惧任何可能唤起人们对89年6.4事件记忆的事情和因素。<br><br>高瑜: 這兩天，鮑彤先生的樓下成了角斗場，往外推人的，撕輓聯的，砸花圈的 。北京飯友的花籃終於平安交給鮑樸和鮑簡。<br><br><img style="" src="https://pbs.twimg.com/media/FhbzL7iVUAEnein?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FhbzMcFUYAAhyoQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
