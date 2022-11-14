@@ -17,7 +17,7 @@ title: 'Twitter @中国文字狱事件盘点: 2022-01-17~2022-01-23'
 
 ### 1: [2022-01-17 21:28:26+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1483068699603091459)
 
-山西太原媒体人胡新成，因长期帮助访民和推行全民免费医疗（通过网络呼吁和收集签名提交请愿等方式），于去年12月失联。近日其律师通过其家人确认其已被捕，罪名为宣扬恐怖主义罪。<br><img style="" src="https://pbs.twimg.com/media/FJTqd0UXoAYfKQb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FJTqgQfWUAkzEZu?format=png&amp;name=orig" referrerpolicy="no-referrer">
+山西太原媒体人胡新成，因长期帮助访民和推行全民免费医疗（通过网络呼吁和收集签名提交请愿等方式），于去年12月失联。近日其律师通过其家人确认其已被捕，罪名为宣扬恐怖主义罪。<br><img style src="https://pbs.twimg.com/media/FJTqd0UXoAYfKQb?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FJTqgQfWUAkzEZu?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2022-01-17 21:32:54+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1483069823315845120)
 
@@ -37,7 +37,7 @@ Re Human rights lawyer Xie Yang (@xieyang911), who was found guilty of inciting 
 
 ### 6: [2022-01-19 20:05:52+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1483772694034370562)
 
-Shaanxi man Li fined 500 RMB for spreading a "rumor" in a WeChat group chat that PCR tests should not be done too shortly after vaccination, or the result might falsely be positive. However, health authority in Guangdong Province clarified that the "rumor" is evidently true.<br><img style="" src="https://pbs.twimg.com/media/FJdqkQoWYAUPfaj?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FJdqlx9XMAAktbX?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Shaanxi man Li fined 500 RMB for spreading a "rumor" in a WeChat group chat that PCR tests should not be done too shortly after vaccination, or the result might falsely be positive. However, health authority in Guangdong Province clarified that the "rumor" is evidently true.<br><img style="" src="https://pbs.twimg.com/media/FJdqkQoWYAUPfaj?format=png&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FJdqlx9XMAAktbX?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2022-01-21 18:58:10+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1484480433538707456)
 
