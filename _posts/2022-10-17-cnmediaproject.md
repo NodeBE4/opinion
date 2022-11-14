@@ -213,7 +213,7 @@ How Xi Jinping's address on Sunday was not a "work report" — and other misunde
 
 ### 50: [2022-10-18 23:40:23+08:00 推文](https://twitter.com/cnmediaproject/status/1582396180163887105)
 
-Good to know. Next up is the keyword fallacy -- words like 开放 that many crunch into data at their peril. The charts are proliferating.<br><br>Holly Snape: 👏👏👏 This is awesome. Clear and concise, it corrects the key common misunderstandings.<br> <a href="https://twitter.com/cnmediaproject/status/1582367120549376001" target="_blank" rel="noopener noreferrer">https://twitter.com/cnmediaproject/status/1582367120549376001</a>
+Good to know. Next up is the keyword fallacy -- words like 开放 that many crunch into data at their peril. The charts are proliferating.<br><br>Holly Snape: 👏👏👏 This is awesome. Clear and concise, it corrects the key common misunderstandings.<br>
 
 ### 51: [2022-10-18 23:42:02+08:00 推文](https://twitter.com/cnmediaproject/status/1582396595701968897)
 
@@ -241,7 +241,7 @@ RT Bill Bishop<br>Shanghai will build an isolation facility that can house tho
 
 ### 57: [2022-10-20 13:59:14+08:00 推文](https://twitter.com/cnmediaproject/status/1582974702846636032)
 
-A revealing case dealt with in greater detail in the new ASPI report that is well worth a read. The tactic of what we call "cloaking" at CMP (hiding clear associations with state media and agencies to make interactions seem real and organic) is actually many decades old.<br><br>Nerys Avery: Fascinating thread and exposé<br>
+A revealing case dealt with in greater detail in the new ASPI report that is well worth a read. The tactic of what we call "cloaking" at CMP (hiding clear associations with state media and agencies to make interactions seem real and organic) is actually many decades old.<br><br>Nerys Avery: Fascinating thread and exposé<br> <a href="https://twitter.com/fryan/status/1582960014053949440" target="_blank" rel="noopener noreferrer">https://twitter.com/fryan/status/1582960014053949440</a>
 
 ### 58: [2022-10-21 15:21:13+08:00 推文](https://twitter.com/cnmediaproject/status/1583357722388746240)
 
