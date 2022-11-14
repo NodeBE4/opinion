@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-11-14
+date: 2022-11-15
 from: https://twitter.com/realcaixia/status/1591838080708665345
 layout: post
 tags:
@@ -66,4 +66,20 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fhe5---UcAAmsQ_?format=jpg
 ### 13: [2022-11-14 09:40:25+08:00 推文](https://twitter.com/realcaixia/status/1591969267418861568)
 
 鲍老的儿女悼念父亲的灵堂。<br><img style="" src="https://pbs.twimg.com/media/FhfPnD-XkAEoLAm?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 14: [2022-11-15 01:48:39+08:00 推文](https://twitter.com/realcaixia/status/1592212930422243329)
+
+“打破民众一致支持和顺从希特勒的迷思”，“在各自岗位上反抗希特勒”，“用不同方式反抗习暴政”，这几句话特别好。<br>想起孤胆勇士彭载舟，他的勇敢无畏正激励墙内外的中国人反抗极权暴政；想起2019香港同胞保卫自由香港的抗争中提出“兄弟爬山，各自努力”；想起上海青年说“我们是最后一代！”<br><br>韩连潮: 【好书推荐】我在读这本《反抗希特勒》，读得很感慨。它打破了德国人民一致支持和顺从希特勒的迷思，讲述了纳粹体制内外众多人士在各自岗位上反抗希特勒的惊心动魄的英勇故事。此书的现实意义在于有良知和责任的中国人都应当以不同方式反抗习暴政，用行动书写《反抗习特勒》一书。<br><br><img style="" src="https://pbs.twimg.com/media/FhfiDZAaUAEzRhp?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 15: [2022-11-15 02:08:21+08:00 推文](https://twitter.com/realcaixia/status/1592217888555167744)
+
+非常生动地透彻地写出了原本是服务者的导游如何将自己的语言优势变成权力资源，不仅在团体旅游中捞利，而且利诱胁迫游客，建立起只有依附于权力意志才能获利的人际关系，由此产生多数人被强权意志指挥与操控，对少数人（无错的人）的迫害。这篇短文太生动了。<br><br>Niuniu: 看到微博上有人發了一個長文，我給截圖成了四張照片。作者說是已經被刪除過一次了，這是她的親身經歷。不知道幾個小時後文章會不會還在。有的時候，一件小事就能看出一個民族的悲哀和不幸產生的原因。<br><br><img style="" src="https://pbs.twimg.com/media/Fhef609XgAA7WaD?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fhef606XoAkf5eC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fhef61BXoAE69h5?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fhef61EXgAMxmc5?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 16: [2022-11-15 02:11:46+08:00 推文](https://twitter.com/realcaixia/status/1592218750702362625)
+
+为破墙而不懈努力。<br><br>GreatFire.org: @Goethesleben @love_sci4ever<br> <a href="http://greatfire.org/" target="_blank" rel="noopener noreferrer">http://GreatFire.org</a>
+
+### 17: [2022-11-15 02:25:48+08:00 推文](https://twitter.com/realcaixia/status/1592222280184369152)
+
+他们害怕所有争取自由民主的不朽灵魂！他们枪在手，但他们无法赢得人心。他们恐惧年老体弱的老人，他们恐惧手无寸铁的平民，他们天天喊着自信，事实上处处透出他们蛮横强霸表象背后的虚弱卑鄙邪恶。<br><br>ZHANGDONG: 明天周二是鲍彤老先生告别仪式，北京戒备森严。高瑜今天开始又被上岗，楼下门前警车国保又开始加班了。<br>人民没有思想言论行动自由，动辄就是国家暴力，何来“全过程民主”？<br>
 
