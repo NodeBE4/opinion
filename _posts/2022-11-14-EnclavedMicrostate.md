@@ -33,3 +33,13 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
+### 926: [Why Britain didn't make Tibet into a protectorate?](https://old.reddit.com/r/AskHistorians/comments/yutghv/why_britain_didnt_make_tibet_into_a_protectorate/), submitted on 2022-11-14 17:03:35+08:00.
+
+----- __926.1__ -----2022-11-14 17:48:55+08:00:
+
+Hey there,
+
+Just to let you know, your question is fine, and we're letting it stand. However, you should be aware that questions framed as 'Why didn't X do Y' relatively often don't get an answer that meets our standards (in our experience as moderators). There are a few reasons for this. Firstly, it often can be difficult to prove the counterfactual: historians know much more about what happened than what might have happened. Secondly, 'why didn't X do Y' questions are sometimes phrased in an ahistorical way. It's worth remembering that people in the past couldn't see into the future, and they generally didn't have all the information we now have about their situations; things that look obvious now didn't necessarily look that way at the time.
+
+If you end up not getting a response after a day or two, [consider asking a new question focusing instead on why what happened did happen](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) (rather than why what didn't happen didn't happen) - this kind of question is more likely to get a response in our experience. Hope this helps!
+
