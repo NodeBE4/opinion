@@ -141,7 +141,7 @@ Re @jeff47683665 WHO，CDC 和NHS？<br>去读这篇。还有今天我发的消�
 
 ### 32: [2022-06-08 08:59:22+08:00 推文](https://twitter.com/HeQinglian/status/1534339266171502593)
 
-应该改进一下多米尼投票机，只许偷其他党派的，不许偷本派的，这样有利于维持民主党内团结。<br><br>蔡慎坤: 乔治亚州在民主党中期选举中，争夺第二区地方官有三个候选人，最后一人叫米歇尔，投票机显示她的得票数为0。而她和丈夫都投了自己的票，得票数至少应该为2。米歇尔要求手工点票，手工点票的结果出人意料，她的得票数在候选人中跃居第一。这种投票机，正是2020大选使用的多米尼投票机，可以称为偷票机。<br>
+应该改进一下多米尼投票机，只许偷其他党派的，不许偷本派的，这样有利于维持民主党内团结。
 
 ### 33: [2022-06-08 10:04:12+08:00 推文](https://twitter.com/HeQinglian/status/1534355581116497921)
 
@@ -265,7 +265,7 @@ Re @Greatorentalman 实话实说，中国专家研究美国，比美国专家研
 
 ### 63: [2022-06-10 03:29:24+08:00 推文](https://twitter.com/HeQinglian/status/1534981005504921601)
 
-日本地缘政治的敌人主要是中国，用北约对付中国，隔山打牛。如果是想要美国支持，美日同盟即可。<br>不大知道日本出于什么想法。实在想要同盟，四方会谈军事化就可以，大不了是印度不干，美澳日三国还是可以的。
+日本地缘政治的敌人主要是中国，用北约对付中国，隔山打牛。如果是想要美国支持，美日同盟即可。<br>不大知道日本出于什么想法。实在想要同盟，四方会谈军事化就可以，大不了是印度不干，美澳日三国还是可以的。<br><br>RFI 华语 - 法国国际广播电台: 日本加入北约的可能性有多大？<br> <a href="https://rfi.my/8U63.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8U63.T</a>
 
 ### 64: [2022-06-10 03:31:56+08:00 推文](https://twitter.com/HeQinglian/status/1534981639587110912)
 
@@ -277,7 +277,7 @@ Re @Swanlake1979 同出复旦，未见过面。我去复旦时，他已进京。
 
 ### 66: [2022-06-10 03:36:06+08:00 推文](https://twitter.com/HeQinglian/status/1534982690583216129)
 
-有钱好，有钱就能成为全知全能。<br><br>William Long: 全球首富埃隆∙马斯克（Elon Musk）星期一（6月6日）在推特上说，“绝大多数人仍以为中国实施一胎化政策。尽管已经实施三胎化政策，中国去年的出生率居然出现新低！以目前的出生率，中国每一代人都将减少大约40%的人口！人口崩溃！”<br>
+有钱好，有钱就能成为全知全能。
 
 ### 67: [2022-06-10 03:37:43+08:00 推文](https://twitter.com/HeQinglian/status/1534983098105987072)
 
@@ -341,7 +341,7 @@ Re @suwoluofu123 @JiangShangrong 挺麻烦的，干脆逢俄必裁，连果戈�
 
 ### 82: [2022-06-10 22:58:21+08:00 推文](https://twitter.com/HeQinglian/status/1535275179059863555)
 
-这个视频挺传神地表明了西方人富、闲兼备，无聊之极，想方设法找难受的社会倾向：蚂蚁不来咬，想方设法让蚂蚁上身。
+这个视频挺传神地表明了西方人富、闲兼备，无聊之极，想方设法找难受的社会倾向：蚂蚁不来咬，想方设法让蚂蚁上身。<br><br>Unitiger Life: 💥🦟Just plug it in and start enjoying your backyard! Keep mosquitoes and flies away from your family!😎<br><br>Get yours👉<br><br><video src="https://video.twimg.com/amplify_video/1522144356282793985/vid/640x640/Ali9h5W-AoLl9l31.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1522144356282793985/img/Sb4grEYNyfOPmpfA.jpg"></video> <a href="http://www.unitiger.co/E2546" target="_blank" rel="noopener noreferrer">http://www.unitiger.co/E2546</a>
 
 ### 83: [2022-06-10 23:00:14+08:00 推文](https://twitter.com/HeQinglian/status/1535275651984510976)
 
@@ -385,7 +385,7 @@ Re @Peter53388100 @franktianxie 你在哪国啊？我生活的美国可不止涨
 
 ### 93: [2022-06-11 21:05:10+08:00 推文](https://twitter.com/HeQinglian/status/1535609082840743939)
 
-其实，小拜登电脑里有相关资料。负责政治事务的副国务卿维多利亚·纽兰于 2022 年 3 月 8 日在华盛顿特区举行的参议院外交关系委员会关于乌克兰的听证会上作证，承认有此事。纽约邮报、华邮都发过相关报道。<br>只是乌鸡血不断来找我吵，说没这事，并为小拜辩护。那女乌鸡无可理喻。<br><br>联合早报 Lianhe Zaobao: 美国五角大楼周四（6月9日）在官网发布声明，承认过去20年资助了46个乌克兰生物设施。这是五角大楼首次曝光政府支持在乌生物设施的具体数量。<br> <a href="https://www.zaobao.com.sg/realtime/world/story20220610-1281539" target="_blank" rel="noopener noreferrer">https://www.zaobao.com.sg/realtime/world/story20220610-1281539</a>
+其实，小拜登电脑里有相关资料。负责政治事务的副国务卿维多利亚·纽兰于 2022 年 3 月 8 日在华盛顿特区举行的参议院外交关系委员会关于乌克兰的听证会上作证，承认有此事。纽约邮报、华邮都发过相关报道。<br>只是乌鸡血不断来找我吵，说没这事，并为小拜辩护。那女乌鸡无可理喻。
 
 ### 94: [2022-06-12 04:27:31+08:00 推文](https://twitter.com/HeQinglian/status/1535720403305390081)
 
