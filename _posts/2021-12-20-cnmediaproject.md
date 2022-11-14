@@ -53,11 +53,11 @@ Updated content restrictions for short video platforms in China add a few politi
 
 ### 10: [2021-12-20 22:43:54+08:00 推文](https://twitter.com/cnmediaproject/status/1472940829346271233)
 
-Journalism teacher Song Gengyi was fired for "erroneous remarks" on the victims of the 1937 Nanjing Massacre. Her firing prompted a fierce struggle online. <a href="https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/</a><br><img style src="https://pbs.twimg.com/media/FHDv25jaUAEvoUb?format=jpg&name=orig" referrerpolicy="no-referrer">
+Journalism teacher Song Gengyi was fired for "erroneous remarks" on the victims of the 1937 Nanjing Massacre. Her firing prompted a fierce struggle online. <a href="https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/</a><br><img style="" src="https://pbs.twimg.com/media/FHDv25jaUAEvoUb?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 11: [2021-12-20 22:46:22+08:00 推文](https://twitter.com/muyixiao/status/1472941451608797186)
 
-RT Muyi Xiao<br>Re We translated several key service items and their requirements, then offered analysis and more context. For example, this one suggests that they understand the risk of bots getting suspended and want some fake accounts to look more organic and gain meaningful engagement.<br><img style="" src="https://pbs.twimg.com/media/FHDwcUPXwAMf1o8?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Muyi Xiao<br>Re We translated several key service items and their requirements, then offered analysis and more context. For example, this one suggests that they understand the risk of bots getting suspended and want some fake accounts to look more organic and gain meaningful engagement.<br><img style src="https://pbs.twimg.com/media/FHDwcUPXwAMf1o8?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2021-12-21 08:01:12+08:00 推文](https://twitter.com/lingli_vienna/status/1473081080228028417)
 
@@ -65,7 +65,7 @@ RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Everyone needs to learn Party history.<br><br>
 
 ### 13: [2021-12-21 08:26:57+08:00 推文](https://twitter.com/cnmediaproject/status/1473087558108463106)
 
-Re @mikeygow @lingli_vienna And of course there's that dumpling shop.<br><img style src="https://pbs.twimg.com/media/FHF1TSqaAAEi6ES?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re @mikeygow @lingli_vienna And of course there's that dumpling shop.<br><img style="" src="https://pbs.twimg.com/media/FHF1TSqaAAEi6ES?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 14: [2021-12-21 12:16:51+08:00 推文](https://twitter.com/adriennecarter/status/1473145414308483074)
 
@@ -81,11 +81,11 @@ RT Bonnie Glaser / 葛來儀<br>Amazon agreed to allow only five-star reviews 
 
 ### 17: [2021-12-25 07:15:37+08:00 推文](https://twitter.com/niubi/status/1474519159983812611)
 
-RT Bill Bishop<br>Shen haixiong, vice minister of propaganda and head of CMG, refers to xi as “great helmsman 伟大舵手”<br><br>方舟子: 不就是把当年林副统帅提出的“伟大的导师，伟大的领袖，伟大的统帅，伟大的舵手”的称号改了改嘛。<br><br><img style src="https://pbs.twimg.com/media/FHaDNV7VQAAM6mL?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHaDNV8UUAISoYi?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHaDNV-VUAM53LV?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Bill Bishop<br>Shen haixiong, vice minister of propaganda and head of CMG, refers to xi as “great helmsman 伟大舵手”<br><br>方舟子: 不就是把当年林副统帅提出的“伟大的导师，伟大的领袖，伟大的统帅，伟大的舵手”的称号改了改嘛。<br><br><img style="" src="https://pbs.twimg.com/media/FHaDNV7VQAAM6mL?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHaDNV8UUAISoYi?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHaDNV-VUAM53LV?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2021-12-25 16:36:20+08:00 推文](https://twitter.com/yangliuxh/status/1474660269221502982)
 
-RT Yang Liu<br>Ma Xingrui replaces Chen Quanguo as Xinjiang chief<br><img style src="https://pbs.twimg.com/media/FHcLsdeVIAYQZpT?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Yang Liu<br>Ma Xingrui replaces Chen Quanguo as Xinjiang chief<br><img style="" src="https://pbs.twimg.com/media/FHcLsdeVIAYQZpT?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 19: [2021-12-26 20:19:00+08:00 推文](https://twitter.com/PM_Thornton/status/1475078690933460994)
 

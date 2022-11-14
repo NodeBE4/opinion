@@ -341,7 +341,7 @@ Re @wbn19971 那就少说为佳。记得前几天你说过自己对美国不了�
 
 ### 82: [2022-11-10 08:24:25+08:00 推文](https://twitter.com/HeQinglian/status/1590500591918526466)
 
-彭博社的有即时显示，从图示来看，共和党除了已确定的207个席位（路透报208个），占领先优势的还有13个席位，维持这种领先优势，共和党能够夺得众议院。<br>佩洛西做不成议长，是件大快人心事。<br><br>He Qinglian: 更新：<br>民主党得183个席位，失去8个原有席位；共和党得207个席位，得到6个新的席位。<br>参议院是民主党48个席位（含两个左派独立党派），共和党49个席位。<br>共和党选民加油，看紧投票箱。<br> <a href="https://twitter.com/HeQinglian/status/1590408750174982144" target="_blank" rel="noopener noreferrer">https://twitter.com/HeQinglian/status/1590408750174982144</a>
+彭博社的有即时显示，从图示来看，共和党除了已确定的207个席位（路透报208个），占领先优势的还有13个席位，维持这种领先优势，共和党能够夺得众议院。<br>佩洛西做不成议长，是件大快人心事。<br><br>He Qinglian: 更新：<br>民主党得183个席位，失去8个原有席位；共和党得207个席位，得到6个新的席位。<br>参议院是民主党48个席位（含两个左派独立党派），共和党49个席位。<br>共和党选民加油，看紧投票箱。<br>
 
 ### 83: [2022-11-10 08:32:04+08:00 推文](https://twitter.com/HeQinglian/status/1590502517653540865)
 
@@ -661,7 +661,7 @@ Re @farmdirect8 当林肯项目在未经本人同意的情况下，迫不及待�
 
 ### 162: [2022-11-13 03:14:56+08:00 推文](https://twitter.com/HeQinglian/status/1591509869471076352)
 
-我多次说过，川普本人的长处是Rally，他也特别享受这种Rally，但缺乏基层的组织能力，无法深耕社区，将Rally的支持化为投票中制约民主党舞弊的组织性抗衡力量。<br>这本来是RNC应该做的工作，显然RNC工作没到位。<br><br>L JM🇺🇸: 这不是共和党的信息。这不是低质量的候选人。这不是特朗普。这不是堕胎。<br><br>这是大规模邮寄/投递箱投票。就这么简单。除非停止选举，否则共和党人将永远不会赢得另一场选举。<br><br>完全同意！<br> <a href="https://twitter.com/joelwberry/status/1591069176340226048" target="_blank" rel="noopener noreferrer">https://twitter.com/joelwberry/status/1591069176340226048</a>
+我多次说过，川普本人的长处是Rally，他也特别享受这种Rally，但缺乏基层的组织能力，无法深耕社区，将Rally的支持化为投票中制约民主党舞弊的组织性抗衡力量。<br>这本来是RNC应该做的工作，显然RNC工作没到位。<br><br>L JM🇺🇸: 这不是共和党的信息。这不是低质量的候选人。这不是特朗普。这不是堕胎。<br><br>这是大规模邮寄/投递箱投票。就这么简单。除非停止选举，否则共和党人将永远不会赢得另一场选举。<br><br>完全同意！<br>
 
 ### 163: [2022-11-13 06:25:50+08:00 推文](https://twitter.com/HeQinglian/status/1591557909514690562)
 
@@ -695,43 +695,47 @@ Re @realTaoRay 我就不知道，为何不能象以前一样，当天晚上就�
 
 Re 又更新了，民主党参议院为50席。
 
-### 171: [2022-11-13 23:02:48+08:00 推文](https://twitter.com/HeQinglian/status/1591808805947449349)
+### 171: [2022-11-13 22:23:14+08:00 推文](https://twitter.com/ZhouFengSuo/status/1591798850595221505)
+
+RT 周锋锁 Fengsuo Zhou<br>疯了，推特暂停了苏雨桐@Suyutong 的账号12小时，因为昨天柏林抗议小粉红捣乱视频。请转发声援苏雨桐。<br>可能来自于小粉红恶意举报，也可能是推特内部混乱。<br><img style="" src="https://pbs.twimg.com/media/Fhc0nj0XkAE-GRP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fhc0nj1XoAEbE94?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 172: [2022-11-13 23:02:48+08:00 推文](https://twitter.com/HeQinglian/status/1591808805947449349)
 
 拜登的底气从何而来？回顾一条新闻：<br>选举在即 内华达州或将四万选票寄给无资格者<br>各位想想，有这四万选票控在手中慢慢释放，谁赢谁输，一目了然。<br><br>陶瑞 TaoRay: @HeQinglian 民主党已经拿下内华达，控制了参议院。拜登早就说了，开票不要急，等几天，民主党一定能拿下参议院。<br>
 
-### 172: [2022-11-13 23:24:03+08:00 推文](https://twitter.com/HeQinglian/status/1591814155019091969)
+### 173: [2022-11-13 23:24:03+08:00 推文](https://twitter.com/HeQinglian/status/1591814155019091969)
 
-这话百分百正确。仅举一例：<br>拜登学贷免还计划 联邦法官裁定非法<br>11/10/2022 <br>时间放在11月6日之后，既可以不增加政府压力，又骗来大量想当老赖的年轻人选票。<br>再回顾一下：2021年大群因拜登食言的年轻大学生Go to Brandon(Fuxx-Biden)的往事。<br>习近平如果还坚持不选举那是蠢。<br><br>zhix: 卡马拉说18-24岁的年轻人都是蠢货😂👇<br>
+这话百分百正确。仅举一例：<br>拜登学贷免还计划 联邦法官裁定非法<br>11/10/2022 <br>时间放在11月6日之后，既可以不增加政府压力，又骗来大量想当老赖的年轻人选票。<br>再回顾一下：2021年大群因拜登食言的年轻大学生Go to Brandon(Fuxx-Biden)的往事。<br>习近平如果还坚持不选举那是蠢。<br><br>zhix: 卡马拉说18-24岁的年轻人都是蠢货😂👇<br> <a href="https://twitter.com/stillgray/status/1591660209768116225" target="_blank" rel="noopener noreferrer">https://twitter.com/stillgray/status/1591660209768116225</a>
 
-### 173: [2022-11-13 23:31:20+08:00 推文](https://twitter.com/HeQinglian/status/1591815988294873088)
+### 174: [2022-11-13 23:31:20+08:00 推文](https://twitter.com/HeQinglian/status/1591815988294873088)
 
 Re @maga_kureea @FranzMendelsso1 明知故问。<br>拜登统治的是哪个国家？至今仍然背着“民主灯塔”的名儿的美国。<br>中共目前百谤——是万谤集身，拜登做的事，一片赞美声；习做任何事情，都挨骂。就因是专制极权。<br>穷则变，变则通。😅
 
-### 174: [2022-11-13 23:33:12+08:00 推文](https://twitter.com/HeQinglian/status/1591816455544258566)
+### 175: [2022-11-13 23:33:12+08:00 推文](https://twitter.com/HeQinglian/status/1591816455544258566)
 
 Re @seeyoua22819375 你如果到现在还没看出，所谓MAGA只是拯救美国、以及美国人的传统生活方式，错以为是希望恢复美国辉煌历史，我也无话可说。<br>美国国运是无可奈何花落去，MAGA的民众只是想保护自己作为正常人的生活方式。
 
-### 175: [2022-11-13 23:36:17+08:00 推文](https://twitter.com/HeQinglian/status/1591817232157474817)
+### 176: [2022-11-13 23:36:17+08:00 推文](https://twitter.com/HeQinglian/status/1591817232157474817)
 
 Re @realTaoRay 相比2020年，我这次情绪稳定。<br>自打知道宾州、亚历桑那、内华达都邮寄选票并延迟计票之后，我就知道美国（不止是美国共和党)将栽倒在同一个陷坑里。<br>人家乐意，咱们管得着么？话说，共和党RINO与MAGA的矛盾可能大于他们与民主党建制派的矛盾。
 
-### 176: [2022-11-13 23:39:11+08:00 推文](https://twitter.com/HeQinglian/status/1591817963170140161)
+### 177: [2022-11-13 23:39:11+08:00 推文](https://twitter.com/HeQinglian/status/1591817963170140161)
 
 Re @realTaoRay 以前需要疫情，今后不需要了，只要坚持邮寄选票与延迟计票就行。
 
-### 177: [2022-11-13 23:40:43+08:00 推文](https://twitter.com/HeQinglian/status/1591818346470969345)
+### 178: [2022-11-13 23:40:43+08:00 推文](https://twitter.com/HeQinglian/status/1591818346470969345)
 
 再发一次。左派媒体的希望果然没有落空。<br>这一次不需要2000头骡子，邮局员工帮忙盖邮戳就行。<br><br>He Qinglian: 这篇文章应该代表了左派媒体的普遍希望：民主党胜选的希望在未清点的邮寄选票中。只要坚持拖下去，共和党监票人总有打盹的时候，然后会出现2020年的奇迹，在所有人离开之时，负责点票的民主党选务人员从某处拖出几个箱子，全是民主党的选票。<br> <a href="https://www.washingtonpost.com/politics/2022/11/10/undecided-house-races-2022/" target="_blank" rel="noopener noreferrer">https://www.washingtonpost.com/politics/2022/11/10/undecided-house-races-2022/</a>
 
-### 178: [2022-11-13 23:42:25+08:00 推文](https://twitter.com/HeQinglian/status/1591818777578307585)
+### 179: [2022-11-13 23:42:25+08:00 推文](https://twitter.com/HeQinglian/status/1591818777578307585)
 
 Re @maga_kureea @FranzMendelsso1 无论如何，习近平没实行全民选举，这形式上就输了。所以活该挨骂。
 
-### 179: [2022-11-13 23:44:52+08:00 推文](https://twitter.com/HeQinglian/status/1591819391200595969)
+### 180: [2022-11-13 23:44:52+08:00 推文](https://twitter.com/HeQinglian/status/1591819391200595969)
 
 Re @realTaoRay 2020年，我家浪费了不少捐款。<br>2022年，我一分钱也不捐。<br>2024年，我可能看闹剧的时间都不想花。
 
-### 180: [2022-11-13 23:51:05+08:00 推文](https://twitter.com/HeQinglian/status/1591820957693476865)
+### 181: [2022-11-13 23:51:05+08:00 推文](https://twitter.com/HeQinglian/status/1591820957693476865)
 
 Re @lqfxj @realTaoRay 美国只有一个机会。<br>川普如果不考虑自己2024年参选（胜选是他的想法），完全可以成立一个第三党。<br>美国历史上的第三党规模从来就不大，川普有可能成立一个选民人数超过四分之一的政党，打下基础，功在将来。<br>这话到此为止。
 
