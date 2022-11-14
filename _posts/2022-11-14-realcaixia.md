@@ -55,3 +55,11 @@ Re 请看中共第三代领导集体中央常委们全体出席会议的愉快�
 
 习当局阻扰人们悼念鲍老，既反人性又暴露他们是多么虚弱。<br>中共千方百计地想抹去鲍老的巨大影响力，他们一直恐惧任何可能唤起人们对89年6.4事件记忆的事情和因素。<br><br>高瑜: 這兩天，鮑彤先生的樓下成了角斗場，往外推人的，撕輓聯的，砸花圈的 。北京飯友的花籃終於平安交給鮑樸和鮑簡。<br><br><img style="" src="https://pbs.twimg.com/media/FhbzL7iVUAEnein?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FhbzMcFUYAAhyoQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 11: [2022-11-14 08:02:15+08:00 推文](https://twitter.com/realcaixia/status/1591944565233135616)
+
+这集李锐日记秘密，谈到了中共在延安南泥湾种植鸦片。<br>从小听中共宣传南泥湾是“陕北的好江南”，是“自己动手丰衣足食”，看到的图片是八路军纺线做棉衣，决计想不到竟然是种鸦片。 <a href="https://youtu.be/-ELZMmvhwNM?list=PLmp6SED1O-uw6Un9d0_QTc8o3xwPlN9Gp" target="_blank" rel="noopener noreferrer">https://youtu.be/-ELZMmvhwNM?list=PLmp6SED1O-uw6Un9d0_QTc8o3xwPlN9Gp</a>
+
+### 12: [2022-11-14 08:05:56+08:00 推文](https://twitter.com/realcaixia/status/1591945489368633344)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/Fhe5---UcAAmsQ_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fhe5---VEAA_bsk?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fhe5--_VUAA2R21?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
