@@ -63,3 +63,7 @@ Re 请看中共第三代领导集体中央常委们全体出席会议的愉快�
 
 Re <br><img style="" src="https://pbs.twimg.com/media/Fhe5---UcAAmsQ_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fhe5---VEAA_bsk?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fhe5--_VUAA2R21?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 13: [2022-11-14 09:40:25+08:00 推文](https://twitter.com/realcaixia/status/1591969267418861568)
+
+鲍老的儿女悼念父亲的灵堂。<br><img style="" src="https://pbs.twimg.com/media/FhfPnD-XkAEoLAm?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
