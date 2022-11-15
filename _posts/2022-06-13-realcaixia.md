@@ -29,7 +29,7 @@ Re “摸着石头过河”的游戏已近“图穷匕首现”，公权力的�
 
 ### 4: [2022-06-15 01:33:40+08:00 推文](https://twitter.com/realcaixia/status/1536763817945878529)
 
-利用高科技，将防疫用的所谓“健康码”拿来监控人的行踪，这被清零政策赋予了合理性，大陆的人也就忍了。现在清零难以持续，人们维护正常的生活，包括维护利益权利的正常活动，都要有法治环境作保障。有些地方想“歪”用健康码，必遭到全社会谴责。此歪念恶行若不被及时曝光揭露谴责追究，大陆处处变新疆。
+利用高科技，将防疫用的所谓“健康码”拿来监控人的行踪，这被清零政策赋予了合理性，大陆的人也就忍了。现在清零难以持续，人们维护正常的生活，包括维护利益权利的正常活动，都要有法治环境作保障。有些地方想“歪”用健康码，必遭到全社会谴责。此歪念恶行若不被及时曝光揭露谴责追究，大陆处处变新疆。<br><br>荣剑: 必须人人追究此事责任者，否则，下一个被红码的就是你！<br><br><img style="" src="https://pbs.twimg.com/media/FVNW9oCUcAAb1xU?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVNW90hUcAU_b7J?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVNW-jLUAAEsLgH?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVNW_FgUYAEHY7o?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2022-06-17 02:41:41+08:00 推文](https://twitter.com/realcaixia/status/1537505709872513024)
 
@@ -37,7 +37,7 @@ Re “摸着石头过河”的游戏已近“图穷匕首现”，公权力的�
 
 ### 6: [2022-06-19 04:23:09+08:00 推文](https://twitter.com/realcaixia/status/1538256019259854848)
 
-这是什么信号？习想把全民拖入战争危机中，用武统作幌子保自己20大不下台，借口是中国老话“临战不换帅”？<br><br>ZHANGDONG: 这是释放什么信号？<br><br><img style="" src="https://pbs.twimg.com/media/FVimFF6XwAAdzoB?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+这是什么信号？习想把全民拖入战争危机中，用武统作幌子保自己20大不下台，借口是中国老话“临战不换帅”？
 
 ### 7: [2022-06-19 04:52:29+08:00 推文](https://twitter.com/realcaixia/status/1538263403176857603)
 

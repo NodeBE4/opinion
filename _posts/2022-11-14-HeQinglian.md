@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-11-15
+date: 2022-11-16
 from: https://twitter.com/HeQinglian/status/1591823531318312965
 layout: post
 tags:
@@ -198,4 +198,68 @@ Re @JianglinLi 推特经历告诉我，人连去年的事情都有意忘记。
 ### 46: [2022-11-15 08:36:04+08:00 推文](https://twitter.com/HeQinglian/status/1592315460691058689)
 
 转自姜尚荣电报：<br>美财政部宣布将 14 人和 28 家公司列入制裁名单，但允许与多家受制裁的俄罗斯公司开展业务。早些时候，美财长耶伦表示，“与购买有利于俄罗斯的军事技术有关”的所谓“跨国网络”将受到限制。<br>美国财政部允许与多家受限制的俄罗斯公司开展业务，以确保民航安全。
+
+### 47: [2022-11-15 22:37:33+08:00 推文](https://twitter.com/HeQinglian/status/1592527229652996096)
+
+Re @JianglinLi @david_david1968 @Wu_Zhi @ngexp 这个人从资本天才金童到如今，也就几年功夫。看看其投资者，就知道谁是支持者了。
+
+### 48: [2022-11-15 22:57:57+08:00 推文](https://twitter.com/HeQinglian/status/1592532363208179717)
+
+路透最新信息：众议院议席是民主党207：共和党215.<br>从图示来看，已经赢了或将赢且点票超过99%的红色还有近十席，在*正常情况*下民主党翻盘不太可能了。<br>但从共和党建制派这次的提前表演来看，就算赢，今后也不会象民主党众议院那样团结一致。<br>希望今年能有正常情况。 <a href="https://www.reuters.com/graphics/USA-ELECTION/RESULTS/dwvkdgzdqpm/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/graphics/USA-ELECTION/RESULTS/dwvkdgzdqpm/</a>
+
+### 49: [2022-11-15 23:01:45+08:00 推文](https://twitter.com/HeQinglian/status/1592533319316832256)
+
+Re @dinglili7 西方也就剩下公开约定在G20上孤立普京的阳谋，一出心中恶气这一招了。<br>人家一国（加车臣、白俄等少数）对四十多国，以弱军力对付世界最强大的军事集团，不输就是赢，为何要给你们这个机会？你们就孤立俄外交部长好了。
+
+### 50: [2022-11-15 23:04:29+08:00 推文](https://twitter.com/HeQinglian/status/1592534007371161603)
+
+Re @zhixiangziyou 所谓DNC主席、RNC主席，都不是实质领导人。<br>实际上的地位由国会、政府内的地位最高者决定。这不是直接选的，是通过选举上位，再在国会内博弈得来的。
+
+### 51: [2022-11-15 23:20:59+08:00 推文](https://twitter.com/HeQinglian/status/1592538156502745088)
+
+Re 分析图表，极有意思。<br>在亚利桑那州的两席（点票已经超过99%），支持率相差约两个点上下，除非灌票量很大，民主党才有可能赢。民主党估计还会坚持下去。<br>其余大家自己看，或会有心得。
+
+### 52: [2022-11-15 23:23:42+08:00 推文](https://twitter.com/HeQinglian/status/1592538841977847809)
+
+Re @yongshengleechn 这得到共和党一方艰难地Call到218票——民主党确实在选战方面太能创造“奇迹”了。
+
+### 53: [2022-11-15 23:28:29+08:00 推文](https://twitter.com/HeQinglian/status/1592540045965422592)
+
+Re @JianglinLi @david_david1968 @Wu_Zhi @ngexp 这金童的父母均为斯坦福大学教授，社会活动力强，不是易与之人，而且是民主党的永久成员。如果被自杀，会有后果的。<br>今年金童的公司是民主党的第二大金主（FT、路透报导），双赢结果是公司破产，人先放假。美媒对他很客气，连第二大金主这都不提。
+
+### 54: [2022-11-15 23:39:57+08:00 推文](https://twitter.com/HeQinglian/status/1592542931420053506)
+
+Re @lianghuiwang2 如果是这样，干脆省点竞选资金算了。<br>拜登再次宣布，我们就是会赢，你们别费那心了。
+
+### 55: [2022-11-16 00:00:02+08:00 推文](https://twitter.com/HeQinglian/status/1592547985560588289)
+
+美国《新闻周刊》文章：<br>周二赢得选举的死者名单<br><br>比较有趣的是这些死者的党籍。宾州众议院的声明：“虽然我们对托尼·德卢卡 (Tony DeLuca-D) 众议员的逝世感到无比悲痛，但我们很自豪地看到选民在他去世后再次选举他，继续表现出对他的信心以及他对民主价值观的承诺。” <a href="https://www.newsweek.com/list-dead-people-who-won-2022-midterm-elections-1758448" target="_blank" rel="noopener noreferrer">https://www.newsweek.com/list-dead-people-who-won-2022-midterm-elections-1758448</a>
+
+### 56: [2022-11-16 00:02:43+08:00 推文](https://twitter.com/HeQinglian/status/1592548661904670720)
+
+Re @god777_i @lianghuiwang2 我这里留言的，不乏仍然坚信拜登与民主党伟大正确的推号，孜孜不倦地污染我园子。
+
+### 57: [2022-11-16 00:10:20+08:00 推文](https://twitter.com/HeQinglian/status/1592550577472692224)
+
+Re @lindahuiyun 这不是欧洲自家养大的孩子败自个家么？
+
+### 58: [2022-11-16 00:12:40+08:00 推文](https://twitter.com/HeQinglian/status/1592551165526691841)
+
+Re @dinglili7 说不定是启发拉夫罗夫：你就预先称心脏病住院好了，这心脏病是看到自己在G20峰会上被孤立的可怕前景而引发的。
+
+### 59: [2022-11-16 00:17:24+08:00 推文](https://twitter.com/HeQinglian/status/1592552354653429760)
+
+Re @swyouxiangy4484 估计自1920年以后在那个镇出生的人、在那里居住过的都被计算在内。
+
+### 60: [2022-11-16 00:38:35+08:00 推文](https://twitter.com/HeQinglian/status/1592557685618376704)
+
+Re @KELMAND1 @Alexjandro990 话说，从今年3月开始，就是美联储玩隔夜回购了，让美国政府及大机构先认购，第三天美联储再回购，账面上处理一下就行了。
+
+### 61: [2022-11-16 00:40:36+08:00 推文](https://twitter.com/HeQinglian/status/1592558193892528129)
+
+Re @dinglili7 事在人为，说多了，拉夫罗夫身边说不定有人领会了。😉<br>现在的大英帝国，每有人上台不是被期望或部分自许成邱吉尔，就是撒切尔，梦想越来越美，现实越来越不堪。
+
+### 62: [2022-11-16 00:43:14+08:00 推文](https://twitter.com/HeQinglian/status/1592558858610016256)
+
+Re @KELMAND1 @Alexjandro990 你还是看看我这篇文章：美国国债正在爆表<br><br>道理就是这些道理，里面对现代货币理论有介绍。 <a href="http://heqinglian.net/2021/09/30/the-us-national-ledger-is-exploding/" target="_blank" rel="noopener noreferrer">http://heqinglian.net/2021/09/30/the-us-national-ledger-is-exploding/</a>
 
