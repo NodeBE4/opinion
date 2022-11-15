@@ -205,3 +205,7 @@ I actually don't know what the Kaifeng Jews used as their term for God, but the 
 
 Not even a hobby thing, but has anyone else seen *Weird: The Al Yankovic Story* yet? Personally, I went in very worried that it would be like those biopics that deliberately fictionalise things to make the lead look better, but I was very impressed by how true it stayed to actual history in the portrayal. Deeply moving, an 11/10 film.
 
+----- __924.2__ -----2022-11-15 20:09:54+08:00:
+
+What it hit home for me is how much the recent rock biopics have felt the need to make their subjects seem more like Weird Al, rather than allowing their originality to come through. It seems to fit a formula because the formula began with Al.
+
