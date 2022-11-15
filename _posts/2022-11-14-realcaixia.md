@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-11-15
+date: 2022-11-16
 from: https://twitter.com/realcaixia/status/1591838080708665345
 layout: post
 tags:
@@ -81,7 +81,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fhe5---UcAAmsQ_?format=jpg
 
 ### 17: [2022-11-15 02:25:48+08:00 推文](https://twitter.com/realcaixia/status/1592222280184369152)
 
-他们害怕所有争取自由民主的不朽灵魂！他们枪在手，但他们无法赢得人心。他们恐惧年老体弱的老人，他们恐惧手无寸铁的平民，他们天天喊着自信，事实上处处透出他们蛮横强霸表象背后的虚弱卑鄙邪恶。<br><br>ZHANGDONG: 明天周二是鲍彤老先生告别仪式，北京戒备森严。高瑜今天开始又被上岗，楼下门前警车国保又开始加班了。<br>人民没有思想言论行动自由，动辄就是国家暴力，何来“全过程民主”？<br>
+他们害怕所有争取自由民主的不朽灵魂！他们枪在手，但他们无法赢得人心。他们恐惧年老体弱的老人，他们恐惧手无寸铁的平民，他们天天喊着自信，事实上处处透出他们蛮横强霸表象背后的虚弱卑鄙邪恶。<br><br>ZHANGDONG: 明天周二是鲍彤老先生告别仪式，北京戒备森严。高瑜今天开始又被上岗，楼下门前警车国保又开始加班了。<br>人民没有思想言论行动自由，动辄就是国家暴力，何来“全过程民主”？<br> <a href="https://twitter.com/gaoyu200812/status/1591726916553551872" target="_blank" rel="noopener noreferrer">https://twitter.com/gaoyu200812/status/1591726916553551872</a>
 
 ### 18: [2022-11-15 14:02:27+08:00 推文](https://twitter.com/realcaixia/status/1592397597704359936)
 
@@ -102,4 +102,20 @@ Re @gaoyu200812 @lianchaohan 终于看到了在亲友晚辈送花圈挽联的署
 ### 22: [2022-11-15 21:22:31+08:00 推文](https://twitter.com/realcaixia/status/1592508345399013380)
 
 终于看到了在亲友晚辈送花圈挽联的署名中有我的名字，不能写“蔡霞”，写的是“彩霞”。在这段视频里一闪而过，在照片里，“彩霞”这个名字被遮挡了。鲍老千古！英灵不朽！<br><br>高瑜: 八寶山靈堂外來花圈不能入內，被列入”絕對不可能“的，連花圈也不能署名。<br><br><video src="https://video.twimg.com/ext_tw_video/1592378417252429825/pu/vid/1280x720/eT28hCxFrig2QW-c.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1592378417252429825/pu/img/EKSH8hA9OQ4IUF__.jpg"></video>
+
+### 23: [2022-11-15 23:17:24+08:00 推文](https://twitter.com/realcaixia/status/1592537258317713412)
+
+Re @pyxceo 从2016年5月开始，除了中共官方宣布开除我出党、取消我退休待遇以示严厉惩罚警告中共党内外，除了五毛粉红网军攻击我、胡锡进之类的“声讨批判”我的文字外，大陆所有网络媒体和纸质媒体上一律禁止出现我的名字和我的文章。中共对所有揭露他们邪恶真相的人，都采取全网全媒体封杀。
+
+### 24: [2022-11-16 00:26:08+08:00 推文](https://twitter.com/realcaixia/status/1592554554792427520)
+
+推荐这部影像资料。 <a href="https://www.theepochtimes.com/the-final-war_4851409.html?utm_source=Enews&amp;utm_campaign=etv-2022-11-15&amp;utm_medium=email&amp;est=PMeKSDWYkPozQp5UK5Ny5bBOg3wFj5qH9J07JdrDLReGH4VcXWwEMHHXmVGole7x" target="_blank" rel="noopener noreferrer">https://www.theepochtimes.com/the-final-war_4851409.html?utm_source=Enews&amp;utm_campaign=etv-2022-11-15&amp;utm_medium=email&amp;est=PMeKSDWYkPozQp5UK5Ny5bBOg3wFj5qH9J07JdrDLReGH4VcXWwEMHHXmVGole7x</a><br><img style="" src="https://pbs.twimg.com/media/Fhnj7VRWAAEmq2j?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 25: [2022-11-16 00:56:51+08:00 推文](https://twitter.com/realcaixia/status/1592562285263863816)
+
+拜、习会后，美、中各自发布公告，双方发布内容差异很大。有兴趣的网友请细看。<br>这推先发美国发布的会谈纪要，下一跟帖发中共央视新闻的报道。<br>有趣的是：中方称习为中美关系发展指明了一个方向一条轨道，未知拜登会谈中听到习给他的指明没有？未知几亿美国人民、美国两党同意习给他们下令吗？<br><img style="" src="https://pbs.twimg.com/media/Fhnq9FLWIAAGoLs?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fhnq9SgWYAAxGK9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 26: [2022-11-16 00:58:48+08:00 推文](https://twitter.com/realcaixia/status/1592562775502770176)
+
+Re 习近平给美国总统发指令。<br><img style="" src="https://pbs.twimg.com/media/FhnrZzNWAAAOQ08?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2022-05-23~2022-05-29'
 
 ### 2: [2022-05-23 03:41:29+08:00 推文](https://twitter.com/realcaixia/status/1528461062135087104)
 
-六四将近，当局要加强防控。借口就是“防疫”。全世界都知道Omicron传染性强但重症率死亡率都极低。全世界都在恢复正常开放，但中共国偏要封校封城。全世界都知道中共国假装防疫，中共当局也知道全世界都知道他们在假装，他们依然要把假装进行到底。这个“到底”是经济社会崩溃还是当局崩溃？且拭目以待。<br><br>新闻调查: 怕北大学生聚众闹事，开始疏散学生了！<br><br><img style="" src="https://pbs.twimg.com/media/FTXOw4IUcAAUMcD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+六四将近，当局要加强防控。借口就是“防疫”。全世界都知道Omicron传染性强但重症率死亡率都极低。全世界都在恢复正常开放，但中共国偏要封校封城。全世界都知道中共国假装防疫，中共当局也知道全世界都知道他们在假装，他们依然要把假装进行到底。这个“到底”是经济社会崩溃还是当局崩溃？且拭目以待。
 
 ### 3: [2022-05-23 05:38:34+08:00 推文](https://twitter.com/realcaixia/status/1528490529268240385)
 
@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2022-05-23~2022-05-29'
 
 ### 4: [2022-05-23 06:11:00+08:00 推文](https://twitter.com/realcaixia/status/1528498689857052673)
 
-这是我推下的一个推友跟帖。他发出了自己的声音。在中共极权高压下，这需要巨大的勇气。特别转推推荐。
+这是我推下的一个推友跟帖。他发出了自己的声音。在中共极权高压下，这需要巨大的勇气。特别转推推荐。<br><br>NewLife: @realcaixia 加油💪我們支持上海獨立‼️我們支持中國人獨立‼️奪回本應屬於我們的權力‼️加油💪<br> <a href="https://twitter.com/newlife62675967/status/1524463179778207745?s=21&amp;t=do5AVW58Lu0wBNv34KVEiQ" target="_blank" rel="noopener noreferrer">https://twitter.com/newlife62675967/status/1524463179778207745?s=21&amp;t=do5AVW58Lu0wBNv34KVEiQ</a>
 
 ### 5: [2022-05-23 06:18:14+08:00 推文](https://twitter.com/realcaixia/status/1528500511195836416)
 
@@ -53,11 +53,11 @@ Re 请看市民这封给公安机关人员的公开信。信的一开始就说�
 
 ### 10: [2022-05-23 23:40:12+08:00 推文](https://twitter.com/realcaixia/status/1528762731532255232)
 
-转推。
+转推。<br><br>freechina1974✊✊✊: @yibaochina<br> <a href="https://twitter.com/freechina1974/status/1528557498462248960?s=21&amp;t=kwRmGJicCRE8XU9yKlKAMw" target="_blank" rel="noopener noreferrer">https://twitter.com/freechina1974/status/1528557498462248960?s=21&amp;t=kwRmGJicCRE8XU9yKlKAMw</a>
 
 ### 11: [2022-05-24 01:01:49+08:00 推文](https://twitter.com/realcaixia/status/1528783270774808576)
 
-权利不是等来求来的，必须是经过抗争，自己争来的。大家一起站出来，对侵犯权利的恶行勇敢说不！<br>专制统治以恐吓制造人们的畏惧心理，只要大家都不怕他们，他们的统治基石就开始摇晃撼动了。
+权利不是等来求来的，必须是经过抗争，自己争来的。大家一起站出来，对侵犯权利的恶行勇敢说不！<br>专制统治以恐吓制造人们的畏惧心理，只要大家都不怕他们，他们的统治基石就开始摇晃撼动了。<br><br>戴姐: @im1266 @ZhouFengSuo 徐汇区汇贤居从昨晚和居委理论到今天中午全员解封👍模子！原来解封也得靠自己争取  。<br><br><video src="https://video.twimg.com/ext_tw_video/1528737541704552449/pu/vid/720x1280/Y7Bg_OgO6T8dVfxI.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1528737541704552449/pu/img/xNTCf6aq4txc2gCY.jpg"></video>
 
 ### 12: [2022-05-24 02:23:49+08:00 推文](https://twitter.com/realcaixia/status/1528803906666614785)
 
@@ -65,7 +65,7 @@ Re @yjpc007 @YouTube 在大陆，习讲忠诚不绝对等于绝对不忠诚；�
 
 ### 13: [2022-05-24 02:30:58+08:00 推文](https://twitter.com/realcaixia/status/1528805702801805312)
 
-👍🌹🌹🌹
+👍🌹🌹🌹<br><br>Gancheng Wang: 上海发生“自行解封”运动<br>人民正在觉醒<br>拒绝继续被强制封闭<br><br>上海多个小区居民据理力争，终于喊出“自行解封”的响亮口号。目前徐汇区、静安区多个小区居民已经突破封锁自行解封。“自解”运动正在上海不断发酵和扩大。<br><br><video src="https://video.twimg.com/ext_tw_video/1528750422797824001/pu/vid/592x1280/xNgDGcLGyHh2A6--.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1528750422797824001/pu/img/BSVm97JkTt_SDrX4.jpg"></video>
 
 ### 14: [2022-05-24 04:51:44+08:00 推文](https://twitter.com/realcaixia/status/1528841129139269632)
 
@@ -85,15 +85,15 @@ Re @wang6332558 @xizhutou2020 @yjpc007 @YouTube 就是啊，相煎何太急！�
 
 ### 18: [2022-05-24 21:40:13+08:00 推文](https://twitter.com/realcaixia/status/1529094922023862276)
 
-中共国内正万马齐喑，此将是最后的绝响，再后是“于无声处听惊雷”，但要经过一长短不定的至暗时刻与死寂社会，许多人将遭受更严酷的迫害摧残……。<br>信念不死，抗争将会继续，但需要更大的勇气，更多的智慧，更宽广的胸怀与更长远的眼光。对我们每个反抗者来说，要锤炼个人更高的素质，作更韧性的努力。
+中共国内正万马齐喑，此将是最后的绝响，再后是“于无声处听惊雷”，但要经过一长短不定的至暗时刻与死寂社会，许多人将遭受更严酷的迫害摧残……。<br>信念不死，抗争将会继续，但需要更大的勇气，更多的智慧，更宽广的胸怀与更长远的眼光。对我们每个反抗者来说，要锤炼个人更高的素质，作更韧性的努力。<br><br>ZHANGDONG: 遗憾！被封口或被迫闭嘴的还有清华教授郭于华，她的最后一条推特停留在2022年1月31日，微博公号还在九死一生地挣扎。此外，备受尊敬的鲍彤老先生也已长达四个月没再更新推特，与之互动频繁的老友孟孙先生也于3月11日告别推友。😭😭<br>何时起，东方苍茫大地万马齐喑？<br><br><img style="" src="https://pbs.twimg.com/media/FTgZ7JeWQAISNMM?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/gaoyu200812/status/1528943209975623680" target="_blank" rel="noopener noreferrer">https://twitter.com/gaoyu200812/status/1528943209975623680</a>
 
 ### 19: [2022-05-24 21:44:40+08:00 推文](https://twitter.com/realcaixia/status/1529096043987607552)
 
-这便是信念与信心的宣示。
+这便是信念与信心的宣示。<br><br>ZHANGDONG: 每年五月的第三个星期四是乌克兰的刺绣衫节，富有民族特色的刺绣衫象征着乌克兰民族团结和民族认同，它把乌克兰人民凝聚在一起。今天泽伦斯基总统用刺绣衫替换下了军绿T-恤衫，精神焕发，流露出乌克兰必胜信心。<br>欧盟女主席今天也亮出刺绣时装秀，表示在困难时期，与乌克兰人民一起共度时艰。<br><br><video src="https://video.twimg.com/ext_tw_video/1527359586797178888/pu/vid/848x480/sHK-f3ykZ1EM8_wr.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1527359586797178888/pu/img/NJdcjf_nGE0__CSv.jpg"></video> <a href="https://twitter.com/vonderleyen/status/1527317182623150080" target="_blank" rel="noopener noreferrer">https://twitter.com/vonderleyen/status/1527317182623150080</a>
 
 ### 20: [2022-05-24 21:52:40+08:00 推文](https://twitter.com/realcaixia/status/1529098058063089666)
 
-香港媒体当时记录的真实场面。中国一切热爱自由、争取自由的人，当永远记住6.4，并传告子孙后代。
+香港媒体当时记录的真实场面。中国一切热爱自由、争取自由的人，当永远记住6.4，并传告子孙后代。<br><br>🥜食花生🍻飲啤酒🤥吹吹水🤣: @realcaixia HK #TVB recorded the footage of the #8964 massacre that year, and the sound of gunfire was endless.<br><br>Many young people in China have never heard of June 4th. <br>Take a good look at it, keep it well, spread it widely, and remember it forever.<br>@un<br> #wuforget64<br><br><video src="https://video.twimg.com/ext_tw_video/1527617002948284417/pu/vid/932x720/X-xmm6o3emBHQB7f.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1527617002948284417/pu/img/MT4j0ivG0Wp8T9I0.jpg"></video>
 
 ### 21: [2022-05-25 12:00:44+08:00 推文](https://twitter.com/realcaixia/status/1529311480008560640)
 
@@ -109,7 +109,7 @@ Re @fishsalt8 说得好！不改变思维方式不可能真具有自由民主观
 
 ### 24: [2022-05-25 12:40:07+08:00 推文](https://twitter.com/realcaixia/status/1529321388275748864)
 
-这就是大度、豁达、善良，通透。不浪费时间精力打无聊口水仗，把时间精力投入在值得做的事情上。这就是活得坦荡。<br><br>王局志安: 这两天有不少人告诉我一些人在攻击我，我第一不在意，第二不关心，第三我也不会回复那些子虚乌有的各种污蔑。话说我现在非常忙，上午日语课，下午找选题录节目，看办公室，看招聘的简历，和各路想要投资的人相谈。根本顾不上看这些攻击的言论。我已两鬓斑白，不想把有限的生命浪费到这些事情上。<br>
+这就是大度、豁达、善良，通透。不浪费时间精力打无聊口水仗，把时间精力投入在值得做的事情上。这就是活得坦荡。
 
 ### 25: [2022-05-25 20:52:42+08:00 推文](https://twitter.com/realcaixia/status/1529445354650886146)
 
@@ -117,15 +117,15 @@ Re @fishsalt8 说得好！不改变思维方式不可能真具有自由民主观
 
 ### 26: [2022-05-25 20:55:34+08:00 推文](https://twitter.com/realcaixia/status/1529446076134064132)
 
-💔<br><br>韩连潮: 看到这张照片仍无动于衷的，我不知道他们是什么！<br><br><img style="" src="https://pbs.twimg.com/media/FTmkwgvXsAASlep?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+💔
 
 ### 27: [2022-05-26 02:13:17+08:00 推文](https://twitter.com/realcaixia/status/1529526030536708096)
 
-索罗斯是位目光极为锐利的智者。早在2019年，索罗斯就指出中共国利用高科技，正在威胁世界和平和人类文明。<br>后来索罗斯几次发表文章，提醒与告诫自由民主国家要高度警惕习近平掌控下的中国。他对中共极权政权的清醒认识，甚至超过美国的一些热衷于中美engagement policy 的政治家们。
+索罗斯是位目光极为锐利的智者。早在2019年，索罗斯就指出中共国利用高科技，正在威胁世界和平和人类文明。<br>后来索罗斯几次发表文章，提醒与告诫自由民主国家要高度警惕习近平掌控下的中国。他对中共极权政权的清醒认识，甚至超过美国的一些热衷于中美engagement policy 的政治家们。<br><br>韩连潮: 【索罗斯如是说】索罗斯昨在世界经济论坛上发表演讲，称俄入侵乌克兰可能是第三次世界大战的开始，威胁到人类文明；中俄利用高科技构成了对世界的最大威胁。但他也指这两个专制政权都开始出现裂痕 -- 普京入侵乌克兰被世界孤立，习近平抗疫失误引发人民不满。<br><br><img style="" src="https://pbs.twimg.com/media/FTmnuiaWIAAIgnI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 28: [2022-05-26 02:17:21+08:00 推文](https://twitter.com/realcaixia/status/1529527052629528581)
 
-封城清零封到老鼠饿死在面店里。<br><br>吴文行wenxingwu: 上海因疫情店面关闭，老鼠被活活饿死！饥荒达到高水准！<br><br><img style="" src="https://pbs.twimg.com/media/FTlbvqPVsAAZA3s?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+封城清零封到老鼠饿死在面店里。
 
 ### 29: [2022-05-26 22:53:06+08:00 推文](https://twitter.com/realcaixia/status/1529838039152922625)
 
@@ -161,7 +161,7 @@ Re @fishsalt8 说得好！不改变思维方式不可能真具有自由民主观
 
 ### 37: [2022-05-27 21:26:25+08:00 推文](https://twitter.com/realcaixia/status/1530178613085192192)
 
-请听学生喊的口号。<br><br>帥哥: @realcaixia 給<br><br><video src="https://video.twimg.com/ext_tw_video/1530177981246672897/pu/vid/960x528/K5bnn03vwg2Pb1Wh.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1530177981246672897/pu/img/-QFYc18VqmxNE6gP.jpg"></video>
+请听学生喊的口号。
 
 ### 38: [2022-05-27 21:39:12+08:00 推文](https://twitter.com/realcaixia/status/1530181830594502659)
 
@@ -205,7 +205,7 @@ Re 就是这个视频。请关注。<br><img style="" src="https://pbs.twimg.com
 
 ### 48: [2022-05-28 22:05:34+08:00 推文](https://twitter.com/realcaixia/status/1530550852913704961)
 
-请读一读这篇文章。<br><br>公民力量: CPIFC: The Myth of Public Opinion Under Xi Jinping #xijinping<br> <a href="https://www.citizenpowerforchina.org/the-myth-of-public-opinion-under-xi-jinping/" target="_blank" rel="noopener noreferrer">https://www.citizenpowerforchina.org/the-myth-of-public-opinion-under-xi-jinping/</a>
+请读一读这篇文章。
 
 ### 49: [2022-05-28 22:08:33+08:00 推文](https://twitter.com/realcaixia/status/1530551603727675393)
 
