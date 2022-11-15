@@ -43,9 +43,23 @@ Just to let you know, your question is fine, and we're letting it stand. However
 
 If you end up not getting a response after a day or two, [consider asking a new question focusing instead on why what happened did happen](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) (rather than why what didn't happen didn't happen) - this kind of question is more likely to get a response in our experience. Hope this helps!
 
+----- __927.2__ -----2022-11-15 21:11:58+08:00:
+
+Sorry, but we have removed your response. We expect answers in this subreddit to be [comprehensive](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/), which includes properly engaging with the question that was actually asked. While some questions verge into topics where the only viable approach, due to a paucity of information, is to nibble around the edges, even in those cases we would expect engagement with the *historiography* to demonstrate *why* this is the case.
+
+In the context of /r/AskHistorians, if a response is simply "*well*, **I** *don't know the answer to your question, but I do know about this other thing*", that doesn't accomplish this and is considered [clutter](https://www.reddit.com/r/AskHistorians/comments/i6b3bw/rules_roundtable_xxv_all_the_small_things_jokes/). We realize that you have something interesting to share, but that isn't an excuse to hijack a thread. If you have an answer without a question, consider making use of the [Saturday Spotlight](https://www.reddit.com/r/AskHistorians/search?q=saturday+spotlight&sort=new&restrict_sr=on) or the [Tuesday Trivia](http://www.reddit.com/r/AskHistorians/search?q=title%3A%22Tuesday+Trivia%22&restrict_sr=on&sort=new&t=all) in the future.
+
 ### 928: [Who remembers the Bored Ape Yacht Club?](https://old.reddit.com/r/Buttcoin/comments/yv649n/who_remembers_the_bored_ape_yacht_club/), submitted on 2022-11-15 01:21:41+08:00.
 
 ----- __928.1__ -----2022-11-15 17:10:16+08:00:
 
 Apart from the part where it's an ad for a different NFT collection.
+
+### 929: [Why did the US and most of the world institute a One China policy?](https://old.reddit.com/r/AskHistorians/comments/yvcmff/why_did_the_us_and_most_of_the_world_institute_a/), submitted on 2022-11-15 05:05:53+08:00.
+
+----- __929.1__ -----2022-11-15 21:12:05+08:00:
+
+Sorry, but we have removed your response. We expect answers in this subreddit to be [comprehensive](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/), which includes properly engaging with the question that was actually asked. While some questions verge into topics where the only viable approach, due to a paucity of information, is to nibble around the edges, even in those cases we would expect engagement with the *historiography* to demonstrate *why* this is the case.
+
+In the context of /r/AskHistorians, if a response is simply "*well*, **I** *don't know the answer to your question, but I do know about this other thing*", that doesn't accomplish this and is considered [clutter](https://www.reddit.com/r/AskHistorians/comments/i6b3bw/rules_roundtable_xxv_all_the_small_things_jokes/). We realize that you have something interesting to share, but that isn't an excuse to hijack a thread. If you have an answer without a question, consider making use of the [Saturday Spotlight](https://www.reddit.com/r/AskHistorians/search?q=saturday+spotlight&sort=new&restrict_sr=on) or the [Tuesday Trivia](http://www.reddit.com/r/AskHistorians/search?q=title%3A%22Tuesday+Trivia%22&restrict_sr=on&sort=new&t=all) in the future.
 
