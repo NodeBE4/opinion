@@ -17,7 +17,7 @@ title: 'Twitter @中国文字狱事件盘点: 2021-11-22~2021-11-28'
 
 ### 1: [2021-11-24 11:11:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1463344370648854530)
 
-湖南省邵阳县男子卿某，因在QQ发表“侮辱亵渎革命英烈”的言论，被处拘留10日，其具体言论内容不详。<br><img style="" src="https://pbs.twimg.com/media/FE6hMXPX0AYDrYK?format=jpg&name=orig" referrerpolicy="no-referrer">
+湖南省邵阳县男子卿某，因在QQ发表“侮辱亵渎革命英烈”的言论，被处拘留10日，其具体言论内容不详。<br><img style src="https://pbs.twimg.com/media/FE6hMXPX0AYDrYK?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2021-11-24 11:13:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1463344873977917445)
 
@@ -45,5 +45,5 @@ Shaanxi woman Xiao detained for 7 days for referring to police as robbers and ba
 
 ### 8: [2021-11-27 11:44:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1464439838808104969)
 
-Human rights lawyer @liangxiaojun based in Beijing revoked of Lawyer's License yesterday, for supporting Falun Gong and "vilifying and slandering China's political system and principals" on Twitter and Weibo.<br><img style src="https://pbs.twimg.com/media/FFJOfwnXoAww72M?format=jpg&name=orig" referrerpolicy="no-referrer">
+Human rights lawyer @liangxiaojun based in Beijing revoked of Lawyer's License yesterday, for supporting Falun Gong and "vilifying and slandering China's political system and principals" on Twitter and Weibo.<br><img style="" src="https://pbs.twimg.com/media/FFJOfwnXoAww72M?format=jpg&name=orig" referrerpolicy="no-referrer">
 

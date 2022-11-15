@@ -81,5 +81,17 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fhe5---UcAAmsQ_?format=jpg
 
 ### 17: [2022-11-15 02:25:48+08:00 推文](https://twitter.com/realcaixia/status/1592222280184369152)
 
-他们害怕所有争取自由民主的不朽灵魂！他们枪在手，但他们无法赢得人心。他们恐惧年老体弱的老人，他们恐惧手无寸铁的平民，他们天天喊着自信，事实上处处透出他们蛮横强霸表象背后的虚弱卑鄙邪恶。<br><br>ZHANGDONG: 明天周二是鲍彤老先生告别仪式，北京戒备森严。高瑜今天开始又被上岗，楼下门前警车国保又开始加班了。<br>人民没有思想言论行动自由，动辄就是国家暴力，何来“全过程民主”？<br>
+他们害怕所有争取自由民主的不朽灵魂！他们枪在手，但他们无法赢得人心。他们恐惧年老体弱的老人，他们恐惧手无寸铁的平民，他们天天喊着自信，事实上处处透出他们蛮横强霸表象背后的虚弱卑鄙邪恶。<br><br>ZHANGDONG: 明天周二是鲍彤老先生告别仪式，北京戒备森严。高瑜今天开始又被上岗，楼下门前警车国保又开始加班了。<br>人民没有思想言论行动自由，动辄就是国家暴力，何来“全过程民主”？<br> <a href="https://twitter.com/gaoyu200812/status/1591726916553551872" target="_blank" rel="noopener noreferrer">https://twitter.com/gaoyu200812/status/1591726916553551872</a>
+
+### 18: [2022-11-15 14:02:27+08:00 推文](https://twitter.com/realcaixia/status/1592397597704359936)
+
+为鲍老送行，最后告别仪式在北京八宝山殡仪馆举行。当局严格封锁鲍老的最后告别仪式消息，当局不仅严格限制人数，而且对整个殡仪馆进行了清场，只开放了告别鲍老仪式的梅厅，其余的所有厅都不开放，对鲍老实行别样的“高规格”葬礼待遇。凸显当局对鲍老巨大影响力的极度恐惧。<br><img style="" src="https://pbs.twimg.com/media/FhlVKYbWAAATq2k?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FhlVKoEWQAM23nN?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FhlVK3IXgAAdUEq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FhlVLHkXEAEU3Wo?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 19: [2022-11-15 14:17:38+08:00 推文](https://twitter.com/realcaixia/status/1592401420955054080)
+
+Re 为鲍老送行的梅厅大视频上再现鲍老生前的英容，其中的一幅是鲍老与夫人，背景是家乡秀丽的山河。鲍老躺卧在鲜花环绕丛中，身上覆盖着素兰色的被单，象征着鲍老堂堂正正做人，干干净净做事，清清白白离世。鲍老浩气长存，英灵不朽！<br><img style="" src="https://pbs.twimg.com/media/FhlYpgzXgAAjsYc?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FhlYpgzWIAAGOBO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FhlYpgxXEAAMMRa?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FhlYpgyWQAA4ev5?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 20: [2022-11-15 15:06:47+08:00 推文](https://twitter.com/realcaixia/status/1592413788707643392)
+
+鲍老儿女与众亲友为鲍老送行，有赵紫阳女儿王雁南夫妇，有多年追随鲍老的部属，有为争民主自由汇聚于鲍老身边的挚友志士……。更多的朋友被警察封堵不许前往，例如高瑜、老鬼夫妇、吴伟、郭于华教授等。<br><br>叶兵 YE BING: 鲍彤先生告别仪式今日11时在北京八宝山梅厅举行。鲍老亲属及生前友好近百人到场。当局禁止出席的敏感人物包括高瑜、马波（老鬼）、张丽娜、郭于华、浦志强、莫少平、尚宝军等。红二代送花圈者有王雁南、王志华、胡德华、杨小平、李南央、巴悌忠等。多个花圈挽联上竟出现某先生、某女士这样的奇葩落款。<br><br><img style="" src="https://pbs.twimg.com/media/FhlPyLhXoAAWEom?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
