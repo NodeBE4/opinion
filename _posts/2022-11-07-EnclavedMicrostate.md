@@ -173,6 +173,10 @@ What we do know, from Diogenes Laertios, is that whatever the relationship becam
 
 A popular narrative is that it was Alexander's abandonment of Panhellenism in favour of a more universalist, multicultural manner of rule that put off Aristotle, who had counselled a much more ethnocentric policy on Alexander's part. While Plutarch, in *On the Fortune or Virtue of Alexander*, does suggest that Alexander differed from his tutor in this regard, there simply isn't an explicit link in the sources between this political difference and their falling-out, presuming that this falling-out even took place at all.
 
+----- __922.2__ -----2022-11-15 07:59:34+08:00:
+
+So, the relative distance between Alexander and the surviving sources is always one to account for, and it's something I go into [here](https://www.reddit.com/r/AskHistorians/comments/l06m2l/concerning_alexander_the_great_how_much_of_the/gjwy3ha/). That said, these later authors weren't making stuff up: they had their own sources, whom they often cited explicitly. This *complicates* our view of Alexander, and massively so, but it doesn't mean we cannot know anything with certainty.
+
 ### 923: [Why was the Taiping rebellion a “heavenly kingdom” instead of a “celestial empire?” Why did it seem to reject traditional naming conventions for Chinese dynasties?](https://old.reddit.com/r/AskHistorians/comments/ytuuwh/why_was_the_taiping_rebellion_a_heavenly_kingdom/), submitted on 2022-11-13 15:31:07+08:00.
 
 ----- __923.1__ -----2022-11-13 21:05:02+08:00:
