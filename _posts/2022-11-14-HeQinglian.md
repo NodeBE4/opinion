@@ -263,3 +263,19 @@ Re @dinglili7 事在人为，说多了，拉夫罗夫身边说不定有人领会
 
 Re @KELMAND1 @Alexjandro990 你还是看看我这篇文章：美国国债正在爆表<br><br>道理就是这些道理，里面对现代货币理论有介绍。 <a href="http://heqinglian.net/2021/09/30/the-us-national-ledger-is-exploding/" target="_blank" rel="noopener noreferrer">http://heqinglian.net/2021/09/30/the-us-national-ledger-is-exploding/</a>
 
+### 63: [2022-11-16 01:11:13+08:00 推文](https://twitter.com/HeQinglian/status/1592565901240721408)
+
+Re @chnguzhn6 偶然转发他人的，因未核实，也出点状态。我尽量少转发，重要的我核实后再发。
+
+### 64: [2022-11-16 01:15:25+08:00 推文](https://twitter.com/HeQinglian/status/1592566957056094208)
+
+Re @zhixiangziyou 民主是代理委托制，一旦委托出去，并无问责机制。选民们唯一的方法是逢新的选举年再行使选民权利。<br>从威尔逊建立现代行政国家之后，美国的民主事实上就悬在一张选票之上，2020年之后，真实选票的价值与邮寄选票等值。
+
+### 65: [2022-11-16 02:30:15+08:00 推文](https://twitter.com/HeQinglian/status/1592585788273070080)
+
+Re @yeningusa @lianghuiwang2 你这建议，民主党有个说法：压制选民投票积极性。
+
+### 66: [2022-11-16 02:33:19+08:00 推文](https://twitter.com/HeQinglian/status/1592586562147348481)
+
+Re @shenliangqing2 祝令堂期年颐寿，府上四代同堂，天伦之乐融融。
+
