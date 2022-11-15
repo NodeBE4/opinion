@@ -357,7 +357,7 @@ Re @JiangShangrong 是不是乌驻德大使那条拉屎宣言发布后，让盟�
 
 ### 86: [2022-05-05 04:22:25+08:00 推文](https://twitter.com/HeQinglian/status/1521948382708830208)
 
-习近平对资本的态度为何飘移不定<br>4月29日中共政治局第三十八次集体学习的主题是“依法规范和引导中国资本健康发展”，推进公私合营2.0暂时踩了刹车。<br>本文从习近平的出身与教育，与成长年代“社会化过程”二者切入，指出习对资本既利用又限制且完全不信任的态度之养成背景。 <a href="https://www.epochtimes.com/gb/22/5/4/n13727235.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/4/n13727235.htm</a>
+RT He Qinglian<br>习近平对资本的态度为何飘移不定<br>4月29日中共政治局第三十八次集体学习的主题是“依法规范和引导中国资本健康发展”，推进公私合营2.0暂时踩了刹车。<br>本文从习近平的出身与教育，与成长年代“社会化过程”二者切入，指出习对资本既利用又限制且完全不信任的态度之养成背景。 <a href="https://www.epochtimes.com/gb/22/5/4/n13727235.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/4/n13727235.htm</a>
 
 ### 87: [2022-05-05 04:24:58+08:00 推文](https://twitter.com/HeQinglian/status/1521949023522938880)
 
@@ -1057,7 +1057,7 @@ Re @RealBeiMing @JianglinLi @aMichaelHsu @JiangShangrong 以基辅幽灵为例�
 
 ### 261: [2022-05-08 04:50:21+08:00 推文](https://twitter.com/HeQinglian/status/1523042576521220101)
 
-1月70亿，一年840亿美元。<br>据2020年世界各国GDP排名：<br>204个国家，排名第66的的斯里兰卡，年GDP总量为806.77亿美元。排名146的巴哈马年GDP总量为99.08亿，最末位是图瓦卢，年GDP总量为4886万美元。<br><br>如果谁愿意花时间，会计算出，排名后几十位的国家GDP总量也不足840亿美元。<br><br>Ezio Mao☢: 每月70亿美元，谁养得起……😅<br><br><img style="" src="https://pbs.twimg.com/media/FSIyd9VaIAA3eW0?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/tjlyy009/status/1522435973082419201" target="_blank" rel="noopener noreferrer">https://twitter.com/tjlyy009/status/1522435973082419201</a>
+1月70亿，一年840亿美元。<br>据2020年世界各国GDP排名：<br>204个国家，排名第66的的斯里兰卡，年GDP总量为806.77亿美元。排名146的巴哈马年GDP总量为99.08亿，最末位是图瓦卢，年GDP总量为4886万美元。<br><br>如果谁愿意花时间，会计算出，排名后几十位的国家GDP总量也不足840亿美元。 <a href="https://www.kylc.com/stats/global/yearly_overview/g_gdp.html" target="_blank" rel="noopener noreferrer">https://www.kylc.com/stats/global/yearly_overview/g_gdp.html</a>
 
 ### 262: [2022-05-08 04:54:10+08:00 推文](https://twitter.com/HeQinglian/status/1523043537608187911)
 
@@ -1065,7 +1065,7 @@ Re @oldbeijingman 我从不照顾底层逻辑框架，也绝对不会为了屈�
 
 ### 263: [2022-05-08 05:35:06+08:00 推文](https://twitter.com/HeQinglian/status/1523053835467444224)
 
-据美国防部公开信息，撤退之前的两年里，美国对阿富汗人进行性多元化教育。<br>因此，阿富汗人得认真考虑：在男女热衷变性与妇女遮面二者之间，哪种方式更可以接受？<br>——他们当然不需要征求阿富汗女性的意见。
+据美国防部公开信息，撤退之前的两年里，美国对阿富汗人进行性多元化教育。<br>因此，阿富汗人得认真考虑：在男女热衷变性与妇女遮面二者之间，哪种方式更可以接受？<br>——他们当然不需要征求阿富汗女性的意见。<br><br>美国之音中文网: 塔利班再度命令阿富汗妇女在公开场合遮面<br> <a href="http://dlvr.it/SPxn67" target="_blank" rel="noopener noreferrer">http://dlvr.it/SPxn67</a>
 
 ### 264: [2022-05-08 05:46:12+08:00 推文](https://twitter.com/HeQinglian/status/1523056629234618369)
 
@@ -1089,7 +1089,7 @@ Re @NAConservative9 仅有一个州是不够的。<br>应该让法官们都去�
 
 ### 269: [2022-05-08 08:11:34+08:00 推文](https://twitter.com/HeQinglian/status/1523093214990782464)
 
-欧美都在转向，<br>欧盟官员称欧盟约60%至80%的人口感染过新冠病毒，美国说是60%。<br>只有加拿大还坚持强制疫苗，中国坚持清零。何不都改变方式，看国民是否形成群体免疫？
+欧美都在转向，<br>欧盟官员称欧盟约60%至80%的人口感染过新冠病毒，美国说是60%。<br>只有加拿大还坚持强制疫苗，中国坚持清零。何不都改变方式，看国民是否形成群体免疫？<br><br>张佩芝Peggy Chang: 近60%美国人有通过感染产生的新冠抗体，美国走出大流行了吗？<br> <a href="https://www.voachinese.com/a/6561629.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/6561629.html</a>
 
 ### 270: [2022-05-08 08:21:52+08:00 推文](https://twitter.com/HeQinglian/status/1523095806827409408)
 

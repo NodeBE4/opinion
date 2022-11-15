@@ -283,3 +283,35 @@ Re @shenliangqing2 祝令堂期年颐寿，府上四代同堂，天伦之乐融�
 
 Re @0HCAvycgN60lwXM 还是看看选举地图，弄清楚民主党拥护者云集的城市是什么状态。如果你愿意住在经常发生零元购、抢劫杀人罪案频发的城市，说明你是真喜欢民主党那群众基础。
 
+### 68: [2022-11-16 05:41:40+08:00 推文](https://twitter.com/HeQinglian/status/1592633958701096963)
+
+共和党已经赢得216个众议院议席。<br><br>但我估计，在川普今天公布重大决定之前，就算共和党一方得了218个议席，可能也不会Call。<br>少让敌方高兴，也算一种心理战。😅<br><br>He Qinglian: 路透最新信息：众议院议席是民主党207：共和党215.<br>从图示来看，已经赢了或将赢且点票超过99%的红色还有近十席，在*正常情况*下民主党翻盘不太可能了。<br>但从共和党建制派这次的提前表演来看，就算赢，今后也不会象民主党众议院那样团结一致。<br>希望今年能有正常情况。<br> <a href="https://www.reuters.com/graphics/USA-ELECTION/RESULTS/dwvkdgzdqpm/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/graphics/USA-ELECTION/RESULTS/dwvkdgzdqpm/</a>
+
+### 69: [2022-11-16 05:43:10+08:00 推文](https://twitter.com/GeorgeW83697840/status/1592634339573239808)
+
+RT George w<br>Re @HeQinglian Fox news 的统计是217<br><img style="" src="https://pbs.twimg.com/media/FhosfUmagAA8SHQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 70: [2022-11-16 05:44:48+08:00 推文](https://twitter.com/HeQinglian/status/1592634747616100352)
+
+Re @GeorgeW83697840 可能Fox的消息更新快。咱们继续看，有好消息就通报。
+
+### 71: [2022-11-16 05:47:53+08:00 推文](https://twitter.com/HeQinglian/status/1592635525814685697)
+
+Re @JianglinLi @david_david1968 @Wu_Zhi @ngexp 参考当年深圳主管城建的副市长王建夺退休常委乔石儿子在深圳东门一块宝地的下场。<br>身份决定伤害他人的能力。<br>爱泼斯坦这人，以为自己与权贵一道玩，就成了权贵，头大症患者。
+
+### 72: [2022-11-16 05:53:42+08:00 推文](https://twitter.com/HeQinglian/status/1592636987043086337)
+
+Re @JianglinLi 有些应该墓木已拱，看这个小镇就知道。<br><br>无人机咻咻咻🇨🇳🇭🇰🇲🇴: 大漂亮一个只有695人口的小镇。中期选举。<br>民主党的票1106票<br>共和党的票193票<br><br>这就是不明生物口中的民主和一人一票？🤔🤔🤔<br> <a href="https://gellerreport.com/2022/11/nh-democrat-governor-maggie-hassan-gets-1100-votes-in-nh-town-with-a-population-under-700.html/#" target="_blank" rel="noopener noreferrer">https://gellerreport.com/2022/11/nh-democrat-governor-maggie-hassan-gets-1100-votes-in-nh-town-with-a-population-under-700.html/#</a>
+
+### 73: [2022-11-16 05:58:44+08:00 推文](https://twitter.com/HeQinglian/status/1592638255018962944)
+
+Re @JianglinLi 不过，现在看起来都犯了缅甸病，比如这个镇本来就是民主党大赢，为何要溢出选票180%以上？难道一定要碾压式胜利才能证明进步主义就是好？
+
+### 74: [2022-11-16 06:02:28+08:00 推文](https://twitter.com/HeQinglian/status/1592639194224267264)
+
+Re @JianglinLi 人家豪横，随便怎样，你还能怎么着？😅<br>又不是每个国都有缅甸军政府。今天看了巴西民众云集巴西陆军总部前抗议，想演当年埃及二次革命故事，呼唤军政府出面——不知巴西军人还有当年那气慨否？
+
+### 75: [2022-11-16 06:15:28+08:00 推文](https://twitter.com/HeQinglian/status/1592642467123236864)
+
+Re @catland95581230 @JianglinLi 有道理。
+
