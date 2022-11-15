@@ -199,3 +199,9 @@ If you'd like to read a bit more into this, Thomas Reilly's *The Taiping Heavenl
 
 I actually don't know what the Kaifeng Jews used as their term for God, but the Hui used 真主 *Zhenzhu* ('true god').
 
+### 924: [[Hobby Scuffles] Week of November 14, 2022](https://old.reddit.com/r/HobbyDrama/comments/yu41tv/hobby_scuffles_week_of_november_14_2022/), submitted on 2022-11-13 23:00:17+08:00.
+
+----- __924.1__ -----2022-11-15 17:43:30+08:00:
+
+Not even a hobby thing, but has anyone else seen *Weird: The Al Yankovic Story* yet? Personally, I went in very worried that it would be like those biopics that deliberately fictionalise things to make the lead look better, but I was very impressed by how true it stayed to actual history in the portrayal. Deeply moving, an 11/10 film.
+
