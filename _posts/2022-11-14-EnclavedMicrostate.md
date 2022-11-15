@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-11-14
+date: 2022-11-15
 from: https://old.reddit.com/r/AskHistorians/comments/yuqcri/what_hygiene_practices_were_used_across_the_globe/
 layout: post
 tags:
@@ -42,4 +42,10 @@ Hey there,
 Just to let you know, your question is fine, and we're letting it stand. However, you should be aware that questions framed as 'Why didn't X do Y' relatively often don't get an answer that meets our standards (in our experience as moderators). There are a few reasons for this. Firstly, it often can be difficult to prove the counterfactual: historians know much more about what happened than what might have happened. Secondly, 'why didn't X do Y' questions are sometimes phrased in an ahistorical way. It's worth remembering that people in the past couldn't see into the future, and they generally didn't have all the information we now have about their situations; things that look obvious now didn't necessarily look that way at the time.
 
 If you end up not getting a response after a day or two, [consider asking a new question focusing instead on why what happened did happen](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) (rather than why what didn't happen didn't happen) - this kind of question is more likely to get a response in our experience. Hope this helps!
+
+### 927: [Who remembers the Bored Ape Yacht Club?](https://old.reddit.com/r/Buttcoin/comments/yv649n/who_remembers_the_bored_ape_yacht_club/), submitted on 2022-11-15 01:21:41+08:00.
+
+----- __927.1__ -----2022-11-15 17:10:16+08:00:
+
+Apart from the part where it's an ad for a different NFT collection.
 
