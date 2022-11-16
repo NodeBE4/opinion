@@ -435,3 +435,15 @@ Re @dinglili7 我昨天查了一下对巴西军队的资料，自军政府结束
 
 Re @dinglili7 完全不是一回事。<br>缅甸军政府脱军装时，在宪法中为自己留足了干政的权力。想必巴西军队并无这等权力。
 
+### 106: [2022-11-17 03:23:11+08:00 推文](https://twitter.com/NAConservative9/status/1592961498959478784)
+
+RT 北美保守评论🇺🇸🇨🇦<br>《“提交选票协助” 这一现代选举程序正成为人们关注的焦点》<br><br>建制派共和党人迫不及待地抛出了一个极其恶毒的论调 —— 川普的MAGA太极端，导致共和党丢失了很多本该得到的席位。言下之意无非是应该抛弃回归建国先父们的建国思想、”使美国再次伟大“ 的理念，与民主党同流合污。 <a href="https://nacr.info/WordPress/index.php/2022/11/16/the-modern-electioneering-process-of-ballot-submission-assistance-is-taking-center-stage/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/11/16/the-modern-electioneering-process-of-ballot-submission-assistance-is-taking-center-stage/</a><br><img style="" src="https://pbs.twimg.com/media/FhtVfQuXwAUCjff?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 107: [2022-11-17 05:19:31+08:00 推文](https://twitter.com/HeQinglian/status/1592990772982591488)
+
+Re @shenliangqing2 @god777_i 我现在看见苍蝇就拍。不废话。
+
+### 108: [2022-11-17 05:26:15+08:00 推文](https://twitter.com/HeQinglian/status/1592992468982960129)
+
+Re @jojowheel 民主制最大的好处，是街头运动可以出点气。
+
