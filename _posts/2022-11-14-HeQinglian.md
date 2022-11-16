@@ -439,11 +439,35 @@ Re @dinglili7 完全不是一回事。<br>缅甸军政府脱军装时，在宪�
 
 RT 北美保守评论🇺🇸🇨🇦<br>《“提交选票协助” 这一现代选举程序正成为人们关注的焦点》<br><br>建制派共和党人迫不及待地抛出了一个极其恶毒的论调 —— 川普的MAGA太极端，导致共和党丢失了很多本该得到的席位。言下之意无非是应该抛弃回归建国先父们的建国思想、”使美国再次伟大“ 的理念，与民主党同流合污。 <a href="https://nacr.info/WordPress/index.php/2022/11/16/the-modern-electioneering-process-of-ballot-submission-assistance-is-taking-center-stage/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/11/16/the-modern-electioneering-process-of-ballot-submission-assistance-is-taking-center-stage/</a><br><img style="" src="https://pbs.twimg.com/media/FhtVfQuXwAUCjff?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
-### 107: [2022-11-17 05:19:31+08:00 推文](https://twitter.com/HeQinglian/status/1592990772982591488)
+### 107: [2022-11-17 03:45:25+08:00 推文](https://twitter.com/wenjiebc/status/1592967092172513280)
+
+RT 文婕 文婕播报<br>🇺🇸🔥燃爆了！这就是我对美国充满希望的原因。我们永远有数不尽的热情的爱国者！<br><br>愤怒的亚利桑那人掀翻马里科帕县监事会：选票和钱谁重要？问问那些说客，竞选经理，还有马克扎克伯格！你的钱，选票，国家，世界，还是腐蚀这个国家每一个县的腐败？照照镜子，拷问灵魂，你们就是撕裂这个国家的癌症！<br><video src="https://video.twimg.com/ext_tw_video/1592967021947404293/pu/vid/1280x688/3WrL01gNNPUcQTGr.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1592967021947404293/pu/img/aSOvZem2-sNEV6gN.jpg"></video>
+
+### 108: [2022-11-17 04:42:42+08:00 推文](https://twitter.com/JianglinLi/status/1592981508595527680)
+
+RT 李江琳<br>看看这个。这要不是邪恶还有啥算是邪恶？话说回来，当父母的必须死死看好自己的孩子。<br><br>Libs of TikTok: Watch this mother’s heart-wrenching testimony at a @SASDinfo board meeting. <br><br>Teachers coaxed her daughter to be trans. They shaved her head, and changed her name without notifying parents. Her daughter is now on testosterone and got a double mastectomy.<br><br><video src="https://video.twimg.com/ext_tw_video/1592166657501417475/pu/vid/1280x720/iJNhDh65_JG9x5Nf.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1592166657501417475/pu/img/dVAWzhY48tCh7Cxm.jpg"></video>
+
+### 109: [2022-11-17 05:19:31+08:00 推文](https://twitter.com/HeQinglian/status/1592990772982591488)
 
 Re @shenliangqing2 @god777_i 我现在看见苍蝇就拍。不废话。
 
-### 108: [2022-11-17 05:26:15+08:00 推文](https://twitter.com/HeQinglian/status/1592992468982960129)
+### 110: [2022-11-17 05:26:15+08:00 推文](https://twitter.com/HeQinglian/status/1592992468982960129)
 
 Re @jojowheel 民主制最大的好处，是街头运动可以出点气。
+
+### 111: [2022-11-17 05:44:53+08:00 推文](https://twitter.com/HeQinglian/status/1592997159460564992)
+
+Re @Lucs24659702 这一次加州与纽约州的保守派（其实只是对生活有正常常识的人）选民披荆斩棘，在那里赢得一些席位，让我感动。<br>他们与摇摆州的保守派不同，深知进步理念摧毁之下，人连正常生活都保不住——摇摆州的人还没身受其害。
+
+### 112: [2022-11-17 05:47:12+08:00 推文](https://twitter.com/HeQinglian/status/1592997739599925248)
+
+Re @Tepezano161 @franktianxie 伊万卡的事情，我不会评说。<br>她成为总统长女那天开始，才真正经受了人生磨难。
+
+### 113: [2022-11-17 05:48:55+08:00 推文](https://twitter.com/HeQinglian/status/1592998171684507649)
+
+Re @wenjiebc 👏👏👏👍👍👍
+
+### 114: [2022-11-17 06:38:27+08:00 推文](https://twitter.com/HeQinglian/status/1593010637457698816)
+
+Re @Wu_Zhi @shenliangqing2 这些人难道读不懂拜登与北约秘书长的声明？
 
