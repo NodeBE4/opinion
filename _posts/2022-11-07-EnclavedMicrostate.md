@@ -209,3 +209,11 @@ Not even a hobby thing, but has anyone else seen *Weird: The Al Yankovic Story* 
 
 What it hit home for me is how much the recent rock biopics have felt the need to make their subjects seem more like Weird Al, rather than allowing their originality to come through. It seems to fit a formula because the formula began with Al.
 
+----- __924.3__ -----2022-11-16 23:47:30+08:00:
+
+And [Sakura Miko is stuck promoting 'Baby Dance' till the end of time](https://www.youtube.com/watch?v=wBpzOIUac9k)
+
+----- __924.4__ -----2022-11-17 00:03:26+08:00:
+
+It's distressing that Miko comes off as less pon in the comparison...
+
