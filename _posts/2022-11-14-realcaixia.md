@@ -123,3 +123,7 @@ Re 习近平给美国总统发指令。<br><img style="" src="https://pbs.twimg.
 
 Re @Ipkmedia 支持光传媒！
 
+### 28: [2022-11-16 21:07:25+08:00 推文](https://twitter.com/realcaixia/status/1592866934064054274)
+
+这是中国经济的一个侧影……<br><br>章立凡 Zhang Lifan: 视频【成都第106屆糖酒会】<br><br><video src="https://video.twimg.com/ext_tw_video/1592652137514663936/pu/vid/544x960/f8AWuH6qLQtGrDHs.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1592652137514663936/pu/img/7LZy-uUs_bYAK4Z7.jpg"></video>
+
