@@ -117,7 +117,7 @@ Re @seeyoua22819375 @xxj2040 高玉宝、雷锋至少是正常人、普通人。
 
 ### 26: [2022-11-08 05:20:39+08:00 推文](https://twitter.com/HeQinglian/status/1589729566943498240)
 
-RT He Qinglian<br>“习近平思想”将中国导向何方？<br><br>人民经济、人类命运共同体、绿色经济是“道”，用来争当“世界领袖”的理论工具，这点习继承了毛的衣钵<br>加强党对经济工作的领导、坚持公有制为主体、供给侧改革谓之“术”，这是习对邓小平理论的继承，“术”可以随时调整，可以“摸着石头过河”，允许试错<br><br>自由亚洲电台: 评论 | #何清涟 @HeQinglian：“#习近平思想”将中国导向何方？<br> <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter</a>
+“习近平思想”将中国导向何方？<br><br>人民经济、人类命运共同体、绿色经济是“道”，用来争当“世界领袖”的理论工具，这点习继承了毛的衣钵<br>加强党对经济工作的领导、坚持公有制为主体、供给侧改革谓之“术”，这是习对邓小平理论的继承，“术”可以随时调整，可以“摸着石头过河”，允许试错<br><br>自由亚洲电台: 评论 | #何清涟 @HeQinglian：“#习近平思想”将中国导向何方？<br> <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter</a>
 
 ### 27: [2022-11-08 05:37:04+08:00 推文](https://twitter.com/HeQinglian/status/1589733697666056192)
 
@@ -133,7 +133,7 @@ Re @xxj2040 说的是思想，不是皮囊。后者没人能做到，前者有�
 
 ### 30: [2022-11-08 05:51:49+08:00 推文](https://twitter.com/HeQinglian/status/1589737413706141696)
 
-主张各种性变态，包括为恋童癖正名的，都是民主党人、左派。<br>共和党人有，但不是MAGA，是民主党资助的RINO，比如林肯项目的参与者。<br>这个人只是因为某人转推才落入我时间线。我已经准备切割了。 <a href="https://twitter.com/LJardine93/status/1589082331436154880" target="_blank" rel="noopener noreferrer">https://twitter.com/LJardine93/status/1589082331436154880</a>
+主张各种性变态，包括为恋童癖正名的，都是民主党人、左派。<br>共和党人有，但不是MAGA，是民主党资助的RINO，比如林肯项目的参与者。<br>这个人只是因为某人转推才落入我时间线。我已经准备切割了。
 
 ### 31: [2022-11-08 05:56:12+08:00 推文](https://twitter.com/HeQinglian/status/1589738514832592903)
 
@@ -661,7 +661,7 @@ Re @farmdirect8 当林肯项目在未经本人同意的情况下，迫不及待�
 
 ### 162: [2022-11-13 03:14:56+08:00 推文](https://twitter.com/HeQinglian/status/1591509869471076352)
 
-我多次说过，川普本人的长处是Rally，他也特别享受这种Rally，但缺乏基层的组织能力，无法深耕社区，将Rally的支持化为投票中制约民主党舞弊的组织性抗衡力量。<br>这本来是RNC应该做的工作，显然RNC工作没到位。<br><br>L JM🇺🇸: 这不是共和党的信息。这不是低质量的候选人。这不是特朗普。这不是堕胎。<br><br>这是大规模邮寄/投递箱投票。就这么简单。除非停止选举，否则共和党人将永远不会赢得另一场选举。<br><br>完全同意！<br> <a href="https://twitter.com/joelwberry/status/1591069176340226048" target="_blank" rel="noopener noreferrer">https://twitter.com/joelwberry/status/1591069176340226048</a>
+我多次说过，川普本人的长处是Rally，他也特别享受这种Rally，但缺乏基层的组织能力，无法深耕社区，将Rally的支持化为投票中制约民主党舞弊的组织性抗衡力量。<br>这本来是RNC应该做的工作，显然RNC工作没到位。<br><br>L JM🇺🇸: 这不是共和党的信息。这不是低质量的候选人。这不是特朗普。这不是堕胎。<br><br>这是大规模邮寄/投递箱投票。就这么简单。除非停止选举，否则共和党人将永远不会赢得另一场选举。<br><br>完全同意！<br> <a href="https://twitter.com/JoelWBerry/status/1591069176340226048" target="_blank" rel="noopener noreferrer">https://twitter.com/JoelWBerry/status/1591069176340226048</a>
 
 ### 163: [2022-11-13 06:25:50+08:00 推文](https://twitter.com/HeQinglian/status/1591557909514690562)
 
@@ -705,7 +705,7 @@ RT 周锋锁 Fengsuo Zhou<br>疯了，推特暂停了苏雨桐@Suyutong 的账
 
 ### 173: [2022-11-13 23:24:03+08:00 推文](https://twitter.com/HeQinglian/status/1591814155019091969)
 
-这话百分百正确。仅举一例：<br>拜登学贷免还计划 联邦法官裁定非法<br>11/10/2022 <br>时间放在11月6日之后，既可以不增加政府压力，又骗来大量想当老赖的年轻人选票。<br>再回顾一下：2021年大群因拜登食言的年轻大学生Go to Brandon(Fuxx-Biden)的往事。<br>习近平如果还坚持不选举那是蠢。<br><br>zhix: 卡马拉说18-24岁的年轻人都是蠢货😂👇<br>
+这话百分百正确。仅举一例：<br>拜登学贷免还计划 联邦法官裁定非法<br>11/10/2022 <br>时间放在11月6日之后，既可以不增加政府压力，又骗来大量想当老赖的年轻人选票。<br>再回顾一下：2021年大群因拜登食言的年轻大学生Go to Brandon(Fuxx-Biden)的往事。<br>习近平如果还坚持不选举那是蠢。<br><br>zhix: 卡马拉说18-24岁的年轻人都是蠢货😂👇<br> <a href="https://twitter.com/stillgray/status/1591660209768116225" target="_blank" rel="noopener noreferrer">https://twitter.com/stillgray/status/1591660209768116225</a>
 
 ### 174: [2022-11-13 23:31:20+08:00 推文](https://twitter.com/HeQinglian/status/1591815988294873088)
 

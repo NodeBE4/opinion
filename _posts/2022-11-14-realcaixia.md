@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-11-16
+date: 2022-11-17
 from: https://twitter.com/realcaixia/status/1591838080708665345
 layout: post
 tags:
@@ -81,7 +81,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fhe5---UcAAmsQ_?format=jpg
 
 ### 17: [2022-11-15 02:25:48+08:00 推文](https://twitter.com/realcaixia/status/1592222280184369152)
 
-他们害怕所有争取自由民主的不朽灵魂！他们枪在手，但他们无法赢得人心。他们恐惧年老体弱的老人，他们恐惧手无寸铁的平民，他们天天喊着自信，事实上处处透出他们蛮横强霸表象背后的虚弱卑鄙邪恶。<br><br>ZHANGDONG: 明天周二是鲍彤老先生告别仪式，北京戒备森严。高瑜今天开始又被上岗，楼下门前警车国保又开始加班了。<br>人民没有思想言论行动自由，动辄就是国家暴力，何来“全过程民主”？<br> <a href="https://twitter.com/gaoyu200812/status/1591726916553551872" target="_blank" rel="noopener noreferrer">https://twitter.com/gaoyu200812/status/1591726916553551872</a>
+他们害怕所有争取自由民主的不朽灵魂！他们枪在手，但他们无法赢得人心。他们恐惧年老体弱的老人，他们恐惧手无寸铁的平民，他们天天喊着自信，事实上处处透出他们蛮横强霸表象背后的虚弱卑鄙邪恶。<br><br>ZHANGDONG: 明天周二是鲍彤老先生告别仪式，北京戒备森严。高瑜今天开始又被上岗，楼下门前警车国保又开始加班了。<br>人民没有思想言论行动自由，动辄就是国家暴力，何来“全过程民主”？<br>
 
 ### 18: [2022-11-15 14:02:27+08:00 推文](https://twitter.com/realcaixia/status/1592397597704359936)
 
@@ -134,4 +134,8 @@ Re @Ipkmedia 支持光传媒！
 ### 30: [2022-11-16 22:13:27+08:00 推文](https://twitter.com/realcaixia/status/1592883551246069762)
 
 拉開崩潰序幕 名人紛跳船 高壓熬不住 中國新潤潮。不論有錢沒錢都想“RUN”中國人都想做!文革後少見的移民大潮。忠誠取代專業 新手 李強 何立峰 如何救中國經濟?2022.11.16 - YouTube <a href="https://m.youtube.com/watch?v=T2VmGa596GE" target="_blank" rel="noopener noreferrer">https://m.youtube.com/watch?v=T2VmGa596GE</a>
+
+### 31: [2022-11-17 01:41:47+08:00 推文](https://twitter.com/realcaixia/status/1592935981107523585)
+
+Re 程晓农先生不愧是经济分析专家。程晓农先生对习20大后未来中国的经济走势，对习的新常委班子人员处理中共国经济问题的实际能力水平低下的深刻分析，令人信服。
 
