@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2022-05-16~2022-05-22'
 
 ### 1: [2022-05-16 00:34:39+08:00 推文](https://twitter.com/realcaixia/status/1525877328219209728)
 
-看到女性在国家事务中发挥越来越大的作用，很自豪。<br>“我们的身体不过是我们灵魂的外衣，是他与她之间唯一的区别，<br>至于灵魂，是一样好的，<br>是的，在许多女性身体中的灵魂也同样伟大。”<br>——索菲亚.布伦纳 写于1719年
+看到女性在国家事务中发挥越来越大的作用，很自豪。<br>“我们的身体不过是我们灵魂的外衣，是他与她之间唯一的区别，<br>至于灵魂，是一样好的，<br>是的，在许多女性身体中的灵魂也同样伟大。”<br>——索菲亚.布伦纳 写于1719年<br><br>韩连潮: 【巾帼英雄】芬兰和瑞典拟放弃分别实施了70多年和200年的中立，加入北约。不是安全受到来自普京的极大威胁，她们不会轻易更改这项国策。这两位国家领导敢作敢为，是真正的巾帼英雄。<br><br><img style="" src="https://pbs.twimg.com/media/FSzkJhOXwAE0o1H?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2022-05-16 01:31:00+08:00 推文](https://twitter.com/realcaixia/status/1525891510989889536)
 
@@ -89,7 +89,7 @@ Re 中共秘书侍候领导十分周到，20年前我曾经参加过中组部一
 
 ### 19: [2022-05-19 20:33:12+08:00 推文](https://twitter.com/realcaixia/status/1527266118389334017)
 
-这种言语活活现出恶棍一样的品质。习从2009年教训中央党校h教师“不许吃党飯砸党锅”，2011年左右教训国内国际不许“说三道四”；2015年教训9500万“不得妄议”。上有所好下必甚焉，有恶行必学恶样。这是北京什么官？这人是谁？最好拉下口罩爆爆真面目。居然坐在台上公开教训人“哪来这么多废话？！”
+这种言语活活现出恶棍一样的品质。习从2009年教训中央党校h教师“不许吃党飯砸党锅”，2011年左右教训国内国际不许“说三道四”；2015年教训9500万“不得妄议”。上有所好下必甚焉，有恶行必学恶样。这是北京什么官？这人是谁？最好拉下口罩爆爆真面目。居然坐在台上公开教训人“哪来这么多废话？！”<br><br>iPaul🇨🇦🇺🇦: 北京领导，好大的官威<br><br><video src="https://video.twimg.com/ext_tw_video/1522570401787826176/pu/vid/480x848/xjM9HkNSKZp3B5jg.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1522570401787826176/pu/img/77MS-dWq6haNJ805.jpg"></video>
 
 ### 20: [2022-05-19 22:31:37+08:00 推文](https://twitter.com/realcaixia/status/1527295917451116547)
 
@@ -125,7 +125,7 @@ Re 中共秘书侍候领导十分周到，20年前我曾经参加过中组部一
 
 ### 28: [2022-05-21 21:50:02+08:00 推文](https://twitter.com/realcaixia/status/1528010227945177090)
 
-技術改進一小步，獲取信息一大步。<br><br>GreatFire.org: Have you read an interesting story on WeChat? Think it might get censored? Archive the story on <br>帮助我们改进自由微信的抓取系统，以便您更容易的看到感兴趣的内容。<br><br><img style="" src="https://pbs.twimg.com/media/FTMFaNFWQAA-Wgx?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="http://freewechat.com/" target="_blank" rel="noopener noreferrer">http://FreeWeChat.com</a> <a href="https://freewechat.com/submit" target="_blank" rel="noopener noreferrer">https://freewechat.com/submit</a>
+技術改進一小步，獲取信息一大步。
 
 ### 29: [2022-05-22 00:54:13+08:00 推文](https://twitter.com/realcaixia/status/1528056580440309760)
 

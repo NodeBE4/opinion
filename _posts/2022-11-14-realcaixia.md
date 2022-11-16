@@ -81,7 +81,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fhe5---UcAAmsQ_?format=jpg
 
 ### 17: [2022-11-15 02:25:48+08:00 推文](https://twitter.com/realcaixia/status/1592222280184369152)
 
-他们害怕所有争取自由民主的不朽灵魂！他们枪在手，但他们无法赢得人心。他们恐惧年老体弱的老人，他们恐惧手无寸铁的平民，他们天天喊着自信，事实上处处透出他们蛮横强霸表象背后的虚弱卑鄙邪恶。<br><br>ZHANGDONG: 明天周二是鲍彤老先生告别仪式，北京戒备森严。高瑜今天开始又被上岗，楼下门前警车国保又开始加班了。<br>人民没有思想言论行动自由，动辄就是国家暴力，何来“全过程民主”？<br> <a href="https://twitter.com/gaoyu200812/status/1591726916553551872" target="_blank" rel="noopener noreferrer">https://twitter.com/gaoyu200812/status/1591726916553551872</a>
+他们害怕所有争取自由民主的不朽灵魂！他们枪在手，但他们无法赢得人心。他们恐惧年老体弱的老人，他们恐惧手无寸铁的平民，他们天天喊着自信，事实上处处透出他们蛮横强霸表象背后的虚弱卑鄙邪恶。<br><br>ZHANGDONG: 明天周二是鲍彤老先生告别仪式，北京戒备森严。高瑜今天开始又被上岗，楼下门前警车国保又开始加班了。<br>人民没有思想言论行动自由，动辄就是国家暴力，何来“全过程民主”？<br>
 
 ### 18: [2022-11-15 14:02:27+08:00 推文](https://twitter.com/realcaixia/status/1592397597704359936)
 
@@ -126,4 +126,12 @@ Re @Ipkmedia 支持光传媒！
 ### 28: [2022-11-16 21:07:25+08:00 推文](https://twitter.com/realcaixia/status/1592866934064054274)
 
 这是中国经济的一个侧影……<br><br>章立凡 Zhang Lifan: 视频【成都第106屆糖酒会】<br><br><video src="https://video.twimg.com/ext_tw_video/1592652137514663936/pu/vid/544x960/f8AWuH6qLQtGrDHs.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1592652137514663936/pu/img/7LZy-uUs_bYAK4Z7.jpg"></video>
+
+### 29: [2022-11-16 22:06:43+08:00 推文](https://twitter.com/realcaixia/status/1592881855602495488)
+
+在G20会议期间，习近平对自由民主国家政府首脑亲自“战狼”。<br>        当加拿大总理特鲁多对习近平提出中国的“政治干预“问题后，习近平在媒体的镜头面前对特鲁多发出威胁。习说：“如果你是真诚的，那么我们可以交流。不然，那就不好说了。”<br>继“亲自指挥”、“亲自部署”后，又一个“亲自‘战狼’”了。<br><br>Vicky Xu / 许秀中: Canadian PM threatened by Xi here on camera, after Trudeau told domestic media that he’d raised political interference with Xi. Xi here saying “if you’re genuine, then we can communicate. Otherwise it’s hard to say”<br><br><video src="https://video.twimg.com/ext_tw_video/1592784578942537728/pu/vid/640x360/3144KHbUlvnX_Uc6.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1592784578942537728/pu/img/8vvqhv-n4KIGV3OD.jpg"></video>
+
+### 30: [2022-11-16 22:13:27+08:00 推文](https://twitter.com/realcaixia/status/1592883551246069762)
+
+拉開崩潰序幕 名人紛跳船 高壓熬不住 中國新潤潮。不論有錢沒錢都想“RUN”中國人都想做!文革後少見的移民大潮。忠誠取代專業 新手 李強 何立峰 如何救中國經濟?2022.11.16 - YouTube <a href="https://m.youtube.com/watch?v=T2VmGa596GE" target="_blank" rel="noopener noreferrer">https://m.youtube.com/watch?v=T2VmGa596GE</a>
 
