@@ -81,7 +81,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fhe5---UcAAmsQ_?format=jpg
 
 ### 17: [2022-11-15 02:25:48+08:00 推文](https://twitter.com/realcaixia/status/1592222280184369152)
 
-他们害怕所有争取自由民主的不朽灵魂！他们枪在手，但他们无法赢得人心。他们恐惧年老体弱的老人，他们恐惧手无寸铁的平民，他们天天喊着自信，事实上处处透出他们蛮横强霸表象背后的虚弱卑鄙邪恶。<br><br>ZHANGDONG: 明天周二是鲍彤老先生告别仪式，北京戒备森严。高瑜今天开始又被上岗，楼下门前警车国保又开始加班了。<br>人民没有思想言论行动自由，动辄就是国家暴力，何来“全过程民主”？<br> <a href="https://twitter.com/gaoyu200812/status/1591726916553551872" target="_blank" rel="noopener noreferrer">https://twitter.com/gaoyu200812/status/1591726916553551872</a>
+他们害怕所有争取自由民主的不朽灵魂！他们枪在手，但他们无法赢得人心。他们恐惧年老体弱的老人，他们恐惧手无寸铁的平民，他们天天喊着自信，事实上处处透出他们蛮横强霸表象背后的虚弱卑鄙邪恶。<br><br>ZHANGDONG: 明天周二是鲍彤老先生告别仪式，北京戒备森严。高瑜今天开始又被上岗，楼下门前警车国保又开始加班了。<br>人民没有思想言论行动自由，动辄就是国家暴力，何来“全过程民主”？<br>
 
 ### 18: [2022-11-15 14:02:27+08:00 推文](https://twitter.com/realcaixia/status/1592397597704359936)
 
@@ -154,4 +154,20 @@ Re 程晓农先生不愧是经济分析专家。程晓农先生对习20大后未
 ### 35: [2022-11-17 20:49:21+08:00 推文](https://twitter.com/realcaixia/status/1593224776050704385)
 
 Re 有网友说这是五岳散人这位网络大神的金典评论！幽默精彩精辟！我是从墙里看到的，可见其传播影响力之大！
+
+### 36: [2022-11-17 21:14:36+08:00 推文](https://twitter.com/realcaixia/status/1593231126763823105)
+
+鲍彤丧事横遭干涉 高压维稳怪招迭出 <a href="https://youtu.be/HBwQsjhg8r4" target="_blank" rel="noopener noreferrer">https://youtu.be/HBwQsjhg8r4</a>
+
+### 37: [2022-11-17 22:47:21+08:00 推文](https://twitter.com/realcaixia/status/1593254470544019459)
+
+特别推荐：<br>《局势》节目郑旭光先生为鲍彤逝世做了一期专题。<br>郑先生运用多方面资料，对从赵紫阳出访朝鲜前的政治局常委会到4.26社论出台，到后来北京局势一步步紧张恶化，对中共高层最终政治破裂的大量复杂的情况，作了复盘。<br>这是恢复历史真相的必须工作。以此纪念鲍老。 <a href="https://youtu.be/Z2ZPKxuYXUc" target="_blank" rel="noopener noreferrer">https://youtu.be/Z2ZPKxuYXUc</a>
+
+### 38: [2022-11-17 22:48:06+08:00 推文](https://twitter.com/realcaixia/status/1593254656951521281)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FhxgqXKUYAIufrA?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 39: [2022-11-17 22:54:56+08:00 推文](https://twitter.com/realcaixia/status/1593256377593389061)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FhxiOrJUAAA9Kwu?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FhxiOq1UYAQlgPV?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FhxiOq3UcAEHD8m?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FhxiOq1VQAAlM8K?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
