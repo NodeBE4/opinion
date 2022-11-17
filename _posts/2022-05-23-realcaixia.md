@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2022-05-23~2022-05-29'
 
 ### 2: [2022-05-23 03:41:29+08:00 推文](https://twitter.com/realcaixia/status/1528461062135087104)
 
-六四将近，当局要加强防控。借口就是“防疫”。全世界都知道Omicron传染性强但重症率死亡率都极低。全世界都在恢复正常开放，但中共国偏要封校封城。全世界都知道中共国假装防疫，中共当局也知道全世界都知道他们在假装，他们依然要把假装进行到底。这个“到底”是经济社会崩溃还是当局崩溃？且拭目以待。<br><br>新闻调查: 怕北大学生聚众闹事，开始疏散学生了！<br><br><img style="" src="https://pbs.twimg.com/media/FTXOw4IUcAAUMcD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+六四将近，当局要加强防控。借口就是“防疫”。全世界都知道Omicron传染性强但重症率死亡率都极低。全世界都在恢复正常开放，但中共国偏要封校封城。全世界都知道中共国假装防疫，中共当局也知道全世界都知道他们在假装，他们依然要把假装进行到底。这个“到底”是经济社会崩溃还是当局崩溃？且拭目以待。
 
 ### 3: [2022-05-23 05:38:34+08:00 推文](https://twitter.com/realcaixia/status/1528490529268240385)
 
@@ -49,11 +49,11 @@ Re 请看市民这封给公安机关人员的公开信。信的一开始就说�
 
 ### 9: [2022-05-23 23:38:02+08:00 推文](https://twitter.com/realcaixia/status/1528762185098440708)
 
-清零封城搞到天怒人怨，胡锡进着急投谏保经济，是为保党国不翻船。以往网民骂胡“叼盘”他一概不反应：现在一说他关心经济，胡就怕了。说明什么？至少两点：1、中共国里无人有安全，人人皆可为阶下囚；2，清零与经济、保党国与保习上帝，内在利益是冲突的。习坑民也坑党国，天怒人怨党内不满或许合流。
+清零封城搞到天怒人怨，胡锡进着急投谏保经济，是为保党国不翻船。以往网民骂胡“叼盘”他一概不反应：现在一说他关心经济，胡就怕了。说明什么？至少两点：1、中共国里无人有安全，人人皆可为阶下囚；2，清零与经济、保党国与保习上帝，内在利益是冲突的。习坑民也坑党国，天怒人怨党内不满或许合流。<br><br>《议报》: 郑荣南：除了胡锡进，没人关心经济了<br> <a href="https://yibaochina.com/?p=246616" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246616</a>
 
 ### 10: [2022-05-23 23:40:12+08:00 推文](https://twitter.com/realcaixia/status/1528762731532255232)
 
-转推。<br><br>freechina1974✊✊✊: @yibaochina<br> <a href="https://twitter.com/freechina1974/status/1528557498462248960?s=21&amp;t=kwRmGJicCRE8XU9yKlKAMw" target="_blank" rel="noopener noreferrer">https://twitter.com/freechina1974/status/1528557498462248960?s=21&amp;t=kwRmGJicCRE8XU9yKlKAMw</a>
+转推。
 
 ### 11: [2022-05-24 01:01:49+08:00 推文](https://twitter.com/realcaixia/status/1528783270774808576)
 
@@ -65,7 +65,7 @@ Re @yjpc007 @YouTube 在大陆，习讲忠诚不绝对等于绝对不忠诚；�
 
 ### 13: [2022-05-24 02:30:58+08:00 推文](https://twitter.com/realcaixia/status/1528805702801805312)
 
-👍🌹🌹🌹<br><br>Gancheng Wang: 上海发生“自行解封”运动<br>人民正在觉醒<br>拒绝继续被强制封闭<br><br>上海多个小区居民据理力争，终于喊出“自行解封”的响亮口号。目前徐汇区、静安区多个小区居民已经突破封锁自行解封。“自解”运动正在上海不断发酵和扩大。<br><br><video src="https://video.twimg.com/ext_tw_video/1528750422797824001/pu/vid/592x1280/xNgDGcLGyHh2A6--.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1528750422797824001/pu/img/BSVm97JkTt_SDrX4.jpg"></video>
+👍🌹🌹🌹
 
 ### 14: [2022-05-24 04:51:44+08:00 推文](https://twitter.com/realcaixia/status/1528841129139269632)
 
@@ -85,15 +85,15 @@ Re @wang6332558 @xizhutou2020 @yjpc007 @YouTube 就是啊，相煎何太急！�
 
 ### 18: [2022-05-24 21:40:13+08:00 推文](https://twitter.com/realcaixia/status/1529094922023862276)
 
-中共国内正万马齐喑，此将是最后的绝响，再后是“于无声处听惊雷”，但要经过一长短不定的至暗时刻与死寂社会，许多人将遭受更严酷的迫害摧残……。<br>信念不死，抗争将会继续，但需要更大的勇气，更多的智慧，更宽广的胸怀与更长远的眼光。对我们每个反抗者来说，要锤炼个人更高的素质，作更韧性的努力。
+中共国内正万马齐喑，此将是最后的绝响，再后是“于无声处听惊雷”，但要经过一长短不定的至暗时刻与死寂社会，许多人将遭受更严酷的迫害摧残……。<br>信念不死，抗争将会继续，但需要更大的勇气，更多的智慧，更宽广的胸怀与更长远的眼光。对我们每个反抗者来说，要锤炼个人更高的素质，作更韧性的努力。<br><br>ZHANGDONG: 遗憾！被封口或被迫闭嘴的还有清华教授郭于华，她的最后一条推特停留在2022年1月31日，微博公号还在九死一生地挣扎。此外，备受尊敬的鲍彤老先生也已长达四个月没再更新推特，与之互动频繁的老友孟孙先生也于3月11日告别推友。😭😭<br>何时起，东方苍茫大地万马齐喑？<br><br><img style="" src="https://pbs.twimg.com/media/FTgZ7JeWQAISNMM?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/gaoyu200812/status/1528943209975623680" target="_blank" rel="noopener noreferrer">https://twitter.com/gaoyu200812/status/1528943209975623680</a>
 
 ### 19: [2022-05-24 21:44:40+08:00 推文](https://twitter.com/realcaixia/status/1529096043987607552)
 
-这便是信念与信心的宣示。<br><br>ZHANGDONG: 每年五月的第三个星期四是乌克兰的刺绣衫节，富有民族特色的刺绣衫象征着乌克兰民族团结和民族认同，它把乌克兰人民凝聚在一起。今天泽伦斯基总统用刺绣衫替换下了军绿T-恤衫，精神焕发，流露出乌克兰必胜信心。<br>欧盟女主席今天也亮出刺绣时装秀，表示在困难时期，与乌克兰人民一起共度时艰。<br><br><video src="https://video.twimg.com/ext_tw_video/1527359586797178888/pu/vid/848x480/sHK-f3ykZ1EM8_wr.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1527359586797178888/pu/img/NJdcjf_nGE0__CSv.jpg"></video> <a href="https://twitter.com/vonderleyen/status/1527317182623150080" target="_blank" rel="noopener noreferrer">https://twitter.com/vonderleyen/status/1527317182623150080</a>
+这便是信念与信心的宣示。
 
 ### 20: [2022-05-24 21:52:40+08:00 推文](https://twitter.com/realcaixia/status/1529098058063089666)
 
-香港媒体当时记录的真实场面。中国一切热爱自由、争取自由的人，当永远记住6.4，并传告子孙后代。
+香港媒体当时记录的真实场面。中国一切热爱自由、争取自由的人，当永远记住6.4，并传告子孙后代。<br><br>🥜食花生🍻飲啤酒🤥吹吹水🤣: @realcaixia HK #TVB recorded the footage of the #8964 massacre that year, and the sound of gunfire was endless.<br><br>Many young people in China have never heard of June 4th. <br>Take a good look at it, keep it well, spread it widely, and remember it forever.<br>@un<br> #wuforget64<br><br><video src="https://video.twimg.com/ext_tw_video/1527617002948284417/pu/vid/932x720/X-xmm6o3emBHQB7f.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1527617002948284417/pu/img/MT4j0ivG0Wp8T9I0.jpg"></video>
 
 ### 21: [2022-05-25 12:00:44+08:00 推文](https://twitter.com/realcaixia/status/1529311480008560640)
 
@@ -121,11 +121,11 @@ Re @fishsalt8 说得好！不改变思维方式不可能真具有自由民主观
 
 ### 27: [2022-05-26 02:13:17+08:00 推文](https://twitter.com/realcaixia/status/1529526030536708096)
 
-索罗斯是位目光极为锐利的智者。早在2019年，索罗斯就指出中共国利用高科技，正在威胁世界和平和人类文明。<br>后来索罗斯几次发表文章，提醒与告诫自由民主国家要高度警惕习近平掌控下的中国。他对中共极权政权的清醒认识，甚至超过美国的一些热衷于中美engagement policy 的政治家们。<br><br>韩连潮: 【索罗斯如是说】索罗斯昨在世界经济论坛上发表演讲，称俄入侵乌克兰可能是第三次世界大战的开始，威胁到人类文明；中俄利用高科技构成了对世界的最大威胁。但他也指这两个专制政权都开始出现裂痕 -- 普京入侵乌克兰被世界孤立，习近平抗疫失误引发人民不满。<br><br><img style="" src="https://pbs.twimg.com/media/FTmnuiaWIAAIgnI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+索罗斯是位目光极为锐利的智者。早在2019年，索罗斯就指出中共国利用高科技，正在威胁世界和平和人类文明。<br>后来索罗斯几次发表文章，提醒与告诫自由民主国家要高度警惕习近平掌控下的中国。他对中共极权政权的清醒认识，甚至超过美国的一些热衷于中美engagement policy 的政治家们。
 
 ### 28: [2022-05-26 02:17:21+08:00 推文](https://twitter.com/realcaixia/status/1529527052629528581)
 
-封城清零封到老鼠饿死在面店里。
+封城清零封到老鼠饿死在面店里。<br><br>吴文行wenxingwu: 上海因疫情店面关闭，老鼠被活活饿死！饥荒达到高水准！<br><br><img style="" src="https://pbs.twimg.com/media/FTlbvqPVsAAZA3s?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 29: [2022-05-26 22:53:06+08:00 推文](https://twitter.com/realcaixia/status/1529838039152922625)
 
@@ -133,7 +133,7 @@ Re @fishsalt8 说得好！不改变思维方式不可能真具有自由民主观
 
 ### 30: [2022-05-26 23:05:36+08:00 推文](https://twitter.com/realcaixia/status/1529841185031716864)
 
-清零的“丰功伟绩”——经济大盘将崩，5/25李克强召开全国稳住经济大盘会议。李期望挽回经济，挽救中共党国将崩塌的统治基础，习和习小兄弟伙要保的是权力宝座。习李分歧明朗，各自代表不同利益。<br><br>Jam: “习主席，太伟大了！他做主席，做一辈子”，中国人口不用计划生育,也要减半。<br><br><video src="https://video.twimg.com/ext_tw_video/1529653249585860609/pu/vid/640x368/qR0MHZzcuVXN3qXg.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1529653249585860609/pu/img/GutYr44ZW7OaG9rj.jpg"></video>
+清零的“丰功伟绩”——经济大盘将崩，5/25李克强召开全国稳住经济大盘会议。李期望挽回经济，挽救中共党国将崩塌的统治基础，习和习小兄弟伙要保的是权力宝座。习李分歧明朗，各自代表不同利益。
 
 ### 31: [2022-05-27 07:36:34+08:00 推文](https://twitter.com/realcaixia/status/1529969775803260931)
 
@@ -189,7 +189,7 @@ Re 对于我来说，死亡威胁吓不倒我，中共网军在我的推下已�
 
 ### 44: [2022-05-28 09:03:04+08:00 推文](https://twitter.com/realcaixia/status/1530353930034728963)
 
-#议报发布的“呼吁公开信”，特别推荐。<br>中国著名的异见者人权律师高智晟和老教授孙文广先生，被中共警察带走后，至今音信全无，他们的人身境遇令人十分担心。趁着联合国人权高级专员巴彻莱特为了解新疆的人权真相而去中国，全球华人朋友联合签名，呼吁巴彻莱特关注高智晟和孙文广，关注中国的人权真相。<br><br>《议报》: 陈光诚等：呼吁联合国人权高级专员巴彻莱特询问高智晟、孙文广下落<br> <a href="https://yibaochina.com/?p=246674" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246674</a>
+#议报发布的“呼吁公开信”，特别推荐。<br>中国著名的异见者人权律师高智晟和老教授孙文广先生，被中共警察带走后，至今音信全无，他们的人身境遇令人十分担心。趁着联合国人权高级专员巴彻莱特为了解新疆的人权真相而去中国，全球华人朋友联合签名，呼吁巴彻莱特关注高智晟和孙文广，关注中国的人权真相。
 
 ### 45: [2022-05-28 09:19:47+08:00 推文](https://twitter.com/realcaixia/status/1530358139018674178)
 

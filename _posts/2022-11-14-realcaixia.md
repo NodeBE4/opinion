@@ -81,7 +81,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fhe5---UcAAmsQ_?format=jpg
 
 ### 17: [2022-11-15 02:25:48+08:00 推文](https://twitter.com/realcaixia/status/1592222280184369152)
 
-他们害怕所有争取自由民主的不朽灵魂！他们枪在手，但他们无法赢得人心。他们恐惧年老体弱的老人，他们恐惧手无寸铁的平民，他们天天喊着自信，事实上处处透出他们蛮横强霸表象背后的虚弱卑鄙邪恶。<br><br>ZHANGDONG: 明天周二是鲍彤老先生告别仪式，北京戒备森严。高瑜今天开始又被上岗，楼下门前警车国保又开始加班了。<br>人民没有思想言论行动自由，动辄就是国家暴力，何来“全过程民主”？<br>
+他们害怕所有争取自由民主的不朽灵魂！他们枪在手，但他们无法赢得人心。他们恐惧年老体弱的老人，他们恐惧手无寸铁的平民，他们天天喊着自信，事实上处处透出他们蛮横强霸表象背后的虚弱卑鄙邪恶。<br><br>ZHANGDONG: 明天周二是鲍彤老先生告别仪式，北京戒备森严。高瑜今天开始又被上岗，楼下门前警车国保又开始加班了。<br>人民没有思想言论行动自由，动辄就是国家暴力，何来“全过程民主”？<br> <a href="https://twitter.com/gaoyu200812/status/1591726916553551872" target="_blank" rel="noopener noreferrer">https://twitter.com/gaoyu200812/status/1591726916553551872</a>
 
 ### 18: [2022-11-15 14:02:27+08:00 推文](https://twitter.com/realcaixia/status/1592397597704359936)
 
@@ -142,4 +142,16 @@ Re 程晓农先生不愧是经济分析专家。程晓农先生对习20大后未
 ### 32: [2022-11-17 10:42:56+08:00 推文](https://twitter.com/realcaixia/status/1593072163002540032)
 
 又看到一些告别鲍老的现场视频与图片。再转推。图二是赵紫阳女儿王雁南（右）与鲍老女儿紧紧拥抱，她们的父亲赵紫阳与鲍彤共同努力推进中国走向民主，都受到中共党长期迫害，直至逝世。这幅照片令人感伤不已。<br>图三图四是拍摄视频的两位摄像。他们的拍摄，记录下了这些珍贵的历史资料。<br><img style="" src="https://pbs.twimg.com/media/Fhu6rguXoAA5yM_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fhu6ruEXkAAvZA8?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fhu6r4IX0AIGq-4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fhu6sGvXoAIoOIJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 33: [2022-11-17 20:10:51+08:00 推文](https://twitter.com/realcaixia/status/1593215085291655170)
+
+墙内网友神评G20期间拜习会：双方一致认同尿不到一个壶里，但彼此做出郑重承诺，绝对不会尿到对方脸上。
+
+### 34: [2022-11-17 20:43:43+08:00 推文](https://twitter.com/realcaixia/status/1593223357511917568)
+
+中国不缺明白人，缺的是明白人能够活好，并有更多的明白人说明白话的制度环境。中国人100多年来数代人前赴后继艰难奋斗，就为的是争取实现这样的制度。<br><br>正视历史▪️传播真相🇺🇸: 一个那么简单的例子，就能说明民主的根本意义，#王磊 就是牛👍👍👍<br><br><video src="https://video.twimg.com/ext_tw_video/1593049267459198977/pu/vid/960x540/ShVG3DbxKfTe5TcS.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1593049267459198977/pu/img/MVosMf6yn03qxrMN.jpg"></video>
+
+### 35: [2022-11-17 20:49:21+08:00 推文](https://twitter.com/realcaixia/status/1593224776050704385)
+
+Re 有网友说这是五岳散人这位网络大神的金典评论！幽默精彩精辟！我是从墙里看到的，可见其传播影响力之大！
 
