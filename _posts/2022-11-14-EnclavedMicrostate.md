@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-11-16
+date: 2022-11-18
 from: https://old.reddit.com/r/AskHistorians/comments/yuqcri/what_hygiene_practices_were_used_across_the_globe/
 layout: post
 tags:
@@ -86,4 +86,10 @@ At the time I wrote that answer, I had been led to believe, by commonly-held ass
 * Tonio Andrade, *Lost Colony* (2011)
 
 * Ronald Po, *The Blue Frontier* (2018)
+
+### 931: [Interest Group overflow issues: Trade Unions have no Clout and also hate me, because they're just that powerful I guess?](https://old.reddit.com/r/victoria3/comments/yy30zq/interest_group_overflow_issues_trade_unions_have/), submitted on 2022-11-18 06:03:55+08:00.
+
+----- __931.1__ -----2022-11-18 06:04:53+08:00:
+
+R5: The Trade Unions should be a relatively strong group with very high approval, but some kind of overflow issue means they have 0% clout and a huge disapproval from Radicals.
 

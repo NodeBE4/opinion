@@ -595,3 +595,31 @@ Re @Tepezano161 @SSK2024 再倒也就30%左右，而且不团结。
 
 Re @0HCAvycgN60lwXM 怎么没有呢？去看亚历桑那州发生的事情吧。如此作弊加上两席死人席位也没赢，你伤心了吧？<br>喜欢民主党，你表达自己的意思就行，没人拦着你喜欢BLM零元购、拜登家族的腐败变态、民主党鼓励的变性政策。想怎样就怎样，去与自己的同类混。<br>别来我这挑衅了。
 
+### 146: [2022-11-18 03:26:05+08:00 推文](https://twitter.com/HeQinglian/status/1593324615153160192)
+
+Re @seeyoua22819375 大国的单边会议有。
+
+### 147: [2022-11-18 04:49:58+08:00 推文](https://twitter.com/NAConservative9/status/1593345726993633282)
+
+RT 北美保守评论🇺🇸🇨🇦<br>《科莫代表共和党国会监督改革委员会公布拜登家族腐败调查报告》<br><br>众议院共和党人指控乔·拜登直接参与了与儿子亨特·拜登的商业交易；该公司与同中国共产党关系密切的个人进行了商业交易。拜登家族 “仅仅是通过向他们提供接近这个家族的机会，就得以兴旺发达，成为百万富翁”。 <a href="https://nacr.info/WordPress/index.php/2022/11/17/house-republicans-allege-biden-directly-involved-in-business-dealings-with-son-hunter-biden/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/11/17/house-republicans-allege-biden-directly-involved-in-business-dealings-with-son-hunter-biden/</a><br><img style="" src="https://pbs.twimg.com/media/FhyzDsnXEAMFLGF?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 148: [2022-11-18 05:06:42+08:00 推文](https://twitter.com/Lucs24659702/status/1593349937181229056)
+
+RT Lucs<br>所以……佛罗里达州禁止大量邮寄选票，并且需要 ID 才能投票……结果。 自 1870 年代以来首次有 0 名民主党人获胜！ 如果这还不能证明美国存在大规模的机构选民欺诈……<br><br>评：说明红色浪潮是真实确在的，除非你认为选举是真实的。<br><img style="" src="https://pbs.twimg.com/media/Fhy3UNVUUAEET2s?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fhy3UY1VIAEPq2z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fhy3UnHVIAAHTCs?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 149: [2022-11-18 05:42:34+08:00 推文](https://twitter.com/HeQinglian/status/1593358963453661187)
+
+Re @lindahuiyun 🍷
+
+### 150: [2022-11-18 06:16:31+08:00 推文](https://twitter.com/HeQinglian/status/1593367507506790401)
+
+G20拜习会成果：中美恢复接触与交流<br><br>“接触-合作-影响-改变”是基辛格以来美国对华政策。时间改变一切，目前仅恢复了接触。从拜习会成果“五个同意”及以往双方宣示，可总结出现时中美关系的主要脉络：对抗是两国的国家战略，全方位竞争是手段，经济合作是双方都无法舍弃的红利。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11172022114405.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11172022114405.html</a>
+
+### 151: [2022-11-18 06:23:23+08:00 推文](https://twitter.com/HeQinglian/status/1593369235803279361)
+
+拜登的称赞是真心的，但少了一个“党”字，是“民主党的坚定捍卫者”——党者，派系利益也，党魁们的利益就是党的利益。因她的离去，拜登将因家族腐败与本人参与被弹劾。<br><br>RFI 華語 - 法國國際廣播電台: 拜登稱讚佩洛西是“民主的堅定捍衛者”<br><br><img style="" src="https://pbs.twimg.com/media/FhzBBOSakAAJFqb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8ur9.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8ur9.t</a>
+
+### 152: [2022-11-18 06:24:08+08:00 推文](https://twitter.com/NAConservative9/status/1593369425066999808)
+
+RT 北美保守评论🇺🇸🇨🇦<br>《为什么红色海啸变成了涟漪》<br><br>今年和前年选举舞弊的主要证据是，受操纵的选举需要额外时间，因为要首先统计按时收到的实际选票，确定需要找出多少选票才能递交，以确保预先确定的获胜者领先幅度。此过程被故意拖延数天甚至数周，以便生产和清点选票，以宣布获胜过程合法化。 <a href="https://nacr.info/WordPress/index.php/2022/11/17/why-the-red-tsunami-turned-into-a-ripple/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/11/17/why-the-red-tsunami-turned-into-a-ripple/</a><br><img style="" src="https://pbs.twimg.com/media/FhzH0ycWYAENSyC?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
