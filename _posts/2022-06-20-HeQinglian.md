@@ -49,7 +49,7 @@ Re @FangYiDuan1 @david_david1968 华文圈的分析，作者应该在大陆才�
 
 ### 9: [2022-06-20 09:39:22+08:00 推文](https://twitter.com/HeQinglian/status/1538697987114864640)
 
-Fox：共和党人正在考虑竞选总统而不是等待川普<br>从文中内容来看，共和党内有几位将在中期选举后考虑参选2024。川普看来并未打算放弃参赛。<br><br>Fox News: Republicans mulling run for president not waiting on Trump<br> <a href="https://fxn.ws/3y4hVNh" target="_blank" rel="noopener noreferrer">https://fxn.ws/3y4hVNh</a>
+Fox：共和党人正在考虑竞选总统而不是等待川普<br>从文中内容来看，共和党内有几位将在中期选举后考虑参选2024。川普看来并未打算放弃参赛。
 
 ### 10: [2022-06-20 11:02:03+08:00 推文](https://twitter.com/HeQinglian/status/1538718795476393985)
 
@@ -117,7 +117,7 @@ Re @lindahuiyun 环保主义者的鸟类保护专业人士对此视而不见？
 
 ### 26: [2022-06-21 21:57:26+08:00 推文](https://twitter.com/HeQinglian/status/1539246117816352768)
 
-转发，BBC近几年以来，这算做了件正经事。<br><br>BBC News 中文: BBC一项调查发现，联合国总部存在多起包括性侵、强奸和腐败行为的指控，主要针对联合国工作人员，而高级人员拥有的法律豁免权，使之成为犯罪者的天堂。<br><br>有指控者表示，相关投诉一直被掩盖，而一些人在说出自己的经历后受到惩罚，甚至被开除。<br><br>完整纪录片将于今晚在BBC第二台（BBC Two）播出。<br><br><video src="https://video.twimg.com/amplify_video/1539168374164492289/vid/1280x720/5nIeFGY3VPryZIhY.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/FVxZSRLXsAACAlA?format=jpg&amp;name=orig"></video>
+转发，BBC近几年以来，这算做了件正经事。
 
 ### 27: [2022-06-21 21:58:58+08:00 推文](https://twitter.com/HeQinglian/status/1539246502522101761)
 
@@ -137,7 +137,7 @@ Re @realTaoRay 马斯克既然发推支持变性人，为了言行一致，支�
 
 ### 31: [2022-06-22 00:59:50+08:00 推文](https://twitter.com/HeQinglian/status/1539292020371599360)
 
-关于美国2021年以来通过教育系统轰轰烈烈推行的变性运动（主要是动员青少年变性），与当年毛泽东跑步进入共产主义的大跃进，思想都是马克思主义的“人定胜天”（战胜自然），前者导致后来饿死三千万人；后者批量生产会达到多少尚不知晓。<br>都是戕害人类。
+关于美国2021年以来通过教育系统轰轰烈烈推行的变性运动（主要是动员青少年变性），与当年毛泽东跑步进入共产主义的大跃进，思想都是马克思主义的“人定胜天”（战胜自然），前者导致后来饿死三千万人；后者批量生产会达到多少尚不知晓。<br>都是戕害人类。<br><br>陶瑞 TaoRay: 马斯克18岁的儿子刚刚成年，进行了变性，最近向法院提交文件，要求更改名字、姓氏以及性别，并在文件中声称要彻底断绝和生父的一切连系，不相往来。<br><br>哎，家家有本难念的经，首富也不例外。马斯克曾经发推称他支持变性人，但是各种Pronouns是噩梦。<br>
 
 ### 32: [2022-06-22 01:09:04+08:00 推文](https://twitter.com/HeQinglian/status/1539294342761914368)
 
@@ -165,7 +165,7 @@ Re @JianglinLi @david_david1968 @RealBeiMing @Wu_Zhi @HongfuDing @ngexp Mark了�
 
 ### 38: [2022-06-22 21:17:02+08:00 推文](https://twitter.com/HeQinglian/status/1539598337455841280)
 
-昨天看到《第五共和国》第四、五集，金载圭被审时有段话挺有意思，他问审讯者，美国方面过问我的事情没有？这点告诉我应该没问题吧？正好军方不相信他一个人敢于行动，背后有人，想法罗织。<br>最后结论是：金与美关系密切，了解美不喜欢朴，认为刺杀朴美方会高兴；但美指使查无实据，美韩关系留下阴影。<br><br>He Qinglian: 昨天看韩剧《第五共和国》1979年朴正熙被枪杀案，发现中情部长金载圭完全未谋划，而是血气之勇。<br>1976年叶、汪、华逮捕四人帮，那谋划之周密、等待时机之耐心，与金载圭刺杀相比高了几个等级。<br>中国传说的李克强倒习，可能二者都不是，口头操练。<br>
+昨天看到《第五共和国》第四、五集，金载圭被审时有段话挺有意思，他问审讯者，美国方面过问我的事情没有？这点告诉我应该没问题吧？正好军方不相信他一个人敢于行动，背后有人，想法罗织。<br>最后结论是：金与美关系密切，了解美不喜欢朴，认为刺杀朴美方会高兴；但美指使查无实据，美韩关系留下阴影。
 
 ### 39: [2022-06-22 21:19:23+08:00 推文](https://twitter.com/HeQinglian/status/1539598929322450945)
 
@@ -177,7 +177,7 @@ Re @Dchu07559344 这面旗帜是真的吗？两个有镰刀斧头的国家都没
 
 ### 41: [2022-06-22 21:49:27+08:00 推文](https://twitter.com/HeQinglian/status/1539606494601265153)
 
-Re @enoughtalk4 @xuezhou_yang @realTaoRay 看看图右的几则马斯克的推文。 <a href="https://twitter.com/MailOnline/status/1539254232813125636" target="_blank" rel="noopener noreferrer">https://twitter.com/MailOnline/status/1539254232813125636</a>
+Re @enoughtalk4 @xuezhou_yang @realTaoRay 看看图右的几则马斯克的推文。<br><br>Daily Mail Online: Elon Musk's ex-wife Justine says she's 'very proud' of their 'normal' 18-year-old son for filing paperwork to change gender to become a woman<br><br><img style="" src="https://pbs.twimg.com/media/FVyHkVIWUAMgUUD?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://trib.al/OBBBPeF" target="_blank" rel="noopener noreferrer">https://trib.al/OBBBPeF</a>
 
 ### 42: [2022-06-22 21:51:45+08:00 推文](https://twitter.com/HeQinglian/status/1539607072173703171)
 
@@ -297,7 +297,7 @@ Re @david_david1968 这我完全不能同意。
 
 ### 71: [2022-06-25 04:46:40+08:00 推文](https://twitter.com/HeQinglian/status/1540436264884834304)
 
-立本推存照，请记住，2019年1月全美选举委员会听证，专家指出多米尼系统有问题：无法验证选民身份，对外开放不到0.1秒就会被入侵，说来不及了；2020年1月同样的听证会，同样的理由。<br>现在美国缺那几亿美元了。<br>大权在握，就是不更换偷票机，你奈我何？<br><br>He Qinglian: 美国投票机有问题，但没钱更换，美国缺钱：<br>布伦南中心和验证投票的联合分析发现，更换老化的投票设备将花费数亿美元。<br>近年来，这些模型中的一些“翻转”投票，由于与老化硬件相关的校准错误，触摸屏错误记录了选民的选择。这反过来又导致了病毒视频和机器“窃取选票”的阴谋论。<br> <a href="https://www.brennancenter.org/our-work/research-reports/voting-machines-risk-2022" target="_blank" rel="noopener noreferrer">https://www.brennancenter.org/our-work/research-reports/voting-machines-risk-2022</a>
+立本推存照，请记住，2019年1月全美选举委员会听证，专家指出多米尼系统有问题：无法验证选民身份，对外开放不到0.1秒就会被入侵，说来不及了；2020年1月同样的听证会，同样的理由。<br>现在美国缺那几亿美元了。<br>大权在握，就是不更换偷票机，你奈我何？
 
 ### 72: [2022-06-25 13:10:44+08:00 推文](https://twitter.com/bonsandcake/status/1540563119096881152)
 
