@@ -87,9 +87,19 @@ At the time I wrote that answer, I had been led to believe, by commonly-held ass
 
 * Ronald Po, *The Blue Frontier* (2018)
 
-### 931: [Interest Group overflow issues: Trade Unions have no Clout and also hate me, because they're just that powerful I guess?](https://old.reddit.com/r/victoria3/comments/yy30zq/interest_group_overflow_issues_trade_unions_have/), submitted on 2022-11-18 06:03:55+08:00.
+### 931: [How realistic would it be for Chinese villages to turn refugees away during WW2?](https://old.reddit.com/r/AskHistorians/comments/yy2iii/how_realistic_would_it_be_for_chinese_villages_to/), submitted on 2022-11-18 05:43:18+08:00.
 
------ __931.1__ -----2022-11-18 06:04:53+08:00:
+----- __931.1__ -----2022-11-18 07:11:11+08:00:
+
+Hi there - we're happy to approve your question related to your creative project, and we are happy for people to answer. However, we should warn you that many flairs have become reluctant to answer questions for aspiring novelists and the like, based on past experience: some people working on creative projects have a tendency to try to pump historians for trivia while ignoring the bigger points they were making, while others have a tendency to argue with historians when the historical reality does not line up with what's needed for a particular scene or characterization. Please respect the answers of people who have generously given you their time, even if it's not always what you want to hear. 
+
+Additionally, as amazing as our flair panel is, we should also point out that /r/AskHistorians is not a professional historical consultation service. If you're asking a question here because you need vital research for a future commercial product such as a historical novel, you may be better off engaging a historical consultant at a fair hourly rate to answer these questions for you. We don't know what the going rate for consultancy work would be in your locality, but it may be worth looking into that if you have in-depth or highly plot-reliant questions for this project. Some /r/AskHistorians flairs could be receptive to working as a consultant in this way. However, if you wish for a flair here to do this work for you, you will need to organize this with them yourselves.
+
+For more general advice about doing research to inform a creative project, please check out [our Monday Methods post on the subject](https://www.reddit.com/r/AskHistorians/comments/k8o4rv/monday_methods_researching_for_fiction/).
+
+### 932: [Interest Group overflow issues: Trade Unions have no Clout and also hate me, because they're just that powerful I guess?](https://old.reddit.com/r/victoria3/comments/yy30zq/interest_group_overflow_issues_trade_unions_have/), submitted on 2022-11-18 06:03:55+08:00.
+
+----- __932.1__ -----2022-11-18 06:04:53+08:00:
 
 R5: The Trade Unions should be a relatively strong group with very high approval, but some kind of overflow issue means they have 0% clout and a huge disapproval from Radicals.
 
