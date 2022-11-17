@@ -357,7 +357,7 @@ Re @JiangShangrong 是不是乌驻德大使那条拉屎宣言发布后，让盟�
 
 ### 86: [2022-05-05 04:22:25+08:00 推文](https://twitter.com/HeQinglian/status/1521948382708830208)
 
-RT He Qinglian<br>习近平对资本的态度为何飘移不定<br>4月29日中共政治局第三十八次集体学习的主题是“依法规范和引导中国资本健康发展”，推进公私合营2.0暂时踩了刹车。<br>本文从习近平的出身与教育，与成长年代“社会化过程”二者切入，指出习对资本既利用又限制且完全不信任的态度之养成背景。 <a href="https://www.epochtimes.com/gb/22/5/4/n13727235.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/4/n13727235.htm</a>
+习近平对资本的态度为何飘移不定<br>4月29日中共政治局第三十八次集体学习的主题是“依法规范和引导中国资本健康发展”，推进公私合营2.0暂时踩了刹车。<br>本文从习近平的出身与教育，与成长年代“社会化过程”二者切入，指出习对资本既利用又限制且完全不信任的态度之养成背景。 <a href="https://www.epochtimes.com/gb/22/5/4/n13727235.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/4/n13727235.htm</a>
 
 ### 87: [2022-05-05 04:24:58+08:00 推文](https://twitter.com/HeQinglian/status/1521949023522938880)
 
@@ -761,7 +761,7 @@ Re @FranzMendelsso1 @JiangShangrong 这种双重标准不含糊的反贼太多�
 
 ### 187: [2022-05-07 01:00:54+08:00 推文](https://twitter.com/HeQinglian/status/1522622445466886145)
 
-3月份的有类似内容。<br>外交部副部长乐玉成出席第四届战略与安全国际论坛并发表演讲<br>2022-03-19 <br>珍惜和平，团结合作，共赢亚太未来<br>——外交部副部长乐玉成在第四届战略与安全国际论坛的演讲<br><br>jiang shangrong: ‼️🇨🇳中国的强硬声明：西方国家打算利用乌克兰作为“炮灰”来削弱俄罗斯并维持其霸权，——中国外交部副部长乐玉成。<br><br>——看国内新闻的能否核实一下？<br>
+3月份的有类似内容。<br>外交部副部长乐玉成出席第四届战略与安全国际论坛并发表演讲<br>2022-03-19 <br>珍惜和平，团结合作，共赢亚太未来<br>——外交部副部长乐玉成在第四届战略与安全国际论坛的演讲 <a href="https://www.fmprc.gov.cn/web/wjbxw_new/202203/t20220319_10653411.shtml" target="_blank" rel="noopener noreferrer">https://www.fmprc.gov.cn/web/wjbxw_new/202203/t20220319_10653411.shtml</a> <a href="https://goglobal.tsinghua.edu.cn/en/news/news.cn/tSyGfjGwTz" target="_blank" rel="noopener noreferrer">https://goglobal.tsinghua.edu.cn/en/news/news.cn/tSyGfjGwTz</a>
 
 ### 188: [2022-05-07 01:09:39+08:00 推文](https://twitter.com/HeQinglian/status/1522624645849096194)
 
@@ -1089,7 +1089,7 @@ Re @NAConservative9 仅有一个州是不够的。<br>应该让法官们都去�
 
 ### 269: [2022-05-08 08:11:34+08:00 推文](https://twitter.com/HeQinglian/status/1523093214990782464)
 
-欧美都在转向，<br>欧盟官员称欧盟约60%至80%的人口感染过新冠病毒，美国说是60%。<br>只有加拿大还坚持强制疫苗，中国坚持清零。何不都改变方式，看国民是否形成群体免疫？<br><br>张佩芝Peggy Chang: 近60%美国人有通过感染产生的新冠抗体，美国走出大流行了吗？<br> <a href="https://www.voachinese.com/a/6561629.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/6561629.html</a>
+欧美都在转向，<br>欧盟官员称欧盟约60%至80%的人口感染过新冠病毒，美国说是60%。<br>只有加拿大还坚持强制疫苗，中国坚持清零。何不都改变方式，看国民是否形成群体免疫？
 
 ### 270: [2022-05-08 08:21:52+08:00 推文](https://twitter.com/HeQinglian/status/1523095806827409408)
 
