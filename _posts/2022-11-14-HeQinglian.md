@@ -629,7 +629,7 @@ RT 沈良庆二世<br>中期选举后分裂的政府对美国意味着什么�
 
 ### 154: [2022-11-18 17:15:16+08:00 推文](https://twitter.com/KELMAND1/status/1593533286495969281)
 
-RT Ezio Mao☢<br>美国共和党国会议员要求国务院负责人安东尼布林肯就民主党、乌克兰和破产的加密货币交易所 FTX 之间的金融关系做出交代。<br><br>根据国会议员 Troy Nels、Louis Gomert、Mary Miller 和 Byron Donalds 的说法，作为军事援助转移到基辅的数十亿纳税人资金“可能会投资于 FTX 加密货币交易所。”<br><br>Ezio Mao☢: 关于乌克兰冲突的“FTX洗钱”骗局<br><br>“民主党撒钱给乌克兰，乌克兰把钱给 FTX，FTX 捐钱给民主党的竞选活动。我不知道这是战争牟利还是洗钱，我什至不知道，但需要调查。” “沃特斯说。<br><br><video src="https://video.twimg.com/ext_tw_video/1592840889482629120/pu/vid/640x352/e9b9iMoQ4reeiF-v.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1592840889482629120/pu/img/PgkblGPGkakbU1lT.jpg"></video> <a href="https://twitter.com/KELMAND1/status/1592399121633402881" target="_blank" rel="noopener noreferrer">https://twitter.com/KELMAND1/status/1592399121633402881</a>
+RT Ezio Mao☢<br>美国共和党国会议员要求国务院负责人安东尼布林肯就民主党、乌克兰和破产的加密货币交易所 FTX 之间的金融关系做出交代。<br><br>根据国会议员 Troy Nels、Louis Gomert、Mary Miller 和 Byron Donalds 的说法，作为军事援助转移到基辅的数十亿纳税人资金“可能会投资于 FTX 加密货币交易所。”<br><br>Ezio Mao☢: 关于乌克兰冲突的“FTX洗钱”骗局<br><br>“民主党撒钱给乌克兰，乌克兰把钱给 FTX，FTX 捐钱给民主党的竞选活动。我不知道这是战争牟利还是洗钱，我什至不知道，但需要调查。” “沃特斯说。<br><br><video src="https://video.twimg.com/ext_tw_video/1592840889482629120/pu/vid/640x352/e9b9iMoQ4reeiF-v.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1592840889482629120/pu/img/PgkblGPGkakbU1lT.jpg"></video>
 
 ### 155: [2022-11-18 21:51:34+08:00 推文](https://twitter.com/mingshi_chen/status/1593602820200189953)
 
@@ -678,4 +678,12 @@ Re @xchen62 @david_david1968 如今的国家领导人都是些什么，明白人
 ### 166: [2022-11-19 02:17:55+08:00 推文](https://twitter.com/HeQinglian/status/1593669848495788034)
 
 Re @xchen62 @david_david1968 当年，德国之声就他们一件有意的歪曲报道伤害我，我追究他们的责任，台长写信，要求私下了结，向我道歉了事。我说了，要道歉，就公开，我不接受这种私下道歉。<br>西方国家的精英早就熟悉公开打别人的脸，私下里赔礼道歉的把戏。我有位老同学（推上很活跃）也学会了。<br>我不吃这套。
+
+### 167: [2022-11-19 04:56:36+08:00 推文](https://twitter.com/HeQinglian/status/1593709782489260039)
+
+Re @sanguibee 2020年，反MAGA的人居多数。这么多年洗脑教育，能有寸进就不错了。
+
+### 168: [2022-11-19 06:02:34+08:00 推文](https://twitter.com/HeQinglian/status/1593726382516965376)
+
+Re @dinglili7 没意见，为了不劳而获，变性吧。太监在宫里还要工作。他们比太监要幸运，遇上了进步主义政府。
 
