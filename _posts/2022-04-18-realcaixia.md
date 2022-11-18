@@ -37,7 +37,7 @@ title: 'Twitter @蔡霞: 2022-04-18~2022-04-24'
 
 ### 6: [2022-04-18 08:23:05+08:00 推文](https://twitter.com/realcaixia/status/1515848354290356226)
 
-查查现在的广西自治区委书记是什么人，估计是想20大争进局或2023年想进南院的。现在拍有点儿临死抱佛脚了，早干嘛去了？
+查查现在的广西自治区委书记是什么人，估计是想20大争进局或2023年想进南院的。现在拍有点儿临死抱佛脚了，早干嘛去了？<br><br>韩连潮: 【广西马屁】刚才看到《广西日报》根据自治区党委的部署推出拍习马屁的系列重磅报道，将其称为“伟大复兴领航人”，还怕领航人不识“踔厉笃行”的踔字，又特意用横线标出，看来广西这个马屁恐怕拍到马蹄儿上了。<br><br><img style="" src="https://pbs.twimg.com/media/FQkp698XEAU82wD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2022-04-18 08:47:27+08:00 推文](https://twitter.com/realcaixia/status/1515854487893725192)
 
@@ -57,11 +57,11 @@ Re 刘犯了大忌，这下真拍到了马脚上。“踔厉笃行”真乃“�
 
 ### 11: [2022-04-18 09:57:55+08:00 推文](https://twitter.com/realcaixia/status/1515872221230682116)
 
-真好！真希望有更多像谭教授这样的师长和朋友，援助中国人反抗极权政治。
+真好！真希望有更多像谭教授这样的师长和朋友，援助中国人反抗极权政治。<br><br>Luo Shengchun丁家喜律师妻子: #纽约人权活动之旅 前天驱车来到纽约市参加由非政府机构中国人权（HRIC）@hrichina 举办的法律程序国际标准有关的培训，结识了一批年轻活动者和律师，并一起学习探讨中国政府制定及执行法律时与国际标准的距离，受益非浅！培训结束与全程参与培训的中国人权执行主任，法学荣誉退休教授谭女士合影留念。<br><br><img style="" src="https://pbs.twimg.com/media/FQgdB4xXoAccxMK?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FQgdB4wWQAs4HiU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2022-04-18 10:42:43+08:00 推文](https://twitter.com/realcaixia/status/1515883495498919938)
 
-上海逝者名单，前天晚上逝者数是116，昨天下午是121，今早是132；现在是143。这是不完全统计。刚才看到的逝者有因生计路绝而自杀，有早晨5点多出去偷买菜而掉河中溺水而亡。每个数字都是一个生命，他们中许多人本不该这样走完人生的路程，他们的生命本不会在这时划上句号。病毒毒不死人，清零杀人！
+上海逝者名单，前天晚上逝者数是116，昨天下午是121，今早是132；现在是143。这是不完全统计。刚才看到的逝者有因生计路绝而自杀，有早晨5点多出去偷买菜而掉河中溺水而亡。每个数字都是一个生命，他们中许多人本不该这样走完人生的路程，他们的生命本不会在这时划上句号。病毒毒不死人，清零杀人！<br><br>韩连潮: 病毒毒不死人，制度杀人！<br>关注上海逝者名单接力链接：<br><br><img style="" src="https://pbs.twimg.com/media/FQd40VAXwAcNXMG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN" target="_blank" rel="noopener noreferrer">https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN</a>
 
 ### 13: [2022-04-18 15:35:00+08:00 推文](https://twitter.com/realcaixia/status/1515957049401749507)
 
@@ -193,7 +193,7 @@ Re @caojitw 另一边脚看着是摆在椅子往下，这边脚是踩实了地�
 
 ### 45: [2022-04-23 18:32:24+08:00 推文](https://twitter.com/realcaixia/status/1517813631769063430)
 
-上海人和大陆许多网友共同努力推转、传播#四月之声视频。保护自己的生存权利，维护自己作为人的尊严。言论自由、信仰自由，免于恐惧的自由，免于匮乏的自由。上海人和大陆人的诉说事实真相，转发四月之声，就是在为自己争这四大自由。人同此心，心同此理。
+上海人和大陆许多网友共同努力推转、传播#四月之声视频。保护自己的生存权利，维护自己作为人的尊严。言论自由、信仰自由，免于恐惧的自由，免于匮乏的自由。上海人和大陆人的诉说事实真相，转发四月之声，就是在为自己争这四大自由。人同此心，心同此理。<br><br>Voice From Germany 德國之音🎗️: 上海市民集体转发 #四月之声 视频，中共吓得命令腾讯公司紧急开发 “同城”朋友圈。重庆用户看不到上海用户的朋友圈了<br><br><video src="https://video.twimg.com/ext_tw_video/1517691410161577985/pu/vid/592x1280/J0Zla5NHPr663hhe.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1517691410161577985/pu/img/k1rpeTGDv9EDAQpf.jpg"></video>
 
 ### 46: [2022-04-24 01:53:59+08:00 推文](https://twitter.com/realcaixia/status/1517924761824808962)
 
