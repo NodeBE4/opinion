@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-11-18
+date: 2022-11-19
 from: https://twitter.com/realcaixia/status/1591838080708665345
 layout: post
 tags:
@@ -81,7 +81,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fhe5---UcAAmsQ_?format=jpg
 
 ### 17: [2022-11-15 02:25:48+08:00 推文](https://twitter.com/realcaixia/status/1592222280184369152)
 
-他们害怕所有争取自由民主的不朽灵魂！他们枪在手，但他们无法赢得人心。他们恐惧年老体弱的老人，他们恐惧手无寸铁的平民，他们天天喊着自信，事实上处处透出他们蛮横强霸表象背后的虚弱卑鄙邪恶。<br><br>ZHANGDONG: 明天周二是鲍彤老先生告别仪式，北京戒备森严。高瑜今天开始又被上岗，楼下门前警车国保又开始加班了。<br>人民没有思想言论行动自由，动辄就是国家暴力，何来“全过程民主”？<br>
+他们害怕所有争取自由民主的不朽灵魂！他们枪在手，但他们无法赢得人心。他们恐惧年老体弱的老人，他们恐惧手无寸铁的平民，他们天天喊着自信，事实上处处透出他们蛮横强霸表象背后的虚弱卑鄙邪恶。<br><br>ZHANGDONG: 明天周二是鲍彤老先生告别仪式，北京戒备森严。高瑜今天开始又被上岗，楼下门前警车国保又开始加班了。<br>人民没有思想言论行动自由，动辄就是国家暴力，何来“全过程民主”？<br> <a href="https://twitter.com/gaoyu200812/status/1591726916553551872" target="_blank" rel="noopener noreferrer">https://twitter.com/gaoyu200812/status/1591726916553551872</a>
 
 ### 18: [2022-11-15 14:02:27+08:00 推文](https://twitter.com/realcaixia/status/1592397597704359936)
 
@@ -182,4 +182,8 @@ Re @xzzzjpl @1IBM 这个图里，明显给习近平加了两个字：“对吗�
 ### 42: [2022-11-18 12:56:24+08:00 推文](https://twitter.com/realcaixia/status/1593468142172475393)
 
 特别推荐<br>读此文深为感动。鲍老的一生是坦荡的一生，真诚持守信念的一生，鲍老具有强大的人格魅力。令我感动的另一点是，文章作者鲍樸，鲍老的儿子，同样的坦荡真诚，他不拔高不遮掩，真诚面对父母的一生。父母一生与中共的重要部门、重大历史事件紧密联系在一起，儿子秉持笔下真实，功罪任人评说。<br><br>《议报》: 鲍朴 | 坦荡怡天寿——我的父亲鲍彤<br> <a href="https://yibaochina.com/?p=248381" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248381</a>
+
+### 43: [2022-11-19 04:15:04+08:00 推文](https://twitter.com/realcaixia/status/1593699329251848192)
+
+这些观察角度是我之前没有注意到的。很有道理。<br><br>韩连潮: 【中华民族共同体=德意志民族共同体】#蔡霞 教授把习共比为黑手党，我觉得他们就是纳粹党。习近平推行的中华民族共同体与纳粹搞的德意志民族共同体用词和做法都一模一样；20大少数种族的中央委员骤减近半，民委基本为汉人掌控强行打造一个民族，这意味着下个10年党国内少数族群将有灭顶之灾。<br><br><img style="" src="https://pbs.twimg.com/media/Fh2GfV1agAE8XDc?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fh2GjfgagAAu3XY?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

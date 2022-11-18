@@ -623,51 +623,59 @@ G20拜习会成果：中美恢复接触与交流<br><br>“接触-合作-影响-
 
 RT 北美保守评论🇺🇸🇨🇦<br>《为什么红色海啸变成了涟漪》<br><br>今年和前年选举舞弊的主要证据是，受操纵的选举需要额外时间，因为要首先统计按时收到的实际选票，确定需要找出多少选票才能递交，以确保预先确定的获胜者领先幅度。此过程被故意拖延数天甚至数周，以便生产和清点选票，以宣布获胜过程合法化。 <a href="https://nacr.info/WordPress/index.php/2022/11/17/why-the-red-tsunami-turned-into-a-ripple/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/11/17/why-the-red-tsunami-turned-into-a-ripple/</a><br><img style="" src="https://pbs.twimg.com/media/FhzH0ycWYAENSyC?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
-### 153: [2022-11-18 17:15:16+08:00 推文](https://twitter.com/KELMAND1/status/1593533286495969281)
+### 153: [2022-11-18 16:05:33+08:00 推文](https://twitter.com/shenliangqing2/status/1593515740543406080)
+
+RT 沈良庆二世<br>中期选举后分裂的政府对美国意味着什么？ - 华尔街日报（差强人意吧，孬好能制衡一下痴呆政府，防止他们在美国特色社会主义，比如大政府、高支出、高通胀、低增长、绿色经济和同性恋+儿童变性末日之路上毫无掣肘的一路狂奔）#中期选举 <a href="https://cn.wsj.com/articles/%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%90%8E%E5%88%86%E8%A3%82%E7%9A%84%E6%94%BF%E5%BA%9C%E5%AF%B9%E7%BE%8E%E5%9B%BD%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88-11668752409" target="_blank" rel="noopener noreferrer">https://cn.wsj.com/articles/%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%90%8E%E5%88%86%E8%A3%82%E7%9A%84%E6%94%BF%E5%BA%9C%E5%AF%B9%E7%BE%8E%E5%9B%BD%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88-11668752409</a>
+
+### 154: [2022-11-18 17:15:16+08:00 推文](https://twitter.com/KELMAND1/status/1593533286495969281)
 
 RT Ezio Mao☢<br>美国共和党国会议员要求国务院负责人安东尼布林肯就民主党、乌克兰和破产的加密货币交易所 FTX 之间的金融关系做出交代。<br><br>根据国会议员 Troy Nels、Louis Gomert、Mary Miller 和 Byron Donalds 的说法，作为军事援助转移到基辅的数十亿纳税人资金“可能会投资于 FTX 加密货币交易所。”<br><br>Ezio Mao☢: 关于乌克兰冲突的“FTX洗钱”骗局<br><br>“民主党撒钱给乌克兰，乌克兰把钱给 FTX，FTX 捐钱给民主党的竞选活动。我不知道这是战争牟利还是洗钱，我什至不知道，但需要调查。” “沃特斯说。<br><br><video src="https://video.twimg.com/ext_tw_video/1592840889482629120/pu/vid/640x352/e9b9iMoQ4reeiF-v.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1592840889482629120/pu/img/PgkblGPGkakbU1lT.jpg"></video> <a href="https://twitter.com/KELMAND1/status/1592399121633402881" target="_blank" rel="noopener noreferrer">https://twitter.com/KELMAND1/status/1592399121633402881</a>
 
-### 154: [2022-11-18 22:47:21+08:00 推文](https://twitter.com/HeQinglian/status/1593616859491962880)
+### 155: [2022-11-18 21:51:34+08:00 推文](https://twitter.com/mingshi_chen/status/1593602820200189953)
+
+RT 明实：没法眼佛眼但有真眼<br>这才是美国的底气<br><br>Patty🇨🇦: 这样的国，这样的民众是需要被仰视的，因为这就是灯塔之国的缘由。<br><br><video src="https://video.twimg.com/ext_tw_video/1593205939175362560/pu/vid/644x352/yZJ7uxL0_cyEr_Xl.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1593205939175362560/pu/img/DTjPQAApldKQ5Ug4.jpg"></video>
+
+### 156: [2022-11-18 22:47:21+08:00 推文](https://twitter.com/HeQinglian/status/1593616859491962880)
 
 Re @JianglinLi 傻子也落几个子。比如那些为了资助而拼命护民主党与拜登的人。
 
-### 155: [2022-11-18 23:26:32+08:00 推文](https://twitter.com/HeQinglian/status/1593626717574275078)
+### 157: [2022-11-18 23:26:32+08:00 推文](https://twitter.com/HeQinglian/status/1593626717574275078)
 
 听美民主党左媒的宣传，一定要核查事实。<br>本届众议院民主党控制220个议席，共和党212个，另有3个议席空缺——媒体闭口不提民主党是微弱多数。<br>新国会众议院共和党已拿到218个，民主党为212个——惨胜、微弱多数成了宣传主题辞。<br>越宣传川普惨败，竞选2024无望，就意味他们最害怕的对手是川普。
 
-### 156: [2022-11-18 23:40:49+08:00 推文](https://twitter.com/HeQinglian/status/1593630313862815746)
+### 158: [2022-11-18 23:40:49+08:00 推文](https://twitter.com/HeQinglian/status/1593630313862815746)
 
 今年9月1日拜登在费城演讲中称，“MAGA共和党人代表着“一种威胁我们共和国基础的极端主义”。稍后哈佛-哈里斯民调查就该演讲做了个民调，问受访者是更担心美国的社会主义左派和他们正在获得的权力，还是更害怕MAGA共和党人和他们正在获得的权力?<br>54%的人认为，社会主义左派更危险 <a href="https://www.nationalreview.com/NEWS/MAJORITY-OF-AMERICANS-MORE-CONCERNED-WITH-SOCIALIST-LEFT-THAN-MAGA-REPUBLICANS-POLL/" target="_blank" rel="noopener noreferrer">HTTPS://WWW.NATIONALREVIEW.COM/NEWS/MAJORITY-OF-AMERICANS-MORE-CONCERNED-WITH-SOCIALIST-LEFT-THAN-MAGA-REPUBLICANS-POLL/</a>
 
-### 157: [2022-11-19 00:07:43+08:00 推文](https://twitter.com/HeQinglian/status/1593637083934924801)
+### 159: [2022-11-19 00:07:43+08:00 推文](https://twitter.com/HeQinglian/status/1593637083934924801)
 
 Re 重贴链接：<br>Concerned about ‘Socialist Left’ Than ‘MAGA Republicans’: POLL <a href="https://www.nationalreview.com/news/majority-of-americans-more-concerned-with-socialist-left-than-maga-republicans-poll/" target="_blank" rel="noopener noreferrer">https://www.nationalreview.com/news/majority-of-americans-more-concerned-with-socialist-left-than-maga-republicans-poll/</a>
 
-### 158: [2022-11-19 00:19:35+08:00 推文](https://twitter.com/HeQinglian/status/1593640067880321024)
+### 160: [2022-11-19 00:19:35+08:00 推文](https://twitter.com/HeQinglian/status/1593640067880321024)
 
 Re @Weneedtruth7 回想2016年，绝大多数川普支持者不敢表明自己的态度，在公共场所戴上MAGA帽子或有此字样的T恤，要遭到追打，左派子女与川普支持者划清界限脱离关系，到今天能够达到超过一半的人认为左派是美国最大的危害，认为拜登讲话是散布恐惧，已经是不小的改变。<br>不用急，多行不义必自毙。
 
-### 159: [2022-11-19 01:46:59+08:00 推文](https://twitter.com/HeQinglian/status/1593662062152007683)
+### 161: [2022-11-19 01:46:59+08:00 推文](https://twitter.com/HeQinglian/status/1593662062152007683)
 
 Re @xchen62 @david_david1968 说实话，别将媒体当朋友（这是指十年前），如今甚至不要将他们当成会客观报道你说话的媒体，这才能够避免伤害。<br>我早就这样处理媒体采访。
 
-### 160: [2022-11-19 01:49:23+08:00 推文](https://twitter.com/HeQinglian/status/1593662668648448001)
+### 162: [2022-11-19 01:49:23+08:00 推文](https://twitter.com/HeQinglian/status/1593662668648448001)
 
 Re @JianglinLi 其实中学里那些不择手段逼迫青少年变性的女教师，看看其模样，再调查一下婚恋情况，就明白多属于自己得不到正常生活的人，也不想别人得到。
 
-### 161: [2022-11-19 01:52:10+08:00 推文](https://twitter.com/HeQinglian/status/1593663367918542850)
+### 163: [2022-11-19 01:52:10+08:00 推文](https://twitter.com/HeQinglian/status/1593663367918542850)
 
 Re @JianglinLi 她们未婚，与制度无关。社会主义也不会给普通人配给婚姻。
 
-### 162: [2022-11-19 01:54:35+08:00 推文](https://twitter.com/HeQinglian/status/1593663977401237512)
+### 164: [2022-11-19 01:54:35+08:00 推文](https://twitter.com/HeQinglian/status/1593663977401237512)
 
 Re @JianglinLi 难怪中学教师中女性拉拉多。
 
-### 163: [2022-11-19 02:08:49+08:00 推文](https://twitter.com/HeQinglian/status/1593667560473509889)
+### 165: [2022-11-19 02:08:49+08:00 推文](https://twitter.com/HeQinglian/status/1593667560473509889)
 
 Re @xchen62 @david_david1968 如今的国家领导人都是些什么，明白人都知道。
 
-### 164: [2022-11-19 02:17:55+08:00 推文](https://twitter.com/HeQinglian/status/1593669848495788034)
+### 166: [2022-11-19 02:17:55+08:00 推文](https://twitter.com/HeQinglian/status/1593669848495788034)
 
 Re @xchen62 @david_david1968 当年，德国之声就他们一件有意的歪曲报道伤害我，我追究他们的责任，台长写信，要求私下了结，向我道歉了事。我说了，要道歉，就公开，我不接受这种私下道歉。<br>西方国家的精英早就熟悉公开打别人的脸，私下里赔礼道歉的把戏。我有位老同学（推上很活跃）也学会了。<br>我不吃这套。
 
