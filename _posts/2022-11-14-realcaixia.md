@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-11-17
+date: 2022-11-18
 from: https://twitter.com/realcaixia/status/1591838080708665345
 layout: post
 tags:
@@ -170,4 +170,12 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FhxgqXKUYAIufrA?format=jpg
 ### 39: [2022-11-17 22:54:56+08:00 推文](https://twitter.com/realcaixia/status/1593256377593389061)
 
 Re <br><img style="" src="https://pbs.twimg.com/media/FhxiOrJUAAA9Kwu?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FhxiOq1UYAQlgPV?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FhxiOq3UcAEHD8m?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FhxiOq1VQAAlM8K?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 40: [2022-11-18 12:43:45+08:00 推文](https://twitter.com/realcaixia/status/1593464958016278528)
+
+Re @yibaochina 读了这篇文章，深为感动。鲍老的一生是坦荡的一生，真诚持守信念的一生，鲍老具有强大的人格魅力。令我感动的另一点是，文章作者鲍樸，鲍老的儿子，同样的坦荡真诚，他不拔高不遮掩，真诚面对父母的一生。父母一生是与中共的重要部门、重大历史事件紧密联系在一起的，秉持笔下真实，功罪任人评说。
+
+### 41: [2022-11-18 12:49:22+08:00 推文](https://twitter.com/realcaixia/status/1593466372264284160)
+
+Re @xzzzjpl @1IBM 这个图里，明显给习近平加了两个字：“对吗。”视频里习近平根本就没说过这两个字。这两个字一加，习近平口气就不是训责，而是讯问，似乎习还挺温和，掩盖了习的蛮横霸道黑道口气。这种隐晦洗地手段高明。
 
