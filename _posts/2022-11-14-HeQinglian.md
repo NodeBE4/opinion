@@ -623,3 +623,15 @@ G20拜习会成果：中美恢复接触与交流<br><br>“接触-合作-影响-
 
 RT 北美保守评论🇺🇸🇨🇦<br>《为什么红色海啸变成了涟漪》<br><br>今年和前年选举舞弊的主要证据是，受操纵的选举需要额外时间，因为要首先统计按时收到的实际选票，确定需要找出多少选票才能递交，以确保预先确定的获胜者领先幅度。此过程被故意拖延数天甚至数周，以便生产和清点选票，以宣布获胜过程合法化。 <a href="https://nacr.info/WordPress/index.php/2022/11/17/why-the-red-tsunami-turned-into-a-ripple/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/11/17/why-the-red-tsunami-turned-into-a-ripple/</a><br><img style="" src="https://pbs.twimg.com/media/FhzH0ycWYAENSyC?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
+### 153: [2022-11-18 22:47:21+08:00 推文](https://twitter.com/HeQinglian/status/1593616859491962880)
+
+Re @JianglinLi 傻子也落几个子。比如那些为了资助而拼命护民主党与拜登的人。
+
+### 154: [2022-11-18 23:26:32+08:00 推文](https://twitter.com/HeQinglian/status/1593626717574275078)
+
+听美民主党左媒的宣传，一定要核查事实。<br>本届众议院民主党控制220个议席，共和党212个，另有3个议席空缺——媒体闭口不提民主党是微弱多数。<br>新国会众议院共和党已拿到218个，民主党为212个——惨胜、微弱多数成了宣传主题辞。<br>越宣传川普惨败，竞选2024无望，就意味他们最害怕的对手是川普。
+
+### 155: [2022-11-18 23:40:49+08:00 推文](https://twitter.com/HeQinglian/status/1593630313862815746)
+
+今年9月1日拜登在费城演讲中称，“MAGA共和党人代表着“一种威胁我们共和国基础的极端主义”。稍后哈佛-哈里斯民调查就该演讲做了个民调，问受访者是更担心美国的社会主义左派和他们正在获得的权力，还是更害怕MAGA共和党人和他们正在获得的权力?<br>54%的人认为，社会主义左派更危险 <a href="https://www.nationalreview.com/NEWS/MAJORITY-OF-AMERICANS-MORE-CONCERNED-WITH-SOCIALIST-LEFT-THAN-MAGA-REPUBLICANS-POLL/" target="_blank" rel="noopener noreferrer">HTTPS://WWW.NATIONALREVIEW.COM/NEWS/MAJORITY-OF-AMERICANS-MORE-CONCERNED-WITH-SOCIALIST-LEFT-THAN-MAGA-REPUBLICANS-POLL/</a>
+
