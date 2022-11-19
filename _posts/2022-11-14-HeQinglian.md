@@ -707,3 +707,7 @@ Re @shijie808 仇恨入心要发芽，仇恨长成一棵参天大树，最后疯
 
 Re @Lucs24659702 民主灯塔这块包装布当真是一美遮百丑。
 
+### 174: [2022-11-19 10:34:02+08:00 推文](https://twitter.com/HeQinglian/status/1593794700992978945)
+
+本轮最终结果：<br>民主党214（含两位亡灵），共和党221席。<br>拜登的好日子结束了。 <a href="https://www.nbcnews.com/politics/2022-elections/house-results" target="_blank" rel="noopener noreferrer">https://www.nbcnews.com/politics/2022-elections/house-results</a><br><img style="" src="https://pbs.twimg.com/media/Fh5LZ6bXEAEXAb9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
