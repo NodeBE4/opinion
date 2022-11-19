@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-11-19
+date: 2022-11-20
 from: https://twitter.com/realcaixia/status/1591838080708665345
 layout: post
 tags:
@@ -186,4 +186,8 @@ Re @xzzzjpl @1IBM 这个图里，明显给习近平加了两个字：“对吗�
 ### 43: [2022-11-19 04:15:04+08:00 推文](https://twitter.com/realcaixia/status/1593699329251848192)
 
 这些观察角度是我之前没有注意到的。很有道理。<br><br>韩连潮: 【中华民族共同体=德意志民族共同体】#蔡霞 教授把习共比为黑手党，我觉得他们就是纳粹党。习近平推行的中华民族共同体与纳粹搞的德意志民族共同体用词和做法都一模一样；20大少数种族的中央委员骤减近半，民委基本为汉人掌控强行打造一个民族，这意味着下个10年党国内少数族群将有灭顶之灾。<br><br><img style="" src="https://pbs.twimg.com/media/Fh2GfV1agAE8XDc?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fh2GjfgagAAu3XY?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 44: [2022-11-20 02:30:29+08:00 推文](https://twitter.com/realcaixia/status/1594035400246317056)
+
+我曾到过红旗渠，那时红旗渠已经成为旅游景点，同时还是宣传点——林县县委带领林县农民战天斗地、改天换地的“英雄事迹”。当时我还很佩服，没想到是中共党的干部不讲科学、强行蛮干的产物。这样的“人祸”变成“历史性功绩”，绝非孤例。<br><br>《议报》: 王维洛 | 红旗渠失败原因的分析<br> <a href="https://yibaochina.com/?p=248414" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248414</a>
 
