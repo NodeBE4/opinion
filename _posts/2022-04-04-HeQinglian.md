@@ -361,7 +361,7 @@ Re @wen_spring Musk还未进入工作状态。<br>Twitter经营团队说了，�
 
 ### 87: [2022-04-07 01:51:55+08:00 推文](https://twitter.com/HeQinglian/status/1511763649693683716)
 
-Re 附一网友推文： <a href="https://twitter.com/bruce_sun/status/1511744704303443974" target="_blank" rel="noopener noreferrer">https://twitter.com/bruce_sun/status/1511744704303443974</a>
+Re 附一网友推文：<br><br>Bruccess: @HeQinglian 不是你给的链接错了，是短链接服务崩了，没法解析，<br> <a href="https://www.servicesaustralia.gov.au/how-to-make-claim-under-covid-19-vaccine-claims-scheme?context=55953" target="_blank" rel="noopener noreferrer">https://www.servicesaustralia.gov.au/how-to-make-claim-under-covid-19-vaccine-claims-scheme?context=55953</a>
 
 ### 88: [2022-04-07 02:01:13+08:00 推文](https://twitter.com/HeQinglian/status/1511765986311036928)
 
@@ -1117,7 +1117,7 @@ Re @davidyching 拜登是这样说的：让普京政权垮台。我知道欧盟�
 
 ### 276: [2022-04-10 10:07:33+08:00 推文](https://twitter.com/HeQinglian/status/1512975543544819712)
 
-德国让一些人很生气：<br>英国“卫报”报导，德总理萧兹（Olaf Scholz）上任后首度与英国进行双边扩大会谈，会后与英首相Boris Johnson共同举行记者会。<br>萧兹表示，德国正竭尽所能摆脱对俄罗斯能源的依赖，但不愿为英国首相提出2024年中起停止从俄国进口天然气的要求背书。<br>😂
+德国让一些人很生气：<br>英国“卫报”报导，德总理萧兹（Olaf Scholz）上任后首度与英国进行双边扩大会谈，会后与英首相Boris Johnson共同举行记者会。<br>萧兹表示，德国正竭尽所能摆脱对俄罗斯能源的依赖，但不愿为英国首相提出2024年中起停止从俄国进口天然气的要求背书。<br>😂<br><br>He Qinglian: 德国联邦国防军几乎没有可供给乌克兰的武器了 <br>德国前总理默克尔为任期内没有同意乌克兰靠近北约和欧盟而受到批评。默克尔为自己当年的政策做了辩护。但批评声持续不断，认为默对现在的乌克兰战争负有潜在的连带责任。现基民盟高层经过讨论后，明确支持前党领袖默克尔的路线。<br> <a href="https://rfi.my/8K6d.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8K6d.T</a>
 
 ### 277: [2022-04-10 10:13:07+08:00 推文](https://twitter.com/HeQinglian/status/1512976942206791686)
 
@@ -1169,7 +1169,7 @@ BFM电视台网站公布的一项民调显示，马克龙的支持率再下降�
 
 ### 289: [2022-04-10 12:46:06+08:00 推文](https://twitter.com/HeQinglian/status/1513015443845521411)
 
-也许中文推特圈觉得勒庞当选的消息不咋的，但美国政治网站却如此反应：<br>白宫吓坏了  普京的下一个重大胜利可能是在巴黎<br><br>如果俄罗斯的辩护者马琳·勒庞赢得法国大选，华盛顿担心她可能会瓦解西方的北约联盟。<br>😂😂 <a href="https://www.politico.com/news/2022/04/08/white-house-putin-paris-00024054" target="_blank" rel="noopener noreferrer">https://www.politico.com/news/2022/04/08/white-house-putin-paris-00024054</a>
+也许中文推特圈觉得勒庞当选的消息不咋的，但美国政治网站却如此反应：<br>白宫吓坏了  普京的下一个重大胜利可能是在巴黎<br><br>如果俄罗斯的辩护者马琳·勒庞赢得法国大选，华盛顿担心她可能会瓦解西方的北约联盟。<br>😂😂<br><br>He Qinglian: BFM电视台网站公布的一项民调显示，马克龙的支持率再下降两个百分点，来到26%，勒庞则是上升两个百分点至25%。<br><br>猜想：小马一定痛悔，没有及时引进无需验证选民身份的多米尼投票机，不知现在立法规定邮寄选票（选举日过后20天来都算数）是否来得及。<br> <a href="https://cn.reuters.com/article/france-presidential-election-0408-fri-idCNKCS2M1040" target="_blank" rel="noopener noreferrer">https://cn.reuters.com/article/france-presidential-election-0408-fri-idCNKCS2M1040</a>
 
 ### 290: [2022-04-10 12:49:23+08:00 推文](https://twitter.com/HeQinglian/status/1513016270383423488)
 
