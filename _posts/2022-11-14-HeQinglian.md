@@ -629,7 +629,7 @@ RT 沈良庆二世<br>中期选举后分裂的政府对美国意味着什么�
 
 ### 154: [2022-11-18 17:15:16+08:00 推文](https://twitter.com/KELMAND1/status/1593533286495969281)
 
-RT Ezio Mao☢<br>美国共和党国会议员要求国务院负责人安东尼布林肯就民主党、乌克兰和破产的加密货币交易所 FTX 之间的金融关系做出交代。<br><br>根据国会议员 Troy Nels、Louis Gomert、Mary Miller 和 Byron Donalds 的说法，作为军事援助转移到基辅的数十亿纳税人资金“可能会投资于 FTX 加密货币交易所。”<br><br>Ezio Mao☢: 关于乌克兰冲突的“FTX洗钱”骗局<br><br>“民主党撒钱给乌克兰，乌克兰把钱给 FTX，FTX 捐钱给民主党的竞选活动。我不知道这是战争牟利还是洗钱，我什至不知道，但需要调查。” “沃特斯说。<br><br><video src="https://video.twimg.com/ext_tw_video/1592840889482629120/pu/vid/640x352/e9b9iMoQ4reeiF-v.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1592840889482629120/pu/img/PgkblGPGkakbU1lT.jpg"></video> <a href="https://twitter.com/KELMAND1/status/1592399121633402881" target="_blank" rel="noopener noreferrer">https://twitter.com/KELMAND1/status/1592399121633402881</a>
+RT Ezio Mao☢<br>美国共和党国会议员要求国务院负责人安东尼布林肯就民主党、乌克兰和破产的加密货币交易所 FTX 之间的金融关系做出交代。<br><br>根据国会议员 Troy Nels、Louis Gomert、Mary Miller 和 Byron Donalds 的说法，作为军事援助转移到基辅的数十亿纳税人资金“可能会投资于 FTX 加密货币交易所。”<br><br>Ezio Mao☢: 关于乌克兰冲突的“FTX洗钱”骗局<br><br>“民主党撒钱给乌克兰，乌克兰把钱给 FTX，FTX 捐钱给民主党的竞选活动。我不知道这是战争牟利还是洗钱，我什至不知道，但需要调查。” “沃特斯说。<br><br><video src="https://video.twimg.com/ext_tw_video/1592840889482629120/pu/vid/640x352/e9b9iMoQ4reeiF-v.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1592840889482629120/pu/img/PgkblGPGkakbU1lT.jpg"></video>
 
 ### 155: [2022-11-18 21:51:34+08:00 推文](https://twitter.com/mingshi_chen/status/1593602820200189953)
 
@@ -711,51 +711,79 @@ Re @Lucs24659702 民主灯塔这块包装布当真是一美遮百丑。
 
 本轮最终结果：<br>民主党214（含两位亡灵），共和党221席。<br>拜登的好日子结束了。 <a href="https://www.nbcnews.com/politics/2022-elections/house-results" target="_blank" rel="noopener noreferrer">https://www.nbcnews.com/politics/2022-elections/house-results</a><br><img style="" src="https://pbs.twimg.com/media/Fh5LZ6bXEAEXAb9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 175: [2022-11-19 22:09:02+08:00 推文](https://twitter.com/HeQinglian/status/1593969600894570496)
+### 175: [2022-11-19 12:16:02+08:00 推文](https://twitter.com/wenjiebc/status/1593820367927246851)
+
+RT 文婕 文婕播报<br>突发事件：亚利桑那科奇斯县刚刚提议将选举认证推迟到 11 月 28 日，届时他们希望审查所有由经认可的选举援助委员会实验室使用制表机的合法认证证明的证据。既然该县正在验证他们的结果，现在树立了在其他县做同样事情的先例。在所有县都提交了经过认证的结果之前，亚利桑那州无法证明任何选举结果。<br><img style="" src="https://pbs.twimg.com/media/Fh5jLVUXgAUpb2E?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 176: [2022-11-19 22:09:02+08:00 推文](https://twitter.com/HeQinglian/status/1593969600894570496)
 
 Re @CSKupr 符合大多数选前民调预测。参议院本来就说不一定。<br>众议院可以阻止拜登的疯狂议案。
 
-### 176: [2022-11-19 22:19:41+08:00 推文](https://twitter.com/HeQinglian/status/1593972282317148162)
+### 177: [2022-11-19 22:19:41+08:00 推文](https://twitter.com/HeQinglian/status/1593972282317148162)
 
 台湾左派实在让人受不了，长处是反共。<br>台湾成立第三党不是难事，比美国容易。过渡时期，先让一党入总统府，一党在立法院居主导。<br><br>Duke Amstaf 🚛🇨🇦🇺🇸🇭🇺: 問了一圈，周圍朋友投票意願很低，大家既不想投給親共的國民黨，也不想投給左膠的民進黨，緑營想複製因香港反送中催生的大選及罷韓熱潮恐怕是不可能的。左膠幼稚的政治正確理念與民生真實需求有天然阻隔，台灣要麽左翼反省自己的價值觀，要麽右翼建立新的政治組織，不然長期來看還是完蛋。<br>
 
-### 177: [2022-11-19 22:27:15+08:00 推文](https://twitter.com/HeQinglian/status/1593974188913614850)
+### 178: [2022-11-19 22:27:15+08:00 推文](https://twitter.com/HeQinglian/status/1593974188913614850)
 
 这次中选，更让人在意的是美国民意正在起变化（尤其是与2020年相比），共和党能胜的原因是：<br>社会主义政策与高通胀、高犯罪率——美国人感到生存危机；<br>87000税收警察——激怒了商界；<br>强制青少年变性——父母深为恐惧；<br>2019 年，65%的民主党人对社会主义持积极态度，如今只有57%的民主党人表示有积极看法。
 
-### 178: [2022-11-19 22:28:55+08:00 推文](https://twitter.com/HeQinglian/status/1593974608105181184)
+### 179: [2022-11-19 22:28:55+08:00 推文](https://twitter.com/HeQinglian/status/1593974608105181184)
 
 Re 面对这个拜登-民主党政府政绩清单，还能拥护拜登的人，与动物庄园居民何异？
 
-### 179: [2022-11-19 22:33:08+08:00 推文](https://twitter.com/HeQinglian/status/1593975665744830465)
+### 180: [2022-11-19 22:33:08+08:00 推文](https://twitter.com/HeQinglian/status/1593975665744830465)
 
 Re @91SbECqyxeKEPvR 中国人思考政治，总是希望翻天覆地。
 
-### 180: [2022-11-20 02:58:57+08:00 推文](https://twitter.com/HeQinglian/status/1594042561089261568)
+### 181: [2022-11-20 02:58:57+08:00 推文](https://twitter.com/HeQinglian/status/1594042561089261568)
 
 Re @Sleeping888888 已经被联邦法官否决了。
 
-### 181: [2022-11-20 03:02:08+08:00 推文](https://twitter.com/HeQinglian/status/1594043364910981120)
+### 182: [2022-11-20 03:02:08+08:00 推文](https://twitter.com/HeQinglian/status/1594043364910981120)
 
 Re @eGUAbe2V7j26GHw @91SbECqyxeKEPvR 不止知识分子，All Most.<br>共和党今年这点胜利，我们在美国的就知道来之不易。<br>非法移民被民主党圈养，信用卡、住所全提供，只要他们承诺投民主党，加州太多这种了。全国也投放了不少。
 
-### 182: [2022-11-20 03:14:58+08:00 推文](https://twitter.com/HeQinglian/status/1594046593464143872)
+### 183: [2022-11-20 03:14:58+08:00 推文](https://twitter.com/HeQinglian/status/1594046593464143872)
 
 Re @Sleeping888888 哈佛-哈里逊9月7日的民调结果是：基本没影响。学生投民主党主要是意识形态。
 
-### 183: [2022-11-20 03:18:02+08:00 推文](https://twitter.com/HeQinglian/status/1594047364964421632)
+### 184: [2022-11-20 03:18:02+08:00 推文](https://twitter.com/HeQinglian/status/1594047364964421632)
 
 Re @91SbECqyxeKEPvR 共和党有没有救，还真要看怎么救了。<br>共和党的建制派确实想让川普出局，但操作不当，会反伤自身，两败俱伤。<br>还有一年零三、四个月，就看他们群雄竞逐吧。民主党也一样，只是民主党的内部矛盾不公开。<br>川普应付内部矛盾，得有点技巧，毕竟共和党不是他家公司。
 
-### 184: [2022-11-20 03:22:16+08:00 推文](https://twitter.com/HeQinglian/status/1594048428660727808)
+### 185: [2022-11-20 03:22:16+08:00 推文](https://twitter.com/HeQinglian/status/1594048428660727808)
 
 Re @cskun1989 企业有利润、成本等。
 
-### 185: [2022-11-20 05:07:40+08:00 推文](https://twitter.com/HeQinglian/status/1594074955569840135)
+### 186: [2022-11-20 05:07:40+08:00 推文](https://twitter.com/HeQinglian/status/1594074955569840135)
 
 Re @KELMAND1 他完全可以自由行动，但别国并非他的属国，也不算正式结盟的盟国，没有听从号令的任务。<br>求人不如求己，痛斥不一定得来更多的帮助。<br>拜登美国遇到这么一位，也挺有意思。
 
-### 186: [2022-11-20 05:13:45+08:00 推文](https://twitter.com/HeQinglian/status/1594076486662774788)
+### 187: [2022-11-20 05:13:45+08:00 推文](https://twitter.com/HeQinglian/status/1594076486662774788)
 
 Re @zhixiangziyou 华府一位朋友家就是这样的房子。唯一的缺点是冬天的保暖问题。因此，他每年从11月开始，集中在几个地方活动，其余的房间只能来年再打开。<br>我第一次去时，很喜欢他家房子，森林、小河应有尽有。但考虑到居家成本时，就回到现实了。
+
+### 188: [2022-11-20 05:40:36+08:00 推文](https://twitter.com/HeQinglian/status/1594083244588220417)
+
+Re @realTaoRay 索罗斯在他的主页上有篇文章，谈他为什么要资助联邦与州的检察官选举（任）。
+
+### 189: [2022-11-20 05:48:56+08:00 推文](https://twitter.com/HeQinglian/status/1594085339924422656)
+
+Re @smartscmp 先占位，再补选。
+
+### 190: [2022-11-20 06:06:25+08:00 推文](https://twitter.com/HeQinglian/status/1594089738746884097)
+
+Re @zhixiangziyou @FranzMendelsso1 这种圆木建的房子，完全不保暖，窗户并无用处。如果要用保暖层，买这房子看中的品味就完全白费了。<br>总之，主人比客人更明白住那房子的情况。这位朋友家要聚会，只能在每年5-10月。
+
+### 191: [2022-11-20 06:07:26+08:00 推文](https://twitter.com/HeQinglian/status/1594089997287710721)
+
+Re @Fumitoku_T @zhixiangziyou 不是落地窗，而是圆木房子，没有保暖层。屋顶与墙都没有。
+
+### 192: [2022-11-20 06:11:51+08:00 推文](https://twitter.com/HeQinglian/status/1594091106735489025)
+
+Re @zhixiangziyou 忘记说明了。<br>这种圆木房子，从屋顶到墙，都是原木，没有保暖层（我们的房子都有），购买这种房子，喜欢的就是其质朴原木，如果加了保暖层，不仅造价最贵，还失其趣味。<br>因此，我这朋友40多岁时买了这房子（4500平方英尺），20多年来为品味牺牲了冬天的舒适。<br>夏秋去作客，确实觉得是Dream House。
+
+### 193: [2022-11-20 06:17:20+08:00 推文](https://twitter.com/HeQinglian/status/1594092488075214850)
+
+Re @jojowheel 美国现在的选民构成是D-40对R-40，中间约20%摇摆。<br>这摇摆的选民中不少是30岁至45岁的，年轻时左，成家后保守。但25岁以下的，75%是左与极左。<br>这种选民结构与教育体制，再加上拉美、华人等移民偏左，美国的未来，能够在摇摆中平衡，算最好情况。最差就是拜登2上台——这可能性不是没有。
 
