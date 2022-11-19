@@ -711,3 +711,23 @@ Re @Lucs24659702 民主灯塔这块包装布当真是一美遮百丑。
 
 本轮最终结果：<br>民主党214（含两位亡灵），共和党221席。<br>拜登的好日子结束了。 <a href="https://www.nbcnews.com/politics/2022-elections/house-results" target="_blank" rel="noopener noreferrer">https://www.nbcnews.com/politics/2022-elections/house-results</a><br><img style="" src="https://pbs.twimg.com/media/Fh5LZ6bXEAEXAb9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 175: [2022-11-19 22:09:02+08:00 推文](https://twitter.com/HeQinglian/status/1593969600894570496)
+
+Re @CSKupr 符合大多数选前民调预测。参议院本来就说不一定。<br>众议院可以阻止拜登的疯狂议案。
+
+### 176: [2022-11-19 22:19:41+08:00 推文](https://twitter.com/HeQinglian/status/1593972282317148162)
+
+台湾左派实在让人受不了，长处是反共。<br>台湾成立第三党不是难事，比美国容易。过渡时期，先让一党入总统府，一党在立法院居主导。<br><br>Duke Amstaf 🚛🇨🇦🇺🇸🇭🇺: 問了一圈，周圍朋友投票意願很低，大家既不想投給親共的國民黨，也不想投給左膠的民進黨，緑營想複製因香港反送中催生的大選及罷韓熱潮恐怕是不可能的。左膠幼稚的政治正確理念與民生真實需求有天然阻隔，台灣要麽左翼反省自己的價值觀，要麽右翼建立新的政治組織，不然長期來看還是完蛋。<br>
+
+### 177: [2022-11-19 22:27:15+08:00 推文](https://twitter.com/HeQinglian/status/1593974188913614850)
+
+这次中选，更让人在意的是美国民意正在起变化（尤其是与2020年相比），共和党能胜的原因是：<br>社会主义政策与高通胀、高犯罪率——美国人感到生存危机；<br>87000税收警察——激怒了商界；<br>强制青少年变性——父母深为恐惧；<br>2019 年，65%的民主党人对社会主义持积极态度，如今只有57%的民主党人表示有积极看法。
+
+### 178: [2022-11-19 22:28:55+08:00 推文](https://twitter.com/HeQinglian/status/1593974608105181184)
+
+Re 面对这个拜登-民主党政府政绩清单，还能拥护拜登的人，与动物庄园居民何异？
+
+### 179: [2022-11-19 22:33:08+08:00 推文](https://twitter.com/HeQinglian/status/1593975665744830465)
+
+Re @91SbECqyxeKEPvR 中国人思考政治，总是希望翻天覆地。
+
