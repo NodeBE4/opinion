@@ -679,11 +679,31 @@ Re @xchen62 @david_david1968 如今的国家领导人都是些什么，明白人
 
 Re @xchen62 @david_david1968 当年，德国之声就他们一件有意的歪曲报道伤害我，我追究他们的责任，台长写信，要求私下了结，向我道歉了事。我说了，要道歉，就公开，我不接受这种私下道歉。<br>西方国家的精英早就熟悉公开打别人的脸，私下里赔礼道歉的把戏。我有位老同学（推上很活跃）也学会了。<br>我不吃这套。
 
-### 167: [2022-11-19 04:56:36+08:00 推文](https://twitter.com/HeQinglian/status/1593709782489260039)
+### 167: [2022-11-19 04:32:25+08:00 推文](https://twitter.com/Moonee74850977/status/1593703697799778304)
+
+RT Cathy乔乔<br>今天佛州州长德桑蒂斯向世界经济论坛传达了一个信息，勇气可嘉。如果世界上所有领导人都有这个理念并且付诸于行动，那么丝袜布这只秃鹰就一定会失败，灾难就不会降临。<br><video src="https://video.twimg.com/ext_tw_video/1593703630896435200/pu/vid/1280x720/yquzZQvkglH6vwKl.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1593703630896435200/pu/img/DTFhdcQVMxzHGu_2.jpg"></video>
+
+### 168: [2022-11-19 04:56:36+08:00 推文](https://twitter.com/HeQinglian/status/1593709782489260039)
 
 Re @sanguibee 2020年，反MAGA的人居多数。这么多年洗脑教育，能有寸进就不错了。
 
-### 168: [2022-11-19 06:02:34+08:00 推文](https://twitter.com/HeQinglian/status/1593726382516965376)
+### 169: [2022-11-19 06:02:34+08:00 推文](https://twitter.com/HeQinglian/status/1593726382516965376)
 
 Re @dinglili7 没意见，为了不劳而获，变性吧。太监在宫里还要工作。他们比太监要幸运，遇上了进步主义政府。
+
+### 170: [2022-11-19 08:19:10+08:00 推文](https://twitter.com/HeQinglian/status/1593760758776856577)
+
+Re @david_david1968 那时候有这彩色摄影技术？
+
+### 171: [2022-11-19 08:22:13+08:00 推文](https://twitter.com/HeQinglian/status/1593761526841851904)
+
+Re @JianglinLi Mark了。这词我还真见过，因为是简写，不明所以，这次算弄明白了。
+
+### 172: [2022-11-19 08:29:57+08:00 推文](https://twitter.com/HeQinglian/status/1593763472436625409)
+
+Re @shijie808 仇恨入心要发芽，仇恨长成一棵参天大树，最后疯了，疯玩FTX，终于玩成这样。<br>不疯多好。
+
+### 173: [2022-11-19 08:33:28+08:00 推文](https://twitter.com/HeQinglian/status/1593764360786165760)
+
+Re @Lucs24659702 民主灯塔这块包装布当真是一美遮百丑。
 
