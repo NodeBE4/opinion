@@ -191,3 +191,7 @@ Re @xzzzjpl @1IBM 这个图里，明显给习近平加了两个字：“对吗�
 
 我曾到过红旗渠，那时红旗渠已经成为旅游景点，同时还是宣传点——林县县委带领林县农民战天斗地、改天换地的“英雄事迹”。当时我还很佩服，没想到是中共党的干部不讲科学、强行蛮干的产物。这样的“人祸”变成“历史性功绩”，绝非孤例。<br><br>《议报》: 王维洛 | 红旗渠失败原因的分析<br> <a href="https://yibaochina.com/?p=248414" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248414</a>
 
+### 45: [2022-11-20 03:39:39+08:00 推文](https://twitter.com/realcaixia/status/1594052803919548417)
+
+为自由而战！<br><br>Rishi Sunak: Britain knows what it means to fight for freedom.<br><br>We are with you all the way @ZelenskyyUa 🇺🇦🇬🇧<br><br>Британія знає, що означає боротися за свободу.<br><br>Ми з вами до кінця @ZelenskyyUa 🇺🇦🇬🇧<br><br><video src="https://video.twimg.com/amplify_video/1593959635287183360/vid/1280x720/5wyDX1U3j46Ca6E5.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/Fh7ixQCUoAA_Rnv?format=jpg&amp;name=orig"></video>
+
