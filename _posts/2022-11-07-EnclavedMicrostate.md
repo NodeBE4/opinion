@@ -217,3 +217,7 @@ And [Sakura Miko is stuck promoting 'Baby Dance' till the end of time](https://w
 
 It's distressing that Miko comes off as less pon in the comparison...
 
+----- __924.5__ -----2022-11-20 05:16:03+08:00:
+
+Every time I think there's nothing more to say about *My Immortal*, someone comes out with a video with *more* information. [Strange Æeons' latest video](https://www.youtube.com/watch?v=0JodBp-r9jM) notes, among other things, the existence of a *third* fanfic by the authors of *My Immortal*, depicting a gothified Hermione as the main character.
+
