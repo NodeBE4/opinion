@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-11-15
+date: 2022-11-19
 from: https://twitter.com/SpeechFreedomCN/status/1591871792716845058
 layout: post
 tags:
@@ -26,4 +26,12 @@ title: 'Twitter @中国文字狱事件盘点: 2022-11-14~2022-11-20'
 ### 3: [2022-11-15 15:33:44+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1592420572516208640)
 
 Xinjiang, where covid lockdown has been in place for months in some cities, people are yelling for help in the live-streaming page of government departments. Three of them therefore get arrested for "disrupting public internet order" and cases have been filed against them.<br><img style="" src="https://pbs.twimg.com/media/FhlpcGtXEAEh71e?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FhlpdqRWIAQTh-q?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FhlpfNqWIAECpJ8?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fhlpg9zXgAAa0Hl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 4: [2022-11-19 18:52:31+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1593920148217466881)
+
+2017年4月，湖北省远安县公安男子赵某，因在某论坛网站的公众号留言称交警为“狗子”以及“没一个好东西”，被处拘留7日。<br>当地公安在通报此案时称该案为全县首例，而在全国范围内开始抓“网络辱警”大约也只开始于两年之前。<br><img style="" src="https://pbs.twimg.com/media/Fh68--8WQAArbIv?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fh69Ad8XgAA5OTB?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2022-11-19 18:54:15+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1593920585163165696)
+
+Man surnamed Zhao from Hubei detained for 7 days for referring to traffic cops as "doge" on Internet and saying they were "up to no good". The incident happened in Apr 2017, and local police claimed this was the first case of such kind in that county.<br><img style="" src="https://pbs.twimg.com/media/Fh699u7XkAAtzDy?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fh69_IEWQAE6dlu?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
