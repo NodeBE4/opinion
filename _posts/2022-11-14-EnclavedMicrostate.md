@@ -123,3 +123,13 @@ Finally of course, the actual collapse of the Ming came from within following re
 
 They fixed it pretty fast in the event – I saw it not long after and there was no sign of the damage.
 
+----- __934.2__ -----2022-11-20 17:10:02+08:00:
+
+The 2020 'Taiwan Incident', discussed here: https://www.reddit.com/r/HobbyDrama/comments/jjkyoc/virtual_youtuber_the_hololive_taiwan_controversy/
+
+----- __934.3__ -----2022-11-20 17:11:26+08:00:
+
+> she wanted to try harder to break the wall between them
+
+*phrasing...*
+
