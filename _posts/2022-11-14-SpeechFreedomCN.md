@@ -39,3 +39,7 @@ Man surnamed Zhao from Hubei detained for 7 days for referring to traffic cops a
 
 Chinese dissident Li Nanfei arrested in Thailand for protesting Xi's dictatorship in Bangkok. He is now under police custody and faces deportation to China, where he will likely be persecuted. Li is a UNHCR recognized refugee and I've written an email to @UNHCRThailand for help.<br><img style="" src="https://pbs.twimg.com/media/FiARWwmXEAIlwS0?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FiARdpcXkAcM_Gq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FiARvePWYAAxDHW?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 7: [2022-11-20 19:43:03+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1594295253879717888)
+
+旅泰异议人士李南飞因在泰国街头抗议习近平而被捕，现面临被遣返回中国。李南飞多年前曾因在中国组建民主政党而被判刑，后出逃泰国。李在泰国获得了联合国难民署的难民资格认定并一直在等待安置。本人已写信给联合国难民署泰国办公室求助。<br><img style="" src="https://pbs.twimg.com/media/FiAScJ6XoAIV-72?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FiASeYQXwAAM1rk?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FiASf7hXoAAk595?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
