@@ -629,7 +629,7 @@ RT 沈良庆二世<br>中期选举后分裂的政府对美国意味着什么�
 
 ### 154: [2022-11-18 17:15:16+08:00 推文](https://twitter.com/KELMAND1/status/1593533286495969281)
 
-RT Ezio Mao☢<br>美国共和党国会议员要求国务院负责人安东尼布林肯就民主党、乌克兰和破产的加密货币交易所 FTX 之间的金融关系做出交代。<br><br>根据国会议员 Troy Nels、Louis Gomert、Mary Miller 和 Byron Donalds 的说法，作为军事援助转移到基辅的数十亿纳税人资金“可能会投资于 FTX 加密货币交易所。”<br><br>Ezio Mao☢: 关于乌克兰冲突的“FTX洗钱”骗局<br><br>“民主党撒钱给乌克兰，乌克兰把钱给 FTX，FTX 捐钱给民主党的竞选活动。我不知道这是战争牟利还是洗钱，我什至不知道，但需要调查。” “沃特斯说。<br><br><video src="https://video.twimg.com/ext_tw_video/1592840889482629120/pu/vid/640x352/e9b9iMoQ4reeiF-v.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1592840889482629120/pu/img/PgkblGPGkakbU1lT.jpg"></video> <a href="https://twitter.com/KELMAND1/status/1592399121633402881" target="_blank" rel="noopener noreferrer">https://twitter.com/KELMAND1/status/1592399121633402881</a>
+RT Ezio Mao☢<br>美国共和党国会议员要求国务院负责人安东尼布林肯就民主党、乌克兰和破产的加密货币交易所 FTX 之间的金融关系做出交代。<br><br>根据国会议员 Troy Nels、Louis Gomert、Mary Miller 和 Byron Donalds 的说法，作为军事援助转移到基辅的数十亿纳税人资金“可能会投资于 FTX 加密货币交易所。”<br><br>Ezio Mao☢: 关于乌克兰冲突的“FTX洗钱”骗局<br><br>“民主党撒钱给乌克兰，乌克兰把钱给 FTX，FTX 捐钱给民主党的竞选活动。我不知道这是战争牟利还是洗钱，我什至不知道，但需要调查。” “沃特斯说。<br><br><video src="https://video.twimg.com/ext_tw_video/1592840889482629120/pu/vid/640x352/e9b9iMoQ4reeiF-v.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1592840889482629120/pu/img/PgkblGPGkakbU1lT.jpg"></video>
 
 ### 155: [2022-11-18 21:51:34+08:00 推文](https://twitter.com/mingshi_chen/status/1593602820200189953)
 
@@ -789,7 +789,7 @@ Re @zhixiangziyou 忘记说明了。<br>这种圆木房子，从屋顶到墙，�
 
 ### 194: [2022-11-20 06:17:20+08:00 推文](https://twitter.com/HeQinglian/status/1594092488075214850)
 
-Re @jojowheel 美国现在的选民构成是D-40对R-40，中间约20%摇摆。<br>这摇摆的选民中不少是30岁至45岁的，年轻时左，成家后保守。但25岁以下的，75%是左与极左。<br>这种选民结构与教育体制，再加上拉美、华人等移民偏左，美国的未来，能够在摇摆中平衡，算最好情况。最差就是拜登2上台——这可能性不是没有。
+RT He Qinglian<br>Re @jojowheel 美国现在的选民构成是D-40对R-40，中间约20%摇摆。<br>这摇摆的选民中不少是30岁至45岁的，年轻时左，成家后保守。但25岁以下的，75%是左与极左。<br>这种选民结构与教育体制，再加上拉美、华人等移民偏左，美国的未来，能够在摇摆中平衡，算最好情况。最差就是拜登2上台——这可能性不是没有。
 
 ### 195: [2022-11-20 08:34:30+08:00 推文](https://twitter.com/HeQinglian/status/1594127004760039424)
 
@@ -866,4 +866,24 @@ Re @Heisenberg17777 @KELMAND1 你现在清醒吗？为什么这么多人留言�
 ### 213: [2022-11-20 11:08:49+08:00 推文](https://twitter.com/HeQinglian/status/1594165842870243332)
 
 真想了解共和党建制派在奥巴马时期与民主党合作的由来及该党内部为何排斥川普，得读一下这篇文章。但如果对茶党完全不知，这一篇是不够的。<br>茶党在议院幸存的人很少，克鲁兹，还今年当选阿拉斯加州国会众议员的佩林女士。<br>美国茶党的式微 <a href="https://cn.nytimes.com/world/20121227/c27teaparty/" target="_blank" rel="noopener noreferrer">https://cn.nytimes.com/world/20121227/c27teaparty/</a>
+
+### 214: [2022-11-20 22:50:29+08:00 推文](https://twitter.com/HeQinglian/status/1594342419977408512)
+
+Re @dinglili7 没有控制社会成员行动的需要。
+
+### 215: [2022-11-20 22:54:53+08:00 推文](https://twitter.com/HeQinglian/status/1594343528032780288)
+
+Re @OfcIQOD2XkWhsKt 比如一些州如加州规定，中小学青少年变性，不通知家长，家长如果干预，将触犯某律条。<br>前天李江琳转了一个视频，家长控诉她的女儿不想变性，被几位老师推来搡去，各种强制。<br>你去搜寻一下资料吧。当然不是纽约时报与VOA。
+
+### 216: [2022-11-20 22:56:59+08:00 推文](https://twitter.com/HeQinglian/status/1594344058159349764)
+
+Re @fitman666 @MouseFromChina 你是否相信，去翻我这十多天的推文，每件都有依据链接，包括商界对共和党的捐款——人家就是反对重税。
+
+### 217: [2022-11-20 23:04:50+08:00 推文](https://twitter.com/HeQinglian/status/1594346033290805250)
+
+Re “强制青少年变性”一条，好些人怀疑。其实网上信息甚多，只是这些人可能不明白，剥夺家长对未成年人的监管权利，诱导心智不成熟的孩子变性，实际就是强制。比如拜登说八岁孩子可以自主变性。<br>问的这些人，自己八岁时有做人生决定的能力吗？别将这权利与选择食物的权利混淆。 <a href="https://rightpoint.site/topic-california-210318/" target="_blank" rel="noopener noreferrer">https://rightpoint.site/topic-california-210318/</a>
+
+### 218: [2022-11-20 23:05:46+08:00 推文](https://twitter.com/HeQinglian/status/1594346267299176451)
+
+Re @wenjiebc 加拿大人自作自受，这个小土豆每次都被他们选上。
 
