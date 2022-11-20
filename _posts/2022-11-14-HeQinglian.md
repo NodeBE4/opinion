@@ -755,35 +755,115 @@ Re @91SbECqyxeKEPvR 共和党有没有救，还真要看怎么救了。<br>共�
 
 Re @cskun1989 企业有利润、成本等。
 
-### 186: [2022-11-20 05:07:40+08:00 推文](https://twitter.com/HeQinglian/status/1594074955569840135)
+### 186: [2022-11-20 03:43:06+08:00 推文](https://twitter.com/LionQue39480372/status/1594053672530345984)
+
+RT 如鹰展翅•琦琦QiQi<br>因为没有 FIX 2020，所以这次中选上演了民主黨舞弊共和党RINO们旁观。<br><br>难道2024年大选时还要让警察、投票机、邮寄选票，全部都在DS手上，再把2020和这次中选民主黨的舞弊重演一遍？<br><br>全国红州都应该 follow 佛州👇<br><img style="" src="https://pbs.twimg.com/media/Fh83XXPUYAExY5_?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 187: [2022-11-20 05:07:40+08:00 推文](https://twitter.com/HeQinglian/status/1594074955569840135)
 
 Re @KELMAND1 他完全可以自由行动，但别国并非他的属国，也不算正式结盟的盟国，没有听从号令的任务。<br>求人不如求己，痛斥不一定得来更多的帮助。<br>拜登美国遇到这么一位，也挺有意思。
 
-### 187: [2022-11-20 05:13:45+08:00 推文](https://twitter.com/HeQinglian/status/1594076486662774788)
+### 188: [2022-11-20 05:13:45+08:00 推文](https://twitter.com/HeQinglian/status/1594076486662774788)
 
 Re @zhixiangziyou 华府一位朋友家就是这样的房子。唯一的缺点是冬天的保暖问题。因此，他每年从11月开始，集中在几个地方活动，其余的房间只能来年再打开。<br>我第一次去时，很喜欢他家房子，森林、小河应有尽有。但考虑到居家成本时，就回到现实了。
 
-### 188: [2022-11-20 05:40:36+08:00 推文](https://twitter.com/HeQinglian/status/1594083244588220417)
+### 189: [2022-11-20 05:40:36+08:00 推文](https://twitter.com/HeQinglian/status/1594083244588220417)
 
 Re @realTaoRay 索罗斯在他的主页上有篇文章，谈他为什么要资助联邦与州的检察官选举（任）。
 
-### 189: [2022-11-20 05:48:56+08:00 推文](https://twitter.com/HeQinglian/status/1594085339924422656)
+### 190: [2022-11-20 05:48:56+08:00 推文](https://twitter.com/HeQinglian/status/1594085339924422656)
 
 Re @smartscmp 先占位，再补选。
 
-### 190: [2022-11-20 06:06:25+08:00 推文](https://twitter.com/HeQinglian/status/1594089738746884097)
+### 191: [2022-11-20 06:06:25+08:00 推文](https://twitter.com/HeQinglian/status/1594089738746884097)
 
 Re @zhixiangziyou @FranzMendelsso1 这种圆木建的房子，完全不保暖，窗户并无用处。如果要用保暖层，买这房子看中的品味就完全白费了。<br>总之，主人比客人更明白住那房子的情况。这位朋友家要聚会，只能在每年5-10月。
 
-### 191: [2022-11-20 06:07:26+08:00 推文](https://twitter.com/HeQinglian/status/1594089997287710721)
+### 192: [2022-11-20 06:07:26+08:00 推文](https://twitter.com/HeQinglian/status/1594089997287710721)
 
 Re @Fumitoku_T @zhixiangziyou 不是落地窗，而是圆木房子，没有保暖层。屋顶与墙都没有。
 
-### 192: [2022-11-20 06:11:51+08:00 推文](https://twitter.com/HeQinglian/status/1594091106735489025)
+### 193: [2022-11-20 06:11:51+08:00 推文](https://twitter.com/HeQinglian/status/1594091106735489025)
 
 Re @zhixiangziyou 忘记说明了。<br>这种圆木房子，从屋顶到墙，都是原木，没有保暖层（我们的房子都有），购买这种房子，喜欢的就是其质朴原木，如果加了保暖层，不仅造价最贵，还失其趣味。<br>因此，我这朋友40多岁时买了这房子（4500平方英尺），20多年来为品味牺牲了冬天的舒适。<br>夏秋去作客，确实觉得是Dream House。
 
-### 193: [2022-11-20 06:17:20+08:00 推文](https://twitter.com/HeQinglian/status/1594092488075214850)
+### 194: [2022-11-20 06:17:20+08:00 推文](https://twitter.com/HeQinglian/status/1594092488075214850)
 
-RT He Qinglian<br>Re @jojowheel 美国现在的选民构成是D-40对R-40，中间约20%摇摆。<br>这摇摆的选民中不少是30岁至45岁的，年轻时左，成家后保守。但25岁以下的，75%是左与极左。<br>这种选民结构与教育体制，再加上拉美、华人等移民偏左，美国的未来，能够在摇摆中平衡，算最好情况。最差就是拜登2上台——这可能性不是没有。
+Re @jojowheel 美国现在的选民构成是D-40对R-40，中间约20%摇摆。<br>这摇摆的选民中不少是30岁至45岁的，年轻时左，成家后保守。但25岁以下的，75%是左与极左。<br>这种选民结构与教育体制，再加上拉美、华人等移民偏左，美国的未来，能够在摇摆中平衡，算最好情况。最差就是拜登2上台——这可能性不是没有。
+
+### 195: [2022-11-20 08:34:30+08:00 推文](https://twitter.com/HeQinglian/status/1594127004760039424)
+
+Re @91SbECqyxeKEPvR 既然是这样，只能听天由命了。
+
+### 196: [2022-11-20 08:36:33+08:00 推文](https://twitter.com/HeQinglian/status/1594127521154355201)
+
+Re @91SbECqyxeKEPvR 这事你只要换个角度：川普在共和党内上层，从2016年开始就从来很艰难，没有盟友与坚定的支持者，经历了无数出卖与背叛，也有人希望他另外组党。<br>问：他为什么不另外组党？
+
+### 197: [2022-11-20 08:39:39+08:00 推文](https://twitter.com/HeQinglian/status/1594128301819584512)
+
+Re @91SbECqyxeKEPvR 参考乌克兰。<br>世界不可能拿出援助乌克兰的劲头来帮助中国。<br>乌克兰都没能依靠北约几十国打赢一场战争，中国能够依靠外部力量改变国运？<br>还是自己努力吧。
+
+### 198: [2022-11-20 08:47:20+08:00 推文](https://twitter.com/HeQinglian/status/1594130235984855041)
+
+Re @HettyJ008 @zhixiangziyou 我相信他这20多年都试过。比我们这没住过的人更有经验。<br>他自己家就有一片森林，很多粗树枝可烧。
+
+### 199: [2022-11-20 08:48:41+08:00 推文](https://twitter.com/HeQinglian/status/1594130577237712896)
+
+Re @170202Dxx @zhixiangziyou 还真是这样。<br>我现在的房子，介于为人服务与为它服务之间。
+
+### 200: [2022-11-20 08:51:37+08:00 推文](https://twitter.com/HeQinglian/status/1594131315951128576)
+
+Re @LarrypageC 这确是事实。
+
+### 201: [2022-11-20 08:53:25+08:00 推文](https://twitter.com/elonmusk/status/1594131768298315777)
+
+RT Elon Musk<br>The people have spoken. <br><br>Trump will be reinstated.<br><br>Vox Populi, Vox Dei.<br><br>Elon Musk: Reinstate former President Trump<br>
+
+### 202: [2022-11-20 08:54:56+08:00 推文](https://twitter.com/HeQinglian/status/1594132149095260161)
+
+Re @LKsoon666 其实，我看到的Poll，基本上都是参议院未定，但两党的胜负在一两票之间，众议院会夺回，赢面在7-15席之间。<br>红色浪潮之说有，但我也知道今年仍然会在摇摆州出问题 。选前这些州的表态就知。<br>纽约州的成绩比预想的好，居然守住原有的，还夺得三席。<br>任何事情，不及预期就视为失败，是如今社媒的特点。
+
+### 203: [2022-11-20 08:56:38+08:00 推文](https://twitter.com/HeQinglian/status/1594132578457464832)
+
+Re @HettyJ008 @zhixiangziyou 租住一段时间就行了，算体验一下。
+
+### 204: [2022-11-20 08:59:36+08:00 推文](https://twitter.com/HeQinglian/status/1594133321512091649)
+
+Re @dinglili7 那我们就等着吧，看看哪些人与此有关。
+
+### 205: [2022-11-20 09:01:51+08:00 推文](https://twitter.com/HeQinglian/status/1594133888644927488)
+
+Re @zhixiangziyou @HettyJ008 那你得轻车简从，东西越少越好。
+
+### 206: [2022-11-20 09:03:36+08:00 推文](https://twitter.com/HeQinglian/status/1594134329936220160)
+
+Re @HettyJ008 @zhixiangziyou 我的Deck本来也想不要栏干，但州法规定，必须要。
+
+### 207: [2022-11-20 10:32:05+08:00 推文](https://twitter.com/HeQinglian/status/1594156599248945154)
+
+Re @KELMAND1 美国防长不是这么说的。防长与参谋长联席会议主席，谁代表美国？<br>不过，经过小泽同志这番操作，加上拜登准备应付明年1月26日新国会众议院纷至沓来的弹劾、问责、否决议案，又还得重新找奥八夫妇谋求支持。圣诞前后美国有个把月不太做事，乌克兰援助可能成画饼了。
+
+### 208: [2022-11-20 10:38:38+08:00 推文](https://twitter.com/HeQinglian/status/1594158243923697664)
+
+Re @wenjiebc 纽约市的犹太人要这样就好了。
+
+### 209: [2022-11-20 10:44:09+08:00 推文](https://twitter.com/HeQinglian/status/1594159634184634368)
+
+Re @Tianshuihanyan 纳姐，这事，你不要着急。<br>2016年共和党初选时，共有25位，第2轮只剩下八位。民主党支招，让克鲁兹与俄州州长如何配票竞争，最后能够胜出的还是胜出了。<br>大家平等竞争，胜者是公平竞争，败者也只能愿赌服输。<br>美国应该回到2016年以前，出生于美国的美国公民都可以竞选总统。
+
+### 210: [2022-11-20 10:45:06+08:00 推文](https://twitter.com/HeQinglian/status/1594159875109658631)
+
+Re @KELMAND1 说对了，防长其实是文官。
+
+### 211: [2022-11-20 10:53:48+08:00 推文](https://twitter.com/HeQinglian/status/1594162061528948741)
+
+Re @lianghuiwang2 这事，你得了解巴西的历史。巴西人民聚集在陆军部前，自有其深意。<br><br>He Qinglian: 转：拉美陷入怪圈循环，全民普选-左派胜出-国有公营-安置亲信-员工冗重-成本巨高-技效低劣-产品滞销-财政赤字-增税印钞-搜刮通胀-平民上吊-右翼兵谏-扩大外贸-出口代工-信贷危机-金融风暴-通货紧缩-市场萧条-失业震荡-白左嘴炮-再度普选-还是左屌-循环往复<br>右派当政，独裁者傻逼；左派当政，选民傻逼<br> <a href="https://twitter.com/HeQinglian/status/1089898961069056001" target="_blank" rel="noopener noreferrer">https://twitter.com/HeQinglian/status/1089898961069056001</a>
+
+### 212: [2022-11-20 11:02:28+08:00 推文](https://twitter.com/HeQinglian/status/1594164242483134464)
+
+Re @Heisenberg17777 @KELMAND1 你现在清醒吗？为什么这么多人留言，只有你糊涂？
+
+### 213: [2022-11-20 11:08:49+08:00 推文](https://twitter.com/HeQinglian/status/1594165842870243332)
+
+真想了解共和党建制派在奥巴马时期与民主党合作的由来及该党内部为何排斥川普，得读一下这篇文章。但如果对茶党完全不知，这一篇是不够的。<br>茶党在议院幸存的人很少，克鲁兹，还今年当选阿拉斯加州国会众议员的佩林女士。<br>美国茶党的式微 <a href="https://cn.nytimes.com/world/20121227/c27teaparty/" target="_blank" rel="noopener noreferrer">https://cn.nytimes.com/world/20121227/c27teaparty/</a>
 

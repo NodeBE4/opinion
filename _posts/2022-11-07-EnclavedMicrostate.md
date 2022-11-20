@@ -221,3 +221,7 @@ It's distressing that Miko comes off as less pon in the comparison...
 
 Every time I think there's nothing more to say about *My Immortal*, someone comes out with a video with *more* information. [Strange Æeons' latest video](https://www.youtube.com/watch?v=0JodBp-r9jM) notes, among other things, the existence of a *third* fanfic by the authors of *My Immortal*, depicting a gothified Hermione as the main character.
 
+----- __924.6__ -----2022-11-20 10:34:17+08:00:
+
+Oh dang, and I had even watched that one recently too – I'd completely missed that part!
+

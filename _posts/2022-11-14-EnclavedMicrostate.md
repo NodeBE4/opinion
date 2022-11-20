@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-11-18
+date: 2022-11-20
 from: https://old.reddit.com/r/AskHistorians/comments/yuqcri/what_hygiene_practices_were_used_across_the_globe/
 layout: post
 tags:
@@ -116,4 +116,10 @@ It is worth also noting, as I do in [this comment](https://www.reddit.com/r/AskH
 There are also a couple of takeaways from Kenneth Swope's book on the Imjin War that I think would be worth considering. Firstly, there were clear logistical limits on Ming military commitment in Northeast Asia – as true for Manchuria in the 1610s-30s as it was for Korea in the 1590s. There was only so much that could be funnelled through the Shanhai Pass to supplement local resources, and that meant that in the period up to about 1636 when the proto-Qing state was simply securing Manchuria, they were fighting a very limited segment of the Ming army. Secondly, the Ming military had a certain degree of regional specialisation: the northern armies were mainly set up to deal with nomadic cavalry, while the southern coastal armies were set up to deal with 'Japanese' pirates (who often weren't Japanese, but were still pirates), typically armed with firearms as well as cold arms. What was discovered during the Imjin War was that the Ming armies in the north were really bad at dealing with gunpowder-heavy, infantry-based armies like those of the Japanese, and so the rotation of southern troops was an especial priority. While there had been organisational change since the 1590s, it lends credence to the idea that the Ming valued specialisation over flexibility in tactical doctrine at the regional level, and the adaptations that had taken place since that period may not have left the Ming armies well equipped to deal with the more hybrid tactics the Manchus adopted.
 
 Finally of course, the actual collapse of the Ming came from within following revolts in 1644 with which the Manchus had virtually zero involvement. The Qing conquest of China was not a clash between a Ming Goliath and a Qing David, but rather a mopping-up campaign by the Qing, who had the largest and best organised army, against a series of fractured polities – one that did ultimately get bogged down for over a decade in southwest China against Ming remnants that got their act together. What the Qing ended up doing was not, by any means, an immediate steamroll of Asia's premier power.
+
+### 934: [[Virtual Youtubers] Identities in discord: The termination of Uruha Rushia](https://old.reddit.com/r/HobbyDrama/comments/yzkffy/virtual_youtubers_identities_in_discord_the/), submitted on 2022-11-20 03:50:43+08:00.
+
+----- __934.1__ -----2022-11-20 10:41:39+08:00:
+
+They fixed it pretty fast in the event – I saw it not long after and there was no sign of the damage.
 
