@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-11-19
+date: 2022-11-20
 from: https://twitter.com/SpeechFreedomCN/status/1591871792716845058
 layout: post
 tags:
@@ -34,4 +34,8 @@ Xinjiang, where covid lockdown has been in place for months in some cities, peop
 ### 5: [2022-11-19 18:54:15+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1593920585163165696)
 
 Man surnamed Zhao from Hubei detained for 7 days for referring to traffic cops as "doge" on Internet and saying they were "up to no good". The incident happened in Apr 2017, and local police claimed this was the first case of such kind in that county.<br><img style="" src="https://pbs.twimg.com/media/Fh699u7XkAAtzDy?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fh69_IEWQAE6dlu?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-11-20 19:39:51+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1594294445511360512)
+
+Chinese dissident Li Nanfei arrested in Thailand for protesting Xi's dictatorship in Bangkok. He is now under police custody and faces deportation to China, where he will likely be persecuted. Li is a UNHCR recognized refugee and I've written an email to @UNHCRThailand for help.<br><img style="" src="https://pbs.twimg.com/media/FiARWwmXEAIlwS0?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FiARdpcXkAcM_Gq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FiARvePWYAAxDHW?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
