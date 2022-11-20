@@ -629,7 +629,7 @@ RT 沈良庆二世<br>中期选举后分裂的政府对美国意味着什么�
 
 ### 154: [2022-11-18 17:15:16+08:00 推文](https://twitter.com/KELMAND1/status/1593533286495969281)
 
-RT Ezio Mao☢<br>美国共和党国会议员要求国务院负责人安东尼布林肯就民主党、乌克兰和破产的加密货币交易所 FTX 之间的金融关系做出交代。<br><br>根据国会议员 Troy Nels、Louis Gomert、Mary Miller 和 Byron Donalds 的说法，作为军事援助转移到基辅的数十亿纳税人资金“可能会投资于 FTX 加密货币交易所。”<br><br>Ezio Mao☢: 关于乌克兰冲突的“FTX洗钱”骗局<br><br>“民主党撒钱给乌克兰，乌克兰把钱给 FTX，FTX 捐钱给民主党的竞选活动。我不知道这是战争牟利还是洗钱，我什至不知道，但需要调查。” “沃特斯说。<br><br><video src="https://video.twimg.com/ext_tw_video/1592840889482629120/pu/vid/640x352/e9b9iMoQ4reeiF-v.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1592840889482629120/pu/img/PgkblGPGkakbU1lT.jpg"></video> <a href="https://twitter.com/KELMAND1/status/1592399121633402881" target="_blank" rel="noopener noreferrer">https://twitter.com/KELMAND1/status/1592399121633402881</a>
+RT Ezio Mao☢<br>美国共和党国会议员要求国务院负责人安东尼布林肯就民主党、乌克兰和破产的加密货币交易所 FTX 之间的金融关系做出交代。<br><br>根据国会议员 Troy Nels、Louis Gomert、Mary Miller 和 Byron Donalds 的说法，作为军事援助转移到基辅的数十亿纳税人资金“可能会投资于 FTX 加密货币交易所。”<br><br>Ezio Mao☢: 关于乌克兰冲突的“FTX洗钱”骗局<br><br>“民主党撒钱给乌克兰，乌克兰把钱给 FTX，FTX 捐钱给民主党的竞选活动。我不知道这是战争牟利还是洗钱，我什至不知道，但需要调查。” “沃特斯说。<br><br><video src="https://video.twimg.com/ext_tw_video/1592840889482629120/pu/vid/640x352/e9b9iMoQ4reeiF-v.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1592840889482629120/pu/img/PgkblGPGkakbU1lT.jpg"></video>
 
 ### 155: [2022-11-18 21:51:34+08:00 推文](https://twitter.com/mingshi_chen/status/1593602820200189953)
 
