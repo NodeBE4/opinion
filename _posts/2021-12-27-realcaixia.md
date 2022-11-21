@@ -33,7 +33,7 @@ title: 'Twitter @蔡霞: 2021-12-27~2022-01-02'
 
 ### 5: [2021-12-30 00:39:20+08:00 推文](https://twitter.com/realcaixia/status/1476231371718803461)
 
-造假与谎言蒙人，是极权意识形态的一贯手法，。这样的胡编乱造，是下面人某种半躺平半糊弄的干法。<br><br>浩哥i✝️i🇺🇸iA2: 故事编得太潦草😩<br><br><img style src="https://pbs.twimg.com/media/FHtTHKyXsAAte2Q?format=jpg&name=orig" referrerpolicy="no-referrer">
+造假与谎言蒙人，是极权意识形态的一贯手法，。这样的胡编乱造，是下面人某种半躺平半糊弄的干法。<br><br>浩哥i✝️i🇺🇸iA2: 故事编得太潦草😩<br><br><img style="" src="https://pbs.twimg.com/media/FHtTHKyXsAAte2Q?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2021-12-30 03:29:31+08:00 推文](https://twitter.com/realcaixia/status/1476274199429881857)
 
@@ -53,7 +53,7 @@ title: 'Twitter @蔡霞: 2021-12-27~2022-01-02'
 
 ### 10: [2022-01-01 00:16:36+08:00 推文](https://twitter.com/realcaixia/status/1476950427543375872)
 
-八年前，中国海关无理扣留《李锐口述往事》这书，自那起，南央为维护言论与出版自由与中共国海关总署已打了八年官司，并将进入第九年。跟进此事，亦是跟进一种信念，跟进一种精神。<br>南央整理了诸多朋友与她分享的跟进感言发来，读完深为感动并感触良多，特与众推友分享。<br>第四图是我的跟进感言完整篇。<br><img style="" src="https://pbs.twimg.com/media/FH8ukRbWYAEwH_I?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH8ukqBXMAA3bv6?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH8ulAlXsAIBJ3d?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH8ulW4XsAkui3t?format=jpg&name=orig" referrerpolicy="no-referrer">
+八年前，中国海关无理扣留《李锐口述往事》这书，自那起，南央为维护言论与出版自由与中共国海关总署已打了八年官司，并将进入第九年。跟进此事，亦是跟进一种信念，跟进一种精神。<br>南央整理了诸多朋友与她分享的跟进感言发来，读完深为感动并感触良多，特与众推友分享。<br>第四图是我的跟进感言完整篇。<br><img style src="https://pbs.twimg.com/media/FH8ukRbWYAEwH_I?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH8ukqBXMAA3bv6?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH8ulAlXsAIBJ3d?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH8ulW4XsAkui3t?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 11: [2022-01-01 00:46:29+08:00 推文](https://twitter.com/realcaixia/status/1476957947641188361)
 
@@ -101,11 +101,11 @@ Re @ni87107 这本书是香港出版的，估计香港已经买不到了。
 
 ### 22: [2022-01-01 08:20:27+08:00 推文](https://twitter.com/realcaixia/status/1477072189954351107)
 
-武汉病毒疫情至今仍在祸害全球，回顾两年前武汉疫情初期情况，越发明确显示出习当局有意隐瞒真相。这篇文章报道了几个关键点：<br>1，12月29号武汉传染病医院收了9个症状相同病人；<br>2，12月30号病人开始增加，到第二天晚上已经有24个病人；3，12月31号国家级专家到武汉医院；<br>4，1月2号前后事态更为严重。<br><img style src="https://pbs.twimg.com/media/FH-dT3RXoAAEfk3?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH-dUKyXwAEpzk9?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH-dUhpXEAoWHKq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH-dUzVWQAEHjcu?format=jpg&name=orig" referrerpolicy="no-referrer">
+武汉病毒疫情至今仍在祸害全球，回顾两年前武汉疫情初期情况，越发明确显示出习当局有意隐瞒真相。这篇文章报道了几个关键点：<br>1，12月29号武汉传染病医院收了9个症状相同病人；<br>2，12月30号病人开始增加，到第二天晚上已经有24个病人；3，12月31号国家级专家到武汉医院；<br>4，1月2号前后事态更为严重。<br><img style="" src="https://pbs.twimg.com/media/FH-dT3RXoAAEfk3?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH-dUKyXwAEpzk9?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH-dUhpXEAoWHKq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH-dUzVWQAEHjcu?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 23: [2022-01-01 21:58:50+08:00 推文](https://twitter.com/realcaixia/status/1477278143853600769)
 
-盘点经济，王小二过年一年不如一年。<br><br>荣剑: 记得在2019年底，有人说，2019年是过去十年最差的一年，却可能是未来十年最好的一年。<br><br><img style src="https://pbs.twimg.com/media/FIA1BW2aUAEGLQ5?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIA1B-ZaAAMlGv_?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIA1CfzacAQXT2d?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIA1DAzacAAQrxy?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/rongjian1957/status/1477238018582872065" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1477238018582872065</a>
+盘点经济，王小二过年一年不如一年。<br><br>荣剑: 记得在2019年底，有人说，2019年是过去十年最差的一年，却可能是未来十年最好的一年。<br><br><img style="" src="https://pbs.twimg.com/media/FIA1BW2aUAEGLQ5?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIA1B-ZaAAMlGv_?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIA1CfzacAQXT2d?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIA1DAzacAAQrxy?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/rongjian1957/status/1477238018582872065" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1477238018582872065</a>
 
 ### 24: [2022-01-01 23:15:36+08:00 推文](https://twitter.com/realcaixia/status/1477297463128174593)
 
@@ -133,7 +133,7 @@ Re @dayangelcp @John17Churchill 倒翻篇。
 
 ### 30: [2022-01-02 00:28:18+08:00 推文](https://twitter.com/realcaixia/status/1477315755788091399)
 
-忘不了武汉，如今又增添一个城市：忘不了西安…<br><br>张海。: 这类图片很刺激我的内心，我总忘不了武汉封城期间电话那头传来的哭泣声，她先生发烧到昏迷，症状就是染上了新冠病毒🦠求遍了所有能求的人，没有床位，也没人管，更出不去。人上午走在了家里，下午很晚才拖走，社区开的死亡证明：猝死……当时的武汉这类悲剧太多太多，她的哭泣声永远留在我的脑海里……<br><br><img style src="https://pbs.twimg.com/media/FH6GrzHVkAAhTNW?format=jpg&name=orig" referrerpolicy="no-referrer">
+忘不了武汉，如今又增添一个城市：忘不了西安…<br><br>张海。: 这类图片很刺激我的内心，我总忘不了武汉封城期间电话那头传来的哭泣声，她先生发烧到昏迷，症状就是染上了新冠病毒🦠求遍了所有能求的人，没有床位，也没人管，更出不去。人上午走在了家里，下午很晚才拖走，社区开的死亡证明：猝死……当时的武汉这类悲剧太多太多，她的哭泣声永远留在我的脑海里……<br><br><img style="" src="https://pbs.twimg.com/media/FH6GrzHVkAAhTNW?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 31: [2022-01-02 00:31:37+08:00 推文](https://twitter.com/realcaixia/status/1477316590597255169)
 
