@@ -133,3 +133,28 @@ The 2020 'Taiwan Incident', discussed here: https://www.reddit.com/r/HobbyDrama/
 
 *phrasing...*
 
+----- __934.4__ -----2022-11-21 08:35:51+08:00:
+
+What do you even mean by this? That no real people are watching and companies are creating bots to watch?
+
+----- __934.5__ -----2022-11-21 08:49:40+08:00:
+
+I feel like there's a lot of baked-in assumptions and stereotyping and this is undoubtedly the biggest one. [This](https://www.youtube.com/watch?v=byYQs4oG_gk) is not a squeaky anime child voice, nor are [these](https://www.youtube.com/watch?v=TQ66b9DhkGE); [this](https://www.youtube.com/watch?v=Tc7pITQqdWY) isn't, nor [this](https://www.youtube.com/watch?v=B_fRRQqYLJU), nor [this](https://www.youtube.com/watch?v=qTcAsP23BfA). And that's just examples from Hololive. Take Nijisanji's [Selen](https://www.youtube.com/watch?v=gIM96RaLJeg) or indie VTuber [Iida Pochi](https://youtu.be/LfWqHl55Ilk?t=3556). I'm not going to insist that you have to like VTubers now, but the notion that it's all apparently squeaky voices is a massive generalisation.
+
+----- __934.6__ -----2022-11-21 08:50:46+08:00:
+
+It's fascinating that someone can list 12 examples and those are the exception, while 3 examples are the norm.
+
+----- __934.7__ -----2022-11-21 08:53:57+08:00:
+
+So Cover should lie publicly?
+
+Look, in a situation like this in which one of your streamers is literally going to stop streaming for 2 weeks with absolutely no warning, you have four options:
+
+* Tell all – very likely to backfire because it reflects badly on all parties.
+* Divulge as much as is required – opens some speculation but fundamentally gets across the basic message.
+* Lie to the public – papers it over but if anyone outside finds out or anyone internal leaks, then it demonstrates *you have lied to the public*.
+* Say absolutely nothing – encourages rampant speculation over the sudden and random break someone took without announcement.
+
+I don't know, maybe a company can't afford to casually lie to its customers and potential investors?
+
