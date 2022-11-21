@@ -45,7 +45,7 @@ Re @Zealots2022 她好像没有在电视台工作过。
 
 ### 8: [2022-10-10 19:17:26+08:00 推文](https://twitter.com/realcaixia/status/1579430901855186946)
 
-我知道人大校友会，是因为他们在为雷洋事件发声，维护社会正义方面的巨大影响力。2016年人大校友会曾经带动了全国几十所中国名校大学的学生起来为雷洋伸张正义。<br><br>鲁  难: 1979年的今天，中国人民大学77、78、79级上千名学生走上天安门广场游行示威，包围新华门并静坐抗议，以索要二炮占领的校舍为名，开启了反特权的社会活动。<br>这是中国1949年后首次由大学生自发组织的反抗运动，由于限定目标，有理有节，而且事发突然，并未受到当局镇压，人大校友由此走上社会活动舞台。<br>
+我知道人大校友会，是因为他们在为雷洋事件发声，维护社会正义方面的巨大影响力。2016年人大校友会曾经带动了全国几十所中国名校大学的学生起来为雷洋伸张正义。<br><br>鲁  难: 1979年的今天，中国人民大学77、78、79级上千名学生走上天安门广场游行示威，包围新华门并静坐抗议，以索要二炮占领的校舍为名，开启了反特权的社会活动。<br>这是中国1949年后首次由大学生自发组织的反抗运动，由于限定目标，有理有节，而且事发突然，并未受到当局镇压，人大校友由此走上社会活动舞台。<br> <a href="https://twitter.com/im1266/status/1579368415768477696" target="_blank" rel="noopener noreferrer">https://twitter.com/im1266/status/1579368415768477696</a>
 
 ### 9: [2022-10-10 19:28:17+08:00 推文](https://twitter.com/realcaixia/status/1579433632728756225)
 
@@ -101,7 +101,7 @@ Re @xinlijian110 这说的是老习与小习。
 
 ### 22: [2022-10-14 01:27:25+08:00 推文](https://twitter.com/realcaixia/status/1580611176462831616)
 
-让我们大家都来关注、都来声援都来响应彭载舟！<br><br>全球倒习救国翡翠运动: 他叫#彭载舟，本名#彭立发，号召大家从10月16日起全民#罢工#罢课#汽车鸣笛。他已经做出表率，在北京四通桥挂出横幅，震惊世界。他已经被拘捕，求仁得仁。一个彭立发，震惊世界。一万个彭立发，再造中国！<br><br><img style="" src="https://pbs.twimg.com/media/Fe9NXhfXgAIENym?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fe9NXheXkAIQmwj?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fe9NXhdWQAsRkdz?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fe9NXheXoAIcBbX?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/changchengwai/status/1580534048614932481" target="_blank" rel="noopener noreferrer">https://twitter.com/changchengwai/status/1580534048614932481</a>
+让我们大家都来关注、都来声援都来响应彭载舟！<br><br>全球倒习救国翡翠运动: 他叫#彭载舟，本名#彭立发，号召大家从10月16日起全民#罢工#罢课#汽车鸣笛。他已经做出表率，在北京四通桥挂出横幅，震惊世界。他已经被拘捕，求仁得仁。一个彭立发，震惊世界。一万个彭立发，再造中国！<br><br><img style="" src="https://pbs.twimg.com/media/Fe9NXhfXgAIENym?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fe9NXheXkAIQmwj?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fe9NXhdWQAsRkdz?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fe9NXheXoAIcBbX?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 23: [2022-10-14 03:23:03+08:00 推文](https://twitter.com/realcaixia/status/1580640277106413568)
 
