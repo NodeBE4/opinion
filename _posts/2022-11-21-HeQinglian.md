@@ -103,3 +103,7 @@ Re @realTaoRay 乐见。<br>华左们向来有便宜就沾，应该赶紧去领�
 
 RT 萧生客SSK🇺🇸🇨🇦<br>推特这两天的火爆，马斯克如何恢复川普的账号？你想不出还有哪个亿万富翁会这样与工作死磕！<br><br>埃隆在40天内为言论自由所做的工作已经超过了过去40年大多数共和党人在华盛顿所做的工作。<br><br>左疯对马斯克的这次民调的结果抓狂<br>马斯克在推特上说，有1.34亿人看到了这项投票！⋯ <a href="https://mp.weixin.qq.com/s/ORWzPrnDmK6CVLHF3fPBDw" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/ORWzPrnDmK6CVLHF3fPBDw</a><br><img style="" src="https://pbs.twimg.com/media/FiGgaDbXECo5Hvf?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FiGgaDaXwAkTLx6?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FiGgaDbX0Ac5aGX?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FiGgaDbX0AAjO5D?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 23: [2022-11-22 02:14:54+08:00 推文](https://twitter.com/HeQinglian/status/1594756253259022344)
+
+Re @PuzhaoS @KELMAND1 如果美国抽身了，你认为英国还会不听老大哥指挥，独立支持？
+
