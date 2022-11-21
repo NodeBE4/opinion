@@ -25,7 +25,7 @@ Hunan man Qing detained for 10 days for "insulting martyrs" in QQ.<br><img style
 
 ### 3: [2021-11-25 18:56:20+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1463823862999756801)
 
-陕西汉中女子肖某，因在微信群里称交警为“抢劫犯”和“土匪”，并说“有本事去打美国，只会在这里横“，被处拘留7日。<br><img style src="https://pbs.twimg.com/media/FFCMBcpWQAUXO7s?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FFCMBcvXsAcfg3Y?format=jpg&name=orig" referrerpolicy="no-referrer">
+陕西汉中女子肖某，因在微信群里称交警为“抢劫犯”和“土匪”，并说“有本事去打美国，只会在这里横“，被处拘留7日。<br><img style="" src="https://pbs.twimg.com/media/FFCMBcpWQAUXO7s?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FFCMBcvXsAcfg3Y?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-11-25 18:57:14+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1463824091853504514)
 
@@ -45,5 +45,5 @@ Shaanxi woman Xiao detained for 7 days for referring to police as robbers and ba
 
 ### 8: [2021-11-27 11:44:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1464439838808104969)
 
-Human rights lawyer @liangxiaojun based in Beijing revoked of Lawyer's License yesterday, for supporting Falun Gong and "vilifying and slandering China's political system and principals" on Twitter and Weibo.<br><img style src="https://pbs.twimg.com/media/FFJOfwnXoAww72M?format=jpg&name=orig" referrerpolicy="no-referrer">
+Human rights lawyer @liangxiaojun based in Beijing revoked of Lawyer's License yesterday, for supporting Falun Gong and "vilifying and slandering China's political system and principals" on Twitter and Weibo.<br><img style="" src="https://pbs.twimg.com/media/FFJOfwnXoAww72M?format=jpg&name=orig" referrerpolicy="no-referrer">
 
