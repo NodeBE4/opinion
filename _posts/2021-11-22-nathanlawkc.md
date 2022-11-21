@@ -23,7 +23,7 @@ Re 7. Yesterday, there was a crowd of pro-Beijing thugs ferociously attacked Hon
 
 ### 2: [2021-11-28 17:37:48+08:00 推文](https://twitter.com/nathanlawkc/status/1464891264701284352)
 
-Re 8. We should not tolerate these malign forces in our society. I hereby urge the UK govt to investigate all the organizers for traces of infiltration orchastrated by CCP. Meanwhile, all the pro-Beijing attackers should be apprehended and brought to justice.<br><img style="" src="https://pbs.twimg.com/media/FFRWdcQWUAU3u7U?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re 8. We should not tolerate these malign forces in our society. I hereby urge the UK govt to investigate all the organizers for traces of infiltration orchastrated by CCP. Meanwhile, all the pro-Beijing attackers should be apprehended and brought to justice.<br><img style src="https://pbs.twimg.com/media/FFRWdcQWUAU3u7U?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2021-11-28 17:37:49+08:00 推文](https://twitter.com/nathanlawkc/status/1464891267482017796)
 
