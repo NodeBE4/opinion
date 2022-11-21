@@ -61,7 +61,7 @@ Re @ihuyang @liqunchen 看样子你年轻，没见过铅字印刷版。
 
 ### 12: [2022-01-04 03:38:08+08:00 推文](https://twitter.com/realcaixia/status/1478088305082343432)
 
-裹挟9500万党奴的黑帮老大公开挑明向被裹挟的人开刀，习曾说要防止“祸起萧墙”，这意味着二十大前中共党内将血光一片。2022，谁是被开刀的第一个？<br><br>韩连潮: 【习近平又磨刀霍霍】中共党媒《求是》2022年第一期登了习近平以史为鉴的讲话，称中共“没有任何自己特殊的利益“，提出向党内被利益集团、权势团体、特权阶层“所裹挟的人开刀”，看到让人笑掉大牙，试问习主席，你不去惩治裹挟人的人，反而拿受害者开刀，这是什么大套路？<br><br><img style="" src="https://pbs.twimg.com/media/FIMS0O5XEAEzKKQ?format=jpg&name=orig" referrerpolicy="no-referrer">
+裹挟9500万党奴的黑帮老大公开挑明向被裹挟的人开刀，习曾说要防止“祸起萧墙”，这意味着二十大前中共党内将血光一片。2022，谁是被开刀的第一个？<br><br>韩连潮: 【习近平又磨刀霍霍】中共党媒《求是》2022年第一期登了习近平以史为鉴的讲话，称中共“没有任何自己特殊的利益“，提出向党内被利益集团、权势团体、特权阶层“所裹挟的人开刀”，看到让人笑掉大牙，试问习主席，你不去惩治裹挟人的人，反而拿受害者开刀，这是什么大套路？<br><br><img style src="https://pbs.twimg.com/media/FIMS0O5XEAEzKKQ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 13: [2022-01-04 06:17:59+08:00 推文](https://twitter.com/realcaixia/status/1478128535327887361)
 
@@ -73,7 +73,7 @@ Re @wellone6 中国政治转型不可能毕其功于一役。
 
 ### 15: [2022-01-04 15:47:10+08:00 推文](https://twitter.com/realcaixia/status/1478271774424973313)
 
-鹤岗是第一个，相信绝不是唯一的一个。2022地方政府破产的消息还将会陆续传出。<br><br>鲁  难: 黑龙江鹤岗，中国第一个破产、或者承认破产的城市？又是财新第一个报道！<br><br><img style="" src="https://pbs.twimg.com/media/FINoPFhWUAMxJ-G?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FINoPFmWUAMzVO9?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FINoPFjWQAAMAIK?format=jpg&name=orig" referrerpolicy="no-referrer">
+鹤岗是第一个，相信绝不是唯一的一个。2022地方政府破产的消息还将会陆续传出。<br><br>鲁  难: 黑龙江鹤岗，中国第一个破产、或者承认破产的城市？又是财新第一个报道！<br><br><img style src="https://pbs.twimg.com/media/FINoPFhWUAMxJ-G?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FINoPFmWUAMzVO9?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FINoPFjWQAAMAIK?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 16: [2022-01-04 16:15:06+08:00 推文](https://twitter.com/realcaixia/status/1478278801452945410)
 
@@ -85,7 +85,7 @@ Re @wellone6 中国政治转型不可能毕其功于一役。
 
 ### 18: [2022-01-04 16:43:58+08:00 推文](https://twitter.com/realcaixia/status/1478286069263216640)
 
-Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style="" src="https://pbs.twimg.com/media/FIPtWFnXMAAgmEL?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style src="https://pbs.twimg.com/media/FIPtWFnXMAAgmEL?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 19: [2022-01-04 21:26:13+08:00 推文](https://twitter.com/realcaixia/status/1478357099000340490)
 
@@ -205,7 +205,7 @@ Re 公共服务和基本的社会正常运转，而且意味着无法偿还债�
 
 ### 48: [2022-01-09 02:17:33+08:00 推文](https://twitter.com/realcaixia/status/1479879967638962183)
 
-宣布鹤岗市政府破产，会不会成为各地政府赖账的第一步？<br><img style="" src="https://pbs.twimg.com/media/FImW-FkWUAEGmFB?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FImW-WKXsAs3v8c?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FImW-ntXEAAhMmf?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FImW_GFXMAMm8Xf?format=jpg&name=orig" referrerpolicy="no-referrer">
+宣布鹤岗市政府破产，会不会成为各地政府赖账的第一步？<br><img style src="https://pbs.twimg.com/media/FImW-FkWUAEGmFB?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FImW-WKXsAs3v8c?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FImW-ntXEAAhMmf?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FImW_GFXMAMm8Xf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 49: [2022-01-09 02:36:51+08:00 推文](https://twitter.com/realcaixia/status/1479884825024778250)
 
