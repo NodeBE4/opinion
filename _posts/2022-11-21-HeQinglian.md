@@ -147,3 +147,15 @@ Re @zhixiangziyou 必须这样，否则就干脆不要选举了。
 
 Re @JianWuAus @farmdirect8 BLM的示范效应。<br>美国现在连大法官家都被包围，共和党议员家被石头光顾，RNC大会后议员被左痞包围并饱以肢体动作。<br>都是2020年5月BLM运动以后的事情。
 
+### 34: [2022-11-22 22:10:23+08:00 推文](https://twitter.com/HeQinglian/status/1595057104250978305)
+
+Re @JianglinLi 不是说得过的人可以免疫么？<br>你将这团聚放到一个月后的圣诞节吧。
+
+### 35: [2022-11-22 22:34:38+08:00 推文](https://twitter.com/HeQinglian/status/1595063210641604608)
+
+Re @JianglinLi @TomMa07952688 这事，只能说一个自我弱化的国家失去了国际社会的尊重。<br>前苏联到1990年之前，莫斯科等地的人心已经有如现在推特上的中文推特圈，基本上认为先垮，再在美国帮助下重建，天新地新人也新。《列宁的坟场》这本百万字的书，生动的记录了那段时期的苏联社会状态。
+
+### 36: [2022-11-22 23:13:41+08:00 推文](https://twitter.com/NAConservative9/status/1595073035702501376)
+
+RT 北美保守评论🇺🇸🇨🇦<br>《中期选举后，共和党吸取了什么教训吗?》<br><br>底线是，如果选举过程不被修复，给美国带来公平和诚实的 “选举”，而不是统治阶级的 “选择”，任何关于候选人、信息，以及川普或德桑蒂斯是更好的总统候选人的进一步讨论都将变得无关紧要。 <a href="https://nacr.info/WordPress/index.php/2022/11/22/has-the-gop-learned-anything-after-the-midterms/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/11/22/has-the-gop-learned-anything-after-the-midterms/</a><br><img style="" src="https://pbs.twimg.com/media/FiLWF1rXoAYSMz9?format=png&amp;name=orig" referrerpolicy="no-referrer">
+

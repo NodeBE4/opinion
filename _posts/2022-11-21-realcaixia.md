@@ -27,3 +27,15 @@ title: 'Twitter @蔡霞: 2022-11-21~2022-11-27'
 
 这个段子确实在大陆流行过，我那时就看到过。当时真没把习以为常当回事，现在看危害最烈者习以为常，不亚于毛。<br><br>高伐林: 2007年习近平进政治局常委之际，网上出现一段俏皮话：<br>中国是个毛邓（矛盾）社会，华（化）解不了，胡搞几年，赵（照）样不行，江（将）就一下，再胡搞几年，就习以为常了！<br>最后这个“常”，当时人们以为指“常委”，没想到15年过去才闹明白，是指“常态”、是“恒常”。<br><br><img style="" src="https://pbs.twimg.com/media/FiCwU5hXgAA7Pgu?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 4: [2022-11-22 21:58:17+08:00 推文](https://twitter.com/realcaixia/status/1595054060365025282)
+
+令人還有一絲欣慰。葉落歸根。<br><br>高瑜: 鮑彤先生順利與父母，妻子安葬在一起。碑文“鮑家”是鮑彤生前手蹟。<br><br><img style="" src="https://pbs.twimg.com/media/FiJgJKOVIAEZ0Wf?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2022-11-22 22:12:45+08:00 推文](https://twitter.com/realcaixia/status/1595057702685720576)
+
+吳偉是我極為尊敬的同校校友，因畢業早於我，一直稱他為師兄。他擔任鮑老秘書兩年多，8964被迫害入監；出獄後繼續追隨鮑老30多年，師兄繼承鮑老風骨，爭取自由民主矢志不渝，雖九死而終不悔。诚者，天之道也。诚之者，人之道也。<br><br>吴伟: 我的老领导鲍彤先生的骨灰安葬仪式于今日上午在昌平凤凰山陵园举行。三十多年来，我与鲍老及家人不是亲人，胜似亲人。他的离去，实在让人痛彻心扉。<br>今天，我和其他几位老同事一起，向鲍老做最后的告别。在前几天在鲍老的告别仪式上，我们敬献的花圈挽词是：“老领导终获自由，期待天国重聚”。<br><br><img style="" src="https://pbs.twimg.com/media/FiKgMpwWIAkacq2?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FiKgOxTXwAIhBdD?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FiKgQ6zWAAEjsV0?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FiKgSFpWYAAxvav?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-11-22 22:24:07+08:00 推文](https://twitter.com/realcaixia/status/1595060560433131520)
+
+為蔡英文總統的演講感動！正氣凜然，堅定堅韌。<br><br>jason hu: 这才是水平。<br><br><video src="https://video.twimg.com/ext_tw_video/1594697331621912576/pu/vid/426x240/kp1ddMe2kfV8a398.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1594697331621912576/pu/img/KM7WSdK76O9vqihQ.jpg"></video>
+
