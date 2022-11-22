@@ -47,3 +47,7 @@ title: 'Twitter @蔡霞: 2022-11-21~2022-11-27'
 
 Re 鮑老就像胡耀邦、趙紫陽、李銳等在中共黨內的許多老一代人一樣，是真誠地為爭取民主自由而奮鬥一生的。作為晚輩，作為後來人，繼續他們的努力就是我的責任。
 
+### 9: [2022-11-23 06:26:47+08:00 推文](https://twitter.com/realcaixia/status/1595182028604854272)
+
+外交政策：不要相信美中缓和的炒作 - 加美财经 <a href="https://www.caus.com/detail/68503" target="_blank" rel="noopener noreferrer">https://www.caus.com/detail/68503</a>
+
