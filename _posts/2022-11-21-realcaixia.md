@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-11-22
+date: 2022-11-23
 from: https://twitter.com/realcaixia/status/1594809513135443968
 layout: post
 tags:
@@ -38,4 +38,12 @@ title: 'Twitter @蔡霞: 2022-11-21~2022-11-27'
 ### 6: [2022-11-22 22:24:07+08:00 推文](https://twitter.com/realcaixia/status/1595060560433131520)
 
 為蔡英文總統的演講感動！正氣凜然，堅定堅韌。<br><br>jason hu: 这才是水平。<br><br><video src="https://video.twimg.com/ext_tw_video/1594697331621912576/pu/vid/426x240/kp1ddMe2kfV8a398.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1594697331621912576/pu/img/KM7WSdK76O9vqihQ.jpg"></video>
+
+### 7: [2022-11-23 00:13:26+08:00 推文](https://twitter.com/realcaixia/status/1595088074119483392)
+
+鲍彤的勇气和人文精神 <a href="https://www.voachinese.com/a/6845029.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/6845029.html</a>
+
+### 8: [2022-11-23 00:17:28+08:00 推文](https://twitter.com/realcaixia/status/1595089087194464258)
+
+Re 鮑老就像胡耀邦、趙紫陽、李銳等在中共黨內的許多老一代人一樣，是真誠地為爭取民主自由而奮鬥一生的。作為晚輩，作為後來人，繼續他們的努力就是我的責任。
 
