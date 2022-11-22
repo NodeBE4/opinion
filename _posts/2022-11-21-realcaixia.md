@@ -23,3 +23,7 @@ title: 'Twitter @蔡霞: 2022-11-21~2022-11-27'
 
 老梁看得明白，明白人说明白话。<br><br>高瑜: 今晚一幫北京球迷喝着釅茶，準備熬燈看多哈世界杯開幕式，老梁這番以中國時政大背景對世界杯的分析，並非要給球迷們潑涼水。200多萬人的卡塔爾用2200億美金打造的這場世界杯，相當各屆世界杯支出的總和。不但修了哈馬德新機場，還為為世界各地100萬的觀眾在沙漠裡造了一座盧塞爾新城，幾千棟酒店，8個<br><br><video src="https://video.twimg.com/ext_tw_video/1594341378628423680/pu/vid/368x640/t3X8dhaQ6yUxfpVa.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1594341378628423680/pu/img/KfvZUN2s_lrTRXOc.jpg"></video>
 
+### 3: [2022-11-22 09:47:40+08:00 推文](https://twitter.com/realcaixia/status/1594870197038432256)
+
+这个段子确实在大陆流行过，我那时就看到过。当时真没把习以为常当回事，现在看危害最烈者习以为常，不亚于毛。<br><br>高伐林: 2007年习近平进政治局常委之际，网上出现一段俏皮话：<br>中国是个毛邓（矛盾）社会，华（化）解不了，胡搞几年，赵（照）样不行，江（将）就一下，再胡搞几年，就习以为常了！<br>最后这个“常”，当时人们以为指“常委”，没想到15年过去才闹明白，是指“常态”、是“恒常”。<br><br><img style="" src="https://pbs.twimg.com/media/FiCwU5hXgAA7Pgu?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
