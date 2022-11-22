@@ -17,7 +17,7 @@ The China Media Project (中国传媒研究计划) is an independent think
 
 ### 1: [2021-04-19 10:38:15+08:00 推文](https://twitter.com/david__moser/status/1383973188783153154)
 
-RT David Moser<br>Wen Jiabao has been censored several times in State media, notably a 2010 interview with Fareed Zakaria in which he called for greater press freedom.<br><br>Elliott Zaagman: Even Wen Jiabao is getting censored. Wow.<br> <a href="https://twitter.com/EmilyZFeng/status/1383702761712193541" target="_blank" rel="noopener noreferrer">https://twitter.com/EmilyZFeng/status/1383702761712193541</a>
+RT David Moser<br>Wen Jiabao has been censored several times in State media, notably a 2010 interview with Fareed Zakaria in which he called for greater press freedom.<br><br>Elliott Zaagman: Even Wen Jiabao is getting censored. Wow.<br> <a href="https://twitter.com/emilyzfeng/status/1383702761712193541" target="_blank" rel="noopener noreferrer">https://twitter.com/emilyzfeng/status/1383702761712193541</a>
 
 ### 2: [2021-04-21 01:02:29+08:00 推文](https://twitter.com/AlexDukalskis/status/1384553067501264897)
 
