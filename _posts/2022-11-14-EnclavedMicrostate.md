@@ -158,3 +158,9 @@ Look, in a situation like this in which one of your streamers is literally going
 
 I don't know, maybe a company can't afford to casually lie to its customers and potential investors?
 
+----- __934.8__ -----2022-11-22 17:26:16+08:00:
+
+I don't know what to tell you, but you're describing nigh-on nonexistent situations here. Did someone who signed up to a rigorous training program not end up having worked for it when they made it big? How much work counts as enough before you're allowed a lucky break? Are brands not allowed to promote anyone? Because if so then the Beatles are the ultimate grifters by that definition.
+
+In any event, it's not even like most VTuber companies are promoting total non-entities. Despite the nominal commitment to anonymity, VTubers' past on the internet can be pretty traceable, and at both major agencies (Hololive and Nijisanji) new talents are invariably existing content creators, many quite obscure. So I don't know what the issue is. Is it that already-popular creators are getting a boost from the branding and that's bad because...???? Or is it that obscure creators are getting a boost from the branding and that's bad because...????
+
