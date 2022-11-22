@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2022-07-18~2022-07-24'
 
 ### 1: [2022-07-18 09:34:51+08:00 推文](https://twitter.com/realcaixia/status/1548843710527508481)
 
-我曾是中央党校代表团成员之一访问朝鲜。一天参观朝鲜劳动党中央党校，教室墙上有几个大挂幅，上面写满了朝鲜文。我们团的一个鲜族教授，大声翻译那些朝鲜文。原来这是培训官员如何“管理党员和民众”的要点，其中之一就是实行五户连坐制。一人被控谋反，五家人连坐判同罪。看来，中国朝鲜化正在进行时。<br><br>一剑飘尘 007: 习近平时代，中共倒退到“连坐”制度，还有人说“谁上都一样”！不要说八十年代胡赵时期，就是江胡时代，也不至于如此明目张胆连坐孩子吧？习下是方向，谁上都更强<br><br><img style="" src="https://pbs.twimg.com/media/FX6IDYbUcAEuEYE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+我曾是中央党校代表团成员之一访问朝鲜。一天参观朝鲜劳动党中央党校，教室墙上有几个大挂幅，上面写满了朝鲜文。我们团的一个鲜族教授，大声翻译那些朝鲜文。原来这是培训官员如何“管理党员和民众”的要点，其中之一就是实行五户连坐制。一人被控谋反，五家人连坐判同罪。看来，中国朝鲜化正在进行时。
 
 ### 2: [2022-07-19 08:41:33+08:00 推文](https://twitter.com/realcaixia/status/1549192684144934912)
 
@@ -45,7 +45,7 @@ Re 中共党政官员中包括国企央企高管，所有党员干部都有行�
 
 ### 8: [2022-07-19 20:57:08+08:00 推文](https://twitter.com/realcaixia/status/1549377803040264192)
 
-他们又开坦克。8964后，坦克成为一种政治象征。那次，人们还认为他们“不致于”，经过6.4那一夜，人们知道他们什么都能干得出来。现在他们又公然出动坦克。习统治下，中国越来越成为坦克轮子上的帝国”了。<br><br>方舟子: 冲锋枪不够威武了，坦克出动。<br><br><video src="https://video.twimg.com/ext_tw_video/1549159214169305089/pu/vid/888x502/NgwZx8eN7lfdinra.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1549159214169305089/pu/img/SIhVLuj8jIgCUXlU.jpg"></video>
+他们又开坦克。8964后，坦克成为一种政治象征。那次，人们还认为他们“不致于”，经过6.4那一夜，人们知道他们什么都能干得出来。现在他们又公然出动坦克。习统治下，中国越来越成为坦克轮子上的帝国”了。
 
 ### 9: [2022-07-19 23:36:46+08:00 推文](https://twitter.com/realcaixia/status/1549417975777820674)
 
@@ -113,7 +113,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FYJewOwX0AUPknj?format=jpg
 
 ### 25: [2022-07-21 20:44:44+08:00 推文](https://twitter.com/realcaixia/status/1550099458054144002)
 
-因知了诗而生祸，真是前无古人。
+因知了诗而生祸，真是前无古人。<br><br>Jam: 习近平新时代的文字狱，前无古人。<br><br><img style="" src="https://pbs.twimg.com/media/FYH-CA5WYAItfJK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 26: [2022-07-21 21:41:34+08:00 推文](https://twitter.com/realcaixia/status/1550113757296304128)
 
@@ -137,7 +137,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FYObfD5XgAMmgmH?format=jpg
 
 ### 31: [2022-07-22 23:11:57+08:00 推文](https://twitter.com/realcaixia/status/1550498892197896192)
 
-沉默啊沉默，不在沉默中死亡，就在沉默中爆发。中共极权统治集团做好死无葬身之地的准备了吗？<br><br>高伐林: 中国网信办《互联网用户账号管理规定》自8月1日起生效，互联网用户注册须填写真实职业，将揭露IP地址；过去网民用错别字、谐音或相近文字、数字和符号打擦边球传布“敏感”信息，规避审查，现在都遭明文禁止；严格管控数据跨国流通，对最重要学术平台“知网”启动网络安全审查。<br> <a href="https://www.voachinese.com/a/china-launches-security-review-on-cnki-the-country-s-leading-academic-research-database-0722222/6666367.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/china-launches-security-review-on-cnki-the-country-s-leading-academic-research-database-0722222/6666367.html</a>
+沉默啊沉默，不在沉默中死亡，就在沉默中爆发。中共极权统治集团做好死无葬身之地的准备了吗？
 
 ### 32: [2022-07-23 02:53:08+08:00 推文](https://twitter.com/realcaixia/status/1550554556538490883)
 
