@@ -135,3 +135,15 @@ WSJ：“共和党人以微弱优势掌控众议院，为华盛顿明年重回�
 
 Re @david_david1968 早就是特区了，你说的那些放纵权利不但有，政府还设点供应毒品，对吸毒者关爱备至，理由是担心他们在街上吸毒后无人照应，有死亡危险。
 
+### 31: [2022-11-22 08:42:14+08:00 推文](https://twitter.com/zhixiangziyou/status/1594853729957724167)
+
+RT L JM🇺🇸<br>突发报告：亚利桑那州莫哈维县加入科奇斯县，成为第二个拒绝 2022 年中期选举认证的县......<br><br>Chuck Callesto: BREAKING REPORT: Mohave County, Arizona joins Cochise County to become the SECOND COUNTY TO REFUSE CERTIFICATION of 2022 Midterm Election...<br> <a href="https://twitter.com/i/web/status/1594845360433807361" target="_blank" rel="noopener noreferrer">https://twitter.com/i/web/status/1594845360433807361</a>
+
+### 32: [2022-11-22 09:11:49+08:00 推文](https://twitter.com/HeQinglian/status/1594861173526126592)
+
+Re @zhixiangziyou 必须这样，否则就干脆不要选举了。
+
+### 33: [2022-11-22 09:17:08+08:00 推文](https://twitter.com/HeQinglian/status/1594862509600772097)
+
+Re @JianWuAus @farmdirect8 BLM的示范效应。<br>美国现在连大法官家都被包围，共和党议员家被石头光顾，RNC大会后议员被左痞包围并饱以肢体动作。<br>都是2020年5月BLM运动以后的事情。
+
