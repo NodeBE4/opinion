@@ -67,9 +67,15 @@ Actually, a bit of a follow-up: Yoshinobu may have had a relatively small clan h
 
 Ahh, I see now – I think I was misreading some of the chronology you presented. Thanks for clearing things up!
 
-### 910: [Sacks and the pope, hmmm](https://old.reddit.com/r/badhistory/comments/ymcb4y/sacks_and_the_pope_hmmm/), submitted on 2022-11-05 06:23:33+08:00.
+### 910: [How did Mao learn about/of the idea of Communism?](https://old.reddit.com/r/AskHistorians/comments/yl7gr9/how_did_mao_learn_aboutof_the_idea_of_communism/), submitted on 2022-11-04 00:36:29+08:00.
 
------ __910.1__ -----2022-11-05 22:18:51+08:00:
+----- __910.1__ -----2022-11-23 18:07:20+08:00:
+
+A really interesting answer that admittedly left me with a question or two, namely around the influence of anarchism. How far was anarchism understood as a political philosophy before large-scale exposure to Marxism? Was it comprehended much more coherently, or was it still only really known about in relatively vague terms, just less vague? And if anarchism was the key early influence on Mao and his cadre, to what extent should we see Maoism within the context of the history of anarchism as opposed to – or in conjunction with – that of Marxism? To suggest a provocative extreme, was Maoism just anarchism with a Marxist coat of paint?
+
+### 911: [Sacks and the pope, hmmm](https://old.reddit.com/r/badhistory/comments/ymcb4y/sacks_and_the_pope_hmmm/), submitted on 2022-11-05 06:23:33+08:00.
+
+----- __911.1__ -----2022-11-05 22:18:51+08:00:
 
 Thank you for your submission to /r/badhistory! Unfortunately, it has been removed for the following reason(s):
 
@@ -79,9 +85,9 @@ Your submission is in violation of **Rule 2**. Your submission Is a question and
 
 If you feel this was done in error, or would like better clarification or need further assistance, please don't hesitate to [message the moderators.](https://www.reddit.com/message/compose?to=/r/badhistory&subject=Question regarding the removal of this submission by /u/No-Habit-454&message=I have a question regarding the removal of [this submission](https://www.reddit.com/r/badhistory/comments/ymcb4y/-/\))
 
-### 911: [Need help. Thanks](https://old.reddit.com/r/ChineseTranslation/comments/ynnozu/need_help_thanks/), submitted on 2022-11-06 19:36:31+08:00.
+### 912: [Need help. Thanks](https://old.reddit.com/r/ChineseTranslation/comments/ynnozu/need_help_thanks/), submitted on 2022-11-06 19:36:31+08:00.
 
------ __911.1__ -----2022-11-07 17:58:18+08:00:
+----- __912.1__ -----2022-11-07 17:58:18+08:00:
 
 古韵圆茶 – *gu3yun2 yuan2cha2*: archaic round tea
 
@@ -91,19 +97,19 @@ If you feel this was done in error, or would like better clarification or need f
 
 净含量：200克 – *jing4han2liang4 er4bai3ke4*: Net weight: 200 grams
 
-### 912: [[Hobby Scuffles] Week of November 7, 2022](https://old.reddit.com/r/HobbyDrama/comments/ynsk0l/hobby_scuffles_week_of_november_7_2022/), submitted on 2022-11-06 23:13:10+08:00.
+### 913: [[Hobby Scuffles] Week of November 7, 2022](https://old.reddit.com/r/HobbyDrama/comments/ynsk0l/hobby_scuffles_week_of_november_7_2022/), submitted on 2022-11-06 23:13:10+08:00.
 
------ __912.1__ -----2022-11-07 19:07:05+08:00:
+----- __913.1__ -----2022-11-07 19:07:05+08:00:
 
 I have more or less planned out a wargame scenario that I may run as a participation game early next year, based on the 1864 Shimonoseki Expedition. I'll be using Daniel Mersey's *The Men Who Would be Kings* with a couple of minor tweaks, mainly to do with movement (which I can elaborate on if anyone really wants to know).
 
 The overall plan means I need to do up 60 figures for the Europeans: 24 Royal Marines, 24 British sailors, and 12 French sailors. I have most of what I need for the Japanese force, but I'll need to do up an extra unit of 16 armoured pikemen, as well as a few extra unarmoured swordsmen. The big thing is that I'll need a battery of coastal artillery, so it's a question of budget+table space in terms of where on the scale of 3 to 5 guns I do, especially as I'll also need to do some terrain-building for a breastwork to actually mount the guns behind.
 
------ __912.2__ -----2022-11-08 20:32:54+08:00:
+----- __913.2__ -----2022-11-08 20:32:54+08:00:
 
 Similarly, early career history and history-adjacent academics have relied on Twitter for networking for a long time, and it's also been a space that has allowed a reasonable amount of public history work to be done on an open platform. There just isn't really an alternative to that at this stage. Mastodon is being floated as an option, but the relative insularity of communities could be an issue and essentially create a network of historians with little public visibility.
 
------ __912.3__ -----2022-11-08 22:59:16+08:00:
+----- __913.3__ -----2022-11-08 22:59:16+08:00:
 
 But is anyone joining other than economists?
 

@@ -13,41 +13,41 @@ title: EnclavedMicrostate在2022-11-07~2022-11-13的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 913: [Voter fraud in action: The Nazi Party is projected to get 192 million votes from 55.4 million voters, while the big-tent party of five Interest Groups gets none at all.](https://old.reddit.com/r/victoria3/comments/ynvirn/voter_fraud_in_action_the_nazi_party_is_projected/), submitted on 2022-11-07 00:51:28+08:00.
+### 914: [Voter fraud in action: The Nazi Party is projected to get 192 million votes from 55.4 million voters, while the big-tent party of five Interest Groups gets none at all.](https://old.reddit.com/r/victoria3/comments/ynvirn/voter_fraud_in_action_the_nazi_party_is_projected/), submitted on 2022-11-07 00:51:28+08:00.
 
------ __913.1__ -----2022-11-07 01:03:18+08:00:
+----- __914.1__ -----2022-11-07 01:03:18+08:00:
 
 Rule 5: The combined total of votes across all interest groups is something like 4x my voting population, but also the only party that will actually get these votes is the Nazis led by the Armed Forces. So that's... interesting.
 
------ __913.2__ -----2022-11-07 02:17:34+08:00:
+----- __914.2__ -----2022-11-07 02:17:34+08:00:
 
 I believe that that's the Radical Party symbol. As for your second question, parties cause all Interest Groups within them to be counted as one, so you don't get the legitimacy penalty that comes with having more than one group in government.
 
------ __913.3__ -----2022-11-07 03:16:05+08:00:
+----- __914.3__ -----2022-11-07 03:16:05+08:00:
 
 Even so, the Nazis should not get *all* the votes.
 
------ __913.4__ -----2022-11-07 03:26:58+08:00:
+----- __914.4__ -----2022-11-07 03:26:58+08:00:
 
 They join these parties if they have common ideological stances, either inherently or because of their leaders. So in this case, all five of the Interest Groups shown were either inherently or temporarily Radical, and were thus willing to join under that banner. If you unlock the option to have an Anarchist party, the Trade Unions might split off to form that, for instance.
 
------ __913.5__ -----2022-11-07 04:58:37+08:00:
+----- __914.5__ -----2022-11-07 04:58:37+08:00:
 
 Universal Suffrage.
 
------ __913.6__ -----2022-11-07 05:37:16+08:00:
+----- __914.6__ -----2022-11-07 05:37:16+08:00:
 
 Okay cool, so what about the other part which is the part where the Nazis get 100% of the vote?
 
-### 914: [Scatterbrained Simp Supervisors - Weekly Discussion Thread, November 8th, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/yp8v5t/scatterbrained_simp_supervisors_weekly_discussion/), submitted on 2022-11-08 10:40:09+08:00.
+### 915: [Scatterbrained Simp Supervisors - Weekly Discussion Thread, November 8th, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/yp8v5t/scatterbrained_simp_supervisors_weekly_discussion/), submitted on 2022-11-08 10:40:09+08:00.
 
------ __914.1__ -----2022-11-12 17:08:19+08:00:
+----- __915.1__ -----2022-11-12 17:08:19+08:00:
 
 I mean, I'm kind of not too surprised. Fauna has said that she adopts older cats, and I think she's been mentally and emotionally prepared for this going in. It wouldn't surprise me if Clover isn't even the first cat she's lost this way.
 
-### 915: [Is it true there were dead bodies of workers/soldiers within the Great Wall of China during construction?](https://old.reddit.com/r/AskHistorians/comments/ypt90a/is_it_true_there_were_dead_bodies_of/), submitted on 2022-11-09 01:44:53+08:00.
+### 916: [Is it true there were dead bodies of workers/soldiers within the Great Wall of China during construction?](https://old.reddit.com/r/AskHistorians/comments/ypt90a/is_it_true_there_were_dead_bodies_of/), submitted on 2022-11-09 01:44:53+08:00.
 
------ __915.1__ -----2022-11-09 18:56:48+08:00:
+----- __916.1__ -----2022-11-09 18:56:48+08:00:
 
 The notion that the Great Wall contains human bodies is an interesting one, and goes in some unexpected directions.
 
@@ -65,9 +65,9 @@ The chronological compression of Great Walls is not a novel development, and ind
 
 For further reading, the definitive treatment of the Great Wall in English remains Arthur Waldron's *The Great Wall of China: From History to Myth* (1989).
 
-### 916: [What did pitched combat during the Taiping rebellion look like? How would it compare to the pitched battles of Europe/the American Civil war around the same time?](https://old.reddit.com/r/AskHistorians/comments/yq4yiz/what_did_pitched_combat_during_the_taiping/), submitted on 2022-11-09 09:36:48+08:00.
+### 917: [What did pitched combat during the Taiping rebellion look like? How would it compare to the pitched battles of Europe/the American Civil war around the same time?](https://old.reddit.com/r/AskHistorians/comments/yq4yiz/what_did_pitched_combat_during_the_taiping/), submitted on 2022-11-09 09:36:48+08:00.
 
------ __916.1__ -----2022-11-10 02:04:37+08:00:
+----- __917.1__ -----2022-11-10 02:04:37+08:00:
 
 So, the unfortunate answer is we don't really have a good sense of it, at least not at the scholarship level. And there are a few reasons for this. Firstly, operational military history has not had as much interest from historians of China as it has for histories of warfare in other contexts. Secondly, the Chinese historiographical tradition is not as tactically detailed as the European. European historians until the last century or two came from a background in which the elite served both military and civil functions, whereas for much of Chinese history, warfare and the martial sphere were considered beneath the literati elite. That is not to say we do not have some degree of detailed operational history for large parts of Chinese military history, but the focus of our sources tends to be somewhat elsewhere. I am certain we *could* reconstruct the Taiping War in terms of operational and tactical history from the sources we have, but as it stands, nobody really has done yet. Arguably the closest we get is from Jen Yu-Wen, who gives a decent accounting of campaigns in *The Taiping Revolutionary Movement*, but he really doesn't cover *battles* in depth.
 
@@ -83,9 +83,9 @@ Unfortunately, I may not be of much help here. For one I'm in grad school now an
 
 A major caveat to the above sources is that they mostly concentrate on European or European-led units in the eastern theatre of the war, rather than the larger confrontations between the Taiping and the Hunanese militia in the west. Platt tries to balance between the two ends, and Lindley does record one or two confrontations further up the Yangtze to be fair, but be very aware that the focus here skews eastward towards the European-involved part of the fighting, rather than the more 'peer' conflict in the west.
 
-### 917: [East Asia - AD 1802 - WIP - [4983x6637] [OC]](https://old.reddit.com/r/Map_Porn/comments/yqmyd0/east_asia_ad_1802_wip_4983x6637_oc/), submitted on 2022-11-09 23:59:07+08:00.
+### 918: [East Asia - AD 1802 - WIP - [4983x6637] [OC]](https://old.reddit.com/r/Map_Porn/comments/yqmyd0/east_asia_ad_1802_wip_4983x6637_oc/), submitted on 2022-11-09 23:59:07+08:00.
 
------ __917.1__ -----2022-11-10 05:42:29+08:00:
+----- __918.1__ -----2022-11-10 05:42:29+08:00:
 
 So, ~~three~~ four suggestions, of varying levels of practicality:
 
@@ -97,23 +97,23 @@ Thirdly, Japan was not really a singular entity: a gander at [this article](http
 
 Looking specifically at the Pearl River Delta for a sec, there are places here that should be marked and places here that should not. In 1802, Hong Kong and Shenzhen did not meaningfully exist; on the flip-side, Macau is an absolutely vital inclusion that is very noticeable by its absence. Looking northward for a sec, there are plenty of ahistorical Russian place names in still-Qing-held Manchuria. I assume part of this is because of the WIP issue, but still, worth flagging.
 
-### 918: [Got a certain character in my qing run](https://old.reddit.com/r/victoria3/comments/yqx27a/got_a_certain_character_in_my_qing_run/), submitted on 2022-11-10 06:07:25+08:00.
+### 919: [Got a certain character in my qing run](https://old.reddit.com/r/victoria3/comments/yqx27a/got_a_certain_character_in_my_qing_run/), submitted on 2022-11-10 06:07:25+08:00.
 
------ __918.1__ -----2022-11-10 23:30:41+08:00:
+----- __919.1__ -----2022-11-10 23:30:41+08:00:
 
 The game does generate some real personages, especially for generals. I got Moltke the Elder, Albrecht von Roon, Moltke the Younger, Paul von Hindenburg and Erich Ludendorff as Prussia.
 
-### 919: [Are there any theories on why the ancient Chinese did not adopt an alphabetic writing system?](https://old.reddit.com/r/AskHistorians/comments/ysdbij/are_there_any_theories_on_why_the_ancient_chinese/), submitted on 2022-11-11 23:16:54+08:00.
+### 920: [Are there any theories on why the ancient Chinese did not adopt an alphabetic writing system?](https://old.reddit.com/r/AskHistorians/comments/ysdbij/are_there_any_theories_on_why_the_ancient_chinese/), submitted on 2022-11-11 23:16:54+08:00.
 
------ __919.1__ -----2022-11-12 02:59:14+08:00:
+----- __920.1__ -----2022-11-12 02:59:14+08:00:
 
 > the short answer is
 
 Your comment has been removed due to violations of the [subreddit’s rules](https://www.reddit.com/r/AskHistorians/wiki/rules). We expect answers to provide [in-depth and comprehensive insight](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer) into the topic at hand and to [be free of significant errors or misunderstandings](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/) while doing so. Before contributing again, please take the time to better familiarize yourself with the [subreddit rules](https://www.reddit.com/r/AskHistorians/wiki/rules) and [expectations](https://www.reddit.com/r/AskHistorians/wiki/faq/meta#wiki_rules_discussion) for an answer.
 
-### 920: [If Alexander the Great slept with a copy of the Iliad under his pillow, as according to legend, what would be the physical form of his copy - one compact scroll, a pile of scrolls, something else entirely?](https://old.reddit.com/r/AskHistorians/comments/ysrje4/if_alexander_the_great_slept_with_a_copy_of_the/), submitted on 2022-11-12 08:13:27+08:00.
+### 921: [If Alexander the Great slept with a copy of the Iliad under his pillow, as according to legend, what would be the physical form of his copy - one compact scroll, a pile of scrolls, something else entirely?](https://old.reddit.com/r/AskHistorians/comments/ysrje4/if_alexander_the_great_slept_with_a_copy_of_the/), submitted on 2022-11-12 08:13:27+08:00.
 
------ __920.1__ -----2022-11-12 22:02:43+08:00:
+----- __921.1__ -----2022-11-12 22:02:43+08:00:
 
 > Alexander had been fascinated by the Homeric epics since boyhood; one of his first acts after crossing into Asia Minor had been to visit the supposed site of Troy and reenact the funeral games of Patroclus. His former tutor Aristotle had composed or commissioned a special edition of the Iliad, which Alexander brought with him to Asia (Plutarch, Alexander 8.2; 26.2). We don't know whether this was a full edition of the poem or a "greatest hits" compilation focused on Achilles, Alexander's favorite character.
 
@@ -121,13 +121,13 @@ It's worth stressing that Alexander's affinity for the Homeric epics is question
 
 Back to the original point at hand, though, it must be granted that the claim Alexander slept with an Aristotle-commissioned copy of the *Iliad* is reasonably well-supported within Plutarch, who explicitly cites Onesikritos (possibly referring to the *Education of Alexander*); that said, Plutarch's assertion that 'many trustworthy authorities' attest to his storing it in a cask left behind at Issos is much tricker to accept at face value. One would have thought he'd be willing to let us know who these authorities were...
 
------ __920.2__ -----2022-11-13 01:15:17+08:00:
+----- __921.2__ -----2022-11-13 01:15:17+08:00:
 
 You've hit the nail on the head there: Alexander seems to have felt a pressing need to actually perform Greekness because of an awareness that this was not actually taken for granted by his allies, many of whom had seen his father Philip as a marauding barbarian and would not have suddenly forgotten it the moment his son came to power.
 
-### 921: [Inexplicable reserve battalions – why do my generals not command up to their capacity?](https://old.reddit.com/r/victoria3/comments/yt2mzz/inexplicable_reserve_battalions_why_do_my/), submitted on 2022-11-12 17:57:08+08:00.
+### 922: [Inexplicable reserve battalions – why do my generals not command up to their capacity?](https://old.reddit.com/r/victoria3/comments/yt2mzz/inexplicable_reserve_battalions_why_do_my/), submitted on 2022-11-12 17:57:08+08:00.
 
------ __921.1__ -----2022-11-12 17:57:37+08:00:
+----- __922.1__ -----2022-11-12 17:57:37+08:00:
 
 R5: My generals clearly have enough command capacity to actually command all the battalions in their regions, but don't. 
 
@@ -135,25 +135,25 @@ R5: My generals clearly have enough command capacity to actually command all the
 
 ???
 
------ __921.2__ -----2022-11-12 18:40:19+08:00:
+----- __922.2__ -----2022-11-12 18:40:19+08:00:
 
 Yes. North India HQ for me consists of a single state, South Bengal. It has 50 barracks, and I have a Field Marshal with 100 command limit assigned to that HQ. I am not at war; conscription centres are not activated.
 
------ __921.3__ -----2022-11-12 18:45:59+08:00:
+----- __922.3__ -----2022-11-12 18:45:59+08:00:
 
 There is only one commander at that HQ, yes; however in image 3 I have the same issue in a different HQ with multiple generals whose combined command limits should be more than enough.
 
------ __921.4__ -----2022-11-12 18:54:39+08:00:
+----- __922.4__ -----2022-11-12 18:54:39+08:00:
 
 Yeah, I've done that a couple times, but the number of battalions slipping into reserves seems to increase every few months and I don't like having to take hits to my Armed Forces approval every time.
 
------ __921.5__ -----2022-11-13 03:09:03+08:00:
+----- __922.5__ -----2022-11-13 03:09:03+08:00:
 
 Cheers!
 
-### 922: [It is well known that Aristotle, one of the greatest philosophers of all time, was the private tutor of Alexander the Great, one of the greatest conquerors of all time. This relationship seems like it could be scripted out of a Hollywood movie. How do we know this to be true?](https://old.reddit.com/r/AskHistorians/comments/ytcyw6/it_is_well_known_that_aristotle_one_of_the/), submitted on 2022-11-13 01:16:10+08:00.
+### 923: [It is well known that Aristotle, one of the greatest philosophers of all time, was the private tutor of Alexander the Great, one of the greatest conquerors of all time. This relationship seems like it could be scripted out of a Hollywood movie. How do we know this to be true?](https://old.reddit.com/r/AskHistorians/comments/ytcyw6/it_is_well_known_that_aristotle_one_of_the/), submitted on 2022-11-13 01:16:10+08:00.
 
------ __922.1__ -----2022-11-13 05:28:55+08:00:
+----- __923.1__ -----2022-11-13 05:28:55+08:00:
 
 Aristotle's education of Alexander is recounted principally by two ancient authors (whose work survives): Plutarch and Diogenes Laertios. If you want to really get into a load of epistemological weeds and a bunch of philosophical musing about what it means to 'know' anything, then sure, we don't *know* Aristotle tutored Alexander, but by conventional methodology the weight of evidence is pretty clear that Aristotle was Alexander's tutor and they shared a reasonably close bond.
 
@@ -173,13 +173,13 @@ What we do know, from Diogenes Laertios, is that whatever the relationship becam
 
 A popular narrative is that it was Alexander's abandonment of Panhellenism in favour of a more universalist, multicultural manner of rule that put off Aristotle, who had counselled a much more ethnocentric policy on Alexander's part. While Plutarch, in *On the Fortune or Virtue of Alexander*, does suggest that Alexander differed from his tutor in this regard, there simply isn't an explicit link in the sources between this political difference and their falling-out, presuming that this falling-out even took place at all.
 
------ __922.2__ -----2022-11-15 07:59:34+08:00:
+----- __923.2__ -----2022-11-15 07:59:34+08:00:
 
 So, the relative distance between Alexander and the surviving sources is always one to account for, and it's something I go into [here](https://www.reddit.com/r/AskHistorians/comments/l06m2l/concerning_alexander_the_great_how_much_of_the/gjwy3ha/). That said, these later authors weren't making stuff up: they had their own sources, whom they often cited explicitly. This *complicates* our view of Alexander, and massively so, but it doesn't mean we cannot know anything with certainty.
 
-### 923: [Why was the Taiping rebellion a “heavenly kingdom” instead of a “celestial empire?” Why did it seem to reject traditional naming conventions for Chinese dynasties?](https://old.reddit.com/r/AskHistorians/comments/ytuuwh/why_was_the_taiping_rebellion_a_heavenly_kingdom/), submitted on 2022-11-13 15:31:07+08:00.
+### 924: [Why was the Taiping rebellion a “heavenly kingdom” instead of a “celestial empire?” Why did it seem to reject traditional naming conventions for Chinese dynasties?](https://old.reddit.com/r/AskHistorians/comments/ytuuwh/why_was_the_taiping_rebellion_a_heavenly_kingdom/), submitted on 2022-11-13 15:31:07+08:00.
 
------ __923.1__ -----2022-11-13 21:05:02+08:00:
+----- __924.1__ -----2022-11-13 21:05:02+08:00:
 
 This is a feature of Taiping ideology that was not analysed until comparatively recently, as on the surface it does seem like a mere bit of semantics. But you're not wrong to point out that there might be something to it beyond that, and thankfully you haven't been the first to notice.
 
@@ -195,33 +195,33 @@ To finally wrap back to the question as phrased, this in turn had implications f
 
 If you'd like to read a bit more into this, Thomas Reilly's *The Taiping Heavenly Kingdom: Religion and the Blasphemy of Empire* is the principal source of this argument; Carl Kilcourse's *Taiping Theology* revisits the argument and agrees with some though not all of its core conceits.
 
------ __923.2__ -----2022-11-13 22:24:52+08:00:
+----- __924.2__ -----2022-11-13 22:24:52+08:00:
 
 I actually don't know what the Kaifeng Jews used as their term for God, but the Hui used 真主 *Zhenzhu* ('true god').
 
-### 924: [[Hobby Scuffles] Week of November 14, 2022](https://old.reddit.com/r/HobbyDrama/comments/yu41tv/hobby_scuffles_week_of_november_14_2022/), submitted on 2022-11-13 23:00:17+08:00.
+### 925: [[Hobby Scuffles] Week of November 14, 2022](https://old.reddit.com/r/HobbyDrama/comments/yu41tv/hobby_scuffles_week_of_november_14_2022/), submitted on 2022-11-13 23:00:17+08:00.
 
------ __924.1__ -----2022-11-15 17:43:30+08:00:
+----- __925.1__ -----2022-11-15 17:43:30+08:00:
 
 Not even a hobby thing, but has anyone else seen *Weird: The Al Yankovic Story* yet? Personally, I went in very worried that it would be like those biopics that deliberately fictionalise things to make the lead look better, but I was very impressed by how true it stayed to actual history in the portrayal. Deeply moving, an 11/10 film.
 
------ __924.2__ -----2022-11-15 20:09:54+08:00:
+----- __925.2__ -----2022-11-15 20:09:54+08:00:
 
 What it hit home for me is how much the recent rock biopics have felt the need to make their subjects seem more like Weird Al, rather than allowing their originality to come through. It seems to fit a formula because the formula began with Al.
 
------ __924.3__ -----2022-11-16 23:47:30+08:00:
+----- __925.3__ -----2022-11-16 23:47:30+08:00:
 
 And [Sakura Miko is stuck promoting 'Baby Dance' till the end of time](https://www.youtube.com/watch?v=wBpzOIUac9k)
 
------ __924.4__ -----2022-11-17 00:03:26+08:00:
+----- __925.4__ -----2022-11-17 00:03:26+08:00:
 
 It's distressing that Miko comes off as less pon in the comparison...
 
------ __924.5__ -----2022-11-20 05:16:03+08:00:
+----- __925.5__ -----2022-11-20 05:16:03+08:00:
 
 Every time I think there's nothing more to say about *My Immortal*, someone comes out with a video with *more* information. [Strange Æeons' latest video](https://www.youtube.com/watch?v=0JodBp-r9jM) notes, among other things, the existence of a *third* fanfic by the authors of *My Immortal*, depicting a gothified Hermione as the main character.
 
------ __924.6__ -----2022-11-20 10:34:17+08:00:
+----- __925.6__ -----2022-11-20 10:34:17+08:00:
 
 Oh dang, and I had even watched that one recently too – I'd completely missed that part!
 
