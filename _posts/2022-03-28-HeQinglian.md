@@ -257,7 +257,7 @@ Re @Wu_Zhi @JianglinLi “Maybe von Clausewitz was wrong, and war is shitposting
 
 ### 61: [2022-03-29 11:35:42+08:00 推文](https://twitter.com/HeQinglian/status/1508649071195705346)
 
-RT He Qinglian<br>俄乌战争终结了西方的和平主义外交政策<br><br>全球化行至 世纪之交后，增加了两大乌托邦理想：地球村——和平主义外交政府；绿色能源。一场俄乌战争，终结了两大乌托邦理想。战争还未结束，世界有能力的国家都开始考虑增加军备，甚至发展核武（如日本）。<br>军火工业将获大发展。 <a href="https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy" target="_blank" rel="noopener noreferrer">https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy</a>
+俄乌战争终结了西方的和平主义外交政策<br><br>全球化行至 世纪之交后，增加了两大乌托邦理想：地球村——和平主义外交政府；绿色能源。一场俄乌战争，终结了两大乌托邦理想。战争还未结束，世界有能力的国家都开始考虑增加军备，甚至发展核武（如日本）。<br>军火工业将获大发展。 <a href="https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy" target="_blank" rel="noopener noreferrer">https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy</a>
 
 ### 62: [2022-03-29 20:50:30+08:00 推文](https://twitter.com/HeQinglian/status/1508788691900284928)
 
@@ -957,7 +957,7 @@ Re @JianglinLi @Wu_Zhi 据《印度斯坦时报》3月31日报道，负责国际
 
 ### 236: [2022-04-02 05:44:39+08:00 推文](https://twitter.com/HeQinglian/status/1510010277273776146)
 
-Re @Wu_Zhi @JianglinLi 路透4月1日：俄最初受到的经济冲击似乎正消退，美国高官本周满世界跑，试图敦促其他国家领导人加入或继续向莫斯科施压<br>美副财长Wally Adeyemo与英法德高官会面<br>达利普·辛格去新德里，尝试向印度官员施压<br>布林肯则对中东和非洲使劲<br><br>世界是否进入布雷顿森林体系3.0，在此一搏 <a href="https://www.reuters.com/world/blinken-britains-truss-discuss-additional-actions-response-ukraine-invasion-2022-04-01/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/blinken-britains-truss-discuss-additional-actions-response-ukraine-invasion-2022-04-01/</a>
+RT He Qinglian<br>Re @Wu_Zhi @JianglinLi 路透4月1日：俄最初受到的经济冲击似乎正消退，美国高官本周满世界跑，试图敦促其他国家领导人加入或继续向莫斯科施压<br>美副财长Wally Adeyemo与英法德高官会面<br>达利普·辛格去新德里，尝试向印度官员施压<br>布林肯则对中东和非洲使劲<br><br>世界是否进入布雷顿森林体系3.0，在此一搏 <a href="https://www.reuters.com/world/blinken-britains-truss-discuss-additional-actions-response-ukraine-invasion-2022-04-01/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/blinken-britains-truss-discuss-additional-actions-response-ukraine-invasion-2022-04-01/</a>
 
 ### 237: [2022-04-02 06:03:00+08:00 推文](https://twitter.com/HeQinglian/status/1510014896141963269)
 
