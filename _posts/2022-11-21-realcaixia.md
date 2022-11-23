@@ -51,3 +51,11 @@ Re 鮑老就像胡耀邦、趙紫陽、李銳等在中共黨內的許多老一�
 
 外交政策：不要相信美中缓和的炒作 - 加美财经 <a href="https://www.caus.com/detail/68503" target="_blank" rel="noopener noreferrer">https://www.caus.com/detail/68503</a>
 
+### 10: [2022-11-23 23:27:20+08:00 推文](https://twitter.com/realcaixia/status/1595438857289273344)
+
+河南富士康工人反抗。<br><br>新闻调查: 最新消息：河南已经调集洛阳、开封、驻马店、新乡、许昌等郑州周边武警前往富士康，兵力高达几千人，这已经是河南几十年来最大的一次武力镇压活动！<br>截止目前，从洛阳调过来的武警来了20辆大巴车，正在对K区进行反攻<br><br><video src="https://video.twimg.com/ext_tw_video/1595330637317246979/pu/vid/1296x576/tcnoaU3E74l3eSaL.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1595330637317246979/pu/img/8TbGVbmSMKKGavg2.jpg"></video>
+
+### 11: [2022-11-23 23:51:05+08:00 推文](https://twitter.com/realcaixia/status/1595444837762867205)
+
+完全贊同推主的評論分析。轉發！<br><br>蔡慎坤: 郑州富士康员工集体反抗，不仅仅是对外资政策敲响了警钟，也对防疫政策表达了愤怒，意味着劳动密集型代加工企业在中国几乎走到了尽头，长时间机械化作业加上低工资模式很难再吸引并留住新一代年轻人，由于中国各地房价普遍上涨，打工收入只能维持温饱，根本不可能安居乐业，群体性反抗事件会接踵而至。<br>
+
