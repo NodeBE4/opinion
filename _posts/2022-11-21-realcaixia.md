@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-11-23
+date: 2022-11-24
 from: https://twitter.com/realcaixia/status/1594809513135443968
 layout: post
 tags:
@@ -58,4 +58,20 @@ Re 鮑老就像胡耀邦、趙紫陽、李銳等在中共黨內的許多老一�
 ### 11: [2022-11-23 23:51:05+08:00 推文](https://twitter.com/realcaixia/status/1595444837762867205)
 
 完全贊同推主的評論分析。轉發！<br><br>蔡慎坤: 郑州富士康员工集体反抗，不仅仅是对外资政策敲响了警钟，也对防疫政策表达了愤怒，意味着劳动密集型代加工企业在中国几乎走到了尽头，长时间机械化作业加上低工资模式很难再吸引并留住新一代年轻人，由于中国各地房价普遍上涨，打工收入只能维持温饱，根本不可能安居乐业，群体性反抗事件会接踵而至。<br>
+
+### 12: [2022-11-24 03:20:07+08:00 推文](https://twitter.com/realcaixia/status/1595497442446901248)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FiRYdw4UUAAuvXS?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FiRYdw4VQAEf6Qy?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FiRYdw4UcAEL8Ai?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FiRYdw8VsAAkAbk?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 13: [2022-11-24 03:21:11+08:00 推文](https://twitter.com/realcaixia/status/1595497710869585920)
+
+<br><img style="" src="https://pbs.twimg.com/media/FiRYsfaVIAE8mL7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FiRYs0NUYAA2SPn?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FiRYtHZUcAEJBwS?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FiRYtZCUAAAAlBq?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 14: [2022-11-24 03:23:09+08:00 推文](https://twitter.com/realcaixia/status/1595498205982052353)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FiRZKOfVIAApEyE?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FiRZKOgVIAA6mi4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FiRZKOcUoAE_VDZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FiRZKOeUoAEBY1H?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 15: [2022-11-24 03:24:18+08:00 推文](https://twitter.com/realcaixia/status/1595498492121579520)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FiRZa16UAAU2P5t?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FiRZa15UoAEVgr1?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
