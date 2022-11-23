@@ -19,7 +19,7 @@ Author of Freedom, UK (https://t.co/2OFalKXJG1) and NA (https://t.co/mkF6N8U5d0)
 
 ### 1: [2021-12-06 07:06:01+08:00 推文](https://twitter.com/nathanlawkc/status/1467631372001062913)
 
-I am very honored to announce that I am invited by @POTUS to deliver a remark in The Summit for Democracy on 10th Dec.<br>The remark serves as a bridge between sessions on "protecting human rights" and "defending against authoritarianism." The voice of Hong Kong will be heard.<br><img style="" src="https://pbs.twimg.com/media/FF4Sn2pWUAMW3KT?format=jpg&name=orig" referrerpolicy="no-referrer">
+I am very honored to announce that I am invited by @POTUS to deliver a remark in The Summit for Democracy on 10th Dec.<br>The remark serves as a bridge between sessions on "protecting human rights" and "defending against authoritarianism." The voice of Hong Kong will be heard.<br><img style src="https://pbs.twimg.com/media/FF4Sn2pWUAMW3KT?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2021-12-06 19:27:59+08:00 推文](https://twitter.com/nathanlawkc/status/1467818096010448898)
 
@@ -43,7 +43,7 @@ See you all at @ColbyCollege with @GoldfarbCenter tonight.<br><br>Live stream fo
 
 ### 7: [2021-12-08 04:37:04+08:00 推文](https://twitter.com/nathanlawkc/status/1468318663669387269)
 
-I was again named by the HK govt top officials, including SS Chris Tang and Commissioner of Police, that my remark in #SummitForDemocracy violates the NSL and now am a “Class A wanted criminal.”<br>Campaigning for human rights is “secession” and “subversion” by Beijing’s definition.<br><img style="" src="https://pbs.twimg.com/media/FGCDT52X0AAhxda?format=jpg&name=orig" referrerpolicy="no-referrer">
+I was again named by the HK govt top officials, including SS Chris Tang and Commissioner of Police, that my remark in #SummitForDemocracy violates the NSL and now am a “Class A wanted criminal.”<br>Campaigning for human rights is “secession” and “subversion” by Beijing’s definition.<br><img style src="https://pbs.twimg.com/media/FGCDT52X0AAhxda?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2021-12-08 21:48:54+08:00 推文](https://twitter.com/nathanlawkc/status/1468578335244656640)
 
