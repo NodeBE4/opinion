@@ -97,7 +97,7 @@ Re @ni87107 这本书是香港出版的，估计香港已经买不到了。
 
 ### 21: [2022-01-01 08:05:26+08:00 推文](https://twitter.com/realcaixia/status/1477068411666669581)
 
-发出了“发哨人子的人——艾芬”推文后，有推友跟帖说还有更早上报疫情的人——张继先。于是我又去搜寻来张继先的报道。最先上报病毒疫情是12月26号，12月29号她就判断这是人传人。国家专家最早到武汉是元旦期间。但是，直至1月中武汉当局还在否认人传人。<br><img style src="https://pbs.twimg.com/media/FH-Z36pXEAU1j4x?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH-Z4MhXMAI_EgK?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH-Z4haXEAAtosN?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH-Z45VXsAASEnl?format=jpg&name=orig" referrerpolicy="no-referrer">
+发出了“发哨人子的人——艾芬”推文后，有推友跟帖说还有更早上报疫情的人——张继先。于是我又去搜寻来张继先的报道。最先上报病毒疫情是12月26号，12月29号她就判断这是人传人。国家专家最早到武汉是元旦期间。但是，直至1月中武汉当局还在否认人传人。<br><img style="" src="https://pbs.twimg.com/media/FH-Z36pXEAU1j4x?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH-Z4MhXMAI_EgK?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH-Z4haXEAAtosN?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH-Z45VXsAASEnl?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 22: [2022-01-01 08:20:27+08:00 推文](https://twitter.com/realcaixia/status/1477072189954351107)
 
@@ -133,7 +133,7 @@ Re @dayangelcp @John17Churchill 倒翻篇。
 
 ### 30: [2022-01-02 00:28:18+08:00 推文](https://twitter.com/realcaixia/status/1477315755788091399)
 
-忘不了武汉，如今又增添一个城市：忘不了西安…<br><br>张海。: 这类图片很刺激我的内心，我总忘不了武汉封城期间电话那头传来的哭泣声，她先生发烧到昏迷，症状就是染上了新冠病毒🦠求遍了所有能求的人，没有床位，也没人管，更出不去。人上午走在了家里，下午很晚才拖走，社区开的死亡证明：猝死……当时的武汉这类悲剧太多太多，她的哭泣声永远留在我的脑海里……<br><br><img style src="https://pbs.twimg.com/media/FH6GrzHVkAAhTNW?format=jpg&name=orig" referrerpolicy="no-referrer">
+忘不了武汉，如今又增添一个城市：忘不了西安…<br><br>张海。: 这类图片很刺激我的内心，我总忘不了武汉封城期间电话那头传来的哭泣声，她先生发烧到昏迷，症状就是染上了新冠病毒🦠求遍了所有能求的人，没有床位，也没人管，更出不去。人上午走在了家里，下午很晚才拖走，社区开的死亡证明：猝死……当时的武汉这类悲剧太多太多，她的哭泣声永远留在我的脑海里……<br><br><img style="" src="https://pbs.twimg.com/media/FH6GrzHVkAAhTNW?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 31: [2022-01-02 00:31:37+08:00 推文](https://twitter.com/realcaixia/status/1477316590597255169)
 
