@@ -73,6 +73,10 @@ Ahh, I see now – I think I was misreading some of the chronology you presented
 
 A really interesting answer that admittedly left me with a question or two, namely around the influence of anarchism. How far was anarchism understood as a political philosophy before large-scale exposure to Marxism? Was it comprehended much more coherently, or was it still only really known about in relatively vague terms, just less vague? And if anarchism was the key early influence on Mao and his cadre, to what extent should we see Maoism within the context of the history of anarchism as opposed to – or in conjunction with – that of Marxism? To suggest a provocative extreme, was Maoism just anarchism with a Marxist coat of paint?
 
+----- __910.2__ -----2022-11-24 00:57:16+08:00:
+
+Goodness me, I am absolutely blown away. Thanks so much for taking the time to answer!
+
 ### 911: [Sacks and the pope, hmmm](https://old.reddit.com/r/badhistory/comments/ymcb4y/sacks_and_the_pope_hmmm/), submitted on 2022-11-05 06:23:33+08:00.
 
 ----- __911.1__ -----2022-11-05 22:18:51+08:00:

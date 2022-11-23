@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-11-23
+date: 2022-11-24
 from: https://twitter.com/HeQinglian/status/1594395902537617415
 layout: post
 tags:
@@ -162,4 +162,36 @@ RT 北美保守评论🇺🇸🇨🇦<br>《中期选举后，共和党吸取�
 ### 37: [2022-11-23 04:24:10+08:00 推文](https://twitter.com/NAConservative9/status/1595151172847169536)
 
 RT 北美保守评论🇺🇸🇨🇦<br>《“你绝对是个骗子”：芝加哥商品交易所CEO特里•达菲回忆与班克曼-弗里德的首次见面》<br><br>像FTX公司CEO班克曼-弗里德这样的骗子之所以能够活得风生水起，甚至登上了《福布斯杂志》的封面，其中一项重要因素就是有政治大佬为他撑腰，而这些政治大佬则都是他巨额政治献金的受益人。 <a href="https://nacr.info/WordPress/index.php/2022/11/22/cme-ceo-terry-duffy-recalls-first-meeting-sam-bankman-fried/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/11/22/cme-ceo-terry-duffy-recalls-first-meeting-sam-bankman-fried/</a><br><img style="" src="https://pbs.twimg.com/media/FiMdSv6X0AMROeg?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 38: [2022-11-23 22:30:31+08:00 推文](https://twitter.com/HeQinglian/status/1595424562283413505)
+
+索罗斯花6000万美元收购西班牙语电台，是为了瓦解拉丁裔对共和党的支持。这是对佛洛里达2022年中选选情分析后的定向投资。<br><br>Fox News: Soros takeover: FCC clears path for liberal group to buy Spanish-language conservative talk radio stations<br> <a href="https://fxn.ws/3ES1as8" target="_blank" rel="noopener noreferrer">https://fxn.ws/3ES1as8</a>
+
+### 39: [2022-11-23 22:34:02+08:00 推文](https://twitter.com/HeQinglian/status/1595425447374106626)
+
+Re @franktianxie 北约主导权与决定权都不在德、法两国手中。得等美国拜登政府疲劳之后，才会促进和谈。目前华府民主党政圈因明年新国会开业后，不能一党说了算，正在考虑2024年如何战，“外事”处于半休息状态。
+
+### 40: [2022-11-23 23:21:51+08:00 推文](https://twitter.com/HeQinglian/status/1595437479766724609)
+
+与马克龙不同调，马克龙说的是不应该多极化，只应该有一个世界领导，说完后又去主持一个什么世界法语国家论坛了。<br><br>绫波: 德国总理朔尔茨11月21日在一场经济论坛上，分享了亚洲行后的心得。他表示，世界正在日益多极化并发生根本性的结构重组，欧洲和北美国家能够享受世界上最好经济——稳定的增长、低通胀和高就业率的美好时光已经一去不复返了。<br><br><img style="" src="https://pbs.twimg.com/media/FiOOTmQXEAAs61_?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 41: [2022-11-23 23:25:15+08:00 推文](https://twitter.com/HeQinglian/status/1595438336285483011)
+
+Re @realTaoRay 他也许能活到一百岁？因为有许多延命的方法。
+
+### 42: [2022-11-23 23:29:40+08:00 推文](https://twitter.com/HeQinglian/status/1595439446823927808)
+
+Re @Vince6610 @Lucs24659702 也因此，在纽约被BLM流浪汉推下地铁的那位华人女士，过去多年做义工帮助这类人。在费城被女BLM高中生群殴的华人女高中生，与其母亲一样，都是支持BLM的——这些是前者的熟人与后者母女述说。<br>因为有亲切感，不会防备。
+
+### 43: [2022-11-23 23:31:56+08:00 推文](https://twitter.com/HeQinglian/status/1595440015567454213)
+
+Re @realTaoRay 这是肯定的，开放基金会的继承者早定了。只是那位没他这么厉害。
+
+### 44: [2022-11-24 00:15:40+08:00 推文](https://twitter.com/HeQinglian/status/1595451023052660738)
+
+【在中国国家电视台的采访节目上，克劳斯·施瓦布 (Klaus Schwab) 称中国是“许多国家的榜样”，宣布“世界将发生系统性转变”。】<br>——提醒一下，这不是施瓦布发生转变，在2020年6月初的大重置宣言中，人家明确宣示：要加强政府对经济、资源的控制，通过疫苗证加强社会控制，北京是大重置当中的重要角色。<br><br>Disclose.tv: NEW - Klaus Schwab says China is a "role model for many countries" and proclaims a "systemic transformation of the world" on Chinese state television.<br><br><video src="https://video.twimg.com/ext_tw_video/1595122395446005760/pu/vid/1280x720/NndlsWsbczqiiW2w.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1595122395446005760/pu/img/wGRAg_cFR5j6691m.jpg"></video>
+
+### 45: [2022-11-24 00:28:25+08:00 推文](https://twitter.com/HeQinglian/status/1595454232974475265)
+
+Re @realTaoRay @Qing2022022 黄石公园这部电视剧里就谈到环保集团如何制造事端，让土地所有者陷入被罚款与官司的境地，然后低价收购。不少律师专门从事这活动。
 
