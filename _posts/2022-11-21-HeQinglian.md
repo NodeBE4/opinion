@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-11-22
+date: 2022-11-23
 from: https://twitter.com/HeQinglian/status/1594395902537617415
 layout: post
 tags:
@@ -158,4 +158,8 @@ Re @JianglinLi @TomMa07952688 这事，只能说一个自我弱化的国家失�
 ### 36: [2022-11-22 23:13:41+08:00 推文](https://twitter.com/NAConservative9/status/1595073035702501376)
 
 RT 北美保守评论🇺🇸🇨🇦<br>《中期选举后，共和党吸取了什么教训吗?》<br><br>底线是，如果选举过程不被修复，给美国带来公平和诚实的 “选举”，而不是统治阶级的 “选择”，任何关于候选人、信息，以及川普或德桑蒂斯是更好的总统候选人的进一步讨论都将变得无关紧要。 <a href="https://nacr.info/WordPress/index.php/2022/11/22/has-the-gop-learned-anything-after-the-midterms/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/11/22/has-the-gop-learned-anything-after-the-midterms/</a><br><img style="" src="https://pbs.twimg.com/media/FiLWF1rXoAYSMz9?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 37: [2022-11-23 04:24:10+08:00 推文](https://twitter.com/NAConservative9/status/1595151172847169536)
+
+RT 北美保守评论🇺🇸🇨🇦<br>《“你绝对是个骗子”：芝加哥商品交易所CEO特里•达菲回忆与班克曼-弗里德的首次见面》<br><br>像FTX公司CEO班克曼-弗里德这样的骗子之所以能够活得风生水起，甚至登上了《福布斯杂志》的封面，其中一项重要因素就是有政治大佬为他撑腰，而这些政治大佬则都是他巨额政治献金的受益人。 <a href="https://nacr.info/WordPress/index.php/2022/11/22/cme-ceo-terry-duffy-recalls-first-meeting-sam-bankman-fried/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/11/22/cme-ceo-terry-duffy-recalls-first-meeting-sam-bankman-fried/</a><br><img style="" src="https://pbs.twimg.com/media/FiMdSv6X0AMROeg?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
