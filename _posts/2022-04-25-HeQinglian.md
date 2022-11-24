@@ -365,7 +365,7 @@ Re @o2pIHqzvuxGd9Uu “贪婪无度”，不说历史，就说近20年，最好�
 
 ### 88: [2022-04-28 22:04:02+08:00 推文](https://twitter.com/HeQinglian/status/1519678831782764544)
 
-这是美国的现代货币理论：只要美元是世界硬通货，美元发行可以无上限，通胀可以外溢，全世界承受。<br>奥巴马最喜欢这理论了。民主党奉若圭臬。 <a href="https://twitter.com/kingbull199/status/1519672901183500288" target="_blank" rel="noopener noreferrer">https://twitter.com/kingbull199/status/1519672901183500288</a>
+这是美国的现代货币理论：只要美元是世界硬通货，美元发行可以无上限，通胀可以外溢，全世界承受。<br>奥巴马最喜欢这理论了。民主党奉若圭臬。
 
 ### 89: [2022-04-28 22:32:28+08:00 推文](https://twitter.com/HeQinglian/status/1519685988230082563)
 
@@ -517,7 +517,7 @@ Re @Lucs24659702 拜登美国价值观的体现，正准备推向全世界。
 
 ### 126: [2022-05-01 20:52:12+08:00 推文](https://twitter.com/HeQinglian/status/1520747918399094784)
 
-Re 拜登美国价值观的体现，正准备推向全世界。<br><br>Lucs: 宾州一所学校的老师为学生举办了一个变装秀，作为LGBT俱乐部的活动一部分。据报告他们没有通知学生父母，Hempfield学区今早确认老师在休假中。<br>该视频是变装活动的一部分。<br><br><video src="https://video.twimg.com/ext_tw_video/1520615927766667265/pu/vid/720x1264/s5cbGltHLiEDHIfy.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1520615927766667265/pu/img/TdCjSRU-zJNzFP8q.jpg"></video>
+Re 拜登美国价值观的体现，正准备推向全世界。 <a href="https://twitter.com/Lucs24659702/status/1520615972125560832" target="_blank" rel="noopener noreferrer">https://twitter.com/Lucs24659702/status/1520615972125560832</a>
 
 ### 127: [2022-05-01 20:54:52+08:00 推文](https://twitter.com/HeQinglian/status/1520748589139517440)
 

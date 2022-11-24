@@ -225,7 +225,7 @@ Re @franktianxie 我觉得，俄乌战争以来经济神话破灭得最彻底的
 
 ### 53: [2022-07-05 22:44:19+08:00 推文](https://twitter.com/HeQinglian/status/1544331343492009985)
 
-中国的节令是公历8月8日（或7日）立秋，西方的秋天大概也在8月，难怪乌克兰总理昨天说要在8月取得第一场可观的胜利（以前的胜利不可观？），白宫官员传拜登要在8月终战。<br>还是有始有终地好。不过，北约收获了新成员国，反俄力量壮大了。
+中国的节令是公历8月8日（或7日）立秋，西方的秋天大概也在8月，难怪乌克兰总理昨天说要在8月取得第一场可观的胜利（以前的胜利不可观？），白宫官员传拜登要在8月终战。<br>还是有始有终地好。不过，北约收获了新成员国，反俄力量壮大了。<br><br>Ezio Mao☢: 如果基辅在秋天之前不扭转局势，西方将开始削减援助。<br><br>《每日电讯报》参考其自己的消息来源对此进行了报道。<br><br>该出版物报道，西方集体逐渐得出结论，支持乌克兰毫无意义。<br><br><img style="" src="https://pbs.twimg.com/media/FW6P6l-UEAAAyPr?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 54: [2022-07-05 22:58:18+08:00 推文](https://twitter.com/HeQinglian/status/1544334862919811076)
 
@@ -245,7 +245,7 @@ Re @KELMAND1 OMG，战争一旦开打，不是累不累的问题，而是生与�
 
 ### 58: [2022-07-05 23:24:49+08:00 推文](https://twitter.com/shenliangqing2/status/1544341537961586689)
 
-RT 沈良庆二世<br>人与人之间互相尊重才能和平共处。如今在发达国家已经不存在大众性向歧视小众性向问题，而是包括跨性别在内的小众不断用激进手段来骚扰、绑架、胁迫大众，试图抢占更多公共资源，用自己的特殊性取向冒犯甚至侵犯大众，试图改造他人甚至儿童。压迫过头了，迟早会遭遇大众反抗，危害自身。
+RT 沈良庆二世<br>人与人之间互相尊重才能和平共处。如今在发达国家已经不存在大众性向歧视小众性向问题，而是包括跨性别在内的小众不断用激进手段来骚扰、绑架、胁迫大众，试图抢占更多公共资源，用自己的特殊性取向冒犯甚至侵犯大众，试图改造他人甚至儿童。压迫过头了，迟早会遭遇大众反抗，危害自身。<br><br>BBC News 中文: 英国政府表示，越来越多的“性别中立”厕所让女性“处于不公平的弱势地位”，增加女性排队时间。政府提议修法，规定新建公共建筑必须设置男女分开的单一性别厕所。<br><br>“性别中立”厕所让使用者按照自己的性别认同选择使用厕所，通常有数个厕所隔间，但使用者必须共用排队和洗手设施，有些女性对此感到不舒服。<br><br><img style="" src="https://pbs.twimg.com/media/FW6CBUDWAAI-qQV?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 59: [2022-07-06 00:54:29+08:00 推文](https://twitter.com/HeQinglian/status/1544364100188311553)
 
@@ -257,7 +257,7 @@ Re @suisam007 @KELMAND1 推上风光，喊口号表态，代表政治正确。�
 
 ### 61: [2022-07-06 03:22:14+08:00 推文](https://twitter.com/HeQinglian/status/1544401284064854018)
 
-RT He Qinglian<br>美国对华外交的战略判断<br><br>美国对华的外交战略判断从来就不是政治为主，确定对华外交的战略判断是中国经济繁荣与否，对美国有利与否。拜登政府上任伊始，明言不干涉中国的政治制度。促成拜登结束战略摇摆期的因素都已浮现，耶伦与刘鹤通话是预热，习拜已经预约近期通话。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html</a>
+美国对华外交的战略判断<br><br>美国对华的外交战略判断从来就不是政治为主，确定对华外交的战略判断是中国经济繁荣与否，对美国有利与否。拜登政府上任伊始，明言不干涉中国的政治制度。促成拜登结束战略摇摆期的因素都已浮现，耶伦与刘鹤通话是预热，习拜已经预约近期通话。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html</a>
 
 ### 62: [2022-07-06 03:24:50+08:00 推文](https://twitter.com/HeQinglian/status/1544401939013799936)
 
@@ -289,7 +289,7 @@ Re @racoonincan 让95%以上的正常人服从于少数人的怪癖，当街裸�
 
 ### 69: [2022-07-06 04:45:37+08:00 推文](https://twitter.com/HeQinglian/status/1544422270776606723)
 
-拜登政府據報計畫調整特朗普時期的對華關稅，包含三個部分 <br>估计拜登与习近平通话前，会宣布调整关税计划，增加一点“友好气氛”。 <a href="https://rfi.my/8Yh9.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8Yh9.T</a>
+拜登政府據報計畫調整特朗普時期的對華關稅，包含三個部分 <br>估计拜登与习近平通话前，会宣布调整关税计划，增加一点“友好气氛”。<br><br>He Qinglian: 美国对华外交的战略判断<br><br>美国对华的外交战略判断从来就不是政治为主，确定对华外交的战略判断是中国经济繁荣与否，对美国有利与否。拜登政府上任伊始，明言不干涉中国的政治制度。促成拜登结束战略摇摆期的因素都已浮现，耶伦与刘鹤通话是预热，习拜已经预约近期通话。<br> <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html</a>
 
 ### 70: [2022-07-06 08:48:20+08:00 推文](https://twitter.com/HeQinglian/status/1544483350672547841)
 
@@ -449,7 +449,7 @@ WSJ总算说了点不讨白宫与民主党大佬们喜欢的话。可以说，�
 
 ### 109: [2022-07-07 20:44:00+08:00 推文](https://twitter.com/HeQinglian/status/1545025841767321600)
 
-说得好，痛快淋漓。👍👍👍
+说得好，痛快淋漓。👍👍👍<br><br>天降伟人包由检: 何止不用性别？我都不用人类来定义这种垃圾。真善美是人类社会伦理的根基。颠覆这三个根基就是为了推翻人类社会现有价值夺权。这就是左棍们破四旧的核心动力和主要手段。宣传LGBT审丑是摧毁美；用政治正确来让说真话的人闭嘴是摧毁真；用BLM之流的流氓无产者专政来摧毁善。不折不扣的文革，一模一样<br> <a href="https://twitter.com/jacob43817149/status/1544766052021813249" target="_blank" rel="noopener noreferrer">https://twitter.com/jacob43817149/status/1544766052021813249</a>
 
 ### 110: [2022-07-07 23:20:17+08:00 推文](https://twitter.com/HeQinglian/status/1545065171353206784)
 
@@ -749,7 +749,7 @@ Re @RealBeiMing @Tianshuihanyan 人家从嘲讽里听出了不服从。😉<br>�
 
 ### 184: [2022-07-10 21:35:57+08:00 推文](https://twitter.com/HeQinglian/status/1546126078086987777)
 
-日本警方严重失职（至少破除了东京警视厅神话），导致安倍被害。<br>目前，全世界专业、业余侦探全部出动，要找出安倍被害的深黑背景。<br>我坐等结果。😅<br><br>纽约时报中文网: #讣告 在寻求修宪的过程中，安倍惹怒了日本20世纪军国主义的两个受害者——中国与韩国。他还否认“二战”期间日军曾强迫亚洲女性做慰安妇，并着手修改教科书，讲述了批评人士所谓的日本战时历史的粉饰版本。<br> <a href="https://nyti.ms/3NRB6i3" target="_blank" rel="noopener noreferrer">https://nyti.ms/3NRB6i3</a>
+日本警方严重失职（至少破除了东京警视厅神话），导致安倍被害。<br>目前，全世界专业、业余侦探全部出动，要找出安倍被害的深黑背景。<br>我坐等结果。😅
 
 ### 185: [2022-07-10 21:43:46+08:00 推文](https://twitter.com/HeQinglian/status/1546128045798555648)
 

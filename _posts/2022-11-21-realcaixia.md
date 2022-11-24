@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-11-24
+date: 2022-11-25
 from: https://twitter.com/realcaixia/status/1594809513135443968
 layout: post
 tags:
@@ -86,4 +86,8 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FiRZa16UAAU2P5t?format=jpg
 ### 18: [2022-11-24 21:30:13+08:00 推文](https://twitter.com/realcaixia/status/1595771772195831808)
 
 不知河南鄭州富士康工人們現在怎麼樣了？<br><br>方舟子: 郑州富士康工人暴动现场，领导的车被砸了。<br><br><video src="https://video.twimg.com/ext_tw_video/1595306622233870338/pu/vid/418x720/izuWSaeb653KKxkP.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1595306622233870338/pu/img/tqtx5NzEK9KaKbQT.jpg"></video>
+
+### 19: [2022-11-25 03:42:44+08:00 推文](https://twitter.com/realcaixia/status/1595865519952781312)
+
+祝各位網友和家人感恩節快樂👪！<br>特轉推：这边是节日，墙内是末日。乱了套了，北京、广州、郑州、大庆和新疆等地的朋友都有微信来说，快撑不住了。来回地封区封楼，精神都快崩溃了！现在是怨声载道，天怒人怨！”<br>美国人过感恩节喜气洋洋，卡塔尔足球场人声鼎沸，墙内各地方舱大白凄惨暴戾。天壤之别！<br><img style="" src="https://pbs.twimg.com/media/FiWnOukUUAAY2BJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
