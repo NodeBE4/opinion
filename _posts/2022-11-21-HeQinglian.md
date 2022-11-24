@@ -195,7 +195,31 @@ Re @realTaoRay 这是肯定的，开放基金会的继承者早定了。只是�
 
 Re @realTaoRay @Qing2022022 黄石公园这部电视剧里就谈到环保集团如何制造事端，让土地所有者陷入被罚款与官司的境地，然后低价收购。不少律师专门从事这活动。
 
-### 46: [2022-11-24 02:11:53+08:00 推文](https://twitter.com/HeQinglian/status/1595480268621725717)
+### 46: [2022-11-24 01:10:07+08:00 推文](https://twitter.com/NAConservative9/status/1595464726871527425)
+
+RT 北美保守评论🇺🇸🇨🇦<br>《众议员马特·盖兹：“在共和党控制的第一天，我们应该接管J6委员会，为我们的爱国者开脱。”》<br><br>只有这样才能真实还原当天所发生的一切，证明1月6日要求拒绝欺诈的选举结果的抗议集会到底是和平集会还是叛乱；只有这样才能彻底挫败拜登政府针对川普总统和 MAGA 共和党人的迫害。 <a href="https://nacr.info/WordPress/index.php/2022/11/23/matt-gaetz-on-first-day-of-republican-control-we-should-take-over-j6-committee-exonerate-our-patriots/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/11/23/matt-gaetz-on-first-day-of-republican-control-we-should-take-over-j6-committee-exonerate-our-patriots/</a><br><img style="" src="https://pbs.twimg.com/media/FiQ6ITIWYAIU9rN?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 47: [2022-11-24 02:11:53+08:00 推文](https://twitter.com/HeQinglian/status/1595480268621725717)
 
 Re @Wazy1988bW 这还有个过程，而且不短，还得看美国。
+
+### 48: [2022-11-24 07:03:42+08:00 推文](https://twitter.com/HeQinglian/status/1595553707726622720)
+
+Re @NAConservative9 用中国政治语言，是平反。😅<br>乐见美国结束政治迫害。
+
+### 49: [2022-11-24 07:15:27+08:00 推文](https://twitter.com/HeQinglian/status/1595556663746084864)
+
+Re @KELMAND1 😇😇😇<br>一朝圣主宠，终生难自弃；频发长门怨，难挽君王心。
+
+### 50: [2022-11-24 07:47:38+08:00 推文](https://twitter.com/HeQinglian/status/1595564765274935299)
+
+施瓦布接受CGTN的田薇采访，盛赞中国模式并认为值得许多国家仿效，不知是否会译成中文广为流播？当然也不知中国的左派公知看后作何感想？<br>如果继续拒绝承认拜登美国是大重置的主要抓手，是施瓦布的同盟，只能说他们愿意生活在幻想世界里。<br><br>文婕 文婕播报: WEF的施瓦布刚刚赞扬了“中国模式”是很多国家的楷模，中国就发布了国家社会信用法草案，在金融信用和社会信用两方面牢牢掌控十四亿韭菜。<br><br>中国中央银行已经建立了超过11亿人（有那么多人？）的金融数据，真的是现代奴隶制楷模啊。<br> <a href="https://expose-news.com/2022/11/23/china-has-released-draft-national-social-credit-law/" target="_blank" rel="noopener noreferrer">https://expose-news.com/2022/11/23/china-has-released-draft-national-social-credit-law/</a>
+
+### 51: [2022-11-24 07:59:23+08:00 推文](https://twitter.com/HeQinglian/status/1595567722389295108)
+
+查资料时发现，朔尔茨抄普京作业😅：<br>2022年9月15日，在上海合作组织峰会上，普京指出，“国际关系中发生了不可逆转的，甚至是结构性的变化。世界上充满活力、有前途的国家和地区，主要集中在亚太地区，其作用也显着得到了增强。”<br><br>绫波: 德国总理朔尔茨11月21日在一场经济论坛上，分享了亚洲行后的心得。他表示，世界正在日益多极化并发生根本性的结构重组，欧洲和北美国家能够享受世界上最好经济——稳定的增长、低通胀和高就业率的美好时光已经一去不复返了。<br><br><img style="" src="https://pbs.twimg.com/media/FiOOTmQXEAAs61_?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 52: [2022-11-24 10:11:34+08:00 推文](https://twitter.com/HeQinglian/status/1595600983861641220)
+
+Re @Brown28060111 你这总结甚妙。<br>我与推上好些人（不下百余位吧）早就看清这幅图景，说了好几年，成为少数派，应该接得住。<br>但国内那些人，现在正在模糊乌克兰政府的现状，估计今后也会模糊应之。<br>民主党对华政策的“战略模糊”，他们学会了“模糊”二字，成了“认知模糊”。
 

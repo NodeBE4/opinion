@@ -164,6 +164,10 @@ I don't know what to tell you, but you're describing nigh-on nonexistent situati
 
 In any event, it's not even like most VTuber companies are promoting total non-entities. Despite the nominal commitment to anonymity, VTubers' past on the internet can be pretty traceable, and at both major agencies (Hololive and Nijisanji) new talents are invariably existing content creators, some more popular and some more obscure. So I don't know what the issue is. Is it that already-popular creators are getting a boost from the branding and that's bad because...???? Or is it that obscure creators are getting a boost from the branding and that's bad because...????
 
+----- __935.9__ -----2022-11-24 08:59:07+08:00:
+
+Quality of mouth tracking can definitely be variable, and there's four (sort of three) potential points of failure: is the rigging high enough quality to interpret the inputs properly, is the camera good enough to produce high-quality inputs (i.e. sensitive enough but not over-sensitive), is the streamer positioned optimally relative to the camera, and do they talk in a way that makes it easy for the whole setup to pick up (relatively significant mouth movements, not speaking too quickly, etc)? There are some examples of slicker tracking though: Froot and Silvervale stand out off the top of my head.
+
 ### 936: [[Hobby Scuffles] Week of November 21, 2022](https://old.reddit.com/r/HobbyDrama/comments/z067ox/hobby_scuffles_week_of_november_21_2022/), submitted on 2022-11-20 23:00:12+08:00.
 
 ----- __936.1__ -----2022-11-23 04:39:04+08:00:

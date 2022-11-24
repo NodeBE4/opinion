@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-11-22
+date: 2022-11-24
 from: https://old.reddit.com/r/HobbyDrama/comments/z187cz/tabletop_gamingwarhammer_40k_leagues_of_brokaan/
 layout: post
 tags:
@@ -34,4 +34,22 @@ No, because China and Japan did not go into isolation. In the case of Japan, 'is
 ----- __939.1__ -----2022-11-22 20:42:12+08:00:
 
 Three cheers for Gene's Vision, everyone!
+
+### 940: [Petition to change the “Cavalry” unit to the Dragoon unit](https://old.reddit.com/r/civ/comments/z2t29u/petition_to_change_the_cavalry_unit_to_the/), submitted on 2022-11-24 00:10:08+08:00.
+
+----- __940.1__ -----2022-11-24 09:15:27+08:00:
+
+Yes and no. Dragoons as originally conceived in the 17th century were mounted infantry, but dragoons and other ordinary 'horse' basically met in the middle by the early 18th century, largely fighting in close quarters in battle but retaining the ability to skirmish with firearms.
+
+### 941: [In the Klingon lexicon, the term for "pair" is "chang`eng".](https://old.reddit.com/r/tlhInganHol/comments/z2zqij/in_the_klingon_lexicon_the_term_for_pair_is/), submitted on 2022-11-24 04:33:19+08:00.
+
+----- __941.1__ -----2022-11-24 09:21:19+08:00:
+
+It's a classic joke among linguists, orthographers and the like that 'ghoti' is a legitimate spelling of 'fish', as long as you pronounce:
+
+* 'gh' like in 'cough' where it makes an 'f' sound,
+* 'o' like in 'women' where it makes an 'i' sound, and
+* 'ti' like in 'initial' where it makes a 'sh' sound.
+
+Mark Okrand, creator of Klingon, thus decided 'ghotI'' would be Klingon for 'fish'.
 
