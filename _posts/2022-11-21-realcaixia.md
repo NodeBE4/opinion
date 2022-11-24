@@ -79,3 +79,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FiRZa16UAAU2P5t?format=jpg
 
 特别推荐#议报首发周舵读书笔记《理性选民的神话》。<br>周舵勤奋读书勤于思考。我与周舵是紧邻，我们常在他家围坐讨论；我常与周舵夫妇漫步在静谧山路上；我们常争论不止，甚至面红耳赤各不相让。有一回周舵大怒，我和燕英（周舵夫人）大笑，唇枪舌剑后风雨尽散，周舵文章都是读书思考的结晶。<br><br>《议报》: 周舵 | 理性选民的神话<br> <a href="https://yibaochina.com/?p=248446" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248446</a>
 
+### 17: [2022-11-24 20:43:46+08:00 推文](https://twitter.com/realcaixia/status/1595760082259542016)
+
+转发：下面这个小视频是北京市在海淀区凤凰岭盖的方仓，这么大一片儿。北京网友说，看来北京是在为可能的疫情失控做准备了。这么大一片能装进去多少人？这被装进去的人得自费。<br><video src="https://video.twimg.com/ext_tw_video/1595760057563635712/pu/vid/368x640/keoYC3-UT9PdPnpR.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1595760057563635712/pu/img/odOnnDW2A1cr9Ydu.jpg"></video>
+
