@@ -91,3 +91,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FiRZa16UAAU2P5t?format=jpg
 
 祝各位網友和家人感恩節快樂👪！<br>特轉推：这边是节日，墙内是末日。乱了套了，北京、广州、郑州、大庆和新疆等地的朋友都有微信来说，快撑不住了。来回地封区封楼，精神都快崩溃了！现在是怨声载道，天怒人怨！”<br>美国人过感恩节喜气洋洋，卡塔尔足球场人声鼎沸，墙内各地方舱大白凄惨暴戾。天壤之别！<br><img style="" src="https://pbs.twimg.com/media/FiWnOukUUAAY2BJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 20: [2022-11-25 05:29:17+08:00 推文](https://twitter.com/realcaixia/status/1595892332955680775)
+
+这三幅视频是墙内民众的反抗；一个文字截图反映了中共基层组织干部的惊恐不安与毫无人性。“基础不牢，地动山摇”这两句话从江泽民时期讲到胡锦涛时期，现在传到了习独裁时期。 <a href="https://twitter.com/i/web/status/1595892332955680775" target="_blank" rel="noopener noreferrer">https://twitter.com/i/web/status/1595892332955680775</a><br><video src="https://video.twimg.com/ext_tw_video/1595892284972744705/pu/vid/480x848/W5nOraSFHz_6_D1R.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1595892284972744705/pu/img/GoInVQXHWSeqqVSC.jpg"></video>
+

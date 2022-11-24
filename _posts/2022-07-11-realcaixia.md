@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2022-07-11~2022-07-17'
 
 ### 4: [2022-07-14 09:52:58+08:00 推文](https://twitter.com/realcaixia/status/1547398719150211073)
 
-纪念刘晓波，我们拒绝遗忘。每年今日就犹如每年的六·四一样：<br>纪念为所有争取自由民主而献出生命的英魂，他们的精神感召与激励着更多的人加入为此而奋斗的行列。相信无论前路如何艰难，无论需要多长的时间，未来的中国终将走向宪政民主。<br><br>胡发云 hufayun: 胡發雲：索爾維格之歌的故事 <br>怀念小波。<br> <a href="https://youtu.be/rEI8vbana4c" target="_blank" rel="noopener noreferrer">https://youtu.be/rEI8vbana4c</a>
+纪念刘晓波，我们拒绝遗忘。每年今日就犹如每年的六·四一样：<br>纪念为所有争取自由民主而献出生命的英魂，他们的精神感召与激励着更多的人加入为此而奋斗的行列。相信无论前路如何艰难，无论需要多长的时间，未来的中国终将走向宪政民主。
 
 ### 5: [2022-07-14 09:58:48+08:00 推文](https://twitter.com/realcaixia/status/1547400187169181697)
 
@@ -37,11 +37,11 @@ Re 中国著名作家胡发云先生的文章—索尔维格之歌的故事：�
 
 ### 6: [2022-07-14 22:11:50+08:00 推文](https://twitter.com/realcaixia/status/1547584659038486529)
 
-完全同意。手下小兄弟伙鼓噪把黑老大抬上领袖神龛，既蠢且坏。看看历史上，有哪个领袖青史留名？看看全世界公认的杰出政治人物，哪一个顶着领袖的封号？越是热衷于封号越是透出心虚不自信。自封人民领袖，但上台以来，人民有难时从没出现在人民当中；清零封城使多少人非正常死亡，但他仍死抱清零不放。<br><br>韩连潮: 【人民领袖反人民】中共造习神运动不断加码，从习核心升到当之无愧的领袖，再到人民领袖。之前中共只给毛泽东和华国锋冠以伟大领袖和英明领袖，事实证明，伟大领袖最卑鄙渺小，是个政治、生活流氓；英明领袖最愚蠢，到死都不知道自己权力怎么丧失的；而人民领袖的所作所为都是祸害人民，下场也不会好。<br><br><img style="" src="https://pbs.twimg.com/media/FXoAbPTXEAIf-19?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+完全同意。手下小兄弟伙鼓噪把黑老大抬上领袖神龛，既蠢且坏。看看历史上，有哪个领袖青史留名？看看全世界公认的杰出政治人物，哪一个顶着领袖的封号？越是热衷于封号越是透出心虚不自信。自封人民领袖，但上台以来，人民有难时从没出现在人民当中；清零封城使多少人非正常死亡，但他仍死抱清零不放。
 
 ### 7: [2022-07-15 00:56:12+08:00 推文](https://twitter.com/realcaixia/status/1547626026435375104)
 
-荣剑的著作哪本都是精品，阅读荣剑的大作，既是思想盛宴又是文字美的艺术享受。我是在1989年6·4运动前后读到荣剑的文章的，如醍醐灌顶，从此后我就成了荣剑的铁杆粉丝。期待Amazon上能买到荣剑的这本纸质书。
+荣剑的著作哪本都是精品，阅读荣剑的大作，既是思想盛宴又是文字美的艺术享受。我是在1989年6·4运动前后读到荣剑的文章的，如醍醐灌顶，从此后我就成了荣剑的铁杆粉丝。期待Amazon上能买到荣剑的这本纸质书。<br><br>荣剑: 再次推广！<br> <a href="https://twitter.com/ArtNext/status/1446509334087847947" target="_blank" rel="noopener noreferrer">https://twitter.com/ArtNext/status/1446509334087847947</a>
 
 ### 8: [2022-07-15 05:45:33+08:00 推文](https://twitter.com/realcaixia/status/1547698840366567429)
 
@@ -57,7 +57,7 @@ Re @gaoyu200812 原先是有规则的，新闻联播前25分钟是国内报道�
 
 ### 11: [2022-07-15 23:51:21+08:00 推文](https://twitter.com/realcaixia/status/1547972093869928455)
 
-这段视频在国内微信群流传，看来问题出在政府部门。如果这个银行方人员说的是真相的话，那么银行应该“出门右转找政府”，政府耍赖的话，那么银行该去法院状告政府房管局，追究政府有关部门的法律责任。<br><br>变态辣椒RebelPepper: 銀行：冤有頭債有主，出門右轉找**<br><br><video src="https://video.twimg.com/ext_tw_video/1547624996008128512/pu/vid/368x640/-OWCK0CSkllCtYy4.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1547624996008128512/pu/img/-8JbfZBg5Jj65jAg.jpg"></video>
+这段视频在国内微信群流传，看来问题出在政府部门。如果这个银行方人员说的是真相的话，那么银行应该“出门右转找政府”，政府耍赖的话，那么银行该去法院状告政府房管局，追究政府有关部门的法律责任。
 
 ### 12: [2022-07-16 00:35:14+08:00 推文](https://twitter.com/realcaixia/status/1547983137363283974)
 
@@ -65,5 +65,5 @@ Re @gaoyu200812 原先是有规则的，新闻联播前25分钟是国内报道�
 
 ### 13: [2022-07-16 23:53:07+08:00 推文](https://twitter.com/realcaixia/status/1548334925681635332)
 
-一方面，这个事件的滑稽可笑表明，中共以及五毛粉红们的以言论罪，完全不讲逻辑、无可理喻，充满邪恶。另一方面，中共与习不是宣称有强大的五个自信吗？自信到了以捕风捉影、邪念妄想症来坑人整人的地步。<br><br>荣剑: 一起舆情事故就这么发生了，人家说的是知了，挡不住别人联想丰富。<br><br><img style="" src="https://pbs.twimg.com/media/FXwQrhGUYAQyUJu?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FXwQsQCUUAcb9es?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FXwQtR6UYAMQMov?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FXwQt_WUcAADxuN?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+一方面，这个事件的滑稽可笑表明，中共以及五毛粉红们的以言论罪，完全不讲逻辑、无可理喻，充满邪恶。另一方面，中共与习不是宣称有强大的五个自信吗？自信到了以捕风捉影、邪念妄想症来坑人整人的地步。
 
