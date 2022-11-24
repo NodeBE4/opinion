@@ -75,3 +75,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FiRZKOfVIAApEyE?format=jpg
 
 Re <br><img style="" src="https://pbs.twimg.com/media/FiRZa16UAAU2P5t?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FiRZa15UoAEVgr1?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 16: [2022-11-24 12:55:22+08:00 推文](https://twitter.com/realcaixia/status/1595642208694280194)
+
+特别推荐#议报首发周舵读书笔记《理性选民的神话》。<br>周舵勤奋读书勤于思考。我与周舵是紧邻，我们常在他家围坐讨论；我常与周舵夫妇漫步在静谧山路上；我们常争论不止，甚至面红耳赤各不相让。有一回周舵大怒，我和燕英（周舵夫人）大笑，唇枪舌剑后风雨尽散，周舵文章都是读书思考的结晶。<br><br>《议报》: 周舵 | 理性选民的神话<br> <a href="https://yibaochina.com/?p=248446" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248446</a>
+
