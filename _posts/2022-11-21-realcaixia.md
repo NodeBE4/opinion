@@ -83,3 +83,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FiRZa16UAAU2P5t?format=jpg
 
 转发：下面这个小视频是北京市在海淀区凤凰岭盖的方仓，这么大一片儿。北京网友说，看来北京是在为可能的疫情失控做准备了。这么大一片能装进去多少人？这被装进去的人得自费。<br><video src="https://video.twimg.com/ext_tw_video/1595760057563635712/pu/vid/368x640/keoYC3-UT9PdPnpR.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1595760057563635712/pu/img/odOnnDW2A1cr9Ydu.jpg"></video>
 
+### 18: [2022-11-24 21:30:13+08:00 推文](https://twitter.com/realcaixia/status/1595771772195831808)
+
+不知河南鄭州富士康工人們現在怎麼樣了？<br><br>方舟子: 郑州富士康工人暴动现场，领导的车被砸了。<br><br><video src="https://video.twimg.com/ext_tw_video/1595306622233870338/pu/vid/418x720/izuWSaeb653KKxkP.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1595306622233870338/pu/img/tqtx5NzEK9KaKbQT.jpg"></video>
+
