@@ -95,3 +95,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FiRZa16UAAU2P5t?format=jpg
 
 这三幅视频是墙内民众的反抗；一个文字截图反映了中共基层组织干部的惊恐不安与毫无人性。“基础不牢，地动山摇”这两句话从江泽民时期讲到胡锦涛时期，现在传到了习独裁时期。 <a href="https://twitter.com/i/web/status/1595892332955680775" target="_blank" rel="noopener noreferrer">https://twitter.com/i/web/status/1595892332955680775</a><br><video src="https://video.twimg.com/ext_tw_video/1595892284972744705/pu/vid/480x848/W5nOraSFHz_6_D1R.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1595892284972744705/pu/img/GoInVQXHWSeqqVSC.jpg"></video>
 
+### 21: [2022-11-25 12:37:20+08:00 推文](https://twitter.com/realcaixia/status/1596000055835516928)
+
+这条央视新闻从另一角度表明，中共最高层那时已知道武汉病毒有传染，但想隐瞒。否则，何以解释央视顶级频道——新闻频道，播发武汉警方惩处“造谣者”？！凡上央视新闻频道的地方情况必经高层审查批准，警察抓“造谣”者上央视新闻，并全国多省电视转播，是高层谁批准的？这么反常的新闻没有“妖”？！<br><br>反对独裁专治政权: 这不辱共？这条视频再次把中共永远订在中华民族的耻辱柱上！<br><br><video src="https://video.twimg.com/ext_tw_video/1595983416843173890/pu/vid/640x360/KZuHf-AhLtMd8jrj.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1595983416843173890/pu/img/vegbNFYFT5eZj-8p.jpg"></video>
+
