@@ -319,11 +319,27 @@ Re @James_Lee2018 上述现象是疫情之前吧？疫情之后的中国，主�
 
 Re @dinglili7 德国用专机送往美国，美国有这个义务。旧金山、纽约、芝加哥、华府等城任选。
 
-### 77: [2022-11-26 01:56:45+08:00 推文](https://twitter.com/HeQinglian/status/1596201237233664003)
+### 77: [2022-11-26 01:20:40+08:00 推文](https://twitter.com/NAConservative9/status/1596192157492457472)
+
+RT 北美保守评论🇺🇸🇨🇦<br>《马里科帕选举彻底失败 爱国者要求重新选举 今天开始大规模抗议》<br><br>亚利桑那州的选举是一场无法证实的混乱，因为选民的选票被偷、没有被计算，或被完全阻止投票。草根活动人士周五组织了抗议活动，要求夺回亚利桑那州腐败的选举。 <a href="https://nacr.info/WordPress/index.php/2022/11/25/mass-protests-began-today-as-patriots-demanded-new-elections-in-maricopa-after-a-resounding-defeat/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/11/25/mass-protests-began-today-as-patriots-demanded-new-elections-in-maricopa-after-a-resounding-defeat/</a><br><img style="" src="https://pbs.twimg.com/media/FibP-90XgAI0Y74?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 78: [2022-11-26 01:56:45+08:00 推文](https://twitter.com/HeQinglian/status/1596201237233664003)
 
 Re @fading_you1 带来的影响很大。<br>一是国民党再无翻身之日；二是可以快速推进变性议题，好玩啊。
 
-### 78: [2022-11-26 02:13:54+08:00 推文](https://twitter.com/HeQinglian/status/1596205554548240384)
+### 79: [2022-11-26 02:13:54+08:00 推文](https://twitter.com/HeQinglian/status/1596205554548240384)
 
 Re @JianglinLi @Vanessa_ZhangUK 美国的好处是房子大。我儿子最近每个月都要去外地开业务会议，机场等人多的地方都要经过。回来后为安全起见，自觉隔离七天，我就将饭菜放在楼梯转角处，避免直接接触。其余洗浴卫生系统本就自成一体，没啥不方便。<br>不过你们本就同出同进，这法子不管用。
+
+### 80: [2022-11-26 04:25:35+08:00 推文](https://twitter.com/HeQinglian/status/1596238691466629121)
+
+Re @franktianxie 美国大，拜登两年不到，进了280多万非法移民；阿富汗撤军时，美国空军用飞机接了好几万，新泽西安排了8000，还差这么些？<br>美联储开动印钞机，咱们忍受一下通胀，不就过了？反正拜登-民主党总变着法子花钱，救人一命，胜造七级浮屠。接过来吧。<br>一个难民产生三至五个服务岗位，大选雇的党工也得就业不？
+
+### 81: [2022-11-26 04:30:53+08:00 推文](https://twitter.com/HeQinglian/status/1596240025116868608)
+
+Re @JianglinLi @Vanessa_ZhangUK 疫苗反应是可控的，时间也有限度；这个不知道是否可控，而且时间也长些。<br>总之，你们要想想可能在哪里染上的可能性大。少去人太多的地方。<br>我现在买菜，一定要赶在上午10时半结束，那之后人太多了。
+
+### 82: [2022-11-26 05:12:14+08:00 推文](https://twitter.com/HeQinglian/status/1596250431218651136)
+
+Re @dinglili7 昨天乌外交部长发出强硬声明：西方没有权利放弃乌克兰。<br>换言之，就是今天西方想不支持乌克兰，没门。好奇泽政府这底气从何而来，发现源头，请告知。
 

@@ -73,9 +73,15 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 What lewdness!
 
-### 944: [Friday Free-for-All | November 25, 2022](https://old.reddit.com/r/AskHistorians/comments/z4e2c3/friday_freeforall_november_25_2022/), submitted on 2022-11-25 22:00:10+08:00.
+### 944: [Motoaki Tanigo then vs. YAGOO now.](https://old.reddit.com/r/Hololive/comments/z49ozy/motoaki_tanigo_then_vs_yagoo_now/), submitted on 2022-11-25 18:02:57+08:00.
 
------ __944.1__ -----2022-11-26 02:22:07+08:00:
+----- __944.1__ -----2022-11-26 06:21:05+08:00:
+
+She even has two Flare dakimakuras.
+
+### 945: [Friday Free-for-All | November 25, 2022](https://old.reddit.com/r/AskHistorians/comments/z4e2c3/friday_freeforall_november_25_2022/), submitted on 2022-11-25 22:00:10+08:00.
+
+----- __945.1__ -----2022-11-26 02:22:07+08:00:
 
 This is a niche one, but it's the idea that the Treaty of Tientsin (Tianjin) in 1858 legalised opium in China. Opium does not appear in the text of *any* of the four versions of the treaty. Moreover, the Treaty of Tientsin was, rather infamously, not ratified by the Xianfeng Emperor, leading to a resumption of hostilities in 1859-60 that concluded in the Convention of Peking, whose first stipulation was that the Qing court had to ratify the earlier treaty. And yet, opium trading was legal all throughout this latter stage of hostilities. If the Qing refused to ratify the opium-legalising treaty, why was opium legal? Instead, it seems that opium was pretty quietly legalised domestically, quite probably to allow it to be taxed to raise funds for fighting the Taiping. There's nothing to indicate it was ever forcibly legalised by treaty.
 

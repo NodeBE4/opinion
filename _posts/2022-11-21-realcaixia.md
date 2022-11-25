@@ -115,3 +115,15 @@ Re @xzzzjpl 你这是转移视线吗？乌鲁木齐居民楼大火，富士康�
 
 毛蛮干饿死3700多万；<br>习幻想➕恐惧，中共国成14亿人自费监狱国，死亡数不明。<br><br>韩连潮: 【反科学的清零何时了】习近平瞎指挥下的清零已经把民众、企业、社会逼到崩溃边缘，这样明显的违反科学的瞎折腾为什么看不到尽头？我觉得就是习“亲自指挥”抗疫战役牛皮已吹出去了，纠错有碍“人民领袖”威望，习的清零和毛一手制造的大饥荒有一比，用百姓生命来撑独裁者的面子就已犯下反人类罪。<br><br><img style="" src="https://pbs.twimg.com/media/FiasKteakAYkw5y?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
+### 26: [2022-11-26 04:39:29+08:00 推文](https://twitter.com/realcaixia/status/1596242190950617088)
+
+物业公司本来是小区业主雇来为业主们服务的员工，在执行清零中有些物业服务人员竟然对业主施暴！这完全颠倒了雇主与被雇佣人的关系。设问谁家保姆敢打主人家人？业主们应该把作恶物业公司的恶行一件件记录在案并公布出去，不仅解雇这些作恶公司，而且要通报给更多小区的业主们，大家都拒绝雇佣他们。<br><br>Bob new: 防疫之全民法治教育：物業篇<br><br>小區物業就是居委會實施各種違法犯罪的幫兇！<br><br>根據《物權法》、《物業管理條例》、《消防法》，你們帶著大白封門堵路搭棚是嚴重違法犯罪懂不懂？<br><br>另外，你們和業主是僱傭關係，可以隨時解僱你們懂嗎？<br><br>@laodeng89 @chenpokong <br>@realcaixia  @wuzuolai <br>@cskun1989<br><br><img style="" src="https://pbs.twimg.com/media/FibuJ_4UUAALMhM?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FibuKQhVsAE17fp?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FibuKjrUUAA9eYh?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FibuK1bVEAAa3Gq?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 27: [2022-11-26 05:04:57+08:00 推文](https://twitter.com/realcaixia/status/1596248597770764295)
+
+居委会是民众自治组织，现在居委会成了极权统治伸到民间的強权长臂之手末端—政府之手的手指。这种权力长臂的手指，成为直接施行暴政的打手，他们执行强制核酸、强制封门封楼封路、强制送方舱，实质是限制人身自由权利，是侵犯人权，他们是犯罪。记住这些作恶人的姓名和时间地点，将来一定要算帐的。<br><br>Bob new: 防疫之全民法治教育：居委會篇<br><br>現在極端封控的首位黑干將就是居委會！<br><br>然而法盲包子沒想到，當下居委會從產生到作為，全部違法！<br><br>行動起來，維護法治，按照《居委會組織》全民基層直選，這也是胡溫時代留給民眾的最大財富！<br>（首圖完整闡述）<br><br>@laodeng89 @chenpokong<br>@realcaixia @wuzuolai<br><br><img style="" src="https://pbs.twimg.com/media/FibgauhUUAENPZ3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fibga9QUYAAv2cd?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FibgbOHUUAAHgxj?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fibgbc3UcAAx0tp?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 28: [2022-11-26 05:29:05+08:00 推文](https://twitter.com/realcaixia/status/1596254671223816192)
+
+Re 我写转推导语是强调居委会执行任务的实质。这是一方面，另一方面居委会人员实际处境是风箱里的老鼠，两头受气。居委会人员本身是双重身份：既是受害者又是施害者。<br>前面导语是说给居委会人员看的，他们应该知道他们行为的本质是犯罪，他们应该躺平或者枪口抬高一寸。后面是提示不要将居委会人视为敌人
+
