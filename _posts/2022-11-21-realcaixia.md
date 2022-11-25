@@ -107,3 +107,11 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FiRZa16UAAU2P5t?format=jpg
 
 天灾的最主要推手就是人祸，明证如下：<br>失火大楼楼下出口被封门，大人小孩都出不了楼，被闷在楼里，<br><br>Matthew_Heal: @fangshimin 所谓的“低风险地区”，新华社带头造谣啊<br><br><img style="" src="https://pbs.twimg.com/media/FiYH5-4VIAEcKD2?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FiYH5_2UUAAP4Nq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FiYH5_2VIAALhWC?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 24: [2022-11-26 01:42:01+08:00 推文](https://twitter.com/realcaixia/status/1596197529422471168)
+
+Re @xzzzjpl 你这是转移视线吗？乌鲁木齐居民楼大火，富士康员工反抗；重庆市民抗议；北京疫情与民众不满情况四起；哪件事不是现在最值得关注的？把这四人书法放出来是啥意思？
+
+### 25: [2022-11-26 01:47:02+08:00 推文](https://twitter.com/realcaixia/status/1596198792138698752)
+
+毛蛮干饿死3700多万；<br>习幻想➕恐惧，中共国成14亿人自费监狱国，死亡数不明。<br><br>韩连潮: 【反科学的清零何时了】习近平瞎指挥下的清零已经把民众、企业、社会逼到崩溃边缘，这样明显的违反科学的瞎折腾为什么看不到尽头？我觉得就是习“亲自指挥”抗疫战役牛皮已吹出去了，纠错有碍“人民领袖”威望，习的清零和毛一手制造的大饥荒有一比，用百姓生命来撑独裁者的面子就已犯下反人类罪。<br><br><img style="" src="https://pbs.twimg.com/media/FiasKteakAYkw5y?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
