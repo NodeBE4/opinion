@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-11-25
+date: 2022-11-26
 from: https://twitter.com/realcaixia/status/1594809513135443968
 layout: post
 tags:
@@ -98,4 +98,12 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FiRZa16UAAU2P5t?format=jpg
 ### 21: [2022-11-25 12:37:20+08:00 推文](https://twitter.com/realcaixia/status/1596000055835516928)
 
 这条央视新闻从另一角度表明，中共最高层那时已知道武汉病毒有传染，但想隐瞒。否则，何以解释央视顶级频道——新闻频道，播发武汉警方惩处“造谣者”？！凡上央视新闻频道的地方情况必经高层审查批准，警察抓“造谣”者上央视新闻，并全国多省电视转播，是高层谁批准的？这么反常的新闻没有“妖”？！<br><br>反对独裁专治政权: 这不辱共？这条视频再次把中共永远订在中华民族的耻辱柱上！<br><br><video src="https://video.twimg.com/ext_tw_video/1595983416843173890/pu/vid/640x360/KZuHf-AhLtMd8jrj.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1595983416843173890/pu/img/vegbNFYFT5eZj-8p.jpg"></video>
+
+### 22: [2022-11-26 00:42:53+08:00 推文](https://twitter.com/realcaixia/status/1596182649269198848)
+
+极权专制下，天灾的最主要起因和最大帮凶是人祸。<br>2019年底的武汉病毒在大陆肆虐至今；<br>2020年春节武汉成人间地狱；2021年7月郑州大水；<br>实行清零下的乌鲁木齐居民楼大火，夺取多少人性命……<br>古话说“庆父不死 鲁难未已”，一幕幕惨剧不断。<br>官方罚款又有名目，人祸未了，发民难财的官府鹰爪就已出手<br><img style="" src="https://pbs.twimg.com/media/FibHpkzVUAAohov?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FibHp1tUoAADLJC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FibHqHLUUAAs9NT?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 23: [2022-11-26 00:48:09+08:00 推文](https://twitter.com/realcaixia/status/1596183974812217345)
+
+天灾的最主要推手就是人祸，明证如下：<br>失火大楼楼下出口被封门，大人小孩都出不了楼，被闷在楼里，<br><br>Matthew_Heal: @fangshimin 所谓的“低风险地区”，新华社带头造谣啊<br><br><img style="" src="https://pbs.twimg.com/media/FiYH5-4VIAEcKD2?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FiYH5_2UUAAP4Nq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FiYH5_2VIAALhWC?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

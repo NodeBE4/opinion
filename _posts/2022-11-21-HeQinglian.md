@@ -303,3 +303,19 @@ Re @maomao61057995 因为今年共和党选民看票箱看得紧。
 
 Re 文章说：<br>【一个中国寓言抓住了中国对这场冲突的思考的本质：两虎在山谷中激战，一只猴子坐在山顶上观看，等待着如何结束。<br>两只老虎是俄罗斯和美国，它们都被中国视为其头号对手。中国是耐心等待的聪明猴子，因为莫斯科和华盛顿正在削弱各自的战斗力，为争夺乌克兰的控制权而打一场代理人战争。】
 
+### 73: [2022-11-25 22:47:48+08:00 推文](https://twitter.com/HeQinglian/status/1596153686463348736)
+
+“亚洲时刻”为何成中国的高光时刻？<br><br>亚洲三场峰会呈现了当前国际社会的认知特点：英美系媒体与美英仍视单极世界为唯一应然模式，但大多数国家已知多极世界来临。西方有此认识，缘自拜习会。<br>美国并未告知盟友自身的对华政策，G20上英加跟不上，法德在APEC会上或会后表达认知。 <a href="https://www.sbs.com.au/language/chinese/zh-hans/article/comment-on-summit-season/qgevimwmg" target="_blank" rel="noopener noreferrer">https://www.sbs.com.au/language/chinese/zh-hans/article/comment-on-summit-season/qgevimwmg</a>
+
+### 74: [2022-11-25 23:05:21+08:00 推文](https://twitter.com/HeQinglian/status/1596158101870108675)
+
+Re @dinglili7 用躺平抗议，太消极了，至少要喊口号、举拳头，拉标语，在法国左岸、卢浮宫、以及那条著名的香榭丽舍大道上走一遭，最后回到左岸，品尝咖啡馆老板被他们爱护LGBTQI文化的精神感动免费送上的浓香咖啡。<br>这么大冷天的，在冰冷的石头上躺平，太容易感冒了。
+
+### 75: [2022-11-25 23:54:10+08:00 推文](https://twitter.com/HeQinglian/status/1596170388836610048)
+
+Re @James_Lee2018 上述现象是疫情之前吧？疫情之后的中国，主要还是依靠生产疫情期间所需要物质拉动出口。
+
+### 76: [2022-11-25 23:56:16+08:00 推文](https://twitter.com/HeQinglian/status/1596170916009955330)
+
+Re @dinglili7 德国用专机送往美国，美国有这个义务。旧金山、纽约、芝加哥、华府等城任选。
+
