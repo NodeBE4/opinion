@@ -25,3 +25,7 @@ Best candidate ever.
 
 This is very good.  Although the Ian in this picture looks like he is about fourteen years old.
 
+----- __420.2__ -----2022-11-25 14:00:44+08:00:
+
+I'd keep it the way it is.  You should share all Joy Division art you create here.  We appreciate that kind of thing.
+
