@@ -295,3 +295,11 @@ Re 这篇题为“绿色新政”的讽刺小说情节如下：<br>城市里会�
 
 看过这篇《中国是俄乌战争的最大赢家之后》（采方米利将军），文章用“坐山观虎斗”形容中国这只精明的猴子，观看俄美两虎相争，坐收渔利。<br>我有个疑问，中国在何时何地挑唆美国或俄罗斯打这场战争？迄今为止，我见到的西方批评都是指中国不站到西方这边，暗助俄国。 <a href="https://www.foxnews.com/opinion/china-winning-the-russia-ukraine-war-amid-massive-us-russia-war-expenditures" target="_blank" rel="noopener noreferrer">https://www.foxnews.com/opinion/china-winning-the-russia-ukraine-war-amid-massive-us-russia-war-expenditures</a>
 
+### 71: [2022-11-25 09:41:16+08:00 推文](https://twitter.com/HeQinglian/status/1595955749016199169)
+
+Re @maomao61057995 因为今年共和党选民看票箱看得紧。
+
+### 72: [2022-11-25 10:12:49+08:00 推文](https://twitter.com/HeQinglian/status/1595963688552660992)
+
+Re 文章说：<br>【一个中国寓言抓住了中国对这场冲突的思考的本质：两虎在山谷中激战，一只猴子坐在山顶上观看，等待着如何结束。<br>两只老虎是俄罗斯和美国，它们都被中国视为其头号对手。中国是耐心等待的聪明猴子，因为莫斯科和华盛顿正在削弱各自的战斗力，为争夺乌克兰的控制权而打一场代理人战争。】
+
