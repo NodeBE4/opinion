@@ -229,7 +229,7 @@ Re @Brown28060111 你这总结甚妙。<br>我与推上好些人（不下百余�
 
 ### 54: [2022-11-24 22:21:28+08:00 推文](https://twitter.com/HeQinglian/status/1595784672134549504)
 
-复盘大家刚经历过未必全认识到的事实：<br>2019年中国武汉病毒流播世界，福奇电邮门所泄露资料说明美国资助过covid-19的功能增益性研究，法国等国都资助过武毒所<br>2020年6月初，施瓦布发表大重置的时机到了，公开说病毒为大重置带来了千载难逢的良机<br>中国除了DS的领导权问题、LGBTQI与大重置相悖，余皆一致<br><br>He Qinglian: 【在中国国家电视台的采访节目上，克劳斯·施瓦布 (Klaus Schwab) 称中国是“许多国家的榜样”，宣布“世界将发生系统性转变”。】<br>——提醒一下，这不是施瓦布发生转变，在2020年6月初的大重置宣言中，人家明确宣示：要加强政府对经济、资源的控制，通过疫苗证加强社会控制，北京是大重置当中的重要角色。<br>
+复盘大家刚经历过未必全认识到的事实：<br>2019年中国武汉病毒流播世界，福奇电邮门所泄露资料说明美国资助过covid-19的功能增益性研究，法国等国都资助过武毒所<br>2020年6月初，施瓦布发表大重置的时机到了，公开说病毒为大重置带来了千载难逢的良机<br>中国除了DS的领导权问题、LGBTQI与大重置相悖，余皆一致<br><br>He Qinglian: 【在中国国家电视台的采访节目上，克劳斯·施瓦布 (Klaus Schwab) 称中国是“许多国家的榜样”，宣布“世界将发生系统性转变”。】<br>——提醒一下，这不是施瓦布发生转变，在2020年6月初的大重置宣言中，人家明确宣示：要加强政府对经济、资源的控制，通过疫苗证加强社会控制，北京是大重置当中的重要角色。<br> <a href="https://twitter.com/disclosetv/status/1595423002606600193" target="_blank" rel="noopener noreferrer">https://twitter.com/disclosetv/status/1595423002606600193</a>
 
 ### 55: [2022-11-24 22:23:44+08:00 推文](https://twitter.com/HeQinglian/status/1595785241893146624)
 
@@ -274,4 +274,24 @@ Re @easymind13 已经有不少这种片子了，还有一个“后悔变性”�
 ### 65: [2022-11-25 06:52:51+08:00 推文](https://twitter.com/HeQinglian/status/1595913364819136512)
 
 Re @Lucs24659702 这是西方国家倾一国教育、政策、媒体宣传之力养出来的新型恐怖分子，自个儿受着吧。
+
+### 66: [2022-11-25 07:51:57+08:00 推文](https://twitter.com/HeQinglian/status/1595928238081150978)
+
+Re @TDXY 欢迎之至，赶紧来吧，直接去旧金山，那里可以满足一切不劳而获者的需求：<br>变性后还可以领取每月1200美元的补助。<br>如果想吸毒，旧金山也有政府免费提供的吸毒屋。<br>万一没有钱，可以去偷抢，只要保持在1000元以下，不会被抓。<br>如果进了监狱，还可以心理认同为女，进入女监，饱享性福。
+
+### 67: [2022-11-25 07:56:39+08:00 推文](https://twitter.com/HeQinglian/status/1595929418693763079)
+
+Re @easymind13 <br>就是这位男士创办的，他曾经作为劳拉女士生活过八年，是美国第一代变性人之一。 <a href="https://www.youtube.com/watch?v=QbXyyq1333I" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=QbXyyq1333I</a>
+
+### 68: [2022-11-25 08:02:28+08:00 推文](https://twitter.com/HeQinglian/status/1595930884959481856)
+
+2022-2024──美國政治制衡機制的恢復<br>美國中期選舉結果是：民主黨以微弱多數掌控參議院，共和黨以微弱多數掌控眾議院。一心希望三權齊由民主黨掌握的美國左媒當然表示遺憾，但實則是讓美國政治擺脫了極左勢力一意孤行，面臨權力制約的政治生態。 <a href="https://www.upmedia.mg/news_info.php?Type=2&amp;SerialNo=159994" target="_blank" rel="noopener noreferrer">https://www.upmedia.mg/news_info.php?Type=2&amp;SerialNo=159994</a>
+
+### 69: [2022-11-25 08:22:05+08:00 推文](https://twitter.com/HeQinglian/status/1595935819784916992)
+
+Re 这篇题为“绿色新政”的讽刺小说情节如下：<br>城市里会设让人甜蜜自杀的小屋。每死一个人可节省碳排放N吨。<br>我至今也没弄明白：西方白左一方面大爱无疆，将多生多育的黑非穆接进来供养；另一方面仇恨自家国民，让自家国民变性，鼓励自杀。<br>如此自恨，左派们的脑子哪里出问题了？ <a href="https://zerohplovecraft.substack.com/p/the-green-new-deal" target="_blank" rel="noopener noreferrer">https://zerohplovecraft.substack.com/p/the-green-new-deal</a>
+
+### 70: [2022-11-25 08:34:09+08:00 推文](https://twitter.com/HeQinglian/status/1595938858428162048)
+
+看过这篇《中国是俄乌战争的最大赢家之后》（采方米利将军），文章用“坐山观虎斗”形容中国这只精明的猴子，观看俄美两虎相争，坐收渔利。<br>我有个疑问，中国在何时何地挑唆美国或俄罗斯打这场战争？迄今为止，我见到的西方批评都是指中国不站到西方这边，暗助俄国。 <a href="https://www.foxnews.com/opinion/china-winning-the-russia-ukraine-war-amid-massive-us-russia-war-expenditures" target="_blank" rel="noopener noreferrer">https://www.foxnews.com/opinion/china-winning-the-russia-ukraine-war-amid-massive-us-russia-war-expenditures</a>
 
