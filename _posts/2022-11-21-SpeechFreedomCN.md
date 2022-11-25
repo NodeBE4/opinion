@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-11-25
+date: 2022-11-26
 from: https://twitter.com/SpeechFreedomCN/status/1594385199059505152
 layout: post
 tags:
@@ -34,4 +34,8 @@ Guizhou man Liu detained for 6 days for his "malicious remarks" on Internet. Pol
 ### 5: [2022-11-25 22:23:09+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1596147481028485123)
 
 A community in Urumqi caught fire yesterday, which killed 10 people according to authority. Local woman Su gets detained for 10 days today for spreading "false death toll" of the accident in a WeChat group chat. The death toll Su claimed and its truthfulness remain unknown.<br><img style="" src="https://pbs.twimg.com/media/Fiam7x8XkAA4HNv?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-11-26 03:52:07+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1596230268637294592)
+
+今晚又是一个不眠夜，乌鲁木齐加油。
 
