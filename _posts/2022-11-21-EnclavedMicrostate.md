@@ -63,3 +63,13 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
+### 943: [Nendroids of Noel and Flare are now open for preorders!](https://old.reddit.com/r/Hololive/comments/z4268o/nendroids_of_noel_and_flare_are_now_open_for/), submitted on 2022-11-25 11:03:58+08:00.
+
+----- __943.1__ -----2022-11-25 18:06:34+08:00:
+
+*looks at last image*
+
+*clutches pearls*
+
+What lewdness!
+
