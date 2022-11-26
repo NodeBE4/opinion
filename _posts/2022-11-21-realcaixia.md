@@ -139,3 +139,15 @@ Re 我写转推导语是强调居委会执行任务的实质。这是一方面�
 
 穿蓝警服拿电棍的暴打手无利器的抗争平民。<br><br>自由飞翔2022: 海珠区后窖村，抗争还在继续。<br><br><video src="https://video.twimg.com/ext_tw_video/1595711146002374657/pu/vid/576x1280/eCz9Q1R_Qvgpl2Lv.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1595711146002374657/pu/img/siF9rrPqHD3jd7hV.jpg"></video>
 
+### 32: [2022-11-26 23:34:01+08:00 推文](https://twitter.com/realcaixia/status/1596527703095537665)
+
+这就是证据：把人封在家门里。新疆和许多地方，就是用这类手法，把民众的家变成民众的自费监狱。这类证据要收集起来。<br><br>方舟子: 【新疆的朋友私信发我的，不敢在朋友圈里发，会被派出所抓，求您推广，让大家知道，他们根本没办法逃生】<br><br><img style="" src="https://pbs.twimg.com/media/FieTKl2VUAAf_Zg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FieTKl0UoAA9TjE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 33: [2022-11-26 23:35:06+08:00 推文](https://twitter.com/realcaixia/status/1596527979219546113)
+
+大学生起来了。<br><br>李老师不是你老师: 四川外国语大学 学生抗议<br>大家一起聚在一起高唱国际歌<br><br><video src="https://video.twimg.com/ext_tw_video/1596500928626032641/pu/vid/960x544/AjKJuOKlMDO5DQ6n.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1596500928626032641/pu/img/C3uBb6UKtkK5QVmQ.jpg"></video>
+
+### 34: [2022-11-26 23:39:58+08:00 推文](https://twitter.com/realcaixia/status/1596529201548775425)
+
+北京市民的街头交流。<br><br>李老师不是你老师: 北京一位阿姨在街头演讲<br>号召大家能不戴口罩就不戴口罩<br>“大家既然走出这个门了，就勇敢的走过去！”<br>最后号召大家一起唱国际歌<br>目前这条视频已经在国内平台被转发了十万次<br><br><video src="https://video.twimg.com/ext_tw_video/1596423814346334214/pu/vid/720x1560/Tv7i8TL2h3phPWGV.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1596423814346334214/pu/img/mOlDkvOpNYdb1w0Q.jpg"></video>
+
