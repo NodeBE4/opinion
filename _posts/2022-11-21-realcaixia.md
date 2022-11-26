@@ -131,3 +131,11 @@ Re 我写转推导语是强调居委会执行任务的实质。这是一方面�
 
 丁家喜律师是有使命感责任感的正义志士。2016年习当局指使文化部某些爪牙强抢炎黄春秋杂志时，是他担任炎黄春秋杂志提出法律诉讼的顾问。<br>对抗强权他毫不畏惧，而与人相处他又很谦和谦逊。令人敬佩！<br><br>Luo Shengchun丁家喜律师妻子: #丁家喜许志永秘密庭审五个月 今天是感恩节，也是家喜和志永秘密庭审五个月整，还是没有宣判的消息。<br>因为无端封控，律师们的出行困难重重，已经两个多月没有他俩的消息了，祷告他们在无纸笔书报的看守所自由思考，乐观健康！<br>感恩充满阳光的新家，感恩所有的老朋友！感恩所有为改变中国做出努力的人！<br><br><img style="" src="https://pbs.twimg.com/media/FiY3ZTzXEAEf80r?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 30: [2022-11-26 11:07:06+08:00 推文](https://twitter.com/realcaixia/status/1596339737320902656)
+
+人民的吼声！<br><br>少城: 乌鲁木齐的吼声<br><br><video src="https://video.twimg.com/ext_tw_video/1596186099121942528/pu/vid/476x270/yUrPL2AgBVGWDNCc.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1596186099121942528/pu/img/-WLy6ro3rZHLSaNA.jpg"></video>
+
+### 31: [2022-11-26 11:09:01+08:00 推文](https://twitter.com/realcaixia/status/1596340221364555776)
+
+穿蓝警服拿电棍的暴打手无利器的抗争平民。<br><br>自由飞翔2022: 海珠区后窖村，抗争还在继续。<br><br><video src="https://video.twimg.com/ext_tw_video/1595711146002374657/pu/vid/576x1280/eCz9Q1R_Qvgpl2Lv.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1595711146002374657/pu/img/siF9rrPqHD3jd7hV.jpg"></video>
+
