@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-11-26
+date: 2022-11-27
 from: https://twitter.com/realcaixia/status/1594809513135443968
 layout: post
 tags:
@@ -150,4 +150,56 @@ Re 我写转推导语是强调居委会执行任务的实质。这是一方面�
 ### 34: [2022-11-26 23:39:58+08:00 推文](https://twitter.com/realcaixia/status/1596529201548775425)
 
 北京市民的街头交流。<br><br>李老师不是你老师: 北京一位阿姨在街头演讲<br>号召大家能不戴口罩就不戴口罩<br>“大家既然走出这个门了，就勇敢的走过去！”<br>最后号召大家一起唱国际歌<br>目前这条视频已经在国内平台被转发了十万次<br><br><video src="https://video.twimg.com/ext_tw_video/1596423814346334214/pu/vid/720x1560/Tv7i8TL2h3phPWGV.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1596423814346334214/pu/img/mOlDkvOpNYdb1w0Q.jpg"></video>
+
+### 35: [2022-11-27 02:41:11+08:00 推文](https://twitter.com/realcaixia/status/1596574806605910017)
+
+Re @baojianella 看了下面的一些跟帖，质疑北京发马桶的看来不是北京人，不了解北京市民的情况。大多数胡同是在北京二环以内，这才是原来皇帝时期的帝都—-四九城。二环以内的许多四合院49年以后成大杂院，见缝插针地建了好些披房，挤进去10多户人家，二环里一张床贵过上海浦西一张床，那里面很难建各家抽水马桶，
+
+### 36: [2022-11-27 02:52:08+08:00 推文](https://twitter.com/realcaixia/status/1596577561693196288)
+
+Re @baojianella 所以，胡同里还有上公厕。二环里又保留着老北京“亲王府”和著名的风景点：后海那一片胡同，南锣鼓巷胡同等，景点公厕是游客与居民共用，老公厕臭脏、不堪落脚，有损北京脸面。记得习的“厕所革命”吗？前些年改造公厕，胡同市民得了实惠。二环胡同里地皮贵到1平米10万，国家想改建而拿不出那么多钱。因此
+
+### 37: [2022-11-27 02:59:36+08:00 推文](https://twitter.com/realcaixia/status/1596579441337307137)
+
+Re @baojianella 不少老北京宁可挤在四合院也不降价搬走。并且老北京搬出胡同故居，按北京房价他们许多人都得住到5、6环去，完全改变生活环境，他们也不愿意。所以，为防疫北京政府发马桶减少上公厕是完全可能的。<br>我想发马桶容易，谁来统一倒马桶刷马桶？管二环胡同的大白增加了一项重要任务：倒马桶刷马桶？有趣🤔
+
+### 38: [2022-11-27 03:12:35+08:00 推文](https://twitter.com/realcaixia/status/1596582708754276353)
+
+有人质疑发马桶的真实性，其实真正了解北京二环胡同——49年前的“王爷府”“格格府”四合院——49年后的老北京市民大杂院的真实居住情况，就知道公厕依旧兴盛不衰，发马桶完全可能。<br><br>有趣的是，管二环胡同的大白多一项任务：每天统一倒马桶刷马桶？？<br><br>鲍简: 什么情况？北京西城部分胡同住户不让上公厕了，家家开始发马桶了……这又是哪一出戏啊🤔<br><br><img style="" src="https://pbs.twimg.com/media/Fie2qnHUcAAqOhv?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 39: [2022-11-27 03:32:53+08:00 推文](https://twitter.com/realcaixia/status/1596587816737157120)
+
+上海市民的怒吼！习的清零害死多少人，制造了多少人间惨剧！天怒人怨！大陆各地都爆发市民冲破封门封路上街怒吼。中共警力够用吗？中共军队会再次枪口向内，对着中国民众吗？<br><br>李老师不是你老师: 上海乌鲁木齐路 最新视频<br>民众齐声高喊“共产党下台 习近平下台”<br>马路对面的警察并未阻止<br><br><video src="https://video.twimg.com/ext_tw_video/1596577773711249408/pu/vid/1280x720/ugyB8fIIkwQ32HwK.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1596577773711249408/pu/img/jFmIj7tKb3ZlanKh.jpg"></video>
+
+### 40: [2022-11-27 03:44:41+08:00 推文](https://twitter.com/realcaixia/status/1596590786795098114)
+
+再次推转荣剑老师曾经的推特：许章润先生的决战檄文——《愤怒的人民不再恐惧》<br><br>荣剑: 许章润教授的煌煌新作，一篇历史性宣言，一篇决战檄文，他是为我等知识人仅存的一点颜面而大声疾呼！知不可为而为之，真正是为中国亿万生灵而赴汤蹈火。仁者无敌，勇者无惧，伟哉章润！ （转发不易，只能截屏四幅）<br><br><img style="" src="https://pbs.twimg.com/media/EP7My72U4AAekvJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/EP7M11hUcAUyJ2b?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/EP7M4vLUcAAZIDi?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/EP7M8JTU0AI1Osa?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 41: [2022-11-27 04:50:09+08:00 推文](https://twitter.com/realcaixia/status/1596607262143184896)
+
+关注！有知道后续情况的请发推。关注就是声援。转推就是声援。<br><br>Nini艾番妮🇺🇸🇭🇰🇺🇦Margana🎗️✋👍💛💙: @__Inty__ #共产党下台 我在美国加州，声援北京上海新疆广州重庆郑州天津乌北大中戏南京传媒学院 所有抗爆城市和学校！<br>
+
+### 42: [2022-11-27 05:11:31+08:00 推文](https://twitter.com/realcaixia/status/1596612637722148864)
+
+转发下面这推。<br>再请关注江西胡鑫宇事件。原推主错写成湖北，推主已经做了更正说明。<br><br>Nini艾番妮🇺🇸🇭🇰🇺🇦Margana🎗️✋👍💛💙: #湖北15岁男孩 #中共活摘器官 湖北15岁男孩 #胡鑫宇 被活摘器官，不要遗忘这件事！胡鑫宇学校门口万人抗议，为了你们自己孩子的生命！冲塔吧！从来就没有救世主！习近平中共不得好死！打倒齐奥塞斯库！萨达姆 卡扎菲就是习🐷的下场！民不畏死 奈何以死惧之！习🐷你的基本盘没有了！<br><br><video src="https://video.twimg.com/ext_tw_video/1596197258520772608/pu/vid/674x1280/I9oe4OoBk465luX-.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1596197258520772608/pu/img/GLSQq47-r5kNoPYr.jpg"></video>
+
+### 43: [2022-11-27 05:13:47+08:00 推文](https://twitter.com/realcaixia/status/1596613208097189888)
+
+北大学生行动了。<br><br>Nini艾番妮🇺🇸🇭🇰🇺🇦Margana🎗️✋👍💛💙: #中共反人类防疫 #北京大学 现场 视频 很多同学蜂拥而至高唱国际歌！北大每次都会不拉下，有没有清华的人出来证明一下不是精致的利己主义者？北大雄起！打倒中国共产党！打倒 习近平！还我自由！星星之火 可以燎原！习猪头杀不光中国人！中国人不是懦夫！英勇的中国人民加油！干翻习家军！<br><br><video src="https://video.twimg.com/ext_tw_video/1596579004634406912/pu/vid/720x1122/2HOrzfxOKI9VD2bP.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1596579004634406912/pu/img/EO3Uf8ngLY26XJq3.jpg"></video>
+
+### 44: [2022-11-27 05:28:11+08:00 推文](https://twitter.com/realcaixia/status/1596616832840241152)
+
+再转武汉华中科技大学同济医学院学生宣言！<br><br>宣言声明，坚决反对防疫政治化，结束政治化反人道的“清零”。<br>宣言呼吁：遵从防疫的科学性！<br><br>宣言宣布：从他们开始，实行科学理性的防疫措施，为恢复有尊严的、尊重保护人权的正常社会生活方式而努力。<br><br>韩连潮: 同济医学院学生关于封校和社会封控的宣言<br><br><img style="" src="https://pbs.twimg.com/media/FihKZspWIAULKSg?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 45: [2022-11-27 05:34:05+08:00 推文](https://twitter.com/realcaixia/status/1596618317846179841)
+
+我会把中国参与签名的大学校名放大跟帖，请关注。<br><br>Nini艾番妮🇺🇸🇭🇰🇺🇦Margana🎗️✋👍💛💙: #中共反人类防疫 #中共反人類罪 目前为止，不完全名单。没有清华！<br><br><img style="" src="https://pbs.twimg.com/media/FihO4l4UUAAm_RG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FihO4l7VsAARqk2?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FihO4l7UYAA_TCN?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 46: [2022-11-27 05:36:02+08:00 推文](https://twitter.com/realcaixia/status/1596618811200839682)
+
+Re @USABelAir2021<br><img style="" src="https://pbs.twimg.com/media/FihUWGbVsAA0a3W?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FihUWFLVQAAEXjM?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 47: [2022-11-27 05:37:06+08:00 推文](https://twitter.com/realcaixia/status/1596619078906413058)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FihUlr0VsAEXW3R?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FihUlr3UYAAsATn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

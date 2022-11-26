@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2022-11-26
+date: 2022-11-27
 from: https://twitter.com/nathanlawkc/status/1595730977757827078
 layout: post
 tags:
@@ -24,4 +24,8 @@ It’s been two years since @joshuawongcf was jailed. We have no idea when he ca
 ### 2: [2022-11-26 20:46:22+08:00 推文](https://twitter.com/nathanlawkc/status/1596485513300434944)
 
 Many protests have spawned across China, when people oppose zero-COVID control and accountability to the government. <br>Though it’s difficult to assess how large the protests are and whether they will end up opposing the SYSTEM, we all should support their struggles.<br><img style="" src="https://pbs.twimg.com/media/Fifa9HIXEAEzfRR?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 3: [2022-11-27 05:14:10+08:00 推文](https://twitter.com/nathanlawkc/status/1596613307489607680)
+
+The crowd chanted “CCP step down!” on the streets of Shanghai.<br>It’s been a few hours since the protests started and there’re no signs of a major escalation of the situation. Still, this is a VERY significant moment.<br><br>李老师不是你老师: 上海乌鲁木齐路 民众高喊<br>共产党 下台！<br>这是迄今为止最为激进的口号。<br><br><video src="https://video.twimg.com/ext_tw_video/1596573035095523331/pu/vid/720x1280/nJy0ZgRkegfo4RA0.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1596573035095523331/pu/img/fpECij7KCSk8N4WG.jpg"></video>
 
