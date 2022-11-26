@@ -25,7 +25,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FbTYBeiXkAArpGV?format=jpg
 
 ### 3: [2022-08-30 06:45:24+08:00 推文](https://twitter.com/realcaixia/status/1564383744047333376)
 
-这首短诗实在是很精妙！<br><br>Kathy Hu 胡閔之: 可能是“等风来”这段文字引起了太多人共鸣，被许多人从推特截图传回到国内后，传播得太广。现在这段话已经被全网删除了，微博封禁、微信也发不出了。当“等风来”三个字真的成为某种现象的象征词汇之后，恰恰印证了某种真实。<br> <a href="https://twitter.com/KathyHu56423186/status/1562452514947362816" target="_blank" rel="noopener noreferrer">https://twitter.com/KathyHu56423186/status/1562452514947362816</a>
+这首短诗实在是很精妙！<br><br>Kathy Hu 胡閔之: 可能是“等风来”这段文字引起了太多人共鸣，被许多人从推特截图传回到国内后，传播得太广。现在这段话已经被全网删除了，微博封禁、微信也发不出了。当“等风来”三个字真的成为某种现象的象征词汇之后，恰恰印证了某种真实。<br> <a href="https://twitter.com/kathyhu56423186/status/1562452514947362816" target="_blank" rel="noopener noreferrer">https://twitter.com/kathyhu56423186/status/1562452514947362816</a>
 
 ### 4: [2022-08-30 08:40:09+08:00 推文](https://twitter.com/realcaixia/status/1564412623671664640)
 
