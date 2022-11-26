@@ -343,3 +343,11 @@ Re @JianglinLi @Vanessa_ZhangUK 疫苗反应是可控的，时间也有限度；
 
 Re @dinglili7 昨天乌外交部长发出强硬声明：西方没有权利放弃乌克兰。<br>换言之，就是今天西方想不支持乌克兰，没门。好奇泽政府这底气从何而来，发现源头，请告知。
 
+### 83: [2022-11-26 08:50:45+08:00 推文](https://twitter.com/HeQinglian/status/1596305422029557760)
+
+👇文要点：<br>*中国支持的错觉是导致普京发动战争的众多误判之一；<br>*在“无限友谊”的机密附件中，北京和莫斯科承诺在外国入侵其领土的情况下相互提供军事援助；<br>*北京的关键优先事项是俄与北约的对抗要“避免任何核升级并帮助达成停火”；<br>*中国对莫斯科提供了外交和信息支持——但排除了重要的军事合作。<br><br>Sophia: Biden and Xi’s secret Ukraine talks revealed.<br> <a href="https://www.spectator.co.uk/article/the-red-line-biden-and-xis-secret-ukraine-talks-revealed/" target="_blank" rel="noopener noreferrer">https://www.spectator.co.uk/article/the-red-line-biden-and-xis-secret-ukraine-talks-revealed/</a>
+
+### 84: [2022-11-26 08:56:25+08:00 推文](https://twitter.com/HeQinglian/status/1596306850378833920)
+
+Re 如果本文所述为真，只能认为：中国在外交上已经非常成熟。这与所有对习近平能力的判断完全不符，国内公知与反对者认为习水平极其低下，依据是其在外交场合生涩生硬不自在。<br>结合米利评价、亚洲三会的中国高光时刻，加上本文，中国简直借俄乌战争封神了。<br>各位是信呢，还是不信？本人认为是对手太差。
+

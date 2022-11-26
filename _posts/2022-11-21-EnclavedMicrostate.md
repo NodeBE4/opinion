@@ -79,6 +79,10 @@ What lewdness!
 
 She even has two Flare dakimakuras.
 
+----- __944.2__ -----2022-11-26 08:39:51+08:00:
+
+True.
+
 ### 945: [Friday Free-for-All | November 25, 2022](https://old.reddit.com/r/AskHistorians/comments/z4e2c3/friday_freeforall_november_25_2022/), submitted on 2022-11-25 22:00:10+08:00.
 
 ----- __945.1__ -----2022-11-26 02:22:07+08:00:
