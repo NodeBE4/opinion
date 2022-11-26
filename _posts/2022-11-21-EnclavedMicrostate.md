@@ -119,7 +119,7 @@ Han identity, like any other comparable identity, is one that is essentially art
 
 ----- __946.2__ -----2022-11-27 06:12:51+08:00:
 
-In essence I'm just referring to ethnic identities as a whole. Britishness is artificial, and so too is Frenchness or Germanness, and I mean that in the sense that these were constructed by humans, often relatively recently, rather than being inherent, continuous constructs.
+In essence I'm just referring to ethnic and national identities as a whole. Britishness is artificial, and so too is Frenchness or Germanness, and I mean that in the sense that these were constructed by humans, often relatively recently, rather than being inherent, continuous constructs.
 
 ### 947: [Zeta denying reality once again](https://old.reddit.com/r/Hololive/comments/z56lyq/zeta_denying_reality_once_again/), submitted on 2022-11-26 20:39:38+08:00.
 

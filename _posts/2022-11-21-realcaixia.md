@@ -203,3 +203,27 @@ Re @USABelAir2021<br><img style="" src="https://pbs.twimg.com/media/FihUWGbVsAA0
 
 Re <br><img style="" src="https://pbs.twimg.com/media/FihUlr0VsAEXW3R?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FihUlr3UYAAsATn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 48: [2022-11-27 06:09:47+08:00 推文](https://twitter.com/realcaixia/status/1596627304444141568)
+
+新疆和田这个视频请看到最后一秒钟，人们勇敢无畏地往前走，大白心虚了，最后人们冲破大白封锁线走出封锁区。<br><br>李老师不是你老师: 新疆和田  环湖小区 下午六七点左右<br>民众要求解封，冲破人墙走上街头<br><br><video src="https://video.twimg.com/ext_tw_video/1596474866273861636/pu/vid/720x1280/xQJXQcH15umqgdV0.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1596474866273861636/pu/img/By9cGJ_DulNX4lvl.jpg"></video>
+
+### 49: [2022-11-27 06:29:53+08:00 推文](https://twitter.com/realcaixia/status/1596632360745066496)
+
+幽默中的犀利！<br><br>101BioCom: @Siyu_mia 不是屁股决定脑袋，也不是脑袋决定屁股，而是脖子上长着屁股，没脑袋。<br><br><img style="" src="https://pbs.twimg.com/media/FihHvlXUYAEGU7X?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FihHvlYVEAAjEse?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 50: [2022-11-27 06:36:59+08:00 推文](https://twitter.com/realcaixia/status/1596634149397200896)
+
+北京市有两个亚洲最大的小区民众合理维权，成功解除封控。<br>中共习当局封控不敢下文件，怕将来追责，只打电话口头指示，而居委会没有政府执法权力，居委会执行封控就是违法行为，于是当警察面市民与居委会对话，最终解封！大赞！<br><img style="" src="https://pbs.twimg.com/media/FihiS1OVQAAvjQZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 51: [2022-11-27 06:40:06+08:00 推文](https://twitter.com/realcaixia/status/1596634932117270528)
+
+请点击下面YouTube看上海市民抗议的实况视频。 <a href="https://youtu.be/tL2nhnr9Xcg" target="_blank" rel="noopener noreferrer">https://youtu.be/tL2nhnr9Xcg</a>
+
+### 52: [2022-11-27 06:45:26+08:00 推文](https://twitter.com/realcaixia/status/1596636273900277760)
+
+请点开YouTube看上海市民声援新疆，警察抓人实况！⬇️<br><br>中共肺炎 #中共恶党 #中共反人类防疫 #上海 人民声援新疆，乌鲁木齐路，警察还是抓人了，抓了两车人。 - YouTube <a href="https://m.youtube.com/watch?v=vWktDn9kAQk" target="_blank" rel="noopener noreferrer">https://m.youtube.com/watch?v=vWktDn9kAQk</a>
+
+### 53: [2022-11-27 06:48:28+08:00 推文](https://twitter.com/realcaixia/status/1596637036303114240)
+
+上海万人高呼共产党下台！事情不妙了,护驾！ - YouTube <a href="https://m.youtube.com/shorts/qtzf5ZZTrnM" target="_blank" rel="noopener noreferrer">https://m.youtube.com/shorts/qtzf5ZZTrnM</a>
+
