@@ -17,11 +17,11 @@ title: 'Twitter @中国文字狱事件盘点: 2022-01-17~2022-01-23'
 
 ### 1: [2022-01-17 21:28:26+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1483068699603091459)
 
-山西太原媒体人胡新成，因长期帮助访民和推行全民免费医疗（通过网络呼吁和收集签名提交请愿等方式），于去年12月失联。近日其律师通过其家人确认其已被捕，罪名为宣扬恐怖主义罪。<br><img style src="https://pbs.twimg.com/media/FJTqd0UXoAYfKQb?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FJTqgQfWUAkzEZu?format=png&name=orig" referrerpolicy="no-referrer">
+山西太原媒体人胡新成，因长期帮助访民和推行全民免费医疗（通过网络呼吁和收集签名提交请愿等方式），于去年12月失联。近日其律师通过其家人确认其已被捕，罪名为宣扬恐怖主义罪。<br><img style="" src="https://pbs.twimg.com/media/FJTqd0UXoAYfKQb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FJTqgQfWUAkzEZu?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2022-01-17 21:32:54+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1483069823315845120)
 
-It appears China has redefined terrorism as something that terrorizes the government: journalist Hu Xincheng from China's Shanxi Province arrested for advocating nationwide free medicare, and the charge against him is advocating terrorism, according to his lawyer & family.<br><img style src="https://pbs.twimg.com/media/FJTrLtyX0AAMIBb?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FJTrNyFXEAEsNxI?format=png&name=orig" referrerpolicy="no-referrer">
+It appears China has redefined terrorism as something that terrorizes the government: journalist Hu Xincheng from China's Shanxi Province arrested for advocating nationwide free medicare, and the charge against him is advocating terrorism, according to his lawyer & family.<br><img style="" src="https://pbs.twimg.com/media/FJTrLtyX0AAMIBb?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FJTrNyFXEAEsNxI?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2022-01-18 21:02:36+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1483424585378840579)
 
@@ -41,7 +41,7 @@ Shaanxi man Li fined 500 RMB for spreading a "rumor" in a WeChat group chat that
 
 ### 7: [2022-01-21 18:58:10+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1484480433538707456)
 
-Re 后续：在案件引发关注和热议之后，彬州公安已经撤销了处罚，并退回了罚款。<br><img style="" src="https://pbs.twimg.com/media/FJnu8-BWQAMSu-3?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re 后续：在案件引发关注和热议之后，彬州公安已经撤销了处罚，并退回了罚款。<br><img style="" src="https://pbs.twimg.com/media/FJnu8-BWQAMSu-3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2022-01-21 19:01:06+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1484481171601997831)
 
