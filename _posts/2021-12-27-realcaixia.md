@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2021-12-27~2022-01-02'
 
 ### 2: [2021-12-29 02:28:43+08:00 推文](https://twitter.com/realcaixia/status/1475896511791865856)
 
-现在大陆把人关进精神病院是极权当局迫害政治异见人士的常用手法。这类事情曾经在前苏联前东欧共产极权国家末期都发生过。大陆正在重蹈覆辙。<br><br>ZHANGDONG: 继泼墨女孩董瑶琼三度被关进精神病医院后，土家族乡村女教师李田田也被强制关进精神病医院，此事引发全国愤怒。今有律师申请政府信息公开。其实人们更关心公安局办案流程，他们是怎么把李田田强行扭进精神病医院的。当下在中国大陆，精神病医院已经成为关押不同政见者的外监狱，比指定居留关押还恶劣！<br><br><img style="" src="https://pbs.twimg.com/media/FHQSE15WUAUinlw?format=jpg&name=orig" referrerpolicy="no-referrer">
+现在大陆把人关进精神病院是极权当局迫害政治异见人士的常用手法。这类事情曾经在前苏联前东欧共产极权国家末期都发生过。大陆正在重蹈覆辙。<br><br>ZHANGDONG: 继泼墨女孩董瑶琼三度被关进精神病医院后，土家族乡村女教师李田田也被强制关进精神病医院，此事引发全国愤怒。今有律师申请政府信息公开。其实人们更关心公安局办案流程，他们是怎么把李田田强行扭进精神病医院的。当下在中国大陆，精神病医院已经成为关押不同政见者的外监狱，比指定居留关押还恶劣！<br><br><img style src="https://pbs.twimg.com/media/FHQSE15WUAUinlw?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2021-12-29 06:06:33+08:00 推文](https://twitter.com/realcaixia/status/1475951330896322564)
 
@@ -29,11 +29,11 @@ title: 'Twitter @蔡霞: 2021-12-27~2022-01-02'
 
 ### 4: [2021-12-29 12:54:32+08:00 推文](https://twitter.com/realcaixia/status/1476054000898383873)
 
-每日一推，呼吁无罪释放长沙公益仨。<br><br>施明磊 #释放长沙公益仨: #每日一推要求程渊和吴葛健雄的家属探视权12月28日 第18推）<br>小吴在的衡州监狱来电话了，说你们没有亲属关系，拒绝我们要求吴葛健雄家属探视权的投诉。<br><br>根据监狱法四十八条规定，#程渊、#吴葛健雄 享有亲属会见的权利。<br><br>衡州监狱，你们在违法懂不懂？<br><br>@湖南司法厅厅长范运田，监狱管理局局长钟艺兵<br><br><img style="" src="https://pbs.twimg.com/media/FHtweDUWYAAUzht?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHtweDRWYAQV-wJ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHtweD6X0AY4o3E?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHtweD-XEAEjTWP?format=jpg&name=orig" referrerpolicy="no-referrer">
+每日一推，呼吁无罪释放长沙公益仨。<br><br>施明磊 #释放长沙公益仨: #每日一推要求程渊和吴葛健雄的家属探视权12月28日 第18推）<br>小吴在的衡州监狱来电话了，说你们没有亲属关系，拒绝我们要求吴葛健雄家属探视权的投诉。<br><br>根据监狱法四十八条规定，#程渊、#吴葛健雄 享有亲属会见的权利。<br><br>衡州监狱，你们在违法懂不懂？<br><br>@湖南司法厅厅长范运田，监狱管理局局长钟艺兵<br><br><img style src="https://pbs.twimg.com/media/FHtweDUWYAAUzht?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHtweDRWYAQV-wJ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHtweD6X0AY4o3E?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHtweD-XEAEjTWP?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2021-12-30 00:39:20+08:00 推文](https://twitter.com/realcaixia/status/1476231371718803461)
 
-造假与谎言蒙人，是极权意识形态的一贯手法，。这样的胡编乱造，是下面人某种半躺平半糊弄的干法。<br><br>浩哥i✝️i🇺🇸iA2: 故事编得太潦草😩<br><br><img style src="https://pbs.twimg.com/media/FHtTHKyXsAAte2Q?format=jpg&name=orig" referrerpolicy="no-referrer">
+造假与谎言蒙人，是极权意识形态的一贯手法，。这样的胡编乱造，是下面人某种半躺平半糊弄的干法。<br><br>浩哥i✝️i🇺🇸iA2: 故事编得太潦草😩<br><br><img style="" src="https://pbs.twimg.com/media/FHtTHKyXsAAte2Q?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2021-12-30 03:29:31+08:00 推文](https://twitter.com/realcaixia/status/1476274199429881857)
 
@@ -41,7 +41,7 @@ title: 'Twitter @蔡霞: 2021-12-27~2022-01-02'
 
 ### 7: [2021-12-30 03:33:22+08:00 推文](https://twitter.com/realcaixia/status/1476275167831728130)
 
-民主国家政府抵制冬奥，这是正义之举，应该唤起更多的国家政府共同抵制冬奥会！<br><br>DW 中文- 德国之声: 北京冬季奥运会即将开幕。美国已宣布外交抵制。欧盟尚在寻求共同立场。🇩🇪外交、内政部长已作出个人决定：不去北京。<br>不过她们都强调，此为个人决定，并非外交抵制的政治决策。<br>相关报道：<br><br><img style src="https://pbs.twimg.com/media/FHySweXWQAUb0Bt?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://dw.com/p/44xdn" target="_blank" rel="noopener noreferrer">http://dw.com/p/44xdn</a>
+民主国家政府抵制冬奥，这是正义之举，应该唤起更多的国家政府共同抵制冬奥会！<br><br>DW 中文- 德国之声: 北京冬季奥运会即将开幕。美国已宣布外交抵制。欧盟尚在寻求共同立场。🇩🇪外交、内政部长已作出个人决定：不去北京。<br>不过她们都强调，此为个人决定，并非外交抵制的政治决策。<br>相关报道：<br><br><img style="" src="https://pbs.twimg.com/media/FHySweXWQAUb0Bt?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://dw.com/p/44xdn" target="_blank" rel="noopener noreferrer">http://dw.com/p/44xdn</a>
 
 ### 8: [2021-12-30 20:19:44+08:00 推文](https://twitter.com/realcaixia/status/1476528427725381633)
 
