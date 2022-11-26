@@ -117,6 +117,10 @@ Han identity, like any other comparable identity, is one that is essentially art
 * Pamela Crossley, Donald Sutton, and Helen Siu (eds.), *Empire at the Margins* (2006)
 * Thomas Mullaney, James Leibold, and Stéphane Gros (eds.), *Critical Han Studies* (2012)
 
+----- __946.2__ -----2022-11-27 06:12:51+08:00:
+
+In essence I'm just referring to ethnic identities as a whole. Britishness is artificial, and so too is Frenchness or Germanness, and I mean that in the sense that these were constructed by humans, often relatively recently, rather than being inherent, continuous constructs.
+
 ### 947: [Zeta denying reality once again](https://old.reddit.com/r/Hololive/comments/z56lyq/zeta_denying_reality_once_again/), submitted on 2022-11-26 20:39:38+08:00.
 
 ----- __947.1__ -----2022-11-27 03:50:56+08:00:
