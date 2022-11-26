@@ -165,7 +165,7 @@ Re @q5E5KqUxIoWkM33 @AndrickLi 我遇到过两次查我：1，2013年我发文�
 
 ### 38: [2022-05-09 22:02:46+08:00 推文](https://twitter.com/realcaixia/status/1523664777976852481)
 
-这个文件如果是真实的，很值得关注。文革时期的各种做法改头换面的死灰复燃了。“斗争”是文革时期的主旋律，以各种借口挑起民众斗民众，并且还是政府组织一支队伍斗争民众。<br><br>餘錢100: @realcaixia 【組建法理鬥爭民兵排】什麼玩意東西？難道是中共見識到了上海的懂法群眾，專門組建起來用來對付敢言的法學教授或學者？打不贏就用糾纏？這不就是文革式流氓嗎？司法局難道要文革复闢打倒法學教材嗎？上海人的主張是完全有法理的，法理鬥爭民兵排拿什麼來鬥爭？用假法理鬥爭真法理？真的是貽笑大方！<br><br><img style="" src="https://pbs.twimg.com/media/FSUYNMQXsAAw_WQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+这个文件如果是真实的，很值得关注。文革时期的各种做法改头换面的死灰复燃了。“斗争”是文革时期的主旋律，以各种借口挑起民众斗民众，并且还是政府组织一支队伍斗争民众。
 
 ### 39: [2022-05-10 02:09:28+08:00 推文](https://twitter.com/realcaixia/status/1523726863918534658)
 
@@ -197,19 +197,19 @@ Re @UGy9oNugsWfeYes 这个文件我不知道。
 
 ### 46: [2022-05-12 00:52:51+08:00 推文](https://twitter.com/realcaixia/status/1524432357956145152)
 
-李家超在镇压反送中运动中交了投名状，现在是向习近平表忠心，表绝对忠诚。极权制度从来是用最恶的人激发人性恶，无底线地干坏事。<br><br>韩连潮: 【陈日君被抓】中共恶警李家超无端抓捕一个90岁的老人向习近平献媚讨好，必将遭世人唾骂和诅咒。<br><br><img style="" src="https://pbs.twimg.com/media/FSfLkrjUUAI3IsK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+李家超在镇压反送中运动中交了投名状，现在是向习近平表忠心，表绝对忠诚。极权制度从来是用最恶的人激发人性恶，无底线地干坏事。
 
 ### 47: [2022-05-12 19:39:02+08:00 推文](https://twitter.com/realcaixia/status/1524715771519287296)
 
-王维洛先生把毛消灭血吸虫病与习的防疫清零做了全面比较，让人大开眼界，又令人极为沉重，从中可以看到防疫清零其实是再现毛的做法，并且是一整套运作机制的重复。 中共一再遮蔽历史，以至于人们只以为当下陷入困境与绝境，实际是60年前历史重演。习近平复辟毛路，陷中国人再次在历史的泥潭里挣扎。<br><br>《议报》: 王维洛: 毛泽东的消灭血吸虫病和习近平的防疫清零<br> <a href="https://yibaochina.com/?p=246444" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246444</a>
+王维洛先生把毛消灭血吸虫病与习的防疫清零做了全面比较，让人大开眼界，又令人极为沉重，从中可以看到防疫清零其实是再现毛的做法，并且是一整套运作机制的重复。 中共一再遮蔽历史，以至于人们只以为当下陷入困境与绝境，实际是60年前历史重演。习近平复辟毛路，陷中国人再次在历史的泥潭里挣扎。
 
 ### 48: [2022-05-12 23:48:07+08:00 推文](https://twitter.com/realcaixia/status/1524778456667627527)
 
-跟推传发一夜庐诗作。
+跟推传发一夜庐诗作。<br><br>ZHANGDONG: 疫情新三别（之二）<br>小兒别<br><br><img style="" src="https://pbs.twimg.com/media/FSRTha1X0AU8QJK?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSRThosXoAIrT6H?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSRTh6IXMAAnddt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSRTiIdXwAAJzkl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 49: [2022-05-12 23:48:39+08:00 推文](https://twitter.com/realcaixia/status/1524778589404774400)
 
-跟推传发。
+跟推传发。<br><br>ZHANGDONG: 承蒙一夜廬先生特许，本推连载其新作《疫情新三吏三别》，至此六首诗作全部推出。先生常以古诗词形式针砭时弊，深得读者共鸣，在国内网络广为流传。<br>
 
 ### 50: [2022-05-13 22:18:10+08:00 推文](https://twitter.com/realcaixia/status/1525118207941484544)
 
@@ -229,11 +229,11 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FSrg9DDUUAEO-Jq?format=jpg
 
 ### 54: [2022-05-15 22:24:54+08:00 推文](https://twitter.com/realcaixia/status/1525844675994652672)
 
-这是大陆一位很有造诣的政治学学者的文章。特别推荐。
+这是大陆一位很有造诣的政治学学者的文章。特别推荐。<br><br>《议报》: 包刚升: 贫富冲突与现代政治<br> <a href="https://yibaochina.com/?p=246460" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246460</a>
 
 ### 55: [2022-05-15 22:25:52+08:00 推文](https://twitter.com/realcaixia/status/1525844920161820672)
 
-特别推荐。<br><br>《议报》: 柴思原：对于 “不可知论”的反驳以及何为现代人的“多元主义”<br> <a href="https://yibaochina.com/?p=246464" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246464</a>
+特别推荐。
 
 ### 56: [2022-05-15 22:38:50+08:00 推文](https://twitter.com/realcaixia/status/1525848181522587648)
 
@@ -241,7 +241,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FSrg9DDUUAEO-Jq?format=jpg
 
 ### 57: [2022-05-15 22:45:45+08:00 推文](https://twitter.com/realcaixia/status/1525849924092297216)
 
-荒谬的消杀做法，是政府违法犯法，是打着防疫名义的犯罪行为。杨佳至今活在人们心里，是因为杨佳拼死反抗了极权政权。大陆当局正在逼迫越来越多的人成为杨佳。<br><br>liqun chen（陈立群）: 北京人应该都知道杨佳吧！虽然事情发生在上海。<br>杨佳说：你不给我一个说法，我就给你一个说法！<br> <a href="https://twitter.com/Jupiterf5/status/1525734088409092096" target="_blank" rel="noopener noreferrer">https://twitter.com/Jupiterf5/status/1525734088409092096</a>
+荒谬的消杀做法，是政府违法犯法，是打着防疫名义的犯罪行为。杨佳至今活在人们心里，是因为杨佳拼死反抗了极权政权。大陆当局正在逼迫越来越多的人成为杨佳。<br><br>liqun chen（陈立群）: 北京人应该都知道杨佳吧！虽然事情发生在上海。<br>杨佳说：你不给我一个说法，我就给你一个说法！<br> <a href="https://twitter.com/jupiterf5/status/1525734088409092096" target="_blank" rel="noopener noreferrer">https://twitter.com/jupiterf5/status/1525734088409092096</a>
 
 ### 58: [2022-05-15 23:00:59+08:00 推文](https://twitter.com/realcaixia/status/1525853756176277504)
 
