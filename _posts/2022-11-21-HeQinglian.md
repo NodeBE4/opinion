@@ -221,7 +221,7 @@ Re @KELMAND1 😇😇😇<br>一朝圣主宠，终生难自弃；频发长门怨
 
 ### 52: [2022-11-24 09:04:13+08:00 推文](https://twitter.com/Brown28060111/status/1595584034888982529)
 
-RT Brown<br>Re @HeQinglian 老中未来也许会经历一个戏剧性的过山车似的认知变化过程，费尽九牛二虎之力终于明白了独裁专制集权的祸害，手刃老共开始满心欢喜庆祝重生，满怀希望准备拥抱自由民主法治的时候，突然发现洗碗布和灯塔国正带领着全世界飞速走向自己刚刚抛弃的过去，这个转折不知道哪位能接得住。
+RT eltark<br>Re @HeQinglian 老中未来也许会经历一个戏剧性的过山车似的认知变化过程，费尽九牛二虎之力终于明白了独裁专制集权的祸害，手刃老共开始满心欢喜庆祝重生，满怀希望准备拥抱自由民主法治的时候，突然发现洗碗布和灯塔国正带领着全世界飞速走向自己刚刚抛弃的过去，这个转折不知道哪位能接得住。
 
 ### 53: [2022-11-24 10:11:34+08:00 推文](https://twitter.com/HeQinglian/status/1595600983861641220)
 
@@ -343,11 +343,47 @@ Re @JianglinLi @Vanessa_ZhangUK 疫苗反应是可控的，时间也有限度；
 
 Re @dinglili7 昨天乌外交部长发出强硬声明：西方没有权利放弃乌克兰。<br>换言之，就是今天西方想不支持乌克兰，没门。好奇泽政府这底气从何而来，发现源头，请告知。
 
-### 83: [2022-11-26 08:50:45+08:00 推文](https://twitter.com/HeQinglian/status/1596305422029557760)
+### 83: [2022-11-26 05:40:28+08:00 推文](https://twitter.com/Mydoglucky2/status/1596257535345860608)
+
+RT 桃花岛主(Lucky)<br>象媽媽的母爱，一点都不比人类差。<br><video src="https://video.twimg.com/ext_tw_video/1596257319834202112/pu/vid/960x540/VdtukKBb-sX4K78w.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1596257319834202112/pu/img/InjAjWCGtSbh-dCJ.jpg"></video>
+
+### 84: [2022-11-26 08:50:45+08:00 推文](https://twitter.com/HeQinglian/status/1596305422029557760)
 
 👇文要点：<br>*中国支持的错觉是导致普京发动战争的众多误判之一；<br>*在“无限友谊”的机密附件中，北京和莫斯科承诺在外国入侵其领土的情况下相互提供军事援助；<br>*北京的关键优先事项是俄与北约的对抗要“避免任何核升级并帮助达成停火”；<br>*中国对莫斯科提供了外交和信息支持——但排除了重要的军事合作。<br><br>Sophia: Biden and Xi’s secret Ukraine talks revealed.<br> <a href="https://www.spectator.co.uk/article/the-red-line-biden-and-xis-secret-ukraine-talks-revealed/" target="_blank" rel="noopener noreferrer">https://www.spectator.co.uk/article/the-red-line-biden-and-xis-secret-ukraine-talks-revealed/</a>
 
-### 84: [2022-11-26 08:56:25+08:00 推文](https://twitter.com/HeQinglian/status/1596306850378833920)
+### 85: [2022-11-26 08:56:25+08:00 推文](https://twitter.com/HeQinglian/status/1596306850378833920)
 
 Re 如果本文所述为真，只能认为：中国在外交上已经非常成熟。这与所有对习近平能力的判断完全不符，国内公知与反对者认为习水平极其低下，依据是其在外交场合生涩生硬不自在。<br>结合米利评价、亚洲三会的中国高光时刻，加上本文，中国简直借俄乌战争封神了。<br>各位是信呢，还是不信？本人认为是对手太差。
+
+### 86: [2022-11-26 08:59:41+08:00 推文](https://twitter.com/HeQinglian/status/1596307671585538050)
+
+Re @kbclindy @dinglili7 印度早就公开称这是“拜登的战争”。咱们等着看吧。<br>现在的各种信息，已经将最初乌粉们心神激荡的那些道德光环撕得粉碎——最初谈到“代理人战争”，我这里是乌粉乌泱泱上门。
+
+### 87: [2022-11-26 09:14:09+08:00 推文](https://twitter.com/HeQinglian/status/1596311313604567040)
+
+Re @dinglili7 @kbclindy 就算是他们无限景仰的泽连斯基自己在3月28日的《经济学人》采访中，承认自己只不过是北约尤其是美国的代理人，乌粉们也决不承认。如此英雄，怎么会当代理人呢？<br>如今米利将军也说了，不知他们作何感想？
+
+### 88: [2022-11-26 09:16:39+08:00 推文](https://twitter.com/HeQinglian/status/1596311940665692160)
+
+Re @guchuan81 汤圆要用糯米粉。
+
+### 89: [2022-11-26 09:26:19+08:00 推文](https://twitter.com/HeQinglian/status/1596314374385172480)
+
+Re 我总觉得，最近这波关于中国在俄乌战争中如何当了聪明的猴子坐山观虎斗，还有所谓北京如何狡猾地两头“斡旋”让战争不要升级，是拜登政府为自己的愚蠢（削弱本国国力与美元霸权、让中国坐大成为新的一极等）搭个台阶下。<br>那话怎么说来着：不是本人能力差，而是对手太狡猾——在这里用上了。
+
+### 90: [2022-11-26 09:43:22+08:00 推文](https://twitter.com/HeQinglian/status/1596318664978042880)
+
+Re @kbclindy 如今衡量一个人的尺度也多元化。<br>在反共华拜粉那里，老痴呆比习强N倍；<br>在这波借俄乌战争将中国封神的评价里，中国是聪明的猴子，美俄（北约）都是傻笨老虎。
+
+### 91: [2022-11-26 09:46:16+08:00 推文](https://twitter.com/HeQinglian/status/1596319395579846658)
+
+Re @gaiyuyin Sorry，不知道他们如何行动？如果是这个后果，确实伤了你。
+
+### 92: [2022-11-26 11:08:48+08:00 推文](https://twitter.com/HeQinglian/status/1596340166725074944)
+
+Re @pandatress1 到了现阶段，看了这么多，除了事实之外，所有说法，都不必当真。<br>俄乌战争，本来没中国啥事，你看那幅漫画，将中国画成俄罗斯后台了，俄罗斯成了中国的前台木偶。<br>谁信，谁是傻瓜。<br>我觉得是拜登政府为明年共和党弹劾在找遁辞。
+
+### 93: [2022-11-26 11:13:00+08:00 推文](https://twitter.com/HeQinglian/status/1596341220342734848)
+
+Re @JianglinLi @dinglili7 我讲的那些是抗议的标配，如今这些专职抗议者不仅连正经营生懒得干，就连抗议也不好好抗议，省略不少环节。<br>如此比较，瑞典那位环保少女还是挺敬业的。😅
 
