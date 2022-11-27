@@ -61,3 +61,7 @@ Re 8/<br>Be Water 如水<br>兄弟爬山，各自努力<br>香港人 反抗<br>�
 
 Students from the elite school Tsinghua University protested with Friedmann equation. I have no idea what this equation means, but it does not matter.<br>It's the pronunciation: it's similar to "free的man" (free man)—a spectacular and creative way to express, with intelligence.<br><img style="" src="https://pbs.twimg.com/media/FikeN-_X0AIQhJR?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 12: [2022-11-27 21:16:45+08:00 推文](https://twitter.com/nathanlawkc/status/1596855548053315584)
+
+In #China, CCP censors all online platforms and sometimes shuts down the internet in protest sites.<br>Protestors need safe and free internet access to circulate information, and the world needs to know the truth.<br>Should @elonmusk launch Starlink to support Chinese citizens now?
+
