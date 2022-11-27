@@ -27,11 +27,11 @@ Re 2. In mainland China, all media outlets are controlled by party branches. Now
 
 ### 3: [2021-12-29 20:51:44+08:00 推文](https://twitter.com/nathanlawkc/status/1476174095003926534)
 
-Re 3. It's a colonial law so draconian that the British colonial government ended up abandoning it. The HKG reversed the trend and used it to arrest journalists arbitrarily. Seven former and current editors and board members are arrested, with more than 200 police raid their office.<br><img style="" src="https://pbs.twimg.com/media/FHxsNM8WQAALCiy?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re 3. It's a colonial law so draconian that the British colonial government ended up abandoning it. The HKG reversed the trend and used it to arrest journalists arbitrarily. Seven former and current editors and board members are arrested, with more than 200 police raid their office.<br><img style src="https://pbs.twimg.com/media/FHxsNM8WQAALCiy?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-12-29 20:51:45+08:00 推文](https://twitter.com/nathanlawkc/status/1476174099366006786)
 
-Re 4. The police held a press conference and explained that as long as the articles trigger hatred towards the government, whether it's a news piece or a blogger's opinion post, it could violate the law. It means that gov's scandals and problems are not allowed to be exposed.<br><img style src="https://pbs.twimg.com/media/FHxr5bqX0AgaB5F?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re 4. The police held a press conference and explained that as long as the articles trigger hatred towards the government, whether it's a news piece or a blogger's opinion post, it could violate the law. It means that gov's scandals and problems are not allowed to be exposed.<br><img style="" src="https://pbs.twimg.com/media/FHxr5bqX0AgaB5F?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2021-12-29 20:51:46+08:00 推文](https://twitter.com/nathanlawkc/status/1476174102327136260)
 
@@ -43,7 +43,7 @@ Re 6. I hope it does not create a domino effect that other smaller independent o
 
 ### 7: [2021-12-29 20:51:48+08:00 推文](https://twitter.com/nathanlawkc/status/1476174108413116418)
 
-Re 7. Let's not forget who are arrested. Denise Ho, a Hong Kong canto-pop diva who has been very vocal on LGBTQI rights and social justice. She could have lived a prosperous and fancy life if she had stayed silent. But she didn't. Wealth cannot buy out one's faith and values.<br><img style src="https://pbs.twimg.com/media/FHxsPZ4WUAUH41T?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re 7. Let's not forget who are arrested. Denise Ho, a Hong Kong canto-pop diva who has been very vocal on LGBTQI rights and social justice. She could have lived a prosperous and fancy life if she had stayed silent. But she didn't. Wealth cannot buy out one's faith and values.<br><img style="" src="https://pbs.twimg.com/media/FHxsPZ4WUAUH41T?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2021-12-29 20:51:49+08:00 推文](https://twitter.com/nathanlawkc/status/1476174113580404739)
 

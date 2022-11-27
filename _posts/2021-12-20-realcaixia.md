@@ -25,7 +25,7 @@ title: 'Twitter @蔡霞: 2021-12-20~2021-12-26'
 
 ### 3: [2021-12-21 01:10:47+08:00 推文](https://twitter.com/realcaixia/status/1472977794254589952)
 
-请大家帮忙转发，仅仅只是说几句话，李田田老师就遭此劫难！谁人无母亲？谁人不为人子？把身为孕妇的李田田老师强制关进精神病院，她的孩子还没出生就被极权专政迫害摧残，这样的事令人发指！<br><br>悉尼閑人: 轉<br><br><img style src="https://pbs.twimg.com/media/FHCRx-_UUAM6rl_?format=jpg&name=orig" referrerpolicy="no-referrer">
+请大家帮忙转发，仅仅只是说几句话，李田田老师就遭此劫难！谁人无母亲？谁人不为人子？把身为孕妇的李田田老师强制关进精神病院，她的孩子还没出生就被极权专政迫害摧残，这样的事令人发指！<br><br>悉尼閑人: 轉<br><br><img style="" src="https://pbs.twimg.com/media/FHCRx-_UUAM6rl_?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-12-21 22:43:38+08:00 推文](https://twitter.com/realcaixia/status/1473303149129646097)
 
@@ -37,7 +37,7 @@ title: 'Twitter @蔡霞: 2021-12-20~2021-12-26'
 
 ### 6: [2021-12-21 22:50:29+08:00 推文](https://twitter.com/realcaixia/status/1473304874343448582)
 
-每日一推。<br><br>施明磊 #释放长沙公益仨: #每日一推要求程渊吴葛健雄的家属探视权和律师会见权 （12月21日第12推）<br>湖南省司法厅范运田厅长，湖南两年花了3000多万建成的视频会见系统，为啥不能支持程渊、吴葛健雄的视频会见？<br><br>程渊、吴葛健雄被秘密转去监狱3个多月了，至今禁止家属探视。<br>节后，我们家属将申请信息公开，看看这系统的猫腻<br><br><img style="" src="https://pbs.twimg.com/media/FHEgLnAWYAIe0_k?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHEgLm9WYAwLoh_?format=jpg&name=orig" referrerpolicy="no-referrer">
+每日一推。<br><br>施明磊 #释放长沙公益仨: #每日一推要求程渊吴葛健雄的家属探视权和律师会见权 （12月21日第12推）<br>湖南省司法厅范运田厅长，湖南两年花了3000多万建成的视频会见系统，为啥不能支持程渊、吴葛健雄的视频会见？<br><br>程渊、吴葛健雄被秘密转去监狱3个多月了，至今禁止家属探视。<br>节后，我们家属将申请信息公开，看看这系统的猫腻<br><br><img style src="https://pbs.twimg.com/media/FHEgLnAWYAIe0_k?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHEgLm9WYAwLoh_?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2021-12-22 19:24:00+08:00 推文](https://twitter.com/realcaixia/status/1473615298032975873)
 
@@ -81,7 +81,7 @@ Re @JIEDU4 看来你是个假基督徒！
 
 ### 17: [2021-12-24 12:11:37+08:00 推文](https://twitter.com/realcaixia/status/1474231262449741828)
 
-什么都不用说，一目了然。<br><br>李其 Lizzi: 习李差异…<br><br><img style src="https://pbs.twimg.com/media/FHSIIWnXIAANdD5?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHSIIXkWQAg1hGm?format=jpg&name=orig" referrerpolicy="no-referrer">
+什么都不用说，一目了然。<br><br>李其 Lizzi: 习李差异…<br><br><img style="" src="https://pbs.twimg.com/media/FHSIIWnXIAANdD5?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHSIIXkWQAg1hGm?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2021-12-24 22:14:56+08:00 推文](https://twitter.com/realcaixia/status/1474383092206944271)
 
@@ -141,7 +141,7 @@ Re 请看这张全图。参会的人坐的椅子与习近平是一样的吗？�
 
 ### 32: [2021-12-26 00:19:25+08:00 推文](https://twitter.com/realcaixia/status/1474776807601811459)
 
-前三句很有名，体制内流传甚广，唯冰心老人一问，丝毫没有听说。“无士则亡”！而今一语成谶！<br><br>高伐林: 转贴——<br><br><img style src="https://pbs.twimg.com/media/FHaQXV_XsAUUmZx?format=jpg&name=orig" referrerpolicy="no-referrer">
+前三句很有名，体制内流传甚广，唯冰心老人一问，丝毫没有听说。“无士则亡”！而今一语成谶！<br><br>高伐林: 转贴——<br><br><img style="" src="https://pbs.twimg.com/media/FHaQXV_XsAUUmZx?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 33: [2021-12-26 01:24:29+08:00 推文](https://twitter.com/realcaixia/status/1474793179966853123)
 
@@ -165,11 +165,11 @@ Re @LipingHuang7 低端人口這詞是習在一次會議上首說，隨後就被
 
 ### 38: [2021-12-26 09:43:57+08:00 推文](https://twitter.com/realcaixia/status/1474918875292749827)
 
-1991年12/25這一天，前蘇共解體，迄今30年。<br><br>大耳朵猫妹: 原来历史上的今天还这么有意义<br><br><img style="" src="https://pbs.twimg.com/media/FHdzpL-XsAYSgg2?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHdzpXYWQAMzRfV?format=jpg&name=orig" referrerpolicy="no-referrer">
+1991年12/25這一天，前蘇共解體，迄今30年。<br><br>大耳朵猫妹: 原来历史上的今天还这么有意义<br><br><img style src="https://pbs.twimg.com/media/FHdzpL-XsAYSgg2?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHdzpXYWQAMzRfV?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 39: [2021-12-26 22:32:03+08:00 推文](https://twitter.com/realcaixia/status/1475112175861653514)
 
-习当局自我隔绝于世界，把大陆中国人隔绝成世界弃儿。<br><br>荣剑: 文化自信不是在于你今天抵制这个明天抵制那个，而是在于你对世界持包容心，对优秀的文明和文化持开放态度。据说国内目前要对公共场所交通标示用汉语拼音取代英文，大概就是想体现文化自信，可决策者是否想到，拼音也是外来物，为什么不一块抵制?既然抵制了圣诞节，那就把元旦节也抵制了吧！<br><br><img style="" src="https://pbs.twimg.com/media/FHahCE3VkAENxyv?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHahCTUVUAIasqp?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHahC-sVgAMuTLi?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHahDkSVkAI__cj?format=jpg&name=orig" referrerpolicy="no-referrer">
+习当局自我隔绝于世界，把大陆中国人隔绝成世界弃儿。<br><br>荣剑: 文化自信不是在于你今天抵制这个明天抵制那个，而是在于你对世界持包容心，对优秀的文明和文化持开放态度。据说国内目前要对公共场所交通标示用汉语拼音取代英文，大概就是想体现文化自信，可决策者是否想到，拼音也是外来物，为什么不一块抵制?既然抵制了圣诞节，那就把元旦节也抵制了吧！<br><br><img style src="https://pbs.twimg.com/media/FHahCE3VkAENxyv?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHahCTUVUAIasqp?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHahC-sVgAMuTLi?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHahDkSVkAI__cj?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 40: [2021-12-26 23:32:51+08:00 推文](https://twitter.com/realcaixia/status/1475127475046957064)
 
