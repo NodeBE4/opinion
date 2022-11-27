@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2021-12-27~2022-01-02'
 
 ### 1: [2021-12-28 21:46:56+08:00 推文](https://twitter.com/realcaixia/status/1475825596999553026)
 
-资中筠老师在大陆所有争取自由民主的人心中，是人格魅力最强大，享有很高威信，深得人们敬重的学者专家，被敬称为资先生。杨天石教授是大陆公认的顶级历史学家。他们二位出现在央视新闻联播视频中，无疑具有某种信号性的意味。20大之前，或许还有更多的各种事情各种信号出现，密切关注。<br><br>高瑜: 91歲的資中筠先生26日在新聞聯播露臉。24日國務院總理李克強主持召開國務院參事、中央文史研究館館員座談會。她和中國社科院另一位榮譽學部委員，中央文史研究館館員楊天石參加，都沒有發言。自2018年10月外媒報導，資先生女兒透露：“中國社科院美國所書記約談我媽，給我媽念了三條錯誤：<br><br><img style="" src="https://pbs.twimg.com/media/FHsIgTTUcAMXUxS?format=jpg&name=orig" referrerpolicy="no-referrer">
+资中筠老师在大陆所有争取自由民主的人心中，是人格魅力最强大，享有很高威信，深得人们敬重的学者专家，被敬称为资先生。杨天石教授是大陆公认的顶级历史学家。他们二位出现在央视新闻联播视频中，无疑具有某种信号性的意味。20大之前，或许还有更多的各种事情各种信号出现，密切关注。<br><br>高瑜: 91歲的資中筠先生26日在新聞聯播露臉。24日國務院總理李克強主持召開國務院參事、中央文史研究館館員座談會。她和中國社科院另一位榮譽學部委員，中央文史研究館館員楊天石參加，都沒有發言。自2018年10月外媒報導，資先生女兒透露：“中國社科院美國所書記約談我媽，給我媽念了三條錯誤：<br><br><img style src="https://pbs.twimg.com/media/FHsIgTTUcAMXUxS?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2021-12-29 02:28:43+08:00 推文](https://twitter.com/realcaixia/status/1475896511791865856)
 
@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2021-12-27~2022-01-02'
 
 ### 4: [2021-12-29 12:54:32+08:00 推文](https://twitter.com/realcaixia/status/1476054000898383873)
 
-每日一推，呼吁无罪释放长沙公益仨。<br><br>施明磊 #释放长沙公益仨: #每日一推要求程渊和吴葛健雄的家属探视权12月28日 第18推）<br>小吴在的衡州监狱来电话了，说你们没有亲属关系，拒绝我们要求吴葛健雄家属探视权的投诉。<br><br>根据监狱法四十八条规定，#程渊、#吴葛健雄 享有亲属会见的权利。<br><br>衡州监狱，你们在违法懂不懂？<br><br>@湖南司法厅厅长范运田，监狱管理局局长钟艺兵<br><br><img style src="https://pbs.twimg.com/media/FHtweDUWYAAUzht?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHtweDRWYAQV-wJ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHtweD6X0AY4o3E?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHtweD-XEAEjTWP?format=jpg&name=orig" referrerpolicy="no-referrer">
+每日一推，呼吁无罪释放长沙公益仨。<br><br>施明磊 #释放长沙公益仨: #每日一推要求程渊和吴葛健雄的家属探视权12月28日 第18推）<br>小吴在的衡州监狱来电话了，说你们没有亲属关系，拒绝我们要求吴葛健雄家属探视权的投诉。<br><br>根据监狱法四十八条规定，#程渊、#吴葛健雄 享有亲属会见的权利。<br><br>衡州监狱，你们在违法懂不懂？<br><br>@湖南司法厅厅长范运田，监狱管理局局长钟艺兵<br><br><img style="" src="https://pbs.twimg.com/media/FHtweDUWYAAUzht?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHtweDRWYAQV-wJ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHtweD6X0AY4o3E?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHtweD-XEAEjTWP?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2021-12-30 00:39:20+08:00 推文](https://twitter.com/realcaixia/status/1476231371718803461)
 
@@ -41,7 +41,7 @@ title: 'Twitter @蔡霞: 2021-12-27~2022-01-02'
 
 ### 7: [2021-12-30 03:33:22+08:00 推文](https://twitter.com/realcaixia/status/1476275167831728130)
 
-民主国家政府抵制冬奥，这是正义之举，应该唤起更多的国家政府共同抵制冬奥会！<br><br>DW 中文- 德国之声: 北京冬季奥运会即将开幕。美国已宣布外交抵制。欧盟尚在寻求共同立场。🇩🇪外交、内政部长已作出个人决定：不去北京。<br>不过她们都强调，此为个人决定，并非外交抵制的政治决策。<br>相关报道：<br><br><img style="" src="https://pbs.twimg.com/media/FHySweXWQAUb0Bt?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://dw.com/p/44xdn" target="_blank" rel="noopener noreferrer">http://dw.com/p/44xdn</a>
+民主国家政府抵制冬奥，这是正义之举，应该唤起更多的国家政府共同抵制冬奥会！<br><br>DW 中文- 德国之声: 北京冬季奥运会即将开幕。美国已宣布外交抵制。欧盟尚在寻求共同立场。🇩🇪外交、内政部长已作出个人决定：不去北京。<br>不过她们都强调，此为个人决定，并非外交抵制的政治决策。<br>相关报道：<br><br><img style src="https://pbs.twimg.com/media/FHySweXWQAUb0Bt?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://dw.com/p/44xdn" target="_blank" rel="noopener noreferrer">http://dw.com/p/44xdn</a>
 
 ### 8: [2021-12-30 20:19:44+08:00 推文](https://twitter.com/realcaixia/status/1476528427725381633)
 
