@@ -29,21 +29,27 @@ I mean, there's a certain validity to that. Dismount your guys! Infantry were me
 
 No, because China and Japan did not go into isolation. In the case of Japan, 'isolationism' was used after the restoration to characterise Tokugawa policy as a way of discrediting the old regime, and, as /u/ParallelPain notes, [does not capture the finer points of Japan's engagement with the outside world](https://www.reddit.com/r/AskHistorians/comments/iaxh4j/why_did_japan_decide_to_be_isolationist_during/). In the case of China, we ought not to conflate the policy of the Ming, which, per /u/_dk, imposed [strict but not total constraints on maritime trade](https://www.reddit.com/r/AskHistorians/comments/2a9tgx/what_is_the_history_of_the_ming_dynastys_haijin/citfco1/?context=999), with the Qing, which, as an expansionist Eurasian empire, was *deeply* tied in with the global economy, as I cover [here](https://www.reddit.com/r/AskHistorians/comments/c1we9g/why_was_the_treaty_port_system_operated_so/ergraoq/). Arguably the only 'isolationist' state was Korea, but even then the Koreans maintained trade relations within East Asia even if it didn't engage with the European powers. The notion that East Asian countries became these hermetically sealed entities has long been used both from within and without as a means of discrediting certain policies, but it is, on the whole, factually unsustainable.
 
-### 939: [Spock violated Valeris' body, mind, and her rights](https://old.reddit.com/r/DaystromInstitute/comments/z1gtpu/spock_violated_valeris_body_mind_and_her_rights/), submitted on 2022-11-22 09:40:21+08:00.
+### 939: [Nomadic Neural Network - Weekly Discussion Thread, November 22nd, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/z1gmh2/nomadic_neural_network_weekly_discussion_thread/), submitted on 2022-11-22 09:31:04+08:00.
 
------ __939.1__ -----2022-11-22 20:42:12+08:00:
+----- __939.1__ -----2022-11-27 19:12:41+08:00:
+
+Or... both are significant.
+
+### 940: [Spock violated Valeris' body, mind, and her rights](https://old.reddit.com/r/DaystromInstitute/comments/z1gtpu/spock_violated_valeris_body_mind_and_her_rights/), submitted on 2022-11-22 09:40:21+08:00.
+
+----- __940.1__ -----2022-11-22 20:42:12+08:00:
 
 Three cheers for Gene's Vision, everyone!
 
-### 940: [Petition to change the “Cavalry” unit to the Dragoon unit](https://old.reddit.com/r/civ/comments/z2t29u/petition_to_change_the_cavalry_unit_to_the/), submitted on 2022-11-24 00:10:08+08:00.
+### 941: [Petition to change the “Cavalry” unit to the Dragoon unit](https://old.reddit.com/r/civ/comments/z2t29u/petition_to_change_the_cavalry_unit_to_the/), submitted on 2022-11-24 00:10:08+08:00.
 
------ __940.1__ -----2022-11-24 09:15:27+08:00:
+----- __941.1__ -----2022-11-24 09:15:27+08:00:
 
 Yes and no. Dragoons as originally conceived in the 17th century were mounted infantry, but dragoons and other ordinary 'horse' basically met in the middle by the early 18th century, largely fighting in close quarters in battle but retaining the ability to skirmish with firearms.
 
-### 941: [In the Klingon lexicon, the term for "pair" is "chang`eng".](https://old.reddit.com/r/tlhInganHol/comments/z2zqij/in_the_klingon_lexicon_the_term_for_pair_is/), submitted on 2022-11-24 04:33:19+08:00.
+### 942: [In the Klingon lexicon, the term for "pair" is "chang`eng".](https://old.reddit.com/r/tlhInganHol/comments/z2zqij/in_the_klingon_lexicon_the_term_for_pair_is/), submitted on 2022-11-24 04:33:19+08:00.
 
------ __941.1__ -----2022-11-24 09:21:19+08:00:
+----- __942.1__ -----2022-11-24 09:21:19+08:00:
 
 It's a classic joke among linguists, orthographers and the like that 'ghoti' is a legitimate spelling of 'fish', as long as you pronounce:
 
@@ -53,9 +59,9 @@ It's a classic joke among linguists, orthographers and the like that 'ghoti' is 
 
 Mark Okrand, creator of Klingon, thus decided 'ghotI'' would be Klingon for 'fish'.
 
-### 942: [What did the Byzantines call China?](https://old.reddit.com/r/AskHistorians/comments/z3sr4t/what_did_the_byzantines_call_china/), submitted on 2022-11-25 03:40:04+08:00.
+### 943: [What did the Byzantines call China?](https://old.reddit.com/r/AskHistorians/comments/z3sr4t/what_did_the_byzantines_call_china/), submitted on 2022-11-25 03:40:04+08:00.
 
------ __942.1__ -----2022-11-25 03:41:13+08:00:
+----- __943.1__ -----2022-11-25 03:41:13+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -63,9 +69,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 943: [Nendroids of Noel and Flare are now open for preorders!](https://old.reddit.com/r/Hololive/comments/z4268o/nendroids_of_noel_and_flare_are_now_open_for/), submitted on 2022-11-25 11:03:58+08:00.
+### 944: [Nendroids of Noel and Flare are now open for preorders!](https://old.reddit.com/r/Hololive/comments/z4268o/nendroids_of_noel_and_flare_are_now_open_for/), submitted on 2022-11-25 11:03:58+08:00.
 
------ __943.1__ -----2022-11-25 18:06:34+08:00:
+----- __944.1__ -----2022-11-25 18:06:34+08:00:
 
 *looks at last image*
 
@@ -73,25 +79,25 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 What lewdness!
 
-### 944: [Motoaki Tanigo then vs. YAGOO now.](https://old.reddit.com/r/Hololive/comments/z49ozy/motoaki_tanigo_then_vs_yagoo_now/), submitted on 2022-11-25 18:02:57+08:00.
+### 945: [Motoaki Tanigo then vs. YAGOO now.](https://old.reddit.com/r/Hololive/comments/z49ozy/motoaki_tanigo_then_vs_yagoo_now/), submitted on 2022-11-25 18:02:57+08:00.
 
------ __944.1__ -----2022-11-26 06:21:05+08:00:
+----- __945.1__ -----2022-11-26 06:21:05+08:00:
 
 She even has two Flare dakimakuras.
 
------ __944.2__ -----2022-11-26 08:39:51+08:00:
+----- __945.2__ -----2022-11-26 08:39:51+08:00:
 
 True.
 
-### 945: [Friday Free-for-All | November 25, 2022](https://old.reddit.com/r/AskHistorians/comments/z4e2c3/friday_freeforall_november_25_2022/), submitted on 2022-11-25 22:00:10+08:00.
+### 946: [Friday Free-for-All | November 25, 2022](https://old.reddit.com/r/AskHistorians/comments/z4e2c3/friday_freeforall_november_25_2022/), submitted on 2022-11-25 22:00:10+08:00.
 
------ __945.1__ -----2022-11-26 02:22:07+08:00:
+----- __946.1__ -----2022-11-26 02:22:07+08:00:
 
 This is a niche one, but it's the idea that the Treaty of Tientsin (Tianjin) in 1858 legalised opium in China. Opium does not appear in the text of *any* of the four versions of the treaty. Moreover, the Treaty of Tientsin was, rather infamously, not ratified by the Xianfeng Emperor, leading to a resumption of hostilities in 1859-60 that concluded in the Convention of Peking, whose first stipulation was that the Qing court had to ratify the earlier treaty. And yet, opium trading was legal all throughout this latter stage of hostilities. If the Qing refused to ratify the opium-legalising treaty, why was opium legal? Instead, it seems that opium was pretty quietly legalised domestically, quite probably to allow it to be taxed to raise funds for fighting the Taiping. There's nothing to indicate it was ever forcibly legalised by treaty.
 
-### 946: [Why is Han Chinese considered a single ethnic group despite having multiple languages and customs across its population?](https://old.reddit.com/r/AskHistorians/comments/z4himu/why_is_han_chinese_considered_a_single_ethnic/), submitted on 2022-11-26 00:28:18+08:00.
+### 947: [Why is Han Chinese considered a single ethnic group despite having multiple languages and customs across its population?](https://old.reddit.com/r/AskHistorians/comments/z4himu/why_is_han_chinese_considered_a_single_ethnic/), submitted on 2022-11-26 00:28:18+08:00.
 
------ __946.1__ -----2022-11-26 22:52:27+08:00:
+----- __947.1__ -----2022-11-26 22:52:27+08:00:
 
 There's any number of angles that may be taken here, and with the field of what we might term 'critical Han studies' being a relatively diverse one in terms of perspective, do please bear in mind that the one which I offer here is not the only one that exists. What I posit is that the expansiveness of Han identity is due to the following combination of factors:
 
@@ -117,17 +123,17 @@ Han identity, like any other comparable identity, is one that is essentially art
 * Pamela Crossley, Donald Sutton, and Helen Siu (eds.), *Empire at the Margins* (2006)
 * Thomas Mullaney, James Leibold, and Stéphane Gros (eds.), *Critical Han Studies* (2012)
 
------ __946.2__ -----2022-11-27 06:12:51+08:00:
+----- __947.2__ -----2022-11-27 06:12:51+08:00:
 
 In essence I'm just referring to ethnic and national identities as a whole. Britishness is artificial, and so too is Frenchness or Germanness, and I mean that in the sense that these were constructed by humans, often relatively recently, rather than being inherent, continuous constructs.
 
------ __946.3__ -----2022-11-27 17:10:03+08:00:
+----- __947.3__ -----2022-11-27 17:10:03+08:00:
 
 I would not. As I lay out pretty overtly in pretty much all of the paragraphs, Han identity has been consistently malleable in response to the conditions created by political discontinuities, *especially* as a result of the period of political division during the Song-Liao-Jin era. If anything it is an attempt to *assert* rather than to affirm political unity.
 
-### 947: [Zeta denying reality once again](https://old.reddit.com/r/Hololive/comments/z56lyq/zeta_denying_reality_once_again/), submitted on 2022-11-26 20:39:38+08:00.
+### 948: [Zeta denying reality once again](https://old.reddit.com/r/Hololive/comments/z56lyq/zeta_denying_reality_once_again/), submitted on 2022-11-26 20:39:38+08:00.
 
------ __947.1__ -----2022-11-27 03:50:56+08:00:
+----- __948.1__ -----2022-11-27 03:50:56+08:00:
 
 [RIP Okayu's hearing](https://www.reddit.com/r/Hololive/comments/jmn4fe/cat_ears/)
 
