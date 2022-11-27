@@ -227,3 +227,15 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FihUlr0VsAEXW3R?format=jpg
 
 上海万人高呼共产党下台！事情不妙了,护驾！ - YouTube <a href="https://m.youtube.com/shorts/qtzf5ZZTrnM" target="_blank" rel="noopener noreferrer">https://m.youtube.com/shorts/qtzf5ZZTrnM</a>
 
+### 54: [2022-11-27 08:12:28+08:00 推文](https://twitter.com/realcaixia/status/1596658177885425664)
+
+特别转推⬇️：<br>北京市民众抗争胜利，几十个小区解封。解封小区的名单如下：<br><br>Nini艾番妮🇺🇸🇭🇰🇺🇦Margana🎗️✋👍💛💙: #中共反人类防疫 【北京人民的胜利✌️】就在刚刚！几十个小区解封！人民的胜利！北京居民联合通告！全国人民联合起来！赶走白卫兵！打倒戏猪头！附名单！<br><br><img style="" src="https://pbs.twimg.com/media/FieB-CyVsAAusra?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FieB-CzVsAARcCT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FieB-C0VIAAt4B4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FieB-CzUAAA75To?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 55: [2022-11-27 08:17:32+08:00 推文](https://twitter.com/realcaixia/status/1596659452215644160)
+
+请特别关注这期评论中第21分钟 <a href="https://youtu.be/CydIfNifm9Y" target="_blank" rel="noopener noreferrer">https://youtu.be/CydIfNifm9Y</a>
+
+### 56: [2022-11-27 08:29:10+08:00 推文](https://twitter.com/realcaixia/status/1596662378095153157)
+
+推荐⬇️LT视界评论：这期评论个个精彩，特别请听22分5秒起：北京天通苑4个居委会干部商议，用黑社会手段栽赃诬害居民。中共黑帮组织以黑治国、以黑统治民众。<br><br>這次習近平演穿幫了；新疆抗議讓中共清零運動第一次遭受到真正的挑戰；北京天通苑事件讓人不寒而慄。 <a href="https://youtu.be/CydIfNifm9Y" target="_blank" rel="noopener noreferrer">https://youtu.be/CydIfNifm9Y</a>
+
