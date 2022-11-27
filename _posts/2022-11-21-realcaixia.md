@@ -271,3 +271,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FilKIkSUcAACBi9?format=jpg
 
 Re <br><img style="" src="https://pbs.twimg.com/media/FilKmdHVEAAWt0T?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 65: [2022-11-27 23:55:55+08:00 推文](https://twitter.com/realcaixia/status/1596895603606183936)
+
+请看BBC对乌市大火和民众走上街头表达诉求的报道！非常感动。期望更多的媒体关注我们大陆民众的反抗清零、反抗独裁、反抗极权暴政的英勇抗争行动！<br><br>新疆烏魯木齊民眾走上街頭抗議封城－ BBC News 中文 - YouTube <a href="https://m.youtube.com/watch?v=GXI5GjppG68" target="_blank" rel="noopener noreferrer">https://m.youtube.com/watch?v=GXI5GjppG68</a>
+
