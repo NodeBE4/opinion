@@ -239,3 +239,11 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FihUlr0VsAEXW3R?format=jpg
 
 推荐⬇️LT视界评论：这期评论个个精彩，特别请听22分5秒起：北京天通苑4个居委会干部商议，用黑社会手段栽赃诬害居民。中共黑帮组织以黑治国、以黑统治民众。<br><br>這次習近平演穿幫了；新疆抗議讓中共清零運動第一次遭受到真正的挑戰；北京天通苑事件讓人不寒而慄。 <a href="https://youtu.be/CydIfNifm9Y" target="_blank" rel="noopener noreferrer">https://youtu.be/CydIfNifm9Y</a>
 
+### 57: [2022-11-27 15:57:08+08:00 推文](https://twitter.com/realcaixia/status/1596775113537380352)
+
+清华大学的学生行动了！请看⬇️YouTube：他们高呼：我们受够了！民主法治！ <a href="https://youtu.be/-Aa43tfkXU0" target="_blank" rel="noopener noreferrer">https://youtu.be/-Aa43tfkXU0</a>
+
+### 58: [2022-11-27 15:59:47+08:00 推文](https://twitter.com/realcaixia/status/1596775781434159104)
+
+ <a href="https://youtu.be/u9PbIh7Cd9Q" target="_blank" rel="noopener noreferrer">https://youtu.be/u9PbIh7Cd9Q</a>
+
