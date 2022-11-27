@@ -247,3 +247,27 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FihUlr0VsAEXW3R?format=jpg
 
  <a href="https://youtu.be/u9PbIh7Cd9Q" target="_blank" rel="noopener noreferrer">https://youtu.be/u9PbIh7Cd9Q</a>
 
+### 59: [2022-11-27 22:48:56+08:00 推文](https://twitter.com/realcaixia/status/1596878746174164993)
+
+特别推荐：⬇️王剑老师的这期评论：他把这些天的事件发生和各地情况做了比较深入的分析。<br><br>他的分析是多视角多层面的，这种分析的背后是持开放性、动态性的思维。<br><br>思维方式影响人们观察问题的视野与视角，影响人们思考问题的敏锐性与洞察力…… <a href="https://youtu.be/4hsgQkhVY-A" target="_blank" rel="noopener noreferrer">https://youtu.be/4hsgQkhVY-A</a>
+
+### 60: [2022-11-27 22:53:51+08:00 推文](https://twitter.com/realcaixia/status/1596879984496295936)
+
+推荐⬇️大宇新闻拍案：<br>汇总梳理了近两天各地民众反抗情况：<br><br>💥中國正發生什麼？！迄今最全整理：全國城市、大學生反清零，上海人高呼共黨下台；“不自由毋寧死”響徹校園；北京幾十小區居民自行解封；火災激怒烏魯木齊，全市遊行；台灣兩黨選民談觀點｜新聞拍案大宇 - YouTube <a href="https://m.youtube.com/watch?v=GzWeya7hclY" target="_blank" rel="noopener noreferrer">https://m.youtube.com/watch?v=GzWeya7hclY</a>
+
+### 61: [2022-11-27 23:13:11+08:00 推文](https://twitter.com/realcaixia/status/1596884850522304513)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FilGTk2UUAE-Ogk?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 62: [2022-11-27 23:15:45+08:00 推文](https://twitter.com/realcaixia/status/1596885496705167360)
+
+成都民众行动起来了。<br><br>Anonymous Zx۵ : 北京时间11.27日🚨#成都 望平街 勇敢的中国人民站起来反抗 #中共 暴政！他们高举白纸呐喊： 不自由 毋宁死！不自由 毋宁死！ 不自由 毋宁死！#China #COVID19<br><br><video src="https://video.twimg.com/ext_tw_video/1596839772131033089/pu/vid/828x446/lWX-hY90NCdA9TX3.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1596839772131033089/pu/img/5exSRfzPbmhmmORB.jpg"></video>
+
+### 63: [2022-11-27 23:29:56+08:00 推文](https://twitter.com/realcaixia/status/1596889065215111168)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FilKIkSUcAACBi9?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FilKIkUVEAAIRQk?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 64: [2022-11-27 23:31:57+08:00 推文](https://twitter.com/realcaixia/status/1596889572859731968)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FilKmdHVEAAWt0T?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

@@ -49,7 +49,7 @@ Re @sakamoto2023 说得好！🌹我有时候还会不自觉地用习惯了的�
 
 ### 9: [2022-09-21 20:54:00+08:00 推文](https://twitter.com/realcaixia/status/1572569836869537793)
 
-特别推荐李承鹏先生的最新力作！<br>中国人这三年的日子可用一些语词描述“祸从天降”、“朝不保夕”、“战战兢兢 ，如履薄冰”；无军事战争的“兵慌马乱”、无灾害性气候的“饥民、饿殍”……，李承鹏先生悲悯之心力透纸背。<br><br>李承诺: 《霸王别姬》里，程蝶衣说：你道今儿个是小人作乱，祸从天降。不是，不对！是咱们自个儿，一步一步，一步步走到这步田地里来的！报应！<br>
+特别推荐李承鹏先生的最新力作！<br>中国人这三年的日子可用一些语词描述“祸从天降”、“朝不保夕”、“战战兢兢 ，如履薄冰”；无军事战争的“兵慌马乱”、无灾害性气候的“饥民、饿殍”……，李承鹏先生悲悯之心力透纸背。<br><br>李承诺: 《霸王别姬》里，程蝶衣说：你道今儿个是小人作乱，祸从天降。不是，不对！是咱们自个儿，一步一步，一步步走到这步田地里来的！报应！<br> <a href="https://twitter.com/dayangelcp/status/1572405821073666049" target="_blank" rel="noopener noreferrer">https://twitter.com/dayangelcp/status/1572405821073666049</a>
 
 ### 10: [2022-09-21 21:43:29+08:00 推文](https://twitter.com/realcaixia/status/1572582290097864705)
 
@@ -57,7 +57,7 @@ Re @sakamoto2023 说得好！🌹我有时候还会不自觉地用习惯了的�
 
 ### 11: [2022-09-21 21:49:21+08:00 推文](https://twitter.com/realcaixia/status/1572583764949348352)
 
-这张照片让人泪下…心痛心碎。人的良知如何能唤醒哪些冷漠无情的人？<br><br>余钱💯: 這張照片是一個女孩跳樓的時候，圍觀者都在等著看熱鬧和笑話，只有這個老人不斷含淚對女孩揮手說: 不要。 這張照片一直在提醒我說，看這些醜陋的鬼臉，在別人都這樣做的時候，你依然要守住內心的善良。<br><br><img style="" src="https://pbs.twimg.com/media/Fc-03JBaAAE6C4-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+这张照片让人泪下…心痛心碎。人的良知如何能唤醒哪些冷漠无情的人？<br><br>余钱100: 這張照片是一個女孩跳樓的時候，圍觀者都在等著看熱鬧和笑話，只有這個老人不斷含淚對女孩揮手說: 不要。 這張照片一直在提醒我說，看這些醜陋的鬼臉，在別人都這樣做的時候，你依然要守住內心的善良。<br><br><img style="" src="https://pbs.twimg.com/media/Fc-03JBaAAE6C4-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2022-09-21 21:54:19+08:00 推文](https://twitter.com/realcaixia/status/1572585014285717515)
 
@@ -69,7 +69,7 @@ Re 只有阻止习连任，中国人才有逐步恢复生计，为经济发展�
 
 ### 14: [2022-09-23 21:16:58+08:00 推文](https://twitter.com/realcaixia/status/1573300389943836673)
 
-胡平老师的这篇文章，为如何解读习以及中共国的官方舆论宣传提供了很好的历史借鉴。<br><br>Hu Ping胡平: 大跃进惨败，导致了人类历史上最大的人为大饥荒，暴君兼昏君毛泽东不因此而垮台就已经够不可思议的了，殊不知三五年后，毛泽东的个人威望不降反升，竟然还达到最高点，以至于攒足了发动文革的本钱。岂非咄咄怪事？<br>胡平：从经济狂想到政治狂想<br>链接：<br> <a href="https://www.chinesepen.org/blog/archives/110973" target="_blank" rel="noopener noreferrer">https://www.chinesepen.org/blog/archives/110973</a> <a href="https://twitter.com/L2socialmedia/status/1573104151793631232" target="_blank" rel="noopener noreferrer">https://twitter.com/L2socialmedia/status/1573104151793631232</a>
+胡平老师的这篇文章，为如何解读习以及中共国的官方舆论宣传提供了很好的历史借鉴。<br><br>Hu Ping胡平: 大跃进惨败，导致了人类历史上最大的人为大饥荒，暴君兼昏君毛泽东不因此而垮台就已经够不可思议的了，殊不知三五年后，毛泽东的个人威望不降反升，竟然还达到最高点，以至于攒足了发动文革的本钱。岂非咄咄怪事？<br>胡平：从经济狂想到政治狂想<br>链接：<br> <a href="https://www.chinesepen.org/blog/archives/110973" target="_blank" rel="noopener noreferrer">https://www.chinesepen.org/blog/archives/110973</a>
 
 ### 15: [2022-09-24 05:11:15+08:00 推文](https://twitter.com/realcaixia/status/1573419749731872768)
 
