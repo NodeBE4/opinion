@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2022-07-18~2022-07-24'
 
 ### 1: [2022-07-18 09:34:51+08:00 推文](https://twitter.com/realcaixia/status/1548843710527508481)
 
-我曾是中央党校代表团成员之一访问朝鲜。一天参观朝鲜劳动党中央党校，教室墙上有几个大挂幅，上面写满了朝鲜文。我们团的一个鲜族教授，大声翻译那些朝鲜文。原来这是培训官员如何“管理党员和民众”的要点，其中之一就是实行五户连坐制。一人被控谋反，五家人连坐判同罪。看来，中国朝鲜化正在进行时。<br><br>一剑飘尘 007: 习近平时代，中共倒退到“连坐”制度，还有人说“谁上都一样”！不要说八十年代胡赵时期，就是江胡时代，也不至于如此明目张胆连坐孩子吧？习下是方向，谁上都更强<br><br><img style="" src="https://pbs.twimg.com/media/FX6IDYbUcAEuEYE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+我曾是中央党校代表团成员之一访问朝鲜。一天参观朝鲜劳动党中央党校，教室墙上有几个大挂幅，上面写满了朝鲜文。我们团的一个鲜族教授，大声翻译那些朝鲜文。原来这是培训官员如何“管理党员和民众”的要点，其中之一就是实行五户连坐制。一人被控谋反，五家人连坐判同罪。看来，中国朝鲜化正在进行时。
 
 ### 2: [2022-07-19 08:41:33+08:00 推文](https://twitter.com/realcaixia/status/1549192684144934912)
 
@@ -81,7 +81,7 @@ Re @wongkim728 你有什么根据说某人刻意造谣呢？这需要拿出事�
 
 ### 17: [2022-07-21 00:25:41+08:00 推文](https://twitter.com/realcaixia/status/1549792672059121672)
 
-在中国无执法权的保安以为自己有权力执法，他们执行上司指令时同样凶恶，若出了事，他们的上司像扔破抹布一样的把他们拿出去顶替责任。这些人不懂法，还自以为自己背靠权力大树，可悲。
+在中国无执法权的保安以为自己有权力执法，他们执行上司指令时同样凶恶，若出了事，他们的上司像扔破抹布一样的把他们拿出去顶替责任。这些人不懂法，还自以为自己背靠权力大树，可悲。<br><br>反对独裁专治政权: 中共国的法盲警察<br><br><video src="https://video.twimg.com/ext_tw_video/1549115735837798400/pu/vid/636x360/SADqJ1LyhnRFx2da.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1549115735837798400/pu/img/id03pZkPaj2iEbsE.jpg"></video>
 
 ### 18: [2022-07-21 00:44:19+08:00 推文](https://twitter.com/realcaixia/status/1549797359642710016)
 
@@ -93,7 +93,7 @@ Re @wongkim728 你有什么根据说某人刻意造谣呢？这需要拿出事�
 
 ### 20: [2022-07-21 01:14:43+08:00 推文](https://twitter.com/realcaixia/status/1549805012095848450)
 
-中共對自己幹的罪惡一清二楚，他們害怕人們的紀念，他們千方百計地想要扼殺人們的記憶。這和它們年年妄圖扼殺人們對6.4天安門廣場死難者的紀念一樣。<br><br>hanbugerger: @realcaixia 墙内现状。<br><br><img style="" src="https://pbs.twimg.com/media/FYH_7mNXgAYXpU9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+中共對自己幹的罪惡一清二楚，他們害怕人們的紀念，他們千方百計地想要扼殺人們的記憶。這和它們年年妄圖扼殺人們對6.4天安門廣場死難者的紀念一樣。
 
 ### 21: [2022-07-21 01:48:51+08:00 推文](https://twitter.com/realcaixia/status/1549813602693140480)
 
@@ -113,7 +113,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FYJewOwX0AUPknj?format=jpg
 
 ### 25: [2022-07-21 20:44:44+08:00 推文](https://twitter.com/realcaixia/status/1550099458054144002)
 
-因知了诗而生祸，真是前无古人。<br><br>Jam: 习近平新时代的文字狱，前无古人。<br><br><img style="" src="https://pbs.twimg.com/media/FYH-CA5WYAItfJK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+因知了诗而生祸，真是前无古人。
 
 ### 26: [2022-07-21 21:41:34+08:00 推文](https://twitter.com/realcaixia/status/1550113757296304128)
 
