@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2022-04-11~2022-04-17'
 
 ### 1: [2022-04-11 00:54:31+08:00 推文](https://twitter.com/realcaixia/status/1513198753209065473)
 
-当局是大规模传播病毒感染的制造者。
+当局是大规模传播病毒感染的制造者。<br><br>鲁  难: 按照广州测核酸的这个模式来推测，距离封城应该不远了。<br>测核酸就说明知道有潜在的病毒携带者。<br>然后把人们聚在一起测核酸，创造一个集体感染、让疾病集中爆发的环境条件，这是抗疫还是在传播疫情？<br><br><video src="https://video.twimg.com/ext_tw_video/1513170686134697985/pu/vid/720x1146/FHPTK1I1OIEPxWAO.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1513170686134697985/pu/img/yjgXNGA6Ixu7xf1E.jpg"></video>
 
 ### 2: [2022-04-11 01:03:19+08:00 推文](https://twitter.com/realcaixia/status/1513200970234224641)
 
@@ -41,7 +41,7 @@ Re 多个跟帖说现在这长冷兵器已经充分普及了。反过来想，�
 
 ### 7: [2022-04-11 11:29:22+08:00 推文](https://twitter.com/realcaixia/status/1513358520623591426)
 
-太好了！台湾民选政府才是中国人的真正民主政府，期望看到有更多的国家和台湾建立正式邦交关系。台湾是中国人推动大陆向宪政民主政治转型的榜样。
+太好了！台湾民选政府才是中国人的真正民主政府，期望看到有更多的国家和台湾建立正式邦交关系。台湾是中国人推动大陆向宪政民主政治转型的榜样。<br><br>Dr. Bo 🇺🇸🇹🇼🇭🇰: 台灣外交部歡迎瑞典國會和歐洲議會代表訪問台灣。這是歷史上首次歐洲立法機構代表訪問台灣。<br> <a href="https://twitter.com/MOFA_Taiwan/status/1513121067090743301" target="_blank" rel="noopener noreferrer">https://twitter.com/MOFA_Taiwan/status/1513121067090743301</a>
 
 ### 8: [2022-04-11 11:45:34+08:00 推文](https://twitter.com/realcaixia/status/1513362596484714499)
 
@@ -89,11 +89,11 @@ Re @wsddasfgd @yibaochina 是的，这个问题还没有最终解决，我们正
 
 ### 19: [2022-04-14 05:02:18+08:00 推文](https://twitter.com/realcaixia/status/1514348274844672003)
 
-人间惨剧，令人心碎。<br><br>鲁  难: 上海市虹口区卫健委信息中心主任钱文雄在办公室自尽。<br>稍后，其患癌症多时的妻子也随他而去。虽不能同年同月同日生，但是做到了同年同月同日死。<br>有爱，有勇气。<br>而活在上海，也需要勇气。<br><br><img style="" src="https://pbs.twimg.com/media/FQPX9VzXIAseQAl?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FQPX9VxWQAsiZkb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FQPX9VzXoBEzcJl?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FQPX9VyWYAghA25?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+人间惨剧，令人心碎。
 
 ### 20: [2022-04-14 08:23:40+08:00 推文](https://twitter.com/realcaixia/status/1514398948286517248)
 
-#议报发布中国旅欧著名作家胡发云先生的短文。特别推荐<br>一场不义战争带给几代人巨大的伤痛，这不仅是经历了亲人在战争中死亡的巨大伤痛，而且作为后人内心代先人所承受的长久的负罪感。这成为几代人难以愈合的心灵创伤。这篇短文从这个独特视角，深刻地控诉一切侵略战争的罪恶，读后令人震撼。<br><br>《议报》: 胡发云：一场不义之战，三代刻骨之痛<br> <a href="https://yibaochina.com/?p=245953" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245953</a>
+#议报发布中国旅欧著名作家胡发云先生的短文。特别推荐<br>一场不义战争带给几代人巨大的伤痛，这不仅是经历了亲人在战争中死亡的巨大伤痛，而且作为后人内心代先人所承受的长久的负罪感。这成为几代人难以愈合的心灵创伤。这篇短文从这个独特视角，深刻地控诉一切侵略战争的罪恶，读后令人震撼。
 
 ### 21: [2022-04-14 08:47:25+08:00 推文](https://twitter.com/realcaixia/status/1514404928340598786)
 
@@ -153,7 +153,7 @@ Re @tsui_c2019 请看这篇推友发布的上海非正常逝去生命的一些�
 
 ### 35: [2022-04-15 20:54:52+08:00 推文](https://twitter.com/realcaixia/status/1514950385416376323)
 
-2021年“7.20”郑州市民遭遇的灭顶洪水与现在全球关注的上海人道灾难具有同一性：都是人祸！<br><br>自郑州灭顶洪水发生后，水利专家王维洛先生一直在追查真相，追查洪水滔天的由来。<br>#特别推荐议报发布王先生系列文章（七），文章详细而充分地论证了郑州洪水的直接原因是水库无预警泄洪造成的。敬请阅读并传播<br><br>《议报》: 王维洛: 郑州水灾真相难以掩盖（七）<br> <a href="https://yibaochina.com/?p=245968" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245968</a>
+2021年“7.20”郑州市民遭遇的灭顶洪水与现在全球关注的上海人道灾难具有同一性：都是人祸！<br><br>自郑州灭顶洪水发生后，水利专家王维洛先生一直在追查真相，追查洪水滔天的由来。<br>#特别推荐议报发布王先生系列文章（七），文章详细而充分地论证了郑州洪水的直接原因是水库无预警泄洪造成的。敬请阅读并传播
 
 ### 36: [2022-04-15 22:19:35+08:00 推文](https://twitter.com/realcaixia/status/1514971703604125697)
 
@@ -161,11 +161,11 @@ Re @lizaixi5 感谢各位网友的支持关注和给我的帮助。我们一起�
 
 ### 37: [2022-04-16 03:34:21+08:00 推文](https://twitter.com/realcaixia/status/1515050916776398862)
 
-好消息！
+好消息！<br><br>韩连潮: 美国国防部一位高级官员周五证实，周四在火灾中受损的俄罗斯导弹巡洋舰被两枚海王星导弹击中并最终沉没，<br>俄方可能有人员伤亡。<br><br><img style="" src="https://pbs.twimg.com/media/FQaIbWnXwAEuhI5?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 38: [2022-04-16 03:49:25+08:00 推文](https://twitter.com/realcaixia/status/1515054708292931586)
 
-怀念胡耀邦，他是中共党内的良心。<br><br>浦志强: 33年前的今天，胡耀邦去世。<br><br><img style="" src="https://pbs.twimg.com/media/FQXf_iGUcAUtfMI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+怀念胡耀邦，他是中共党内的良心。
 
 ### 39: [2022-04-16 10:35:29+08:00 推文](https://twitter.com/realcaixia/status/1515156899708121088)
 
@@ -197,7 +197,7 @@ Re @lianchaohan 我昨夜看到这个链接，当时链接数116，现在链接�
 
 ### 46: [2022-04-16 21:18:09+08:00 推文](https://twitter.com/realcaixia/status/1515318630229196800)
 
-我昨夜看到这个链接，当时链接数116，现在链接数已达121。<br>昨夜细看了l链接的逝者信息，获得的几个印象：1，有不少是老人；2，有急病无处医疗救治而死；3,有因为医院封闭了，病人正常的医治无法持续而使病情快速恶化而死；4，有绝望而结束生命；5，有基层干部和志愿者等劳累过度而死。哀悼所有逝者💔🙏<br><br>韩连潮: 病毒毒不死人，制度杀人！<br>关注上海逝者名单接力链接：<br><br><img style="" src="https://pbs.twimg.com/media/FQd40VAXwAcNXMG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN" target="_blank" rel="noopener noreferrer">https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN</a>
+我昨夜看到这个链接，当时链接数116，现在链接数已达121。<br>昨夜细看了l链接的逝者信息，获得的几个印象：1，有不少是老人；2，有急病无处医疗救治而死；3,有因为医院封闭了，病人正常的医治无法持续而使病情快速恶化而死；4，有绝望而结束生命；5，有基层干部和志愿者等劳累过度而死。哀悼所有逝者💔🙏
 
 ### 47: [2022-04-16 21:33:12+08:00 推文](https://twitter.com/realcaixia/status/1515322418616799240)
 
@@ -237,7 +237,7 @@ Re @lianchaohan 这个名单中应该加上“支持恐怖主义的国家：中�
 
 ### 56: [2022-04-17 11:10:49+08:00 推文](https://twitter.com/realcaixia/status/1515528177287766018)
 
-这张照片很珍贵。
+这张照片很珍贵。<br><br>Jam: 今天是胡耀邦去世的纪念日。照片中的他带着两个学生。他们不折腾，免农民税，都是党内好人。习近平时代里，人民却更加怀念胡耀邦，这大概是习近平不知道的，他没那个自知之明呢。<br><br><img style="" src="https://pbs.twimg.com/media/FQa47yyXsAA8rvP?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 57: [2022-04-17 19:19:02+08:00 推文](https://twitter.com/realcaixia/status/1515651043052433409)
 
@@ -253,5 +253,5 @@ Re @lianchaohan 这个名单中应该加上“支持恐怖主义的国家：中�
 
 ### 60: [2022-04-17 22:14:21+08:00 推文](https://twitter.com/realcaixia/status/1515695161497509888)
 
-上海rapper彻底火爆，网上又传四川rapper，相信将有更多的方言rapper出现。嬉笑怒骂皆成文章，幽默反讽皆可为用。民众心声言语朴实，却相当犀利威力巨大。<br>rapper是年轻人最喜欢的一种音乐风格，rapper携载反抗极权的声音可以快速传播，岂是习当局网管禁得过来的？！rapper清楚显现人心向背！
+上海rapper彻底火爆，网上又传四川rapper，相信将有更多的方言rapper出现。嬉笑怒骂皆成文章，幽默反讽皆可为用。民众心声言语朴实，却相当犀利威力巨大。<br>rapper是年轻人最喜欢的一种音乐风格，rapper携载反抗极权的声音可以快速传播，岂是习当局网管禁得过来的？！rapper清楚显现人心向背！<br><br>Jam: 每天晚上七点雷打不动的腥闻联播，骗骗骗，扯扯扯。一位四川百姓实在是忍无可忍，编了这首歌来“夸夸CCTV”,亲切地称之为“骗子”。<br><br><video src="https://video.twimg.com/ext_tw_video/1515461449342201858/pu/vid/240x180/CgsMzoSJ8FA1QjfZ.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1515461449342201858/pu/img/Hp8T17mHFWY70JpD.jpg"></video>
 

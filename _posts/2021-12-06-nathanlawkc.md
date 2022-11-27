@@ -27,7 +27,7 @@ I am very honored to announce that I am invited by @POTUS to deliver a remark in
 
 ### 3: [2021-12-07 07:05:35+08:00 推文](https://twitter.com/nathanlawkc/status/1467993653415235585)
 
-From a student protest leader, the youngest elected legislator in Hong Kong, to a political prisoner and exiled activist … these all happened in my 20s. <br><br>And this is the story I want to share. <br><br>#Freedom is available in the US & Canada on 7th Dec. <a href="http://bit.ly/Freedom-Book" target="_blank" rel="noopener noreferrer">http://bit.ly/Freedom-Book</a><br><img style="" src="https://pbs.twimg.com/media/FF9b4lGXwBEW-Fa?format=jpg&name=orig" referrerpolicy="no-referrer">
+From a student protest leader, the youngest elected legislator in Hong Kong, to a political prisoner and exiled activist … these all happened in my 20s. <br><br>And this is the story I want to share. <br><br>#Freedom is available in the US & Canada on 7th Dec. <a href="http://bit.ly/Freedom-Book" target="_blank" rel="noopener noreferrer">http://bit.ly/Freedom-Book</a><br><img style src="https://pbs.twimg.com/media/FF9b4lGXwBEW-Fa?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-12-07 07:57:01+08:00 推文](https://twitter.com/nathanlawkc/status/1468006595804209154)
 
@@ -43,7 +43,7 @@ See you all at @ColbyCollege with @GoldfarbCenter tonight.<br><br>Live stream fo
 
 ### 7: [2021-12-08 04:37:04+08:00 推文](https://twitter.com/nathanlawkc/status/1468318663669387269)
 
-I was again named by the HK govt top officials, including SS Chris Tang and Commissioner of Police, that my remark in #SummitForDemocracy violates the NSL and now am a “Class A wanted criminal.”<br>Campaigning for human rights is “secession” and “subversion” by Beijing’s definition.<br><img style="" src="https://pbs.twimg.com/media/FGCDT52X0AAhxda?format=jpg&name=orig" referrerpolicy="no-referrer">
+I was again named by the HK govt top officials, including SS Chris Tang and Commissioner of Police, that my remark in #SummitForDemocracy violates the NSL and now am a “Class A wanted criminal.”<br>Campaigning for human rights is “secession” and “subversion” by Beijing’s definition.<br><img style src="https://pbs.twimg.com/media/FGCDT52X0AAhxda?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2021-12-08 21:48:54+08:00 推文](https://twitter.com/nathanlawkc/status/1468578335244656640)
 
@@ -79,5 +79,5 @@ Friends in #NA:<br>“#Freedom” is out now. Reflecting on my #SummitforDemocra
 
 ### 16: [2021-12-12 04:32:00+08:00 推文](https://twitter.com/nathanlawkc/status/1469766940432510977)
 
-Thanks everyone for coming this yellow cake shop❤️<br><br>Lianain Films: In Queens lining up for a copy of “Freedom” by @nathanlawkc. They’re selling like hotcakes. All gone in 25 mins!<br><br><img style src="https://pbs.twimg.com/media/FGV_Qj0VUAAshM-?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGV_Qj2VQAMLXkA?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGV_Qj6VUAAa83v?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGV_Qj5UUAMY4bK?format=jpg&name=orig" referrerpolicy="no-referrer">
+Thanks everyone for coming this yellow cake shop❤️<br><br>Lianain Films: In Queens lining up for a copy of “Freedom” by @nathanlawkc. They’re selling like hotcakes. All gone in 25 mins!<br><br><img style="" src="https://pbs.twimg.com/media/FGV_Qj0VUAAshM-?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGV_Qj2VQAMLXkA?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGV_Qj6VUAAa83v?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGV_Qj5UUAMY4bK?format=jpg&name=orig" referrerpolicy="no-referrer">
 

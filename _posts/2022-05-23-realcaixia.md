@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2022-05-23~2022-05-29'
 
 ### 2: [2022-05-23 03:41:29+08:00 推文](https://twitter.com/realcaixia/status/1528461062135087104)
 
-六四将近，当局要加强防控。借口就是“防疫”。全世界都知道Omicron传染性强但重症率死亡率都极低。全世界都在恢复正常开放，但中共国偏要封校封城。全世界都知道中共国假装防疫，中共当局也知道全世界都知道他们在假装，他们依然要把假装进行到底。这个“到底”是经济社会崩溃还是当局崩溃？且拭目以待。<br><br>新闻调查: 怕北大学生聚众闹事，开始疏散学生了！<br><br><img style="" src="https://pbs.twimg.com/media/FTXOw4IUcAAUMcD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+六四将近，当局要加强防控。借口就是“防疫”。全世界都知道Omicron传染性强但重症率死亡率都极低。全世界都在恢复正常开放，但中共国偏要封校封城。全世界都知道中共国假装防疫，中共当局也知道全世界都知道他们在假装，他们依然要把假装进行到底。这个“到底”是经济社会崩溃还是当局崩溃？且拭目以待。
 
 ### 3: [2022-05-23 05:38:34+08:00 推文](https://twitter.com/realcaixia/status/1528490529268240385)
 
@@ -49,15 +49,15 @@ Re 请看市民这封给公安机关人员的公开信。信的一开始就说�
 
 ### 9: [2022-05-23 23:38:02+08:00 推文](https://twitter.com/realcaixia/status/1528762185098440708)
 
-清零封城搞到天怒人怨，胡锡进着急投谏保经济，是为保党国不翻船。以往网民骂胡“叼盘”他一概不反应：现在一说他关心经济，胡就怕了。说明什么？至少两点：1、中共国里无人有安全，人人皆可为阶下囚；2，清零与经济、保党国与保习上帝，内在利益是冲突的。习坑民也坑党国，天怒人怨党内不满或许合流。
+清零封城搞到天怒人怨，胡锡进着急投谏保经济，是为保党国不翻船。以往网民骂胡“叼盘”他一概不反应：现在一说他关心经济，胡就怕了。说明什么？至少两点：1、中共国里无人有安全，人人皆可为阶下囚；2，清零与经济、保党国与保习上帝，内在利益是冲突的。习坑民也坑党国，天怒人怨党内不满或许合流。<br><br>《议报》: 郑荣南：除了胡锡进，没人关心经济了<br> <a href="https://yibaochina.com/?p=246616" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246616</a>
 
 ### 10: [2022-05-23 23:40:12+08:00 推文](https://twitter.com/realcaixia/status/1528762731532255232)
 
-转推。
+转推。<br><br>freechina1974✊✊✊: @yibaochina<br> <a href="https://twitter.com/freechina1974/status/1528557498462248960?s=21&amp;t=kwRmGJicCRE8XU9yKlKAMw" target="_blank" rel="noopener noreferrer">https://twitter.com/freechina1974/status/1528557498462248960?s=21&amp;t=kwRmGJicCRE8XU9yKlKAMw</a>
 
 ### 11: [2022-05-24 01:01:49+08:00 推文](https://twitter.com/realcaixia/status/1528783270774808576)
 
-权利不是等来求来的，必须是经过抗争，自己争来的。大家一起站出来，对侵犯权利的恶行勇敢说不！<br>专制统治以恐吓制造人们的畏惧心理，只要大家都不怕他们，他们的统治基石就开始摇晃撼动了。
+权利不是等来求来的，必须是经过抗争，自己争来的。大家一起站出来，对侵犯权利的恶行勇敢说不！<br>专制统治以恐吓制造人们的畏惧心理，只要大家都不怕他们，他们的统治基石就开始摇晃撼动了。<br><br>戴姐: @im1266 @ZhouFengSuo 徐汇区汇贤居从昨晚和居委理论到今天中午全员解封👍模子！原来解封也得靠自己争取  。<br><br><video src="https://video.twimg.com/ext_tw_video/1528737541704552449/pu/vid/720x1280/Y7Bg_OgO6T8dVfxI.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1528737541704552449/pu/img/xNTCf6aq4txc2gCY.jpg"></video>
 
 ### 12: [2022-05-24 02:23:49+08:00 推文](https://twitter.com/realcaixia/status/1528803906666614785)
 
@@ -109,7 +109,7 @@ Re @fishsalt8 说得好！不改变思维方式不可能真具有自由民主观
 
 ### 24: [2022-05-25 12:40:07+08:00 推文](https://twitter.com/realcaixia/status/1529321388275748864)
 
-这就是大度、豁达、善良，通透。不浪费时间精力打无聊口水仗，把时间精力投入在值得做的事情上。这就是活得坦荡。
+这就是大度、豁达、善良，通透。不浪费时间精力打无聊口水仗，把时间精力投入在值得做的事情上。这就是活得坦荡。<br><br>王局志安: 这两天有不少人告诉我一些人在攻击我，我第一不在意，第二不关心，第三我也不会回复那些子虚乌有的各种污蔑。话说我现在非常忙，上午日语课，下午找选题录节目，看办公室，看招聘的简历，和各路想要投资的人相谈。根本顾不上看这些攻击的言论。我已两鬓斑白，不想把有限的生命浪费到这些事情上。<br>
 
 ### 25: [2022-05-25 20:52:42+08:00 推文](https://twitter.com/realcaixia/status/1529445354650886146)
 
@@ -121,11 +121,11 @@ Re @fishsalt8 说得好！不改变思维方式不可能真具有自由民主观
 
 ### 27: [2022-05-26 02:13:17+08:00 推文](https://twitter.com/realcaixia/status/1529526030536708096)
 
-索罗斯是位目光极为锐利的智者。早在2019年，索罗斯就指出中共国利用高科技，正在威胁世界和平和人类文明。<br>后来索罗斯几次发表文章，提醒与告诫自由民主国家要高度警惕习近平掌控下的中国。他对中共极权政权的清醒认识，甚至超过美国的一些热衷于中美engagement policy 的政治家们。
+索罗斯是位目光极为锐利的智者。早在2019年，索罗斯就指出中共国利用高科技，正在威胁世界和平和人类文明。<br>后来索罗斯几次发表文章，提醒与告诫自由民主国家要高度警惕习近平掌控下的中国。他对中共极权政权的清醒认识，甚至超过美国的一些热衷于中美engagement policy 的政治家们。<br><br>韩连潮: 【索罗斯如是说】索罗斯昨在世界经济论坛上发表演讲，称俄入侵乌克兰可能是第三次世界大战的开始，威胁到人类文明；中俄利用高科技构成了对世界的最大威胁。但他也指这两个专制政权都开始出现裂痕 -- 普京入侵乌克兰被世界孤立，习近平抗疫失误引发人民不满。<br><br><img style="" src="https://pbs.twimg.com/media/FTmnuiaWIAAIgnI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 28: [2022-05-26 02:17:21+08:00 推文](https://twitter.com/realcaixia/status/1529527052629528581)
 
-封城清零封到老鼠饿死在面店里。<br><br>吴文行wenxingwu: 上海因疫情店面关闭，老鼠被活活饿死！饥荒达到高水准！<br><br><img style="" src="https://pbs.twimg.com/media/FTlbvqPVsAAZA3s?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+封城清零封到老鼠饿死在面店里。
 
 ### 29: [2022-05-26 22:53:06+08:00 推文](https://twitter.com/realcaixia/status/1529838039152922625)
 
@@ -161,7 +161,7 @@ Re @fishsalt8 说得好！不改变思维方式不可能真具有自由民主观
 
 ### 37: [2022-05-27 21:26:25+08:00 推文](https://twitter.com/realcaixia/status/1530178613085192192)
 
-请听学生喊的口号。
+请听学生喊的口号。<br><br>帥哥: @realcaixia 給<br><br><video src="https://video.twimg.com/ext_tw_video/1530177981246672897/pu/vid/960x528/K5bnn03vwg2Pb1Wh.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1530177981246672897/pu/img/-QFYc18VqmxNE6gP.jpg"></video>
 
 ### 38: [2022-05-27 21:39:12+08:00 推文](https://twitter.com/realcaixia/status/1530181830594502659)
 

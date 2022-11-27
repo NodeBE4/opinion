@@ -21,7 +21,7 @@ In CMP's latest on media initiatives finding space to make a difference in China
 
 ### 2: [2022-11-14 08:29:45+08:00 推文](https://twitter.com/cnmediaproject/status/1591951483146489857)
 
-Or Havel's green grocer, perhaps.<br><br>Chenchen Zhang 🤦🏻‍♀️: the inner Orwell of a grassroots civil servant<br>
+Or Havel's green grocer, perhaps.<br><br>Chenchen Zhang 🤦🏻‍♀️ #ucuRISING: the inner Orwell of a grassroots civil servant<br> <a href="https://twitter.com/YanzhongHuang/status/1591274949523935232" target="_blank" rel="noopener noreferrer">https://twitter.com/YanzhongHuang/status/1591274949523935232</a>
 
 ### 3: [2022-11-14 23:11:49+08:00 推文](https://twitter.com/cnmediaproject/status/1592173462302625792)
 
