@@ -31,7 +31,7 @@ From a student protest leader, the youngest elected legislator in Hong Kong, to 
 
 ### 4: [2021-12-07 07:57:01+08:00 推文](https://twitter.com/nathanlawkc/status/1468006595804209154)
 
-Been pushing a diplomatic boycott for so long -- now finally we've got some results. <br>Now, the other democratic countries should do the same.<br>#NoBeijing2022<br><br>Joey Siu 邵嵐 #freehk: Now that the U.S. officially announced a diplomatic boycott of 2022 Beijing Winter Olympics, time for 🇨🇦🇦🇺🇩🇪🇫🇷🇯🇵 and other countries to act too.<br><br>#NoBeijing2022<br><br><img style src="https://pbs.twimg.com/media/FF8dWgPXMAQ8L2u?format=jpg&name=orig" referrerpolicy="no-referrer">
+Been pushing a diplomatic boycott for so long -- now finally we've got some results. <br>Now, the other democratic countries should do the same.<br>#NoBeijing2022<br><br>Joey Siu 邵嵐 #freehk: Now that the U.S. officially announced a diplomatic boycott of 2022 Beijing Winter Olympics, time for 🇨🇦🇦🇺🇩🇪🇫🇷🇯🇵 and other countries to act too.<br><br>#NoBeijing2022<br><br><img style="" src="https://pbs.twimg.com/media/FF8dWgPXMAQ8L2u?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2021-12-07 22:23:05+08:00 推文](https://twitter.com/nathanlawkc/status/1468224547950407696)
 
@@ -55,7 +55,7 @@ I was again named by the HK govt top officials, including SS Chris Tang and Comm
 
 ### 10: [2021-12-10 01:35:47+08:00 推文](https://twitter.com/nathanlawkc/status/1468997819595952148)
 
-3 things Mr Hu needs to do:<br>1. Improve his Photoshop skills<br>2. Learn the definition of democracy <br>3. Get a closer grip on reality<br>So low.<br><img style src="https://pbs.twimg.com/media/FGLtuwgWUAYqoaC?format=jpg&name=orig" referrerpolicy="no-referrer">
+3 things Mr Hu needs to do:<br>1. Improve his Photoshop skills<br>2. Learn the definition of democracy <br>3. Get a closer grip on reality<br>So low.<br><img style="" src="https://pbs.twimg.com/media/FGLtuwgWUAYqoaC?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 11: [2021-12-10 05:24:53+08:00 推文](https://twitter.com/nathanlawkc/status/1469055475677282305)
 
@@ -79,5 +79,5 @@ Friends in #NA:<br>“#Freedom” is out now. Reflecting on my #SummitforDemocra
 
 ### 16: [2021-12-12 04:32:00+08:00 推文](https://twitter.com/nathanlawkc/status/1469766940432510977)
 
-Thanks everyone for coming this yellow cake shop❤️<br><br>Lianain Films: In Queens lining up for a copy of “Freedom” by @nathanlawkc. They’re selling like hotcakes. All gone in 25 mins!<br><br><img style src="https://pbs.twimg.com/media/FGV_Qj0VUAAshM-?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGV_Qj2VQAMLXkA?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGV_Qj6VUAAa83v?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGV_Qj5UUAMY4bK?format=jpg&name=orig" referrerpolicy="no-referrer">
+Thanks everyone for coming this yellow cake shop❤️<br><br>Lianain Films: In Queens lining up for a copy of “Freedom” by @nathanlawkc. They’re selling like hotcakes. All gone in 25 mins!<br><br><img style="" src="https://pbs.twimg.com/media/FGV_Qj0VUAAshM-?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGV_Qj2VQAMLXkA?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGV_Qj6VUAAa83v?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGV_Qj5UUAMY4bK?format=jpg&name=orig" referrerpolicy="no-referrer">
 

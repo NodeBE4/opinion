@@ -33,9 +33,9 @@ Re 5. The real purpose of Christine Lee’s BCP is now under fierce scrutiny as 
 
 Re 6. He hosted an event in 2018 and invited Christine Lee. He was photographed with Christine Lee when meeting other politicians. <a href="https://www.thetimes.co.uk/article/conservatives-received-donation-from-suspected-chinese-agent-christine-lee-xqdlxqd7j?fbclid=IwAR1VIOUIivnz-KZylWS8md8i7u5P5sq5CA1dn5Xj2hNpMAaJ1_78TEOGsRw" target="_blank" rel="noopener noreferrer">https://www.thetimes.co.uk/article/conservatives-received-donation-from-suspected-chinese-agent-christine-lee-xqdlxqd7j?fbclid=IwAR1VIOUIivnz-KZylWS8md8i7u5P5sq5CA1dn5Xj2hNpMAaJ1_78TEOGsRw</a>
 
-### 5: [2022-05-03 21:33:50+08:00 推文](https://twitter.com/nathanlawkc/status/1521483170465685504)
+### 5: [2022-05-03 21:33:50+08:00 推文](https://twitter.com/nathanlawkc/status/1521483172223062018)
 
-Re 8. Rather, he chose to send me emails that hinted he may take “further steps” if I refuse to take down the “defamatory post.” It makes me worried that he has an intention to press a defamation case. I hope he can clarify on this point.
+Re 9. Still, until now, he refuses to explain his relationship with Christine Lee. His connection with Lee is a matter of public interest. By hiding behind closed doors and refusing to clarify on this matter is disappointing and worrying to the voters and the Hongkongers community.
 
 ### 6: [2022-05-03 21:33:51+08:00 推文](https://twitter.com/nathanlawkc/status/1521483173993095168)
 
