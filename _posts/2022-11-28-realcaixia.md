@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-11-28
+date: 2022-11-29
 from: https://twitter.com/realcaixia/status/1596935244816343041
 layout: post
 tags:
@@ -106,4 +106,16 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fip1xxuUAAEkjNd?format=jpg
 ### 23: [2022-11-28 21:55:28+08:00 推文](https://twitter.com/realcaixia/status/1597227680696410113)
 
 呼吁在海外的国人们都来关注大陆各地连日的抗争行动，尽我们的心力为国内的同胞们做些力所能及的事，让我们为我们的家人亲人子孙后代活得有尊严、有人身安全，有人权保障而共同努力。<br><br>韩连潮: 呼吁大华府地区清华校友会、北大校友会，西安、南京、武汉、新疆等地校友会一起组织在中国驻华盛顿使馆前集会，声援国内学兄学弟、学姐学妹，反对暴力清零。<br><br><img style="" src="https://pbs.twimg.com/media/FipnjlpacAA_bZx?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 24: [2022-11-29 01:17:47+08:00 推文](https://twitter.com/realcaixia/status/1597278592865513472)
+
+泪目！彷佛看到了香港青年捍卫自由香港的不屈身影！<br><img style="" src="https://pbs.twimg.com/media/FiqsZ5AUcAE-eHi?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FiqsaE-UUAANGg5?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FiqsaR0UUAAdNJ5?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FiqsaetVsAAj5af?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 25: [2022-11-29 02:17:56+08:00 推文](https://twitter.com/realcaixia/status/1597293731866378240)
+
+中共官方敢说明白谁是“境外势力”吗？<br>中国民众认为最大且危害最烈的“境外势力”是——中共党及其政权。中共是由马恩的俄国变种列宁党帮助成立、俄国卢布豢养的第三国际中国支部。<br>否则，无法解释为何中共在1930年代提“保卫苏联“口号？为何中共1949后任由苏共国长期霸占中国土地？为何至今站边普金？！<br><br>Bob new: “境外勢力論”反擊之二<br>牆內同袍努力轉發，喚醒更多人！<br><br><img style="" src="https://pbs.twimg.com/media/FiqsSMlVsAAHTAy?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 26: [2022-11-29 02:26:57+08:00 推文](https://twitter.com/realcaixia/status/1597296001760382976)
+
+乌鲁木齐市民首先起来的反清零抗争运动，很快得到全国民众响应，南京传媒大学在全国高校中最先响应，随后26-27号有全国50多所高校加入响应；到28日已经有103所高校加入响应全国民众反清零抗争行列！向全国高校师生致敬！<br><img style="" src="https://pbs.twimg.com/media/Fiq8Pj1UAAEwKd_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fiq8PzzUoAAbWDT?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
