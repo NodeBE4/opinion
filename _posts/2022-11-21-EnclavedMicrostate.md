@@ -131,6 +131,10 @@ In essence I'm just referring to ethnic and national identities as a whole. Brit
 
 I would not. As I lay out pretty overtly in pretty much all of the paragraphs, Han identity has been consistently malleable in response to the conditions created by political discontinuities, *especially* as a result of the period of political division during the Song-Liao-Jin era. If anything it is an attempt to *assert* rather than to affirm political unity.
 
+----- __947.4__ -----2022-11-28 21:49:40+08:00:
+
+Yes, that is my point: I *am* saying that all ethnic identities are artificial and constructed.
+
 ### 948: [Zeta denying reality once again](https://old.reddit.com/r/Hololive/comments/z56lyq/zeta_denying_reality_once_again/), submitted on 2022-11-26 20:39:38+08:00.
 
 ----- __948.1__ -----2022-11-27 03:50:56+08:00:
