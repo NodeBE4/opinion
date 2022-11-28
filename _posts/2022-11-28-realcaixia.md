@@ -55,3 +55,51 @@ title: 'Twitter @蔡霞: 2022-11-28~2022-12-04'
 
 习近平最近给古巴撒币1亿美元！三年疫情，习近平一分钱都没有发给中国民众，却没断过在世界上撒币买好。这个人奔着当“人类命运共同体”的“领袖”野心去了，从来没有在乎过中国平民的痛苦与牺牲。<br><br>李恒青: 习近平一会儿慰问印尼地震灾民，一会儿慰问所罗门群岛灾民……<br>怎么不见他问问郑州疫情难民？怎么不见他问问乌鲁木齐火灾受害者？中国多地再次进入封控状态，民众连吃饭都犯愁。各地官员要求民众理解，并表示要坚持到底，消灭病毒。<br>请问：习近平是哪国领导人？<br><br><img style="" src="https://pbs.twimg.com/media/FihrJKpWAAAV-0r?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 11: [2022-11-28 19:39:56+08:00 推文](https://twitter.com/realcaixia/status/1597193572515688448)
+
+中共每次都把民众的不满诬陷为“境外势力”煽动、“背后有黑手”，他们的无耻谎言真能蒙骗一些学生。亮马桥抗议民众的回答非常好！必须戳穿谎言，摆明真相，使这类诬陷栽赃没有任何市场。<br><br>黑夜中的大火炬: 北京亮马桥<br>有学生指出，在我们的周围有境外反华势力，导致群众群情激愤；有学生回应称“你说的境外势力，是马克思和恩格斯吗！”<br>学生继续询问道：“请问新疆的火是境外势力放的吗？请问贵州的大巴是境外势力推翻的吗？”<br>我们连网都上不到国外的！我们哪来的境外势力！我们只有境内势力不让我们聚集！<br><br><video src="https://video.twimg.com/ext_tw_video/1597079541540872194/pu/vid/1280x720/0pwf7EoeP-BNpXnM.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1597079541540872194/pu/img/0RArKrbfTPLfiHYR.jpg"></video>
+
+### 12: [2022-11-28 19:46:55+08:00 推文](https://twitter.com/realcaixia/status/1597195330759856129)
+
+泪目！彷佛看到了香港青年捍卫自由香港的不屈身影！<br><br>Godson: @Vincent_Roch1<br><br><img style="" src="https://pbs.twimg.com/media/FilxnqVUAAEywzS?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Filxn2bUUAAXhT3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FilxoECUAAA9vuk?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FilxoSLUAAEO2Is?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 13: [2022-11-28 20:47:05+08:00 推文](https://twitter.com/realcaixia/status/1597210472121397249)
+
+大陆民众发起“白纸运动”，发布《白纸运动宣言》，全文转推：<br><img style="" src="https://pbs.twimg.com/media/FipucsMVQAElrO6?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fipuc73VsAAS8Hr?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FipudIpVIAA8m19?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FipudVnUoAAWJ1S?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 14: [2022-11-28 20:49:11+08:00 推文](https://twitter.com/realcaixia/status/1597211000591482881)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/Fipu8BMVUAEy_Uv?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fipu8BIVIAAPkJB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fipu8BKVEAAD_LU?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fipu8BNVEAEyfWa?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 15: [2022-11-28 21:09:08+08:00 推文](https://twitter.com/realcaixia/status/1597216019935731712)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FipzgK5UYAAWEQL?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FipzgK6UYAA8Dni?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FipzgK4UAAA_ZHV?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FipzgK8VQAATiXD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 16: [2022-11-28 21:10:27+08:00 推文](https://twitter.com/realcaixia/status/1597216351890079745)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FipzzjSVIAIgzg1?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FipzzjRVsAMSSXr?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FipzzjRVsAQyyj3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FipzzjRUoAI1kot?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 17: [2022-11-28 21:11:42+08:00 推文](https://twitter.com/realcaixia/status/1597216665468424194)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/Fip0FxbVQAAhb3f?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 18: [2022-11-28 21:19:04+08:00 推文](https://twitter.com/realcaixia/status/1597218520068390912)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/Fip1xxuUAAEkjNd?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 19: [2022-11-28 21:21:38+08:00 推文](https://twitter.com/realcaixia/status/1597219165877641221)
+
+这是我今晨看到的白纸运动推特账号，特别转推：<br><img style="" src="https://pbs.twimg.com/media/Fip2XYGUUAE7q_M?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 20: [2022-11-28 21:37:17+08:00 推文](https://twitter.com/realcaixia/status/1597223103540604928)
+
+这就是所谓“人民至上”的真实显示：以人民为敌！<br><br>CNMD NEWS ²²: #行为艺术<br>昨晚，上海以东出大事了！警车冲撞示威人群。<br><br><video src="https://video.twimg.com/ext_tw_video/1597031950308749314/pu/vid/720x1082/9Kk232ZOTNJjv67o.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1597031950308749314/pu/img/L8NBrsHrb3Fa2Dqd.jpg"></video>
+
+### 21: [2022-11-28 21:38:59+08:00 推文](https://twitter.com/realcaixia/status/1597223530982408192)
+
+这是民众的呐喊！这是公民的呼唤！<br><br>LUCY: 北京11月28日東三環凌晨1:30<br>汽車齊鳴笛！<br>還記得幾年前內涵段子他們當時也是鳴笛👍<br><br><video src="https://video.twimg.com/ext_tw_video/1597062126212100097/pu/vid/544x960/BaNXvcMxS8Bbkt4C.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1597062126212100097/pu/img/BUQE-muKzFvJizIs.jpg"></video>
+
+### 22: [2022-11-28 21:40:59+08:00 推文](https://twitter.com/realcaixia/status/1597224034474655744)
+
+这种无耻之徒必将被钉在历史的耻辱柱上！<br><br>自由亚洲电台: 新疆乌鲁木齐火灾事件，引爆中国白纸运动遍地开花。中国外交部发言人赵立坚宣称是 #别有用心 势力，把火灾与防疫联系。对于BBC记者在上海采访被捕。中国官员先是宣称为了防止采访被感染，赵立坚责推记者未表明身份。<br><br>#赵立坚<br>#白纸运动<br><br><video src="https://video.twimg.com/ext_tw_video/1597177008777138176/pu/vid/720x720/T5FrWcAKvW-jUHFY.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1597177008777138176/pu/img/ixbZr0MUr41Oiqtj.jpg"></video>
+

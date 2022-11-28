@@ -81,7 +81,7 @@ Re @James50056336 🌹🙏
 
 ### 17: [2020-12-17 23:20:59+08:00 推文](https://twitter.com/realcaixia/status/1339591429425823744)
 
-中共当局故意把张展案放在12月28号开庭审理，那时正是西方国家最重要的传统假期：圣诞节休假期间，西方民众或许对中国关注度会降低一些。即便是这样，我们更要努力为张展呼吁。张展如实报道真相无罪！无罪释放张展！希望有更多的朋友网友与我一起关注张展，不能让迫害张展恶行继续下去。<br><br>ZHANGDONG: Die chi. Bürgerjournalistin, Frau Zhang Zhan wurde seit Mitte Mai dieses Jahres wegen ihres Berichtes über die Pandemie in Wuhan inhaftiert. Am 18.08.<br>2020 wurde offiziell gegen sie Klage erhoben. Sie wurde am 15. September von der chi. Staatsanwaltschaft mit 4-5 Jahren Gefängnis<br><br><img style="" src="https://pbs.twimg.com/media/EpZTMgBXMAAhz2i?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/EpZTMvbW8AIfME6?format=jpg&name=orig" referrerpolicy="no-referrer">
+中共当局故意把张展案放在12月28号开庭审理，那时正是西方国家最重要的传统假期：圣诞节休假期间，西方民众或许对中国关注度会降低一些。即便是这样，我们更要努力为张展呼吁。张展如实报道真相无罪！无罪释放张展！希望有更多的朋友网友与我一起关注张展，不能让迫害张展恶行继续下去。<br><br>ZHANGDONG: Die chi. Bürgerjournalistin, Frau Zhang Zhan wurde seit Mitte Mai dieses Jahres wegen ihres Berichtes über die Pandemie in Wuhan inhaftiert. Am 18.08.<br>2020 wurde offiziell gegen sie Klage erhoben. Sie wurde am 15. September von der chi. Staatsanwaltschaft mit 4-5 Jahren Gefängnis<br><br><img style src="https://pbs.twimg.com/media/EpZTMgBXMAAhz2i?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EpZTMvbW8AIfME6?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2020-12-17 23:32:01+08:00 推文](https://twitter.com/realcaixia/status/1339594204205338626)
 
@@ -93,9 +93,9 @@ Re 据王剑YouTube说山东、天津也停电限电。
 
 ### 20: [2020-12-18 21:04:44+08:00 推文](https://twitter.com/realcaixia/status/1339919525626728448)
 
-中共帝国不顾百姓死活，总是拿伤害国内民众来硬打关税战。西方各国政府都要考虑民生，因为他们是民众选的，中共口号上好话但行动上坏事做绝，因为他们拿几千万人命抢来权力垄断权力。明知冬天民生用电量激增，但还要施加惩罚性关税，实质上他们不是砸自己的脚，是拿民众当人肉盾牌，砸烂民众他们不在乎<br><br>荣剑: 冬天是用媒高峰时期，这个时候对进口澳国煤炭设置惩罚性关税，不就是搬起石头砸自己的脚吗？<br><br><img style src="https://pbs.twimg.com/media/EpZwN7tU8AA0gzy?format=jpg&name=orig" referrerpolicy="no-referrer">
+中共帝国不顾百姓死活，总是拿伤害国内民众来硬打关税战。西方各国政府都要考虑民生，因为他们是民众选的，中共口号上好话但行动上坏事做绝，因为他们拿几千万人命抢来权力垄断权力。明知冬天民生用电量激增，但还要施加惩罚性关税，实质上他们不是砸自己的脚，是拿民众当人肉盾牌，砸烂民众他们不在乎<br><br>荣剑: 冬天是用媒高峰时期，这个时候对进口澳国煤炭设置惩罚性关税，不就是搬起石头砸自己的脚吗？<br><br><img style="" src="https://pbs.twimg.com/media/EpZwN7tU8AA0gzy?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 21: [2020-12-20 04:27:09+08:00 推文](https://twitter.com/realcaixia/status/1340393254873952256)
 
-毛早就毫不掩饰自己是秦始皇+马克思，现在的中共帝国更进一步：高压恐怖+谎言欺瞒+高科技监控三根支柱支撑的秦始皇+马克思+希特勒（+斯大林列宁）。热播这个电视剧别忘了秦二世下场，其兴也勃其亡也忽。<br><br>荣剑: 电视剧大秦赋正在央视热播，就像前些年为雍正帝呼唤再来五百年，这次是为千古暴君秦始皇树碑立传，价值观之颠倒无以复加！网上有人评论:穿越回大秦，你九成是被丢弃在长城脚下一具被征去筑墙的尸骨，一成是寻衅滋事被挖坑活埋的儒生。暴秦无道，史不绝书，独于当世备受推崇，何也？这问题要问秦X世。<br><br><img style src="https://pbs.twimg.com/media/EpmO4cYVQAAzpBe?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EpmO5BnUYAEEV6x?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EpmO5iXU0AI7eGh?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EpmO6D4U8AAzpF4?format=jpg&name=orig" referrerpolicy="no-referrer">
+毛早就毫不掩饰自己是秦始皇+马克思，现在的中共帝国更进一步：高压恐怖+谎言欺瞒+高科技监控三根支柱支撑的秦始皇+马克思+希特勒（+斯大林列宁）。热播这个电视剧别忘了秦二世下场，其兴也勃其亡也忽。<br><br>荣剑: 电视剧大秦赋正在央视热播，就像前些年为雍正帝呼唤再来五百年，这次是为千古暴君秦始皇树碑立传，价值观之颠倒无以复加！网上有人评论:穿越回大秦，你九成是被丢弃在长城脚下一具被征去筑墙的尸骨，一成是寻衅滋事被挖坑活埋的儒生。暴秦无道，史不绝书，独于当世备受推崇，何也？这问题要问秦X世。<br><br><img style="" src="https://pbs.twimg.com/media/EpmO4cYVQAAzpBe?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/EpmO5BnUYAEEV6x?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/EpmO5iXU0AI7eGh?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/EpmO6D4U8AAzpF4?format=jpg&name=orig" referrerpolicy="no-referrer">
 
