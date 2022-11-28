@@ -25,7 +25,7 @@ title: 'Twitter @蔡霞: 2022-01-03~2022-01-09'
 
 ### 3: [2022-01-03 04:28:20+08:00 推文](https://twitter.com/realcaixia/status/1477738554042327043)
 
-中共7000人大会上，刘少奇说：这是“三分天灾七分人祸”；刘少奇还说：“人相食，是要上史书的。”林彪说：“这是交学费”。会后，毛重用林彪直至“林副统帅”；毛对刘说：“你有什么了不起，我动一个小手指就能把你打倒。”文革中刘被批斗至死，林彪摔死温都尔汗。这段人相食惨史，中共党史一直在百般掩盖。<br><br>越南老挝跑路支持: 所谓的三年“自然灾害”。人吃人！舔共的小粉蛆们好好看看吧<br><br><img style="" src="https://pbs.twimg.com/media/FIBh2XVXoAIcnYK?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIBh2XWX0AIgKSU?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIBh2XVXsAIkXm2?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIBh2XVXwAMrbyr?format=jpg&name=orig" referrerpolicy="no-referrer">
+中共7000人大会上，刘少奇说：这是“三分天灾七分人祸”；刘少奇还说：“人相食，是要上史书的。”林彪说：“这是交学费”。会后，毛重用林彪直至“林副统帅”；毛对刘说：“你有什么了不起，我动一个小手指就能把你打倒。”文革中刘被批斗至死，林彪摔死温都尔汗。这段人相食惨史，中共党史一直在百般掩盖。<br><br>越南老挝跑路支持: 所谓的三年“自然灾害”。人吃人！舔共的小粉蛆们好好看看吧<br><br><img style src="https://pbs.twimg.com/media/FIBh2XVXoAIcnYK?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIBh2XWX0AIgKSU?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIBh2XVXsAIkXm2?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIBh2XVXwAMrbyr?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2022-01-03 05:07:05+08:00 推文](https://twitter.com/realcaixia/status/1477748304511385600)
 
@@ -61,7 +61,7 @@ Re @ihuyang @liqunchen 看样子你年轻，没见过铅字印刷版。
 
 ### 12: [2022-01-04 03:38:08+08:00 推文](https://twitter.com/realcaixia/status/1478088305082343432)
 
-裹挟9500万党奴的黑帮老大公开挑明向被裹挟的人开刀，习曾说要防止“祸起萧墙”，这意味着二十大前中共党内将血光一片。2022，谁是被开刀的第一个？<br><br>韩连潮: 【习近平又磨刀霍霍】中共党媒《求是》2022年第一期登了习近平以史为鉴的讲话，称中共“没有任何自己特殊的利益“，提出向党内被利益集团、权势团体、特权阶层“所裹挟的人开刀”，看到让人笑掉大牙，试问习主席，你不去惩治裹挟人的人，反而拿受害者开刀，这是什么大套路？<br><br><img style src="https://pbs.twimg.com/media/FIMS0O5XEAEzKKQ?format=jpg&name=orig" referrerpolicy="no-referrer">
+裹挟9500万党奴的黑帮老大公开挑明向被裹挟的人开刀，习曾说要防止“祸起萧墙”，这意味着二十大前中共党内将血光一片。2022，谁是被开刀的第一个？<br><br>韩连潮: 【习近平又磨刀霍霍】中共党媒《求是》2022年第一期登了习近平以史为鉴的讲话，称中共“没有任何自己特殊的利益“，提出向党内被利益集团、权势团体、特权阶层“所裹挟的人开刀”，看到让人笑掉大牙，试问习主席，你不去惩治裹挟人的人，反而拿受害者开刀，这是什么大套路？<br><br><img style="" src="https://pbs.twimg.com/media/FIMS0O5XEAEzKKQ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 13: [2022-01-04 06:17:59+08:00 推文](https://twitter.com/realcaixia/status/1478128535327887361)
 
@@ -101,7 +101,7 @@ Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style src="
 
 ### 22: [2022-01-05 22:40:25+08:00 推文](https://twitter.com/realcaixia/status/1478738161132093449)
 
-偶然读到了这篇短文，好心酸。这是大陆最底层民生艰难的真实叙述，是一颗悲苦的灵魂最后的呼喊。希望更多的网友来读这篇带着孩子稚嫩笔迹的短文。特此推荐。<br><br>请勿提我的名字🙏: 小时候学朱自清的背影，最让我感动的就是父亲肥胖的背影那段描写，这篇短文再次让我感动了，小文不是视频，没办法摆拍吧<br><br><img style src="https://pbs.twimg.com/media/FITXz2tVcAErygy?format=jpg&name=orig" referrerpolicy="no-referrer">
+偶然读到了这篇短文，好心酸。这是大陆最底层民生艰难的真实叙述，是一颗悲苦的灵魂最后的呼喊。希望更多的网友来读这篇带着孩子稚嫩笔迹的短文。特此推荐。<br><br>请勿提我的名字🙏: 小时候学朱自清的背影，最让我感动的就是父亲肥胖的背影那段描写，这篇短文再次让我感动了，小文不是视频，没办法摆拍吧<br><br><img style="" src="https://pbs.twimg.com/media/FITXz2tVcAErygy?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 23: [2022-01-05 22:59:27+08:00 推文](https://twitter.com/realcaixia/status/1478742949714399236)
 
@@ -125,7 +125,7 @@ Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style src="
 
 ### 28: [2022-01-07 11:23:14+08:00 推文](https://twitter.com/realcaixia/status/1479292517262807041)
 
-這就是中國版的塔利班炸毀巴米揚大佛。<br><br>博讯新闻网: 【藏族僧侣和民众被迫现场观看大型佛像被毁过程】中国四川省甘孜藏族自治州一座99英尺高的佛像，被中共以“太高”为由拆毁，与其一同拆除的，还有在附近竖立的45个转经轮。据悉，佛像摧毁时，当地僧侣、民众以及附近城镇的藏人均被当局强迫前去观看。有当地藏人谴责道，中共摧毁宗教认同已不择手段。<br><br><img style="" src="https://pbs.twimg.com/media/FIZGmIIaUAIpEuD?format=png&name=orig" referrerpolicy="no-referrer">
+這就是中國版的塔利班炸毀巴米揚大佛。<br><br>博讯新闻网: 【藏族僧侣和民众被迫现场观看大型佛像被毁过程】中国四川省甘孜藏族自治州一座99英尺高的佛像，被中共以“太高”为由拆毁，与其一同拆除的，还有在附近竖立的45个转经轮。据悉，佛像摧毁时，当地僧侣、民众以及附近城镇的藏人均被当局强迫前去观看。有当地藏人谴责道，中共摧毁宗教认同已不择手段。<br><br><img style src="https://pbs.twimg.com/media/FIZGmIIaUAIpEuD?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 29: [2022-01-07 20:08:52+08:00 推文](https://twitter.com/realcaixia/status/1479424797704609792)
 
@@ -137,7 +137,7 @@ Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style src="
 
 ### 31: [2022-01-07 20:35:57+08:00 推文](https://twitter.com/realcaixia/status/1479431614069456900)
 
-想給你什麼碼就是什麼碼！以碼囚人以城為獄！<br><br>鲁  难: 郑州：进出都要核酸检测。黄河大桥：郑州车辆全部劝返，也就是出球不成了。<br><br><img style src="https://pbs.twimg.com/media/FIb1DQ3X0AYL_rq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIb1DQ3XsAAXSEl?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIb1DRCXoAQcWQF?format=jpg&name=orig" referrerpolicy="no-referrer">
+想給你什麼碼就是什麼碼！以碼囚人以城為獄！<br><br>鲁  难: 郑州：进出都要核酸检测。黄河大桥：郑州车辆全部劝返，也就是出球不成了。<br><br><img style="" src="https://pbs.twimg.com/media/FIb1DQ3X0AYL_rq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIb1DQ3XsAAXSEl?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIb1DRCXoAQcWQF?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 32: [2022-01-07 21:09:18+08:00 推文](https://twitter.com/realcaixia/status/1479440004460036096)
 
@@ -213,7 +213,7 @@ Re 我在北京时，曾经听黑龙江省的退休基层干部（80多岁）说
 
 ### 50: [2022-01-09 02:44:58+08:00 推文](https://twitter.com/realcaixia/status/1479886864677019649)
 
-防疫清零不仅不科学更是骗人的鬼话。大陆极权当局真正清零的目标在言论——就怕人们说真话。它们封江雪《长安十日》，封郭于华教授文章，再一次自证习当局的邪恶、野蛮与脆弱。<br><br>ZHANGDONG: 继江雪的《长安十日》，郭于华昨天在其公号上发表了《西安，西安，可否长安》，此两篇文章在大陆网络获得热烈反响和传播。不出所料，两文先后遭到网络全面封杀，江雪文存活了4天，郭于华文仅存活了1天，连带微信号也被封杀，她们就这样被“社会层面清零”了。官家以为封杀社会舆情就能清灭新冠病毒了吗？<br><br><img style src="https://pbs.twimg.com/media/FImYynEWQAMOHoa?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FImYyzpWQAEStdo?format=jpg&name=orig" referrerpolicy="no-referrer">
+防疫清零不仅不科学更是骗人的鬼话。大陆极权当局真正清零的目标在言论——就怕人们说真话。它们封江雪《长安十日》，封郭于华教授文章，再一次自证习当局的邪恶、野蛮与脆弱。<br><br>ZHANGDONG: 继江雪的《长安十日》，郭于华昨天在其公号上发表了《西安，西安，可否长安》，此两篇文章在大陆网络获得热烈反响和传播。不出所料，两文先后遭到网络全面封杀，江雪文存活了4天，郭于华文仅存活了1天，连带微信号也被封杀，她们就这样被“社会层面清零”了。官家以为封杀社会舆情就能清灭新冠病毒了吗？<br><br><img style="" src="https://pbs.twimg.com/media/FImYynEWQAMOHoa?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FImYyzpWQAEStdo?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 51: [2022-01-09 02:52:10+08:00 推文](https://twitter.com/realcaixia/status/1479888676314361862)
 
