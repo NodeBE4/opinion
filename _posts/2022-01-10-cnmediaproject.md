@@ -37,11 +37,11 @@ RT Tom Kellogg<br>Re This film should be placed right beside works like @Anne_
 
 ### 6: [2022-01-11 16:20:35+08:00 推文](https://twitter.com/cnmediaproject/status/1480816899495964672)
 
-The former director and editor-in-chief of the China Youth Daily newspaper,Xu Zhuqing, passed away in Beijing on January 5 from lung cancer. He led the paper through what many now see as its golden age in the intellectual ferment of the 1980s. <a href="https://chinamediaproject.org/2022/01/11/remembering-xu-zhuqing/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/11/remembering-xu-zhuqing/</a><br><img style="" src="https://pbs.twimg.com/media/FIzq5C0aUAE_JG2?format=jpg&name=orig" referrerpolicy="no-referrer">
+The former director and editor-in-chief of the China Youth Daily newspaper,Xu Zhuqing, passed away in Beijing on January 5 from lung cancer. He led the paper through what many now see as its golden age in the intellectual ferment of the 1980s. <a href="https://chinamediaproject.org/2022/01/11/remembering-xu-zhuqing/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/11/remembering-xu-zhuqing/</a><br><img style src="https://pbs.twimg.com/media/FIzq5C0aUAE_JG2?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2022-01-11 19:04:40+08:00 推文](https://twitter.com/SPCmonitor/status/1480858190346878977)
 
-RT Susan Finder<br>Before 扫黑 there was 扫黄！<br><img style src="https://pbs.twimg.com/media/FI0QVTjaIAMvWl0?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Susan Finder<br>Before 扫黑 there was 扫黄！<br><img style="" src="https://pbs.twimg.com/media/FI0QVTjaIAMvWl0?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2022-01-11 23:13:18+08:00 推文](https://twitter.com/JunMai_Beijing/status/1480920761166663681)
 
@@ -53,11 +53,11 @@ RT Bill Bishop<br>are there cases in Shanghai?<br><br>方舟子: 上海还�
 
 ### 10: [2022-01-12 17:15:51+08:00 推文](https://twitter.com/lingli_vienna/status/1481193194041786370)
 
-RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Heads of cyberspace admin offices met in Beijing. <br><br>Expecting a lot more on Xi Thought in 2022.<br><img style="" src="https://pbs.twimg.com/media/FI5AdVdWQAMldML?format=png&name=orig" referrerpolicy="no-referrer">
+RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Heads of cyberspace admin offices met in Beijing. <br><br>Expecting a lot more on Xi Thought in 2022.<br><img style src="https://pbs.twimg.com/media/FI5AdVdWQAMldML?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 11: [2022-01-13 14:35:29+08:00 推文](https://twitter.com/cnmediaproject/status/1481515224310370304)
 
-The Cyberspace Administration of China has released its list of top keywords for 2021. These are children only a controlling parent could love. Topping the list: "Celebrating the 100th anniversary of the CCP." <a href="https://chinamediaproject.org/2022/01/13/a-listicle-for-cyber-control/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/13/a-listicle-for-cyber-control/</a><br><img style="" src="https://pbs.twimg.com/media/FI9mOVSaUAMd8hH?format=jpg&name=orig" referrerpolicy="no-referrer">
+The Cyberspace Administration of China has released its list of top keywords for 2021. These are children only a controlling parent could love. Topping the list: "Celebrating the 100th anniversary of the CCP." <a href="https://chinamediaproject.org/2022/01/13/a-listicle-for-cyber-control/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/13/a-listicle-for-cyber-control/</a><br><img style src="https://pbs.twimg.com/media/FI9mOVSaUAMd8hH?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2022-01-13 15:39:24+08:00 推文](https://twitter.com/JeromeTaylor/status/1481531309180678145)
 
@@ -73,7 +73,7 @@ Re On writing: "Many people ... misinterpret the true sense of suffering... Suff
 
 ### 15: [2022-01-13 17:14:34+08:00 推文](https://twitter.com/ABPevzner/status/1481555258648276992)
 
-RT Alexander B. Pevzner 裴則男<br>Interesting- #10 on the list is 反垄断 #antitrust or anti-#monopoly, and the entry highlights recent actions against #China #technology firms, establishment of anti-#monopoly bureau under market regulator #SAMR.<br><br>China Media Project: The Cyberspace Administration of China has released its list of top keywords for 2021. These are children only a controlling parent could love. Topping the list: "Celebrating the 100th anniversary of the CCP."<br><br><img style src="https://pbs.twimg.com/media/FI9mOVSaUAMd8hH?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://chinamediaproject.org/2022/01/13/a-listicle-for-cyber-control/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/13/a-listicle-for-cyber-control/</a>
+RT Alexander B. Pevzner 裴則男<br>Interesting- #10 on the list is 反垄断 #antitrust or anti-#monopoly, and the entry highlights recent actions against #China #technology firms, establishment of anti-#monopoly bureau under market regulator #SAMR.<br><br>China Media Project: The Cyberspace Administration of China has released its list of top keywords for 2021. These are children only a controlling parent could love. Topping the list: "Celebrating the 100th anniversary of the CCP."<br><br><img style="" src="https://pbs.twimg.com/media/FI9mOVSaUAMd8hH?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://chinamediaproject.org/2022/01/13/a-listicle-for-cyber-control/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/13/a-listicle-for-cyber-control/</a>
 
 ### 16: [2022-01-13 20:41:15+08:00 推文](https://twitter.com/Lingling_Wei/status/1481607273076117505)
 
@@ -81,7 +81,7 @@ RT Lingling Wei 魏玲灵<br>China's economic plan these days reads like a mas
 
 ### 17: [2022-01-14 08:18:35+08:00 推文](https://twitter.com/cnmediaproject/status/1481782762940268546)
 
-As the Covid lockdown in the city of Xi'an continues, one media observation site calls the colorful and inventive front-page designs of a local commercial newspaper “a light in the darkness, lighting the way for people in their fight against the epidemic.” <a href="https://chinamediaproject.org/2022/01/14/pining-for-paper-media/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/14/pining-for-paper-media/</a><br><img style src="https://pbs.twimg.com/media/FJBZhxaaIAYIQvy?format=jpg&name=orig" referrerpolicy="no-referrer">
+As the Covid lockdown in the city of Xi'an continues, one media observation site calls the colorful and inventive front-page designs of a local commercial newspaper “a light in the darkness, lighting the way for people in their fight against the epidemic.” <a href="https://chinamediaproject.org/2022/01/14/pining-for-paper-media/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/14/pining-for-paper-media/</a><br><img style="" src="https://pbs.twimg.com/media/FJBZhxaaIAYIQvy?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2022-01-14 08:23:01+08:00 推文](https://twitter.com/cnmediaproject/status/1481783879745024008)
 
