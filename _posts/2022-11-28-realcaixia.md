@@ -51,3 +51,7 @@ title: 'Twitter @蔡霞: 2022-11-28~2022-12-04'
 
  <a href="https://youtu.be/rZD_cp4jyCo" target="_blank" rel="noopener noreferrer">https://youtu.be/rZD_cp4jyCo</a>
 
+### 10: [2022-11-28 12:55:38+08:00 推文](https://twitter.com/realcaixia/status/1597091825830895616)
+
+习近平最近给古巴撒币1亿美元！三年疫情，习近平一分钱都没有发给中国民众，却没断过在世界上撒币买好。这个人奔着当“人类命运共同体”的“领袖”野心去了，从来没有在乎过中国平民的痛苦与牺牲。<br><br>李恒青: 习近平一会儿慰问印尼地震灾民，一会儿慰问所罗门群岛灾民……<br>怎么不见他问问郑州疫情难民？怎么不见他问问乌鲁木齐火灾受害者？中国多地再次进入封控状态，民众连吃饭都犯愁。各地官员要求民众理解，并表示要坚持到底，消灭病毒。<br>请问：习近平是哪国领导人？<br><br><img style="" src="https://pbs.twimg.com/media/FihrJKpWAAAV-0r?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
