@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-11-28
+date: 2022-11-29
 from: https://twitter.com/HeQinglian/status/1596991795136974849
 layout: post
 tags:
@@ -70,4 +70,8 @@ Re @Iris_theGoddess 谢谢你提供的信息与分析，我会引用。
 ### 14: [2022-11-28 23:30:22+08:00 推文](https://twitter.com/HeQinglian/status/1597251563369947141)
 
 Re @Iris_theGoddess 小区封控，为什么不采取居民投票决定的方式？如果居民投票决定，就可以不去方舱，采用邻里相助等方式，只是居家隔离，也不用每天核酸，只对患者定期检查，其余的自检。<br>这种方式没那么恐怖，易于推行多了。事实上，美国这边朋友聚会，谨慎一点也要求自检。
+
+### 15: [2022-11-29 06:02:52+08:00 推文](https://twitter.com/HeQinglian/status/1597350336145940480)
+
+Re @zhixiangziyou 美国：每个人都有和平抗议的权利 <br><br>这表态，是1.6后遗症。 <a href="https://rfi.my/8wg7.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8wg7.T</a>
 
