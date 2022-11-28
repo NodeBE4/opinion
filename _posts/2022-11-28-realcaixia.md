@@ -31,3 +31,7 @@ title: 'Twitter @蔡霞: 2022-11-28~2022-12-04'
 
 这是武汉市民。<br><br>ZHANGDONG: Protest heute in Wuhan, wo die Corona vor 3 Jahren zuerst ausgebrochen ist.<br><br><video src="https://video.twimg.com/ext_tw_video/1596923243901902849/pu/vid/368x640/uM-rEFgNNpgm-gf_.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1596923243901902849/pu/img/QlE5imgmd8hQ4r-E.jpg"></video>
 
+### 5: [2022-11-28 08:35:03+08:00 推文](https://twitter.com/realcaixia/status/1597026247237722112)
+
+推荐LT视界今天的评论：⬇️<br><br>習近平的“軟肋”是什麼？不只是人民有“軟肋”；南京大學生在回應校長威脅時的回應，無比震撼，令人動容；這次抗議浪潮會有什麼結局？ <a href="https://youtu.be/kSvf-jMPYnI" target="_blank" rel="noopener noreferrer">https://youtu.be/kSvf-jMPYnI</a>
+
