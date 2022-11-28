@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-11-26
+date: 2022-11-27
 from: https://old.reddit.com/r/HobbyDrama/comments/z187cz/tabletop_gamingwarhammer_40k_leagues_of_brokaan/
 layout: post
 tags:
@@ -140,4 +140,10 @@ Yes, that is my point: I *am* saying that all ethnic identities are artificial a
 ----- __948.1__ -----2022-11-27 03:50:56+08:00:
 
 [RIP Okayu's hearing](https://www.reddit.com/r/Hololive/comments/jmn4fe/cat_ears/)
+
+### 949: [[Hobby Scuffles] Week of November 28, 2022](https://old.reddit.com/r/HobbyDrama/comments/z639kh/hobby_scuffles_week_of_november_28_2022/), submitted on 2022-11-27 23:00:17+08:00.
+
+----- __949.1__ -----2022-11-29 03:07:21+08:00:
+
+I'm close to finished on my second unit of British troops for my 1860s expeditionary force, but not close enough for photos, alas...
 

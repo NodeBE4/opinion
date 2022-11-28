@@ -13,15 +13,15 @@ title: EnclavedMicrostate在2022-11-28~2022-12-04的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 949: [Is it just me or does irys 2.0 look like irys 1.0's younger sister](https://old.reddit.com/r/Hololive/comments/z68emw/is_it_just_me_or_does_irys_20_look_like_irys_10s/), submitted on 2022-11-28 02:21:41+08:00.
+### 950: [Is it just me or does irys 2.0 look like irys 1.0's younger sister](https://old.reddit.com/r/Hololive/comments/z68emw/is_it_just_me_or_does_irys_20_look_like_irys_10s/), submitted on 2022-11-28 02:21:41+08:00.
 
------ __949.1__ -----2022-11-28 21:42:52+08:00:
+----- __950.1__ -----2022-11-28 21:42:52+08:00:
 
 Maybe, but not in this comparison. 2.0RyS on the right there is giving off immense Ara-Ara vibes.
 
-### 950: [Cartoon by David Lowe (8 juli 1936) about run-up to WW II. Can someone analyse this thoroughly and/or just explain the meaning behind it?](https://old.reddit.com/r/AskHistorians/comments/z6vofh/cartoon_by_david_lowe_8_juli_1936_about_runup_to/), submitted on 2022-11-28 20:46:45+08:00.
+### 951: [Cartoon by David Lowe (8 juli 1936) about run-up to WW II. Can someone analyse this thoroughly and/or just explain the meaning behind it?](https://old.reddit.com/r/AskHistorians/comments/z6vofh/cartoon_by_david_lowe_8_juli_1936_about_runup_to/), submitted on 2022-11-28 20:46:45+08:00.
 
------ __950.1__ -----2022-11-28 22:12:13+08:00:
+----- __951.1__ -----2022-11-28 22:12:13+08:00:
 
 Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
 
