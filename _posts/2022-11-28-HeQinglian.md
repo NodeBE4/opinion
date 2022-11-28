@@ -51,3 +51,19 @@ Re @Iris_theGoddess @chinayvan @JianglinLi 谢谢告知。<br>这就比较好理
 
 Re @JianglinLi @Iris_theGoddess @chinayvan 我听视频里有人大声讲，这是管控民众的实验——说明老百姓里不糊涂的人大有人在。
 
+### 10: [2022-11-28 14:50:03+08:00 推文](https://twitter.com/zhixiangziyou/status/1597120618461560832)
+
+RT L JM🇺🇸<br>为什么美国人对中国发生的事情如此沉默？因为他们暗自嫉妒中共对其公民的控制。他们不谴责它。他们渴望它。<br><br>Charlie Kirk: Why is the American left so silent about what’s happening in China? Because they’re secretly jealous of the control the CCP has over it’s citizens. They don’t condemn it. They crave it.<br>
+
+### 11: [2022-11-28 22:05:16+08:00 推文](https://twitter.com/HeQinglian/status/1597230146431643650)
+
+这条推信息量很大：<br>1、北京小区封控是居委会所为；<br>2、反封控成功。<br>很希望北京市居民能够证实这条信息。也希望海外媒体采访。<br><br>蔡慎坤: 一夜间北京上百个小区，包括回龙观、天通苑、望京3个亚洲最大小区，居民自发组织维权，几乎方式一致，直接报警，在警察“旁观”下与居委会对峙交涉，最终拆除铁皮解除封控，因为北京市并没有下发封控通知，所有北京小区封控都是居委会所为，居委会并没有执法权，限制市民出行从法律意义上属于非法拘禁！<br>
+
+### 12: [2022-11-28 22:47:51+08:00 推文](https://twitter.com/HeQinglian/status/1597240862102065152)
+
+各地反封控的信息丰富但极为混乱，加上大外宣在行动，难以辨识。<br>唯一可以确定的是：WEF施瓦布11月20日盛赞值得各国学习的“中国模式”受到严重挑战。<br>中国模式三要点：政府管控经济与资源；对民众实施严苛的社会管制，健康码比疫苗证还进一步，是动态管控；人民没有任何政治权利。
+
+### 13: [2022-11-28 22:49:29+08:00 推文](https://twitter.com/HeQinglian/status/1597241272334684160)
+
+Re @Iris_theGoddess 谢谢你提供的信息与分析，我会引用。
+

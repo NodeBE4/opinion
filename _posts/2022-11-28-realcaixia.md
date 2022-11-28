@@ -103,3 +103,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fip1xxuUAAEkjNd?format=jpg
 
 这种无耻之徒必将被钉在历史的耻辱柱上！<br><br>自由亚洲电台: 新疆乌鲁木齐火灾事件，引爆中国白纸运动遍地开花。中国外交部发言人赵立坚宣称是 #别有用心 势力，把火灾与防疫联系。对于BBC记者在上海采访被捕。中国官员先是宣称为了防止采访被感染，赵立坚责推记者未表明身份。<br><br>#赵立坚<br>#白纸运动<br><br><video src="https://video.twimg.com/ext_tw_video/1597177008777138176/pu/vid/720x720/T5FrWcAKvW-jUHFY.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1597177008777138176/pu/img/ixbZr0MUr41Oiqtj.jpg"></video>
 
+### 23: [2022-11-28 21:55:28+08:00 推文](https://twitter.com/realcaixia/status/1597227680696410113)
+
+呼吁在海外的国人们都来关注大陆各地连日的抗争行动，尽我们的心力为国内的同胞们做些力所能及的事，让我们为我们的家人亲人子孙后代活得有尊严、有人身安全，有人权保障而共同努力。<br><br>韩连潮: 呼吁大华府地区清华校友会、北大校友会，西安、南京、武汉、新疆等地校友会一起组织在中国驻华盛顿使馆前集会，声援国内学兄学弟、学姐学妹，反对暴力清零。<br><br><img style="" src="https://pbs.twimg.com/media/FipnjlpacAA_bZx?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
