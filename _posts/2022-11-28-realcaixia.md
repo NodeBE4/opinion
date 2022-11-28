@@ -35,3 +35,19 @@ title: 'Twitter @蔡霞: 2022-11-28~2022-12-04'
 
 推荐LT视界今天的评论：⬇️<br><br>習近平的“軟肋”是什麼？不只是人民有“軟肋”；南京大學生在回應校長威脅時的回應，無比震撼，令人動容；這次抗議浪潮會有什麼結局？ <a href="https://youtu.be/kSvf-jMPYnI" target="_blank" rel="noopener noreferrer">https://youtu.be/kSvf-jMPYnI</a>
 
+### 6: [2022-11-28 10:09:40+08:00 推文](https://twitter.com/realcaixia/status/1597050059744419840)
+
+特别推荐⬇️今日王剑评论。<br>今天王剑评论，从35分钟起往后的部分—特别值得听，墙内听众留言特别令人感动。人有悲悯之心，就具有了深爱自己民族、不贬低自己民族同胞的大爱情怀与胸怀的内在基础，我特别认同这一点。 <a href="https://youtu.be/Vzny8WrgFrY" target="_blank" rel="noopener noreferrer">https://youtu.be/Vzny8WrgFrY</a>
+
+### 7: [2022-11-28 10:15:08+08:00 推文](https://twitter.com/realcaixia/status/1597051434427592704)
+
+特别推荐VOA文章：<br><br>“解封北京”、“解封全国”，北京民众高举白纸继续抗争 - 让我们都来传播中国民众发起的“白纸革命”，让“白纸革命”飞向世界各地，以获得更多的认同者、支持者和同道者。<br><br>YouTube <a href="https://m.youtube.com/watch?v=oCt7BHuwnyA" target="_blank" rel="noopener noreferrer">https://m.youtube.com/watch?v=oCt7BHuwnyA</a>
+
+### 8: [2022-11-28 10:35:50+08:00 推文](https://twitter.com/realcaixia/status/1597056645854826497)
+
+北京，这所我太熟悉的城市。亮马桥、朝阳公园、四通桥、后海，都是我熟悉又又亲切感的地方。<br><br>李老师不是你老师: 北京 此刻<br>现场有大约两三百人依然在游行<br><br><video src="https://video.twimg.com/ext_tw_video/1596946759762284545/pu/vid/1280x720/B5YA3vkqjl3BkDYF.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1596946759762284545/pu/img/MM6KfTQFrmVw-t-s.jpg"></video>
+
+### 9: [2022-11-28 10:53:48+08:00 推文](https://twitter.com/realcaixia/status/1597061165711904769)
+
+ <a href="https://youtu.be/rZD_cp4jyCo" target="_blank" rel="noopener noreferrer">https://youtu.be/rZD_cp4jyCo</a>
+
