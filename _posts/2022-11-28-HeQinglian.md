@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-11-29
+date: 2022-11-30
 from: https://twitter.com/HeQinglian/status/1596991795136974849
 layout: post
 tags:
@@ -126,4 +126,24 @@ Re @TomMa07952688 这是肯定的，中央不能错，必须正确。😅
 ### 28: [2022-11-29 23:41:30+08:00 推文](https://twitter.com/HeQinglian/status/1597616750736330752)
 
 Re @Maghriz_UMa 墨菲定律。😅
+
+### 29: [2022-11-30 00:33:21+08:00 推文](https://twitter.com/HeQinglian/status/1597629799236657157)
+
+Re @JaybowlongJazz @sanguibee @david_david1968 参考泽连斯基自述与美国参谋长联席会议主席对乌克兰战争的定性。<br>如果你自认比他们这两位当事人更有发言权，请便。
+
+### 30: [2022-11-30 00:40:00+08:00 推文](https://twitter.com/HeQinglian/status/1597631473762590720)
+
+Re @Lucs24659702 西方左派文化的反人类于此可见。<br>左派当道的政府，居然无人追查这种不人道的设计——这不是当年反纳粹德国的主题么？人皮灯具、人皮手提包等。
+
+### 31: [2022-11-30 01:04:28+08:00 推文](https://twitter.com/HeQinglian/status/1597637631525163008)
+
+Re @lorne0506 你要弄清楚三条：自采自测是探索，这是开了个口子；地方层层加码是这一向的舆论主导；抓核酸检测有意误报是替罪羊。<br>完全没经历过中国政治风波的革命青中老年与西方媒体，看啥都以为革命高潮即将来临。<br>革命会有的，只是现在还未成熟，得等你长大一些、成熟一些之时还继续保持革命热情并愿意为之献身。
+
+### 32: [2022-11-30 01:07:55+08:00 推文](https://twitter.com/HeQinglian/status/1597638499905466368)
+
+白纸革命：传中国警创钓鱼帐号 假借分享抗议事件掌握抗争者资讯 <br>昨天是白纸革命正在升级为习近平下台、共产党下台，世界联动，今天就出了这消息。<br>各位再看一下中国各大城市是否还有革命聚会没有。 <a href="https://rfi.my/8wpe.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8wpe.T</a>
+
+### 33: [2022-11-30 01:14:36+08:00 推文](https://twitter.com/HeQinglian/status/1597640181204791296)
+
+白纸革命过程中，没发现暴力与破坏公物行为啊。只不过在少数几处有人喊了打倒共产党、习近平下台的口号。习近平也没少根头发，心里不舒服罢了。<br>政法委这是体制性防卫过当。<br><br>RFI 华语 - 法国国际广播电台: 白纸抗议运动：中共政法委下令坚决打击<br><br><img style="" src="https://pbs.twimg.com/media/FivmZTnakAIKOF_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8wp8.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8wp8.t</a>
 
