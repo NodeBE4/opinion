@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-11-29
+date: 2022-11-30
 from: https://twitter.com/realcaixia/status/1596935244816343041
 layout: post
 tags:
@@ -158,4 +158,16 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fiu2Jw8VEAEx6r9?format=jpg
 ### 36: [2022-11-29 21:03:40+08:00 推文](https://twitter.com/realcaixia/status/1597577032195792896)
 
 希望有更多的军警和民众站在一起！希望中共党内有良知的党员干部站出来！<br>在习近平眼里，9000多万党员都是他控制驱使的奴才！习近平能在20大会场粗鲁强制胡锦涛离场，还有什么行动对9000多万党奴做不出来的？！<br>呼吁9000多万党员、几百万党内干部勇敢地站出来，与民众一起，给自己一个自我救赎的机会！<br><br>新闻调查: 勇士<br><br><img style="" src="https://pbs.twimg.com/media/Fis-q09VIAA8eY3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 37: [2022-11-30 01:22:25+08:00 推文](https://twitter.com/realcaixia/status/1597642148551487488)
+
+这首歌唱出民众的心声<br><br>Goodlord: 《乌鲁木齐中路》非常好听<br>黎明前的黑暗，一定有曙光<br>大家喜欢可以收藏 1/2<br><br><video src="https://video.twimg.com/ext_tw_video/1597506446132146177/pu/vid/1280x720/mCAUxtz5MaAW_-mc.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1597506446132146177/pu/img/tKrYFnxJYO7_LxVo.jpg"></video>
+
+### 38: [2022-11-30 01:26:34+08:00 推文](https://twitter.com/realcaixia/status/1597643191968141312)
+
+《烏魯木齊中路》献给乌鲁木齐大火中，及无数‘动态清零“政策下次生灾难中的逝者，献给六四以来规模最大的全国性集会抗议活动----白纸革命。大雄词曲，授权播出初版，原版静待大雄频道播出。 - YouTube <a href="https://www.youtube.com/watch?v=yljM6syDr_Y" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=yljM6syDr_Y</a>
+
+### 39: [2022-11-30 01:31:16+08:00 推文](https://twitter.com/realcaixia/status/1597644375596576770)
+
+广东东莞市民高呼解封。<br><br>李老师不是你老师: 东莞南城中信新天地 此刻 民众要求解封<br><br><video src="https://video.twimg.com/ext_tw_video/1597567226319601664/pu/vid/304x640/7Dm8mOOSR8OS8fyI.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1597567226319601664/pu/img/NaXTBLRB27wkfncZ.jpg"></video>
 
