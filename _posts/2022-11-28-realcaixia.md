@@ -93,7 +93,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fip1xxuUAAEkjNd?format=jpg
 
 ### 20: [2022-11-28 21:37:17+08:00 推文](https://twitter.com/realcaixia/status/1597223103540604928)
 
-这就是所谓“人民至上”的真实显示：以人民为敌！<br><br>CNMD NEWS ²²: #行为艺术<br>昨晚，上海以东出大事了！警车冲撞示威人群。<br><br><video src="https://video.twimg.com/ext_tw_video/1597031950308749314/pu/vid/720x1082/9Kk232ZOTNJjv67o.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1597031950308749314/pu/img/L8NBrsHrb3Fa2Dqd.jpg"></video>
+这就是所谓“人民至上”的真实显示：以人民为敌！ <a href="https://twitter.com/cnnnd022/status/1597031992994193409" target="_blank" rel="noopener noreferrer">https://twitter.com/cnnnd022/status/1597031992994193409</a>
 
 ### 21: [2022-11-28 21:38:59+08:00 推文](https://twitter.com/realcaixia/status/1597223530982408192)
 
@@ -170,4 +170,12 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fiu2Jw8VEAEx6r9?format=jpg
 ### 39: [2022-11-30 01:31:16+08:00 推文](https://twitter.com/realcaixia/status/1597644375596576770)
 
 广东东莞市民高呼解封。<br><br>李老师不是你老师: 东莞南城中信新天地 此刻 民众要求解封<br><br><video src="https://video.twimg.com/ext_tw_video/1597567226319601664/pu/vid/304x640/7Dm8mOOSR8OS8fyI.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1597567226319601664/pu/img/NaXTBLRB27wkfncZ.jpg"></video>
+
+### 40: [2022-11-30 04:28:05+08:00 推文](https://twitter.com/realcaixia/status/1597688872909312001)
+
+特别推荐：⬇️<br>廖亦武先生发布于议报《白纸革命：蝴蝶拍打了翅膀》<br>这篇散文特别清晰地讲述了“白纸革命”是如何诞生的。他的讲述满带着温度，令人动容。<br><br>【議想天開】廖亦武 | 白紙革命：蝴蝶拍打了翅膀 - 议报 <a href="https://yibaochina.com/?p=248546" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248546</a>
+
+### 41: [2022-11-30 04:37:01+08:00 推文](https://twitter.com/realcaixia/status/1597691120854646784)
+
+特别推荐：⬇️议报发布【轶民 | 从1958年看2022年】<br>1958年与2022年相隔64年，内在的某种逻辑却似乎暗合或相似。若果真如此，回想到1959—1961的三年大饥荒，3700多万人命，不寒而栗。轶民作者可是“吹哨人”？不得而知。<br>清零若依旧顽固继续，2023年后将是何情景？不寒而栗！ <a href="https://yibaochina.com/?p=248556" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248556</a>
 

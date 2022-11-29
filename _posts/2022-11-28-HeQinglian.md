@@ -155,3 +155,7 @@ Re @princeton_walk 这一点学一下拜登，F**K Biden都成流行词了，人
 
 反封控："中国模式"遭遇大考<br>反封控集会发生之时，距离WEF创始人、大重置的主要推手克劳德·施瓦布盛赞中国模式值得许多国家学习不到一周。“中国模式”三个要点：政府管控经济与资源；对民众实施严苛的社会管制；人民没有任何政治权利。<br>反封控表明，不少中国人痛恨中国模式。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11292022130244.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11292022130244.html</a>
 
+### 36: [2022-11-30 05:32:26+08:00 推文](https://twitter.com/HeQinglian/status/1597705064986349568)
+
+Re @YouKeping 中国的健康码是动态管控，实在比施瓦布们的疫苗证还要恶坏N倍。疫苗证证明打过针就行，这健康码简直是身边装了个跟踪器——施瓦布们羡慕得很，只是没能在西方国家推行。
+

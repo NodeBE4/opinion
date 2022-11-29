@@ -147,3 +147,7 @@ Yes, that is my point: I *am* saying that all ethnic identities are artificial a
 
 I'm close to finished on my second unit of British troops for my 1860s expeditionary force, but not close enough for photos, alas...
 
+----- __949.2__ -----2022-11-30 05:03:00+08:00:
+
+I presume you're in the US? It's interesting how US wargaming tends to cohere more around gaming store spaces as opposed to clubs, which are the norm here in the UK. It seems like the sort of thing where the setup is harder but there's a longer-term payoff in terms of stability.
+
