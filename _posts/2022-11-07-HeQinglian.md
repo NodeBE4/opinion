@@ -705,7 +705,7 @@ RT 周锋锁 Fengsuo Zhou<br>疯了，推特暂停了苏雨桐@Suyutong 的账
 
 ### 173: [2022-11-13 23:24:03+08:00 推文](https://twitter.com/HeQinglian/status/1591814155019091969)
 
-这话百分百正确。仅举一例：<br>拜登学贷免还计划 联邦法官裁定非法<br>11/10/2022 <br>时间放在11月6日之后，既可以不增加政府压力，又骗来大量想当老赖的年轻人选票。<br>再回顾一下：2021年大群因拜登食言的年轻大学生Go to Brandon(Fuxx-Biden)的往事。<br>习近平如果还坚持不选举那是蠢。<br><br>zhix: 卡马拉说18-24岁的年轻人都是蠢货😂👇<br>
+这话百分百正确。仅举一例：<br>拜登学贷免还计划 联邦法官裁定非法<br>11/10/2022 <br>时间放在11月6日之后，既可以不增加政府压力，又骗来大量想当老赖的年轻人选票。<br>再回顾一下：2021年大群因拜登食言的年轻大学生Go to Brandon(Fuxx-Biden)的往事。<br>习近平如果还坚持不选举那是蠢。<br><br>zhix: 卡马拉说18-24岁的年轻人都是蠢货😂👇<br> <a href="https://twitter.com/stillgray/status/1591660209768116225" target="_blank" rel="noopener noreferrer">https://twitter.com/stillgray/status/1591660209768116225</a>
 
 ### 174: [2022-11-13 23:31:20+08:00 推文](https://twitter.com/HeQinglian/status/1591815988294873088)
 
