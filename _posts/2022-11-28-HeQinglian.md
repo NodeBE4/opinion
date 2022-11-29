@@ -127,35 +127,63 @@ Re @TomMa07952688 这是肯定的，中央不能错，必须正确。😅
 
 Re @Maghriz_UMa 墨菲定律。😅
 
-### 29: [2022-11-30 00:33:21+08:00 推文](https://twitter.com/HeQinglian/status/1597629799236657157)
+### 29: [2022-11-30 00:30:50+08:00 推文](https://twitter.com/RFA_Chinese/status/1597629164906954752)
+
+RT 自由亚洲电台<br>“那十几个警察把那个女的死死地摁在地上、拼命地打，那个女的就拼命地挣扎，然后那些警察就像抓我一样地，把那女的倒吊起来，十几个人把她抓到大巴里。” <a href="https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/wy-11282022094229.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/wy-11282022094229.html</a>
+
+### 30: [2022-11-30 00:33:21+08:00 推文](https://twitter.com/HeQinglian/status/1597629799236657157)
 
 Re @JaybowlongJazz @sanguibee @david_david1968 参考泽连斯基自述与美国参谋长联席会议主席对乌克兰战争的定性。<br>如果你自认比他们这两位当事人更有发言权，请便。
 
-### 30: [2022-11-30 00:40:00+08:00 推文](https://twitter.com/HeQinglian/status/1597631473762590720)
+### 31: [2022-11-30 00:40:00+08:00 推文](https://twitter.com/HeQinglian/status/1597631473762590720)
 
 Re @Lucs24659702 西方左派文化的反人类于此可见。<br>左派当道的政府，居然无人追查这种不人道的设计——这不是当年反纳粹德国的主题么？人皮灯具、人皮手提包等。
 
-### 31: [2022-11-30 01:04:28+08:00 推文](https://twitter.com/HeQinglian/status/1597637631525163008)
+### 32: [2022-11-30 01:04:28+08:00 推文](https://twitter.com/HeQinglian/status/1597637631525163008)
 
 Re @lorne0506 你要弄清楚三条：自采自测是探索，这是开了个口子；地方层层加码是这一向的舆论主导；抓核酸检测有意误报是替罪羊。<br>完全没经历过中国政治风波的革命青中老年与西方媒体，看啥都以为革命高潮即将来临。<br>革命会有的，只是现在还未成熟，得等你长大一些、成熟一些之时还继续保持革命热情并愿意为之献身。
 
-### 32: [2022-11-30 01:07:55+08:00 推文](https://twitter.com/HeQinglian/status/1597638499905466368)
+### 33: [2022-11-30 01:07:55+08:00 推文](https://twitter.com/HeQinglian/status/1597638499905466368)
 
 白纸革命：传中国警创钓鱼帐号 假借分享抗议事件掌握抗争者资讯 <br>昨天是白纸革命正在升级为习近平下台、共产党下台，世界联动，今天就出了这消息。<br>各位再看一下中国各大城市是否还有革命聚会没有。 <a href="https://rfi.my/8wpe.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8wpe.T</a>
 
-### 33: [2022-11-30 01:14:36+08:00 推文](https://twitter.com/HeQinglian/status/1597640181204791296)
+### 34: [2022-11-30 01:14:36+08:00 推文](https://twitter.com/HeQinglian/status/1597640181204791296)
 
 白纸革命过程中，没发现暴力与破坏公物行为啊。只不过在少数几处有人喊了打倒共产党、习近平下台的口号。习近平也没少根头发，心里不舒服罢了。<br>政法委这是体制性防卫过当。<br><br>RFI 华语 - 法国国际广播电台: 白纸抗议运动：中共政法委下令坚决打击<br><br><img style="" src="https://pbs.twimg.com/media/FivmZTnakAIKOF_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8wp8.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8wp8.t</a>
 
-### 34: [2022-11-30 03:22:33+08:00 推文](https://twitter.com/HeQinglian/status/1597672379777683456)
+### 35: [2022-11-30 03:22:33+08:00 推文](https://twitter.com/HeQinglian/status/1597672379777683456)
 
 Re @princeton_walk 这一点学一下拜登，F**K Biden都成流行词了，人家也承受得了。<br>如果这要计较，恐怕他一天安稳觉也睡不好。<br>据老革命回忆，七千人大会，人民大会堂厕所中出现过“打倒毛泽东”的口号，手写的，本可以查出，但毛没查，忍了。毛的计较也分时段的。
 
-### 35: [2022-11-30 03:39:51+08:00 推文](https://twitter.com/HeQinglian/status/1597676734366699520)
+### 36: [2022-11-30 03:39:51+08:00 推文](https://twitter.com/HeQinglian/status/1597676734366699520)
 
 反封控："中国模式"遭遇大考<br>反封控集会发生之时，距离WEF创始人、大重置的主要推手克劳德·施瓦布盛赞中国模式值得许多国家学习不到一周。“中国模式”三个要点：政府管控经济与资源；对民众实施严苛的社会管制；人民没有任何政治权利。<br>反封控表明，不少中国人痛恨中国模式。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11292022130244.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11292022130244.html</a>
 
-### 36: [2022-11-30 05:32:26+08:00 推文](https://twitter.com/HeQinglian/status/1597705064986349568)
+### 37: [2022-11-30 05:32:26+08:00 推文](https://twitter.com/HeQinglian/status/1597705064986349568)
 
 Re @YouKeping 中国的健康码是动态管控，实在比施瓦布们的疫苗证还要恶坏N倍。疫苗证证明打过针就行，这健康码简直是身边装了个跟踪器——施瓦布们羡慕得很，只是没能在西方国家推行。
+
+### 38: [2022-11-30 05:38:06+08:00 推文](https://twitter.com/HeQinglian/status/1597706494564528129)
+
+Re @waixijiu 这鱼能吃么？
+
+### 39: [2022-11-30 05:45:46+08:00 推文](https://twitter.com/HeQinglian/status/1597708423982120961)
+
+Re @princeton_walk 其实，早在1990年代，郑州二七广场一批老毛粉聚集，在那里声讨改革开放并痛骂“邓矮子”，最后有个乌有之乡也汇集了一批骂邓拥毛的各界人士，那时的中国就已回不到毛时代那状态了。<br>习最好习惯这种状态，只要不是痞子式的侮辱，伤及妻女，他应该要容忍。
+
+### 40: [2022-11-30 06:18:59+08:00 推文](https://twitter.com/HeQinglian/status/1597716782139076608)
+
+这位苏纳克说话不知所云。英中关系什么时候是“黄金时代”？就算有，那也是脱欧之前的事情，根本轮不到他来结束。<br><br>美国之音中文网: 英国首相苏纳克：英中关系“黄金时代”已结束<br> <a href="http://dlvr.it/SdXCkX" target="_blank" rel="noopener noreferrer">http://dlvr.it/SdXCkX</a>
+
+### 41: [2022-11-30 06:23:16+08:00 推文](https://twitter.com/HeQinglian/status/1597717859438063617)
+
+Re @VictoriaTC 这些西方人要么根本不知什么是“中国模式”，要么就是施瓦布那类统治欲极强的人，知道中国模式的特点，恨不得自己也有中国政府那种超强的权力。
+
+### 42: [2022-11-30 07:05:28+08:00 推文](https://twitter.com/HeQinglian/status/1597728480179159043)
+
+Re @VictoriaTC 我去他的个人网站 <br>从他关心的题材来看，这是一位反资本主义的左派记者，反战关心战争之地的受害者。<br>走遍世界，但中国是其盲点。首页上没见对中国的报道<br>可以这样看“走遍世界”：如果他在一地的时间长也许了解多点，如果那地儿呆的时间不长，可能就少些。 <a href="https://johnpilger.com/" target="_blank" rel="noopener noreferrer">https://johnpilger.com/</a>
+
+### 43: [2022-11-30 07:08:40+08:00 推文](https://twitter.com/HeQinglian/status/1597729285208682496)
+
+Re @ElaineYuMuMu 她的父母当时知不知情？<br>如果不知情，那是她隐瞒了情况，将心理辅导员看成比父母更值得信任的人。<br>这个年龄，是心理反叛期。
 
