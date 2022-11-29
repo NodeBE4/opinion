@@ -119,3 +119,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fip1xxuUAAEkjNd?format=jpg
 
 乌鲁木齐市民首先起来的反清零抗争运动，很快得到全国民众响应，南京传媒大学在全国高校中最先响应，随后26-27号有全国50多所高校加入响应；到28日已经有103所高校加入响应全国民众反清零抗争行列！向全国高校师生致敬！<br><img style="" src="https://pbs.twimg.com/media/Fiq8Pj1UAAEwKd_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fiq8PzzUoAAbWDT?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 27: [2022-11-29 07:36:18+08:00 推文](https://twitter.com/realcaixia/status/1597373849154166784)
+
+海内外大学联合声援大陆中国人的“白纸革命”。<br>大陆中国人遭受的人权劫难，是整个世界人类痛苦的一部分。相信全球具有人道关怀和博爱精神的人们，都会严重关切中国人正在遭受的痛苦，呼吁旅居世界各地的中国人，让你身边的外国朋友更多地知晓大陆人的痛苦状况和艰难抗争，这是对大陆亲友的声援和帮助。<br><br>光傳媒官推 官網 https://www.ipkmedia.net: 【快讯】<br><br>最新消息截至现在共有175所海内外大学参加声援“白纸革命”<br><br>继续！<br><br><img style="" src="https://pbs.twimg.com/media/Fir42JIWIAMyG1Z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fir42I3XoAAzW0A?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fir7glnXgAAFruL?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fir7gljWAAATt7j?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
