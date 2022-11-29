@@ -147,3 +147,11 @@ Re @lorne0506 你要弄清楚三条：自采自测是探索，这是开了个口
 
 白纸革命过程中，没发现暴力与破坏公物行为啊。只不过在少数几处有人喊了打倒共产党、习近平下台的口号。习近平也没少根头发，心里不舒服罢了。<br>政法委这是体制性防卫过当。<br><br>RFI 华语 - 法国国际广播电台: 白纸抗议运动：中共政法委下令坚决打击<br><br><img style="" src="https://pbs.twimg.com/media/FivmZTnakAIKOF_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8wp8.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8wp8.t</a>
 
+### 34: [2022-11-30 03:22:33+08:00 推文](https://twitter.com/HeQinglian/status/1597672379777683456)
+
+Re @princeton_walk 这一点学一下拜登，F**K Biden都成流行词了，人家也承受得了。<br>如果这要计较，恐怕他一天安稳觉也睡不好。<br>据老革命回忆，七千人大会，人民大会堂厕所中出现过“打倒毛泽东”的口号，手写的，本可以查出，但毛没查，忍了。毛的计较也分时段的。
+
+### 35: [2022-11-30 03:39:51+08:00 推文](https://twitter.com/HeQinglian/status/1597676734366699520)
+
+反封控："中国模式"遭遇大考<br>反封控集会发生之时，距离WEF创始人、大重置的主要推手克劳德·施瓦布盛赞中国模式值得许多国家学习不到一周。“中国模式”三个要点：政府管控经济与资源；对民众实施严苛的社会管制；人民没有任何政治权利。<br>反封控表明，不少中国人痛恨中国模式。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11292022130244.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11292022130244.html</a>
+

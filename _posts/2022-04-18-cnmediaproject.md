@@ -121,5 +121,5 @@ RT Guobin Yang<br>The power of the “Sounds of April” story about #Shanghai
 
 ### 27: [2022-04-24 18:50:53+08:00 推文](https://twitter.com/DemesDavid/status/1518180670907904000)
 
-RT David Demes 戴達衛<br>Re @johnsfeng @julianku @jinpeili Ukraine started to disappear from CCTV maps on March 1st:
+RT David Demes 戴達衛<br>Re @johnsfeng @julianku @jinpeili Ukraine started to disappear from CCTV maps on March 1st:<br><br>David Demes 戴達衛: While this might look like a simple mishap by the graphics dept at first, I just checked earlier broadcasts and found CCTV-4's 今日关注 was using national boundaries until February 27th. After March 1st, the Ukraine all but vanished from the studio map. h/t @jinpeili<br><br><img style="" src="https://pbs.twimg.com/media/FPodTCDUcAUDm6P?format=png&amp;name=orig" referrerpolicy="no-referrer">
 

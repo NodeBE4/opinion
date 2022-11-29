@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2022-05-30~2022-06-05'
 
 ### 1: [2022-05-31 07:20:48+08:00 推文](https://twitter.com/realcaixia/status/1531415358187487232)
 
-自2020年武汉新冠病毒祸害全世界，习当局就上演过种种甩锅丑剧。上行下效，上海市委跟着学，甩锅给居委会。这种甩锅能寒了上千万中共基层干部的心，他们也要给自己留条后路，躺平和枪口抬高一寸是必然的反应。这将使极权专制机器越来越半瘫痪……<br><br>韩连潮: 【上海市委太差火】习近平下令上海封城引发天怒人怨，上海市领导居然把责任推到居委会头上，引发全市民众议论。详情如图，最后一幅是居委会干部不管了，他们开始躺平，最后一句话表达了其极度不满情绪：“还管啥管”！<br><br><img style="" src="https://pbs.twimg.com/media/FUCdXeUVEAAJDId?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUCdXeUUAAI905F?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUCdXeTUcAAR5LU?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUCdXeVUEAAefGT?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+自2020年武汉新冠病毒祸害全世界，习当局就上演过种种甩锅丑剧。上行下效，上海市委跟着学，甩锅给居委会。这种甩锅能寒了上千万中共基层干部的心，他们也要给自己留条后路，躺平和枪口抬高一寸是必然的反应。这将使极权专制机器越来越半瘫痪……
 
 ### 2: [2022-05-31 09:36:19+08:00 推文](https://twitter.com/realcaixia/status/1531449460835876864)
 
@@ -33,7 +33,7 @@ Re @LalaGuang @lianchaohan 说得很好，很直接！所有热爱自由民主�
 
 ### 5: [2022-06-01 23:08:35+08:00 推文](https://twitter.com/realcaixia/status/1532016262750011392)
 
-在当代中国人痛史的地理标记上，我希望人们像记住夹边沟一样记住苗溪。不仅如此，而且，所有现在我们尚不知其名的劳改集中营，都应该由幸存者重新标记出来，构成一部苦难记忆的地图志。书写个人痛史，是重铸民族记忆的重要工程，它需要更多幸存者的参与。——艾晓明<br><br>《议报》: 艾晓明: 通往苗溪之路——牛立华回忆录《梦断苗溪》代序<br> <a href="https://yibaochina.com/?p=246695" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246695</a>
+在当代中国人痛史的地理标记上，我希望人们像记住夹边沟一样记住苗溪。不仅如此，而且，所有现在我们尚不知其名的劳改集中营，都应该由幸存者重新标记出来，构成一部苦难记忆的地图志。书写个人痛史，是重铸民族记忆的重要工程，它需要更多幸存者的参与。——艾晓明
 
 ### 6: [2022-06-01 23:27:21+08:00 推文](https://twitter.com/realcaixia/status/1532020986077450241)
 
@@ -85,7 +85,7 @@ Re 1、规避这个规定而继续大权独揽的路径是：中共党内另设�
 
 ### 18: [2022-06-05 03:37:36+08:00 推文](https://twitter.com/realcaixia/status/1533171126125436930)
 
-昨晚我在现场。<br><br>Joey Siu 邵嵐🌻☘️: The Chinese Communist regime can ban vigils at Victoria’s Park but they cannot stop the candlelight from turning into sparks that ignite change around the world.🕯<br><br>#June4th #TiananmenSquareMassacre<br><br><img style="" src="https://pbs.twimg.com/media/FUYHMKvXwAATT_s?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+昨晚我在现场。
 
 ### 19: [2022-06-05 07:02:47+08:00 推文](https://twitter.com/realcaixia/status/1533222763439304704)
 
