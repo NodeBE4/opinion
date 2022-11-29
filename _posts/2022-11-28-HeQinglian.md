@@ -75,3 +75,11 @@ Re @Iris_theGoddess 小区封控，为什么不采取居民投票决定的方式
 
 Re @zhixiangziyou 美国：每个人都有和平抗议的权利 <br><br>这表态，是1.6后遗症。 <a href="https://rfi.my/8wg7.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8wg7.T</a>
 
+### 16: [2022-11-29 09:00:26+08:00 推文](https://twitter.com/HeQinglian/status/1597395023628480513)
+
+Re @david_david1968 台湾的政治很容易翻覆。还有两年。<br>这次其实与2019年差不多，那次九合一选举也出现了“惩罚民进党”浪潮，但反红色渗透成功地让民进党获胜。
+
+### 17: [2022-11-29 09:06:08+08:00 推文](https://twitter.com/HeQinglian/status/1597396457593528320)
+
+Re @ZhouFengSuo 你没注意，很多。
+
