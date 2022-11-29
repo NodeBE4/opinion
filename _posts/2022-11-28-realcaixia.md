@@ -93,7 +93,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fip1xxuUAAEkjNd?format=jpg
 
 ### 20: [2022-11-28 21:37:17+08:00 推文](https://twitter.com/realcaixia/status/1597223103540604928)
 
-这就是所谓“人民至上”的真实显示：以人民为敌！<br><br>CNMD NEWS ²²: #行为艺术<br>昨晚，上海以东出大事了！警车冲撞示威人群。<br><br><video src="https://video.twimg.com/ext_tw_video/1597031950308749314/pu/vid/720x1082/9Kk232ZOTNJjv67o.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1597031950308749314/pu/img/L8NBrsHrb3Fa2Dqd.jpg"></video>
+这就是所谓“人民至上”的真实显示：以人民为敌！ <a href="https://twitter.com/cnnnd022/status/1597031992994193409" target="_blank" rel="noopener noreferrer">https://twitter.com/cnnnd022/status/1597031992994193409</a>
 
 ### 21: [2022-11-28 21:38:59+08:00 推文](https://twitter.com/realcaixia/status/1597223530982408192)
 
@@ -122,4 +122,40 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fip1xxuUAAEkjNd?format=jpg
 ### 27: [2022-11-29 07:36:18+08:00 推文](https://twitter.com/realcaixia/status/1597373849154166784)
 
 海内外大学联合声援大陆中国人的“白纸革命”。<br>大陆中国人遭受的人权劫难，是整个世界人类痛苦的一部分。相信全球具有人道关怀和博爱精神的人们，都会严重关切中国人正在遭受的痛苦，呼吁旅居世界各地的中国人，让你身边的外国朋友更多地知晓大陆人的痛苦状况和艰难抗争，这是对大陆亲友的声援和帮助。<br><br>光傳媒官推 官網 https://www.ipkmedia.net: 【快讯】<br><br>最新消息截至现在共有175所海内外大学参加声援“白纸革命”<br><br>继续！<br><br><img style="" src="https://pbs.twimg.com/media/Fir42JIWIAMyG1Z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fir42I3XoAAzW0A?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fir7glnXgAAFruL?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fir7gljWAAATt7j?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 28: [2022-11-29 20:12:04+08:00 推文](https://twitter.com/realcaixia/status/1597564045389099008)
+
+让这块路牌传遍全世界网络！乌鲁木齐路成为历史不可磨灭的记忆！<br><br>新闻调查: 网友投稿：您好！我男朋友是一位平面设计师。在上海乌鲁木齐中路路牌被拆掉的晚上，他复刻了这块路牌，希望传播上海的抗争精神，可惜在国内网盘中屡遭删除。<br>这是这块路牌的AI原文件。希望您可以帮我们把它传到更远更广阔的地方，让全世界的路都成为乌鲁木齐中路。感谢！<br><br><img style="" src="https://pbs.twimg.com/media/FirCtYqUcAA2XiP?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 29: [2022-11-29 20:14:16+08:00 推文](https://twitter.com/realcaixia/status/1597564601226653696)
+
+让全世界的人们都听到中国人愤怒的呼喊：“CCP下台！”“习近平下台！”<br><br>natsuki: 11月28日，日本东京。<br><br>在日本的中国留学生发起示威和守夜活动声援上海乌鲁木齐中路的抗议运动。中国留学生齐声高喊：<br>“共产党下台！习近平下台！”<br><br><video src="https://video.twimg.com/ext_tw_video/1597354662965182465/pu/vid/874x490/DKug3m41KbchVnsE.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1597354662965182465/pu/img/gMVVSml1q4VUtMt9.jpg"></video>
+
+### 30: [2022-11-29 20:19:09+08:00 推文](https://twitter.com/realcaixia/status/1597565828018319360)
+
+让全世界的人们都听到中国人民愤怒的呼喊“CCP下台！习近平下台！”<br><br>美国之音中文网: 数百人28日聚集在澳大利亚悉尼市政厅外，高呼“为中国争取自由”等口号，向中国数个城市抗议疫情封控政策的民众表达支持。<br><br><video src="https://video.twimg.com/amplify_video/1597281071447449601/vid/720x720/IWmz45HmqsKyXVCR.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/Fiqv6A0UYAA1Qen?format=jpg&amp;name=orig"></video> <a href="https://bit.ly/3OGgyLr" target="_blank" rel="noopener noreferrer">https://bit.ly/3OGgyLr</a>
+
+### 31: [2022-11-29 20:25:05+08:00 推文](https://twitter.com/realcaixia/status/1597567321501204480)
+
+杭州市民不畏军警恫吓强暴，照样走出家门走上街头！<br><br>公民力量: 今夜杭州！虽然有众多警察把守，愤怒的群众还是组织起来了，加油！！<br><br><video src="https://video.twimg.com/ext_tw_video/1597235341185978370/pu/vid/544x960/3iSPROzHIscxkrEB.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1597235341185978370/pu/img/SzeBVGSVr2plxbe8.jpg"></video>
+
+### 32: [2022-11-29 20:26:58+08:00 推文](https://twitter.com/realcaixia/status/1597567797243977730)
+
+让专制独裁统治者发抖的歌！<br><br>魔主席万碎: Do you hear the people sing共匪最怕的歌曲之一。早已被共匪下架。西方人一听旋律就知道是什么意思。共产奴隶们唱起来，让它响遍大江北！要宪政民主 不要一党专政！做勇敢炎黄子孙！不做苟且马列猪奴！✊✊😾<br><br><video src="https://video.twimg.com/ext_tw_video/1597235828014477315/pu/vid/1280x592/ZufciXrICiTaR28P.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1597235828014477315/pu/img/SYJK_2yqP5wl6YlM.jpg"></video>
+
+### 33: [2022-11-29 20:33:43+08:00 推文](https://twitter.com/realcaixia/status/1597569493777031169)
+
+昨晚做了一期访谈节目，与网友分享。<br><br>提问蔡霞: “白纸运动”能否解封中国? - YouTube <a href="https://m.youtube.com/watch?v=6ZjuR5XQgO0" target="_blank" rel="noopener noreferrer">https://m.youtube.com/watch?v=6ZjuR5XQgO0</a>
+
+### 34: [2022-11-29 20:37:26+08:00 推文](https://twitter.com/realcaixia/status/1597570427844694016)
+
+Re 昨晚是做实时播出，因此没有字幕。<br><img style="" src="https://pbs.twimg.com/media/Fiu11b8VEAAl6hQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fiu11b9VQAAjVUn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 35: [2022-11-29 20:38:49+08:00 推文](https://twitter.com/realcaixia/status/1597570776630054912)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/Fiu2Jw8VEAEx6r9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 36: [2022-11-29 21:03:40+08:00 推文](https://twitter.com/realcaixia/status/1597577032195792896)
+
+希望有更多的军警和民众站在一起！希望中共党内有良知的党员干部站出来！<br>在习近平眼里，9000多万党员都是他控制驱使的奴才！习近平能在20大会场粗鲁强制胡锦涛离场，还有什么行动对9000多万党奴做不出来的？！<br>呼吁9000多万党员、几百万党内干部勇敢地站出来，与民众一起，给自己一个自我救赎的机会！<br><br>新闻调查: 勇士<br><br><img style="" src="https://pbs.twimg.com/media/Fis-q09VIAA8eY3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
