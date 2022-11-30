@@ -65,3 +65,7 @@ Funny you should mention the Takarazuka Revue – I've seen it argued that the R
 
 Oh drat! Thanks for the correction, I'll make it immediately.
 
+----- __955.6__ -----2022-12-01 02:59:19+08:00:
+
+You must have been using a *very* old version then; all libretti and scores since about 1950 have replaced the words.
+
