@@ -93,7 +93,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fip1xxuUAAEkjNd?format=jpg
 
 ### 20: [2022-11-28 21:37:17+08:00 推文](https://twitter.com/realcaixia/status/1597223103540604928)
 
-这就是所谓“人民至上”的真实显示：以人民为敌！ <a href="https://twitter.com/cnnnd022/status/1597031992994193409" target="_blank" rel="noopener noreferrer">https://twitter.com/cnnnd022/status/1597031992994193409</a>
+这就是所谓“人民至上”的真实显示：以人民为敌！<br><br>CNMD NEWS ²²: #行为艺术<br>昨晚，上海以东出大事了！警车冲撞示威人群。<br><br><video src="https://video.twimg.com/ext_tw_video/1597031950308749314/pu/vid/720x1082/9Kk232ZOTNJjv67o.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1597031950308749314/pu/img/L8NBrsHrb3Fa2Dqd.jpg"></video>
 
 ### 21: [2022-11-28 21:38:59+08:00 推文](https://twitter.com/realcaixia/status/1597223530982408192)
 
@@ -186,4 +186,28 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fiu2Jw8VEAEx6r9?format=jpg
 ### 43: [2022-11-30 06:28:32+08:00 推文](https://twitter.com/realcaixia/status/1597719183353335808)
 
 海外学子与国内学子心心相连。<br><br>Nini艾番妮🇺🇸🇭🇰🇺🇦Margana🎗️✋👍💛💙: @realcaixia 蔡霞老师，您好这是昨天晚上加州大学伯克利分校的视频，还有大量视频待剪辑，明确喊出罢免国贼习近平。<br>
+
+### 44: [2022-11-30 12:48:19+08:00 推文](https://twitter.com/realcaixia/status/1597814759520206848)
+
+现在要加上：他们害怕一张张白纸……<br><br>公民日报 Citizens Daily: 他们害怕老人的记忆<br>他们害怕年轻人的思想和理想<br>他们害怕葬礼，和墓上的鲜花<br>他们害怕工人，害怕教堂<br>害怕党员，害怕所有的快乐时光<br>他们害怕艺术，他们害怕艺术<br>他们害怕语言这沟通的桥梁<br>他们害怕剧院<br>他们害怕电影，害怕汽油，害怕上帝/或其他令人敬畏之物 (1/?)<br>
+
+### 45: [2022-11-30 13:01:58+08:00 推文](https://twitter.com/realcaixia/status/1597818196308144128)
+
+请传给大陆的民众，分享参与抗争经历，积累识别混进，民众抗争行列里的便衣军警，增长保护自己安全的知识。这绝对必要。⬇请细细阅读️这位推友的详细叙述，我感觉很有益处。<br><br>巴丢草 Bad ї ucao: “当我趴在路边的一块石头上写新标语时，很多人在给我拍照，我那个时候不知会被便衣拍照，所以并未拒绝他们。这时候一个阿姨（戴着眼镜，像个文静精干的老教师）走过来跟我说：“妹妹，他们在拍你啊！不要怕，我帮你挡住，我保护你哈”<br> <a href="https://twitter.com/badiucao/status/1597491262948773888" target="_blank" rel="noopener noreferrer">https://twitter.com/badiucao/status/1597491262948773888</a>
+
+### 46: [2022-11-30 13:07:24+08:00 推文](https://twitter.com/realcaixia/status/1597819560874639360)
+
+我熟悉的东三环。因了这几天北京民众的抗争行动，亮马河、新源里、农展桥，唤起我多少次开车经过这里的感觉，格外亲切。<br><br>端傳媒 Initium Media: 【那夜的北京亮馬河，他們在警察圍堵中拼命守住陣地，繼續喊口號】宿明想記住今夜，涌動的人群、空白或填字的A4紙，還有地上的蠟燭和花，那些所有的瞬間，是從吶喊中衝出的希望。 #圖集：<br><br><img style="" src="https://pbs.twimg.com/media/FitDiRYUUAEMtq0?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FitDi1xUoAI-DRF?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FitDjhgUoAAFa5N?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FitDkQBUAAAJEaj?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="http://bit.ly/3gDWWuZ" target="_blank" rel="noopener noreferrer">http://bit.ly/3gDWWuZ</a>
+
+### 47: [2022-11-30 13:14:05+08:00 推文](https://twitter.com/realcaixia/status/1597821245189406720)
+
+特别推荐：<br>端传媒 <a href="https://www.youtube.com/watch?v=MIrU-zQ1-14" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=MIrU-zQ1-14</a><br><img style="" src="https://pbs.twimg.com/media/FiyZ8_SWYAAxMr1?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 48: [2022-11-30 13:18:24+08:00 推文](https://twitter.com/realcaixia/status/1597822331384057856)
+
+纽约集会声援大陆。<br><br>公民力量: 纽约！纽约！集会规模越来越大，上千人水泄不通，加油！！<br><br><video src="https://video.twimg.com/ext_tw_video/1597797058106253312/pu/vid/848x480/UqEgiPTiIarr0Jdn.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1597797058106253312/pu/img/cy3GKj_hewCKzjyW.jpg"></video>
+
+### 49: [2022-11-30 13:26:04+08:00 推文](https://twitter.com/realcaixia/status/1597824261271740416)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FiycsaSXoAE4s3S?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FiycsaSXgAEx_3X?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
