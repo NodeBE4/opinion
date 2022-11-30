@@ -73,3 +73,7 @@ You must have been using a *very* old version then; all libretti and scores sinc
 
 Unfortunately, it appears to only exist in allusion and is never described at great length, at least in terms of the versions pitched to Sullivan. However, Gilbert did ultimately manage to produce a version of his lozenge plot in conjunction with composer Alfred Cellier, producing [*The Mountebanks*](https://gsarchive.net/gilbert/plays/mountebanks/mountebanks_home.html), a show in which a magic potion enables people to transform into the people they pretend to be.
 
+----- __955.8__ -----2022-12-01 07:08:46+08:00:
+
+He didn't!
+

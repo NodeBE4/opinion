@@ -263,3 +263,11 @@ Re @JianglinLi @Lucs24659702 那场共情会议我也见到了，一堆卡伦泪
 
 Re @timothyshlong 中国老话不错，活到老，学到老。
 
+### 63: [2022-12-01 05:53:40+08:00 推文](https://twitter.com/HeQinglian/status/1598072798634971136)
+
+Re @mingshi_chen 何谓利用权力强抢恶要，这真是一个教科书级经典案例。
+
+### 64: [2022-12-01 05:56:15+08:00 推文](https://twitter.com/HeQinglian/status/1598073448840192002)
+
+Re @timothyshlong 谢谢良言。<br>我们一起努力吧，希望大家都有属天的平安。
+
