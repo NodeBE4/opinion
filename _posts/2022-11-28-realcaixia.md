@@ -93,7 +93,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fip1xxuUAAEkjNd?format=jpg
 
 ### 20: [2022-11-28 21:37:17+08:00 推文](https://twitter.com/realcaixia/status/1597223103540604928)
 
-这就是所谓“人民至上”的真实显示：以人民为敌！ <a href="https://twitter.com/cnnnd022/status/1597031992994193409" target="_blank" rel="noopener noreferrer">https://twitter.com/cnnnd022/status/1597031992994193409</a>
+这就是所谓“人民至上”的真实显示：以人民为敌！<br><br>CNMD NEWS ²²: #行为艺术<br>昨晚，上海以东出大事了！警车冲撞示威人群。<br><br><video src="https://video.twimg.com/ext_tw_video/1597031950308749314/pu/vid/720x1082/9Kk232ZOTNJjv67o.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1597031950308749314/pu/img/L8NBrsHrb3Fa2Dqd.jpg"></video>
 
 ### 21: [2022-11-28 21:38:59+08:00 推文](https://twitter.com/realcaixia/status/1597223530982408192)
 
@@ -178,4 +178,12 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fiu2Jw8VEAEx6r9?format=jpg
 ### 41: [2022-11-30 04:37:01+08:00 推文](https://twitter.com/realcaixia/status/1597691120854646784)
 
 特别推荐：⬇️议报发布【轶民 | 从1958年看2022年】<br>1958年与2022年相隔64年，内在的某种逻辑却似乎暗合或相似。若果真如此，回想到1959—1961的三年大饥荒，3700多万人命，不寒而栗。轶民作者可是“吹哨人”？不得而知。<br>清零若依旧顽固继续，2023年后将是何情景？不寒而栗！ <a href="https://yibaochina.com/?p=248556" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248556</a>
+
+### 42: [2022-11-30 06:11:46+08:00 推文](https://twitter.com/realcaixia/status/1597714964550078465)
+
+赞同推主。习近平上台推行了十年高压恐怖统治，现在更借防疫为名搞大数据监控，各种“码”成监视每个人的电子镣铐。我原以为用“码”无间隙盯人，人们将不敢表达抗争。但恰恰是在恐怖监视最严酷的新疆乌市，人们最先挺身而出反抗暴政！愤怒的人们战胜恐惧表达愤怒！前行者具有强大感召力，后来人必然跟进。<br><br>中日政经评论（新）: 有人说白纸革命注定要失败，但洒家认为它已经成功了。它的意义就在于对异议的表达与对民众的启蒙。从来没有过一次运动就能推翻一个政府的，特别是一个有200万军队和9000万党员的专制政党。但是能够对强权表达出明确的态度，启发更多的民智，激励更多的民心，就足够了。白纸革命，才刚刚开始<br><br><img style="" src="https://pbs.twimg.com/media/FitBhWSaMAAUlbw?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 43: [2022-11-30 06:28:32+08:00 推文](https://twitter.com/realcaixia/status/1597719183353335808)
+
+海外学子与国内学子心心相连。<br><br>Nini艾番妮🇺🇸🇭🇰🇺🇦Margana🎗️✋👍💛💙: @realcaixia 蔡霞老师，您好这是昨天晚上加州大学伯克利分校的视频，还有大量视频待剪辑，明确喊出罢免国贼习近平。<br>
 

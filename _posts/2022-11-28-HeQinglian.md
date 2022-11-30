@@ -159,31 +159,47 @@ Re @princeton_walk 这一点学一下拜登，F**K Biden都成流行词了，人
 
 反封控："中国模式"遭遇大考<br>反封控集会发生之时，距离WEF创始人、大重置的主要推手克劳德·施瓦布盛赞中国模式值得许多国家学习不到一周。“中国模式”三个要点：政府管控经济与资源；对民众实施严苛的社会管制；人民没有任何政治权利。<br>反封控表明，不少中国人痛恨中国模式。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11292022130244.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11292022130244.html</a>
 
-### 37: [2022-11-30 05:32:26+08:00 推文](https://twitter.com/HeQinglian/status/1597705064986349568)
+### 37: [2022-11-30 05:16:30+08:00 推文](https://twitter.com/VictoriaTC/status/1597701055592423426)
+
+RT Victoria🌼<br>分析宾州特拉华县收割选票的长推。<br><br>结论是：共和党人要向民主党人学习，把选民登记和合法收割邮寄选票结合起来。<br><br>#选举舞弊 #选票收割<br><br>Athan Koutsiouroumbas: When it comes to ballot harvesting, Pennsylvania’s Delaware County is not only the undisputed leader in Pennsylvania but possibly the nation.  Let me explain. 🧵(1/32)<br><br><img style="" src="https://pbs.twimg.com/media/FisZD6pX0AEnAtq?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 38: [2022-11-30 05:32:26+08:00 推文](https://twitter.com/HeQinglian/status/1597705064986349568)
 
 Re @YouKeping 中国的健康码是动态管控，实在比施瓦布们的疫苗证还要恶坏N倍。疫苗证证明打过针就行，这健康码简直是身边装了个跟踪器——施瓦布们羡慕得很，只是没能在西方国家推行。
 
-### 38: [2022-11-30 05:38:06+08:00 推文](https://twitter.com/HeQinglian/status/1597706494564528129)
+### 39: [2022-11-30 05:38:06+08:00 推文](https://twitter.com/HeQinglian/status/1597706494564528129)
 
 Re @waixijiu 这鱼能吃么？
 
-### 39: [2022-11-30 05:45:46+08:00 推文](https://twitter.com/HeQinglian/status/1597708423982120961)
+### 40: [2022-11-30 05:45:46+08:00 推文](https://twitter.com/HeQinglian/status/1597708423982120961)
 
 Re @princeton_walk 其实，早在1990年代，郑州二七广场一批老毛粉聚集，在那里声讨改革开放并痛骂“邓矮子”，最后有个乌有之乡也汇集了一批骂邓拥毛的各界人士，那时的中国就已回不到毛时代那状态了。<br>习最好习惯这种状态，只要不是痞子式的侮辱，伤及妻女，他应该要容忍。
 
-### 40: [2022-11-30 06:18:59+08:00 推文](https://twitter.com/HeQinglian/status/1597716782139076608)
+### 41: [2022-11-30 06:18:59+08:00 推文](https://twitter.com/HeQinglian/status/1597716782139076608)
 
 这位苏纳克说话不知所云。英中关系什么时候是“黄金时代”？就算有，那也是脱欧之前的事情，根本轮不到他来结束。<br><br>美国之音中文网: 英国首相苏纳克：英中关系“黄金时代”已结束<br> <a href="http://dlvr.it/SdXCkX" target="_blank" rel="noopener noreferrer">http://dlvr.it/SdXCkX</a>
 
-### 41: [2022-11-30 06:23:16+08:00 推文](https://twitter.com/HeQinglian/status/1597717859438063617)
+### 42: [2022-11-30 06:23:16+08:00 推文](https://twitter.com/HeQinglian/status/1597717859438063617)
 
 Re @VictoriaTC 这些西方人要么根本不知什么是“中国模式”，要么就是施瓦布那类统治欲极强的人，知道中国模式的特点，恨不得自己也有中国政府那种超强的权力。
 
-### 42: [2022-11-30 07:05:28+08:00 推文](https://twitter.com/HeQinglian/status/1597728480179159043)
+### 43: [2022-11-30 07:05:28+08:00 推文](https://twitter.com/HeQinglian/status/1597728480179159043)
 
 Re @VictoriaTC 我去他的个人网站 <br>从他关心的题材来看，这是一位反资本主义的左派记者，反战关心战争之地的受害者。<br>走遍世界，但中国是其盲点。首页上没见对中国的报道<br>可以这样看“走遍世界”：如果他在一地的时间长也许了解多点，如果那地儿呆的时间不长，可能就少些。 <a href="https://johnpilger.com/" target="_blank" rel="noopener noreferrer">https://johnpilger.com/</a>
 
-### 43: [2022-11-30 07:08:40+08:00 推文](https://twitter.com/HeQinglian/status/1597729285208682496)
+### 44: [2022-11-30 07:08:40+08:00 推文](https://twitter.com/HeQinglian/status/1597729285208682496)
 
 Re @ElaineYuMuMu 她的父母当时知不知情？<br>如果不知情，那是她隐瞒了情况，将心理辅导员看成比父母更值得信任的人。<br>这个年龄，是心理反叛期。
+
+### 45: [2022-11-30 08:54:01+08:00 推文](https://twitter.com/HeQinglian/status/1597755798700322816)
+
+今天下午，普林斯顿大学中国留学生响应了“白纸抗议”，百来个人集会，有当地华人居民与本镇居民。以悼念乌鲁木齐火灾死难者为主，点蜡烛，拿白纸的不多，没喊政治口号，自由发言。<br>所有发言者都提到两个词：勇气、后果。没共特在场捣乱。
+
+### 46: [2022-11-30 09:41:21+08:00 推文](https://twitter.com/HeQinglian/status/1597767709076246528)
+
+Re @VictoriaTC @ElaineYuMuMu 这女孩唯一能为自己开脱的是：她当时未成年，没有自决能力。<br>我相信她当时是用尽一切方法逼迫父母就范。
+
+### 47: [2022-11-30 09:58:31+08:00 推文](https://twitter.com/HeQinglian/status/1597772029687922688)
+
+Re @franktianxie 本来这季节，用蓝蟹黄做蟹黄豆腐正合适，拆六七只就够了。但很奇怪，现在还是软的，黄很少。拿在手里轻飘飘的，不费那劲了。
 

@@ -59,9 +59,15 @@ It's a classic joke among linguists, orthographers and the like that 'ghoti' is 
 
 Mark Okrand, creator of Klingon, thus decided 'ghotI'' would be Klingon for 'fish'.
 
-### 943: [What did the Byzantines call China?](https://old.reddit.com/r/AskHistorians/comments/z3sr4t/what_did_the_byzantines_call_china/), submitted on 2022-11-25 03:40:04+08:00.
+### 943: [Scientists recently authenticated several 3rd century Roman coins showing an otherwise-unattested emperor Sponsian. If he did in fact exist, what was his likely fate?](https://old.reddit.com/r/AskHistorians/comments/z3723i/scientists_recently_authenticated_several_3rd/), submitted on 2022-11-24 09:49:15+08:00.
 
------ __943.1__ -----2022-11-25 03:41:13+08:00:
+----- __943.1__ -----2022-11-30 08:31:42+08:00:
+
+Thanks for the tag! I'd like to throw in the additional detail that while genitives are not standard for Latin inscriptions on Roman coins, they *are* standard for Greek inscriptions on Hellenistic coins. Alexander-style tetradrachms for instance will have the issuing king's name in genitive: [Alexandrou](https://www.baldwin.co.uk/wp-content/uploads/2020/02/C201001272-1-20200207130607.jpg), [Antiochou](https://upload.wikimedia.org/wikipedia/commons/9/92/AntiochusIVEpiphanes.jpg), et cetera. This convention was also carried over into some Roman coins with Greek legends, although even by the third century the nominative was standard: compare [Tiberiou (genitive)](https://www.wildwinds.com/coins/ric/tiberius/RPC_4005.jpg) with [Ceoueros (nominative)](https://www.wildwinds.com/coins/ric/septimius_severus/Syd_389_var.jpg) This, in my view at least, lends credence to the 'clueless forger' explanation, although it doesn't necessarily say whether this was an 18th century Hellenist doing a bad job of faking Latin, or a 3rd century forger misusing the older Greek conventions.
+
+### 944: [What did the Byzantines call China?](https://old.reddit.com/r/AskHistorians/comments/z3sr4t/what_did_the_byzantines_call_china/), submitted on 2022-11-25 03:40:04+08:00.
+
+----- __944.1__ -----2022-11-25 03:41:13+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -69,9 +75,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 944: [Nendroids of Noel and Flare are now open for preorders!](https://old.reddit.com/r/Hololive/comments/z4268o/nendroids_of_noel_and_flare_are_now_open_for/), submitted on 2022-11-25 11:03:58+08:00.
+### 945: [Nendroids of Noel and Flare are now open for preorders!](https://old.reddit.com/r/Hololive/comments/z4268o/nendroids_of_noel_and_flare_are_now_open_for/), submitted on 2022-11-25 11:03:58+08:00.
 
------ __944.1__ -----2022-11-25 18:06:34+08:00:
+----- __945.1__ -----2022-11-25 18:06:34+08:00:
 
 *looks at last image*
 
@@ -79,25 +85,25 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 What lewdness!
 
-### 945: [Motoaki Tanigo then vs. YAGOO now.](https://old.reddit.com/r/Hololive/comments/z49ozy/motoaki_tanigo_then_vs_yagoo_now/), submitted on 2022-11-25 18:02:57+08:00.
+### 946: [Motoaki Tanigo then vs. YAGOO now.](https://old.reddit.com/r/Hololive/comments/z49ozy/motoaki_tanigo_then_vs_yagoo_now/), submitted on 2022-11-25 18:02:57+08:00.
 
------ __945.1__ -----2022-11-26 06:21:05+08:00:
+----- __946.1__ -----2022-11-26 06:21:05+08:00:
 
 She even has two Flare dakimakuras.
 
------ __945.2__ -----2022-11-26 08:39:51+08:00:
+----- __946.2__ -----2022-11-26 08:39:51+08:00:
 
 True.
 
-### 946: [Friday Free-for-All | November 25, 2022](https://old.reddit.com/r/AskHistorians/comments/z4e2c3/friday_freeforall_november_25_2022/), submitted on 2022-11-25 22:00:10+08:00.
+### 947: [Friday Free-for-All | November 25, 2022](https://old.reddit.com/r/AskHistorians/comments/z4e2c3/friday_freeforall_november_25_2022/), submitted on 2022-11-25 22:00:10+08:00.
 
------ __946.1__ -----2022-11-26 02:22:07+08:00:
+----- __947.1__ -----2022-11-26 02:22:07+08:00:
 
 This is a niche one, but it's the idea that the Treaty of Tientsin (Tianjin) in 1858 legalised opium in China. Opium does not appear in the text of *any* of the four versions of the treaty. Moreover, the Treaty of Tientsin was, rather infamously, not ratified by the Xianfeng Emperor, leading to a resumption of hostilities in 1859-60 that concluded in the Convention of Peking, whose first stipulation was that the Qing court had to ratify the earlier treaty. And yet, opium trading was legal all throughout this latter stage of hostilities. If the Qing refused to ratify the opium-legalising treaty, why was opium legal? Instead, it seems that opium was pretty quietly legalised domestically, quite probably to allow it to be taxed to raise funds for fighting the Taiping. There's nothing to indicate it was ever forcibly legalised by treaty.
 
-### 947: [Why is Han Chinese considered a single ethnic group despite having multiple languages and customs across its population?](https://old.reddit.com/r/AskHistorians/comments/z4himu/why_is_han_chinese_considered_a_single_ethnic/), submitted on 2022-11-26 00:28:18+08:00.
+### 948: [Why is Han Chinese considered a single ethnic group despite having multiple languages and customs across its population?](https://old.reddit.com/r/AskHistorians/comments/z4himu/why_is_han_chinese_considered_a_single_ethnic/), submitted on 2022-11-26 00:28:18+08:00.
 
------ __947.1__ -----2022-11-26 22:52:27+08:00:
+----- __948.1__ -----2022-11-26 22:52:27+08:00:
 
 There's any number of angles that may be taken here, and with the field of what we might term 'critical Han studies' being a relatively diverse one in terms of perspective, do please bear in mind that the one which I offer here is not the only one that exists. What I posit is that the expansiveness of Han identity is due to the following combination of factors:
 
@@ -123,31 +129,39 @@ Han identity, like any other comparable identity, is one that is essentially art
 * Pamela Crossley, Donald Sutton, and Helen Siu (eds.), *Empire at the Margins* (2006)
 * Thomas Mullaney, James Leibold, and Stéphane Gros (eds.), *Critical Han Studies* (2012)
 
------ __947.2__ -----2022-11-27 06:12:51+08:00:
+----- __948.2__ -----2022-11-27 06:12:51+08:00:
 
 In essence I'm just referring to ethnic and national identities as a whole. Britishness is artificial, and so too is Frenchness or Germanness, and I mean that in the sense that these were constructed by humans, often relatively recently, rather than being essential, inherent, or continuous.
 
------ __947.3__ -----2022-11-27 17:10:03+08:00:
+----- __948.3__ -----2022-11-27 17:10:03+08:00:
 
 I would not. As I lay out pretty overtly in pretty much all of the paragraphs, Han identity has been consistently malleable in response to the conditions created by political discontinuities, *especially* as a result of the period of political division during the Song-Liao-Jin era. If anything it is an attempt to *assert* rather than to affirm political unity.
 
------ __947.4__ -----2022-11-28 21:49:40+08:00:
+----- __948.4__ -----2022-11-28 21:49:40+08:00:
 
 Yes, that is my point: I *am* saying that all ethnic identities are artificial and constructed.
 
-### 948: [Zeta denying reality once again](https://old.reddit.com/r/Hololive/comments/z56lyq/zeta_denying_reality_once_again/), submitted on 2022-11-26 20:39:38+08:00.
+### 949: [Zeta denying reality once again](https://old.reddit.com/r/Hololive/comments/z56lyq/zeta_denying_reality_once_again/), submitted on 2022-11-26 20:39:38+08:00.
 
------ __948.1__ -----2022-11-27 03:50:56+08:00:
+----- __949.1__ -----2022-11-27 03:50:56+08:00:
 
 [RIP Okayu's hearing](https://www.reddit.com/r/Hololive/comments/jmn4fe/cat_ears/)
 
-### 949: [[Hobby Scuffles] Week of November 28, 2022](https://old.reddit.com/r/HobbyDrama/comments/z639kh/hobby_scuffles_week_of_november_28_2022/), submitted on 2022-11-27 23:00:17+08:00.
+### 950: [[Hobby Scuffles] Week of November 28, 2022](https://old.reddit.com/r/HobbyDrama/comments/z639kh/hobby_scuffles_week_of_november_28_2022/), submitted on 2022-11-27 23:00:17+08:00.
 
------ __949.1__ -----2022-11-29 03:07:21+08:00:
+----- __950.1__ -----2022-11-29 03:07:21+08:00:
 
 I'm close to finished on my second unit of British troops for my 1860s expeditionary force, but not close enough for photos, alas...
 
------ __949.2__ -----2022-11-30 05:03:00+08:00:
+----- __950.2__ -----2022-11-30 05:03:00+08:00:
 
 I presume you're in the US? It's interesting how US wargaming tends to cohere more around gaming store spaces as opposed to clubs, which are the norm here in the UK. It seems like the sort of thing where the setup is harder but there's a longer-term payoff in terms of stability.
+
+----- __950.3__ -----2022-11-30 08:34:00+08:00:
+
+Numismatics news! Some may have run across mainstream media reports that the authentication of a gold coin has definitely proved the existence of the 3rd century Roman pretender emperor, Sponsian[us]. Well, it's *probably* bullshit. Numismatists like [Marjano Pilekic](https://twitter.com/MPilekic/status/1595930248343949313) and [Johannes Wienand](https://twitter.com/WienandJohannes/status/1596528438143488001) have weighed in, and their conclusion is pretty damning: none of the existing evidence pointing to forgery has been debunked, and the new information (soil residue that suggests burial and wear patterns suggesting circulation) are entirely undefinitive. At most it is proved that the coin is old, but even if it is, that doesn't prove it wasn't some kind of fake created in the 3rd century.
+
+----- __950.4__ -----2022-11-30 09:11:00+08:00:
+
+So, two things, one in agreement and one in disagreement. The disagreement is that, as Erin Horakova's article [Kirk Drift](http://strangehorizons.com/non-fiction/columns/freshly-rememberd-kirk-drift/) gets into, Kirk's womanising is actually a fanonical invention that ascended into semi-canon status within the films, rather than being original to TOS. The agreement comes from bringing up Season 2, Episode 13, 'Obsession', an episode which was directly inspired by *MobyDick*, but casts *Kirk* in the role of Ahab, in relentless pursuit of a cloudlike entity that killed members of his old crew. Viewed in light of that episode, *Wrath of Khan* serves as inversion as well as deconstruction, putting Kirk in the position of the hunted.
 
