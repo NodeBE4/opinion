@@ -47,3 +47,17 @@ For a bit of extra trivia I couldn't fit into the writeup itself, the one semi-g
 
 For a bit of extra trivia I couldn't fit into the writeup itself, the one semi-genuine Japanese song in The Mikado is the one titled ['Mi-ya sa-ma'](https://www.youtube.com/watch?v=HAxVQMvFU3Y) used for the entry of the Mikado in Act II, a somewhat re-keyed version of a military tune titled 'Ton-yare Bushi', bettern known as ['Miyasan'](https://www.youtube.com/watch?v=a6CIdHLahq4), written during the Boshin War in 1868. The titular Miyasan (imperial prince) almost certainly referred to Komatsu Akihito, the ceremonial commander-in-chief of the imperial armies, who as the story goes may well have been in attendance during The Mikado's opening run.
 
+----- __955.2__ -----2022-11-30 23:16:48+08:00:
+
+I did almost engage a bit with these two shows, but ran out of space. The short answer is that it's complicated. On the one hand, *Turandot* and *Madame Butterfly* derive a certain degree of greater artistic leeway by being grand opera rather than more down-to-earth comic opera, but on the other hand, *The Mikado*'s comic-satirical nature gives it a certain degree of leeway: problematic as the text is, it is arguably devoid of any outright malice.
+
+----- __955.3__ -----2022-11-30 23:18:23+08:00:
+
+You're right, that *is* an omission. I may go back and edit something in on that. At the same time it's an odd sort of nothingburger in the end: when US producers remarked on the offensiveness, the D'Oyly Carte company duly noted the issue and edited the libretto going forward.
+
+----- __955.4__ -----2022-11-30 23:27:21+08:00:
+
+> Takarazuka Revue
+
+Funny you should mention the Takarazuka Revue – I've seen it argued that the Revue is the last major vestige of the Asakusa Opera scene, the inspiration behind the 1992 production that I mention in the writeup!
+

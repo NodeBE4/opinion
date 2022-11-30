@@ -211,3 +211,7 @@ Re @VictoriaTC @ElaineYuMuMu 让我想起左派金句：一切都是社会的错
 
 Re @ElaineYuMuMu @VictoriaTC 主是是拜登政府出台法律：青少年可以自主变性。这是非常邪恶的法律。<br>父母如果说服不了孩子，无论如何得告诉孩子：想变性，也得等18岁之后再考虑。这些孩子也许过几年想法就变了。
 
+### 50: [2022-11-30 23:10:16+08:00 推文](https://twitter.com/HeQinglian/status/1597971278992146432)
+
+Re @sixianghongliu @YouKeping 手机就是跟踪器。
+
