@@ -159,9 +159,13 @@ I presume you're in the US? It's interesting how US wargaming tends to cohere mo
 
 ----- __950.3__ -----2022-11-30 08:34:00+08:00:
 
-Numismatics news! Some may have run across mainstream media reports that the authentication of a gold coin has definitely proved the existence of the 3rd century Roman pretender emperor, Sponsian[us]. Well, it's *probably* bullshit. Numismatists like [Marjano Pilekic](https://twitter.com/MPilekic/status/1595930248343949313) and [Johannes Wienand](https://twitter.com/WienandJohannes/status/1596528438143488001) have weighed in, and their conclusion is pretty damning: none of the existing evidence pointing to forgery has been debunked, and the new information (soil residue that suggests burial and wear patterns suggesting circulation) are entirely undefinitive. At most it is proved that the coin is old, but even if it is, that doesn't prove it wasn't some kind of fake created in the 3rd century.
+Numismatics news! Some may have run across mainstream media reports that the authentication of a gold coin has definitely proved the existence of the 3rd century Roman pretender emperor, Sponsian[us]. Well, it's *probably* bullshit. Numismatists like [Marjano Pilekic](https://twitter.com/MPilekic/status/1595930248343949313) and [Johannes Wienand](https://twitter.com/WienandJohannes/status/1596528438143488001) have weighed in, and their conclusion is pretty damning: none of the existing evidence pointing to forgery has been debunked, and the new information (soil residue that suggests burial and wear patterns suggesting circulation) are entirely undefinitive and still explainable by contamination and by deliberately-induced wear. At most it is proved (if it even is) that the coin is old, but even if it is, that doesn't prove it wasn't some kind of fake created in the 3rd century.
 
 ----- __950.4__ -----2022-11-30 09:11:00+08:00:
 
 So, two things, one in agreement and one in disagreement. The disagreement is that, as Erin Horakova's article [Kirk Drift](http://strangehorizons.com/non-fiction/columns/freshly-rememberd-kirk-drift/) gets into, Kirk's womanising is actually a fanonical invention that ascended into semi-canon status within the films, rather than being original to TOS. The agreement comes from bringing up Season 2, Episode 13, 'Obsession', an episode which was directly inspired by *MobyDick*, but casts *Kirk* in the role of Ahab, in relentless pursuit of a cloudlike entity that killed members of his old crew. Viewed in light of that episode, *Wrath of Khan* serves as inversion as well as deconstruction, putting Kirk in the position of the hunted.
+
+----- __950.5__ -----2022-11-30 18:08:38+08:00:
+
+Sponsian was 3rd century Dacia's Goncharov.
 

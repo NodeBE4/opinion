@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-11-29
+date: 2022-11-30
 from: https://old.reddit.com/r/Hololive/comments/z68emw/is_it_just_me_or_does_irys_20_look_like_irys_10s/
 layout: post
 tags:
@@ -34,4 +34,16 @@ Alternatively, if you are not a student and are not doing homework, we have remo
 ----- __953.1__ -----2022-11-30 04:36:58+08:00:
 
 If so, Xenophon and Aristophanes were in on the joke as well, which is unlikely at best. The Socrates of Plato is difficult to tease apart from Socrates the historical person, but that's different from saying Socrates didn't exist at all.
+
+### 954: [[Opera] 'So adventurous a tale, Which may rank with most romances' – The Mikado, comic opera's biggest and most controversial hit](https://old.reddit.com/r/HobbyDrama/comments/z8nzhe/opera_so_adventurous_a_tale_which_may_rank_with/), submitted on 2022-11-30 18:22:07+08:00.
+
+----- __954.1__ -----2022-11-30 18:29:15+08:00:
+
+For a bit of extra trivia I couldn't fit into the writeup itself, the one semi-genuine Japanese song in *The Mikado* is the one titled 'Mi-ya sa-ma', a somewhat re-keyed version of a military tune titled 'Ton-yare Bushi', also known as 'Miyasan', written during the Boshin War in 1868. The titular *Miyasan* (imperial prince) almost certainly referred to Komatsu Akihito, the ceremonial commander-in-chief of the imperial armies, who, as the story goes may well have been in attendance during *The Mikado*'s opening run.
+
+### 955: [[Opera] 'So adventurous a tale, Which may rank with most romances' – Gilbert and Sullivan's The Mikado, comic opera's biggest and most controversial hit](https://old.reddit.com/r/HobbyDrama/comments/z8o4bz/opera_so_adventurous_a_tale_which_may_rank_with/), submitted on 2022-11-30 18:30:14+08:00.
+
+----- __955.1__ -----2022-11-30 18:32:56+08:00:
+
+For a bit of extra trivia I couldn't fit into the writeup itself, the one semi-genuine Japanese song in The Mikado is the one titled ['Mi-ya sa-ma'](https://www.youtube.com/watch?v=HAxVQMvFU3Y) used for the entry of the Mikado in Act II, a somewhat re-keyed version of a military tune titled 'Ton-yare Bushi', bettern known as ['Miyasan'](https://www.youtube.com/watch?v=a6CIdHLahq4), written during the Boshin War in 1868. The titular Miyasan (imperial prince) almost certainly referred to Komatsu Akihito, the ceremonial commander-in-chief of the imperial armies, who, as the story goes may well have been in attendance during The Mikado's opening run.
 
