@@ -49,7 +49,7 @@ For a bit of extra trivia I couldn't fit into the writeup itself, the one semi-g
 
 ----- __955.2__ -----2022-11-30 23:16:48+08:00:
 
-I did almost engage a bit with these two shows, but ran out of space. The short answer is that it's complicated. On the one hand, *Turandot* and *Madame Butterfly* derive a certain degree of greater artistic leeway by being grand opera rather than more down-to-earth comic opera, but on the other hand, *The Mikado*'s comic-satirical nature gives it a certain degree of leeway: problematic as the text is, it is arguably devoid of any outright malice.
+I did almost engage a bit with these two shows, but ran out of space. The short answer is that it's complicated. On the one hand, *Turandot* and *Madame Butterfly* derive a certain degree of greater artistic shielding by being grand opera rather than more down-to-earth comic opera, but on the other hand, *The Mikado*'s comic-satirical nature gives it a certain degree of leeway: problematic as the text is, it is arguably devoid of any outright malice.
 
 ----- __955.3__ -----2022-11-30 23:18:23+08:00:
 
@@ -68,4 +68,8 @@ Oh drat! Thanks for the correction, I'll make it immediately.
 ----- __955.6__ -----2022-12-01 02:59:19+08:00:
 
 You must have been using a *very* old version then; all libretti and scores since about 1950 have replaced the words.
+
+----- __955.7__ -----2022-12-01 06:25:11+08:00:
+
+Unfortunately, it appears to only exist in allusion and is never described at great length, at least in terms of the versions pitched to Sullivan. However, Gilbert did ultimately manage to produce a version of his lozenge plot in conjunction with composer Alfred Cellier, producing [*The Mountebanks*](https://gsarchive.net/gilbert/plays/mountebanks/mountebanks_home.html), a show in which a magic potion enables people to transform into the people they pretend to be.
 
