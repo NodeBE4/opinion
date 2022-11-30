@@ -37,9 +37,9 @@ Re 3/<br>- Demands of people. Slogans range from “end COVID lockdown” to “
 
 Re 4/<br>some of them (eg. London) had +1000 turnouts, most participants are Chinese students. We’ve never seen so much mobilization of them, who are often seen as either “apolitical” or “loyal”. <br>- Size of protest. With tighter control&amp; arrests made...
 
-### 6: [2022-11-28 18:52:49+08:00 推文](https://twitter.com/nathanlawkc/status/1597181715692544000)
+### 6: [2022-11-28 18:52:49+08:00 推文](https://twitter.com/nathanlawkc/status/1597181713192394752)
 
-Re 7/<br>- Technical support. People with expertise in internet security and safe communication should come in and share knowledge.<br>- Help overseas Chinese who want to protest. Any kind of help — design work, logistic, dealing with govt&amp;police etc… you can do something with your exp.
+Re 6/<br>What we can do as non-local protestors:<br>- Retweet &amp; spread info. It’s crucial to educate more ppl about what’s happening in China.<br>- Solidarity. Protestors are often in fear and feel alone. They cannot publicly talk about it. Show your solidarity with them to keep them warm.
 
 ### 7: [2022-11-28 18:52:50+08:00 推文](https://twitter.com/nathanlawkc/status/1597181718263308288)
 
