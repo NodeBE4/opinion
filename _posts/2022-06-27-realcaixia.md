@@ -25,7 +25,7 @@ title: 'Twitter @蔡霞: 2022-06-27~2022-07-03'
 
 ### 3: [2022-06-28 00:57:03+08:00 推文](https://twitter.com/realcaixia/status/1541465644427886594)
 
-中共對逝者如此恐懼，說明逝者在人們心中有多麼強大的感召力，反過來也說明中共是多麼的心虛膽顫，多麼的害怕。
+中共對逝者如此恐懼，說明逝者在人們心中有多麼強大的感召力，反過來也說明中共是多麼的心虛膽顫，多麼的害怕。<br><br>高瑜: 張思之律師送別式于明日八寶山舉行。因疫情只限制20人參加，僅張老親屬已經差不多了。張老弟子、當事人浦志強都在爭取之中。朋輩、晚輩及眾多仰慕者都不能最後送別，這是壬寅仲夏無以補救的遺憾。<br>推友給我發來1999年我與張老的合影，花也是張老送的。我曾用於我為張老80 大壽寫的文章《永遠的張思之》<br><br><img style="" src="https://pbs.twimg.com/media/FWOpWzdVsAEdddH?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWOqrYZUYAI6YBe?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2022-06-28 02:54:36+08:00 推文](https://twitter.com/realcaixia/status/1541495226841407489)
 
@@ -69,7 +69,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FWSJb9CXEAElwMm?format=jpg
 
 ### 14: [2022-06-29 11:41:22+08:00 推文](https://twitter.com/realcaixia/status/1541990179686289409)
 
-送老爷子远行，在老浦照片里看到几位极好的好朋友，他们去向老爷子作最后的告别。老爷子一生坎坷，一生坚守公平正义法治。历史将会记住他，我和我的朋友们会一生记住他。
+送老爷子远行，在老浦照片里看到几位极好的好朋友，他们去向老爷子作最后的告别。老爷子一生坎坷，一生坚守公平正义法治。历史将会记住他，我和我的朋友们会一生记住他。<br><br>浦志强: 老浦说点事：6月28日：八宝山送别张思之先生：限定20人，不许拍照，没致悼词，没读生平，我们送老爷子低调远行（附：《张思之先生生平》和《波尔基金...<br><br><img style="" src="https://pbs.twimg.com/media/FWYmuN0UAAAg3yT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWYmuOUUYAAWV-v?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWYmuO8UsAAVXv3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWYmuO8UEAA2UO-?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://youtu.be/pLCwc-i-Jms" target="_blank" rel="noopener noreferrer">https://youtu.be/pLCwc-i-Jms</a>
 
 ### 15: [2022-06-29 12:21:55+08:00 推文](https://twitter.com/realcaixia/status/1542000383782014978)
 
@@ -105,11 +105,11 @@ Re @Kk98721066 看明白了，警察开车从这走，检查核酸检测的工�
 
 ### 23: [2022-06-30 08:21:41+08:00 推文](https://twitter.com/realcaixia/status/1542302314706378754)
 
-看明白了，警察开车从这走，检查核酸检测的工作人员让出示核酸检测结果，发现警察7天没做核酸，要警察回去不能走，警察下车拿手铐要拷那哥检查人员，双方上演全武行。调解的人说，你是工作，我们也是工作。这出戏倒是不多见。难怪唐老鸭拍的这段小视频从大陆流到外面。<br><br>唐和尚: 20220629唐师曾：北京房山长阳镇（转发） <br>#北京核酸<br><br><video src="https://video.twimg.com/ext_tw_video/1542011217304223750/pu/vid/406x720/lKm8bTsVjK7NMwUn.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1542011217304223750/pu/img/yrtsdlUb29N3lVnH.jpg"></video> <a href="https://youtu.be/-bvR2S9uIY8" target="_blank" rel="noopener noreferrer">https://youtu.be/-bvR2S9uIY8</a>
+看明白了，警察开车从这走，检查核酸检测的工作人员让出示核酸检测结果，发现警察7天没做核酸，要警察回去不能走，警察下车拿手铐要拷那哥检查人员，双方上演全武行。调解的人说，你是工作，我们也是工作。这出戏倒是不多见。难怪唐老鸭拍的这段小视频从大陆流到外面。
 
 ### 24: [2022-06-30 08:39:03+08:00 推文](https://twitter.com/realcaixia/status/1542306687071174657)
 
-恒青先生说得对！<br><br>李恒青: 习近平今天在武汉强调，新冠肺炎疫情是一场大考。坚持动态清零是党中央确定的，宁可暂时影响一点经济发展，也不能让人民群众生命安全和身体健康受到伤害。如果算总账，我们的防疫措施是最经济的、效果最好的。<br>最经济、效果最好是你自己说了算吗？所有伤天害理的事都是在“一切为了人民”的幌子下干的。<br><br><img style="" src="https://pbs.twimg.com/media/FWbAos_XkAIHfHU?format=png&amp;name=orig" referrerpolicy="no-referrer">
+恒青先生说得对！
 
 ### 25: [2022-06-30 22:19:04+08:00 推文](https://twitter.com/realcaixia/status/1542513049046618113)
 
@@ -117,11 +117,11 @@ Re @Kk98721066 看明白了，警察开车从这走，检查核酸检测的工�
 
 ### 26: [2022-06-30 23:48:59+08:00 推文](https://twitter.com/realcaixia/status/1542535677866377216)
 
-杨先生这推文撕掉了习近平在港讲话的假面具，把习近平上台后的毁港本质曝光了。
+杨先生这推文撕掉了习近平在港讲话的假面具，把习近平上台后的毁港本质曝光了。<br><br>楊建利 Yang Jianli: 1/2<br>人们现在明白了，对香港和对内地一样，中共所谓的“两制”其实就是“邓制”和“习制”。<br>习近平去香港，就是参加“习制”香港的验收仪式。<br>“邓制”变成“习制”是回归时时人们未曾预料的。<br>
 
 ### 27: [2022-06-30 23:57:04+08:00 推文](https://twitter.com/realcaixia/status/1542537711881519105)
 
-看到这个推文所述老人的屈辱遭遇，简直令人无法平静平和。中共打手就是撒旦恶魔在中共一党极权统治制度下疯狂残害中国人！一党专政不灭，天理难容！
+看到这个推文所述老人的屈辱遭遇，简直令人无法平静平和。中共打手就是撒旦恶魔在中共一党极权统治制度下疯狂残害中国人！一党专政不灭，天理难容！<br><br>李承诺: 丹东93岁的大爷去开出门条。居委会说没病不开。大爷只好脱下长裤证明患了疝气。居委会报警说他耍流氓，警察就铐走老头。回来时脸上有伤，家属要看执法记录仪，警察说没有。老头一气之吊死了。<br>警察有必要把93岁路都走不动的老头铐走吗。<br>同一天，举国人民为国家摘掉星号欢呼，活像一群右派欢呼摘掉帽子<br><br><img style="" src="https://pbs.twimg.com/media/FWfaOvSagAAsNjI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 28: [2022-07-01 00:04:58+08:00 推文](https://twitter.com/realcaixia/status/1542539699667062788)
 
@@ -129,7 +129,7 @@ Re @Kk98721066 看明白了，警察开车从这走，检查核酸检测的工�
 
 ### 29: [2022-07-01 02:53:56+08:00 推文](https://twitter.com/realcaixia/status/1542582221881704448)
 
-非常赞同文章作者观点。<br><br>韩连潮: 美媒Politico发文，题为“美国不能就这样埋葬和遗忘香港”，值得一读。英美和其他西方民主国家有责任支持香港人维护其政治权利和公民权利。<br>U.S. can't just bury and forget Hong Kong<br><br><img style="" src="https://pbs.twimg.com/media/FWgF7BwX0AEkPs4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://politi.co/3AfE78x" target="_blank" rel="noopener noreferrer">https://politi.co/3AfE78x</a>
+非常赞同文章作者观点。
 
 ### 30: [2022-07-01 03:05:39+08:00 推文](https://twitter.com/realcaixia/status/1542585172381601794)
 
@@ -141,7 +141,7 @@ Re @Kk98721066 看明白了，警察开车从这走，检查核酸检测的工�
 
 ### 32: [2022-07-01 23:28:54+08:00 推文](https://twitter.com/realcaixia/status/1542893011419467776)
 
-1920年前后，整个中国社会的文明发育水平达不到建立现代政党的程度，只能产生政治色彩浓厚、顶着“政党”名称的江湖帮会组织。中共与国民党早期都不具备现代政党特质。但国民党艰难地进化反思，接受英美文明，改造成党；中共始终是底层流氓无产者品性为主导，以马克思列宁理论为包装，黑社会本色不改。<br><br>韩连潮: 【中共是流氓帮会】今天是中共建党101周年，这个镰刀斧头帮等级森严的组织形态、邪恶的共产理念、切口、帮规和暴力手段等都证明它是地道的流氓帮会。流氓帮会掌控流氓政权，流氓政权宣扬流氓文化，流氓文化加速社会黑恶化，而中国黑社会化必将祸害人类世界。结论是，中共不除，国无宁日！<br><br><img style="" src="https://pbs.twimg.com/media/FWk7ySPXEAQg9OW?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+1920年前后，整个中国社会的文明发育水平达不到建立现代政党的程度，只能产生政治色彩浓厚、顶着“政党”名称的江湖帮会组织。中共与国民党早期都不具备现代政党特质。但国民党艰难地进化反思，接受英美文明，改造成党；中共始终是底层流氓无产者品性为主导，以马克思列宁理论为包装，黑社会本色不改。
 
 ### 33: [2022-07-01 23:49:24+08:00 推文](https://twitter.com/realcaixia/status/1542898170530758656)
 
@@ -161,7 +161,7 @@ Re 中共党内奴性文化、阴谋文化是中共党性修养的本质内涵�
 
 ### 37: [2022-07-02 07:19:20+08:00 推文](https://twitter.com/realcaixia/status/1543011400871821312)
 
-香港上了一个以警察为业的特首，这和习越来越依赖于警察治国的总方针很吻合。作为警察，李家超几十年来在处置港人保护自由香港的抗争中忠实执行了北京意志，其表现令北京满意。否则，香港作为世界金融中心之一、世界自由贸易港、亚洲四小龙，怎么也轮不到李当特首。现在管香港，维稳第一，李家超正合适
+香港上了一个以警察为业的特首，这和习越来越依赖于警察治国的总方针很吻合。作为警察，李家超几十年来在处置港人保护自由香港的抗争中忠实执行了北京意志，其表现令北京满意。否则，香港作为世界金融中心之一、世界自由贸易港、亚洲四小龙，怎么也轮不到李当特首。现在管香港，维稳第一，李家超正合适<br><br>自由亚洲电台: 【港新任特首李加超就职演说表情十足】<br>【惟台下观众多“闭目养神”】<br>于7月1日就任的香港特首李家超表就职演说。虽然李家超一改以往平实发言的风格，不时刻意调高嗓子，双眉、双眼与及口部动作亦明显比平时增多，但也未能得到台下观众注目。<br>13分钟演说里，台下有不少观众都呼呼入睡。<br><br>视频截图<br><br><img style="" src="https://pbs.twimg.com/media/FWkYJhYWQAE7UvT?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 38: [2022-07-02 07:25:34+08:00 推文](https://twitter.com/realcaixia/status/1543012970762043393)
 
