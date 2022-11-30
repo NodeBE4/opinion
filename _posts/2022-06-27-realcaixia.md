@@ -49,7 +49,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FWSJb9CXEAElwMm?format=jpg
 
 ### 9: [2022-06-28 09:44:03+08:00 推文](https://twitter.com/realcaixia/status/1541598267372339200)
 
-特别推荐:#议报独家首发蔡慎坤先生文章<br>这篇文章以大量详实的数据，分析了中国经济在后疫情时代面临的险恶情势，文章分析了生产、消费、房地产、地方政府债务、地方财政收入锐减、公务员大幅度减少绩效工资甚至拖欠公务员工资、失业人数增长、大企业减员等各个方面的情况。<br><br>《议报》: 蔡慎坤：后疫情时代中国经济何去何从？<br> <a href="https://yibaochina.com/?p=247033" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247033</a>
+特别推荐:#议报独家首发蔡慎坤先生文章<br>这篇文章以大量详实的数据，分析了中国经济在后疫情时代面临的险恶情势，文章分析了生产、消费、房地产、地方政府债务、地方财政收入锐减、公务员大幅度减少绩效工资甚至拖欠公务员工资、失业人数增长、大企业减员等各个方面的情况。
 
 ### 10: [2022-06-28 21:23:21+08:00 推文](https://twitter.com/realcaixia/status/1541774252550098946)
 
@@ -57,7 +57,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FWSJb9CXEAElwMm?format=jpg
 
 ### 11: [2022-06-28 23:39:00+08:00 推文](https://twitter.com/realcaixia/status/1541808389797322753)
 
-张思之大律师告别仪式。大律师是我特别尊敬的前辈，看到这场面很伤感。第一张图片里有我的闺蜜和我很尊敬的老浦。
+张思之大律师告别仪式。大律师是我特别尊敬的前辈，看到这场面很伤感。第一张图片里有我的闺蜜和我很尊敬的老浦。<br><br>浦志强: 我做不到啊，惭愧啊！连家属在内，只让二十人进兰厅，再不能多了；厅里不许停留，不让拍照——经交涉，始许一人专司拍摄；殡仪馆服务人员，着淡蓝色罩袍，站姿极其飒爽。<br><br><img style="" src="https://pbs.twimg.com/media/FWT5wURUEAENUT_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWT5wUSUsAAnjj2?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWT5wUTUYAAQD9t?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWT5wUQUsAAUfEs?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/zt9i7ye015ljzg0/status/1541592241692561410" target="_blank" rel="noopener noreferrer">https://twitter.com/zt9i7ye015ljzg0/status/1541592241692561410</a>
 
 ### 12: [2022-06-29 03:20:19+08:00 推文](https://twitter.com/realcaixia/status/1541864087583440896)
 
@@ -117,7 +117,7 @@ Re @Kk98721066 看明白了，警察开车从这走，检查核酸检测的工�
 
 ### 26: [2022-06-30 23:48:59+08:00 推文](https://twitter.com/realcaixia/status/1542535677866377216)
 
-杨先生这推文撕掉了习近平在港讲话的假面具，把习近平上台后的毁港本质曝光了。
+杨先生这推文撕掉了习近平在港讲话的假面具，把习近平上台后的毁港本质曝光了。<br><br>楊建利 Yang Jianli: 1/2<br>人们现在明白了，对香港和对内地一样，中共所谓的“两制”其实就是“邓制”和“习制”。<br>习近平去香港，就是参加“习制”香港的验收仪式。<br>“邓制”变成“习制”是回归时时人们未曾预料的。<br>
 
 ### 27: [2022-06-30 23:57:04+08:00 推文](https://twitter.com/realcaixia/status/1542537711881519105)
 
@@ -125,11 +125,11 @@ Re @Kk98721066 看明白了，警察开车从这走，检查核酸检测的工�
 
 ### 28: [2022-07-01 00:04:58+08:00 推文](https://twitter.com/realcaixia/status/1542539699667062788)
 
-🥀🥀🥀🙏🙏🙏大陆深度调查记者对揭露大陆的黑暗面，反映民众呼声写过很多优秀报道，产生过巨大影响。习近平上台后遭严厉打压说真话的深度调查记者，很多媒体内部撤销了深度调查部门。只有几家媒体坚持继续做深度调查。又一位深度调查优秀记者离去，令人感伤。哀悼杨海鹏先生。
+🥀🥀🥀🙏🙏🙏大陆深度调查记者对揭露大陆的黑暗面，反映民众呼声写过很多优秀报道，产生过巨大影响。习近平上台后遭严厉打压说真话的深度调查记者，很多媒体内部撤销了深度调查部门。只有几家媒体坚持继续做深度调查。又一位深度调查优秀记者离去，令人感伤。哀悼杨海鹏先生。<br><br>高伐林: 中国著名调查记者杨海鹏于6月29日突发心梗逝世，年仅55岁。<br>杨当过教师，在法院做过4年研究员，后辞职进入媒体业，曾任《南方周末》法治调查记者，参与创办《新周报》，后为《财经》杂志华东新闻中心主任。杨撰写了很多内幕稿件，引起社会广泛关注。<br>英年早逝，令人痛惜！祈愿天堂没有心梗，只有心安。<br><br><img style="" src="https://pbs.twimg.com/media/FWgGDhyXwAI3Kxo?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 29: [2022-07-01 02:53:56+08:00 推文](https://twitter.com/realcaixia/status/1542582221881704448)
 
-非常赞同文章作者观点。<br><br>韩连潮: 美媒Politico发文，题为“美国不能就这样埋葬和遗忘香港”，值得一读。英美和其他西方民主国家有责任支持香港人维护其政治权利和公民权利。<br>U.S. can't just bury and forget Hong Kong<br><br><img style="" src="https://pbs.twimg.com/media/FWgF7BwX0AEkPs4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://politi.co/3AfE78x" target="_blank" rel="noopener noreferrer">https://politi.co/3AfE78x</a>
+非常赞同文章作者观点。
 
 ### 30: [2022-07-01 03:05:39+08:00 推文](https://twitter.com/realcaixia/status/1542585172381601794)
 
@@ -141,7 +141,7 @@ Re @Kk98721066 看明白了，警察开车从这走，检查核酸检测的工�
 
 ### 32: [2022-07-01 23:28:54+08:00 推文](https://twitter.com/realcaixia/status/1542893011419467776)
 
-1920年前后，整个中国社会的文明发育水平达不到建立现代政党的程度，只能产生政治色彩浓厚、顶着“政党”名称的江湖帮会组织。中共与国民党早期都不具备现代政党特质。但国民党艰难地进化反思，接受英美文明，改造成党；中共始终是底层流氓无产者品性为主导，以马克思列宁理论为包装，黑社会本色不改。
+1920年前后，整个中国社会的文明发育水平达不到建立现代政党的程度，只能产生政治色彩浓厚、顶着“政党”名称的江湖帮会组织。中共与国民党早期都不具备现代政党特质。但国民党艰难地进化反思，接受英美文明，改造成党；中共始终是底层流氓无产者品性为主导，以马克思列宁理论为包装，黑社会本色不改。<br><br>韩连潮: 【中共是流氓帮会】今天是中共建党101周年，这个镰刀斧头帮等级森严的组织形态、邪恶的共产理念、切口、帮规和暴力手段等都证明它是地道的流氓帮会。流氓帮会掌控流氓政权，流氓政权宣扬流氓文化，流氓文化加速社会黑恶化，而中国黑社会化必将祸害人类世界。结论是，中共不除，国无宁日！<br><br><img style="" src="https://pbs.twimg.com/media/FWk7ySPXEAQg9OW?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 33: [2022-07-01 23:49:24+08:00 推文](https://twitter.com/realcaixia/status/1542898170530758656)
 
@@ -165,11 +165,11 @@ Re 中共党内奴性文化、阴谋文化是中共党性修养的本质内涵�
 
 ### 38: [2022-07-02 07:25:34+08:00 推文](https://twitter.com/realcaixia/status/1543012970762043393)
 
-习近平在李家超就职演说时踏实睡觉了，就像文革后期曾经传说的毛泽东的六个字那样：“你办事我放心”。有枪在，有港版国安法在，还有李家超在。
+习近平在李家超就职演说时踏实睡觉了，就像文革后期曾经传说的毛泽东的六个字那样：“你办事我放心”。有枪在，有港版国安法在，还有李家超在。<br><br>浪得难受: @RFA_Chinese 你们不敢发，我来帮你们补一张。<br><br><img style="" src="https://pbs.twimg.com/media/FWkblU6UIAAFEPo?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 39: [2022-07-02 20:50:01+08:00 推文](https://twitter.com/realcaixia/status/1543215415165435906)
 
-看到有几个推特都在推这个视频，跟着凑个热闹。<br><br>官场观察工作室 昭明: 当年老江去香港时，到都是操着粤语的香港本地人到场欢迎，老江也能说一两句粤语，还能给大家表演一两段，老江倒是不怕暗杀，更没有把内地大陆的小粉红带到香港造假欢迎场面。<br><br><video src="https://video.twimg.com/ext_tw_video/1542857715051302912/pu/vid/608x480/usMiqB-2VmhsWMbo.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1542857715051302912/pu/img/hjzTjQ5uecHBptm9.jpg"></video>
+看到有几个推特都在推这个视频，跟着凑个热闹。
 
 ### 40: [2022-07-02 21:32:49+08:00 推文](https://twitter.com/realcaixia/status/1543226187417354240)
 
@@ -177,7 +177,7 @@ Re 中共党内奴性文化、阴谋文化是中共党性修养的本质内涵�
 
 ### 41: [2022-07-02 22:18:52+08:00 推文](https://twitter.com/realcaixia/status/1543237776904175617)
 
-极权统治出打手举刀了。
+极权统治出打手举刀了。<br><br>靜心: 轉：雷霆行動，唐山開始抓捕舉報人了，微博和微信賬號銷了一萬多，這就是他們解決問題的手段！<br><br><img style="" src="https://pbs.twimg.com/media/FWlC29XWQAATeXf?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 42: [2022-07-02 22:22:48+08:00 推文](https://twitter.com/realcaixia/status/1543238766894223361)
 
