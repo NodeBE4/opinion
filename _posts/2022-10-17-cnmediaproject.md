@@ -241,7 +241,7 @@ RT Bill Bishop<br>Shanghai will build an isolation facility that can house tho
 
 ### 57: [2022-10-20 13:59:14+08:00 推文](https://twitter.com/cnmediaproject/status/1582974702846636032)
 
-A revealing case dealt with in greater detail in the new ASPI report that is well worth a read. The tactic of what we call "cloaking" at CMP (hiding clear associations with state media and agencies to make interactions seem real and organic) is actually many decades old.<br><br>Nerys Avery: Fascinating thread and exposé<br>
+A revealing case dealt with in greater detail in the new ASPI report that is well worth a read. The tactic of what we call "cloaking" at CMP (hiding clear associations with state media and agencies to make interactions seem real and organic) is actually many decades old.<br><br>Nerys Avery: Fascinating thread and exposé<br> <a href="https://twitter.com/fryan/status/1582960014053949440" target="_blank" rel="noopener noreferrer">https://twitter.com/fryan/status/1582960014053949440</a>
 
 ### 58: [2022-10-21 15:21:13+08:00 推文](https://twitter.com/cnmediaproject/status/1583357722388746240)
 
@@ -333,7 +333,7 @@ Re "Raising high the great banner of socialism with Chinese characteristics, ful
 
 ### 80: [2022-10-23 09:02:29+08:00 推文](https://twitter.com/cnmediaproject/status/1583987190119682048)
 
-In the live coverage, they almost seemed stunned into resignation: Really, back to this point again in China's history?
+In the live coverage, they almost seemed stunned into resignation: Really, back to this point again in China's history?<br><br>Bill Bishop: they look ready to go<br><br><img style="" src="https://pbs.twimg.com/media/FfsAxC3X0AEli9L?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 81: [2022-10-23 09:56:21+08:00 推文](https://twitter.com/cnmediaproject/status/1584000745518792704)
 
