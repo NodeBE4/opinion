@@ -37,9 +37,9 @@ Re 3/<br>- Demands of people. Slogans range from “end COVID lockdown” to “
 
 Re 5/<br>whether the people continue to protest is the key. Colleges are still crucial sites. <br>- Intl support. Many are hesitant because PRC would label any foreign supports as “interference”, then weaken the moral appeal of the protest. How intl NGOs &amp; Orgs &amp; Govts gonna react?
 
-### 6: [2022-11-28 18:52:49+08:00 推文](https://twitter.com/nathanlawkc/status/1597181715692544000)
+### 6: [2022-11-28 18:52:49+08:00 推文](https://twitter.com/nathanlawkc/status/1597181713192394752)
 
-Re 7/<br>- Technical support. People with expertise in internet security and safe communication should come in and share knowledge.<br>- Help overseas Chinese who want to protest. Any kind of help — design work, logistic, dealing with govt&amp;police etc… you can do something with your exp.
+Re 6/<br>What we can do as non-local protestors:<br>- Retweet &amp; spread info. It’s crucial to educate more ppl about what’s happening in China.<br>- Solidarity. Protestors are often in fear and feel alone. They cannot publicly talk about it. Show your solidarity with them to keep them warm.
 
 ### 7: [2022-11-28 18:52:50+08:00 推文](https://twitter.com/nathanlawkc/status/1597181718263308288)
 
@@ -56,4 +56,8 @@ Someone is very confused in Beijing.<br><img style="" src="https://pbs.twimg.com
 ### 10: [2022-11-30 06:17:03+08:00 推文](https://twitter.com/nathanlawkc/status/1597716293892730880)
 
 Tomorrow I will be joining @AsiaPolicyUT to talk about my book “freedom”, and share my stories about how to become an activist. It’s a virtual event so you can join it from anywhere.✊<br><img style="" src="https://pbs.twimg.com/media/Fiw6gBMXEAQVp34?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><br>Asia Policy Program: Next week, the @AsiaPolicyUT is hosting @nathanlawkc, Hong Kong democratic activist, to discuss his latest release "Freedom: How We Lose It and How We Fight Back" on Wednesday, Nov. 30th on ZOOM. Register here:<br><br><img style="" src="https://pbs.twimg.com/media/FiQ5k5eXkAEktuD?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://utexas.zoom.us/webinar/register/WN_tWAiPVi4TCKe8G2Jaa4Mbg" target="_blank" rel="noopener noreferrer">https://utexas.zoom.us/webinar/register/WN_tWAiPVi4TCKe8G2Jaa4Mbg</a>
+
+### 11: [2022-11-30 20:08:47+08:00 推文](https://twitter.com/nathanlawkc/status/1597925609099124736)
+
+Friends have told me that when my thread on the #Chinaprotest was forwarded to Weibo, their accounts were banned.<br>The PRC government is so afraid of kind words to people. They are scared of the inner pursuit of freedom of humankind.<br>Let’s continue to spread the words.<br><img style="" src="https://pbs.twimg.com/media/Fiz43vXWQAAkQPH?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
