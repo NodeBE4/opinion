@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-11-30
+date: 2022-12-01
 from: https://twitter.com/HeQinglian/status/1596991795136974849
 layout: post
 tags:
@@ -214,4 +214,16 @@ Re @ElaineYuMuMu @VictoriaTC 主是是拜登政府出台法律：青少年可以
 ### 50: [2022-11-30 23:10:16+08:00 推文](https://twitter.com/HeQinglian/status/1597971278992146432)
 
 Re @sixianghongliu @YouKeping 手机就是跟踪器。
+
+### 51: [2022-12-01 01:08:12+08:00 推文](https://twitter.com/HeQinglian/status/1598000957522350080)
+
+Re @david_david1968 看来，江泽民应该万寿无疆。<br>我经历过江时代，《现代化的陷阱》就是江时代改革的分析与研究。以后研究过江的遗产，我得写篇文章“悼念”他了。
+
+### 52: [2022-12-01 01:11:15+08:00 推文](https://twitter.com/HeQinglian/status/1598001723653906433)
+
+Re @lianghuiwang2 布鲁克林他爹描述的好莱坞电影，其实是美国的现实。
+
+### 53: [2022-12-01 01:35:50+08:00 推文](https://twitter.com/HeQinglian/status/1598007912651423744)
+
+在胡锦涛时期肆虐十年的几代常委家族“家国一体的利益输送机制”，就是江泽民时代形成的。<br>江儿子江绵恒应该算是新太子党中的开路者，《财经》名文《谁的鲁能?》（2007年01月08日）曾披露借改制为名，曾庆红儿子曾伟鲸吞山东第一大企业鲁能700亿资产，国内网站仍有此文。
 
