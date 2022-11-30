@@ -61,3 +61,7 @@ You're right, that *is* an omission. I may go back and edit something in on that
 
 Funny you should mention the Takarazuka Revue – I've seen it argued that the Revue is the last major vestige of the Asakusa Opera scene, the inspiration behind the 1992 production that I mention in the writeup!
 
+----- __955.5__ -----2022-12-01 01:56:13+08:00:
+
+Oh drat! Thanks for the correction, I'll make it immediately.
+
