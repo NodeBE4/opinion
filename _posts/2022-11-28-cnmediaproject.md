@@ -39,3 +39,15 @@ As China resorts to intimidation and surveillance to restrain protests over hars
 
 Re "If XJP can find a way out of the zero-Covid quagmire, people might go back to their algorithmically streamlined lives and forget about their current frustrations. If not, then you’ll probably see the hard edge of surveillance being used more and more, and generating resistance."<br><img style="" src="https://pbs.twimg.com/media/Fix_I-8aMAI4O8U?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 7: [2022-11-30 20:10:07+08:00 推文](https://twitter.com/cnmediaproject/status/1597925944769273856)
+
+Colorless Tributes for Jiang Zemin: A quick look at how CCP media and more commercially oriented sites treated the news this afternoon of the death of the former leader. <a href="https://chinamediaproject.org/2022/11/30/dark-tributes-for-jiang-zemin/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/11/30/dark-tributes-for-jiang-zemin/</a>
+
+### 8: [2022-11-30 20:23:47+08:00 推文](https://twitter.com/cnmediaproject/status/1597929380961189896)
+
+This piece from the CMP archives (2017), originally published through SupChina, looks at the political rituals and language surrounding the death of "esteemed," "great" and "outstanding" Party comrades. Great context for the death today of Jiang Zemin. <a href="https://chinamediaproject.org/2022/11/30/the-politics-of-passing-on/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/11/30/the-politics-of-passing-on/</a>
+
+### 9: [2022-11-30 20:25:56+08:00 推文](https://twitter.com/cnmediaproject/status/1597929924052267009)
+
+The Xinhua release this afternoon on Jiang's death refers to him as a "great proletarian revolutionary." The "great" here is a subtle distinction, but an important one — an honor bestowed on few.<br><br>China Media Project: This piece from the CMP archives (2017), originally published through SupChina, looks at the political rituals and language surrounding the death of "esteemed," "great" and "outstanding" Party comrades. Great context for the death today of Jiang Zemin.<br> <a href="https://chinamediaproject.org/2022/11/30/the-politics-of-passing-on/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/11/30/the-politics-of-passing-on/</a>
+
