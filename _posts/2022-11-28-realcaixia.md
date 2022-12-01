@@ -193,7 +193,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fiu2Jw8VEAEx6r9?format=jpg
 
 ### 45: [2022-11-30 13:01:58+08:00 推文](https://twitter.com/realcaixia/status/1597818196308144128)
 
-请传给大陆的民众，分享参与抗争经历，积累识别混进，民众抗争行列里的便衣军警，增长保护自己安全的知识。这绝对必要。⬇请细细阅读️这位推友的详细叙述，我感觉很有益处。<br><br>巴丢草 Bad ї ucao: “当我趴在路边的一块石头上写新标语时，很多人在给我拍照，我那个时候不知会被便衣拍照，所以并未拒绝他们。这时候一个阿姨（戴着眼镜，像个文静精干的老教师）走过来跟我说：“妹妹，他们在拍你啊！不要怕，我帮你挡住，我保护你哈”<br>
+请传给大陆的民众，分享参与抗争经历，积累识别混进，民众抗争行列里的便衣军警，增长保护自己安全的知识。这绝对必要。⬇请细细阅读️这位推友的详细叙述，我感觉很有益处。<br><br>巴丢草 Bad ї ucao: “当我趴在路边的一块石头上写新标语时，很多人在给我拍照，我那个时候不知会被便衣拍照，所以并未拒绝他们。这时候一个阿姨（戴着眼镜，像个文静精干的老教师）走过来跟我说：“妹妹，他们在拍你啊！不要怕，我帮你挡住，我保护你哈”<br> <a href="https://twitter.com/badiucao/status/1597491262948773888" target="_blank" rel="noopener noreferrer">https://twitter.com/badiucao/status/1597491262948773888</a>
 
 ### 46: [2022-11-30 13:07:24+08:00 推文](https://twitter.com/realcaixia/status/1597819560874639360)
 
@@ -234,4 +234,20 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FiycsaSXoAE4s3S?format=jpg
 ### 55: [2022-12-01 22:35:57+08:00 推文](https://twitter.com/realcaixia/status/1598325030466646016)
 
 我同意这位推主的判断。<br><br>韩连潮: 【六四和白纸一代的异同】六四和白纸一代最大共同点是强烈的责任感，她们不顾个人安危，走向街头为民请命，为国分忧；最大不同点是屠城前的64一代对党仍抱希望和幻想，而白纸一代至始就寄希望于民主和自由、要求独裁者下台，她们是互联网一代，知真相，又目睹习10年暴虐无道。真的是长江后浪推前浪👍。<br><br><img style="" src="https://pbs.twimg.com/media/Fi5I-s-aUAAKhdO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fi5JFxYaEAYInVp?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 56: [2022-12-01 23:11:22+08:00 推文](https://twitter.com/realcaixia/status/1598333943291547648)
+
+这段话说得好！<br><br>多伦多方脸🇹🇼🇨🇦🇺🇦: 如果真的放开了，请记住放开不是中共赏赐给你的，是南京那个举着白纸的女生，是四通桥上的彭载舟，以及每个走上街头的人替你们争取来的<br>是一个个人冒着生命危险，争取来的，而我们是享用了他们努力的结果罢了<br>
+
+### 57: [2022-12-01 23:16:47+08:00 推文](https://twitter.com/realcaixia/status/1598335308831105025)
+
+东京：旅居日本的中国人和外国朋友们举行的声援大陆民众的抗议活动声势浩大。<br><br>亚洲金融: 东京。万万没想到，11月30日晚在新宿的抗议活动，抗议人群之多，远超过六四。东京的华人数量约20万，远少于纽约的华人数量120万。最近，各个派别都派员前往东京，甚至马云也暂居东京。从1895年广州起义失败到1911年辛亥革命爆发，孙中山绝大部分时间都在海外特别是日本度过的。#东京，华人数量将激增。<br><br><video src="https://video.twimg.com/ext_tw_video/1598069568630652928/pu/vid/888x494/IzuAFPShBnnbiijL.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1598069568630652928/pu/img/mPBTt4p59tnkYtc-.jpg"></video>
+
+### 58: [2022-12-01 23:27:52+08:00 推文](https://twitter.com/realcaixia/status/1598338097909227520)
+
+与推友分享这个推文。如何运用现有法律保护好每一位参加白纸运动的大陆民众，下面⬇️介绍的做法很值得学习。如果能把这个广为传播，让更多的墙内朋友看到就好了。<br><br>Bob New: 教科書般運用法律保護白紙革命參與者合法權利的案例！<br>本次全民反封鎖運動，白紙革命畢竟只是少部分人參與，我們之所以覺得聲勢浩大，是因為社交媒體的信息茧房效應，昨天我聯繫上海朋友，他居然根本不知道抗議事件。<br>但是關於居委會封鎖違法的全面法治啟蒙卻實實在在傳播整個中國！<br> <a href="https://twitter.com/Tianwei_Yin/status/1597823903271129089" target="_blank" rel="noopener noreferrer">https://twitter.com/Tianwei_Yin/status/1597823903271129089</a>
+
+### 59: [2022-12-01 23:36:33+08:00 推文](https://twitter.com/realcaixia/status/1598340279513141249)
+
+这段德国影视剧片段已经成为揭露抨击中共国时政的经典的黑色幽默！<br><br>墻國荒誕字: 白紙運動，讓皇上震怒！<br>一张白纸，写满了独裁者的愚蠢和邪恶！<br>如火如荼的白纸运动，让皇上伤透了脑筋……<br><br><video src="https://video.twimg.com/ext_tw_video/1598269969539559424/pu/vid/1280x718/83771WThacd-J8vI.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1598269969539559424/pu/img/wUDa4uoFDi-40i_i.jpg"></video>
 
