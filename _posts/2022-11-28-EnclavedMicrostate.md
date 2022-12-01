@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-11-30
+date: 2022-12-02
 from: https://old.reddit.com/r/Hololive/comments/z68emw/is_it_just_me_or_does_irys_20_look_like_irys_10s/
 layout: post
 tags:
@@ -94,4 +94,14 @@ For that line of analysis I’m pulling straight from Josephine Lee’s book on 
 ----- __956.1__ -----2022-12-01 18:23:15+08:00:
 
 Troops will remain garrisoned as long as their general isn't mobilised, but if you have mobilised that general then it's tough luck, apparently.
+
+### 957: [What names should I use for the Chinese Emperors?](https://old.reddit.com/r/AskHistorians/comments/z9yt9j/what_names_should_i_use_for_the_chinese_emperors/), submitted on 2022-12-02 04:31:01+08:00.
+
+----- __957.1__ -----2022-12-02 06:01:17+08:00:
+
+I discuss this somewhat in [this answer](https://www.reddit.com/r/AskHistorians/comments/juiswk/why_are_chinese_emperors_from_the_ming_and_qing/gce7w71/), but to put it bluntly, naming conventions changed over time. Emperors from the Han to the Sui tend to be referred to by posthumous name, Tang through Song are usually referred to by temple name, Yuan emperors are typically referred to by their Mongolian personal name, and Ming and Qing emperors are typically referred to via era names (via the [X Emperor] format rather than [Emperor X]), though you can find some historians who prefer temple names instead. There's always the odd exception, such as the Ming emperor Yingzong, who is known via temple name as he had two separate reigns, but there's a mini-exception to that too, as the Qing Tongzhi Emperor is known as such despite having briefly been the Qixiang Emperor at the start of his reign. But as a general set of conventions over time, the above holds true.
+
+----- __957.2__ -----2022-12-02 06:30:32+08:00:
+
+The long and short of it is that they were typically simply 'the emperor' or a synonym thereof. As for posthumous names, the typical convention is to take the last character (so for instance Fantian Hedao Zhesu Dunjian Guangwen Zhangwu Anren Zhixiao Xian Huangdi 範天合道哲肅敦簡光文章武安仁止孝顯皇帝 is also simply Emperor Xian).
 
