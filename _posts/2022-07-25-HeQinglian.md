@@ -217,7 +217,7 @@ Re @shenliangqing2 美国现在最大的问题是忘记了自身的辉煌是宪�
 
 ### 51: [2022-07-27 22:16:03+08:00 推文](https://twitter.com/HeQinglian/status/1552296764446834689)
 
-由于民主党的努力，美国LGBT人口快接近10%（不包插QI，前一向古川有疑问，给过链接），猴痘应运而生，WHO、法国已经证明此病在男同及与他们有性关系的人群，敬请拜登政府与福奇对症下药，最多扩大至LGBT人群。<br><br>华尔街日报中文网: 美国联邦数据显示，美国已经报告了3,400多例确诊或疑似猴痘病例，成为自这个国际关注的突发公共卫生事件发生以来已知感染病例最多的国家。<br> <a href="https://on.wsj.com/3JfATo7" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3JfATo7</a>
+由于民主党的努力，美国LGBT人口快接近10%（不包插QI，前一向古川有疑问，给过链接），猴痘应运而生，WHO、法国已经证明此病在男同及与他们有性关系的人群，敬请拜登政府与福奇对症下药，最多扩大至LGBT人群。
 
 ### 52: [2022-07-27 22:22:48+08:00 推文](https://twitter.com/HeQinglian/status/1552298464578572288)
 
@@ -577,7 +577,7 @@ Re @shenliangqing2 @FranzMendelsso1 @RealBeiMing 美国演变至今，有个过�
 
 ### 141: [2022-07-30 04:16:09+08:00 推文](https://twitter.com/HeQinglian/status/1553112163069399041)
 
-看了法广这条的留言与Quote后，我去看了一眼：<br>“俄總統新聞秘書佩斯科夫當天告訴媒體稱，克里姆林宮同意中國領導人習近平的觀點（不要“玩火”）”。<br>拉夫羅夫在回答有關台灣周邊局勢和佩洛西可能計畫訪問台灣的問題時說：“我們只有一個中國的立場沒有改變”。<br>发表评论却连内容都不看。<br><br>RFI 華語 - 法國國際廣播電台: 拉夫羅夫：俄羅斯希望不會出現使台灣周邊局勢惡化的挑釁行為<br><br><img style="" src="https://pbs.twimg.com/media/FY12eHWUUAAWFwq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8caD.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8caD.t</a>
+看了法广这条的留言与Quote后，我去看了一眼：<br>“俄總統新聞秘書佩斯科夫當天告訴媒體稱，克里姆林宮同意中國領導人習近平的觀點（不要“玩火”）”。<br>拉夫羅夫在回答有關台灣周邊局勢和佩洛西可能計畫訪問台灣的問題時說：“我們只有一個中國的立場沒有改變”。<br>发表评论却连内容都不看。
 
 ### 142: [2022-07-30 04:42:17+08:00 推文](https://twitter.com/HeQinglian/status/1553118738119069696)
 
