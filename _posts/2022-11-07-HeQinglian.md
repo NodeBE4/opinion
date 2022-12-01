@@ -117,7 +117,7 @@ Re @seeyoua22819375 @xxj2040 高玉宝、雷锋至少是正常人、普通人。
 
 ### 26: [2022-11-08 05:20:39+08:00 推文](https://twitter.com/HeQinglian/status/1589729566943498240)
 
-“习近平思想”将中国导向何方？<br><br>人民经济、人类命运共同体、绿色经济是“道”，用来争当“世界领袖”的理论工具，这点习继承了毛的衣钵<br>加强党对经济工作的领导、坚持公有制为主体、供给侧改革谓之“术”，这是习对邓小平理论的继承，“术”可以随时调整，可以“摸着石头过河”，允许试错<br><br>自由亚洲电台: 评论 | #何清涟 @HeQinglian：“#习近平思想”将中国导向何方？<br> <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter</a>
+RT He Qinglian<br>“习近平思想”将中国导向何方？<br><br>人民经济、人类命运共同体、绿色经济是“道”，用来争当“世界领袖”的理论工具，这点习继承了毛的衣钵<br>加强党对经济工作的领导、坚持公有制为主体、供给侧改革谓之“术”，这是习对邓小平理论的继承，“术”可以随时调整，可以“摸着石头过河”，允许试错<br><br>自由亚洲电台: 评论 | #何清涟 @HeQinglian：“#习近平思想”将中国导向何方？<br> <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter</a>
 
 ### 27: [2022-11-08 05:37:04+08:00 推文](https://twitter.com/HeQinglian/status/1589733697666056192)
 
@@ -705,7 +705,7 @@ RT 周锋锁 Fengsuo Zhou<br>疯了，推特暂停了苏雨桐@Suyutong 的账
 
 ### 173: [2022-11-13 23:24:03+08:00 推文](https://twitter.com/HeQinglian/status/1591814155019091969)
 
-这话百分百正确。仅举一例：<br>拜登学贷免还计划 联邦法官裁定非法<br>11/10/2022 <br>时间放在11月6日之后，既可以不增加政府压力，又骗来大量想当老赖的年轻人选票。<br>再回顾一下：2021年大群因拜登食言的年轻大学生Go to Brandon(Fuxx-Biden)的往事。<br>习近平如果还坚持不选举那是蠢。<br><br>zhix: 卡马拉说18-24岁的年轻人都是蠢货😂👇<br>
+这话百分百正确。仅举一例：<br>拜登学贷免还计划 联邦法官裁定非法<br>11/10/2022 <br>时间放在11月6日之后，既可以不增加政府压力，又骗来大量想当老赖的年轻人选票。<br>再回顾一下：2021年大群因拜登食言的年轻大学生Go to Brandon(Fuxx-Biden)的往事。<br>习近平如果还坚持不选举那是蠢。<br><br>zhix: 卡马拉说18-24岁的年轻人都是蠢货😂👇<br> <a href="https://twitter.com/stillgray/status/1591660209768116225" target="_blank" rel="noopener noreferrer">https://twitter.com/stillgray/status/1591660209768116225</a>
 
 ### 174: [2022-11-13 23:31:20+08:00 推文](https://twitter.com/HeQinglian/status/1591815988294873088)
 
