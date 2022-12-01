@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-12-01
+date: 2022-12-02
 from: https://twitter.com/realcaixia/status/1596935244816343041
 layout: post
 tags:
@@ -193,7 +193,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fiu2Jw8VEAEx6r9?format=jpg
 
 ### 45: [2022-11-30 13:01:58+08:00 推文](https://twitter.com/realcaixia/status/1597818196308144128)
 
-请传给大陆的民众，分享参与抗争经历，积累识别混进，民众抗争行列里的便衣军警，增长保护自己安全的知识。这绝对必要。⬇请细细阅读️这位推友的详细叙述，我感觉很有益处。<br><br>巴丢草 Bad ї ucao: “当我趴在路边的一块石头上写新标语时，很多人在给我拍照，我那个时候不知会被便衣拍照，所以并未拒绝他们。这时候一个阿姨（戴着眼镜，像个文静精干的老教师）走过来跟我说：“妹妹，他们在拍你啊！不要怕，我帮你挡住，我保护你哈”<br> <a href="https://twitter.com/badiucao/status/1597491262948773888" target="_blank" rel="noopener noreferrer">https://twitter.com/badiucao/status/1597491262948773888</a>
+请传给大陆的民众，分享参与抗争经历，积累识别混进，民众抗争行列里的便衣军警，增长保护自己安全的知识。这绝对必要。⬇请细细阅读️这位推友的详细叙述，我感觉很有益处。<br><br>巴丢草 Bad ї ucao: “当我趴在路边的一块石头上写新标语时，很多人在给我拍照，我那个时候不知会被便衣拍照，所以并未拒绝他们。这时候一个阿姨（戴着眼镜，像个文静精干的老教师）走过来跟我说：“妹妹，他们在拍你啊！不要怕，我帮你挡住，我保护你哈”<br>
 
 ### 46: [2022-11-30 13:07:24+08:00 推文](https://twitter.com/realcaixia/status/1597819560874639360)
 
@@ -250,4 +250,28 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FiycsaSXoAE4s3S?format=jpg
 ### 59: [2022-12-01 23:36:33+08:00 推文](https://twitter.com/realcaixia/status/1598340279513141249)
 
 这段德国影视剧片段已经成为揭露抨击中共国时政的经典的黑色幽默！<br><br>墻國荒誕字: 白紙運動，讓皇上震怒！<br>一张白纸，写满了独裁者的愚蠢和邪恶！<br>如火如荼的白纸运动，让皇上伤透了脑筋……<br><br><video src="https://video.twimg.com/ext_tw_video/1598269969539559424/pu/vid/1280x718/83771WThacd-J8vI.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1598269969539559424/pu/img/wUDa4uoFDi-40i_i.jpg"></video>
+
+### 60: [2022-12-02 00:00:55+08:00 推文](https://twitter.com/realcaixia/status/1598346414702366720)
+
+无法查证下面这条信息是否确实。<br>但是中共暴政的残酷程度远超善良人们的想象，不能不为每一位参加白纸运动的大陆民众安危担忧。<br>垦请网友们关注南京大学首举白纸的李康梦同学的人身安全。希望尽快获得李康梦同学的确切消息。<br><br>Annie: 11月30日，南京传媒学院举白纸抗议女学生，李康梦被捕，目前失联。<br>下午2:14 · 2022年12月1日<br>
+
+### 61: [2022-12-02 00:19:49+08:00 推文](https://twitter.com/realcaixia/status/1598351168169660419)
+
+请看看大白是如何企图强拉人走的！人在家中坐，祸从天上来。这就是官逼民反。<br><br>bao'bao zhang: @ccpisgarbage<br><br><video src="https://video.twimg.com/ext_tw_video/1598191001109086209/pu/vid/720x1280/X9RSpWmzrBtfGB-5.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1598191001109086209/pu/img/E7Xusqr5dQhtUi92.jpg"></video>
+
+### 62: [2022-12-02 00:31:57+08:00 推文](https://twitter.com/realcaixia/status/1598354224064401408)
+
+特别转推⬇️推文。经济学人一篇文章分析评论中共习的防疫，指出中国浪费了时间，没能真正做到有效防疫。<br><br>方舟子: 两年来中国把防疫经费都浪费在了毫无用处的测核酸、建集中营上，以为靠“动态清零”就能混过去，既没有用于进口有效疫苗，也没有用于扩充ICU床位为不可避免的疫情失控做准备。目前中国ICU床位拥有率远低于台湾、新加坡，一旦放开，要比国外没有疫苗时还要惨烈。当然中国死亡数据是领导说了算，不报就是了<br><br><img style="" src="https://pbs.twimg.com/media/Fi2Uu9xVUAA_ycL?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 63: [2022-12-02 00:41:04+08:00 推文](https://twitter.com/realcaixia/status/1598356517593706499)
+
+强烈推荐：<br><br>Petrichor: 我们是不幸的中国人。其他，不说了，你懂的。<br><br><video src="https://video.twimg.com/ext_tw_video/1598158123570761733/pu/vid/888x496/f2i-h78xJq3tc4lu.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1598158123570761733/pu/img/TtysP1j5pOAtx5WS.jpg"></video>
+
+### 64: [2022-12-02 00:43:20+08:00 推文](https://twitter.com/realcaixia/status/1598357088186822657)
+
+中共利用黑社会势力早已经熟门熟路。<br><br>李大宇: 黑社會出場了！中共特色的傾聽民眾呼聲的第一步，歷次鎮壓，凡是難啃的瓜，必請黑社會出場，不需警服、沒有手令、避受譴責，偽裝成「愛國流氓」。這裡是成都，人們悼念烏魯木齊火災受害者，黑社會出動打人、驅趕<br><br><video src="https://video.twimg.com/ext_tw_video/1597695057389289472/pu/vid/592x1280/_9dgJkzAMaVQDBLu.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1597695057389289472/pu/img/85ATbhymyKifLUOH.jpg"></video>
+
+### 65: [2022-12-02 00:48:28+08:00 推文](https://twitter.com/realcaixia/status/1598358381995364352)
+
+中共开始抓捕市民了。<br><br>李大宇: 中共烏魯木齊當局，開始“按圖索驥”，照著錄像中所謂參與“鬧事”的，上門抓人<br><br><video src="https://video.twimg.com/ext_tw_video/1596746606212259840/pu/vid/656x848/LRhvtX-xS2rZD8J6.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1596746606212259840/pu/img/gzwVi7QjHMFKwmoH.jpg"></video>
 
