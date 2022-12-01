@@ -55,3 +55,7 @@ The Xinhua release this afternoon on Jiang's death refers to him as a "great pro
 
 In this newly relevant piece from the CMP archives, David Bandurski looks at the politics surrounding the death of CCP officials, and some of the fixtures of related discourse. <a href="https://chinamediaproject.org/2022/11/30/the-politics-of-passing-on/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/11/30/the-politics-of-passing-on/</a>
 
+### 11: [2022-12-01 15:22:14+08:00 推文](https://twitter.com/cnmediaproject/status/1598215882161152006)
+
+Official announcements about Jiang Zemin's death may seem like heaps of nonsense. But take a closer look at newspaper layouts today and they tell us clearly where the Chinese Communist Party would like us to focus — on the defining of legacies. <a href="https://chinamediaproject.org/2022/12/01/looking-the-peoples-daily-in-the-eye/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/12/01/looking-the-peoples-daily-in-the-eye/</a>
+
