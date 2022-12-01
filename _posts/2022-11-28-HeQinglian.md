@@ -343,3 +343,23 @@ Re @EvanLi2020 这事我记得。南巡之后立刻华丽大转身。<br>当时�
 
 Re @HongfuDing 不少国人富有同情心，对不同观点者除外。<br>尤其是对变成弱势的政治领导人，特别富有同情心。
 
+### 83: [2022-12-02 01:04:39+08:00 推文](https://twitter.com/HeQinglian/status/1598362454534283264)
+
+Re @Lucs24659702 @HongfuDing 反共不反共，从来不是我判断人的标准。<br>人格是否健全、思维是否正常（尤其是有无常识）、教养三者才是我判断人的标准。
+
+### 84: [2022-12-02 02:25:02+08:00 推文](https://twitter.com/HeQinglian/status/1598382679929806848)
+
+Re @JianglinLi @iweiRime @HongfuDing 我全部拉黑，发现全跟着我。捎带清理园子。<br>这些人以为我 们在意他这种Fo。
+
+### 85: [2022-12-02 02:32:40+08:00 推文](https://twitter.com/HeQinglian/status/1598384601474498560)
+
+Re @JianglinLi @iweiRime @HongfuDing 最好及时。<br>我是看到某推下有恶心话语，会看看是否跟着我，如果跟着，立刻拉黑。<br>特别黑恶坏的那种，哪怕没跟我，预先拉黑，省得哪天出现恶心人。
+
+### 86: [2022-12-02 03:55:50+08:00 推文](https://twitter.com/HeQinglian/status/1598405532830040064)
+
+Re @HongfuDing @JianglinLi @iweiRime 这是最合适的方式。<br>不过，我这两天突然想到现实关系通过网络变成一地鸡毛，也算是新现象。
+
+### 87: [2022-12-02 04:06:13+08:00 推文](https://twitter.com/HeQinglian/status/1598408146992726032)
+
+江泽民时代的三大关键词之一：腐败<br><br>江执政13年，大半是邓时期。放权让利形成的制度利差，带来了腐败与社会活力。<br>国企改革培养的国企寡头，为胡温“黄金十年”奠定基础；房地产热后发展成地方的“土地财政”；“三个代表”理论-新阶层论，为中国富豪进入人大政协开辟了制度性通道。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-12012022130655.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-12012022130655.html</a>
+
