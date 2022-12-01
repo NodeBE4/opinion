@@ -29,7 +29,7 @@ Re @RealBeiMing @JianglinLi @Wu_Zhi @david_david1968 @ngexp 没错，这世界�
 
 ### 4: [2022-06-13 04:19:25+08:00 推文](https://twitter.com/HeQinglian/status/1536080754521870338)
 
-乌克兰的好总统，自家一屋未扫净，志在扫天下他人居所。<br>有点觉得他在寻找新的军事援助生成点。台湾蔡总统已经将推广LGBTQI当成美国民主新价值观，别再犯糊涂，“在北京动武前”不是个好建议。 <a href="https://twitter.com/RFI_Cn/status/1536034120605630465" target="_blank" rel="noopener noreferrer">https://twitter.com/RFI_Cn/status/1536034120605630465</a>
+乌克兰的好总统，自家一屋未扫净，志在扫天下他人居所。<br>有点觉得他在寻找新的军事援助生成点。台湾蔡总统已经将推广LGBTQI当成美国民主新价值观，别再犯糊涂，“在北京动武前”不是个好建议。<br><br>RFI 华语 - 法国国际广播电台: 华邮: 泽连斯基吁国际社会在中国动武前助台湾抵御侵略<br><br><img style="" src="https://pbs.twimg.com/media/FVEW5I6UcAAJ0WP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8UmD.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8UmD.t</a>
 
 ### 5: [2022-06-13 04:29:31+08:00 推文](https://twitter.com/HeQinglian/status/1536083296807010307)
 
@@ -289,7 +289,7 @@ Re @Vince6610 吓唬谁呢？打就打。
 
 ### 69: [2022-06-17 08:55:55+08:00 推文](https://twitter.com/HeQinglian/status/1537599889936371714)
 
-拜登进白宫一年半以来，说的最正确的就是这句话。<br>希望他某天能够说出另一句真话：支持我领导美国的人，是与我一样，或者与我儿子一样的人。<br><br>jiang shangrong: 拜登说，美国的经济和他的一样地充满健康和活力。<br><br><img style="" src="https://pbs.twimg.com/media/FVU-KkVWYAEk-3j?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://t.me/JShangrong" target="_blank" rel="noopener noreferrer">https://t.me/JShangrong</a>
+拜登进白宫一年半以来，说的最正确的就是这句话。<br>希望他某天能够说出另一句真话：支持我领导美国的人，是与我一样，或者与我儿子一样的人。
 
 ### 70: [2022-06-17 09:00:51+08:00 推文](https://twitter.com/HeQinglian/status/1537601129588084738)
 
