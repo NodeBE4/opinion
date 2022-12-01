@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-11-30
+date: 2022-12-01
 from: https://twitter.com/ChinaLawTransl8/status/1597328782213664769
 layout: post
 tags:
@@ -50,4 +50,8 @@ This piece from the CMP archives (2017), originally published through SupChina, 
 ### 9: [2022-11-30 20:25:56+08:00 推文](https://twitter.com/cnmediaproject/status/1597929924052267009)
 
 The Xinhua release this afternoon on Jiang's death refers to him as a "great proletarian revolutionary." The "great" here is a subtle distinction, but an important one — an honor bestowed on few.<br><br>China Media Project: This piece from the CMP archives (2017), originally published through SupChina, looks at the political rituals and language surrounding the death of "esteemed," "great" and "outstanding" Party comrades. Great context for the death today of Jiang Zemin.<br> <a href="https://chinamediaproject.org/2022/11/30/the-politics-of-passing-on/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/11/30/the-politics-of-passing-on/</a>
+
+### 10: [2022-12-01 11:38:13+08:00 推文](https://twitter.com/cnmediaproject/status/1598159507427069952)
+
+In this newly relevant piece from the CMP archives, David Bandurski looks at the politics surrounding the death of CCP officials, and some of the fixtures of related discourse. <a href="https://chinamediaproject.org/2022/11/30/the-politics-of-passing-on/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/11/30/the-politics-of-passing-on/</a>
 

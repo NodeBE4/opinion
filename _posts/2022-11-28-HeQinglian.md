@@ -271,3 +271,19 @@ Re @mingshi_chen 何谓利用权力强抢恶要，这真是一个教科书级经
 
 Re @timothyshlong 谢谢良言。<br>我们一起努力吧，希望大家都有属天的平安。
 
+### 65: [2022-12-01 07:20:01+08:00 推文](https://twitter.com/VictoriaTC/status/1598094530653618176)
+
+RT Victoria🌼<br>推特前安全主管约尔·罗斯(Yoel Roth)终于承认审查《纽约邮报》2020年10月版亨特·拜登独家新闻是一个错误。<br>去年3月，在审查期间担任推特首席执行官的杰克·多尔西(Jack Dorsey)已经在一场有关虚假信息和社交媒体的国会听证会上承认，屏蔽《纽约邮报》的报道是一个“彻头彻尾的错误”。<br><br>New York Post: Twitter's ex-safety chief Yoel Roth finally admits mistake of censoring Post's Hunter Biden scoop<br><br><img style="" src="https://pbs.twimg.com/media/Fi1RUCAXoAA7Tf4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://trib.al/9bsLnkN" target="_blank" rel="noopener noreferrer">https://trib.al/9bsLnkN</a>
+
+### 66: [2022-12-01 10:04:27+08:00 推文](https://twitter.com/HeQinglian/status/1598135908087517186)
+
+1997年10月，江泽民对美进行为期9天的国事访问，先后去了夏威夷、华盛顿、纽约等七城，在夏威夷的午宴上，江跳了草裙舞；晚上用吉他自弹自唱了歌曲《夏威夷，你好！》；在南加州时清唱了京剧《捉放曹》。<br>国内当时保守，称其为“戏子”，对五常委则有“五子治国”之说。胡习之后，国人觉“膜蛤文化”很亲切。<br><br>朱韵和: 江泽民在西班牙国王的注视下梳理头发。<br>1996年江泽民访问西班牙，与西班牙国王卡洛斯一起检阅禁卫军时，他突然拿出一把梳子，在国王面前梳理头发。在欢迎国宴上，江泽民又在摄像机镜头前梳头。西班牙第一大报《国家报》在头版刊登了一张图片。"卡洛斯国王观看江泽民梳头"。<br><br><img style="" src="https://pbs.twimg.com/media/Fi18u1QUYAANhQQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 67: [2022-12-01 10:07:55+08:00 推文](https://twitter.com/HeQinglian/status/1598136783556218881)
+
+Re 江时期的老段子“五子治国”。大意为，江泽民是个戏子，李鹏是个傻子，朱镕基是个疯子，李瑞环是个痞子，胡锦涛是个孙子。<br>可视为恶讽，朱不是疯子，只是说话大胆；李也不是痞子，只是有点油滑。
+
+### 68: [2022-12-01 10:20:15+08:00 推文](https://twitter.com/HeQinglian/status/1598139886883590144)
+
+今天看了各种有关江泽民的评论与对江时代的怀念，体会到现在国人对膜蛤文化的亲切美好感，想起普希金的诗：<br>“心永远憧憬未来，<br>而现在却常是阴沉，<br>一切都会过去，一切都是瞬息；<br>而那过去了的，就会成为亲切的回忆。”<br>希望国人今后不会将习时代赋予亲切美好感，因为那证明国人活得太惨了。<br>😅😅
+
