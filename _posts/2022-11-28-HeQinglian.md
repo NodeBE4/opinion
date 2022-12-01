@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-12-01
+date: 2022-12-02
 from: https://twitter.com/HeQinglian/status/1596991795136974849
 layout: post
 tags:
@@ -323,7 +323,23 @@ Re @lindahuiyun 广州、北京等地逐步解封，希望重庆不要自成一�
 
 Re @guanpeng_Lu 当初大家亟盼江下台，迎接胡温新政之时，我确实说过：几年以后，江时代可能会让国人怀念。
 
-### 78: [2022-12-01 22:47:17+08:00 推文](https://twitter.com/HeQinglian/status/1598327881893036041)
+### 78: [2022-12-01 22:25:29+08:00 推文](https://twitter.com/HongfuDing/status/1598322397001678853)
+
+RT Hongfu Ding<br>江泽民死了，国人开始了各种怀念，好话说了很多。我就奇怪了，中国人怎么对领导人就那么爱，那么宽容，那么健忘呢？我也来回忆一下吧。没有这一段回忆，对江泽民的一切怀念、赞扬、挽歌、记忆，都是虚弱的，虚伪的。<br><img style="" src="https://pbs.twimg.com/media/Fi5hBQFXgAI644O?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 79: [2022-12-01 22:47:17+08:00 推文](https://twitter.com/HeQinglian/status/1598327881893036041)
 
 Re @Jstyle_2022 弄清楚一点，专制政治有自己的逻辑，昔日种因，今天结果。那时候的自由，就是吃喝玩乐等非政治性娱乐至死。现在你也可以，除了公款消费。<br>有件事情我有经验：中共高层的贪污腐败，从2009年开始，总有人向外喂料，如果没有喂出象样的料，那就是没有，至少没人能找到证据。<br>这世界，人过留影。
+
+### 80: [2022-12-01 23:11:14+08:00 推文](https://twitter.com/HeQinglian/status/1598333909443518465)
+
+欧盟外交首长：乌克兰战后重建需由俄罗斯埋单 <br>再看冯德莱恩最近这场讲话<br>看来，西方准备从乌克兰抽身了。<br><br>AZ 🛰🌏🌍🌎: 📹🇪🇺🇺🇦🇷🇺Comparison between the first video posted by Ursula von der Leyen and the second video that was cut<br><br><video src="https://video.twimg.com/ext_tw_video/1597913046344687616/pu/vid/960x540/PM0E7bxvM4Zu_rLp.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1597913046344687616/pu/img/wzdwdrZ0uGAw5vpR.jpg"></video>
+
+### 81: [2022-12-02 00:47:16+08:00 推文](https://twitter.com/HeQinglian/status/1598358078033956866)
+
+Re @EvanLi2020 这事我记得。南巡之后立刻华丽大转身。<br>当时，港媒大炒邓小平将三换总书记。
+
+### 82: [2022-12-02 00:51:00+08:00 推文](https://twitter.com/HeQinglian/status/1598359016400637952)
+
+Re @HongfuDing 不少国人富有同情心，对不同观点者除外。<br>尤其是对变成弱势的政治领导人，特别富有同情心。
 
