@@ -77,3 +77,11 @@ Unfortunately, it appears to only exist in allusion and is never described at gr
 
 He didn't!
 
+----- __955.9__ -----2022-12-01 17:14:44+08:00:
+
+Gilbert had definitely got into some hot water with the Lord Chamberlain at times (this being when the Lord Chamberlain was still the theatre censor). According to Andrew Goodman's brief article on the ban on *The Mikado* during Prince Fushimi's tour, his major brush with the censors had been over an 1873 burlesque which mocked then-Prime Minister William Gladstone, Chancellor Robert Lowe, and Commissioner of Works Acton Ayrton. Performances were suspended until the caricatures were less obvious, which was apparently resolved by some costume modifications as well as making 'Gladstone' dress up as Guy Fawkes. So Gilbert was certainly aware of the arbitrary hand of the Lord Chancellor if he made his mockeries too overt.
+
+----- __955.10__ -----2022-12-01 17:21:53+08:00:
+
+I have often entertained the idea of a version where all the characters are, in fact, cringey modern-day weebs.
+
