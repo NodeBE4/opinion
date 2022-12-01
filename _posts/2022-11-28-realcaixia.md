@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-11-30
+date: 2022-12-01
 from: https://twitter.com/realcaixia/status/1596935244816343041
 layout: post
 tags:
@@ -93,7 +93,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fip1xxuUAAEkjNd?format=jpg
 
 ### 20: [2022-11-28 21:37:17+08:00 推文](https://twitter.com/realcaixia/status/1597223103540604928)
 
-这就是所谓“人民至上”的真实显示：以人民为敌！<br><br>CNMD NEWS ²²: #行为艺术<br>昨晚，上海以东出大事了！警车冲撞示威人群。<br><br><video src="https://video.twimg.com/ext_tw_video/1597031950308749314/pu/vid/720x1082/9Kk232ZOTNJjv67o.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1597031950308749314/pu/img/L8NBrsHrb3Fa2Dqd.jpg"></video>
+这就是所谓“人民至上”的真实显示：以人民为敌！ <a href="https://twitter.com/cnnnd022/status/1597031992994193409" target="_blank" rel="noopener noreferrer">https://twitter.com/cnnnd022/status/1597031992994193409</a>
 
 ### 21: [2022-11-28 21:38:59+08:00 推文](https://twitter.com/realcaixia/status/1597223530982408192)
 
@@ -185,7 +185,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fiu2Jw8VEAEx6r9?format=jpg
 
 ### 43: [2022-11-30 06:28:32+08:00 推文](https://twitter.com/realcaixia/status/1597719183353335808)
 
-海外学子与国内学子心心相连。<br><br>Nini艾番妮🇺🇸🇭🇰🇺🇦Margana🎗️✋👍💛💙: @realcaixia 蔡霞老师，您好这是昨天晚上加州大学伯克利分校的视频，还有大量视频待剪辑，明确喊出罢免国贼习近平。<br> <a href="https://twitter.com/usabelair2021/status/1597489702667399168" target="_blank" rel="noopener noreferrer">https://twitter.com/usabelair2021/status/1597489702667399168</a>
+海外学子与国内学子心心相连。<br><br>Nini艾番妮🇺🇸🇭🇰🇺🇦Margana🎗️✋👍💛💙: @realcaixia 蔡霞老师，您好这是昨天晚上加州大学伯克利分校的视频，还有大量视频待剪辑，明确喊出罢免国贼习近平。<br>
 
 ### 44: [2022-11-30 12:48:19+08:00 推文](https://twitter.com/realcaixia/status/1597814759520206848)
 
@@ -214,4 +214,20 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FiycsaSXoAE4s3S?format=jpg
 ### 50: [2022-11-30 14:39:22+08:00 推文](https://twitter.com/realcaixia/status/1597842705723244544)
 
 为上海市民骄傲！<br><br>流氓战机Unicornliumangzhanji善意流氓: 愤怒的人民已不再恐惧！今夜八点，还是上海<br>有女学生一字不漏，带头喊出了四通桥三罢口号，：罢工，罢课，罢免国贼…<br>现场有呼喊放人诉求，响应者众，为这个民族有良知的年轻人点赞，泪目！注意安全，保护好自己！👍🙏🙏<br><br><video src="https://video.twimg.com/ext_tw_video/1596879348594003970/pu/vid/1280x720/XIsKZxUam-RkDrP2.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1596879348594003970/pu/img/tjnlXWBeRY7LfGGK.jpg"></video>
+
+### 51: [2022-12-01 06:54:34+08:00 推文](https://twitter.com/realcaixia/status/1598088126064250880)
+
+韩国首尔的中国人和韩国民众举行活动，声援大陆民众。<br><br>美国之音中文网: 数十名中国公民和韩国民众11月30日晚在首尔举行烛光守夜活动，声援中国抗议者，为乌鲁木齐火灾受害者祈祷。一些抗议者举着近日来已成为抗议标志的白纸，还有人举着上写“与白纸运动同行”和“对中国清零政策说不”的标语牌。<br><br><video src="https://video.twimg.com/amplify_video/1597954697171640320/vid/1080x1080/zXixbbKFMSwTsWZb.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1597954697171640320/img/lOqqMIGkYrnIgemN.jpg"></video>
+
+### 52: [2022-12-01 07:06:58+08:00 推文](https://twitter.com/realcaixia/status/1598091244693262337)
+
+这位少女了不起！这位少女、南京传媒大学第一位手握白纸立于凛冽寒风中的、清华校园里高举白纸的悲愤女生、以及无数在抗争聚会中带头呼喊口号、群起响应的…无数大陆女士，让我想起法国的圣女贞德。大陆女生的勇敢令我深深敬佩。<br><br>你給我閉閉: 最後一批被捕者上大巴的時候，圍觀的人群裡，有個少女舉起一疊白紙，警察的電筒強光不時掃過她的臉，也不閃躲。<br><br>我好奇問，這白紙有甚麼用呢？<br><br><img style="" src="https://pbs.twimg.com/media/Eb5GRY6UEAAhHLp?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 53: [2022-12-01 08:03:49+08:00 推文](https://twitter.com/realcaixia/status/1598105550310735872)
+
+让我们都来转发：<br><br>Anonymous Operations: #Anonymous #OpWhitePaper <br>1. 停止强制核酸检测和强制隔离，取消疫情政策，自愿检测自愿隔离。<br>2. 中国言论自由，不删帖不封号，拆除网络防火墙，让人们看到真实发生在世界和中国的事情。<br>3. 释放本次活动被捕者并撤销指控<br>4. 放开护照办理，开放国门，出境不可劝返<br>5. 取消主席职务终身制<br><br><img style="" src="https://pbs.twimg.com/media/FivqJ5xWIAEs_x7?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 54: [2022-12-01 08:22:43+08:00 推文](https://twitter.com/realcaixia/status/1598110306395631616)
+
+听着被强拉去方舱的学校女生撕心裂肺的悲愤控诉，真让人肝肠寸断。请网友们听听这个女孩的泣血控诉。中共国就是人间地狱。<br><br>中华奴民共和国: 这是名副其实的 ~ 中华地狱共和国<br><br><video src="https://video.twimg.com/ext_tw_video/1598021473523929094/pu/vid/560x960/OLFlKuTUJb2qBGS7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1598021473523929094/pu/img/u249evAZ6uBEIKCB.jpg"></video>
 
