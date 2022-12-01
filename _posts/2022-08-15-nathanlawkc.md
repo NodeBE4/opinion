@@ -21,17 +21,17 @@ Author of Freedom, UK (https://t.co/2OFalKXJG1) and NA (https://t.co/mkF6N8U5d0)
 
 1. It's been a few months since I published "Freedom." There's been positive news for the book, including getting 2021 Foreword INDIES Gold Winner. I want to talk about why I wanted to write this introductory book for the HK protest movement and the moving reviews.<br><img style="" src="https://pbs.twimg.com/media/FaM9GXeX0AA-KHR?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 2: [2022-08-15 20:37:32+08:00 推文](https://twitter.com/nathanlawkc/status/1559157342087905280)
+### 2: [2022-08-15 20:37:32+08:00 推文](https://twitter.com/nathanlawkc/status/1559157340456222721)
 
-Re 4. Then I talked about my growing up in a blue-collar, apolitical family. I studied in schools operated by pro-Beijing institutes. I had been indifferent to social affairs until I learned the story of Liu Xiao Bo, the Nobel Peace Prize laureate, and the Tiananmen massacre.
+Re 3. Hong Kong was meant to be a safe haven and refuge. Generations of Chinese escaped the economic disasters and political terror in last century and found peace and prosperity in this city. Sadly, it turns to a persecutor now — this is a fascinating historical irony.
 
 ### 3: [2022-08-15 20:37:33+08:00 推文](https://twitter.com/nathanlawkc/status/1559157346294718464)
 
 Re 6. My years of activism in the center of HK politics demonstrated how it had changed drastically over the past few years. My role turned from a student activist, lawmaker, political prisoner, and exiled activist. Room for political participation and diversity shrank.
 
-### 4: [2022-08-15 20:37:34+08:00 推文](https://twitter.com/nathanlawkc/status/1559157349813833728)
+### 4: [2022-08-15 20:37:34+08:00 推文](https://twitter.com/nathanlawkc/status/1559157348018651136)
 
-Re 8. This book is more than myself -- it carries a mission to spread HK people's brave fight against the dictator Xi. I hope it can be read by more and garner more support for our democratic movement. It's the vocation that I committed to throughout my life.
+Re 7. Stories are the best medium to carry an idea or a concept. I wrote it to demonstrate the fragility of freedom and the importance of democracy through the lens of my life. It's a light-hearted and informative book for readers without prior knowledge of HK issues.
 
 ### 5: [2022-08-15 20:37:36+08:00 推文](https://twitter.com/nathanlawkc/status/1559157358810611713)
 
