@@ -83,7 +83,11 @@ Gilbert had definitely got into some hot water with the Lord Chamberlain at time
 
 ----- __955.10__ -----2022-12-01 17:21:53+08:00:
 
-I have often entertained the idea of a version where all the characters are, in fact, cringey modern-day weebs.
+I have often entertained the idea of a version where all the characters are, indeed, cringey modern-day weebs.
+
+----- __955.11__ -----2022-12-02 00:51:05+08:00:
+
+For that line of analysis I’m pulling straight from Josephine Lee’s book on The Mikado, which I don’t agree with 100% on but which was nevertheless an extremely valuable and enlightening read.
 
 ### 956: [The front system is a complete mess.](https://old.reddit.com/r/victoria3/comments/z8o4gr/the_front_system_is_a_complete_mess/), submitted on 2022-11-30 18:30:23+08:00.
 
