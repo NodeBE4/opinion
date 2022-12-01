@@ -45,7 +45,7 @@ Re 中国著名作家胡发云先生的文章—索尔维格之歌的故事：�
 
 ### 8: [2022-07-15 05:45:33+08:00 推文](https://twitter.com/realcaixia/status/1547698840366567429)
 
-他们正在穷尽一切手段控制民众。清零如果坚持不下去就换种说法、换个花样，把社会控制到瘫，以保习近平二十大继续掌控权力。<br><br>ZHANGDONG: 暴政治国、钳制国民言论行动自由到了无以复加地步！上海欲在全社会层面普查疑似神经病，这是要把大上海变成神经病院吗？政府恐惧国民到如此地步也是这厉害国的执政特点了。口口声声的自信呢？<br><br><img style="" src="https://pbs.twimg.com/media/FXncdhWWQAA6J-M?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+他们正在穷尽一切手段控制民众。清零如果坚持不下去就换种说法、换个花样，把社会控制到瘫，以保习近平二十大继续掌控权力。
 
 ### 9: [2022-07-15 23:04:23+08:00 推文](https://twitter.com/realcaixia/status/1547960272320544774)
 
@@ -57,7 +57,7 @@ Re @gaoyu200812 原先是有规则的，新闻联播前25分钟是国内报道�
 
 ### 11: [2022-07-15 23:51:21+08:00 推文](https://twitter.com/realcaixia/status/1547972093869928455)
 
-这段视频在国内微信群流传，看来问题出在政府部门。如果这个银行方人员说的是真相的话，那么银行应该“出门右转找政府”，政府耍赖的话，那么银行该去法院状告政府房管局，追究政府有关部门的法律责任。<br><br>变态辣椒RebelPepper: 銀行：冤有頭債有主，出門右轉找**<br><br><video src="https://video.twimg.com/ext_tw_video/1547624996008128512/pu/vid/368x640/-OWCK0CSkllCtYy4.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1547624996008128512/pu/img/-8JbfZBg5Jj65jAg.jpg"></video>
+这段视频在国内微信群流传，看来问题出在政府部门。如果这个银行方人员说的是真相的话，那么银行应该“出门右转找政府”，政府耍赖的话，那么银行该去法院状告政府房管局，追究政府有关部门的法律责任。
 
 ### 12: [2022-07-16 00:35:14+08:00 推文](https://twitter.com/realcaixia/status/1547983137363283974)
 

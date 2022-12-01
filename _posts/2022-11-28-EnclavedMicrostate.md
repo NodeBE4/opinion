@@ -85,3 +85,9 @@ Gilbert had definitely got into some hot water with the Lord Chamberlain at time
 
 I have often entertained the idea of a version where all the characters are, in fact, cringey modern-day weebs.
 
+### 956: [The front system is a complete mess.](https://old.reddit.com/r/victoria3/comments/z8o4gr/the_front_system_is_a_complete_mess/), submitted on 2022-11-30 18:30:23+08:00.
+
+----- __956.1__ -----2022-12-01 18:23:15+08:00:
+
+Troops will remain garrisoned as long as their general isn't mobilised, but if you have mobilised that general then it's tough luck, apparently.
+
