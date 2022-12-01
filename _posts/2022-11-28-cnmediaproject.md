@@ -59,3 +59,23 @@ In this newly relevant piece from the CMP archives, David Bandurski looks at the
 
 Official announcements about Jiang Zemin's death may seem like heaps of nonsense. But take a closer look at newspaper layouts today and they tell us clearly where the Chinese Communist Party would like us to focus — on the defining of legacies. <a href="https://chinamediaproject.org/2022/12/01/looking-the-peoples-daily-in-the-eye/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/12/01/looking-the-peoples-daily-in-the-eye/</a>
 
+### 12: [2022-12-01 20:05:21+08:00 推文](https://twitter.com/cnmediaproject/status/1598287129297448960)
+
+David Bandurski looks at the messaging conveyed today through the rigidly identical black-and-white front pages of CCP-run newspapers in China, paying tribute to deceased former general secretary Jiang Zemin. Hint: look at the "newspaper eye" (报眼). <a href="https://chinamediaproject.org/2022/12/01/looking-the-peoples-daily-in-the-eye/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/12/01/looking-the-peoples-daily-in-the-eye/</a>
+
+### 13: [2022-12-01 20:10:37+08:00 推文](https://twitter.com/cnmediaproject/status/1598288456295534593)
+
+Re The key language used to define Jiang's legacy is included in the second paragraph of the official Xinhua announcement run yesterday, and on the front page today. It is pulled out and placed in the "newspaper eye," the space to the right of the masthead.<br><img style="" src="https://pbs.twimg.com/media/Fi5C3nSaUAEziZO?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 14: [2022-12-01 20:12:28+08:00 推文](https://twitter.com/cnmediaproject/status/1598288920336564224)
+
+Re "Comrade Jiang Zemin was an outstanding leader who had the utmost respect of our Party, our military, and the various peoples of our nation; a great Marxist, a great proletarian revolutionary, politician, military expert, and diplomat . . . " It's in other CCP papers too.<br><img style="" src="https://pbs.twimg.com/media/Fi5DSvfacAMnhjT?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 15: [2022-12-01 20:14:06+08:00 推文](https://twitter.com/cnmediaproject/status/1598289334406623232)
+
+Re Is it unusual in its effusiveness? No, not at all. In fact, it almost perfectly mirrors the language used for Deng Xiaoping following his death on February 19, 1997. Just look at the two front pages side by side. Almost identical, even the headlines and "newspaper eye" (报眼).<br><img style="" src="https://pbs.twimg.com/media/Fi5Dld-aEAI8x1p?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 16: [2022-12-01 20:15:23+08:00 推文](https://twitter.com/cnmediaproject/status/1598289657103806464)
+
+Re The phrase “an outstanding leader who had the utmost respect of our Party, our military, and the various peoples of our nation” (我党我军我国各族人民公认的享有崇高威望的卓越领导人) — used for Jiang yesterday and today — originated with Deng's death.
+
