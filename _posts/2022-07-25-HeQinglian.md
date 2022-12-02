@@ -89,7 +89,7 @@ Re @shenliangqing2 你忘记本月底拜习视频会是熄火会、和好努力�
 
 ### 19: [2022-07-25 21:44:58+08:00 推文](https://twitter.com/HeQinglian/status/1551564164006612992)
 
-与台、中轮流建交，早就成了小国的生存之道，废一次、兴一次，就是几十亿美元的进帐，三年来一次吧。<br><br>美国之音莉雅: 所罗门群岛议会外委会主席、反对党议员凯尼洛里(Peter Kenilorea Jr.)7月25日在议会反对党领导人办公室接受我们的专访时说，如果反对派在下次的选举中获胜组阁的话，第一件事就是废除所中安全协议。至于是否会重新与台湾建交，他说，有这种可能性但这是一个更长的程序，而且涉及到国际方面的议题。<br><br><img style="" src="https://pbs.twimg.com/media/FYgt5y4akAER6xJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FYgt7S4akAEUEWl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+与台、中轮流建交，早就成了小国的生存之道，废一次、兴一次，就是几十亿美元的进帐，三年来一次吧。
 
 ### 20: [2022-07-25 21:47:07+08:00 推文](https://twitter.com/HeQinglian/status/1551564705423970304)
 
@@ -165,7 +165,7 @@ Re @CrabNJ @badpeop19875194 @KELMAND1 推上当真是藏龙卧虎，什么人才
 
 ### 38: [2022-07-26 10:03:42+08:00 推文](https://twitter.com/HeQinglian/status/1551750072462893056)
 
-纵观所有的颜色革命，包括美欧最推崇的“诺贝尔和平奖得主领导模式”南非与缅甸，其实都未竟全功，问题多多。<br>只有美国民主党阵营精心策划的2020年美国大选，将积20余年颜色革命的全套功夫用于本国，非常成功地夺取了政权，开始改造社会与大众思想大业。
+纵观所有的颜色革命，包括美欧最推崇的“诺贝尔和平奖得主领导模式”南非与缅甸，其实都未竟全功，问题多多。<br>只有美国民主党阵营精心策划的2020年美国大选，将积20余年颜色革命的全套功夫用于本国，非常成功地夺取了政权，开始改造社会与大众思想大业。<br><br>曹長青: 美国中情局长伍尔西曾在电视上承认，美国干预他国选举。白宫顾问博尔顿对CNN说，他谋划多国政变。克里米亚事件就起源奥巴马政府支持乌克兰街头暴力推翻民选总统的“政变”，导致俄国不再调解克里米亚，结果那里人民公投回归俄国；该事件是奥巴马反俄、干预乌内政结果；拜登更煽动乌反俄，是战争导火索。<br>
 
 ### 39: [2022-07-26 10:05:03+08:00 推文](https://twitter.com/HeQinglian/status/1551750413778665472)
 
@@ -253,7 +253,7 @@ Re @realTaoRay 这么害怕川普2024出山？<br>其实，只要诚实选举，
 
 ### 60: [2022-07-28 03:28:43+08:00 推文](https://twitter.com/HeQinglian/status/1552375447291367425)
 
-解决方案来了：<br>1、拜习通话后，拜登想要的能否得到已成定局，不会再传达军方意见反对南希去。民主党内矛盾让位于美中矛盾；<br>2、南希等人成行，如中方不用武力威慑，从此可视中共为Paper Tiger；如果美方回应，政治反对派解放中国的梦想可实现。如果不回应，美国就是Paper Tiger。<br>前提是南希健康。
+解决方案来了：<br>1、拜习通话后，拜登想要的能否得到已成定局，不会再传达军方意见反对南希去。民主党内矛盾让位于美中矛盾；<br>2、南希等人成行，如中方不用武力威慑，从此可视中共为Paper Tiger；如果美方回应，政治反对派解放中国的梦想可实现。如果不回应，美国就是Paper Tiger。<br>前提是南希健康。<br><br>RFI 华语 - 法国国际广播电台: 佩洛西何时访台？彭博社：应在拜登与习近平通话几天后<br><br><img style="" src="https://pbs.twimg.com/media/FYoQQ3VVQAAI_cX?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8c72.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8c72.t</a>
 
 ### 61: [2022-07-28 03:30:44+08:00 推文](https://twitter.com/HeQinglian/status/1552375957826174979)
 
@@ -305,7 +305,7 @@ Re @xxj2040 年龄这么大，生个病又不是难事。上次是covid-19阳性
 
 ### 73: [2022-07-28 10:34:15+08:00 推文](https://twitter.com/HeQinglian/status/1552482537762693121)
 
-三大美国跨国公司购买了 1700 万公顷乌克兰农业用地<br>对这条消息，不少推主表示怀疑，此为原始出处。 <a href="https://www.australiannationalreview.com/lifestyle/three-large-american-multinationals-bought-17-million-hectares-of-ukrainian-agricultural-land/" target="_blank" rel="noopener noreferrer">https://www.australiannationalreview.com/lifestyle/three-large-american-multinationals-bought-17-million-hectares-of-ukrainian-agricultural-land/</a>
+三大美国跨国公司购买了 1700 万公顷乌克兰农业用地<br>对这条消息，不少推主表示怀疑，此为原始出处。<br><br>晚風: 還剩一半了，波瀾心動嗎？<br><br><img style="" src="https://pbs.twimg.com/media/FYq8LctaQAAg6yz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 74: [2022-07-28 10:37:11+08:00 推文](https://twitter.com/HeQinglian/status/1552483274462748672)
 
@@ -577,7 +577,7 @@ Re @shenliangqing2 @FranzMendelsso1 @RealBeiMing 美国演变至今，有个过�
 
 ### 141: [2022-07-30 04:16:09+08:00 推文](https://twitter.com/HeQinglian/status/1553112163069399041)
 
-看了法广这条的留言与Quote后，我去看了一眼：<br>“俄總統新聞秘書佩斯科夫當天告訴媒體稱，克里姆林宮同意中國領導人習近平的觀點（不要“玩火”）”。<br>拉夫羅夫在回答有關台灣周邊局勢和佩洛西可能計畫訪問台灣的問題時說：“我們只有一個中國的立場沒有改變”。<br>发表评论却连内容都不看。
+看了法广这条的留言与Quote后，我去看了一眼：<br>“俄總統新聞秘書佩斯科夫當天告訴媒體稱，克里姆林宮同意中國領導人習近平的觀點（不要“玩火”）”。<br>拉夫羅夫在回答有關台灣周邊局勢和佩洛西可能計畫訪問台灣的問題時說：“我們只有一個中國的立場沒有改變”。<br>发表评论却连内容都不看。<br><br>RFI 華語 - 法國國際廣播電台: 拉夫羅夫：俄羅斯希望不會出現使台灣周邊局勢惡化的挑釁行為<br><br><img style="" src="https://pbs.twimg.com/media/FY12eHWUUAAWFwq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8caD.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8caD.t</a>
 
 ### 142: [2022-07-30 04:42:17+08:00 推文](https://twitter.com/HeQinglian/status/1553118738119069696)
 
@@ -733,7 +733,7 @@ Re @riverkiosk 又来了，是不是最近乌战实际战况让你心情不愉�
 
 ### 180: [2022-07-31 10:33:17+08:00 推文](https://twitter.com/HeQinglian/status/1553569459113181184)
 
-这篇文章建议大家花五分钟，有趣之处在于德国专家与美国专家立场不同。<br>德国专家认为是“伤敌八百，自损一千”——因为专家本人也身受能源短缺之痛，与普通人有同理心<br>耶鲁专家在美国，除了油价飚升与通胀之外，并无德国人能源短缺之痛，因此主张继续制裁。德国自损两千都与其无关。<br>——立场决定研究结果😂<br><br>DW 中文- 德国之声: 对俄制裁，是俄罗斯蒙受重创、金融市场的前景堪称“全球最差”？还是西方“伤敌八百、自损一千”？<br> <a href="https://p.dw.com/p/4Erre" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4Erre</a>
+这篇文章建议大家花五分钟，有趣之处在于德国专家与美国专家立场不同。<br>德国专家认为是“伤敌八百，自损一千”——因为专家本人也身受能源短缺之痛，与普通人有同理心<br>耶鲁专家在美国，除了油价飚升与通胀之外，并无德国人能源短缺之痛，因此主张继续制裁。德国自损两千都与其无关。<br>——立场决定研究结果😂
 
 ### 181: [2022-07-31 20:48:35+08:00 推文](https://twitter.com/HeQinglian/status/1553724302461210624)
 
