@@ -185,7 +185,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fiu2Jw8VEAEx6r9?format=jpg
 
 ### 43: [2022-11-30 06:28:32+08:00 推文](https://twitter.com/realcaixia/status/1597719183353335808)
 
-海外学子与国内学子心心相连。<br><br>Nini艾番妮🇺🇸🇭🇰🇺🇦Margana🎗️✋👍💛💙: @realcaixia 蔡霞老师，您好这是昨天晚上加州大学伯克利分校的视频，还有大量视频待剪辑，明确喊出罢免国贼习近平。<br>
+海外学子与国内学子心心相连。<br><br>Nini艾番妮🇺🇸🇭🇰🇺🇦Margana🎗️✋👍💛💙: @realcaixia 蔡霞老师，您好这是昨天晚上加州大学伯克利分校的视频，还有大量视频待剪辑，明确喊出罢免国贼习近平。<br> <a href="https://twitter.com/usabelair2021/status/1597489702667399168" target="_blank" rel="noopener noreferrer">https://twitter.com/usabelair2021/status/1597489702667399168</a>
 
 ### 44: [2022-11-30 12:48:19+08:00 推文](https://twitter.com/realcaixia/status/1597814759520206848)
 
@@ -245,7 +245,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FiycsaSXoAE4s3S?format=jpg
 
 ### 58: [2022-12-01 23:27:52+08:00 推文](https://twitter.com/realcaixia/status/1598338097909227520)
 
-与推友分享这个推文。如何运用现有法律保护好每一位参加白纸运动的大陆民众，下面⬇️介绍的做法很值得学习。如果能把这个广为传播，让更多的墙内朋友看到就好了。<br><br>Bob New: 教科書般運用法律保護白紙革命參與者合法權利的案例！<br>本次全民反封鎖運動，白紙革命畢竟只是少部分人參與，我們之所以覺得聲勢浩大，是因為社交媒體的信息茧房效應，昨天我聯繫上海朋友，他居然根本不知道抗議事件。<br>但是關於居委會封鎖違法的全面法治啟蒙卻實實在在傳播整個中國！<br> <a href="https://twitter.com/Tianwei_Yin/status/1597823903271129089" target="_blank" rel="noopener noreferrer">https://twitter.com/Tianwei_Yin/status/1597823903271129089</a>
+与推友分享这个推文。如何运用现有法律保护好每一位参加白纸运动的大陆民众，下面⬇️介绍的做法很值得学习。如果能把这个广为传播，让更多的墙内朋友看到就好了。<br><br>Bob New: 教科書般運用法律保護白紙革命參與者合法權利的案例！<br>本次全民反封鎖運動，白紙革命畢竟只是少部分人參與，我們之所以覺得聲勢浩大，是因為社交媒體的信息茧房效應，昨天我聯繫上海朋友，他居然根本不知道抗議事件。<br>但是關於居委會封鎖違法的全面法治啟蒙卻實實在在傳播整個中國！<br>
 
 ### 59: [2022-12-01 23:36:33+08:00 推文](https://twitter.com/realcaixia/status/1598340279513141249)
 
@@ -286,4 +286,8 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FiycsaSXoAE4s3S?format=jpg
 ### 68: [2022-12-02 13:36:39+08:00 推文](https://twitter.com/realcaixia/status/1598551701513854976)
 
 推主已经修正了一个字：是广州“南站”，不是广州“南部”。中共将各色“码”变成电子镣铐，剥夺人身自由。<br><br>盘古千寻: 想离开的人在广州南部全部变成红码、黄码！<br><br>这一幕是旷世奇景，中共成功地给每个中国人弄上了电子脚镣——健康码，让你逃离的机会都没有。<br><br>这种狗屁政权不推翻？难道留它祸害你家孩子吗？<br><br><video src="https://video.twimg.com/ext_tw_video/1598330716328280064/pu/vid/360x762/ABGP1dyWV7mW1Ovw.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1598330716328280064/pu/img/HRvoRyoDuquoazNb.jpg"></video>
+
+### 69: [2022-12-02 23:02:38+08:00 推文](https://twitter.com/realcaixia/status/1598694133354627073)
+
+关注被警察抓走的每一位参与白纸运动抗争者的人身安全。让更多的人都来关注他们。前些天他们手举白纸为大陆所有人争自由；现在需要我们所有人为他们呼喊：警察放人！恢复他们的人身自由！<br><br>李大宇: “白纸革命”被捕者信息<br><br><video src="https://video.twimg.com/ext_tw_video/1598576216516198404/pu/vid/270x480/ciCUmYKPNxxHa74e.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1598576216516198404/pu/img/oGYaNJAFREclgHQz.jpg"></video>
 
