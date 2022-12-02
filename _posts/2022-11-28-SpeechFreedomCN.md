@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-12-02
+date: 2022-12-03
 from: https://twitter.com/SpeechFreedomCN/status/1596922882851905537
 layout: post
 tags:
@@ -38,4 +38,8 @@ Qinghai man Sun Qing, who tweeted harmful info on Twitter that "attacked China's
 ### 6: [2022-12-02 21:35:44+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1598672265897549827)
 
 Former NBA star Jeremy Lin fined 10,000 RMB for complaining about poor condition in Covid quarantine facility in China. <a href="https://www.nbcnews.com/news/world/former-nba-star-jeremy-lin-fined-comments-covid-quarantine-playing-chi-rcna59759" target="_blank" rel="noopener noreferrer">https://www.nbcnews.com/news/world/former-nba-star-jeremy-lin-fined-comments-covid-quarantine-playing-chi-rcna59759</a>
+
+### 7: [2022-12-03 02:31:18+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1598746646195617792)
+
+导致林书豪被罚款一万元的那个视频。<br><br>The video that made Jeremy Lin fined 10,000 RMB.
 
