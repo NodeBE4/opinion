@@ -185,7 +185,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fiu2Jw8VEAEx6r9?format=jpg
 
 ### 43: [2022-11-30 06:28:32+08:00 推文](https://twitter.com/realcaixia/status/1597719183353335808)
 
-海外学子与国内学子心心相连。<br><br>Nini艾番妮🇺🇸🇭🇰🇺🇦Margana🎗️✋👍💛💙: @realcaixia 蔡霞老师，您好这是昨天晚上加州大学伯克利分校的视频，还有大量视频待剪辑，明确喊出罢免国贼习近平。<br> <a href="https://twitter.com/usabelair2021/status/1597489702667399168" target="_blank" rel="noopener noreferrer">https://twitter.com/usabelair2021/status/1597489702667399168</a>
+海外学子与国内学子心心相连。<br><br>Nini艾番妮🇺🇸🇭🇰🇺🇦Margana🎗️✋👍💛💙: @realcaixia 蔡霞老师，您好这是昨天晚上加州大学伯克利分校的视频，还有大量视频待剪辑，明确喊出罢免国贼习近平。<br>
 
 ### 44: [2022-11-30 12:48:19+08:00 推文](https://twitter.com/realcaixia/status/1597814759520206848)
 
@@ -278,4 +278,8 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FiycsaSXoAE4s3S?format=jpg
 ### 66: [2022-12-02 09:16:58+08:00 推文](https://twitter.com/realcaixia/status/1598486346753900544)
 
  <a href="https://youtu.be/drf6UboQr38" target="_blank" rel="noopener noreferrer">https://youtu.be/drf6UboQr38</a>
+
+### 67: [2022-12-02 11:07:48+08:00 推文](https://twitter.com/realcaixia/status/1598514239387598848)
+
+这个地方是江泽民家老宅，在江苏省扬州市的一条街巷里。<br><br>公民力量: 有人就有這個本事——讓你懷念牠的所有前任……<br><br><img style="" src="https://pbs.twimg.com/media/Fi3WydGWYAATG0A?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
