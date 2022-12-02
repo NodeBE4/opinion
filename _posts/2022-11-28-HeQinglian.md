@@ -363,3 +363,7 @@ Re @HongfuDing @JianglinLi @iweiRime 这是最合适的方式。<br>不过，我
 
 江泽民时代的三大关键词之一：腐败<br><br>江执政13年，大半是邓时期。放权让利形成的制度利差，带来了腐败与社会活力。<br>国企改革培养的国企寡头，为胡温“黄金十年”奠定基础；房地产热后发展成地方的“土地财政”；“三个代表”理论-新阶层论，为中国富豪进入人大政协开辟了制度性通道。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-12012022130655.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-12012022130655.html</a>
 
+### 88: [2022-12-02 11:00:48+08:00 推文](https://twitter.com/HeQinglian/status/1598512478631116805)
+
+Re @Wu_Zhi @JianglinLi @zhixiangziyou 马斯克邀请小泽同志来推特总部。告诉他，硅谷无数人盼望瞻仰小泽真容，会夹道欢迎并且捐款。
+
