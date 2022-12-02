@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-12-01
+date: 2022-12-02
 from: https://twitter.com/SpeechFreedomCN/status/1596922882851905537
 layout: post
 tags:
@@ -30,4 +30,12 @@ Re @jan_aristan 牺牲不一定指丢掉性命，被关进牢里也是一种牺�
 ### 4: [2022-12-01 16:37:05+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1598234721355694081)
 
 Qinghai man Sun Qing, who tweeted harmful info on Twitter that "attacked China's system, slandered its leaders, slandered pandemic measures and harmed the sovereignty and unity of the nation" via his 3 accounts (@maowus2 @ruoguang86 @CittaKusala), arrested in May 2020.<br><img style="" src="https://pbs.twimg.com/media/Fi4R7HHXgAAQpF6?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2022-12-02 21:33:17+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1598671649859141632)
+
+前NBA球员林书豪因在社交网站发布视频抱怨其在浙江省诸暨市下榻的隔离酒店设施简陋，被罚款一万元。<br><img style="" src="https://pbs.twimg.com/media/Fi-e-e4XoAMnAhT?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-12-02 21:35:44+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1598672265897549827)
+
+Former NBA star Jeremy Lin fined 10,000 RMB for complaining about poor condition in Covid quarantine facility in China. <a href="https://www.nbcnews.com/news/world/former-nba-star-jeremy-lin-fined-comments-covid-quarantine-playing-chi-rcna59759" target="_blank" rel="noopener noreferrer">https://www.nbcnews.com/news/world/former-nba-star-jeremy-lin-fined-comments-covid-quarantine-playing-chi-rcna59759</a>
 
