@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-12-02
+date: 2022-12-03
 from: https://twitter.com/realcaixia/status/1596935244816343041
 layout: post
 tags:
@@ -93,7 +93,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fip1xxuUAAEkjNd?format=jpg
 
 ### 20: [2022-11-28 21:37:17+08:00 推文](https://twitter.com/realcaixia/status/1597223103540604928)
 
-这就是所谓“人民至上”的真实显示：以人民为敌！<br><br>CNMD NEWS ²²: #行为艺术<br>昨晚，上海以东出大事了！警车冲撞示威人群。<br><br><video src="https://video.twimg.com/ext_tw_video/1597031950308749314/pu/vid/720x1082/9Kk232ZOTNJjv67o.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1597031950308749314/pu/img/L8NBrsHrb3Fa2Dqd.jpg"></video>
+这就是所谓“人民至上”的真实显示：以人民为敌！ <a href="https://twitter.com/cnnnd022/status/1597031992994193409" target="_blank" rel="noopener noreferrer">https://twitter.com/cnnnd022/status/1597031992994193409</a>
 
 ### 21: [2022-11-28 21:38:59+08:00 推文](https://twitter.com/realcaixia/status/1597223530982408192)
 
@@ -185,7 +185,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fiu2Jw8VEAEx6r9?format=jpg
 
 ### 43: [2022-11-30 06:28:32+08:00 推文](https://twitter.com/realcaixia/status/1597719183353335808)
 
-海外学子与国内学子心心相连。<br><br>Nini艾番妮🇺🇸🇭🇰🇺🇦Margana🎗️✋👍💛💙: @realcaixia 蔡霞老师，您好这是昨天晚上加州大学伯克利分校的视频，还有大量视频待剪辑，明确喊出罢免国贼习近平。<br> <a href="https://twitter.com/usabelair2021/status/1597489702667399168" target="_blank" rel="noopener noreferrer">https://twitter.com/usabelair2021/status/1597489702667399168</a>
+海外学子与国内学子心心相连。<br><br>Nini艾番妮🇺🇸🇭🇰🇺🇦Margana🎗️✋👍💛💙: @realcaixia 蔡霞老师，您好这是昨天晚上加州大学伯克利分校的视频，还有大量视频待剪辑，明确喊出罢免国贼习近平。<br>
 
 ### 44: [2022-11-30 12:48:19+08:00 推文](https://twitter.com/realcaixia/status/1597814759520206848)
 
@@ -193,7 +193,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fiu2Jw8VEAEx6r9?format=jpg
 
 ### 45: [2022-11-30 13:01:58+08:00 推文](https://twitter.com/realcaixia/status/1597818196308144128)
 
-请传给大陆的民众，分享参与抗争经历，积累识别混进，民众抗争行列里的便衣军警，增长保护自己安全的知识。这绝对必要。⬇请细细阅读️这位推友的详细叙述，我感觉很有益处。<br><br>巴丢草 Bad ї ucao: “当我趴在路边的一块石头上写新标语时，很多人在给我拍照，我那个时候不知会被便衣拍照，所以并未拒绝他们。这时候一个阿姨（戴着眼镜，像个文静精干的老教师）走过来跟我说：“妹妹，他们在拍你啊！不要怕，我帮你挡住，我保护你哈”<br> <a href="https://twitter.com/badiucao/status/1597491262948773888" target="_blank" rel="noopener noreferrer">https://twitter.com/badiucao/status/1597491262948773888</a>
+请传给大陆的民众，分享参与抗争经历，积累识别混进，民众抗争行列里的便衣军警，增长保护自己安全的知识。这绝对必要。⬇请细细阅读️这位推友的详细叙述，我感觉很有益处。<br><br>巴丢草 Bad ї ucao: “当我趴在路边的一块石头上写新标语时，很多人在给我拍照，我那个时候不知会被便衣拍照，所以并未拒绝他们。这时候一个阿姨（戴着眼镜，像个文静精干的老教师）走过来跟我说：“妹妹，他们在拍你啊！不要怕，我帮你挡住，我保护你哈”<br>
 
 ### 46: [2022-11-30 13:07:24+08:00 推文](https://twitter.com/realcaixia/status/1597819560874639360)
 
@@ -290,4 +290,36 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FiycsaSXoAE4s3S?format=jpg
 ### 69: [2022-12-02 23:02:38+08:00 推文](https://twitter.com/realcaixia/status/1598694133354627073)
 
 关注被警察抓走的每一位参与白纸运动抗争者的人身安全。让更多的人都来关注他们。前些天他们手举白纸为大陆所有人争自由；现在需要我们所有人为他们呼喊：警察放人！恢复他们的人身自由！<br><br>李大宇: “白纸革命”被捕者信息<br><br><video src="https://video.twimg.com/ext_tw_video/1598576216516198404/pu/vid/270x480/ciCUmYKPNxxHa74e.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1598576216516198404/pu/img/oGYaNJAFREclgHQz.jpg"></video>
+
+### 70: [2022-12-03 03:12:22+08:00 推文](https://twitter.com/realcaixia/status/1598756983183618048)
+
+有网友推荐和平抗争和枪口抬高一寸的做法。⬇️就是一例。<br>香港反送中运动中，香港青年提出“兄弟爬山，各自努力”，就是很好的思路。每个人在自己所处环境中，根据各自情况用各种方式抵制和反抗暴政。<br>“白纸运动”或称“白纸革命”也是这样，一张白纸可以表达可以容纳无限的可能，这就是极权怕白纸的原因所在<br><br>王思聪: 安全的反抗方法<br>1、广大人民不买房不买车，除了生活必需品，尽量不消费，让他们税收来源暴跌<br>2、工作岗位上消极怠工，能拖将就拖，能请假就请假，特别是关键物品生产<br>3、军人警察隐蔽性的不服从命令，比如无效率镇压百姓、消极查搜查用户信息、枪口故意不准<br>4、公务员故意不执行上级命令或者无效率执行<br> <a href="https://twitter.com/whyyoutouzhele/status/1598279542946381825" target="_blank" rel="noopener noreferrer">https://twitter.com/whyyoutouzhele/status/1598279542946381825</a>
+
+### 71: [2022-12-03 03:20:26+08:00 推文](https://twitter.com/realcaixia/status/1598759010404282369)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/Fi_u2BXVIAAayqQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fi_u2BZVsAEUP2v?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fi_u2BZUUAAXozN?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fi_u2BbVsAAo7Vo?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 72: [2022-12-03 03:30:46+08:00 推文](https://twitter.com/realcaixia/status/1598761613548716032)
+
+极权统治制造恐惧，恫吓民众，如果我们大家战胜恐惧不怕他们，极权就恐惧我们。<br>他们现在怕一张张白纸，怕义勇军进行曲和国际歌；怕烛光🕯️；怕汽车齐鸣笛；怕一朵朵菊花白花；怕幽默画；怕嘻哈歌………，<br><br>威廉: 上海阿姨:「我將被帶到公安局，甚至被判刑。但是我做了我應該做的事情」！<br>👍👍👍👍👍👍👍👍👍👍👍👍<br><br><video src="https://video.twimg.com/ext_tw_video/1598235782686601217/pu/vid/528x624/X-ybKyWfvU1-c47h.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1598235782686601217/pu/img/3zMnszrQa-zwWayM.jpg"></video>
+
+### 73: [2022-12-03 03:31:43+08:00 推文](https://twitter.com/realcaixia/status/1598761852443709440)
+
+讲得好！<br><br>亚州女性难民艺术组 Asian Woman Refugee Collective: 这位演讲者说得非常透彻：<br><br>100年前孙中山等辛亥革命就推翻了帝制，提出自由平等博爱民族民权民生，然而在今天的中国21世纪，习近平居然称帝了！天理何在？打倒习近平！<br><br>共产党是寄生在中国土地上的寄生虫，他们奴役中国人民73年！它才是真正的境外势力！打倒共产党！<br><br>#ChinaProtests #A4Revolution<br><br><video src="https://video.twimg.com/ext_tw_video/1598549009500553216/pu/vid/464x768/ojN3l-_2SbogL8BZ.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1598549009500553216/pu/img/eO3_8kbdXoYAX5ZU.jpg"></video>
+
+### 74: [2022-12-03 03:37:16+08:00 推文](https://twitter.com/realcaixia/status/1598763249591537665)
+
+令人鼓舞！令人感动。<br><br>周锋锁 Fengsuo Zhou: 薪火相传，又一个参加白纸革命的年轻人和我联系，是当年八九天安门广场战友的孩子，我所知道这样的就有三个。<br>#FreeChina #ItsOurDuty<br><br><img style="" src="https://pbs.twimg.com/media/Fi7I9gDVUAACQT2?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 75: [2022-12-03 03:51:17+08:00 推文](https://twitter.com/realcaixia/status/1598766775445094400)
+
+这位作者的评论是比较客观的。我前天与“不明白”播客主持人袁莉老师电话，也谈如何评价江泽民。<br>我希望把江泽民上台13年，幕后影响10年放到中国历史变迁过程中这个大背景下观察评价，放到中共党根本性质和中间权统治制度中去看。江及其在位情况具有相当复杂性。<br>仅仅停留于评价江个人，我以为还是浅了。<br><br>美国之音中文网: “与习近平比，江泽民更开放，更愿平衡强硬派与较温和派等力量，”美国前驻华大使洛德(Winston Lord)对美国之音说。江泽民传记《悬崖上的虎》作者杜林(Bruce Gilley)认为，江泽民从来没有邓小平或党内元老的权威，因此常受强硬派左右，而这种强硬思想在习领导下被实现了。报道：<br><br><video src="https://video.twimg.com/amplify_video/1598472155464753152/vid/1080x1080/EtBw2c0QQwD4F1bT.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/media/Fi7qweiUoAIyo2I?format=jpg&amp;name=orig"></video> <a href="https://bit.ly/3uiSPaQ" target="_blank" rel="noopener noreferrer">https://bit.ly/3uiSPaQ</a>
+
+### 76: [2022-12-03 04:24:27+08:00 推文](https://twitter.com/realcaixia/status/1598775120503328773)
+
+这是公然违法行为。警察执法犯法<br><br>liqun chen（陈立群）: 上海地铁，挨个查手机。😱<br><br><img style="" src="https://pbs.twimg.com/media/Fi-euJlUAAAydcC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/i/web/status/1598670936185585666" target="_blank" rel="noopener noreferrer">https://twitter.com/i/web/status/1598670936185585666</a>
+
+### 77: [2022-12-03 04:26:49+08:00 推文](https://twitter.com/realcaixia/status/1598775719202820096)
+
+特别推荐：<br><br>《议报》: 【議想天開】與其坐侃六四，不如舉起白紙。與其痛心疾首，不如發憤自由。哪裡可以舉起白紙，就在哪裡爭你的自由。<br><br>白紙詩抄（續）| 阿鐘 笑蜀 吾愛西東<br> <a href="https://yibaochina.com/?p=248579" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248579</a>
 
