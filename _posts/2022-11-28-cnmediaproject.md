@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-12-01
+date: 2022-12-02
 from: https://twitter.com/ChinaLawTransl8/status/1597328782213664769
 layout: post
 tags:
@@ -78,4 +78,8 @@ Re Is it unusual in its effusiveness? No, not at all. In fact, it almost perfect
 ### 16: [2022-12-01 20:15:23+08:00 推文](https://twitter.com/cnmediaproject/status/1598289657103806464)
 
 Re The phrase “an outstanding leader who had the utmost respect of our Party, our military, and the various peoples of our nation” (我党我军我国各族人民公认的享有崇高威望的卓越领导人) — used for Jiang yesterday and today — originated with Deng's death.
+
+### 17: [2022-12-02 14:56:18+08:00 推文](https://twitter.com/cnmediaproject/status/1598571743987523584)
+
+Some interesting insights in CMP's latest monthly discourse report with Sinocism. This one is free to read, so don't miss out!<br><br>Bill Bishop: China’s Political Discourse October 2022: The Dust Settles on the 20th National Congress of the CCP, by @cnmediaproject<br> <a href="https://open.substack.com/pub/sinocism/p/chinas-political-discourse-october-a83?r=2e&amp;utm_campaign=post&amp;utm_medium=web" target="_blank" rel="noopener noreferrer">https://open.substack.com/pub/sinocism/p/chinas-political-discourse-october-a83?r=2e&amp;utm_campaign=post&amp;utm_medium=web</a>
 
