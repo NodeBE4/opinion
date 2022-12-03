@@ -19,7 +19,7 @@ Author of Freedom, UK (https://t.co/2OFalKXJG1) and NA (https://t.co/mkF6N8U5d0)
 
 ### 1: [2021-12-06 07:06:01+08:00 推文](https://twitter.com/nathanlawkc/status/1467631372001062913)
 
-I am very honored to announce that I am invited by @POTUS to deliver a remark in The Summit for Democracy on 10th Dec.<br>The remark serves as a bridge between sessions on "protecting human rights" and "defending against authoritarianism." The voice of Hong Kong will be heard.<br><img style="" src="https://pbs.twimg.com/media/FF4Sn2pWUAMW3KT?format=jpg&name=orig" referrerpolicy="no-referrer">
+I am very honored to announce that I am invited by @POTUS to deliver a remark in The Summit for Democracy on 10th Dec.<br>The remark serves as a bridge between sessions on "protecting human rights" and "defending against authoritarianism." The voice of Hong Kong will be heard.<br><img style src="https://pbs.twimg.com/media/FF4Sn2pWUAMW3KT?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2021-12-06 19:27:59+08:00 推文](https://twitter.com/nathanlawkc/status/1467818096010448898)
 
@@ -27,7 +27,7 @@ I am very honored to announce that I am invited by @POTUS to deliver a remark in
 
 ### 3: [2021-12-07 07:05:35+08:00 推文](https://twitter.com/nathanlawkc/status/1467993653415235585)
 
-From a student protest leader, the youngest elected legislator in Hong Kong, to a political prisoner and exiled activist … these all happened in my 20s. <br><br>And this is the story I want to share. <br><br>#Freedom is available in the US & Canada on 7th Dec. <a href="http://bit.ly/Freedom-Book" target="_blank" rel="noopener noreferrer">http://bit.ly/Freedom-Book</a><br><img style="" src="https://pbs.twimg.com/media/FF9b4lGXwBEW-Fa?format=jpg&name=orig" referrerpolicy="no-referrer">
+From a student protest leader, the youngest elected legislator in Hong Kong, to a political prisoner and exiled activist … these all happened in my 20s. <br><br>And this is the story I want to share. <br><br>#Freedom is available in the US & Canada on 7th Dec. <a href="http://bit.ly/Freedom-Book" target="_blank" rel="noopener noreferrer">http://bit.ly/Freedom-Book</a><br><img style src="https://pbs.twimg.com/media/FF9b4lGXwBEW-Fa?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-12-07 07:57:01+08:00 推文](https://twitter.com/nathanlawkc/status/1468006595804209154)
 
@@ -75,9 +75,9 @@ Thanks @nprscottsimon for having me on NPR’s morning program.<br><br>Scott Sim
 
 ### 15: [2021-12-11 22:57:55+08:00 推文](https://twitter.com/nathanlawkc/status/1469682865197793281)
 
-Friends in #NA:<br>“#Freedom” is out now. Reflecting on my #SummitforDemocracy remark, it's surely a timely read.<br>The story of Hong Kong is narrated through my life. It is a touching, warm, and insightful touch on why we should protect freedom and democracy. <a href="http://bit.ly/Freedom-Book" target="_blank" rel="noopener noreferrer">http://bit.ly/Freedom-Book</a><br><img style="" src="https://pbs.twimg.com/media/FGVcAqzXwAQUAsF?format=jpg&name=orig" referrerpolicy="no-referrer">
+Friends in #NA:<br>“#Freedom” is out now. Reflecting on my #SummitforDemocracy remark, it's surely a timely read.<br>The story of Hong Kong is narrated through my life. It is a touching, warm, and insightful touch on why we should protect freedom and democracy. <a href="http://bit.ly/Freedom-Book" target="_blank" rel="noopener noreferrer">http://bit.ly/Freedom-Book</a><br><img style src="https://pbs.twimg.com/media/FGVcAqzXwAQUAsF?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 16: [2021-12-12 04:32:00+08:00 推文](https://twitter.com/nathanlawkc/status/1469766940432510977)
 
-Thanks everyone for coming this yellow cake shop❤️<br><br>Lianain Films: In Queens lining up for a copy of “Freedom” by @nathanlawkc. They’re selling like hotcakes. All gone in 25 mins!<br><br><img style="" src="https://pbs.twimg.com/media/FGV_Qj0VUAAshM-?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGV_Qj2VQAMLXkA?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGV_Qj6VUAAa83v?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGV_Qj5UUAMY4bK?format=jpg&name=orig" referrerpolicy="no-referrer">
+Thanks everyone for coming this yellow cake shop❤️<br><br>Lianain Films: In Queens lining up for a copy of “Freedom” by @nathanlawkc. They’re selling like hotcakes. All gone in 25 mins!<br><br><img style src="https://pbs.twimg.com/media/FGV_Qj0VUAAshM-?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGV_Qj2VQAMLXkA?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGV_Qj6VUAAa83v?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGV_Qj5UUAMY4bK?format=jpg&name=orig" referrerpolicy="no-referrer">
 
