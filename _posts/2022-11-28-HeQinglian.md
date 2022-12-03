@@ -445,7 +445,7 @@ Re @xchen62 @RealBeiMing 资本主义冠以“金融资本主义”，是二战�
 
 ### 108: [2022-12-03 09:03:43+08:00 推文](https://twitter.com/HeQinglian/status/1598845400709877760)
 
-推友 Victoria🌼@VictoriaTC 重返推特，将如以前一样，为大家及时提供有质量的英文信息并附上简单翻译。<br>请有兴趣的推友关注。<br><br>Victoria🌼: 💥马斯克公布的推特内部文件以丰富的证据链显示，民主党和媒体勾结偷走了2020总统大选。<br>＃推特文件 ＃窃选 ＃选举舞弊<br> <a href="https://twitter.com/VictoriaTC/status/1598838170279636992" target="_blank" rel="noopener noreferrer">https://twitter.com/VictoriaTC/status/1598838170279636992</a>
+推友 Victoria🌼@VictoriaTC 重返推特，将如以前一样，为大家及时提供有质量的英文信息并附上简单翻译。<br>请有兴趣的推友关注。<br><br>Victoria🌼: 💥马斯克公布的推特内部文件以丰富的证据链显示，民主党和媒体勾结偷走了2020总统大选。<br>＃推特文件 ＃窃选 ＃选举舞弊<br>
 
 ### 109: [2022-12-03 11:21:36+08:00 推文](https://twitter.com/HeQinglian/status/1598880099415138304)
 
@@ -454,4 +454,20 @@ Re @xchen62 @RealBeiMing 资本主义冠以“金融资本主义”，是二战�
 ### 110: [2022-12-03 11:32:14+08:00 推文](https://twitter.com/HeQinglian/status/1598882777180434432)
 
 😅拜登政府能源部高级官员、联邦政府首批“非二元性别”官员之一的萨姆·布林顿（Sam Brinton）被指控犯有盗窃重罪。今年9月，他在美国明尼阿波利斯州的机场偷走了一位乘客的名牌行李包，然后在酒店清空里面的行李衣物后将行李包据为己有。被起诉后，布林顿被悄然安排停职休假。 <a href="https://www.insider.com/biden-official-charged-theft-vera-bradley-suitcase-from-airport-2022-11" target="_blank" rel="noopener noreferrer">https://www.insider.com/biden-official-charged-theft-vera-bradley-suitcase-from-airport-2022-11</a>
+
+### 111: [2022-12-03 21:47:54+08:00 推文](https://twitter.com/HeQinglian/status/1599037713524539392)
+
+Re @LAPUDA_20 是链接文章自动蹦出来的，我也感到恶心啊。
+
+### 112: [2022-12-03 21:54:24+08:00 推文](https://twitter.com/HeQinglian/status/1599039352352358400)
+
+Re @RealBeiMing 有部电视剧，《美第奇家族》，那就是意大利银行业兴起的始祖与时间——意大利是世界借贷业-银行业发源之地。<br>莎翁《威尼斯商人》里的主角就是借贷业“吸血鬼”。<br>不如读一本现代金融史，里面会重点谈到美国金融霸权的建立，华尔街金融业的兴起，各种评级机构如何掌握世界各国的信用评级，形成超级权力
+
+### 113: [2022-12-03 22:07:18+08:00 推文](https://twitter.com/HeQinglian/status/1599042596067647489)
+
+Re @mingshi_chen @RealBeiMing 俄罗斯可以选择不卖给欧盟。
+
+### 114: [2022-12-03 22:10:44+08:00 推文](https://twitter.com/HeQinglian/status/1599043459679064066)
+
+推荐一部《美联储传：一部现代金融史》。这在美国也是较新的著作。<br>我当年读书时，所读《中国货币史》是1950年代的小本。现代金融史就没读过一本象话的书，都是后来慢慢补上的。中国开放这么多年，有不少好书的译本（不是说译得好），可惜现在的人不读了。<br><br>He Qinglian: @RealBeiMing 有部电视剧，《美第奇家族》，那就是意大利银行业兴起的始祖与时间——意大利是世界借贷业-银行业发源之地。<br>莎翁《威尼斯商人》里的主角就是借贷业“吸血鬼”。<br>不如读一本现代金融史，里面会重点谈到美国金融霸权的建立，华尔街金融业的兴起，各种评级机构如何掌握世界各国的信用评级，形成超级权力<br>
 
