@@ -375,67 +375,83 @@ Re @EvanLi2020 这个我在第三篇会写到：用体制内地位赎买体制�
 
 Re @KELMAND1 目前台阶已经搭得够宽够长，拜登也呼吁希望与普京谈判。<br>美欧给台阶上铺上了红地毯，什么时候走下来，可能还得普京搭把手，最好弯腰搀扶拜登走红地毯，这样美欧就有了足够的面子，再去印太做世界领导，指点江山。<br>我意是拜登政府没这能力。<br>这次台湾民进党失去的是年轻人选票，LGBTQI的动力小于惧战。
 
-### 91: [2022-12-02 22:31:36+08:00 推文](https://twitter.com/HeQinglian/status/1598686324835307520)
+### 91: [2022-12-02 22:07:31+08:00 推文](https://twitter.com/fading_you1/status/1598680263667712000)
+
+RT 天降伟人包由检<br>值得好好看看这个纪录片。美国的问题和中国的问题很凑巧的在曹德旺先生这里碰撞到一起。<br><br>细读经典：中国老板在美国开工厂是什么体验？ <a href="https://youtu.be/U9cwYk4rk4o" target="_blank" rel="noopener noreferrer">https://youtu.be/U9cwYk4rk4o</a>
+
+### 92: [2022-12-02 22:31:36+08:00 推文](https://twitter.com/HeQinglian/status/1598686324835307520)
 
 Re @JianglinLi @Wu_Zhi @zhixiangziyou 各方迹象表明美国想要停战。于是我在想乌克兰的重建问题。<br>除了基建工程与房地产之外（多半只能靠外援），乌克兰其实只能重操旧业。问题来了，一是欧洲国家经此一战国力大损，奇怪的性消费需求会降低（器官零售会继续）；二是有罗马尼亚、阿尔巴尼亚这些供给方竞争，供给大于需求。<br>战火重生不容易。
 
-### 92: [2022-12-02 22:57:32+08:00 推文](https://twitter.com/HeQinglian/status/1598692849872211968)
+### 93: [2022-12-02 22:57:32+08:00 推文](https://twitter.com/HeQinglian/status/1598692849872211968)
 
 Re @Lucs24659702 罗马帝国晚期、巴比伦王国灭亡之前，差不多就是这景象。
 
-### 93: [2022-12-02 23:47:43+08:00 推文](https://twitter.com/HongfuDing/status/1598705480603701249)
+### 94: [2022-12-02 23:47:43+08:00 推文](https://twitter.com/HongfuDing/status/1598705480603701249)
 
 RT Hongfu Ding<br>前几天在旧货店买了一本书，胡佛总统（1929-1933）所著，1934年第一版。在近百年来的左倾主流话语中，胡佛总统是失败的总统。他在书中警告，自由面临威胁和挑战，来自：socialism, communism, fascism, naziism.<br>那是1933年。2022年读来，犹如昨日。<br><img style="" src="https://pbs.twimg.com/media/Fi-8i5oXkAAOF5A?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 94: [2022-12-03 00:05:28+08:00 推文](https://twitter.com/HeQinglian/status/1598709948384710656)
+### 95: [2022-12-03 00:05:28+08:00 推文](https://twitter.com/HeQinglian/status/1598709948384710656)
 
 Re @KELMAND1 关于防疫方式，各国都有争论。<br>西方国家最开始就认为反人权而不肯实行，比如美国，因大学生群体与美国左派反川普，几乎从开始就有人反对，有人采取自律模式。到2020年3月还因聚会罚点款，后来不了了之。<br>中国坚持到今天，考虑到社会情绪，交给社区（非居委会）自我管理，后果自负，可能是最好的方式。
 
-### 95: [2022-12-03 00:12:41+08:00 推文](https://twitter.com/HeQinglian/status/1598711763469467650)
+### 96: [2022-12-03 00:12:41+08:00 推文](https://twitter.com/HeQinglian/status/1598711763469467650)
 
 Re @KELMAND1 只能是这样。比如我们在美国，也只能这样。<br>社区管理好在这点：为考虑邻舍关系，人们自觉一点。比如我有位邻居，外出旅游回来，半个月不与邻居接触，说是担心携带病毒感染大家。但他家也不需要我们代为购物，自家去。这点让我们觉得好玩。
 
-### 96: [2022-12-03 00:15:29+08:00 推文](https://twitter.com/HeQinglian/status/1598712467865145345)
+### 97: [2022-12-03 00:15:29+08:00 推文](https://twitter.com/HeQinglian/status/1598712467865145345)
 
 Re @Lucs24659702 他应该趁“地球总统”的余光犹在，想做什么就做什么。再过几个月，媒体不会对他这么客气了。
 
-### 97: [2022-12-03 00:17:14+08:00 推文](https://twitter.com/HeQinglian/status/1598712907360894981)
+### 98: [2022-12-03 00:17:14+08:00 推文](https://twitter.com/HeQinglian/status/1598712907360894981)
 
 Re @Isabel_3299 我觉得这从来不是问题。<br>但是，有个人群例外，而且是女文青与革青特别喜欢并崇拜的人群——我不说。
 
-### 98: [2022-12-03 00:27:40+08:00 推文](https://twitter.com/HeQinglian/status/1598715531896291335)
+### 99: [2022-12-03 00:27:40+08:00 推文](https://twitter.com/HeQinglian/status/1598715531896291335)
 
 江泽民时代的三个关键词之二：开放<br><br>这个“开放”，是以经济开放为主辅之以文化、人员交流。在国际社会中，江泽民时代始终恪守邓小平定下的“韬光养晦”，“与国际接轨”原则。<br>克林顿力推中国入世，是因江接受一个对华法律援助项目并让NGO进驻中国，这个项目的最大成果是维权运动。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-12022022093115.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-12022022093115.html</a>
 
-### 99: [2022-12-03 00:31:52+08:00 推文](https://twitter.com/HeQinglian/status/1598716591880953857)
+### 100: [2022-12-03 00:31:52+08:00 推文](https://twitter.com/HeQinglian/status/1598716591880953857)
 
 Re @KELMAND1 这是中国人的弱项，美国黑人区也好不了多少。<br>美国有个调查，在美华人最自律，病毒从中国传过来，但华人群体感染率最低。<br>在美华人与在中国的国人，生存环境不一样，自律精神要强点，尤其是散居在ChinaTown之外的人。
 
-### 100: [2022-12-03 00:34:45+08:00 推文](https://twitter.com/HeQinglian/status/1598717314047922177)
+### 101: [2022-12-03 00:34:45+08:00 推文](https://twitter.com/HeQinglian/status/1598717314047922177)
 
 Re 江比较会谈判，而且谈话技巧与公关技巧都强于胡、朱、习、温，文中史料说明，他确实讨得美国传媒、政界、公众的喜欢。
 
-### 101: [2022-12-03 00:36:43+08:00 推文](https://twitter.com/HeQinglian/status/1598717810884083712)
+### 102: [2022-12-03 00:36:43+08:00 推文](https://twitter.com/HeQinglian/status/1598717810884083712)
 
 Re @lianghuiwang2 Z世代开始，有色人种已经占多数了——只是黑人占比暂时不可能成为单一多数。
 
-### 102: [2022-12-03 00:48:50+08:00 推文](https://twitter.com/HeQinglian/status/1598720861128761346)
+### 103: [2022-12-03 00:48:50+08:00 推文](https://twitter.com/HeQinglian/status/1598720861128761346)
 
 Re @HongfuDing @jbchen2009 这位是美国第一代进步主义教主，行政国家（深层政府）的创始人，强调专家治国，与选举脱离。<br>不过，普林斯顿大学的现代进步主义学生没放过他，以他命名的大楼易名，学校在BLM运动时，在其塑像周围两千平方英尺地界内维修，因此没被摧毁。
 
-### 103: [2022-12-03 06:18:55+08:00 推文](https://twitter.com/HeQinglian/status/1598803929441214465)
+### 104: [2022-12-03 06:18:55+08:00 推文](https://twitter.com/HeQinglian/status/1598803929441214465)
 
 Re @RealBeiMing 这不需要金融经济史家<br>二战以后的布雷顿森林体系，造就了美国的金融霸权。因为从此不再以黄金为货币本位，各国货币汇率与美元挂钩。<br>这段历史并不复杂。从布雷顿森林体系成立，经过中东战争-美元危机，再到国际货币基金组织的一篮子货币计划（内容有变，最开始意大利里拉都在其内），大半世纪时间而已
 
-### 104: [2022-12-03 08:34:59+08:00 推文](https://twitter.com/VictoriaTC/status/1598838170279636992)
+### 105: [2022-12-03 08:34:59+08:00 推文](https://twitter.com/VictoriaTC/status/1598838170279636992)
 
 RT Victoria🌼<br>💥直播间说：这些推特内部文件提供了完整的证据链，推特参与了voter suppression，甚至是阴谋推翻政府。“这是水门事件以来最大的新闻。”<br><br>Nuance Bro: <br> <a href="https://twitter.com/i/spaces/1dRJZMDVLvzGB" target="_blank" rel="noopener noreferrer">https://twitter.com/i/spaces/1dRJZMDVLvzGB</a>
 
-### 105: [2022-12-03 08:43:32+08:00 推文](https://twitter.com/VictoriaTC/status/1598840322754158597)
+### 106: [2022-12-03 08:43:32+08:00 推文](https://twitter.com/VictoriaTC/status/1598840322754158597)
 
 RT Victoria🌼<br>💥马斯克公布的推特内部文件以丰富的证据链显示，民主党和媒体勾结偷走了2020总统大选。<br>＃推特文件 ＃窃选 ＃选举舞弊<br><br>Victoria🌼: 💥直播间说：这些推特内部文件提供了完整的证据链，推特参与了voter suppression，甚至是阴谋推翻政府。“这是水门事件以来最大的新闻。”<br>
 
-### 106: [2022-12-03 08:50:33+08:00 推文](https://twitter.com/HeQinglian/status/1598842090141597696)
+### 107: [2022-12-03 08:50:33+08:00 推文](https://twitter.com/HeQinglian/status/1598842090141597696)
 
 Re @xchen62 @RealBeiMing 资本主义冠以“金融资本主义”，是二战之后，此前，是产业资本主义。<br>凯恩斯的《货币论》，既是他本人一本过渡性的著作，也是时代从产业资本主义过渡到金融资本主义的研究。<br>这一点，西方经济史划分得非常明显。
+
+### 108: [2022-12-03 09:03:43+08:00 推文](https://twitter.com/HeQinglian/status/1598845400709877760)
+
+推友 Victoria🌼@VictoriaTC 重返推特，将如以前一样，为大家及时提供有质量的英文信息并附上简单翻译。<br>请有兴趣的推友关注。<br><br>Victoria🌼: 💥马斯克公布的推特内部文件以丰富的证据链显示，民主党和媒体勾结偷走了2020总统大选。<br>＃推特文件 ＃窃选 ＃选举舞弊<br>
+
+### 109: [2022-12-03 11:21:36+08:00 推文](https://twitter.com/HeQinglian/status/1598880099415138304)
+
+世卫估计全球90%人口对新冠病毒拥有抗体 <br>看来，西方各国已经被折腾惨了，也不再想使用疫苗证了。好事。<br>covid-19早就完成了自己最重要的历史使命——2020年美国大选。 <a href="https://rfi.my/8xRQ.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8xRQ.T</a>
+
+### 110: [2022-12-03 11:32:14+08:00 推文](https://twitter.com/HeQinglian/status/1598882777180434432)
+
+😅拜登政府能源部高级官员、联邦政府首批“非二元性别”官员之一的萨姆·布林顿（Sam Brinton）被指控犯有盗窃重罪。今年9月，他在美国明尼阿波利斯州的机场偷走了一位乘客的名牌行李包，然后在酒店清空里面的行李衣物后将行李包据为己有。被起诉后，布林顿被悄然安排停职休假。 <a href="https://www.insider.com/biden-official-charged-theft-vera-bradley-suitcase-from-airport-2022-11" target="_blank" rel="noopener noreferrer">https://www.insider.com/biden-official-charged-theft-vera-bradley-suitcase-from-airport-2022-11</a>
 
