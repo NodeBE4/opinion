@@ -427,3 +427,15 @@ Re @HongfuDing @jbchen2009 这位是美国第一代进步主义教主，行政�
 
 Re @RealBeiMing 这不需要金融经济史家<br>二战以后的布雷顿森林体系，造就了美国的金融霸权。因为从此不再以黄金为货币本位，各国货币汇率与美元挂钩。<br>这段历史并不复杂。从布雷顿森林体系成立，经过中东战争-美元危机，再到国际货币基金组织的一篮子货币计划（内容有变，最开始意大利里拉都在其内），大半世纪时间而已
 
+### 104: [2022-12-03 08:34:59+08:00 推文](https://twitter.com/VictoriaTC/status/1598838170279636992)
+
+RT Victoria🌼<br>💥直播间说：这些推特内部文件提供了完整的证据链，推特参与了voter suppression，甚至是阴谋推翻政府。“这是水门事件以来最大的新闻。”<br><br>Nuance Bro: <br> <a href="https://twitter.com/i/spaces/1dRJZMDVLvzGB" target="_blank" rel="noopener noreferrer">https://twitter.com/i/spaces/1dRJZMDVLvzGB</a>
+
+### 105: [2022-12-03 08:43:32+08:00 推文](https://twitter.com/VictoriaTC/status/1598840322754158597)
+
+RT Victoria🌼<br>💥马斯克公布的推特内部文件以丰富的证据链显示，民主党和媒体勾结偷走了2020总统大选。<br>＃推特文件 ＃窃选 ＃选举舞弊<br><br>Victoria🌼: 💥直播间说：这些推特内部文件提供了完整的证据链，推特参与了voter suppression，甚至是阴谋推翻政府。“这是水门事件以来最大的新闻。”<br>
+
+### 106: [2022-12-03 08:50:33+08:00 推文](https://twitter.com/HeQinglian/status/1598842090141597696)
+
+Re @xchen62 @RealBeiMing 资本主义冠以“金融资本主义”，是二战之后，此前，是产业资本主义。<br>凯恩斯的《货币论》，既是他本人一本过渡性的著作，也是时代从产业资本主义过渡到金融资本主义的研究。<br>这一点，西方经济史划分得非常明显。
+
