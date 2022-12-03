@@ -17,15 +17,15 @@ title: 'Twitter @中国文字狱事件盘点: 2022-01-17~2022-01-23'
 
 ### 1: [2022-01-17 21:28:26+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1483068699603091459)
 
-山西太原媒体人胡新成，因长期帮助访民和推行全民免费医疗（通过网络呼吁和收集签名提交请愿等方式），于去年12月失联。近日其律师通过其家人确认其已被捕，罪名为宣扬恐怖主义罪。<br><img style="" src="https://pbs.twimg.com/media/FJTqd0UXoAYfKQb?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FJTqgQfWUAkzEZu?format=png&name=orig" referrerpolicy="no-referrer">
+山西太原媒体人胡新成，因长期帮助访民和推行全民免费医疗（通过网络呼吁和收集签名提交请愿等方式），于去年12月失联。近日其律师通过其家人确认其已被捕，罪名为宣扬恐怖主义罪。<br><img style src="https://pbs.twimg.com/media/FJTqd0UXoAYfKQb?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FJTqgQfWUAkzEZu?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2022-01-17 21:32:54+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1483069823315845120)
 
-It appears China has redefined terrorism as something that terrorizes the government: journalist Hu Xincheng from China's Shanxi Province arrested for advocating nationwide free medicare, and the charge against him is advocating terrorism, according to his lawyer & family.<br><img style src="https://pbs.twimg.com/media/FJTrLtyX0AAMIBb?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FJTrNyFXEAEsNxI?format=png&name=orig" referrerpolicy="no-referrer">
+It appears China has redefined terrorism as something that terrorizes the government: journalist Hu Xincheng from China's Shanxi Province arrested for advocating nationwide free medicare, and the charge against him is advocating terrorism, according to his lawyer &amp; family.<br><img style="" src="https://pbs.twimg.com/media/FJTrLtyX0AAMIBb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FJTrNyFXEAEsNxI?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2022-01-18 21:02:36+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1483424585378840579)
 
-Re 人权律师谢阳，自上月到湖南永顺县声援被精神病的李田田老师后，就被跟踪骚扰，随后被失踪，现确认其已被刑事拘留，罪名为煽动颠覆国家政权罪。谢阳在2017年就被判处煽颠罪免予处罚。<br>图为一个月前的谢阳和一个月后的谢阳。<br><img style src="https://pbs.twimg.com/media/FJYtMoZXsAQ3XTw?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FJYtXFmXoAYBLqi?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re 人权律师谢阳，自上月到湖南永顺县声援被精神病的李田田老师后，就被跟踪骚扰，随后被失踪，现确认其已被刑事拘留，罪名为煽动颠覆国家政权罪。谢阳在2017年就被判处煽颠罪免予处罚。<br>图为一个月前的谢阳和一个月后的谢阳。<br><img style="" src="https://pbs.twimg.com/media/FJYtMoZXsAQ3XTw?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FJYtXFmXoAYBLqi?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2022-01-18 21:08:46+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1483426136684126216)
 

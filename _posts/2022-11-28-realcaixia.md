@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-12-03
+date: 2022-12-04
 from: https://twitter.com/realcaixia/status/1596935244816343041
 layout: post
 tags:
@@ -93,7 +93,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fip1xxuUAAEkjNd?format=jpg
 
 ### 20: [2022-11-28 21:37:17+08:00 推文](https://twitter.com/realcaixia/status/1597223103540604928)
 
-这就是所谓“人民至上”的真实显示：以人民为敌！<br><br>CNMD NEWS ²²: #行为艺术<br>昨晚，上海以东出大事了！警车冲撞示威人群。<br><br><video src="https://video.twimg.com/ext_tw_video/1597031950308749314/pu/vid/720x1082/9Kk232ZOTNJjv67o.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1597031950308749314/pu/img/L8NBrsHrb3Fa2Dqd.jpg"></video>
+这就是所谓“人民至上”的真实显示：以人民为敌！ <a href="https://twitter.com/cnnnd022/status/1597031992994193409" target="_blank" rel="noopener noreferrer">https://twitter.com/cnnnd022/status/1597031992994193409</a>
 
 ### 21: [2022-11-28 21:38:59+08:00 推文](https://twitter.com/realcaixia/status/1597223530982408192)
 
@@ -245,7 +245,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FiycsaSXoAE4s3S?format=jpg
 
 ### 58: [2022-12-01 23:27:52+08:00 推文](https://twitter.com/realcaixia/status/1598338097909227520)
 
-与推友分享这个推文。如何运用现有法律保护好每一位参加白纸运动的大陆民众，下面⬇️介绍的做法很值得学习。如果能把这个广为传播，让更多的墙内朋友看到就好了。<br><br>Bob New: 教科書般運用法律保護白紙革命參與者合法權利的案例！<br>本次全民反封鎖運動，白紙革命畢竟只是少部分人參與，我們之所以覺得聲勢浩大，是因為社交媒體的信息茧房效應，昨天我聯繫上海朋友，他居然根本不知道抗議事件。<br>但是關於居委會封鎖違法的全面法治啟蒙卻實實在在傳播整個中國！<br>
+与推友分享这个推文。如何运用现有法律保护好每一位参加白纸运动的大陆民众，下面⬇️介绍的做法很值得学习。如果能把这个广为传播，让更多的墙内朋友看到就好了。<br><br>Bob New: 教科書般運用法律保護白紙革命參與者合法權利的案例！<br>本次全民反封鎖運動，白紙革命畢竟只是少部分人參與，我們之所以覺得聲勢浩大，是因為社交媒體的信息茧房效應，昨天我聯繫上海朋友，他居然根本不知道抗議事件。<br>但是關於居委會封鎖違法的全面法治啟蒙卻實實在在傳播整個中國！<br> <a href="https://twitter.com/Tianwei_Yin/status/1597823903271129089" target="_blank" rel="noopener noreferrer">https://twitter.com/Tianwei_Yin/status/1597823903271129089</a>
 
 ### 59: [2022-12-01 23:36:33+08:00 推文](https://twitter.com/realcaixia/status/1598340279513141249)
 
@@ -330,4 +330,28 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fi_u2BXVIAAayqQ?format=jpg
 ### 79: [2022-12-03 05:07:43+08:00 推文](https://twitter.com/realcaixia/status/1598786011458600960)
 
 呼吁能参加的都去！<br><br>全球倒习救国翡翠运动: 白纸革命，燎原全球<br>周日抗议，点燃华府<br>本周日下午聚集中国美领馆，共同声讨窃国大盗习近平！💪💪💪<br><br><img style="" src="https://pbs.twimg.com/media/Fi7aPvtWYAU1H4a?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 80: [2022-12-04 00:34:32+08:00 推文](https://twitter.com/realcaixia/status/1599079648625057793)
+
+这位赵妈妈的图片在国内就看到，传播很广。中共拿平民子弟生命换政治利益。历来如此。<br><br>Ivy未央: 转）儿子阵亡 母亲20年才凑齐路费  到儿子墓前痛哭<br>云南嵩明人赵占英,1984年阵亡,年仅21岁,葬于麻栗坡陵园。贫穷的赵妈妈向乡政府多次申请路费未果，于是自己攒,终于攒够了路费，200元。2004年,她首次来到陵园,在儿子坟前痛哭。从嵩明到麻栗坡163公里,她却用20年来穿越。这是谁的国,值得去保卫吗？<br><br><img style="" src="https://pbs.twimg.com/media/FjEFTHmXwAEWYm2?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 81: [2022-12-04 01:36:49+08:00 推文](https://twitter.com/realcaixia/status/1599095323074654208)
+
+一人凭借极权制度祸国殃民。<br><br>萧瀚: 这么大一个国家，14亿人口的大国，就凭着某个人一句话就可以治国，想想都是最恐怖的恐怖片。<br>
+
+### 82: [2022-12-04 01:52:45+08:00 推文](https://twitter.com/realcaixia/status/1599099334636748801)
+
+推荐阅读纽约时报的文章：<br>中国各地抗议浪潮让审查机器极限承压 - The New York Times<br><br>目前情况下，大量视频音频的流传让中共审查处于疲于应付、无力全部封杀的情况中，其统治能力就在被削弱，其统治就被撼动。当然，破掉中共信息防火墙是最根本的措施，这要不懈的努力。 <a href="https://www.nytimes.com/zh-hans/2022/12/01/world/asia/china-protests-censorship-video.html" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/zh-hans/2022/12/01/world/asia/china-protests-censorship-video.html</a>
+
+### 83: [2022-12-04 01:59:15+08:00 推文](https://twitter.com/realcaixia/status/1599100968724938752)
+
+集会发言者说得很对！<br><br>加拿大国际广播: 【报道】加拿大多个城市集会，蒙特利尔抗议者：继续呼吁习近平下台<br><br>“共产党从1949年执政以来，通过谎言和暴力，一直在控制中国，它制造了一系列人道灾难，但从来不用负责，没有道歉，而是继续用谎言和暴力执政。”<br> <a href="https://ici.radio-canada.ca/rci/zh-hans/%E6%96%B0%E9%97%BB/1938364/-%E6%8A%A5%E9%81%93-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A4%9A%E4%B8%AA%E5%9F%8E%E5%B8%82%E9%9B%86%E4%BC%9A-%E8%92%99%E7%89%B9%E5%88%A9%E5%B0%94%E6%8A%97%E8%AE%AE%E8%80%85-%E7%BB%A7%E7%BB%AD%E5%91%BC%E5%90%81%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8B%E5%8F%B0" target="_blank" rel="noopener noreferrer">https://ici.radio-canada.ca/rci/zh-hans/%E6%96%B0%E9%97%BB/1938364/-%E6%8A%A5%E9%81%93-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A4%9A%E4%B8%AA%E5%9F%8E%E5%B8%82%E9%9B%86%E4%BC%9A-%E8%92%99%E7%89%B9%E5%88%A9%E5%B0%94%E6%8A%97%E8%AE%AE%E8%80%85-%E7%BB%A7%E7%BB%AD%E5%91%BC%E5%90%81%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8B%E5%8F%B0</a>
+
+### 84: [2022-12-04 02:07:29+08:00 推文](https://twitter.com/realcaixia/status/1599103042330103808)
+
+让我们一起来转发这个推文图片吧。转推越多越好！<br><br>huangxiaoguai: @543dom_ 站队。。。<br><br><img style="" src="https://pbs.twimg.com/media/Fi8lqUWaMAE75KD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 85: [2022-12-04 02:26:50+08:00 推文](https://twitter.com/realcaixia/status/1599107909757317120)
+
+特别赞同这位推友的推文。 <br>白纸革命影响扩展到海外，白纸革命的内容正在大大的丰富，昨见一推文：保定的老人们举着白纸抗议央企电力集团供热远低于标准。可见白纸革命形式进入民众视野，白纸革命内容被民众逐步丰富，白纸革命正唤醒民众的抗争意识，白纸革命唤起更多人抗争勇气。<br>习当局惧怕白纸革命<br><br>William: @realcaixia "白纸革命"虽然短暂却是一个重要转折点，在此之前人们普遍的观念是只要生活水平日益提高就好，什么制度不重要，但疫情封控深深的刺痛了人们，他们终于认识到制度不改革，无论拥有多么美好的生活都会在一夜之间被"清零"，所以政治改革已经成为广泛的共识，只要习不下台，共产党不下台，抗争就不会停止。<br>
 
