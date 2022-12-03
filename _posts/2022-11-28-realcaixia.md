@@ -93,7 +93,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fip1xxuUAAEkjNd?format=jpg
 
 ### 20: [2022-11-28 21:37:17+08:00 推文](https://twitter.com/realcaixia/status/1597223103540604928)
 
-这就是所谓“人民至上”的真实显示：以人民为敌！ <a href="https://twitter.com/cnnnd022/status/1597031992994193409" target="_blank" rel="noopener noreferrer">https://twitter.com/cnnnd022/status/1597031992994193409</a>
+这就是所谓“人民至上”的真实显示：以人民为敌！<br><br>CNMD NEWS ²²: #行为艺术<br>昨晚，上海以东出大事了！警车冲撞示威人群。<br><br><video src="https://video.twimg.com/ext_tw_video/1597031950308749314/pu/vid/720x1082/9Kk232ZOTNJjv67o.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1597031950308749314/pu/img/L8NBrsHrb3Fa2Dqd.jpg"></video>
 
 ### 21: [2022-11-28 21:38:59+08:00 推文](https://twitter.com/realcaixia/status/1597223530982408192)
 
@@ -245,7 +245,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FiycsaSXoAE4s3S?format=jpg
 
 ### 58: [2022-12-01 23:27:52+08:00 推文](https://twitter.com/realcaixia/status/1598338097909227520)
 
-与推友分享这个推文。如何运用现有法律保护好每一位参加白纸运动的大陆民众，下面⬇️介绍的做法很值得学习。如果能把这个广为传播，让更多的墙内朋友看到就好了。<br><br>Bob New: 教科書般運用法律保護白紙革命參與者合法權利的案例！<br>本次全民反封鎖運動，白紙革命畢竟只是少部分人參與，我們之所以覺得聲勢浩大，是因為社交媒體的信息茧房效應，昨天我聯繫上海朋友，他居然根本不知道抗議事件。<br>但是關於居委會封鎖違法的全面法治啟蒙卻實實在在傳播整個中國！<br> <a href="https://twitter.com/Tianwei_Yin/status/1597823903271129089" target="_blank" rel="noopener noreferrer">https://twitter.com/Tianwei_Yin/status/1597823903271129089</a>
+与推友分享这个推文。如何运用现有法律保护好每一位参加白纸运动的大陆民众，下面⬇️介绍的做法很值得学习。如果能把这个广为传播，让更多的墙内朋友看到就好了。<br><br>Bob New: 教科書般運用法律保護白紙革命參與者合法權利的案例！<br>本次全民反封鎖運動，白紙革命畢竟只是少部分人參與，我們之所以覺得聲勢浩大，是因為社交媒體的信息茧房效應，昨天我聯繫上海朋友，他居然根本不知道抗議事件。<br>但是關於居委會封鎖違法的全面法治啟蒙卻實實在在傳播整個中國！<br>
 
 ### 59: [2022-12-01 23:36:33+08:00 推文](https://twitter.com/realcaixia/status/1598340279513141249)
 
@@ -354,4 +354,8 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fi_u2BXVIAAayqQ?format=jpg
 ### 85: [2022-12-04 02:26:50+08:00 推文](https://twitter.com/realcaixia/status/1599107909757317120)
 
 特别赞同这位推友的推文。 <br>白纸革命影响扩展到海外，白纸革命的内容正在大大的丰富，昨见一推文：保定的老人们举着白纸抗议央企电力集团供热远低于标准。可见白纸革命形式进入民众视野，白纸革命内容被民众逐步丰富，白纸革命正唤醒民众的抗争意识，白纸革命唤起更多人抗争勇气。<br>习当局惧怕白纸革命<br><br>William: @realcaixia "白纸革命"虽然短暂却是一个重要转折点，在此之前人们普遍的观念是只要生活水平日益提高就好，什么制度不重要，但疫情封控深深的刺痛了人们，他们终于认识到制度不改革，无论拥有多么美好的生活都会在一夜之间被"清零"，所以政治改革已经成为广泛的共识，只要习不下台，共产党不下台，抗争就不会停止。<br>
+
+### 86: [2022-12-04 05:34:33+08:00 推文](https://twitter.com/realcaixia/status/1599155150005805057)
+
+希望有更多的人关注李康梦，寻找李康梦，营救李康梦。<br><img style="" src="https://pbs.twimg.com/media/FjFXIGZUAAARrbP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FjFXIaLUoAAekzd?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

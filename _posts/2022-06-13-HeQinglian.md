@@ -325,7 +325,7 @@ Re @JianglinLi @nypost 戈培尔家的嫡传后裔。
 
 ### 78: [2022-06-17 10:09:04+08:00 推文](https://twitter.com/HeQinglian/status/1537618296819818496)
 
-听起来，中台开战，也会是信息战先行模式。<br>西方媒体一直说，外宣上，中国比俄罗斯笨拙。这次俄信息战完败，中国可能败得更惨？<br>中文世界的一半肯定是中国大胜，其他语种肯定是台湾一方碾压中国。<br>到时观众戏码肯定是：逼人站队表态支持、谣言满天飞。
+听起来，中台开战，也会是信息战先行模式。<br>西方媒体一直说，外宣上，中国比俄罗斯笨拙。这次俄信息战完败，中国可能败得更惨？<br>中文世界的一半肯定是中国大胜，其他语种肯定是台湾一方碾压中国。<br>到时观众戏码肯定是：逼人站队表态支持、谣言满天飞。<br><br>白月玲珑🇨🇳: 随着中国国防科技水平的不断提升，如今中国成功造出全球最小导弹，士兵一次可以背很多枚导弹，直接将士兵武装成超级战士，它就是国产QN202微型导弹，射程2公里黄瓜大小，狙击手见了头皮发麻。<br><br><img style="" src="https://pbs.twimg.com/media/FVXRZSyaUAAJVpi?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVXRZS1aAAAfOge?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVXRZSzaAAE-rPP?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 79: [2022-06-17 10:19:37+08:00 推文](https://twitter.com/HeQinglian/status/1537620951373840390)
 
@@ -341,7 +341,7 @@ Re 有个典故，看来经历过文革的也忘记了。<br>1970年代，有支
 
 ### 82: [2022-06-17 20:55:36+08:00 推文](https://twitter.com/HeQinglian/status/1537781002134863873)
 
-群魔乱舞。<br>华拜粉们带领儿女们去参加吧——一代而终，因为这都是无家可归之人。这家，指的是精神家园。<br>Liberal men与Women是心理上最不健康的，高吸毒率，高抑郁率，高家庭破碎率，喜欢回归丛林的原始状态。<br><br>Adaliab: They're not even hiding it anymore!<br><br><video src="https://video.twimg.com/ext_tw_video/1537500714443972608/pu/vid/560x352/c6edzy2w8y-GHEjF.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1537500714443972608/pu/img/gmhQPd6gCXSApcii.jpg"></video>
+群魔乱舞。<br>华拜粉们带领儿女们去参加吧——一代而终，因为这都是无家可归之人。这家，指的是精神家园。<br>Liberal men与Women是心理上最不健康的，高吸毒率，高抑郁率，高家庭破碎率，喜欢回归丛林的原始状态。
 
 ### 83: [2022-06-17 20:58:34+08:00 推文](https://twitter.com/HeQinglian/status/1537781748947353600)
 
@@ -513,7 +513,7 @@ Re @wakeup_arrow 出于好奇看了一眼。那位巴丢草我因其左得出位
 
 ### 125: [2022-06-19 23:19:59+08:00 推文](https://twitter.com/HeQinglian/status/1538542113008271364)
 
-我一直觉得西方在中俄关系上，对中国有不切实际的期待。<br>1、习近平对俄与普京的好感，中国人都知道，不是国家机密；2、地缘政治的需要，中国从未向美国许诺过亲美疏俄；3、金砖五国自2009年以来每年开会，日渐亲密，这也是公开信息。<br>西方要么不看自家之外的信息，要么将自家愿望当作他国必须要做之事
+我一直觉得西方在中俄关系上，对中国有不切实际的期待。<br>1、习近平对俄与普京的好感，中国人都知道，不是国家机密；2、地缘政治的需要，中国从未向美国许诺过亲美疏俄；3、金砖五国自2009年以来每年开会，日渐亲密，这也是公开信息。<br>西方要么不看自家之外的信息，要么将自家愿望当作他国必须要做之事<br><br>华尔街日报中文网: #本周热读 习近平在自己69岁生日这天与普京通话，重申支持莫斯科方面的安全关切，这一举动意味着中国无意在中俄密切关系上收手。保持与俄罗斯的伙伴关系意味着，中国必须继续采取一种向来很难的骑墙外交立场。<br> <a href="https://on.wsj.com/3zDmHCH" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3zDmHCH</a>
 
 ### 126: [2022-06-19 23:32:06+08:00 推文](https://twitter.com/HeQinglian/status/1538545164909682690)
 
