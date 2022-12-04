@@ -353,7 +353,7 @@ RT joe wong<br>Re @Lucs24659702<br><img style="" src="https://pbs.twimg.com/me
 
 ### 85: [2022-05-11 06:49:30+08:00 推文](https://twitter.com/RealBeiMing/status/1524159724018716672)
 
-RT 北明BeiMing<br>死吻！<br>鮑德此文大陸也有了譯本.朋友說:轉給裡面知識人,他們拒看,因為那個譯本是大陆反美網站做的.我能理解:中共幾十年如一日反美,而我們親美擁憲政民主.但此文作者是瑞典前情報官,此文法美兩國均有載,在大陸反美網站上一登就沒價值了?余英時先生名言:中共的呼籲是‘死吻’.兼聽撞上死吻,吻則不明,悲哉！<br><br>北明BeiMing: 中文版 烏俄戰爭隱藏的事實<br>歐洲權威人士披露，內容充實，視角深入，筆觸平實……作者的特殊身份和經歷使文章自帶權威性。<br><br>譯者冒天下大不韙翻譯此文，是出於道義責任和職業習慣，希望為善於思考的少數讀者提供被屏蔽的信息和埋沒在海量論說中的有價值的見解，以便兼聽則明。<br> <a href="https://jianglinswritings.blogspot.com/2022/04/blog-post.html?spref=tw" target="_blank" rel="noopener noreferrer">https://jianglinswritings.blogspot.com/2022/04/blog-post.html?spref=tw</a> <a href="https://twitter.com/fuzzyface/status/1515549870484238336" target="_blank" rel="noopener noreferrer">https://twitter.com/fuzzyface/status/1515549870484238336</a>
+RT 北明BeiMing<br>死吻！<br>鮑德此文大陸也有了譯本.朋友說:轉給裡面知識人,他們拒看,因為那個譯本是大陆反美網站做的.我能理解:中共幾十年如一日反美,而我們親美擁憲政民主.但此文作者是瑞典前情報官,此文法美兩國均有載,在大陸反美網站上一登就沒價值了?余英時先生名言:中共的呼籲是‘死吻’.兼聽撞上死吻,吻則不明,悲哉！
 
 ### 86: [2022-05-11 06:55:42+08:00 推文](https://twitter.com/HeQinglian/status/1524161283263766528)
 
