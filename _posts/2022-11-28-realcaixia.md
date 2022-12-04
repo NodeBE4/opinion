@@ -93,7 +93,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fip1xxuUAAEkjNd?format=jpg
 
 ### 20: [2022-11-28 21:37:17+08:00 推文](https://twitter.com/realcaixia/status/1597223103540604928)
 
-这就是所谓“人民至上”的真实显示：以人民为敌！<br><br>CNMD NEWS ²²: #行为艺术<br>昨晚，上海以东出大事了！警车冲撞示威人群。<br><br><video src="https://video.twimg.com/ext_tw_video/1597031950308749314/pu/vid/720x1082/9Kk232ZOTNJjv67o.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1597031950308749314/pu/img/L8NBrsHrb3Fa2Dqd.jpg"></video>
+这就是所谓“人民至上”的真实显示：以人民为敌！ <a href="https://twitter.com/cnnnd022/status/1597031992994193409" target="_blank" rel="noopener noreferrer">https://twitter.com/cnnnd022/status/1597031992994193409</a>
 
 ### 21: [2022-11-28 21:38:59+08:00 推文](https://twitter.com/realcaixia/status/1597223530982408192)
 
@@ -185,7 +185,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fiu2Jw8VEAEx6r9?format=jpg
 
 ### 43: [2022-11-30 06:28:32+08:00 推文](https://twitter.com/realcaixia/status/1597719183353335808)
 
-海外学子与国内学子心心相连。<br><br>Nini艾番妮🇺🇸🇭🇰🇺🇦Margana🎗️✋👍💛💙: @realcaixia 蔡霞老师，您好这是昨天晚上加州大学伯克利分校的视频，还有大量视频待剪辑，明确喊出罢免国贼习近平。<br>
+海外学子与国内学子心心相连。<br><br>Nini艾番妮🇺🇸🇭🇰🇺🇦Margana🎗️✋👍💛💙: @realcaixia 蔡霞老师，您好这是昨天晚上加州大学伯克利分校的视频，还有大量视频待剪辑，明确喊出罢免国贼习近平。<br> <a href="https://twitter.com/usabelair2021/status/1597489702667399168" target="_blank" rel="noopener noreferrer">https://twitter.com/usabelair2021/status/1597489702667399168</a>
 
 ### 44: [2022-11-30 12:48:19+08:00 推文](https://twitter.com/realcaixia/status/1597814759520206848)
 
@@ -193,7 +193,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fiu2Jw8VEAEx6r9?format=jpg
 
 ### 45: [2022-11-30 13:01:58+08:00 推文](https://twitter.com/realcaixia/status/1597818196308144128)
 
-请传给大陆的民众，分享参与抗争经历，积累识别混进，民众抗争行列里的便衣军警，增长保护自己安全的知识。这绝对必要。⬇请细细阅读️这位推友的详细叙述，我感觉很有益处。<br><br>巴丢草 Bad ї ucao: “当我趴在路边的一块石头上写新标语时，很多人在给我拍照，我那个时候不知会被便衣拍照，所以并未拒绝他们。这时候一个阿姨（戴着眼镜，像个文静精干的老教师）走过来跟我说：“妹妹，他们在拍你啊！不要怕，我帮你挡住，我保护你哈”<br>
+请传给大陆的民众，分享参与抗争经历，积累识别混进，民众抗争行列里的便衣军警，增长保护自己安全的知识。这绝对必要。⬇请细细阅读️这位推友的详细叙述，我感觉很有益处。<br><br>巴丢草 Bad ї ucao: “当我趴在路边的一块石头上写新标语时，很多人在给我拍照，我那个时候不知会被便衣拍照，所以并未拒绝他们。这时候一个阿姨（戴着眼镜，像个文静精干的老教师）走过来跟我说：“妹妹，他们在拍你啊！不要怕，我帮你挡住，我保护你哈”<br> <a href="https://twitter.com/badiucao/status/1597491262948773888" target="_blank" rel="noopener noreferrer">https://twitter.com/badiucao/status/1597491262948773888</a>
 
 ### 46: [2022-11-30 13:07:24+08:00 推文](https://twitter.com/realcaixia/status/1597819560874639360)
 
@@ -293,7 +293,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FiycsaSXoAE4s3S?format=jpg
 
 ### 70: [2022-12-03 03:12:22+08:00 推文](https://twitter.com/realcaixia/status/1598756983183618048)
 
-有网友推荐和平抗争和枪口抬高一寸的做法。⬇️就是一例。<br>香港反送中运动中，香港青年提出“兄弟爬山，各自努力”，就是很好的思路。每个人在自己所处环境中，根据各自情况用各种方式抵制和反抗暴政。<br>“白纸运动”或称“白纸革命”也是这样，一张白纸可以表达可以容纳无限的可能，这就是极权怕白纸的原因所在<br><br>王思聪: 安全的反抗方法<br>1、广大人民不买房不买车，除了生活必需品，尽量不消费，让他们税收来源暴跌<br>2、工作岗位上消极怠工，能拖将就拖，能请假就请假，特别是关键物品生产<br>3、军人警察隐蔽性的不服从命令，比如无效率镇压百姓、消极查搜查用户信息、枪口故意不准<br>4、公务员故意不执行上级命令或者无效率执行<br> <a href="https://twitter.com/whyyoutouzhele/status/1598279542946381825" target="_blank" rel="noopener noreferrer">https://twitter.com/whyyoutouzhele/status/1598279542946381825</a>
+有网友推荐和平抗争和枪口抬高一寸的做法。⬇️就是一例。<br>香港反送中运动中，香港青年提出“兄弟爬山，各自努力”，就是很好的思路。每个人在自己所处环境中，根据各自情况用各种方式抵制和反抗暴政。<br>“白纸运动”或称“白纸革命”也是这样，一张白纸可以表达可以容纳无限的可能，这就是极权怕白纸的原因所在<br><br>王思聪: 安全的反抗方法<br>1、广大人民不买房不买车，除了生活必需品，尽量不消费，让他们税收来源暴跌<br>2、工作岗位上消极怠工，能拖将就拖，能请假就请假，特别是关键物品生产<br>3、军人警察隐蔽性的不服从命令，比如无效率镇压百姓、消极查搜查用户信息、枪口故意不准<br>4、公务员故意不执行上级命令或者无效率执行<br>
 
 ### 71: [2022-12-03 03:20:26+08:00 推文](https://twitter.com/realcaixia/status/1598759010404282369)
 
@@ -390,4 +390,20 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fi_u2BXVIAAayqQ?format=jpg
 ### 94: [2022-12-04 22:37:29+08:00 推文](https://twitter.com/realcaixia/status/1599412579280949248)
 
 江峰先生提醒得好！ <a href="https://youtu.be/J45uMGiWkKE" target="_blank" rel="noopener noreferrer">https://youtu.be/J45uMGiWkKE</a>
+
+### 95: [2022-12-04 23:04:02+08:00 推文](https://twitter.com/realcaixia/status/1599419260819963905)
+
+白纸运动（也有称为白纸革命）有了不明白播客的音频访谈作品；有了“乌鲁木齐东转乌鲁木齐中”那样优秀的歌曲；现在又有纪实性文学作品，并且在墙里广泛流传。⬇️就是这篇优秀的纪实文学短篇《一个成都男孩的故事——烛光宛如昙花 在成都亮过》。<br>强烈推荐：<br><img style="" src="https://pbs.twimg.com/media/FjJHVDVXoAEQI1P?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FjJHVOdWIAQfrAH?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FjJHVcqWAAAVaIA?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FjJHVtZWQAg4cIX?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 96: [2022-12-04 23:05:00+08:00 推文](https://twitter.com/realcaixia/status/1599419503485415425)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FjJHjupXgAU0zTH?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FjJHjupWAAArw9h?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FjJHjuqWQAAfXsQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FjJHjunWYAIcb3E?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 97: [2022-12-04 23:17:37+08:00 推文](https://twitter.com/realcaixia/status/1599422679836000256)
+
+现在的中共国宪法是伪宪法，根本不具备合法性。因为这是中共党强加于民众的一党专政统治法，没经过中国民众广泛公开、没有恐惧的自由讨论与投票通过。习近平2018年修宪废除国家主席任期限定，更是一出卑鄙龌龊阴谋策划的流氓剧，已经完全撕破了中共国宪法伪装合法的外衣，露出中共国流氓宪法的真实面相<br><br>韩连潮: 【最虚伪的宪法】尽管党国宪法写得天花乱坠，包括了若干公民权利条款，但这是一部世界上最虚伪、最流氓的宪法，因为它是中共单方非法制定，权利条款从未得保障，是块遮羞布，一切均为确保中共永久执政；在党比法大之下，司法成为党的一把刀，既无实体也无程序正义，宪法只是一纸空文，应鸣鼓而攻之。<br><br><img style="" src="https://pbs.twimg.com/media/FjIxkBEakAA1KCH?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 98: [2022-12-04 23:31:52+08:00 推文](https://twitter.com/realcaixia/status/1599426264799932416)
+
+⬇️推文控诉了恶警对抓捕来的人施恶加害的情况。<br>要把中共打手警察的恶行收集起来，如实记录。现在用于向全世界揭露中共国内正在发生新的侵害人权的真实情况；将来用于对制造罪恶、帮凶作恶的人进行政治清算和法律制裁！制造罪恶者、帮凶作恶者们请记着齐奥塞斯库和米洛舍维奇的下场。<br><br>AestasCornix🏳️‍🌈🇰🇵: 昨天和另一个27号被逮捕的朋友见面，她被带去的是田林新村派出所。那边好几个女生/男生都被殴打，其中一个女生被打出了脑震荡，一个被踢了肚子，还有的是被扇了耳光。有一个男生关了24小时后还没有被释放，他表达不满后被警察拉去了“小黑屋”，她们听到里面传来他的尖叫。她们进去之后被要求脱光检查<br>
 

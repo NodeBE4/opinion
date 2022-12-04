@@ -437,7 +437,7 @@ RT Victoria🌼<br>💥直播间说：这些推特内部文件提供了完整�
 
 ### 106: [2022-12-03 08:43:32+08:00 推文](https://twitter.com/VictoriaTC/status/1598840322754158597)
 
-RT Victoria🌼<br>💥马斯克公布的推特内部文件以丰富的证据链显示，民主党和媒体勾结偷走了2020总统大选。<br>＃推特文件 ＃窃选 ＃选举舞弊<br><br>Victoria🌼: 💥直播间说：这些推特内部文件提供了完整的证据链，推特参与了voter suppression，甚至是阴谋推翻政府。“这是水门事件以来最大的新闻。”<br> <a href="https://twitter.com/NuanceBro/status/1598816289597919235" target="_blank" rel="noopener noreferrer">https://twitter.com/NuanceBro/status/1598816289597919235</a>
+RT Victoria🌼<br>💥马斯克公布的推特内部文件以丰富的证据链显示，民主党和媒体勾结偷走了2020总统大选。<br>＃推特文件 ＃窃选 ＃选举舞弊<br><br>Victoria🌼: 💥直播间说：这些推特内部文件提供了完整的证据链，推特参与了voter suppression，甚至是阴谋推翻政府。“这是水门事件以来最大的新闻。”<br>
 
 ### 107: [2022-12-03 08:50:33+08:00 推文](https://twitter.com/HeQinglian/status/1598842090141597696)
 
@@ -445,7 +445,7 @@ Re @xchen62 @RealBeiMing 资本主义冠以“金融资本主义”，是二战�
 
 ### 108: [2022-12-03 09:03:43+08:00 推文](https://twitter.com/HeQinglian/status/1598845400709877760)
 
-推友 Victoria🌼@VictoriaTC 重返推特，将如以前一样，为大家及时提供有质量的英文信息并附上简单翻译。<br>请有兴趣的推友关注。<br><br>Victoria🌼: 💥马斯克公布的推特内部文件以丰富的证据链显示，民主党和媒体勾结偷走了2020总统大选。<br>＃推特文件 ＃窃选 ＃选举舞弊<br> <a href="https://twitter.com/VictoriaTC/status/1598838170279636992" target="_blank" rel="noopener noreferrer">https://twitter.com/VictoriaTC/status/1598838170279636992</a>
+推友 Victoria🌼@VictoriaTC 重返推特，将如以前一样，为大家及时提供有质量的英文信息并附上简单翻译。<br>请有兴趣的推友关注。<br><br>Victoria🌼: 💥马斯克公布的推特内部文件以丰富的证据链显示，民主党和媒体勾结偷走了2020总统大选。<br>＃推特文件 ＃窃选 ＃选举舞弊<br>
 
 ### 109: [2022-12-03 11:21:36+08:00 推文](https://twitter.com/HeQinglian/status/1598880099415138304)
 
@@ -486,4 +486,12 @@ Re @Lucs24659702 美国正在揭露本国的疫苗问题，将这真相告诉中
 ### 118: [2022-12-04 23:07:23+08:00 推文](https://twitter.com/HeQinglian/status/1599420105967906816)
 
 Re @Lucs24659702 分环节。一是公投是否愿意进口；二是是否接种，由公众自愿。<br>到如今这年头，美国自己都“去民主化”，还有人成天摇头晃脑贩卖民主研究所那20多年前颜色革命的理论——我也服了。这些人当然是美国什么都好，只要给资助就行。
+
+### 119: [2022-12-04 23:12:52+08:00 推文](https://twitter.com/HeQinglian/status/1599421486024241154)
+
+Re 看得见的利益：担任斯坦福大学校长之前，Tessier-Lavigne在生物技术公司 Genentech 和Regeneron指导了 1000 多名科学家。Tessier-Lavigne 2014 年在 Regeneron 的薪水为 176.4万美元。<br>2021 年，他从斯坦福大学获得了 155.5万美元的收入，作为 Regeneron 的董事，他每年额外获得 70万美元的收入。
+
+### 120: [2022-12-04 23:45:45+08:00 推文](https://twitter.com/HeQinglian/status/1599429761293426689)
+
+Re 补正：是除了文中报导的这篇，还有三篇，都是广为传播的，为害剧烈。<br>斯坦福大学现公开承认，应该是事情调查有了结果。
 
