@@ -475,3 +475,15 @@ Re @mingshi_chen @RealBeiMing 俄罗斯可以选择不卖给欧盟。
 
 Re @david_david1968 不是无动于衷。是他们早知道这是事实。<br>当年许多左派说“不知道”或者说是“谣言”，是为了让自己显得不堕落，其中一些体面人，必须装。<br>其实，我们认为堕落的吸毒、乱伦、恋童，早就是美国演艺界与科技界上层的生活模式，只是那时社会认同不够，还必须装。
 
+### 116: [2022-12-04 22:54:30+08:00 推文](https://twitter.com/HeQinglian/status/1599416864538402816)
+
+美国这座民主灯塔的倒掉还刚开始。一倒于2020大选左派精英集体作弊公然盗选，马斯克对Twitter的揭露正在证实；二倒于美国政府、科学界在covid-19病毒技术上的作用。<br>Stanford Daily报道：该校校长、著名生物学家Tessier-Lavigne被控三篇论文造假，其研究有多张经过修改的图像 <a href="https://stanforddaily.com/2022/11/29/stanford-presidents-research-under-investigation-for-scientific-misconduct-university-admits-mistakes/" target="_blank" rel="noopener noreferrer">https://stanforddaily.com/2022/11/29/stanford-presidents-research-under-investigation-for-scientific-misconduct-university-admits-mistakes/</a>
+
+### 117: [2022-12-04 22:55:32+08:00 推文](https://twitter.com/HeQinglian/status/1599417122265829376)
+
+Re @Lucs24659702 美国正在揭露本国的疫苗问题，将这真相告诉中国人，再让他们公投是否接受？
+
+### 118: [2022-12-04 23:07:23+08:00 推文](https://twitter.com/HeQinglian/status/1599420105967906816)
+
+Re @Lucs24659702 分环节。一是公投是否愿意进口；二是是否接种，由公众自愿。<br>到如今这年头，美国自己都“去民主化”，还有人成天摇头晃脑贩卖民主研究所那20多年前颜色革命的理论——我也服了。这些人当然是美国什么都好，只要给资助就行。
+
