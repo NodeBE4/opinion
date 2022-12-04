@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-12-03
+date: 2022-12-04
 from: https://twitter.com/HeQinglian/status/1596991795136974849
 layout: post
 tags:
@@ -437,7 +437,7 @@ RT Victoria🌼<br>💥直播间说：这些推特内部文件提供了完整�
 
 ### 106: [2022-12-03 08:43:32+08:00 推文](https://twitter.com/VictoriaTC/status/1598840322754158597)
 
-RT Victoria🌼<br>💥马斯克公布的推特内部文件以丰富的证据链显示，民主党和媒体勾结偷走了2020总统大选。<br>＃推特文件 ＃窃选 ＃选举舞弊<br><br>Victoria🌼: 💥直播间说：这些推特内部文件提供了完整的证据链，推特参与了voter suppression，甚至是阴谋推翻政府。“这是水门事件以来最大的新闻。”<br>
+RT Victoria🌼<br>💥马斯克公布的推特内部文件以丰富的证据链显示，民主党和媒体勾结偷走了2020总统大选。<br>＃推特文件 ＃窃选 ＃选举舞弊<br><br>Victoria🌼: 💥直播间说：这些推特内部文件提供了完整的证据链，推特参与了voter suppression，甚至是阴谋推翻政府。“这是水门事件以来最大的新闻。”<br> <a href="https://twitter.com/NuanceBro/status/1598816289597919235" target="_blank" rel="noopener noreferrer">https://twitter.com/NuanceBro/status/1598816289597919235</a>
 
 ### 107: [2022-12-03 08:50:33+08:00 推文](https://twitter.com/HeQinglian/status/1598842090141597696)
 
@@ -470,4 +470,8 @@ Re @mingshi_chen @RealBeiMing 俄罗斯可以选择不卖给欧盟。
 ### 114: [2022-12-03 22:10:44+08:00 推文](https://twitter.com/HeQinglian/status/1599043459679064066)
 
 推荐一部《美联储传：一部现代金融史》。这在美国也是较新的著作。<br>我当年读书时，所读《中国货币史》是1950年代的小本。现代金融史就没读过一本象话的书，都是后来慢慢补上的。中国开放这么多年，有不少好书的译本（不是说译得好），可惜现在的人不读了。<br><br>He Qinglian: @RealBeiMing 有部电视剧，《美第奇家族》，那就是意大利银行业兴起的始祖与时间——意大利是世界借贷业-银行业发源之地。<br>莎翁《威尼斯商人》里的主角就是借贷业“吸血鬼”。<br>不如读一本现代金融史，里面会重点谈到美国金融霸权的建立，华尔街金融业的兴起，各种评级机构如何掌握世界各国的信用评级，形成超级权力<br>
+
+### 115: [2022-12-04 08:57:42+08:00 推文](https://twitter.com/HeQinglian/status/1599206276969660418)
+
+Re @david_david1968 不是无动于衷。是他们早知道这是事实。<br>当年许多左派说“不知道”或者说是“谣言”，是为了让自己显得不堕落，其中一些体面人，必须装。<br>其实，我们认为堕落的吸毒、乱伦、恋童，早就是美国演艺界与科技界上层的生活模式，只是那时社会认同不够，还必须装。
 
