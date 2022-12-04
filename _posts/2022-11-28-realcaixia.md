@@ -93,7 +93,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fip1xxuUAAEkjNd?format=jpg
 
 ### 20: [2022-11-28 21:37:17+08:00 推文](https://twitter.com/realcaixia/status/1597223103540604928)
 
-这就是所谓“人民至上”的真实显示：以人民为敌！ <a href="https://twitter.com/cnnnd022/status/1597031992994193409" target="_blank" rel="noopener noreferrer">https://twitter.com/cnnnd022/status/1597031992994193409</a>
+这就是所谓“人民至上”的真实显示：以人民为敌！<br><br>CNMD NEWS ²²: #行为艺术<br>昨晚，上海以东出大事了！警车冲撞示威人群。<br><br><video src="https://video.twimg.com/ext_tw_video/1597031950308749314/pu/vid/720x1082/9Kk232ZOTNJjv67o.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1597031950308749314/pu/img/L8NBrsHrb3Fa2Dqd.jpg"></video>
 
 ### 21: [2022-11-28 21:38:59+08:00 推文](https://twitter.com/realcaixia/status/1597223530982408192)
 
@@ -185,7 +185,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fiu2Jw8VEAEx6r9?format=jpg
 
 ### 43: [2022-11-30 06:28:32+08:00 推文](https://twitter.com/realcaixia/status/1597719183353335808)
 
-海外学子与国内学子心心相连。<br><br>Nini艾番妮🇺🇸🇭🇰🇺🇦Margana🎗️✋👍💛💙: @realcaixia 蔡霞老师，您好这是昨天晚上加州大学伯克利分校的视频，还有大量视频待剪辑，明确喊出罢免国贼习近平。<br> <a href="https://twitter.com/usabelair2021/status/1597489702667399168" target="_blank" rel="noopener noreferrer">https://twitter.com/usabelair2021/status/1597489702667399168</a>
+海外学子与国内学子心心相连。<br><br>Nini艾番妮🇺🇸🇭🇰🇺🇦Margana🎗️✋👍💛💙: @realcaixia 蔡霞老师，您好这是昨天晚上加州大学伯克利分校的视频，还有大量视频待剪辑，明确喊出罢免国贼习近平。<br>
 
 ### 44: [2022-11-30 12:48:19+08:00 推文](https://twitter.com/realcaixia/status/1597814759520206848)
 
@@ -366,4 +366,28 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fi_u2BXVIAAayqQ?format=jpg
 ### 88: [2022-12-04 20:13:58+08:00 推文](https://twitter.com/realcaixia/status/1599376465371729921)
 
 今天是宪法日，借着这个日子说几句话：宪法是一个国家的最高法律权威，公民权利在宪法上列的很清楚，任何人不得违反宪法侵犯公民权利。任何侵犯人权的行为都是违宪违法行为。<br>特别推荐⬇️推文，这个推文给大陆民众送上了一个如何保护自身权利，对付警察和中共各类打手违法行为的策略大礼包。<br><br>大師兄（原Bob New）: 感謝憲法日老殷為網友送來法律實戰防身包！<br>從封門破戶，到隨意檢查手機，從當眾捆綁到隨意毆打，防疫亂象的底層是中共踐踏法治，民眾缺少法治意識！<br>除了法律常識，還要團結互助，看見中共惡犬的不法行為，馬上手機拍攝記錄，並且上前質疑制止！<br>當每個人都這樣做的時候，中共就會被和平解體！<br>
+
+### 89: [2022-12-04 20:49:25+08:00 推文](https://twitter.com/realcaixia/status/1599385386220150785)
+
+中共警察天天在大陸發起內戰——警察暴力毆打民眾，民眾被推到生死戰場。⬇️這樣的警察暴力毆打，在大陸各地隨處可見。<br><br>殷天慰: 对付这些手拿盾牌的，以两人为一组形成战术单元，一个人用长兵器武力牵制，另外一个人趁机拖拽拉倒，然后再用长兵器暴揍<br>
+
+### 90: [2022-12-04 20:51:52+08:00 推文](https://twitter.com/realcaixia/status/1599385999171530752)
+
+特別推薦：推主給大家支招對付中共網絡監控審查。<br><br>Eric Liu 刘力朋📄🪧: 推荐，最好在非45度的倍数间随机旋转。自然语义模型、光学字符识别等等不会旋转屏幕去看，而只能在各种串行形成的无数种语义里穷举，大大地消耗资源。<br>
+
+### 91: [2022-12-04 21:43:38+08:00 推文](https://twitter.com/realcaixia/status/1599399029040742400)
+
+又一首歌傳唱：烏魯木齊東轉烏魯木齊中。很好👍他們怕白紙，他們怕路名，他們怕歌曲，他們怕你我！<br><br>豆瓣鹅组日报: 网友投稿：一首《乌鲁木齐东》（后半部分见评论区）<br><br><video src="https://video.twimg.com/ext_tw_video/1599083325934931969/pu/vid/904x504/vcpojJNskX4eJrTf.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1599083325934931969/pu/img/g5-8tYOZ4VoyIjME.jpg"></video>
+
+### 92: [2022-12-04 21:46:12+08:00 推文](https://twitter.com/realcaixia/status/1599399676146749441)
+
+這首歌太棒了👏！<br><br>豆瓣鹅组日报: 网友投稿：一首《乌鲁木齐东》（后半部分见评论区）<br><br><video src="https://video.twimg.com/ext_tw_video/1599083325934931969/pu/vid/904x504/vcpojJNskX4eJrTf.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1599083325934931969/pu/img/g5-8tYOZ4VoyIjME.jpg"></video>
+
+### 93: [2022-12-04 21:50:13+08:00 推文](https://twitter.com/realcaixia/status/1599400685556359168)
+
+不明白博客邀請了幾位白紙運動參加者親述他們的經歷和他們的感受，現在已有音頻中文文字版，請閱讀。⬇️<br><br>Mary Gallagher: This is an important episode and I thank @LiYuan6 for doing these interviews to center Chinese protestors in China. XJP's use of the word 泪奔 to describe the protests downplays the incredible anger, disappointment, and despair that led people to the streets.<br>
+
+### 94: [2022-12-04 22:37:29+08:00 推文](https://twitter.com/realcaixia/status/1599412579280949248)
+
+江峰先生提醒得好！ <a href="https://youtu.be/J45uMGiWkKE" target="_blank" rel="noopener noreferrer">https://youtu.be/J45uMGiWkKE</a>
 
