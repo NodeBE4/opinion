@@ -441,7 +441,7 @@ RT Victoria🌼<br>💥直播间说：这些推特内部文件提供了完整�
 
 ### 107: [2022-12-03 08:43:32+08:00 推文](https://twitter.com/VictoriaTC/status/1598840322754158597)
 
-RT Victoria🌼<br>💥马斯克公布的推特内部文件以丰富的证据链显示，民主党和媒体勾结偷走了2020总统大选。<br>＃推特文件 ＃窃选 ＃选举舞弊<br><br>Victoria🌼: 💥直播间说：这些推特内部文件提供了完整的证据链，推特参与了voter suppression，甚至是阴谋推翻政府。“这是水门事件以来最大的新闻。”<br>
+RT Victoria🌼<br>💥马斯克公布的推特内部文件以丰富的证据链显示，民主党和媒体勾结偷走了2020总统大选。<br>＃推特文件 ＃窃选 ＃选举舞弊<br><br>Victoria🌼: 💥直播间说：这些推特内部文件提供了完整的证据链，推特参与了voter suppression，甚至是阴谋推翻政府。“这是水门事件以来最大的新闻。”<br> <a href="https://twitter.com/NuanceBro/status/1598816289597919235" target="_blank" rel="noopener noreferrer">https://twitter.com/NuanceBro/status/1598816289597919235</a>
 
 ### 108: [2022-12-03 08:50:33+08:00 推文](https://twitter.com/HeQinglian/status/1598842090141597696)
 
@@ -475,27 +475,39 @@ Re @mingshi_chen @RealBeiMing 俄罗斯可以选择不卖给欧盟。
 
 推荐一部《美联储传：一部现代金融史》。这在美国也是较新的著作。<br>我当年读书时，所读《中国货币史》是1950年代的小本。现代金融史就没读过一本象话的书，都是后来慢慢补上的。中国开放这么多年，有不少好书的译本（不是说译得好），可惜现在的人不读了。<br><br>He Qinglian: @RealBeiMing 有部电视剧，《美第奇家族》，那就是意大利银行业兴起的始祖与时间——意大利是世界借贷业-银行业发源之地。<br>莎翁《威尼斯商人》里的主角就是借贷业“吸血鬼”。<br>不如读一本现代金融史，里面会重点谈到美国金融霸权的建立，华尔街金融业的兴起，各种评级机构如何掌握世界各国的信用评级，形成超级权力<br>
 
-### 116: [2022-12-04 08:57:42+08:00 推文](https://twitter.com/HeQinglian/status/1599206276969660418)
+### 116: [2022-12-04 05:44:29+08:00 推文](https://twitter.com/VictoriaTC/status/1599157649613856768)
+
+RT Victoria🌼<br>1/<br>就 #推特文件，報道斯諾登棱鏡門的記者葛林華德總結說：<br>这些文件显示了我们已经知道的东西，但提供了新的、具体的证据:<br>1)民主党明确要求大型科技公司进行更多审查。<br>2)民主党有一条开放的通路來做審查。<br>3)在2020年大选前几天审查亨特·拜登报道时，推特知道自己在撒谎<br><br>Glenn Greenwald: These docs show what we already knew, but offer new, specific proof:<br><br>1) Dems explicitly demand more censorship from Big Tech.<br><br>2) Dems have an open line to do it.<br><br>3) Twitter knew it was lying when censorsing the Biden story days before the 2020 election<br> <a href="https://twitter.com/mtaibbi/status/1598840927199469569" target="_blank" rel="noopener noreferrer">https://twitter.com/mtaibbi/status/1598840927199469569</a>
+
+### 117: [2022-12-04 05:44:36+08:00 推文](https://twitter.com/VictoriaTC/status/1599157680731394049)
+
+RT Victoria🌼<br>Re 8/<br>但事到如今，真正的新闻早已不再是亨特·拜登档案本身的内容。<br><br>真正的新闻是CIA、企业媒体和大型科技公司如何联合起来传播CIA的谎言，并利用它来审查有关乔·拜登的报道，操纵2020年的选举。<br><br>#推特文件<br><br>Glenn Greenwald: But at this point, the real story long ago ceased being about the contents of the Biden archive itself.<br><br>The real story is how the CIA, corporate media and Big Tech all united to spread a CIA lie and manipulate the 2020 election by using it to censor reporting about Joe Biden.<br><br><img style="" src="https://pbs.twimg.com/media/FjESKWhWQAI1J_0?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 118: [2022-12-04 08:57:42+08:00 推文](https://twitter.com/HeQinglian/status/1599206276969660418)
 
 Re @david_david1968 不是无动于衷。是他们早知道这是事实。<br>当年许多左派说“不知道”或者说是“谣言”，是为了让自己显得不堕落，其中一些体面人，必须装。<br>其实，我们认为堕落的吸毒、乱伦、恋童，早就是美国演艺界与科技界上层的生活模式，只是那时社会认同不够，还必须装。
 
-### 117: [2022-12-04 22:54:30+08:00 推文](https://twitter.com/HeQinglian/status/1599416864538402816)
+### 119: [2022-12-04 13:00:57+08:00 推文](https://twitter.com/VictoriaTC/status/1599267491519176706)
+
+RT Victoria🌼<br>💥今晚在推特直播间，马斯克说，他将公布所有拜登竞选团队和民主党全国委员会要求审查个人用户的请求的 #推特文件。<br><br>“目的是公布所有文件。”<br><br>“纳尔逊·曼德拉说，如果你想和解，就必须有真相。所以我们的目的就是要让大家清楚发生了什么，让过去的事情变得透明，通过这么做建立对未来的信任。”<br><br>ALX 🇺🇸: BREAKING: @ElonMusk tells me he will release ALL of the Twitter Files including all requests from the Biden campaign and DNC to Censor individual users.<br><br>“Both past and future requests should be made public”<br><br><video src="https://video.twimg.com/ext_tw_video/1599189919938871296/pu/vid/720x900/6gsghunnA2hzPzBS.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1599189919938871296/pu/img/eJXlle36uBYAhGrW.jpg"></video>
+
+### 120: [2022-12-04 22:54:30+08:00 推文](https://twitter.com/HeQinglian/status/1599416864538402816)
 
 美国这座民主灯塔的倒掉还刚开始。一倒于2020大选左派精英集体作弊公然盗选，马斯克对Twitter的揭露正在证实；二倒于美国政府、科学界在covid-19病毒技术上的作用。<br>Stanford Daily报道：该校校长、著名生物学家Tessier-Lavigne被控三篇论文造假，其研究有多张经过修改的图像 <a href="https://stanforddaily.com/2022/11/29/stanford-presidents-research-under-investigation-for-scientific-misconduct-university-admits-mistakes/" target="_blank" rel="noopener noreferrer">https://stanforddaily.com/2022/11/29/stanford-presidents-research-under-investigation-for-scientific-misconduct-university-admits-mistakes/</a>
 
-### 118: [2022-12-04 22:55:32+08:00 推文](https://twitter.com/HeQinglian/status/1599417122265829376)
+### 121: [2022-12-04 22:55:32+08:00 推文](https://twitter.com/HeQinglian/status/1599417122265829376)
 
 Re @Lucs24659702 美国正在揭露本国的疫苗问题，将这真相告诉中国人，再让他们公投是否接受？
 
-### 119: [2022-12-04 23:07:23+08:00 推文](https://twitter.com/HeQinglian/status/1599420105967906816)
+### 122: [2022-12-04 23:07:23+08:00 推文](https://twitter.com/HeQinglian/status/1599420105967906816)
 
 Re @Lucs24659702 分环节。一是公投是否愿意进口；二是是否接种，由公众自愿。<br>到如今这年头，美国自己都“去民主化”，还有人成天摇头晃脑贩卖民主研究所那20多年前颜色革命的理论——我也服了。这些人当然是美国什么都好，只要给资助就行。
 
-### 120: [2022-12-04 23:12:52+08:00 推文](https://twitter.com/HeQinglian/status/1599421486024241154)
+### 123: [2022-12-04 23:12:52+08:00 推文](https://twitter.com/HeQinglian/status/1599421486024241154)
 
 Re 看得见的利益：担任斯坦福大学校长之前，Tessier-Lavigne在生物技术公司 Genentech 和Regeneron指导了 1000 多名科学家。Tessier-Lavigne 2014 年在 Regeneron 的薪水为 176.4万美元。<br>2021 年，他从斯坦福大学获得了 155.5万美元的收入，作为 Regeneron 的董事，他每年额外获得 70万美元的收入。
 
-### 121: [2022-12-04 23:45:45+08:00 推文](https://twitter.com/HeQinglian/status/1599429761293426689)
+### 124: [2022-12-04 23:45:45+08:00 推文](https://twitter.com/HeQinglian/status/1599429761293426689)
 
 Re 补正：是除了文中报导的这篇，还有三篇，都是广为传播的，为害剧烈。<br>斯坦福大学现公开承认，应该是事情调查有了结果。
 
