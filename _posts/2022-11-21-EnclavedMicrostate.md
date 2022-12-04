@@ -181,3 +181,9 @@ For a little further background context, Axia was part of the unit Eden-Gumi, wh
 
 I would contend, personally at least, that while doing that kind of digging is an overstepping, it's not necessarily a gigantic one – the major overstepping is not keeping the information to yourself once you have it. VTubing is a pseudonymous and not an anonymous activity, and especially with bigger agency VTubers, finding someone's prior online activities can be very easy. But despite this – or even because of it – a general policy of 'don't ask, don't tell' prevails, and just because you may have been curious to find out for yourself does not entitle you to go out shouting that info out into the open.
 
+----- __950.8__ -----2022-12-04 21:27:00+08:00:
+
+> Second, there's a difference between using a fan creation that was already on the open and giving credit and using something that was created explicitely for the brand of the VTuber
+
+That works on some level, but I feel like that you will very quickly get an emergent implicit contract: if you are a fanartist, you go in with the understanding that if you post your art, it will have a chance of being used by the depicted creator with no material return. The only difference would be an explicit invitation to produce free content in Jaiden's case versus an implicit one in holo's, but I don't think this is particularly significant: Holo is still essentially soliciting volunteer labour from fans in exchange for no monetary reward, just in a more open-ended way.
+
