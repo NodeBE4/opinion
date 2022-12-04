@@ -33,13 +33,13 @@ Re 2/<br>Things that are worthwhile looking at:<br>- Attitude of the central gov
 
 Re 3/<br>- Demands of people. Slogans range from “end COVID lockdown” to “Down with CCP/ Xi.” It would be interesting to see whether there’s a consolidation of what people want<br>- Overseas protests. Tens of overseas protests were organised in the past weekend ....
 
-### 5: [2022-11-28 18:52:48+08:00 推文](https://twitter.com/nathanlawkc/status/1597181707933061120)
+### 5: [2022-11-28 18:52:48+08:00 推文](https://twitter.com/nathanlawkc/status/1597181710327611394)
 
-Re 4/<br>some of them (eg. London) had +1000 turnouts, most participants are Chinese students. We’ve never seen so much mobilization of them, who are often seen as either “apolitical” or “loyal”. <br>- Size of protest. With tighter control&amp; arrests made...
+Re 5/<br>whether the people continue to protest is the key. Colleges are still crucial sites. <br>- Intl support. Many are hesitant because PRC would label any foreign supports as “interference”, then weaken the moral appeal of the protest. How intl NGOs &amp; Orgs &amp; Govts gonna react?
 
-### 6: [2022-11-28 18:52:49+08:00 推文](https://twitter.com/nathanlawkc/status/1597181713192394752)
+### 6: [2022-11-28 18:52:49+08:00 推文](https://twitter.com/nathanlawkc/status/1597181715692544000)
 
-Re 6/<br>What we can do as non-local protestors:<br>- Retweet &amp; spread info. It’s crucial to educate more ppl about what’s happening in China.<br>- Solidarity. Protestors are often in fear and feel alone. They cannot publicly talk about it. Show your solidarity with them to keep them warm.
+Re 7/<br>- Technical support. People with expertise in internet security and safe communication should come in and share knowledge.<br>- Help overseas Chinese who want to protest. Any kind of help — design work, logistic, dealing with govt&amp;police etc… you can do something with your exp.
 
 ### 7: [2022-11-28 18:52:50+08:00 推文](https://twitter.com/nathanlawkc/status/1597181718263308288)
 
@@ -69,9 +69,9 @@ Friends have told me that when my thread on the #Chinaprotest was forwarded to W
 
 Re 2/<br>一張白紙，各種表述，是在這場運動中難以避免，皆因廣泛地凝聚群眾共識的條件（尤其是在牆內）並不存在。<br>那麼該如何團結不同聲音？<br>我沒有答案。或者說，我們感到很需要答案，但抱歉並不可能有答案，而且很可能不太需要答案。
 
-### 14: [2022-11-30 23:07:32+08:00 推文](https://twitter.com/nathanlawkc/status/1597970590387777536)
+### 14: [2022-11-30 23:07:32+08:00 推文](https://twitter.com/nathanlawkc/status/1597970592502022145)
 
-Re 4/<br>所謂公民社會，是外在於政府、私營機構，用以監察政府、推廣改革的力量。中國大陸有限的公民社會在2010年代初便被大搥摧毀，對人民最大的影響是異議的缺失。在政策、政治，甚至民生議題，多元聲音被消滅，人民對「如何變得更好」缺乏想像，價值教育被愛國教育取代，只允許共產黨所贊同的一股聲音。
+Re 5/<br>久而久之，大部分籠內的鳥，只視頭頂的漆黑為天空，並義正辭嚴地反駁別人，說無垠飛翔的天空是不存在的。<br>群眾運動在意識的轉變前不可能存在；行動，故思考，或許這次運動的意義，是讓眾多忍受不了的人，思考「天空」的真實存在，去思考飛翔的可能。<br>這就是群眾運動的第一重意義，孕育思考、想像。
 
 ### 15: [2022-11-30 23:07:33+08:00 推文](https://twitter.com/nathanlawkc/status/1597970595597103105)
 
