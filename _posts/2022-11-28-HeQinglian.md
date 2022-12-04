@@ -211,287 +211,291 @@ Re @VictoriaTC @ElaineYuMuMu 让我想起左派金句：一切都是社会的错
 
 Re @ElaineYuMuMu @VictoriaTC 主是是拜登政府出台法律：青少年可以自主变性。这是非常邪恶的法律。<br>父母如果说服不了孩子，无论如何得告诉孩子：想变性，也得等18岁之后再考虑。这些孩子也许过几年想法就变了。
 
-### 50: [2022-11-30 23:10:16+08:00 推文](https://twitter.com/HeQinglian/status/1597971278992146432)
+### 50: [2022-11-30 12:16:11+08:00 推文](https://twitter.com/VictoriaTC/status/1597806674873810944)
+
+RT Victoria🌼<br>李·泽尔丁：<br>2022年，红潮席卷了纽约，却没有波及美国其他很多地方，这不是意外或巧合。<br><br>除了时机之外，选举浪潮还取决于你竞选的努力程度、你沟通的效率、你筹款的效果、你花钱的效率、你向选举法靠拢的努力程度、你计划和执行的精细程度、你合作的程度以及你团队的团结程度。<br><br>Lee Zeldin: It was not an accident or a coincidence why a red wave crashed across New York in 2022, while also missing so much of the rest of the country.<br>
+
+### 51: [2022-11-30 23:10:16+08:00 推文](https://twitter.com/HeQinglian/status/1597971278992146432)
 
 Re @sixianghongliu @YouKeping 手机就是跟踪器。
 
-### 51: [2022-12-01 01:08:12+08:00 推文](https://twitter.com/HeQinglian/status/1598000957522350080)
+### 52: [2022-12-01 01:08:12+08:00 推文](https://twitter.com/HeQinglian/status/1598000957522350080)
 
 Re @david_david1968 看来，江泽民应该万寿无疆。<br>我经历过江时代，《现代化的陷阱》就是江时代改革的分析与研究。以后研究过江的遗产，我得写篇文章“悼念”他了。
 
-### 52: [2022-12-01 01:11:15+08:00 推文](https://twitter.com/HeQinglian/status/1598001723653906433)
+### 53: [2022-12-01 01:11:15+08:00 推文](https://twitter.com/HeQinglian/status/1598001723653906433)
 
 Re @lianghuiwang2 布鲁克林他爹描述的好莱坞电影，其实是美国的现实。
 
-### 53: [2022-12-01 01:35:50+08:00 推文](https://twitter.com/HeQinglian/status/1598007912651423744)
+### 54: [2022-12-01 01:35:50+08:00 推文](https://twitter.com/HeQinglian/status/1598007912651423744)
 
 在胡锦涛时期肆虐十年的几代常委家族“家国一体的利益输送机制”，就是江泽民时代形成的。<br>江儿子江绵恒应该算是新太子党中的开路者，《财经》名文《谁的鲁能?》（2007年01月08日）曾披露借改制为名，曾庆红儿子曾伟鲸吞山东第一大企业鲁能700亿资产，国内网站仍有此文。
 
-### 54: [2022-12-01 01:38:04+08:00 推文](https://twitter.com/HeQinglian/status/1598008472599408640)
+### 55: [2022-12-01 01:38:04+08:00 推文](https://twitter.com/HeQinglian/status/1598008472599408640)
 
 Re 这家国一体的利益输送体制，国内自然不会有媒体披露，但英国《金融时报》曾密集披露：<br>China: To the money born（译为《生而为钱的中共太子党》，March 29 2010）<br>《新生代太子党》（2010年4月15日）<br>《中国私募业的“红色贵族”》 （2010年4月15日）<br>《追问“红色血统”》（2010年12月15日）<br>网上可查。
 
-### 55: [2022-12-01 01:50:15+08:00 推文](https://twitter.com/HeQinglian/status/1598011540309151745)
+### 56: [2022-12-01 01:50:15+08:00 推文](https://twitter.com/HeQinglian/status/1598011540309151745)
 
 Re @jjamesw1 无救。<br>不要说知道历史，就连十多年前的事情也忘得光光的。
 
-### 56: [2022-12-01 02:27:31+08:00 推文](https://twitter.com/HeQinglian/status/1598020918454157313)
+### 57: [2022-12-01 02:27:31+08:00 推文](https://twitter.com/HeQinglian/status/1598020918454157313)
 
 Re @timothyshlong 制度性腐败。根植于中共这个制度本身。<br>人类社会自有公共权力（原始社会的食物分配权）开始，就有天生的腐败倾向。当初我写这篇文章时，以为只要三权分立，就能够约束腐败，美国的实例教训了我，只要三权能够分享腐败之利，约束就形同虚设。
 
-### 57: [2022-12-01 02:28:38+08:00 推文](https://twitter.com/HeQinglian/status/1598021200147804162)
+### 58: [2022-12-01 02:28:38+08:00 推文](https://twitter.com/HeQinglian/status/1598021200147804162)
 
 Re @sixianghongliu @jjamesw1 如果有人认为没有，那是脑子欠奉。
 
-### 58: [2022-12-01 02:43:22+08:00 推文](https://twitter.com/HeQinglian/status/1598024909623418882)
+### 59: [2022-12-01 02:43:22+08:00 推文](https://twitter.com/HeQinglian/status/1598024909623418882)
 
 Re @Lucs24659702 人家认为这是进步主义家庭，开放。前卫，人类社会发展新方向。<br>改不了自家腐败与变态，就改变社会标准。
 
-### 59: [2022-12-01 02:49:38+08:00 推文](https://twitter.com/HeQinglian/status/1598026483121127424)
+### 60: [2022-12-01 02:49:38+08:00 推文](https://twitter.com/HeQinglian/status/1598026483121127424)
 
 Re @fading_you1 “把阶级斗争理论扔进茅坑”，这是邓小平的德政。<br>1977年高考还有政审，1978年邓小平亲下御旨，废了。从此，以经济建设为纲取代了以阶级斗争为纲。<br>我周围朋友有1977年未过政审关的（母亲是江西青干帮特务），但1978年过了，现在是某市常委。
 
-### 60: [2022-12-01 02:53:30+08:00 推文](https://twitter.com/HeQinglian/status/1598027455855747073)
+### 61: [2022-12-01 02:53:30+08:00 推文](https://twitter.com/HeQinglian/status/1598027455855747073)
 
 Re @sixianghongliu @Lucs24659702 自来改革，都靠一头。清理上面，要靠民意。习近平的特点是两头不靠，对上清理靠反腐；同时还要打击异议与不同意见，加强社会控制；力反颜色革命，将江胡两代进入中国的数千家外国NGO赶出中国。<br>统治集团与富豪群体、知识分子及异议江湖、外部势力这三方全都得罪光了。
 
-### 61: [2022-12-01 02:54:51+08:00 推文](https://twitter.com/HeQinglian/status/1598027797926404097)
+### 62: [2022-12-01 02:54:51+08:00 推文](https://twitter.com/HeQinglian/status/1598027797926404097)
 
 Re @JianglinLi @Lucs24659702 那场共情会议我也见到了，一堆卡伦泪光闪闪表达对拜登的支持：我们家都有吸毒子女。😅
 
-### 62: [2022-12-01 02:59:10+08:00 推文](https://twitter.com/HeQinglian/status/1598028883130916865)
+### 63: [2022-12-01 02:59:10+08:00 推文](https://twitter.com/HeQinglian/status/1598028883130916865)
 
 Re @timothyshlong 中国老话不错，活到老，学到老。
 
-### 63: [2022-12-01 05:53:40+08:00 推文](https://twitter.com/HeQinglian/status/1598072798634971136)
+### 64: [2022-12-01 05:53:40+08:00 推文](https://twitter.com/HeQinglian/status/1598072798634971136)
 
 Re @mingshi_chen 何谓利用权力强抢恶要，这真是一个教科书级经典案例。
 
-### 64: [2022-12-01 05:56:15+08:00 推文](https://twitter.com/HeQinglian/status/1598073448840192002)
+### 65: [2022-12-01 05:56:15+08:00 推文](https://twitter.com/HeQinglian/status/1598073448840192002)
 
 Re @timothyshlong 谢谢良言。<br>我们一起努力吧，希望大家都有属天的平安。
 
-### 65: [2022-12-01 07:20:01+08:00 推文](https://twitter.com/VictoriaTC/status/1598094530653618176)
+### 66: [2022-12-01 07:20:01+08:00 推文](https://twitter.com/VictoriaTC/status/1598094530653618176)
 
 RT Victoria🌼<br>推特前安全主管约尔·罗斯(Yoel Roth)终于承认审查《纽约邮报》2020年10月版亨特·拜登独家新闻是一个错误。<br>去年3月，在审查期间担任推特首席执行官的杰克·多尔西(Jack Dorsey)已经在一场有关虚假信息和社交媒体的国会听证会上承认，屏蔽《纽约邮报》的报道是一个“彻头彻尾的错误”。<br><br>New York Post: Twitter's ex-safety chief Yoel Roth finally admits mistake of censoring Post's Hunter Biden scoop<br><br><img style="" src="https://pbs.twimg.com/media/Fi1RUCAXoAA7Tf4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://trib.al/9bsLnkN" target="_blank" rel="noopener noreferrer">https://trib.al/9bsLnkN</a>
 
-### 66: [2022-12-01 10:04:27+08:00 推文](https://twitter.com/HeQinglian/status/1598135908087517186)
+### 67: [2022-12-01 10:04:27+08:00 推文](https://twitter.com/HeQinglian/status/1598135908087517186)
 
 1997年10月，江泽民对美进行为期9天的国事访问，先后去了夏威夷、华盛顿、纽约等七城，在夏威夷的午宴上，江跳了草裙舞；晚上用吉他自弹自唱了歌曲《夏威夷，你好！》；在南加州时清唱了京剧《捉放曹》。<br>国内当时保守，称其为“戏子”，对五常委则有“五子治国”之说。胡习之后，国人觉“膜蛤文化”很亲切。<br><br>朱韵和: 江泽民在西班牙国王的注视下梳理头发。<br>1996年江泽民访问西班牙，与西班牙国王卡洛斯一起检阅禁卫军时，他突然拿出一把梳子，在国王面前梳理头发。在欢迎国宴上，江泽民又在摄像机镜头前梳头。西班牙第一大报《国家报》在头版刊登了一张图片。"卡洛斯国王观看江泽民梳头"。<br><br><img style="" src="https://pbs.twimg.com/media/Fi18u1QUYAANhQQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 67: [2022-12-01 10:07:55+08:00 推文](https://twitter.com/HeQinglian/status/1598136783556218881)
+### 68: [2022-12-01 10:07:55+08:00 推文](https://twitter.com/HeQinglian/status/1598136783556218881)
 
 Re 江时期的老段子“五子治国”。大意为，江泽民是个戏子，李鹏是个傻子，朱镕基是个疯子，李瑞环是个痞子，胡锦涛是个孙子。<br>可视为恶讽，朱不是疯子，只是说话大胆；李也不是痞子，只是有点油滑。
 
-### 68: [2022-12-01 10:20:15+08:00 推文](https://twitter.com/HeQinglian/status/1598139886883590144)
+### 69: [2022-12-01 10:20:15+08:00 推文](https://twitter.com/HeQinglian/status/1598139886883590144)
 
 今天看了各种有关江泽民的评论与对江时代的怀念，体会到现在国人对膜蛤文化的亲切美好感，想起普希金的诗：<br>“心永远憧憬未来，<br>而现在却常是阴沉，<br>一切都会过去，一切都是瞬息；<br>而那过去了的，就会成为亲切的回忆。”<br>希望国人今后不会将习时代赋予亲切美好感，因为那证明国人活得太惨了。<br>😅😅
 
-### 69: [2022-12-01 11:11:59+08:00 推文](https://twitter.com/HeQinglian/status/1598152905470902274)
+### 70: [2022-12-01 11:11:59+08:00 推文](https://twitter.com/HeQinglian/status/1598152905470902274)
 
 Re @mingshi_chen 腐败是国家烂之源。这种烂总会发散到各方面，让社会承受这一切。<br>如果是这说法，拜登也没碍着你什么事。
 
-### 70: [2022-12-01 11:12:53+08:00 推文](https://twitter.com/HeQinglian/status/1598153132844150784)
+### 71: [2022-12-01 11:12:53+08:00 推文](https://twitter.com/HeQinglian/status/1598153132844150784)
 
 Re @mingshi_chen 可能也就你认为中美是夫妻。😅
 
-### 71: [2022-12-01 11:13:29+08:00 推文](https://twitter.com/HeQinglian/status/1598153283675492352)
+### 72: [2022-12-01 11:13:29+08:00 推文](https://twitter.com/HeQinglian/status/1598153283675492352)
 
 Re @VictoriaTC 😅😅😅
 
-### 72: [2022-12-01 11:21:43+08:00 推文](https://twitter.com/HeQinglian/status/1598155356123041792)
+### 73: [2022-12-01 11:21:43+08:00 推文](https://twitter.com/HeQinglian/status/1598155356123041792)
 
 Re @mingshi_chen 对腐败与反腐败的研究，以及利益集团俘获国家的危害（美国是典型），是我老本行。因此，我对腐败的看法与你完全不同，讨论不出结果。
 
-### 73: [2022-12-01 11:29:42+08:00 推文](https://twitter.com/HeQinglian/status/1598157361688248320)
+### 74: [2022-12-01 11:29:42+08:00 推文](https://twitter.com/HeQinglian/status/1598157361688248320)
 
 中共三个垄断：政治垄断、经济垄断、舆论垄断<br>毛时代是计划经济，有计划无市场，官员权力无法变现，只能多吃多占，享受级别特权<br>邓改革之后，开始市场化，权力可以各种代理人通过市场变现。<br>毛的革命是用暴力化私为公，党成为全国唯一的资源垄断者；邓是用改革之名化公为私，权力及权力关系人利益均沾<br><br>明实：没法眼佛眼但有真眼: @HeQinglian 败灯的腐败和中国的腐败是两码事：中美的产权是有本质差别的！<br>中国如此庞大的公有产权，从严格意义上说能叫产权吗？<br>美国的产权本来就是私有，只是政府不断扩权（本质就是腐败）而挤压侵占私有产权。<br>这题目说起来就大了，我想你应该明白我在说什么！<br>
 
-### 74: [2022-12-01 11:31:22+08:00 推文](https://twitter.com/HeQinglian/status/1598157784830607362)
+### 75: [2022-12-01 11:31:22+08:00 推文](https://twitter.com/HeQinglian/status/1598157784830607362)
 
 Re @mingshi_chen 已经回答过了，毛时代没有产权，中共是唯一的大地主与所有资产的拥有者。
 
-### 75: [2022-12-01 11:40:58+08:00 推文](https://twitter.com/HeQinglian/status/1598160200476737539)
+### 76: [2022-12-01 11:40:58+08:00 推文](https://twitter.com/HeQinglian/status/1598160200476737539)
 
 Re @mingshi_chen 讨论问题，总得对一个词有公认的定义，否则没法讨论。<br>你的说法就是张维迎关于国有资产的“冰棍论”。那时候，更奇葩的还有，比如“腐败是社会发展的润滑剂”，“腐败出一个新体制”。<br>你还是不知道我经历过什么。
 
-### 76: [2022-12-01 11:43:20+08:00 推文](https://twitter.com/HeQinglian/status/1598160796139548673)
+### 77: [2022-12-01 11:43:20+08:00 推文](https://twitter.com/HeQinglian/status/1598160796139548673)
 
 Re @lindahuiyun 广州、北京等地逐步解封，希望重庆不要自成一体，早日解封。
 
-### 77: [2022-12-01 11:44:58+08:00 推文](https://twitter.com/HeQinglian/status/1598161205096378369)
+### 78: [2022-12-01 11:44:58+08:00 推文](https://twitter.com/HeQinglian/status/1598161205096378369)
 
 Re @guanpeng_Lu 当初大家亟盼江下台，迎接胡温新政之时，我确实说过：几年以后，江时代可能会让国人怀念。
 
-### 78: [2022-12-01 22:25:29+08:00 推文](https://twitter.com/HongfuDing/status/1598322397001678853)
+### 79: [2022-12-01 22:25:29+08:00 推文](https://twitter.com/HongfuDing/status/1598322397001678853)
 
 RT Hongfu Ding<br>江泽民死了，国人开始了各种怀念，好话说了很多。我就奇怪了，中国人怎么对领导人就那么爱，那么宽容，那么健忘呢？我也来回忆一下吧。没有这一段回忆，对江泽民的一切怀念、赞扬、挽歌、记忆，都是虚弱的，虚伪的。<br><img style="" src="https://pbs.twimg.com/media/Fi5hBQFXgAI644O?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 79: [2022-12-01 22:47:17+08:00 推文](https://twitter.com/HeQinglian/status/1598327881893036041)
+### 80: [2022-12-01 22:47:17+08:00 推文](https://twitter.com/HeQinglian/status/1598327881893036041)
 
 Re @Jstyle_2022 弄清楚一点，专制政治有自己的逻辑，昔日种因，今天结果。那时候的自由，就是吃喝玩乐等非政治性娱乐至死。现在你也可以，除了公款消费。<br>有件事情我有经验：中共高层的贪污腐败，从2009年开始，总有人向外喂料，如果没有喂出象样的料，那就是没有，至少没人能找到证据。<br>这世界，人过留影。
 
-### 80: [2022-12-01 23:11:14+08:00 推文](https://twitter.com/HeQinglian/status/1598333909443518465)
+### 81: [2022-12-01 23:11:14+08:00 推文](https://twitter.com/HeQinglian/status/1598333909443518465)
 
 欧盟外交首长：乌克兰战后重建需由俄罗斯埋单 <br>再看冯德莱恩最近这场讲话<br>看来，西方准备从乌克兰抽身了。<br><br>AZ 🛰🌏🌍🌎: 📹🇪🇺🇺🇦🇷🇺Comparison between the first video posted by Ursula von der Leyen and the second video that was cut<br><br><video src="https://video.twimg.com/ext_tw_video/1597913046344687616/pu/vid/960x540/PM0E7bxvM4Zu_rLp.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1597913046344687616/pu/img/wzdwdrZ0uGAw5vpR.jpg"></video>
 
-### 81: [2022-12-02 00:47:16+08:00 推文](https://twitter.com/HeQinglian/status/1598358078033956866)
+### 82: [2022-12-02 00:47:16+08:00 推文](https://twitter.com/HeQinglian/status/1598358078033956866)
 
 Re @EvanLi2020 这事我记得。南巡之后立刻华丽大转身。<br>当时，港媒大炒邓小平将三换总书记。
 
-### 82: [2022-12-02 00:51:00+08:00 推文](https://twitter.com/HeQinglian/status/1598359016400637952)
+### 83: [2022-12-02 00:51:00+08:00 推文](https://twitter.com/HeQinglian/status/1598359016400637952)
 
 Re @HongfuDing 不少国人富有同情心，对不同观点者除外。<br>尤其是对变成弱势的政治领导人，特别富有同情心。
 
-### 83: [2022-12-02 01:04:39+08:00 推文](https://twitter.com/HeQinglian/status/1598362454534283264)
+### 84: [2022-12-02 01:04:39+08:00 推文](https://twitter.com/HeQinglian/status/1598362454534283264)
 
 Re @Lucs24659702 @HongfuDing 反共不反共，从来不是我判断人的标准。<br>人格是否健全、思维是否正常（尤其是有无常识）、教养三者才是我判断人的标准。
 
-### 84: [2022-12-02 02:25:02+08:00 推文](https://twitter.com/HeQinglian/status/1598382679929806848)
+### 85: [2022-12-02 02:25:02+08:00 推文](https://twitter.com/HeQinglian/status/1598382679929806848)
 
 Re @JianglinLi @iweiRime @HongfuDing 我全部拉黑，发现全跟着我。捎带清理园子。<br>这些人以为我 们在意他这种Fo。
 
-### 85: [2022-12-02 02:32:40+08:00 推文](https://twitter.com/HeQinglian/status/1598384601474498560)
+### 86: [2022-12-02 02:32:40+08:00 推文](https://twitter.com/HeQinglian/status/1598384601474498560)
 
 Re @JianglinLi @iweiRime @HongfuDing 最好及时。<br>我是看到某推下有恶心话语，会看看是否跟着我，如果跟着，立刻拉黑。<br>特别黑恶坏的那种，哪怕没跟我，预先拉黑，省得哪天出现恶心人。
 
-### 86: [2022-12-02 03:55:50+08:00 推文](https://twitter.com/HeQinglian/status/1598405532830040064)
+### 87: [2022-12-02 03:55:50+08:00 推文](https://twitter.com/HeQinglian/status/1598405532830040064)
 
 Re @HongfuDing @JianglinLi @iweiRime 这是最合适的方式。<br>不过，我这两天突然想到现实关系通过网络变成一地鸡毛，也算是新现象。
 
-### 87: [2022-12-02 04:06:13+08:00 推文](https://twitter.com/HeQinglian/status/1598408146992726032)
+### 88: [2022-12-02 04:06:13+08:00 推文](https://twitter.com/HeQinglian/status/1598408146992726032)
 
 江泽民时代的三大关键词之一：腐败<br><br>江执政13年，大半是邓时期。放权让利形成的制度利差，带来了腐败与社会活力。<br>国企改革培养的国企寡头，为胡温“黄金十年”奠定基础；房地产热后发展成地方的“土地财政”；“三个代表”理论-新阶层论，为中国富豪进入人大政协开辟了制度性通道。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-12012022130655.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-12012022130655.html</a>
 
-### 88: [2022-12-02 11:00:48+08:00 推文](https://twitter.com/HeQinglian/status/1598512478631116805)
+### 89: [2022-12-02 11:00:48+08:00 推文](https://twitter.com/HeQinglian/status/1598512478631116805)
 
 Re @Wu_Zhi @JianglinLi @zhixiangziyou 马斯克邀请小泽同志来推特总部。告诉他，硅谷无数人盼望瞻仰小泽真容，会夹道欢迎并且捐款。
 
-### 89: [2022-12-02 21:13:27+08:00 推文](https://twitter.com/HeQinglian/status/1598666657106378753)
+### 90: [2022-12-02 21:13:27+08:00 推文](https://twitter.com/HeQinglian/status/1598666657106378753)
 
 Re @EvanLi2020 这个我在第三篇会写到：用体制内地位赎买体制外资源（名声），这在我离开中国的那一年下半年就采取了——多位国内朋友都这样告诉我，有些人就是受益者。
 
-### 90: [2022-12-02 21:19:38+08:00 推文](https://twitter.com/HeQinglian/status/1598668211725164550)
+### 91: [2022-12-02 21:19:38+08:00 推文](https://twitter.com/HeQinglian/status/1598668211725164550)
 
 Re @KELMAND1 目前台阶已经搭得够宽够长，拜登也呼吁希望与普京谈判。<br>美欧给台阶上铺上了红地毯，什么时候走下来，可能还得普京搭把手，最好弯腰搀扶拜登走红地毯，这样美欧就有了足够的面子，再去印太做世界领导，指点江山。<br>我意是拜登政府没这能力。<br>这次台湾民进党失去的是年轻人选票，LGBTQI的动力小于惧战。
 
-### 91: [2022-12-02 22:07:31+08:00 推文](https://twitter.com/fading_you1/status/1598680263667712000)
+### 92: [2022-12-02 22:07:31+08:00 推文](https://twitter.com/fading_you1/status/1598680263667712000)
 
 RT 天降伟人包由检<br>值得好好看看这个纪录片。美国的问题和中国的问题很凑巧的在曹德旺先生这里碰撞到一起。<br><br>细读经典：中国老板在美国开工厂是什么体验？ <a href="https://youtu.be/U9cwYk4rk4o" target="_blank" rel="noopener noreferrer">https://youtu.be/U9cwYk4rk4o</a>
 
-### 92: [2022-12-02 22:31:36+08:00 推文](https://twitter.com/HeQinglian/status/1598686324835307520)
+### 93: [2022-12-02 22:31:36+08:00 推文](https://twitter.com/HeQinglian/status/1598686324835307520)
 
 Re @JianglinLi @Wu_Zhi @zhixiangziyou 各方迹象表明美国想要停战。于是我在想乌克兰的重建问题。<br>除了基建工程与房地产之外（多半只能靠外援），乌克兰其实只能重操旧业。问题来了，一是欧洲国家经此一战国力大损，奇怪的性消费需求会降低（器官零售会继续）；二是有罗马尼亚、阿尔巴尼亚这些供给方竞争，供给大于需求。<br>战火重生不容易。
 
-### 93: [2022-12-02 22:57:32+08:00 推文](https://twitter.com/HeQinglian/status/1598692849872211968)
+### 94: [2022-12-02 22:57:32+08:00 推文](https://twitter.com/HeQinglian/status/1598692849872211968)
 
 Re @Lucs24659702 罗马帝国晚期、巴比伦王国灭亡之前，差不多就是这景象。
 
-### 94: [2022-12-02 23:47:43+08:00 推文](https://twitter.com/HongfuDing/status/1598705480603701249)
+### 95: [2022-12-02 23:47:43+08:00 推文](https://twitter.com/HongfuDing/status/1598705480603701249)
 
 RT Hongfu Ding<br>前几天在旧货店买了一本书，胡佛总统（1929-1933）所著，1934年第一版。在近百年来的左倾主流话语中，胡佛总统是失败的总统。他在书中警告，自由面临威胁和挑战，来自：socialism, communism, fascism, naziism.<br>那是1933年。2022年读来，犹如昨日。<br><img style="" src="https://pbs.twimg.com/media/Fi-8i5oXkAAOF5A?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 95: [2022-12-03 00:05:28+08:00 推文](https://twitter.com/HeQinglian/status/1598709948384710656)
+### 96: [2022-12-03 00:05:28+08:00 推文](https://twitter.com/HeQinglian/status/1598709948384710656)
 
 Re @KELMAND1 关于防疫方式，各国都有争论。<br>西方国家最开始就认为反人权而不肯实行，比如美国，因大学生群体与美国左派反川普，几乎从开始就有人反对，有人采取自律模式。到2020年3月还因聚会罚点款，后来不了了之。<br>中国坚持到今天，考虑到社会情绪，交给社区（非居委会）自我管理，后果自负，可能是最好的方式。
 
-### 96: [2022-12-03 00:12:41+08:00 推文](https://twitter.com/HeQinglian/status/1598711763469467650)
+### 97: [2022-12-03 00:12:41+08:00 推文](https://twitter.com/HeQinglian/status/1598711763469467650)
 
 Re @KELMAND1 只能是这样。比如我们在美国，也只能这样。<br>社区管理好在这点：为考虑邻舍关系，人们自觉一点。比如我有位邻居，外出旅游回来，半个月不与邻居接触，说是担心携带病毒感染大家。但他家也不需要我们代为购物，自家去。这点让我们觉得好玩。
 
-### 97: [2022-12-03 00:15:29+08:00 推文](https://twitter.com/HeQinglian/status/1598712467865145345)
+### 98: [2022-12-03 00:15:29+08:00 推文](https://twitter.com/HeQinglian/status/1598712467865145345)
 
 Re @Lucs24659702 他应该趁“地球总统”的余光犹在，想做什么就做什么。再过几个月，媒体不会对他这么客气了。
 
-### 98: [2022-12-03 00:17:14+08:00 推文](https://twitter.com/HeQinglian/status/1598712907360894981)
+### 99: [2022-12-03 00:17:14+08:00 推文](https://twitter.com/HeQinglian/status/1598712907360894981)
 
 Re @Isabel_3299 我觉得这从来不是问题。<br>但是，有个人群例外，而且是女文青与革青特别喜欢并崇拜的人群——我不说。
 
-### 99: [2022-12-03 00:27:40+08:00 推文](https://twitter.com/HeQinglian/status/1598715531896291335)
+### 100: [2022-12-03 00:27:40+08:00 推文](https://twitter.com/HeQinglian/status/1598715531896291335)
 
 江泽民时代的三个关键词之二：开放<br><br>这个“开放”，是以经济开放为主辅之以文化、人员交流。在国际社会中，江泽民时代始终恪守邓小平定下的“韬光养晦”，“与国际接轨”原则。<br>克林顿力推中国入世，是因江接受一个对华法律援助项目并让NGO进驻中国，这个项目的最大成果是维权运动。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-12022022093115.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-12022022093115.html</a>
 
-### 100: [2022-12-03 00:31:52+08:00 推文](https://twitter.com/HeQinglian/status/1598716591880953857)
+### 101: [2022-12-03 00:31:52+08:00 推文](https://twitter.com/HeQinglian/status/1598716591880953857)
 
 Re @KELMAND1 这是中国人的弱项，美国黑人区也好不了多少。<br>美国有个调查，在美华人最自律，病毒从中国传过来，但华人群体感染率最低。<br>在美华人与在中国的国人，生存环境不一样，自律精神要强点，尤其是散居在ChinaTown之外的人。
 
-### 101: [2022-12-03 00:34:45+08:00 推文](https://twitter.com/HeQinglian/status/1598717314047922177)
+### 102: [2022-12-03 00:34:45+08:00 推文](https://twitter.com/HeQinglian/status/1598717314047922177)
 
 Re 江比较会谈判，而且谈话技巧与公关技巧都强于胡、朱、习、温，文中史料说明，他确实讨得美国传媒、政界、公众的喜欢。
 
-### 102: [2022-12-03 00:36:43+08:00 推文](https://twitter.com/HeQinglian/status/1598717810884083712)
+### 103: [2022-12-03 00:36:43+08:00 推文](https://twitter.com/HeQinglian/status/1598717810884083712)
 
 Re @lianghuiwang2 Z世代开始，有色人种已经占多数了——只是黑人占比暂时不可能成为单一多数。
 
-### 103: [2022-12-03 00:48:50+08:00 推文](https://twitter.com/HeQinglian/status/1598720861128761346)
+### 104: [2022-12-03 00:48:50+08:00 推文](https://twitter.com/HeQinglian/status/1598720861128761346)
 
 Re @HongfuDing @jbchen2009 这位是美国第一代进步主义教主，行政国家（深层政府）的创始人，强调专家治国，与选举脱离。<br>不过，普林斯顿大学的现代进步主义学生没放过他，以他命名的大楼易名，学校在BLM运动时，在其塑像周围两千平方英尺地界内维修，因此没被摧毁。
 
-### 104: [2022-12-03 06:18:55+08:00 推文](https://twitter.com/HeQinglian/status/1598803929441214465)
+### 105: [2022-12-03 06:18:55+08:00 推文](https://twitter.com/HeQinglian/status/1598803929441214465)
 
 Re @RealBeiMing 这不需要金融经济史家<br>二战以后的布雷顿森林体系，造就了美国的金融霸权。因为从此不再以黄金为货币本位，各国货币汇率与美元挂钩。<br>这段历史并不复杂。从布雷顿森林体系成立，经过中东战争-美元危机，再到国际货币基金组织的一篮子货币计划（内容有变，最开始意大利里拉都在其内），大半世纪时间而已
 
-### 105: [2022-12-03 08:34:59+08:00 推文](https://twitter.com/VictoriaTC/status/1598838170279636992)
+### 106: [2022-12-03 08:34:59+08:00 推文](https://twitter.com/VictoriaTC/status/1598838170279636992)
 
 RT Victoria🌼<br>💥直播间说：这些推特内部文件提供了完整的证据链，推特参与了voter suppression，甚至是阴谋推翻政府。“这是水门事件以来最大的新闻。”<br><br>Nuance Bro: <br> <a href="https://twitter.com/i/spaces/1dRJZMDVLvzGB" target="_blank" rel="noopener noreferrer">https://twitter.com/i/spaces/1dRJZMDVLvzGB</a>
 
-### 106: [2022-12-03 08:43:32+08:00 推文](https://twitter.com/VictoriaTC/status/1598840322754158597)
+### 107: [2022-12-03 08:43:32+08:00 推文](https://twitter.com/VictoriaTC/status/1598840322754158597)
 
-RT Victoria🌼<br>💥马斯克公布的推特内部文件以丰富的证据链显示，民主党和媒体勾结偷走了2020总统大选。<br>＃推特文件 ＃窃选 ＃选举舞弊<br><br>Victoria🌼: 💥直播间说：这些推特内部文件提供了完整的证据链，推特参与了voter suppression，甚至是阴谋推翻政府。“这是水门事件以来最大的新闻。”<br>
+RT Victoria🌼<br>💥马斯克公布的推特内部文件以丰富的证据链显示，民主党和媒体勾结偷走了2020总统大选。<br>＃推特文件 ＃窃选 ＃选举舞弊<br><br>Victoria🌼: 💥直播间说：这些推特内部文件提供了完整的证据链，推特参与了voter suppression，甚至是阴谋推翻政府。“这是水门事件以来最大的新闻。”<br> <a href="https://twitter.com/NuanceBro/status/1598816289597919235" target="_blank" rel="noopener noreferrer">https://twitter.com/NuanceBro/status/1598816289597919235</a>
 
-### 107: [2022-12-03 08:50:33+08:00 推文](https://twitter.com/HeQinglian/status/1598842090141597696)
+### 108: [2022-12-03 08:50:33+08:00 推文](https://twitter.com/HeQinglian/status/1598842090141597696)
 
 Re @xchen62 @RealBeiMing 资本主义冠以“金融资本主义”，是二战之后，此前，是产业资本主义。<br>凯恩斯的《货币论》，既是他本人一本过渡性的著作，也是时代从产业资本主义过渡到金融资本主义的研究。<br>这一点，西方经济史划分得非常明显。
 
-### 108: [2022-12-03 09:03:43+08:00 推文](https://twitter.com/HeQinglian/status/1598845400709877760)
+### 109: [2022-12-03 09:03:43+08:00 推文](https://twitter.com/HeQinglian/status/1598845400709877760)
 
-推友 Victoria🌼@VictoriaTC 重返推特，将如以前一样，为大家及时提供有质量的英文信息并附上简单翻译。<br>请有兴趣的推友关注。<br><br>Victoria🌼: 💥马斯克公布的推特内部文件以丰富的证据链显示，民主党和媒体勾结偷走了2020总统大选。<br>＃推特文件 ＃窃选 ＃选举舞弊<br>
+推友 Victoria🌼@VictoriaTC 重返推特，将如以前一样，为大家及时提供有质量的英文信息并附上简单翻译。<br>请有兴趣的推友关注。<br><br>Victoria🌼: 💥马斯克公布的推特内部文件以丰富的证据链显示，民主党和媒体勾结偷走了2020总统大选。<br>＃推特文件 ＃窃选 ＃选举舞弊<br> <a href="https://twitter.com/VictoriaTC/status/1598838170279636992" target="_blank" rel="noopener noreferrer">https://twitter.com/VictoriaTC/status/1598838170279636992</a>
 
-### 109: [2022-12-03 11:21:36+08:00 推文](https://twitter.com/HeQinglian/status/1598880099415138304)
+### 110: [2022-12-03 11:21:36+08:00 推文](https://twitter.com/HeQinglian/status/1598880099415138304)
 
 世卫估计全球90%人口对新冠病毒拥有抗体 <br>看来，西方各国已经被折腾惨了，也不再想使用疫苗证了。好事。<br>covid-19早就完成了自己最重要的历史使命——2020年美国大选。 <a href="https://rfi.my/8xRQ.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8xRQ.T</a>
 
-### 110: [2022-12-03 11:32:14+08:00 推文](https://twitter.com/HeQinglian/status/1598882777180434432)
+### 111: [2022-12-03 11:32:14+08:00 推文](https://twitter.com/HeQinglian/status/1598882777180434432)
 
 😅拜登政府能源部高级官员、联邦政府首批“非二元性别”官员之一的萨姆·布林顿（Sam Brinton）被指控犯有盗窃重罪。今年9月，他在美国明尼阿波利斯州的机场偷走了一位乘客的名牌行李包，然后在酒店清空里面的行李衣物后将行李包据为己有。被起诉后，布林顿被悄然安排停职休假。 <a href="https://www.insider.com/biden-official-charged-theft-vera-bradley-suitcase-from-airport-2022-11" target="_blank" rel="noopener noreferrer">https://www.insider.com/biden-official-charged-theft-vera-bradley-suitcase-from-airport-2022-11</a>
 
-### 111: [2022-12-03 21:47:54+08:00 推文](https://twitter.com/HeQinglian/status/1599037713524539392)
+### 112: [2022-12-03 21:47:54+08:00 推文](https://twitter.com/HeQinglian/status/1599037713524539392)
 
 Re @LAPUDA_20 是链接文章自动蹦出来的，我也感到恶心啊。
 
-### 112: [2022-12-03 21:54:24+08:00 推文](https://twitter.com/HeQinglian/status/1599039352352358400)
+### 113: [2022-12-03 21:54:24+08:00 推文](https://twitter.com/HeQinglian/status/1599039352352358400)
 
 Re @RealBeiMing 有部电视剧，《美第奇家族》，那就是意大利银行业兴起的始祖与时间——意大利是世界借贷业-银行业发源之地。<br>莎翁《威尼斯商人》里的主角就是借贷业“吸血鬼”。<br>不如读一本现代金融史，里面会重点谈到美国金融霸权的建立，华尔街金融业的兴起，各种评级机构如何掌握世界各国的信用评级，形成超级权力
 
-### 113: [2022-12-03 22:07:18+08:00 推文](https://twitter.com/HeQinglian/status/1599042596067647489)
+### 114: [2022-12-03 22:07:18+08:00 推文](https://twitter.com/HeQinglian/status/1599042596067647489)
 
 Re @mingshi_chen @RealBeiMing 俄罗斯可以选择不卖给欧盟。
 
-### 114: [2022-12-03 22:10:44+08:00 推文](https://twitter.com/HeQinglian/status/1599043459679064066)
+### 115: [2022-12-03 22:10:44+08:00 推文](https://twitter.com/HeQinglian/status/1599043459679064066)
 
 推荐一部《美联储传：一部现代金融史》。这在美国也是较新的著作。<br>我当年读书时，所读《中国货币史》是1950年代的小本。现代金融史就没读过一本象话的书，都是后来慢慢补上的。中国开放这么多年，有不少好书的译本（不是说译得好），可惜现在的人不读了。<br><br>He Qinglian: @RealBeiMing 有部电视剧，《美第奇家族》，那就是意大利银行业兴起的始祖与时间——意大利是世界借贷业-银行业发源之地。<br>莎翁《威尼斯商人》里的主角就是借贷业“吸血鬼”。<br>不如读一本现代金融史，里面会重点谈到美国金融霸权的建立，华尔街金融业的兴起，各种评级机构如何掌握世界各国的信用评级，形成超级权力<br>
 
-### 115: [2022-12-04 08:57:42+08:00 推文](https://twitter.com/HeQinglian/status/1599206276969660418)
+### 116: [2022-12-04 08:57:42+08:00 推文](https://twitter.com/HeQinglian/status/1599206276969660418)
 
 Re @david_david1968 不是无动于衷。是他们早知道这是事实。<br>当年许多左派说“不知道”或者说是“谣言”，是为了让自己显得不堕落，其中一些体面人，必须装。<br>其实，我们认为堕落的吸毒、乱伦、恋童，早就是美国演艺界与科技界上层的生活模式，只是那时社会认同不够，还必须装。
 
-### 116: [2022-12-04 22:54:30+08:00 推文](https://twitter.com/HeQinglian/status/1599416864538402816)
+### 117: [2022-12-04 22:54:30+08:00 推文](https://twitter.com/HeQinglian/status/1599416864538402816)
 
 美国这座民主灯塔的倒掉还刚开始。一倒于2020大选左派精英集体作弊公然盗选，马斯克对Twitter的揭露正在证实；二倒于美国政府、科学界在covid-19病毒技术上的作用。<br>Stanford Daily报道：该校校长、著名生物学家Tessier-Lavigne被控三篇论文造假，其研究有多张经过修改的图像 <a href="https://stanforddaily.com/2022/11/29/stanford-presidents-research-under-investigation-for-scientific-misconduct-university-admits-mistakes/" target="_blank" rel="noopener noreferrer">https://stanforddaily.com/2022/11/29/stanford-presidents-research-under-investigation-for-scientific-misconduct-university-admits-mistakes/</a>
 
-### 117: [2022-12-04 22:55:32+08:00 推文](https://twitter.com/HeQinglian/status/1599417122265829376)
+### 118: [2022-12-04 22:55:32+08:00 推文](https://twitter.com/HeQinglian/status/1599417122265829376)
 
 Re @Lucs24659702 美国正在揭露本国的疫苗问题，将这真相告诉中国人，再让他们公投是否接受？
 
-### 118: [2022-12-04 23:07:23+08:00 推文](https://twitter.com/HeQinglian/status/1599420105967906816)
+### 119: [2022-12-04 23:07:23+08:00 推文](https://twitter.com/HeQinglian/status/1599420105967906816)
 
 Re @Lucs24659702 分环节。一是公投是否愿意进口；二是是否接种，由公众自愿。<br>到如今这年头，美国自己都“去民主化”，还有人成天摇头晃脑贩卖民主研究所那20多年前颜色革命的理论——我也服了。这些人当然是美国什么都好，只要给资助就行。
 
-### 119: [2022-12-04 23:12:52+08:00 推文](https://twitter.com/HeQinglian/status/1599421486024241154)
+### 120: [2022-12-04 23:12:52+08:00 推文](https://twitter.com/HeQinglian/status/1599421486024241154)
 
 Re 看得见的利益：担任斯坦福大学校长之前，Tessier-Lavigne在生物技术公司 Genentech 和Regeneron指导了 1000 多名科学家。Tessier-Lavigne 2014 年在 Regeneron 的薪水为 176.4万美元。<br>2021 年，他从斯坦福大学获得了 155.5万美元的收入，作为 Regeneron 的董事，他每年额外获得 70万美元的收入。
 
-### 120: [2022-12-04 23:45:45+08:00 推文](https://twitter.com/HeQinglian/status/1599429761293426689)
+### 121: [2022-12-04 23:45:45+08:00 推文](https://twitter.com/HeQinglian/status/1599429761293426689)
 
 Re 补正：是除了文中报导的这篇，还有三篇，都是广为传播的，为害剧烈。<br>斯坦福大学现公开承认，应该是事情调查有了结果。
 
