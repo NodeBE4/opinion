@@ -441,7 +441,7 @@ RT Victoria🌼<br>💥直播间说：这些推特内部文件提供了完整�
 
 ### 107: [2022-12-03 08:43:32+08:00 推文](https://twitter.com/VictoriaTC/status/1598840322754158597)
 
-RT Victoria🌼<br>💥马斯克公布的推特内部文件以丰富的证据链显示，民主党和媒体勾结偷走了2020总统大选。<br>＃推特文件 ＃窃选 ＃选举舞弊<br><br>Victoria🌼: 💥直播间说：这些推特内部文件提供了完整的证据链，推特参与了voter suppression，甚至是阴谋推翻政府。“这是水门事件以来最大的新闻。”<br> <a href="https://twitter.com/NuanceBro/status/1598816289597919235" target="_blank" rel="noopener noreferrer">https://twitter.com/NuanceBro/status/1598816289597919235</a>
+RT Victoria🌼<br>💥马斯克公布的推特内部文件以丰富的证据链显示，民主党和媒体勾结偷走了2020总统大选。<br>＃推特文件 ＃窃选 ＃选举舞弊<br><br>Victoria🌼: 💥直播间说：这些推特内部文件提供了完整的证据链，推特参与了voter suppression，甚至是阴谋推翻政府。“这是水门事件以来最大的新闻。”<br>
 
 ### 108: [2022-12-03 08:50:33+08:00 推文](https://twitter.com/HeQinglian/status/1598842090141597696)
 
