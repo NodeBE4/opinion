@@ -105,9 +105,17 @@ I discuss this somewhat in [this answer](https://www.reddit.com/r/AskHistorians/
 
 The long and short of it is that they were typically simply 'the emperor' or a synonym thereof. As for posthumous names, the typical convention is to take the last character (so for instance Fantian Hedao Zhesu Dunjian Guangwen Zhangwu Anren Zhixiao Xian Huangdi 範天合道哲肅敦簡光文章武安仁止孝顯皇帝 is also simply Emperor Xian).
 
-### 958: [[Hobby Scuffles] Week of December 5, 2022](https://old.reddit.com/r/HobbyDrama/comments/zcbumv/hobby_scuffles_week_of_december_5_2022/), submitted on 2022-12-04 23:00:21+08:00.
+### 958: [Is it accurate to claim that British colonialism killed 100 million Indians between 1880 and 1920?](https://old.reddit.com/r/AskHistorians/comments/zc1voq/is_it_accurate_to_claim_that_british_colonialism/), submitted on 2022-12-04 13:48:35+08:00.
 
------ __958.1__ -----2022-12-05 02:00:10+08:00:
+----- __958.1__ -----2022-12-05 08:34:05+08:00:
+
+Your comment has been removed due to violations of the [subreddit’s rules](https://www.reddit.com/r/AskHistorians/wiki/rules). We expect answers to provide [in-depth and comprehensive](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer) insight into the topic at hand, and while the use of appropriate academic sources is often an important component of that, it is also [expected that they are correctly contextualized and the answer demonstrates an understanding of their arguments](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_sources), not simply awareness of the works in question. 
+ 
+Before contributing again, please take the time to better familiarize yourself with the [subreddit rules](https://www.reddit.com/r/AskHistorians/wiki/rules) and [expectations](https://www.reddit.com/r/AskHistorians/wiki/faq/meta#wiki_rules_discussion) for an answer. [This Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/) is our suggested starting place to understand how answers are reviewed by the mod team.
+
+### 959: [[Hobby Scuffles] Week of December 5, 2022](https://old.reddit.com/r/HobbyDrama/comments/zcbumv/hobby_scuffles_week_of_december_5_2022/), submitted on 2022-12-04 23:00:21+08:00.
+
+----- __959.1__ -----2022-12-05 02:00:10+08:00:
 
 VTuber agency VShojo has just announced a new member, and people are annoyed. So, what exactly is going on?
 

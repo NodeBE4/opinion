@@ -453,7 +453,7 @@ Re @zhuxiuyuan 比喻不当。
 
 ### 110: [2022-04-07 21:54:12+08:00 推文](https://twitter.com/DongFang_USA/status/1512066212443799566)
 
-RT 东方<br>老拜登瞬間感受到什麽叫孤獨。
+RT 东方<br>老拜登瞬間感受到什麽叫孤獨。<br><br>BDW: Watch these 13 seconds and tell me who Democrats think is President of the United States.<br><br><video src="https://video.twimg.com/ext_tw_video/1511411124431990794/pu/vid/1280x720/2ipvQe2cHzjmSA7Y.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1511411124431990794/pu/img/wWmmjtUbuyRflaoK.jpg"></video>
 
 ### 111: [2022-04-07 22:17:17+08:00 推文](https://twitter.com/HeQinglian/status/1512072019516354571)
 
@@ -1205,7 +1205,7 @@ Re @Wu_Zhi 自己相信就好，不是好多人都说美乌共享信息战非常
 
 ### 298: [2022-04-10 21:58:14+08:00 推文](https://twitter.com/HeQinglian/status/1513154388877062150)
 
-RT He Qinglian<br>Re @telte99 @Colosseo77 因为我比你看得远。<br>第一层次：俄罗斯侵略乌克兰——你属于这个层次，大多数，70%；<br>第二层次：两国的历史恩怨，乌克兰本身的问题——25%；<br>第三层次：全球化失败后的大重置，拜登治下的美国是理想模式。<br>因此，你离我这远点，你还差得太远。就是左派思维，不同意见就是投共。
+Re @telte99 @Colosseo77 因为我比你看得远。<br>第一层次：俄罗斯侵略乌克兰——你属于这个层次，大多数，70%；<br>第二层次：两国的历史恩怨，乌克兰本身的问题——25%；<br>第三层次：全球化失败后的大重置，拜登治下的美国是理想模式。<br>因此，你离我这远点，你还差得太远。就是左派思维，不同意见就是投共。
 
 ### 299: [2022-04-10 22:01:33+08:00 推文](https://twitter.com/HeQinglian/status/1513155223539306496)
 
