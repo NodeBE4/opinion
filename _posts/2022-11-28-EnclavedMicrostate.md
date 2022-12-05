@@ -135,3 +135,21 @@ People are... [ambivalent](https://www.reddit.com/r/VirtualYoutubers/comments/z7
 
 And this aspect is where some of the more 'integrated' Japanese agencies come off looking really quite good in comparison. Take Hololive's recent debuts: nigh on everyone has some level of prior content creation experience, but there's a mix of people from varying ranges of popularity. HoloEN Gen 2 had one member with no VTuber experience and three who only did a bit on the side; HoloJP Gen 6 was a similar situation, where all but one were relatively obscure; until recently, only *one* of HoloID Gen 3's members had been traced to a past identity, in this case as a small-time indie VTuber. In general, new debutants are experienced but not established as VTubers. It's something that can slice either way as to whether it's a good or a bad thing, but it's not surprising that Hololive's tendency to also admit 'outsider' candidates was raised by some users as a point in favour.
 
+----- __959.2__ -----2022-12-05 16:25:10+08:00:
+
+> and it's not for the reason you think
+
+I'm curious...
+
+----- __959.3__ -----2022-12-05 16:31:08+08:00:
+
+So, to dig up the old can of worms, I definitely was not 100% on board with how Lindsay Ellis handled the Raya situation, but I never had any issues with her videos. As for Sarah Z, I'm not in enough of the fandoms she covers to say with any certainty if she's right or wrong on certain takes, but I will say that I didn't stand for her denunciation of Top Gun: Maverick as US Navy propaganda. I mean, that is correct, but it is also a genuinely good film where planes go whoosh and pew pew.
+
+----- __959.4__ -----2022-12-05 16:33:28+08:00:
+
+Hbomberguy's recent video on Tommy Tallarico I think came close to the repetition issue, in that it is essentially five chapters that consist solely of 'Tommy Tallarico lied about X'. But the lies keep getting *worse*. It's genuinely well structured and laid out, and I appreciate that.
+
+----- __959.5__ -----2022-12-05 16:42:47+08:00:
+
+Finished my 1860s Royal Marines [perspective 1](https://media.discordapp.net/attachments/774746306707062787/1047809742363435088/B679A116-432B-45E1-B047-0CE8A00E0F12.jpg?width=2496&height=1404) [perspective 2](https://media.discordapp.net/attachments/774746306707062787/1047809742669623296/CBCEFE7D-684D-41D7-9079-B1EBA8D4FB80.jpg?width=2496&height=1404), and also did a couple of supporting figures – [an ADC](https://media.discordapp.net/attachments/774746306707062787/1048941777429745664/9AFB09CC-9545-4814-B14A-81192D7EFE17.jpg?width=2496&height=1404) and a cook [perspective 1](https://media.discordapp.net/attachments/774746306707062787/1048941777165496391/805999DA-E3B8-4898-9C50-31AB06CD7F7A.jpg?width=2496&height=1404) [perspective 2](https://media.discordapp.net/attachments/774746306707062787/1048941776880287755/D3C7A374-1C6C-40EA-A506-2EA53A3046FF.jpg?width=2496&height=1404).
+
