@@ -165,3 +165,9 @@ Except... it isn't. The line is never said by *anyone* in that film, in which th
 
 Except... it isn't. The line does not appear in that film either. 'Stop throwing those bloody spears at me!' is now a line permanently associated with the film *Zulu* and more broadly with the early career of Michael Caine, despite this never actually having been said on the big screen.
 
+----- __959.7__ -----2022-12-05 22:56:13+08:00:
+
+It's a rare case of a collaboration nobody would have wanted, but which everyone is happy to have.
+
+(Clarification if needed: ideally, there wouldn't be harassment to crack down on at all and this serves to remind us that it does exist and that it is bad, but seeing as there is harassment, it's really good to see the big players team up and publicly state that they will do something about it.)
+

@@ -69,11 +69,11 @@ Re @James50056336 🌹🙏
 
 ### 14: [2020-12-17 11:01:51+08:00 推文](https://twitter.com/realcaixia/status/1339405420784472066)
 
-张展无罪！<br><br>相林🌸: 張展尋衅滋事案即將開庭，請關注、支持🙏🙏<br>中國公民記者張展因為報導武漢疫情而被捕關押至今，9月15日被檢察官求刑四至五年，本月28日在上海浦東法院開庭。<br>張展自5月中旬起在獄中抗議絕食持續至今。邪惡中共趁美國大選混亂之即，對香港、國內異議人士大開殺戒，請大家多關注與支持。<br><br><img style src="https://pbs.twimg.com/media/EpXatutUUAAOUau?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EpXatutU0AMXIgl?format=jpg&name=orig" referrerpolicy="no-referrer">
+张展无罪！<br><br>相林🌸: 張展尋衅滋事案即將開庭，請關注、支持🙏🙏<br>中國公民記者張展因為報導武漢疫情而被捕關押至今，9月15日被檢察官求刑四至五年，本月28日在上海浦東法院開庭。<br>張展自5月中旬起在獄中抗議絕食持續至今。邪惡中共趁美國大選混亂之即，對香港、國內異議人士大開殺戒，請大家多關注與支持。<br><br><img style="" src="https://pbs.twimg.com/media/EpXatutUUAAOUau?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/EpXatutU0AMXIgl?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 15: [2020-12-17 11:38:43+08:00 推文](https://twitter.com/realcaixia/status/1339414697498595329)
 
-这个冬天中国民众日子难过。为向澳大利亚施加压力，宁可中国多省拉闸限电，企业停工、经济受损、居民生活困难，也要显示中共强硬态度。中共好与别国斗狠，就拿民众当代价。<br><img style="" src="https://pbs.twimg.com/media/EpaOiszXYAEQacT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/EpaOjEDXMAckpvX?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/EpaOjkuXEAIqjfF?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/EpaOkGCW8AA-I0v?format=jpg&name=orig" referrerpolicy="no-referrer">
+这个冬天中国民众日子难过。为向澳大利亚施加压力，宁可中国多省拉闸限电，企业停工、经济受损、居民生活困难，也要显示中共强硬态度。中共好与别国斗狠，就拿民众当代价。<br><img style src="https://pbs.twimg.com/media/EpaOiszXYAEQacT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EpaOjEDXMAckpvX?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EpaOjkuXEAIqjfF?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EpaOkGCW8AA-I0v?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 16: [2020-12-17 23:09:01+08:00 推文](https://twitter.com/realcaixia/status/1339588415348592645)
 
@@ -93,7 +93,7 @@ Re 据王剑YouTube说山东、天津也停电限电。
 
 ### 20: [2020-12-18 21:04:44+08:00 推文](https://twitter.com/realcaixia/status/1339919525626728448)
 
-中共帝国不顾百姓死活，总是拿伤害国内民众来硬打关税战。西方各国政府都要考虑民生，因为他们是民众选的，中共口号上好话但行动上坏事做绝，因为他们拿几千万人命抢来权力垄断权力。明知冬天民生用电量激增，但还要施加惩罚性关税，实质上他们不是砸自己的脚，是拿民众当人肉盾牌，砸烂民众他们不在乎<br><br>荣剑: 冬天是用媒高峰时期，这个时候对进口澳国煤炭设置惩罚性关税，不就是搬起石头砸自己的脚吗？<br><br><img style="" src="https://pbs.twimg.com/media/EpZwN7tU8AA0gzy?format=jpg&name=orig" referrerpolicy="no-referrer">
+中共帝国不顾百姓死活，总是拿伤害国内民众来硬打关税战。西方各国政府都要考虑民生，因为他们是民众选的，中共口号上好话但行动上坏事做绝，因为他们拿几千万人命抢来权力垄断权力。明知冬天民生用电量激增，但还要施加惩罚性关税，实质上他们不是砸自己的脚，是拿民众当人肉盾牌，砸烂民众他们不在乎<br><br>荣剑: 冬天是用媒高峰时期，这个时候对进口澳国煤炭设置惩罚性关税，不就是搬起石头砸自己的脚吗？<br><br><img style src="https://pbs.twimg.com/media/EpZwN7tU8AA0gzy?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 21: [2020-12-20 04:27:09+08:00 推文](https://twitter.com/realcaixia/status/1340393254873952256)
 

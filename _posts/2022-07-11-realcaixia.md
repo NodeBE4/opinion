@@ -21,11 +21,11 @@ title: 'Twitter @蔡霞: 2022-07-11~2022-07-17'
 
 ### 2: [2022-07-13 21:22:03+08:00 推文](https://twitter.com/realcaixia/status/1547209743848165377)
 
-纪念刘晓波。他本该在诺贝尔奖颁奖典礼现场，然而由于中共极权统治的残酷迫害，颁奖典礼现场只有那把缺位的空椅子。从此，刘晓波—六·四屠杀事件—空椅子，成了追求自由民主的中国人心中永远的痛。我们纪念刘晓波，我们继续朝着刘晓波为之献出生命的目标前行。
+纪念刘晓波。他本该在诺贝尔奖颁奖典礼现场，然而由于中共极权统治的残酷迫害，颁奖典礼现场只有那把缺位的空椅子。从此，刘晓波—六·四屠杀事件—空椅子，成了追求自由民主的中国人心中永远的痛。我们纪念刘晓波，我们继续朝着刘晓波为之献出生命的目标前行。<br><br>自由亚洲电台: 【刘晓波逝世五周年 友人台北祭悼】<br>【刘晓波:中国必须有一个道义巨人无私牺牲】<br><br>13日是诺贝尔和平奖得主刘晓波逝世五周年。許多友人在台北以诗歌音乐舞蹈和演讲，悼念刘晓波。<br><br>流亡作家 #廖亦武 认为，刘晓波最重要的一句话是“中国没有道义巨人”。<br><br>#刘晓波<br>#李明哲<br>#矢板明夫<br>#中国没有道义巨人<br><br><video src="https://video.twimg.com/ext_tw_video/1547182384252010496/pu/vid/720x720/mcaCz7kODqDkw2y-.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1547182384252010496/pu/img/g_xZMsl74FPN_yst.jpg"></video>
 
 ### 3: [2022-07-14 03:39:34+08:00 推文](https://twitter.com/realcaixia/status/1547304749938130944)
 
-纪念刘晓波。我作为后来者会继续往前走，宪政民主是中国政治走向现代文明必须实现的首要目标。
+纪念刘晓波。我作为后来者会继续往前走，宪政民主是中国政治走向现代文明必须实现的首要目标。<br><br>ZHANGDONG: 五年前的今天他走了，在北欧留下了一把空椅和未竟的事业。<br><br><img style="" src="https://pbs.twimg.com/media/FXkHj9VX0AA-gJt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FXkHkSPWIAMDhWI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2022-07-14 09:52:58+08:00 推文](https://twitter.com/realcaixia/status/1547398719150211073)
 
@@ -53,7 +53,7 @@ Re @gaoyu200812 原先是有规则的，新闻联播前25分钟是国内报道�
 
 ### 10: [2022-07-15 23:39:27+08:00 推文](https://twitter.com/realcaixia/status/1547969096158810115)
 
-我之前一个转发变态辣椒推特的视频是下面这个视频的后半段，两个视频都看，才算看完整了。这个上半段视频，同一个银行工作人员在解释银行监管的内容和如何监管的操作规程。造成迫使业主停止还贷款这个状况的，银行必须承担一定责任。这两段视频完整地透露了政府银行房地产公司勾结一气割韭菜的。<br><br>bridgeduan: 河南烂尾楼事件，贷款买的期货房子没建好或者压根没建，房地产商把建房款挪用，烂尾了，银行却依然每月定时催还贷。业主们集体质疑银行的监管账户为什么不监管，银行的回复如视频：<br><br><video src="https://video.twimg.com/ext_tw_video/1547780735356260352/pu/vid/368x640/SjzLd5o28eELI36r.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1547780735356260352/pu/img/fwkXN9eOUpr94yor.jpg"></video>
+我之前一个转发变态辣椒推特的视频是下面这个视频的后半段，两个视频都看，才算看完整了。这个上半段视频，同一个银行工作人员在解释银行监管的内容和如何监管的操作规程。造成迫使业主停止还贷款这个状况的，银行必须承担一定责任。这两段视频完整地透露了政府银行房地产公司勾结一气割韭菜的。
 
 ### 11: [2022-07-15 23:51:21+08:00 推文](https://twitter.com/realcaixia/status/1547972093869928455)
 
@@ -65,5 +65,5 @@ Re @gaoyu200812 原先是有规则的，新闻联播前25分钟是国内报道�
 
 ### 13: [2022-07-16 23:53:07+08:00 推文](https://twitter.com/realcaixia/status/1548334925681635332)
 
-一方面，这个事件的滑稽可笑表明，中共以及五毛粉红们的以言论罪，完全不讲逻辑、无可理喻，充满邪恶。另一方面，中共与习不是宣称有强大的五个自信吗？自信到了以捕风捉影、邪念妄想症来坑人整人的地步。
+一方面，这个事件的滑稽可笑表明，中共以及五毛粉红们的以言论罪，完全不讲逻辑、无可理喻，充满邪恶。另一方面，中共与习不是宣称有强大的五个自信吗？自信到了以捕风捉影、邪念妄想症来坑人整人的地步。<br><br>荣剑: 一起舆情事故就这么发生了，人家说的是知了，挡不住别人联想丰富。<br><br><img style="" src="https://pbs.twimg.com/media/FXwQrhGUYAQyUJu?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FXwQsQCUUAcb9es?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FXwQtR6UYAMQMov?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FXwQt_WUcAADxuN?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
