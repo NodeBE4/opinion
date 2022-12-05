@@ -153,3 +153,15 @@ Hbomberguy's recent video on Tommy Tallarico I think came close to the repetitio
 
 Finished my 1860s Royal Marines [perspective 1](https://media.discordapp.net/attachments/774746306707062787/1047809742363435088/B679A116-432B-45E1-B047-0CE8A00E0F12.jpg?width=2496&height=1404) [perspective 2](https://media.discordapp.net/attachments/774746306707062787/1047809742669623296/CBCEFE7D-684D-41D7-9079-B1EBA8D4FB80.jpg?width=2496&height=1404), and also did a couple of supporting figures – [an ADC](https://media.discordapp.net/attachments/774746306707062787/1048941777429745664/9AFB09CC-9545-4814-B14A-81192D7EFE17.jpg?width=2496&height=1404) and a cook [perspective 1](https://media.discordapp.net/attachments/774746306707062787/1048941777165496391/805999DA-E3B8-4898-9C50-31AB06CD7F7A.jpg?width=2496&height=1404) [perspective 2](https://media.discordapp.net/attachments/774746306707062787/1048941776880287755/D3C7A374-1C6C-40EA-A506-2EA53A3046FF.jpg?width=2496&height=1404).
 
+----- __959.6__ -----2022-12-05 17:08:31+08:00:
+
+1964's *Zulu* is famous as the film that essentially launched Michael Caine's career (ironic given it was supposed to be Stanley Baker's star vehicle, but I digress). It is also famously the film in which Caine exclaims, 'Zulus! Thousands of 'em!' Or indeed, '*faaahzands* of 'em!'
+
+Except... it isn't. Some variation on the line is said twice: the first is at roughly the 59-minute mark by Nigel Green as Colour Sergeant Bourne, who declares 'The sentries report Zulus to the southwest, thousands of them.' The second is around the 1hr45m mark when James Booth's Private Hook tries to flee the hospital and sees the Zulus about to break through the door: 'Quick! Thousands of 'em!' Michael Caine's character, who speaks with an upper-class English accent rather than the actor's typical Cockney, says nothing of the sort.
+
+However, *Zulu* is also famous as the film where Michael Caine exclaims 'Stop throwing those bloody spears at me!'
+
+Except... it isn't. The line is never said by *anyone* in that film, in which throwing spears do not even make an appearance outside one brief sequence. Those who note the line's absence from Zulu often point out that it is actually from a *different* Michael Caine role, as Peachey Carnehan in the 1975 film *The Man Who Would Be King*, the *other* film in which he appears in a pith helmet and a red uniform.
+
+Except... it isn't. The line does not appear in that film either. 'Stop throwing those bloody spears at me!' is now a line permanently associated with the film *Zulu* and more broadly with the early career of Michael Caine, despite this never actually having been said on the big screen.
+
