@@ -71,6 +71,10 @@ Crossley's book is distinctly more theoretical and interpretive, and its intende
 
 The second edition was 1999 while the third was 2012, so it depends how much you care about the 13 years in between, mainly. I also don't know if there were revisions in between to account for the major spate of revisionist work on the Qing that mostly came out ca. 1998-2005, so while I can't guarantee the third edition is more up to date on that, I can guarantee the second won't be.
 
+----- __894.3__ -----2022-12-21 14:16:38+08:00:
+
+Sorry, I don’t really go past 1911, but I’m glad you’re enjoying Spence!
+
 ### 895: [How do past and present militaries deal with the soldiers' fear of death?](https://old.reddit.com/r/AskHistorians/comments/yc853i/how_do_past_and_present_militaries_deal_with_the/), submitted on 2022-10-24 18:53:45+08:00.
 
 ----- __895.1__ -----2022-10-24 19:04:15+08:00:

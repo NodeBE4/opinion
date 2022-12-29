@@ -1,0 +1,97 @@
+---
+author: HeQinglian
+categories:
+- Twitter
+date: 2022-12-29
+from: https://twitter.com/HeQinglian/status/1607938061689569281
+layout: post
+tags:
+- Twitter
+title: 'Twitter @He Qinglian: 2022-12-26~2023-01-01'
+---
+
+2001年辞国，现居美国。著作有《人口：中国的悬剑》《现代化的陷阱》《雾锁中国》、《中国：溃而不崩》等。 
+
+* This will become a table of contents (this text will be scrapped).
+{:toc}
+
+### 1: [2022-12-28 11:14:42+08:00 推文](https://twitter.com/HeQinglian/status/1607938061689569281)
+
+Re @shaoyaolitu 这项调查的受访者，据说明，民进党支持者占一半，国民党支持者占30%多点，剩下的是中间人士。
+
+### 2: [2022-12-28 16:28:17+08:00 推文](https://twitter.com/dinglili7/status/1608016976382947329)
+
+RT 绫波<br>中国是世界大重置非常重要的一环。<br><br>(当初武汉疫情开放国际航班，造成美国邮寄选票，造成偷窃总统大位成功)<br><img style="" src="https://pbs.twimg.com/media/FlDSj6DacAIK4ch?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 3: [2022-12-28 19:13:35+08:00 推文](https://twitter.com/ElaineYuMuMu/status/1608058576215617541)
+
+RT Elaine Yu<br>似乎几乎没有人意识到 NIH 的生物伦理学负责人——负责确保福奇的行为符合道德规范的人——是他的妻子<br><br>Elon Musk: @pmarca Almost no one seems to realize that the head of bioethics at NIH – the person who is supposed to make sure that Fauci behaves ethically – is his wife 🧐<br> <a href="https://en.m.wikipedia.org/wiki/Christine_Grady" target="_blank" rel="noopener noreferrer">https://en.m.wikipedia.org/wiki/Christine_Grady</a>
+
+### 4: [2022-12-28 22:24:00+08:00 推文](https://twitter.com/HeQinglian/status/1608106494507057152)
+
+Re @FightForJiuCai 我注意到五角大楼的帐本与国务院的帐本不一样，差距太大。前者说是从2014年开始，投入军事援助230亿美元，国务院帐本有两说，但都从今年战争开始算，正式说法是450亿，但另有估算为650亿。<br>因为不知是算到了乌克兰帐本上的，还是只算国会同意的，这得要美国记者慢慢扒，如同扒阿富汗帐本一样。
+
+### 5: [2022-12-28 22:24:46+08:00 推文](https://twitter.com/HeQinglian/status/1608106688653021185)
+
+Re @FightForJiuCai 谢谢，我Mark了，有时间会好好看。
+
+### 6: [2022-12-28 22:33:42+08:00 推文](https://twitter.com/HeQinglian/status/1608108937748058113)
+
+转谭作人脸书文，请国内推友务必找到他讲的《康复指导手册》，祝大家平安度劫。<br>【亲们！《康复指导手册》一定要仔细阅读，记下要点，认真执行。否则难免翻盘，前功尽弃。<br>人类的半数以上，经胳未断，武功己废，变成某毒的半废品处理品，世界己变。一定要有这个认识。[合十][合十][合十]】
+
+### 7: [2022-12-28 22:36:55+08:00 推文](https://twitter.com/HeQinglian/status/1608109748250869761)
+
+Re @fading_you1 有个问题想请教：看到有推主引专家文，说不是染疫之后就能终身免疫，会重复生病，不知概率有多高？目前有相对可靠的研究结果没有？
+
+### 8: [2022-12-28 22:44:30+08:00 推文](https://twitter.com/HeQinglian/status/1608111654348152834)
+
+Re @chinayvan 不会倒下。很多国内推友比你年龄大，身体也不如你健康，都已经平安度险，正在康复中。<br>目前如果没中招，一是你可能已有免疫力而不自知；二是病毒可能对你没伤害能力。<br>保持好心境，少外出，力所能及地准备一些必要药物。如果可能，每天服点维C。
+
+### 9: [2022-12-28 22:55:21+08:00 推文](https://twitter.com/li2nd/status/1608114385347825665)
+
+RT li2nd<br>康复指导手册: COVID-19相关疾病的自我管理, 第二版<br><br>He Qinglian: 转谭作人脸书文，请国内推友务必找到他讲的《康复指导手册》，祝大家平安度劫。<br>【亲们！《康复指导手册》一定要仔细阅读，记下要点，认真执行。否则难免翻盘，前功尽弃。<br>人类的半数以上，经胳未断，武功己废，变成某毒的半废品处理品，世界己变。一定要有这个认识。[合十][合十][合十]】<br>
+
+### 10: [2022-12-28 23:01:13+08:00 推文](https://twitter.com/HeQinglian/status/1608115862451388419)
+
+Re @oak22222 对非研究者来说，确实如你所说，能够认知并了解趋势就算不错，因为很多人还沉浸在灯塔教的幻梦里。<br>对我来说，我得理清源流。这种理清能够帮助我了解得更深刻，也希望能够帮助别人认知现实。
+
+### 11: [2022-12-28 23:18:20+08:00 推文](https://twitter.com/HeQinglian/status/1608120168357703680)
+
+Re @fading_you1 大概明白了，“与病毒共存”的集体免疫状态可能就是这样。<br>还有一句话我很在意：“这次病毒专攻免疫力强的”，论据似乎是打过疫苗的反而得重症，不打的多是轻症，因为不是统计学意义上的，不足为凭，但这现象存在却是实在的。
+
+### 12: [2022-12-28 23:22:50+08:00 推文](https://twitter.com/HeQinglian/status/1608121300395991043)
+
+Re @YaxueCao 台湾这一举措非常重要，据说还加进无人机使用与防御训练，这更重要。因为俄乌战争的模式并非美英预想的阿富汗战争+海湾战争模式，无人机的大量使用，竟然让无人机最早的发明使用国美国无有效反击能力。世界都得重新学习总结。
+
+### 13: [2022-12-28 23:25:32+08:00 推文](https://twitter.com/HeQinglian/status/1608121982025105408)
+
+Re @fading_you1 这需要疫情过后，仔细研究，那可能是半年之后的事情了。
+
+### 14: [2022-12-28 23:27:38+08:00 推文](https://twitter.com/HeQinglian/status/1608122511396589570)
+
+推荐：本文担心的，才是世界最应该担心的重大问题之一。<br>原因不同，应对的方式也会不同。<br><br>日经中文网: 【链接——中美欧经济同时恶化，世界失去引擎】从2001年中国加入WTO到2021年，中国的增长是世界的5.3倍，相当于占全球经济增长的31%，大大高于美国10%的贡献。2008年雷曼危机后，中国增长支撑了全球经济，而现在找不到可以履行这一职责的存在……<br> <a href="https://cn.nikkei.com/politicsaeconomy/epolitics/50521-2022-11-16-01-41-25.html" target="_blank" rel="noopener noreferrer">https://cn.nikkei.com/politicsaeconomy/epolitics/50521-2022-11-16-01-41-25.html</a> <a href="https://cn.nikkei.com/industry/management-strategy/50948-2022-12-28-09-45-50.html" target="_blank" rel="noopener noreferrer">https://cn.nikkei.com/industry/management-strategy/50948-2022-12-28-09-45-50.html</a>
+
+### 15: [2022-12-28 23:41:54+08:00 推文](https://twitter.com/HeQinglian/status/1608126101997645824)
+
+Re @fading_you1 明白了。估计“功能增益性”研究的关键就在这。
+
+### 16: [2022-12-29 00:03:06+08:00 推文](https://twitter.com/HeQinglian/status/1608131433876361216)
+
+Re @mingshi_chen 应该说，俄罗斯是不得不放开，中国则是遇上了天赐良机。美俄对峙，俄罗斯面临极大压力。<br>我有时在想，如果是中美对峙在先，俄罗斯是否能做到中国这地步。<br>但这种合作是有限的，双方的战略利益会变，只是时间与处理方式的问题。<br>我现在没弄清197个项目是什么具体内容。有空了再分析一下。
+
+### 17: [2022-12-29 00:13:05+08:00 推文](https://twitter.com/HeQinglian/status/1608133947396952064)
+
+Re @zhixiangziyou 不是奥巴马停止了，而是将这项危险的研究在美国国内停止了，以合作赞助的名义转到中国与乌克兰去了。
+
+### 18: [2022-12-29 00:35:09+08:00 推文](https://twitter.com/fading_you1/status/1608139501456564225)
+
+RT 天降伟人包由检<br>据国内医药界可靠消息，Paxlovid对肾功能不全者危害甚大。有做透析的感染者服用后死亡。另外这个药物干扰降压药、降脂药的药效，服用需非常谨慎。<br>由于老年感染者很多同时也是高血压血脂患者或肾功能不全，这使得他们在应对covid时减少了一个利器
+
+### 19: [2022-12-29 00:59:41+08:00 推文](https://twitter.com/HeQinglian/status/1608145675576827904)
+
+Re @mingshi_chen 实话实说，我没查到相关信息的可靠来源，就网易一条引自不具名人士说。<br>因此，最乐观地看，可能是中方有这想法，但俄方未必就接受，因为这等于将俄远东地区变成中国的经济殖民区。
+
+### 20: [2022-12-29 11:51:17+08:00 推文](https://twitter.com/HeQinglian/status/1608309657067479042)
+
+Re @enoughtalk4 @pzgwg @zhixiangziyou 是460个。
+

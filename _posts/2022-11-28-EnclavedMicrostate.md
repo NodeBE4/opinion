@@ -105,17 +105,43 @@ I discuss this somewhat in [this answer](https://www.reddit.com/r/AskHistorians/
 
 The long and short of it is that they were typically simply 'the emperor' or a synonym thereof. As for posthumous names, the typical convention is to take the last character (so for instance Fantian Hedao Zhesu Dunjian Guangwen Zhangwu Anren Zhixiao Xian Huangdi 範天合道哲肅敦簡光文章武安仁止孝顯皇帝 is also simply Emperor Xian).
 
-### 958: [Is it accurate to claim that British colonialism killed 100 million Indians between 1880 and 1920?](https://old.reddit.com/r/AskHistorians/comments/zc1voq/is_it_accurate_to_claim_that_british_colonialism/), submitted on 2022-12-04 13:48:35+08:00.
+### 958: [The devolution of Tibet - Yüan, Ming, Qing and Tibet Nowadays](https://old.reddit.com/r/tibet/comments/zanqek/the_devolution_of_tibet_yüan_ming_qing_and_tibet/), submitted on 2022-12-02 22:30:48+08:00.
 
------ __958.1__ -----2022-12-05 08:34:05+08:00:
+----- __958.1__ -----2022-12-08 22:01:31+08:00:
+
+It's interesting reflecting on that answer 3 years on, as the person who asked the question!
+
+As you note your answer is mostly the Tibetan perspective, and to give mine from the Qing standpoint, at least in brief, I do think we ought to see Tibet as having been conceived as being within the Qing Empire from about 1720 onwards, as opposed to either a tributary (in the sense of an independent state with limited and voluntary recognition of at least ceremonial Qing suzerainty) or a protectorate (in the sense of a largely unidirectional policy of military defence). The presence of an imperial resident in Lhasa from 1720 onward implied a level of Qing presence well above and beyond any other 'tributary' state, as the Qing as a rule did not send residents to their tributaries: the *one* exception I know of is the assignment of Yuan Shikai to Korea in 1885. However this was not necessarily direct rule, in that the Ganden Podrang functioned as a devolved government under moderate Qing supervision, and one capable of a certain amount of independent liaising with other elements within the empire.
+
+The 1792 turning point is less significant in terms of 'was Tibet part of the empire?' and more in terms of the autonomy of the Tibetan administration and priesthood. I'm not as familiar with the specific legal privileges granted to the *ambans*, but even just looking at the Golden Urn, that was a pretty powerful tool for consolidating Qing authority. It meant that the Tibetan clergy could no longer sustain their old patronage networks in Inner Asia, and effectively meant that the only lasting patron-priest/donor-preceptor (take your pick) relationship they could sustain would be that with the Qing court. So it would not have been an act that situated Tibet in the Qing Empire (where the Qing already believed it was), but rather one that put an end to the Tibetan clergy's ability to independently negotiate with other loci of power within the empire.
+
+Anyway, just some musings based mainly off Max Oidtmann's *The Golden Urn*.
+
+----- __958.2__ -----2022-12-09 03:44:47+08:00:
+
+The Gurkha invasion in 1792 is really interesting as a point of discussion around Tibet's position within the Qing Empire. The thing is that the Qing already had a garrison in Tibet which had successfully headed off an earlier Gurkha attack in 1788. Except as you may know, it didn't – the Qing officers on the ground had done nothing and the Gurkhas had been bought off. So when the second attack came in 1791-2 in response to a failure by the Tibetans to pay up, it made significant gains, including looting the monastery at Trashi Lhünpo which had recently received a major donation from the Qianlong Emperor. While the Qing sent troops to beat back the later invasion and succeeded over the course of 1792, it's worth considering that from the Qing standpoint, they had already been responsible for Tibet's military defence well beforehand, but that in 1788, they *failed* to act, rather than it not actually being within their purview.
+
+Another factor to consider is that the 1788 attack had been preceded by an inheritance dispute after the death of the Sixth Panchen Lama, leading to the Tenth Zhamarpa Lama fleeing to Nepal and becoming an advisor to the Nepalese court. The Qing, at least officially, blamed the absconded lama for the Gurkha invasion in 1791, citing his alleged lust for the treasures at Trashi Lhünpo and claiming that he had given away Qing military secrets. Because of that, the increased military presence in Tibet went hand-in-hand with the matter of the Golden Urn, because from the imperial standpoint, the Gurkha invasions had been made possible because of the venality of the Tibetan clergy, at the root of which was the ability to arbitrarily decide on reincarnation candidates, and keep new lamas coming from aristocratic lineages.
+
+Oidtmann's argument would be that it was in fact the Golden Urn that was the bigger implication of 1792, not least because it was the first response, rather than any military enlargement. In introducing the Urn, the Qing rearranged Tibet's position within the empire, from being part of a web of negotiated relationships between different interest groups towards a more unidirectional relationship with the imperial court.
+
+### 959: [Is it accurate to claim that British colonialism killed 100 million Indians between 1880 and 1920?](https://old.reddit.com/r/AskHistorians/comments/zc1voq/is_it_accurate_to_claim_that_british_colonialism/), submitted on 2022-12-04 13:48:35+08:00.
+
+----- __959.1__ -----2022-12-05 08:34:05+08:00:
 
 Your comment has been removed due to violations of the [subreddit’s rules](https://www.reddit.com/r/AskHistorians/wiki/rules). We expect answers to provide [in-depth and comprehensive](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer) insight into the topic at hand, and while the use of appropriate academic sources is often an important component of that, it is also [expected that they are correctly contextualized and the answer demonstrates an understanding of their arguments](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_sources), not simply awareness of the works in question. 
  
 Before contributing again, please take the time to better familiarize yourself with the [subreddit rules](https://www.reddit.com/r/AskHistorians/wiki/rules) and [expectations](https://www.reddit.com/r/AskHistorians/wiki/faq/meta#wiki_rules_discussion) for an answer. [This Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/) is our suggested starting place to understand how answers are reviewed by the mod team.
 
-### 959: [[Hobby Scuffles] Week of December 5, 2022](https://old.reddit.com/r/HobbyDrama/comments/zcbumv/hobby_scuffles_week_of_december_5_2022/), submitted on 2022-12-04 23:00:21+08:00.
+### 960: [Already so energetic... [Hololive]](https://old.reddit.com/r/wholesomeyuri/comments/zc4lth/already_so_energetic_hololive/), submitted on 2022-12-04 16:40:09+08:00.
 
------ __959.1__ -----2022-12-05 02:00:10+08:00:
+----- __960.1__ -----2022-12-08 01:11:11+08:00:
+
+'Friends'.
+
+### 961: [[Hobby Scuffles] Week of December 5, 2022](https://old.reddit.com/r/HobbyDrama/comments/zcbumv/hobby_scuffles_week_of_december_5_2022/), submitted on 2022-12-04 23:00:21+08:00.
+
+----- __961.1__ -----2022-12-05 02:00:10+08:00:
 
 VTuber agency VShojo has just announced a new member, and people are annoyed. So, what exactly is going on?
 
@@ -135,25 +161,25 @@ People are... [ambivalent](https://www.reddit.com/r/VirtualYoutubers/comments/z7
 
 And this aspect is where some of the more 'integrated' Japanese agencies come off looking really quite good in comparison. Take Hololive's recent debuts: nigh on everyone has some level of prior content creation experience, but there's a mix of people from varying ranges of popularity. HoloEN Gen 2 had one member with no VTuber experience and three who only did a bit on the side; HoloJP Gen 6 was a similar situation, where all but one were relatively obscure; until recently, only *one* of HoloID Gen 3's members had been traced to a past identity, in this case as a small-time indie VTuber. In general, new debutants are experienced but not established as VTubers. It's something that can slice either way as to whether it's a good or a bad thing, but it's not surprising that Hololive's tendency to also admit 'outsider' candidates was raised by some users as a point in favour.
 
------ __959.2__ -----2022-12-05 16:25:10+08:00:
+----- __961.2__ -----2022-12-05 16:25:10+08:00:
 
 > and it's not for the reason you think
 
 I'm curious...
 
------ __959.3__ -----2022-12-05 16:31:08+08:00:
+----- __961.3__ -----2022-12-05 16:31:08+08:00:
 
 So, to dig up the old can of worms, I definitely was not 100% on board with how Lindsay Ellis handled the Raya situation, but I never had any issues with her videos. As for Sarah Z, I'm not in enough of the fandoms she covers to say with any certainty if she's right or wrong on certain takes, but I will say that I didn't stand for her denunciation of Top Gun: Maverick as US Navy propaganda. I mean, that is correct, but it is also a genuinely good film where planes go whoosh and pew pew.
 
------ __959.4__ -----2022-12-05 16:33:28+08:00:
+----- __961.4__ -----2022-12-05 16:33:28+08:00:
 
 Hbomberguy's recent video on Tommy Tallarico I think came close to the repetition issue, in that it is essentially five chapters that consist solely of 'Tommy Tallarico lied about X'. But the lies keep getting *worse*. It's genuinely well structured and laid out, and I appreciate that.
 
------ __959.5__ -----2022-12-05 16:42:47+08:00:
+----- __961.5__ -----2022-12-05 16:42:47+08:00:
 
 Finished my 1860s Royal Marines [perspective 1](https://media.discordapp.net/attachments/774746306707062787/1047809742363435088/B679A116-432B-45E1-B047-0CE8A00E0F12.jpg?width=2496&height=1404) [perspective 2](https://media.discordapp.net/attachments/774746306707062787/1047809742669623296/CBCEFE7D-684D-41D7-9079-B1EBA8D4FB80.jpg?width=2496&height=1404), and also did a couple of supporting figures – [an ADC](https://media.discordapp.net/attachments/774746306707062787/1048941777429745664/9AFB09CC-9545-4814-B14A-81192D7EFE17.jpg?width=2496&height=1404) and a cook [perspective 1](https://media.discordapp.net/attachments/774746306707062787/1048941777165496391/805999DA-E3B8-4898-9C50-31AB06CD7F7A.jpg?width=2496&height=1404) [perspective 2](https://media.discordapp.net/attachments/774746306707062787/1048941776880287755/D3C7A374-1C6C-40EA-A506-2EA53A3046FF.jpg?width=2496&height=1404).
 
------ __959.6__ -----2022-12-05 17:08:31+08:00:
+----- __961.6__ -----2022-12-05 17:08:31+08:00:
 
 1964's *Zulu* is famous as the film that essentially launched Michael Caine's career (ironic given it was supposed to be Stanley Baker's star vehicle, but I digress). It is also famously the film in which Caine exclaims, 'Zulus! Thousands of 'em!' Or indeed, '*faaahzands* of 'em!'
 
@@ -161,13 +187,83 @@ Except... it isn't. Some variation on the line is said twice: the first is at ro
 
 However, *Zulu* is also famous as the film where Michael Caine exclaims 'Stop throwing those bloody spears at me!'
 
-Except... it isn't. The line is never said by *anyone* in that film, in which throwing spears do not even make an appearance outside one brief sequence. Those who note the line's absence from Zulu often point out that it is actually from a *different* Michael Caine role, as Peachey Carnehan in the 1975 film *The Man Who Would Be King*, the *other* film in which he appears in a pith helmet and a red uniform.
+Except... it isn't. The line is never said by *anyone* in that film, in which throwing spears never even share the screen with Caine (though a good few redcoats do get nailed by a thrown *assegai* at various points). Those who note the line's absence from *Zulu* often point out that it is actually from a *different* Michael Caine role, as Peachey Carnehan in the 1975 film *The Man Who Would Be King*, the *other* film in which he appears in a pith helmet and a red uniform.
 
 Except... it isn't. The line does not appear in that film either. 'Stop throwing those bloody spears at me!' is now a line permanently associated with the film *Zulu* and more broadly with the early career of Michael Caine, despite this never actually having been said on the big screen.
 
------ __959.7__ -----2022-12-05 22:56:13+08:00:
+----- __961.7__ -----2022-12-05 22:56:13+08:00:
 
 It's a rare case of a collaboration nobody would have wanted, but which everyone is happy to have.
 
 (Clarification if needed: ideally, there wouldn't be harassment to crack down on at all and this serves to remind us that it does exist and that it is bad, but seeing as there is harassment, it's really good to see the big players team up and publicly state that they will do something about it.)
+
+----- __961.8__ -----2022-12-06 00:02:51+08:00:
+
+Well that would be the obvious reason, hence the curiosity
+
+----- __961.9__ -----2022-12-06 00:03:34+08:00:
+
+Interesting. I see what you mean.
+
+----- __961.10__ -----2022-12-06 02:58:03+08:00:
+
+Three, if I’m not mistaken.
+
+----- __961.11__ -----2022-12-06 03:38:37+08:00:
+
+Wait, what did Chris Avellone do?
+
+----- __961.12__ -----2022-12-06 03:43:46+08:00:
+
+> The 8-Bit Guy
+
+Wait what? I did not know of this. What, er... what specifically did he say?
+
+----- __961.13__ -----2022-12-06 03:44:22+08:00:
+
+Yikes.
+
+----- __961.14__ -----2022-12-07 11:55:14+08:00:
+
+What is Sinfest, who is Tatsuya, and on a scale from 'not really' to 'abandon all hope', how much will I regret having asked?
+
+----- __961.15__ -----2022-12-07 12:14:41+08:00:
+
+Oh good lord.
+
+----- __961.16__ -----2022-12-07 12:20:33+08:00:
+
+This is just the pure essence of hobby drama here, where the scale of the drama is inversely proportional to the actual stakes. It's *yarn*, and yet somehow businesses are gamifying it. Just... wow.
+
+----- __961.17__ -----2022-12-07 12:23:07+08:00:
+
+> nasty plebes
+
+All else aside, upvote for good Latin.
+
+----- __961.18__ -----2022-12-07 12:40:54+08:00:
+
+I still like MB on the whole, albeit as someone who basically hasn't watched anime in literal years. His style's still not everyone's cup of tea naturally, so this isn't an insistence that you revisit him.
+
+----- __961.19__ -----2022-12-07 12:44:05+08:00:
+
+FWIW there's also arguably a qualitative difference between consistently-running series that are regular staples *expected* to go on indefinitely, versus seasonal anime which live and die based on whether new seasons and films are commissioned. It's one thing for One Piece to have a dip in quality for a bit, it's quite another for a new anime with a shoddy first season to get renewed.
+
+----- __961.20__ -----2022-12-07 12:45:10+08:00:
+
+What you and /u/Chivi-chivik seem to have stumbled on is what Dan Olson calls the [Thermian Argument](https://www.youtube.com/watch?v=AxV8gAGmbtk) – attempting to offer Watsonian explanations for Doylist critiques.
+
+----- __961.21__ -----2022-12-07 12:45:52+08:00:
+
+Ironically I like Lady Emily's (the co-writer in question's) content more than Sarah's FWIW.
+
+----- __961.22__ -----2022-12-08 21:26:30+08:00:
+
+I dunno, it's played fine for me.
+
+I mean, 'fine' in the sense that it still randomly crashes a lot and there is one specific bug where the game freezes if I zoom in or out while colony progress is visible, but other than that...
+
+Well there's also the bugs with the political interest groups, where they fixed the overflow issue from the base game where you could have Interest Groups be so powerful they overflow to having negative Clout, but where the new system for *giving* you Loyalists at high Legitimacy actually *takes away* Loyalists instead...
+
+But with that being said, there is a reason I still load the game back up after each crash.
 

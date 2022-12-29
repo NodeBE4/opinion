@@ -249,7 +249,7 @@ Re @princeton_walk 据说是俄海军太弱，管理不善，某些装置没启�
 
 ### 59: [2022-04-18 21:19:31+08:00 推文](https://twitter.com/HeQinglian/status/1516043752074326019)
 
-RT He Qinglian<br>Re @yu_su_chen 你说的自宫，美国一直在做。<br>俄乌战争那么吃紧，拜登都始终未忘本国公民的生殖器官阉割问题，提拔了一位变性人（男变女）做能源部长，号召全美未成年人自主变性，父母干涉就是违法。<br>就算天塌下来，拜登也不会忘记这件自宫大事。<br>有时我怀疑金老爷子说的《葵花宝典》被倒卖到美国，被民主党捡了漏。
+Re @yu_su_chen 你说的自宫，美国一直在做。<br>俄乌战争那么吃紧，拜登都始终未忘本国公民的生殖器官阉割问题，提拔了一位变性人（男变女）做能源部长，号召全美未成年人自主变性，父母干涉就是违法。<br>就算天塌下来，拜登也不会忘记这件自宫大事。<br>有时我怀疑金老爷子说的《葵花宝典》被倒卖到美国，被民主党捡了漏。
 
 ### 60: [2022-04-18 21:20:55+08:00 推文](https://twitter.com/HeQinglian/status/1516044104534310912)
 
@@ -857,7 +857,7 @@ Re @Wu_Zhi 还有一大帮生活在不用为乌克兰支付代理人费用的国
 
 ### 211: [2022-04-23 01:05:05+08:00 推文](https://twitter.com/HeQinglian/status/1517550065660878851)
 
-拜登也没达到目的：<br>The Hill报导，昆尼皮亚克大学（Quinnipiac University）日前公布的一项民调发现，拜登当前的支持率只有33%，标志着他在昆尼皮亚克大学民调记录中的最低点。他在拉美裔选民中的支持率更低，仅26%。<br>乌克兰人的血、美国纳税人与通胀掠夺来的钱、盟友的经济，未换来拜登支持率的上升
+拜登也没达到目的：<br>The Hill报导，昆尼皮亚克大学（Quinnipiac University）日前公布的一项民调发现，拜登当前的支持率只有33%，标志着他在昆尼皮亚克大学民调记录中的最低点。他在拉美裔选民中的支持率更低，仅26%。<br>乌克兰人的血、美国纳税人与通胀掠夺来的钱、盟友的经济，未换来拜登支持率的上升<br><br>He Qinglian: 2月14日，冷战大师马特洛克（美驻苏前大使，1987-1991）指出：我们正目睹一场精心策划、被严重放大的闹剧，以服务于国内政治目的。面对不断上升的通胀、covid-19的蹂躏、对阿富汗撤军的指责，以及未能获得本党对重建更好法案的全力支持。拜登政府得为今年的国会选举做准备……<br> <a href="https://www.democracynow.org/2022/2/17/jack_matlock_ukraine_russia_nato_us" target="_blank" rel="noopener noreferrer">https://www.democracynow.org/2022/2/17/jack_matlock_ukraine_russia_nato_us</a> <a href="https://twitter.com/HeQinglian/status/1516780090457301008" target="_blank" rel="noopener noreferrer">https://twitter.com/HeQinglian/status/1516780090457301008</a>
 
 ### 212: [2022-04-23 02:54:50+08:00 推文](https://twitter.com/HeQinglian/status/1517577686033518594)
 
