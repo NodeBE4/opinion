@@ -45,7 +45,7 @@ title: 'Twitter @蔡霞: 2022-06-20~2022-06-26'
 
 ### 8: [2022-06-22 08:40:37+08:00 推文](https://twitter.com/realcaixia/status/1539407976532000768)
 
-大陆灾害不断。曾经江、朱、胡、温都亲上灾区第一线，现在的大陆高层，习不去查看灾害，其他人就不敢出头第一个到第一线。从2019年起就这样了。
+大陆灾害不断。曾经江、朱、胡、温都亲上灾区第一线，现在的大陆高层，习不去查看灾害，其他人就不敢出头第一个到第一线。从2019年起就这样了。<br><br>老司机: 福建水灾，全国各地水灾如今不但不报导，连领导也都不出面装装救灾的样子了。好像不没有发生一样！但是外国灾难新闻是肯定会播报的！<br><br><video src="https://video.twimg.com/ext_tw_video/1538655456314286080/pu/vid/720x1280/IoUw_eOSYGQMUYhL.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1538655456314286080/pu/img/IPg4FLoZt2DcKA3P.jpg"></video>
 
 ### 9: [2022-06-23 07:45:46+08:00 推文](https://twitter.com/realcaixia/status/1539756560699822088)
 
@@ -65,7 +65,7 @@ title: 'Twitter @蔡霞: 2022-06-20~2022-06-26'
 
 ### 13: [2022-06-24 05:15:50+08:00 推文](https://twitter.com/realcaixia/status/1540081219471392769)
 
-全世界众目睽睽之下，中共当局迫害中国正义人士。这笔帐记着，中国宪政民主之时，习近平、习的酷吏打手将会向米洛舍维奇一样被押上人权法庭接受审判。<br><br>BBC News 中文: 许志永是中国知名的法律学者，推动中国公民运动的领军人。丁家喜曾是航空工程师，后来转任律师，曾与许志永等人发起 “新公民运动”。<br><br>他们二人涉嫌“颠覆国家政权罪”的案件，将分别于22日和24日在山东一家法院不公开开庭审理。<br> <a href="https://bbc.in/3QB7FmN" target="_blank" rel="noopener noreferrer">https://bbc.in/3QB7FmN</a>
+全世界众目睽睽之下，中共当局迫害中国正义人士。这笔帐记着，中国宪政民主之时，习近平、习的酷吏打手将会向米洛舍维奇一样被押上人权法庭接受审判。
 
 ### 14: [2022-06-24 05:27:38+08:00 推文](https://twitter.com/realcaixia/status/1540084187755122688)
 
@@ -97,7 +97,7 @@ Re 人以群分物以类聚，价值观相同，追求一致的人迟早聚到�
 
 ### 21: [2022-06-26 02:35:37+08:00 推文](https://twitter.com/realcaixia/status/1540765676217982978)
 
-习为世界发展指明方向？！跟着习近平走就是走绝路。
+习为世界发展指明方向？！跟着习近平走就是走绝路。<br><br>Winnie Pooh: 清华小学直博博士为全球发展指明了方向<br><br><img style="" src="https://pbs.twimg.com/media/FWGY2FzVUAAkaZ0?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWGY3ZtUAAAOLZ8?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWGY49BVUAAozyl?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 22: [2022-06-26 06:16:34+08:00 推文](https://twitter.com/realcaixia/status/1540821277321175043)
 
