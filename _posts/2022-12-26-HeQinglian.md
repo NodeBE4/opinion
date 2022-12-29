@@ -91,7 +91,35 @@ RT 天降伟人包由检<br>据国内医药界可靠消息，Paxlovid对肾功
 
 Re @mingshi_chen 实话实说，我没查到相关信息的可靠来源，就网易一条引自不具名人士说。<br>因此，最乐观地看，可能是中方有这想法，但俄方未必就接受，因为这等于将俄远东地区变成中国的经济殖民区。
 
-### 20: [2022-12-29 11:51:17+08:00 推文](https://twitter.com/HeQinglian/status/1608309657067479042)
+### 20: [2022-12-29 03:54:25+08:00 推文](https://twitter.com/Vince6610/status/1608189646860591104)
+
+RT Vince66<br>Re @fading_you1 @HeQinglian <a href="https://beckernews.com/breaking-landmark-first-peer-reviewed-study-on-pfizer-and-moderna-covid-vaccines-confirms-excess-risk-of-adverse-side-effects-46720/" target="_blank" rel="noopener noreferrer">https://beckernews.com/breaking-landmark-first-peer-reviewed-study-on-pfizer-and-moderna-covid-vaccines-confirms-excess-risk-of-adverse-side-effects-46720/</a>
+
+### 21: [2022-12-29 07:54:13+08:00 推文](https://twitter.com/Loiszhanglihua/status/1608249994217402372)
+
+RT 上帝赢了<br>梵蒂冈国前秘书长卡洛-玛丽亚--维加诺大主教阐述了正在发生的事情WEF通过COVID-19危机的背景 直接控制或要挟世界领导人遵循通过接种疫苗进行大规模破坏的计划 并服从于新的世界秩序 这就是WEF自大狂克劳斯-施瓦布所说的 "第四次工业革命 "的愿景以及他在"COVID-19和大重置"中提出的政变计划<br><video src="https://video.twimg.com/ext_tw_video/1608249930870820864/pu/vid/624x352/1cA7b5hws7VMhyFI.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1608249930870820864/pu/img/jsx3dcD_e3-chGpa.jpg"></video>
+
+### 22: [2022-12-29 11:51:17+08:00 推文](https://twitter.com/HeQinglian/status/1608309657067479042)
 
 Re @enoughtalk4 @pzgwg @zhixiangziyou 是460个。
+
+### 23: [2022-12-29 22:57:54+08:00 推文](https://twitter.com/HeQinglian/status/1608477414467715072)
+
+Re @JianglinLi @HongfuDing 美国司法有选择地休眠，末法子。<br>新一届国会共和党那位议长因为说了要追究小拜登电脑门所曝光的犯罪行为，现在RINO正在纠集人马，要让他得不到足够选票，削弱他的权力。<br>十天半月后就可看出端倪了。
+
+### 24: [2022-12-29 23:13:43+08:00 推文](https://twitter.com/HeQinglian/status/1608481395843678209)
+
+中国三年抗疫，证明covid-19及变种并非可防可控。<br>在准备严重不足的情况下放开，结果是让中国人在生死线上受煎熬；世界各国为防病毒蔓延本国，不得不对中国游客检测或封闭。<br>中国疫情如果能在2023年3月底之前结束，或可恢复国际社会亟盼的供应链；中国政府经济政策纠偏，首先得恢复私企信心。<br>三年白忙
+
+### 25: [2022-12-29 23:18:57+08:00 推文](https://twitter.com/HeQinglian/status/1608482712398036993)
+
+Re @FightForJiuCai 听起来，象是美国要弃子的前奏。<br>这节奏，以前一直有，只是那时互联网不发达，许多人不知道。
+
+### 26: [2022-12-29 23:23:25+08:00 推文](https://twitter.com/HeQinglian/status/1608483836337291264)
+
+Re @jojowheel 这种玩法，以前是个别现象，到川普担任总统之后，成为民主党及其派系司法官员的日常工作。<br>这叫做司法工具党派化，媒体服务于政党利益。
+
+### 27: [2022-12-29 23:25:41+08:00 推文](https://twitter.com/HeQinglian/status/1608484408893313026)
+
+Re @Vince6610 @fading_you1 我注意到一个现象：行业内竞争有时会采取这种方式——指出竞争者的毛病并宣传。这方式于消费者有利，可以弃劣就优。<br>辉瑞是内部吹哨，但不知为何屹立不倒。
 
