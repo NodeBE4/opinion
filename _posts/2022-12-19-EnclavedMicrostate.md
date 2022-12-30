@@ -180,23 +180,29 @@ Yeah, funny how that works.
 
 Depends on where you are. My wargaming activity has been UK-based and this is literally the first time I've heard of KoW.
 
-### 1005: [[Hobby Scuffles] Week of December 26, 2022](https://old.reddit.com/r/HobbyDrama/comments/zuzn3j/hobby_scuffles_week_of_december_26_2022/), submitted on 2022-12-25 23:00:15+08:00.
+### 1005: [The celebrated French author Alexandre Dumas was one-quarter Black through his father, the general Thomas-Alexandre. Did he ever face any discrimination due to his background, and did it affect his writing? Is there a strand of progressive advocacy in Dumas' works?](https://old.reddit.com/r/AskHistorians/comments/zuopg5/the_celebrated_french_author_alexandre_dumas_was/), submitted on 2022-12-25 10:32:33+08:00.
 
------ __1005.1__ -----2022-12-27 10:23:23+08:00:
+----- __1005.1__ -----2022-12-30 13:49:11+08:00:
+
+Thanks for the links! I was looking for an answer that more specifically addressed the younger Dumas's writings that the above three don't touch on at great length; still holding out hope though!
+
+### 1006: [[Hobby Scuffles] Week of December 26, 2022](https://old.reddit.com/r/HobbyDrama/comments/zuzn3j/hobby_scuffles_week_of_december_26_2022/), submitted on 2022-12-25 23:00:15+08:00.
+
+----- __1006.1__ -----2022-12-27 10:23:23+08:00:
 
 On the purely My Immortal front, I know there's a video that isn't Sarah Z that goes into *I'm Not Okay* in some detail, but I forget what it is. More recently though, Strange Æons did a pair of videos on My Immortal, [one](https://www.youtube.com/watch?v=0JodBp-r9jM) where they argue that My Immortal probably isn't a trollfic and was likely genuinely written by an American expatriate in Dubai, and [another](https://www.youtube.com/watch?v=WShlzUBlUXY) where they cover the later spurious authorship claims. 
 
 As for 'video that keeps digging deeper', I think Strange Æons' [Snapewives video](https://www.youtube.com/watch?v=L5Y5HFjiBNk) may also fit the bill. Folding Ideas/Dan Olson's recent video [Contrepreneurs: The Mikkelsen Twins](https://www.youtube.com/watch?v=biYciU1uiUw) is a similar though perhaps not as overt kind of descent down the rabbit hole. I also quite like Lady Emily's video on the [Family Dollar game show](https://www.youtube.com/watch?v=QwulEe3Tmz4). I'll also take a second to bring up [Mia Mulder](https://www.youtube.com/@MiaMulder), who does some videos on gender, some on history, and a few on both! More specifically though, her videos often look at conspiracy theories about one or the other subject, which is invariably a rabbit-holey kind of thing. IMO her Tartaria video supersedes my own r/badhistory writeup from 3 years ago.
 
------ __1005.2__ -----2022-12-27 12:42:44+08:00:
+----- __1006.2__ -----2022-12-27 12:42:44+08:00:
 
 Also check out Michael Hobbes' new, concurrent podcast, 'If Books Could Kill', which goes after poor-quality, high-circulation nonfiction books – *Freakonomics*, *The Population Bomb*, *Outliers*, etc.
 
------ __1005.3__ -----2022-12-27 22:46:53+08:00:
+----- __1006.3__ -----2022-12-27 22:46:53+08:00:
 
 I was skimming slightly too quickly and I needed to re-read this because for a sec I thought you meant that Mystery Flesh Pit National Park had a contiguous narrative involving explicit individual characters, rather than describing a fan work (which makes loads more sense).
 
------ __1005.4__ -----2022-12-28 15:23:55+08:00:
+----- __1006.4__ -----2022-12-28 15:23:55+08:00:
 
 So this is something that is one part scuffle, one part ramble, and one part prompt, (and as it turns out longer than a single comment), but my big distraction today was thinking about the samurai skirmish wargame *Test of Honour*, which led down a load of rabbit holes, not all of which I have explored in full.
 
@@ -216,7 +222,7 @@ Type 2 are what I will call 'fully original sets': entirely new, all-metal figur
 
 But then, something happened. Why exactly, I am not sure, but in early 2019 Graham Davey split off from Warlord Games to form his own company, Grey For Now Games (henceforth GfN), taking *Test of Honour* with him. That year, the game would essentially get a relaunch, with a second edition of the rules that dealt with a lot of the issues people had with the first, a new line of minis commissioned directly by Grey for Now that could be used as starter or expansion forces, and collaborations with North Star Figures and Footsore Miniatures' existing feudal Japan lines (North Star stocks GfN and Footsore figures and vice versa). But what of the Warlord Games figures? Well, aside from the Seven Samurai, which were stocked by GfN until they ran out, all the ToH-specific minis that Warlord had produced were discontinued. So, no more oni mask head swaps, no more bandit gangs, and critically, no more Onna-bugeisha.
 
------ __1005.5__ -----2022-12-28 15:26:05+08:00:
+----- __1006.5__ -----2022-12-28 15:26:05+08:00:
 
 Or was it? Because in December 2018, Warlord Games released Warlords of Erewhon, its new fantasy setting; this in turn got a samurai expansion in summer 2020 – as you do – which saw most of the old ToH exclusives re-released, and often with additional sculpts to form larger unit packs. There's a new, enlarged [Bandits pack](https://cdn.shopify.com/s/files/1/0255/0949/4864/products/692215002_Erewhon-Bandits-_-Brigands1_800x.jpg?v=1626049769), the [Ninjas](https://cdn.shopify.com/s/files/1/0255/0949/4864/products/693015003-Warlords-of-Erewhon-Ninjas2_800x.jpg?v=1575567058) are back but without new sculpts, most of the heroes have reappeared in a [heroes pack](https://cdn.shopify.com/s/files/1/0309/8965/products/692415001-Warlords-of-Erehwon-Samerai-Heroes1.jpg?v=1632141317). The mounted figures haven't yet reappeared however, nor, as far as I am aware, the head swaps that came with the original run of expansion sets. More critically, while [Armoured Onna-Bugeisha](https://cdn.shopify.com/s/files/1/0309/8965/products/693015007_Warlord-of-Erehwon_Armoured-Onna-bugeisha-with-naginata1.jpg?v=1627314506) are back, as are [Onna-Bugeisha Archers](https://cdn.shopify.com/s/files/1/0309/8965/products/693015006-Warlords-of-Erewhon-Onnabugeisha-with-longbows1.jpg?v=1627313520), there is as yet no sign of the two unarmoured Onna-Bugeisha from the original pack.
 
@@ -227,13 +233,13 @@ So I guess to also give something to respond to, a couple of ideas:
 * Are there interesting cases in your hobby of someone trying to make the New Big Thing that will outcompete all the alternatives on the market to become the New Standard, only to end up just creating a new competing standard amid all the existing ones?
 * Are there interesting cases in your hobby of someone making a thing, then pulling it from circulation despite probably not losing money on it, in a way that has caused intense personal frustration, either as someone who had been using the thing or as someone who latterly discovered the thing that might be useful?
 
------ __1005.6__ -----2022-12-28 18:48:41+08:00:
+----- __1006.6__ -----2022-12-28 18:48:41+08:00:
 
 Terry Farrell has never officially declared why she quit, and while there is the explanation from the scheduling conflict, that in turn still requires explaining why she wanted to go from full time to part time unlike the rest of the cast. That is almost certainly to do with Rick Berman, but again, she has never officially said anything on the matter.
 
 Separately, on the matter of showrunners it is worth distinguishing between the overall Trek showrunners (i.e. Berman and to an extent Brannon Braga) from the individual series showrunners, as DS9 was largely an Ira Steven Behr project after S2.
 
------ __1005.7__ -----2022-12-28 21:34:14+08:00:
+----- __1006.7__ -----2022-12-28 21:34:14+08:00:
 
 \#ReceptioGate could have been over in a day: Rossi could have taken a minor L by citing her sources, and while Kidd could reasonably have still called plagiarism it'd have been a harder fight for him. *Instead* Rossi has doubled down in the most ridiculously escalatory way possible. And then did it again, and again, and again, and now everything is on display and everything is on fire and it's *glorious*.
 

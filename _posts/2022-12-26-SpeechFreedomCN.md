@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-12-27
+date: 2022-12-30
 from: https://twitter.com/SpeechFreedomCN/status/1607361746423140353
 layout: post
 tags:
@@ -26,4 +26,12 @@ Guangzhou police criminally detained non-binary resident Yang Zijing for involve
 ### 3: [2022-12-27 12:18:01+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1607591609440534530)
 
 据美联社报道，广州警方逮捕了至少四名参与白纸运动的人士，包括杨紫荆（昨日本推发表过其案件），另外三人身份与案件信息不详。 <a href="https://apnews.com/article/health-covid-guangzhou-government-and-politics-ca948db0671187386954e5da87b4416f" target="_blank" rel="noopener noreferrer">https://apnews.com/article/health-covid-guangzhou-government-and-politics-ca948db0671187386954e5da87b4416f</a>
+
+### 4: [2022-12-30 13:59:28+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1608704300955623426)
+
+苏州网民金某，因在网上自称病毒学博士且在疾病防治中心工作，五天内两次感染了不同毒株，被处行政拘留。其言论真实性不详，但网民称其造谣的目的是为了抹黑“躺匪”，因此其“谣言”还被一些爱国大v转发。<br><img style="" src="https://pbs.twimg.com/media/FlNDfLFXoAA0Ra3?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2022-12-30 14:03:03+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1608705202244423680)
+
+Suzhou resident Jin administratively detained for claiming on Weibo that he/she was infected with two different variants in 5 days. The truthfulness of the remark remains unknown but it was allegedly made up to attack the government's decision to drop covid restriction measures.<br><img style="" src="https://pbs.twimg.com/media/FlNEJGDWYAIj0eF?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
