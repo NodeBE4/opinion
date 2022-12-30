@@ -17,11 +17,11 @@ title: 'Twitter @蔡霞: 2022-08-01~2022-08-07'
 
 ### 1: [2022-08-01 08:02:58+08:00 推文](https://twitter.com/realcaixia/status/1553894016089047042)
 
-严歌苓是华裔女作家中的良知代表。<br><br>ABC中文: 作为当代最知名的中文作家，严歌苓曾为李文亮悲鸣，也在徐州“八孩母亲”事件后被曝批评习近平是“人贩子”。<br><br>她的名字随后在中国影视行业销声匿迹，社交媒体平台微博更是引用“相关法律法规”将其屏蔽。<br><br>“你如果要用我去以妥协作为代价的话，我宁可什么也不要，”她告诉ABC中文。<br> <a href="https://ab.co/3zcpSiQ" target="_blank" rel="noopener noreferrer">https://ab.co/3zcpSiQ</a>
+严歌苓是华裔女作家中的良知代表。
 
 ### 2: [2022-08-01 08:06:28+08:00 推文](https://twitter.com/realcaixia/status/1553894897333280774)
 
-非常有道理！
+非常有道理！<br><br>新聞看點: 這位大姐：『是你中華人民共和國先從中華民國獨立出去的.... 』<br>誰先獨？😂<br><br><video src="https://video.twimg.com/amplify_video/1553582353582551040/vid/480x320/YJUKQrejPY7fGVnZ.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1553582353582551040/img/QbnjUgweUZQUSZkI.jpg"></video>
 
 ### 3: [2022-08-01 09:41:09+08:00 推文](https://twitter.com/realcaixia/status/1553918724545155073)
 
@@ -37,7 +37,7 @@ title: 'Twitter @蔡霞: 2022-08-01~2022-08-07'
 
 ### 6: [2022-08-04 01:16:46+08:00 推文](https://twitter.com/realcaixia/status/1554878957094404097)
 
-习当局在佩洛西访台前竭尽恐吓威胁之能事，胡叼盘的“伴飞”“击落”叫的全世界都听见，赵“战狼”的“拭目以待”真吊足了粉红五毛的胃口。结果，佩洛西该去照去，分毫未被伤。<br>狠狠地被伤的是粉红五毛。当局昨天关闭微博等平台，又下指令防止大学生“出征”上街。现在，煽起来的这把火要反烧他们自己了。<br><br>荣剑: 赵哥和胡哥实在是对不起这位哥们。<br><br><video src="https://video.twimg.com/ext_tw_video/1554649389808754688/pu/vid/720x1068/--Gp7vaHCSsBvvW7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1554649389808754688/pu/img/Ah5aIWVOoBU5Rs86.jpg"></video> <a href="https://twitter.com/rongjian1957/status/1554631395921711105" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1554631395921711105</a>
+习当局在佩洛西访台前竭尽恐吓威胁之能事，胡叼盘的“伴飞”“击落”叫的全世界都听见，赵“战狼”的“拭目以待”真吊足了粉红五毛的胃口。结果，佩洛西该去照去，分毫未被伤。<br>狠狠地被伤的是粉红五毛。当局昨天关闭微博等平台，又下指令防止大学生“出征”上街。现在，煽起来的这把火要反烧他们自己了。<br><br>荣剑: 赵哥和胡哥实在是对不起这位哥们。<br><br><video src="https://video.twimg.com/ext_tw_video/1554649389808754688/pu/vid/720x1068/--Gp7vaHCSsBvvW7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1554649389808754688/pu/img/Ah5aIWVOoBU5Rs86.jpg"></video>
 
 ### 7: [2022-08-04 01:36:20+08:00 推文](https://twitter.com/realcaixia/status/1554883881232465922)
 
