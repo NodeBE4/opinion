@@ -135,3 +135,27 @@ Re 放在大重置背景中看，世界各国人民付出惨重代价，只证�
 
 Re @zhixiangziyou 那俺住这地儿，十分之九的人都是种族主义者。提醒一下，这是深蓝州。
 
+### 31: [2022-12-30 08:03:05+08:00 推文](https://twitter.com/HeQinglian/status/1608614616476811266)
+
+Re @shenliangqing2 好象两兄弟被搞混了。<br>邮票是弟——黄永玉；漫画是兄——黄永厚。<br>画风、处世都极不一样。
+
+### 32: [2022-12-30 08:08:05+08:00 推文](https://twitter.com/HeQinglian/status/1608615873786572800)
+
+Re @Tepezano161 说话请注意，你才喜欢跟风。我说过让社区自主防控，说了两年。<br>如果中国早放开，无论是本国经济还是集体免疫力，都是另一番光景。<br>实话实说，你如果理解冬奥之后的封控，说出道理来。我想了很久，除了一条：健康码（疫苗护照）需要试点国。
+
+### 33: [2022-12-30 08:12:18+08:00 推文](https://twitter.com/HeQinglian/status/1608616934530256897)
+
+这位如果能够竞选连任，只能说明两点：<br>1、民主党内胡闹有人，没有能够做正事的人。只有他还能假装正经人，用正经语言说出极为荒唐的政策；2、因为老年痴呆，即使满嘴胡话，也能不要脸地圆过去。<br>世界各国欢迎美国有这样的领导人。<br><br>RFI 華語 - 法國國際廣播電台: 拜登與家人開始新年度假 似已決定競選連任<br><br><img style="" src="https://pbs.twimg.com/media/FlKk_AvacAA3idY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/91ev.t" target="_blank" rel="noopener noreferrer">https://rfi.my/91ev.t</a>
+
+### 34: [2022-12-30 08:24:24+08:00 推文](https://twitter.com/HeQinglian/status/1608619980232491009)
+
+Re @jojowheel 可惜他的国家比较弱了。<br>五年前，曾与一位熟人谈过布什以后的美国总统与普京，双方的共识竟然是：如果美国总统哪怕有一位是普京这样的人才，美国还会继续强盛下去。<br>这位如今是坚定的普黑。
+
+### 35: [2022-12-30 09:00:24+08:00 推文](https://twitter.com/HeQinglian/status/1608629037555154945)
+
+Re @Fumitoku_T 😅<br>我说过，是民主党政府的一份“战略资产”，必须好好经营。
+
+### 36: [2022-12-30 09:01:28+08:00 推文](https://twitter.com/HeQinglian/status/1608629308784021509)
+
+Re @XiaGuo10 美媒与在地下室那位都说过。
+
