@@ -33,11 +33,11 @@ title: 'Twitter @蔡霞: 2022-04-18~2022-04-24'
 
 ### 5: [2022-04-18 08:02:39+08:00 推文](https://twitter.com/realcaixia/status/1515843212354727943)
 
-关洪导演说的是中国大陆当下正在反复证明的至理名言。<br><br>贺江兵: 我的老友关洪导演说的完全正确，没有自由你会被饿死！😊<br><br><img style="" src="https://pbs.twimg.com/media/FQiEaLgVgAUal2H?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+关洪导演说的是中国大陆当下正在反复证明的至理名言。
 
 ### 6: [2022-04-18 08:23:05+08:00 推文](https://twitter.com/realcaixia/status/1515848354290356226)
 
-查查现在的广西自治区委书记是什么人，估计是想20大争进局或2023年想进南院的。现在拍有点儿临死抱佛脚了，早干嘛去了？<br><br>韩连潮: 【广西马屁】刚才看到《广西日报》根据自治区党委的部署推出拍习马屁的系列重磅报道，将其称为“伟大复兴领航人”，还怕领航人不识“踔厉笃行”的踔字，又特意用横线标出，看来广西这个马屁恐怕拍到马蹄儿上了。<br><br><img style="" src="https://pbs.twimg.com/media/FQkp698XEAU82wD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+查查现在的广西自治区委书记是什么人，估计是想20大争进局或2023年想进南院的。现在拍有点儿临死抱佛脚了，早干嘛去了？
 
 ### 7: [2022-04-18 08:47:27+08:00 推文](https://twitter.com/realcaixia/status/1515854487893725192)
 
@@ -77,7 +77,7 @@ Re @21KsJZBSV3yPD9w @YouTub 李锐的《庐山会议实录》、杨继绳的《�
 
 ### 16: [2022-04-18 22:58:17+08:00 推文](https://twitter.com/realcaixia/status/1516068606408278016)
 
-说的对！李克强总理应该去上海苏州等疫情严重的地区实地了解情况。<br><br>韩连潮: 【李总理，你应当去上海！】有人把清零和共存说成两条路线斗争、内斗、制度和文明之争, 动辄上纲上线、戴帽子打棍子，说明野心家别有用心；李克强总理作为抗疫领导小组组长应当前往上海亲临一线坐镇主场，这是你的基本职责。领导不是神仙，科学也会出错，亲临其境才知道民众的困苦，找到应对方案。<br><br><img style="" src="https://pbs.twimg.com/media/FQoJIMTX0AE-Qkj?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+说的对！李克强总理应该去上海苏州等疫情严重的地区实地了解情况。
 
 ### 17: [2022-04-18 23:20:53+08:00 推文](https://twitter.com/realcaixia/status/1516074293133602820)
 
@@ -85,7 +85,7 @@ Re @yangjianli001 哈哈！
 
 ### 18: [2022-04-19 23:39:13+08:00 推文](https://twitter.com/realcaixia/status/1516441293584580611)
 
-这条视频满是网友评语飘过。弹幕恰反映了真实民意。党国官媒造神以为这就能搞定人心向背，看看这条视频，就知他们是在自欺欺人。 <a href="https://twitter.com/Seer_Cold_Mist/status/1515919805756280835" target="_blank" rel="noopener noreferrer">https://twitter.com/Seer_Cold_Mist/status/1515919805756280835</a>
+这条视频满是网友评语飘过。弹幕恰反映了真实民意。党国官媒造神以为这就能搞定人心向背，看看这条视频，就知他们是在自欺欺人。
 
 ### 19: [2022-04-19 23:59:31+08:00 推文](https://twitter.com/realcaixia/status/1516446403698040841)
 
@@ -129,15 +129,15 @@ Re 在这个视频下为中共洗地的，全都不是人！这些家伙丧尽�
 
 ### 29: [2022-04-21 07:33:21+08:00 推文](https://twitter.com/realcaixia/status/1516923001849085953)
 
-请听台湾大学生身处上海封城的亲身感受。
+请听台湾大学生身处上海封城的亲身感受。<br><br>iPaul🇨🇦🇺🇦: 一位台湾交换生在上海复旦大学的感悟<br><br><video src="https://video.twimg.com/ext_tw_video/1516403115612082177/pu/vid/640x360/hJ_6ULeiUrwHBisC.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1516403115612082177/pu/img/OeLrtek3dlxf7UD-.jpg"></video>
 
 ### 30: [2022-04-22 08:16:20+08:00 推文](https://twitter.com/realcaixia/status/1517296205520416769)
 
-这句话击碎剩余价值理论—马克思主义的理论基石。剩余价值理论是中共用以煽动仇富，1949年中共搞农村土改、搞城市工商业社会主义改造、抢劫私有财产的理由。中共用剩余价值理论制造了中国社会罪恶的掠夺文化。
+这句话击碎剩余价值理论—马克思主义的理论基石。剩余价值理论是中共用以煽动仇富，1949年中共搞农村土改、搞城市工商业社会主义改造、抢劫私有财产的理由。中共用剩余价值理论制造了中国社会罪恶的掠夺文化。<br><br>苗也: 剥削来自权力，而非资本<br>马斯克能说出这话，不愧是首富<br><br><img style="" src="https://pbs.twimg.com/media/FQr9_xOXMAQf9de?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 31: [2022-04-22 20:22:15+08:00 推文](https://twitter.com/realcaixia/status/1517478888280100865)
 
-李承鹏老师的散文，讽刺幽默笔如匕首投枪，嬉笑怒骂皆成文章。这篇文章字字犀利、悲愤力透纸背，悲悯穿透人心。庆父不死 鲁难未已。承鹏老师借小说《白鹿原》中一情节愤然诘问：“折腾到何时为止”！
+李承鹏老师的散文，讽刺幽默笔如匕首投枪，嬉笑怒骂皆成文章。这篇文章字字犀利、悲愤力透纸背，悲悯穿透人心。庆父不死 鲁难未已。承鹏老师借小说《白鹿原》中一情节愤然诘问：“折腾到何时为止”！<br><br>《议报》: 李承鹏：上海是预示未来一百年的大河<br> <a href="https://yibaochina.com/?p=246090" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246090</a>
 
 ### 32: [2022-04-22 21:05:00+08:00 推文](https://twitter.com/realcaixia/status/1517489646720229380)
 
@@ -153,7 +153,7 @@ Re 在这个视频下为中共洗地的，全都不是人！这些家伙丧尽�
 
 ### 35: [2022-04-22 21:57:59+08:00 推文](https://twitter.com/realcaixia/status/1517502982350249984)
 
-大眼是热血贲张悲悯满怀的真诚坦荡的人。<br><br>菲菲4.0: 上海是什么？上海就是她面前奔腾而过的那条大河，漂过太平天国军队的战船，漂过洋枪队，漂过英勇抗战的淞沪战役将士遗体，漂过张爱玲，她只想了一秒钟，就知道自己还是喜欢穿着漂亮旗袍而不是蓝灰军装，迅速收拾好行李，从此地而香港，而遥远的彼岸，连信都不想再写一封。。<br> <a href="https://www.aboluowang.com/2022/0422/1738332.html" target="_blank" rel="noopener noreferrer">https://www.aboluowang.com/2022/0422/1738332.html</a>
+大眼是热血贲张悲悯满怀的真诚坦荡的人。
 
 ### 36: [2022-04-22 22:39:52+08:00 推文](https://twitter.com/realcaixia/status/1517513521218662400)
 
@@ -161,7 +161,7 @@ Re @henry50383806 @lianchaohan 一直挖下去！让真相大白于天下！
 
 ### 37: [2022-04-22 22:58:07+08:00 推文](https://twitter.com/realcaixia/status/1517518115160080386)
 
-比较同意这个推友的看法。<br><br>Henry Chang: 莫把中共神秘化。中共就是当代的八旗兵，是泛官僚体系、准军事组织<br>共产党员早已没有一丁点理想，有的只是通过加入这个自利型集团谋取私利的贪婪。<br>但是，不同阶层的党员的政治倾向是不同的。<br>权贵、上层是顽固分子，局级是易动摇可争取的阶层，处级以下则与普罗大众无异，是随时被踩在脚底下口香糖。<br>
+比较同意这个推友的看法。
 
 ### 38: [2022-04-23 00:44:52+08:00 推文](https://twitter.com/realcaixia/status/1517544978972614657)
 
@@ -177,7 +177,7 @@ Re 文章充满悲愤但不止于悲愤！<br>我的推特引言第三段文字�
 
 ### 41: [2022-04-23 07:18:26+08:00 推文](https://twitter.com/realcaixia/status/1517644022205980680)
 
-四月之声！2020年春武汉再现！<br><br>freelysiumeu: @realcaixia<br> <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/98184146930795487353300674104408349111337395201102057100202626976557421298664" target="_blank" rel="noopener noreferrer">https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/98184146930795487353300674104408349111337395201102057100202626976557421298664</a>
+四月之声！2020年春武汉再现！
 
 ### 42: [2022-04-23 09:12:30+08:00 推文](https://twitter.com/realcaixia/status/1517672730711281664)
 
@@ -205,5 +205,5 @@ Re @caojitw 另一边脚看着是摆在椅子往下，这边脚是踩实了地�
 
 ### 48: [2022-04-24 22:35:20+08:00 推文](https://twitter.com/realcaixia/status/1518237159370633216)
 
-这种抓人到了肆无忌惮，人身安全完全没有保障。这是一个国家将要脱序/失序的征兆。
+这种抓人到了肆无忌惮，人身安全完全没有保障。这是一个国家将要脱序/失序的征兆。<br><br>章立凡 Zhang Lifan: ＃转【实录：“像文革运动”（公安大白深夜抓人）】<br><br><img style="" src="https://pbs.twimg.com/media/FREbr4BUcAAg9SR?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FREbsemVgAE06ZN?format=png&amp;name=orig" referrerpolicy="no-referrer">
 

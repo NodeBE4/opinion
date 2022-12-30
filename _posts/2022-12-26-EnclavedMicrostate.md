@@ -74,3 +74,11 @@ I mean they have happened, and then people wouldn't shut up about them, and so t
 
 I'm sure others can chime in with other perspectives, but to bring up [one of my old posts](https://www.reddit.com/r/AskHistorians/comments/k3069r/was_the_great_wall_of_china_effective_we_all_know/gdyv0c7/), the answer would seem to be yes. The 'Great Wall', insofar as we can speak of one, was built by the Ming to deter steppe raiders and to avert a steppe conquest, and in that regard it was mostly successful. While the Ming did start seeing Manchu raids after the 1620s, the logistical difficulties of sustaining forces south of the wall meant the Manchus couldn't actually hold any territory. Ultimately, the Ming fell to domestic, not external causes; the Manchus crossed the wall *after* the Ming collapse.
 
+----- __1013.2__ -----2022-12-31 00:12:09+08:00:
+
+It's also outright wrong. While several Chinese states engaged in wall-building, there was no chronologically and territorially continuous structure across northern China until the Ming (although the intellectual notion of a northern frontier persisted even in periods where no functional wall existed). There is no hard evidence suggesting the death count of wall-building labourers outside of perhaps the period after the collapse of the Jin state in the early 300s, and this was associated with all kinds of fortification works by competing states within China, rather than frontier walls across the north. And then we have to note that the Mongols entered China at a time when it *did not have a frontier wall*; the Manchus conquered China *after its previous government collapsed*. You've hit the nail on the head here with regards to the lazy reuse of oriental stereotyping.
+
+----- __1013.3__ -----2022-12-31 00:12:47+08:00:
+
+No. Raiders are typically not deterred by reminders of the fact that they are committing theft.
+

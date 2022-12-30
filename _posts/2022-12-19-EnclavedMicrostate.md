@@ -243,3 +243,7 @@ Separately, on the matter of showrunners it is worth distinguishing between the 
 
 \#ReceptioGate could have been over in a day: Rossi could have taken a minor L by citing her sources, and while Kidd could reasonably have still called plagiarism it'd have been a harder fight for him. *Instead* Rossi has doubled down in the most ridiculously escalatory way possible. And then did it again, and again, and again, and now everything is on display and everything is on fire and it's *glorious*.
 
+----- __1006.8__ -----2022-12-31 00:13:40+08:00:
+
+[Search harder](https://www.reddit.com/r/HobbyDrama/comments/zuzn3j/hobby_scuffles_week_of_december_26_2022/j1yws5y/).
+

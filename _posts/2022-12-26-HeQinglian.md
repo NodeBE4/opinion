@@ -159,3 +159,19 @@ Re @Fumitoku_T 😅<br>我说过，是民主党政府的一份“战略资产”
 
 Re @XiaGuo10 美媒与在地下室那位都说过。
 
+### 37: [2022-12-30 22:20:28+08:00 推文](https://twitter.com/zhixiangziyou/status/1608830380551065600)
+
+RT L JM🇺🇸<br>37/ 这个由北约、国土安全部和国务院资助的非政府组织组成的专制审查网络不能以保护公众免受“错误信息”侵害为幌子审查不便的真相、事实和叙述。<br><br>kanekoa.substack.com: 37/ This authoritarian censorship network that operates in a constellation of NATO, DHS, and State Department-funded NGOs cannot be allowed to censor inconvenient truths, facts, &amp; narratives under the guise of protecting the public from "misinformation."<br> <a href="https://kanekoa.substack.com/p/elon-musk-slams-cisa-censorship-network" target="_blank" rel="noopener noreferrer">https://kanekoa.substack.com/p/elon-musk-slams-cisa-censorship-network</a>
+
+### 38: [2022-12-30 22:21:38+08:00 推文](https://twitter.com/HeQinglian/status/1608830675603558401)
+
+Re @shenliangqing2 这几天正在翻云覆雨，朝令夕改。<br>意大利先说查出两航班一半中国旅客带有病毒，大半天后改口说未发现新病毒；法国外交部先说欢迎，马克龙说要检查，然后欧盟领导人说对中国旅客检察是不人道的。<br>一周后才会有相对稳定的政策。
+
+### 39: [2022-12-30 22:23:05+08:00 推文](https://twitter.com/HeQinglian/status/1608831040726130690)
+
+Re @zou28139127 👍
+
+### 40: [2022-12-30 22:49:32+08:00 推文](https://twitter.com/HeQinglian/status/1608837698495860736)
+
+Re @shenliangqing2 自1968年巴黎红五月以来，左派的目标就是解构一切既存道德秩序，吸毒、性滥、打破原有家庭模式，进而建立一种他们的NWO，所有荒唐事都有了解释。<br>蓬皮杜早在运动开始初期就一针见血地指出，受到冲击的不是政府，不是制度，甚至也不是法国，而是当代文明。他公开预言：一切都不可能与从前一样了。
+
