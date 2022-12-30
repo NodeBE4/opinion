@@ -29,9 +29,9 @@ Re 3/<br>Some popular guesses were after the Party Congress or the introduction 
 
 Re 5/<br>This is nothing like how we expected a relaxation of COVID measures – people going out and spending more, the economy's engine restarting… If a gradual process of relaxing the measures had been in place, things would have been much better.
 
-### 4: [2022-12-15 20:47:18+08:00 推文](https://twitter.com/nathanlawkc/status/1603371119284715522)
+### 4: [2022-12-15 20:47:18+08:00 推文](https://twitter.com/nathanlawkc/status/1603371117653147650)
 
-Re 8/<br>The change of narrative towards the pandemic is also shocking. We must understand the public discussion climate in China – when the Party has made a line on one thing, only supporting speeches are available.
+Re 7/<br>The lack of flexibility in policy implementation when the lower tier officials have to follow every word of the top without questioning, haphazard ways of changing policies, and more unpredictable moves… all manifest in this episode of sudden change.
 
 ### 5: [2022-12-15 20:47:19+08:00 推文](https://twitter.com/nathanlawkc/status/1603371121352622081)
 
