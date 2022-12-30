@@ -56,15 +56,21 @@ The US role in opium smuggling in China is often badly understated, but its impa
 
 * Charles C. Stelle, 'American Trade in Opium to China, 1821-39' (1941)
 
-### 1011: [What opinion on Vtubers will leave you like this?](https://old.reddit.com/r/VirtualYoutubers/comments/zxm5b6/what_opinion_on_vtubers_will_leave_you_like_this/), submitted on 2022-12-29 05:51:06+08:00.
+### 1011: [Best hand to hand combat rules in RPG or Wargame?](https://old.reddit.com/r/wargaming/comments/zxdkge/best_hand_to_hand_combat_rules_in_rpg_or_wargame/), submitted on 2022-12-29 00:15:20+08:00.
 
------ __1011.1__ -----2022-12-29 19:53:16+08:00:
+----- __1011.1__ -----2022-12-30 22:25:00+08:00:
+
+I generally like the combat system in Craig Woodfield's *Ronin* and *En Garde* – models have a combat pool, and at the start of each round of combat they split this pool between Attack and Defence tokens. You then roll for initiative, with each player rolling 1D6; an Attack token can be used to enhance the initiative roll, with the enhancing player rolling 2D6 and discarding the lower. The player with initiative can then make one attack by expending an Attack token, rolling 2D6 and adding any modifiers; the defender rolls 1D6 and adds theirs. If the attack score exceeds the defence, the defending figure takes a wound, whose severity depends on how much the difference is. An additional Attack token can be used to enhance an attack, allowing the attacker to roll 3D6 and discard the lowest, while a Defence token can be used to enhance defence, allowing the defender to roll 2D6 and keep both. Basically, Defence tokens are how you will realistically survive attacks, so it creates an interesting quandary over how many attacks to take and how many defences.
+
+### 1012: [What opinion on Vtubers will leave you like this?](https://old.reddit.com/r/VirtualYoutubers/comments/zxm5b6/what_opinion_on_vtubers_will_leave_you_like_this/), submitted on 2022-12-29 05:51:06+08:00.
+
+----- __1012.1__ -----2022-12-29 19:53:16+08:00:
 
 I mean they have happened, and then people wouldn't shut up about them, and so they've gone much more private at the very least, assuming they didn't break up altogether. Crossick, Noefure, and Okakoro all sort of went that way.
 
-### 1012: [Was the Great Wall of China effective?](https://old.reddit.com/r/AskHistorians/comments/zynsu5/was_the_great_wall_of_china_effective/), submitted on 2022-12-30 10:02:21+08:00.
+### 1013: [Was the Great Wall of China effective?](https://old.reddit.com/r/AskHistorians/comments/zynsu5/was_the_great_wall_of_china_effective/), submitted on 2022-12-30 10:02:21+08:00.
 
------ __1012.1__ -----2022-12-30 11:43:47+08:00:
+----- __1013.1__ -----2022-12-30 11:43:47+08:00:
 
 I'm sure others can chime in with other perspectives, but to bring up [one of my old posts](https://www.reddit.com/r/AskHistorians/comments/k3069r/was_the_great_wall_of_china_effective_we_all_know/gdyv0c7/), the answer would seem to be yes. The 'Great Wall', insofar as we can speak of one, was built by the Ming to deter steppe raiders and to avert a steppe conquest, and in that regard it was mostly successful. While the Ming did start seeing Manchu raids after the 1620s, the logistical difficulties of sustaining forces south of the wall meant the Manchus couldn't actually hold any territory. Ultimately, the Ming fell to domestic, not external causes; the Manchus crossed the wall *after* the Ming collapse.
 
