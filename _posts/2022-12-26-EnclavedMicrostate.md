@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-12-29
+date: 2022-12-30
 from: https://old.reddit.com/r/Hololive/comments/zvo1fc/somewhere_in_hong_kong/
 layout: post
 tags:
@@ -61,4 +61,10 @@ The US role in opium smuggling in China is often badly understated, but its impa
 ----- __1010.1__ -----2022-12-29 19:53:16+08:00:
 
 I mean they have happened, and then people wouldn't shut up about them, and so they've gone much more private at the very least, assuming they didn't break up altogether. Crossick, Noefure, and Okakoro all sort of went that way.
+
+### 1011: [Was the Great Wall of China effective?](https://old.reddit.com/r/AskHistorians/comments/zynsu5/was_the_great_wall_of_china_effective/), submitted on 2022-12-30 10:02:21+08:00.
+
+----- __1011.1__ -----2022-12-30 11:43:47+08:00:
+
+I'm sure others can chime in with other perspectives, but to bring up [one of my old posts](https://www.reddit.com/r/AskHistorians/comments/k3069r/was_the_great_wall_of_china_effective_we_all_know/gdyv0c7/), the answer would seem to be yes. The 'Great Wall', insofar as we can speak of one, was built by the Ming to deter steppe raiders and to avert a steppe conquest, and in that regard it was mostly successful. While the Ming did start seeing Manchu raids after the 1620s, the logistical difficulties of sustaining forces south of the wall meant the Manchus couldn't actually hold any territory. Ultimately, the Ming fell to domestic, not external causes; the Manchus crossed the wall *after* the Ming collapse.
 
