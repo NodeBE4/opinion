@@ -247,3 +247,7 @@ Separately, on the matter of showrunners it is worth distinguishing between the 
 
 [Search harder](https://www.reddit.com/r/HobbyDrama/comments/zuzn3j/hobby_scuffles_week_of_december_26_2022/j1yws5y/).
 
+----- __1006.9__ -----2022-12-31 02:59:50+08:00:
+
+A little further up the thread you'll find quite a few more recommendations in reply to [this comment](https://www.reddit.com/r/HobbyDrama/comments/zuzn3j/hobby_scuffles_week_of_december_26_2022/j1sa2s3/).
+
