@@ -255,3 +255,9 @@ Separately, on the matter of showrunners it is worth distinguishing between the 
 
 A little further up the thread you'll find quite a few more recommendations in reply to [this comment](https://www.reddit.com/r/HobbyDrama/comments/zuzn3j/hobby_scuffles_week_of_december_26_2022/j1sa2s3/).
 
+----- __1006.10__ -----2022-12-31 11:57:25+08:00:
+
+> Following on the Andrew Tate drama, there's shit going on on Yu-Gi-Oh twitter.
+
+With a starting sentence like that you *know* something good is coming.
+
