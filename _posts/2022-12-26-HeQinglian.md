@@ -175,23 +175,43 @@ Re @zou28139127 👍
 
 Re @shenliangqing2 自1968年巴黎红五月以来，左派的目标就是解构一切既存道德秩序，吸毒、性滥、打破原有家庭模式，进而建立一种他们的NWO，所有荒唐事都有了解释。<br>蓬皮杜早在运动开始初期就一针见血地指出，受到冲击的不是政府，不是制度，甚至也不是法国，而是当代文明。他公开预言：一切都不可能与从前一样了。
 
-### 41: [2022-12-31 07:24:38+08:00 推文](https://twitter.com/HeQinglian/status/1608967324723445760)
+### 41: [2022-12-31 03:30:35+08:00 推文](https://twitter.com/Lucs24659702/status/1608908425173532672)
+
+RT Lucs<br>德国中央政府和柏林参议院将支持制作一部以同情的眼光描绘恋童癖的戏剧。<br><br>“A MAP's Tale”改编自一个恋童癖者消费儿童性虐待材料的真实故事。<br><br>评：因为政府内也都是恋童癖者🤬🤢<br><br>REDUXX: The German national government and Berlin Senate are set to support the production of a play which portrays pedophilia in a sympathetic light.<br><br>"A MAP's Tale" is based on a true story of a pedophile who consumed child sexual abuse material.<br> <a href="https://reduxx.info/german-government-to-support-sympathetic-play-about-pedophilia/" target="_blank" rel="noopener noreferrer">https://reduxx.info/german-government-to-support-sympathetic-play-about-pedophilia/</a>
+
+### 42: [2022-12-31 07:24:38+08:00 推文](https://twitter.com/HeQinglian/status/1608967324723445760)
 
 这篇译文非常清楚地表明共产主义2.0与LGBTQI的关系：<br>LGBT：解放与革命<br>为了LGBT运动的胜利，至关重要的是要采取阶级方式，将反对恐同压迫、争取完整公民权利的斗争和争取体面生活、免受经济与社会压迫的普遍斗争结合起来。同样重要的是，工人运动要承担起LGBT的斗争…… <a href="https://www.bolshevik.info/lgbt-liberation-and-revolution-cn-simplified.htm" target="_blank" rel="noopener noreferrer">https://www.bolshevik.info/lgbt-liberation-and-revolution-cn-simplified.htm</a>
 
-### 42: [2022-12-31 07:28:24+08:00 推文](https://twitter.com/HeQinglian/status/1608968272480972803)
+### 43: [2022-12-31 07:28:24+08:00 推文](https://twitter.com/HeQinglian/status/1608968272480972803)
 
 Re 华左们天天反共，却身陷美国的共产主义2.0而不自知。
 
-### 43: [2022-12-31 08:57:59+08:00 推文](https://twitter.com/HeQinglian/status/1608990820832784385)
+### 44: [2022-12-31 08:57:59+08:00 推文](https://twitter.com/HeQinglian/status/1608990820832784385)
 
 Re @JianglinLi 非左派圈中精英，很难往这方面想。尤其是中国人，想到1949年后毛时代对平民的禁欲，根本就想不到共产主义2.0与LGBTQI的内在联系。
 
-### 44: [2022-12-31 09:09:44+08:00 推文](https://twitter.com/HeQinglian/status/1608993774079967232)
+### 45: [2022-12-31 09:09:44+08:00 推文](https://twitter.com/HeQinglian/status/1608993774079967232)
 
 Re @franktianxie 美国投票率现在60%多点（将邮寄选票算进去了），所以，这国会议员是美国一半多人选的。<br>比如AOC就是她那选区的宠物，南希·波洛西也一样，她那选区人民热爱她，而且按波洛西几个月前的设想，议员位置将由她女儿接任（走形式程序就行）。
 
-### 45: [2022-12-31 09:31:21+08:00 推文](https://twitter.com/HeQinglian/status/1608999214637367297)
+### 46: [2022-12-31 09:31:21+08:00 推文](https://twitter.com/HeQinglian/status/1608999214637367297)
 
 Re @TianyuB 👍👍
+
+### 47: [2022-12-31 22:29:10+08:00 推文](https://twitter.com/HeQinglian/status/1609194958107586560)
+
+Re @jojowheel 自2月俄乌战争开始，欧美共援乌970亿美元，美国为650亿——原来 “美乌共享信息战”花了五分之一。
+
+### 48: [2022-12-31 22:36:12+08:00 推文](https://twitter.com/HeQinglian/status/1609196729299075075)
+
+Re @JianglinLi 推上有评论说：<br>“除非亚裔承认迫害他们的是谁，别往白人那里推，情况不会改善。”<br>亚裔与华左们欣赏的共产主义2.0世界里，美国贵族与贵族的跟班名单里都没有他们的座位。
+
+### 49: [2022-12-31 22:44:55+08:00 推文](https://twitter.com/HeQinglian/status/1609198922416943105)
+
+这位说得很对，欧洲左算有边界，美国一左就疯，比如弄个个零元购的BLM奉为新贵族。<br>昨天查资料，发现变性1970年代始于荷兰，试了20多年，要求服药动手术前先以另一性别生活，有段适应期，称荷兰方式（The Dutch Approach）。因此，后悔者较少。<br><br>三日月やよい: 不是美国保守/不进步，法国等传统进步大国近年没少指责美国输出woke帝国主义…更有老美去北欧控诉种族歧视。<br><br>欧洲是旧进步，美国是新进步，女权是旧进步，流动性别理论是新进步。二者有冲突，后者会对前者有解构。<br><br>美国女权政治正确优先级相对低，比不过种族和lgbt。白女日常被骂Karen，不是保逼害的<br> <a href="https://twitter.com/Beatrix_Kiddo32/status/1608596265742512133" target="_blank" rel="noopener noreferrer">https://twitter.com/Beatrix_Kiddo32/status/1608596265742512133</a>
+
+### 50: [2022-12-31 22:47:02+08:00 推文](https://twitter.com/HeQinglian/status/1609199455768641536)
+
+Re 2010年，美国加州大学旧金山贝尼奥夫儿童医院的发展和临床心理学家黛安·埃伦萨夫特 （Diane Ehrensaft）成立儿童和青少年性别中心。当她看到“荷兰协议”（the Dutch protocol），认为某些方面过于保守，例如“荷兰协议”要求儿童在过渡前经历青春期的第一阶段，干脆省去这环节。 <a href="https://undark.org/2022/04/06/the-evolution-of-pediatric-transgender-medicine/" target="_blank" rel="noopener noreferrer">https://undark.org/2022/04/06/the-evolution-of-pediatric-transgender-medicine/</a>
 

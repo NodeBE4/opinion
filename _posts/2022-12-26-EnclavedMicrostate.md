@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-12-30
+date: 2022-12-31
 from: https://old.reddit.com/r/Hololive/comments/zvo1fc/somewhere_in_hong_kong/
 layout: post
 tags:
@@ -81,4 +81,10 @@ It's also outright wrong. While several Chinese states engaged in wall-building,
 ----- __1013.3__ -----2022-12-31 00:12:47+08:00:
 
 No. Raiders are typically not deterred by reminders of the fact that they are committing theft.
+
+### 1014: [[Meta] r/HobbyDrama Jan/Feb Town Hall](https://old.reddit.com/r/HobbyDrama/comments/zzvwe3/meta_rhobbydrama_janfeb_town_hall/), submitted on 2022-12-31 23:00:19+08:00.
+
+----- __1014.1__ -----2022-12-31 23:29:27+08:00:
+
+No, we would never. Never at all. Why would you suggest such a thing? Revisionist history is what this is!
 
