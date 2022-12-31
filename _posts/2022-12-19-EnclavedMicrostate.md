@@ -186,6 +186,10 @@ Depends on where you are. My wargaming activity has been UK-based and this is li
 
 Thanks for the links! I was looking for an answer that more specifically addressed the younger Dumas's writings that the above three don't touch on at great length; still holding out hope though!
 
+----- __1005.2__ -----2022-12-31 10:39:22+08:00:
+
+Goodness me, a simple 'thank you' hardly seems sufficient, but I'm too floored to offer much more! So, thank you!
+
 ### 1006: [[Hobby Scuffles] Week of December 26, 2022](https://old.reddit.com/r/HobbyDrama/comments/zuzn3j/hobby_scuffles_week_of_december_26_2022/), submitted on 2022-12-25 23:00:15+08:00.
 
 ----- __1006.1__ -----2022-12-27 10:23:23+08:00:
