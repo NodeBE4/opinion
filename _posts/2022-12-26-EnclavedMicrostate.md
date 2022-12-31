@@ -88,3 +88,17 @@ No. Raiders are typically not deterred by reminders of the fact that they are co
 
 No, we would never. Never at all. Why would you suggest such a thing? Revisionist history is what this is!
 
+### 1015: [NoeFure Planetes New Year Love](https://old.reddit.com/r/Hololive/comments/zzx36p/noefure_planetes_new_year_love/), submitted on 2022-12-31 23:56:57+08:00.
+
+----- __1015.1__ -----2023-01-01 00:21:17+08:00:
+
+An unexpectedly sweet HoloGra moment.
+
+----- __1015.2__ -----2023-01-01 00:21:48+08:00:
+
+You could make the case for OkaKoro, but NoeFure has always been unambiguous in a way OkaKoro hasn't.
+
+----- __1015.3__ -----2023-01-01 00:35:52+08:00:
+
+[I don't see Flare as an idol, I see her as a woman... With Flare, *kiss noises*...](https://youtu.be/4TaTV1EQ2Zs?t=482)
+
