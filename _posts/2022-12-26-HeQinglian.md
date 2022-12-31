@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-12-30
+date: 2022-12-31
 from: https://twitter.com/HeQinglian/status/1607938061689569281
 layout: post
 tags:
@@ -174,4 +174,24 @@ Re @zou28139127 👍
 ### 40: [2022-12-30 22:49:32+08:00 推文](https://twitter.com/HeQinglian/status/1608837698495860736)
 
 Re @shenliangqing2 自1968年巴黎红五月以来，左派的目标就是解构一切既存道德秩序，吸毒、性滥、打破原有家庭模式，进而建立一种他们的NWO，所有荒唐事都有了解释。<br>蓬皮杜早在运动开始初期就一针见血地指出，受到冲击的不是政府，不是制度，甚至也不是法国，而是当代文明。他公开预言：一切都不可能与从前一样了。
+
+### 41: [2022-12-31 07:24:38+08:00 推文](https://twitter.com/HeQinglian/status/1608967324723445760)
+
+这篇译文非常清楚地表明共产主义2.0与LGBTQI的关系：<br>LGBT：解放与革命<br>为了LGBT运动的胜利，至关重要的是要采取阶级方式，将反对恐同压迫、争取完整公民权利的斗争和争取体面生活、免受经济与社会压迫的普遍斗争结合起来。同样重要的是，工人运动要承担起LGBT的斗争…… <a href="https://www.bolshevik.info/lgbt-liberation-and-revolution-cn-simplified.htm" target="_blank" rel="noopener noreferrer">https://www.bolshevik.info/lgbt-liberation-and-revolution-cn-simplified.htm</a>
+
+### 42: [2022-12-31 07:28:24+08:00 推文](https://twitter.com/HeQinglian/status/1608968272480972803)
+
+Re 华左们天天反共，却身陷美国的共产主义2.0而不自知。
+
+### 43: [2022-12-31 08:57:59+08:00 推文](https://twitter.com/HeQinglian/status/1608990820832784385)
+
+Re @JianglinLi 非左派圈中精英，很难往这方面想。尤其是中国人，想到1949年后毛时代对平民的禁欲，根本就想不到共产主义2.0与LGBTQI的内在联系。
+
+### 44: [2022-12-31 09:09:44+08:00 推文](https://twitter.com/HeQinglian/status/1608993774079967232)
+
+Re @franktianxie 美国投票率现在60%多点（将邮寄选票算进去了），所以，这国会议员是美国一半多人选的。<br>比如AOC就是她那选区的宠物，南希·波洛西也一样，她那选区人民热爱她，而且按波洛西几个月前的设想，议员位置将由她女儿接任（走形式程序就行）。
+
+### 45: [2022-12-31 09:31:21+08:00 推文](https://twitter.com/HeQinglian/status/1608999214637367297)
+
+Re @TianyuB 👍👍
 
