@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-12-31
+date: 2023-01-01
 from: https://old.reddit.com/r/Hololive/comments/zvo1fc/somewhere_in_hong_kong/
 layout: post
 tags:
@@ -101,4 +101,20 @@ You could make the case for OkaKoro, but NoeFure has always been unambiguous in 
 ----- __1015.3__ -----2023-01-01 00:35:52+08:00:
 
 [I don't see Flare as an idol, I see her as a woman... With Flare, *kiss noises*...](https://youtu.be/4TaTV1EQ2Zs?t=482)
+
+### 1016: [Will EN/ID ever get idol costumes?](https://old.reddit.com/r/Hololive/comments/zzzfpm/will_enid_ever_get_idol_costumes/), submitted on 2023-01-01 01:44:59+08:00.
+
+----- __1016.1__ -----2023-01-01 01:52:55+08:00:
+
+I hope they will; I don't know if they will. There's historically been a lot of mixed messaging from the talents (at least in EN) on whether the non-JP branches are idol things (Kiara's generally suggested no, Calli's generally suggested yes), and I would imagine that they'd have a clearer line if it was an official position. That said, the idol stuff was basically sprung on Gens 1-3 shortly before 1st Fes and only became formally ingrained subsequently, so there's no reason that we couldn't end up with idol outfits of some kind, if not for 4th Fes then some time later on. Potentially it may end up just being opt-in, especially for those who can or will do a lot of 3d collab concert activities. But as said, we don't know what goes on behind the scenes. But I do hold out hope.
+
+^(Ouch my arms turns out holding IRyS out for any length of time really does a number on you)
+
+----- __1016.2__ -----2023-01-01 02:09:36+08:00:
+
+Boy have I got some news about AZKi's idol outfit...
+
+----- __1016.3__ -----2023-01-01 02:10:07+08:00:
+
+I can neither confirm nor deny.
 
