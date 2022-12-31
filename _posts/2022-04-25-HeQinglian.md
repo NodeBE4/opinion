@@ -225,7 +225,7 @@ Re @TONY19891989 @FightForJiuCai 还以为真理在手，加上仇恨在胸，�
 
 ### 53: [2022-04-28 03:34:11+08:00 推文](https://twitter.com/HeQinglian/status/1519399528176271360)
 
-路透：<br>欧盟估计超80%的人群感染过covid-19<br>EU estimates up to 80% of population has had COVID<br><br>既然中国今后还要对EU、美国等保持门户开放，还搞什么清零？来个美国人、欧洲人说不定就是病毒载体。承认群体免疫已经形成，少折腾百姓难道不行么？<br><br>北明BeiMing: 上海疫情，ICU醫生怒而發言： <br><br>你们都什么专业要挑战人家吃饭的本事。这种脑子送给我们神经外科研究一下，为什么会长成这样。<br><br>張文宏月份就预见omicron的影响, 建議上海針對疫情規模，超過5到10倍的預警案，提出各項具體措施。<br><br>控制民间舆论，业内的也控制，發國難財……。<br><br><img style="" src="https://pbs.twimg.com/media/FRXaPX9XoAoRJjv?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://mp.weixin.qq.com/s/BoBdn1VsREAH4VU3sbi95Q" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/BoBdn1VsREAH4VU3sbi95Q</a>
+路透：<br>欧盟估计超80%的人群感染过covid-19<br>EU estimates up to 80% of population has had COVID<br><br>既然中国今后还要对EU、美国等保持门户开放，还搞什么清零？来个美国人、欧洲人说不定就是病毒载体。承认群体免疫已经形成，少折腾百姓难道不行么？ <a href="https://www.reuters.com/world/europe/eu-looks-ramping-up-covid-vaccinations-kids-developing-antivirals-2022-04-27/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/europe/eu-looks-ramping-up-covid-vaccinations-kids-developing-antivirals-2022-04-27/</a>
 
 ### 54: [2022-04-28 03:36:01+08:00 推文](https://twitter.com/HeQinglian/status/1519399992141750273)
 
@@ -261,7 +261,7 @@ Re @Wu_Zhi 全球左派脑控狂喜大普奔，美国终于正式成立1984的�
 
 ### 62: [2022-04-28 05:17:17+08:00 推文](https://twitter.com/HeQinglian/status/1519425475764006913)
 
-EU成员不是忙于买俄气就是忙于买俄油：<br>4月份俄罗斯对罗马尼亚、爱沙尼亚、希腊和保加利亚的石油出口量较3月份日均水平增加一倍以上。对最大买家荷兰和芬兰的出口量也大幅上升。<br>27国只差11国没报到了。不知私底下是否到齐了。<br>拜登政府是否将这些信息归于“虚假、错误”之内？ <a href="https://www.wsj.com/articles/russian-oil-flows-but-increasingly-under-the-radar-11650541684" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/russian-oil-flows-but-increasingly-under-the-radar-11650541684</a>
+EU成员不是忙于买俄气就是忙于买俄油：<br>4月份俄罗斯对罗马尼亚、爱沙尼亚、希腊和保加利亚的石油出口量较3月份日均水平增加一倍以上。对最大买家荷兰和芬兰的出口量也大幅上升。<br>27国只差11国没报到了。不知私底下是否到齐了。<br>拜登政府是否将这些信息归于“虚假、错误”之内？<br><br>He Qinglian: 这是最新的彭博社消息，除了标题说的刚参加用 卢布付款的EU成员国之外，总共有10家已经开设了卢布帐户。欧盟成员国一共27个。全员参与恐怕不会，因为波兰一定不能参加，就算通过邻国代购，也不能用卢布付款，让俄罗斯得意。<br> <a href="https://www.bloomberg.com/news/articles/2022-04-27/four-european-gas-buyers-made-ruble-payments-to-russia" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2022-04-27/four-european-gas-buyers-made-ruble-payments-to-russia</a>
 
 ### 63: [2022-04-28 05:19:55+08:00 推文](https://twitter.com/HeQinglian/status/1519426137671278593)
 
@@ -441,7 +441,7 @@ Re @Swanlake1979 连一个经济会议都无法将俄罗斯踢出去，离拿俄
 
 ### 107: [2022-04-30 03:49:08+08:00 推文](https://twitter.com/HeQinglian/status/1520128066231668736)
 
-美欧经济增长哥俩好：<br>歐盟GDP增長放緩至0.2% 通脹連續6個月創新高<br><br>歐盟統計局另外發佈的通脹數據方面，通脹率由去年年底的5%升至最新4月7.5%，較3月再升0.1個百分點。去年4月通脹率只有1.6%。撇除能源和新鮮食物的通脹率為3.9%。<br>欧盟比美国略争气一点：美国是负1.4%。<br><br>He Qinglian: 据美国CNBC28日报道，美国商务部28日报告称，美国2022年一季度GDP年化增速为-1.4%，这标志着美国经济自1984年以来的上升趋势突然出现逆转。分析称，2022年前三个月，有众多因素影响美国经济增长，包括不断激增的奥密克戎新冠病毒病例，通胀率飙升至1980年代初以来的最高水平，俄乌冲突等等。<br>
+美欧经济增长哥俩好：<br>歐盟GDP增長放緩至0.2% 通脹連續6個月創新高<br><br>歐盟統計局另外發佈的通脹數據方面，通脹率由去年年底的5%升至最新4月7.5%，較3月再升0.1個百分點。去年4月通脹率只有1.6%。撇除能源和新鮮食物的通脹率為3.9%。<br>欧盟比美国略争气一点：美国是负1.4%。 <a href="https://europechinese.blogspot.com/2022/04/gdp02-6.html" target="_blank" rel="noopener noreferrer">https://europechinese.blogspot.com/2022/04/gdp02-6.html</a>
 
 ### 108: [2022-04-30 03:49:57+08:00 推文](https://twitter.com/HeQinglian/status/1520128273182859266)
 
@@ -469,7 +469,7 @@ Re @Wu_Zhi @JianglinLi @HongfuDing 我觉得没认错，只是在说：我努力
 
 ### 114: [2022-04-30 20:20:50+08:00 推文](https://twitter.com/HeQinglian/status/1520377636400529409)
 
-以前美国政府报告谈对外使命是推广民主，拜登政府第一份公开的政府报告，谈的是美国极左偏爱的性别多元化，与民主普世人权没半点关系。<br>该政府一年多负债10万亿（共30万亿），经济增速-1.4%，通货膨胀8.9%；想带盟国战俄罗斯，又提供不了盟国需要的能源；盗选以来软实力降为负值。<br>世界需要你领导吗？<br><br>美国驻华使领馆 US MissionCN: 我们发布了有史以来的第一份公开的美国政府报告，展示我们为在全球推动男女同性恋、双性恋、跨性别者、酷儿及间性人等人士（LGBTQI+）的人权所作的工作。我们敦促所有政府与我们一起采取行动，支持LGBTQI+人权捍卫者不懈和崇高的工作。<br> <a href="https://twitter.com/SecBlinken/status/1519651037988233216" target="_blank" rel="noopener noreferrer">https://twitter.com/SecBlinken/status/1519651037988233216</a>
+以前美国政府报告谈对外使命是推广民主，拜登政府第一份公开的政府报告，谈的是美国极左偏爱的性别多元化，与民主普世人权没半点关系。<br>该政府一年多负债10万亿（共30万亿），经济增速-1.4%，通货膨胀8.9%；想带盟国战俄罗斯，又提供不了盟国需要的能源；盗选以来软实力降为负值。<br>世界需要你领导吗？
 
 ### 115: [2022-04-30 21:16:58+08:00 推文](https://twitter.com/HeQinglian/status/1520391763294306304)
 
