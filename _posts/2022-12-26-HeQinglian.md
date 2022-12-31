@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-12-31
+date: 2023-01-01
 from: https://twitter.com/HeQinglian/status/1607938061689569281
 layout: post
 tags:
@@ -209,9 +209,17 @@ Re @JianglinLi 推上有评论说：<br>“除非亚裔承认迫害他们的是�
 
 ### 49: [2022-12-31 22:44:55+08:00 推文](https://twitter.com/HeQinglian/status/1609198922416943105)
 
-这位说得很对，欧洲左算有边界，美国一左就疯，比如弄个个零元购的BLM奉为新贵族。<br>昨天查资料，发现变性1970年代始于荷兰，试了20多年，要求服药动手术前先以另一性别生活，有段适应期，称荷兰方式（The Dutch Approach）。因此，后悔者较少。<br><br>三日月やよい: 不是美国保守/不进步，法国等传统进步大国近年没少指责美国输出woke帝国主义…更有老美去北欧控诉种族歧视。<br><br>欧洲是旧进步，美国是新进步，女权是旧进步，流动性别理论是新进步。二者有冲突，后者会对前者有解构。<br><br>美国女权政治正确优先级相对低，比不过种族和lgbt。白女日常被骂Karen，不是保逼害的<br>
+这位说得很对，欧洲左算有边界，美国一左就疯，比如弄个个零元购的BLM奉为新贵族。<br>昨天查资料，发现变性1970年代始于荷兰，试了20多年，要求服药动手术前先以另一性别生活，有段适应期，称荷兰方式（The Dutch Approach）。因此，后悔者较少。<br><br>三日月やよい: 不是美国保守/不进步，法国等传统进步大国近年没少指责美国输出woke帝国主义…更有老美去北欧控诉种族歧视。<br><br>欧洲是旧进步，美国是新进步，女权是旧进步，流动性别理论是新进步。二者有冲突，后者会对前者有解构。<br><br>美国女权政治正确优先级相对低，比不过种族和lgbt。白女日常被骂Karen，不是保逼害的<br> <a href="https://twitter.com/Beatrix_Kiddo32/status/1608596265742512133" target="_blank" rel="noopener noreferrer">https://twitter.com/Beatrix_Kiddo32/status/1608596265742512133</a>
 
 ### 50: [2022-12-31 22:47:02+08:00 推文](https://twitter.com/HeQinglian/status/1609199455768641536)
 
 Re 2010年，美国加州大学旧金山贝尼奥夫儿童医院的发展和临床心理学家黛安·埃伦萨夫特 （Diane Ehrensaft）成立儿童和青少年性别中心。当她看到“荷兰协议”（the Dutch protocol），认为某些方面过于保守，例如“荷兰协议”要求儿童在过渡前经历青春期的第一阶段，干脆省去这环节。 <a href="https://undark.org/2022/04/06/the-evolution-of-pediatric-transgender-medicine/" target="_blank" rel="noopener noreferrer">https://undark.org/2022/04/06/the-evolution-of-pediatric-transgender-medicine/</a>
+
+### 51: [2023-01-01 05:29:30+08:00 推文](https://twitter.com/HeQinglian/status/1609300741864280064)
+
+Re @Wu_Zhi 新年快乐。祝事业更上一层楼。
+
+### 52: [2023-01-01 06:04:22+08:00 推文](https://twitter.com/HeQinglian/status/1609309512862679040)
+
+Re @JianglinLi @jojowheel 来我们这前后骚扰一个月的那位变身上百次的推号，应该也是这一类，想想都好笑。
 
