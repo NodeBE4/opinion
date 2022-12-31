@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-12-31
+date: 2023-01-01
 from: https://twitter.com/realcaixia/status/1607444126869655554
 layout: post
 tags:
@@ -94,4 +94,20 @@ Re @xchen156 @jjamesw1 不奇怪，这就是习的盘算，。他与毛一样，
 ### 20: [2022-12-31 08:23:51+08:00 推文](https://twitter.com/realcaixia/status/1608982229367283712)
 
 这个训诫书不仅表明中共当局谎言欺世，而且是迫害恐吓说真话的善良人的罪证！从三年防疫和极端清零，到没做任何准备工作就突然躺平摆烂的完全放开；到应阳尽阳、快速过峰的放开大跃进，到任由阳了的国人出国，不自觉地充当病毒传播者，不仅再次暴露习帮当局的无知愚昧，更在世界面前暴露他们的极度邪恶<br><br>湘女: 那年李医生被训诫，通告下面几十万点赞，不知今天你们是否还活着，你们为愚昧买单。为你们的无知付出代价。人在做天在看，老天饶过谁。<br>2023年，为自己祈祷吧！<br><br><img style="" src="https://pbs.twimg.com/media/FlM8mvXX0AAdwff?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 21: [2023-01-01 02:41:53+08:00 推文](https://twitter.com/realcaixia/status/1609258556771139584)
+
+他们都死无正常后事办理的话，那些生活在底层的民众就更难了。常说民生艰难、民不聊生，习亲自指挥亲自部署三年抗疫，搞死经济搞瘫社会，搞得既民不聊生又尸横遍野，中国已经成为人间炼狱。<br><br>赵兰健: 【文化名人：北京死无葬身之地】<br>高端人口艰难，低端人口要怎么办？<br>死无葬身之地的国家还有救吗？<br><br><img style="" src="https://pbs.twimg.com/media/FlC5U19WAAASVVX?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 22: [2023-01-01 03:46:52+08:00 推文](https://twitter.com/realcaixia/status/1609274912878755840)
+
+文革中对毛个人崇拜是愚昧与全民神志错乱的混合物，但仍有很多清醒者。另一些迷糊者如冯友兰，临到天亮前还““尿炕”。这是大学者自取其辱。<br>习十年尽显蠢蛮歹毒，巨变将是可期的未来。各位体制内官员，国安警察军人，文人学者们，当自警“天亮前尿床”，免作冯友兰第二。<br><br>韩连潮: 【天亮别尿床】今天和朋友聊到冯友兰夫人抱怨冯说：“天都快亮了，你还在炕上尿了一泡”，这话值得党国每个知识分子、文艺人士、体制内官员当作座右铭；不求你们站出反对习近平的个人崇拜，至少不要主动参与其造神运动，否则无论你们专业成就多大，青史上一定会留恶名，冯友兰就是前车之鉴。<br><br><img style="" src="https://pbs.twimg.com/media/FlQlbYuXwAEBcGn?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 23: [2023-01-01 04:04:04+08:00 推文](https://twitter.com/realcaixia/status/1609279241346252806)
+
+成都大眼哥写的太好了。细读细品，涵义之深，文字之凝练精辟，真是警世谶言！<br><br>李承鹏（真正的大眼哥）: 李承鹏最新文章：致2022一封信:这场战争输定了，因为我们敬礼敬得太好 | 文学城<br> <a href="https://www.wenxuecity.com/news/2022/12/31/12053576.html" target="_blank" rel="noopener noreferrer">https://www.wenxuecity.com/news/2022/12/31/12053576.html</a>
+
+### 24: [2023-01-01 04:36:43+08:00 推文](https://twitter.com/realcaixia/status/1609287455894642689)
+
+我以快一倍速度，忍完了习出嗓门，笔杆子出文字，通篇满是欺诈欺骗的一通谎言宣读。<br><br>韩连潮: 【新年放人】习的新年贺词仍不反躬自省，为暴力清零造成的灾难向人民请罪，反而夸大吹嘘自己决策的正确和成就的伟大，但他也讲了一句人话：不同人会有不同诉求，对同一件事也会有不同看法，这很正常；如不是违心之言，请释放因表达不同意见被抓的所有人，尤其是参与白纸运动的孩子们，让她们回家过年。<br><br><img style="" src="https://pbs.twimg.com/media/FlT2ZgDX0AIIG2F?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
