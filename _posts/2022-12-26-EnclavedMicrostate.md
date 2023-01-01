@@ -118,3 +118,19 @@ Boy have I got some news about AZKi's idol outfit...
 
 I can neither confirm nor deny.
 
+### 1017: [Historically, why did the Chinese lose so many battles to nomadic tribes?](https://old.reddit.com/r/AskHistorians/comments/zzzzxu/historically_why_did_the_chinese_lose_so_many/), submitted on 2023-01-01 02:10:03+08:00.
+
+----- __1017.1__ -----2023-01-01 12:40:05+08:00:
+
+/u/0neDividedbyZer0 has written a pretty good answer covering some aspects of the question, but there are a couple of pieces of the puzzle that I think ought to be added.
+
+The main one is that pastoral nomadic societies are *extremely* optimised for military mobilisation, as an extension of the way nomadic lifestyles are sustained. Firstly, just about every member of a nomadic society – women as well as men, mind you – learned to ride as a natural consequence of these societies' mobility. Men especially, but often women too, would learn archery for hunting. In other words, just about everyone in a pastoral nomadic society didn't just know how to ride and shoot, they rode and shot *constantly* out of necessity. The skills necessary to survive on the steppe were the vital skills of premodern combat, more or less by sheer coincidence. Secondly, the amount of labour input required in pastoral nomadic food production was not particularly high nor particularly intensive, which meant that compared to a sedentary polity, a nomadic society could afford to devote a lot more people to fighting relative to food production. Thirdly, as long as you were militarily successful, warfare *was* a form of food production, in that a highly mobile army ranging across a wide area could steal a *lot* of food as booty, so that you didn't need as much livestock in your home herds to feed them anyway. Because of this, a comparatively huge proportion of a nomadic society's population could be sent to fight: Nikolai Kradin estimates that they could mobilise up to 75% of their adult male population, which depending on how you assess dependency ratios translates to just under 20%. This theoretical upper limit substantially exceeds most sedentary polities' capacities before the 20th century: for a point of comparison, Metropolitan France mobilised 8 million men out of around 40 million people in WWI, and even then, not all of them were fighting troops, and not all were mobilised simultaneously.
+
+Another, though, is that vulnerability to nomads was not a uniquely Chinese problem – European, Middle Eastern and South Asian polities similarly struggled. For a bit more detail you may want to have a look at some of my other past answers:
+
+https://www.reddit.com/r/AskHistorians/comments/ojwh1l/has_there_ever_been_a_nation_or_group_where_every/h54e9px/
+
+https://www.reddit.com/r/AskHistorians/comments/ncau53/what_led_to_the_decline_of_nomadic_people_horse/gy4qneo/
+
+https://www.reddit.com/r/AskHistorians/comments/mhb2tl/why_wasnt_mongolia_invaded_or_annexed_any_time/gt0k2dc/
+
