@@ -93,7 +93,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fip1xxuUAAEkjNd?format=jpg
 
 ### 20: [2022-11-28 21:37:17+08:00 推文](https://twitter.com/realcaixia/status/1597223103540604928)
 
-这就是所谓“人民至上”的真实显示：以人民为敌！<br><br>CNMD NEWS ²²: #行为艺术<br>昨晚，上海以东出大事了！警车冲撞示威人群。<br><br><video src="https://video.twimg.com/ext_tw_video/1597031950308749314/pu/vid/720x1082/9Kk232ZOTNJjv67o.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1597031950308749314/pu/img/L8NBrsHrb3Fa2Dqd.jpg"></video>
+这就是所谓“人民至上”的真实显示：以人民为敌！ <a href="https://twitter.com/cnnnd022/status/1597031992994193409" target="_blank" rel="noopener noreferrer">https://twitter.com/cnnnd022/status/1597031992994193409</a>
 
 ### 21: [2022-11-28 21:38:59+08:00 推文](https://twitter.com/realcaixia/status/1597223530982408192)
 
@@ -193,7 +193,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fiu2Jw8VEAEx6r9?format=jpg
 
 ### 45: [2022-11-30 13:01:58+08:00 推文](https://twitter.com/realcaixia/status/1597818196308144128)
 
-请传给大陆的民众，分享参与抗争经历，积累识别混进，民众抗争行列里的便衣军警，增长保护自己安全的知识。这绝对必要。⬇请细细阅读️这位推友的详细叙述，我感觉很有益处。<br><br>巴丢草 Bad ї ucao: “当我趴在路边的一块石头上写新标语时，很多人在给我拍照，我那个时候不知会被便衣拍照，所以并未拒绝他们。这时候一个阿姨（戴着眼镜，像个文静精干的老教师）走过来跟我说：“妹妹，他们在拍你啊！不要怕，我帮你挡住，我保护你哈”<br> <a href="https://twitter.com/badiucao/status/1597491262948773888" target="_blank" rel="noopener noreferrer">https://twitter.com/badiucao/status/1597491262948773888</a>
+请传给大陆的民众，分享参与抗争经历，积累识别混进，民众抗争行列里的便衣军警，增长保护自己安全的知识。这绝对必要。⬇请细细阅读️这位推友的详细叙述，我感觉很有益处。<br><br>巴丢草 Bad ї ucao: “当我趴在路边的一块石头上写新标语时，很多人在给我拍照，我那个时候不知会被便衣拍照，所以并未拒绝他们。这时候一个阿姨（戴着眼镜，像个文静精干的老教师）走过来跟我说：“妹妹，他们在拍你啊！不要怕，我帮你挡住，我保护你哈”<br>
 
 ### 46: [2022-11-30 13:07:24+08:00 推文](https://twitter.com/realcaixia/status/1597819560874639360)
 
@@ -245,7 +245,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FiycsaSXoAE4s3S?format=jpg
 
 ### 58: [2022-12-01 23:27:52+08:00 推文](https://twitter.com/realcaixia/status/1598338097909227520)
 
-与推友分享这个推文。如何运用现有法律保护好每一位参加白纸运动的大陆民众，下面⬇️介绍的做法很值得学习。如果能把这个广为传播，让更多的墙内朋友看到就好了。<br><br>Bob New: 教科書般運用法律保護白紙革命參與者合法權利的案例！<br>本次全民反封鎖運動，白紙革命畢竟只是少部分人參與，我們之所以覺得聲勢浩大，是因為社交媒體的信息茧房效應，昨天我聯繫上海朋友，他居然根本不知道抗議事件。<br>但是關於居委會封鎖違法的全面法治啟蒙卻實實在在傳播整個中國！<br>
+与推友分享这个推文。如何运用现有法律保护好每一位参加白纸运动的大陆民众，下面⬇️介绍的做法很值得学习。如果能把这个广为传播，让更多的墙内朋友看到就好了。<br><br>Bob New: 教科書般運用法律保護白紙革命參與者合法權利的案例！<br>本次全民反封鎖運動，白紙革命畢竟只是少部分人參與，我們之所以覺得聲勢浩大，是因為社交媒體的信息茧房效應，昨天我聯繫上海朋友，他居然根本不知道抗議事件。<br>但是關於居委會封鎖違法的全面法治啟蒙卻實實在在傳播整個中國！<br> <a href="https://twitter.com/Tianwei_Yin/status/1597823903271129089" target="_blank" rel="noopener noreferrer">https://twitter.com/Tianwei_Yin/status/1597823903271129089</a>
 
 ### 59: [2022-12-01 23:36:33+08:00 推文](https://twitter.com/realcaixia/status/1598340279513141249)
 
