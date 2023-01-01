@@ -31,3 +31,21 @@ Fuck.  That is surprisingly good.
 
 You have just offended [every Palestinian on the internet](https://y.yarn.co/0303b209-3ac2-4564-a039-5ab1a300d6ea_text.gif).
 
+----- __433.3__ -----2023-01-02 03:24:03+08:00:
+
+[Sure](https://www.youtube.com/watch?v=ABQnO6a2Tio&ab_channel=LuciferMagne).
+
+----- __433.4__ -----2023-01-02 03:31:03+08:00:
+
+I love how Palestinians (and those who believe themselves to be advocating on the Palestinians' behalf) think downvoting my comment advances their cause.  
+
+* laughs in laundered gulf state oil money *
+
+Also, I've been a one-state solution guy since the 1990s.
+
+### 434: [Rejecting identities and labels --sign of an unhealthy ego or identification repressed to shadow ?](https://old.reddit.com/r/Jung/comments/100lzi1/rejecting_identities_and_labels_sign_of_an/), submitted on 2023-01-01 23:32:38+08:00.
+
+----- __434.1__ -----2023-01-02 03:26:32+08:00:
+
+Labels have nothing to do with the shadow, as Jung used that term.
+
