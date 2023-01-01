@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-12-30
+date: 2023-01-01
 from: https://twitter.com/SpeechFreedomCN/status/1607361746423140353
 layout: post
 tags:
@@ -34,4 +34,8 @@ Guangzhou police criminally detained non-binary resident Yang Zijing for involve
 ### 5: [2022-12-30 14:03:03+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1608705202244423680)
 
 Suzhou resident Jin administratively detained for claiming on Weibo that he/she was infected with two different variants in 5 days. The truthfulness of the remark remains unknown but it was allegedly made up to attack the government's decision to drop covid restriction measures.<br><img style="" src="https://pbs.twimg.com/media/FlNEJGDWYAIj0eF?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2023-01-01 22:49:32+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1609562474784919552)
+
+三年前的今天<br><img style="" src="https://pbs.twimg.com/media/FlZQiWjXkAMQ75J?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

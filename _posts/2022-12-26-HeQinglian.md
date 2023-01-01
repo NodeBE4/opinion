@@ -231,3 +231,23 @@ Re @JianglinLi @jojowheel 来我们这前后骚扰一个月的那位变身上百
 
 Re @eGUAbe2V7j26GHw 我的猜想是12月初放开，感染高峰45天-60天过去，只要没在全球形成新的一波，3月开始就能恢复正常。<br>全球拼经济，不管实际情况如何，确实眼巴巴地看着中国。美国拜登如果继续去年的所有章程，世界别作指望；欧盟各国只能困中求存，日本经济不景气。<br>GDP前五大如此，第六位之后更不行。<br>祝世界好运。
 
+### 55: [2023-01-01 23:03:22+08:00 推文](https://twitter.com/JianglinLi/status/1609565952743555073)
+
+RT 李江琳<br>今年年底验证：将会在2023年被证实的10个阴谋论： <a href="https://headlineusa.com/sellers-10-conspiracy-theories-validate-2023/" target="_blank" rel="noopener noreferrer">https://headlineusa.com/sellers-10-conspiracy-theories-validate-2023/</a>
+
+### 56: [2023-01-01 23:29:38+08:00 推文](https://twitter.com/HeQinglian/status/1609572562694197250)
+
+Re @dinglili7 以前，俄罗斯GDP总量在全世界排13位，到今年3月看2022年数据，就知道这世界上前15位谁多收了三五斗。
+
+### 57: [2023-01-01 23:36:32+08:00 推文](https://twitter.com/HeQinglian/status/1609574301115498496)
+
+新保守主义主张减税、小政府、降低福利、限制非法移民，与川普主张相差不大。为什么他们“永不川普”（never trump），在2020年更是成为民主党支持者宁可要拜登也不要川普？似乎二者的差别主要在让美国伟大与全球主义这一点上。林肯项目有金钱驱动，其他的新保守主义为何如此？<br>以此就教于方家。<br><br>北美保守评论🇺🇸🇨🇦: 《泰勒·格林表示，许多共和党议员已经进一步向右移动》<br><br>如果这确实发生了，那么这对美国保守派和美国来说，都是值得庆幸的事。因为这意味着向基督教保守主义价值观的回归。“选民能做的最重要的事情是，确保你们对众议院共和党人的支持和声音比K街的游说者和大公司更强大。”<br><br><img style="" src="https://pbs.twimg.com/media/FlVOb5aXwAAR39e?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://nacr.info/WordPress/index.php/2022/12/31/taylor-greene-says-many-gop-lawmakers-have-moved-further-right/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/12/31/taylor-greene-says-many-gop-lawmakers-have-moved-further-right/</a>
+
+### 58: [2023-01-01 23:38:54+08:00 推文](https://twitter.com/HeQinglian/status/1609574896182362112)
+
+Re 新保守主义希望的全球主义政府不可能是低税收、低福利、限制非法移民，而且新保守主义的对外积极军事干预，与民主党极为一致。<br>这个新保守主义要么是自欺欺人，如果真实践，命不长久。
+
+### 59: [2023-01-01 23:41:29+08:00 推文](https://twitter.com/HeQinglian/status/1609575546266030081)
+
+有兴趣的推友可看这个串推。<br><br>李江琳: 今年年底验证：将会在2023年被证实的10个阴谋论：<br> <a href="https://headlineusa.com/sellers-10-conspiracy-theories-validate-2023/" target="_blank" rel="noopener noreferrer">https://headlineusa.com/sellers-10-conspiracy-theories-validate-2023/</a>
+
