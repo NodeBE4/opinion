@@ -134,3 +134,9 @@ https://www.reddit.com/r/AskHistorians/comments/ncau53/what_led_to_the_decline_o
 
 https://www.reddit.com/r/AskHistorians/comments/mhb2tl/why_wasnt_mongolia_invaded_or_annexed_any_time/gt0k2dc/
 
+### 1018: [[Hobby Scuffles] Week of January 2, 2023](https://old.reddit.com/r/HobbyDrama/comments/100kt5g/hobby_scuffles_week_of_january_2_2023/), submitted on 2023-01-01 22:30:11+08:00.
+
+----- __1018.1__ -----2023-01-02 14:52:17+08:00:
+
+Lies! Slander! Libel! All the words for bad untruths!
+

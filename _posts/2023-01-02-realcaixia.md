@@ -29,5 +29,5 @@ title: 'Twitter @蔡霞: 2023-01-02~2023-01-08'
 
 ### 4: [2023-01-02 06:03:14+08:00 推文](https://twitter.com/realcaixia/status/1609671618250293248)
 
-这样的年轻人是我们这个民族的希望！ <a href="https://twitter.com/xtlu9/status/1609375518624727045" target="_blank" rel="noopener noreferrer">https://twitter.com/xtlu9/status/1609375518624727045</a>
+这样的年轻人是我们这个民族的希望！
 
