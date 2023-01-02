@@ -154,3 +154,7 @@ But then the elephant in the room is overseas viewership of Japanese talents and
 
 I'll add also that there are sites like VStats that have [daily top 50 leaderboards for maximum and average stream viewership](https://www.vstats.jp/leaderboard/today), and a quick scroll suggests that Hololive usually dominates the top 25, except on major event days. For instance the free part of Day 1 of Nijisanji's end-of-year event on [29 December](https://www.vstats.jp/leaderboard/2022-12-29) got a whopping 242k maximum concurrent viewers, while Hololive's [end-of-year event on 31 December](https://www.vstats.jp/leaderboard/2022-12-31) got 197k. So Niji can definitely get a lot of viewers together for agency-wide events, but the maximum viewership of any individual talent tends to be lower than their Hololive equivalents.
 
+----- __1018.3__ -----2023-01-03 01:07:27+08:00:
+
+It'll depend obviously, but at the same time, Salome didn't hit the VTuber record for fastest to 1m subs based purely off organic success. Niji hardly lacks brand identity, and especially when we look at more recent talent waves, which have been concentrated in the EN branch, there's a lot of existing audience recycling at work. And I don't want to say this as some kind of bad thing; rather, I raise it as something that complicates the superficial numbers considerably.
+
