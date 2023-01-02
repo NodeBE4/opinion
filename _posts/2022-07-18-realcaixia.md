@@ -121,7 +121,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FYJewOwX0AUPknj?format=jpg
 
 ### 27: [2022-07-21 22:43:27+08:00 推文](https://twitter.com/realcaixia/status/1550129333116608512)
 
-特别推荐盛洪先生的这篇分析文章。
+特别推荐盛洪先生的这篇分析文章。<br><br>Sheng Hong: 据报道，近来多达300多楼盘业主采取强制停贷，以逼迫开发商复工。这显然是开发商的违约导致的。然而这不是偶然出现的，不是个别开发商违规使用资金所能完全解释的，这是一个系统性问题，是去年就出现的房地产市场萎缩的进一步恶化。而以土地为中心的<br> <a href="https://five-woods.com/2021/10/21/%e3%80%90%e6%a8%aa%e8%ae%ae%e3%80%91%e4%b8%ba%e4%bb%80%e4%b9%88%e4%b8%8d%e5%8f%97%e7%ba%a6%e6%9d%9f%e7%9a%84%e6%9d%83%e5%8a%9b%e4%bc%9a%e7%93%a6%e8%a7%a3%e4%b8%ad%e5%9b%bd%e5%a5%87%e8%bf%b9%ef%bc%9f/" target="_blank" rel="noopener noreferrer">https://five-woods.com/2021/10/21/%e3%80%90%e6%a8%aa%e8%ae%ae%e3%80%91%e4%b8%ba%e4%bb%80%e4%b9%88%e4%b8%8d%e5%8f%97%e7%ba%a6%e6%9d%9f%e7%9a%84%e6%9d%83%e5%8a%9b%e4%bc%9a%e7%93%a6%e8%a7%a3%e4%b8%ad%e5%9b%bd%e5%a5%87%e8%bf%b9%ef%bc%9f/</a>
 
 ### 28: [2022-07-22 05:48:02+08:00 推文](https://twitter.com/realcaixia/status/1550236182981869575)
 
