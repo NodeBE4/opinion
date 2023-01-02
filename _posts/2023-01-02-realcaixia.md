@@ -31,3 +31,7 @@ title: 'Twitter @蔡霞: 2023-01-02~2023-01-08'
 
 这样的年轻人是我们这个民族的希望！
 
+### 5: [2023-01-02 23:31:00+08:00 推文](https://twitter.com/realcaixia/status/1609935297374195713)
+
+加上我吧，這也是我的心願。<br><br>楊建利 Jianli (Doc) Yang: 我确信，我们是最后一代<br>但不确知，<br>2023是不是最后一年。<br><br>⬇️是我自己做的灯<br>呼唤良知和勇气<br>祈祷希望和光明<br><br><img style="" src="https://pbs.twimg.com/media/FlZFQCJXkAAm8FI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
