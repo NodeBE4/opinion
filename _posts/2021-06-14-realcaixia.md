@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2021-06-14~2021-06-20'
 
 ### 4: [2021-06-17 11:53:17+08:00 推文](https://twitter.com/realcaixia/status/1405372952225497090)
 
-中共极权统治70多年来实行党禁报禁，又将大陆做法搬到香港，企图彻底剿灭民间报纸，剿灭反抗极权暴政的正义人士。他们再次突袭搜查苹果日报，拘押报社高管，强行爆门民宅，抓走苹果日报副社长陈沛敏女士。应与陈沛敏所写凛然正气的告读者信有关。极权统治者愈是惊恐，便愈分外凶狠，香港进入最黑暗时期 <a href="https://twitter.com/appledaily_hk/status/1405342196656590851" target="_blank" rel="noopener noreferrer">https://twitter.com/appledaily_hk/status/1405342196656590851</a>
+中共极权统治70多年来实行党禁报禁，又将大陆做法搬到香港，企图彻底剿灭民间报纸，剿灭反抗极权暴政的正义人士。他们再次突袭搜查苹果日报，拘押报社高管，强行爆门民宅，抓走苹果日报副社长陈沛敏女士。应与陈沛敏所写凛然正气的告读者信有关。极权统治者愈是惊恐，便愈分外凶狠，香港进入最黑暗时期<br><br>Apple Daily HK 蘋果日報: Hong Kong police raid Apple Daily, arrest executives under national security law<br><br>Read: <br><br>#AppleDailyENG #NationalSecurityLaw<br> <a href="https://bit.ly/3xrLt4d" target="_blank" rel="noopener noreferrer">https://bit.ly/3xrLt4d</a>
 
 ### 5: [2021-06-17 11:54:20+08:00 推文](https://twitter.com/realcaixia/status/1405373218743996418)
 

@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2023-01-02~2023-01-08'
 
 ### 4: [2023-01-02 06:03:14+08:00 推文](https://twitter.com/realcaixia/status/1609671618250293248)
 
-这样的年轻人是我们这个民族的希望！<br><br>小陀螺: 小女生年纪轻轻就这么咄咄逼人，逻辑出色，这才是真正的后浪‼️讲得太棒了<br><br><video src="https://video.twimg.com/ext_tw_video/1335635650800971783/pu/vid/480x270/d1mXmavv4HeQ1LCS.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1335635650800971783/pu/img/hTkVODKVmNZWIkuv.jpg"></video>
+这样的年轻人是我们这个民族的希望！
 
 ### 5: [2023-01-02 23:31:00+08:00 推文](https://twitter.com/realcaixia/status/1609935297374195713)
 
@@ -38,4 +38,16 @@ title: 'Twitter @蔡霞: 2023-01-02~2023-01-08'
 ### 6: [2023-01-03 01:26:11+08:00 推文](https://twitter.com/realcaixia/status/1609964281730306048)
 
 新華社2022十大新聞與民間評出十大新聞是根本對立的。<br>新華社的十大新聞，條條都給極權當局貼金，有哪一條關注到真正的民間疾苦？！<br>民間十大新聞條條都是人命關天、血淚控訴！<br>2019年底—2022堪比1959 —1961年。<br>毛病未除積惡成習，生靈浩劫人間煉獄。毛與習，豈止是上史書！<br><br>鲍简: 新华社评出的2022十大新闻和民间网友评出的10大新闻差异以光年计😛哪怕只有其中一条接近，我都认为这还算是贴谱滴😪<br><br><img style="" src="https://pbs.twimg.com/media/FleVZanaEAUWNby?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 7: [2023-01-03 04:46:34+08:00 推文](https://twitter.com/realcaixia/status/1610014709469831168)
+
+这是跨年夜的南京市新街口广场(市中心，这里矗立着孙中山先生全身铜像)，迎新年的市民都自发的、不约而同地涌向孙中山先生铜像周围。这是从来未有过的景象。纪念孙中山先生，人心向背有了重大變化！這件事含義很深。<br><video src="https://video.twimg.com/ext_tw_video/1610014648912470016/pu/vid/368x640/SOOSBipq_VHfr0oY.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1610014648912470016/pu/img/uF0UbxlytqEvF9rv.jpg"></video>
+
+### 8: [2023-01-03 04:51:03+08:00 推文](https://twitter.com/realcaixia/status/1610015838664556545)
+
+釋放方斌，方斌無罪！<br><br>罗翔: 大陆中国张毅：拯救方斌！<br><br><img style="" src="https://pbs.twimg.com/media/FlZfvdgXwAIl-LM?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 9: [2023-01-03 05:21:39+08:00 推文](https://twitter.com/realcaixia/status/1610023542111997953)
+
+特别推荐：<br>    江雪最新文章的完整版。<br>年末歲始，我們再次想起年轻人高舉白紙勇敢的身影，他们震撼中国与世界的呼喊；想起孤胆英雄彭载舟！是他们，站在了人心思变的前列。<br>2023跨年夜，南京人涌向民国政府象征的孙中山铜像；河南民众举白纸，多地民众蔑视禁放烟火规定，汽车腾起烟花迎新🎆<br><img style="" src="https://pbs.twimg.com/media/Flfz2auaEAAM8nK?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Flfz29KaAAAQP6X?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Flfz3YaaAAECqXK?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Flfz3yEaUAAyC1L?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
