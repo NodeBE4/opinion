@@ -71,3 +71,7 @@ Re @xchen62 @KingWan86749833 @dinglili7 从威尔逊行政国家开始，美国�
 
 Re @zhixiangziyou @gaiyuyin 你去想想，从2020年初开始，有关疫情流行就是不断人权化。比如最开始说要大家隔离，波洛希与白思豪号召大家聚餐，白还身体力行去餐馆。然后说隔离，BLM一起，传染病学家们一律都说革命要紧，在街上集会没关系。过段时间，就要疫苗证了。<br>都是政治需要，哪考虑防疫需要。
 
+### 15: [2023-01-02 12:27:01+08:00 推文](https://twitter.com/HeQinglian/status/1609768198106189825)
+
+Re @xchen62 @dinglili7 <br>供参考。我正在看。 <a href="https://www.thebulwark.com/never-trumpers-and-the-future-of-american-conservatism/" target="_blank" rel="noopener noreferrer">https://www.thebulwark.com/never-trumpers-and-the-future-of-american-conservatism/</a>
+
