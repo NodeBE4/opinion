@@ -133,7 +133,7 @@ Re @dayangelcp @John17Churchill 倒翻篇。
 
 ### 30: [2022-01-02 00:28:18+08:00 推文](https://twitter.com/realcaixia/status/1477315755788091399)
 
-忘不了武汉，如今又增添一个城市：忘不了西安…<br><br>张海。: 这类图片很刺激我的内心，我总忘不了武汉封城期间电话那头传来的哭泣声，她先生发烧到昏迷，症状就是染上了新冠病毒🦠求遍了所有能求的人，没有床位，也没人管，更出不去。人上午走在了家里，下午很晚才拖走，社区开的死亡证明：猝死……当时的武汉这类悲剧太多太多，她的哭泣声永远留在我的脑海里……<br><br><img style="" src="https://pbs.twimg.com/media/FH6GrzHVkAAhTNW?format=jpg&name=orig" referrerpolicy="no-referrer">
+忘不了武汉，如今又增添一个城市：忘不了西安…<br><br>张海。: 这类图片很刺激我的内心，我总忘不了武汉封城期间电话那头传来的哭泣声，她先生发烧到昏迷，症状就是染上了新冠病毒🦠求遍了所有能求的人，没有床位，也没人管，更出不去。人上午走在了家里，下午很晚才拖走，社区开的死亡证明：猝死……当时的武汉这类悲剧太多太多，她的哭泣声永远留在我的脑海里……<br><br><img style src="https://pbs.twimg.com/media/FH6GrzHVkAAhTNW?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 31: [2022-01-02 00:31:37+08:00 推文](https://twitter.com/realcaixia/status/1477316590597255169)
 
