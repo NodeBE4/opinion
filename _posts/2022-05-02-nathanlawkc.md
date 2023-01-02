@@ -29,9 +29,9 @@ Re 2. I posted this article on 27th April in Chinese, quoting many news articles
 
 Re 5. The real purpose of Christine Lee’s BCP is now under fierce scrutiny as it is believed to be an infiltration project from the CCP. He left the project when he was elected in 2017. After he left the BCP, he continued to have close connections with Lee. <a href="https://find-and-update.company-information.service.gov.uk/company/07233413/officers" target="_blank" rel="noopener noreferrer">https://find-and-update.company-information.service.gov.uk/company/07233413/officers</a>
 
-### 4: [2022-05-03 21:33:49+08:00 推文](https://twitter.com/nathanlawkc/status/1521483168188141571)
+### 4: [2022-05-03 21:33:49+08:00 推文](https://twitter.com/nathanlawkc/status/1521483166116163586)
 
-Re 7. I believe I am utilizing publicly available resources to make these allegations in the interest of the public. Alex, as an elected councilor and candidate running for office in Sutton Wylde Green ward, should respond to these questions to reassure the public and the voters.
+Re 6. He hosted an event in 2018 and invited Christine Lee. He was photographed with Christine Lee when meeting other politicians. <a href="https://www.thetimes.co.uk/article/conservatives-received-donation-from-suspected-chinese-agent-christine-lee-xqdlxqd7j?fbclid=IwAR1VIOUIivnz-KZylWS8md8i7u5P5sq5CA1dn5Xj2hNpMAaJ1_78TEOGsRw" target="_blank" rel="noopener noreferrer">https://www.thetimes.co.uk/article/conservatives-received-donation-from-suspected-chinese-agent-christine-lee-xqdlxqd7j?fbclid=IwAR1VIOUIivnz-KZylWS8md8i7u5P5sq5CA1dn5Xj2hNpMAaJ1_78TEOGsRw</a>
 
 ### 5: [2022-05-03 21:33:50+08:00 推文](https://twitter.com/nathanlawkc/status/1521483172223062018)
 
