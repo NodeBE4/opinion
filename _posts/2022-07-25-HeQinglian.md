@@ -53,7 +53,7 @@ Re @GaoMilan 既然如此，还抱怨什么？认吧。
 
 ### 10: [2022-07-25 09:37:02+08:00 推文](https://twitter.com/HeQinglian/status/1551380976240140288)
 
-想当年，克林顿竞选时的豪言：我如果当了美国总统，从北京到巴格达的独裁者，一个也不放过。<br>后来，克林顿力主中国入世，成了中国政府的好朋友。退位后经常到中国演讲，每场演讲进帐几十万美元——友谊长青。<br>因此，我宁可将这些看作政治噱头。
+想当年，克林顿竞选时的豪言：我如果当了美国总统，从北京到巴格达的独裁者，一个也不放过。<br>后来，克林顿力主中国入世，成了中国政府的好朋友。退位后经常到中国演讲，每场演讲进帐几十万美元——友谊长青。<br>因此，我宁可将这些看作政治噱头。<br><br>RFI 華語 - 法國國際廣播電台: 英保守黨黨魁競選周一電視辯論： 蘇納克將抨擊特拉斯對華政策軟弱<br><br><img style="" src="https://pbs.twimg.com/media/FYeHnGJUEAEws_L?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8bmS.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8bmS.t</a>
 
 ### 11: [2022-07-25 20:17:17+08:00 推文](https://twitter.com/HeQinglian/status/1551542097773223936)
 
@@ -89,7 +89,7 @@ Re @shenliangqing2 你忘记本月底拜习视频会是熄火会、和好努力�
 
 ### 19: [2022-07-25 21:44:58+08:00 推文](https://twitter.com/HeQinglian/status/1551564164006612992)
 
-与台、中轮流建交，早就成了小国的生存之道，废一次、兴一次，就是几十亿美元的进帐，三年来一次吧。<br><br>美国之音莉雅: 所罗门群岛议会外委会主席、反对党议员凯尼洛里(Peter Kenilorea Jr.)7月25日在议会反对党领导人办公室接受我们的专访时说，如果反对派在下次的选举中获胜组阁的话，第一件事就是废除所中安全协议。至于是否会重新与台湾建交，他说，有这种可能性但这是一个更长的程序，而且涉及到国际方面的议题。<br><br><img style="" src="https://pbs.twimg.com/media/FYgt5y4akAER6xJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FYgt7S4akAEUEWl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+与台、中轮流建交，早就成了小国的生存之道，废一次、兴一次，就是几十亿美元的进帐，三年来一次吧。
 
 ### 20: [2022-07-25 21:47:07+08:00 推文](https://twitter.com/HeQinglian/status/1551564705423970304)
 
@@ -149,7 +149,7 @@ Re @CrabNJ 你愿意称呼令堂为“会怀孕的女人”吗？如果你不愿
 
 ### 34: [2022-07-26 04:09:34+08:00 推文](https://twitter.com/HeQinglian/status/1551660953955074060)
 
-刚知道，【英相候选人苏纳克“一度顾左右而言他，表示要在维护国家利益和价值的同时，‘继续和中国交往’。而中共喉舌《环球时报》早前曾发文形容，在英国首相之争中，苏纳克是唯一一位“对发展中英关系持明确而务实观点”的候选人。<br>这个定性，被外界形容是中方对苏纳克的“死亡之吻”。】<br>果然是竞选策略。
+刚知道，【英相候选人苏纳克“一度顾左右而言他，表示要在维护国家利益和价值的同时，‘继续和中国交往’。而中共喉舌《环球时报》早前曾发文形容，在英国首相之争中，苏纳克是唯一一位“对发展中英关系持明确而务实观点”的候选人。<br>这个定性，被外界形容是中方对苏纳克的“死亡之吻”。】<br>果然是竞选策略。<br><br>He Qinglian: 想当年，克林顿竞选时的豪言：我如果当了美国总统，从北京到巴格达的独裁者，一个也不放过。<br>后来，克林顿力主中国入世，成了中国政府的好朋友。退位后经常到中国演讲，每场演讲进帐几十万美元——友谊长青。<br>因此，我宁可将这些看作政治噱头。<br> <a href="https://twitter.com/RFI_TradCn/status/1551357705066950658" target="_blank" rel="noopener noreferrer">https://twitter.com/RFI_TradCn/status/1551357705066950658</a>
 
 ### 35: [2022-07-26 04:14:15+08:00 推文](https://twitter.com/HeQinglian/status/1551662132877484037)
 
@@ -253,7 +253,7 @@ Re @realTaoRay 这么害怕川普2024出山？<br>其实，只要诚实选举，
 
 ### 60: [2022-07-28 03:28:43+08:00 推文](https://twitter.com/HeQinglian/status/1552375447291367425)
 
-解决方案来了：<br>1、拜习通话后，拜登想要的能否得到已成定局，不会再传达军方意见反对南希去。民主党内矛盾让位于美中矛盾；<br>2、南希等人成行，如中方不用武力威慑，从此可视中共为Paper Tiger；如果美方回应，政治反对派解放中国的梦想可实现。如果不回应，美国就是Paper Tiger。<br>前提是南希健康。<br><br>RFI 华语 - 法国国际广播电台: 佩洛西何时访台？彭博社：应在拜登与习近平通话几天后<br><br><img style="" src="https://pbs.twimg.com/media/FYoQQ3VVQAAI_cX?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8c72.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8c72.t</a>
+解决方案来了：<br>1、拜习通话后，拜登想要的能否得到已成定局，不会再传达军方意见反对南希去。民主党内矛盾让位于美中矛盾；<br>2、南希等人成行，如中方不用武力威慑，从此可视中共为Paper Tiger；如果美方回应，政治反对派解放中国的梦想可实现。如果不回应，美国就是Paper Tiger。<br>前提是南希健康。
 
 ### 61: [2022-07-28 03:30:44+08:00 推文](https://twitter.com/HeQinglian/status/1552375957826174979)
 
@@ -265,7 +265,7 @@ Re @shenliangqing2 @OfcIQOD2XkWhsKt @JianglinLi 台湾30岁以下青年一代，
 
 ### 63: [2022-07-28 03:46:23+08:00 推文](https://twitter.com/HeQinglian/status/1552379895698923520)
 
-完全不用担心。<br>不是早就有美国智库预测，“华盛顿希望与俄罗斯战斗至最后一个乌克兰人”么？<br>“有民乃有土，有土乃有国”，当最后一个乌克兰人倒下之后，那土地属于谁，国家叫什么名称，已经没有原住民关注了。<br><br>RedSteelWorker: @KELMAND1 @feli0meow 乌克兰惨了！竟然开始卖地！根据澳媒消息，乌克兰已经卖给美国三大企业1700万公顷农业土地，这大概已经占到了乌克兰国土面积的60万平方公里的28.3%了。<br>
+完全不用担心。<br>不是早就有美国智库预测，“华盛顿希望与俄罗斯战斗至最后一个乌克兰人”么？<br>“有民乃有土，有土乃有国”，当最后一个乌克兰人倒下之后，那土地属于谁，国家叫什么名称，已经没有原住民关注了。
 
 ### 64: [2022-07-28 03:52:43+08:00 推文](https://twitter.com/HeQinglian/status/1552381490763370502)
 
@@ -357,7 +357,7 @@ Re @zhixiangziyou 实话实说，如果我在深圳，一定去现场看。
 
 ### 86: [2022-07-28 21:52:45+08:00 推文](https://twitter.com/HeQinglian/status/1552653287966380036)
 
-这帐要这样算：<br>如果俄罗斯损失591亿美元，西方完胜；<br>如果俄罗斯损失500亿，西方大胜；<br>如果俄罗斯损失400亿，西方获得可观胜利；<br>如果俄罗斯经济损失极小，西方胜在道义。因为俄罗斯至少与西方40国交恶，被踢出先进文明的世界，美国将不再向俄直接推广LGBTQI+第四代女权+吸大麻（吸毒）+BLM（CRT）。<br><br>Ezio Mao☢: 据《华尔街日报》报道，由于对俄罗斯的制裁，上半年西方公司将损失590亿美元.<br><br>2022年第一季度，英国公司BP亏损255亿美元，壳牌 - 42亿美元，德国Uniper-32亿欧元，奥地利OMV-20亿欧元，德国 Wintershall Dea - 11亿欧元，法国Engie-10亿欧元。法国雷诺集团亏损 22 亿欧元。<br> <a href="https://www.wsj.com/articles/business-losses-from-russia-top-59-billion-as-sanctions-hit-11654853400" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/business-losses-from-russia-top-59-billion-as-sanctions-hit-11654853400</a>
+这帐要这样算：<br>如果俄罗斯损失591亿美元，西方完胜；<br>如果俄罗斯损失500亿，西方大胜；<br>如果俄罗斯损失400亿，西方获得可观胜利；<br>如果俄罗斯经济损失极小，西方胜在道义。因为俄罗斯至少与西方40国交恶，被踢出先进文明的世界，美国将不再向俄直接推广LGBTQI+第四代女权+吸大麻（吸毒）+BLM（CRT）。
 
 ### 87: [2022-07-28 21:55:43+08:00 推文](https://twitter.com/HeQinglian/status/1552654036498653186)
 
