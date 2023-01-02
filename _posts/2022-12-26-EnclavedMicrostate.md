@@ -140,3 +140,17 @@ https://www.reddit.com/r/AskHistorians/comments/mhb2tl/why_wasnt_mongolia_invade
 
 Lies! Slander! Libel! All the words for bad untruths!
 
+----- __1018.2__ -----2023-01-02 15:54:09+08:00:
+
+> AFAIK Nijisanji is still bigger in Japan.
+
+So, it gets Complexicated depending on what metrics you use and how deep you delve. Here I'm going off sub counts:
+
+Last I checked Niji claims around 60m total subscribers across its roughly 170 YT channels; Holo claims around 69 million across 71. Holo's international branches account for a little over 23 million as of current count, so more or less exactly a third. NijiEN accounts for about 14.5 million, or just under a quarter. So in that sense, Nijisanji's Japanese branch draws a bigger proportion of Nijisanji viewership compared to Hololive's Japanese branches for Hololive. However, the overall sizes of their Japanese branches, going by pure subscriber numbers, are more or less exactly the same at around 46 million.
+
+What then complicates this further is that Nijisanji's Japanese branch is much bigger in terms of total membership (141) compared to Hololive's (35 Hololive and 13 Holostars for 48 total). The big open question when it comes to viewership practices is how many people subscribe to how many channels. A so-called 'DD' (*daredemo daisuki*, i.e. 'loves anyone') may well subscribe to everyone as a sign of support, but a DD for Nijisanji will add 141 subscribers to the total count while one for Hololive will add 48. So I think it's likely, but not certain, that the subscriber overlap inflates Nijisanji's total viewership figures to a greater extent than Hololive's, *especially* if we account for the trend of existing agency fans mass-subbing to a new talent pre-debut rather than new debutants starting from scratch. All of Nijisanji EN's most recent group of 6 debutants, XSoleil, hit 100k subscribers from pre-debut hype, but those 600k total subscrip*tions* came from 100k subscri*bers*, if that makes sense. The same, of course, is true of HoloEN Council getting at least 200k each pre-debut.
+
+But then the elephant in the room is overseas viewership of Japanese talents and Japanese viewership of non-overseas talents, and in that situation we can't really extrapolate from individual members' occasional statements too much. Stream donation currency breakdowns might be the only viable route, but I've only ever seen it done by Hololive stats nerds. It's probably reasonable to say that overseas viewership accounts for more of HoloJP's audience than it does for NijiJP, but how far is unclear. Presumably that counteracts the statistical effect of subscriber overlaps a bit if we're trying to ascertain audience sizes within Japan, but in the end, there's a lot of variables to control for, not all of which are possible to mine the stats for directly.
+
+I'll add also that there are sites like VStats that have [daily top 50 leaderboards for maximum and average stream viewership](https://www.vstats.jp/leaderboard/today), and a quick scroll suggests that Hololive usually dominates the top 25 except on major event days. For instance the free part of Day 1 of Nijisanji's end-of-year event on [29 December](https://www.vstats.jp/leaderboard/2022-12-29) got a whopping 242k maximum concurrent viewers, while Hololive's [end-of-year event on 31 December](https://www.vstats.jp/leaderboard/2022-12-31) got 197k. So Niji can definitely get a lot of viewers together for agency-wide events.
+
