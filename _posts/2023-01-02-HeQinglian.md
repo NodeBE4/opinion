@@ -75,3 +75,7 @@ Re @zhixiangziyou @gaiyuyin 你去想想，从2020年初开始，有关疫情流
 
 Re @xchen62 @dinglili7 <br>供参考。我正在看。 <a href="https://www.thebulwark.com/never-trumpers-and-the-future-of-american-conservatism/" target="_blank" rel="noopener noreferrer">https://www.thebulwark.com/never-trumpers-and-the-future-of-american-conservatism/</a>
 
+### 16: [2023-01-02 20:17:52+08:00 推文](https://twitter.com/HeQinglian/status/1609886691543732225)
+
+Re @jushifan 因为支持台湾，许多台湾人喜欢他，超过喜欢波洛西。<br>此外，他因是中共最猛烈攻击的美国政治人物，在与中国交恶的情况下，揭露过许多中共在美红色渗透的信息，比如渗透到州一级。<br>他不是不清楚美国情况，但需要多方合作才有未来。
+
