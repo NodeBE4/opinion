@@ -169,7 +169,7 @@ RT @Jam79922967: 枪口下的抗疫，世界独此一国。用枪击毙新冠病
 
 ### 39: [2022-04-05 09:43:50+08:00 推文](https://twitter.com/realcaixia/status/1511157635411857408)
 
-义士义举令人感佩，话语令人暖心。<br><br>杨佩昌: 收到太多溢美之词，受之有愧。其实留学德国这事不难，不过举手之劳而已（留学中介别骂）。只要语言过关、符合留学资格（Hochschulzugangberechtigung）都不难办。<br>小孙这事难在如何让德国大学相信，他被开除并非行为不端，只是言论表达惹的祸。这需要一个德国高校信任的人来说明，正巧我就是这个人。<br>
+义士义举令人感佩，话语令人暖心。
 
 ### 40: [2022-04-05 09:45:35+08:00 推文](https://twitter.com/realcaixia/status/1511158075381665792)
 
@@ -205,7 +205,7 @@ RT @ZhangDong_SCH: （基辅）6岁的男孩站在自家院子里妈妈的坟墓
 
 ### 48: [2022-04-06 22:04:11+08:00 推文](https://twitter.com/realcaixia/status/1511706335016099840)
 
-议报网站最近2月发布了一些重磅文章，近日连遭攻击。这最大可能就是中共网军黑色幽灵干的卑鄙龌龊行径。我们在组织技术力量紧急处置中，请网友理解。<br><br>楊建利 Yang Jianli: #议报 以及 #公民力量 所属其他网站遭到黑客攻击，感染严重病毒，公民力量团队在紧急清理修复中，我们决心“清零”，绝不与病毒共存。望大家理解和支持。<br> <a href="https://twitter.com/yibaochina/status/1511520166600916998" target="_blank" rel="noopener noreferrer">https://twitter.com/yibaochina/status/1511520166600916998</a>
+议报网站最近2月发布了一些重磅文章，近日连遭攻击。这最大可能就是中共网军黑色幽灵干的卑鄙龌龊行径。我们在组织技术力量紧急处置中，请网友理解。
 
 ### 49: [2022-04-06 22:18:44+08:00 推文](https://twitter.com/realcaixia/status/1511709999923408899)
 
@@ -257,11 +257,11 @@ RT @BigRmbusd: 要求解封的声音越来越大<br><video src="https://video.tw
 
 ### 61: [2022-04-08 20:27:47+08:00 推文](https://twitter.com/realcaixia/status/1512406852948181003)
 
-泽连斯基要求改变联合国常任理事国的席位规则，事关全球正义与和平。常任理事国一票否决制确实到了必须改革的关键时刻了。
+泽连斯基要求改变联合国常任理事国的席位规则，事关全球正义与和平。常任理事国一票否决制确实到了必须改革的关键时刻了。<br><br>stupidwz: 泽连斯基或将改写联合国，成为本世纪最伟大的政客和总统！<br>1/2 泽连斯基向联合国安理会发表演说：布查大屠杀与伊斯兰国的屠杀相比，唯一不同点是它是由联合国常任理事国制造的。俄的存在使联合国无法做出制止战争犯罪的决定，联合国必须进行常任理事国一票否决权改革，否则，联合国宪章已变成一纸空文<br>
 
 ### 62: [2022-04-08 20:35:48+08:00 推文](https://twitter.com/realcaixia/status/1512408868734881793)
 
-专制独裁者是同一个德性。他们用尽各种谎言、强作姿态维护面子，实质是维持他们统治权力的脆弱的人心基础，他们内心越恐慌越要装的“我不在乎”，越要装得外表强硬。什么叫无赖虚张声势？俄国这就是。
+专制独裁者是同一个德性。他们用尽各种谎言、强作姿态维护面子，实质是维持他们统治权力的脆弱的人心基础，他们内心越恐慌越要装的“我不在乎”，越要装得外表强硬。什么叫无赖虚张声势？俄国这就是。<br><br>ZHANGDONG: 联合国大会今天以压倒多数表决通过将俄国踢出人权理事会的决议.联合国发推公布表决结果半个小时之后,俄罗斯驻联合国代表用俄语发推公布：<br>"俄罗斯联邦已决定从 2022 年4月7日起提前终止作为联合国人权理事会成员的权力。"<br>【翻译】是我俄帝主动退出联大人权理事会,而非被联大踢出去的。<br>面子必须维护😓<br> <a href="https://twitter.com/UN/status/1512099689730129930" target="_blank" rel="noopener noreferrer">https://twitter.com/UN/status/1512099689730129930</a>
 
 ### 63: [2022-04-09 21:28:50+08:00 推文](https://twitter.com/realcaixia/status/1512784603248955394)
 
@@ -269,7 +269,7 @@ RT @BigRmbusd: 要求解封的声音越来越大<br><video src="https://video.tw
 
 ### 64: [2022-04-09 22:04:41+08:00 推文](https://twitter.com/realcaixia/status/1512793625066979339)
 
-清零祸国殃民，祸首在海里吃喝不愁。21世纪，国际大都会，上海高楼大厦里，将有饿死冤魂。
+清零祸国殃民，祸首在海里吃喝不愁。21世纪，国际大都会，上海高楼大厦里，将有饿死冤魂。<br><br>大耳朵猫妹: 就一个字，惨<br><br><img style="" src="https://pbs.twimg.com/media/FP0sATZX0AwJPI7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP0sATpWUAMVMr_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP0sAU8XwAQ--Zh?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP0sAVJXwAQP4-q?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 65: [2022-04-09 22:34:47+08:00 推文](https://twitter.com/realcaixia/status/1512801200147628033)
 
