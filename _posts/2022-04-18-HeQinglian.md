@@ -249,7 +249,7 @@ Re @princeton_walk 据说是俄海军太弱，管理不善，某些装置没启�
 
 ### 59: [2022-04-18 21:19:31+08:00 推文](https://twitter.com/HeQinglian/status/1516043752074326019)
 
-Re @yu_su_chen 你说的自宫，美国一直在做。<br>俄乌战争那么吃紧，拜登都始终未忘本国公民的生殖器官阉割问题，提拔了一位变性人（男变女）做能源部长，号召全美未成年人自主变性，父母干涉就是违法。<br>就算天塌下来，拜登也不会忘记这件自宫大事。<br>有时我怀疑金老爷子说的《葵花宝典》被倒卖到美国，被民主党捡了漏。
+RT He Qinglian<br>Re @yu_su_chen 你说的自宫，美国一直在做。<br>俄乌战争那么吃紧，拜登都始终未忘本国公民的生殖器官阉割问题，提拔了一位变性人（男变女）做能源部长，号召全美未成年人自主变性，父母干涉就是违法。<br>就算天塌下来，拜登也不会忘记这件自宫大事。<br>有时我怀疑金老爷子说的《葵花宝典》被倒卖到美国，被民主党捡了漏。
 
 ### 60: [2022-04-18 21:20:55+08:00 推文](https://twitter.com/HeQinglian/status/1516044104534310912)
 
@@ -321,7 +321,7 @@ Re @zt33268778 最大的可能是贴牌生产。<br>美墨边境会设很多工�
 
 ### 77: [2022-04-19 07:52:25+08:00 推文](https://twitter.com/HeQinglian/status/1516203025672675328)
 
-记得班加西事件发生后，有位在美军服役的熟人告诉我：外交界与军人恨透了希拉里。<br>2016年大选，军人票投了多少给希拉里我不清楚，但我知道300多名美国外交官联名反对川普，说他不适合做总统。2020年，一百多名美国外交官再发公开信反对川普。
+记得班加西事件发生后，有位在美军服役的熟人告诉我：外交界与军人恨透了希拉里。<br>2016年大选，军人票投了多少给希拉里我不清楚，但我知道300多名美国外交官联名反对川普，说他不适合做总统。2020年，一百多名美国外交官再发公开信反对川普。<br><br>Kim Jong-un: 分享美利坚轶闻一则。<br><br>2012年7月25日，一架美军直升机在利比亚执行任务时被导弹射中，万幸导弹并未爆炸。<br>飞行员迫降后，惊讶地发现这是一枚美军的毒刺导弹。事故调查组根据导弹上的序列号，发现这枚导弹本应由美国中央情报局保管在干里之外的卡塔尔乌代德基地中。<br>那么导弹为何落到恐怖组织手里？<br>
 
 ### 78: [2022-04-19 07:58:05+08:00 推文](https://twitter.com/HeQinglian/status/1516204449450151941)
 
@@ -353,7 +353,7 @@ Re @JiangShangrong 我猜想，放也是有条件的，比如让他说出真相�
 
 ### 85: [2022-04-19 23:43:36+08:00 推文](https://twitter.com/HeQinglian/status/1516442399072993283)
 
-全球政治分裂——“三个世界”格局重现<br><br>美欧推行全球化先从经济开始，继之以社会与政治。<br>政治全球化主要藉颜色革命推行，在中俄从未成功，阿拉伯之春与南非彩虹革命则让世界心存疑虑。这次对俄全面经济制裁让经济全球化退回两个大国经济集团+140余个不结盟国家构成的第三世界。 <a href="https://www.epochtimes.com/gb/22/4/19/n13715415.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/4/19/n13715415.htm</a>
+RT He Qinglian<br>全球政治分裂——“三个世界”格局重现<br><br>美欧推行全球化先从经济开始，继之以社会与政治。<br>政治全球化主要藉颜色革命推行，在中俄从未成功，阿拉伯之春与南非彩虹革命则让世界心存疑虑。这次对俄全面经济制裁让经济全球化退回两个大国经济集团+140余个不结盟国家构成的第三世界。 <a href="https://www.epochtimes.com/gb/22/4/19/n13715415.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/4/19/n13715415.htm</a>
 
 ### 86: [2022-04-19 23:47:00+08:00 推文](https://twitter.com/HeQinglian/status/1516443255017201674)
 
@@ -409,7 +409,7 @@ Re @livivian86 @JiangShangrong 再怼你一次，因为你不怀好意。<br>我
 
 ### 99: [2022-04-20 05:03:21+08:00 推文](https://twitter.com/HeQinglian/status/1516522865381810183)
 
-Z世代以前出生者，活在西方，知道什么叫言论自由。我们曾向往过。<br>现在，我们正目睹言论自由如何被这代白左生生送进坟墓。<br><br>萧生客SSK🇺🇸🇨🇦: “我预测在传统互联网体系的所有层面，审查/封杀政策基本相同。客户端和服务器端的ISP、云平台、CDN、支付网络、客户端操作系统、浏览器、电子邮件客户端。只有极少数的例外。压力很大。“<br><br>一龙：非常令人担忧。谁在推动这种审查/封杀？非常阴暗。<br><br>马对邪教邪党沼泽生物的恶仅风闻无体验吧，是政治小白<br><br><img style="" src="https://pbs.twimg.com/media/FQuj6CHXoAk2Mx1?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Z世代以前出生者，活在西方，知道什么叫言论自由。我们曾向往过。<br>现在，我们正目睹言论自由如何被这代白左生生送进坟墓。
 
 ### 100: [2022-04-20 05:18:11+08:00 推文](https://twitter.com/HeQinglian/status/1516526596974329856)
 
@@ -697,7 +697,7 @@ Re @zwvrhwmjgx @pandatress1 你还有一丁点自尊心吗？<br>为什么不用
 
 ### 171: [2022-04-21 22:39:41+08:00 推文](https://twitter.com/HeQinglian/status/1517151090420051968)
 
-我一直没公开分享华邮2021 年 12 月 23 日 这篇《拜登政府正在研究如果莫斯科超越他们，如何战斗到最后一个乌克兰人》<br>其中提到：一位知识渊博的官员描述了该计划，其中包括向乌军队提供武器和其他支持以抵抗入侵的俄罗斯军队的方法。灵感从十年阿富汗战争中打败苏军中来。 <a href="https://www.washingtonpost.com/opinions/2021/12/19/biden-ukraine-insurgents-russia/" target="_blank" rel="noopener noreferrer">https://www.washingtonpost.com/opinions/2021/12/19/biden-ukraine-insurgents-russia/</a>
+我一直没公开分享华邮2021 年 12 月 23 日 这篇《拜登政府正在研究如果莫斯科超越他们，如何战斗到最后一个乌克兰人》<br>其中提到：一位知识渊博的官员描述了该计划，其中包括向乌军队提供武器和其他支持以抵抗入侵的俄罗斯军队的方法。灵感从十年阿富汗战争中打败苏军中来。<br><br>zhix: @JianglinLi @dongle_smith @HeQinglian 还会让更多无辜的人去送死😂<br>
 
 ### 172: [2022-04-21 23:05:44+08:00 推文](https://twitter.com/HeQinglian/status/1517157642434662406)
 
@@ -845,7 +845,7 @@ Re @JianglinLi @Wu_Zhi @JiangShangrong 连自己都没照亮。<br>记得有位U
 
 ### 208: [2022-04-23 00:53:01+08:00 推文](https://twitter.com/HeQinglian/status/1517547030146600965)
 
-[欧盟委员会周五表示，如果欧盟公司以欧元或美元支付，然后将其兑换成俄罗斯货币，那么它们可能能够解决俄罗斯要求以卢布支付天然气的要求，而不会违反制裁。]<br>路透还有一条，英国允许本国公司购买俄能源到5月31日。<br>自己撒落的一地鸡毛，一片一片捡吧。<br><br>Reuters: EU says gas payments may be possible under Russian roubles proposal without breaching sanctions<br><br><img style="" src="https://pbs.twimg.com/media/FQ9PUVfXwAAdBc4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="http://reut.rs/3KadHGC" target="_blank" rel="noopener noreferrer">http://reut.rs/3KadHGC</a>
+[欧盟委员会周五表示，如果欧盟公司以欧元或美元支付，然后将其兑换成俄罗斯货币，那么它们可能能够解决俄罗斯要求以卢布支付天然气的要求，而不会违反制裁。]<br>路透还有一条，英国允许本国公司购买俄能源到5月31日。<br>自己撒落的一地鸡毛，一片一片捡吧。
 
 ### 209: [2022-04-23 00:55:41+08:00 推文](https://twitter.com/HeQinglian/status/1517547703382724609)
 
