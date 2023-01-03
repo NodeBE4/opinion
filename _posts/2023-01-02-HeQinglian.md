@@ -131,3 +131,47 @@ Re @Lucs24659702 看来，有过接触与意向谈判了。RINO-新保守主义�
 
 Re @PhidiasNeo @JianglinLi @david_david1968 很多人不了解魏玛共和国。<br>BBC有部纪录片《柏林》上中下，就是从俾斯麦时期谈起，那时，柏林就是一切被放逐之人的乐园。如同美国的旧金山：“世界上所有失踪的异端，最后都出现在旧金山。”
 
+### 30: [2023-01-03 03:42:11+08:00 推文](https://twitter.com/NAConservative9/status/1609998508786061312)
+
+RT 北美保守评论🇺🇸🇨🇦<br>《雷·埃普斯承认策划了1月6日的“叛乱”》<br><br>此人被拍到在许多场合煽动冲击国会大厦，而且就在通往国会大厦唯一的栅栏被推倒前几秒，他还对随后推栅栏的人低声耳语。这样的煽动指挥者却没有受到任何指控唯一的解释就是此人是民主党情报部门为了做局所派遣安插在抗议人群中的间谍。 <a href="https://nacr.info/WordPress/index.php/2023/01/02/now-ray-epps-admits-he-orchestrated-jan-6-insurrection/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2023/01/02/now-ray-epps-admits-he-orchestrated-jan-6-insurrection/</a><br><img style="" src="https://pbs.twimg.com/media/FlfcSidXgAICLSP?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 31: [2023-01-03 04:00:40+08:00 推文](https://twitter.com/Lucs24659702/status/1610003161288437761)
+
+RT Lucs<br>加州疯狂的新年：五项激进法律生效<br><br><br>2.AB 2098：COVID错误信息<br>3.AB 2147：乱闯马路非刑罪化 <a href="http://1.sb/" target="_blank" rel="noopener noreferrer">http://1.SB</a> <a href="http://4.sb/" target="_blank" rel="noopener noreferrer">http://4.SB</a> <a href="http://5.sb/" target="_blank" rel="noopener noreferrer">http://5.SB</a> <a href="https://www.breitbart.com/politics/2023/01/01/californias-crazy-new-year-five-radical-laws-go-into-effect-one-on-hold/" target="_blank" rel="noopener noreferrer">https://www.breitbart.com/politics/2023/01/01/californias-crazy-new-year-five-radical-laws-go-into-effect-one-on-hold/</a>
+
+### 32: [2023-01-03 07:02:45+08:00 推文](https://twitter.com/HeQinglian/status/1610048983216291840)
+
+Re @xchen62 目前，要看资料，就是这些了，如果会看，从里面可以看出不少信息。<br>台湾一家出版社要我为《西方的自杀》写中文序言，这已经算是新保守主义的深刻者，但就是不肯涉及奥巴马包括1968年以来的体制内新长征。将一切归咎于生活太舒适，完全忽视了左派的组织化目标性运动。
+
+### 33: [2023-01-03 07:04:29+08:00 推文](https://twitter.com/HeQinglian/status/1610049420237619200)
+
+Re @lindahuiyun @PhidiasNeo @JianglinLi @david_david1968 这部剧我看了一半不到就弃剧了，太恶心。各种社会主义者、无政府主义者纷纷登台，造成一个下水道世界。
+
+### 34: [2023-01-03 07:05:19+08:00 推文](https://twitter.com/HeQinglian/status/1610049630565179397)
+
+Re @guchuan81 实在话，共和党精英基本是RINO。川普只剩下基层选民。
+
+### 35: [2023-01-03 07:10:00+08:00 推文](https://twitter.com/HeQinglian/status/1610050809672204288)
+
+Re @see411615412 这类人患了头大症，以为谁在意。
+
+### 36: [2023-01-03 07:16:38+08:00 推文](https://twitter.com/HeQinglian/status/1610052477575114753)
+
+Re @JianglinLi @PhidiasNeo @david_david1968 去年整出了猴痘，没消停，还琢磨着给猴痘起个政治正确的好听名字。咱俩不是建议就叫彩虹痘么？
+
+### 37: [2023-01-03 07:20:38+08:00 推文](https://twitter.com/HeQinglian/status/1610053485285761024)
+
+Re @jbchen2009 这些人就在中推上伸胳膊动腿，对美国没影响 。<br>当然，我们也对美国没影响，只是图弄个明白。
+
+### 38: [2023-01-03 08:27:04+08:00 推文](https://twitter.com/HeQinglian/status/1610070203001348098)
+
+Re @Isabel_3299 个人看法供参考。<br>不是指你说的这位曹先生。而是指普遍现象。<br>人过七十之后（有的人不到60就开始），普遍不想学习新东西，费神，有的还有身体原因。如果在工业化时代，人老有经验可凭借。但现在是互联网时代，许多经验不管用。<br>也因此，如果老辈人继续前行，可喜可贺；如果停滞不前，也是正常。
+
+### 39: [2023-01-03 08:46:55+08:00 推文](https://twitter.com/HeQinglian/status/1610075198031794176)
+
+Re @limzoeng952 @jojowheel 中文网的看法可能与事实有偏差。<br>美国同性婚姻已经不是问题，70%的民众接受了，尤其是青年人。大麻合法化也已经普遍化，不吸完全靠自觉。<br>但变性触及到家庭存活的最底线，这事让不少家有儿女的民主党选民也反感。维吉尼亚州选出扬金——一个与川普切割的共和党州长，就因劳登县石桥中学一变性人强奸女生
+
+### 40: [2023-01-03 08:50:35+08:00 推文](https://twitter.com/HeQinglian/status/1610076118203113473)
+
+Re @xchen62 大学里，95%是进步派教师。这些人之所以能够存在，是因为资格老。<br>普林斯顿有位教授当初对BLM有微辞，写了篇自言自语，说他之所以敢写，因为他已经七十好几了，终身教职，大不了退休。
+

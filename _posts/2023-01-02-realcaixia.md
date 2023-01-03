@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2023-01-02~2023-01-08'
 
 ### 4: [2023-01-02 06:03:14+08:00 推文](https://twitter.com/realcaixia/status/1609671618250293248)
 
-这样的年轻人是我们这个民族的希望！
+这样的年轻人是我们这个民族的希望！ <a href="https://twitter.com/xtlu9/status/1609375518624727045" target="_blank" rel="noopener noreferrer">https://twitter.com/xtlu9/status/1609375518624727045</a>
 
 ### 5: [2023-01-02 23:31:00+08:00 推文](https://twitter.com/realcaixia/status/1609935297374195713)
 
@@ -50,4 +50,8 @@ title: 'Twitter @蔡霞: 2023-01-02~2023-01-08'
 ### 9: [2023-01-03 05:21:39+08:00 推文](https://twitter.com/realcaixia/status/1610023542111997953)
 
 特别推荐：<br>    江雪最新文章的完整版。<br>年末歲始，我們再次想起年轻人高舉白紙勇敢的身影，他们震撼中国与世界的呼喊；想起孤胆英雄彭载舟！是他们，站在了人心思变的前列。<br>2023跨年夜，南京人涌向民国政府象征的孙中山铜像；河南民众举白纸，多地民众蔑视禁放烟火规定，汽车腾起烟花迎新🎆<br><img style="" src="https://pbs.twimg.com/media/Flfz2auaEAAM8nK?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Flfz29KaAAAQP6X?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Flfz3YaaAAECqXK?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Flfz3yEaUAAyC1L?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 10: [2023-01-03 07:39:01+08:00 推文](https://twitter.com/realcaixia/status/1610058111552724994)
+
+特别推荐：<br>议报转发中国体制内经济学家魏加宁先生文章【中国经济面临僵尸化风险 】<br>这是体制内所剩无几的改革派官员呼吁改革，以挽救中国经济，解困民生。当然，若经济有好转，中共政权体制也得以续命。即便如此苦口婆心，习依旧不容，文章被全网封杀，魏加宁先生被受处分。 <a href="https://yibaochina.com/?p=248922" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248922</a>
 
