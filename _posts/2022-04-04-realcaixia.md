@@ -141,7 +141,7 @@ Re @CCPoffice 我从部队回到地方定居苏州，后来父母养老都在苏
 
 ### 32: [2022-04-05 09:09:49+08:00 推文](https://twitter.com/realcaixia/status/1511149071708344328)
 
-大翻译找回2020年元旦央视迫害李文亮等八名s吹哨人的新闻播报。历史不能被忘记。需要让全世界更多的人知道武汉病毒的真相。<br><br>新闻调查: 大翻译运动又一杰作，武汉病毒的真相来了<br><br><video src="https://video.twimg.com/ext_tw_video/1510704705630269440/pu/vid/1280x720/d7gebXM6hxKtZKSU.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1510704705630269440/pu/img/exVPb1RXvZtcMvJq.jpg"></video>
+大翻译找回2020年元旦央视迫害李文亮等八名s吹哨人的新闻播报。历史不能被忘记。需要让全世界更多的人知道武汉病毒的真相。
 
 ### 33: [2022-04-05 09:12:06+08:00 推文](https://twitter.com/realcaixia/status/1511149645745078272)
 
@@ -281,7 +281,7 @@ RT @BigRmbusd: 要求解封的声音越来越大<br><video src="https://video.tw
 
 ### 67: [2022-04-09 23:25:32+08:00 推文](https://twitter.com/realcaixia/status/1512813972965273600)
 
-习当局推行上海市清零封城：<br>独裁强权意志+计划控制思维+政府行政包揽+顺民臣民文化=人祸：大规模次生人道灾难
+习当局推行上海市清零封城：<br>独裁强权意志+计划控制思维+政府行政包揽+顺民臣民文化=人祸：大规模次生人道灾难<br><br>Murong Xuecun慕容雪村: 《上海人為什么會飢餓》，完整版<br><br><img style="" src="https://pbs.twimg.com/media/FP4ZNLDaQAUJgEE?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP4ZNLOakAAVEEq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP4ZNLJaQAElLPN?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 68: [2022-04-09 23:28:27+08:00 推文](https://twitter.com/realcaixia/status/1512814706800660480)
 
