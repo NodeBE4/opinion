@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2023-01-02~2023-01-08'
 
 ### 4: [2023-01-02 06:03:14+08:00 推文](https://twitter.com/realcaixia/status/1609671618250293248)
 
-这样的年轻人是我们这个民族的希望！ <a href="https://twitter.com/xtlu9/status/1609375518624727045" target="_blank" rel="noopener noreferrer">https://twitter.com/xtlu9/status/1609375518624727045</a>
+这样的年轻人是我们这个民族的希望！
 
 ### 5: [2023-01-02 23:31:00+08:00 推文](https://twitter.com/realcaixia/status/1609935297374195713)
 
@@ -54,4 +54,16 @@ title: 'Twitter @蔡霞: 2023-01-02~2023-01-08'
 ### 10: [2023-01-03 07:39:01+08:00 推文](https://twitter.com/realcaixia/status/1610058111552724994)
 
 特别推荐：<br>议报转发中国体制内经济学家魏加宁先生文章【中国经济面临僵尸化风险 】<br>这是体制内所剩无几的改革派官员呼吁改革，以挽救中国经济，解困民生。当然，若经济有好转，中共政权体制也得以续命。即便如此苦口婆心，习依旧不容，文章被全网封杀，魏加宁先生被受处分。 <a href="https://yibaochina.com/?p=248922" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248922</a>
+
+### 11: [2023-01-03 10:31:31+08:00 推文](https://twitter.com/realcaixia/status/1610101520321617928)
+
+中共官方宣传的所谓党史，充满了谎言！<br><br>胡福明先生今天因新冠去世了，网上由此而兴起一阵虚假历史的再次鼓噪：所谓胡福明是《实践是检验真理的唯一标准》文章的主要作者，这是虚假历史。<br>请别再误传了。<br><img style="" src="https://pbs.twimg.com/media/Flg6y4bXkAEmu0Q?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Flg6zF1XwAAz7S6?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 12: [2023-01-03 10:36:44+08:00 推文](https://twitter.com/realcaixia/status/1610102835064209408)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/Flg7_cGXkAE7mod?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Flg7_cFXEAIGAK5?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Flg7_cFWYAM3r8F?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Flg7_cDWIAAVhxQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 13: [2023-01-03 10:39:20+08:00 推文](https://twitter.com/realcaixia/status/1610103486460444672)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/Flg8lcRXwAAmJ5d?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
