@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2021-12-06~2021-12-12'
 
 ### 1: [2021-12-06 01:30:25+08:00 推文](https://twitter.com/realcaixia/status/1467546917089468420)
 
-权力任性，企业难办，民众受苦。<br><br>天下新闻-精华版: 中山大学教授曝光中国限电真实原因<br> <a href="https://twitter.com/LQ0068/status/1466612591468462082/video/1" target="_blank" rel="noopener noreferrer">https://twitter.com/LQ0068/status/1466612591468462082/video/1</a>
+权力任性，企业难办，民众受苦。<br><br>天下新闻-精华版: 中山大学教授曝光中国限电真实原因<br><br><video src="https://video.twimg.com/ext_tw_video/1466612372982882316/pu/vid/720x760/LT465FCn3TSE3xry.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1466612372982882316/pu/img/tH4fdpriuw65M4OD.jpg"></video>
 
 ### 2: [2021-12-07 07:13:05+08:00 推文](https://twitter.com/realcaixia/status/1467995540814237710)
 
@@ -61,7 +61,7 @@ Re @jiang_xicheng @luoye_figtree 说得好！👍🌹
 
 ### 12: [2021-12-09 10:10:37+08:00 推文](https://twitter.com/realcaixia/status/1468764994670145539)
 
-21世纪了，中共国妖孽倍出，不知中共当局以为今夕是何年？<br><br>刘晓原: 如今这个年代了，竟然还在搞“一人犯罪、株连全家”，又谈何法治精神？<br>但就是在古代，除了谋反、叛逆罪，一般的涉财产犯罪，也不会株连家人，更不会给他的家庭挂上囚牌，仅是罪犯额头刻个“囚”字。<br><br><img style="" src="https://pbs.twimg.com/media/FGDdO0jUcAQBbYk?format=jpg&name=orig" referrerpolicy="no-referrer">
+21世纪了，中共国妖孽倍出，不知中共当局以为今夕是何年？<br><br>刘晓原: 如今这个年代了，竟然还在搞“一人犯罪、株连全家”，又谈何法治精神？<br>但就是在古代，除了谋反、叛逆罪，一般的涉财产犯罪，也不会株连家人，更不会给他的家庭挂上囚牌，仅是罪犯额头刻个“囚”字。<br><br><img style src="https://pbs.twimg.com/media/FGDdO0jUcAQBbYk?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 13: [2021-12-09 12:53:30+08:00 推文](https://twitter.com/realcaixia/status/1468805982830706689)
 
