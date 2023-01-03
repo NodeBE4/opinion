@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2023-01-02~2023-01-08'
 
 ### 4: [2023-01-02 06:03:14+08:00 推文](https://twitter.com/realcaixia/status/1609671618250293248)
 
-这样的年轻人是我们这个民族的希望！ <a href="https://twitter.com/xtlu9/status/1609375518624727045" target="_blank" rel="noopener noreferrer">https://twitter.com/xtlu9/status/1609375518624727045</a>
+这样的年轻人是我们这个民族的希望！
 
 ### 5: [2023-01-02 23:31:00+08:00 推文](https://twitter.com/realcaixia/status/1609935297374195713)
 
@@ -66,4 +66,24 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Flg7_cGXkAE7mod?format=jpg
 ### 13: [2023-01-03 10:39:20+08:00 推文](https://twitter.com/realcaixia/status/1610103486460444672)
 
 Re <br><img style="" src="https://pbs.twimg.com/media/Flg8lcRXwAAmJ5d?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 14: [2023-01-03 21:07:58+08:00 推文](https://twitter.com/realcaixia/status/1610261689198612482)
+
+官媒称胡福明是《真理标准》一文主要作者，胡本人也以此据为己功，吃一文30多年、官至副省级。<br>这代人还活着，历史就被遮蔽被篡改，真作者被诬为“坏人”。是该恢复历史真相了！<br><br>王明远：纪念孙长江：到底谁是《实践是检验真理的唯一标准》主要作者-胡耀邦史料信息网 <a href="http://www.hybsl.cn/beijingcankao/beijingfenxi/2020-06-22/71613.html" target="_blank" rel="noopener noreferrer">http://www.hybsl.cn/beijingcankao/beijingfenxi/2020-06-22/71613.html</a>
+
+### 15: [2023-01-03 21:20:51+08:00 推文](https://twitter.com/realcaixia/status/1610264931961802752)
+
+好诗文！<br><br>ZHANGDONG: 京城某大学某教授用最犀利调侃言辞对最荒诞的2022年所做的最全面的总结。此诗虽已遭封杀，但已传遍江南北。<br><br><img style="" src="https://pbs.twimg.com/media/Flic0bXWAAIGT_c?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Flic0kUXwAIo3HU?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Flic0tyWIAISt8x?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Flic05KXgAYUutK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 16: [2023-01-03 21:45:04+08:00 推文](https://twitter.com/realcaixia/status/1610271023638908928)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FljU8kvaEAI5H93?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FljU8kraEAE15No?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FljU8ktaAAAHStt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FljU8kpaYAI-L0W?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 17: [2023-01-03 21:45:37+08:00 推文](https://twitter.com/realcaixia/status/1610271161891581953)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FljVFT9aAAExzJK?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FljVFT7aMAIbsLI?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FljVFT_aAAA9hcb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FljVFT9aAAMZyYH?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 18: [2023-01-03 21:46:36+08:00 推文](https://twitter.com/realcaixia/status/1610271411012276224)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FljVTxUaEAExHhB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FljVTxXaUAA6ma1?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FljVTxTaYAEuUMb?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

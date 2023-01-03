@@ -165,7 +165,7 @@ Re @q5E5KqUxIoWkM33 @AndrickLi 我遇到过两次查我：1，2013年我发文�
 
 ### 38: [2022-05-09 22:02:46+08:00 推文](https://twitter.com/realcaixia/status/1523664777976852481)
 
-这个文件如果是真实的，很值得关注。文革时期的各种做法改头换面的死灰复燃了。“斗争”是文革时期的主旋律，以各种借口挑起民众斗民众，并且还是政府组织一支队伍斗争民众。<br><br>餘錢 100: @realcaixia 【組建法理鬥爭民兵排】什麼玩意東西？難道是中共見識到了上海的懂法群眾，專門組建起來用來對付敢言的法學教授或學者？打不贏就用糾纏？這不就是文革式流氓嗎？司法局難道要文革复闢打倒法學教材嗎？上海人的主張是完全有法理的，法理鬥爭民兵排拿什麼來鬥爭？用假法理鬥爭真法理？真的是貽笑大方！<br><br><img style="" src="https://pbs.twimg.com/media/FSUYNMQXsAAw_WQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+这个文件如果是真实的，很值得关注。文革时期的各种做法改头换面的死灰复燃了。“斗争”是文革时期的主旋律，以各种借口挑起民众斗民众，并且还是政府组织一支队伍斗争民众。
 
 ### 39: [2022-05-10 02:09:28+08:00 推文](https://twitter.com/realcaixia/status/1523726863918534658)
 
@@ -185,7 +185,7 @@ Re @UGy9oNugsWfeYes 这个文件我不知道。
 
 ### 43: [2022-05-10 22:26:29+08:00 推文](https://twitter.com/realcaixia/status/1524033138153951232)
 
-极权统治下，人权灾难既能发生在新疆西藏也能发生在国际大都市的上海。曾经以为只要安分守己远离政治就可以岁月静好的人，现在不得不面对难以想象的，发生在和平时期的居家囚禁、饥饿死亡威胁、被面目模糊亦警亦匪白卫兵暴力恫吓有家不得居、出门即遭打，霎时就被抓的恐怖煎熬。这即中国特色防疫优势。<br><br>荣剑: 上海自开埠以来，和平时期，从未遭遇如此人为之灾难。<br><br><img style="" src="https://pbs.twimg.com/media/FSUYQUdVUAArSMe?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+极权统治下，人权灾难既能发生在新疆西藏也能发生在国际大都市的上海。曾经以为只要安分守己远离政治就可以岁月静好的人，现在不得不面对难以想象的，发生在和平时期的居家囚禁、饥饿死亡威胁、被面目模糊亦警亦匪白卫兵暴力恫吓有家不得居、出门即遭打，霎时就被抓的恐怖煎熬。这即中国特色防疫优势。
 
 ### 44: [2022-05-11 04:59:52+08:00 推文](https://twitter.com/realcaixia/status/1524132136407605248)
 
@@ -201,11 +201,11 @@ Re @UGy9oNugsWfeYes 这个文件我不知道。
 
 ### 47: [2022-05-12 19:39:02+08:00 推文](https://twitter.com/realcaixia/status/1524715771519287296)
 
-王维洛先生把毛消灭血吸虫病与习的防疫清零做了全面比较，让人大开眼界，又令人极为沉重，从中可以看到防疫清零其实是再现毛的做法，并且是一整套运作机制的重复。 中共一再遮蔽历史，以至于人们只以为当下陷入困境与绝境，实际是60年前历史重演。习近平复辟毛路，陷中国人再次在历史的泥潭里挣扎。<br><br>《议报》: 王维洛: 毛泽东的消灭血吸虫病和习近平的防疫清零<br> <a href="https://yibaochina.com/?p=246444" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246444</a>
+王维洛先生把毛消灭血吸虫病与习的防疫清零做了全面比较，让人大开眼界，又令人极为沉重，从中可以看到防疫清零其实是再现毛的做法，并且是一整套运作机制的重复。 中共一再遮蔽历史，以至于人们只以为当下陷入困境与绝境，实际是60年前历史重演。习近平复辟毛路，陷中国人再次在历史的泥潭里挣扎。
 
 ### 48: [2022-05-12 23:48:07+08:00 推文](https://twitter.com/realcaixia/status/1524778456667627527)
 
-跟推传发一夜庐诗作。
+跟推传发一夜庐诗作。<br><br>ZHANGDONG: 疫情新三别（之二）<br>小兒别<br><br><img style="" src="https://pbs.twimg.com/media/FSRTha1X0AU8QJK?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSRThosXoAIrT6H?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSRTh6IXMAAnddt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSRTiIdXwAAJzkl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 49: [2022-05-12 23:48:39+08:00 推文](https://twitter.com/realcaixia/status/1524778589404774400)
 
@@ -245,9 +245,9 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FSrg9DDUUAEO-Jq?format=jpg
 
 ### 58: [2022-05-15 23:00:59+08:00 推文](https://twitter.com/realcaixia/status/1525853756176277504)
 
-这三字精辟地总结了这三年中国社会民情的基本特征；这三字背后诉尽大陆中国人的民生艰辛困境乃至绝境。<br>从卷到润，还是民心的变化。<br>“润”即用脚投票，问题是至少80%的人无力用脚投票；有能力用脚投票的人正在被快速关闭的国门阻挡。<br>2023 将是哪个字？<br>2024 再是哪个字？<br><br>iPaul🇨🇦🇺🇦: 三个字概括过去这3年：<br>2020：卷<br>2021：躺<br>2022：润<br>
+这三字精辟地总结了这三年中国社会民情的基本特征；这三字背后诉尽大陆中国人的民生艰辛困境乃至绝境。<br>从卷到润，还是民心的变化。<br>“润”即用脚投票，问题是至少80%的人无力用脚投票；有能力用脚投票的人正在被快速关闭的国门阻挡。<br>2023 将是哪个字？<br>2024 再是哪个字？
 
 ### 59: [2022-05-15 23:02:55+08:00 推文](https://twitter.com/realcaixia/status/1525854245110489090)
 
-英雄出狱。
+英雄出狱。<br><br>维权网: 维权网: 获刑3年的安徽合肥著名异议人士沈良庆刑满出狱<br><br><img style="" src="https://pbs.twimg.com/media/FSxcWf1akAcphhR?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSxcXTAagAAqJRm?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSxcYYtacAApsZq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://wqw2010.blogspot.com/2022/05/3.html?spref=tw" target="_blank" rel="noopener noreferrer">https://wqw2010.blogspot.com/2022/05/3.html?spref=tw</a>
 
