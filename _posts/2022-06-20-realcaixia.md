@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2022-06-20~2022-06-26'
 
 ### 4: [2022-06-21 07:56:58+08:00 推文](https://twitter.com/realcaixia/status/1539034604061040640)
 
-中共的极权体制流氓程度超过此前任何一个极权政权，他们把一切都藏在黑暗中，而后他们躲在黑暗中可以为所欲为，随心所欲地栽赃陷害。<br><br>Luo Shengchun丁家喜律师妻子: #强烈要求许志永丁家喜案公开开庭！早在2021年11月、12月志永与家喜便分别提出了开庭的三个基本要求，其中之一就是要求公开审理，附件是当时推特截图。厦门聚会不涉及任何国家秘密，丁许所倡导的一切也没有任何秘密。临沂中院公然违法私定密级，玩弄法律，搞黑箱操作，秘密审判，我们强烈谴责并抵制！<br><br><img style="" src="https://pbs.twimg.com/media/FVpTa5wWIAADFkg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVpTa51XoAwKL0x?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+中共的极权体制流氓程度超过此前任何一个极权政权，他们把一切都藏在黑暗中，而后他们躲在黑暗中可以为所欲为，随心所欲地栽赃陷害。
 
 ### 5: [2022-06-21 08:03:30+08:00 推文](https://twitter.com/realcaixia/status/1539036247766839296)
 
@@ -97,7 +97,7 @@ Re 人以群分物以类聚，价值观相同，追求一致的人迟早聚到�
 
 ### 21: [2022-06-26 02:35:37+08:00 推文](https://twitter.com/realcaixia/status/1540765676217982978)
 
-习为世界发展指明方向？！跟着习近平走就是走绝路。
+习为世界发展指明方向？！跟着习近平走就是走绝路。<br><br>Winnie Pooh: 清华小学直博博士为全球发展指明了方向<br><br><img style="" src="https://pbs.twimg.com/media/FWGY2FzVUAAkaZ0?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWGY3ZtUAAAOLZ8?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWGY49BVUAAozyl?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 22: [2022-06-26 06:16:34+08:00 推文](https://twitter.com/realcaixia/status/1540821277321175043)
 
