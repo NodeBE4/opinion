@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-01-03
+date: 2023-01-04
 from: https://twitter.com/HeQinglian/status/1609609981262761984
 layout: post
 tags:
@@ -218,4 +218,16 @@ Re @zhixiangziyou @Kele47518825 奥巴马已经为她这类人准备好了退路
 ### 51: [2023-01-03 23:58:40+08:00 推文](https://twitter.com/HeQinglian/status/1610304645875867648)
 
 Re @djhxiaoming 与福奇电邮门的3000多件不一样么？新发现一批？
+
+### 52: [2023-01-04 02:09:00+08:00 推文](https://twitter.com/HeQinglian/status/1610337446138621953)
+
+Re @icando66 @lianghuiwang2 @mengyan1234567 本州增加所有人的车险费，为大麻吸食者买单。
+
+### 53: [2023-01-04 02:14:02+08:00 推文](https://twitter.com/HeQinglian/status/1610338713304813569)
+
+Re @Lucs24659702 共和党准备接受中国民主党派的花瓶党命运吧。
+
+### 54: [2023-01-04 02:17:53+08:00 推文](https://twitter.com/HeQinglian/status/1610339682595766272)
+
+Re @pos422147 左派的Fact Check就是用新谎言掩盖旧谎言。<br>贵派还Fact Check，小拜登的电脑门是谣言，川普的通俄门百分之百是真的。
 
