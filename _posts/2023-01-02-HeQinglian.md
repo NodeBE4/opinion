@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-01-04
+date: 2023-01-05
 from: https://twitter.com/HeQinglian/status/1609609981262761984
 layout: post
 tags:
@@ -193,7 +193,7 @@ Re @lianghuiwang2 😅😅<br>话说，半专制国家是美国培养的NGO做�
 
 ### 45: [2023-01-03 23:23:12+08:00 推文](https://twitter.com/HeQinglian/status/1610295722317959169)
 
-吕不韦在投资秦国人质异人前，曾做过投资收益测算，问其父：“耕田的利润有几倍？”其父答：“十倍。”吕再问，“经营珠玉利润有几倍？”其父答：“一百倍。”吕又问：“拥立国家的君主可以赢利多少呢？”其父亲答说：“无法计算。”<br>可惜，总统只有一位，所有投资者只能退而求其次。<br>AOC的拥护者喜欢她的登龙术。<br><br>L JM🇺🇸: AOC 的净资产为 3500 万美元。她的纳税申报单在哪里？<br>
+吕不韦在投资秦国人质异人前，曾做过投资收益测算，问其父：“耕田的利润有几倍？”其父答：“十倍。”吕再问，“经营珠玉利润有几倍？”其父答：“一百倍。”吕又问：“拥立国家的君主可以赢利多少呢？”其父亲答说：“无法计算。”<br>可惜，总统只有一位，所有投资者只能退而求其次。<br>AOC的拥护者喜欢她的登龙术。<br><br>L JM🇺🇸: AOC 的净资产为 3500 万美元。她的纳税申报单在哪里？<br> <a href="https://twitter.com/IanJaeger29/status/1609726316785598466" target="_blank" rel="noopener noreferrer">https://twitter.com/IanJaeger29/status/1609726316785598466</a>
 
 ### 46: [2023-01-03 23:25:17+08:00 推文](https://twitter.com/HeQinglian/status/1610296245137936384)
 
@@ -350,4 +350,32 @@ Re @mingshi_chen @Vince6610 不用问。不久前还是有害，且头头是道�
 ### 84: [2023-01-04 23:05:19+08:00 推文](https://twitter.com/HeQinglian/status/1610653610479599617)
 
 Re @JianglinLi @zhixiangziyou @see411615412 我们这医生是疫苗爱好者，但不强推，几乎建议一切疫苗，但顾客声明不相信或者不打，就不再劝了。但带状疱疹之类的疫苗，是强建议。<br>她也知道福奇电邮门，也知道辉瑞疫苗的争议。我还给过她一篇国家科学上揭露疫苗利益集团的文章，作者极权威，她相信了七八成。
+
+### 85: [2023-01-04 23:28:57+08:00 推文](https://twitter.com/HeQinglian/status/1610659556102660097)
+
+Re @JianglinLi @zhixiangziyou @see411615412 医生说，65岁以上，必须预防性治疗。保险公司愿意支付这笔费用。<br>保险公司的访问员面谈时，一长串清单，也是问这些，这需要那需要的，让我们去要求医生。医生会解释，有些替代性检查已经做过。
+
+### 86: [2023-01-04 23:30:19+08:00 推文](https://twitter.com/HeQinglian/status/1610659900564070401)
+
+Re @JianglinLi @zhixiangziyou @see411615412 不同的医生，不同的治疗方式。我邻居血糖比我还高点，虽然也在正常边界，但医生不让她用药。<br>我认为应该尽量少用药。
+
+### 87: [2023-01-04 23:31:32+08:00 推文](https://twitter.com/HeQinglian/status/1610660204672176128)
+
+Re @Isabel_3299 不是今年夏天，是明年一季度末。今年应该是多位候选人一齐上镜。
+
+### 88: [2023-01-04 23:33:25+08:00 推文](https://twitter.com/HeQinglian/status/1610660679396257792)
+
+Re @JianglinLi 卡马拉有黑人、印度人血统，尽管其父亲否定了黑人血统之说。<br>还是说自己在32分之一黑血比较高贵。
+
+### 89: [2023-01-04 23:34:28+08:00 推文](https://twitter.com/HeQinglian/status/1610660942890647554)
+
+Re @Isabel_3299 2024年总统大选。
+
+### 90: [2023-01-05 00:26:11+08:00 推文](https://twitter.com/HeQinglian/status/1610673959640481795)
+
+Re @princeton_walk @shenliangqing2 @JianglinLi @zhixiangziyou @see411615412 我的最大心得是：饮食健康最重要。米面类、肉食、蔬菜水果搭配均衡，持之以恒，身体自然健康。<br>广东人的煲汤，养身很好。<br>这就叫求己。海外华人的饮食健康，普遍差点劲。
+
+### 91: [2023-01-05 00:31:08+08:00 推文](https://twitter.com/HeQinglian/status/1610675206304956418)
+
+Re @realTaoRay 😅😅😅
 
