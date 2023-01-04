@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2023-01-02~2023-01-08'
 
 ### 4: [2023-01-02 06:03:14+08:00 推文](https://twitter.com/realcaixia/status/1609671618250293248)
 
-这样的年轻人是我们这个民族的希望！
+这样的年轻人是我们这个民族的希望！ <a href="https://twitter.com/xtlu9/status/1609375518624727045" target="_blank" rel="noopener noreferrer">https://twitter.com/xtlu9/status/1609375518624727045</a>
 
 ### 5: [2023-01-02 23:31:00+08:00 推文](https://twitter.com/realcaixia/status/1609935297374195713)
 
@@ -90,4 +90,12 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FljVTxUaEAExHhB?format=jpg
 ### 19: [2023-01-04 20:48:13+08:00 推文](https://twitter.com/realcaixia/status/1610619108009345026)
 
 长江与黄河并称是华夏民族的母亲河，现在搞成了下水道，贻害千年。<br><br>《议报》: 王维洛 | 长江成了下水道！<br> <a href="https://yibaochina.com/?p=248906" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248906</a>
+
+### 20: [2023-01-04 21:44:48+08:00 推文](https://twitter.com/realcaixia/status/1610633345091702785)
+
+这是北京的正部级老头，去世了才有口纸棺材，那么多少平民百姓呢？只有被单裹着。八宝山每天差不多火化1000具尸体。全北京包括北京周边殡仪馆，每天一共火化多少？这可都是一个个人命啊！到了官方统计部门，连数字都算不上！<br><br>荣剑: 北京丧葬故事，每天得死多少人，都不在新冠名下 。<br><br><img style="" src="https://pbs.twimg.com/media/FlnRsW7WIAAkNab?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FlnRtu2WIAAK-Pq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FlnRundWIAEiHNO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FlnRvWTWAAIImq4?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 21: [2023-01-04 22:17:05+08:00 推文](https://twitter.com/realcaixia/status/1610641469399769088)
+
+这是墙里的一个信息：<br>《戏剧与影视评论》杂志部编辑部编辑们“集体退位”！<br><br>为了做人的尊严！为了自己也为了子孙后代，相信会有越来越多的人想“何去何从”！<br>哈姆雷特：“生存，还是死亡？这是一个问题。”摆在每个人面前。<br><img style="" src="https://pbs.twimg.com/media/Flol4SKWQAIK76D?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
