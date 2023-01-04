@@ -33,3 +33,7 @@ This is heavily questionable. There's a revisionist school of historians of Cent
 
 Science communicators more than scientists as such. They did hold PhDs but the awarding of them was controversial to say the least, and the procedure extremely irregular. Youtuber BobbyBroccoli did [a two-part series](https://www.youtube.com/playlist?list=PLAB-wWbHL7VurPf2npHah-H8aHBYvd55e) on the Bogdanoffs' PhD controversy which is a good watch.
 
+----- __1021.2__ -----2023-01-04 21:02:00+08:00:
+
+The puppets were made by the studio behind '80s British satirical show [Spitting Image](https://en.wikipedia.org/wiki/Spitting_Image), which was well known for its grotesque caricatures of politicians and celebrities – both visual in the form of the puppets, and audial in the form of the impressionists doing the voices. In particular, Steve Nallon had a [terrifyingly on-point rendition of Margaret Thatcher](https://www.youtube.com/watch?v=ThkVqCYdR0Y) (though unfortunately he seems to be a bit of a milkshake duck these days and has associations with GB News, which is basically the UK's attempt at creating its own Fox News).
+
