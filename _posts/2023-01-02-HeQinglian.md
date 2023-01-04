@@ -193,7 +193,7 @@ Re @lianghuiwang2 😅😅<br>话说，半专制国家是美国培养的NGO做�
 
 ### 45: [2023-01-03 23:23:12+08:00 推文](https://twitter.com/HeQinglian/status/1610295722317959169)
 
-吕不韦在投资秦国人质异人前，曾做过投资收益测算，问其父：“耕田的利润有几倍？”其父答：“十倍。”吕再问，“经营珠玉利润有几倍？”其父答：“一百倍。”吕又问：“拥立国家的君主可以赢利多少呢？”其父亲答说：“无法计算。”<br>可惜，总统只有一位，所有投资者只能退而求其次。<br>AOC的拥护者喜欢她的登龙术。<br><br>L JM🇺🇸: AOC 的净资产为 3500 万美元。她的纳税申报单在哪里？<br>
+吕不韦在投资秦国人质异人前，曾做过投资收益测算，问其父：“耕田的利润有几倍？”其父答：“十倍。”吕再问，“经营珠玉利润有几倍？”其父答：“一百倍。”吕又问：“拥立国家的君主可以赢利多少呢？”其父亲答说：“无法计算。”<br>可惜，总统只有一位，所有投资者只能退而求其次。<br>AOC的拥护者喜欢她的登龙术。<br><br>L JM🇺🇸: AOC 的净资产为 3500 万美元。她的纳税申报单在哪里？<br> <a href="https://twitter.com/IanJaeger29/status/1609726316785598466" target="_blank" rel="noopener noreferrer">https://twitter.com/IanJaeger29/status/1609726316785598466</a>
 
 ### 46: [2023-01-03 23:25:17+08:00 推文](https://twitter.com/HeQinglian/status/1610296245137936384)
 
@@ -322,4 +322,32 @@ Re @mingshi_chen 据CNN1月3日报道，一项新的研究表明，在短短五�
 ### 77: [2023-01-04 11:17:27+08:00 推文](https://twitter.com/HeQinglian/status/1610475468532195330)
 
 瑞士政府做出里程碑式的举动，否决了一项在官方档案中引入“第三性别”或“无性别”选项的提议。瑞士居民将继续以男性或女性身份进入该国的民事登记处，没有其他选择。<br>美国拜登政府于2022年4月决定在护照中加入第三性别选项(X)，其他欧洲国家已屈服于美国的“性别认同”意识形态。 <a href="https://slaynews.com/news/switzerland-rejects-gender-ideology-rules-sex-binary/" target="_blank" rel="noopener noreferrer">https://slaynews.com/news/switzerland-rejects-gender-ideology-rules-sex-binary/</a>
+
+### 78: [2023-01-04 19:55:00+08:00 推文](https://twitter.com/ChineseWSJ/status/1610605712845029376)
+
+RT 华尔街日报中文网<br>几周或是几个月前，你得了新冠，但如今，你仍然没有恢复正常。你没法像以前那样锻炼。工作一天下来，你感觉精疲力尽。这会是“长新冠”吗？要如何判断？如果真是“长新冠”，你该如何获得自己需要的医疗服务呢？针对“长新冠”患者应如何寻求医疗帮助，患者与医生给出了一些建议。 <a href="https://on.wsj.com/3X7nsMR" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3X7nsMR</a>
+
+### 79: [2023-01-04 22:40:08+08:00 推文](https://twitter.com/HeQinglian/status/1610647269430423552)
+
+Re @zhixiangziyou @see411615412 10月晓农遇到一位多年未见面的同学。其丈夫三年前被诊断患有晚期肝癌，医嘱不需要积极治疗。接下来两年是他们家的心理困难期。丈夫辞工在家休息消极治疗。去年春搬家换了个医生，去做检查，根本没这病，然后去追问原医院，对方也不知哪个环节出了错。<br>他们的经验是查出有病，一定要换个地方复查。
+
+### 80: [2023-01-04 22:44:10+08:00 推文](https://twitter.com/HeQinglian/status/1610648286419116033)
+
+Re @anyway1225 @icando66 坎普不是州务卿，但州务卿是他任命的。那地方挺怪的。
+
+### 81: [2023-01-04 22:51:04+08:00 推文](https://twitter.com/SSK2024/status/1610650021304623108)
+
+RT 萧生客SSK🇺🇸🇨🇦<br>深不可测的摩根大通与娈童犯爱泼斯坦的商业交易：<br><br>摩根大通银行默许、支持了爱泼斯坦为名人们提供的未成年人性服务。起诉书：如果没有这家金融机构的参与，爱泼斯坦的性交易计划就不可能存在。<br><br>以迅雷不及掩耳的速度将GA解职，毫无疑问是向摩根大通及其背后的邪恶势力献媚。 <a href="https://mp.weixin.qq.com/s/52txZHzj-pz-4awjD-DFcg" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/52txZHzj-pz-4awjD-DFcg</a><br><img style="" src="https://pbs.twimg.com/media/FlotqFSX0AAb-WA?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FlotqFSXoAMtcm1?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FlotqFQWAAEwGyn?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FlotqFTWIAU-cE5?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 82: [2023-01-04 22:55:26+08:00 推文](https://twitter.com/HeQinglian/status/1610651121529360385)
+
+Re @dinglili7 确实是文化战争。<br>昨天，我在思考西方国家当中为何是瑞士率先否定美国的性多元化意识形态？也在想匈牙利为何公开反同、敢主动提出退欧？<br>瑞士的地理位置几乎不需要美国军事保护。匈牙利在中欧。<br>数年前意大利威胁说退欧，欧洲有点慌：离开意大利的文艺复兴与近现代金融起源，欧洲文明史无根。
+
+### 83: [2023-01-04 23:01:44+08:00 推文](https://twitter.com/HeQinglian/status/1610652706116345858)
+
+Re @mingshi_chen @Vince6610 不用问。不久前还是有害，且头头是道，去看联合国禁毒署20年前的禁毒条款。<br>如果没有害，怎么会在近五年内发生幼童在家误食父母的大麻糖果而受害的情况？我们谁见过误食香烟进医院急救且损害神经中枢的病例？
+
+### 84: [2023-01-04 23:05:19+08:00 推文](https://twitter.com/HeQinglian/status/1610653610479599617)
+
+Re @JianglinLi @zhixiangziyou @see411615412 我们这医生是疫苗爱好者，但不强推，几乎建议一切疫苗，但顾客声明不相信或者不打，就不再劝了。但带状疱疹之类的疫苗，是强建议。<br>她也知道福奇电邮门，也知道辉瑞疫苗的争议。我还给过她一篇国家科学上揭露疫苗利益集团的文章，作者极权威，她相信了七八成。
 
