@@ -193,7 +193,7 @@ Re @lianghuiwang2 😅😅<br>话说，半专制国家是美国培养的NGO做�
 
 ### 45: [2023-01-03 23:23:12+08:00 推文](https://twitter.com/HeQinglian/status/1610295722317959169)
 
-吕不韦在投资秦国人质异人前，曾做过投资收益测算，问其父：“耕田的利润有几倍？”其父答：“十倍。”吕再问，“经营珠玉利润有几倍？”其父答：“一百倍。”吕又问：“拥立国家的君主可以赢利多少呢？”其父亲答说：“无法计算。”<br>可惜，总统只有一位，所有投资者只能退而求其次。<br>AOC的拥护者喜欢她的登龙术。<br><br>L JM🇺🇸: AOC 的净资产为 3500 万美元。她的纳税申报单在哪里？<br> <a href="https://twitter.com/IanJaeger29/status/1609726316785598466" target="_blank" rel="noopener noreferrer">https://twitter.com/IanJaeger29/status/1609726316785598466</a>
+吕不韦在投资秦国人质异人前，曾做过投资收益测算，问其父：“耕田的利润有几倍？”其父答：“十倍。”吕再问，“经营珠玉利润有几倍？”其父答：“一百倍。”吕又问：“拥立国家的君主可以赢利多少呢？”其父亲答说：“无法计算。”<br>可惜，总统只有一位，所有投资者只能退而求其次。<br>AOC的拥护者喜欢她的登龙术。<br><br>L JM🇺🇸: AOC 的净资产为 3500 万美元。她的纳税申报单在哪里？<br>
 
 ### 46: [2023-01-03 23:25:17+08:00 推文](https://twitter.com/HeQinglian/status/1610296245137936384)
 
@@ -250,4 +250,68 @@ Re @JianglinLi @david_david1968 @Wu_Zhi 我想看看美国做何反应，布林�
 ### 59: [2023-01-04 08:44:17+08:00 推文](https://twitter.com/HeQinglian/status/1610436921984942080)
 
 今天共和党麦肯锡未能通过议长选举，证明共和党党内矛盾难以调和。<br>我的印象是：最开始反对他的是30多位RINO，因为他说上任三件事：解散1.6委员会、弹劾拜登、支持川普2024年参选。在RINO发誓要让他失败之后，他略作调整，对媒体后提问是否会支持川普当选时说还没想好。<br>于是，MAGA派反对他。
+
+### 60: [2023-01-04 08:53:43+08:00 推文](https://twitter.com/HeQinglian/status/1610439297311670275)
+
+副总统哈里斯要求参议员及其客人如果想参加宣誓仪式拍照，就必须进行COVID-19检测呈阴性。<br>俄克拉荷马州参议员马尔维恩·穆林拒绝了这一要求。穆林说，他的家人在俄克拉荷马州还有事情要做，比如摔跤比赛，“我真的不在乎和卡玛拉·哈里斯合影。” <a href="https://slaynews.com/news/gop-senator-tells-kamala-harris-to-pound-sand-i-dont-really-care-about-a-picture-with-kamala-harris/" target="_blank" rel="noopener noreferrer">https://slaynews.com/news/gop-senator-tells-kamala-harris-to-pound-sand-i-dont-really-care-about-a-picture-with-kamala-harris/</a>
+
+### 61: [2023-01-04 08:56:37+08:00 推文](https://twitter.com/HeQinglian/status/1610440025442848768)
+
+Re @compassiondays 我讲的发生在正式选举之前，人家转向在那之前。你完全不了解。<br>你说我带风向，敌情意识绷得太满了，这种日子好过吗？真可惜，正常人不做，要做左派。
+
+### 62: [2023-01-04 09:03:24+08:00 推文](https://twitter.com/HeQinglian/status/1610441735217324033)
+
+脸书上，书友眼中的左派——余杰的书友大半是台湾人。这里只截取了部分。<br><img style="" src="https://pbs.twimg.com/media/Fllv8nSXkAEden5?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 63: [2023-01-04 09:04:59+08:00 推文](https://twitter.com/HeQinglian/status/1610442129972629508)
+
+Re @compassiondays 我还真是无党派人士。<br>你呢，喜欢出口伤人，还在简介上要求别人要大气，不要拉黑，真正找不着南北，也不是东西。<br>为你送行。
+
+### 64: [2023-01-04 09:08:46+08:00 推文](https://twitter.com/HeQinglian/status/1610443083644112898)
+
+Re @icando66 共和党刚赢得众议院多数，他先宣布三件要做的大事，立刻遇到RINO强烈反对，然后就转向。这种人，不做也没什么坏处。<br>共和党的RINO对当花瓶有兴趣，就当吧，乔治亚州的州务卿，2020年大选，民主党认为他立了特别大的功劳。乔治亚州的共和党就这德性。
+
+### 65: [2023-01-04 09:10:29+08:00 推文](https://twitter.com/HeQinglian/status/1610443515770593289)
+
+Re @John91056265 说明台湾人也有不左的嘛，认识到左祸之害。<br>左派总有一天会成为过街老鼠。
+
+### 66: [2023-01-04 09:13:44+08:00 推文](https://twitter.com/HeQinglian/status/1610444334272233478)
+
+Re @sohfangwei 麦肯锡是个轴承脑袋，随风转得太快。活该。
+
+### 67: [2023-01-04 09:17:54+08:00 推文](https://twitter.com/HeQinglian/status/1610445383850680320)
+
+Re @icando66 没有共和党建制派与民主党合谋打压茶党，共和党不至于如此弱鸡。民主党如今如此猖狂，完全是RINO配合的结果。<br>美国政府现在视变性为头等民权大事，要在全世界推广。除了俄罗斯明确立法反对LGBTQI+之外，瑞士政府也对性别多元化说No，看看美国左派能疯多久。
+
+### 68: [2023-01-04 09:24:34+08:00 推文](https://twitter.com/HeQinglian/status/1610447060054032385)
+
+Re @lindahuiyun @JianglinLi 老年人是比中青年难扛得多。
+
+### 69: [2023-01-04 09:28:28+08:00 推文](https://twitter.com/HeQinglian/status/1610448042179854337)
+
+Re @maga_kureea 你如果这样较真，每家媒体的报道都会前后不搭。<br>我看到这条，相信俄罗斯在重建马尔乌波里，而且效果颇彰。如果不是，WSJ不会报道。
+
+### 70: [2023-01-04 09:29:26+08:00 推文](https://twitter.com/HeQinglian/status/1610448284077654020)
+
+Re @icando66 已经成为现实了，最近小布什家族与他走得近，互相表扬，花花轿子人抬人。
+
+### 71: [2023-01-04 09:35:33+08:00 推文](https://twitter.com/HeQinglian/status/1610449822502240256)
+
+拜登又神气起来了。<br><br>华尔街日报中文网: 白宫重新提名去年未能获得参议院确认的几十名总统提名的人选，包括司法提名人选和备受瞩目的人选，如拜登提名的前洛杉矶市长Eric Garcetti担任驻印度大使。<br>总统拜登周二重新提名Garcetti与Phil Washington一起领导美国航空管理局FAA，并提名Danny Werfel担任美国国税局局长。<br> <a href="https://on.wsj.com/3IqUALv" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3IqUALv</a>
+
+### 72: [2023-01-04 09:38:55+08:00 推文](https://twitter.com/HeQinglian/status/1610450670078812170)
+
+Re @zhaochangqing89 @JianglinLi @david_david1968 @Wu_Zhi 我都Mark了各种性别图标，见此推。<br><br>MM.45🇺🇸🇵🇭: @AmericanCatMom<br><br><img style="" src="https://pbs.twimg.com/media/Flb55sTaEAA1ZRw?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 73: [2023-01-04 09:44:07+08:00 推文](https://twitter.com/HeQinglian/status/1610451978177462273)
+
+求仁得仁，父母要食大麻，子女跟着沾光。<br>父母是什么人，子女有一半可能成为什么类型的人。加上学好不容易，学坏容易，吸毒者子女一定吸毒。<br><br>美国之音中文网: 随着大麻合法化的增加，更多的儿童因在家误食大麻甜品而生病<br> <a href="http://dlvr.it/SgLLT8" target="_blank" rel="noopener noreferrer">http://dlvr.it/SgLLT8</a>
+
+### 74: [2023-01-04 09:55:14+08:00 推文](https://twitter.com/HeQinglian/status/1610454779636977673)
+
+Re @zhaochangqing89 @JianglinLi @david_david1968 @Wu_Zhi 谢谢。祝府上平安幸福喜乐。
+
+### 75: [2023-01-04 10:58:23+08:00 推文](https://twitter.com/HeQinglian/status/1610470668004384770)
+
+Re @mingshi_chen 据CNN1月3日报道，一项新的研究表明，在短短五年内，美国因意外食用大麻食品的幼儿人数增加了1375%。
 
