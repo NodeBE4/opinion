@@ -193,7 +193,7 @@ Re @lianghuiwang2 😅😅<br>话说，半专制国家是美国培养的NGO做�
 
 ### 45: [2023-01-03 23:23:12+08:00 推文](https://twitter.com/HeQinglian/status/1610295722317959169)
 
-吕不韦在投资秦国人质异人前，曾做过投资收益测算，问其父：“耕田的利润有几倍？”其父答：“十倍。”吕再问，“经营珠玉利润有几倍？”其父答：“一百倍。”吕又问：“拥立国家的君主可以赢利多少呢？”其父亲答说：“无法计算。”<br>可惜，总统只有一位，所有投资者只能退而求其次。<br>AOC的拥护者喜欢她的登龙术。<br><br>L JM🇺🇸: AOC 的净资产为 3500 万美元。她的纳税申报单在哪里？<br> <a href="https://twitter.com/IanJaeger29/status/1609726316785598466" target="_blank" rel="noopener noreferrer">https://twitter.com/IanJaeger29/status/1609726316785598466</a>
+吕不韦在投资秦国人质异人前，曾做过投资收益测算，问其父：“耕田的利润有几倍？”其父答：“十倍。”吕再问，“经营珠玉利润有几倍？”其父答：“一百倍。”吕又问：“拥立国家的君主可以赢利多少呢？”其父亲答说：“无法计算。”<br>可惜，总统只有一位，所有投资者只能退而求其次。<br>AOC的拥护者喜欢她的登龙术。<br><br>L JM🇺🇸: AOC 的净资产为 3500 万美元。她的纳税申报单在哪里？<br>
 
 ### 46: [2023-01-03 23:25:17+08:00 推文](https://twitter.com/HeQinglian/status/1610296245137936384)
 
@@ -378,4 +378,12 @@ Re @princeton_walk @shenliangqing2 @JianglinLi @zhixiangziyou @see411615412 我�
 ### 91: [2023-01-05 00:31:08+08:00 推文](https://twitter.com/HeQinglian/status/1610675206304956418)
 
 Re @realTaoRay 😅😅😅
+
+### 92: [2023-01-05 02:22:46+08:00 推文](https://twitter.com/HeQinglian/status/1610703300810227712)
+
+Re @JianglinLi @princeton_walk @shenliangqing2 @zhixiangziyou @see411615412 七八成饱，是最好状态。
+
+### 93: [2023-01-05 02:31:55+08:00 推文](https://twitter.com/HeQinglian/status/1610705602497417216)
+
+世界经济预测伴随中国疫情坐过山车<br>世界各资本机构与专业媒体对中国经济的预测，随着疫情起伏有如坐过山车。尽管经济预测必须基于数据，最少受政治正确的影响，但各种预测五花八门，有的乐观有的悲观。一向乐观的IMF这次对中国悲观对美乐观；但40多位投行经济学家却持相反态度 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01042023124131.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01042023124131.html</a>
 
