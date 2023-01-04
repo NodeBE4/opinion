@@ -315,3 +315,11 @@ Re @zhaochangqing89 @JianglinLi @david_david1968 @Wu_Zhi 谢谢。祝府上平�
 
 Re @mingshi_chen 据CNN1月3日报道，一项新的研究表明，在短短五年内，美国因意外食用大麻食品的幼儿人数增加了1375%。
 
+### 76: [2023-01-04 11:08:00+08:00 推文](https://twitter.com/HeQinglian/status/1610473090244386817)
+
+😭😭😭<br><br>鲑鱼 菜菜子: @VOAChinese 美国小孩有吸大麻的自由，台畜有恋童癖，基督教主爱鸡奸幼童。民主自由大法好😭😭😭<br><br><img style="" src="https://pbs.twimg.com/media/FlmBHpuXgAApJwg?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 77: [2023-01-04 11:17:27+08:00 推文](https://twitter.com/HeQinglian/status/1610475468532195330)
+
+瑞士政府做出里程碑式的举动，否决了一项在官方档案中引入“第三性别”或“无性别”选项的提议。瑞士居民将继续以男性或女性身份进入该国的民事登记处，没有其他选择。<br>美国拜登政府于2022年4月决定在护照中加入第三性别选项(X)，其他欧洲国家已屈服于美国的“性别认同”意识形态。 <a href="https://slaynews.com/news/switzerland-rejects-gender-ideology-rules-sex-binary/" target="_blank" rel="noopener noreferrer">https://slaynews.com/news/switzerland-rejects-gender-ideology-rules-sex-binary/</a>
+
