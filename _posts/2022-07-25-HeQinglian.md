@@ -265,7 +265,7 @@ Re @shenliangqing2 @OfcIQOD2XkWhsKt @JianglinLi 台湾30岁以下青年一代，
 
 ### 63: [2022-07-28 03:46:23+08:00 推文](https://twitter.com/HeQinglian/status/1552379895698923520)
 
-完全不用担心。<br>不是早就有美国智库预测，“华盛顿希望与俄罗斯战斗至最后一个乌克兰人”么？<br>“有民乃有土，有土乃有国”，当最后一个乌克兰人倒下之后，那土地属于谁，国家叫什么名称，已经没有原住民关注了。<br><br>RedSteelWorker: @KELMAND1 @feli0meow 乌克兰惨了！竟然开始卖地！根据澳媒消息，乌克兰已经卖给美国三大企业1700万公顷农业土地，这大概已经占到了乌克兰国土面积的60万平方公里的28.3%了。<br>
+完全不用担心。<br>不是早就有美国智库预测，“华盛顿希望与俄罗斯战斗至最后一个乌克兰人”么？<br>“有民乃有土，有土乃有国”，当最后一个乌克兰人倒下之后，那土地属于谁，国家叫什么名称，已经没有原住民关注了。
 
 ### 64: [2022-07-28 03:52:43+08:00 推文](https://twitter.com/HeQinglian/status/1552381490763370502)
 
@@ -305,7 +305,7 @@ Re @xxj2040 年龄这么大，生个病又不是难事。上次是covid-19阳性
 
 ### 73: [2022-07-28 10:34:15+08:00 推文](https://twitter.com/HeQinglian/status/1552482537762693121)
 
-三大美国跨国公司购买了 1700 万公顷乌克兰农业用地<br>对这条消息，不少推主表示怀疑，此为原始出处。<br><br>晚風: 還剩一半了，波瀾心動嗎？<br><br><img style="" src="https://pbs.twimg.com/media/FYq8LctaQAAg6yz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+三大美国跨国公司购买了 1700 万公顷乌克兰农业用地<br>对这条消息，不少推主表示怀疑，此为原始出处。 <a href="https://www.australiannationalreview.com/lifestyle/three-large-american-multinationals-bought-17-million-hectares-of-ukrainian-agricultural-land/" target="_blank" rel="noopener noreferrer">https://www.australiannationalreview.com/lifestyle/three-large-american-multinationals-bought-17-million-hectares-of-ukrainian-agricultural-land/</a>
 
 ### 74: [2022-07-28 10:37:11+08:00 推文](https://twitter.com/HeQinglian/status/1552483274462748672)
 
