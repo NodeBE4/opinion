@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2023-01-03
+date: 2023-01-04
 from: https://twitter.com/realcaixia/status/1609584095205654529
 layout: post
 tags:
@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2023-01-02~2023-01-08'
 
 ### 4: [2023-01-02 06:03:14+08:00 推文](https://twitter.com/realcaixia/status/1609671618250293248)
 
-这样的年轻人是我们这个民族的希望！
+这样的年轻人是我们这个民族的希望！ <a href="https://twitter.com/xtlu9/status/1609375518624727045" target="_blank" rel="noopener noreferrer">https://twitter.com/xtlu9/status/1609375518624727045</a>
 
 ### 5: [2023-01-02 23:31:00+08:00 推文](https://twitter.com/realcaixia/status/1609935297374195713)
 
@@ -86,4 +86,8 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FljVFT9aAAExzJK?format=jpg
 ### 18: [2023-01-03 21:46:36+08:00 推文](https://twitter.com/realcaixia/status/1610271411012276224)
 
 Re <br><img style="" src="https://pbs.twimg.com/media/FljVTxUaEAExHhB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FljVTxXaUAA6ma1?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FljVTxTaYAEuUMb?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 19: [2023-01-04 20:48:13+08:00 推文](https://twitter.com/realcaixia/status/1610619108009345026)
+
+长江与黄河并称是华夏民族的母亲河，现在搞成了下水道，贻害千年。<br><br>《议报》: 王维洛 | 长江成了下水道！<br> <a href="https://yibaochina.com/?p=248906" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248906</a>
 
