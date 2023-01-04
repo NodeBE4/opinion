@@ -387,3 +387,11 @@ Re @JianglinLi @princeton_walk @shenliangqing2 @zhixiangziyou @see411615412 七�
 
 世界经济预测伴随中国疫情坐过山车<br>世界各资本机构与专业媒体对中国经济的预测，随着疫情起伏有如坐过山车。尽管经济预测必须基于数据，最少受政治正确的影响，但各种预测五花八门，有的乐观有的悲观。一向乐观的IMF这次对中国悲观对美乐观；但40多位投行经济学家却持相反态度 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01042023124131.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01042023124131.html</a>
 
+### 94: [2023-01-05 06:17:13+08:00 推文](https://twitter.com/HeQinglian/status/1610762298456424448)
+
+这位外长的批评声，连本国总理与众多跨国企业也听不见。去年11月朔尔茨访华，舆论评说“几乎带去了大半个德国”。<br><br>RFI 華語 - 法國國際廣播電台: 德外長：減少對獨裁中國依賴 批評大企業短視近利<br><br><img style="" src="https://pbs.twimg.com/media/FlqI-4-acAAe4Um?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/92ZI.t" target="_blank" rel="noopener noreferrer">https://rfi.my/92ZI.t</a>
+
+### 95: [2023-01-05 06:18:45+08:00 推文](https://twitter.com/HeQinglian/status/1610762684064010258)
+
+Re @guchuan81 这位称赞人时，总会滥用“伟大”这类词。
+
