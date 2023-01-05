@@ -47,9 +47,9 @@ The "real results" reading of China's political system would be far more compell
 
 RT Made in China Journal<br>Now that we are nearing the year’s end, it’s time to share our most widely read articles for 2021. No. 10 is Ivan Franceschini’s (@FangYiren) review essay on the sorry state of neoliberal academia. 1/ <a href="https://madeinchinajournal.com/2021/07/20/the-work-of-culture/" target="_blank" rel="noopener noreferrer">https://madeinchinajournal.com/2021/07/20/the-work-of-culture/</a>
 
-### 9: [2021-12-14 17:07:43+08:00 推文](https://twitter.com/MIC_Journal/status/1470681898615590912)
+### 9: [2021-12-14 17:07:43+08:00 推文](https://twitter.com/MIC_Journal/status/1470681900901494785)
 
-RT Made in China Journal<br>Re No. 5 is @StellaHongZhang’s op-ed on whether China’s Belt and Road Initiative is actually slowing down, originally published in our @GlobalChinaMap. 6/ <a href="https://thepeoplesmap.net/2021/06/21/is-chinas-belt-and-road-initiative-slowing-down/" target="_blank" rel="noopener noreferrer">https://thepeoplesmap.net/2021/06/21/is-chinas-belt-and-road-initiative-slowing-down/</a>
+RT Made in China Journal<br>Re No. 4 is @lingli_vienna’s op-ed about a possible strategy that Xi Jinping could adopt to remain in power after next year. 7/ <a href="https://madeinchinajournal.com/2021/11/01/the-third-road-where-will-xi-jinping-go-in-2022/" target="_blank" rel="noopener noreferrer">https://madeinchinajournal.com/2021/11/01/the-third-road-where-will-xi-jinping-go-in-2022/</a>
 
 ### 10: [2021-12-14 17:07:44+08:00 推文](https://twitter.com/MIC_Journal/status/1470681905766940674)
 
@@ -77,11 +77,11 @@ Re @TruthOfFinance @niubi But perhaps "top online influencer" also good here.
 
 ### 16: [2021-12-16 10:59:23+08:00 推文](https://twitter.com/cnmediaproject/status/1471313981596106754)
 
-In the latest move against influencers, the CAC announced yesterday it had shut down 20,000 “top online influencer accounts” (头部账号), including that of a well-known former magazine editor detained back in October on charges that he had “insulted heroes and martyrs.”<br><img style src="https://pbs.twimg.com/media/FGsoOvlVUAACvEU?format=jpg&name=orig" referrerpolicy="no-referrer">
+In the latest move against influencers, the CAC announced yesterday it had shut down 20,000 “top online influencer accounts” (头部账号), including that of a well-known former magazine editor detained back in October on charges that he had “insulted heroes and martyrs.”<br><img style="" src="https://pbs.twimg.com/media/FGsoOvlVUAACvEU?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 17: [2021-12-16 11:07:49+08:00 推文](https://twitter.com/cnmediaproject/status/1471316101632262144)
 
-Re CMP looks a bit more closely at the language in the CAC notice. One point is that the mandate of "guidance," once the resp. of traditional media gatekeepers, is now the responsibility of ALL. See Bandurski's 2017 analysis on the "hive" approach. <a href="https://bit.ly/3GSVIn7" target="_blank" rel="noopener noreferrer">https://bit.ly/3GSVIn7</a><br><img style="" src="https://pbs.twimg.com/media/FGsqL6uVkAEsAQB?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re CMP looks a bit more closely at the language in the CAC notice. One point is that the mandate of "guidance," once the resp. of traditional media gatekeepers, is now the responsibility of ALL. See Bandurski's 2017 analysis on the "hive" approach. <a href="https://bit.ly/3GSVIn7" target="_blank" rel="noopener noreferrer">https://bit.ly/3GSVIn7</a><br><img style src="https://pbs.twimg.com/media/FGsqL6uVkAEsAQB?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2021-12-16 11:09:12+08:00 推文](https://twitter.com/cnmediaproject/status/1471316452531904512)
 
@@ -89,19 +89,19 @@ Re Sorry, link to the article is here: <a href="https://chinamediaproject.org/
 
 ### 19: [2021-12-16 11:10:38+08:00 推文](https://twitter.com/cnmediaproject/status/1471316813388869633)
 
-The CAC announced yesterday it has shut down 20,000 “top online influencer accounts” (头部账号), including that of a well-known former magazine editor detained back in October on charges that he had “insulted heroes and martyrs.” <a href="https://chinamediaproject.org/2021/12/16/shutting-down-top-influencers/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/16/shutting-down-top-influencers/</a><br><img style src="https://pbs.twimg.com/media/FGsq0A9VQAAScX8?format=jpg&name=orig" referrerpolicy="no-referrer">
+The CAC announced yesterday it has shut down 20,000 “top online influencer accounts” (头部账号), including that of a well-known former magazine editor detained back in October on charges that he had “insulted heroes and martyrs.” <a href="https://chinamediaproject.org/2021/12/16/shutting-down-top-influencers/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/16/shutting-down-top-influencers/</a><br><img style="" src="https://pbs.twimg.com/media/FGsq0A9VQAAScX8?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 20: [2021-12-16 11:19:35+08:00 推文](https://twitter.com/cnmediaproject/status/1471319064304054280)
 
-Re CMP looks a bit more closely at the language in the CAC notice. One point is that the mandate of "guidance," once the resp. of traditional media gatekeepers, is now the responsibility of ALL. See Bandurski's 2017 analysis on the "hive" approach. <a href="https://bit.ly/3GSVIn7" target="_blank" rel="noopener noreferrer">https://bit.ly/3GSVIn7</a><br><img style="" src="https://pbs.twimg.com/media/FGss2ttUYAIbPEF?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re CMP looks a bit more closely at the language in the CAC notice. One point is that the mandate of "guidance," once the resp. of traditional media gatekeepers, is now the responsibility of ALL. See Bandurski's 2017 analysis on the "hive" approach. <a href="https://bit.ly/3GSVIn7" target="_blank" rel="noopener noreferrer">https://bit.ly/3GSVIn7</a><br><img style src="https://pbs.twimg.com/media/FGss2ttUYAIbPEF?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 21: [2021-12-16 13:33:54+08:00 推文](https://twitter.com/GeringTuvia/status/1471352867374059524)
 
-RT Tuvia Gering 陶文亚<br>"Let Lithuania taste the bitter fruit of serving as a 'pawn' for the US" - East China Normal University's Professor Liu Jun, Deputy Dean of the School of Advanced International and Area Studies and Deputy Director of the Center for Russian Studies, with a word of caution.<br>1/4<br><img style="" src="https://pbs.twimg.com/media/FGtKuq0VcAA5JMV?format=png&name=orig" referrerpolicy="no-referrer">
+RT Tuvia Gering 陶文亚<br>"Let Lithuania taste the bitter fruit of serving as a 'pawn' for the US" - East China Normal University's Professor Liu Jun, Deputy Dean of the School of Advanced International and Area Studies and Deputy Director of the Center for Russian Studies, with a word of caution.<br>1/4<br><img style src="https://pbs.twimg.com/media/FGtKuq0VcAA5JMV?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 22: [2021-12-16 13:34:07+08:00 推文](https://twitter.com/cnmediaproject/status/1471352921329893377)
 
-After serving more than 15 years as the controversial editor-in-chief of China's most outspoken newspaper on foreign affairs, Hu Xijin (胡锡进) announced his retirement on Weibo today. Other sources say his departure has been compelled. <a href="https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/</a><br><img style="" src="https://pbs.twimg.com/media/FGtLhQ-UcAIwfgo?format=jpg&name=orig" referrerpolicy="no-referrer">
+After serving more than 15 years as the controversial editor-in-chief of China's most outspoken newspaper on foreign affairs, Hu Xijin (胡锡进) announced his retirement on Weibo today. Other sources say his departure has been compelled. <a href="https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/</a><br><img style src="https://pbs.twimg.com/media/FGtLhQ-UcAIwfgo?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 23: [2021-12-16 13:36:40+08:00 推文](https://twitter.com/cnmediaproject/status/1471353563909861376)
 
@@ -121,7 +121,7 @@ Re Serious question: How long before he posts the same news to Twitter?
 
 ### 27: [2021-12-16 15:17:20+08:00 推文](https://twitter.com/cnmediaproject/status/1471378897703157760)
 
-Our report on the "retirement" of Hu Xijin as editor-in-chief of the Global Times, with some notes on his possible replacements. <a href="https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/</a><br><img style="" src="https://pbs.twimg.com/media/FGtjR5zVcAYHjIK?format=jpg&name=orig" referrerpolicy="no-referrer">
+Our report on the "retirement" of Hu Xijin as editor-in-chief of the Global Times, with some notes on his possible replacements. <a href="https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/</a><br><img style src="https://pbs.twimg.com/media/FGtjR5zVcAYHjIK?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 28: [2021-12-16 16:32:34+08:00 推文](https://twitter.com/vshih2/status/1471397830212218884)
 
@@ -141,7 +141,7 @@ A must-read post by CMP's Stella Chen on the history (and current practice) of "
 
 ### 32: [2021-12-17 09:34:35+08:00 推文](https://twitter.com/cnmediaproject/status/1471655029144981505)
 
-In our dictionary entry on "ideol. and pol. education" (思政), this example stands out: a university biology textbook instructing teachers to related a study of DNA to the concept of "red genes" and gratitude to the mother country. <a href="https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/</a><br><img style="" src="https://pbs.twimg.com/media/FGxebRZaIAEfOTo?format=jpg&name=orig" referrerpolicy="no-referrer">
+In our dictionary entry on "ideol. and pol. education" (思政), this example stands out: a university biology textbook instructing teachers to related a study of DNA to the concept of "red genes" and gratitude to the mother country. <a href="https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/</a><br><img style src="https://pbs.twimg.com/media/FGxebRZaIAEfOTo?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 33: [2021-12-17 09:36:29+08:00 推文](https://twitter.com/cnmediaproject/status/1471655508486811652)
 
@@ -157,11 +157,11 @@ Re Discussion of DNA, prokaryotic cells 等等 leads to: "At this point, teacher
 
 ### 36: [2021-12-17 09:45:09+08:00 推文](https://twitter.com/cnmediaproject/status/1471657685795835904)
 
-Re Here is a whole group of texts designed to teach teachers in HOW TO work "ideological and political education" into their subjects -- from college English to economics to business management to geography, biology and medicine.<br><img style src="https://pbs.twimg.com/media/FGxg255aMAARDAL?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Here is a whole group of texts designed to teach teachers in HOW TO work "ideological and political education" into their subjects -- from college English to economics to business management to geography, biology and medicine.<br><img style="" src="https://pbs.twimg.com/media/FGxg255aMAARDAL?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 37: [2021-12-17 11:08:06+08:00 推文](https://twitter.com/cnmediaproject/status/1471678563963502595)
 
-Judging from our per-article site statistics, schadenfreude over Hu Xijin's "retirement" is a super-incentive for readers. Seriously, though, do take the time for good analysis, like our dictionary entry on the infiltration of CCP politics into education. <a href="https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/</a><br><img style src="https://pbs.twimg.com/media/FGxz2H0aIAYIgIA?format=jpg&name=orig" referrerpolicy="no-referrer">
+Judging from our per-article site statistics, schadenfreude over Hu Xijin's "retirement" is a super-incentive for readers. Seriously, though, do take the time for good analysis, like our dictionary entry on the infiltration of CCP politics into education. <a href="https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/</a><br><img style="" src="https://pbs.twimg.com/media/FGxz2H0aIAYIgIA?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 38: [2021-12-17 11:17:41+08:00 推文](https://twitter.com/suelinwong/status/1471680973347901442)
 

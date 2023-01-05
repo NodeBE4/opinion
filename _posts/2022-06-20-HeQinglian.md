@@ -117,7 +117,7 @@ Re @lindahuiyun 环保主义者的鸟类保护专业人士对此视而不见？
 
 ### 26: [2022-06-21 21:57:26+08:00 推文](https://twitter.com/HeQinglian/status/1539246117816352768)
 
-转发，BBC近几年以来，这算做了件正经事。<br><br>BBC News 中文: BBC一项调查发现，联合国总部存在多起包括性侵、强奸和腐败行为的指控，主要针对联合国工作人员，而高级人员拥有的法律豁免权，使之成为犯罪者的天堂。<br><br>有指控者表示，相关投诉一直被掩盖，而一些人在说出自己的经历后受到惩罚，甚至被开除。<br><br>完整纪录片将于今晚在BBC第二台（BBC Two）播出。<br><br><video src="https://video.twimg.com/amplify_video/1539168374164492289/vid/1280x720/5nIeFGY3VPryZIhY.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/FVxZSRLXsAACAlA?format=jpg&amp;name=orig"></video>
+转发，BBC近几年以来，这算做了件正经事。
 
 ### 27: [2022-06-21 21:58:58+08:00 推文](https://twitter.com/HeQinglian/status/1539246502522101761)
 
@@ -177,7 +177,7 @@ Re @Dchu07559344 这面旗帜是真的吗？两个有镰刀斧头的国家都没
 
 ### 41: [2022-06-22 21:49:27+08:00 推文](https://twitter.com/HeQinglian/status/1539606494601265153)
 
-Re @enoughtalk4 @xuezhou_yang @realTaoRay 看看图右的几则马斯克的推文。<br><br>Daily Mail Online: Elon Musk's ex-wife Justine says she's 'very proud' of their 'normal' 18-year-old son for filing paperwork to change gender to become a woman<br><br><img style="" src="https://pbs.twimg.com/media/FVyHkVIWUAMgUUD?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://trib.al/OBBBPeF" target="_blank" rel="noopener noreferrer">https://trib.al/OBBBPeF</a>
+Re @enoughtalk4 @xuezhou_yang @realTaoRay 看看图右的几则马斯克的推文。 <a href="https://twitter.com/MailOnline/status/1539254232813125636" target="_blank" rel="noopener noreferrer">https://twitter.com/MailOnline/status/1539254232813125636</a>
 
 ### 42: [2022-06-22 21:51:45+08:00 推文](https://twitter.com/HeQinglian/status/1539607072173703171)
 
@@ -241,7 +241,7 @@ Re 此情景让我想起一寓言：<br>有夫妻俩听说河豚美味但有毒�
 
 ### 57: [2022-06-24 08:53:37+08:00 推文](https://twitter.com/HeQinglian/status/1540136026114609155)
 
-德国是欧盟的经济支柱，德国衰落，意味着欧盟衰落。<br>乌克兰想加入欧盟，本是想沾欧盟的光。欧盟强盛时，乌克兰不得其门而入；欧盟衰落了，乌克兰赶这晚集，图了个虚名。
+德国是欧盟的经济支柱，德国衰落，意味着欧盟衰落。<br>乌克兰想加入欧盟，本是想沾欧盟的光。欧盟强盛时，乌克兰不得其门而入；欧盟衰落了，乌克兰赶这晚集，图了个虚名。<br><br>华尔街日报中文网: 欧盟领导人周四同意让乌克兰成为加入该集团的正式候选国，为未来几年可能加入欧盟打开了大门。<br>同时，德国政府启动了其应对天然气短缺的三步计划中的第二步，距离天然气配给制更近一步。如果实行配给制可能将德国这个欧洲最大的经济体推入衰退。<br> <a href="https://on.wsj.com/3zUF0Dw" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3zUF0Dw</a>
 
 ### 58: [2022-06-24 21:39:48+08:00 推文](https://twitter.com/HeQinglian/status/1540328841717379073)
 
