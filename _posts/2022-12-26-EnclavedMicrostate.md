@@ -203,3 +203,7 @@ If we consider Gen 0 and Gamers as complete outliers structurally, then Gen 3 is
 
 It's similar and it also isn't in that Niji presumably has its roster of however many talents picked out, and then debuts them with a couple months' delay. Whereas what seems to have happened with Tempus is that they must have felt 6 was too many to start off with but they still wanted those 6, and so further emphasised *more* auditions to add in an extra 2.
 
+----- __1019.8__ -----2023-01-05 21:36:35+08:00:
+
+Holostars is about as neatly organised as a bowl of spaghetti being jostled by a jackhammer.
+

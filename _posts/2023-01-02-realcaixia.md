@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2023-01-04
+date: 2023-01-05
 from: https://twitter.com/realcaixia/status/1609584095205654529
 layout: post
 tags:
@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2023-01-02~2023-01-08'
 
 ### 4: [2023-01-02 06:03:14+08:00 推文](https://twitter.com/realcaixia/status/1609671618250293248)
 
-这样的年轻人是我们这个民族的希望！
+这样的年轻人是我们这个民族的希望！ <a href="https://twitter.com/xtlu9/status/1609375518624727045" target="_blank" rel="noopener noreferrer">https://twitter.com/xtlu9/status/1609375518624727045</a>
 
 ### 5: [2023-01-02 23:31:00+08:00 推文](https://twitter.com/realcaixia/status/1609935297374195713)
 
@@ -98,4 +98,8 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FljVTxUaEAExHhB?format=jpg
 ### 21: [2023-01-04 22:17:05+08:00 推文](https://twitter.com/realcaixia/status/1610641469399769088)
 
 这是墙里的一个信息：<br>《戏剧与影视评论》杂志部编辑部编辑们“集体退位”！<br><br>为了做人的尊严！为了自己也为了子孙后代，相信会有越来越多的人想“何去何从”！<br>哈姆雷特：“生存，还是死亡？这是一个问题。”摆在每个人面前。<br><img style="" src="https://pbs.twimg.com/media/Flol4SKWQAIK76D?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 22: [2023-01-05 21:07:34+08:00 推文](https://twitter.com/realcaixia/status/1610986362332909568)
+
+特别推荐议报译丛栏目文章：<br><br>【译丛】习近平的“清零”政策将健康危机变成了政治危机 - 议报 <a href="https://yibaochina.com/?p=248648" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248648</a>
 
