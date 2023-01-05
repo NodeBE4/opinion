@@ -193,7 +193,7 @@ Re @lianghuiwang2 😅😅<br>话说，半专制国家是美国培养的NGO做�
 
 ### 45: [2023-01-03 23:23:12+08:00 推文](https://twitter.com/HeQinglian/status/1610295722317959169)
 
-吕不韦在投资秦国人质异人前，曾做过投资收益测算，问其父：“耕田的利润有几倍？”其父答：“十倍。”吕再问，“经营珠玉利润有几倍？”其父答：“一百倍。”吕又问：“拥立国家的君主可以赢利多少呢？”其父亲答说：“无法计算。”<br>可惜，总统只有一位，所有投资者只能退而求其次。<br>AOC的拥护者喜欢她的登龙术。<br><br>L JM🇺🇸: AOC 的净资产为 3500 万美元。她的纳税申报单在哪里？<br> <a href="https://twitter.com/IanJaeger29/status/1609726316785598466" target="_blank" rel="noopener noreferrer">https://twitter.com/IanJaeger29/status/1609726316785598466</a>
+吕不韦在投资秦国人质异人前，曾做过投资收益测算，问其父：“耕田的利润有几倍？”其父答：“十倍。”吕再问，“经营珠玉利润有几倍？”其父答：“一百倍。”吕又问：“拥立国家的君主可以赢利多少呢？”其父亲答说：“无法计算。”<br>可惜，总统只有一位，所有投资者只能退而求其次。<br>AOC的拥护者喜欢她的登龙术。<br><br>L JM🇺🇸: AOC 的净资产为 3500 万美元。她的纳税申报单在哪里？<br>
 
 ### 46: [2023-01-03 23:25:17+08:00 推文](https://twitter.com/HeQinglian/status/1610296245137936384)
 
@@ -415,71 +415,87 @@ Re @mingshi_chen 人力成本高、税收高，以前还有个能源便宜，现
 
 乌克兰用昂贵的导弹击落廉价俄罗斯无人机 <br>战场上接连失利的俄罗斯加快部署无人机袭击，乌克兰运用导弹予以击落的成本估达出动无人机的7倍，虽然保护关键基础设施和人命，但长此以往，这样的失衡恐怕会让俄罗斯占上风。<br>——导弹90%是美援物质，无须计算成本。 <a href="https://rfi.my/92YN.T" target="_blank" rel="noopener noreferrer">https://rfi.my/92YN.T</a>
 
-### 101: [2023-01-05 22:58:10+08:00 推文](https://twitter.com/HeQinglian/status/1611014195322945536)
+### 101: [2023-01-05 15:20:00+08:00 推文](https://twitter.com/VOAChinese/status/1610898894820352000)
+
+RT 美国之音中文网<br>本周美国新一届国会开始运作，参众两院和民主共和两党都包括不少新鲜面孔，比如25岁、因高中枪击案而投身政治、靠开网约车补贴收入的年轻人，2.05米高、喜欢短裤和连帽衫的光头以及成长于贫困家庭、参军后才上大学并进入耶鲁法学院、从民主党人转为共和党人、写出畅销书的作者。<br><video src="https://video.twimg.com/amplify_video/1610740528081141761/vid/1920x1080/wYFiZ0jgL7OArr6G.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/media/FlqA2ZFakAAiUwW?format=jpg&amp;name=orig"></video>
+
+### 102: [2023-01-05 22:58:10+08:00 推文](https://twitter.com/HeQinglian/status/1611014195322945536)
 
 要害在于：<br>有意模糊自发状态下的青少年变性要求，与美国左派多年努力渗透教育系统引导、近年在拜登政府权力介入下强制在全美教育系统推行的变性运动混淆起来。<br>这个潘医生，估计是在美华人聚居区的执业者。<br>各位可否告诉我：中国是否允许医生进行变性手术？<br><br>中国数字时代: 有人将这里当成精神世界的避风港，残酷生活的逃难所，有人将这里视为蛊惑、毒害青少年的窝点，以及一群为了挣钱勾结的无良医生。这间小小的房间，只能算是跨性别者的小型“战场”。仅仅为了成为自己，来诊者承受着普通人难以想象的风险。而在他们当中，抗争最艰辛，情况最复杂…<br> <a href="http://dlvr.it/SgPJTn" target="_blank" rel="noopener noreferrer">http://dlvr.it/SgPJTn</a>
 
-### 102: [2023-01-05 23:17:03+08:00 推文](https://twitter.com/HeQinglian/status/1611018950170525697)
+### 103: [2023-01-05 23:17:03+08:00 推文](https://twitter.com/HeQinglian/status/1611018950170525697)
 
 Re @JianglinLi 另外还有条产业链，相生相依。
 
-### 103: [2023-01-05 23:18:11+08:00 推文](https://twitter.com/HeQinglian/status/1611019233768382465)
+### 104: [2023-01-05 23:18:11+08:00 推文](https://twitter.com/HeQinglian/status/1611019233768382465)
 
 Re @Tepezano161 现在情况可能有点不同。你继续观察。
 
-### 104: [2023-01-05 23:22:17+08:00 推文](https://twitter.com/HeQinglian/status/1611020268033409024)
+### 105: [2023-01-05 23:22:17+08:00 推文](https://twitter.com/HeQinglian/status/1611020268033409024)
 
 Re @ju88g6 @FightForJiuCai @RFI_Cn 第三世界欠发达国家的钱，什么时候认真还过？世界银行最大的制裁就是不再给了。<br>参考中国援非。
 
-### 105: [2023-01-05 23:26:13+08:00 推文](https://twitter.com/HeQinglian/status/1611021257465536512)
+### 106: [2023-01-05 23:26:13+08:00 推文](https://twitter.com/HeQinglian/status/1611021257465536512)
 
 Re @princeton_walk 人家说的团结，应该有个前提：原则。
 
-### 106: [2023-01-05 23:29:45+08:00 推文](https://twitter.com/HeQinglian/status/1611022147631173634)
+### 107: [2023-01-05 23:29:45+08:00 推文](https://twitter.com/HeQinglian/status/1611022147631173634)
 
 Re @lee91741 这事情是中国人不习惯立遗嘱导致的，因为不立遗嘱，就采取自然继承，美国也是如此做的。花时很多年。<br>所以中国人应该在自己进入退休期后，开始找律师办这事情。遗嘱优先。
 
-### 107: [2023-01-05 23:33:46+08:00 推文](https://twitter.com/HeQinglian/status/1611023154905751556)
+### 108: [2023-01-05 23:33:46+08:00 推文](https://twitter.com/HeQinglian/status/1611023154905751556)
 
 Re @Iris_theGoddess 是否利用政府权力推动，这是关键。<br>但政府应该限制变性医生的从业者资格，定出相关法律规范整个过程。哪怕学荷兰模式，也不能学习胆大妄为的美国模式——我前天推过相关内容。
 
-### 108: [2023-01-05 23:36:28+08:00 推文](https://twitter.com/HeQinglian/status/1611023835083448320)
+### 109: [2023-01-05 23:36:28+08:00 推文](https://twitter.com/HeQinglian/status/1611023835083448320)
 
 Re @shenliangqing2 @lee91741 让你妈妈立遗嘱，将财产继承权明确划分给子女，并且注明份额。<br>美国这样做就可以了，不知道中国具体怎么办理。
 
-### 109: [2023-01-05 23:46:27+08:00 推文](https://twitter.com/HeQinglian/status/1611026349090635776)
+### 110: [2023-01-05 23:46:27+08:00 推文](https://twitter.com/HeQinglian/status/1611026349090635776)
 
 Re @princeton_walk 美国政治就是如此，相比之下，民主党说谎的更多，只是大家习以为常，而且认为该党正确，撒点谎没关系。
 
-### 110: [2023-01-05 23:49:17+08:00 推文](https://twitter.com/HeQinglian/status/1611027063061741568)
+### 111: [2023-01-05 23:49:17+08:00 推文](https://twitter.com/HeQinglian/status/1611027063061741568)
 
 Re @shenliangqing2 @lee91741 不应该这样。要找律师，花点钱，让律师按立遗嘱人要求写个文本，看过同意签字后生效。<br>有些保留条款要设立，比如立遗嘱者可以随时修改，以最新文本为准等。然后自己拿一份，律所保管一份。自己那份最好别放在子女能够翻得到的地方，免生麻烦。
 
-### 111: [2023-01-05 23:49:36+08:00 推文](https://twitter.com/shenliangqing2/status/1611027140732157955)
+### 112: [2023-01-05 23:49:36+08:00 推文](https://twitter.com/shenliangqing2/status/1611027140732157955)
 
 RT 沈良庆二世<br>福奇邮件门丑闻：披着科学家外衣的政客 - 万维读者网 <a href="https://news.creaders.net/us/2021/06/03/2360527.html" target="_blank" rel="noopener noreferrer">https://news.creaders.net/us/2021/06/03/2360527.html</a>
 
-### 112: [2023-01-05 23:53:08+08:00 推文](https://twitter.com/HeQinglian/status/1611028028251082753)
+### 113: [2023-01-05 23:53:08+08:00 推文](https://twitter.com/HeQinglian/status/1611028028251082753)
 
 Re @mingshi_chen 加入Homeschool吧。从你的知识面来看，初中完全没问题，不知数学与物理的高中如何，但自学加远程指导应该也够了。
 
-### 113: [2023-01-06 00:03:08+08:00 推文](https://twitter.com/HeQinglian/status/1611030546561351680)
+### 114: [2023-01-06 00:03:08+08:00 推文](https://twitter.com/HeQinglian/status/1611030546561351680)
 
 Re @JianglinLi 这正是我今天早上刚在家讲过的，否则，全世界都要遭受阉割娈童之害。
 
-### 114: [2023-01-06 00:05:02+08:00 推文](https://twitter.com/HeQinglian/status/1611031026687426560)
+### 115: [2023-01-06 00:05:02+08:00 推文](https://twitter.com/HeQinglian/status/1611031026687426560)
 
 Re @shenliangqing2 @JianglinLi 左疯将其纳入人权产业链了。
 
-### 115: [2023-01-06 01:32:09+08:00 推文](https://twitter.com/JianglinLi/status/1611052946539614218)
+### 116: [2023-01-06 01:32:09+08:00 推文](https://twitter.com/JianglinLi/status/1611052946539614218)
 
 RT 李江琳<br>Re @HeQinglian @ngexp @david_david1968 @HongfuDing @Wu_Zhi 查证了一下这张照片，是2019年印尼苏门答腊岛9.1级地震后掩埋死者的图片。有意模糊是为了让google lens 无法检索。不过，通过google lens的“搜索图片来源”功能还是能找到原始来源。<br><br>战友小鸡: 见过死人的，见过死这么多人的吗？也见过这样埋人的吗？为什么?😱😱😱😱图片来源北京一朋友转发的<br><br><img style="" src="https://pbs.twimg.com/media/Flo5eZGXoAEF-Yw?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 116: [2023-01-06 02:56:18+08:00 推文](https://twitter.com/HeQinglian/status/1611074126151565313)
+### 117: [2023-01-06 02:56:18+08:00 推文](https://twitter.com/HeQinglian/status/1611074126151565313)
 
 Re @JianglinLi @ngexp @david_david1968 @HongfuDing @Wu_Zhi 如果你要查核，就会被视为俄粉，全体乌粉共讨之。<br>人家有盾牌：这代表人民心声。在如今的互联网时代，就是这样子。
 
-### 117: [2023-01-06 03:03:48+08:00 推文](https://twitter.com/HeQinglian/status/1611076011046625286)
+### 118: [2023-01-06 03:03:48+08:00 推文](https://twitter.com/HeQinglian/status/1611076011046625286)
 
 Re @Lucs24659702 话说，MAGA也没合适人选，推选的人支持麦卡锡。<br>2023年共和党第一业绩：正在将艰难获得的胜利转化为失败——希望这球不要落地。
+
+### 119: [2023-01-06 05:57:50+08:00 推文](https://twitter.com/HeQinglian/status/1611119811106324480)
+
+Re @Lucs24659702 他不是议员。<br>如果他想当议长，应该先去竞选众议员。😅这是规则。
+
+### 120: [2023-01-06 06:58:38+08:00 推文](https://twitter.com/HeQinglian/status/1611135111570792448)
+
+Re @shenliangqing2 目测某天美国大学的硕博论文会出现这类文章：<br>《中国女权的先驱：武则天（或慈禧太后）》<br>《变性进入权力场的中国人：魏忠贤》<br>《中国古代最有权势的同性恋：董贤》，对汉哀帝不能立董为后的制度表示声讨，用“断袖”这个典故证明有情人不能成眷属多么的不公平。
+
+### 121: [2023-01-06 06:59:47+08:00 推文](https://twitter.com/HeQinglian/status/1611135398394138624)
+
+Re @JianglinLi @ngexp @david_david1968 @HongfuDing @Wu_Zhi 立场超越事实，已经是主流了。😅
 
