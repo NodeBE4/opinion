@@ -13,9 +13,9 @@ title: EnclavedMicrostate在2022-12-12~2022-12-18的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 973: [Why did Albania Side with China After the Sino-Soviet Split? (Short Anim...](https://old.reddit.com/r/AskHistorians/comments/zjqw00/why_did_albania_side_with_china_after_the/), submitted on 2022-12-12 15:10:57+08:00.
+### 974: [Why did Albania Side with China After the Sino-Soviet Split? (Short Anim...](https://old.reddit.com/r/AskHistorians/comments/zjqw00/why_did_albania_side_with_china_after_the/), submitted on 2022-12-12 15:10:57+08:00.
 
------ __973.1__ -----2022-12-12 16:11:14+08:00:
+----- __974.1__ -----2022-12-12 16:11:14+08:00:
 
 Welcome to /r/AskHistorians, and thank you for your submission. Unfortunately, however, your post has been removed as the title does not appear to be a question, or otherwise fails to conform with the technical requirements we have for the title of a post. Depending on what you are intending to post, please consider the following:
         
@@ -24,9 +24,9 @@ Welcome to /r/AskHistorians, and thank you for your submission. Unfortunately, h
 * If you are posting an AMA that was approved by the moderator team, please contact us via [modmail](https://www.reddit.com/message/compose/?to=/r/AskHistorians), or the AMA Team contact. If you were not approved for an AMA, please contact us to discuss scheduling before posting in the future.
 * If your intended submission does not fit any of these, or if you believe this removal is a false positive made in error, please reach out to the moderator team via [modmail](https://www.reddit.com/message/compose/?to=/r/AskHistorians)
 
-### 974: [Thoughts on the interplay of improvement/reform with destruction in modern european history? (enlightenment, french revolution, russian revolution etc)](https://old.reddit.com/r/AskHistorians/comments/zjrv4i/thoughts_on_the_interplay_of_improvementreform/), submitted on 2022-12-12 15:55:47+08:00.
+### 975: [Thoughts on the interplay of improvement/reform with destruction in modern european history? (enlightenment, french revolution, russian revolution etc)](https://old.reddit.com/r/AskHistorians/comments/zjrv4i/thoughts_on_the_interplay_of_improvementreform/), submitted on 2022-12-12 15:55:47+08:00.
 
------ __974.1__ -----2022-12-12 16:15:52+08:00:
+----- __975.1__ -----2022-12-12 16:15:52+08:00:
 
 Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
 
@@ -34,35 +34,35 @@ If you have indeed asked a homework question, you should consider resubmitting a
 
 Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
 
-### 975: [Another Pon moment with Miko.](https://old.reddit.com/r/Hololive/comments/zk15aw/another_pon_moment_with_miko/), submitted on 2022-12-12 22:51:15+08:00.
+### 976: [Another Pon moment with Miko.](https://old.reddit.com/r/Hololive/comments/zk15aw/another_pon_moment_with_miko/), submitted on 2022-12-12 22:51:15+08:00.
 
------ __975.1__ -----2022-12-13 03:48:15+08:00:
+----- __976.1__ -----2022-12-13 03:48:15+08:00:
 
 Given that 'b-' syllables are used to render the 'v' sound into Japanese it could be a case of mistakenly misrendering it back.
 
 Or it's the fact that v is next to b on the keyboard idk.
 
-### 976: [Dunno but I find this terrifying](https://old.reddit.com/r/oddlyterrifying/comments/zk3zif/dunno_but_i_find_this_terrifying/), submitted on 2022-12-13 00:37:03+08:00.
+### 977: [Dunno but I find this terrifying](https://old.reddit.com/r/oddlyterrifying/comments/zk3zif/dunno_but_i_find_this_terrifying/), submitted on 2022-12-13 00:37:03+08:00.
 
------ __976.1__ -----2022-12-13 03:38:43+08:00:
+----- __977.1__ -----2022-12-13 03:38:43+08:00:
 
 The headline is complete nonsense. Hashem al-Ghaili does have a past as a Youtube science communicator, but he is also a science fiction author, and the most recent videos on his channel have been sci-fi concept videos and a trailer for his new novel. The format of these videos is visibly different, and I don't see how you could confuse one for the other without being either extremely silly or wilfully disingenuous.
 
-### 977: [Tis the season to miss your oshi](https://old.reddit.com/r/Hololive/comments/znx7ab/tis_the_season_to_miss_your_oshi/), submitted on 2022-12-17 11:39:36+08:00.
+### 978: [Tis the season to miss your oshi](https://old.reddit.com/r/Hololive/comments/znx7ab/tis_the_season_to_miss_your_oshi/), submitted on 2022-12-17 11:39:36+08:00.
 
------ __977.1__ -----2022-12-17 16:36:08+08:00:
+----- __978.1__ -----2022-12-17 16:36:08+08:00:
 
 I also want to know this.
 
-### 978: [Missing EN? Looking for EU friendly stream times? Give HoloID a chance!](https://old.reddit.com/r/Hololive/comments/znypgw/missing_en_looking_for_eu_friendly_stream_times/), submitted on 2022-12-17 13:08:13+08:00.
+### 979: [Missing EN? Looking for EU friendly stream times? Give HoloID a chance!](https://old.reddit.com/r/Hololive/comments/znypgw/missing_en_looking_for_eu_friendly_stream_times/), submitted on 2022-12-17 13:08:13+08:00.
 
------ __978.1__ -----2022-12-17 16:42:31+08:00:
+----- __979.1__ -----2022-12-17 16:42:31+08:00:
 
 I'm here just to say watch Zeta. I am not making this statement under duress or threat of bodily harm, we are not a cult #ZETANISM2022
 
-### 979: [Were the Ming and Qing courts actually unaware of the Satsuma invasion of the Ryukyus and subsequent Japanese incorporation of the islands as vassal states?](https://old.reddit.com/r/AskHistorians/comments/zofi5x/were_the_ming_and_qing_courts_actually_unaware_of/), submitted on 2022-12-18 04:34:27+08:00.
+### 980: [Were the Ming and Qing courts actually unaware of the Satsuma invasion of the Ryukyus and subsequent Japanese incorporation of the islands as vassal states?](https://old.reddit.com/r/AskHistorians/comments/zofi5x/were_the_ming_and_qing_courts_actually_unaware_of/), submitted on 2022-12-18 04:34:27+08:00.
 
------ __979.1__ -----2022-12-18 17:05:41+08:00:
+----- __980.1__ -----2022-12-18 17:05:41+08:00:
 
 The ambiguity of the Ryukyu kingdom's status is an interesting case to tackle because it does really take some getting into the diplomatic landscape (er, seascape?) of the region and period to properly contextualise. We need to set aside Westphalian ideas of exclusive sovereignty and approach post-1609 Ryukyuan statehood in terms of a negotiation between a variety of overlapping interests, which were in conflict in some cases but in concert in some others. What emerges out of that is an understanding that the narrative of continued Ryukyuan independence was not necessarily just a clever coverup: on the one hand, we can see it as a sort of mutually agreed fiction for mutual benefit; on the other, we can also see it as genuinely reflecting an ambiguous status on Ryukyu's part, where it really wasn't a clear-cut case of domination by 'Japan', however defined.
 
@@ -80,7 +80,7 @@ What ensued was what Okinawan historian Mamoru Akamine terms the 'policy of conc
 
 The full mechanisms of the 'policy of concealment' came to be hashed out after 1667, four years after the kingdom stopped recognising the Ming (whose last loyalist remnants formed a rump state on Taiwan) and began paying tribute to the Qing exclusively in 1663, although it appears that they had been sending missions to both as early as 1655 with *bakufu* sanction. Officially, the Ryukyuan kingdom was independent, but told the Qing that they had a commercial arrangement with Satsuma domain on the island of Takarajima, in the same way that Tsushima (a domain ruled by the Sō clan) served as an intermediary between Japan and the Joseon kingdom, or how Dejima served as the intermediary for trade with the Dutch outside Nagasaki. Interestingly, it was Ryukyu's royal court which promulgated many of the regulations whereby the 'policy of concealment' was to be maintained: if a ship was wrecked off the Chinese coast, all Japanese-language documents were to be burned before the crew were rescued, as that would ensure their recognition as Ryukyuans and entitle them to shelter in Fuzhou, and from thence to repatriation. If Ryukyuan crew were part of a Satsuma ship that was wrecked, they would masquerade as Japanese in order to be sent back with the Satsuma crew. If Chinese envoys were present in Ryukyu to present investiture patents, any notion that the islands had a Japanese connection was to be suppressed: Japanese names, language, poetry, calendar, coinage, religious iconography, even Japanese-style tools were to be hidden away for the duration. The envoys were not allowed to leave the city limits of Naha, while Satsuma officials were temporarily relocated to a village outside the city.
 
------ __979.2__ -----2022-12-18 17:05:45+08:00:
+----- __980.2__ -----2022-12-18 17:05:45+08:00:
 
 The only problem was that the concealment policy only worked so far: it seems to have successfully obfuscated the specific notion that the Ryukyu islands were under Japanese dominion, but it was patently obvious that there was *something* being hidden. On one occasion there was a slip up in which an envoy noticed a bell that bore a Japanese reign date, but assumed it must have been a Tang-era antique (conveniently, the Genna 元和 era of 1615-24 in Japan shared the characters for the Yuanhe 元和 era of 806-820 in the Tang); a later envoy who had read the proceedings of the previous missions brought this up during a meeting and correctly deduced that it must have been a Japanese object, as he knew that there had been no relations between the Ryukyu Islands and the Tang Empire. Yet nothing came of it. The key thing here was ritual and appearances: whether Ryukyu was 'actually' independent didn't matter, as long as it could credibly *appear* as such, because from the Qing point of view, there was no inherent benefit to ensuring the kingdom's independence and territorial integrity. If they didn't ask for help, then they clearly didn't need it – compare with [the Qing approach to Badakhshan in the late 1750s](https://www.reddit.com/r/AskHistorians/comments/qlfr99/how_was_the_relationship_between_qing_china_and/hj6qjbg/?context=3), where the local ruler asked for help and the Qing envoys decided he was exaggerating the threat. All the Qing wanted was to ensure that a polity that seemed to be taking care of itself recognised Manchu rule as legitimate. And so, in this way, the Qing were able to accept that there had been some kind of disturbance involving the Japanese in the early part of the century, and some kind of ongoing Japanese connection with the islands, but one that really wasn't worth worrying about.
 
@@ -94,7 +94,7 @@ A strange coda to this is the surprising paranoia that the *bakufu*, Satsuma, an
 
 To condense everything into a neat summary, the best way to put it is that the Qing knew something was up, but they were also aware that whatever it was wasn't preventing Ryukyu from maintaining its tribute relationship, and if that was the case then the Qing weren't interested in trying to find out what. While there was never a formal meeting between Qing and Japanese officials on this matter, the notion of a still-independent Ryukyu was essentially a mutually-constructed fiction in which the Qing quietly acquiesced to whatever chicanery the Ryukyuans were engaged in and chose not to rock the boat. Yet I would also note that there *was* a meaningful degree of continued Ryukyuan sovereignty, thanks to how the complex web of relationships panned out: the *bakufu*, wary of granting too much power to Satsuma, acted to prevent the islands' complete subjugation, while the need to project the image of Ryukyuan independence towards China entailed genuine concessions towards maintaining at least some of the power of domestic royal institutions. Granted, there were notable domestic changes, particularly in the erosion of Buddhist institutions and the emergence of a much more Confucianised society, but this was not an explicitly intended dimension of Japanese policy: if anything, it was the result of a uniquely Ryukyuan negotiation between Satsuma's demands for a meritocratic system of appointments on the one hand, and connections to the Qing intellectual world on the other. In the end, the Ryukyu Kingdom managed to sustain a certain degree of agency in its international relations, in such a way that its ambiguous status was not a failure of contemporary classification, but rather an accurate reflection of an intentional vagary that allowed all involved parties to negotiate between each other's interests.
 
------ __979.3__ -----2022-12-18 18:53:02+08:00:
+----- __980.3__ -----2022-12-18 18:53:02+08:00:
 
 ### Sources and Further Reading:
 
@@ -106,15 +106,15 @@ To condense everything into a neat summary, the best way to put it is that the Q
 
 * Xing Hang and Adam Clulow, 'Restraining violence on the seas: the Tokugawa, the Zheng maritime network, and the Dutch East India Company', in Erica Charters, Marie Houllemare, and Peter H. Wilson (eds.), *A Global History of Early Modern Violence* (2020)
 
-### 980: [Of the Kim dynasty, are any of the three distinctly more totalitarian than the others?](https://old.reddit.com/r/AskHistorians/comments/zopdzn/of_the_kim_dynasty_are_any_of_the_three/), submitted on 2022-12-18 12:00:39+08:00.
+### 981: [Of the Kim dynasty, are any of the three distinctly more totalitarian than the others?](https://old.reddit.com/r/AskHistorians/comments/zopdzn/of_the_kim_dynasty_are_any_of_the_three/), submitted on 2022-12-18 12:00:39+08:00.
 
------ __980.1__ -----2022-12-18 14:57:46+08:00:
+----- __981.1__ -----2022-12-18 14:57:46+08:00:
 
 This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
-### 981: [The Three Fates and Norns origin?](https://old.reddit.com/r/AskHistorians/comments/zoqbjs/the_three_fates_and_norns_origin/), submitted on 2022-12-18 12:51:14+08:00.
+### 982: [The Three Fates and Norns origin?](https://old.reddit.com/r/AskHistorians/comments/zoqbjs/the_three_fates_and_norns_origin/), submitted on 2022-12-18 12:51:14+08:00.
 
------ __981.1__ -----2022-12-18 17:15:02+08:00:
+----- __982.1__ -----2022-12-18 17:15:02+08:00:
 
 Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
 
@@ -122,9 +122,9 @@ If you have indeed asked a homework question, you should consider resubmitting a
 
 Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
 
-### 982: [who is the person on the banners held during Rudi Dutscke's International Vietnam Congress speech (1968) (link in the text)?](https://old.reddit.com/r/AskHistorians/comments/zotz4h/who_is_the_person_on_the_banners_held_during_rudi/), submitted on 2022-12-18 16:37:47+08:00.
+### 983: [who is the person on the banners held during Rudi Dutscke's International Vietnam Congress speech (1968) (link in the text)?](https://old.reddit.com/r/AskHistorians/comments/zotz4h/who_is_the_person_on_the_banners_held_during_rudi/), submitted on 2022-12-18 16:37:47+08:00.
 
------ __982.1__ -----2022-12-18 17:18:47+08:00:
+----- __983.1__ -----2022-12-18 17:18:47+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -132,9 +132,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 983: [What was the name of the country made by a polish person in between China and Russia in the 18th or 19th century?](https://old.reddit.com/r/AskHistorians/comments/zow31r/what_was_the_name_of_the_country_made_by_a_polish/), submitted on 2022-12-18 18:58:34+08:00.
+### 984: [What was the name of the country made by a polish person in between China and Russia in the 18th or 19th century?](https://old.reddit.com/r/AskHistorians/comments/zow31r/what_was_the_name_of_the_country_made_by_a_polish/), submitted on 2022-12-18 18:58:34+08:00.
 
------ __983.1__ -----2022-12-18 19:21:23+08:00:
+----- __984.1__ -----2022-12-18 19:21:23+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -145,9 +145,9 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 That said, you're probably looking for Jaxa, a state which Wikipedia alleges to have existed based on unlinked Polish sources from the 1970s and 1980s. There is some scholarship that confirms that Nikifor Chernigovsky briefly maintained a force of fugitives based in Albazin in the 1660s, but the notion that it was called 'Jaxa' seems to originate solely in the Polish scholarship on which the Wikipedia page is based. See Vincent Chen, *Sino-Russian Relations in the Seventeenth Century* (1966), and his source on Chernigovksy, Ernst Ravenstein's [*The Russians on the Amur* (1861)](https://books.google.com/books/about/The_Russians_on_the_Amur.html?id=1Qc6rwZ7g5gC&printsec=frontcover&source=kp_read_button&hl=en)
 
-### 984: [[Hobby Scuffles] Week of December 19, 2022](https://old.reddit.com/r/HobbyDrama/comments/zp0i0t/hobby_scuffles_week_of_december_19_2022/), submitted on 2022-12-18 23:00:17+08:00.
+### 985: [[Hobby Scuffles] Week of December 19, 2022](https://old.reddit.com/r/HobbyDrama/comments/zp0i0t/hobby_scuffles_week_of_december_19_2022/), submitted on 2022-12-18 23:00:17+08:00.
 
------ __984.1__ -----2022-12-19 09:09:48+08:00:
+----- __985.1__ -----2022-12-19 09:09:48+08:00:
 
 So, while this was mentioned briefly [further up the thread](https://www.reddit.com/r/HobbyDrama/comments/zp0i0t/hobby_scuffles_week_of_december_19_2022/j0qmzf2/), I don't think the short-lived controversy involving hyperpop producer umru was really properly elaborated on, because it was A Little More Complicated Than That.
 
@@ -163,29 +163,29 @@ All that being said, umru is fully within their rights to rescind any promotion 
 
 As for the album? I liked it on the whole, but not all of the songs, and I didn't think it played to her strengths, but it's not something I'm too worked up about. YMMV.
 
------ __984.2__ -----2022-12-19 09:30:19+08:00:
+----- __985.2__ -----2022-12-19 09:30:19+08:00:
 
 Ooh a hard pick, but I think 'Resting Power' off *UnAlive* is an underrated highlight from that album.
 
------ __984.3__ -----2022-12-19 09:45:54+08:00:
+----- __985.3__ -----2022-12-19 09:45:54+08:00:
 
 The only way that it became general knowledge is because 4chan had been holding onto it, and arguably 4chan – or more accurately its broader ecosystem – is about the only group that *cares* enough to keep banging on about it. That's not to say there isn't a segment of 4chan that is pro-Calli, but that doesn't mean there aren't active hatedoms, though perhaps related more to the >!Demondice!< side of things.
 
------ __984.4__ -----2022-12-20 10:53:20+08:00:
+----- __985.4__ -----2022-12-20 10:53:20+08:00:
 
 Tweets and an album that they had since retracted anyway? Written at the same age when umru had, themselves, posted weird racist stuff on Twitter?
 
------ __984.5__ -----2022-12-20 13:32:34+08:00:
+----- __985.5__ -----2022-12-20 13:32:34+08:00:
 
 The thing about the screencaps is that they are old, because the tweets in question have been deleted. The people who created and archived those screenshots, and who began deploying them publicly, were originally people in 4chan who had sussed out Mori Calliope's past identity, and were aware of the prospect of reputational damage through releasing them. I will grant that by this stage, it was probably not *exclusively* 4channers sharing these screenshots, but it absolutely fits into an existing pattern, and one that absolutely helps their agenda by virtue of being able to mask their standard brand of behaviour behind people with more genuine reasons for indignation.
 
------ __984.6__ -----2022-12-20 14:04:12+08:00:
+----- __985.6__ -----2022-12-20 14:04:12+08:00:
 
 Not to suddenly turn into an Agatha Christie character, but there is an underlying question of *motive*. There are, I will grant again, two possible sorts of people who might have sent these screenshots to umru: a) people who genuinely care about racism and sincerely believe that Mori Calliope, or more specifically the actor behind her, is problematic or even outright racist; and b) people who do not care about racism in itself but seek to be inflammatory and stir up trouble. Those in the former category may be unaware that she has walked those back, or not accept what action she has taken as sufficient; by contrast, it is in the interests of those in the latter category to avoid mentioning that there might be something construed as a retraction. But I would expect a good faith actor to be likely to say 'she has issued non-apologies' rather than simply present the information without that further context.
 
 So, sure – I can't say with certainty whether it was good faith actors or bad faith actors who shared the stuff with umru. But I can say that based on what umru was willing to publicise, he can only be known to have received the screencaps without the context of 'she has walked this back', and I would attribute that to bad faith action.
 
------ __984.7__ -----2022-12-20 20:38:08+08:00:
+----- __985.7__ -----2022-12-20 20:38:08+08:00:
 
 Before getting into the rest of this, I ought to clarify that she has addressed the controversy, but not through explicit, direct reference, nor has she issued an *apology* as such, as opposed to stating that there were dumb statements she made as an edgy teen that she disavows and no longer stands by. For *some*, that is either as good as an apology or about as close as one can reasonably expect, for others that is insufficient. But one would imagine a good-faith critic to bring up the apparent non-apologies, which are very much publicly visible, because a bad-faith critic would not potentially compromise their case by divulging the existence of this sort of grey-zone statement that might be taken as sufficient by the person they're trying to convince otherwise. Again, umru not revealing whether they are aware of these later statements is not evidence that they are definitely not aware, but I would argue it is a reasonable inference that they were being presented the older screencaps without the context of the later retractions.
 
@@ -195,13 +195,13 @@ There is, moreover, pretty clear evidence to suggest the existence of an antidom
 
 So you're right. All we have is evidence that there are people who have made it a habit to smear Calli at every opportunity, that the original impetus for it existed on 4chan, and that umru had access to the screencaps. We don't have a smoking gun that proves that umru got those screencaps from the smearers or that the specific people, smearers or not, were 4chan based. But in an environment where the only evidence we *can* have is circumstantial unless umru publicises their DM chatlogs, this is as close to a causal chain as we get, and one that is consistent with broader patterns in VTuber community drama.
 
------ __984.8__ -----2022-12-21 08:19:43+08:00:
+----- __985.8__ -----2022-12-21 08:19:43+08:00:
 
 > The album hasn't been retracted it just came out.
 
 Sorry for the confusing language, but I meant the 2014 EP that might have been alluded to. Umru made no indication that it was any of the content on the 2022 album that led to their disassociation. On the other point, umru calling someone out for allegedly unaddressed racism online isn't invalidated by their own post, but it does create a certain hypocrisy given that arguably she has done more to address her own tweets (i.e. deleting them and indirectly disavowing them) than he has.
 
------ __984.9__ -----2022-12-25 09:50:58+08:00:
+----- __985.9__ -----2022-12-25 09:50:58+08:00:
 
 As someone whose Mandarin is very rusty but who speaks Cantonese natively, I feel like it works better for the latter than the former, and so I half-wonder if Nintendo HK's particular localisation was intended for a narrowly local market.
 
