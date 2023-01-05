@@ -39,7 +39,7 @@ In effect, we cannot speak of a singular 'Qing army' as such by this period. The
 
 ----- __963.1__ -----2023-01-05 13:00:44+08:00:
 
-Romulus Hillsborough is unfortunately an apologist for 20th century Japanese militarism and his scholarship is highly variable in quality, from very bad to aggressively average – his older work is heavily sourced from Japanese historical novels rather than contemporary sources. As it stands there is no good single narrative history of the Boshin War in particular, but there's some good options for the broader Bakumatsu and Meiji Restoration periods:
+Romulus Hillsborough is unfortunately an apologist for 20th century Japanese militarism and his scholarship is highly variable in quality, from very bad to aggressively average – his older work is heavily sourced from Japanese historical novels rather than contemporary sources. As it stands there is no good single narrative history of the Boshin War in particular in English (if you can read Japanese there is an 1800-page epic by Ōyama Kashiwa), but there's some good options for the broader Bakumatsu and Meiji Restoration periods:
 
 * Conrad Totman, *The Collapse of the Tokugawa Bakufu, 1862-68* (1980)
 * Albert Craig, *Choshu in the Meiji Restoration* (1961)
