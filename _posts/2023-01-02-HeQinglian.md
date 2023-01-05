@@ -395,3 +395,15 @@ Re @JianglinLi @princeton_walk @shenliangqing2 @zhixiangziyou @see411615412 七�
 
 Re @guchuan81 这位称赞人时，总会滥用“伟大”这类词。
 
+### 96: [2023-01-05 06:22:55+08:00 推文](https://twitter.com/Lucs24659702/status/1610763735710453760)
+
+RT Lucs<br>恋童癖是大自然赐予人类的礼物。<br>     ——克劳斯·施瓦布<br><br> 恋童癖不是“犯罪”。<br>    ——纽约时报<br><br> 恋童癖者不是“怪物”或“社会变态者”。<br>    ——美国有线电视新闻网<br><br> “那些称善为恶、称恶为善的人有祸了。”<br>     - 上帝 <a href="https://newspunch.com/world-economic-forum-declares-pedophiles-will-save-humanity/" target="_blank" rel="noopener noreferrer">https://newspunch.com/world-economic-forum-declares-pedophiles-will-save-humanity/</a>
+
+### 97: [2023-01-05 06:45:20+08:00 推文](https://twitter.com/HeQinglian/status/1610769375484678144)
+
+Re @Lucs24659702 报道标题是《世界经济论坛宣布恋童癖者“将拯救人类”》。
+
+### 98: [2023-01-05 06:55:00+08:00 推文](https://twitter.com/RFA_Chinese/status/1610771807425945601)
+
+RT 自由亚洲电台<br>评论 | #何清涟 @HeQinglian：世界经济预测伴随 #中国疫情 坐过山车 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01042023124131.html#.Y7XnhQJPhgg.twitter" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01042023124131.html#.Y7XnhQJPhgg.twitter</a>
+
