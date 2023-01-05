@@ -178,10 +178,10 @@ I assume, then, it should have been 'at least three bowel movements in a week'?
 
 ----- __1019.6__ -----2023-01-05 17:41:02+08:00:
 
-It's a flavour of funky that has existed before, but a stronger flavour this time round. *Most* of HoloJP's generations have debuted within a week, but there are a few exceptions, usually easily explained:
+There are identical flavours of funky that have existed before, but not in this combination nor as strongly. *Most* of HoloJP's generations have debuted within a week, but there are a few exceptions, usually easily explained:
 
 * Gen 0 consists of solo debutants within HoloPro (Sora, Roboco, Miko, AZKi, Suisei) and was defined retrospectively.
-* Gen 1 *technically* was spread out: Mel debuted on Youtube on 13 May 2018, while the others (Aki, Matsuri, Fubuki, Haato, and Chris) debuted over the course of 1-3 June. However, Chris' termination a week or so later led to Mel being retconned into Gen 1 despite originally being a standalone. The 'official' Gen 1, though, was always supposed to have been the five who debuted between 1 and 3 June.
+* Gen 1 *technically* was spread out: Mel debuted on Youtube on 13 May 2018, while the others (Aki, Matsuri, Fubuki, Haato, and Chris) debuted over the course of 1-3 June. However, Mel was not originally part of Gen 1; it was Chris' termination a week or so later led to her being retconned into Gen 1 despite originally being a standalone. The 'official' Gen 1 was always supposed to have been the five who debuted between 1 and 3 June.
 * Gen 2 had quite a spread out run of debuts: Aqua on 8 August, Shion on 17/08, Ayame on 03/09, Choco on 05/09 and Subaru on 16/09. But this wasn't really a separation into different batches.
 * Gamers is weird by virtue of being a spinoff branch: Mio debuted on 7 December 2018, while Okayu and Korone debuted a week apart on 6 and 13 April, respectively. This makes it a very close precedent for Tempus given the 5-month gap, but there is a noticeable difference in Tempus being 'core' generations/units within Holostars English and having two sets of four members, whereas Gamers was always a HoloJP spinoff with three members total; in essence it was originally an extra solo member with Mio (plus existing member Fubuki), with an extra pair added later.
 * Gen 3 *did* split between two batches: Pekora and Rushia on 17 and 18 July 2019, and Flare, Noel, and Marine on 8, 9, and 11 August. This is the next closest Tempus precedent, but the gap was a lot closer.
@@ -190,11 +190,16 @@ It's a flavour of funky that has existed before, but a stronger flavour this tim
 * Gen 6 debuted on consecutive days from 26 November 2021 (La+) to 30 November (Iroha).
 
 So while yes, *technically* five of eight generations didn't follow an 'everyone debuts in a week' format:
+
 * Gen 0 was an after-the-fact thing;
 * Gen 1 *would* have were it not for the stuff around Hitomi Chris;
 * Gen 2 still had a spread debut rather than two batches like Tempus;
 * Gamers did have two batches like Tempus, but with far fewer people total;
 * Gen 3 did two batches, but less than a month apart.
 
-So Tempus being a full gen split into two batches 5 months apart is a half-and-half between what happened with Gamers and what happened with Gen 3. Individual elements are precedented, but the combination isn't.
+If we consider Gen 0 and Gamers as complete outliers structurally, then Gen 3 is the *only* conventional HoloJP generation to have intentionally debuted in two distinct batches. So Tempus being a full gen split into two batches 5 months apart is a half-and-half between what happened with Gamers and what happened with Gen 3. Individual elements are precedented, but the combination isn't.
+
+----- __1019.7__ -----2023-01-05 20:56:25+08:00:
+
+It's similar and it also isn't in that Niji presumably has its roster of however many talents picked out, and then debuts them with a couple months' delay. Whereas what seems to have happened with Tempus is that they must have felt 6 was too many to start off with but they still wanted those 6, and so further emphasised *more* auditions to add in an extra 2.
 
