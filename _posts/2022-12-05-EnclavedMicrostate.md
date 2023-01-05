@@ -48,7 +48,7 @@ Romulus Hillsborough is unfortunately an apologist for 20th century Japanese mil
 * Nyri Bakkalian, [*The Sparrow's Dream: The Meiji Revolution and Local Self-Assertion in Northern Japan*](http://d-scholarship.pitt.edu/32140/1/The%20Sparrow%27s%20Dream-%20ETD%20Format.pdf) (PhD Thesis, 2017)
  * See also Bakkalian's master's thesis, [*Lone Star of the North: The Northern Alliance Revisited*](http://d-scholarship.pitt.edu/7170/8/NABMAThesis_updated%20%281%29.pdf)
 
-The above five cover five different regional perspectives on the period, with Totman focussing on the Tokugawa Shogunate, Craig on Chōshū (the primary 'restorationist' domain), Jansen on Tosa (a latter ally of Chōshū), Ravina on Satsuma (which flipped from opposing to allying with Chōshū over the course of the 1860s), and Bakkalian focusses on the domains of northern Japan which coalesced into the anti-restorationist Northern Alliance in 1868.
+The above five cover five different regional perspectives on the period, with Totman focussing on the Tokugawa Shogunate, Craig on Chōshū (the primary 'restorationist' domain), Jansen on Tosa (a latter ally of Chōshū), Ravina on Satsuma (which flipped from opposing to allying with Chōshū over the course of the 1860s), and Bakkalian on the domains of northern Japan which coalesced into the anti-restorationist Northern Alliance in 1868.
 
 Some other recommendations I have seen but not pursued myself are: 
 
