@@ -289,7 +289,7 @@ Re @racoonincan 让95%以上的正常人服从于少数人的怪癖，当街裸�
 
 ### 69: [2022-07-06 04:45:37+08:00 推文](https://twitter.com/HeQinglian/status/1544422270776606723)
 
-拜登政府據報計畫調整特朗普時期的對華關稅，包含三個部分 <br>估计拜登与习近平通话前，会宣布调整关税计划，增加一点“友好气氛”。 <a href="https://rfi.my/8Yh9.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8Yh9.T</a>
+拜登政府據報計畫調整特朗普時期的對華關稅，包含三個部分 <br>估计拜登与习近平通话前，会宣布调整关税计划，增加一点“友好气氛”。<br><br>He Qinglian: 美国对华外交的战略判断<br><br>美国对华的外交战略判断从来就不是政治为主，确定对华外交的战略判断是中国经济繁荣与否，对美国有利与否。拜登政府上任伊始，明言不干涉中国的政治制度。促成拜登结束战略摇摆期的因素都已浮现，耶伦与刘鹤通话是预热，习拜已经预约近期通话。<br> <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html</a>
 
 ### 70: [2022-07-06 08:48:20+08:00 推文](https://twitter.com/HeQinglian/status/1544483350672547841)
 
@@ -457,7 +457,7 @@ Re @eGUAbe2V7j26GHw You are right.
 
 ### 111: [2022-07-07 23:27:56+08:00 推文](https://twitter.com/HeQinglian/status/1545067098430382080)
 
-这次俄乌战争最先牺牲的是真相——各国民众的知情权被美乌信息战剥夺了。<br>到现在媒体与当事人还不肯真正反思，什么造成了英首相下台。<br>我真的不认为疫情期间聚会是真正原因，那只是个由头。<br>美国民主党连拜登家族的各种腐败堕落的丑闻都不在意。
+这次俄乌战争最先牺牲的是真相——各国民众的知情权被美乌信息战剥夺了。<br>到现在媒体与当事人还不肯真正反思，什么造成了英首相下台。<br>我真的不认为疫情期间聚会是真正原因，那只是个由头。<br>美国民主党连拜登家族的各种腐败堕落的丑闻都不在意。<br><br>美国之音中文网: 英国首相鲍里斯·约翰逊星期四（7月7日）宣布辞职。约翰逊曾因疫情期间在首相官邸举行聚会而遭遇来自本党和反对党压力，他还因为任命滥用职权的保守党副党鞭而遭到舆论广泛批评。截止周三，约翰逊政府中已经有数十名官员辞职。<br><br><video src="https://video.twimg.com/amplify_video/1545065383572475905/vid/720x720/uDFvwiRTyCUWd-28.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1545065383572475905/img/4jWYG3w_fTVTeNQs.jpg"></video>
 
 ### 112: [2022-07-07 23:33:33+08:00 推文](https://twitter.com/HeQinglian/status/1545068509922791426)
 
