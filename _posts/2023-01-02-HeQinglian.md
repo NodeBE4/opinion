@@ -471,3 +471,15 @@ Re @JianglinLi 这正是我今天早上刚在家讲过的，否则，全世界�
 
 Re @shenliangqing2 @JianglinLi 左疯将其纳入人权产业链了。
 
+### 115: [2023-01-06 01:32:09+08:00 推文](https://twitter.com/JianglinLi/status/1611052946539614218)
+
+RT 李江琳<br>Re @HeQinglian @ngexp @david_david1968 @HongfuDing @Wu_Zhi 查证了一下这张照片，是2019年印尼苏门答腊岛9.1级地震后掩埋死者的图片。有意模糊是为了让google lens 无法检索。不过，通过google lens的“搜索图片来源”功能还是能找到原始来源。<br><br>战友小鸡: 见过死人的，见过死这么多人的吗？也见过这样埋人的吗？为什么?😱😱😱😱图片来源北京一朋友转发的<br><br><img style="" src="https://pbs.twimg.com/media/Flo5eZGXoAEF-Yw?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 116: [2023-01-06 02:56:18+08:00 推文](https://twitter.com/HeQinglian/status/1611074126151565313)
+
+Re @JianglinLi @ngexp @david_david1968 @HongfuDing @Wu_Zhi 如果你要查核，就会被视为俄粉，全体乌粉共讨之。<br>人家有盾牌：这代表人民心声。在如今的互联网时代，就是这样子。
+
+### 117: [2023-01-06 03:03:48+08:00 推文](https://twitter.com/HeQinglian/status/1611076011046625286)
+
+Re @Lucs24659702 话说，MAGA也没合适人选，推选的人支持麦卡锡。<br>2023年共和党第一业绩：正在将艰难获得的胜利转化为失败——希望这球不要落地。
+
