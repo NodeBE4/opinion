@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-01-05
+date: 2023-01-06
 from: https://twitter.com/HeQinglian/status/1609609981262761984
 layout: post
 tags:
@@ -414,4 +414,60 @@ Re @mingshi_chen 人力成本高、税收高，以前还有个能源便宜，现
 ### 100: [2023-01-05 10:31:01+08:00 推文](https://twitter.com/HeQinglian/status/1610826172325052416)
 
 乌克兰用昂贵的导弹击落廉价俄罗斯无人机 <br>战场上接连失利的俄罗斯加快部署无人机袭击，乌克兰运用导弹予以击落的成本估达出动无人机的7倍，虽然保护关键基础设施和人命，但长此以往，这样的失衡恐怕会让俄罗斯占上风。<br>——导弹90%是美援物质，无须计算成本。 <a href="https://rfi.my/92YN.T" target="_blank" rel="noopener noreferrer">https://rfi.my/92YN.T</a>
+
+### 101: [2023-01-05 22:58:10+08:00 推文](https://twitter.com/HeQinglian/status/1611014195322945536)
+
+要害在于：<br>有意模糊自发状态下的青少年变性要求，与美国左派多年努力渗透教育系统引导、近年在拜登政府权力介入下强制在全美教育系统推行的变性运动混淆起来。<br>这个潘医生，估计是在美华人聚居区的执业者。<br>各位可否告诉我：中国是否允许医生进行变性手术？<br><br>中国数字时代: 有人将这里当成精神世界的避风港，残酷生活的逃难所，有人将这里视为蛊惑、毒害青少年的窝点，以及一群为了挣钱勾结的无良医生。这间小小的房间，只能算是跨性别者的小型“战场”。仅仅为了成为自己，来诊者承受着普通人难以想象的风险。而在他们当中，抗争最艰辛，情况最复杂…<br> <a href="http://dlvr.it/SgPJTn" target="_blank" rel="noopener noreferrer">http://dlvr.it/SgPJTn</a>
+
+### 102: [2023-01-05 23:17:03+08:00 推文](https://twitter.com/HeQinglian/status/1611018950170525697)
+
+Re @JianglinLi 另外还有条产业链，相生相依。
+
+### 103: [2023-01-05 23:18:11+08:00 推文](https://twitter.com/HeQinglian/status/1611019233768382465)
+
+Re @Tepezano161 现在情况可能有点不同。你继续观察。
+
+### 104: [2023-01-05 23:22:17+08:00 推文](https://twitter.com/HeQinglian/status/1611020268033409024)
+
+Re @ju88g6 @FightForJiuCai @RFI_Cn 第三世界欠发达国家的钱，什么时候认真还过？世界银行最大的制裁就是不再给了。<br>参考中国援非。
+
+### 105: [2023-01-05 23:26:13+08:00 推文](https://twitter.com/HeQinglian/status/1611021257465536512)
+
+Re @princeton_walk 人家说的团结，应该有个前提：原则。
+
+### 106: [2023-01-05 23:29:45+08:00 推文](https://twitter.com/HeQinglian/status/1611022147631173634)
+
+Re @lee91741 这事情是中国人不习惯立遗嘱导致的，因为不立遗嘱，就采取自然继承，美国也是如此做的。花时很多年。<br>所以中国人应该在自己进入退休期后，开始找律师办这事情。遗嘱优先。
+
+### 107: [2023-01-05 23:33:46+08:00 推文](https://twitter.com/HeQinglian/status/1611023154905751556)
+
+Re @Iris_theGoddess 是否利用政府权力推动，这是关键。<br>但政府应该限制变性医生的从业者资格，定出相关法律规范整个过程。哪怕学荷兰模式，也不能学习胆大妄为的美国模式——我前天推过相关内容。
+
+### 108: [2023-01-05 23:36:28+08:00 推文](https://twitter.com/HeQinglian/status/1611023835083448320)
+
+Re @shenliangqing2 @lee91741 让你妈妈立遗嘱，将财产继承权明确划分给子女，并且注明份额。<br>美国这样做就可以了，不知道中国具体怎么办理。
+
+### 109: [2023-01-05 23:46:27+08:00 推文](https://twitter.com/HeQinglian/status/1611026349090635776)
+
+Re @princeton_walk 美国政治就是如此，相比之下，民主党说谎的更多，只是大家习以为常，而且认为该党正确，撒点谎没关系。
+
+### 110: [2023-01-05 23:49:17+08:00 推文](https://twitter.com/HeQinglian/status/1611027063061741568)
+
+Re @shenliangqing2 @lee91741 不应该这样。要找律师，花点钱，让律师按立遗嘱人要求写个文本，看过同意签字后生效。<br>有些保留条款要设立，比如立遗嘱者可以随时修改，以最新文本为准等。然后自己拿一份，律所保管一份。自己那份最好别放在子女能够翻得到的地方，免生麻烦。
+
+### 111: [2023-01-05 23:49:36+08:00 推文](https://twitter.com/shenliangqing2/status/1611027140732157955)
+
+RT 沈良庆二世<br>福奇邮件门丑闻：披着科学家外衣的政客 - 万维读者网 <a href="https://news.creaders.net/us/2021/06/03/2360527.html" target="_blank" rel="noopener noreferrer">https://news.creaders.net/us/2021/06/03/2360527.html</a>
+
+### 112: [2023-01-05 23:53:08+08:00 推文](https://twitter.com/HeQinglian/status/1611028028251082753)
+
+Re @mingshi_chen 加入Homeschool吧。从你的知识面来看，初中完全没问题，不知数学与物理的高中如何，但自学加远程指导应该也够了。
+
+### 113: [2023-01-06 00:03:08+08:00 推文](https://twitter.com/HeQinglian/status/1611030546561351680)
+
+Re @JianglinLi 这正是我今天早上刚在家讲过的，否则，全世界都要遭受阉割娈童之害。
+
+### 114: [2023-01-06 00:05:02+08:00 推文](https://twitter.com/HeQinglian/status/1611031026687426560)
+
+Re @shenliangqing2 @JianglinLi 左疯将其纳入人权产业链了。
 
