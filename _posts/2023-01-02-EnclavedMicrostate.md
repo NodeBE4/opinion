@@ -37,9 +37,15 @@ Science communicators more than scientists as such. They did hold PhDs but the a
 
 The puppets were made by the studio behind '80s British satirical show [Spitting Image](https://en.wikipedia.org/wiki/Spitting_Image), which was well known for its grotesque caricatures of politicians and celebrities – both visual in the form of the puppets, and audial in the form of the impressionists doing the voices. In particular, Steve Nallon had a [terrifyingly on-point rendition of Margaret Thatcher](https://www.youtube.com/watch?v=ThkVqCYdR0Y) (though unfortunately he seems to be a bit of a milkshake duck these days and has associations with GB News, which is basically the UK's attempt at creating its own Fox News).
 
-### 1022: [What do Historians think caused the acceleration of certain technological advances (gunpowder, glass, massive infrastructure) in places like China, the Middle East and Europe?](https://old.reddit.com/r/AskHistorians/comments/103l512/what_do_historians_think_caused_the_acceleration/), submitted on 2023-01-05 09:09:02+08:00.
+### 1022: [Look at all of those lambos](https://old.reddit.com/r/Buttcoin/comments/1034jpg/look_at_all_of_those_lambos/), submitted on 2023-01-04 22:08:59+08:00.
 
------ __1022.1__ -----2023-01-05 10:47:46+08:00:
+----- __1022.1__ -----2023-01-05 11:03:21+08:00:
+
+It’s more or less true of crypto too. Bitcoin peaked in 2017 and then slumped, and throughout 2018-19 it wasn’t uncommon to joke that it had become completely worthless. Then the speculator bubble of 2020 came, and then that finally popped, much to the delight of all of us over at r/Buttcoin. As Marx sort of said, events in history often happen twice: first as tragedy, then as farce.
+
+### 1023: [What do Historians think caused the acceleration of certain technological advances (gunpowder, glass, massive infrastructure) in places like China, the Middle East and Europe?](https://old.reddit.com/r/AskHistorians/comments/103l512/what_do_historians_think_caused_the_acceleration/), submitted on 2023-01-05 09:09:02+08:00.
+
+----- __1023.1__ -----2023-01-05 10:47:46+08:00:
 
 > I’d recommend the book Guns, Germs and Steel
 

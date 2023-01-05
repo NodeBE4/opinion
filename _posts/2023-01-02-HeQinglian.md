@@ -407,3 +407,11 @@ Re @Lucs24659702 报道标题是《世界经济论坛宣布恋童癖者“将拯
 
 RT 自由亚洲电台<br>评论 | #何清涟 @HeQinglian：世界经济预测伴随 #中国疫情 坐过山车 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01042023124131.html#.Y7XnhQJPhgg.twitter" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01042023124131.html#.Y7XnhQJPhgg.twitter</a>
 
+### 99: [2023-01-05 10:02:03+08:00 推文](https://twitter.com/HeQinglian/status/1610818879151919108)
+
+Re @mingshi_chen 人力成本高、税收高，以前还有个能源便宜，现在连这也没有。<br>资本最听利润的话，哪里便宜哪安家。
+
+### 100: [2023-01-05 10:31:01+08:00 推文](https://twitter.com/HeQinglian/status/1610826172325052416)
+
+乌克兰用昂贵的导弹击落廉价俄罗斯无人机 <br>战场上接连失利的俄罗斯加快部署无人机袭击，乌克兰运用导弹予以击落的成本估达出动无人机的7倍，虽然保护关键基础设施和人命，但长此以往，这样的失衡恐怕会让俄罗斯占上风。<br>——导弹90%是美援物质，无须计算成本。 <a href="https://rfi.my/92YN.T" target="_blank" rel="noopener noreferrer">https://rfi.my/92YN.T</a>
+

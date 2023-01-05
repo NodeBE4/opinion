@@ -661,7 +661,7 @@ Re @farmdirect8 当林肯项目在未经本人同意的情况下，迫不及待�
 
 ### 162: [2022-11-13 03:14:56+08:00 推文](https://twitter.com/HeQinglian/status/1591509869471076352)
 
-我多次说过，川普本人的长处是Rally，他也特别享受这种Rally，但缺乏基层的组织能力，无法深耕社区，将Rally的支持化为投票中制约民主党舞弊的组织性抗衡力量。<br>这本来是RNC应该做的工作，显然RNC工作没到位。<br><br>L JM🇺🇸: 这不是共和党的信息。这不是低质量的候选人。这不是特朗普。这不是堕胎。<br><br>这是大规模邮寄/投递箱投票。就这么简单。除非停止选举，否则共和党人将永远不会赢得另一场选举。<br><br>完全同意！<br> <a href="https://twitter.com/joelwberry/status/1591069176340226048" target="_blank" rel="noopener noreferrer">https://twitter.com/joelwberry/status/1591069176340226048</a>
+我多次说过，川普本人的长处是Rally，他也特别享受这种Rally，但缺乏基层的组织能力，无法深耕社区，将Rally的支持化为投票中制约民主党舞弊的组织性抗衡力量。<br>这本来是RNC应该做的工作，显然RNC工作没到位。<br><br>L JM🇺🇸: 这不是共和党的信息。这不是低质量的候选人。这不是特朗普。这不是堕胎。<br><br>这是大规模邮寄/投递箱投票。就这么简单。除非停止选举，否则共和党人将永远不会赢得另一场选举。<br><br>完全同意！<br> <a href="https://twitter.com/JoelWBerry/status/1591069176340226048" target="_blank" rel="noopener noreferrer">https://twitter.com/JoelWBerry/status/1591069176340226048</a>
 
 ### 163: [2022-11-13 06:25:50+08:00 推文](https://twitter.com/HeQinglian/status/1591557909514690562)
 
