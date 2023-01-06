@@ -255,7 +255,7 @@ I disagree vehemently with this assessment: *Sisko* is violating what Star*fleet
 
 I wrote [a longer comment](https://www.reddit.com/r/HobbyDrama/comments/100kt5g/hobby_scuffles_week_of_january_2_2023/j35appx/) about this, but to summarise:
 
-* The episode's essential concept (revisiting or straight up inventing a character's family-related backstory) is a common motif in S7, so in that regard the episode's not unique.
+* The episode's essential concept (revisiting or straight up creating a character's family-related backstory) is a common motif in S7, so in that regard the episode's not unique.
 * Because there was now a spinoff show, the writers were spread thinner than in previous seasons.
 * The basics of the story seem to have been based on a submission by a fanfic author, which was then reworked into a more developed story by an experienced staff writer, but it's not clear how far that fixed it.
 * The adaptation from story to screenplay was by someone with a mixed track record on that front.
