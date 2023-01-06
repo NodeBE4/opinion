@@ -207,3 +207,47 @@ It's similar and it also isn't in that Niji presumably has its roster of however
 
 Holostars is about as neatly organised as a bowl of spaghetti being jostled by a jackhammer.
 
+----- __1019.9__ -----2023-01-06 11:15:59+08:00:
+
+So there's three ways to talk about 'Sub Rosa'.
+
+The first is to genuinely say yes, it was considered one of the worst episodes of the show, certainly of that season. IMDB has it as the second-worst TNG episode at a whopping 4.8/10, which, to its slight credit, is a significant stretch ahead of the dead-last episode, the Season 2 clip-show episode 'Shades of Grey', which sits at a 3.3. But there are other good candidates for worst episode: the horrendously racist 'Code of Honour' in Season 1, or the... not necessarily *racist* but certainly stereotype-laden 'Up the Long Ladder' in Season 2.
+
+The second is to approach it as a 'so bad it's good'. The stilted dialogue, the absurd worldbuilding, the *terrible* false accent on the 'Scottish' groundskeeper, and, best of all, the *entire* scene with Crusher's reanimating grandmother. It's definitely not The Animated Series or 'Spock's Brain' levels of 'so bad it's good', but it can certainly be approached in an ironic fashion.
+
+The third is to really contextualise it within the seventh season of TNG as a piece of media. Firstly, let's look at production. For seasons 6 and 7 there were now two ongoing Trek series (DS9 started midway through TNG S6), and that meant that writers were spread thinner, with double the episodes to fill out. On top of that, by Season 7 quite a few of the key production staff were looking ahead to Voyager and to the TNG films, which again meant a little less focus on the core show. Now, that doesn't explain *all* of it: officially, the story was done by Jeri Taylor, who wrote 'Unification' and 'The Drumhead', so that should be good, right? Except Taylor was inspired by a submission from Jeanna Gallo, a fanzine contributor, and so the story isn't wholly Taylor's idea – it's essentially a staff writer trying to adapt a fanfic. Then we have to consider that the story was adapted to teleplay format by Brannon Braga, who actually wrote some very good mind-bendy scripts ('Phantasms' is his, and so is 'Cause and Effect'), but is otherwise pretty infamous as Rick Berman's right-hand yes-man as far as creative decisions went. As a writer he seems to have been pretty good, but as an adapter he seems to have been behind a lot of mid-tier to poor episodes. To take S5, although he wrote 'Cause and Effect' which is fantastic, of his three adapted scripts – 'The Game', 'Power Play', and 'Imaginary Friend' – two of those are generally regarded as sub-par.
+
+But we can also look at Season 7 more thematically, and in that regard, Sub Rosa is uniquely poor in execution, but in concept it is largely in line with much of the rest of the season. Season 7's big underlying theme is tying up loose ends. TNG's primary draw, even through its very uneven first two seasons, had been a well-defined cast of characters, that had maintained that definition despite the revolving door of staff and guest writers behind the show's 178 episodes. Part of that was that backstory details would be drip-fed as required by a given episode, which meant you didn't have to follow a very strict character backstory for anyone for the most part, nor did you even have to reference such details in a later story. Probably the only characters who had received relatively fleshed-out backstories over the first six seasons were Data (but his backstory is pretty short) and Worf (because his is relatively convoluted). But with the show now approaching a definite conclusion, the writers suddenly felt like adding in a load of backstory now that a) it was their last chance and b) it wouldn't mess up any future scripts as they wouldn't exist. This manifests in two ways: first is a general focus on people's backstories; the second is a motif revolving around family, and especially of letting go of them. Some episodes may not deal with character backstories, but they fit into a pattern in which some episodes – especially in the first half or so – emphasise the main cast's parents and grandparents, while those in the latter half focus more on their children.
+
+* 1: 'Descent Part II' – Data defeats Lore for good.
+* 3: 'Interface' – Geordi tries to rescue his mother, and ultimately has to accept her death.
+* 7: 'Dark Page' – Troi uncovers her mother's repressed memories about her first daughter, who died as a child.
+* 8: 'Attached' – Picard and Crusher work through their ambiguous relationship status.
+* 10: 'Inheritance' – Data meets his 'mother'; she is also an android but he chooses not to reveal this to her.
+* 12: 'The Pegasus' – Riker deals with a dark part of his past.
+* 13: 'Homeward' – We meet Worf's human adoptive brother, whom he has to say goodbye to as he chooses to live with the people of Boraal II.
+* 14: 'Sub Rosa' – Crusher's grandmother, only ever mentioned off-screen, also dies off screen; she is briefly resurrected; Crusher also has sex with her grandmother's sex ghost boyfriend.
+* 18: 'Eye of the Beholder' – A murder mystery involving the construction of the Enterprise-D itself.
+* 20: 'Journey's End' – Wesley leaves Starfleet to join the Traveller.
+* 21: 'Firstborn' – Worf works on his relationship with Alexander, and confronts a future Alexander who believes he was raised poorly.
+* 22: 'Bloodlines' – Picard finds out about an illegitimate son – it turns out that he's not.
+* 23: 'Emergence' – The Enterprise has holo-babies.
+
+The above is just the most obvious and superficial cases, but 9 of 26 episodes of S7 focus specifically on throwing in new character backstories, 7 of which specifically involve family; then there are at least three further episodes that specifically revolve around characters' children (if we count the Enterprise itself as a character). So in that sense, Sub Rosa is merely the worst-executed of a set of thematically very similar episodes about dealing with the loss of a family member, often where that family member has only just been introduced for the first time. 'You're not Nana! Nana's dead!' is an extremely weird line with an equally stilted delivery by Gates McFadden in the take that made it to air, but we can also read it as part of those wider Season 7 motifs of letting go of family members.
+
+That doesn't make Sub Rosa a *good* episode, but it is to say (in reiteration) that what's unique is its execution and not its concept.
+
+----- __1019.10__ -----2023-01-06 11:28:08+08:00:
+
+The episode revolves around Beverley Crusher, the ship's doctor on TNG except during Season 2. Like most TNG characters her family backstory was generally left obscure until it was needed for an episode, and then written in specifically for it. This is one of those cases: her grandmother (frequently mentioned but never seen on-screen before) has recently died, and we also discover that the women of Crusher's family had made it a point to keep and pass on their maiden name of Howard, except Crusher herself. This latter point is not at all plot-relevant but a lot of the characters harp on it for some reason.
+
+The Enterprise-D stops by the planet of Caldos IV, where Crusher's grandmother lived, which is a Federation colony planet terraformed specifically to resemble the Scottish highlands, and where everyone dresses like it's the 1880s, even the aliens. Yes, just roll with it. The Enterprise is there to perform repairs on the planet's climate control systems, but it just so happens to coincide with the grandmother's funeral. As Crusher is sorting through her grandmother's belongings, she is told by the groundskeeper not to stay in the house, which is haunted, and also to never light her grandmother's candle. She does not heed the warning, and lights it anyway, summoning a creature taking the form of a man named Ronin. Ronin has, er, ghost sex with her? This ultimately leads to her being so head-over-heels for him that she decides to retire from spacefaring to live on Caldos IV. Picard is not best pleased and beams down intending to meet Ronin; Ronin attacks him but Crusher comes to Picard's defence.
+
+The B-plot involves a couple of the ship crew working on the weather system problem, and discovering that there is an abnormal energy source coming from within Crusher's grandmother's grave that is causing issues. Turns out, Nana's alive! Sort of – she's kind of possessed by Ronin, who's a sort of energy-vampire, I guess? Crusher convinces Ronin to stop possessing her grandmother, and then shoots and destroys the candle that serves as his vessel, killing him. Somehow she is torn over this, remarking, in relation to her grandmother's journals, that 'whatever else he might have done, he made her very happy.'
+
+----- __1019.11__ -----2023-01-06 11:30:14+08:00:
+
+> where the episode is actually very good but it's in some way a gross violation of what Star Trek's supposed to be.
+
+I disagree vehemently with this assessment: *Sisko* is violating what Star*fleet* is supposed to be. But Star *Trek* isn't about unironically parroting a frequently-shifting notion of Starfleet's ethos: it is ultimately a series about moral quandaries in a science-fiction setting, in which Starfleet symbolises a particular ideal. But ideals and realities can clash, and 'In the Pale Moonlight' is a frank treatment of how that can play out. A moral quandary stuck between ideals and realities is *quintessential* Star Trek.
+
