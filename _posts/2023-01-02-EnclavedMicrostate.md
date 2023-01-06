@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-01-05
+date: 2023-01-06
 from: https://old.reddit.com/r/StupidFood/comments/101efy9/seafood_monstrosity/
 layout: post
 tags:
@@ -104,4 +104,12 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 1030: [The new Tempus Boys are nearly here! have a look at their Mama's/Papa's other works](https://old.reddit.com/r/Hololive/comments/104h34o/the_new_tempus_boys_are_nearly_here_have_a_look/), submitted on 2023-01-06 09:42:59+08:00.
+
+----- __1030.1__ -----2023-01-06 10:26:33+08:00:
+
+I'd seen so many discussions about the involvement of Fate artists that I was honestly expecting more than just one...
+
+But anyway, top-tier as usual.
 

@@ -33,7 +33,7 @@ Re 多个跟帖说现在这长冷兵器已经充分普及了。反过来想，�
 
 ### 5: [2022-04-11 04:11:43+08:00 推文](https://twitter.com/realcaixia/status/1513248381908398081)
 
-看看，习是知道这些用来对付谁的。
+看看，习是知道这些用来对付谁的。<br><br>熊二快跑: @realcaixia 习主席在基层视察维稳利器。<br><br><img style="" src="https://pbs.twimg.com/media/FQAMXf1XsAY8iCx?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2022-04-11 11:18:09+08:00 推文](https://twitter.com/realcaixia/status/1513355696099581955)
 
@@ -45,7 +45,7 @@ Re 多个跟帖说现在这长冷兵器已经充分普及了。反过来想，�
 
 ### 8: [2022-04-11 11:45:34+08:00 推文](https://twitter.com/realcaixia/status/1513362596484714499)
 
-这是民间自救互救，本是大好事。中共对这个都要封杀，可见他们是多么的残暴与虚伪。他们不是天天说“人民至上”吗？！<br><br>新闻/真话: 上海程序员有善心，想减少封城引发的次生灾害，就搞了一个上海人自救网站，让网友把自己的紧急情况登记在上面，本来是功德无量的事，却无意间曝光了中共的罪恶，导致中共恼羞成怒，封杀了这个救人的网站<br><br><img style="" src="https://pbs.twimg.com/media/FP_lJ19agAMzv-r?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP_lJ1-agAM1B4Q?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+这是民间自救互救，本是大好事。中共对这个都要封杀，可见他们是多么的残暴与虚伪。他们不是天天说“人民至上”吗？！
 
 ### 9: [2022-04-11 13:38:12+08:00 推文](https://twitter.com/realcaixia/status/1513390942648078337)
 
@@ -61,7 +61,7 @@ Re @lianchaohan 习是人祸制造者。
 
 ### 12: [2022-04-12 00:01:46+08:00 推文](https://twitter.com/realcaixia/status/1513547866375172108)
 
-中共文件的标题就表明了挂羊头卖狗肉。市场经济是法治保障公平竞争的自由经济。所谓“统一”大市场，“统一”什么？谁来统一？怎么统一？中共文件从头到尾充满强权意志话语。看看他们对孙大午企业的公然抢劫，他们对孙大午的公开迫害，就知道他们要干什么。用脚投票是正确选择，但是许多人还能出得来吗？
+中共文件的标题就表明了挂羊头卖狗肉。市场经济是法治保障公平竞争的自由经济。所谓“统一”大市场，“统一”什么？谁来统一？怎么统一？中共文件从头到尾充满强权意志话语。看看他们对孙大午企业的公然抢劫，他们对孙大午的公开迫害，就知道他们要干什么。用脚投票是正确选择，但是许多人还能出得来吗？<br><br>荣剑: 今天的股市，当然，未必是对这个即将到来的统一大市场的恐惧性反映，你们看吧，在这样的政策下，总是会有越来越多的人选择用脚投票。<br><br><img style="" src="https://pbs.twimg.com/media/FQCZHkVagAUSOpv?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/rongjian1957/status/1513321867003641859" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1513321867003641859</a>
 
 ### 13: [2022-04-12 00:25:03+08:00 推文](https://twitter.com/realcaixia/status/1513553725968814080)
 
@@ -81,11 +81,11 @@ Re @wsddasfgd @yibaochina 是的，这个问题还没有最终解决，我们正
 
 ### 17: [2022-04-12 21:31:38+08:00 推文](https://twitter.com/realcaixia/status/1513872470633234442)
 
-这种揪人心肺的半夜乞求声实在令人心碎。所有的妈妈都经历过孩子发高烧的时候，所有的妈妈都能切身感受这位妈妈带泪的乞求。<br>21世纪的国际大都会上海啊！缺医少药救命难的事已经不是孤例了！这种害人命要人命的清零，这种支撑和保护害人命要人命的极权体制正在制造一起又一起的人间惨剧。
+这种揪人心肺的半夜乞求声实在令人心碎。所有的妈妈都经历过孩子发高烧的时候，所有的妈妈都能切身感受这位妈妈带泪的乞求。<br>21世纪的国际大都会上海啊！缺医少药救命难的事已经不是孤例了！这种害人命要人命的清零，这种支撑和保护害人命要人命的极权体制正在制造一起又一起的人间惨剧。<br><br>鲁  难: 当父母的很多都经历过小孩子夜晚发烧的艰难时刻。<br>不过我们有机会给孩子吃退烧药，或者到医院急诊来应对。<br>凌晨两点半，上海被封禁的这位妈妈挨家挨户敲门乞求退烧药，是她孩子的唯一希望了。<br>生活远比剧本更扣人心弦。<br>这深夜里的一幕，这撕心裂肺的哀求声，不应该被历史忘记。<br><br><video src="https://video.twimg.com/ext_tw_video/1513716452951568384/pu/vid/1186x720/h4l41LC8pExUIFGi.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1513716452951568384/pu/img/QcgvAOkI6RTyxKTr.jpg"></video>
 
 ### 18: [2022-04-12 21:33:31+08:00 推文](https://twitter.com/realcaixia/status/1513872948087640067)
 
-一党专政遍地是灾！一人独裁全民遭殃！
+一党专政遍地是灾！一人独裁全民遭殃！<br><br>Chenchen Zhang 🤦🏻‍♀️: what's it like to be quarantined in uni dorms in Changchun...<br>stuck in a 6-person room for a month, only able to take a shower once, can only go to the water distribution room and public bathroom (no toilet or water tap in the dorm), where one must use one designated stall<br><br><img style="" src="https://pbs.twimg.com/media/FQH9AppXoAE7J9z?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 19: [2022-04-14 05:02:18+08:00 推文](https://twitter.com/realcaixia/status/1514348274844672003)
 
@@ -137,7 +137,7 @@ Re 孙大午对官府绝不行贿，依靠自己和村民勤劳努力办企业�
 
 ### 31: [2022-04-15 02:29:12+08:00 推文](https://twitter.com/realcaixia/status/1514672132105592835)
 
-请看这篇推友发布的上海非正常逝去生命的一些信息。有网友提议：希望这份名单可以成为一份开放协作文档，请大家添上身边逝者的故事。<br>虽然很残酷很令人痛心，但为的是让大家看到这不仅只是数字，而是一个个真实的人，曾经鲜活的生命。每一个逝去的生命都让数个家庭数位亲友瞬时跌入无尽痛苦深渊……
+请看这篇推友发布的上海非正常逝去生命的一些信息。有网友提议：希望这份名单可以成为一份开放协作文档，请大家添上身边逝者的故事。<br>虽然很残酷很令人痛心，但为的是让大家看到这不仅只是数字，而是一个个真实的人，曾经鲜活的生命。每一个逝去的生命都让数个家庭数位亲友瞬时跌入无尽痛苦深渊……<br><br>Ying Li: @liuhong @ZhouFengSuo<br> <a href="https://twitter.com/suxinpl/status/1514584550239875074" target="_blank" rel="noopener noreferrer">https://twitter.com/suxinpl/status/1514584550239875074</a>
 
 ### 32: [2022-04-15 02:47:44+08:00 推文](https://twitter.com/realcaixia/status/1514676798964989953)
 
@@ -153,7 +153,7 @@ Re @tsui_c2019 请看这篇推友发布的上海非正常逝去生命的一些�
 
 ### 35: [2022-04-15 20:54:52+08:00 推文](https://twitter.com/realcaixia/status/1514950385416376323)
 
-2021年“7.20”郑州市民遭遇的灭顶洪水与现在全球关注的上海人道灾难具有同一性：都是人祸！<br><br>自郑州灭顶洪水发生后，水利专家王维洛先生一直在追查真相，追查洪水滔天的由来。<br>#特别推荐议报发布王先生系列文章（七），文章详细而充分地论证了郑州洪水的直接原因是水库无预警泄洪造成的。敬请阅读并传播
+2021年“7.20”郑州市民遭遇的灭顶洪水与现在全球关注的上海人道灾难具有同一性：都是人祸！<br><br>自郑州灭顶洪水发生后，水利专家王维洛先生一直在追查真相，追查洪水滔天的由来。<br>#特别推荐议报发布王先生系列文章（七），文章详细而充分地论证了郑州洪水的直接原因是水库无预警泄洪造成的。敬请阅读并传播<br><br>《议报》: 王维洛: 郑州水灾真相难以掩盖（七）<br> <a href="https://yibaochina.com/?p=245968" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245968</a>
 
 ### 36: [2022-04-15 22:19:35+08:00 推文](https://twitter.com/realcaixia/status/1514971703604125697)
 
@@ -165,7 +165,7 @@ Re @lizaixi5 感谢各位网友的支持关注和给我的帮助。我们一起�
 
 ### 38: [2022-04-16 03:49:25+08:00 推文](https://twitter.com/realcaixia/status/1515054708292931586)
 
-怀念胡耀邦，他是中共党内的良心。<br><br>浦志强: 33年前的今天，胡耀邦去世。<br><br><img style="" src="https://pbs.twimg.com/media/FQXf_iGUcAUtfMI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+怀念胡耀邦，他是中共党内的良心。
 
 ### 39: [2022-04-16 10:35:29+08:00 推文](https://twitter.com/realcaixia/status/1515156899708121088)
 
@@ -197,7 +197,7 @@ Re @lianchaohan 我昨夜看到这个链接，当时链接数116，现在链接�
 
 ### 46: [2022-04-16 21:18:09+08:00 推文](https://twitter.com/realcaixia/status/1515318630229196800)
 
-我昨夜看到这个链接，当时链接数116，现在链接数已达121。<br>昨夜细看了l链接的逝者信息，获得的几个印象：1，有不少是老人；2，有急病无处医疗救治而死；3,有因为医院封闭了，病人正常的医治无法持续而使病情快速恶化而死；4，有绝望而结束生命；5，有基层干部和志愿者等劳累过度而死。哀悼所有逝者💔🙏<br><br>韩连潮: 病毒毒不死人，制度杀人！<br>关注上海逝者名单接力链接：<br><br><img style="" src="https://pbs.twimg.com/media/FQd40VAXwAcNXMG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN" target="_blank" rel="noopener noreferrer">https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN</a>
+我昨夜看到这个链接，当时链接数116，现在链接数已达121。<br>昨夜细看了l链接的逝者信息，获得的几个印象：1，有不少是老人；2，有急病无处医疗救治而死；3,有因为医院封闭了，病人正常的医治无法持续而使病情快速恶化而死；4，有绝望而结束生命；5，有基层干部和志愿者等劳累过度而死。哀悼所有逝者💔🙏
 
 ### 47: [2022-04-16 21:33:12+08:00 推文](https://twitter.com/realcaixia/status/1515322418616799240)
 
@@ -233,7 +233,7 @@ Re @lianchaohan 这个名单中应该加上“支持恐怖主义的国家：中�
 
 ### 55: [2022-04-17 10:40:30+08:00 推文](https://twitter.com/realcaixia/status/1515520547970506752)
 
-#议报发布：《普通人的声音》推荐。<br><br>当大陆在高压恐怖下，记者学者文化人不得不自我阉割自我审查时，普通人的个体写作就显得尤为重要尤为珍贵。普通人拿起笔真实地再现个体的遭遇。他们值得我们高度尊重，因为他们的勇气、诚实、担当！比如上海高中生、上海逝者名单接龙的一个个普通市民、陈顺平家人<br><br>《议报》: 褚朝新：新闻实战｜普通人的声音<br> <a href="https://yibaochina.com/?p=246029" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246029</a>
+#议报发布：《普通人的声音》推荐。<br><br>当大陆在高压恐怖下，记者学者文化人不得不自我阉割自我审查时，普通人的个体写作就显得尤为重要尤为珍贵。普通人拿起笔真实地再现个体的遭遇。他们值得我们高度尊重，因为他们的勇气、诚实、担当！比如上海高中生、上海逝者名单接龙的一个个普通市民、陈顺平家人
 
 ### 56: [2022-04-17 11:10:49+08:00 推文](https://twitter.com/realcaixia/status/1515528177287766018)
 
@@ -253,5 +253,5 @@ Re @lianchaohan 这个名单中应该加上“支持恐怖主义的国家：中�
 
 ### 60: [2022-04-17 22:14:21+08:00 推文](https://twitter.com/realcaixia/status/1515695161497509888)
 
-上海rapper彻底火爆，网上又传四川rapper，相信将有更多的方言rapper出现。嬉笑怒骂皆成文章，幽默反讽皆可为用。民众心声言语朴实，却相当犀利威力巨大。<br>rapper是年轻人最喜欢的一种音乐风格，rapper携载反抗极权的声音可以快速传播，岂是习当局网管禁得过来的？！rapper清楚显现人心向背！
+上海rapper彻底火爆，网上又传四川rapper，相信将有更多的方言rapper出现。嬉笑怒骂皆成文章，幽默反讽皆可为用。民众心声言语朴实，却相当犀利威力巨大。<br>rapper是年轻人最喜欢的一种音乐风格，rapper携载反抗极权的声音可以快速传播，岂是习当局网管禁得过来的？！rapper清楚显现人心向背！<br><br>Jam: 每天晚上七点雷打不动的腥闻联播，骗骗骗，扯扯扯。一位四川百姓实在是忍无可忍，编了这首歌来“夸夸CCTV”,亲切地称之为“骗子”。<br><br><video src="https://video.twimg.com/ext_tw_video/1515461449342201858/pu/vid/240x180/CgsMzoSJ8FA1QjfZ.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1515461449342201858/pu/img/Hp8T17mHFWY70JpD.jpg"></video>
 
