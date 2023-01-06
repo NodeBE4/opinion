@@ -264,3 +264,7 @@ I wrote [a longer comment](https://www.reddit.com/r/HobbyDrama/comments/100kt5g/
 
 The story idea came from a fanfic author.
 
+----- __1019.14__ -----2023-01-06 21:15:58+08:00:
+
+One of the things that all three Trek animated series so far – TAS, Lower Decks, and Prodigy – have in common is a real sense of the aesthetic freedom offered by animation as a medium compared to live action. Despite the immensely low budget of TAS, the deliberate inclusion of very distinctively alien characters (including as bridge crew no less), and the really wacky spaceship designs, speak to the ambition of the creators to really make stuff that would never be achievable with practical effects of the time. Lower Decks similarly exploits that with Dr Migleemo and Dr T'ana; Prodigy's entire core cast is specifically made to be animated.
+
