@@ -37,6 +37,10 @@ So I don't doubt there's probably aspects of 'exoticism'/racism/lighter prejudic
 
 When was this?
 
+----- __1021.3__ -----2023-01-07 01:12:57+08:00:
+
+Cheers!
+
 ### 1022: [How did Imperial Russia first expand across, then maintain order and supplies to, its vast Siberian empire?](https://old.reddit.com/r/WarCollege/comments/101wuib/how_did_imperial_russia_first_expand_across_then/), submitted on 2023-01-03 11:29:40+08:00.
 
 ----- __1022.1__ -----2023-01-04 17:53:37+08:00:
@@ -109,9 +113,17 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 1030: [The new Tempus Boys are nearly here! have a look at their Mama's/Papa's other works](https://old.reddit.com/r/Hololive/comments/104h34o/the_new_tempus_boys_are_nearly_here_have_a_look/), submitted on 2023-01-06 09:42:59+08:00.
+### 1030: [How did Japan, a country with no colonial ties to the United Kingdom, ended up driving on the left?](https://old.reddit.com/r/AskHistorians/comments/1043mj2/how_did_japan_a_country_with_no_colonial_ties_to/), submitted on 2023-01-06 00:46:42+08:00.
 
------ __1030.1__ -----2023-01-06 10:26:33+08:00:
+----- __1030.1__ -----2023-01-07 01:17:17+08:00:
+
+Thank you for your response. Unfortunately, we have had to remove it due to violations of [subreddit’s rules about answers needing to reflect current scholarship](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_answers). While we appreciate the effort you have put into this comment, there are nevertheless significant errors, misunderstandings, or omissions of the topic at hand [which necessitated its removal](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/). 
+ 
+We understand this can be discouraging, but we would also encourage you to consult [this Rules Roundtable to better understand how the mod team evaluates answers on the sub](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/). If you are interested in feedback on improving future contributions, please feel free to [reach out to us via modmail](https://www.reddit.com/message/compose?to=%2Fr%2FAskHistorians&subject=Inquiry%20About%20Improving%20Future%20Responses). Thank you for your understanding.
+
+### 1031: [The new Tempus Boys are nearly here! have a look at their Mama's/Papa's other works](https://old.reddit.com/r/Hololive/comments/104h34o/the_new_tempus_boys_are_nearly_here_have_a_look/), submitted on 2023-01-06 09:42:59+08:00.
+
+----- __1031.1__ -----2023-01-06 10:26:33+08:00:
 
 I'd seen so many discussions about the involvement of Fate artists that I was honestly expecting more than just one...
 
