@@ -499,3 +499,11 @@ Re @shenliangqing2 目测某天美国大学的硕博论文会出现这类文章�
 
 Re @JianglinLi @ngexp @david_david1968 @HongfuDing @Wu_Zhi 立场超越事实，已经是主流了。😅
 
+### 122: [2023-01-06 08:43:34+08:00 推文](https://twitter.com/HeQinglian/status/1611161517235310597)
+
+麦卡锡应该停下了，一是让贤，党内重新推选人；二是找20个反对者谈，问他们自己要怎样做才能得到他们的支持。<br>波洛西两任议长，从来就是党内有几十位议员不同意，但先做好公关，包括承诺担任本届后不续（虽然上一次没做到，这一次是不需要她履行承诺了），不会这样霸王硬上弓。<br><br>华尔街日报中文网: 美国众议院议长选举第10轮投票的计票工作已经完成，没有一名议员获得所需的218票。共和党人凯文·麦卡锡获得201票。投票反对麦卡锡的人数没有变化。此次议长选举轮数已经超过了1923年创下的纪录，那是上一次未能在首轮投票中选出议长。<br> <a href="https://on.wsj.com/3X3Mqwq" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3X3Mqwq</a>
+
+### 123: [2023-01-06 09:29:21+08:00 推文](https://twitter.com/HeQinglian/status/1611173038485278720)
+
+Re @LiWen_ChinaHK 去查The Hill。极左派议员有近三十位。
+

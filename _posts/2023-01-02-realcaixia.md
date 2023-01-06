@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2023-01-05
+date: 2023-01-06
 from: https://twitter.com/realcaixia/status/1609584095205654529
 layout: post
 tags:
@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2023-01-02~2023-01-08'
 
 ### 4: [2023-01-02 06:03:14+08:00 推文](https://twitter.com/realcaixia/status/1609671618250293248)
 
-这样的年轻人是我们这个民族的希望！ <a href="https://twitter.com/xtlu9/status/1609375518624727045" target="_blank" rel="noopener noreferrer">https://twitter.com/xtlu9/status/1609375518624727045</a>
+这样的年轻人是我们这个民族的希望！
 
 ### 5: [2023-01-02 23:31:00+08:00 推文](https://twitter.com/realcaixia/status/1609935297374195713)
 
@@ -102,4 +102,12 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FljVTxUaEAExHhB?format=jpg
 ### 22: [2023-01-05 21:07:34+08:00 推文](https://twitter.com/realcaixia/status/1610986362332909568)
 
 特别推荐议报译丛栏目文章：<br><br>【译丛】习近平的“清零”政策将健康危机变成了政治危机 - 议报 <a href="https://yibaochina.com/?p=248648" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248648</a>
+
+### 23: [2023-01-06 09:01:32+08:00 推文](https://twitter.com/realcaixia/status/1611166040851111936)
+
+特别推荐：<br>议报【议想天开】专刊今天发布了墙里一位作者，笔名“人矿”的诗作。<br>祖国大地处处病毒肆虐，三年的人祸，夺走无数人的生命；断了无数人的生计。劫难依旧在继续，强权意志踩着累累白骨宣扬他的一贯政治正确和制度优越性！<br>愤怒出诗人。人矿的诗作即是墙里民众的呼喊、不屈、反抗与控诉的结晶<br><br>《议报》: #議想天開 #議報<br><br>老宅無垠，運河已死<br><br>我們受苦，我們受辱<br><br>我們是不甘受苦受辱的命運征伕<br> <a href="https://yibaochina.com/?p=248946" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248946</a>
+
+### 24: [2023-01-06 09:32:49+08:00 推文](https://twitter.com/realcaixia/status/1611173912137863168)
+
+二十大上就是一个习帮灭了一个“共党”；2023年两会就是百分百的“一朝天子一朝臣”。<br><br>荣剑: 转2:二十大结束到明年三月两会召开，经济主管部门和骨干运行机构处于权力过渡期真空期，虽然不时看到听到旧内阁成员还在发声，但已经没有人再去注意了。未来的经济政策究竟是怎样的，人们无法根据可能入阁以往的行事风格政策主张做出判断。这与当年朱接任首辅前的情形大为不同。<br>
 
