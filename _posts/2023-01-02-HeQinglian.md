@@ -599,3 +599,23 @@ Re @JianglinLi @shenliangqing2 对于喜欢窥探王室隐私的人来说，第�
 
 朝鲜日报：中国葬礼费用水涨船高。北京某火葬场平时火葬费用在几千元人民币，如今三天内火葬的报价高达6.8万元人民币（约合1250万韩元）。希望当天处理的顾客须支付8.8万元人民币（约合1620万韩元）。该火葬场员工称：“到处都是尸体”，“（如果不出高价）得等上一个多月。” <a href="https://cnnews.chosun.com/client/news/viw.asp?nNewsNumb=20230158375&amp;cate=C01&amp;mcate=M1002" target="_blank" rel="noopener noreferrer">https://cnnews.chosun.com/client/news/viw.asp?nNewsNumb=20230158375&amp;cate=C01&amp;mcate=M1002</a>
 
+### 147: [2023-01-07 02:30:44+08:00 推文](https://twitter.com/HeQinglian/status/1611430078553985030)
+
+Re @guchuan81 他父亲是造王者。
+
+### 148: [2023-01-07 02:39:38+08:00 推文](https://twitter.com/HeQinglian/status/1611432319373418496)
+
+Re @zhixiangziyou 我记得2020年，纽约与新泽西都征用了不少冷藏车停放死者遗体，但没说由谁支付这钱。<br>我觉得你这同学说法可能夸张。如果是这样，就直接给钱给火葬场好了，6.8万三天后火化，比存放三天交15万合算。<br>现在是说什么的都有，相信什么全看自家脑子了。
+
+### 149: [2023-01-07 03:52:50+08:00 推文](https://twitter.com/SSK2024/status/1611450739653767170)
+
+RT 萧生客SSK🇺🇸🇨🇦<br>两年前的今天是震惊世界的J6，是美国百万爱国者和平DC集会反2020盗选。今天Ashli Babbitt的母亲Micki Witthoeft与一群爱国者在DC国会前举行对女儿被谋杀两周年的纪念活动，就在刚刚，被国会警察逮捕！<br><br>这与独裁国有什么区别？！<br>伪总统拜登治下的美国，第一宪法修正案等同虚设！没有集会与言论自由！<br><video src="https://video.twimg.com/ext_tw_video/1611450647576035329/pu/vid/888x496/3mgY_j_gkYynqKCV.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1611450647576035329/pu/img/JPeek83-BXaG7Whh.jpg"></video>
+
+### 150: [2023-01-07 04:33:15+08:00 推文](https://twitter.com/HeQinglian/status/1611460912312885257)
+
+Re @lianghuiwang2 麦卡锡真正找到了一个好理由——这理由对全体民主党议员与左派媒体有用，对共和党的RINO也有用，但对MAGA用处不太大。
+
+### 151: [2023-01-07 04:38:50+08:00 推文](https://twitter.com/HeQinglian/status/1611462317358587931)
+
+乌军有没有穆巴拉克？<br>想当年中东战争中，阿拉伯国家军队与以色列交战，屡战屡败，就穆巴拉克利用了对方一次节假日休息，赢得了第四次中东战争，成为“空中英雄”，还获得共和国勋章。<br><br>DW 中文- 德国之声: 俄罗斯总统普京周四（5日）下令，俄军自1月6日中午起停火36小时，以让信徒能参与东正教平安夜及耶诞节。这是乌俄战争历时逾10个月以来第一个重大停火令，但乌克兰称克里姆林宫的提议“伪善”。<br> <a href="https://p.dw.com/p/4Lnrm" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4Lnrm</a>
+
