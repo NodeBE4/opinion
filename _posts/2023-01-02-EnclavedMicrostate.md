@@ -33,6 +33,10 @@ It's also misleading to look at the r/hololive portion of the fandom and presume
 
 So I don't doubt there's probably aspects of 'exoticism'/racism/lighter prejudice involved, but there's a few practicalities to it too, which is unfortunate because Zeta is great and everyone should watch her we are not a cult #ZETANISM2023
 
+----- __1021.2__ -----2023-01-07 00:23:02+08:00:
+
+When was this?
+
 ### 1022: [How did Imperial Russia first expand across, then maintain order and supplies to, its vast Siberian empire?](https://old.reddit.com/r/WarCollege/comments/101wuib/how_did_imperial_russia_first_expand_across_then/), submitted on 2023-01-03 11:29:40+08:00.
 
 ----- __1022.1__ -----2023-01-04 17:53:37+08:00:
