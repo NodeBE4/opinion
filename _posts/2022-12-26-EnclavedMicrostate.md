@@ -268,3 +268,7 @@ The story idea came from a fanfic author.
 
 One of the things that all three Trek animated series so far – TAS, Lower Decks, and Prodigy – have in common is a real sense of the aesthetic freedom offered by animation as a medium compared to live action. Despite the immensely low budget of TAS, the deliberate inclusion of very distinctively alien characters (including as bridge crew no less), and the really wacky spaceship designs, speak to the ambition of the creators to really make stuff that would never be achievable with practical effects of the time. Lower Decks similarly exploits that with Dr Migleemo and Dr T'ana; Prodigy's entire core cast is specifically made to be animated.
 
+----- __1019.15__ -----2023-01-06 23:03:07+08:00:
+
+Ronin is a being that can assume the *appearance* of an adult human man, but the 'intercourse' consists of his dissolving into a luminous green vapour and temporarily attaching himself to his corporeal consort and bringing them to a, shall we say, euphoric state in the process. It is stated that although at a basic level, Ronin is tethered to the candle, he also needs to partly tether himself to a human host to sustain the appearance of human form. Thus, Ronin is in the candle, in the grandmother, *and* outside them at the same time.
+
