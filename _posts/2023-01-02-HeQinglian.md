@@ -619,3 +619,19 @@ Re @lianghuiwang2 麦卡锡真正找到了一个好理由——这理由对全�
 
 乌军有没有穆巴拉克？<br>想当年中东战争中，阿拉伯国家军队与以色列交战，屡战屡败，就穆巴拉克利用了对方一次节假日休息，赢得了第四次中东战争，成为“空中英雄”，还获得共和国勋章。<br><br>DW 中文- 德国之声: 俄罗斯总统普京周四（5日）下令，俄军自1月6日中午起停火36小时，以让信徒能参与东正教平安夜及耶诞节。这是乌俄战争历时逾10个月以来第一个重大停火令，但乌克兰称克里姆林宫的提议“伪善”。<br> <a href="https://p.dw.com/p/4Lnrm" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4Lnrm</a>
 
+### 152: [2023-01-07 06:13:10+08:00 推文](https://twitter.com/HeQinglian/status/1611486055127044097)
+
+Re @Vince6610 @picimep @Lucs24659702 没有办法啊，因为这道选择题没法二选一：<br>A. 接受美国进步价值观，让本岛青少年“欲练神功，必先自宫”，换取不清楚美国是否出兵的保护；<br>B. 接受中共的专制统治，慢慢就象香港，一点点失去言论自由与集会自由，最后连选举也只能在中共给的台湾特首当中圈选。<br>所以，就以“民主”一词以蔽之。
+
+### 153: [2023-01-07 06:20:55+08:00 推文](https://twitter.com/HeQinglian/status/1611488006224990247)
+
+Re @FangYiDuan1 @jojowheel 按现在程序，必须是众议员才能当议长；按历史经验，从无这种先例。<br>因此，我也不清楚持这种主张的人，是否请教过宪法专家，或者已经从宪法及修正案中找到依据。
+
+### 154: [2023-01-07 06:22:57+08:00 推文](https://twitter.com/HeQinglian/status/1611488517409984538)
+
+Re @enoughtalk4 @jojowheel 文革时期，红卫兵就抄家时趁机捞了一把。抢商店是不行的，因为商店全是国有或者集体所有，谁敢抢，叫做抢劫国家财产，革委会代行司法功能，轻则十几年，重则死刑。
+
+### 155: [2023-01-07 06:24:39+08:00 推文](https://twitter.com/HeQinglian/status/1611488945744891930)
+
+几百万进来，几年后接来子女家人，票仓又增上千万，这把算盘打得好。<br><br>RFI 華語 - 法國國際廣播電台: 嚴禁非法入境，遣返非法移民：拜登的邊境政策作重大改變<br><br><img style="" src="https://pbs.twimg.com/media/Fl0lFpKaEAEJvse?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/92w3.t" target="_blank" rel="noopener noreferrer">https://rfi.my/92w3.t</a>
+

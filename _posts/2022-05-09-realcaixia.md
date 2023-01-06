@@ -209,7 +209,7 @@ Re @UGy9oNugsWfeYes 这个文件我不知道。
 
 ### 49: [2022-05-12 23:48:39+08:00 推文](https://twitter.com/realcaixia/status/1524778589404774400)
 
-跟推传发。
+跟推传发。<br><br>ZHANGDONG: 承蒙一夜廬先生特许，本推连载其新作《疫情新三吏三别》，至此六首诗作全部推出。先生常以古诗词形式针砭时弊，深得读者共鸣，在国内网络广为流传。<br>
 
 ### 50: [2022-05-13 22:18:10+08:00 推文](https://twitter.com/realcaixia/status/1525118207941484544)
 
@@ -233,11 +233,11 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FSrg9DDUUAEO-Jq?format=jpg
 
 ### 55: [2022-05-15 22:25:52+08:00 推文](https://twitter.com/realcaixia/status/1525844920161820672)
 
-特别推荐。
+特别推荐。<br><br>《议报》: 柴思原：对于 “不可知论”的反驳以及何为现代人的“多元主义”<br> <a href="https://yibaochina.com/?p=246464" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246464</a>
 
 ### 56: [2022-05-15 22:38:50+08:00 推文](https://twitter.com/realcaixia/status/1525848181522587648)
 
-这个推文很好，特别转推。
+这个推文很好，特别转推。<br><br>端咖啡内女的🇺🇦🇺🇦: 我出国前啥都不懂。同学们都出国，不出国就像个loser，所以我也跟风出国了。出国后给家里写的信上说：如果不是亲眼见，你不会相信世界上有这么好的国家、有这么好的社会。每个人都被尊重，每个人做事都认真守规矩，我感到精神上前所未有的放松和自由。<br>
 
 ### 57: [2022-05-15 22:45:45+08:00 推文](https://twitter.com/realcaixia/status/1525849924092297216)
 
@@ -245,9 +245,9 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FSrg9DDUUAEO-Jq?format=jpg
 
 ### 58: [2022-05-15 23:00:59+08:00 推文](https://twitter.com/realcaixia/status/1525853756176277504)
 
-这三字精辟地总结了这三年中国社会民情的基本特征；这三字背后诉尽大陆中国人的民生艰辛困境乃至绝境。<br>从卷到润，还是民心的变化。<br>“润”即用脚投票，问题是至少80%的人无力用脚投票；有能力用脚投票的人正在被快速关闭的国门阻挡。<br>2023 将是哪个字？<br>2024 再是哪个字？<br><br>iPaul🇨🇦🇺🇦: 三个字概括过去这3年：<br>2020：卷<br>2021：躺<br>2022：润<br>
+这三字精辟地总结了这三年中国社会民情的基本特征；这三字背后诉尽大陆中国人的民生艰辛困境乃至绝境。<br>从卷到润，还是民心的变化。<br>“润”即用脚投票，问题是至少80%的人无力用脚投票；有能力用脚投票的人正在被快速关闭的国门阻挡。<br>2023 将是哪个字？<br>2024 再是哪个字？
 
 ### 59: [2022-05-15 23:02:55+08:00 推文](https://twitter.com/realcaixia/status/1525854245110489090)
 
-英雄出狱。
+英雄出狱。<br><br>维权网: 维权网: 获刑3年的安徽合肥著名异议人士沈良庆刑满出狱<br><br><img style="" src="https://pbs.twimg.com/media/FSxcWf1akAcphhR?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSxcXTAagAAqJRm?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSxcYYtacAApsZq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://wqw2010.blogspot.com/2022/05/3.html?spref=tw" target="_blank" rel="noopener noreferrer">https://wqw2010.blogspot.com/2022/05/3.html?spref=tw</a>
 
