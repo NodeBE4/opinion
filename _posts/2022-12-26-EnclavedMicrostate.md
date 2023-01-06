@@ -260,3 +260,7 @@ I wrote [a longer comment](https://www.reddit.com/r/HobbyDrama/comments/100kt5g/
 * The basics of the story seem to have been based on a submission by a fanfic author, which was then reworked into a more developed story by an experienced staff writer, but it's not clear how far that fixed it.
 * The adaptation from story to screenplay was by someone with a mixed track record on that front.
 
+----- __1019.13__ -----2023-01-06 20:16:10+08:00:
+
+The story idea came from a fanfic author.
+
