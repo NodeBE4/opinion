@@ -55,49 +55,45 @@ I hate how apt this description is.
 
 This is heavily questionable. There's a revisionist school of historians of Central Asia, most prominently Scott C. Levi, who have problematised our notions of the Silk Road, to the point of [arguing that it never existed at all](https://www.reddit.com/r/AskHistorians/comments/jsb5my/whats_the_state_of_scholarship_on_the_silk_road/gbyl2uc/) in the form popularly imagined. In any event, the apparent secular decline of Central Asia in the 18th century that culminated in the slow collapse of the Bukharan Khanate was followed by the rise of Kokand and Khiva as powers in their own right with considerable regional influence.
 
-### 1023: [The bogdanoff twins’ looks scare me](https://old.reddit.com/r/oddlyterrifying/comments/102siol/the_bogdanoff_twins_looks_scare_me/), submitted on 2023-01-04 11:23:09+08:00.
+### 1023: [NoeFure Forever [Hololive]](https://old.reddit.com/r/wholesomeyuri/comments/102dxkw/noefure_forever_hololive/), submitted on 2023-01-04 01:31:07+08:00.
 
------ __1023.1__ -----2023-01-04 17:46:35+08:00:
+----- __1023.1__ -----2023-01-08 01:04:39+08:00:
+
+They may not show a lot of on-stream interaction these days but from what Noel has said there's nothing to suggest they aren't still together behind the scenes.
+
+### 1024: [The bogdanoff twins’ looks scare me](https://old.reddit.com/r/oddlyterrifying/comments/102siol/the_bogdanoff_twins_looks_scare_me/), submitted on 2023-01-04 11:23:09+08:00.
+
+----- __1024.1__ -----2023-01-04 17:46:35+08:00:
 
 Science communicators more than scientists as such. They did hold PhDs but the awarding of them was controversial to say the least, and the procedure extremely irregular. Youtuber BobbyBroccoli did [a two-part series](https://www.youtube.com/playlist?list=PLAB-wWbHL7VurPf2npHah-H8aHBYvd55e) on the Bogdanoffs' PhD controversy which is a good watch.
 
------ __1023.2__ -----2023-01-04 21:02:00+08:00:
+----- __1024.2__ -----2023-01-04 21:02:00+08:00:
 
 The puppets were made by the studio behind '80s British satirical show [Spitting Image](https://en.wikipedia.org/wiki/Spitting_Image), which was well known for its grotesque caricatures of politicians and celebrities – both visual in the form of the puppets, and audial in the form of the impressionists doing the voices. In particular, Steve Nallon had a [terrifyingly on-point rendition of Margaret Thatcher](https://www.youtube.com/watch?v=ThkVqCYdR0Y) (though unfortunately he seems to be a bit of a milkshake duck these days and has associations with GB News, which is basically the UK's attempt at creating its own Fox News).
 
-### 1024: [Look at all of those lambos](https://old.reddit.com/r/Buttcoin/comments/1034jpg/look_at_all_of_those_lambos/), submitted on 2023-01-04 22:08:59+08:00.
+### 1025: [Look at all of those lambos](https://old.reddit.com/r/Buttcoin/comments/1034jpg/look_at_all_of_those_lambos/), submitted on 2023-01-04 22:08:59+08:00.
 
------ __1024.1__ -----2023-01-05 11:03:21+08:00:
+----- __1025.1__ -----2023-01-05 11:03:21+08:00:
 
 It’s more or less true of crypto too. Bitcoin peaked in 2017 and then slumped, and throughout 2018-19 it wasn’t uncommon to joke that it had become completely worthless. Then the speculator bubble of 2020 came, and then that finally popped, much to the delight of all of us over at r/Buttcoin. As Marx sort of said, events in history often happen twice: first as tragedy, then as farce.
 
-### 1025: [What do Historians think caused the acceleration of certain technological advances (gunpowder, glass, massive infrastructure) in places like China, the Middle East and Europe?](https://old.reddit.com/r/AskHistorians/comments/103l512/what_do_historians_think_caused_the_acceleration/), submitted on 2023-01-05 09:09:02+08:00.
+### 1026: [What do Historians think caused the acceleration of certain technological advances (gunpowder, glass, massive infrastructure) in places like China, the Middle East and Europe?](https://old.reddit.com/r/AskHistorians/comments/103l512/what_do_historians_think_caused_the_acceleration/), submitted on 2023-01-05 09:09:02+08:00.
 
------ __1025.1__ -----2023-01-05 10:47:46+08:00:
+----- __1026.1__ -----2023-01-05 10:47:46+08:00:
 
 > I’d recommend the book Guns, Germs and Steel
 
 *Do not*. [There are few books that are *less* recommended than GGS.](https://www.reddit.com/r/AskHistorians/wiki/historians_views#wiki_historians.27_views_of_jared_diamond.27s_.22guns.2C_germs.2C_and_steel.22)
 
-### 1026: [According to the Wikipedia article on the Siege of Baghdad (1258), some dude named Qarasunqur is listed as a commander who was killed in action. Yet he is mentioned nowhere else in the article. He’s not mentioned anywhere else on Google. Who tf was Qarasunqur?](https://old.reddit.com/r/AskHistorians/comments/103o5ll/according_to_the_wikipedia_article_on_the_siege/), submitted on 2023-01-05 11:25:05+08:00.
+### 1027: [According to the Wikipedia article on the Siege of Baghdad (1258), some dude named Qarasunqur is listed as a commander who was killed in action. Yet he is mentioned nowhere else in the article. He’s not mentioned anywhere else on Google. Who tf was Qarasunqur?](https://old.reddit.com/r/AskHistorians/comments/103o5ll/according_to_the_wikipedia_article_on_the_siege/), submitted on 2023-01-05 11:25:05+08:00.
 
------ __1026.1__ -----2023-01-07 10:26:48+08:00:
+----- __1027.1__ -----2023-01-07 10:26:48+08:00:
 
 Even that would let things slip through the cracks. An issue exists with the ['Qing conquest theory'](https://www.reddit.com/r/AskHistorians/comments/ybv8rr/is_the_qing_conquest_theory_that_the_qing_dynasty/itkm8nr/) where all of the individual citations are of articles that actually exist, but where the notion that these all belong to a single coherent historiographical school was invented by the article author. So the problem becomes, the *core* of the article is supported claims, but the *framing* is entirely synthetic. But the former has been reason enough to keep the article up, despite nobody being able to add any new scholarship contributing to the apparent 'debate' since its publication in 2010. And it has since made it into at least one academic publication: José Luis Gasch-Tomás' *The Atlantic World and the Manila Galleons*, published by Brill (one of the major academic imprints) [addresses the notion of the 'Qing conquest theory' in a footnote](https://books.google.com/books?id=sqSODwAAQBAJ&pg=PA73&lpg=PA73&dq=%22qing+conquest+theory%22&source=bl&ots=Ki4v54t_OC&sig=ACfU3U3_1dzcBoPQvTbCbcvV0qPXcM4K3w&hl=en&sa=X&ved=2ahUKEwibsouxs7T8AhUT3jgGHdgKCT44ChDoAXoECB0QAw#v=onepage&q=%22qing%20conquest%20theory%22&f=false).
 
-### 1027: [Has there been any point in US history where there was only one living president besides Washington and Nixon?](https://old.reddit.com/r/AskHistorians/comments/103u00b/has_there_been_any_point_in_us_history_where/), submitted on 2023-01-05 16:39:34+08:00.
+### 1028: [Has there been any point in US history where there was only one living president besides Washington and Nixon?](https://old.reddit.com/r/AskHistorians/comments/103u00b/has_there_been_any_point_in_us_history_where/), submitted on 2023-01-05 16:39:34+08:00.
 
------ __1027.1__ -----2023-01-05 17:43:07+08:00:
-
-**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
-
-Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
-
-Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
-
-### 1028: [Did HMS Duke of York fire her main guns in anger BESIDES the Battle of North Cape?](https://old.reddit.com/r/AskHistorians/comments/103u7mp/did_hms_duke_of_york_fire_her_main_guns_in_anger/), submitted on 2023-01-05 16:52:49+08:00.
-
------ __1028.1__ -----2023-01-05 17:43:16+08:00:
+----- __1028.1__ -----2023-01-05 17:43:07+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -105,19 +101,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 1029: [Did any King George V Class battleships fire on enemy ships besides Bismarck and Scharnhorst?](https://old.reddit.com/r/AskHistorians/comments/103uad3/did_any_king_george_v_class_battleships_fire_on/), submitted on 2023-01-05 16:57:53+08:00.
+### 1029: [Did HMS Duke of York fire her main guns in anger BESIDES the Battle of North Cape?](https://old.reddit.com/r/AskHistorians/comments/103u7mp/did_hms_duke_of_york_fire_her_main_guns_in_anger/), submitted on 2023-01-05 16:52:49+08:00.
 
------ __1029.1__ -----2023-01-05 17:43:24+08:00:
-
-**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
-
-Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
-
-Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
-
-### 1030: [Is Benedict XVI the first pope to be buried by another pope, in this case the active one?](https://old.reddit.com/r/AskHistorians/comments/103uif5/is_benedict_xvi_the_first_pope_to_be_buried_by/), submitted on 2023-01-05 17:11:31+08:00.
-
------ __1030.1__ -----2023-01-05 17:43:39+08:00:
+----- __1029.1__ -----2023-01-05 17:43:16+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -125,31 +111,51 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 1031: [How did Japan, a country with no colonial ties to the United Kingdom, ended up driving on the left?](https://old.reddit.com/r/AskHistorians/comments/1043mj2/how_did_japan_a_country_with_no_colonial_ties_to/), submitted on 2023-01-06 00:46:42+08:00.
+### 1030: [Did any King George V Class battleships fire on enemy ships besides Bismarck and Scharnhorst?](https://old.reddit.com/r/AskHistorians/comments/103uad3/did_any_king_george_v_class_battleships_fire_on/), submitted on 2023-01-05 16:57:53+08:00.
 
------ __1031.1__ -----2023-01-07 01:17:17+08:00:
+----- __1030.1__ -----2023-01-05 17:43:24+08:00:
+
+**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
+
+Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
+
+Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 1031: [Is Benedict XVI the first pope to be buried by another pope, in this case the active one?](https://old.reddit.com/r/AskHistorians/comments/103uif5/is_benedict_xvi_the_first_pope_to_be_buried_by/), submitted on 2023-01-05 17:11:31+08:00.
+
+----- __1031.1__ -----2023-01-05 17:43:39+08:00:
+
+**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
+
+Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
+
+Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 1032: [How did Japan, a country with no colonial ties to the United Kingdom, ended up driving on the left?](https://old.reddit.com/r/AskHistorians/comments/1043mj2/how_did_japan_a_country_with_no_colonial_ties_to/), submitted on 2023-01-06 00:46:42+08:00.
+
+----- __1032.1__ -----2023-01-07 01:17:17+08:00:
 
 Thank you for your response. Unfortunately, we have had to remove it due to violations of [subreddit’s rules about answers needing to reflect current scholarship](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_answers). While we appreciate the effort you have put into this comment, there are nevertheless significant errors, misunderstandings, or omissions of the topic at hand [which necessitated its removal](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/). 
  
 We understand this can be discouraging, but we would also encourage you to consult [this Rules Roundtable to better understand how the mod team evaluates answers on the sub](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/). If you are interested in feedback on improving future contributions, please feel free to [reach out to us via modmail](https://www.reddit.com/message/compose?to=%2Fr%2FAskHistorians&subject=Inquiry%20About%20Improving%20Future%20Responses). Thank you for your understanding.
 
-### 1032: [The new Tempus Boys are nearly here! have a look at their Mama's/Papa's other works](https://old.reddit.com/r/Hololive/comments/104h34o/the_new_tempus_boys_are_nearly_here_have_a_look/), submitted on 2023-01-06 09:42:59+08:00.
+### 1033: [The new Tempus Boys are nearly here! have a look at their Mama's/Papa's other works](https://old.reddit.com/r/Hololive/comments/104h34o/the_new_tempus_boys_are_nearly_here_have_a_look/), submitted on 2023-01-06 09:42:59+08:00.
 
------ __1032.1__ -----2023-01-06 10:26:33+08:00:
+----- __1033.1__ -----2023-01-06 10:26:33+08:00:
 
 I'd seen so many discussions about the involvement of Fate artists that I was honestly expecting more than just one...
 
 But anyway, top-tier as usual.
 
-### 1033: [oh nyo](https://old.reddit.com/r/Hololive/comments/104wzfp/oh_nyo/), submitted on 2023-01-06 23:29:32+08:00.
+### 1034: [oh nyo](https://old.reddit.com/r/Hololive/comments/104wzfp/oh_nyo/), submitted on 2023-01-06 23:29:32+08:00.
 
------ __1033.1__ -----2023-01-07 19:07:06+08:00:
+----- __1034.1__ -----2023-01-07 19:07:06+08:00:
 
 If by ‘has clearly shown mutual affection for’ you mean ‘essentially confirmed dating’ then yeah I guess, lol.
 
-### 1034: [First nation to peacefully be granted independence (full-autonomy) from the British empire?](https://old.reddit.com/r/AskHistorians/comments/105al5z/first_nation_to_peacefully_be_granted/), submitted on 2023-01-07 08:29:06+08:00.
+### 1035: [First nation to peacefully be granted independence (full-autonomy) from the British empire?](https://old.reddit.com/r/AskHistorians/comments/105al5z/first_nation_to_peacefully_be_granted/), submitted on 2023-01-07 08:29:06+08:00.
 
------ __1034.1__ -----2023-01-07 10:29:13+08:00:
+----- __1035.1__ -----2023-01-07 10:29:13+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -157,9 +163,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 1035: [Did I miss something? Is there a reason Myth and console went to Japan, or was it just for fun and to meet the others?](https://old.reddit.com/r/Hololive/comments/105dmfm/did_i_miss_something_is_there_a_reason_myth_and/), submitted on 2023-01-07 10:45:09+08:00.
+### 1036: [Did I miss something? Is there a reason Myth and console went to Japan, or was it just for fun and to meet the others?](https://old.reddit.com/r/Hololive/comments/105dmfm/did_i_miss_something_is_there_a_reason_myth_and/), submitted on 2023-01-07 10:45:09+08:00.
 
------ __1035.1__ -----2023-01-07 18:49:41+08:00:
+----- __1036.1__ -----2023-01-07 18:49:41+08:00:
 
 Hyperdimension Neptunia’s been getting away with it for over a decade though.
 
