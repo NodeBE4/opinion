@@ -286,3 +286,7 @@ Is not the part where it involves a ghost doing weird shit with Crusher's family
 
 Your guess is as good as mine.
 
+----- __1019.19__ -----2023-01-07 21:42:16+08:00:
+
+The Silent Hill Wiki Guy? You have piqued my curiosity.
+

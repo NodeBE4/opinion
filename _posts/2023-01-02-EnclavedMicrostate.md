@@ -41,6 +41,12 @@ When was this?
 
 Cheers!
 
+----- __1021.4__ -----2023-01-07 21:45:36+08:00:
+
+> Tempus DLC
+
+I hate how apt this description is.
+
 ### 1022: [How did Imperial Russia first expand across, then maintain order and supplies to, its vast Siberian empire?](https://old.reddit.com/r/WarCollege/comments/101wuib/how_did_imperial_russia_first_expand_across_then/), submitted on 2023-01-03 11:29:40+08:00.
 
 ----- __1022.1__ -----2023-01-04 17:53:37+08:00:
