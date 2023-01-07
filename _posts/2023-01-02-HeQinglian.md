@@ -643,3 +643,35 @@ Re @enoughtalk4 @jojowheel 文革时期，红卫兵就抄家时趁机捞了一�
 
 集体免疫的神话破灭？<br><br>华尔街日报中文网: 研究显示，再次感染新冠的情况要比医生们此前预想的更为常见，而且两次感染的间隔时间也比预期更短。英国的数据显示，初次感染时病毒载量较低、症状较轻的人，他们再次感染的风险更高。<br> <a href="https://on.wsj.com/3Iphhj7" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3Iphhj7</a>
 
+### 158: [2023-01-07 09:36:05+08:00 推文](https://twitter.com/HeQinglian/status/1611537121663225858)
+
+这几天看多了中国疫情期间丧葬的消息，所谓上层人士原定生荣死哀的荣耀，竟与社会底层的默默死亡在这一时空里距离非常接近。<br>推荐看日本电影《河畔须臾》，电影结束时，几位畸零之人为他们中的一位亡父举行丧礼，以厨房盆鼓为法器，一张白纸做引魂幡，轻扬骨灰，也许能够参破生死，权作疗伤。
+
+### 159: [2023-01-07 09:46:51+08:00 推文](https://twitter.com/HeQinglian/status/1611539833670836228)
+
+Re @JianglinLi @HongfuDing @ngexp 看了这个串推，似乎是这20位MAGA用“规则包”为麦卡锡套上了缰绳，如果麦卡锡不履行承诺，可以罢免他。<br>通过这个规则包，20 人实现了历史性的问责制监督。<br>这等于废除了波洛西用规则为议长这个位置确定的专断权力。
+
+### 160: [2023-01-07 10:58:20+08:00 推文](https://twitter.com/HeQinglian/status/1611557820318601217)
+
+Re @JianglinLi @HongfuDing @ngexp 好象就是需要现在所需要的218票，才能继续做议长。不够就滚蛋。
+
+### 161: [2023-01-07 10:59:35+08:00 推文](https://twitter.com/HeQinglian/status/1611558137621843968)
+
+Re @enoughtalk4 @JianglinLi @HongfuDing @ngexp 这次川普支持的共和党众议员多达160余位，RINO只有30多位，还有几位两者都不是。
+
+### 162: [2023-01-07 11:04:14+08:00 推文](https://twitter.com/HeQinglian/status/1611559305786044416)
+
+Re @JianglinLi @HongfuDing @ngexp 规则包的内容可能只在国会共和党内公开，不会公示于社会，因为这与刚刚辞职的那位相比，太弱鸡了，有点丢议长大人的脸——原因是我猜想。
+
+### 163: [2023-01-07 11:15:37+08:00 推文](https://twitter.com/HeQinglian/status/1611562170747068424)
+
+Re @enoughtalk4 @JianglinLi @HongfuDing @ngexp 真正的问题是：那些借川普支持上位的共和党众议员，并非全是MAGA。
+
+### 164: [2023-01-07 11:21:05+08:00 推文](https://twitter.com/HeQinglian/status/1611563544377434112)
+
+Re @enoughtalk4 @JianglinLi @HongfuDing @ngexp 乌克兰刚被泽连斯基宣布成全球领导者，帮助西方回到了世界舞台中心，美国当然应该给钱。更何况，人家还接受了美国进步派的价值观，LGBTQI+。
+
+### 165: [2023-01-07 11:25:12+08:00 推文](https://twitter.com/HeQinglian/status/1611564581758836736)
+
+Re @ZhouFengSuo 务必注意。沈良庆的经验是要多休息，等待完全康复。他这是与同病之人交流的宝贵经验。
+
