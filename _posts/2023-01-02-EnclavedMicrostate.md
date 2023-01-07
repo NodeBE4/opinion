@@ -135,13 +135,25 @@ I'd seen so many discussions about the involvement of Fate artists that I was ho
 
 But anyway, top-tier as usual.
 
-### 1033: [First nation to peacefully be granted independence (full-autonomy) from the British empire?](https://old.reddit.com/r/AskHistorians/comments/105al5z/first_nation_to_peacefully_be_granted/), submitted on 2023-01-07 08:29:06+08:00.
+### 1033: [oh nyo](https://old.reddit.com/r/Hololive/comments/104wzfp/oh_nyo/), submitted on 2023-01-06 23:29:32+08:00.
 
------ __1033.1__ -----2023-01-07 10:29:13+08:00:
+----- __1033.1__ -----2023-01-07 19:07:06+08:00:
+
+If by ‘has clearly shown mutual affection for’ you mean ‘essentially confirmed dating’ then yeah I guess, lol.
+
+### 1034: [First nation to peacefully be granted independence (full-autonomy) from the British empire?](https://old.reddit.com/r/AskHistorians/comments/105al5z/first_nation_to_peacefully_be_granted/), submitted on 2023-01-07 08:29:06+08:00.
+
+----- __1034.1__ -----2023-01-07 10:29:13+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
 Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 1035: [Did I miss something? Is there a reason Myth and console went to Japan, or was it just for fun and to meet the others?](https://old.reddit.com/r/Hololive/comments/105dmfm/did_i_miss_something_is_there_a_reason_myth_and/), submitted on 2023-01-07 10:45:09+08:00.
+
+----- __1035.1__ -----2023-01-07 18:49:41+08:00:
+
+Hyperdimension Neptunia’s been getting away with it for over a decade though.
 
