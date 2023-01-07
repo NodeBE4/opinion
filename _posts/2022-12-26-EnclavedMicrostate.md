@@ -282,3 +282,7 @@ But this was not how the pitch *had* to go: had Ronin been creepy rather than ch
 
 Is not the part where it involves a ghost doing weird shit with Crusher's family part of the episode concept?
 
+----- __1019.18__ -----2023-01-07 21:19:36+08:00:
+
+Your guess is as good as mine.
+

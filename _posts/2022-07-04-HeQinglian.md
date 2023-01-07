@@ -225,7 +225,7 @@ Re @franktianxie 我觉得，俄乌战争以来经济神话破灭得最彻底的
 
 ### 53: [2022-07-05 22:44:19+08:00 推文](https://twitter.com/HeQinglian/status/1544331343492009985)
 
-中国的节令是公历8月8日（或7日）立秋，西方的秋天大概也在8月，难怪乌克兰总理昨天说要在8月取得第一场可观的胜利（以前的胜利不可观？），白宫官员传拜登要在8月终战。<br>还是有始有终地好。不过，北约收获了新成员国，反俄力量壮大了。
+中国的节令是公历8月8日（或7日）立秋，西方的秋天大概也在8月，难怪乌克兰总理昨天说要在8月取得第一场可观的胜利（以前的胜利不可观？），白宫官员传拜登要在8月终战。<br>还是有始有终地好。不过，北约收获了新成员国，反俄力量壮大了。<br><br>Ezio Mao☢: 如果基辅在秋天之前不扭转局势，西方将开始削减援助。<br><br>《每日电讯报》参考其自己的消息来源对此进行了报道。<br><br>该出版物报道，西方集体逐渐得出结论，支持乌克兰毫无意义。<br><br><img style="" src="https://pbs.twimg.com/media/FW6P6l-UEAAAyPr?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 54: [2022-07-05 22:58:18+08:00 推文](https://twitter.com/HeQinglian/status/1544334862919811076)
 
@@ -257,7 +257,7 @@ Re @suisam007 @KELMAND1 推上风光，喊口号表态，代表政治正确。�
 
 ### 61: [2022-07-06 03:22:14+08:00 推文](https://twitter.com/HeQinglian/status/1544401284064854018)
 
-RT He Qinglian<br>美国对华外交的战略判断<br><br>美国对华的外交战略判断从来就不是政治为主，确定对华外交的战略判断是中国经济繁荣与否，对美国有利与否。拜登政府上任伊始，明言不干涉中国的政治制度。促成拜登结束战略摇摆期的因素都已浮现，耶伦与刘鹤通话是预热，习拜已经预约近期通话。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html</a>
+美国对华外交的战略判断<br><br>美国对华的外交战略判断从来就不是政治为主，确定对华外交的战略判断是中国经济繁荣与否，对美国有利与否。拜登政府上任伊始，明言不干涉中国的政治制度。促成拜登结束战略摇摆期的因素都已浮现，耶伦与刘鹤通话是预热，习拜已经预约近期通话。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html</a>
 
 ### 62: [2022-07-06 03:24:50+08:00 推文](https://twitter.com/HeQinglian/status/1544401939013799936)
 
@@ -281,7 +281,7 @@ Re @comeonjustchill 战争初起，我就提过一点：前十大GDP国家中，
 
 ### 67: [2022-07-06 03:50:56+08:00 推文](https://twitter.com/HeQinglian/status/1544408505976856576)
 
-这几年，美国、英国就拿这事领导世界新潮流了。<br>骄傲月的妖魔鬼怪性活动表演，什么时候能禁止？<br><br>BBC News 中文: 英国政府表示，越来越多的“性别中立”厕所让女性“处于不公平的弱势地位”，增加女性排队时间。政府提议修法，规定新建公共建筑必须设置男女分开的单一性别厕所。<br><br>“性别中立”厕所让使用者按照自己的性别认同选择使用厕所，通常有数个厕所隔间，但使用者必须共用排队和洗手设施，有些女性对此感到不舒服。<br><br><img style="" src="https://pbs.twimg.com/media/FW6CBUDWAAI-qQV?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+这几年，美国、英国就拿这事领导世界新潮流了。<br>骄傲月的妖魔鬼怪性活动表演，什么时候能禁止？
 
 ### 68: [2022-07-06 04:16:01+08:00 推文](https://twitter.com/HeQinglian/status/1544414820631470081)
 
@@ -289,7 +289,7 @@ Re @racoonincan 让95%以上的正常人服从于少数人的怪癖，当街裸�
 
 ### 69: [2022-07-06 04:45:37+08:00 推文](https://twitter.com/HeQinglian/status/1544422270776606723)
 
-拜登政府據報計畫調整特朗普時期的對華關稅，包含三個部分 <br>估计拜登与习近平通话前，会宣布调整关税计划，增加一点“友好气氛”。<br><br>He Qinglian: 美国对华外交的战略判断<br><br>美国对华的外交战略判断从来就不是政治为主，确定对华外交的战略判断是中国经济繁荣与否，对美国有利与否。拜登政府上任伊始，明言不干涉中国的政治制度。促成拜登结束战略摇摆期的因素都已浮现，耶伦与刘鹤通话是预热，习拜已经预约近期通话。<br> <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html</a>
+拜登政府據報計畫調整特朗普時期的對華關稅，包含三個部分 <br>估计拜登与习近平通话前，会宣布调整关税计划，增加一点“友好气氛”。 <a href="https://rfi.my/8Yh9.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8Yh9.T</a>
 
 ### 70: [2022-07-06 08:48:20+08:00 推文](https://twitter.com/HeQinglian/status/1544483350672547841)
 
@@ -305,7 +305,7 @@ Re @comeonjustchill 对于俄罗斯，我觉得是随机调整。当初启动Swi
 
 ### 73: [2022-07-06 21:42:19+08:00 推文](https://twitter.com/HeQinglian/status/1544678131100958726)
 
-拜登、南希们等左派领导的美国。<br>福利供养出来的“美国新贵族”，Liberal World Order。<br>拜粉们喜欢么？
+拜登、南希们等左派领导的美国。<br>福利供养出来的“美国新贵族”，Liberal World Order。<br>拜粉们喜欢么？<br><br>🍃 Ɣ 🍃: When you run out of chicken nuggets..<br><br><video src="https://video.twimg.com/ext_tw_video/1544317716408016900/pu/vid/576x720/DGc1bjXJDE5uyidy.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1544317716408016900/pu/img/8-dE9FO405azD8zE.jpg"></video>
 
 ### 74: [2022-07-06 21:43:33+08:00 推文](https://twitter.com/HeQinglian/status/1544678441764769793)
 
@@ -337,7 +337,7 @@ Re @david_david1968 那司机可能要连升15级？
 
 ### 81: [2022-07-06 22:30:25+08:00 推文](https://twitter.com/HeQinglian/status/1544690233295380482)
 
-英国政客比美国政客有自尊。<br>拜登、南希将美国打理成这样，还天天玩怪罪游戏：一切都是普京的错，通胀全是他折腾的。没见他们要辞职，还说要竞选连任。
+英国政客比美国政客有自尊。<br>拜登、南希将美国打理成这样，还天天玩怪罪游戏：一切都是普京的错，通胀全是他折腾的。没见他们要辞职，还说要竞选连任。<br><br>Vanessa 姗: 突发新闻: 财政大臣辞职，财政部长辞职，健康部长辞职，交通部长辞职，司法部长辞职，学校部长辞职, 环境部长辞职，住房部长辞职。。。。。。从昨晚开始，已经有18位约翰逊手下的各部门大臣向他递交了辞职书 ，恐怕约翰逊会因此被迫辞职，尽管他已表示会坚持，不知他能否坚持过今晚🤦‍♀️。<br><br><img style="" src="https://pbs.twimg.com/media/FW_Ec1lXkAMk9yu?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FW_EdAMWQAAMrUs?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 82: [2022-07-06 23:00:29+08:00 推文](https://twitter.com/HeQinglian/status/1544697802613297154)
 
@@ -697,11 +697,11 @@ Re @guchuan81 我其实也好想种棵樱桃树，查了资料，畏惧甲虫与
 
 ### 171: [2022-07-10 03:24:05+08:00 推文](https://twitter.com/Tianshuihanyan/status/1545851299811442688)
 
-RT 纳姐 全媒体首席主播，全媒体美国小镇镇长<br>拜登老婆比女皇还威风！退休3星将军只在拜登老婆的推下面回了一句话：“很高兴看到你终于知道什么是女人了！”  . 居然被美军解除高薪顾问工作合约！<br><br>左派就是用这些卑鄙手段恐吓打击军中保守派官兵，让他们屈服于左派的统治！<br><br>New York Post: Retired three-star general Gary Volesky suspended over tweet mocking Jill Biden<br><br><img style="" src="https://pbs.twimg.com/media/FXPdBhpXEAAIBVm?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://trib.al/pzgrj03" target="_blank" rel="noopener noreferrer">https://trib.al/pzgrj03</a>
+RT 纳姐 全媒体首席主播，全媒体美国小镇镇长<br>拜登老婆比女皇还威风！退休3星将军只在拜登老婆的推下面回了一句话：“很高兴看到你终于知道什么是女人了！”  . 居然被美军解除高薪顾问工作合约！<br><br>左派就是用这些卑鄙手段恐吓打击军中保守派官兵，让他们屈服于左派的统治！
 
 ### 172: [2022-07-10 03:56:25+08:00 推文](https://twitter.com/HeQinglian/status/1545859437658783745)
 
-Re @Wu_Zhi @JianglinLi 西方媒体正在忙于报道G20俄外长先离场之事，为西方团结冷落俄罗斯高兴不已。<br>BTW，不管是否愿意看到，这次G20王毅成了主角。中方向美方提出四份清单：要求美纠正错误对华政策和言行的清单、中方关切的重点个案清单、中方重点关切的涉华法案清单、中美8个领域合作清单。<br>拜登对华外交办成这样，无语。
+RT He Qinglian<br>Re @Wu_Zhi @JianglinLi 西方媒体正在忙于报道G20俄外长先离场之事，为西方团结冷落俄罗斯高兴不已。<br>BTW，不管是否愿意看到，这次G20王毅成了主角。中方向美方提出四份清单：要求美纠正错误对华政策和言行的清单、中方关切的重点个案清单、中方重点关切的涉华法案清单、中美8个领域合作清单。<br>拜登对华外交办成这样，无语。
 
 ### 173: [2022-07-10 03:58:59+08:00 推文](https://twitter.com/HeQinglian/status/1545860082692399106)
 
