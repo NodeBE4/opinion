@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2023-01-06
+date: 2023-01-07
 from: https://twitter.com/realcaixia/status/1609584095205654529
 layout: post
 tags:
@@ -109,9 +109,17 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FljVTxUaEAExHhB?format=jpg
 
 ### 24: [2023-01-06 09:32:49+08:00 推文](https://twitter.com/realcaixia/status/1611173912137863168)
 
-二十大上就是一个习帮灭了一个“共党”；2023年两会就是百分百的“一朝天子一朝臣”。<br><br>荣剑: 转2:二十大结束到明年三月两会召开，经济主管部门和骨干运行机构处于权力过渡期真空期，虽然不时看到听到旧内阁成员还在发声，但已经没有人再去注意了。未来的经济政策究竟是怎样的，人们无法根据可能入阁以往的行事风格政策主张做出判断。这与当年朱接任首辅前的情形大为不同。<br>
+二十大上就是一个习帮灭了一个“共党”；2023年两会就是百分百的“一朝天子一朝臣”。<br><br>荣剑: 转2:二十大结束到明年三月两会召开，经济主管部门和骨干运行机构处于权力过渡期真空期，虽然不时看到听到旧内阁成员还在发声，但已经没有人再去注意了。未来的经济政策究竟是怎样的，人们无法根据可能入阁以往的行事风格政策主张做出判断。这与当年朱接任首辅前的情形大为不同。<br> <a href="https://twitter.com/rongjian1957/status/1611111265421692928" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1611111265421692928</a>
 
 ### 25: [2023-01-06 23:22:17+08:00 推文](https://twitter.com/realcaixia/status/1611382652623532034)
 
 Re @NewCenturyBaopu 我也对这篇文章存疑。
+
+### 26: [2023-01-07 09:39:11+08:00 推文](https://twitter.com/realcaixia/status/1611537903233933313)
+
+长海医院是原第二军医大学（现海军军医大学）的第一附属医院。<br><br>方舟子: 上海长海医院急诊室大厅成了新冠病房。<br><br><video src="https://video.twimg.com/amplify_video/1610865944729092096/vid/720x1268/dC1T3kIQnSwY4-jJ.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1610865944729092096/img/BBrhVwaJz4n_9cb_.jpg"></video>
+
+### 27: [2023-01-07 09:48:35+08:00 推文](https://twitter.com/realcaixia/status/1611540266007302154)
+
+Re @SitsangTsien 记得医大的后门就是长海医院。
 

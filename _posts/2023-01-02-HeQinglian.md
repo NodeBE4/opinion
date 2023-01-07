@@ -635,3 +635,11 @@ Re @enoughtalk4 @jojowheel 文革时期，红卫兵就抄家时趁机捞了一�
 
 几百万进来，几年后接来子女家人，票仓又增上千万，这把算盘打得好。<br><br>RFI 華語 - 法國國際廣播電台: 嚴禁非法入境，遣返非法移民：拜登的邊境政策作重大改變<br><br><img style="" src="https://pbs.twimg.com/media/Fl0lFpKaEAEJvse?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/92w3.t" target="_blank" rel="noopener noreferrer">https://rfi.my/92w3.t</a>
 
+### 156: [2023-01-07 07:40:54+08:00 推文](https://twitter.com/HeQinglian/status/1611508136807997441)
+
+12月28日，泽连斯基发表年度国情咨文，回顾自2月24日以来，乌克兰奋起抵抗俄罗斯入侵对世界的影响，他表示，“乌克兰取得了全世界几乎没有人相信的成就。乌克兰已经成为全球领导者之一。乌克兰帮助西方重新找回自我，重返全球舞台”。 <br><br>恭喜乌克兰国际地位火箭式跃升。 <a href="https://rfi.my/92po.T" target="_blank" rel="noopener noreferrer">https://rfi.my/92po.T</a>
+
+### 157: [2023-01-07 08:58:25+08:00 推文](https://twitter.com/HeQinglian/status/1611527641412124676)
+
+集体免疫的神话破灭？<br><br>华尔街日报中文网: 研究显示，再次感染新冠的情况要比医生们此前预想的更为常见，而且两次感染的间隔时间也比预期更短。英国的数据显示，初次感染时病毒载量较低、症状较轻的人，他们再次感染的风险更高。<br> <a href="https://on.wsj.com/3Iphhj7" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3Iphhj7</a>
+
