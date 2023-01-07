@@ -169,3 +169,9 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 Hyperdimension Neptunia’s been getting away with it for over a decade though.
 
+### 1037: [Turkish province called opium does not have opium plantations](https://old.reddit.com/r/victoria3/comments/105lbtx/turkish_province_called_opium_does_not_have_opium/), submitted on 2023-01-07 17:50:15+08:00.
+
+----- __1037.1__ -----2023-01-08 01:41:39+08:00:
+
+It's easily overlooked that Smyrna was one of the major export hubs for opium in the 19th century – a number of American merchants made it big off selling Turkish opium in China as an alternative to the Indian opium being sold by British smugglers.
+
