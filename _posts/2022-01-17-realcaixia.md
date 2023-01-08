@@ -105,7 +105,7 @@ Re @wuzuolai 祚来老师大度平和🌹🌹👍。
 
 ### 23: [2022-01-22 01:47:52+08:00 推文](https://twitter.com/realcaixia/status/1484583540524212232)
 
-真是转频道精彩绝伦！风趣幽默且智慧。<br><br>BBC News 中文: “你好，认识你很高兴！”<br><br>英国首相约翰逊被自由民主党党魁埃德·戴维爵士要求下台时，忽然用普通话跟议长打招呼，引起全场哄动。<br><br>戴维爵士在担任能源大臣期间，收受李贞驹5,000英镑捐款。军情五处（MI5）最近警告，李贞驹为中国共产党秘密渗透议会。<br><br>有人估计约翰逊突然“转频道”，是为挖苦戴维爵士。<br><br><video src="https://video.twimg.com/amplify_video/1484447221491904516/vid/640x360/jaTYWOrx3n5ZRB6N.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/FJxneogXwAIvRjJ?format=jpg&name=orig"></video>
+真是转频道精彩绝伦！风趣幽默且智慧。<br><br>BBC News 中文: “你好，认识你很高兴！”<br><br>英国首相约翰逊被自由民主党党魁埃德·戴维爵士要求下台时，忽然用普通话跟议长打招呼，引起全场哄动。<br><br>戴维爵士在担任能源大臣期间，收受李贞驹5,000英镑捐款。军情五处（MI5）最近警告，李贞驹为中国共产党秘密渗透议会。<br><br>有人估计约翰逊突然“转频道”，是为挖苦戴维爵士。<br><br><video src="https://video.twimg.com/amplify_video/1484447221491904516/vid/640x360/jaTYWOrx3n5ZRB6N.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/FJxneogXwAIvRjJ?format=jpg&amp;name=orig"></video>
 
 ### 24: [2022-01-22 19:19:29+08:00 推文](https://twitter.com/realcaixia/status/1484848186212638720)
 
