@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-01-07
+date: 2023-01-08
 from: https://old.reddit.com/r/StupidFood/comments/101efy9/seafood_monstrosity/
 layout: post
 tags:
@@ -174,4 +174,10 @@ Hyperdimension Neptunia’s been getting away with it for over a decade though.
 ----- __1037.1__ -----2023-01-08 01:41:39+08:00:
 
 It's easily overlooked that Smyrna was one of the major export hubs for opium in the 19th century – a number of American merchants made it big off selling Turkish opium in China as an alternative to the Indian opium being sold by British smugglers.
+
+### 1038: [Any historical interaction between China and major states in India?](https://old.reddit.com/r/ChineseHistory/comments/106b4ep/any_historical_interaction_between_china_and/), submitted on 2023-01-08 13:41:00+08:00.
+
+----- __1038.1__ -----2023-01-08 19:31:26+08:00:
+
+It'd be tricky as China proper has historically not had a land border with the general South Asia region. While there was significant Chinese contact with Iran-based states, particularly the early Caliphates, this was mediated via Central Asia and a direct result of mutual competing interests in the earlier part of the Tang Empire's existence, which coincided with a period of relative fragmentation in northern India. The only subsequent contacts into South Asia would therefore have had to involve either competing interest in Central Asia or in Tibet, which is why ultimately the first significant 'Sino'-'Indian' contacts would be under the Qing: the conflicts with Nepal in the 1790s and the Sikh Empire in the 1840s. That's not to say there was not interest, nor, more importantly, that private individuals did not travel from one to the other, but it is to say that actual diplomacy was pretty limited. The thing to read on this is Matthew Mosca's *From Frontier Policy to Foreign Policy*, which discusses Qing impressions of India and relations with Indian states and latterly the East India Company. You may also be interested in [this article](https://quod.lib.umich.edu/s/saksaha/13401746.0018.002?view=text;rgn=main) also by Mosca which discusses early Manchu claims to suzerainty over India.
 
