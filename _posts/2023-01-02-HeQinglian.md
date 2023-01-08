@@ -731,3 +731,51 @@ Re @JianglinLi 要是知道哪些人出身于白豹党，挺有意思。
 
 李南央：<br>下面链接介绍了陈力简在国内81岁的父母感染后，父亲高烧到40度，母亲39度，请住家保姆在楼下药店买了以下三种药，吃后第二天退烧（药名是听众在跟帖中写的，请听后再确认一下）。<br>阿奇霉素 Azithromycin<br>硫酸羟氯喹 Hydroxychloroquine<br>硫酸锌 Zinc<br><br>仅供参考，祝平安 <a href="https://www.youtube.com/watch?v=-aeHU1_NzJo" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=-aeHU1_NzJo</a>
 
+### 180: [2023-01-08 14:36:23+08:00 推文](https://twitter.com/SSK2024/status/1611975084851306497)
+
+RT 萧生客SSK🇺🇸🇨🇦<br>历尽4天15轮的美国众议院议长选举获胜的麦卡锡将功归于川普总统！<br>首场致辞，麦卡锡提到追溯新冠病毒起源将会是新国会的工作重点之一。<br><br>“国会回来后的第一个法案 ，就是撤销对87,000名国税局额外特工的资金。我们相信政府部门应当帮助人们（纳税人），而非监视与追逐纳税人！” <a href="https://mp.weixin.qq.com/s/mcfPMEm0-B9jkUhZEYOnmg" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/mcfPMEm0-B9jkUhZEYOnmg</a><br><img style="" src="https://pbs.twimg.com/media/Fl7iy7MXEAAbLrw?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fl7iy7PWIAIKyDG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fl7iy7PWQAEyzBe?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fl7iy7NXwAETlMF?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 181: [2023-01-08 21:58:42+08:00 推文](https://twitter.com/HeQinglian/status/1612086394096058374)
+
+Re @eGUAbe2V7j26GHw 令尊90高龄，已为嵩寿，如今还归道山，唯一的遗憾是在这个特殊的时段仙逝。<br>人到中年，才知父母的好处。其实不是子欲养而亲不在，于你是失去一位亦师亦友的良友。不过，在世风浮躁日甚，有子实诚如此，令尊应该甚慰。
+
+### 182: [2023-01-08 22:01:19+08:00 推文](https://twitter.com/HeQinglian/status/1612087055852474369)
+
+这堕落速度，比拜登美国还快，与加州比肩。<br><br>Peter Xie/🇨🇦PPC🇨🇦: 加拿大的執業醫生律師，心理學家和其他專業人士，如果在自己專業，有政府相左的意見時<br><br>將面臨被強制押送【思想教育營】進行【思想再教育】<br><br>此類培訓課程將記錄報告，學員的“進步”<br><br>否則將面臨法庭審理，並暫停專業牌照<br><br>加拿大離開中國專政社會，只差一步之遙<br> <a href="https://www.spectator.com.au/2023/01/canada-to-re-educate-jordan-peterson-for-wrongthink/" target="_blank" rel="noopener noreferrer">https://www.spectator.com.au/2023/01/canada-to-re-educate-jordan-peterson-for-wrongthink/</a>
+
+### 183: [2023-01-08 22:04:03+08:00 推文](https://twitter.com/HeQinglian/status/1612087741612695554)
+
+Re @xiangga01311913 @yeomenry 😅<br>如果你永远长不大，建议你去看一下心理医生，治治你的巨婴症。<br>我这里不留你，因为不是育婴园，更何况是智障儿童。<br>别侮辱了右派。
+
+### 184: [2023-01-08 22:12:31+08:00 推文](https://twitter.com/HeQinglian/status/1612089874781274112)
+
+Re @JianglinLi @HongfuDing @ngexp 如果咱们对美国政治判断基本正确的话，对本届国会的期望应该止于一点：让拜登政府成为跛脚鸭政府，少干点损害美国的事情，这是最低目标。、<br>最高目标是：出台限制作弊的选举法案，让2024年少出现舞弊操控选举现象。<br>其余的，能做多少算多少。<br>美国左派准备了大半个世纪的共产主义2.0理想，不会就此收摊
+
+### 185: [2023-01-08 22:19:37+08:00 推文](https://twitter.com/HeQinglian/status/1612091658891579392)
+
+Re @JianglinLi @HongfuDing @ngexp 仅仅德州就有380多家联邦政府资助的庇护所，人家与各种NGO一道发扬人道主义，只能说，有这个众议院看着，不会再出来每个非法移民补偿8万美元精神损失费的总统令了。
+
+### 186: [2023-01-08 22:23:23+08:00 推文](https://twitter.com/HeQinglian/status/1612092607571849217)
+
+Re @shenliangqing2 实话实说。美国还有一些非主流报纸经常批判揭露一下拜登政府的荒唐；华人虽然多左，也还有我等愿意顶着左疯的毒攻，正视这些问题并揭露之（尽管无地发表）。加拿大的华人多，至今也没见到一篇完整系统揭露左派暴政的文章。<br>别作更多想象了，不少移民生意还将加拿大描绘成人间天堂。
+
+### 187: [2023-01-08 22:23:55+08:00 推文](https://twitter.com/HeQinglian/status/1612092742750068736)
+
+Re @JianglinLi @HongfuDing @ngexp 这是条食物链，索罗斯会养下去。
+
+### 188: [2023-01-08 22:44:45+08:00 推文](https://twitter.com/HeQinglian/status/1612097982509318145)
+
+Re @FightForJiuCai 这世界……，我无话可说。<br>昨天有位推友说韩战僵持时，金日成不听毛斯停战招呼这段事情。我突然想起李承晚不听美国招呼，后来FBI对待他的种种，在《第一共和国》这部纪实电视里有反映。
+
+### 189: [2023-01-08 22:49:52+08:00 推文](https://twitter.com/HeQinglian/status/1612099270571659264)
+
+Re @shenliangqing2 @JianglinLi 我前些天下载了一篇《社会反抗为何越来越没有效应？》，是美国一个研究机构发布的，还未仔细看。虽然说的都是半专制国家的例子，其实挺符合美国、法等国状态。<br>法国黄马甲曾闹过36次，要求几乎未获任何满足。
+
+### 190: [2023-01-08 23:33:04+08:00 推文](https://twitter.com/HeQinglian/status/1612110143994605570)
+
+Re @JianglinLi 想来甚是荒唐，左派的套路是：先是从摇篮到坟墓，高税收高福利，政府全包了；然后满世界撒爱心，拯救贫穷国家的穷人；最后税收不能再高，高福利难以维持，于是开始让本国民众安乐死了。<br>喜欢左派政府的人，不知到了这步还喜欢么？
+
+### 191: [2023-01-08 23:54:37+08:00 推文](https://twitter.com/HeQinglian/status/1612115566948651008)
+
+哪位有兴趣给这个推号扫盲？<br>我现在对灯塔教徒厌烦，也对西方盲厌烦。<br><br>Alex🌊: @HeQinglian @JianglinLi 胡扯，左派的问题是没有福利<br>
+

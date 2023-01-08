@@ -54,7 +54,7 @@ Some other recommendations I have seen but not pursued myself are:
 
 * M. William Steele, *Alternative Narratives in Modern Japanese History* (2003)
 * Mark Ravina, *To Stand with the Nations of the World: Japan's Meiji Restoration in World History* (2018)
-* Michael Wert, * Meiji Restoration Losers: Memory and Tokugawa Supporters in Modern Japan* (2013)
+* Michael Wert, *Meiji Restoration Losers: Memory and Tokugawa Supporters in Modern Japan* (2013)
 
 Note that the Ravina book above places significant emphasis on the Ezo 'Republic' and the issues with its characterisation as such. You may also find some chapters in the edited volume *The Meiji Restoration: Japan as a Global Nation* to be of interest.
 
