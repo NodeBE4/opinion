@@ -23,3 +23,7 @@ Re @shenliangqing2 早就不理了。
 
 Re @david_david1968 年逾半百。既不小，也不清新。
 
+### 3: [2023-01-09 05:17:52+08:00 推文](https://twitter.com/HeQinglian/status/1612196915311185920)
+
+Re @ericxu1997 彩虹灿烂地平线，自己高兴就好。话说，如果这人不彩虹，有可能连这悼念都没有。
+
