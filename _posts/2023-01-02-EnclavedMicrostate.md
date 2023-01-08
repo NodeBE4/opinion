@@ -195,3 +195,17 @@ The thing is, the Federation's model may not actually be impractical: it probabl
 
 It'd be tricky as China proper has historically not had a land border with the general South Asia region. While there was significant Chinese contact with Iran-based states, particularly the early Caliphates, this was mediated via Central Asia and a direct result of mutual competing interests in the earlier part of the Tang Empire's existence, which coincided with a period of relative fragmentation in northern India. The only subsequent contacts into South Asia would therefore have had to involve either competing interest in Central Asia or in Tibet, which is why ultimately the first significant 'Sino'-'Indian' contacts would be under the Qing: the conflicts with Nepal in the 1790s and the Sikh Empire in the 1840s. That's not to say there was not interest, nor, more importantly, that private individuals did not travel from one to the other, but it is to say that actual diplomacy was pretty limited. The thing to read on this is Matthew Mosca's *From Frontier Policy to Foreign Policy*, which discusses Qing impressions of India and relations with Indian states and latterly the East India Company. You may also be interested in [this article](https://quod.lib.umich.edu/s/saksaha/13401746.0018.002?view=text;rgn=main) also by Mosca which discusses early Manchu claims to suzerainty over India.
 
+### 1040: [[Hobby Scuffles] Week of January 9, 2023](https://old.reddit.com/r/HobbyDrama/comments/106kkcq/hobby_scuffles_week_of_january_9_2023/), submitted on 2023-01-08 22:30:12+08:00.
+
+----- __1040.1__ -----2023-01-09 02:31:18+08:00:
+
+> appeared as a guest in Kizuna Ai's year-end concert
+
+Wait, I thought she was still on hiatus?
+
+----- __1040.2__ -----2023-01-09 02:33:08+08:00:
+
+> Games Workshop’s attempt to do this a while back
+
+I have a vague inkling I know what you're talking about, but is there a summary or article you can link to so I can read up on it properly? I've known about the general vibe of GW's IP-milking but never really dug into the specifics.
+
