@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2023-01-07
+date: 2023-01-08
 from: https://twitter.com/realcaixia/status/1609584095205654529
 layout: post
 tags:
@@ -122,4 +122,12 @@ Re @NewCenturyBaopu 我也对这篇文章存疑。
 ### 27: [2023-01-07 09:48:35+08:00 推文](https://twitter.com/realcaixia/status/1611540266007302154)
 
 Re @SitsangTsien 记得医大的后门就是长海医院。
+
+### 28: [2023-01-08 11:25:21+08:00 推文](https://twitter.com/realcaixia/status/1611927008312971265)
+
+中共三年前大量隱瞞死亡人數，三年後依舊故技重演。三年前世界受騙，三年後好像騙過全世界，就必定是自欺欺人。習近平與中共政府的撒謊欺騙只能反證他們的邪惡、無恥與卑劣。<br><br>杨占青: 上海医生自曝根本无法开出新冠死亡证明，自己在开具了新冠感染死亡证明后，被医院要求更改死亡原因。评论区里大量实名认证的医师也表示无奈。<br><br><img style="" src="https://pbs.twimg.com/media/Flyxw1AXwAUCTNb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Flyxw08XkAAHVcN?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 29: [2023-01-08 11:46:27+08:00 推文](https://twitter.com/realcaixia/status/1611932316472860674)
+
+强烈推荐这两期YouTube节目。明居正老师和范畴先生各从不同角度分析了2023年习当局与中共极权体制的根本性危险。非常值得认真看两遍。<br><br>江澤民逝曾慶紅危險?北戴河血拚誰將崩盤? 總加速師習近平-後中共的中國 不可不知 天下大勢推演。2023.01.07 <a href="https://youtu.be/eT2eWxsqL0g" target="_blank" rel="noopener noreferrer">https://youtu.be/eT2eWxsqL0g</a>
 
