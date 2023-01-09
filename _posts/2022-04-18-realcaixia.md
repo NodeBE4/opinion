@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2022-04-18~2022-04-24'
 
 ### 2: [2022-04-18 05:15:28+08:00 推文](https://twitter.com/realcaixia/status/1515801140885082113)
 
-根據我对中共内部的了解，下面這網友推文可信度比較高。以往党内清除异己的对象若是男性官员，實在挖不出貪腐走私販毒之類時，最好用的就是“嫖娼”罪。“嫖娼”罪已没人信臭大街了，居然又造个新罪名“看黄片”。欲加之罪何患无辞！<br>真心劝中共官员看清党内的血腥残暴，多想想时代大势人心向背儿孙命运。<br><br>GenX Lin: @zhu0588 孔令宝先生原先是区委书记，正处级，下属女公务员几百个。他没有潜规则女下属，通过看小黄片解决个人性压力，即环保又文明！ 他被捕的真实原因，是“发表不当言论”，他説了“不能再给共产党卖命了” 这话，被政治对手录音。 然后也找不出其他贪腐事实，就用看小黄片抹黑他的形象<br> <a href="https://twitter.com/_civil_rights/status/1345378372067577857" target="_blank" rel="noopener noreferrer">https://twitter.com/_civil_rights/status/1345378372067577857</a>
+根據我对中共内部的了解，下面這網友推文可信度比較高。以往党内清除异己的对象若是男性官员，實在挖不出貪腐走私販毒之類時，最好用的就是“嫖娼”罪。“嫖娼”罪已没人信臭大街了，居然又造个新罪名“看黄片”。欲加之罪何患无辞！<br>真心劝中共官员看清党内的血腥残暴，多想想时代大势人心向背儿孙命运。
 
 ### 3: [2022-04-18 07:49:11+08:00 推文](https://twitter.com/realcaixia/status/1515839822526652419)
 
@@ -85,7 +85,7 @@ Re @yangjianli001 哈哈！
 
 ### 18: [2022-04-19 23:39:13+08:00 推文](https://twitter.com/realcaixia/status/1516441293584580611)
 
-这条视频满是网友评语飘过。弹幕恰反映了真实民意。党国官媒造神以为这就能搞定人心向背，看看这条视频，就知他们是在自欺欺人。 <a href="https://twitter.com/seer_cold_mist/status/1515919805756280835" target="_blank" rel="noopener noreferrer">https://twitter.com/seer_cold_mist/status/1515919805756280835</a>
+这条视频满是网友评语飘过。弹幕恰反映了真实民意。党国官媒造神以为这就能搞定人心向背，看看这条视频，就知他们是在自欺欺人。 <a href="https://twitter.com/Seer_Cold_Mist/status/1515919805756280835" target="_blank" rel="noopener noreferrer">https://twitter.com/Seer_Cold_Mist/status/1515919805756280835</a>
 
 ### 19: [2022-04-19 23:59:31+08:00 推文](https://twitter.com/realcaixia/status/1516446403698040841)
 
@@ -109,7 +109,7 @@ Re @yangjianli001 哈哈！
 
 ### 24: [2022-04-20 03:26:12+08:00 推文](https://twitter.com/realcaixia/status/1516498415617773572)
 
-💔😭<br><br>变态辣椒RebelPepper: 上海一保姆講述她照顧的一位老太太因為封城隔離無法及時照顧，被活活餓死，老太太死之前保姆最後一次有機會去看她的時候已經餓到在吃屎<br><br><video src="https://video.twimg.com/ext_tw_video/1516146424903258125/pu/vid/540x952/YX2YY61UDRAdheMV.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1516146424903258125/pu/img/D2eJR8-ro5daj1ha.jpg"></video>
+💔😭
 
 ### 25: [2022-04-20 03:32:53+08:00 推文](https://twitter.com/realcaixia/status/1516500100159258631)
 
@@ -161,7 +161,7 @@ Re @henry50383806 @lianchaohan 一直挖下去！让真相大白于天下！
 
 ### 37: [2022-04-22 22:58:07+08:00 推文](https://twitter.com/realcaixia/status/1517518115160080386)
 
-比较同意这个推友的看法。
+比较同意这个推友的看法。<br><br>Henry Chang: 莫把中共神秘化。中共就是当代的八旗兵，是泛官僚体系、准军事组织<br>共产党员早已没有一丁点理想，有的只是通过加入这个自利型集团谋取私利的贪婪。<br>但是，不同阶层的党员的政治倾向是不同的。<br>权贵、上层是顽固分子，局级是易动摇可争取的阶层，处级以下则与普罗大众无异，是随时被踩在脚底下口香糖。<br>
 
 ### 38: [2022-04-23 00:44:52+08:00 推文](https://twitter.com/realcaixia/status/1517544978972614657)
 
@@ -189,7 +189,7 @@ Re @caojitw 另一边脚看着是摆在椅子往下，这边脚是踩实了地�
 
 ### 44: [2022-04-23 11:34:05+08:00 推文](https://twitter.com/realcaixia/status/1517708362615468033)
 
-这位善良的阿姨，在上海照顾老人，她叙述了老人在最后的日子里令人心碎的求生情境。我前几天在推特上转发过这个阿姨的述说。语言无法表达我的内心，谁没有长辈？谁家没有老人？<br>现在中共警方处罚阿姨，并且坏球报胡叼盘出来洗地，只能说明两点：1，中共害怕一切真相；2，习当局毫无人性。<br><br>QWERTY: 臥槽，一個保姆，做飯的阿姨，環球出手啦，國家隊出手啦，哈哈哈哈不是真的才怪😂😂<br><br><img style="" src="https://pbs.twimg.com/media/FQ2RJ67aQAADvJW?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+这位善良的阿姨，在上海照顾老人，她叙述了老人在最后的日子里令人心碎的求生情境。我前几天在推特上转发过这个阿姨的述说。语言无法表达我的内心，谁没有长辈？谁家没有老人？<br>现在中共警方处罚阿姨，并且坏球报胡叼盘出来洗地，只能说明两点：1，中共害怕一切真相；2，习当局毫无人性。
 
 ### 45: [2022-04-23 18:32:24+08:00 推文](https://twitter.com/realcaixia/status/1517813631769063430)
 
@@ -197,7 +197,7 @@ Re @caojitw 另一边脚看着是摆在椅子往下，这边脚是踩实了地�
 
 ### 46: [2022-04-24 01:53:59+08:00 推文](https://twitter.com/realcaixia/status/1517924761824808962)
 
-普大帝与习大帝大概同病相怜。感觉习大帝也有腿打晃的，只是掩盖得比普大帝高明。<br><br>💙NiKITa💛🇺🇦🇪🇺: 今日普丁，👀腿<br><br><video src="https://video.twimg.com/ext_tw_video/1517900449483005954/pu/vid/624x352/OO3ARYTE93ktNC5L.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1517900449483005954/pu/img/RfL1S1xH_OMPQrdM.jpg"></video>
+普大帝与习大帝大概同病相怜。感觉习大帝也有腿打晃的，只是掩盖得比普大帝高明。
 
 ### 47: [2022-04-24 22:29:10+08:00 推文](https://twitter.com/realcaixia/status/1518235606777704449)
 
