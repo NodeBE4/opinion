@@ -17,7 +17,7 @@ The China Media Project (中国传媒研究计划) is an independent think
 
 ### 1: [2022-05-02 11:32:37+08:00 推文](https://twitter.com/puzhiqiang/status/1520969483350814720)
 
-RT 浦志强<br>我当然乐见中美关系恢复正常，但真想释放善意，至少换个人传递声音才行，阴阳怪气松松垮垮嘴脸道貌岸然的不行，所以赵立坚、汪文斌、华春莹都得换才行。我估计，环球时报、观察者网、共青团中央，加上外交部这三位发言人，乃至其部长王毅，已然是外国人眼中，中国的象征了。<br><br>新闻调查: 赵战狼收敛言辞，话风急转，修补中美关系。请求在座记者多做促进中美人民友谊的事情<br><br><video src="https://video.twimg.com/ext_tw_video/1520617504942731265/pu/vid/848x560/crGzKU-GxPLUtpVa.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1520617504942731265/pu/img/7A1kdP3cG2dds8V9.jpg"></video>
+RT 浦志强<br>我当然乐见中美关系恢复正常，但真想释放善意，至少换个人传递声音才行，阴阳怪气松松垮垮嘴脸道貌岸然的不行，所以赵立坚、汪文斌、华春莹都得换才行。我估计，环球时报、观察者网、共青团中央，加上外交部这三位发言人，乃至其部长王毅，已然是外国人眼中，中国的象征了。
 
 ### 2: [2022-05-02 21:31:13+08:00 推文](https://twitter.com/RuanVictoria/status/1521120126862508032)
 
