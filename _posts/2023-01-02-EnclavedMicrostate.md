@@ -209,3 +209,11 @@ Wait, I thought she was still on hiatus?
 
 I have a vague inkling I know what you're talking about, but is there a summary or article you can link to so I can read up on it properly? I've known about the general vibe of GW's IP-milking but never really dug into the specifics.
 
+----- __1040.3__ -----2023-01-09 08:54:50+08:00:
+
+Cheers!
+
+----- __1040.4__ -----2023-01-09 08:55:43+08:00:
+
+Huh. I knew that the Japanese side of Multiple AI was reworked into two new VTubers outright but I had no idea the Chinese side was retained. I wrote about Multiple AI [here](https://www.reddit.com/r/HobbyDrama/comments/th0gow/virtual_youtubers_the_first_years_of_vtubing/) but as said, no idea the Chinese side had continued.
+
