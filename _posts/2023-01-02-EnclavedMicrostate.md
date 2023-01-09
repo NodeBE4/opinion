@@ -217,3 +217,7 @@ Cheers!
 
 Huh. I knew that the Japanese side of Multiple AI was reworked into two new VTubers outright but I had no idea the Chinese side was retained. I wrote about Multiple AI [here](https://www.reddit.com/r/HobbyDrama/comments/th0gow/virtual_youtubers_the_first_years_of_vtubing/) but as said, no idea the Chinese side had continued.
 
+----- __1040.5__ -----2023-01-09 11:32:55+08:00:
+
+I'm going purely off plot summary and wider context here, but it feels like the story of Wu Zetian is the easiest one to fall into a girlboss trap over. I'm also going to say this: for someone who publicly decries Han chauvinism, choosing to present peoples beyond SciFi!China as literal mythological-alien monster creatures is a *choice*, even if it is ultimately subverted by revealing the setting is in fact a colonial one, with Space!China as the coloniser.
+
