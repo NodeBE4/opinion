@@ -83,3 +83,11 @@ Re 世界在迅速变化，有些人习惯“刻舟求剑”，来我这里重�
 
 Re @JianglinLi @OfcIQOD2XkWhsKt 仅仅是医药费就得仰赖民主党政府恩赐，不听话不得食。
 
+### 18: [2023-01-10 02:33:01+08:00 推文](https://twitter.com/HeQinglian/status/1612517818469081093)
+
+Re @JianglinLi @HongfuDing @RealBeiMing @ngexp 看了这个串推的全部。理想很丰满，希望能够落实。<br>共和党众议院里MAGA占大多数，实是好事。想起左媒与民主党将MAGE有近20位落选（160多位当选）当作红潮没来，实在是自欺欺人。
+
+### 19: [2023-01-10 04:22:47+08:00 推文](https://twitter.com/HeQinglian/status/1612545441781915673)
+
+Re @desheng777777 请看内文所引数据，然后再发言。不是我的推断，是大数据与北京数据。
+
