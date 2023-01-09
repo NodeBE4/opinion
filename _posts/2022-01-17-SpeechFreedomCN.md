@@ -37,7 +37,7 @@ Re Human rights lawyer Xie Yang (@xieyang911), who was found guilty of inciting 
 
 ### 6: [2022-01-19 20:05:52+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1483772694034370562)
 
-Shaanxi man Li fined 500 RMB for spreading a "rumor" in a WeChat group chat that PCR tests should not be done too shortly after vaccination, or the result might falsely be positive. However, health authority in Guangdong Province clarified that the "rumor" is evidently true.<br><img style="" src="https://pbs.twimg.com/media/FJdqkQoWYAUPfaj?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FJdqlx9XMAAktbX?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Shaanxi man Li fined 500 RMB for spreading a "rumor" in a WeChat group chat that PCR tests should not be done too shortly after vaccination, or the result might falsely be positive. However, health authority in Guangdong Province clarified that the "rumor" is evidently true.<br><img style src="https://pbs.twimg.com/media/FJdqkQoWYAUPfaj?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FJdqlx9XMAAktbX?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2022-01-21 18:58:10+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1484480433538707456)
 
