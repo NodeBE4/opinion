@@ -235,19 +235,31 @@ RT He Qinglian<br>Re @eGUAbe2V7j26GHw 我的猜想是12月初放开，感染�
 
 RT 李江琳<br>今年年底验证：将会在2023年被证实的10个阴谋论： <a href="https://headlineusa.com/sellers-10-conspiracy-theories-validate-2023/" target="_blank" rel="noopener noreferrer">https://headlineusa.com/sellers-10-conspiracy-theories-validate-2023/</a>
 
-### 56: [2023-01-01 23:29:38+08:00 推文](https://twitter.com/HeQinglian/status/1609572562694197250)
+### 56: [2023-01-01 23:19:50+08:00 推文](https://twitter.com/JianglinLi/status/1609570099182043136)
+
+RT 李江琳<br>Re 3. 中国对美国政府控制的范围将会更加清晰。<br>4. David DePape  与 Paul Pelosi 关系的真实性质将会揭晓。<br>5. 我们将会知道川普窃取的海湖庄园档案的真实内容。
+
+### 57: [2023-01-01 23:22:12+08:00 推文](https://twitter.com/JianglinLi/status/1609570692843900935)
+
+RT 李江琳<br>Re 6. 我们将会了解民主党对乔·拜登的意图，以及谁将会被用来取代他。<br>7. 我们将揭开美国与乌克兰合作研究和开发生物武器的真相。<br>8. 左派使恋童癖正常化和主流化的计划将会实现。
+
+### 58: [2023-01-01 23:24:01+08:00 推文](https://twitter.com/JianglinLi/status/1609571150824087555)
+
+RT 李江琳<br>Re 9. 世界经济论坛将带头尝试将人类变成美化的矩阵式电池。<br>10. 随着大型科技公司与间谍机构之间的关系更加清晰，我们将了解到我们的个人设备正在跟踪我们的一举一动。
+
+### 59: [2023-01-01 23:29:38+08:00 推文](https://twitter.com/HeQinglian/status/1609572562694197250)
 
 Re @dinglili7 以前，俄罗斯GDP总量在全世界排13位，到今年3月看2022年数据，就知道这世界上前15位谁多收了三五斗。
 
-### 57: [2023-01-01 23:36:32+08:00 推文](https://twitter.com/HeQinglian/status/1609574301115498496)
+### 60: [2023-01-01 23:36:32+08:00 推文](https://twitter.com/HeQinglian/status/1609574301115498496)
 
 新保守主义主张减税、小政府、降低福利、限制非法移民，与川普主张相差不大。为什么他们“永不川普”（never trump），在2020年更是成为民主党支持者宁可要拜登也不要川普？似乎二者的差别主要在让美国伟大与全球主义这一点上。林肯项目有金钱驱动，其他的新保守主义为何如此？<br>以此就教于方家。<br><br>北美保守评论🇺🇸🇨🇦: 《泰勒·格林表示，许多共和党议员已经进一步向右移动》<br><br>如果这确实发生了，那么这对美国保守派和美国来说，都是值得庆幸的事。因为这意味着向基督教保守主义价值观的回归。“选民能做的最重要的事情是，确保你们对众议院共和党人的支持和声音比K街的游说者和大公司更强大。”<br><br><img style="" src="https://pbs.twimg.com/media/FlVOb5aXwAAR39e?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://nacr.info/WordPress/index.php/2022/12/31/taylor-greene-says-many-gop-lawmakers-have-moved-further-right/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/12/31/taylor-greene-says-many-gop-lawmakers-have-moved-further-right/</a>
 
-### 58: [2023-01-01 23:38:54+08:00 推文](https://twitter.com/HeQinglian/status/1609574896182362112)
+### 61: [2023-01-01 23:38:54+08:00 推文](https://twitter.com/HeQinglian/status/1609574896182362112)
 
 Re 新保守主义希望的全球主义政府不可能是低税收、低福利、限制非法移民，而且新保守主义的对外积极军事干预，与民主党极为一致。<br>这个新保守主义要么是自欺欺人，如果真实践，命不长久。
 
-### 59: [2023-01-01 23:41:29+08:00 推文](https://twitter.com/HeQinglian/status/1609575546266030081)
+### 62: [2023-01-01 23:41:29+08:00 推文](https://twitter.com/HeQinglian/status/1609575546266030081)
 
 有兴趣的推友可看这个串推。<br><br>李江琳: 今年年底验证：将会在2023年被证实的10个阴谋论：<br> <a href="https://headlineusa.com/sellers-10-conspiracy-theories-validate-2023/" target="_blank" rel="noopener noreferrer">https://headlineusa.com/sellers-10-conspiracy-theories-validate-2023/</a>
 

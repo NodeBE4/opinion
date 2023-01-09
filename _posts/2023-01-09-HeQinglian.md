@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-01-09
+date: 2023-01-10
 from: https://twitter.com/HeQinglian/status/1612159473014947840
 layout: post
 tags:
@@ -29,7 +29,7 @@ Re @ericxu1997 彩虹灿烂地平线，自己高兴就好。话说，如果这�
 
 ### 4: [2023-01-09 08:19:30+08:00 推文](https://twitter.com/HeQinglian/status/1612242623472828416)
 
-美国正在重组供应链，希望墨西哥制造能够取代中国制造。不过，就连墨西哥的分析者也说，短期内无法完全替代中国制造，毕竟设备到位、人力培训都需要时间<br>这有个过程，会变成什么样，得看中国疫情一是会不会演变为长新冠，二是看疫情何时结束。中国还有几个月时间窗口。<br><br>日经中文网: 【“债券王”冈拉克：全球化倒退将是新常态】杰弗里·冈拉克：美国和欧洲人一直依靠中国的低价商品维持生活，今后将变得困难。生活水平非但不会提高，反而可能恶化。欧洲的部分地区正在变穷。日本也会变穷。中国也不太妙。2023年下半年起，美国经济指标将明显恶化……<br> <a href="https://cn.nikkei.com/columnviewpoint/viewpoint/51040-2023-01-09-04-59-22.html" target="_blank" rel="noopener noreferrer">https://cn.nikkei.com/columnviewpoint/viewpoint/51040-2023-01-09-04-59-22.html</a>
+美国正在重组供应链，希望墨西哥制造能够取代中国制造。不过，就连墨西哥的分析者也说，短期内无法完全替代中国制造，毕竟设备到位、人力培训都需要时间<br>这有个过程，会变成什么样，得看中国疫情一是会不会演变为长新冠，二是看疫情何时结束。中国还有几个月时间窗口。<div class="rsshub-quote"><br><br>日经中文网: 【“债券王”冈拉克：全球化倒退将是新常态】杰弗里·冈拉克：美国和欧洲人一直依靠中国的低价商品维持生活，今后将变得困难。生活水平非但不会提高，反而可能恶化。欧洲的部分地区正在变穷。日本也会变穷。中国也不太妙。2023年下半年起，美国经济指标将明显恶化……<br> <a href="https://cn.nikkei.com/columnviewpoint/viewpoint/51040-2023-01-09-04-59-22.html" target="_blank" rel="noopener noreferrer">https://cn.nikkei.com/columnviewpoint/viewpoint/51040-2023-01-09-04-59-22.html</a></div>
 
 ### 5: [2023-01-09 11:16:22+08:00 推文](https://twitter.com/HeQinglian/status/1612287134333022208)
 
@@ -66,4 +66,20 @@ Re @Lucs24659702 Good Job.
 ### 13: [2023-01-09 23:46:30+08:00 推文](https://twitter.com/HeQinglian/status/1612475911856861186)
 
 一年来的心得：<br>讨论世界变化，国人习惯于冷战模式思考，两大阵营正邪分明。<br>事实是：1990年代冷战结束后，美国智库研究转向地缘政治。两大类研究不可不读：代理人战争与经济制裁。<br>关于美国经济制裁效果的文章我给过链接。<br>现给另一链接：美国“127e”项目及其支持的代理人战争 <a href="https://theintercept.com/2022/07/01/pentagon-127e-proxy-wars/" target="_blank" rel="noopener noreferrer">https://theintercept.com/2022/07/01/pentagon-127e-proxy-wars/</a>
+
+### 14: [2023-01-09 23:51:52+08:00 推文](https://twitter.com/HeQinglian/status/1612477264406679553)
+
+Re @JianglinLi @OfcIQOD2XkWhsKt 曾几何时，退休者是民主党的票仓。
+
+### 15: [2023-01-09 23:58:38+08:00 推文](https://twitter.com/HeQinglian/status/1612478966798893060)
+
+Re @JianglinLi @OfcIQOD2XkWhsKt 变性人会听话，发展出上千万就行了。如今13-17岁的已经达168万（去年上半年数据，现肯定更多），13岁以下的是国家机密。
+
+### 16: [2023-01-10 00:00:30+08:00 推文](https://twitter.com/HeQinglian/status/1612479434208038916)
+
+Re 世界在迅速变化，有些人习惯“刻舟求剑”，来我这里重复去年3月初的美乌信息战宣传三字经，这举动未必伤得到别人，伤的是自己，证明自己是巨婴，永远也长不大。
+
+### 17: [2023-01-10 00:01:26+08:00 推文](https://twitter.com/HeQinglian/status/1612479668346671105)
+
+Re @JianglinLi @OfcIQOD2XkWhsKt 仅仅是医药费就得仰赖民主党政府恩赐，不听话不得食。
 
