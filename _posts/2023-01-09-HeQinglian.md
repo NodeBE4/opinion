@@ -37,7 +37,7 @@ Re @JianglinLi 人家公开宣称，挂在网站上，是阳谋，不是别人�
 
 ### 6: [2023-01-09 22:19:36+08:00 推文](https://twitter.com/HeQinglian/status/1612454044223537155)
 
-117届国会，有投票权的435个众议院席位当中，民主党占220席，共和党占212席，另有3席空缺：本届（118届）众议院将有222名共和党议员和212名民主党议员，另有1个席位空缺。<br>117届民主党220席，那时媒体说“掌控众议院的民主党”；118届共和党222席，媒体不断强调微弱多数。<br>媒体连这小事都不忘双标。😅<br><br>联合早报 Lianhe Zaobao: 美国众议院戏剧性的新议长选举已经结束，新一届国会已宣誓就职。以微弱多数领导众议院的共和党人未来两年在推进各项立法议程时，预计将遇到民主党人强而有力的挑战。不过对共和党人来说，计划针对中国采取的一些强硬立法措施，很可能成为能赢得民主党人支持、为数不多的亮点。<br> <a href="https://www.zaobao.com.sg/realtime/world/story20230109-1351685" target="_blank" rel="noopener noreferrer">https://www.zaobao.com.sg/realtime/world/story20230109-1351685</a>
+117届国会，有投票权的435个众议院席位当中，民主党占220席，共和党占212席，另有3席空缺：本届（118届）众议院将有222名共和党议员和212名民主党议员，另有1个席位空缺。<br>117届民主党220席，那时媒体说“掌控众议院的民主党”；118届共和党222席，媒体不断强调微弱多数。<br>媒体连这小事都不忘双标。😅<div class="rsshub-quote"><br><br>联合早报 Lianhe Zaobao: 美国众议院戏剧性的新议长选举已经结束，新一届国会已宣誓就职。以微弱多数领导众议院的共和党人未来两年在推进各项立法议程时，预计将遇到民主党人强而有力的挑战。不过对共和党人来说，计划针对中国采取的一些强硬立法措施，很可能成为能赢得民主党人支持、为数不多的亮点。<br> <a href="https://www.zaobao.com.sg/realtime/world/story20230109-1351685" target="_blank" rel="noopener noreferrer">https://www.zaobao.com.sg/realtime/world/story20230109-1351685</a></div>
 
 ### 7: [2023-01-09 22:27:48+08:00 推文](https://twitter.com/HeQinglian/status/1612456108601253888)
 
@@ -87,7 +87,19 @@ Re @JianglinLi @OfcIQOD2XkWhsKt 仅仅是医药费就得仰赖民主党政府恩
 
 Re @JianglinLi @HongfuDing @RealBeiMing @ngexp 看了这个串推的全部。理想很丰满，希望能够落实。<br>共和党众议院里MAGA占大多数，实是好事。想起左媒与民主党将MAGE有近20位落选（160多位当选）当作红潮没来，实在是自欺欺人。
 
-### 19: [2023-01-10 04:22:47+08:00 推文](https://twitter.com/HeQinglian/status/1612545441781915673)
+### 19: [2023-01-10 04:05:51+08:00 推文](https://twitter.com/Lucs24659702/status/1612541179945705472)
+
+RT Lucs<br>拜登告诉救世军工作人员他在特勤局工作了一段时间——这位先生告诉拜登他每天为 1000 多名移民提供服务，拜登让他把这个数字改成 300。<br><video src="https://video.twimg.com/ext_tw_video/1612541142150832129/pu/vid/848x464/HfBaKYqkmGpXlnLh.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1612541142150832129/pu/img/iYAHV_RTIzM3YY0e.jpg"></video>
+
+### 20: [2023-01-10 04:22:47+08:00 推文](https://twitter.com/HeQinglian/status/1612545441781915673)
 
 Re @desheng777777 请看内文所引数据，然后再发言。不是我的推断，是大数据与北京数据。
+
+### 21: [2023-01-10 06:04:37+08:00 推文](https://twitter.com/HeQinglian/status/1612571069562474521)
+
+根据本周发布的一份报告，在过去的四年中，数百名芝加哥教师和学校官员对学生进行了性训练和性侵犯，或参与了违反政策的行为。<br>报告中说，教师与官员经常为被性侵的学生提供酒精与大麻。<br><br>请记住，芝加哥是奥巴马的政治发祥地，BLM的大本营，政治正确泛滥之地。 <a href="https://www.foxnews.com/us/chicago-schools-watchdog-finds-hundreds-employees-groomed-sexually-assaulted-students" target="_blank" rel="noopener noreferrer">https://www.foxnews.com/us/chicago-schools-watchdog-finds-hundreds-employees-groomed-sexually-assaulted-students</a>
+
+### 22: [2023-01-10 06:06:09+08:00 推文](https://twitter.com/HeQinglian/status/1612571455732043799)
+
+Re @david_david1968 没什么好评论，大麻、娈童是进步文化的标配。<br>芝加哥是奥巴马政治发祥地，BLM的大本营。每个月的枪击案查纪录就可知。
 
