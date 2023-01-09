@@ -41,7 +41,7 @@ RT Zhaoyin Feng<br>This is also the most heartbreaking line for me.<br><br>Whe
 
 ### 7: [2022-01-25 20:47:48+08:00 推文](https://twitter.com/cnmediaproject/status/1485957577951551490)
 
-Gaming for the China Story: Xi has emphasized traditional culture in building the country's international influence. But netizens ask -- why not a post-apocalyptic battle with zombies in the American West? <a href="https://chinamediaproject.org/2022/01/25/gaming-for-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/25/gaming-for-the-china-story/</a><br><img style src="https://pbs.twimg.com/media/FJ8uGRLakAg9csC?format=jpg&name=orig" referrerpolicy="no-referrer">
+Gaming for the China Story: Xi has emphasized traditional culture in building the country's international influence. But netizens ask -- why not a post-apocalyptic battle with zombies in the American West? <a href="https://chinamediaproject.org/2022/01/25/gaming-for-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/25/gaming-for-the-china-story/</a><br><img style="" src="https://pbs.twimg.com/media/FJ8uGRLakAg9csC?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2022-01-25 20:52:51+08:00 推文](https://twitter.com/AlexDukalskis/status/1485958845973385216)
 
