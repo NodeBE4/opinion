@@ -25,7 +25,7 @@ title: 'Twitter @蔡霞: 2022-07-11~2022-07-17'
 
 ### 3: [2022-07-14 03:39:34+08:00 推文](https://twitter.com/realcaixia/status/1547304749938130944)
 
-纪念刘晓波。我作为后来者会继续往前走，宪政民主是中国政治走向现代文明必须实现的首要目标。
+纪念刘晓波。我作为后来者会继续往前走，宪政民主是中国政治走向现代文明必须实现的首要目标。<br><br>ZHANGDONG: 五年前的今天他走了，在北欧留下了一把空椅和未竟的事业。<br><br><img style="" src="https://pbs.twimg.com/media/FXkHj9VX0AA-gJt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FXkHkSPWIAMDhWI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2022-07-14 09:52:58+08:00 推文](https://twitter.com/realcaixia/status/1547398719150211073)
 
@@ -65,5 +65,5 @@ Re @gaoyu200812 原先是有规则的，新闻联播前25分钟是国内报道�
 
 ### 13: [2022-07-16 23:53:07+08:00 推文](https://twitter.com/realcaixia/status/1548334925681635332)
 
-一方面，这个事件的滑稽可笑表明，中共以及五毛粉红们的以言论罪，完全不讲逻辑、无可理喻，充满邪恶。另一方面，中共与习不是宣称有强大的五个自信吗？自信到了以捕风捉影、邪念妄想症来坑人整人的地步。
+一方面，这个事件的滑稽可笑表明，中共以及五毛粉红们的以言论罪，完全不讲逻辑、无可理喻，充满邪恶。另一方面，中共与习不是宣称有强大的五个自信吗？自信到了以捕风捉影、邪念妄想症来坑人整人的地步。<br><br>荣剑: 一起舆情事故就这么发生了，人家说的是知了，挡不住别人联想丰富。<br><br><img style="" src="https://pbs.twimg.com/media/FXwQrhGUYAQyUJu?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FXwQsQCUUAcb9es?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FXwQtR6UYAMQMov?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FXwQt_WUcAADxuN?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

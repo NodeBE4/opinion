@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2023-01-09
+date: 2023-01-10
 from: https://twitter.com/LowyInstitute/status/1612244751142486018
 layout: post
 tags:
@@ -33,5 +33,9 @@ An official commentary published yesterday in the CCP's official People’s Dail
 
 ### 5: [2023-01-09 18:10:52+08:00 推文](https://twitter.com/yilingliu95/status/1612391447453659136)
 
-RT Yi-Ling Liu<br>Update: It's my first day as the China Editor at @restofworld! Looking forward to working closely with @violazhouyi &amp; the ROW dream team to cover China's ever-shifting tech landscape!<div class="rsshub-quote"><br><br>Anup Kaphle: ~ some very exciting hiring news ~<br><br>I'm elated to announce that Yi-Ling Liu (@yilingliu95) will join Rest of World as our China Editor, taking charge of our growing China coverage at the beginning of next year.<br></div>
+RT Yi-Ling Liu<br>Update: It's my first day as the China Editor at @restofworld! Looking forward to working closely with @violazhouyi &amp; the ROW dream team to cover China's ever-shifting tech landscape!<br><br>Anup Kaphle: ~ some very exciting hiring news ~<br><br>I'm elated to announce that Yi-Ling Liu (@yilingliu95) will join Rest of World as our China Editor, taking charge of our growing China coverage at the beginning of next year.<br>
+
+### 6: [2023-01-10 15:17:07+08:00 推文](https://twitter.com/YianLee6/status/1612710111734267909)
+
+RT Yian Lee 李易安<br>My first contribution for the Reporter (報導者): an investigative report on the Australian lobsters being smuggled into China via Taiwan’s two frontline islands just off the Chinese coast. <a href="https://www.twreporter.org/topics/australian-lobster-smuggling-chain-taiwan-kinmen-matsu-china" target="_blank" rel="noopener noreferrer">https://www.twreporter.org/topics/australian-lobster-smuggling-chain-taiwan-kinmen-matsu-china</a><br><img style="" src="https://pbs.twimg.com/media/FmF_S7NaUAEOjSm?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FmF_S7MaEAA6wWD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
