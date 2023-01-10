@@ -29,11 +29,11 @@ title: 'Twitter @蔡霞: 2023-01-09~2023-01-15'
 
 ### 4: [2023-01-09 12:16:42+08:00 推文](https://twitter.com/realcaixia/status/1612302316723474432)
 
-我相信朱云来所说的数字。<div class="rsshub-quote"><br><br>蔡慎坤: 财政部部长刘昆对地方债务罕见表态：坚持中央不救助原则，“谁家的孩子谁抱走”。公开数据显示中央和地方债务59万亿，负债率不到50%，远低于国际通行60%警戒线标准。各地城投负债至少60万亿没有计算在内，实际上，中国总债务远不止这些，按中金国际朱云来疫情前的说法，现在各种债务相加超过9 0 0万亿！<br></div>
+我相信朱云来所说的数字。<br><br>蔡慎坤: 财政部部长刘昆对地方债务罕见表态：坚持中央不救助原则，“谁家的孩子谁抱走”。公开数据显示中央和地方债务59万亿，负债率不到50%，远低于国际通行60%警戒线标准。各地城投负债至少60万亿没有计算在内，实际上，中国总债务远不止这些，按中金国际朱云来疫情前的说法，现在各种债务相加超过9 0 0万亿！<br>
 
 ### 5: [2023-01-09 12:26:38+08:00 推文](https://twitter.com/realcaixia/status/1612304816985837570)
 
-特别推荐：议报【议想天开】专栏发布⬇️面文章。<div class="rsshub-quote"><br><br>《议报》: 【議想天開】 昝愛宗：「杭州國保找過朱虞夫（因寫詩《是時候了》而獲罪的浙江民主人士、前政治犯），不讓他為阿亮呼籲。朱虞夫說：這一次死的是阿亮，如果我不為他發聲，下一次輪到我，也不會有人為我發聲。」<br><br>為眾人抱薪者，不可使其凍斃於風雪。<br> <a href="https://yibaochina.com/?p=248971" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248971</a></div>
+特别推荐：议报【议想天开】专栏发布⬇️面文章。<br><br>《议报》: 【議想天開】 昝愛宗：「杭州國保找過朱虞夫（因寫詩《是時候了》而獲罪的浙江民主人士、前政治犯），不讓他為阿亮呼籲。朱虞夫說：這一次死的是阿亮，如果我不為他發聲，下一次輪到我，也不會有人為我發聲。」<br><br>為眾人抱薪者，不可使其凍斃於風雪。<br> <a href="https://yibaochina.com/?p=248971" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248971</a>
 
 ### 6: [2023-01-10 09:29:04+08:00 推文](https://twitter.com/realcaixia/status/1612622520682700805)
 
@@ -58,4 +58,12 @@ title: 'Twitter @蔡霞: 2023-01-09~2023-01-15'
 ### 11: [2023-01-10 11:24:27+08:00 推文](https://twitter.com/realcaixia/status/1612651558579179524)
 
 特别推荐议报【议想天开】发布的文章《世间再无老陈陈》。<br>该文着重写了做儿女的如何使病亡老人保持最后的尊严，如何艰难地将老人遗体从ICU运到医院门外的灵车上。从这个角度叙述与思考“生与死”是很独特的。唯其独特，读者能从中能获得更多的信息、思考与各自的感悟。 <a href="https://yibaochina.com/?p=248989" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248989</a>
+
+### 12: [2023-01-10 13:03:40+08:00 推文](https://twitter.com/realcaixia/status/1612676524238573568)
+
+[精華]後中共的中國 程曉農博士 范疇老師 精彩大解析 (下) - YouTube <a href="https://m.youtube.com/watch?v=yLXdyKbov4k" target="_blank" rel="noopener noreferrer">https://m.youtube.com/watch?v=yLXdyKbov4k</a>
+
+### 13: [2023-01-10 13:04:30+08:00 推文](https://twitter.com/realcaixia/status/1612676735979642881)
+
+精華]後中共的中國 程曉農博士 范疇老師 精彩大解析 (上) - YouTube <a href="https://m.youtube.com/watch?v=gtx3xautBwM" target="_blank" rel="noopener noreferrer">https://m.youtube.com/watch?v=gtx3xautBwM</a>
 
