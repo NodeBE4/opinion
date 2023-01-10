@@ -29,7 +29,7 @@ Re @ericxu1997 彩虹灿烂地平线，自己高兴就好。话说，如果这�
 
 ### 4: [2023-01-09 08:19:30+08:00 推文](https://twitter.com/HeQinglian/status/1612242623472828416)
 
-美国正在重组供应链，希望墨西哥制造能够取代中国制造。不过，就连墨西哥的分析者也说，短期内无法完全替代中国制造，毕竟设备到位、人力培训都需要时间<br>这有个过程，会变成什么样，得看中国疫情一是会不会演变为长新冠，二是看疫情何时结束。中国还有几个月时间窗口。<br><br>日经中文网: 【“债券王”冈拉克：全球化倒退将是新常态】杰弗里·冈拉克：美国和欧洲人一直依靠中国的低价商品维持生活，今后将变得困难。生活水平非但不会提高，反而可能恶化。欧洲的部分地区正在变穷。日本也会变穷。中国也不太妙。2023年下半年起，美国经济指标将明显恶化……<br> <a href="https://cn.nikkei.com/columnviewpoint/viewpoint/51040-2023-01-09-04-59-22.html" target="_blank" rel="noopener noreferrer">https://cn.nikkei.com/columnviewpoint/viewpoint/51040-2023-01-09-04-59-22.html</a>
+美国正在重组供应链，希望墨西哥制造能够取代中国制造。不过，就连墨西哥的分析者也说，短期内无法完全替代中国制造，毕竟设备到位、人力培训都需要时间<br>这有个过程，会变成什么样，得看中国疫情一是会不会演变为长新冠，二是看疫情何时结束。中国还有几个月时间窗口。<div class="rsshub-quote"><br><br>日经中文网: 【“债券王”冈拉克：全球化倒退将是新常态】杰弗里·冈拉克：美国和欧洲人一直依靠中国的低价商品维持生活，今后将变得困难。生活水平非但不会提高，反而可能恶化。欧洲的部分地区正在变穷。日本也会变穷。中国也不太妙。2023年下半年起，美国经济指标将明显恶化……<br> <a href="https://cn.nikkei.com/columnviewpoint/viewpoint/51040-2023-01-09-04-59-22.html" target="_blank" rel="noopener noreferrer">https://cn.nikkei.com/columnviewpoint/viewpoint/51040-2023-01-09-04-59-22.html</a></div>
 
 ### 5: [2023-01-09 11:16:22+08:00 推文](https://twitter.com/HeQinglian/status/1612287134333022208)
 
@@ -106,4 +106,20 @@ Re @david_david1968 没什么好评论，大麻、娈童是进步文化的标配
 ### 23: [2023-01-10 08:23:35+08:00 推文](https://twitter.com/HeQinglian/status/1612606041602015237)
 
 Re @JianglinLi @HongfuDing @ngexp 这几天有很多动议，希望一一成行。
+
+### 24: [2023-01-10 21:36:41+08:00 推文](https://twitter.com/NAConservative9/status/1612805628774285314)
+
+RT 北美保守评论🇺🇸🇨🇦<br>《“推特文件”第十三部分：辉瑞公司秘密压制关于疫苗的辩论》<br><br>辉瑞顶级董事、前FDA专员戈特利布通过推特在白宫的联系人、推特在DC的高级说客欧博伊尔向推特施压，要求审查、封杀对辉瑞 mRNA 新冠疫苗进行质疑的推文。而欧博伊尔传回推特总部的投诉隐瞒了戈特利布辉瑞的身份。 <a href="https://nacr.info/WordPress/index.php/2023/01/10/twitter-files-part-13-pfizer-secretly-suppresse-debate-on-coved-vaccines-on-twitte/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2023/01/10/twitter-files-part-13-pfizer-secretly-suppresse-debate-on-coved-vaccines-on-twitte/</a><br><img style="" src="https://pbs.twimg.com/media/FmHVIxtWIAAeBUb?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 25: [2023-01-10 22:07:57+08:00 推文](https://twitter.com/HeQinglian/status/1612813497137512449)
+
+Re @OfcIQOD2XkWhsKt 碳税在欧盟早就开始了，只是想让中俄巴西印度等全部接受，巴西卢拉当政，应该就快实行了。那三国够呛。
+
+### 26: [2023-01-10 22:10:25+08:00 推文](https://twitter.com/HeQinglian/status/1612814119924817920)
+
+Re @eGUAbe2V7j26GHw @david_david1968 只因戴维的Fo多数是明智的。😉
+
+### 27: [2023-01-10 22:58:33+08:00 推文](https://twitter.com/HeQinglian/status/1612826233812750338)
+
+Tom Trottier，美国：LGBT 运动和争取平等的斗争<br>Alessio Marconi，LGBT：解放与革命<br>ME O’Brien，家庭会被消灭吗？资本主义发展中的工人阶级家庭观念变迁<br>三者都主张摧毁家庭，ME O’Brien主张以酷儿家庭为主，批判了马恩对共产家庭设想以异性恋为主。<div class="rsshub-quote"><br><br>方志杰: @mingshi_chen @Nobody197575 刚看完1984，里面有句经典“我们已经割断了子女与父母之间的联系，人与人之间的联系，男女之间的联系。不再有人相信妻子孩子和朋友，孩子一出生就要从他母亲那里抱走，就像从母鸡那里把鸡蛋拿走一样。在我们世界里，除了恐惧，愤怒，胜利和自卑，没有其他任何情绪！”<br>离这不远了，已经非常接近<br></div>
 
