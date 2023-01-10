@@ -401,7 +401,7 @@ Re @kingbo25729098 亚述营维护的是哪种自由传统？
 
 ### 97: [2022-03-30 10:26:32+08:00 推文](https://twitter.com/HeQinglian/status/1508994053664382977)
 
-俄乌战争迫使全球分工体系重组<br><br>全球化的两大基石，一是基于比较成本理论而形成的国际分工体系，二是资本的安全流动，现在都被摧毁。全面制裁在打击俄罗斯时，也伤害了对外资源依赖与市场依赖度很高的欧盟国家，德国受损尤其大<br>全球化1.0版的终结，对欧美来说是不可挽回的损失 <a href="https://www.epochtimes.com/gb/22/3/29/n13681934.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/3/29/n13681934.htm</a>
+RT He Qinglian<br>俄乌战争迫使全球分工体系重组<br><br>全球化的两大基石，一是基于比较成本理论而形成的国际分工体系，二是资本的安全流动，现在都被摧毁。全面制裁在打击俄罗斯时，也伤害了对外资源依赖与市场依赖度很高的欧盟国家，德国受损尤其大<br>全球化1.0版的终结，对欧美来说是不可挽回的损失 <a href="https://www.epochtimes.com/gb/22/3/29/n13681934.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/3/29/n13681934.htm</a>
 
 ### 98: [2022-03-30 14:09:30+08:00 推文](https://twitter.com/228oldSoldier/status/1509050163314233348)
 
@@ -477,7 +477,7 @@ Re @pliu412 @Sumerian0 @wwnnppyy 这个数字可能将预备役，不让撤走�
 
 ### 116: [2022-03-31 04:54:39+08:00 推文](https://twitter.com/HeQinglian/status/1509272917808402434)
 
-RT He Qinglian<br>Re @BigbirdflyChan @wwnnppyy 我只看事实，你不用惊讶。<br>任何正义都建立在事实之上。你就告诉我，<br>我限制了别人的发言么？我传播了谣言么？<br>这正是自称“正义”的人每天在我这里做的。如果正义需要依靠谣言与限制言论、思想专制维持，这“正义”本身一定有很多需要遮掩的黑暗。<br>言尽于此。
+Re @BigbirdflyChan @wwnnppyy 我只看事实，你不用惊讶。<br>任何正义都建立在事实之上。你就告诉我，<br>我限制了别人的发言么？我传播了谣言么？<br>这正是自称“正义”的人每天在我这里做的。如果正义需要依靠谣言与限制言论、思想专制维持，这“正义”本身一定有很多需要遮掩的黑暗。<br>言尽于此。
 
 ### 117: [2022-03-31 04:55:20+08:00 推文](https://twitter.com/HeQinglian/status/1509273092706775051)
 
@@ -957,7 +957,7 @@ Re @JianglinLi @Wu_Zhi 据《印度斯坦时报》3月31日报道，负责国际
 
 ### 236: [2022-04-02 05:44:39+08:00 推文](https://twitter.com/HeQinglian/status/1510010277273776146)
 
-Re @Wu_Zhi @JianglinLi 路透4月1日：俄最初受到的经济冲击似乎正消退，美国高官本周满世界跑，试图敦促其他国家领导人加入或继续向莫斯科施压<br>美副财长Wally Adeyemo与英法德高官会面<br>达利普·辛格去新德里，尝试向印度官员施压<br>布林肯则对中东和非洲使劲<br><br>世界是否进入布雷顿森林体系3.0，在此一搏 <a href="https://www.reuters.com/world/blinken-britains-truss-discuss-additional-actions-response-ukraine-invasion-2022-04-01/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/blinken-britains-truss-discuss-additional-actions-response-ukraine-invasion-2022-04-01/</a>
+RT He Qinglian<br>Re @Wu_Zhi @JianglinLi 路透4月1日：俄最初受到的经济冲击似乎正消退，美国高官本周满世界跑，试图敦促其他国家领导人加入或继续向莫斯科施压<br>美副财长Wally Adeyemo与英法德高官会面<br>达利普·辛格去新德里，尝试向印度官员施压<br>布林肯则对中东和非洲使劲<br><br>世界是否进入布雷顿森林体系3.0，在此一搏 <a href="https://www.reuters.com/world/blinken-britains-truss-discuss-additional-actions-response-ukraine-invasion-2022-04-01/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/blinken-britains-truss-discuss-additional-actions-response-ukraine-invasion-2022-04-01/</a>
 
 ### 237: [2022-04-02 06:03:00+08:00 推文](https://twitter.com/HeQinglian/status/1510014896141963269)
 
@@ -1005,7 +1005,7 @@ Re @JkYJ2l7mDTaxqhJ 都揭吧，揭个底朝天，我真没半点意见。这次
 
 ### 248: [2022-04-02 09:19:30+08:00 推文](https://twitter.com/HeQinglian/status/1510064345123852289)
 
-RT He Qinglian<br>Re @JianglinLi @Wu_Zhi @TomMa07952688 目前的美国，继承了白人西方文明的经济实力、军事实力，但价值观却已经被CRT、BLM、LGBTQ等进步文化取代，原来傲视东方腐败文化的相对清廉的政治文化，被老拜这个家族做了反证。选举诚信被2020年自毁。<br>可能就美国民主党以为世界不知道，还拿着宪政美国的躯壳混世界老大。
+Re @JianglinLi @Wu_Zhi @TomMa07952688 目前的美国，继承了白人西方文明的经济实力、军事实力，但价值观却已经被CRT、BLM、LGBTQ等进步文化取代，原来傲视东方腐败文化的相对清廉的政治文化，被老拜这个家族做了反证。选举诚信被2020年自毁。<br>可能就美国民主党以为世界不知道，还拿着宪政美国的躯壳混世界老大。
 
 ### 249: [2022-04-02 10:39:35+08:00 推文](https://twitter.com/HeQinglian/status/1510084498326708232)
 
