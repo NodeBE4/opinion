@@ -33,7 +33,7 @@ title: 'Twitter @蔡霞: 2023-01-09~2023-01-15'
 
 ### 5: [2023-01-09 12:26:38+08:00 推文](https://twitter.com/realcaixia/status/1612304816985837570)
 
-特别推荐：议报【议想天开】专栏发布⬇️面文章。<br><br>《议报》: 【議想天開】 昝愛宗：「杭州國保找過朱虞夫（因寫詩《是時候了》而獲罪的浙江民主人士、前政治犯），不讓他為阿亮呼籲。朱虞夫說：這一次死的是阿亮，如果我不為他發聲，下一次輪到我，也不會有人為我發聲。」<br><br>為眾人抱薪者，不可使其凍斃於風雪。<br> <a href="https://yibaochina.com/?p=248971" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248971</a>
+特别推荐：议报【议想天开】专栏发布⬇️面文章。<div class="rsshub-quote"><br><br>《议报》: 【議想天開】 昝愛宗：「杭州國保找過朱虞夫（因寫詩《是時候了》而獲罪的浙江民主人士、前政治犯），不讓他為阿亮呼籲。朱虞夫說：這一次死的是阿亮，如果我不為他發聲，下一次輪到我，也不會有人為我發聲。」<br><br>為眾人抱薪者，不可使其凍斃於風雪。<br> <a href="https://yibaochina.com/?p=248971" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248971</a></div>
 
 ### 6: [2023-01-10 09:29:04+08:00 推文](https://twitter.com/realcaixia/status/1612622520682700805)
 
@@ -46,4 +46,16 @@ title: 'Twitter @蔡霞: 2023-01-09~2023-01-15'
 ### 8: [2023-01-10 10:05:16+08:00 推文](https://twitter.com/realcaixia/status/1612631629612064769)
 
 习帮党极权统治下的中国，已经没有任何出版真正有思想理论价值著作的空间了。美国纽约市的博登书屋义不容辞地挑起了自由思想、自由出版的重任。这件事功德无量啊！<br><img style="" src="https://pbs.twimg.com/media/FmE36B0XwAE62o6?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FmE36Q9XwAAUEkj?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FmE36hQX0AI-JEb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FmE36ymWQAEpuDo?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 9: [2023-01-10 10:17:04+08:00 推文](https://twitter.com/realcaixia/status/1612634600844435457)
+
+这是前两天流传在墙里微信群的一个信息。<br>新冠疫情如海啸般席卷全国，各地医护人员都在与死神争夺生命，而极权政府官员依旧搭架子摆场面，宣读空话连篇、谎言连篇的官样文件。武汉协和医院专家主任愤然离场，丢下的质问惊鬼神动天地：“那些文件能救人吗？！”网友们说，今后看病一定要去武汉协和医院！<br><img style="" src="https://pbs.twimg.com/media/FmE6ny1WIAAjZEC?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 10: [2023-01-10 10:22:22+08:00 推文](https://twitter.com/realcaixia/status/1612635935166062593)
+
+写得好！<div class="rsshub-quote"><br><br>ZHANGDONG: 转发：<br>新冠病毒引发中国文革一代的人生感悟:<br>人生七十年，<br>变化似百年；<br>童年没几年，<br>饥荒占三年；<br>读书没几年，<br>文革占十年；<br>工龄四十年，<br>插队占十年；<br>上班三十年，<br>待岗占八年；<br>退休又十年，<br>疫情占三年；<br>敢问苍天啊，<br>还能活几年？<br>😭😭😭😭<br></div>
+
+### 11: [2023-01-10 11:24:27+08:00 推文](https://twitter.com/realcaixia/status/1612651558579179524)
+
+特别推荐议报【议想天开】发布的文章《世间再无老陈陈》。<br>该文着重写了做儿女的如何使病亡老人保持最后的尊严，如何艰难地将老人遗体从ICU运到医院门外的灵车上。从这个角度叙述与思考“生与死”是很独特的。唯其独特，读者能从中能获得更多的信息、思考与各自的感悟。 <a href="https://yibaochina.com/?p=248989" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248989</a>
 
