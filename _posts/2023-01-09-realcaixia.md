@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2023-01-09
+date: 2023-01-10
 from: https://twitter.com/realcaixia/status/1612159412424278018
 layout: post
 tags:
@@ -25,13 +25,25 @@ title: 'Twitter @蔡霞: 2023-01-09~2023-01-15'
 
 ### 3: [2023-01-09 11:31:51+08:00 推文](https://twitter.com/realcaixia/status/1612291032531742723)
 
-一个把自己的面子看的比国民生命还要重的党魁；一个把自己的官帽和权位看得高于一切的官僚体制，国民只是可利用的“人矿”，他们眼里的“放开最佳时机”只以自己利益的盘算为根据。<br><br>章立凡 Zhang Lifan: 转【最高层断送了“放开”最佳时机】<br><br><img style="" src="https://pbs.twimg.com/media/Fl6scmRaMAEeujJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+一个把自己的面子看的比国民生命还要重的党魁；一个把自己的官帽和权位看得高于一切的官僚体制，国民只是可利用的“人矿”，他们眼里的“放开最佳时机”只以自己利益的盘算为根据。<div class="rsshub-quote"><br><br>章立凡 Zhang Lifan: 转【最高层断送了“放开”最佳时机】<br><br><img style="" src="https://pbs.twimg.com/media/Fl6scmRaMAEeujJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 4: [2023-01-09 12:16:42+08:00 推文](https://twitter.com/realcaixia/status/1612302316723474432)
 
-我相信朱云来所说的数字。<div class="rsshub-quote"><br><br>蔡慎坤: 财政部部长刘昆对地方债务罕见表态：坚持中央不救助原则，“谁家的孩子谁抱走”。公开数据显示中央和地方债务59万亿，负债率不到50%，远低于国际通行60%警戒线标准。各地城投负债至少60万亿没有计算在内，实际上，中国总债务远不止这些，按中金国际朱云来疫情前的说法，现在各种债务相加超过9 0 0万亿！<br></div>
+我相信朱云来所说的数字。<br><br>蔡慎坤: 财政部部长刘昆对地方债务罕见表态：坚持中央不救助原则，“谁家的孩子谁抱走”。公开数据显示中央和地方债务59万亿，负债率不到50%，远低于国际通行60%警戒线标准。各地城投负债至少60万亿没有计算在内，实际上，中国总债务远不止这些，按中金国际朱云来疫情前的说法，现在各种债务相加超过9 0 0万亿！<br>
 
 ### 5: [2023-01-09 12:26:38+08:00 推文](https://twitter.com/realcaixia/status/1612304816985837570)
 
-特别推荐：议报【议想天开】专栏发布⬇️面文章。<div class="rsshub-quote"><br><br>《议报》: 【議想天開】 昝愛宗：「杭州國保找過朱虞夫（因寫詩《是時候了》而獲罪的浙江民主人士、前政治犯），不讓他為阿亮呼籲。朱虞夫說：這一次死的是阿亮，如果我不為他發聲，下一次輪到我，也不會有人為我發聲。」<br><br>為眾人抱薪者，不可使其凍斃於風雪。<br> <a href="https://yibaochina.com/?p=248971" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248971</a></div>
+特别推荐：议报【议想天开】专栏发布⬇️面文章。<br><br>《议报》: 【議想天開】 昝愛宗：「杭州國保找過朱虞夫（因寫詩《是時候了》而獲罪的浙江民主人士、前政治犯），不讓他為阿亮呼籲。朱虞夫說：這一次死的是阿亮，如果我不為他發聲，下一次輪到我，也不會有人為我發聲。」<br><br>為眾人抱薪者，不可使其凍斃於風雪。<br> <a href="https://yibaochina.com/?p=248971" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248971</a>
+
+### 6: [2023-01-10 09:29:04+08:00 推文](https://twitter.com/realcaixia/status/1612622520682700805)
+
+习当局借口Paxlovid药价贵，谈判失败。请看中共官网自己发出的信息！请看中国人愤怒谴责习当局！<br><img style="" src="https://pbs.twimg.com/media/FmEvoTHXoAAm8Jw?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FmEvoegX0AEjuAc?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FmEvoqbWAAEIWxs?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 7: [2023-01-10 09:37:07+08:00 推文](https://twitter.com/realcaixia/status/1612624546867159041)
+
+北京大学与武汉大学病亡人数的部分披露！而中共政府对外宣布，12月全中国新冠病亡人数30人！这谎言真是侮辱全世界人的智商。<br><img style="" src="https://pbs.twimg.com/media/FmExeRNWIAEgYrs?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FmExehJXEAEadgj?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 8: [2023-01-10 10:05:16+08:00 推文](https://twitter.com/realcaixia/status/1612631629612064769)
+
+习帮党极权统治下的中国，已经没有任何出版真正有思想理论价值著作的空间了。美国纽约市的博登书屋义不容辞地挑起了自由思想、自由出版的重任。这件事功德无量啊！<br><img style="" src="https://pbs.twimg.com/media/FmE36B0XwAE62o6?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FmE36Q9XwAAUEkj?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FmE36hQX0AI-JEb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FmE36ymWQAEpuDo?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
