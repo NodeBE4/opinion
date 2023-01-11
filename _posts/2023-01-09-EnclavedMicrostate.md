@@ -89,3 +89,13 @@ Boyfriend: baby I want a hug
 
 At the time she straight up did not know there was a tax treaty, which there is – what the treaty does is prevent double-taxation, by having it that your total tax payment only equals the higher-taxing country's requirement. The *really* short version is that the tax you pay in one country can be claimed as tax credit in the other. So for instance if the US taxes you at 35% and Japan taxes you at 25%, you can pay 25% to Japan and then claim that as credit in the US, and only pay 10% to them, for 35% total. As of writing she has been made aware and I believe has an accountant handling it.
 
+### 1048: [I'm Kevin Kruse, co-editor of Myth America, here to talk about modern American history!](https://old.reddit.com/r/AskHistorians/comments/1096brd/im_kevin_kruse_coeditor_of_myth_america_here_to/), submitted on 2023-01-11 22:41:11+08:00.
+
+----- __1048.1__ -----2023-01-11 22:59:40+08:00:
+
+Hi! Thanks for coming to do this AMA with us. This is a question that is perhaps a little fuzzy and philosophical, but do you think myth has a place in the public view of history? Can there be, for lack of a better word, 'positive' myths, or is the nature of myth such that all myths are irretrievably problematic, even if to varying degrees? I ask because I'm reminded a bit of Paul A. Cohen's *History in Three Keys*, which simultaneously acknowledges myth as a valid sort of historical discourse, while condemning presentist mythologising, at least in the case of the Boxers. I will confess my recall of Cohen's theory in the book is by now a tad fuzzy, so apologies for any incoherence.
+
+----- __1048.2__ -----2023-01-11 23:12:51+08:00:
+
+Thank you! A good deal to chew on. I'll let other askers get a word in, and I hope the rest of the AMA goes smoothly!
+
