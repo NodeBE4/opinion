@@ -69,9 +69,15 @@ Kiara mentioned wanting to do it before, well before she officially toned down t
 
 EDIT: This was way back in August 2021, during a Skyward Sword stream, [timestamp here](https://youtu.be/aH2LQcPdgbI?t=4211).
 
-### 1045: [My boyfriend posted this and I’m too scared to ask him what it means 😭](https://old.reddit.com/r/ChineseTranslation/comments/108prnf/my_boyfriend_posted_this_and_im_too_scared_to_ask/), submitted on 2023-01-11 08:11:14+08:00.
+### 1045: [Can you join societies mid-term?](https://old.reddit.com/r/oxforduni/comments/108olf6/can_you_join_societies_midterm/), submitted on 2023-01-11 07:24:42+08:00.
 
------ __1045.1__ -----2023-01-11 11:56:31+08:00:
+----- __1045.1__ -----2023-01-11 19:09:36+08:00:
+
+Star Trek Society is always open to new members.
+
+### 1046: [My boyfriend posted this and I’m too scared to ask him what it means 😭](https://old.reddit.com/r/ChineseTranslation/comments/108prnf/my_boyfriend_posted_this_and_im_too_scared_to_ask/), submitted on 2023-01-11 08:11:14+08:00.
+
+----- __1046.1__ -----2023-01-11 11:56:31+08:00:
 
 When friends aren't nearby
 
