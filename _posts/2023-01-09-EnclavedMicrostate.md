@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-01-10
+date: 2023-01-11
 from: https://old.reddit.com/r/badhistory/comments/107cogb/mindless_monday_09_january_2023/
 layout: post
 tags:
@@ -52,4 +52,12 @@ As for multiethnic vs 'mono-ethnic' states, I think we simply need to recognise 
 I think dwelling on Lieven here will take us rather off topic: I should have specified that the work by Lieven I'm referring to is his recent popular press book *In the Shadow of the Gods: The Emperor in World History*, which is largely a work of synthesis discussing emperors (and empress regnants) across some 14 case studies; three of these concern China. Lieven is, however, mainly a historian of Russia. His focus on China is a result of it being one of the more long-lasting, or at least genealogically contiguous, examples of an imperial tradition of Eurasian history. Within that broader study of emperorship, Lieven takes the classic line that nationhood and empire are anathema, but he does argue that China is an unusual case where the imperial polity has been held together through attempts to enforce a national identity within its borders. But again, we need to regard Lieven's interpretation of China as one framed through his particular read of secondary sources (which exactly I have not checked), and while he's definitely a decent historian he's not a China specialist. Nor does he really engage with the empires not generally considered part of the 'canon' of succession.
 
 As for how to approach the Liao or Qara Khitai (or Western Xia for that matter), there's a couple of ways to go about it. Competing imperial claims could be the basis for arguing for the existence of multiple competing Chinas. Or we can use 'China' in geographical terms and refer to any state significantly occupying part of it as being 'Chinese' – something that would probably exclude Qara Khitai (which was located primarily in what is now Xinjiang) but not Western Xia (which ruled mainly over Han subjects in Gansu). But there are approaches that may still accept the notion of a single primary 'China' while heavily qualifying it: Morris Rossabi frames what is sometimes termed the 'Song-Liao-Jin period' as 'China Among Equals', a period in which claimants to the Chinese imperial mantle were at odds and unable to decisively overcome each other, and in which therefore the notional 'China' (i.e. the Song) was unable to actually consider itself an all-encompassing entity.
+
+### 1043: [There is going to be a Noefuretakamori stream tomorrow playing Mario Party on Noel's channel.](https://old.reddit.com/r/Hololive/comments/108eai7/there_is_going_to_be_a_noefuretakamori_stream/), submitted on 2023-01-11 00:41:04+08:00.
+
+----- __1043.1__ -----2023-01-11 11:25:29+08:00:
+
+Kiara mentioned wanting to do it before, well before she officially toned down the Takamori side. Not sure if Marine reminded her of it or if it's been somewhat planned for a while though.
+
+EDIT: This was way back in August 2021, during a Skyward Sword stream, [timestamp here](https://youtu.be/aH2LQcPdgbI?t=4211).
 

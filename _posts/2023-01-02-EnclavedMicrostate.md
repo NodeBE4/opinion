@@ -47,6 +47,10 @@ Cheers!
 
 I hate how apt this description is.
 
+----- __1021.5__ -----2023-01-11 11:34:13+08:00:
+
+So, does anyone know how to unblock a Youtube channel from your account? In its infinite wisdom, Youtube put the 'block channel' button immediately under 'show transcript' and didn't ask for a confirmation so now I've blocked Kiara apparently.
+
 ### 1022: [How did Imperial Russia first expand across, then maintain order and supplies to, its vast Siberian empire?](https://old.reddit.com/r/WarCollege/comments/101wuib/how_did_imperial_russia_first_expand_across_then/), submitted on 2023-01-03 11:29:40+08:00.
 
 ----- __1022.1__ -----2023-01-04 17:53:37+08:00:
