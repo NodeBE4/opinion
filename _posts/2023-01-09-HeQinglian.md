@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-01-11
+date: 2023-01-12
 from: https://twitter.com/HeQinglian/status/1612159473014947840
 layout: post
 tags:
@@ -169,7 +169,7 @@ Re @JianglinLi @HongfuDing @david_david1968 长期抗战，第二个阿富汗。
 
 ### 39: [2023-01-11 11:01:49+08:00 推文](https://twitter.com/HeQinglian/status/1613008249443213313)
 
-Re @lianghuiwang2 @jojowheel 两位提到这，我讲件美国往事。<br>美国著名社会学家詹姆斯·塞缪尔·科尔曼（James Samuel Coleman）于1966年撰写的《科尔曼报告》（Coleman Report） ，尽管在美国教育史上具有里程碑意义，但在对社会公共政策的影响上，却不敌左派的政治正确。
+RT He Qinglian<br>Re @lianghuiwang2 @jojowheel 两位提到这，我讲件美国往事。<br>美国著名社会学家詹姆斯·塞缪尔·科尔曼（James Samuel Coleman）于1966年撰写的《科尔曼报告》（Coleman Report） ，尽管在美国教育史上具有里程碑意义，但在对社会公共政策的影响上，却不敌左派的政治正确。
 
 ### 40: [2023-01-11 11:02:23+08:00 推文](https://twitter.com/HeQinglian/status/1613008393404403715)
 
@@ -226,4 +226,12 @@ Re @PS198014 推上有位推友，发了不少英文链接。
 ### 53: [2023-01-11 22:47:09+08:00 推文](https://twitter.com/HeQinglian/status/1613185752405508098)
 
 Re @shenliangqing2 这是中国与华人关心的问题，但估计主要是表态，能做的实际上不太多。更重要的不在这里。<br>内政为首，尤其是追查政治工具化（为党派服务），是釜底抽薪之举。
+
+### 54: [2023-01-12 00:01:43+08:00 推文](https://twitter.com/HeQinglian/status/1613204517952135169)
+
+这位Homeless可能不知道这规定：<br>San Francisco Homeless pay<br>Eligible San Franciscans can receive up to $687 a month from CAAP as well as a wide range of additional services and assistance.<div class="rsshub-quote"><br><br>我是梦嫣IV（没错，还是我，又重生了~）❤️: 美国加州城市人行道上，美国公民向美国无家可归者喷水下达驱逐令。<br><br>国籍一换，评论过万。<br>此事如果发生在中国，不止会上热搜，估计还会有一个警方蓝底白字的通告。<br>另外这刺眼的一幕也会引发“为何国人热衷于底层互害”、“千年儒家文化必须融入蔚蓝色大海”、“不信上帝的民族丑陋冷漠”等相关讨论。<br>🤷🏻‍♀️<br><br><video src="https://video.twimg.com/ext_tw_video/1612988235709550594/pu/vid/598x1280/FwXNcM_A1LORlrE-.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1612988235709550594/pu/img/4q9HEeltS92RdQpu.jpg"></video></div>
+
+### 55: [2023-01-12 00:03:19+08:00 推文](https://twitter.com/HeQinglian/status/1613204918118105089)
+
+Re @RJX1999 “辉瑞在西方被批评主要还是干涉言论自由”，错太多了。自己去查资料吧。
 
