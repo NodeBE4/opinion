@@ -53,17 +53,25 @@ I think dwelling on Lieven here will take us rather off topic: I should have spe
 
 As for how to approach the Liao or Qara Khitai (or Western Xia for that matter), there's a couple of ways to go about it. Competing imperial claims could be the basis for arguing for the existence of multiple competing Chinas. Or we can use 'China' in geographical terms and refer to any state significantly occupying part of it as being 'Chinese' – something that would probably exclude Qara Khitai (which was located primarily in what is now Xinjiang) but not Western Xia (which ruled mainly over Han subjects in Gansu). But there are approaches that may still accept the notion of a single primary 'China' while heavily qualifying it: Morris Rossabi frames what is sometimes termed the 'Song-Liao-Jin period' as 'China Among Equals', a period in which claimants to the Chinese imperial mantle were at odds and unable to decisively overcome each other, and in which therefore the notional 'China' (i.e. the Song) was unable to actually consider itself an all-encompassing entity.
 
-### 1043: [There is going to be a Noefuretakamori stream tomorrow playing Mario Party on Noel's channel.](https://old.reddit.com/r/Hololive/comments/108eai7/there_is_going_to_be_a_noefuretakamori_stream/), submitted on 2023-01-11 00:41:04+08:00.
+### 1043: [Where are you from and why do you support Tibet?](https://old.reddit.com/r/tibet/comments/1080ldi/where_are_you_from_and_why_do_you_support_tibet/), submitted on 2023-01-10 12:34:56+08:00.
 
------ __1043.1__ -----2023-01-11 11:25:29+08:00:
+----- __1043.1__ -----2023-01-11 14:42:20+08:00:
+
+> "Xixang," roughly translating to "Western Treasurehouse."
+
+For what it's worth, 'Xizang' originated as a phonetic transliteration of Ü-Tsang; that's not, of course, to say that the choices of character to transliterate these terms may not have been influenced by cynicism, but my understanding is *zang* 藏 to transliterate Tsang goes back to at least the Mongol Yuan.
+
+### 1044: [There is going to be a Noefuretakamori stream tomorrow playing Mario Party on Noel's channel.](https://old.reddit.com/r/Hololive/comments/108eai7/there_is_going_to_be_a_noefuretakamori_stream/), submitted on 2023-01-11 00:41:04+08:00.
+
+----- __1044.1__ -----2023-01-11 11:25:29+08:00:
 
 Kiara mentioned wanting to do it before, well before she officially toned down the Takamori side. Not sure if Marine reminded her of it or if it's been somewhat planned for a while though.
 
 EDIT: This was way back in August 2021, during a Skyward Sword stream, [timestamp here](https://youtu.be/aH2LQcPdgbI?t=4211).
 
-### 1044: [My boyfriend posted this and I’m too scared to ask him what it means 😭](https://old.reddit.com/r/ChineseTranslation/comments/108prnf/my_boyfriend_posted_this_and_im_too_scared_to_ask/), submitted on 2023-01-11 08:11:14+08:00.
+### 1045: [My boyfriend posted this and I’m too scared to ask him what it means 😭](https://old.reddit.com/r/ChineseTranslation/comments/108prnf/my_boyfriend_posted_this_and_im_too_scared_to_ask/), submitted on 2023-01-11 08:11:14+08:00.
 
------ __1044.1__ -----2023-01-11 11:56:31+08:00:
+----- __1045.1__ -----2023-01-11 11:56:31+08:00:
 
 When friends aren't nearby
 

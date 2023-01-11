@@ -251,7 +251,7 @@ So, [the middle image of this screenshot](https://data.nextshark.com/wp-content/
 2. Facial recognition trickery marks out the position of their facial features to produce a 'mask'.
 3. The model is then basically mapped onto the mask.
 
-However, they did not have the benefit of commercial programs that just outputted the end product. Instead, all three stages were technically being hosted directly on his stream setup. The raw footage, the mask, and the final model were all layered on top of each other, but the raw footage and the mask were usually transparent. On this occasion, the transparencies seem to have been flipped, thus leading to the incident.
+However, they did not have the benefit of commercial programs that just outputted the end product. Instead, all three stages were technically being hosted directly on their stream setup. The raw footage, the mask, and the final model were all layered on top of each other, but the raw footage and the mask were usually transparent. On this occasion, the transparencies seem to have been flipped, thus leading to the incident.
 
 ----- __1040.8__ -----2023-01-11 10:22:57+08:00:
 
