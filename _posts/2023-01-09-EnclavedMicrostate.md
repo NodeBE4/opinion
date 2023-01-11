@@ -59,7 +59,7 @@ As for how to approach the Liao or Qara Khitai (or Western Xia for that matter),
 
 > "Xixang," roughly translating to "Western Treasurehouse."
 
-For what it's worth, 'Xizang' originated as a phonetic transliteration of Ü-Tsang; that's not, of course, to say that the choices of character to transliterate these terms may not have been influenced by cynicism, but my understanding is *zang* 藏 to transliterate Tsang goes back to at least the Mongol Yuan.
+For what it's worth, 'Xizang' originated as a phonetic transliteration of Ü-Tsang. That's not, of course, to say that the choices of character to transliterate these terms may not have been influenced by cynicism, but my understanding is *zang* 藏 to transliterate Tsang goes back to at least the Mongol Yuan, a time when Tibet as an extractive colonial project probably did not apply.
 
 ### 1044: [There is going to be a Noefuretakamori stream tomorrow playing Mario Party on Noel's channel.](https://old.reddit.com/r/Hololive/comments/108eai7/there_is_going_to_be_a_noefuretakamori_stream/), submitted on 2023-01-11 00:41:04+08:00.
 
