@@ -51,6 +51,20 @@ I hate how apt this description is.
 
 So, does anyone know how to unblock a Youtube channel from your account? In its infinite wisdom, Youtube put the 'block channel' button immediately under 'show transcript' and didn't ask for a confirmation so now I've blocked Kiara apparently.
 
+EDIT: Thanks to the three people who replied (/u/DanteKir, /u/JimmyBoombox, and /u/SillyRabbit000); turns out I did a big dumb. What happened was I had an extension that allowed me to block channels directly via the report menu, and I had blocked her through the extension rather than natively on Google. Sorry for the alarm!
+
+----- __1021.6__ -----2023-01-11 11:45:41+08:00:
+
+I tried the desktop route but she doesn't turn up in my 'Hidden users'; I assume that's an option that really only applies for people blocking users from their own channel, rather than channels they view. I can't *currently* try the mobile app version because I'm temporarily on a very old phone which can't update to a modern enough version of iOS for the YT app, but I'll have the chance to later.
+
+----- __1021.7__ -----2023-01-11 11:45:59+08:00:
+
+Nope, nothing there.
+
+----- __1021.8__ -----2023-01-11 11:46:11+08:00:
+
+Nope, nothing there.
+
 ### 1022: [How did Imperial Russia first expand across, then maintain order and supplies to, its vast Siberian empire?](https://old.reddit.com/r/WarCollege/comments/101wuib/how_did_imperial_russia_first_expand_across_then/), submitted on 2023-01-03 11:29:40+08:00.
 
 ----- __1022.1__ -----2023-01-04 17:53:37+08:00:

@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2023-01-09~2023-01-15'
 
 ### 2: [2023-01-09 11:20:44+08:00 推文](https://twitter.com/realcaixia/status/1612288233962090497)
 
-不仅民企在大量裁员，而且中共国央企总部也在裁员。有多少青年人和中年人原本以为疫情劫波度后生机再现，未曾想连谋生都成了难题。2023对打工者、对城市白领甚至高校应届毕业生来说，失业将把他们逼入困境，前路茫茫，希望何在？<div class="rsshub-quote"><br><br>寒江独钓: 【失业大潮席卷中国】进来，国企、央企屡屡爆发裁员降薪潮，抖音母公司字节跳动一夜裁员上万人，年轻人纷纷抱头痛哭。<br><br><video src="https://video.twimg.com/ext_tw_video/1611510144923492352/pu/vid/1280x720/56ZDtfTGg93HI37-.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1611510144923492352/pu/img/BJQC-4jdMF2DzWZx.jpg"></video></div>
+不仅民企在大量裁员，而且中共国央企总部也在裁员。有多少青年人和中年人原本以为疫情劫波度后生机再现，未曾想连谋生都成了难题。2023对打工者、对城市白领甚至高校应届毕业生来说，失业将把他们逼入困境，前路茫茫，希望何在？<br><br>寒江独钓: 【失业大潮席卷中国】进来，国企、央企屡屡爆发裁员降薪潮，抖音母公司字节跳动一夜裁员上万人，年轻人纷纷抱头痛哭。<br><br><video src="https://video.twimg.com/ext_tw_video/1611510144923492352/pu/vid/1280x720/56ZDtfTGg93HI37-.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1611510144923492352/pu/img/BJQC-4jdMF2DzWZx.jpg"></video>
 
 ### 3: [2023-01-09 11:31:51+08:00 推文](https://twitter.com/realcaixia/status/1612291032531742723)
 
@@ -70,4 +70,12 @@ title: 'Twitter @蔡霞: 2023-01-09~2023-01-15'
 ### 14: [2023-01-11 09:26:35+08:00 推文](https://twitter.com/realcaixia/status/1612984282623971329)
 
 请听人们对彭载舟四通桥上的呼喊，新疆乌鲁木齐市民的呼喊、南京传媒大学李康梦手举白纸、上海青年在乌鲁木齐中路的呼喊、北京亮马桥的汽车鸣笛、北京大学生的呼喊、江西胡鑫宇母亲的呼喊的感受！<br>从孤胆英雄到白纸运动到烟花革命，中国人开始战胜恐怖，站起来为自己的权利发声。发声是有用的！<br><video src="https://video.twimg.com/ext_tw_video/1612984256120213505/pu/vid/464x848/wy2xMkpXc4PRZp2l.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1612984256120213505/pu/img/BzDnMKEX4EdJL4Lw.jpg"></video>
+
+### 15: [2023-01-11 09:52:08+08:00 推文](https://twitter.com/realcaixia/status/1612990710940143616)
+
+推荐下面两个微信。这是墙里中国人对这三年瘟疫作祟痛彻心扉的感受与醒悟。<br><img style="" src="https://pbs.twimg.com/media/FmJ-f3eXwAMMWJU?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FmJ-gFGWYAIyGOb?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 16: [2023-01-11 10:11:34+08:00 推文](https://twitter.com/realcaixia/status/1612995602916196353)
+
+悲惨世界出不朽名著，人间炼狱出悲愤诗家。请读议报【议想天开】专栏今日发布的两首诗作。这两首诗作字字杜鹃啼血，句句肝肠寸断。<br><br>【議想天開】人礦｜我的祖國是一座巨型墳場 - 议报 <a href="https://yibaochina.com/?p=248999" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248999</a>
 

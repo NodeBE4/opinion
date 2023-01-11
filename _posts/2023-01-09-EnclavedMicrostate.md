@@ -61,3 +61,11 @@ Kiara mentioned wanting to do it before, well before she officially toned down t
 
 EDIT: This was way back in August 2021, during a Skyward Sword stream, [timestamp here](https://youtu.be/aH2LQcPdgbI?t=4211).
 
+### 1044: [My boyfriend posted this and I’m too scared to ask him what it means 😭](https://old.reddit.com/r/ChineseTranslation/comments/108prnf/my_boyfriend_posted_this_and_im_too_scared_to_ask/), submitted on 2023-01-11 08:11:14+08:00.
+
+----- __1044.1__ -----2023-01-11 11:56:31+08:00:
+
+When friends aren't nearby
+
+Boyfriend: baby I want a hug
+

@@ -29,7 +29,7 @@ Re @ericxu1997 彩虹灿烂地平线，自己高兴就好。话说，如果这�
 
 ### 4: [2023-01-09 08:19:30+08:00 推文](https://twitter.com/HeQinglian/status/1612242623472828416)
 
-美国正在重组供应链，希望墨西哥制造能够取代中国制造。不过，就连墨西哥的分析者也说，短期内无法完全替代中国制造，毕竟设备到位、人力培训都需要时间<br>这有个过程，会变成什么样，得看中国疫情一是会不会演变为长新冠，二是看疫情何时结束。中国还有几个月时间窗口。<br><br>日经中文网: 【“债券王”冈拉克：全球化倒退将是新常态】杰弗里·冈拉克：美国和欧洲人一直依靠中国的低价商品维持生活，今后将变得困难。生活水平非但不会提高，反而可能恶化。欧洲的部分地区正在变穷。日本也会变穷。中国也不太妙。2023年下半年起，美国经济指标将明显恶化……<br> <a href="https://cn.nikkei.com/columnviewpoint/viewpoint/51040-2023-01-09-04-59-22.html" target="_blank" rel="noopener noreferrer">https://cn.nikkei.com/columnviewpoint/viewpoint/51040-2023-01-09-04-59-22.html</a>
+美国正在重组供应链，希望墨西哥制造能够取代中国制造。不过，就连墨西哥的分析者也说，短期内无法完全替代中国制造，毕竟设备到位、人力培训都需要时间<br>这有个过程，会变成什么样，得看中国疫情一是会不会演变为长新冠，二是看疫情何时结束。中国还有几个月时间窗口。<div class="rsshub-quote"><br><br>日经中文网: 【“债券王”冈拉克：全球化倒退将是新常态】杰弗里·冈拉克：美国和欧洲人一直依靠中国的低价商品维持生活，今后将变得困难。生活水平非但不会提高，反而可能恶化。欧洲的部分地区正在变穷。日本也会变穷。中国也不太妙。2023年下半年起，美国经济指标将明显恶化……<br> <a href="https://cn.nikkei.com/columnviewpoint/viewpoint/51040-2023-01-09-04-59-22.html" target="_blank" rel="noopener noreferrer">https://cn.nikkei.com/columnviewpoint/viewpoint/51040-2023-01-09-04-59-22.html</a></div>
 
 ### 5: [2023-01-09 11:16:22+08:00 推文](https://twitter.com/HeQinglian/status/1612287134333022208)
 
@@ -37,7 +37,7 @@ Re @JianglinLi 人家公开宣称，挂在网站上，是阳谋，不是别人�
 
 ### 6: [2023-01-09 22:19:36+08:00 推文](https://twitter.com/HeQinglian/status/1612454044223537155)
 
-117届国会，有投票权的435个众议院席位当中，民主党占220席，共和党占212席，另有3席空缺：本届（118届）众议院将有222名共和党议员和212名民主党议员，另有1个席位空缺。<br>117届民主党220席，那时媒体说“掌控众议院的民主党”；118届共和党222席，媒体不断强调微弱多数。<br>媒体连这小事都不忘双标。😅<div class="rsshub-quote"><br><br>联合早报 Lianhe Zaobao: 美国众议院戏剧性的新议长选举已经结束，新一届国会已宣誓就职。以微弱多数领导众议院的共和党人未来两年在推进各项立法议程时，预计将遇到民主党人强而有力的挑战。不过对共和党人来说，计划针对中国采取的一些强硬立法措施，很可能成为能赢得民主党人支持、为数不多的亮点。<br> <a href="https://www.zaobao.com.sg/realtime/world/story20230109-1351685" target="_blank" rel="noopener noreferrer">https://www.zaobao.com.sg/realtime/world/story20230109-1351685</a></div>
+117届国会，有投票权的435个众议院席位当中，民主党占220席，共和党占212席，另有3席空缺：本届（118届）众议院将有222名共和党议员和212名民主党议员，另有1个席位空缺。<br>117届民主党220席，那时媒体说“掌控众议院的民主党”；118届共和党222席，媒体不断强调微弱多数。<br>媒体连这小事都不忘双标。😅<br><br>联合早报 Lianhe Zaobao: 美国众议院戏剧性的新议长选举已经结束，新一届国会已宣誓就职。以微弱多数领导众议院的共和党人未来两年在推进各项立法议程时，预计将遇到民主党人强而有力的挑战。不过对共和党人来说，计划针对中国采取的一些强硬立法措施，很可能成为能赢得民主党人支持、为数不多的亮点。<br> <a href="https://www.zaobao.com.sg/realtime/world/story20230109-1351685" target="_blank" rel="noopener noreferrer">https://www.zaobao.com.sg/realtime/world/story20230109-1351685</a>
 
 ### 7: [2023-01-09 22:27:48+08:00 推文](https://twitter.com/HeQinglian/status/1612456108601253888)
 
@@ -166,4 +166,28 @@ Re @StonevWZo7o9 这黑幕早在大选年就披露过，去年也被《纽约邮
 ### 38: [2023-01-11 09:58:52+08:00 推文](https://twitter.com/HeQinglian/status/1612992406156152835)
 
 Re @JianglinLi @HongfuDing @david_david1968 长期抗战，第二个阿富汗。
+
+### 39: [2023-01-11 11:01:49+08:00 推文](https://twitter.com/HeQinglian/status/1613008249443213313)
+
+Re @lianghuiwang2 @jojowheel 两位提到这，我讲件美国往事。<br>美国著名社会学家詹姆斯·塞缪尔·科尔曼（James Samuel Coleman）于1966年撰写的《科尔曼报告》（Coleman Report） ，尽管在美国教育史上具有里程碑意义，但在对社会公共政策的影响上，却不敌左派的政治正确。
+
+### 40: [2023-01-11 11:02:23+08:00 推文](https://twitter.com/HeQinglian/status/1613008393404403715)
+
+Re @lianghuiwang2 @jojowheel 1964年，在约翰·霍普金斯大学任教期间，科尔曼和其他几位学者受美国国家教育统计中心委托，撰写一份关于美国教育平等的报告。这是历史上规模最大的研究之一，样本采集是4000所学校的 65万名学生。1966年，科尔曼研究团队向国会递交了《机会均等调查研究》（Equal Schools or Equal Students）报告。
+
+### 41: [2023-01-11 11:03:21+08:00 推文](https://twitter.com/HeQinglian/status/1613008633339551747)
+
+Re @lianghuiwang2 @jojowheel 该报告和后续研究的一个重要发现：在物理设施、正式课程和其他可衡量标准方面，黑人学校和白人学校之间几乎没有区别。但从一年级开始，黑人和白人儿童的成绩差距就已存在，到小学结束时差距变得更大。该报告认为，解释每个种族群体或民族内部分数差异的唯一一致变量，就是父母的教育背景和社会经济地位
+
+### 42: [2023-01-11 11:05:57+08:00 推文](https://twitter.com/HeQinglian/status/1613009290268221440)
+
+Re @lianghuiwang2 @jojowheel 简言之，父母和家庭照顾者以及学校同龄人对教育的态度决定学生的成就，学校和教师质量的差异确实对学生的成绩产生的影响很小。       <br>调查结果还发现：黑人和其他少数民族后裔相对比白人中产阶级缺乏一种改变和控制自己前途的自信。科尔曼把这种现象称为Selfesteem（自我评估）。
+
+### 43: [2023-01-11 11:41:08+08:00 推文](https://twitter.com/HeQinglian/status/1613018144939077634)
+
+随着美国K-12教育严重左倾将儿童性化（Grooming），越来越多的家庭选择让孩子在家上学，过去几年中估计每年增长8%。<br>据国家家庭教育研究所的数据，2020-2021 年，美国约有约370 万名家庭学生，占学龄儿童6% 到 7%。<br>族裔比例为：黑人16.1%；西裔12.1%；白人9.7%；亚裔8.8% 。 <a href="https://www.spanish.academy/blog/a-hard-look-at-homeschool-vs-public-school-statistics/" target="_blank" rel="noopener noreferrer">https://www.spanish.academy/blog/a-hard-look-at-homeschool-vs-public-school-statistics/</a>
+
+### 44: [2023-01-11 11:47:34+08:00 推文](https://twitter.com/HeQinglian/status/1613019762421895171)
+
+Re 从比例来看，亚裔最相信美国的K-12教育，黑人尽管被左派奉为美国新贵族，但他们选择在家上学的比例最高。具体原因，报告没说。
 

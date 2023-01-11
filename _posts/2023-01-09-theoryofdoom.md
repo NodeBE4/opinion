@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2023-01-10
+date: 2023-01-11
 from: https://old.reddit.com/r/evilbuildings/comments/107n7gi/brutalist_amoeba_devours_a_church/
 layout: post
 tags:
@@ -44,4 +44,10 @@ And yet people keep voting for politicians that inflate their currency, weaponis
 It's almost as if . . . the system is rigged.  
 
 *GASP*
+
+### 437: [Hans filed 2nd amended complaint. Several (703) text changes & 13 additional pages. No free version so I obtained a copy from PACER & ran comparison to 1st amended. The few changes I’ve read so far were entertaining enough to pique my curiosity so I will continue reviewing all the changes.](https://old.reddit.com/r/chess/comments/108r9h5/hans_filed_2nd_amended_complaint_several_703_text/), submitted on 2023-01-11 09:15:39+08:00.
+
+----- __437.1__ -----2023-01-11 12:23:07+08:00:
+
+Hans cheated.  He will lose this lawsuit just like he would lose any fair game against Magnus.
 
