@@ -57,7 +57,7 @@ WTA的決定顯示了良知與正義，不為利益誘惑而出賣原則。相�
 
 ### 11: [2021-12-05 00:28:35+08:00 推文](https://twitter.com/realcaixia/status/1467168968901337088)
 
-这幅帖子概括得好！<br><br>章立凡 Zhang Lifan: ＃转【人家只好试试了】<br><br><img style="" src="https://pbs.twimg.com/media/FFpFlonWQAE87Ul?format=jpg&name=orig" referrerpolicy="no-referrer">
+这幅帖子概括得好！<br><br>章立凡 Zhang Lifan: ＃转【人家只好试试了】<br><br><img style src="https://pbs.twimg.com/media/FFpFlonWQAE87Ul?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2021-12-05 00:50:44+08:00 推文](https://twitter.com/realcaixia/status/1467174543093649412)
 
@@ -65,7 +65,7 @@ WTA的決定顯示了良知與正義，不為利益誘惑而出賣原則。相�
 
 ### 13: [2021-12-05 10:41:20+08:00 推文](https://twitter.com/realcaixia/status/1467323173205118981)
 
-《商君书》——中国历代统治者的驭民术宝书。中共建政，毛泽东曾说他是“马克思+秦始皇”，习当局循毛政同样如此。不同的是有了高科技，监控民众、欺骗民众、恐吓镇压民众更加精致精准。<br>习当局说什么全过程民主，实质是习全过程做统治驭民的主子——“秦始皇+习近平思想是21世纪马克思”。习自封已经超越毛。<br><img style="" src="https://pbs.twimg.com/media/FFz6pflXEAAK9Dm?format=jpg&name=orig" referrerpolicy="no-referrer">
+《商君书》——中国历代统治者的驭民术宝书。中共建政，毛泽东曾说他是“马克思+秦始皇”，习当局循毛政同样如此。不同的是有了高科技，监控民众、欺骗民众、恐吓镇压民众更加精致精准。<br>习当局说什么全过程民主，实质是习全过程做统治驭民的主子——“秦始皇+习近平思想是21世纪马克思”。习自封已经超越毛。<br><img style src="https://pbs.twimg.com/media/FFz6pflXEAAK9Dm?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 14: [2021-12-05 22:46:23+08:00 推文](https://twitter.com/realcaixia/status/1467505635117916169)
 
