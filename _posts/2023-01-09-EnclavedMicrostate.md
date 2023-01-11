@@ -83,3 +83,9 @@ When friends aren't nearby
 
 Boyfriend: baby I want a hug
 
+### 1047: [Ponlliope](https://old.reddit.com/r/Hololive/comments/108z2bu/ponlliope/), submitted on 2023-01-11 15:47:03+08:00.
+
+----- __1047.1__ -----2023-01-11 22:23:56+08:00:
+
+At the time she straight up did not know there was a tax treaty, which there is – what the treaty does is prevent double-taxation, by having it that your total tax payment only equals the higher-taxing country's requirement. The *really* short version is that the tax you pay in one country can be claimed as tax credit in the other. So for instance if the US taxes you at 35% and Japan taxes you at 25%, you can pay 25% to Japan and then claim that as credit in the US, and only pay 10% to them, for 35% total. As of writing she has been made aware and I believe has an accountant handling it.
+
