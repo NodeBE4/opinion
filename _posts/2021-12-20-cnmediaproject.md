@@ -17,7 +17,7 @@ The China Media Project (中国传媒研究计划) is an independent think
 
 ### 1: [2021-12-20 06:13:17+08:00 推文](https://twitter.com/lingli_vienna/status/1472691531605811202)
 
-RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>8 knowledge points that one shall make when teaching in China to shield oneself from being reported to the authority by students:<br><img style="" src="https://pbs.twimg.com/media/FHANIm9XsAkQ8or?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>8 knowledge points that one shall make when teaching in China to shield oneself from being reported to the authority by students:<br><img style src="https://pbs.twimg.com/media/FHANIm9XsAkQ8or?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2021-12-20 12:15:49+08:00 推文](https://twitter.com/cnmediaproject/status/1472782768145047556)
 
@@ -41,7 +41,7 @@ RT Fredrik Fällman 杨富雷<br>Absurd, but fascinating for studying propagan
 
 ### 7: [2021-12-20 16:58:16+08:00 推文](https://twitter.com/ZichenWanghere/status/1472853847999926273)
 
-RT Zichen Wang<br>China's tax authorities just announced it slapped a 1.341 bln tax bill (including unpaid taxes and penalties) on HUANG Wei, popularly known as 薇娅 Wei Ya, China's most popular influencer/live streaming saleswoman. <a href="http://www.chinatax.gov.cn/chinatax/n810219/c102025/c5171508/content.html" target="_blank" rel="noopener noreferrer">http://www.chinatax.gov.cn/chinatax/n810219/c102025/c5171508/content.html</a><br><img style="" src="https://pbs.twimg.com/media/FHCgwNQaIAIAWcO?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Zichen Wang<br>China's tax authorities just announced it slapped a 1.341 bln tax bill (including unpaid taxes and penalties) on HUANG Wei, popularly known as 薇娅 Wei Ya, China's most popular influencer/live streaming saleswoman. <a href="http://www.chinatax.gov.cn/chinatax/n810219/c102025/c5171508/content.html" target="_blank" rel="noopener noreferrer">http://www.chinatax.gov.cn/chinatax/n810219/c102025/c5171508/content.html</a><br><img style src="https://pbs.twimg.com/media/FHCgwNQaIAIAWcO?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2021-12-20 21:54:29+08:00 推文](https://twitter.com/muyixiao/status/1472928395621187592)
 
@@ -85,7 +85,7 @@ RT Bill Bishop<br>Shen haixiong, vice minister of propaganda and head of CMG, 
 
 ### 18: [2021-12-25 16:36:20+08:00 推文](https://twitter.com/yangliuxh/status/1474660269221502982)
 
-RT Yang Liu<br>Ma Xingrui replaces Chen Quanguo as Xinjiang chief<br><img style="" src="https://pbs.twimg.com/media/FHcLsdeVIAYQZpT?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Yang Liu<br>Ma Xingrui replaces Chen Quanguo as Xinjiang chief<br><img style src="https://pbs.twimg.com/media/FHcLsdeVIAYQZpT?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 19: [2021-12-26 20:19:00+08:00 推文](https://twitter.com/PM_Thornton/status/1475078690933460994)
 
