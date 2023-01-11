@@ -235,3 +235,9 @@ So, [the middle image of this screenshot](https://data.nextshark.com/wp-content/
 
 However, they did not have the benefit of commercial programs that just outputted the end product. Instead, all three stages were technically being hosted directly on his stream setup. The raw footage, the mask, and the final model were all layered on top of each other, but the raw footage and the mask were usually transparent. On this occasion, the transparencies seem to have been flipped, thus leading to the incident.
 
+----- __1040.8__ -----2023-01-11 10:22:57+08:00:
+
+> this was a couple years ago so they were probably using prprlive or facerig
+
+This was February 2018 and they started out in April 2017; as far as I'm aware their setup (with 3D model incidentally) was scratchbuilt or at least highly improvised.
+
