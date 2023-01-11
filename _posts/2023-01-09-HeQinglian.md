@@ -29,7 +29,7 @@ Re @ericxu1997 彩虹灿烂地平线，自己高兴就好。话说，如果这�
 
 ### 4: [2023-01-09 08:19:30+08:00 推文](https://twitter.com/HeQinglian/status/1612242623472828416)
 
-美国正在重组供应链，希望墨西哥制造能够取代中国制造。不过，就连墨西哥的分析者也说，短期内无法完全替代中国制造，毕竟设备到位、人力培训都需要时间<br>这有个过程，会变成什么样，得看中国疫情一是会不会演变为长新冠，二是看疫情何时结束。中国还有几个月时间窗口。<div class="rsshub-quote"><br><br>日经中文网: 【“债券王”冈拉克：全球化倒退将是新常态】杰弗里·冈拉克：美国和欧洲人一直依靠中国的低价商品维持生活，今后将变得困难。生活水平非但不会提高，反而可能恶化。欧洲的部分地区正在变穷。日本也会变穷。中国也不太妙。2023年下半年起，美国经济指标将明显恶化……<br> <a href="https://cn.nikkei.com/columnviewpoint/viewpoint/51040-2023-01-09-04-59-22.html" target="_blank" rel="noopener noreferrer">https://cn.nikkei.com/columnviewpoint/viewpoint/51040-2023-01-09-04-59-22.html</a></div>
+美国正在重组供应链，希望墨西哥制造能够取代中国制造。不过，就连墨西哥的分析者也说，短期内无法完全替代中国制造，毕竟设备到位、人力培训都需要时间<br>这有个过程，会变成什么样，得看中国疫情一是会不会演变为长新冠，二是看疫情何时结束。中国还有几个月时间窗口。<br><br>日经中文网: 【“债券王”冈拉克：全球化倒退将是新常态】杰弗里·冈拉克：美国和欧洲人一直依靠中国的低价商品维持生活，今后将变得困难。生活水平非但不会提高，反而可能恶化。欧洲的部分地区正在变穷。日本也会变穷。中国也不太妙。2023年下半年起，美国经济指标将明显恶化……<br> <a href="https://cn.nikkei.com/columnviewpoint/viewpoint/51040-2023-01-09-04-59-22.html" target="_blank" rel="noopener noreferrer">https://cn.nikkei.com/columnviewpoint/viewpoint/51040-2023-01-09-04-59-22.html</a>
 
 ### 5: [2023-01-09 11:16:22+08:00 推文](https://twitter.com/HeQinglian/status/1612287134333022208)
 
@@ -146,4 +146,24 @@ Re @pandazipper2 如果不是为了研究与了解，没这必要。<br>你今�
 ### 33: [2023-01-11 00:40:57+08:00 推文](https://twitter.com/HeQinglian/status/1612852003633303557)
 
 转姜尚荣电报信息：<br>中国社会信用体系的广告：社会评级低的人买不到机票，租不到酒店，无法享受银行服务。每当一个人犯下罪行或轻罪时，评级就会降低——人们的行为通过单一数据库跟踪：从“智能”摄像头、警方报告、银行数据等接收信息。<br>WEF主席克劳斯·施瓦布称中国的社会信用体系为“榜样”——其实是1984.
+
+### 34: [2023-01-11 04:43:29+08:00 推文](https://twitter.com/zhixiangziyou/status/1612913040000688154)
+
+RT L JM🇺🇸<br>现在突发：在美国中期选举前 6 天，在前拜登办公室发现的带有乌克兰链接的机密文件......<br><br>企业媒体是否掩盖了它？<div class="rsshub-quote"><br><br>Chuck Callesto: BREAKING NOW: Classified Documents found in former Biden office with LINKS TO UKRAINE were FOUND 6 DAYS before U.S. Midterms...<br><br>DID THE CORPORATE MEDIA COVER IT UP?<br></div>
+
+### 35: [2023-01-11 08:10:48+08:00 推文](https://twitter.com/zhixiangziyou/status/1612965209521487874)
+
+RT L JM🇺🇸<br>影响军事准备的最糟糕的政策决定之一终于结束了。 @SecDef国会强制废除军事 COVID 疫苗授权。感谢所有通过共同赞助 HR3860 帮助实现这一目标的同事。<div class="rsshub-quote"><br><br>Thomas Massie: One of the worst policy decisions affecting military readiness is finally over. @SecDef forced by Congress to repeal military COVID vaccine mandate. Thank you to all of my colleagues who helped accomplish this by cosponsoring HR3860.<br><br><img style="" src="https://pbs.twimg.com/media/FmJkf5yWYAEsAfd?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FmJkf5vXgAEXWjm?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://media.defense.gov/2023/Jan/10/2003143118/-1/-1/1/SECRETARY-OF-DEFENSE-MEMO-ON-RESCISSION-OF-CORONAVIRUS-DISEASE-2019-VACCINATION-REQUIREMENTS-FOR-MEMBERS-OF-THE-ARMED-FORCES.PDF" target="_blank" rel="noopener noreferrer">https://media.defense.gov/2023/Jan/10/2003143118/-1/-1/1/SECRETARY-OF-DEFENSE-MEMO-ON-RESCISSION-OF-CORONAVIRUS-DISEASE-2019-VACCINATION-REQUIREMENTS-FOR-MEMBERS-OF-THE-ARMED-FORCES.PDF</a></div>
+
+### 36: [2023-01-11 08:18:35+08:00 推文](https://twitter.com/HeQinglian/status/1612967170551545856)
+
+Re @NAConservative9 希望调查，希望美国仍然保有言论自由。<br>以前在中国没有言论自由，但香港、台湾及其他非中国办的中文媒体还有，后慢慢沦陷。<br>但批评美国，能发表文章之地越来越少。台湾赖清德说了不能批评美国，形成对美国的负面看法对台湾很危险。
+
+### 37: [2023-01-11 08:27:15+08:00 推文](https://twitter.com/HeQinglian/status/1612969350037917696)
+
+Re @StonevWZo7o9 这黑幕早在大选年就披露过，去年也被《纽约邮报》披露，但民主党的抗丑闻打击能力特别强，因为没检察官愿意调查起诉。<br>来自中国的礼物：拜登中心所在地宾夕法尼亚大学获 5400 万美元的捐赠 <a href="https://nypost.com/2022/04/09/54m-in-chinese-gifts-donated-to-upenn-home-of-biden-center/" target="_blank" rel="noopener noreferrer">https://nypost.com/2022/04/09/54m-in-chinese-gifts-donated-to-upenn-home-of-biden-center/</a>
+
+### 38: [2023-01-11 09:58:52+08:00 推文](https://twitter.com/HeQinglian/status/1612992406156152835)
+
+Re @JianglinLi @HongfuDing @david_david1968 长期抗战，第二个阿富汗。
 

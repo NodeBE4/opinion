@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2023-01-10
+date: 2023-01-11
 from: https://twitter.com/realcaixia/status/1612159412424278018
 layout: post
 tags:
@@ -29,11 +29,11 @@ title: 'Twitter @蔡霞: 2023-01-09~2023-01-15'
 
 ### 4: [2023-01-09 12:16:42+08:00 推文](https://twitter.com/realcaixia/status/1612302316723474432)
 
-我相信朱云来所说的数字。<br><br>蔡慎坤: 财政部部长刘昆对地方债务罕见表态：坚持中央不救助原则，“谁家的孩子谁抱走”。公开数据显示中央和地方债务59万亿，负债率不到50%，远低于国际通行60%警戒线标准。各地城投负债至少60万亿没有计算在内，实际上，中国总债务远不止这些，按中金国际朱云来疫情前的说法，现在各种债务相加超过9 0 0万亿！<br>
+我相信朱云来所说的数字。<div class="rsshub-quote"><br><br>蔡慎坤: 财政部部长刘昆对地方债务罕见表态：坚持中央不救助原则，“谁家的孩子谁抱走”。公开数据显示中央和地方债务59万亿，负债率不到50%，远低于国际通行60%警戒线标准。各地城投负债至少60万亿没有计算在内，实际上，中国总债务远不止这些，按中金国际朱云来疫情前的说法，现在各种债务相加超过9 0 0万亿！<br></div>
 
 ### 5: [2023-01-09 12:26:38+08:00 推文](https://twitter.com/realcaixia/status/1612304816985837570)
 
-特别推荐：议报【议想天开】专栏发布⬇️面文章。<br><br>《议报》: 【議想天開】 昝愛宗：「杭州國保找過朱虞夫（因寫詩《是時候了》而獲罪的浙江民主人士、前政治犯），不讓他為阿亮呼籲。朱虞夫說：這一次死的是阿亮，如果我不為他發聲，下一次輪到我，也不會有人為我發聲。」<br><br>為眾人抱薪者，不可使其凍斃於風雪。<br> <a href="https://yibaochina.com/?p=248971" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248971</a>
+特别推荐：议报【议想天开】专栏发布⬇️面文章。<div class="rsshub-quote"><br><br>《议报》: 【議想天開】 昝愛宗：「杭州國保找過朱虞夫（因寫詩《是時候了》而獲罪的浙江民主人士、前政治犯），不讓他為阿亮呼籲。朱虞夫說：這一次死的是阿亮，如果我不為他發聲，下一次輪到我，也不會有人為我發聲。」<br><br>為眾人抱薪者，不可使其凍斃於風雪。<br> <a href="https://yibaochina.com/?p=248971" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248971</a></div>
 
 ### 6: [2023-01-10 09:29:04+08:00 推文](https://twitter.com/realcaixia/status/1612622520682700805)
 
@@ -66,4 +66,8 @@ title: 'Twitter @蔡霞: 2023-01-09~2023-01-15'
 ### 13: [2023-01-10 13:04:30+08:00 推文](https://twitter.com/realcaixia/status/1612676735979642881)
 
 精華]後中共的中國 程曉農博士 范疇老師 精彩大解析 (上) - YouTube <a href="https://m.youtube.com/watch?v=gtx3xautBwM" target="_blank" rel="noopener noreferrer">https://m.youtube.com/watch?v=gtx3xautBwM</a>
+
+### 14: [2023-01-11 09:26:35+08:00 推文](https://twitter.com/realcaixia/status/1612984282623971329)
+
+请听人们对彭载舟四通桥上的呼喊，新疆乌鲁木齐市民的呼喊、南京传媒大学李康梦手举白纸、上海青年在乌鲁木齐中路的呼喊、北京亮马桥的汽车鸣笛、北京大学生的呼喊、江西胡鑫宇母亲的呼喊的感受！<br>从孤胆英雄到白纸运动到烟花革命，中国人开始战胜恐怖，站起来为自己的权利发声。发声是有用的！<br><video src="https://video.twimg.com/ext_tw_video/1612984256120213505/pu/vid/464x848/wy2xMkpXc4PRZp2l.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1612984256120213505/pu/img/BzDnMKEX4EdJL4Lw.jpg"></video>
 

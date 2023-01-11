@@ -225,3 +225,13 @@ I'm going purely off plot summary and wider context here, but it feels like the 
 
 Nora Cat, not to be confused with Noraneko. This happened in February 2018, barely 10 months after their original debut and decidedly in the very early years of VTubing – per [this post](https://www.reddit.com/r/VirtualYoutubers/comments/mfzssc/here_are_the_30_oldest_vtubers_in_the_industry/) on r/VirtualYoutubers,  Nora Cat was the second VTuber *ever* if we start counting from Kizuna AI, and my unsubstantiated estimate would have it that fewer than 100 VTubers even existed at the time of the leak, compared to at least 20,000 as of November last year [per data analysis site UserLocal](https://www.userlocal.jp/press/20221129vt/).
 
+----- __1040.7__ -----2023-01-11 09:56:12+08:00:
+
+So, [the middle image of this screenshot](https://data.nextshark.com/wp-content/uploads/2018/02/oyaku-e1517959734945.jpg) is what the incident looked like. Bear in mind that as noted, Nora Cat was pretty much the second VTuber ever if we go by a Kizuna AI-based definition, and was essentially created from scratch as a solo project. Whatever method they were using seems to have involved the following process, which most Live2D and 3D programs technically use:
+
+1. The camera records their face directly.
+2. Facial recognition trickery marks out the position of their facial features to produce a 'mask'.
+3. The model is then basically mapped onto the mask.
+
+However, they did not have the benefit of commercial programs that just outputted the end product. Instead, all three stages were technically being hosted directly on his stream setup. The raw footage, the mask, and the final model were all layered on top of each other, but the raw footage and the mask were usually transparent. On this occasion, the transparencies seem to have been flipped, thus leading to the incident.
+
