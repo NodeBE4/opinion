@@ -45,7 +45,7 @@ Re 中共党政官员中包括国企央企高管，所有党员干部都有行�
 
 ### 8: [2022-07-19 20:57:08+08:00 推文](https://twitter.com/realcaixia/status/1549377803040264192)
 
-他们又开坦克。8964后，坦克成为一种政治象征。那次，人们还认为他们“不致于”，经过6.4那一夜，人们知道他们什么都能干得出来。现在他们又公然出动坦克。习统治下，中国越来越成为坦克轮子上的帝国”了。
+他们又开坦克。8964后，坦克成为一种政治象征。那次，人们还认为他们“不致于”，经过6.4那一夜，人们知道他们什么都能干得出来。现在他们又公然出动坦克。习统治下，中国越来越成为坦克轮子上的帝国”了。<br><br>方舟子: 冲锋枪不够威武了，坦克出动。<br><br><video src="https://video.twimg.com/ext_tw_video/1549159214169305089/pu/vid/888x502/NgwZx8eN7lfdinra.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1549159214169305089/pu/img/SIhVLuj8jIgCUXlU.jpg"></video>
 
 ### 9: [2022-07-19 23:36:46+08:00 推文](https://twitter.com/realcaixia/status/1549417975777820674)
 
@@ -57,7 +57,7 @@ Re <br><video src="https://video.twimg.com/ext_tw_video/1549418664331460610/pu/v
 
 ### 11: [2022-07-20 00:11:36+08:00 推文](https://twitter.com/realcaixia/status/1549426740623187975)
 
-王缉思教授对中共高层很有影响力。近年来中共战狼外交遭世界普遍反感，中共在国际上处境孤立，正在遭文明世界抛弃。王教授的发言或许是中共外交策略有所改变的征兆：收敛战狼嘴脸，遮掩中共军事威胁台湾、破坏国际秩序、危害他国国家安全的种种恶行，继续打利益牌鼓吹增进往来。王教授学问为党国效力
+王缉思教授对中共高层很有影响力。近年来中共战狼外交遭世界普遍反感，中共在国际上处境孤立，正在遭文明世界抛弃。王教授的发言或许是中共外交策略有所改变的征兆：收敛战狼嘴脸，遮掩中共军事威胁台湾、破坏国际秩序、危害他国国家安全的种种恶行，继续打利益牌鼓吹增进往来。王教授学问为党国效力<br><br>韩连潮: 【谁想把中美拉入战火】王缉思最近的发言是猪八戒倒打一耙，混淆是非，比战狼危害更大。他说中共高官无攻台时间表，事实是98年江泽民就提出时间表，习也提过，还用地动山摇来威胁；目前和平统一的“和平”二字都已删掉，天天军机扰台，拿下台湾成为民族复兴主要任务，一直叫嚣战争的是党国，而不是美国。<br><br><img style="" src="https://pbs.twimg.com/media/FYBsGTHXoAIQ4dF?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2022-07-20 00:18:32+08:00 推文](https://twitter.com/realcaixia/status/1549428485936058368)
 
@@ -81,7 +81,7 @@ Re @wongkim728 你有什么根据说某人刻意造谣呢？这需要拿出事�
 
 ### 17: [2022-07-21 00:25:41+08:00 推文](https://twitter.com/realcaixia/status/1549792672059121672)
 
-在中国无执法权的保安以为自己有权力执法，他们执行上司指令时同样凶恶，若出了事，他们的上司像扔破抹布一样的把他们拿出去顶替责任。这些人不懂法，还自以为自己背靠权力大树，可悲。<br><br>反对独裁专治政权: 中共国的法盲警察<br><br><video src="https://video.twimg.com/ext_tw_video/1549115735837798400/pu/vid/636x360/SADqJ1LyhnRFx2da.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1549115735837798400/pu/img/id03pZkPaj2iEbsE.jpg"></video>
+在中国无执法权的保安以为自己有权力执法，他们执行上司指令时同样凶恶，若出了事，他们的上司像扔破抹布一样的把他们拿出去顶替责任。这些人不懂法，还自以为自己背靠权力大树，可悲。
 
 ### 18: [2022-07-21 00:44:19+08:00 推文](https://twitter.com/realcaixia/status/1549797359642710016)
 
@@ -93,7 +93,7 @@ Re @wongkim728 你有什么根据说某人刻意造谣呢？这需要拿出事�
 
 ### 20: [2022-07-21 01:14:43+08:00 推文](https://twitter.com/realcaixia/status/1549805012095848450)
 
-中共對自己幹的罪惡一清二楚，他們害怕人們的紀念，他們千方百計地想要扼殺人們的記憶。這和它們年年妄圖扼殺人們對6.4天安門廣場死難者的紀念一樣。
+中共對自己幹的罪惡一清二楚，他們害怕人們的紀念，他們千方百計地想要扼殺人們的記憶。這和它們年年妄圖扼殺人們對6.4天安門廣場死難者的紀念一樣。<br><br>HAO.: @realcaixia 墙内现状。<br><br><img style="" src="https://pbs.twimg.com/media/FYH_7mNXgAYXpU9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 21: [2022-07-21 01:48:51+08:00 推文](https://twitter.com/realcaixia/status/1549813602693140480)
 
@@ -113,7 +113,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FYJewOwX0AUPknj?format=jpg
 
 ### 25: [2022-07-21 20:44:44+08:00 推文](https://twitter.com/realcaixia/status/1550099458054144002)
 
-因知了诗而生祸，真是前无古人。<br><br>Jam: 习近平新时代的文字狱，前无古人。<br><br><img style="" src="https://pbs.twimg.com/media/FYH-CA5WYAItfJK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+因知了诗而生祸，真是前无古人。
 
 ### 26: [2022-07-21 21:41:34+08:00 推文](https://twitter.com/realcaixia/status/1550113757296304128)
 
@@ -121,7 +121,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FYJewOwX0AUPknj?format=jpg
 
 ### 27: [2022-07-21 22:43:27+08:00 推文](https://twitter.com/realcaixia/status/1550129333116608512)
 
-特别推荐盛洪先生的这篇分析文章。<br><br>Sheng Hong: 据报道，近来多达300多楼盘业主采取强制停贷，以逼迫开发商复工。这显然是开发商的违约导致的。然而这不是偶然出现的，不是个别开发商违规使用资金所能完全解释的，这是一个系统性问题，是去年就出现的房地产市场萎缩的进一步恶化。而以土地为中心的<br> <a href="https://five-woods.com/2021/10/21/%e3%80%90%e6%a8%aa%e8%ae%ae%e3%80%91%e4%b8%ba%e4%bb%80%e4%b9%88%e4%b8%8d%e5%8f%97%e7%ba%a6%e6%9d%9f%e7%9a%84%e6%9d%83%e5%8a%9b%e4%bc%9a%e7%93%a6%e8%a7%a3%e4%b8%ad%e5%9b%bd%e5%a5%87%e8%bf%b9%ef%bc%9f/" target="_blank" rel="noopener noreferrer">https://five-woods.com/2021/10/21/%e3%80%90%e6%a8%aa%e8%ae%ae%e3%80%91%e4%b8%ba%e4%bb%80%e4%b9%88%e4%b8%8d%e5%8f%97%e7%ba%a6%e6%9d%9f%e7%9a%84%e6%9d%83%e5%8a%9b%e4%bc%9a%e7%93%a6%e8%a7%a3%e4%b8%ad%e5%9b%bd%e5%a5%87%e8%bf%b9%ef%bc%9f/</a>
+特别推荐盛洪先生的这篇分析文章。
 
 ### 28: [2022-07-22 05:48:02+08:00 推文](https://twitter.com/realcaixia/status/1550236182981869575)
 
