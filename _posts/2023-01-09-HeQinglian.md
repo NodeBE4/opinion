@@ -283,7 +283,35 @@ RT 北美保守评论🇺🇸🇨🇦<br>《美国的动物庄园》<br><br>�
 
 Re @NAConservative9 据说中国灯塔教徒的心理是这样：因为中国太坏，太黑暗，因此必须有灯塔照明，否则就看不到任何希望了。<br>我的看法：1、美国在现代政治文明程度被用来与中国比较，本身是美国的失败；2、对美国要纵向看，不能用来与中国比烂。
 
-### 68: [2023-01-13 02:26:17+08:00 推文](https://twitter.com/HeQinglian/status/1613603286837526528)
+### 68: [2023-01-13 01:41:14+08:00 推文](https://twitter.com/SSK2024/status/1613591948027203585)
+
+RT 萧生客SSK🇺🇸🇨🇦<br>据公共记录，从2014 ～2019年6月，这所常春藤大学（宾大）共获得了来自中国的5460万$捐款，包括从2016年开始的2310万$的匿名捐赠。<br>大多数匿名捐款是在该大学于2017年2月宣布将创建宾大拜登外交中心后获得的。拜登的副总统任期刚结束，他即领导该中心并被任命为该大学的教授。 <a href="https://nypost.com/2022/04/09/54m-in-chinese-gifts-donated-to-upenn-home-of-biden-center/" target="_blank" rel="noopener noreferrer">https://nypost.com/2022/04/09/54m-in-chinese-gifts-donated-to-upenn-home-of-biden-center/</a>
+
+### 69: [2023-01-13 02:26:17+08:00 推文](https://twitter.com/HeQinglian/status/1613603286837526528)
 
 Re @Vince6610 @NAConservative9 👍
+
+### 70: [2023-01-13 03:28:24+08:00 推文](https://twitter.com/NAConservative9/status/1613618920845627392)
+
+RT 北美保守评论🇺🇸🇨🇦<br>《第二批机密文件被发现，CNN为拜登的辩护崩塌》<br><br>昨天本刊写道：美国人还想知道，在他散布在全美各地诸多的度假屋里是不是还有更多的机密文件呢？“ 话音未落，关于拜登私藏的第二批机密文件被发现的报道就出现了。霍利参议员呼吁任命特别检察官调查拜登私藏机密文件这一丑闻。 <a href="https://nacr.info/WordPress/index.php/2023/01/12/cnn-defense-of-biden-collapses-as-2nd-batch-of-classified-documents-found/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2023/01/12/cnn-defense-of-biden-collapses-as-2nd-batch-of-classified-documents-found/</a><br><img style="" src="https://pbs.twimg.com/media/FmS5QLdXwAMrChn?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 71: [2023-01-13 05:26:16+08:00 推文](https://twitter.com/HeQinglian/status/1613648578949308417)
+
+Re @timothyshlong 谢谢回复。<br>我一直在努力理解美国-西方为何会出现这种性别多元的意识形态准宗教。这本书给了一定的解释。作者是位基督教历史学家。他引用社会学家菲利普·瑞夫的三种世界+四阶段学说来解释：<br>第一世界是一个相信各样神话传说的多神的世界，如古希腊人相信奥林匹斯山上的诸神，古罗马为神建造的万神殿。
+
+### 72: [2023-01-13 05:26:45+08:00 推文](https://twitter.com/HeQinglian/status/1613648704153452544)
+
+Re @timothyshlong 第二世界是相信永恒道德律的一神教的世界，作为代表的是基督教、犹太教和伊斯兰教。<br>第三世界是不相信神的世界，也可以说是毁灭的世界，因为它致力于毁灭第二世界的文化。第三世界遵循的不是永恒的道德律，而是随着时代变迁而不断转换的价值观。
+
+### 73: [2023-01-13 05:28:39+08:00 推文](https://twitter.com/HeQinglian/status/1613649180332904448)
+
+Re @timothyshlong 人类在四个阶段里面寻求意义和目的。<br>       1、政治人：希腊-罗马的理想，人们参与社区生活<br>       2、宗教人：中世纪人们参加教堂敬拜和宗教朝圣的理想<br>       3、经济人：现代人通过金融活动和物质成功找到自我满足的理想
+
+### 74: [2023-01-13 05:31:08+08:00 推文](https://twitter.com/HeQinglian/status/1613649804436938758)
+
+Re @timothyshlong 4、心理的人：后现代的理想，即人们通过对个人心理幸福的内在追求来寻找他们的身份。<br>     这位历史学家承认，瑞夫的这四个阶段确实在更大的层面上描述了是什么导致了现在的境况。“心理的人”阶段为“性革命”创造了文化背景。
+
+### 75: [2023-01-13 05:33:51+08:00 推文](https://twitter.com/HeQinglian/status/1613650489211592723)
+
+Re @timothyshlong 尼采教人们抛弃约束他们的社会规范和约束；马克思教人们反抗统治阶级的压迫；弗洛伊德教宣称人的核心是性，人们的性欲对他们是谁具有决定性意义。因此人们被敦促在性取向和性别认同方面寻求个人真实性，并拒绝任何与其持不同意见的个人或机构。<br>这种世界观已主宰了世俗社会，并试图取代《圣经》世界观
 
