@@ -29,7 +29,7 @@ Re @ericxu1997 彩虹灿烂地平线，自己高兴就好。话说，如果这�
 
 ### 4: [2023-01-09 08:19:30+08:00 推文](https://twitter.com/HeQinglian/status/1612242623472828416)
 
-美国正在重组供应链，希望墨西哥制造能够取代中国制造。不过，就连墨西哥的分析者也说，短期内无法完全替代中国制造，毕竟设备到位、人力培训都需要时间<br>这有个过程，会变成什么样，得看中国疫情一是会不会演变为长新冠，二是看疫情何时结束。中国还有几个月时间窗口。<br><br>日经中文网: 【“债券王”冈拉克：全球化倒退将是新常态】杰弗里·冈拉克：美国和欧洲人一直依靠中国的低价商品维持生活，今后将变得困难。生活水平非但不会提高，反而可能恶化。欧洲的部分地区正在变穷。日本也会变穷。中国也不太妙。2023年下半年起，美国经济指标将明显恶化……<br> <a href="https://cn.nikkei.com/columnviewpoint/viewpoint/51040-2023-01-09-04-59-22.html" target="_blank" rel="noopener noreferrer">https://cn.nikkei.com/columnviewpoint/viewpoint/51040-2023-01-09-04-59-22.html</a>
+美国正在重组供应链，希望墨西哥制造能够取代中国制造。不过，就连墨西哥的分析者也说，短期内无法完全替代中国制造，毕竟设备到位、人力培训都需要时间<br>这有个过程，会变成什么样，得看中国疫情一是会不会演变为长新冠，二是看疫情何时结束。中国还有几个月时间窗口。<div class="rsshub-quote"><br><br>日经中文网: 【“债券王”冈拉克：全球化倒退将是新常态】杰弗里·冈拉克：美国和欧洲人一直依靠中国的低价商品维持生活，今后将变得困难。生活水平非但不会提高，反而可能恶化。欧洲的部分地区正在变穷。日本也会变穷。中国也不太妙。2023年下半年起，美国经济指标将明显恶化……<br> <a href="https://cn.nikkei.com/columnviewpoint/viewpoint/51040-2023-01-09-04-59-22.html" target="_blank" rel="noopener noreferrer">https://cn.nikkei.com/columnviewpoint/viewpoint/51040-2023-01-09-04-59-22.html</a></div>
 
 ### 5: [2023-01-09 11:16:22+08:00 推文](https://twitter.com/HeQinglian/status/1612287134333022208)
 
@@ -37,7 +37,7 @@ Re @JianglinLi 人家公开宣称，挂在网站上，是阳谋，不是别人�
 
 ### 6: [2023-01-09 22:19:36+08:00 推文](https://twitter.com/HeQinglian/status/1612454044223537155)
 
-117届国会，有投票权的435个众议院席位当中，民主党占220席，共和党占212席，另有3席空缺：本届（118届）众议院将有222名共和党议员和212名民主党议员，另有1个席位空缺。<br>117届民主党220席，那时媒体说“掌控众议院的民主党”；118届共和党222席，媒体不断强调微弱多数。<br>媒体连这小事都不忘双标。😅<br><br>联合早报 Lianhe Zaobao: 美国众议院戏剧性的新议长选举已经结束，新一届国会已宣誓就职。以微弱多数领导众议院的共和党人未来两年在推进各项立法议程时，预计将遇到民主党人强而有力的挑战。不过对共和党人来说，计划针对中国采取的一些强硬立法措施，很可能成为能赢得民主党人支持、为数不多的亮点。<br> <a href="https://www.zaobao.com.sg/realtime/world/story20230109-1351685" target="_blank" rel="noopener noreferrer">https://www.zaobao.com.sg/realtime/world/story20230109-1351685</a>
+117届国会，有投票权的435个众议院席位当中，民主党占220席，共和党占212席，另有3席空缺：本届（118届）众议院将有222名共和党议员和212名民主党议员，另有1个席位空缺。<br>117届民主党220席，那时媒体说“掌控众议院的民主党”；118届共和党222席，媒体不断强调微弱多数。<br>媒体连这小事都不忘双标。😅<div class="rsshub-quote"><br><br>联合早报 Lianhe Zaobao: 美国众议院戏剧性的新议长选举已经结束，新一届国会已宣誓就职。以微弱多数领导众议院的共和党人未来两年在推进各项立法议程时，预计将遇到民主党人强而有力的挑战。不过对共和党人来说，计划针对中国采取的一些强硬立法措施，很可能成为能赢得民主党人支持、为数不多的亮点。<br> <a href="https://www.zaobao.com.sg/realtime/world/story20230109-1351685" target="_blank" rel="noopener noreferrer">https://www.zaobao.com.sg/realtime/world/story20230109-1351685</a></div>
 
 ### 7: [2023-01-09 22:27:48+08:00 推文](https://twitter.com/HeQinglian/status/1612456108601253888)
 
@@ -169,7 +169,7 @@ Re @JianglinLi @HongfuDing @david_david1968 长期抗战，第二个阿富汗。
 
 ### 39: [2023-01-11 11:01:49+08:00 推文](https://twitter.com/HeQinglian/status/1613008249443213313)
 
-RT He Qinglian<br>Re @lianghuiwang2 @jojowheel 两位提到这，我讲件美国往事。<br>美国著名社会学家詹姆斯·塞缪尔·科尔曼（James Samuel Coleman）于1966年撰写的《科尔曼报告》（Coleman Report） ，尽管在美国教育史上具有里程碑意义，但在对社会公共政策的影响上，却不敌左派的政治正确。
+Re @lianghuiwang2 @jojowheel 两位提到这，我讲件美国往事。<br>美国著名社会学家詹姆斯·塞缪尔·科尔曼（James Samuel Coleman）于1966年撰写的《科尔曼报告》（Coleman Report） ，尽管在美国教育史上具有里程碑意义，但在对社会公共政策的影响上，却不敌左派的政治正确。
 
 ### 40: [2023-01-11 11:02:23+08:00 推文](https://twitter.com/HeQinglian/status/1613008393404403715)
 
@@ -254,4 +254,16 @@ Re @timothyshlong 作者认为，“LGBTQ的问题很让人担忧，然而它们
 ### 60: [2023-01-12 05:53:29+08:00 推文](https://twitter.com/HeQinglian/status/1613293042521485314)
 
 Re @100fo1 这事听起来是逼人脑筋急转弯——我是转不过来。<br>立陶宛是支持乌克兰的，雇佣兵去战场，应该也是支持乌克兰的。<br>缘何放弃杀俄军的目标，转而杀与他一道执行任务的乌克兰士兵，还高达24个？<br>一问：这位是职业杀手出身，还是搏击之神？<br>二问：乌克兰士兵好歹也有枪在手吧？
+
+### 61: [2023-01-12 10:03:22+08:00 推文](https://twitter.com/HeQinglian/status/1613355926295089152)
+
+Re @dOpukfpLuif7j7S @100fo1 你应该知道，雇佣军都是出于支持乌克兰的立场而去的。
+
+### 62: [2023-01-12 11:55:03+08:00 推文](https://twitter.com/HeQinglian/status/1613384033165103112)
+
+Re @xchen156 我看到一个说法，辉瑞愿意免费提供全部技术，但要求到中国采集疫情数据，因此未谈成——不知此说法是否属实。
+
+### 63: [2023-01-12 11:58:50+08:00 推文](https://twitter.com/HeQinglian/status/1613384984525524993)
+
+文内说：抗议活动的组织者表示，他们反对人权与法律多元中心邀请温特穆特来主持这次主题为英国的性特征vs性别（身份认同）辩论以及LGB与T的分离的讨论会。<br>温特穆特目前在伦敦国王学院任教，担任英国同性恋团体LGB 同盟的律师。抗议活动组织者特里亚农说，这个同性恋团体实则是一个仇恨变性人的组织。<div class="rsshub-quote"><br><br>加拿大国际广播: 麦吉尔大学的性特征与性身份讨论会因变性权益人士抗议而中止 <br>讨论会开始后不久，抗议者进入设在麦吉尔大学法学院楼内的会场，向主讲人温特穆特投掷面粉，并拔掉他正在使用的投影仪的插头。抗议组织者表示，他们反对大学邀请温特穆特来主持讨论会。<br> <a href="https://ici.radio-canada.ca/rci/zh-hans/%E6%96%B0%E9%97%BB/1947585/%E9%BA%A6%E5%90%89%E5%B0%94%E5%A4%A7%E5%AD%A6--%E7%9A%84%E6%80%A7%E7%89%B9%E5%BE%81%E4%B8%8E%E6%80%A7%E8%BA%AB%E4%BB%BD%E8%AE%A8%E8%AE%BA%E4%BC%9A-%E5%8F%98%E6%80%A7%E6%9D%83%E7%9B%8A%E4%BA%BA%E5%A3%AB-%E6%8A%97%E8%AE%AE" target="_blank" rel="noopener noreferrer">https://ici.radio-canada.ca/rci/zh-hans/%E6%96%B0%E9%97%BB/1947585/%E9%BA%A6%E5%90%89%E5%B0%94%E5%A4%A7%E5%AD%A6--%E7%9A%84%E6%80%A7%E7%89%B9%E5%BE%81%E4%B8%8E%E6%80%A7%E8%BA%AB%E4%BB%BD%E8%AE%A8%E8%AE%BA%E4%BC%9A-%E5%8F%98%E6%80%A7%E6%9D%83%E7%9B%8A%E4%BA%BA%E5%A3%AB-%E6%8A%97%E8%AE%AE</a></div>
 

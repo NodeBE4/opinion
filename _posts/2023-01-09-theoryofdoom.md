@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2023-01-11
+date: 2023-01-12
 from: https://old.reddit.com/r/evilbuildings/comments/107n7gi/brutalist_amoeba_devours_a_church/
 layout: post
 tags:
@@ -50,4 +50,14 @@ It's almost as if . . . the system is rigged.
 ----- __437.1__ -----2023-01-11 12:23:07+08:00:
 
 Hans cheated.  He will lose this lawsuit just like he would lose any fair game against Magnus.
+
+### 438: [The story of the firing of my pro-labor, conservative Christian superintendent.](https://old.reddit.com/r/stupidpol/comments/109hv1f/the_story_of_the_firing_of_my_prolabor/), submitted on 2023-01-12 06:20:51+08:00.
+
+----- __438.1__ -----2023-01-12 11:37:07+08:00:
+
+So-called "woke" type issues are the pretext to kill organized labor, keep people from advocating for their own economic interests and protect vested power interests.
+
+It is only when this is realized at every level, that people can understand why the Democrats' real constituents, like Jeff Bezos, donate to fund this indoctrination in universities. 
+
+Ideology is a powerful weapon.
 
