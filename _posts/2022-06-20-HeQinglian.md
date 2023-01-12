@@ -145,7 +145,7 @@ Re @realTaoRay 马斯克既然发推支持变性人，为了言行一致，支�
 
 ### 33: [2022-06-22 01:16:43+08:00 推文](https://twitter.com/HeQinglian/status/1539296267167272963)
 
-美国加州大学洛杉矶分校（UCLA）最新研究报告：在美国13岁以上的160万变性人中，青少年和年轻人约占43%，他们的年龄分布在13至24岁之间，反映跨性别现象在青少年和年轻人之间相当普遍。<br><br>中国三年大饥荒时期人口约6亿，3000万占总人口5%。<br>美国变性人约占总人口0.5%，还须努力<br><br>He Qinglian: 关于美国2021年以来通过教育系统轰轰烈烈推行的变性运动（主要是动员青少年变性），与当年毛泽东跑步进入共产主义的大跃进，思想都是马克思主义的“人定胜天”（战胜自然），前者导致后来饿死三千万人；后者批量生产会达到多少尚不知晓。<br>都是戕害人类。<br> <a href="https://twitter.com/realTaoRay/status/1539266023509008385" target="_blank" rel="noopener noreferrer">https://twitter.com/realTaoRay/status/1539266023509008385</a>
+美国加州大学洛杉矶分校（UCLA）最新研究报告：在美国13岁以上的160万变性人中，青少年和年轻人约占43%，他们的年龄分布在13至24岁之间，反映跨性别现象在青少年和年轻人之间相当普遍。<br><br>中国三年大饥荒时期人口约6亿，3000万占总人口5%。<br>美国变性人约占总人口0.5%，还须努力 <a href="https://www.axios.com/2022/06/10/transgender-teenagers-young-adults-ucla-report" target="_blank" rel="noopener noreferrer">https://www.axios.com/2022/06/10/transgender-teenagers-young-adults-ucla-report</a>
 
 ### 34: [2022-06-22 03:14:41+08:00 推文](https://twitter.com/HeQinglian/status/1539325952647483392)
 
@@ -297,7 +297,7 @@ Re @david_david1968 这我完全不能同意。
 
 ### 71: [2022-06-25 04:46:40+08:00 推文](https://twitter.com/HeQinglian/status/1540436264884834304)
 
-立本推存照，请记住，2019年1月全美选举委员会听证，专家指出多米尼系统有问题：无法验证选民身份，对外开放不到0.1秒就会被入侵，说来不及了；2020年1月同样的听证会，同样的理由。<br>现在美国缺那几亿美元了。<br>大权在握，就是不更换偷票机，你奈我何？<br><br>He Qinglian: 美国投票机有问题，但没钱更换，美国缺钱：<br>布伦南中心和验证投票的联合分析发现，更换老化的投票设备将花费数亿美元。<br>近年来，这些模型中的一些“翻转”投票，由于与老化硬件相关的校准错误，触摸屏错误记录了选民的选择。这反过来又导致了病毒视频和机器“窃取选票”的阴谋论。<br> <a href="https://www.brennancenter.org/our-work/research-reports/voting-machines-risk-2022" target="_blank" rel="noopener noreferrer">https://www.brennancenter.org/our-work/research-reports/voting-machines-risk-2022</a>
+立本推存照，请记住，2019年1月全美选举委员会听证，专家指出多米尼系统有问题：无法验证选民身份，对外开放不到0.1秒就会被入侵，说来不及了；2020年1月同样的听证会，同样的理由。<br>现在美国缺那几亿美元了。<br>大权在握，就是不更换偷票机，你奈我何？
 
 ### 72: [2022-06-25 13:10:44+08:00 推文](https://twitter.com/bonsandcake/status/1540563119096881152)
 
@@ -305,7 +305,7 @@ RT Stacy Chen 🇨🇦🇺🇸<br>Re @franktianxie 从“1-6委员会”，到
 
 ### 73: [2022-06-25 21:11:23+08:00 推文](https://twitter.com/HeQinglian/status/1540684079456059392)
 
-堕胎与变性，一定得在当事人成年后知晓其中利害之后，这是政府责任<br>黄石公园女主贝丝13岁怀孕，不敢求助于父亲，找其大哥（养子），15岁男孩因保护妹妹与家庭名誉，去找印第安人，老妇告知该族的堕胎法将终生不能生育，他告知妹妹，妹妹不知利害，要求做手术。<br>这事成为贝丝终身之痛，兄妹父子失和的梗<br><br>RFI 華語 - 法國國際廣播電台: 美最高法院終結墮胎權憲法保障後，美西岸3州承諾捍衛墮胎權<br><br><img style="" src="https://pbs.twimg.com/media/FWDXjlXUAAAlx1N?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8Wuu.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8Wuu.t</a>
+堕胎与变性，一定得在当事人成年后知晓其中利害之后，这是政府责任<br>黄石公园女主贝丝13岁怀孕，不敢求助于父亲，找其大哥（养子），15岁男孩因保护妹妹与家庭名誉，去找印第安人，老妇告知该族的堕胎法将终生不能生育，他告知妹妹，妹妹不知利害，要求做手术。<br>这事成为贝丝终身之痛，兄妹父子失和的梗
 
 ### 74: [2022-06-25 21:13:54+08:00 推文](https://twitter.com/HeQinglian/status/1540684709931274240)
 
