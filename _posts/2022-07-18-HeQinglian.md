@@ -117,7 +117,7 @@ Re @KELMAND1 作者的意思很明显：一段时期只能有一个外交重心�
 
 ### 26: [2022-07-19 08:51:26+08:00 推文](https://twitter.com/HeQinglian/status/1549195174395494402)
 
-资本主义经济是种持续扩张型经济，需要市场，一旦市场收缩，生产就过剩。
+资本主义经济是种持续扩张型经济，需要市场，一旦市场收缩，生产就过剩。<br><br>Ezio Mao☢: “现在强迫中国自己制造芯片，意味着如果将来发生冲突，你不仅放弃了这些高薪工作，而且会迫使中国完全实现自给自足。”比尔·盖茨曾接受美国彭博社采访时表示：“这样做真的会有好处吗?”<br><br><img style="" src="https://pbs.twimg.com/media/FX6nBfYakAETGea?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 27: [2022-07-19 09:00:32+08:00 推文](https://twitter.com/HeQinglian/status/1549197462434373634)
 
@@ -325,7 +325,7 @@ Re @Wu_Zhi @zt33268778 与其他的相比，气候问题经过一大批“专家
 
 ### 78: [2022-07-21 16:34:56+08:00 推文](https://twitter.com/fading_you1/status/1550036591959326721)
 
-RT 天降伟人包由检<br>我在现场也将坚决拒绝。民主的质量是建立在公民素质之上。跟着BLM兴风作浪的“民主”，不过是“无产阶级专政”的变种，最终形态是“民王”，也就是暴民/奴隶结合体，与帝王的二元结构。显然，想当帝王的美帝精英正在把一个公民社会推向这个二元结构。BLM，身份政治就是“打倒走资派”这个浑水摸鱼计划的一部分
+RT 天降伟人包由检<br>我在现场也将坚决拒绝。民主的质量是建立在公民素质之上。跟着BLM兴风作浪的“民主”，不过是“无产阶级专政”的变种，最终形态是“民王”，也就是暴民/奴隶结合体，与帝王的二元结构。显然，想当帝王的美帝精英正在把一个公民社会推向这个二元结构。BLM，身份政治就是“打倒走资派”这个浑水摸鱼计划的一部分<br><br>Carl: This image stays with me. It was August 2020, a crowd (mostly white) was marching in support of BLM. They demanded that everyone at an open-air restaurant raise their fists. This one woman refused. If you think their behavior was good and decent, we are in deep disagreement.<br>1/<br><br><img style="" src="https://pbs.twimg.com/media/FYHw_YaWIAAoa3S?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 79: [2022-07-21 19:45:15+08:00 推文](https://twitter.com/HeQinglian/status/1550084488562196481)
 
@@ -481,7 +481,7 @@ RT 北明BeiMing<br>美國前駐蘇大使：蓄意促成的烏克蘭危機<br>
 
 ### 117: [2022-07-22 20:31:52+08:00 推文](https://twitter.com/HeQinglian/status/1550458605211631618)
 
-战争虽然还未结束，但欧盟却注定是最大的失败者。三个短板充分暴露：<br>能源上，对俄罗斯的依赖度太高；<br>市场上，对中国的依赖度太高；<br>军事上，对美国的依赖度太高。<br>和平年代，三大依赖能够维持，欧洲繁荣；发生一场局部战争，短板立显。<br>欧盟的危机刚开始。<br><br>北明BeiMing: 美國前駐蘇大使：蓄意促成的烏克蘭危機<br><br>編者按：文章雖發表在戰爭爆發前，卻準確地預測和分析了戰爭的必然性以及導致戰爭的諸多因素，特別對美國長期以來針對俄羅斯的外交政策進行了深刻而犀利的反思，並透露出一些重大的珍貴史實，值得一讀。<br> <a href="http://taiwanus.net/news/news/2022/202207201549431364.htm" target="_blank" rel="noopener noreferrer">http://taiwanus.net/news/news/2022/202207201549431364.htm</a>
+战争虽然还未结束，但欧盟却注定是最大的失败者。三个短板充分暴露：<br>能源上，对俄罗斯的依赖度太高；<br>市场上，对中国的依赖度太高；<br>军事上，对美国的依赖度太高。<br>和平年代，三大依赖能够维持，欧洲繁荣；发生一场局部战争，短板立显。<br>欧盟的危机刚开始。
 
 ### 118: [2022-07-22 20:34:18+08:00 推文](https://twitter.com/HeQinglian/status/1550459216875458562)
 

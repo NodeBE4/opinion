@@ -263,3 +263,9 @@ This was February 2018 and they started out in April 2017; as far as I'm aware t
 
 So, I legitimately did not know that Bushiroad was behind *BanG Dream!*, I thought they just did TCGs. Now that I do know, their sponsorship of Hololive's 3rd major live concert suddenly makes a whole lot more sense.
 
+----- __1040.10__ -----2023-01-13 03:02:29+08:00:
+
+Ah, which also gives context to Great-O-Khan, of Bushiroad-owned New Japan Pro Wrestling, being a fan of Hololive member Oozora Subaru to the point of having a move specifically based on a lock she performs in an animated episode.
+
+[I'm not joking.](https://www.youtube.com/watch?v=kl9rrADVWI8)
+
