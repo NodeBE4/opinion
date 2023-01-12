@@ -29,7 +29,7 @@ Re @ericxu1997 彩虹灿烂地平线，自己高兴就好。话说，如果这�
 
 ### 4: [2023-01-09 08:19:30+08:00 推文](https://twitter.com/HeQinglian/status/1612242623472828416)
 
-美国正在重组供应链，希望墨西哥制造能够取代中国制造。不过，就连墨西哥的分析者也说，短期内无法完全替代中国制造，毕竟设备到位、人力培训都需要时间<br>这有个过程，会变成什么样，得看中国疫情一是会不会演变为长新冠，二是看疫情何时结束。中国还有几个月时间窗口。<br><br>日经中文网: 【“债券王”冈拉克：全球化倒退将是新常态】杰弗里·冈拉克：美国和欧洲人一直依靠中国的低价商品维持生活，今后将变得困难。生活水平非但不会提高，反而可能恶化。欧洲的部分地区正在变穷。日本也会变穷。中国也不太妙。2023年下半年起，美国经济指标将明显恶化……<br> <a href="https://cn.nikkei.com/columnviewpoint/viewpoint/51040-2023-01-09-04-59-22.html" target="_blank" rel="noopener noreferrer">https://cn.nikkei.com/columnviewpoint/viewpoint/51040-2023-01-09-04-59-22.html</a>
+美国正在重组供应链，希望墨西哥制造能够取代中国制造。不过，就连墨西哥的分析者也说，短期内无法完全替代中国制造，毕竟设备到位、人力培训都需要时间<br>这有个过程，会变成什么样，得看中国疫情一是会不会演变为长新冠，二是看疫情何时结束。中国还有几个月时间窗口。<div class="rsshub-quote"><br><br>日经中文网: 【“债券王”冈拉克：全球化倒退将是新常态】杰弗里·冈拉克：美国和欧洲人一直依靠中国的低价商品维持生活，今后将变得困难。生活水平非但不会提高，反而可能恶化。欧洲的部分地区正在变穷。日本也会变穷。中国也不太妙。2023年下半年起，美国经济指标将明显恶化……<br> <a href="https://cn.nikkei.com/columnviewpoint/viewpoint/51040-2023-01-09-04-59-22.html" target="_blank" rel="noopener noreferrer">https://cn.nikkei.com/columnviewpoint/viewpoint/51040-2023-01-09-04-59-22.html</a></div>
 
 ### 5: [2023-01-09 11:16:22+08:00 推文](https://twitter.com/HeQinglian/status/1612287134333022208)
 
@@ -169,7 +169,7 @@ Re @JianglinLi @HongfuDing @david_david1968 长期抗战，第二个阿富汗。
 
 ### 39: [2023-01-11 11:01:49+08:00 推文](https://twitter.com/HeQinglian/status/1613008249443213313)
 
-Re @lianghuiwang2 @jojowheel 两位提到这，我讲件美国往事。<br>美国著名社会学家詹姆斯·塞缪尔·科尔曼（James Samuel Coleman）于1966年撰写的《科尔曼报告》（Coleman Report） ，尽管在美国教育史上具有里程碑意义，但在对社会公共政策的影响上，却不敌左派的政治正确。
+RT He Qinglian<br>Re @lianghuiwang2 @jojowheel 两位提到这，我讲件美国往事。<br>美国著名社会学家詹姆斯·塞缪尔·科尔曼（James Samuel Coleman）于1966年撰写的《科尔曼报告》（Coleman Report） ，尽管在美国教育史上具有里程碑意义，但在对社会公共政策的影响上，却不敌左派的政治正确。
 
 ### 40: [2023-01-11 11:02:23+08:00 推文](https://twitter.com/HeQinglian/status/1613008393404403715)
 
@@ -283,35 +283,67 @@ RT 北美保守评论🇺🇸🇨🇦<br>《美国的动物庄园》<br><br>�
 
 Re @NAConservative9 据说中国灯塔教徒的心理是这样：因为中国太坏，太黑暗，因此必须有灯塔照明，否则就看不到任何希望了。<br>我的看法：1、美国在现代政治文明程度被用来与中国比较，本身是美国的失败；2、对美国要纵向看，不能用来与中国比烂。
 
-### 68: [2023-01-13 01:41:14+08:00 推文](https://twitter.com/SSK2024/status/1613591948027203585)
+### 68: [2023-01-13 01:32:42+08:00 推文](https://twitter.com/fading_you1/status/1613589803974496272)
+
+RT 天降伟人包由检<br>浪漫主义者：这真是绝美的爱情，活着的不离不弃。<br>悲观主义者：活着的将不久于人世<br>现实主义者：活着的只是在追问银行卡密码<br>白左：死去的那只鸟不是素食者，它吃了条虫子🧐，而且他们是一雌一雄🤨都不选黑色羽毛的鸟做伴侣，是种族主义者😡<div class="rsshub-quote"><br><br>Figen: He cannot leave with his deceased wife... My heart cried! 💞💞<br><br><video src="https://video.twimg.com/ext_tw_video/1613574922768453641/pu/vid/400x400/xGdB7wXIYrY3yXgb.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1613574922768453641/pu/img/_LJbwakEhT7KUOGl.jpg"></video></div>
+
+### 69: [2023-01-13 01:41:14+08:00 推文](https://twitter.com/SSK2024/status/1613591948027203585)
 
 RT 萧生客SSK🇺🇸🇨🇦<br>据公共记录，从2014 ～2019年6月，这所常春藤大学（宾大）共获得了来自中国的5460万$捐款，包括从2016年开始的2310万$的匿名捐赠。<br>大多数匿名捐款是在该大学于2017年2月宣布将创建宾大拜登外交中心后获得的。拜登的副总统任期刚结束，他即领导该中心并被任命为该大学的教授。 <a href="https://nypost.com/2022/04/09/54m-in-chinese-gifts-donated-to-upenn-home-of-biden-center/" target="_blank" rel="noopener noreferrer">https://nypost.com/2022/04/09/54m-in-chinese-gifts-donated-to-upenn-home-of-biden-center/</a>
 
-### 69: [2023-01-13 02:26:17+08:00 推文](https://twitter.com/HeQinglian/status/1613603286837526528)
+### 70: [2023-01-13 02:26:17+08:00 推文](https://twitter.com/HeQinglian/status/1613603286837526528)
 
 Re @Vince6610 @NAConservative9 👍
 
-### 70: [2023-01-13 03:28:24+08:00 推文](https://twitter.com/NAConservative9/status/1613618920845627392)
+### 71: [2023-01-13 03:28:24+08:00 推文](https://twitter.com/NAConservative9/status/1613618920845627392)
 
 RT 北美保守评论🇺🇸🇨🇦<br>《第二批机密文件被发现，CNN为拜登的辩护崩塌》<br><br>昨天本刊写道：美国人还想知道，在他散布在全美各地诸多的度假屋里是不是还有更多的机密文件呢？“ 话音未落，关于拜登私藏的第二批机密文件被发现的报道就出现了。霍利参议员呼吁任命特别检察官调查拜登私藏机密文件这一丑闻。 <a href="https://nacr.info/WordPress/index.php/2023/01/12/cnn-defense-of-biden-collapses-as-2nd-batch-of-classified-documents-found/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2023/01/12/cnn-defense-of-biden-collapses-as-2nd-batch-of-classified-documents-found/</a><br><img style="" src="https://pbs.twimg.com/media/FmS5QLdXwAMrChn?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
-### 71: [2023-01-13 05:26:16+08:00 推文](https://twitter.com/HeQinglian/status/1613648578949308417)
+### 72: [2023-01-13 05:26:16+08:00 推文](https://twitter.com/HeQinglian/status/1613648578949308417)
 
 Re @timothyshlong 谢谢回复。<br>我一直在努力理解美国-西方为何会出现这种性别多元的意识形态准宗教。这本书给了一定的解释。作者是位基督教历史学家。他引用社会学家菲利普·瑞夫的三种世界+四阶段学说来解释：<br>第一世界是一个相信各样神话传说的多神的世界，如古希腊人相信奥林匹斯山上的诸神，古罗马为神建造的万神殿。
 
-### 72: [2023-01-13 05:26:45+08:00 推文](https://twitter.com/HeQinglian/status/1613648704153452544)
+### 73: [2023-01-13 05:26:45+08:00 推文](https://twitter.com/HeQinglian/status/1613648704153452544)
 
 Re @timothyshlong 第二世界是相信永恒道德律的一神教的世界，作为代表的是基督教、犹太教和伊斯兰教。<br>第三世界是不相信神的世界，也可以说是毁灭的世界，因为它致力于毁灭第二世界的文化。第三世界遵循的不是永恒的道德律，而是随着时代变迁而不断转换的价值观。
 
-### 73: [2023-01-13 05:28:39+08:00 推文](https://twitter.com/HeQinglian/status/1613649180332904448)
+### 74: [2023-01-13 05:28:39+08:00 推文](https://twitter.com/HeQinglian/status/1613649180332904448)
 
 Re @timothyshlong 人类在四个阶段里面寻求意义和目的。<br>       1、政治人：希腊-罗马的理想，人们参与社区生活<br>       2、宗教人：中世纪人们参加教堂敬拜和宗教朝圣的理想<br>       3、经济人：现代人通过金融活动和物质成功找到自我满足的理想
 
-### 74: [2023-01-13 05:31:08+08:00 推文](https://twitter.com/HeQinglian/status/1613649804436938758)
+### 75: [2023-01-13 05:31:08+08:00 推文](https://twitter.com/HeQinglian/status/1613649804436938758)
 
 Re @timothyshlong 4、心理的人：后现代的理想，即人们通过对个人心理幸福的内在追求来寻找他们的身份。<br>     这位历史学家承认，瑞夫的这四个阶段确实在更大的层面上描述了是什么导致了现在的境况。“心理的人”阶段为“性革命”创造了文化背景。
 
-### 75: [2023-01-13 05:33:51+08:00 推文](https://twitter.com/HeQinglian/status/1613650489211592723)
+### 76: [2023-01-13 05:33:51+08:00 推文](https://twitter.com/HeQinglian/status/1613650489211592723)
 
 Re @timothyshlong 尼采教人们抛弃约束他们的社会规范和约束；马克思教人们反抗统治阶级的压迫；弗洛伊德教宣称人的核心是性，人们的性欲对他们是谁具有决定性意义。因此人们被敦促在性取向和性别认同方面寻求个人真实性，并拒绝任何与其持不同意见的个人或机构。<br>这种世界观已主宰了世俗社会，并试图取代《圣经》世界观
+
+### 77: [2023-01-13 05:46:29+08:00 推文](https://twitter.com/HeQinglian/status/1613653668792000513)
+
+Re @timothyshlong 这位基督教历史学家与社会学家与一般基督教信众不同，他的结论是人类已经不可能回到第二种世界去了。必须学会应对目前这场马克思+弗洛伊德的革命。<br>我对大重置的设想与拜登第一年的疯狂及农地银行的构想及悄悄实施了解得多点，知道不是心理自我革命，是必将涉及经济（私有制）与政治制度的革命。
+
+### 78: [2023-01-13 06:13:12+08:00 推文](https://twitter.com/HeQinglian/status/1613660393859162112)
+
+Re @timothyshlong “心理的人”这一分类，对我的思考有帮助：<br>心理的人定位全凭自我，没有客观标准，欲望全无约束。<br>可以解释两点：<br>1、以丑为美的模特、骄傲月的各种令人不适的性展示，皆因自我认定为美的欲望宣泄；<br>2、用政治正确威逼社会认同他们的价值观。<br>政治人、宗教人、经济人三种都有外在约束。
+
+### 79: [2023-01-13 06:17:08+08:00 推文](https://twitter.com/HeQinglian/status/1613661382431637504)
+
+Re @Lucs24659702 好事，九牛一毛。那2000头骡子及其主人都应该被审判。
+
+### 80: [2023-01-13 07:20:47+08:00 推文](https://twitter.com/HeQinglian/status/1613677399916388354)
+
+Re @david_david1968 最近我在研究美国的“性多元化革命”，现象我们都知道，但溯其文化根本，就进入了一个非我专业的领域。好在这方面的旧名著曾经读过，不陌生，新的读了两本，颇有所得。<br>这一轮“心理的人”引发的革命，继1968年巴黎红五月未竟之功，除了美国仍拥有技术军事经济优势，英法德代表的欧洲文明颓势已成。
+
+### 81: [2023-01-13 07:25:08+08:00 推文](https://twitter.com/HeQinglian/status/1613678494709424129)
+
+Re @fading_you1 😅😅😅
+
+### 82: [2023-01-13 07:36:49+08:00 推文](https://twitter.com/HeQinglian/status/1613681433507401728)
+
+Re @david_david1968 马尔库塞的作品我只读过《单向度的人》，在书上做了些读书笔记，前几天翻找出来，有这么一段：【在马尔库塞这里，马克思主义理论和弗洛伊德性心理学得到了结合。就这样，马克思的“自我”被心理学化，心理学随后被性化】<br>根据这两年的观察，可以补上“最后性被政治化，当代性身份政治的舞台已经搭好”。
+
+### 83: [2023-01-13 07:38:50+08:00 推文](https://twitter.com/HeQinglian/status/1613681944071397376)
+
+Re @david_david1968 这是法国的“创新”，莎翁会气得从棺材里跳出来。<div class="rsshub-quote"><br><br>布鲁克林他爹: 我本以为这是编的段子，网上一查竟然是真的<br><br>我日所有法国左b的大爷<br><br><img style="" src="https://pbs.twimg.com/media/FmQU3fpaUAMsaUH?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 

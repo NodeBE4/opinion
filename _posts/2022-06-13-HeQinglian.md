@@ -265,11 +265,11 @@ Re 这封信用中国人一听就明白的话来说，两大要点：<br>1、坏
 
 ### 63: [2022-06-16 22:21:33+08:00 推文](https://twitter.com/RealBeiMing/status/1537440244986892288)
 
-RT 北明BeiMing<br>◆挑釁成禍，老闆在全國支持率太低惱羞成怒進退維谷;<br>◆輕諾寡信，弟兄們憤怒喧囂一陣發現制裁效率不彰本土經濟無法承受要退出;<br>◆利益趨同，俄中經濟合作夥伴開始建立;<br>◆重要!!——聖彼得堡“國際經濟論壇”將對峙達沃斯“世界經濟論壇”，提出人類秩序神聖原則，世界“均勢”機制建立中。<br><br>俄通社即日消息<br><img style="" src="https://pbs.twimg.com/media/FVYOU7XUUAAuR40?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><br>正念先生-东欧视角: 欧洲劝降团到达基辅<br><br><img style="" src="https://pbs.twimg.com/media/FVWz80uWAAAcW71?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVWz85sX0AAnLE0?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT 北明BeiMing<br>◆挑釁成禍，老闆在全國支持率太低惱羞成怒進退維谷;<br>◆輕諾寡信，弟兄們憤怒喧囂一陣發現制裁效率不彰本土經濟無法承受要退出;<br>◆利益趨同，俄中經濟合作夥伴開始建立;<br>◆重要!!——聖彼得堡“國際經濟論壇”將對峙達沃斯“世界經濟論壇”，提出人類秩序神聖原則，世界“均勢”機制建立中。<br><br>俄通社即日消息<br><img style="" src="https://pbs.twimg.com/media/FVYOU7XUUAAuR40?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 64: [2022-06-16 22:30:27+08:00 推文](https://twitter.com/HeQinglian/status/1537442487224004608)
 
-克林顿说：“我实际上认为，如果我们继续做出错误的决定，我们很有可能在几十年内完全失去我们的宪政民主。……我以前从未像现在这样担心我们民主政府的结构”。<br>6月15日发布的雅虎新闻-YouGov 民意调查显示，55% 的民主党人和 53% 的共和党人表示，他们相信美国有一天“可能”不会成为民主国家。<br><br>The Hill: Bill Clinton: "Fair chance" US could "completely lose" its democratic system<br><br><img style="" src="https://pbs.twimg.com/media/FVYVqFcVsAcfNK2?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://trib.al/mp92tnr" target="_blank" rel="noopener noreferrer">https://trib.al/mp92tnr</a>
+克林顿说：“我实际上认为，如果我们继续做出错误的决定，我们很有可能在几十年内完全失去我们的宪政民主。……我以前从未像现在这样担心我们民主政府的结构”。<br>6月15日发布的雅虎新闻-YouGov 民意调查显示，55% 的民主党人和 53% 的共和党人表示，他们相信美国有一天“可能”不会成为民主国家。
 
 ### 65: [2022-06-16 22:35:27+08:00 推文](https://twitter.com/HeQinglian/status/1537443744412098561)
 
@@ -513,7 +513,7 @@ Re @wakeup_arrow 出于好奇看了一眼。那位巴丢草我因其左得出位
 
 ### 125: [2022-06-19 23:19:59+08:00 推文](https://twitter.com/HeQinglian/status/1538542113008271364)
 
-我一直觉得西方在中俄关系上，对中国有不切实际的期待。<br>1、习近平对俄与普京的好感，中国人都知道，不是国家机密；2、地缘政治的需要，中国从未向美国许诺过亲美疏俄；3、金砖五国自2009年以来每年开会，日渐亲密，这也是公开信息。<br>西方要么不看自家之外的信息，要么将自家愿望当作他国必须要做之事<br><br>华尔街日报中文网: #本周热读 习近平在自己69岁生日这天与普京通话，重申支持莫斯科方面的安全关切，这一举动意味着中国无意在中俄密切关系上收手。保持与俄罗斯的伙伴关系意味着，中国必须继续采取一种向来很难的骑墙外交立场。<br> <a href="https://on.wsj.com/3zDmHCH" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3zDmHCH</a>
+我一直觉得西方在中俄关系上，对中国有不切实际的期待。<br>1、习近平对俄与普京的好感，中国人都知道，不是国家机密；2、地缘政治的需要，中国从未向美国许诺过亲美疏俄；3、金砖五国自2009年以来每年开会，日渐亲密，这也是公开信息。<br>西方要么不看自家之外的信息，要么将自家愿望当作他国必须要做之事
 
 ### 126: [2022-06-19 23:32:06+08:00 推文](https://twitter.com/HeQinglian/status/1538545164909682690)
 
