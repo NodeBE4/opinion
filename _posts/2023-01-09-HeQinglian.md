@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-01-12
+date: 2023-01-13
 from: https://twitter.com/HeQinglian/status/1612159473014947840
 layout: post
 tags:
@@ -274,4 +274,12 @@ Re @shenliangqing2 这类矛盾现在越来越多。主要是变性人原来比�
 ### 65: [2023-01-12 22:22:35+08:00 推文](https://twitter.com/HeQinglian/status/1613541956402946048)
 
 Re @JianglinLi 只能庆幸，我们的孩子不是在这个时段接受教育，否则就成了彩虹成员。
+
+### 66: [2023-01-12 23:02:48+08:00 推文](https://twitter.com/NAConservative9/status/1613552077027905539)
+
+RT 北美保守评论🇺🇸🇨🇦<br>《美国的动物庄园》<br><br>如此多的美国人仍然没有看到他们的代理政府已经偏离了宪法规定，这证明了那些以把人类关进围栏为生的人做得非常出色。太多人看着周围的铁丝网，以为生活必须永远在政府的围栏里忍受，以顺从换取政府的安全、福利和幸福的承诺，创造了一种麻醉性的幸福感。 <a href="https://nacr.info/WordPress/index.php/2023/01/12/americas-animal-farm/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2023/01/12/americas-animal-farm/</a><br><img style="" src="https://pbs.twimg.com/media/FmR8FGdWAAEAoVU?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 67: [2023-01-13 01:00:44+08:00 推文](https://twitter.com/HeQinglian/status/1613581757772857346)
+
+Re @NAConservative9 据说中国灯塔教徒的心理是这样：因为中国太坏，太黑暗，因此必须有灯塔照明，否则就看不到任何希望了。<br>我的看法：1、美国在现代政治文明程度被用来与中国比较，本身是美国的失败；2、对美国要纵向看，不能用来与中国比烂。
 
