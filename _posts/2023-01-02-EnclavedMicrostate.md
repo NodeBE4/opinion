@@ -259,3 +259,7 @@ However, they did not have the benefit of commercial programs that just outputte
 
 This was February 2018 and they started out in April 2017; as far as I'm aware their setup (with 3D model incidentally) was scratchbuilt or at least highly improvised.
 
+----- __1040.9__ -----2023-01-13 02:38:04+08:00:
+
+So, I legitimately did not know that Bushiroad was behind *BanG Dream!*, I thought they just did TCGs. Now that I do know, their sponsorship of Hololive's 3rd major live concert suddenly makes a whole lot more sense.
+

@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2023-01-11
+date: 2023-01-13
 from: https://twitter.com/realcaixia/status/1612159412424278018
 layout: post
 tags:
@@ -21,11 +21,11 @@ title: 'Twitter @蔡霞: 2023-01-09~2023-01-15'
 
 ### 2: [2023-01-09 11:20:44+08:00 推文](https://twitter.com/realcaixia/status/1612288233962090497)
 
-不仅民企在大量裁员，而且中共国央企总部也在裁员。有多少青年人和中年人原本以为疫情劫波度后生机再现，未曾想连谋生都成了难题。2023对打工者、对城市白领甚至高校应届毕业生来说，失业将把他们逼入困境，前路茫茫，希望何在？<br><br>寒江独钓: 【失业大潮席卷中国】进来，国企、央企屡屡爆发裁员降薪潮，抖音母公司字节跳动一夜裁员上万人，年轻人纷纷抱头痛哭。<br><br><video src="https://video.twimg.com/ext_tw_video/1611510144923492352/pu/vid/1280x720/56ZDtfTGg93HI37-.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1611510144923492352/pu/img/BJQC-4jdMF2DzWZx.jpg"></video>
+不仅民企在大量裁员，而且中共国央企总部也在裁员。有多少青年人和中年人原本以为疫情劫波度后生机再现，未曾想连谋生都成了难题。2023对打工者、对城市白领甚至高校应届毕业生来说，失业将把他们逼入困境，前路茫茫，希望何在？<div class="rsshub-quote"><br><br>寒江独钓: 【失业大潮席卷中国】进来，国企、央企屡屡爆发裁员降薪潮，抖音母公司字节跳动一夜裁员上万人，年轻人纷纷抱头痛哭。<br><br><video src="https://video.twimg.com/ext_tw_video/1611510144923492352/pu/vid/1280x720/56ZDtfTGg93HI37-.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1611510144923492352/pu/img/BJQC-4jdMF2DzWZx.jpg"></video></div>
 
 ### 3: [2023-01-09 11:31:51+08:00 推文](https://twitter.com/realcaixia/status/1612291032531742723)
 
-一个把自己的面子看的比国民生命还要重的党魁；一个把自己的官帽和权位看得高于一切的官僚体制，国民只是可利用的“人矿”，他们眼里的“放开最佳时机”只以自己利益的盘算为根据。<div class="rsshub-quote"><br><br>章立凡 Zhang Lifan: 转【最高层断送了“放开”最佳时机】<br><br><img style="" src="https://pbs.twimg.com/media/Fl6scmRaMAEeujJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+一个把自己的面子看的比国民生命还要重的党魁；一个把自己的官帽和权位看得高于一切的官僚体制，国民只是可利用的“人矿”，他们眼里的“放开最佳时机”只以自己利益的盘算为根据。<br><br>章立凡 Zhang Lifan: 转【最高层断送了“放开”最佳时机】<br><br><img style="" src="https://pbs.twimg.com/media/Fl6scmRaMAEeujJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2023-01-09 12:16:42+08:00 推文](https://twitter.com/realcaixia/status/1612302316723474432)
 
@@ -33,7 +33,7 @@ title: 'Twitter @蔡霞: 2023-01-09~2023-01-15'
 
 ### 5: [2023-01-09 12:26:38+08:00 推文](https://twitter.com/realcaixia/status/1612304816985837570)
 
-特别推荐：议报【议想天开】专栏发布⬇️面文章。<br><br>《议报》: 【議想天開】 昝愛宗：「杭州國保找過朱虞夫（因寫詩《是時候了》而獲罪的浙江民主人士、前政治犯），不讓他為阿亮呼籲。朱虞夫說：這一次死的是阿亮，如果我不為他發聲，下一次輪到我，也不會有人為我發聲。」<br><br>為眾人抱薪者，不可使其凍斃於風雪。<br> <a href="https://yibaochina.com/?p=248971" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248971</a>
+特别推荐：议报【议想天开】专栏发布⬇️面文章。<div class="rsshub-quote"><br><br>《议报》: 【議想天開】 昝愛宗：「杭州國保找過朱虞夫（因寫詩《是時候了》而獲罪的浙江民主人士、前政治犯），不讓他為阿亮呼籲。朱虞夫說：這一次死的是阿亮，如果我不為他發聲，下一次輪到我，也不會有人為我發聲。」<br><br>為眾人抱薪者，不可使其凍斃於風雪。<br> <a href="https://yibaochina.com/?p=248971" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248971</a></div>
 
 ### 6: [2023-01-10 09:29:04+08:00 推文](https://twitter.com/realcaixia/status/1612622520682700805)
 
@@ -78,4 +78,8 @@ title: 'Twitter @蔡霞: 2023-01-09~2023-01-15'
 ### 16: [2023-01-11 10:11:34+08:00 推文](https://twitter.com/realcaixia/status/1612995602916196353)
 
 悲惨世界出不朽名著，人间炼狱出悲愤诗家。请读议报【议想天开】专栏今日发布的两首诗作。这两首诗作字字杜鹃啼血，句句肝肠寸断。<br><br>【議想天開】人礦｜我的祖國是一座巨型墳場 - 议报 <a href="https://yibaochina.com/?p=248999" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248999</a>
+
+### 17: [2023-01-13 01:27:43+08:00 推文](https://twitter.com/realcaixia/status/1613588549709828115)
+
+刚看到冯天瑜先生的讣告，特别心痛💔。按冯先生的年龄，若没有如此解封如此海啸般病毒疫情，冯先生当依然会活跃在中国史学界、思想界。这次突然的习当局政府躺平式解封，带来的病亡者无数，习3年疫情人祸堪比3年大饥荒饿死无数！<div class="rsshub-quote"><br><br>荣剑: 冯天瑜先生走了，特别痛心！上月25号，冯先生来信说他楼上已走了三位，并说随时听召唤。冯先生经历过生死考验，做过两次癌症大手术，亲历三年前的武汉新冠大爆发，都扛过来了，没想到的是，病毒凶恶，他还是没有躲过这一劫。冯先生是吾国知识界极少数对历史和世事洞若观火的学者，他走了，是天瞎了！<br><br><img style="" src="https://pbs.twimg.com/media/FmRYazIWYAE4yn4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FmRYa_KWAAMR8c9?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FmRYdZiXgAoGdJ4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FmRYenDWIAUkqgL?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
