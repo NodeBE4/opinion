@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2023-01-12
+date: 2023-01-13
 from: https://old.reddit.com/r/geopolitics/comments/10762ke/ivo_h_daalder_and_james_goldgeier_the_long_war_in/
 layout: post
 tags:
@@ -28,4 +28,12 @@ title: ForeignAffairsMag在2023-01-09~2023-01-15的言论
 But asking whether negotiations are good or bad misses the point. Negotiations are merely a tool, and like any tool, are useful insofar as they can advance interests and lead to preferred outcomes. The better question, therefore, is, Can negotiating lead to a better result for the United States and Ukraine than not negotiating?
 
 Right now, the answer is still no. No deal is possible between a Ukraine that is making steady battlefield progress and a Russia in denial of this reality. Even calling for talks today risks benefiting Moscow. But this impasse need not be permanent. By keeping up pressure on Russia, Ukraine and its partners in the West can begin to create the conditions for negotiations to succeed."
+
+### 335: [To Make Japan Stronger, America Must Pull It Closer: What Biden and Kishida Should Do to Strengthen the Alliance](https://old.reddit.com/r/geopolitics/comments/10a8mv9/to_make_japan_stronger_america_must_pull_it/), submitted on 2023-01-13 03:43:31+08:00.
+
+----- __335.1__ -----2023-01-13 03:44:50+08:00:
+
+**From Christopher Johnstone:** "Japanese Prime Minister Fumio Kishida’s meeting with U.S. President Joe Biden on January 13 will provide a crucial opportunity to turn the page on decades of history in Japan’s security relationship with the United States. In mid-December, Kishida announced a new national security and defense strategy that departs from the path Japan has followed since World War II. The plan calls for Japan to increase defense spending by nearly 60 percent over five years, shattering the informal cap of one percent of GDP that has been in place since the 1970s. Japan will also acquire military capabilities it has long foresworn—in particular “counterstrike” missiles, or long-range precision weapons that will be mounted on vehicles, aircraft, ships, and eventually submarines. These will likely include U.S. Tomahawk land attack missiles, which Washington is preparing to sell to Tokyo. Japan will also heavily invest in cyber-capabilities, unmanned systems, and satellites that can support counterstrike operations. Tokyo has signaled that it intends to move quickly: Just a week later, the Kishida government unveiled a 6.8 trillion yen (about $51 billion) defense budget request for the next fiscal year, a 25 percent increase over the current year.
+
+Once implemented, Japan’s strategy will transform the country’s place in the international security order. The prospect of a better-armed and equipped Japan will complicate North Korea and China’s calculations. But to maximize the effectiveness of Japan’s new posture, the country’s alliance with the United States must evolve. Today it is strong, but it falls short of a true military partnership capable of mounting integrated operations at short notice. As Japan pursues its new vision, the two close allies need a new command and control architecture, far deeper levels of information-sharing, and expanded cooperation between their defense industries. It is also time to revisit the cost-sharing arrangement that has long supported the U.S. military presence in Japan."
 
