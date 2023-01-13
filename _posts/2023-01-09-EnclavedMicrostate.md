@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-01-12
+date: 2023-01-13
 from: https://old.reddit.com/r/badhistory/comments/107cogb/mindless_monday_09_january_2023/
 layout: post
 tags:
@@ -112,4 +112,12 @@ Thank you! A good deal to chew on. I'll let other askers get a word in, and I ho
 Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 1050: [Were Samurai really as honorable as stories portray them to be?](https://old.reddit.com/r/AskHistorians/comments/10adjya/were_samurai_really_as_honorable_as_stories/), submitted on 2023-01-13 06:55:54+08:00.
+
+----- __1050.1__ -----2023-01-13 21:25:06+08:00:
+
+Thank you for your response. Unfortunately, we have had to remove it due to violations of [subreddit’s rules about answers needing to reflect current scholarship](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_answers). While we appreciate the effort you have put into this comment, there are nevertheless significant errors, misunderstandings, or omissions of the topic at hand [which necessitated its removal](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/). 
+ 
+We understand this can be discouraging, but we would also encourage you to consult [this Rules Roundtable to better understand how the mod team evaluates answers on the sub](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/). If you are interested in feedback on improving future contributions, please feel free to [reach out to us via modmail](https://www.reddit.com/message/compose?to=%2Fr%2FAskHistorians&subject=Inquiry%20About%20Improving%20Future%20Responses). Thank you for your understanding.
 
