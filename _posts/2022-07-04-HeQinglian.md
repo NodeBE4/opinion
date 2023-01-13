@@ -33,7 +33,7 @@ Re @whisperCDX @cskun1989 15-20年前，我接触的台湾学界与文化界都�
 
 ### 5: [2022-07-04 09:46:00+08:00 推文](https://twitter.com/HeQinglian/status/1543773087661015041)
 
-7月1日路透发布英文消息：《美国官方消息：中国没有为俄罗斯在乌克兰的战争提供物质支持》，拜登政府一名高官在告诉路透，美商务部黑名单是针对企业，不是针对政府。<br><br>G7表态在前。由此可见，胡萝卜+大棒并用，美对华政策仍然处在战略摇摆状态，依据是中国经济前景不明朗。<br><br>华尔街日报中文网: #本周热读 美国及其在欧洲和亚洲的主要盟友正联合起来对抗中国，它们都将中国视为安全挑战，而且中方在乌克兰战争中对俄罗斯的支持更是令人不安。欧洲国家曾倾向于将中国视为一个经济机会，但最近对中国的强硬姿态显示出反感。<br> <a href="https://on.wsj.com/3NyRX9d" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3NyRX9d</a>
+7月1日路透发布英文消息：《美国官方消息：中国没有为俄罗斯在乌克兰的战争提供物质支持》，拜登政府一名高官在告诉路透，美商务部黑名单是针对企业，不是针对政府。<br><br>G7表态在前。由此可见，胡萝卜+大棒并用，美对华政策仍然处在战略摇摆状态，依据是中国经济前景不明朗。 <a href="https://www.reuters.com/world/china-not-giving-material-support-russias-war-ukraine-us-official-2022-07-01/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/china-not-giving-material-support-russias-war-ukraine-us-official-2022-07-01/</a>
 
 ### 6: [2022-07-04 09:48:32+08:00 推文](https://twitter.com/HeQinglian/status/1543773724310224897)
 
@@ -245,7 +245,7 @@ Re @KELMAND1 OMG，战争一旦开打，不是累不累的问题，而是生与�
 
 ### 58: [2022-07-05 23:24:49+08:00 推文](https://twitter.com/shenliangqing2/status/1544341537961586689)
 
-RT 沈良庆二世<br>人与人之间互相尊重才能和平共处。如今在发达国家已经不存在大众性向歧视小众性向问题，而是包括跨性别在内的小众不断用激进手段来骚扰、绑架、胁迫大众，试图抢占更多公共资源，用自己的特殊性取向冒犯甚至侵犯大众，试图改造他人甚至儿童。压迫过头了，迟早会遭遇大众反抗，危害自身。<br><br>BBC News 中文: 英国政府表示，越来越多的“性别中立”厕所让女性“处于不公平的弱势地位”，增加女性排队时间。政府提议修法，规定新建公共建筑必须设置男女分开的单一性别厕所。<br><br>“性别中立”厕所让使用者按照自己的性别认同选择使用厕所，通常有数个厕所隔间，但使用者必须共用排队和洗手设施，有些女性对此感到不舒服。<br><br><img style="" src="https://pbs.twimg.com/media/FW6CBUDWAAI-qQV?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT 沈良庆二世<br>人与人之间互相尊重才能和平共处。如今在发达国家已经不存在大众性向歧视小众性向问题，而是包括跨性别在内的小众不断用激进手段来骚扰、绑架、胁迫大众，试图抢占更多公共资源，用自己的特殊性取向冒犯甚至侵犯大众，试图改造他人甚至儿童。压迫过头了，迟早会遭遇大众反抗，危害自身。
 
 ### 59: [2022-07-06 00:54:29+08:00 推文](https://twitter.com/HeQinglian/status/1544364100188311553)
 
@@ -281,7 +281,7 @@ Re @comeonjustchill 战争初起，我就提过一点：前十大GDP国家中，
 
 ### 67: [2022-07-06 03:50:56+08:00 推文](https://twitter.com/HeQinglian/status/1544408505976856576)
 
-这几年，美国、英国就拿这事领导世界新潮流了。<br>骄傲月的妖魔鬼怪性活动表演，什么时候能禁止？
+这几年，美国、英国就拿这事领导世界新潮流了。<br>骄傲月的妖魔鬼怪性活动表演，什么时候能禁止？<br><br>BBC News 中文: 英国政府表示，越来越多的“性别中立”厕所让女性“处于不公平的弱势地位”，增加女性排队时间。政府提议修法，规定新建公共建筑必须设置男女分开的单一性别厕所。<br><br>“性别中立”厕所让使用者按照自己的性别认同选择使用厕所，通常有数个厕所隔间，但使用者必须共用排队和洗手设施，有些女性对此感到不舒服。<br><br><img style="" src="https://pbs.twimg.com/media/FW6CBUDWAAI-qQV?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 68: [2022-07-06 04:16:01+08:00 推文](https://twitter.com/HeQinglian/status/1544414820631470081)
 
@@ -305,7 +305,7 @@ Re @comeonjustchill 对于俄罗斯，我觉得是随机调整。当初启动Swi
 
 ### 73: [2022-07-06 21:42:19+08:00 推文](https://twitter.com/HeQinglian/status/1544678131100958726)
 
-拜登、南希们等左派领导的美国。<br>福利供养出来的“美国新贵族”，Liberal World Order。<br>拜粉们喜欢么？<br><br>🍃 Ɣ 🍃: When you run out of chicken nuggets..<br><br><video src="https://video.twimg.com/ext_tw_video/1544317716408016900/pu/vid/576x720/DGc1bjXJDE5uyidy.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1544317716408016900/pu/img/8-dE9FO405azD8zE.jpg"></video>
+拜登、南希们等左派领导的美国。<br>福利供养出来的“美国新贵族”，Liberal World Order。<br>拜粉们喜欢么？
 
 ### 74: [2022-07-06 21:43:33+08:00 推文](https://twitter.com/HeQinglian/status/1544678441764769793)
 
@@ -337,7 +337,7 @@ Re @david_david1968 那司机可能要连升15级？
 
 ### 81: [2022-07-06 22:30:25+08:00 推文](https://twitter.com/HeQinglian/status/1544690233295380482)
 
-英国政客比美国政客有自尊。<br>拜登、南希将美国打理成这样，还天天玩怪罪游戏：一切都是普京的错，通胀全是他折腾的。没见他们要辞职，还说要竞选连任。<br><br>Vanessa 姗: 突发新闻: 财政大臣辞职，财政部长辞职，健康部长辞职，交通部长辞职，司法部长辞职，学校部长辞职, 环境部长辞职，住房部长辞职。。。。。。从昨晚开始，已经有18位约翰逊手下的各部门大臣向他递交了辞职书 ，恐怕约翰逊会因此被迫辞职，尽管他已表示会坚持，不知他能否坚持过今晚🤦‍♀️。<br><br><img style="" src="https://pbs.twimg.com/media/FW_Ec1lXkAMk9yu?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FW_EdAMWQAAMrUs?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+英国政客比美国政客有自尊。<br>拜登、南希将美国打理成这样，还天天玩怪罪游戏：一切都是普京的错，通胀全是他折腾的。没见他们要辞职，还说要竞选连任。
 
 ### 82: [2022-07-06 23:00:29+08:00 推文](https://twitter.com/HeQinglian/status/1544697802613297154)
 
@@ -701,7 +701,7 @@ RT 纳姐 全媒体首席主播，全媒体美国小镇镇长<br>拜登老婆�
 
 ### 172: [2022-07-10 03:56:25+08:00 推文](https://twitter.com/HeQinglian/status/1545859437658783745)
 
-RT He Qinglian<br>Re @Wu_Zhi @JianglinLi 西方媒体正在忙于报道G20俄外长先离场之事，为西方团结冷落俄罗斯高兴不已。<br>BTW，不管是否愿意看到，这次G20王毅成了主角。中方向美方提出四份清单：要求美纠正错误对华政策和言行的清单、中方关切的重点个案清单、中方重点关切的涉华法案清单、中美8个领域合作清单。<br>拜登对华外交办成这样，无语。
+Re @Wu_Zhi @JianglinLi 西方媒体正在忙于报道G20俄外长先离场之事，为西方团结冷落俄罗斯高兴不已。<br>BTW，不管是否愿意看到，这次G20王毅成了主角。中方向美方提出四份清单：要求美纠正错误对华政策和言行的清单、中方关切的重点个案清单、中方重点关切的涉华法案清单、中美8个领域合作清单。<br>拜登对华外交办成这样，无语。
 
 ### 173: [2022-07-10 03:58:59+08:00 推文](https://twitter.com/HeQinglian/status/1545860082692399106)
 
