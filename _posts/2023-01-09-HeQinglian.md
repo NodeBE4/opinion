@@ -169,7 +169,7 @@ Re @JianglinLi @HongfuDing @david_david1968 长期抗战，第二个阿富汗。
 
 ### 39: [2023-01-11 11:01:49+08:00 推文](https://twitter.com/HeQinglian/status/1613008249443213313)
 
-RT He Qinglian<br>Re @lianghuiwang2 @jojowheel 两位提到这，我讲件美国往事。<br>美国著名社会学家詹姆斯·塞缪尔·科尔曼（James Samuel Coleman）于1966年撰写的《科尔曼报告》（Coleman Report） ，尽管在美国教育史上具有里程碑意义，但在对社会公共政策的影响上，却不敌左派的政治正确。
+Re @lianghuiwang2 @jojowheel 两位提到这，我讲件美国往事。<br>美国著名社会学家詹姆斯·塞缪尔·科尔曼（James Samuel Coleman）于1966年撰写的《科尔曼报告》（Coleman Report） ，尽管在美国教育史上具有里程碑意义，但在对社会公共政策的影响上，却不敌左派的政治正确。
 
 ### 40: [2023-01-11 11:02:23+08:00 推文](https://twitter.com/HeQinglian/status/1613008393404403715)
 
@@ -402,4 +402,8 @@ Re @TLQ2016X 这是老皇历，这位做副总统都很勉强，做议员勉强�
 ### 97: [2023-01-13 22:38:40+08:00 推文](https://twitter.com/HeQinglian/status/1613908393068232704)
 
 Re @Isabel_3299 @timothyshlong 这是一个重要思路。<br>比如性别自我心理识别、滚地芭蕾、黑变同政治正确超肥巨模、骄傲月的异形游行，全是“心理的人”这个时代的产物，审美、正义、战争胜利全由自我认定，客观标准于我虚无。<br>在过去，这种自我意识超强算是心理疾病。因此，2020皮尤调查称自由派白女有一半有精神疾病、自由派白男有40%。
+
+### 98: [2023-01-13 23:58:28+08:00 推文](https://twitter.com/HeQinglian/status/1613928474086891522)
+
+Re @Isabel_3299 如果有心去大学的课程中搜集一下。<br>心理人的著作有好多本，左派用各种五花八门的理论、术语包装，对学生影响甚深。而正值青春反叛期的学生们最喜欢这种包装。<br>十年前，You are the special person in the world.<br>现在, You are the most important person in the world.<br>想想这种定位对个体的影响。
 
