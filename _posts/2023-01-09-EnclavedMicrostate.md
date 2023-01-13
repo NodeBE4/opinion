@@ -57,6 +57,10 @@ As for how to approach the Liao or Qara Khitai (or Western Xia for that matter),
 
 There are quite a few valid questions here but they're a bit tangled. You actually caught me out here – I'd forgotten the breadth of the Tangut empire, and so the Tanguts definitely ruled over more than just Han. But the fact that the Tanguts continued to exist would not inherently prevent them from having mostly Han subjects – the same is true of Manchu after all. Secondly, the southern states are considered more 'Han' because they were ruled by Han rulers and their subjects were defined as such, despite, as you are aware, being a mix of Han settlers and the descendants of indigenous peoples, but many such peoples (though far from all) had, through the processes of Han colonisation, been subsumed into that coloniser population. Those indigenous groups that did not become assimilated (whether forcibly or by choice) into a wider Han milieu often existed in highly autonomous polities whose subjection to 'Chinese' states was largely nominal.
 
+----- __1042.4__ -----2023-01-13 22:57:07+08:00:
+
+Well indeed – as you would have noted from my prior sentence, I had misapprehended both the breadth and demographic diversity of the Tangut domains.
+
 ### 1043: [Where are you from and why do you support Tibet?](https://old.reddit.com/r/tibet/comments/1080ldi/where_are_you_from_and_why_do_you_support_tibet/), submitted on 2023-01-10 12:34:56+08:00.
 
 ----- __1043.1__ -----2023-01-11 14:42:20+08:00:

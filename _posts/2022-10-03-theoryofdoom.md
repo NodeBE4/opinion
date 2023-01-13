@@ -116,7 +116,7 @@ The way to deal with gun violence is to deal with the underlying causes of viole
 
 Kadyrov is to Russia what Uday Saddam Hussein was to Iraq.
 
-### 407: [Aparece OVNI en Valle Hermoso Tamaulipas](https://old.reddit.com/r/N_N_N/comments/xxmhob/aparece_ovni_en_valle_hermoso_tamaulipas/), submitted on 2022-10-07 09:50:55+08:00.
+### 407: [[deleted by user]](https://old.reddit.com/r/N_N_N/comments/xxmhob/deleted_by_user/), submitted on 2022-10-07 09:50:55+08:00.
 
 ----- __407.1__ -----2022-10-07 09:56:47+08:00:
 
