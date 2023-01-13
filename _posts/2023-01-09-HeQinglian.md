@@ -371,3 +371,7 @@ Re @david_david1968 时评不需要这。但可以写下来。<br>我如果记�
 
 中美关系每到一个转折点，就会出现一位关键人物成为“中国官骂"的核心。<br>司徒雷登——国共内战时期美国驻华大使。毛泽东《别了，司徒雷登》让中国人记住了这位大名。<br>杜勒斯——第52任美国国务卿，和平演变的提出者；<br>彭佩奥——第70任美国国务卿，挨骂有点冤枉，是川普贸易战的背锅者；<br>目测马上轮到麦卡锡了
 
+### 90: [2023-01-13 10:58:03+08:00 推文](https://twitter.com/HeQinglian/status/1613732078289391619)
+
+Re @zhixiangziyou 各位如果想知道拜登为何被盯上了，原因在这里。<div class="rsshub-quote"><br><br>Lucs: 图文：<br><br>深层政府：我们不希望拜登在 2024 年参选。太老太蠢了。 但是他想竞选，我们怎么阻止他呢？<br><br> 奥巴马：起诉他窃取乌克兰文件<br><br> 深层政府：好的，但川普呢？<br><br> 奥巴马：对川普做同样的事情——一石二鸟。<br><br> 深层政府：不要再说了<br><br><img style="" src="https://pbs.twimg.com/media/FmUQAHqaUAAh-21?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
