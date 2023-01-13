@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-01-13
+date: 2023-01-14
 from: https://twitter.com/HeQinglian/status/1612159473014947840
 layout: post
 tags:
@@ -29,7 +29,7 @@ Re @ericxu1997 彩虹灿烂地平线，自己高兴就好。话说，如果这�
 
 ### 4: [2023-01-09 08:19:30+08:00 推文](https://twitter.com/HeQinglian/status/1612242623472828416)
 
-美国正在重组供应链，希望墨西哥制造能够取代中国制造。不过，就连墨西哥的分析者也说，短期内无法完全替代中国制造，毕竟设备到位、人力培训都需要时间<br>这有个过程，会变成什么样，得看中国疫情一是会不会演变为长新冠，二是看疫情何时结束。中国还有几个月时间窗口。<div class="rsshub-quote"><br><br>日经中文网: 【“债券王”冈拉克：全球化倒退将是新常态】杰弗里·冈拉克：美国和欧洲人一直依靠中国的低价商品维持生活，今后将变得困难。生活水平非但不会提高，反而可能恶化。欧洲的部分地区正在变穷。日本也会变穷。中国也不太妙。2023年下半年起，美国经济指标将明显恶化……<br> <a href="https://cn.nikkei.com/columnviewpoint/viewpoint/51040-2023-01-09-04-59-22.html" target="_blank" rel="noopener noreferrer">https://cn.nikkei.com/columnviewpoint/viewpoint/51040-2023-01-09-04-59-22.html</a></div>
+美国正在重组供应链，希望墨西哥制造能够取代中国制造。不过，就连墨西哥的分析者也说，短期内无法完全替代中国制造，毕竟设备到位、人力培训都需要时间<br>这有个过程，会变成什么样，得看中国疫情一是会不会演变为长新冠，二是看疫情何时结束。中国还有几个月时间窗口。<br><br>日经中文网: 【“债券王”冈拉克：全球化倒退将是新常态】杰弗里·冈拉克：美国和欧洲人一直依靠中国的低价商品维持生活，今后将变得困难。生活水平非但不会提高，反而可能恶化。欧洲的部分地区正在变穷。日本也会变穷。中国也不太妙。2023年下半年起，美国经济指标将明显恶化……<br> <a href="https://cn.nikkei.com/columnviewpoint/viewpoint/51040-2023-01-09-04-59-22.html" target="_blank" rel="noopener noreferrer">https://cn.nikkei.com/columnviewpoint/viewpoint/51040-2023-01-09-04-59-22.html</a>
 
 ### 5: [2023-01-09 11:16:22+08:00 推文](https://twitter.com/HeQinglian/status/1612287134333022208)
 
@@ -37,7 +37,7 @@ Re @JianglinLi 人家公开宣称，挂在网站上，是阳谋，不是别人�
 
 ### 6: [2023-01-09 22:19:36+08:00 推文](https://twitter.com/HeQinglian/status/1612454044223537155)
 
-117届国会，有投票权的435个众议院席位当中，民主党占220席，共和党占212席，另有3席空缺：本届（118届）众议院将有222名共和党议员和212名民主党议员，另有1个席位空缺。<br>117届民主党220席，那时媒体说“掌控众议院的民主党”；118届共和党222席，媒体不断强调微弱多数。<br>媒体连这小事都不忘双标。😅<div class="rsshub-quote"><br><br>联合早报 Lianhe Zaobao: 美国众议院戏剧性的新议长选举已经结束，新一届国会已宣誓就职。以微弱多数领导众议院的共和党人未来两年在推进各项立法议程时，预计将遇到民主党人强而有力的挑战。不过对共和党人来说，计划针对中国采取的一些强硬立法措施，很可能成为能赢得民主党人支持、为数不多的亮点。<br> <a href="https://www.zaobao.com.sg/realtime/world/story20230109-1351685" target="_blank" rel="noopener noreferrer">https://www.zaobao.com.sg/realtime/world/story20230109-1351685</a></div>
+117届国会，有投票权的435个众议院席位当中，民主党占220席，共和党占212席，另有3席空缺：本届（118届）众议院将有222名共和党议员和212名民主党议员，另有1个席位空缺。<br>117届民主党220席，那时媒体说“掌控众议院的民主党”；118届共和党222席，媒体不断强调微弱多数。<br>媒体连这小事都不忘双标。😅<br><br>联合早报 Lianhe Zaobao: 美国众议院戏剧性的新议长选举已经结束，新一届国会已宣誓就职。以微弱多数领导众议院的共和党人未来两年在推进各项立法议程时，预计将遇到民主党人强而有力的挑战。不过对共和党人来说，计划针对中国采取的一些强硬立法措施，很可能成为能赢得民主党人支持、为数不多的亮点。<br> <a href="https://www.zaobao.com.sg/realtime/world/story20230109-1351685" target="_blank" rel="noopener noreferrer">https://www.zaobao.com.sg/realtime/world/story20230109-1351685</a>
 
 ### 7: [2023-01-09 22:27:48+08:00 推文](https://twitter.com/HeQinglian/status/1612456108601253888)
 
@@ -169,7 +169,7 @@ Re @JianglinLi @HongfuDing @david_david1968 长期抗战，第二个阿富汗。
 
 ### 39: [2023-01-11 11:01:49+08:00 推文](https://twitter.com/HeQinglian/status/1613008249443213313)
 
-Re @lianghuiwang2 @jojowheel 两位提到这，我讲件美国往事。<br>美国著名社会学家詹姆斯·塞缪尔·科尔曼（James Samuel Coleman）于1966年撰写的《科尔曼报告》（Coleman Report） ，尽管在美国教育史上具有里程碑意义，但在对社会公共政策的影响上，却不敌左派的政治正确。
+RT He Qinglian<br>Re @lianghuiwang2 @jojowheel 两位提到这，我讲件美国往事。<br>美国著名社会学家詹姆斯·塞缪尔·科尔曼（James Samuel Coleman）于1966年撰写的《科尔曼报告》（Coleman Report） ，尽管在美国教育史上具有里程碑意义，但在对社会公共政策的影响上，却不敌左派的政治正确。
 
 ### 40: [2023-01-11 11:02:23+08:00 推文](https://twitter.com/HeQinglian/status/1613008393404403715)
 
@@ -406,4 +406,28 @@ Re @Isabel_3299 @timothyshlong 这是一个重要思路。<br>比如性别自我
 ### 98: [2023-01-13 23:58:28+08:00 推文](https://twitter.com/HeQinglian/status/1613928474086891522)
 
 Re @Isabel_3299 如果有心去大学的课程中搜集一下。<br>心理人的著作有好多本，左派用各种五花八门的理论、术语包装，对学生影响甚深。而正值青春反叛期的学生们最喜欢这种包装。<br>十年前，You are the special person in the world.<br>现在, You are the most important person in the world.<br>想想这种定位对个体的影响。
+
+### 99: [2023-01-14 01:55:26+08:00 推文](https://twitter.com/HeQinglian/status/1613957909930725376)
+
+Re @timothyshlong 这个词，对左派的社会心理基础有很强的概括力。<br>比如我一直不理解白左为何能对BLM的抢劫与零元购大唱赞歌，并说这是拿回原来属于他们的财产。但知道心理人能够对自己的行为自我定义、自我称义，就明白社会规范于它是虚无的。法律不称意，必须被废除修改（千元以下不算抢劫）、Pack The Cout。
+
+### 100: [2023-01-14 01:57:53+08:00 推文](https://twitter.com/HeQinglian/status/1613958526342135819)
+
+Re @TLQ2016X 表达看法， 不敢见笑。我觉得可能是两个因素，一是让拜登表态退出2024竞选，二是对付政治武器化委员会的审查：我们一视同仁地审查了拜登，不是对川普的迫害。<br>以上看法仅供参考，是否正确，且看后来事态。
+
+### 101: [2023-01-14 01:59:53+08:00 推文](https://twitter.com/HeQinglian/status/1613959032385196032)
+
+Re @timothyshlong 奥巴马与拜登先后宣布过：变性人是上帝按照自己的形象造的——如今，上帝在白宫。
+
+### 102: [2023-01-14 02:02:49+08:00 推文](https://twitter.com/HeQinglian/status/1613959768523128834)
+
+Re @Lucs24659702 新泽西交通事故年报刚出来，由于酒驾、磕药，705人死于车祸，2022年新泽西交通事故死亡人数创15年新高。
+
+### 103: [2023-01-14 02:04:35+08:00 推文](https://twitter.com/HeQinglian/status/1613960211815075840)
+
+Re @timothyshlong 自我表扬一次：活到老，学到老，于自己开拓思路有益。
+
+### 104: [2023-01-14 03:42:21+08:00 推文](https://twitter.com/HeQinglian/status/1613984817288200194)
+
+Re @JianglinLi @david_david1968 @HongfuDing @ngexp psychological person is rising. <br>变性、变肤色、人与动物嫁接的半人半兽，自己觉得美好、挣脱各种世俗束缚就好。<br>我们付出的代价是先看这些人说好，后看这些人后悔怨恨，谁叫他们现在是西方左派政府宠儿？
 
