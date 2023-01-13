@@ -375,3 +375,11 @@ Re @david_david1968 时评不需要这。但可以写下来。<br>我如果记�
 
 Re @zhixiangziyou 各位如果想知道拜登为何被盯上了，原因在这里。<div class="rsshub-quote"><br><br>Lucs: 图文：<br><br>深层政府：我们不希望拜登在 2024 年参选。太老太蠢了。 但是他想竞选，我们怎么阻止他呢？<br><br> 奥巴马：起诉他窃取乌克兰文件<br><br> 深层政府：好的，但川普呢？<br><br> 奥巴马：对川普做同样的事情——一石二鸟。<br><br> 深层政府：不要再说了<br><br><img style="" src="https://pbs.twimg.com/media/FmUQAHqaUAAh-21?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
+### 91: [2023-01-13 20:31:20+08:00 推文](https://twitter.com/HeQinglian/status/1613876349885710340)
+
+Re @HighwayNicoll 请引入时间要素。
+
+### 92: [2023-01-13 20:37:02+08:00 推文](https://twitter.com/HeQinglian/status/1613877782211170304)
+
+Re @Isabel_3299 @timothyshlong 参见：The Rise of “Psychological Man”
+
