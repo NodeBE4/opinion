@@ -125,3 +125,119 @@ Thank you for your response. Unfortunately, we have had to remove it due to viol
  
 We understand this can be discouraging, but we would also encourage you to consult [this Rules Roundtable to better understand how the mod team evaluates answers on the sub](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/). If you are interested in feedback on improving future contributions, please feel free to [reach out to us via modmail](https://www.reddit.com/message/compose?to=%2Fr%2FAskHistorians&subject=Inquiry%20About%20Improving%20Future%20Responses). Thank you for your understanding.
 
+### 1051: [we're there other rebellions happening in Qing China during the taiping rebellion?](https://old.reddit.com/r/AskHistorians/comments/10augbp/were_there_other_rebellions_happening_in_qing/), submitted on 2023-01-13 21:23:52+08:00.
+
+----- __1051.1__ -----2023-01-14 00:04:50+08:00:
+
+You've asked this question at a good time, because not only is the answer 'absolutely', but I've also been working on [a map (WIP)](https://imgur.com/o2eUw3f) illustrating the breadth of regions that underwent significant uprisings between 1850 and 1880, as well as territorial changes and foreign attacks. At present, there isn't really any scholarship, at least in English, that attempts to approach all of these holistically; instead, usually historians focus on a single uprising in relative isolation. As such, treat any statements I make about contextualisation as distinctly my own.
+
+A short list of the more significant revolts of this period are as follows:
+
+* The Khwaja revolts (?1826-1863?) – note: this is an *extremely* complicated set of events with start and end dates *very* difficult to define.
+* The Taiping War (1851-64/6)
+* The Nian Rebellion (1851-68)
+* The Small Sword Uprising (1853)
+* Wu Lingyun's rebellion (1852?-1869) (successor entities active in Viet Nam until 1887)
+* The Red Turban Rebellion (1854-6) (and its successor entity, the Kingdom of Dacheng (1856-64))
+* The 'Miao' Rebellion (1854-73)
+* The Yunnanese Revolt, a.k.a. the 'Panthay' Rebellion (1856-73)
+* The 'Dungan' Hui Revolt, a.k.a. the Northwest Muslim Rebellion (1862-75)
+* The Xinjiang Revolt (1863-77)
+
+These revolts all happened for somewhat different reasons, and they can be classified in many different ways. I will make it easy for myself and classify them solely by periodisation, because as you can see, there seem to have been two pretty discrete 'waves' of revolt.
+
+### 'Waves' of Revolt
+
+From the above descriptions it should be reasonably clear that the major rebellions began in two particular periods: 1851-6, and 1862-3. The former period saw uprisings all across China proper, but not within the broader realms of the Qing empire. Their membership tended to cohere around socially marginalised groups, but this was not an absolute given, and in many instances the rebel groups tended to be either multiethnic or Han-centric, reflecting the majority makeups of their particular regions of origin. By contrast, the 1862-3 wave only involved the northwest of the Qing empire – northwestern China and Xinjiang, a.k.a. East Turkestan – and involved Muslim groups exclusively, rather than the more federative entities that had been in revolt in China proper. Now, there is an obvious outlier to this two-wave model, and that is the Khwaja revolts in Xinjiang. These I have included because *technically* the Afaqiyya Khwajas had been attempting to spark an uprising in the Tarim Basin since the 1840s, but they were only successful in mobilising local support in 1847 and 1857, so it is very hard to say where in the chronology it all fits. So I won't – it is essentially the exception that exists outside the rule.
+
+Why exactly Gansu, Shaanxi and Xinjiang did not rebel sooner is an interesting question. That the Arrow War, in which Britain and France fought the Qing for increased trading privileges, occurred in 1856-60 is surely pure coincidence given the regions' distance from the coast. One argument would be that tensions had been slowly ramping up across the empire for a while, but that the northwest had been insulated from the initial wave of uprisings, and the spark was only really lit in 1862. This was when the arrival of Taiping splinter forces in Sichuan and the increasing westward movements of the Nian led to an intensification of local militarisation, frictions from which led to uprisings in Shaanxi, followed by support in Gansu, and followed in turn by Sinophone Hui Muslims in Xinjiang rising in solidarity and creating an opening for the Turkic uprisings and subsequent Kokandi intervention. I'm largely willing to accept this narrative in the absence of an alternative: I see no particular reason why a Muslim uprising *should* have begun in the early 1850s without some kind of major spark.
+
+Below, I'll give a potted summary of each revolt along with recommended reading, as there is frankly a *lot* of ground to cover.
+
+### Summaries
+
+#### The Khwaja rebellions and the Xinjiang Revolt (1826-1877)
+
+Qing rule over the Turkic Muslims of the Tarim Basin had never been entirely stable, especially thanks to the influence of the Naqshbandiyya Sufi movement, which underwent a schism into two rival splinters: the 'Black Hats' (or Ishaqiyya) and 'White Hats' (or Afaqiyya). The Ishaqiyya ingratiated themselves with the Qing, but the Afaqiyya became a locus for anti-Qing resistance, with their religious leaders (Khwajas), operating out of exile in neighbouring Kokand, attempting repeatedly to foment an uprising that would drive the Qing from the region. This reached its apex in 1826 with the revolt of Jahangir Khwaja, who remained at large for the next two years; an uprising in 1847, known (for unclear reasons) as the 'Seven Khwajas Uprising', lasted some three months; subsequent incursions failed to ignite popular support until 1857, when Wali Khan managed to gain control of Kashgar, funnily enough also for three months. Continued attempts to foment uprisings failed, and the next major revolt started without the Khwajas in 1863.
+
+The Xinjiang revolt that began in 1863 and culminated in Yaqub Beg's enthronement in Kashgar was an extremely confused affair. While initiated by Hui communities acting in solidarity with the emerging revolts in northwest China, this in turn prompted Turkic uprisings in solidarity with the Hui, while being largely disconnected from the earlier attempts at rabble-rousing by the Afaqiyya clerics. The Kokandi military intervention led by Yaqub Beg was nominally in support of Buzurg Khan's claim as the latest Afaqi Khwaja, but Buzurg was very rapidly sidelined, especially as the military collapse of Kokand to Russia over the course of 1864-8 essentially meant Yaqub Beg no longer had a superior he needed to answer to (that said, he did declare submission to the Ottoman Empire, so he didn't exactly consider that kind of arrangement to be anathema). Hodong Kim argues, however, that by the time of Yaqub's death, his support base was still very much a composite one, with the former Kokandi army, the Afaqiyya sect, and the more 'organic' rebel movement constituting distinct components of the Kashgar Emirate, which then fractured following Yaqub's death in May 1877.
+
+Readings:
+
+* Hodong Kim, *Holy War in China* (2004) – The still-definitive history of the 1863-77 Xinjiang Revolt, albeit focussing primarily on Yaqub Beg's regime rather than the early stages of the revolt.
+* Scott C. Levi, *The Rise and Fall of Khoqand* (2017) and Laura J Newby, *The Empire and the Khanate* (2005) do not devote much space to the Khwaja-sponsored uprisings, but they're your only real option for getting some sense of what happened during them, as well as for the broader context of Qing-Kokandi relations in which these uprisings took place.
+
+#### The Taiping War (1851-64)
+
+This probably needs little introduction. Centred on a new religious movement based on Protestant Christianity that proclaimed the rejection of almost all of China's post-Zhou religious traditions in favour of a return to an imagined pre-Confucian monotheism, the Taiping were probably the most serious existential threat to the Qing until the 1911 Revolution. At their height they controlled large parts of Jiangsu, Jiangxi, Hubei, and Zhejiang, some of China's wealthiest provinces, as well as making incursions into several other regions at various points – the most long-lasting of these being Shi Dakai's campaign into Sichuan from 1856 to 1863.
+
+Readings:
+
+* Jonathan Spence, *God's Chinese Son* (1996) – A masterful biography of Hong Xiuquan and a very good narrative history of the Taiping up to about 1856.
+* Stephen Platt, *Autumn in the Heavenly Kingdom* (2012) – A global history-influenced approach to the later years of the Taiping from 1859-64. A masterclass in narrative history and an absolute must-read in general.
+* Carl Kilcourse, *Taiping Theology* (2017) – Currently the best exploration of Taiping religion out there.
+
+#### The Nian (1851-68)
+
+Essentially a super-confederation of bandit gangs in northern China, the Nian eventually had a stranglehold on the lower Yellow River and bested several Qing armies. At their height ca. 1865, a Nian army under the leadership of ex-Taiping general Lai Wenguang made it to the gates of Beijing, but failed to prosecute the siege effectively and were ultimately driven off. The Nian were not a particularly ideological movement and seem to have had few ambitions for serious political change, except, perhaps, for Lai Wenguang himself, and have tended to be considered more as an opportunistic raiding entity than as a contender for power.
+
+Readings:
+
+* Elizabeth Perry, *Rebels and Revolutionaries in North China* (1980) – A relatively materialist treatment of the Nian, but still the most recent in English.
+* Teng Ssu-Yu, *The Nien Army and their Guerrilla Warfare* (1961) – Very old by now, but a decent chronological treatment of the Nian uprising.
+
+#### The Small Sword Uprising (1853)
+
+A roughly nine-month takeover of Shanghai by secret societies in the city, predominantly consisting of Guangdong and Fujian migrants. While a relative footnote in the wider context of the Qing, this was a significant moment in Shanghai urban history, particularly for the International Settlement.
+
+Readings:
+
+* Elizabeth Perry, 'Tax Revolt in Late Qing China: The Small Swords of Shanghai and Liu Depei of Shandong', *Late Imperial China* 6:1 (1985) – Another relatively materialist approach from Perry.
+* Bryna Goodman, [*Native Place, City, and Nation*](https://publishing.cdlib.org/ucpressebooks/view?docId=ft0m3nb066;brand=ucpress) (1995) – The Small Swords are covered at the end of Chapter 2, in the context of native-place associations. Probably the better read, if a bit briefer.
+
+----- __1051.2__ -----2023-01-14 00:32:22+08:00:
+
+Wait I'm not done yet! Come back in 15 minutes or so when I have the rest posted!
+
+----- __1051.3__ -----2023-01-14 00:40:17+08:00:
+
+#### Wu Lingyun's Rebellion (1852?-1868?)
+
+The case of Wu Lingyun is a tricky one. All told, it is probably better to consider Wu Lingyun as a bandit lord with pretensions to Taiping connections, rather than a committed contender for either regional separatism or dynastic renewal, although he did certainly proclaim the existence of a Kingdom of Yanling after 1861. Unusually, Wu Lingyun's rebellion was one that would ultimately cross state boundaries. After Wu died in 1863 he was succeeded by his son, Wu Yazhong, who presided over a three-way schism in Yanling in 1865, which saw two major splinters form: the Black Flag Army under Liu Yongfu and the Yellow Flag Army under Pan Lunsi, both of which then moved into northern Viet Nam. These two forces then joined opposite sides of the White Flag uprising by local indigenous groups, with the Yellow Flags joining the rebels while the Black Flags supported the Vietnamese government. After fleeing China in 1868, Wu Yazhong began attacking Vietnamese towns, but was rounded up and executed in 1869. The Yellow Flags began cooperating with the French, but broke up after Qing, Vietnamese, and Black Flag forces defeated Pan Lunsi and executed him in 1877. The Black Flags, in turn, were formally disbanded after the Sino-French War in 1885, although elements remained at large until at least 1887, and former members continued to organise low-level anti-French insurgency.
+
+Readings:
+
+* Bradley Camp Davis, *Imperial Bandits* (2014) – The definitive history of the Black Flags.
+* Ella S. Laffey, 'In the Wake of the Taipings: Some Patterns of Local Revolt in Kwangsi Province, 1850-1875', *Modern Asian Studies* 10:1 (1976) – A discussion mainly of Yanling, written as part of an ultimately uncompleted project on Liu Yongfu.
+
+#### The Red Turban Rebellion (1854-6)
+
+An uprising of secret society elements in Guangdong, predominantly Cantonese-speaking Puntis with a particular enmity for the Hakkas, that nearly seized Guangzhou but ultimately never did. Splinters of the Red Turbans later formed the Kingdom of Dacheng in Guiping, essentially in what had been the old Taiping base area, although information on that is sparse, at least in English.
+
+Readings:
+
+* Frederic Wakeman, *Strangers at the Gate* (1967) – Includes a 12-page narrative of the Red Turbans, albeit one rooted in the view that social change in the region was driven primarily by European contact.
+* J Y Wong, *Yeh Ming-Ch'en: Viceroy of Liang Kuang 1852-8* (1976) – A semi-biographical account of the later career of Ye Mingchen, head of the Guangdong and Guangxi viceroyal government at the time of the Red Turban Rebellion and the Arrow War.
+* Jaeyoon Kim, 'The Heaven and Earth Society and the Red Turban Rebellion in Late Qing China,' *Journal of Humanities and Social Sciences* 3 (2009) – Not the most fantastic of articles, but still the most recent treatment of the Red Turbans in English.
+
+#### The 'Miao' Rebellion
+
+This gets so little treatment and so little interest that despite the existence of a full monograph on it, I have not read more than a page or two, so I'll skip straight to the reading:
+
+* Robert D. Jenks, *Insurgency and Social Disorder in Guizhou: The “Miao” Rebellion 1854–1873* (1996) – A key takeaway here is that the scare quotes do matter: the Qing officially regarded this as an indigenous revolt when in reality there was a much more multiethnic character to it.
+
+#### The Yunnanese Revolt
+
+Another one of those messy ones. Low-level violence had been ongoing in Yunnan for decades, but did not boil over into outright rejections of Qing government authority until 1856. Yunnan's rebel leadership were predominantly Hui Muslims, but also included indigenous and Han followers to a considerable extent and even a few Manchus, at least in the Pingnan Guo (aka the Dali Sultanate). But not all Hui Muslims stood against the Qing consistently: Ma Rulong, originally one of the rebels, eventually defected to the Qing and led his Muslim forces against Du Wenxiu in Dali. Ultimately, however, the Yunnanese revolt would be settled not as an infight between Hui leaders but rather a direct Qing military campaign under Cen Yuying.
+
+* David G. Atwill, *The Chinese Sultanate* (2005) – The definitive history of the Yunnanese uprisings.
+
+#### The 'Dungan' Hui Revolt (1862-75)
+
+This was probably the least centralised of all the major uprisings, being less of a case of community violence between Hui and Han in Gansu and Shaanxi that only gradually saw the coalescences of larger formations like the Gansu 'Big Battalions'. After his failed attack on Beijing in 1865, Lai Wenguang had ambitions of linking up with the northwestern Muslims, but this never came to fruition; in any event, it's not really clear that the rebels had much of a clear goal beyond the immediate one of ensuring their survival against Han Chinese militias.
+
+Readings:
+
+* Jonathan Lipman, *Familiar Strangers* (1997) – A general history of the Hui of northwest China, but basically the only good account of the 'Dungan' revolt in English is in here.
+* Kenneth Swope, 'General Zuo’s counter-insurgency doctrine', *Small Wars and Insurgencies* 30:4 (2019) – A somewhat problematic account of the career of Zuo Zongtang, but a decent enough chronology of Qing rebel suppression in the place and period.
+
