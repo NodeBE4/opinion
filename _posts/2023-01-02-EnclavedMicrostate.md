@@ -275,3 +275,7 @@ Ah, which also gives context to Great-O-Khan, of Bushiroad-owned New Japan Pro W
 
 [I'm not joking.](https://www.youtube.com/watch?v=kl9rrADVWI8)
 
+----- __1040.11__ -----2023-01-15 03:18:12+08:00:
+
+Welcome to the DS9 club! And incidentally, it's me, I am the Sisko stan.
+
