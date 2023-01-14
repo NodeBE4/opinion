@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2023-01-12
+date: 2023-01-14
 from: https://old.reddit.com/r/evilbuildings/comments/107n7gi/brutalist_amoeba_devours_a_church/
 layout: post
 tags:
@@ -60,4 +60,18 @@ So-called "woke" type issues are the pretext to kill organized labor, keep peopl
 It is only when this is realized at every level, that people can understand why the Democrats' real constituents, like Jeff Bezos, donate to fund this indoctrination in universities. 
 
 Ideology is a powerful weapon.
+
+### 439: [For anyone dating a Twink. are you able to lift them from there armpits or bench press them?](https://old.reddit.com/r/askgaybros/comments/10bfoug/for_anyone_dating_a_twink_are_you_able_to_lift/), submitted on 2023-01-14 12:45:42+08:00.
+
+----- __439.1__ -----2023-01-15 00:29:33+08:00:
+
+Hahahaha.  Yes, to both.  He was about 175 lbs.  I'm no powerlifter, but I was a defensive lineman (football position).
+
+### 440: [Would you ever date a man that had no connections or contact with his family?](https://old.reddit.com/r/askgaybros/comments/10bmt9i/would_you_ever_date_a_man_that_had_no_connections/), submitted on 2023-01-14 19:58:43+08:00.
+
+----- __440.1__ -----2023-01-15 00:20:42+08:00:
+
+> I'm dating him not his family.
+
+Indeed.  Frankly, I see that as a plus.  Simplifies holiday travel if the relationship becomes serious.
 
