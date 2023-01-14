@@ -249,3 +249,9 @@ Of course! It exists in here! *Points at heart*.
 
 Okay, jokes aside, the answer is that I do not know, I do not know of anyone who would know, and I do not know that, barring some undiscovered sources somewhere, we would be able to retrieve any sense of the religious beliefs of ex-Taiping followers in any systematic way. Studies of what ex-Taipings even did in general basically do not exist, let alone any that discuss their religion. [This old answer](https://www.reddit.com/r/AskHistorians/comments/ektk6s/what_became_of_the_god_worshipping_society_after/fddsof9/) from, gosh, over three years ago, is still probably the best summary I can give you based on what I know to exist.
 
+### 1053: [The Obama of Star Wars, except it's the other name](https://old.reddit.com/r/PrequelMemes/comments/10bpm1q/the_obama_of_star_wars_except_its_the_other_name/), submitted on 2023-01-14 22:23:37+08:00.
+
+----- __1053.1__ -----2023-01-15 04:47:47+08:00:
+
+No, the family name was separate from the state name, the latter of which was usually either geographical or, in later periods, symbolic. So for instance the Tang Empire was ruled by the Li family, the Ming Empire by the Zhu family, and the Qing by the Aisin Gioro clan.
+
