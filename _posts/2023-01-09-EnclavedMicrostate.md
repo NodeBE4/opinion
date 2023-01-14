@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-01-13
+date: 2023-01-14
 from: https://old.reddit.com/r/badhistory/comments/107cogb/mindless_monday_09_january_2023/
 layout: post
 tags:
@@ -240,4 +240,12 @@ Readings:
 
 * Jonathan Lipman, *Familiar Strangers* (1997) – A general history of the Hui of northwest China, but basically the only good account of the 'Dungan' revolt in English is in here.
 * Kenneth Swope, 'General Zuo’s counter-insurgency doctrine', *Small Wars and Insurgencies* 30:4 (2019) – A somewhat problematic account of the career of Zuo Zongtang, but a decent enough chronology of Qing rebel suppression in the place and period.
+
+### 1052: [Does Taiping Christianity still exist?](https://old.reddit.com/r/AskHistorians/comments/10bkm8o/does_taiping_christianity_still_exist/), submitted on 2023-01-14 17:40:53+08:00.
+
+----- __1052.1__ -----2023-01-14 22:03:21+08:00:
+
+Of course! It exists in here! *Points at heart*.
+
+Okay, jokes aside, the answer is that I do not know, I do not know of anyone who would know, and I do not know that, barring some undiscovered sources somewhere, we would be able to retrieve any sense of the religious beliefs of ex-Taiping followers in any systematic way. Studies of what ex-Taipings even did in general basically do not exist, let alone any that discuss their religion. [This old answer](https://www.reddit.com/r/AskHistorians/comments/ektk6s/what_became_of_the_god_worshipping_society_after/fddsof9/) from, gosh, over three years ago, is still probably the best summary I can give you based on what I know to exist.
 
