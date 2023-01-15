@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2021-12-27~2022-01-02'
 
 ### 1: [2021-12-28 21:46:56+08:00 推文](https://twitter.com/realcaixia/status/1475825596999553026)
 
-资中筠老师在大陆所有争取自由民主的人心中，是人格魅力最强大，享有很高威信，深得人们敬重的学者专家，被敬称为资先生。杨天石教授是大陆公认的顶级历史学家。他们二位出现在央视新闻联播视频中，无疑具有某种信号性的意味。20大之前，或许还有更多的各种事情各种信号出现，密切关注。<br><br>高瑜: 91歲的資中筠先生26日在新聞聯播露臉。24日國務院總理李克強主持召開國務院參事、中央文史研究館館員座談會。她和中國社科院另一位榮譽學部委員，中央文史研究館館員楊天石參加，都沒有發言。自2018年10月外媒報導，資先生女兒透露：“中國社科院美國所書記約談我媽，給我媽念了三條錯誤：<br><br><img style src="https://pbs.twimg.com/media/FHsIgTTUcAMXUxS?format=jpg&name=orig" referrerpolicy="no-referrer">
+资中筠老师在大陆所有争取自由民主的人心中，是人格魅力最强大，享有很高威信，深得人们敬重的学者专家，被敬称为资先生。杨天石教授是大陆公认的顶级历史学家。他们二位出现在央视新闻联播视频中，无疑具有某种信号性的意味。20大之前，或许还有更多的各种事情各种信号出现，密切关注。<br><br>高瑜: 91歲的資中筠先生26日在新聞聯播露臉。24日國務院總理李克強主持召開國務院參事、中央文史研究館館員座談會。她和中國社科院另一位榮譽學部委員，中央文史研究館館員楊天石參加，都沒有發言。自2018年10月外媒報導，資先生女兒透露：“中國社科院美國所書記約談我媽，給我媽念了三條錯誤：<br><br><img style="" src="https://pbs.twimg.com/media/FHsIgTTUcAMXUxS?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2021-12-29 02:28:43+08:00 推文](https://twitter.com/realcaixia/status/1475896511791865856)
 
@@ -41,7 +41,7 @@ title: 'Twitter @蔡霞: 2021-12-27~2022-01-02'
 
 ### 7: [2021-12-30 03:33:22+08:00 推文](https://twitter.com/realcaixia/status/1476275167831728130)
 
-民主国家政府抵制冬奥，这是正义之举，应该唤起更多的国家政府共同抵制冬奥会！<br><br>DW 中文- 德国之声: 北京冬季奥运会即将开幕。美国已宣布外交抵制。欧盟尚在寻求共同立场。🇩🇪外交、内政部长已作出个人决定：不去北京。<br>不过她们都强调，此为个人决定，并非外交抵制的政治决策。<br>相关报道：<br><br><img style="" src="https://pbs.twimg.com/media/FHySweXWQAUb0Bt?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://dw.com/p/44xdn" target="_blank" rel="noopener noreferrer">http://dw.com/p/44xdn</a>
+民主国家政府抵制冬奥，这是正义之举，应该唤起更多的国家政府共同抵制冬奥会！<br><br>DW 中文- 德国之声: 北京冬季奥运会即将开幕。美国已宣布外交抵制。欧盟尚在寻求共同立场。🇩🇪外交、内政部长已作出个人决定：不去北京。<br>不过她们都强调，此为个人决定，并非外交抵制的政治决策。<br>相关报道：<br><br><img style src="https://pbs.twimg.com/media/FHySweXWQAUb0Bt?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://dw.com/p/44xdn" target="_blank" rel="noopener noreferrer">http://dw.com/p/44xdn</a>
 
 ### 8: [2021-12-30 20:19:44+08:00 推文](https://twitter.com/realcaixia/status/1476528427725381633)
 
@@ -53,7 +53,7 @@ title: 'Twitter @蔡霞: 2021-12-27~2022-01-02'
 
 ### 10: [2022-01-01 00:16:36+08:00 推文](https://twitter.com/realcaixia/status/1476950427543375872)
 
-八年前，中国海关无理扣留《李锐口述往事》这书，自那起，南央为维护言论与出版自由与中共国海关总署已打了八年官司，并将进入第九年。跟进此事，亦是跟进一种信念，跟进一种精神。<br>南央整理了诸多朋友与她分享的跟进感言发来，读完深为感动并感触良多，特与众推友分享。<br>第四图是我的跟进感言完整篇。<br><img style="" src="https://pbs.twimg.com/media/FH8ukRbWYAEwH_I?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH8ukqBXMAA3bv6?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH8ulAlXsAIBJ3d?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH8ulW4XsAkui3t?format=jpg&name=orig" referrerpolicy="no-referrer">
+八年前，中国海关无理扣留《李锐口述往事》这书，自那起，南央为维护言论与出版自由与中共国海关总署已打了八年官司，并将进入第九年。跟进此事，亦是跟进一种信念，跟进一种精神。<br>南央整理了诸多朋友与她分享的跟进感言发来，读完深为感动并感触良多，特与众推友分享。<br>第四图是我的跟进感言完整篇。<br><img style src="https://pbs.twimg.com/media/FH8ukRbWYAEwH_I?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH8ukqBXMAA3bv6?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH8ulAlXsAIBJ3d?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH8ulW4XsAkui3t?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 11: [2022-01-01 00:46:29+08:00 推文](https://twitter.com/realcaixia/status/1476957947641188361)
 
@@ -97,15 +97,15 @@ Re @ni87107 这本书是香港出版的，估计香港已经买不到了。
 
 ### 21: [2022-01-01 08:05:26+08:00 推文](https://twitter.com/realcaixia/status/1477068411666669581)
 
-发出了“发哨人子的人——艾芬”推文后，有推友跟帖说还有更早上报疫情的人——张继先。于是我又去搜寻来张继先的报道。最先上报病毒疫情是12月26号，12月29号她就判断这是人传人。国家专家最早到武汉是元旦期间。但是，直至1月中武汉当局还在否认人传人。<br><img style="" src="https://pbs.twimg.com/media/FH-Z36pXEAU1j4x?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH-Z4MhXMAI_EgK?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH-Z4haXEAAtosN?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH-Z45VXsAASEnl?format=jpg&name=orig" referrerpolicy="no-referrer">
+发出了“发哨人子的人——艾芬”推文后，有推友跟帖说还有更早上报疫情的人——张继先。于是我又去搜寻来张继先的报道。最先上报病毒疫情是12月26号，12月29号她就判断这是人传人。国家专家最早到武汉是元旦期间。但是，直至1月中武汉当局还在否认人传人。<br><img style src="https://pbs.twimg.com/media/FH-Z36pXEAU1j4x?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH-Z4MhXMAI_EgK?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH-Z4haXEAAtosN?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH-Z45VXsAASEnl?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 22: [2022-01-01 08:20:27+08:00 推文](https://twitter.com/realcaixia/status/1477072189954351107)
 
-武汉病毒疫情至今仍在祸害全球，回顾两年前武汉疫情初期情况，越发明确显示出习当局有意隐瞒真相。这篇文章报道了几个关键点：<br>1，12月29号武汉传染病医院收了9个症状相同病人；<br>2，12月30号病人开始增加，到第二天晚上已经有24个病人；3，12月31号国家级专家到武汉医院；<br>4，1月2号前后事态更为严重。<br><img style="" src="https://pbs.twimg.com/media/FH-dT3RXoAAEfk3?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH-dUKyXwAEpzk9?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH-dUhpXEAoWHKq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH-dUzVWQAEHjcu?format=jpg&name=orig" referrerpolicy="no-referrer">
+武汉病毒疫情至今仍在祸害全球，回顾两年前武汉疫情初期情况，越发明确显示出习当局有意隐瞒真相。这篇文章报道了几个关键点：<br>1，12月29号武汉传染病医院收了9个症状相同病人；<br>2，12月30号病人开始增加，到第二天晚上已经有24个病人；3，12月31号国家级专家到武汉医院；<br>4，1月2号前后事态更为严重。<br><img style src="https://pbs.twimg.com/media/FH-dT3RXoAAEfk3?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH-dUKyXwAEpzk9?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH-dUhpXEAoWHKq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH-dUzVWQAEHjcu?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 23: [2022-01-01 21:58:50+08:00 推文](https://twitter.com/realcaixia/status/1477278143853600769)
 
-盘点经济，王小二过年一年不如一年。<br><br>荣剑: 记得在2019年底，有人说，2019年是过去十年最差的一年，却可能是未来十年最好的一年。<br><br><img style="" src="https://pbs.twimg.com/media/FIA1BW2aUAEGLQ5?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIA1B-ZaAAMlGv_?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIA1CfzacAQXT2d?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIA1DAzacAAQrxy?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/rongjian1957/status/1477238018582872065" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1477238018582872065</a>
+盘点经济，王小二过年一年不如一年。<br><br>荣剑: 记得在2019年底，有人说，2019年是过去十年最差的一年，却可能是未来十年最好的一年。<br><br><img style src="https://pbs.twimg.com/media/FIA1BW2aUAEGLQ5?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIA1B-ZaAAMlGv_?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIA1CfzacAQXT2d?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIA1DAzacAAQrxy?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/rongjian1957/status/1477238018582872065" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1477238018582872065</a>
 
 ### 24: [2022-01-01 23:15:36+08:00 推文](https://twitter.com/realcaixia/status/1477297463128174593)
 
@@ -133,7 +133,7 @@ Re @dayangelcp @John17Churchill 倒翻篇。
 
 ### 30: [2022-01-02 00:28:18+08:00 推文](https://twitter.com/realcaixia/status/1477315755788091399)
 
-忘不了武汉，如今又增添一个城市：忘不了西安…<br><br>张海。: 这类图片很刺激我的内心，我总忘不了武汉封城期间电话那头传来的哭泣声，她先生发烧到昏迷，症状就是染上了新冠病毒🦠求遍了所有能求的人，没有床位，也没人管，更出不去。人上午走在了家里，下午很晚才拖走，社区开的死亡证明：猝死……当时的武汉这类悲剧太多太多，她的哭泣声永远留在我的脑海里……<br><br><img style="" src="https://pbs.twimg.com/media/FH6GrzHVkAAhTNW?format=jpg&name=orig" referrerpolicy="no-referrer">
+忘不了武汉，如今又增添一个城市：忘不了西安…<br><br>张海。: 这类图片很刺激我的内心，我总忘不了武汉封城期间电话那头传来的哭泣声，她先生发烧到昏迷，症状就是染上了新冠病毒🦠求遍了所有能求的人，没有床位，也没人管，更出不去。人上午走在了家里，下午很晚才拖走，社区开的死亡证明：猝死……当时的武汉这类悲剧太多太多，她的哭泣声永远留在我的脑海里……<br><br><img style src="https://pbs.twimg.com/media/FH6GrzHVkAAhTNW?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 31: [2022-01-02 00:31:37+08:00 推文](https://twitter.com/realcaixia/status/1477316590597255169)
 
