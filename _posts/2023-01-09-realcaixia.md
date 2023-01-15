@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2023-01-14
+date: 2023-01-15
 from: https://twitter.com/realcaixia/status/1612159412424278018
 layout: post
 tags:
@@ -21,11 +21,11 @@ title: 'Twitter @蔡霞: 2023-01-09~2023-01-15'
 
 ### 2: [2023-01-09 11:20:44+08:00 推文](https://twitter.com/realcaixia/status/1612288233962090497)
 
-不仅民企在大量裁员，而且中共国央企总部也在裁员。有多少青年人和中年人原本以为疫情劫波度后生机再现，未曾想连谋生都成了难题。2023对打工者、对城市白领甚至高校应届毕业生来说，失业将把他们逼入困境，前路茫茫，希望何在？<br><br>寒江独钓: 【失业大潮席卷中国】进来，国企、央企屡屡爆发裁员降薪潮，抖音母公司字节跳动一夜裁员上万人，年轻人纷纷抱头痛哭。<br><br><video src="https://video.twimg.com/ext_tw_video/1611510144923492352/pu/vid/1280x720/56ZDtfTGg93HI37-.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1611510144923492352/pu/img/BJQC-4jdMF2DzWZx.jpg"></video>
+不仅民企在大量裁员，而且中共国央企总部也在裁员。有多少青年人和中年人原本以为疫情劫波度后生机再现，未曾想连谋生都成了难题。2023对打工者、对城市白领甚至高校应届毕业生来说，失业将把他们逼入困境，前路茫茫，希望何在？<div class="rsshub-quote"><br><br>寒江独钓: 【失业大潮席卷中国】进来，国企、央企屡屡爆发裁员降薪潮，抖音母公司字节跳动一夜裁员上万人，年轻人纷纷抱头痛哭。<br><br><video src="https://video.twimg.com/ext_tw_video/1611510144923492352/pu/vid/1280x720/56ZDtfTGg93HI37-.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1611510144923492352/pu/img/BJQC-4jdMF2DzWZx.jpg"></video></div>
 
 ### 3: [2023-01-09 11:31:51+08:00 推文](https://twitter.com/realcaixia/status/1612291032531742723)
 
-一个把自己的面子看的比国民生命还要重的党魁；一个把自己的官帽和权位看得高于一切的官僚体制，国民只是可利用的“人矿”，他们眼里的“放开最佳时机”只以自己利益的盘算为根据。<div class="rsshub-quote"><br><br>章立凡 Zhang Lifan: 转【最高层断送了“放开”最佳时机】<br><br><img style="" src="https://pbs.twimg.com/media/Fl6scmRaMAEeujJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+一个把自己的面子看的比国民生命还要重的党魁；一个把自己的官帽和权位看得高于一切的官僚体制，国民只是可利用的“人矿”，他们眼里的“放开最佳时机”只以自己利益的盘算为根据。<br><br>章立凡 Zhang Lifan: 转【最高层断送了“放开”最佳时机】<br><br><img style="" src="https://pbs.twimg.com/media/Fl6scmRaMAEeujJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2023-01-09 12:16:42+08:00 推文](https://twitter.com/realcaixia/status/1612302316723474432)
 
@@ -33,7 +33,7 @@ title: 'Twitter @蔡霞: 2023-01-09~2023-01-15'
 
 ### 5: [2023-01-09 12:26:38+08:00 推文](https://twitter.com/realcaixia/status/1612304816985837570)
 
-特别推荐：议报【议想天开】专栏发布⬇️面文章。<br><br>《议报》: 【議想天開】 昝愛宗：「杭州國保找過朱虞夫（因寫詩《是時候了》而獲罪的浙江民主人士、前政治犯），不讓他為阿亮呼籲。朱虞夫說：這一次死的是阿亮，如果我不為他發聲，下一次輪到我，也不會有人為我發聲。」<br><br>為眾人抱薪者，不可使其凍斃於風雪。<br> <a href="https://yibaochina.com/?p=248971" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248971</a>
+特别推荐：议报【议想天开】专栏发布⬇️面文章。<div class="rsshub-quote"><br><br>《议报》: 【議想天開】 昝愛宗：「杭州國保找過朱虞夫（因寫詩《是時候了》而獲罪的浙江民主人士、前政治犯），不讓他為阿亮呼籲。朱虞夫說：這一次死的是阿亮，如果我不為他發聲，下一次輪到我，也不會有人為我發聲。」<br><br>為眾人抱薪者，不可使其凍斃於風雪。<br> <a href="https://yibaochina.com/?p=248971" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248971</a></div>
 
 ### 6: [2023-01-10 09:29:04+08:00 推文](https://twitter.com/realcaixia/status/1612622520682700805)
 
@@ -98,4 +98,28 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FmcJYznaAAEjSit?format=jpg
 ### 21: [2023-01-14 22:34:50+08:00 推文](https://twitter.com/realcaixia/status/1614269817405464577)
 
 Re <br><img style="" src="https://pbs.twimg.com/media/FmcJ1xFaAAEkVlo?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 22: [2023-01-15 08:27:08+08:00 推文](https://twitter.com/realcaixia/status/1614418874623225856)
+
+这是墙里流传的一篇文章，一位政治学者归纳与分析了习亲自指挥亲自部署的极端化清零、躺平式解封，导致全国城乡死亡无数、家家举丧。这一人祸浩劫是如何解构了中国社会，解构了一切秩序。<br><br>作者最后一句话是：这是一场社会革命的前夜。<br>还有网友说中国社会要从头开始。深以为然。<br><img style="" src="https://pbs.twimg.com/media/FmeRYnHaUAESZpR?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FmeRZDkaAAAXh75?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FmeRZiGaMAAo_T_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FmeRZ5_aUAIHZqE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 23: [2023-01-15 08:28:39+08:00 推文](https://twitter.com/realcaixia/status/1614419255969316865)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FmeRwGXaUAAqC1X?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FmeRwGYaUAEW8bY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FmeRwGWaYAAlnKj?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FmeRwGYaYAEn921?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 24: [2023-01-15 08:29:09+08:00 推文](https://twitter.com/realcaixia/status/1614419379529322496)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FmeR3UDaYAEIBb6?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 25: [2023-01-15 08:59:25+08:00 推文](https://twitter.com/realcaixia/status/1614426997983416321)
+
+这是北京大学法学院教授张千帆先生十年前的一个讲座，极为深刻。特别推荐： <a href="https://youtu.be/vUMG6eeV-NE" target="_blank" rel="noopener noreferrer">https://youtu.be/vUMG6eeV-NE</a>
+
+### 26: [2023-01-15 09:04:09+08:00 推文](https://twitter.com/realcaixia/status/1614428190394679298)
+
+几句话揭透中共隐瞒真实数字的罪恶。<div class="rsshub-quote"><br><br>李承鹏（真正的大眼哥）: 他们没告诉你大饥荒死了多少人，就不会告诉你这次疫情死了多少人，他们没告诉你藏了多少钱在瑞士银行，就不会告诉你有多少间高干病房。<br>我读《1984》的时候，好奇为什么时钟总是敲响13下。后来明白了，数字永远是真理部的特权。谁掌握了数字发布权，谁就掌握了财产权，生命权，一切权。<br></div>
+
+### 27: [2023-01-15 09:17:08+08:00 推文](https://twitter.com/realcaixia/status/1614431456205631491)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/Fmec2akaEAAwZEA?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fmec2alaAAIsYEM?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
