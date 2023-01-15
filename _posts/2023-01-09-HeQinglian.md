@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-01-14
+date: 2023-01-15
 from: https://twitter.com/HeQinglian/status/1612159473014947840
 layout: post
 tags:
@@ -29,7 +29,7 @@ Re @ericxu1997 彩虹灿烂地平线，自己高兴就好。话说，如果这�
 
 ### 4: [2023-01-09 08:19:30+08:00 推文](https://twitter.com/HeQinglian/status/1612242623472828416)
 
-美国正在重组供应链，希望墨西哥制造能够取代中国制造。不过，就连墨西哥的分析者也说，短期内无法完全替代中国制造，毕竟设备到位、人力培训都需要时间<br>这有个过程，会变成什么样，得看中国疫情一是会不会演变为长新冠，二是看疫情何时结束。中国还有几个月时间窗口。<div class="rsshub-quote"><br><br>日经中文网: 【“债券王”冈拉克：全球化倒退将是新常态】杰弗里·冈拉克：美国和欧洲人一直依靠中国的低价商品维持生活，今后将变得困难。生活水平非但不会提高，反而可能恶化。欧洲的部分地区正在变穷。日本也会变穷。中国也不太妙。2023年下半年起，美国经济指标将明显恶化……<br> <a href="https://cn.nikkei.com/columnviewpoint/viewpoint/51040-2023-01-09-04-59-22.html" target="_blank" rel="noopener noreferrer">https://cn.nikkei.com/columnviewpoint/viewpoint/51040-2023-01-09-04-59-22.html</a></div>
+美国正在重组供应链，希望墨西哥制造能够取代中国制造。不过，就连墨西哥的分析者也说，短期内无法完全替代中国制造，毕竟设备到位、人力培训都需要时间<br>这有个过程，会变成什么样，得看中国疫情一是会不会演变为长新冠，二是看疫情何时结束。中国还有几个月时间窗口。<br><br>日经中文网: 【“债券王”冈拉克：全球化倒退将是新常态】杰弗里·冈拉克：美国和欧洲人一直依靠中国的低价商品维持生活，今后将变得困难。生活水平非但不会提高，反而可能恶化。欧洲的部分地区正在变穷。日本也会变穷。中国也不太妙。2023年下半年起，美国经济指标将明显恶化……<br> <a href="https://cn.nikkei.com/columnviewpoint/viewpoint/51040-2023-01-09-04-59-22.html" target="_blank" rel="noopener noreferrer">https://cn.nikkei.com/columnviewpoint/viewpoint/51040-2023-01-09-04-59-22.html</a>
 
 ### 5: [2023-01-09 11:16:22+08:00 推文](https://twitter.com/HeQinglian/status/1612287134333022208)
 
@@ -37,7 +37,7 @@ Re @JianglinLi 人家公开宣称，挂在网站上，是阳谋，不是别人�
 
 ### 6: [2023-01-09 22:19:36+08:00 推文](https://twitter.com/HeQinglian/status/1612454044223537155)
 
-117届国会，有投票权的435个众议院席位当中，民主党占220席，共和党占212席，另有3席空缺：本届（118届）众议院将有222名共和党议员和212名民主党议员，另有1个席位空缺。<br>117届民主党220席，那时媒体说“掌控众议院的民主党”；118届共和党222席，媒体不断强调微弱多数。<br>媒体连这小事都不忘双标。😅<br><br>联合早报 Lianhe Zaobao: 美国众议院戏剧性的新议长选举已经结束，新一届国会已宣誓就职。以微弱多数领导众议院的共和党人未来两年在推进各项立法议程时，预计将遇到民主党人强而有力的挑战。不过对共和党人来说，计划针对中国采取的一些强硬立法措施，很可能成为能赢得民主党人支持、为数不多的亮点。<br> <a href="https://www.zaobao.com.sg/realtime/world/story20230109-1351685" target="_blank" rel="noopener noreferrer">https://www.zaobao.com.sg/realtime/world/story20230109-1351685</a>
+117届国会，有投票权的435个众议院席位当中，民主党占220席，共和党占212席，另有3席空缺：本届（118届）众议院将有222名共和党议员和212名民主党议员，另有1个席位空缺。<br>117届民主党220席，那时媒体说“掌控众议院的民主党”；118届共和党222席，媒体不断强调微弱多数。<br>媒体连这小事都不忘双标。😅<div class="rsshub-quote"><br><br>联合早报 Lianhe Zaobao: 美国众议院戏剧性的新议长选举已经结束，新一届国会已宣誓就职。以微弱多数领导众议院的共和党人未来两年在推进各项立法议程时，预计将遇到民主党人强而有力的挑战。不过对共和党人来说，计划针对中国采取的一些强硬立法措施，很可能成为能赢得民主党人支持、为数不多的亮点。<br> <a href="https://www.zaobao.com.sg/realtime/world/story20230109-1351685" target="_blank" rel="noopener noreferrer">https://www.zaobao.com.sg/realtime/world/story20230109-1351685</a></div>
 
 ### 7: [2023-01-09 22:27:48+08:00 推文](https://twitter.com/HeQinglian/status/1612456108601253888)
 
@@ -450,4 +450,28 @@ Re @JianglinLi @kbclindy 幸亏你提醒，我才注意到。这是应该的，T
 ### 109: [2023-01-14 22:19:26+08:00 推文](https://twitter.com/HeQinglian/status/1614265942476726274)
 
 Re 这一家来自纽约都是希拉里、民主党的崇拜者与支持者。<br>故事最峰回路转的是酒店经理。常年侍候这些富人产生的心理扭曲，产生许多怪异行为：在沙滩上捡到白左女吸毒不清醒状态下丢的包偷偷品毒；强迫男员工与自己肛交；报复旅客溜进房间在人家行李箱里拉屎。<br>该剧没意识形态色彩，纯粹白描，只是集中表现
+
+### 110: [2023-01-15 10:45:24+08:00 推文](https://twitter.com/HeQinglian/status/1614453667314241538)
+
+Re @edsnow8 The white lotus season1
+
+### 111: [2023-01-15 10:46:43+08:00 推文](https://twitter.com/HeQinglian/status/1614454002665639937)
+
+Re @XiaGuo10 <a href="https://www.olevod.com/index.php/vod/detail/id/28408.html" target="_blank" rel="noopener noreferrer">https://www.olevod.com/index.php/vod/detail/id/28408.html</a>
+
+### 112: [2023-01-15 10:49:17+08:00 推文](https://twitter.com/HeQinglian/status/1614454646139162624)
+
+Re @JianglinLi 这不意外。一、他们老了，不用去打仗了；二、这是文化战争，捍卫的就是他们喜欢的LGBTQI价值观。
+
+### 113: [2023-01-15 10:53:16+08:00 推文](https://twitter.com/HeQinglian/status/1614455650351726592)
+
+Re @SSK2024 法律是一种，执法有差别。全看什么人对什么人执法。
+
+### 114: [2023-01-15 10:56:49+08:00 推文](https://twitter.com/HeQinglian/status/1614456542610300928)
+
+Re @fading_you1 这个新雕像应该放到拜登住的白宫或者送给波洛西，放在门前做镇宅之宝。最合适的地方应该是小拜登的豪宅门前。<br>他们与这个雕像相配度高达100%。<br>如果是一个30英尺高的，可以与斯塔腾岛上的自由女神象置换。
+
+### 115: [2023-01-15 11:11:10+08:00 推文](https://twitter.com/HeQinglian/status/1614460152815517697)
+
+今天与朱砂梅错过。<br>在超市，见到一盆朱砂梅，正看标签说明，一华人男子走过来笑友善地告诉我：那边有更好的，我车里这盆就是那边拿的。我谢过他，走到50多英尺之外去寻找，Nothing，想回来拿时，发现那盆已经被他装在车上。见我来了，他将头转至另一边。<br>有点好笑。朱砂梅如图 <a href="https://new.qq.com/rain/a/20200928A0IEI600" target="_blank" rel="noopener noreferrer">https://new.qq.com/rain/a/20200928A0IEI600</a>
 
