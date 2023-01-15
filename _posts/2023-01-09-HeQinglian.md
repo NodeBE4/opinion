@@ -37,7 +37,7 @@ Re @JianglinLi 人家公开宣称，挂在网站上，是阳谋，不是别人�
 
 ### 6: [2023-01-09 22:19:36+08:00 推文](https://twitter.com/HeQinglian/status/1612454044223537155)
 
-117届国会，有投票权的435个众议院席位当中，民主党占220席，共和党占212席，另有3席空缺：本届（118届）众议院将有222名共和党议员和212名民主党议员，另有1个席位空缺。<br>117届民主党220席，那时媒体说“掌控众议院的民主党”；118届共和党222席，媒体不断强调微弱多数。<br>媒体连这小事都不忘双标。😅<br><br>联合早报 Lianhe Zaobao: 美国众议院戏剧性的新议长选举已经结束，新一届国会已宣誓就职。以微弱多数领导众议院的共和党人未来两年在推进各项立法议程时，预计将遇到民主党人强而有力的挑战。不过对共和党人来说，计划针对中国采取的一些强硬立法措施，很可能成为能赢得民主党人支持、为数不多的亮点。<br> <a href="https://www.zaobao.com.sg/realtime/world/story20230109-1351685" target="_blank" rel="noopener noreferrer">https://www.zaobao.com.sg/realtime/world/story20230109-1351685</a>
+117届国会，有投票权的435个众议院席位当中，民主党占220席，共和党占212席，另有3席空缺：本届（118届）众议院将有222名共和党议员和212名民主党议员，另有1个席位空缺。<br>117届民主党220席，那时媒体说“掌控众议院的民主党”；118届共和党222席，媒体不断强调微弱多数。<br>媒体连这小事都不忘双标。😅<div class="rsshub-quote"><br><br>联合早报 Lianhe Zaobao: 美国众议院戏剧性的新议长选举已经结束，新一届国会已宣誓就职。以微弱多数领导众议院的共和党人未来两年在推进各项立法议程时，预计将遇到民主党人强而有力的挑战。不过对共和党人来说，计划针对中国采取的一些强硬立法措施，很可能成为能赢得民主党人支持、为数不多的亮点。<br> <a href="https://www.zaobao.com.sg/realtime/world/story20230109-1351685" target="_blank" rel="noopener noreferrer">https://www.zaobao.com.sg/realtime/world/story20230109-1351685</a></div>
 
 ### 7: [2023-01-09 22:27:48+08:00 推文](https://twitter.com/HeQinglian/status/1612456108601253888)
 
@@ -169,7 +169,7 @@ Re @JianglinLi @HongfuDing @david_david1968 长期抗战，第二个阿富汗。
 
 ### 39: [2023-01-11 11:01:49+08:00 推文](https://twitter.com/HeQinglian/status/1613008249443213313)
 
-Re @lianghuiwang2 @jojowheel 两位提到这，我讲件美国往事。<br>美国著名社会学家詹姆斯·塞缪尔·科尔曼（James Samuel Coleman）于1966年撰写的《科尔曼报告》（Coleman Report） ，尽管在美国教育史上具有里程碑意义，但在对社会公共政策的影响上，却不敌左派的政治正确。
+RT He Qinglian<br>Re @lianghuiwang2 @jojowheel 两位提到这，我讲件美国往事。<br>美国著名社会学家詹姆斯·塞缪尔·科尔曼（James Samuel Coleman）于1966年撰写的《科尔曼报告》（Coleman Report） ，尽管在美国教育史上具有里程碑意义，但在对社会公共政策的影响上，却不敌左派的政治正确。
 
 ### 40: [2023-01-11 11:02:23+08:00 推文](https://twitter.com/HeQinglian/status/1613008393404403715)
 
@@ -474,4 +474,28 @@ Re @fading_you1 这个新雕像应该放到拜登住的白宫或者送给波洛�
 ### 115: [2023-01-15 11:11:10+08:00 推文](https://twitter.com/HeQinglian/status/1614460152815517697)
 
 今天与朱砂梅错过。<br>在超市，见到一盆朱砂梅，正看标签说明，一华人男子走过来笑友善地告诉我：那边有更好的，我车里这盆就是那边拿的。我谢过他，走到50多英尺之外去寻找，Nothing，想回来拿时，发现那盆已经被他装在车上。见我来了，他将头转至另一边。<br>有点好笑。朱砂梅如图 <a href="https://new.qq.com/rain/a/20200928A0IEI600" target="_blank" rel="noopener noreferrer">https://new.qq.com/rain/a/20200928A0IEI600</a>
+
+### 116: [2023-01-15 23:05:16+08:00 推文](https://twitter.com/HeQinglian/status/1614639860953784321)
+
+Re @JianglinLi @Vince6610 就是如此。<br>White Lotus 1第5集：少数族、吸毒女左Paula因嫉恨朋友比她富有，将女友母亲房间保险箱密码告诉临时情人一夏威夷土著，男友说拿人家东西不合适，Paula说白人欠了你们，这是将你本有的拿回来。活生生展示了阶级仇恨-BLM是如何灌输偷抢有理的。<br>左派的政治正确全用来装B，私人行止都污秽不堪
+
+### 117: [2023-01-15 23:10:34+08:00 推文](https://twitter.com/HeQinglian/status/1614641195535454209)
+
+Re @JianglinLi @HongfuDing @ngexp @RealBeiMing 建议你看看White Lotus，里面的人物个个在生活里有原型（类别）。语言全是时下美国纽约中上层社会（慈善机构）-NGO圈的流行语。<br>金主满心瞧不起NGO，认为这些机构存在就是找富人要钱。但金主需要舞台装高大上。<br>美国教育培养了资本主义的掘墓人，一代比一代颓废，无能自私且自以为是。
+
+### 118: [2023-01-15 23:11:30+08:00 推文](https://twitter.com/HeQinglian/status/1614641430231654400)
+
+Re @farmdirect8 79美元。
+
+### 119: [2023-01-15 23:13:12+08:00 推文](https://twitter.com/HeQinglian/status/1614641860752080902)
+
+Re @TongHong14 金门超市。
+
+### 120: [2023-01-15 23:22:06+08:00 推文](https://twitter.com/HeQinglian/status/1614644100178796551)
+
+Re @eGUAbe2V7j26GHw 我家有四株，两株是三年苗，因为是原生苗，五年可能开花。但我这地太冷 了，开不出。<br>DC有位朋友，家有一片林子、一段河流。他家一片腊梅林，我从他家拿了不少，送朋友，原居所有一株很大了，搬家时留在那里了。<br>红梅五大类，只有南京梅林有一种香梅，其余都不香。我家一株，现含苞待放，苞还未见绽红
+
+### 121: [2023-01-15 23:36:35+08:00 推文](https://twitter.com/HeQinglian/status/1614647745633030146)
+
+Re @farmdirect8 你去一下台湾嘉新农场，离我这单程一个半小时。<br>电话号码:<br>详细地址:<br>908-730-7123<br>215 Quakertown Rd.<br>Pittstown, NJ 08867<br>我刚打电话问过，现在还有粉白两种，全是重瓣的，朱砂梅卖完了。可以地栽。
 
