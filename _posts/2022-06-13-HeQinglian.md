@@ -29,7 +29,7 @@ Re @RealBeiMing @JianglinLi @Wu_Zhi @david_david1968 @ngexp 没错，这世界�
 
 ### 4: [2022-06-13 04:19:25+08:00 推文](https://twitter.com/HeQinglian/status/1536080754521870338)
 
-乌克兰的好总统，自家一屋未扫净，志在扫天下他人居所。<br>有点觉得他在寻找新的军事援助生成点。台湾蔡总统已经将推广LGBTQI当成美国民主新价值观，别再犯糊涂，“在北京动武前”不是个好建议。<br><br>RFI 华语 - 法国国际广播电台: 华邮: 泽连斯基吁国际社会在中国动武前助台湾抵御侵略<br><br><img style="" src="https://pbs.twimg.com/media/FVEW5I6UcAAJ0WP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8UmD.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8UmD.t</a>
+乌克兰的好总统，自家一屋未扫净，志在扫天下他人居所。<br>有点觉得他在寻找新的军事援助生成点。台湾蔡总统已经将推广LGBTQI当成美国民主新价值观，别再犯糊涂，“在北京动武前”不是个好建议。
 
 ### 5: [2022-06-13 04:29:31+08:00 推文](https://twitter.com/HeQinglian/status/1536083296807010307)
 
