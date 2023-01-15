@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-01-14
+date: 2023-01-15
 from: https://old.reddit.com/r/badhistory/comments/107cogb/mindless_monday_09_january_2023/
 layout: post
 tags:
@@ -254,4 +254,28 @@ Okay, jokes aside, the answer is that I do not know, I do not know of anyone who
 ----- __1053.1__ -----2023-01-15 04:47:47+08:00:
 
 No, the family name was separate from the state name, the latter of which was usually either geographical or, in later periods, symbolic. So for instance the Tang Empire was ruled by the Li family, the Ming Empire by the Zhu family, and the Qing by the Aisin Gioro clan.
+
+### 1054: [Why is New Year not on one of the solstice days?](https://old.reddit.com/r/AskHistorians/comments/10c7lpa/why_is_new_year_not_on_one_of_the_solstice_days/), submitted on 2023-01-15 10:06:35+08:00.
+
+----- __1054.1__ -----2023-01-15 15:14:07+08:00:
+
+Hey there,
+
+Just to let you know, your question is fine, and we're letting it stand. However, you should be aware that questions framed as 'Why didn't X do Y' relatively often don't get an answer that meets our standards (in our experience as moderators). There are a few reasons for this. Firstly, it often can be difficult to prove the counterfactual: historians know much more about what happened than what might have happened. Secondly, 'why didn't X do Y' questions are sometimes phrased in an ahistorical way. It's worth remembering that people in the past couldn't see into the future, and they generally didn't have all the information we now have about their situations; things that look obvious now didn't necessarily look that way at the time.
+
+If you end up not getting a response after a day or two, [consider asking a new question focusing instead on why what happened did happen](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) (rather than why what didn't happen didn't happen) - this kind of question is more likely to get a response in our experience. Hope this helps!
+
+### 1055: [Would the English (and by extension, their former and present colonial possessions, Canada, America, and such) still be Catholic if not for Henry VIII?](https://old.reddit.com/r/AskHistorians/comments/10cawzk/would_the_english_and_by_extension_their_former/), submitted on 2023-01-15 12:51:40+08:00.
+
+----- __1055.1__ -----2023-01-15 15:13:25+08:00:
+
+Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
+
+### 1056: [Was Hong Xiuquan the brother of Jesus Christ?](https://old.reddit.com/r/AskHistorians/comments/10ccw0v/was_hong_xiuquan_the_brother_of_jesus_christ/), submitted on 2023-01-15 14:39:09+08:00.
+
+----- __1056.1__ -----2023-01-15 15:06:08+08:00:
+
+Apologies, but we have had to remove your submission. We ask that questions in this subreddit be limited to those asking about history, or for historical answers. This is not a judgement of your question, but to receive the answer you are looking for, it would be better suited to /r/AcademicBiblical.
+
+If you are interested in an historical answer, however, you are welcome to rework your question to fit the theme of this subreddit and resubmit it.
 
