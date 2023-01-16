@@ -201,7 +201,7 @@ Wait I'm not done yet! Come back in 15 minutes or so when I have the rest posted
 
 ----- __1051.3__ -----2023-01-14 00:40:17+08:00:
 
-#### Wu Lingyun's Rebellion (1852?-1868?)
+#### Wu Lingyun's Rebellion (1852?-1869?) and the Kingdom of Yanling (1861-1869?)
 
 The case of Wu Lingyun is a tricky one. All told, it is probably better to consider Wu Lingyun as a bandit lord with pretensions to Taiping connections, rather than a committed contender for either regional separatism or dynastic renewal, even if he did proclaim the existence of a Kingdom of Yanling after 1861. Unusually, Wu Lingyun's rebellion was one that would ultimately cross state boundaries. After Wu died in 1863 he was succeeded by his son, Wu Yazhong, who presided over a three-way schism in Yanling in 1865, which saw two major splinters form: the Black Flag Army under Liu Yongfu and the Yellow Flag Army under Pan Lunsi, both of which then moved into northern Viet Nam. These two forces then joined opposite sides of the White Flag uprising by local indigenous groups, with the Yellow Flags joining the rebels while the Black Flags supported the Vietnamese government. After fleeing China in 1868, Wu Yazhong began attacking Vietnamese towns, but was rounded up and executed in 1869. The Yellow Flags began cooperating with the French, but broke up after Qing, Vietnamese, and Black Flag forces defeated Pan Lunsi and executed him in 1877. The Black Flags, in turn, were formally disbanded after the Sino-French War in 1885, although elements remained at large until at least 1887, and former members continued to organise low-level anti-French insurgency.
 
