@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2023-01-14
+date: 2023-01-15
 from: https://old.reddit.com/r/evilbuildings/comments/107n7gi/brutalist_amoeba_devours_a_church/
 layout: post
 tags:
@@ -74,4 +74,14 @@ Hahahaha.  Yes, to both.  He was about 175 lbs.  I'm no powerlifter, but I was a
 > I'm dating him not his family.
 
 Indeed.  Frankly, I see that as a plus.  Simplifies holiday travel if the relationship becomes serious.
+
+### 441: [Workers Lose Ground to Inflation Despite Big Wage Gains](https://old.reddit.com/r/stupidpol/comments/10c08ab/workers_lose_ground_to_inflation_despite_big_wage/), submitted on 2023-01-15 05:30:10+08:00.
+
+----- __441.1__ -----2023-01-16 09:38:40+08:00:
+
+You will own nothing and be happy.  
+
+And you will work forever.  
+
+Because we inflate your currency.
 
