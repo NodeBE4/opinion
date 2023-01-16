@@ -141,11 +141,11 @@ Re @CCPoffice 我从部队回到地方定居苏州，后来父母养老都在苏
 
 ### 32: [2022-04-05 09:09:49+08:00 推文](https://twitter.com/realcaixia/status/1511149071708344328)
 
-大翻译找回2020年元旦央视迫害李文亮等八名s吹哨人的新闻播报。历史不能被忘记。需要让全世界更多的人知道武汉病毒的真相。<br><br>新闻调查: 大翻译运动又一杰作，武汉病毒的真相来了<br><br><video src="https://video.twimg.com/ext_tw_video/1510704705630269440/pu/vid/1280x720/d7gebXM6hxKtZKSU.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1510704705630269440/pu/img/exVPb1RXvZtcMvJq.jpg"></video>
+大翻译找回2020年元旦央视迫害李文亮等八名s吹哨人的新闻播报。历史不能被忘记。需要让全世界更多的人知道武汉病毒的真相。
 
 ### 33: [2022-04-05 09:12:06+08:00 推文](https://twitter.com/realcaixia/status/1511149645745078272)
 
-看看方舱医院什么情况吧。
+看看方舱医院什么情况吧。<br><br>鲁  难: 上海南汇的方舱隔离点，被隔离的人需要自己动手抢物资才有铺盖的被褥和食品、饮水。一位只抢到了一箱水的女士呼吁大家转发视频，引起有关管理者的注意，帮她度过难关。<br><br><video src="https://video.twimg.com/ext_tw_video/1510861373391187968/pu/vid/1280x720/t9BMw7Swwn17E-Kb.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1510861373391187968/pu/img/ltrdDy_tQXc5GvYf.jpg"></video>
 
 ### 34: [2022-04-05 09:13:15+08:00 推文](https://twitter.com/realcaixia/status/1511149935181406209)
 
@@ -165,11 +165,11 @@ RT @Jam79922967: 枪口下的抗疫，世界独此一国。用枪击毙新冠病
 
 ### 38: [2022-04-05 09:26:15+08:00 推文](https://twitter.com/realcaixia/status/1511153210832130053)
 
-好悲壮！<br><br>ZHANGDONG: 现在马里乌波尔只剩下亚述营武装坚守残城。<br>
+好悲壮！
 
 ### 39: [2022-04-05 09:43:50+08:00 推文](https://twitter.com/realcaixia/status/1511157635411857408)
 
-义士义举令人感佩，话语令人暖心。
+义士义举令人感佩，话语令人暖心。<br><br>杨佩昌: 收到太多溢美之词，受之有愧。其实留学德国这事不难，不过举手之劳而已（留学中介别骂）。只要语言过关、符合留学资格（Hochschulzugangberechtigung）都不难办。<br>小孙这事难在如何让德国大学相信，他被开除并非行为不端，只是言论表达惹的祸。这需要一个德国高校信任的人来说明，正巧我就是这个人。<br>
 
 ### 40: [2022-04-05 09:45:35+08:00 推文](https://twitter.com/realcaixia/status/1511158075381665792)
 
@@ -245,7 +245,7 @@ RT @BigRmbusd: 要求解封的声音越来越大<br><video src="https://video.tw
 
 ### 58: [2022-04-07 00:12:27+08:00 推文](https://twitter.com/realcaixia/status/1511738616048926720)
 
-今日金句。
+今日金句。<br><br>kevin cheng: @maomao113 @ayase_hazuki @lg19901213 即使民间自救，也不会这样<br><br><img style="" src="https://pbs.twimg.com/media/FPqulGqVcAMr0P8?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 59: [2022-04-07 03:02:12+08:00 推文](https://twitter.com/realcaixia/status/1511781334380945412)
 
@@ -253,7 +253,7 @@ RT @BigRmbusd: 要求解封的声音越来越大<br><video src="https://video.tw
 
 ### 60: [2022-04-07 20:09:30+08:00 推文](https://twitter.com/realcaixia/status/1512039862626656257)
 
-中共军队號稱“人民子弟兵”，8964向人民开枪。64以後，進京的27军向北京市民辯解說他們沒有開槍，開槍的是38軍，說明那時軍人心中還有負罪感。随着中国政治从改革开放转向封闭倒退反动，民众与极权统治矛盾的尖锐化，中共军警殘越来越暴兇惡地對待民眾、这类侵害人權的暴力犯罪行為，屡屡发生处处可见。<br><br>新闻/真话: 宁波一个捡破烂的老头，被狠狠的踩在一块木板下，目光呆滞，他一定在怀疑自己穿越了，遇到皇军了<br><br><img style="" src="https://pbs.twimg.com/media/FPvG935aIAIbxT6?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+中共军队號稱“人民子弟兵”，8964向人民开枪。64以後，進京的27军向北京市民辯解說他們沒有開槍，開槍的是38軍，說明那時軍人心中還有負罪感。随着中国政治从改革开放转向封闭倒退反动，民众与极权统治矛盾的尖锐化，中共军警殘越来越暴兇惡地對待民眾、这类侵害人權的暴力犯罪行為，屡屡发生处处可见。
 
 ### 61: [2022-04-08 20:27:47+08:00 推文](https://twitter.com/realcaixia/status/1512406852948181003)
 
@@ -265,11 +265,11 @@ RT @BigRmbusd: 要求解封的声音越来越大<br><video src="https://video.tw
 
 ### 63: [2022-04-09 21:28:50+08:00 推文](https://twitter.com/realcaixia/status/1512784603248955394)
 
-上海极端的清零，把政治站位、绝对忠诚演绎到了极致，也把反文明反人性反智主义演绎到了上海开埠以来绝无仅有的地步。
+上海极端的清零，把政治站位、绝对忠诚演绎到了极致，也把反文明反人性反智主义演绎到了上海开埠以来绝无仅有的地步。<br><br>lily valley: 大白这一身皮，将中国有些畜生的恶发挥到了极致！他们在这身画皮下做着伤天害理、人神共愤的事而被模糊了。谁来救救这些毛孩子！！！<br><br><video src="https://video.twimg.com/ext_tw_video/1512386832369082371/pu/vid/720x1280/xIaNooNdNUh03dgo.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1512386832369082371/pu/img/zYKBcY_ZPk5R33rT.jpg"></video>
 
 ### 64: [2022-04-09 22:04:41+08:00 推文](https://twitter.com/realcaixia/status/1512793625066979339)
 
-清零祸国殃民，祸首在海里吃喝不愁。21世纪，国际大都会，上海高楼大厦里，将有饿死冤魂。
+清零祸国殃民，祸首在海里吃喝不愁。21世纪，国际大都会，上海高楼大厦里，将有饿死冤魂。<br><br>大耳朵猫妹: 就一个字，惨<br><br><img style="" src="https://pbs.twimg.com/media/FP0sATZX0AwJPI7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP0sATpWUAMVMr_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP0sAU8XwAQ--Zh?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP0sAVJXwAQP4-q?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 65: [2022-04-09 22:34:47+08:00 推文](https://twitter.com/realcaixia/status/1512801200147628033)
 
