@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2023-01-16
+date: 2023-01-17
 from: https://twitter.com/realcaixia/status/1614724084339822595
 layout: post
 tags:
@@ -26,4 +26,12 @@ title: 'Twitter @蔡霞: 2023-01-16~2023-01-22'
 ### 3: [2023-01-16 08:58:02+08:00 推文](https://twitter.com/realcaixia/status/1614789037310742529)
 
 Re <br><img style="" src="https://pbs.twimg.com/media/FmjiESzaEAA3wwu?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FmjiESzacAAnHWR?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 4: [2023-01-17 02:01:27+08:00 推文](https://twitter.com/realcaixia/status/1615046590401777664)
+
+再次转推！<div class="rsshub-quote"><br><br>大師兄（原Bob New）: 再次强烈建议墙内民众传播该里程碑级事件！<br>可以说，从国会立法和机构设置层面，将CCP和中国、中国人民剥离，已经触及中共最恐惧的噩梦！<br>对此，中共无论官方还是媒体，都表现的异乎寻常的，象死妈一样的沉默！<br>那么，咱们就偏不让这些垃圾装死！<br> <a href="https://twitter.com/caijingzhenxing/status/1613807208352960518" target="_blank" rel="noopener noreferrer">https://twitter.com/caijingzhenxing/status/1613807208352960518</a></div>
+
+### 5: [2023-01-17 02:06:51+08:00 推文](https://twitter.com/realcaixia/status/1615047946214707200)
+
+胡锡进能写出这个贴文，确实有点不合“胡锡进的常态“。<div class="rsshub-quote"><br><br>马聚: 胡锡进反了？还是嗅到了什么味儿？<br><br><img style="" src="https://pbs.twimg.com/media/FmnL4r-XEA0Liza?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 

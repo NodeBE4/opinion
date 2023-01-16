@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2022-10-10~2022-10-16'
 
 ### 1: [2022-10-10 02:44:14+08:00 推文](https://twitter.com/realcaixia/status/1579180956488908800)
 
-这个信息值得重视！在中共眼里，华人在哪里，中共警察就必须派到哪里，于是美国政府的眼皮子底下有了一个国中之国警察机构，还是习的公安部牛！<br><br>GreatFire.org: 中国警察在全球多个国家设立“警务服务站”，把中国警察的“长臂”伸到海外华人社区。美国纽约在首批设立的名单中，设在曼哈顿唐人街亲共侨团“长乐公会”内。 <br>国际人权组织“保护卫士”近日发布的报告，福州市公安局已经在21个国家的25个城市，设立了第共30个“警务海外服务站”。<br>
+这个信息值得重视！在中共眼里，华人在哪里，中共警察就必须派到哪里，于是美国政府的眼皮子底下有了一个国中之国警察机构，还是习的公安部牛！<br><br>GreatFire.org: 中国警察在全球多个国家设立“警务服务站”，把中国警察的“长臂”伸到海外华人社区。美国纽约在首批设立的名单中，设在曼哈顿唐人街亲共侨团“长乐公会”内。 <br>国际人权组织“保护卫士”近日发布的报告，福州市公安局已经在21个国家的25个城市，设立了第共30个“警务海外服务站”。<br> <a href="https://twitter.com/RFI_Cn/status/1578896305753325568" target="_blank" rel="noopener noreferrer">https://twitter.com/RFI_Cn/status/1578896305753325568</a>
 
 ### 2: [2022-10-10 02:52:22+08:00 推文](https://twitter.com/realcaixia/status/1579183002751766528)
 
@@ -101,7 +101,7 @@ Re @xinlijian110 这说的是老习与小习。
 
 ### 22: [2022-10-14 01:27:25+08:00 推文](https://twitter.com/realcaixia/status/1580611176462831616)
 
-让我们大家都来关注、都来声援都来响应彭载舟！<br><br>全球倒习救国翡翠运动: 他叫#彭载舟，本名#彭立发，号召大家从10月16日起全民#罢工#罢课#汽车鸣笛。他已经做出表率，在北京四通桥挂出横幅，震惊世界。他已经被拘捕，求仁得仁。一个彭立发，震惊世界。一万个彭立发，再造中国！<br><br><img style="" src="https://pbs.twimg.com/media/Fe9NXhfXgAIENym?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fe9NXheXkAIQmwj?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fe9NXhdWQAsRkdz?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fe9NXheXoAIcBbX?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/changchengwai/status/1580534048614932481" target="_blank" rel="noopener noreferrer">https://twitter.com/changchengwai/status/1580534048614932481</a>
+让我们大家都来关注、都来声援都来响应彭载舟！<br><br>全球倒习救国翡翠运动: 他叫#彭载舟，本名#彭立发，号召大家从10月16日起全民#罢工#罢课#汽车鸣笛。他已经做出表率，在北京四通桥挂出横幅，震惊世界。他已经被拘捕，求仁得仁。一个彭立发，震惊世界。一万个彭立发，再造中国！<br><br><img style="" src="https://pbs.twimg.com/media/Fe9NXhfXgAIENym?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fe9NXheXkAIQmwj?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fe9NXhdWQAsRkdz?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fe9NXheXoAIcBbX?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 23: [2022-10-14 03:23:03+08:00 推文](https://twitter.com/realcaixia/status/1580640277106413568)
 
