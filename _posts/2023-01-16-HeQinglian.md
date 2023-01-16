@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-01-16
+date: 2023-01-17
 from: https://twitter.com/HeQinglian/status/1614693015112630272
 layout: post
 tags:
@@ -62,4 +62,12 @@ Re @shenliangqing2 台湾是两个问题：<br>一是知识界都从美欧留学
 ### 12: [2023-01-16 22:39:00+08:00 推文](https://twitter.com/HeQinglian/status/1614995639225516032)
 
 Re @WangyiIaiIe_0O7 好象也不能这样一棒子打死。<br>就在朱砂梅之前，我在装一根油条，因为手里还有其他东西，装时有点难。一位华人小伙子就主动给我帮忙，将塑料袋抻开。
+
+### 13: [2023-01-16 23:33:20+08:00 推文](https://twitter.com/HeQinglian/status/1615009314481078277)
+
+Re @lianghuiwang2 民间多数也不接受，但考虑到安全问题，不敢公开怼。选举就是表态。
+
+### 14: [2023-01-17 00:27:29+08:00 推文](https://twitter.com/HeQinglian/status/1615022942651285508)
+
+Re @lianghuiwang2 那次强行通过法案时，我正在台湾，民间沸腾，准备惩罚民进党。<br>正好我当时在台出版《红色渗透——中国媒体全球扩张的真相》，绿营受了启发，抓住红色渗透做文章，唤醒台湾的危机感，又赢了一次。
 
