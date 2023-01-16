@@ -279,3 +279,13 @@ Apologies, but we have had to remove your submission. We ask that questions in t
 
 If you are interested in an historical answer, however, you are welcome to rework your question to fit the theme of this subreddit and resubmit it.
 
+### 1057: [[Hobby Scuffles] Week of January 16, 2023](https://old.reddit.com/r/HobbyDrama/comments/10cl7wn/hobby_scuffles_week_of_january_16_2023/), submitted on 2023-01-15 22:30:09+08:00.
+
+----- __1057.1__ -----2023-01-16 21:56:32+08:00:
+
+Update to the 28mm Japanese miniatures situation [I mentioned previously](https://www.reddit.com/r/HobbyDrama/comments/zuzn3j/hobby_scuffles_week_of_december_26_2022/j1y8byh/): looks like I overlooked the [Warrior Monks](https://images.beastsofwar.com/2018/03/Warrior-Monks-of-Mount-Hiei-Test-Of-Honour.jpg), more specifically their archers, who have never reappeared. This is an especial annoyance because for reasons I cannot explain, *virtually nobody does good-quality warrior monk archers in 28mm*, and I am really not happy.
+
+----- __1057.2__ -----2023-01-16 22:15:56+08:00:
+
+Don't we all?
+
