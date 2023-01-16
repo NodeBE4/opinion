@@ -49,7 +49,7 @@ Re 1、规避这个规定而继续大权独揽的路径是：中共党内另设�
 
 ### 9: [2022-06-02 23:11:45+08:00 推文](https://twitter.com/realcaixia/status/1532379450226225152)
 
-记住六.四！<br><br>周锋锁 Fengsuo Zhou: 江林的经历，是近年来最重要的八九六四新证词。这件保存了三十三年的血衣，见证了她在六四屠杀中生死之交的抉择，也带出了当年军队内部反对戒严的历史事实。<br>她和张胜一家被戒严部队暴力殴打到致命程度，张胜儿子手指打断被捕。<br>张胜是总参作战部战役局局长，父亲张爱萍领衔七上将公开反对军队武力进城<br> <a href="https://twitter.com/voachinese/status/1531494177195712512" target="_blank" rel="noopener noreferrer">https://twitter.com/voachinese/status/1531494177195712512</a>
+记住六.四！
 
 ### 10: [2022-06-03 20:28:55+08:00 推文](https://twitter.com/realcaixia/status/1532700857816457216)
 
@@ -93,7 +93,7 @@ Re 1、规避这个规定而继续大权独揽的路径是：中共党内另设�
 
 ### 20: [2022-06-05 07:15:22+08:00 推文](https://twitter.com/realcaixia/status/1533225932743331840)
 
-他们恐惧任何可能联想到6•4屠杀的事物，这是罪犯的本能，就像秃子最初忌讳“癞”字，后来连别人说到“光”、“亮”、“灯”也忌讳一样。
+他们恐惧任何可能联想到6•4屠杀的事物，这是罪犯的本能，就像秃子最初忌讳“癞”字，后来连别人说到“光”、“亮”、“灯”也忌讳一样。<br><br>学文- insist: 我气坏了。刚接到老家国宝电话。说我凌晨发的莫扎特的安魂曲上面关注了。我问：你们为什么不把莫扎特禁了？这是一个何等荒谬的时代啊！<br><br><img style="" src="https://pbs.twimg.com/media/FUYBWg5UUAArOwn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 21: [2022-06-05 22:53:16+08:00 推文](https://twitter.com/realcaixia/status/1533461960741765122)
 
