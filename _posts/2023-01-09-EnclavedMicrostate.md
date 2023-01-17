@@ -289,3 +289,7 @@ Update to the 28mm Japanese miniatures situation [I mentioned previously](https:
 
 Don't we all?
 
+----- __1057.3__ -----2023-01-18 07:08:35+08:00:
+
+I mean, South China is a pretty big region with a lot of variation. Cantonese, Fujianese, and Hunanese cuisine are all pretty distinct. To be honest I think asking is the best policy.
+
