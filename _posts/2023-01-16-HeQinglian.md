@@ -79,3 +79,19 @@ Re @wz1975 第二季我看了第一集后，决定弃剧。<br>第一季摄于20
 
 Re @franktianxie @JingWan95284954 4亿多人，得死亡将近三分之一，这是无论如何也瞒不住的事情。
 
+### 17: [2023-01-17 11:43:14+08:00 推文](https://twitter.com/SSK2024/status/1615192999541235712)
+
+RT 萧生客SSK🇺🇸🇨🇦<br>好消息：第一位J6的政治犯被宣告无罪！<br><br>2023新年，这是一个令人鼓舞的良好开始的讯号：尽管约书亚·布莱克（Joshua Black）进入了国会的参议院大厅，成为所谓“J6暴徒”的政治犯，被指控妨碍公务罪，但昨天《纽约邮报》的报道，布莱克是第一位被洗清罪名的J6政治犯！<br>⋯ <a href="https://mp.weixin.qq.com/s/lWhhxf1pCEfTPpD_Bgh5_w" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/lWhhxf1pCEfTPpD_Bgh5_w</a><br><img style="" src="https://pbs.twimg.com/media/FmpReJ9WQAAsEVu?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FmpReJ5XwAIodvv?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FmpReJ_XoAA9JjK?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FmpReJ5XoAAdUi8?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 18: [2023-01-17 22:02:56+08:00 推文](https://twitter.com/HeQinglian/status/1615348952869527553)
+
+Re @Inayet1209 @franktianxie @JingWan95284954 算了。自从郭文贵发动推特革命以来，不少推号已经不满足以万为单位计量金钱，动辄以亿为单位，如今连死人也以亿为单位。<br>再弄下去，大家就开始吟诵东汉末年建安七子王粲《七哀诗》：“出门无所见，白骨蔽平原”。
+
+### 19: [2023-01-17 22:11:36+08:00 推文](https://twitter.com/HeQinglian/status/1615351131563081731)
+
+Re @fading_you1 这事情，我是这样推断：<br>按照前两年每年死1000多万的数据，每个月平均85万左右。今年头两个月每月应该破一百万，这是正常年景。更何况每年寒冬是高峰。<br>北京决策者脑子坏掉了，这样撒谎有什么好处？相信4亿的人，是信仰不容质疑。<br>就说到这，跟推上话题，有时无趣之极。
+
+### 20: [2023-01-17 22:13:25+08:00 推文](https://twitter.com/HeQinglian/status/1615351588360704002)
+
+Re @eGUAbe2V7j26GHw 车每个月要开出去溜一圈。
+
