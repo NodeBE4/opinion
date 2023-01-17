@@ -37,7 +37,7 @@ title: 'Twitter @蔡霞: 2021-12-20~2021-12-26'
 
 ### 6: [2021-12-21 22:50:29+08:00 推文](https://twitter.com/realcaixia/status/1473304874343448582)
 
-每日一推。<br><br>施明磊 #释放长沙公益仨: #每日一推要求程渊吴葛健雄的家属探视权和律师会见权 （12月21日第12推）<br>湖南省司法厅范运田厅长，湖南两年花了3000多万建成的视频会见系统，为啥不能支持程渊、吴葛健雄的视频会见？<br><br>程渊、吴葛健雄被秘密转去监狱3个多月了，至今禁止家属探视。<br>节后，我们家属将申请信息公开，看看这系统的猫腻<br><br><img style="" src="https://pbs.twimg.com/media/FHEgLnAWYAIe0_k?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHEgLm9WYAwLoh_?format=jpg&name=orig" referrerpolicy="no-referrer">
+每日一推。<br><br>施明磊 #释放长沙公益仨: #每日一推要求程渊吴葛健雄的家属探视权和律师会见权 （12月21日第12推）<br>湖南省司法厅范运田厅长，湖南两年花了3000多万建成的视频会见系统，为啥不能支持程渊、吴葛健雄的视频会见？<br><br>程渊、吴葛健雄被秘密转去监狱3个多月了，至今禁止家属探视。<br>节后，我们家属将申请信息公开，看看这系统的猫腻<br><br><img style src="https://pbs.twimg.com/media/FHEgLnAWYAIe0_k?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHEgLm9WYAwLoh_?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2021-12-22 19:24:00+08:00 推文](https://twitter.com/realcaixia/status/1473615298032975873)
 
@@ -133,7 +133,7 @@ Re 有跟帖说林郑坐的也是雕龙椅。对，全图显示所有参与者�
 
 ### 30: [2021-12-25 23:41:27+08:00 推文](https://twitter.com/realcaixia/status/1474767250523623427)
 
-记得吴淦是零口供。<br><br>王荔蕻: #聖誕快樂 <br>今天2021年12月25日 #屠夫吳淦 因不能無視他人的苦難，面對惡行轉過頭去，並以藝術的形式表達對受迫害者的支持，被以「顛覆罪」惡判八年。數失去自由的日子到今天——吳淦已扛過2410天。#距離自由還有511天 #FreeWuGan<br><br><img style src="https://pbs.twimg.com/media/FHafABYUYAYSXk-?format=jpg&name=orig" referrerpolicy="no-referrer">
+记得吴淦是零口供。<br><br>王荔蕻: #聖誕快樂 <br>今天2021年12月25日 #屠夫吳淦 因不能無視他人的苦難，面對惡行轉過頭去，並以藝術的形式表達對受迫害者的支持，被以「顛覆罪」惡判八年。數失去自由的日子到今天——吳淦已扛過2410天。#距離自由還有511天 #FreeWuGan<br><br><img style="" src="https://pbs.twimg.com/media/FHafABYUYAYSXk-?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 31: [2021-12-26 00:12:16+08:00 推文](https://twitter.com/realcaixia/status/1474775009465970697)
 
@@ -141,7 +141,7 @@ Re 请看这张全图。参会的人坐的椅子与习近平是一样的吗？�
 
 ### 32: [2021-12-26 00:19:25+08:00 推文](https://twitter.com/realcaixia/status/1474776807601811459)
 
-前三句很有名，体制内流传甚广，唯冰心老人一问，丝毫没有听说。“无士则亡”！而今一语成谶！<br><br>高伐林: 转贴——<br><br><img style="" src="https://pbs.twimg.com/media/FHaQXV_XsAUUmZx?format=jpg&name=orig" referrerpolicy="no-referrer">
+前三句很有名，体制内流传甚广，唯冰心老人一问，丝毫没有听说。“无士则亡”！而今一语成谶！<br><br>高伐林: 转贴——<br><br><img style src="https://pbs.twimg.com/media/FHaQXV_XsAUUmZx?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 33: [2021-12-26 01:24:29+08:00 推文](https://twitter.com/realcaixia/status/1474793179966853123)
 
