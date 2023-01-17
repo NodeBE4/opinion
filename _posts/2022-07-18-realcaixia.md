@@ -93,11 +93,11 @@ Re @wongkim728 你有什么根据说某人刻意造谣呢？这需要拿出事�
 
 ### 20: [2022-07-21 01:14:43+08:00 推文](https://twitter.com/realcaixia/status/1549805012095848450)
 
-中共對自己幹的罪惡一清二楚，他們害怕人們的紀念，他們千方百計地想要扼殺人們的記憶。這和它們年年妄圖扼殺人們對6.4天安門廣場死難者的紀念一樣。<br><br>hanbugerger: @realcaixia 墙内现状。<br><br><img style="" src="https://pbs.twimg.com/media/FYH_7mNXgAYXpU9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+中共對自己幹的罪惡一清二楚，他們害怕人們的紀念，他們千方百計地想要扼殺人們的記憶。這和它們年年妄圖扼殺人們對6.4天安門廣場死難者的紀念一樣。
 
 ### 21: [2022-07-21 01:48:51+08:00 推文](https://twitter.com/realcaixia/status/1549813602693140480)
 
-对许多打工人来说，清零政策的后续影响仅仅只是厄运的开始。中共国一向有各种歧视，不合情理不合法，但那是权力意志的产物，独裁权力扼着人们的生活和命运<br><br>《议报》: 真叫卢俊: “我躲在虹桥的卫生间，不知道去哪。”<br> <a href="https://yibaochina.com/?p=247198" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247198</a>
+对许多打工人来说，清零政策的后续影响仅仅只是厄运的开始。中共国一向有各种歧视，不合情理不合法，但那是权力意志的产物，独裁权力扼着人们的生活和命运
 
 ### 22: [2022-07-21 06:26:29+08:00 推文](https://twitter.com/realcaixia/status/1549883471451111424)
 
