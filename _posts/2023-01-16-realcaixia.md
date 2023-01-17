@@ -29,7 +29,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FmjiESzaEAA3wwu?format=jpg
 
 ### 4: [2023-01-17 02:01:27+08:00 推文](https://twitter.com/realcaixia/status/1615046590401777664)
 
-再次转推！<div class="rsshub-quote"><br><br>大師兄（原Bob New）: 再次强烈建议墙内民众传播该里程碑级事件！<br>可以说，从国会立法和机构设置层面，将CCP和中国、中国人民剥离，已经触及中共最恐惧的噩梦！<br>对此，中共无论官方还是媒体，都表现的异乎寻常的，象死妈一样的沉默！<br>那么，咱们就偏不让这些垃圾装死！<br></div>
+再次转推！<div class="rsshub-quote"><br><br>大師兄（原Bob New）: 再次强烈建议墙内民众传播该里程碑级事件！<br>可以说，从国会立法和机构设置层面，将CCP和中国、中国人民剥离，已经触及中共最恐惧的噩梦！<br>对此，中共无论官方还是媒体，都表现的异乎寻常的，象死妈一样的沉默！<br>那么，咱们就偏不让这些垃圾装死！<br> <a href="https://twitter.com/caijingzhenxing/status/1613807208352960518" target="_blank" rel="noopener noreferrer">https://twitter.com/caijingzhenxing/status/1613807208352960518</a></div>
 
 ### 5: [2023-01-17 02:06:51+08:00 推文](https://twitter.com/realcaixia/status/1615047946214707200)
 
@@ -66,4 +66,12 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fmoxj7KacAAu8P_?format=jpg
 ### 13: [2023-01-18 00:06:54+08:00 推文](https://twitter.com/realcaixia/status/1615380147695398914)
 
 Re <br><img style="" src="https://pbs.twimg.com/media/Fmr7rXlaEAI-rid?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fmr7rXoaAAEyZd_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fmr7rXnagAAne7O?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fmr7rXuagAIATXz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 14: [2023-01-18 00:55:14+08:00 推文](https://twitter.com/realcaixia/status/1615392312196222977)
+
+有推友希望看到人民日报关于习仲勋慰问6.4开枪部队和军队受伤士兵的全文报道，于是上网搜到⬇️。<br>这是中国政府公开信息网站，请注意每个页面最下面都有网址显示。<br>请看人民日报1989年6月15日头版第二条。<br><img style="" src="https://pbs.twimg.com/media/FmsGuO8aEAI7EFN?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FmsGuoQagAEF-Ta?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FmsGvAOaYAAr0Qb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FmsGvZ3acAEvT39?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 15: [2023-01-18 00:59:32+08:00 推文](https://twitter.com/realcaixia/status/1615393393462607872)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FmsHud-agAAIUi8?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
