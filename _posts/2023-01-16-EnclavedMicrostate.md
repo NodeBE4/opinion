@@ -39,3 +39,7 @@ So, I have got to ask this, although I admit, it isn't about the IS-2, at least 
 
 The KV-2. The terrifying, top-heavy-looking monstrosity that is the KV-2. Whose idea was it, why did nobody at any point say 'let's not', and was it any good? Or, if you prefer a more IS-2-based question, what sorts of design lessons did the KV-2 provide? What worked well, what needed correcting?
 
+----- __1061.2__ -----2023-01-19 01:01:53+08:00:
+
+Thanks! There does seem to have been an experimental quality about the KV-2 from appearances alone and I'm unsurprised it didn't go anywhere.
+
