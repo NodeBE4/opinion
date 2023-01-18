@@ -147,3 +147,31 @@ Re @tech130896 @RFI_Cn 中国经济早在90年代后半期就开始起飞，借�
 
 Re @zhou63195556 @fading_you1 想想世界银行1990年代到中国来考察时，中国官方如何接待，就可以想象这位联合国粮农署钦差去非洲时的情况。
 
+### 34: [2023-01-18 23:03:40+08:00 推文](https://twitter.com/HeQinglian/status/1615726625047322624)
+
+Re @AlanChan789000 @RFI_Cn 不起飞，能成为世界GDP第二？
+
+### 35: [2023-01-18 23:07:56+08:00 推文](https://twitter.com/HeQinglian/status/1615727698562744321)
+
+Re 看了留言，补充说明。法国《世界报》用经济起飞这个词描绘如今的中国，大谬。<br>罗斯托的经济起飞论，根本不是用在中国现在这个经济阶段，是指从低发展的落后国家进入高速发展的国家。中国的经济起飞在1990年代后期开始，到2005年完成。2009年中国成为世界第二大经济体。<br>现阶段评论只提中国超越美国。
+
+### 36: [2023-01-18 23:10:34+08:00 推文](https://twitter.com/HeQinglian/status/1615728359178215427)
+
+Re @JianglinLi @Tepezano161 @tanma21 @wuyuesanren 研究历史与治经济学有一点是共同的，凭事实与数据说话。历史是历史史实与数据，经济学是眼下事实与数据。
+
+### 37: [2023-01-18 23:13:20+08:00 推文](https://twitter.com/HeQinglian/status/1615729054996656129)
+
+昨天，一朋友聊天时说：白人是个奇特的民族，既创造了近现代文明与科技，也做了许多自毁的蠢事，比如变性。<div class="rsshub-quote"><br><br>Lucs: 塔克：<br>民主党人根据肤色惩罚白人，正在把美国变成南非。<br><br><video src="https://video.twimg.com/ext_tw_video/1615720529432055810/pu/vid/1280x720/CTYq7Yp33-MErBkd.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1615720529432055810/pu/img/92yrRhaFggwYDl0A.jpg"></video></div>
+
+### 38: [2023-01-18 23:27:51+08:00 推文](https://twitter.com/HeQinglian/status/1615732710902833154)
+
+美国对中美关系重新定位始于川普时期，缘起全球化陷入困局，是美国对自身国际地位的一种外交调整。此前中美关系维持长期友好是因人成事，整整两代美国中国问题专家，从费正清到其门生弟子，当中包括大批崇拜毛泽东的1968年左派。<br>这批人终将老去，新一代对华情意完全不同。 <a href="https://www.sbs.com.au/language/chinese/zh-hans/article/the-relationship-between-china-and-us/fglj6dn4h" target="_blank" rel="noopener noreferrer">https://www.sbs.com.au/language/chinese/zh-hans/article/the-relationship-between-china-and-us/fglj6dn4h</a>
+
+### 39: [2023-01-18 23:40:24+08:00 推文](https://twitter.com/HeQinglian/status/1615735866437079041)
+
+Re @fading_you1 芝加哥三大宝：<br>1、每天都发生的黑人枪击、抢劫，包括死亡。<br>2、BLM总部所在地；还有个传播马克思主义斗争与反抗运动的劳工/社区战略中心，BLM就是他们的“城市实验”（ an urban experiment）。<br>3、奥巴马的政治发祥地，根基很深。<br>在那个城市遇到什么都不意外。
+
+### 40: [2023-01-18 23:45:35+08:00 推文](https://twitter.com/HeQinglian/status/1615737174078496769)
+
+Re @Jingfengtang1 圣经如果万能，美国信教者不会迅速减少。
+
