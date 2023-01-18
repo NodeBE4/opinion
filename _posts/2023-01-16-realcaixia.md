@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2023-01-18
+date: 2023-01-19
 from: https://twitter.com/realcaixia/status/1614724084339822595
 layout: post
 tags:
@@ -37,7 +37,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FmjiESzaEAA3wwu?format=jpg
 
 ### 6: [2023-01-17 03:36:53+08:00 推文](https://twitter.com/realcaixia/status/1615070606256640000)
 
-平民在中国活得很不容易，做父亲的更是压力山大。李承鹏先生这篇文章说到了父亲的奋斗、困窘与不堪。令人心酸至极。父爱如山！<div class="rsshub-quote"><br><br>李承鹏（真正的大眼哥）: 中国的父亲跟全世界的父亲有些不同，他们牺牲尊严来养活家庭，比如违章小贩夏俊峰，这个父亲只是想让儿子学画，才上街摆摊，可巨大的城市竟容不下一个烧烤摊，被城管毒打、踢裆，他奋起反击最终竟逼至杀人。想象瘦小的夏俊峰挥刀刺向身形高大的城管时，蚍蚨撼树，内心该多悲凉。<br></div>
+平民在中国活得很不容易，做父亲的更是压力山大。李承鹏先生这篇文章说到了父亲的奋斗、困窘与不堪。令人心酸至极。父爱如山！<div class="rsshub-quote"><br><br>李承鹏（真正的大眼哥）: 中国的父亲跟全世界的父亲有些不同，他们牺牲尊严来养活家庭，比如违章小贩夏俊峰，这个父亲只是想让儿子学画，才上街摆摊，可巨大的城市竟容不下一个烧烤摊，被城管毒打、踢裆，他奋起反击最终竟逼至杀人。想象瘦小的夏俊峰挥刀刺向身形高大的城管时，蚍蚨撼树，内心该多悲凉。<br> <a href="https://twitter.com/dayangelcp/status/1614874075645767685" target="_blank" rel="noopener noreferrer">https://twitter.com/dayangelcp/status/1614874075645767685</a></div>
 
 ### 7: [2023-01-17 03:43:17+08:00 推文](https://twitter.com/realcaixia/status/1615072213987889153)
 
@@ -85,7 +85,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FmsHud-agAAIUi8?format=jpg
 
 ### 18: [2023-01-18 07:59:41+08:00 推文](https://twitter.com/realcaixia/status/1615499130557665281)
 
-是上海市崇明岛。<div class="rsshub-quote"><br><br>量子跃迁: 我看着这些面对自己亲人堆积如山的尸体仍默默忍耐的民众，我深刻理解了为什么中共在三年大饥荒中饿死了9000多万民众而政权无恙的原因。胆小、懦弱、奴性，让广大百姓没有人性的存在，只有动物性的存在！<br></div>
+是上海市崇明岛。<div class="rsshub-quote"><br><br>量子跃迁: 我看着这些面对自己亲人堆积如山的尸体仍默默忍耐的民众，我深刻理解了为什么中共在三年大饥荒中饿死了9000多万民众而政权无恙的原因。胆小、懦弱、奴性，让广大百姓没有人性的存在，只有动物性的存在！<br> <a href="https://twitter.com/jacklee7281/status/1614717528160305154" target="_blank" rel="noopener noreferrer">https://twitter.com/jacklee7281/status/1614717528160305154</a></div>
 
 ### 19: [2023-01-18 08:02:19+08:00 推文](https://twitter.com/realcaixia/status/1615499790443331584)
 
@@ -94,4 +94,8 @@ Re @liangziyueqian1 一篇具有历史洞察力的好文章！请问可以给网
 ### 20: [2023-01-18 10:17:45+08:00 推文](https://twitter.com/realcaixia/status/1615533872929996800)
 
 Re @reallijiakun @liangziyueqian1 谢谢你对我的书感兴趣🙏。美国国家图书馆收有我的这本书，现在我自己手头没有。这本书是四川出版社2002年出版的，扫描是否涉及版权问题，我也不清楚，请和四川出版社联系。
+
+### 21: [2023-01-19 03:10:59+08:00 推文](https://twitter.com/realcaixia/status/1615788861409345562)
+
+特别推荐：#议报发布李承鹏先生文章：父亲是世上最不堪的斗士 <br>这篇文章写出了1949年以来，几代生活在中国承当父亲重任的男人的辛酸、窘迫与不堪，他们活在压力山大中。然而所有的苦、所有的难，他们自己默默咽下，总给家人给世人一张坚毅、沉稳、淡然处之的脸。令人心酸心碎 <a href="https://yibaochina.com/?p=249124" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=249124</a>
 
