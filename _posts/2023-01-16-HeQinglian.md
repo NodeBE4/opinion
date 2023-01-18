@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-01-17
+date: 2023-01-18
 from: https://twitter.com/HeQinglian/status/1614693015112630272
 layout: post
 tags:
@@ -94,4 +94,24 @@ Re @fading_you1 这事情，我是这样推断：<br>按照前两年每年死100
 ### 20: [2023-01-17 22:13:25+08:00 推文](https://twitter.com/HeQinglian/status/1615351588360704002)
 
 Re @eGUAbe2V7j26GHw 车每个月要开出去溜一圈。
+
+### 21: [2023-01-18 08:50:02+08:00 推文](https://twitter.com/HeQinglian/status/1615511799457275904)
+
+世界产业链大分离：“中国”与“非中国”<br><br>这波世界产业链“去中国化”的原因，表面上被认为是疫情和人工费高涨，但更深层的原因在于中美对立，比如苹果公司的考量就是如此（2021年，中国产量约占苹果iPhone产量的95％）。通过芯片法案，美国重塑国家创新生态系统。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01172023110212.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01172023110212.html</a>
+
+### 22: [2023-01-18 08:58:53+08:00 推文](https://twitter.com/HeQinglian/status/1615514026355658752)
+
+Re @shenliangqing2 @JianglinLi @fading_you1 2020年至2021年1月，为了让川普无法领导美国人抗疫，必须夸大疫情危害，所有死者一律登记为新冠，凡登记者可领5000美元联邦补助。<br>2021年1月拜登登基之后，这做法没有明宣废除，但应该不这样计算了。虽然每天6-8万的新冠传染者，死亡极少。应该是归口计算了。
+
+### 23: [2023-01-18 10:21:12+08:00 推文](https://twitter.com/HeQinglian/status/1615534744053379072)
+
+Re @JianglinLi @HongfuDing @ngexp 如今有些事情，中美很相似。这种双标，当真应了中国那句话：不管你信不信，就看你服不服。
+
+### 24: [2023-01-18 10:33:31+08:00 推文](https://twitter.com/HeQinglian/status/1615537844155740160)
+
+Re @Lucs24659702 这个全球协作村，共有多少国政府领导人参加并表态？如果只有西方40来个国家参与，那就是西方的大重置。
+
+### 25: [2023-01-18 10:39:31+08:00 推文](https://twitter.com/HeQinglian/status/1615539354209755137)
+
+“现在承认他的疫苗从未阻止传播，但无论如何都证明了强制执行的正当性。”<br>——1984大洋国的真理。<div class="rsshub-quote"><br><br>Lucs: Avi Yemini：“我今天在进入世界经济论坛时遇到了阿斯利康的老板马克，现在承认他的疫苗从未阻止传播，但无论如何都证明了强制执行的正当性。<br><br> 我还没来得及问起最近“猝死”的上升情况，他就匆匆忙忙地跑到了禁区后面。<br><br><video src="https://video.twimg.com/ext_tw_video/1615444058167734272/pu/vid/640x360/X4cVgTmhIQtJmq0k.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1615444058167734272/pu/img/poWWziA-ixlMyJnp.jpg"></video></div>
 
