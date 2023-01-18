@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-01-18
+date: 2023-01-19
 from: https://twitter.com/HeQinglian/status/1614693015112630272
 layout: post
 tags:
@@ -174,4 +174,12 @@ Re @fading_you1 芝加哥三大宝：<br>1、每天都发生的黑人枪击、�
 ### 40: [2023-01-18 23:45:35+08:00 推文](https://twitter.com/HeQinglian/status/1615737174078496769)
 
 Re @Jingfengtang1 圣经如果万能，美国信教者不会迅速减少。
+
+### 41: [2023-01-19 02:02:16+08:00 推文](https://twitter.com/HeQinglian/status/1615771570659627009)
+
+Re @lydia488144315 @fading_you1 退休人士，除了我这种自由写作者，凡属要上班的，基本会有一段时期不适应。<br>尤其是在权力机构、社会声望较高的机构、掌握资源分析的机构工作，又是部门负责人，基本会如此——不完全是因为感觉世界离了他们就不转了，而是社会肯定、社会承认等消失后的不适应感。
+
+### 42: [2023-01-19 02:07:02+08:00 推文](https://twitter.com/HeQinglian/status/1615772768599175169)
+
+Re @RalphBei 白人确实成为一个种族了，CRT理论批判白人种族主义至上的白人，包括盎格鲁撒克逊人、日耳曼人、高卢人、爱尔兰人、苏格兰人、北欧人。
 
