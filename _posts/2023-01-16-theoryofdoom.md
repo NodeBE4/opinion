@@ -57,9 +57,21 @@ To use a food analogy . . . Gibson's may be objectively better than In-N-Out.  B
 
 Another analogy.  Grindr is like going to the fridge.  You know what's in there but sometimes just look to confirm nothing new has found its way in.  Novelty is itself attractive.
 
-### 446: [Welcome to 2030. I own nothing, have no privacy, and life has never been better](https://old.reddit.com/r/DarkFuturology/comments/10eugpx/welcome_to_2030_i_own_nothing_have_no_privacy_and/), submitted on 2023-01-18 09:46:29+08:00.
+### 446: [What’s your issue with the word “queer”?](https://old.reddit.com/r/askgaybros/comments/10ei224/whats_your_issue_with_the_word_queer/), submitted on 2023-01-18 01:33:30+08:00.
 
------ __446.1__ -----2023-01-18 13:51:52+08:00:
+----- __446.1__ -----2023-01-18 14:42:48+08:00:
+
+Women (usually millennial, white and heterrosexual) describe themselves as "queer" to psychologically rationalize why they're in their mid-30s, single and have never held a stable relationship.  Having failed to improve their lives by changing their outfits, might as well try their professed "gender identity."  Doing this also has the additional benefit of putting the world on notice of why it revolves around such a person.
+
+----- __446.2__ -----2023-01-18 14:45:35+08:00:
+
+> I like specificity,
+
+The word "queer" used in the context described by the OP means everything and nothing, at once.  Which is very much the point.  It's a way of adopting some kind of ostensibly disenfranchised identity, often as a pretext to find new and creative ways to be a Karen (read: insufferable bitch).
+
+### 447: [Welcome to 2030. I own nothing, have no privacy, and life has never been better](https://old.reddit.com/r/DarkFuturology/comments/10eugpx/welcome_to_2030_i_own_nothing_have_no_privacy_and/), submitted on 2023-01-18 09:46:29+08:00.
+
+----- __447.1__ -----2023-01-18 13:51:52+08:00:
 
 Славься, Отечество наше свободное, Дружбы народов надёжный оплот!  Партия Ленина - сила народная.  Нас к торжеству коммунизма ведёт!
 
