@@ -37,7 +37,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FmjiESzaEAA3wwu?format=jpg
 
 ### 6: [2023-01-17 03:36:53+08:00 推文](https://twitter.com/realcaixia/status/1615070606256640000)
 
-平民在中国活得很不容易，做父亲的更是压力山大。李承鹏先生这篇文章说到了父亲的奋斗、困窘与不堪。令人心酸至极。父爱如山！<div class="rsshub-quote"><br><br>李承鹏（真正的大眼哥）: 中国的父亲跟全世界的父亲有些不同，他们牺牲尊严来养活家庭，比如违章小贩夏俊峰，这个父亲只是想让儿子学画，才上街摆摊，可巨大的城市竟容不下一个烧烤摊，被城管毒打、踢裆，他奋起反击最终竟逼至杀人。想象瘦小的夏俊峰挥刀刺向身形高大的城管时，蚍蚨撼树，内心该多悲凉。<br> <a href="https://twitter.com/dayangelcp/status/1614874075645767685" target="_blank" rel="noopener noreferrer">https://twitter.com/dayangelcp/status/1614874075645767685</a></div>
+平民在中国活得很不容易，做父亲的更是压力山大。李承鹏先生这篇文章说到了父亲的奋斗、困窘与不堪。令人心酸至极。父爱如山！<div class="rsshub-quote"><br><br>李承鹏（真正的大眼哥）: 中国的父亲跟全世界的父亲有些不同，他们牺牲尊严来养活家庭，比如违章小贩夏俊峰，这个父亲只是想让儿子学画，才上街摆摊，可巨大的城市竟容不下一个烧烤摊，被城管毒打、踢裆，他奋起反击最终竟逼至杀人。想象瘦小的夏俊峰挥刀刺向身形高大的城管时，蚍蚨撼树，内心该多悲凉。<br></div>
 
 ### 7: [2023-01-17 03:43:17+08:00 推文](https://twitter.com/realcaixia/status/1615072213987889153)
 
@@ -78,4 +78,16 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FmsHud-agAAIUi8?format=jpg
 ### 16: [2023-01-18 05:49:32+08:00 推文](https://twitter.com/realcaixia/status/1615466374146424832)
 
 特别推荐：<br><br>【議想天開】人礦 | 我撫摸我的所有面龐 - 议报 <a href="https://yibaochina.com/?p=249114" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=249114</a>
+
+### 17: [2023-01-18 07:30:03+08:00 推文](https://twitter.com/realcaixia/status/1615491669494833160)
+
+这篇文章很有份量。推荐。<br>当初朱镕基税制改革叫“分灶吃饭”，地方有稳定税收办地方的事。当习上来搞地税国税合一，地方的事要办但没钱难处多多。地方必加大对中央的依附，同时必另寻生财之道。各地都设城投集团搜刮民众钱财。国库被习大撒币搞核酸清零，已经空虚兜不了底，地方没钱还债必将民怨沸腾。<div class="rsshub-quote"><br><br>量子跃迁: 原创：旧秩序的瓦解初见端倪！<br><br><img style="" src="https://pbs.twimg.com/media/FmsLNGhWAAkpOOj?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FmsLN5VWABUhabh?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FmsLOTMWAAI1MXR?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FmsLOtwWABkwF1f?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 18: [2023-01-18 07:59:41+08:00 推文](https://twitter.com/realcaixia/status/1615499130557665281)
+
+是上海市崇明岛。<div class="rsshub-quote"><br><br>量子跃迁: 我看着这些面对自己亲人堆积如山的尸体仍默默忍耐的民众，我深刻理解了为什么中共在三年大饥荒中饿死了9000多万民众而政权无恙的原因。胆小、懦弱、奴性，让广大百姓没有人性的存在，只有动物性的存在！<br> <a href="https://twitter.com/jacklee7281/status/1614717528160305154" target="_blank" rel="noopener noreferrer">https://twitter.com/jacklee7281/status/1614717528160305154</a></div>
+
+### 19: [2023-01-18 08:02:19+08:00 推文](https://twitter.com/realcaixia/status/1615499790443331584)
+
+Re @liangziyueqian1 一篇具有历史洞察力的好文章！请问可以给网刊转发吗？
 
