@@ -115,3 +115,15 @@ Re @Lucs24659702 这个全球协作村，共有多少国政府领导人参加并
 
 “现在承认他的疫苗从未阻止传播，但无论如何都证明了强制执行的正当性。”<br>——1984大洋国的真理。<div class="rsshub-quote"><br><br>Lucs: Avi Yemini：“我今天在进入世界经济论坛时遇到了阿斯利康的老板马克，现在承认他的疫苗从未阻止传播，但无论如何都证明了强制执行的正当性。<br><br> 我还没来得及问起最近“猝死”的上升情况，他就匆匆忙忙地跑到了禁区后面。<br><br><video src="https://video.twimg.com/ext_tw_video/1615444058167734272/pu/vid/640x360/X4cVgTmhIQtJmq0k.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1615444058167734272/pu/img/poWWziA-ixlMyJnp.jpg"></video></div>
 
+### 26: [2023-01-18 10:57:02+08:00 推文](https://twitter.com/HeQinglian/status/1615543758375854084)
+
+看了这三篇报道，有慧根者应该明白中国的国际处境（尤其是舆论处境）由谁决定：<br>达沃斯世界经济论坛参会者看好中国重新开放后的前景<br><br>社评：中国始终是达沃斯精神的同路人<br>“当心！中国经济将起飞，中国人不一定想推翻习近平” <a href="https://cn.wsj.com/articles/%E8%BE%BE%E6%B2%83%E6%96%AF%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E%E8%AE%BA%E5%9D%9B%E5%8F%82%E4%BC%9A%E8%80%85%E7%9C%8B%E5%A5%BD%E4%B8%AD%E5%9B%BD%E9%87%8D%E6%96%B0%E5%BC%80%E6%94%BE%E5%90%8E%E7%9A%84%E5%89%8D%E6%99%AF-11674001806" target="_blank" rel="noopener noreferrer">https://cn.wsj.com/articles/%E8%BE%BE%E6%B2%83%E6%96%AF%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E%E8%AE%BA%E5%9D%9B%E5%8F%82%E4%BC%9A%E8%80%85%E7%9C%8B%E5%A5%BD%E4%B8%AD%E5%9B%BD%E9%87%8D%E6%96%B0%E5%BC%80%E6%94%BE%E5%90%8E%E7%9A%84%E5%89%8D%E6%99%AF-11674001806</a> <a href="http://china.chinadaily.com.cn/a/202301/16/WS63c5177ba3102ada8b22b87f.html" target="_blank" rel="noopener noreferrer">http://china.chinadaily.com.cn/a/202301/16/WS63c5177ba3102ada8b22b87f.html</a> <a href="https://rfi.my/94tA.T" target="_blank" rel="noopener noreferrer">https://rfi.my/94tA.T</a>
+
+### 27: [2023-01-18 11:04:08+08:00 推文](https://twitter.com/HeQinglian/status/1615545547661656065)
+
+Re @tanma21 @JianglinLi @wuyuesanren 🙏<br>有点意思。
+
+### 28: [2023-01-18 11:12:10+08:00 推文](https://twitter.com/HeQinglian/status/1615547567953133573)
+
+“当心！中国经济将起飞，中国人不一定想推翻习近平” <a href="https://rfi.my/94tA.T" target="_blank" rel="noopener noreferrer">https://rfi.my/94tA.T</a>
+
