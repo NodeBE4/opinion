@@ -37,7 +37,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FmjiESzaEAA3wwu?format=jpg
 
 ### 6: [2023-01-17 03:36:53+08:00 推文](https://twitter.com/realcaixia/status/1615070606256640000)
 
-平民在中国活得很不容易，做父亲的更是压力山大。李承鹏先生这篇文章说到了父亲的奋斗、困窘与不堪。令人心酸至极。父爱如山！<div class="rsshub-quote"><br><br>李承鹏（真正的大眼哥）: 中国的父亲跟全世界的父亲有些不同，他们牺牲尊严来养活家庭，比如违章小贩夏俊峰，这个父亲只是想让儿子学画，才上街摆摊，可巨大的城市竟容不下一个烧烤摊，被城管毒打、踢裆，他奋起反击最终竟逼至杀人。想象瘦小的夏俊峰挥刀刺向身形高大的城管时，蚍蚨撼树，内心该多悲凉。<br> <a href="https://twitter.com/dayangelcp/status/1614874075645767685" target="_blank" rel="noopener noreferrer">https://twitter.com/dayangelcp/status/1614874075645767685</a></div>
+平民在中国活得很不容易，做父亲的更是压力山大。李承鹏先生这篇文章说到了父亲的奋斗、困窘与不堪。令人心酸至极。父爱如山！<div class="rsshub-quote"><br><br>李承鹏（真正的大眼哥）: 中国的父亲跟全世界的父亲有些不同，他们牺牲尊严来养活家庭，比如违章小贩夏俊峰，这个父亲只是想让儿子学画，才上街摆摊，可巨大的城市竟容不下一个烧烤摊，被城管毒打、踢裆，他奋起反击最终竟逼至杀人。想象瘦小的夏俊峰挥刀刺向身形高大的城管时，蚍蚨撼树，内心该多悲凉。<br></div>
 
 ### 7: [2023-01-17 03:43:17+08:00 推文](https://twitter.com/realcaixia/status/1615072213987889153)
 
@@ -85,7 +85,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FmsHud-agAAIUi8?format=jpg
 
 ### 18: [2023-01-18 07:59:41+08:00 推文](https://twitter.com/realcaixia/status/1615499130557665281)
 
-是上海市崇明岛。<div class="rsshub-quote"><br><br>量子跃迁: 我看着这些面对自己亲人堆积如山的尸体仍默默忍耐的民众，我深刻理解了为什么中共在三年大饥荒中饿死了9000多万民众而政权无恙的原因。胆小、懦弱、奴性，让广大百姓没有人性的存在，只有动物性的存在！<br> <a href="https://twitter.com/jacklee7281/status/1614717528160305154" target="_blank" rel="noopener noreferrer">https://twitter.com/jacklee7281/status/1614717528160305154</a></div>
+是上海市崇明岛。<div class="rsshub-quote"><br><br>量子跃迁: 我看着这些面对自己亲人堆积如山的尸体仍默默忍耐的民众，我深刻理解了为什么中共在三年大饥荒中饿死了9000多万民众而政权无恙的原因。胆小、懦弱、奴性，让广大百姓没有人性的存在，只有动物性的存在！<br></div>
 
 ### 19: [2023-01-18 08:02:19+08:00 推文](https://twitter.com/realcaixia/status/1615499790443331584)
 
@@ -98,4 +98,24 @@ Re @reallijiakun @liangziyueqian1 谢谢你对我的书感兴趣🙏。美国国
 ### 21: [2023-01-19 03:10:59+08:00 推文](https://twitter.com/realcaixia/status/1615788861409345562)
 
 特别推荐：#议报发布李承鹏先生文章：父亲是世上最不堪的斗士 <br>这篇文章写出了1949年以来，几代生活在中国承当父亲重任的男人的辛酸、窘迫与不堪，他们活在压力山大中。然而所有的苦、所有的难，他们自己默默咽下，总给家人给世人一张坚毅、沉稳、淡然处之的脸。令人心酸心碎 <a href="https://yibaochina.com/?p=249124" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=249124</a>
+
+### 22: [2023-01-19 04:39:24+08:00 推文](https://twitter.com/realcaixia/status/1615811115610673152)
+
+Re @ErR7YLP9yZf4Yem 中共9000多万内是有分化的，并非铁板一块。中共内部有明白人，希望其垮台；有不满现状，但还没到内心与中共决裂的程度；有仅反对习反对现行政策而不反对现行体制的；还有依旧对习抱幻想，以为他在下一盘大棋”的人。<br>尽可能争取体制内外更多的人一起努力，寻求最大公约数，共同推进政治变革，才是正道。
+
+### 23: [2023-01-19 04:42:22+08:00 推文](https://twitter.com/realcaixia/status/1615811861299204096)
+
+感动。<div class="rsshub-quote"><br><br>韩连潮: 一位癌症患者为做化疗不得不去剃掉长发，而她的理发师做了一件出人意料的事：<br> <a href="https://twitter.com/Brink_Thinker/status/1614983092980121600" target="_blank" rel="noopener noreferrer">https://twitter.com/Brink_Thinker/status/1614983092980121600</a></div>
+
+### 24: [2023-01-19 05:14:11+08:00 推文](https://twitter.com/realcaixia/status/1615819868238131200)
+
+盛洪教授这篇文章系统地分析了，中国政府在三年防疫中的一系列政策做法，不仅给全社会带来的重大伤害，而且是违反宪法与法律的的。<br>文章对政府及其人员的违法，条分缕析地做了细致清晰的陈述。非常值得细读。<div class="rsshub-quote"><br><br>Sheng Hong: [横议] 三年教训，以直报怨｜盛洪<br> <a href="http://five-woods.com/2023/01/18/%e6%a8%aa%e8%ae%ae-%e4%b8%89%e5%b9%b4%e6%95%99%e8%ae%ad%ef%bc%8c%e4%bb%a5%e7%9b%b4%e6%8a%a5%e6%80%a8%ef%bd%9c%e7%9b%9b%e6%b4%aa/" target="_blank" rel="noopener noreferrer">http://five-woods.com/2023/01/18/%e6%a8%aa%e8%ae%ae-%e4%b8%89%e5%b9%b4%e6%95%99%e8%ae%ad%ef%bc%8c%e4%bb%a5%e7%9b%b4%e6%8a%a5%e6%80%a8%ef%bd%9c%e7%9b%9b%e6%b4%aa/</a></div>
+
+### 25: [2023-01-19 05:29:20+08:00 推文](https://twitter.com/realcaixia/status/1615823678914334721)
+
+不要忘了周强当最高法院长期间，最高法批准对夏俊峰执行死刑，当时全国网友联合呼吁刀下留人，给贫民一个艰难生存的机会，那天我整夜盯着网上信息，第二天早上依然是夏俊峰被执行死刑！<br>不要忘了周强去最高法院之前的两年内，最高法都没核准对曾成杰死刑判决，周强去后三个月即核准了曾死刑！<div class="rsshub-quote"><br><br>中日政经评论: 春华和周强果然携手进入政协了。这对他们个人未必不是一件好事，提心吊胆战战兢兢的日子还不如舒服的副国级退休生活。对中国的政治，却未必是好事，他俩是团派最后的希望，就这样走入了政坛的角落。从此以后，中国再无团派。中国的政坛，也从此走入一个没有博弈和制约的强人时代。<br></div>
+
+### 26: [2023-01-19 06:29:16+08:00 推文](https://twitter.com/realcaixia/status/1615838762914975744)
+
+议报发布的这篇文章是触及到人的思想方法和思维方式的很深层次的思考，非常值得阅读并思考文中所提出的问题。<div class="rsshub-quote"><br><br>楊建利 Jianli (Doc) Yang: 周濂 | 奥威尔说，思维的浅陋让我们的语言变得粗俗而有失准确 <br>议报<br><br>我看《意志的胜利》，总会想起奥威尔另外一句话，他说：“正步走是世界上最为恐怖的景象之一，甚至比俯冲轰炸机更令人感到恐怖，这是一个赤裸裸的权力的宣言、、、<br> <a href="https://yibaochina.com/?p=249128" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=249128</a></div>
 

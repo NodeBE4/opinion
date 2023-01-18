@@ -457,7 +457,7 @@ Re @david_david1968 既然有这等好事，赶紧通知北约秘书长，让他
 
 ### 111: [2022-09-24 05:44:14+08:00 推文](https://twitter.com/HeQinglian/status/1573428049844269056)
 
-8月瑞士信贷Zoltan Polzsar发表了一篇极其重要的文章<br>War and Industrial Policy，War means industry<br><br>深刻分析了现有世界秩序的崩坏本质以及美国和西方将要采取的应对策略。这是Zoltan Polzsar关于布雷顿森林体系3不断建构的著作的一部分。<br>中译文： <a href="https://www.interest.co.nz/sites/default/files/2022-09/War%20%26%20industrial%20policy.pdf?utm_source=substack&amp;utm_medium=email" target="_blank" rel="noopener noreferrer">https://www.interest.co.nz/sites/default/files/2022-09/War%20%26%20industrial%20policy.pdf?utm_source=substack&amp;utm_medium=email</a> <a href="https://posts.careerengine.us/p/632330c92e41a8309427bdef?from=latest-posts-panel&amp;type=title" target="_blank" rel="noopener noreferrer">https://posts.careerengine.us/p/632330c92e41a8309427bdef?from=latest-posts-panel&amp;type=title</a>
+RT He Qinglian<br>8月瑞士信贷Zoltan Polzsar发表了一篇极其重要的文章<br>War and Industrial Policy，War means industry<br><br>深刻分析了现有世界秩序的崩坏本质以及美国和西方将要采取的应对策略。这是Zoltan Polzsar关于布雷顿森林体系3不断建构的著作的一部分。<br>中译文： <a href="https://www.interest.co.nz/sites/default/files/2022-09/War%20%26%20industrial%20policy.pdf?utm_source=substack&amp;utm_medium=email" target="_blank" rel="noopener noreferrer">https://www.interest.co.nz/sites/default/files/2022-09/War%20%26%20industrial%20policy.pdf?utm_source=substack&amp;utm_medium=email</a> <a href="https://posts.careerengine.us/p/632330c92e41a8309427bdef?from=latest-posts-panel&amp;type=title" target="_blank" rel="noopener noreferrer">https://posts.careerengine.us/p/632330c92e41a8309427bdef?from=latest-posts-panel&amp;type=title</a>
 
 ### 112: [2022-09-24 05:45:32+08:00 推文](https://twitter.com/HeQinglian/status/1573428376911634435)
 

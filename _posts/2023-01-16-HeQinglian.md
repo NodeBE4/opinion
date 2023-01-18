@@ -175,11 +175,39 @@ Re @fading_you1 芝加哥三大宝：<br>1、每天都发生的黑人枪击、�
 
 Re @Jingfengtang1 圣经如果万能，美国信教者不会迅速减少。
 
-### 41: [2023-01-19 02:02:16+08:00 推文](https://twitter.com/HeQinglian/status/1615771570659627009)
+### 41: [2023-01-18 23:47:10+08:00 推文](https://twitter.com/Lucs24659702/status/1615737571300212736)
+
+RT Lucs<br>最新消息 - 全球气候欺诈：据报道，Netflix、迪士尼、Gucci、壳牌、拜耳、SAP 和其他公司从全球领先的供应商 Verra 购买了毫无价值的二氧化碳证书。<br><br> Zeit 评估的研究数据表明，所分析项目中超过 90% 的二氧化碳证书毫无价值：“垃圾泡沫”。 <a href="https://www.zeit.de/2023/04/co2-zertifikate-betrug-emissionshandel-klimaschutz" target="_blank" rel="noopener noreferrer">https://www.zeit.de/2023/04/co2-zertifikate-betrug-emissionshandel-klimaschutz</a>
+
+### 42: [2023-01-19 02:02:16+08:00 推文](https://twitter.com/HeQinglian/status/1615771570659627009)
 
 Re @lydia488144315 @fading_you1 退休人士，除了我这种自由写作者，凡属要上班的，基本会有一段时期不适应。<br>尤其是在权力机构、社会声望较高的机构、掌握资源分析的机构工作，又是部门负责人，基本会如此——不完全是因为感觉世界离了他们就不转了，而是社会肯定、社会承认等消失后的不适应感。
 
-### 42: [2023-01-19 02:07:02+08:00 推文](https://twitter.com/HeQinglian/status/1615772768599175169)
+### 43: [2023-01-19 02:07:02+08:00 推文](https://twitter.com/HeQinglian/status/1615772768599175169)
 
 Re @RalphBei 白人确实成为一个种族了，CRT理论批判白人种族主义至上的白人，包括盎格鲁撒克逊人、日耳曼人、高卢人、爱尔兰人、苏格兰人、北欧人。
+
+### 44: [2023-01-19 04:52:24+08:00 推文](https://twitter.com/HeQinglian/status/1615814383510163472)
+
+Re @farmdirect8 Hoza<br>@HozaHozashop<br>这个推号经常介绍各种小技巧，似乎几个月前看到教人如何修复破损的地板，你查查看。
+
+### 45: [2023-01-19 05:02:36+08:00 推文](https://twitter.com/HeQinglian/status/1615816951208579072)
+
+Re @RalphBei 可惜，CRT没将他们包括在内，因为信仰的宗教不同。
+
+### 46: [2023-01-19 05:24:27+08:00 推文](https://twitter.com/HeQinglian/status/1615822449618075648)
+
+Re @realJackLaw 利益冲突，国际地位之争，国家利益之争都包含在内。<br>1、美国左派早就放弃基督教了，连圣诞这个词都成为奥、希忌讳。<br>2、制度冲突如果为真，民主党的颜色革命就不应该发生。<br>每有利益冲突，就寻找各种解释。
+
+### 47: [2023-01-19 05:25:03+08:00 推文](https://twitter.com/HeQinglian/status/1615822603670757386)
+
+Re @GhanwarAli 去看文章，还有，请去访问这些人。或者看他们的回忆录，很多。
+
+### 48: [2023-01-19 05:27:02+08:00 推文](https://twitter.com/HeQinglian/status/1615823100326682638)
+
+Re @farmdirect8 @HozaHozashop 刚才还看到，难道我复制错了？再出现，我给你发过去。
+
+### 49: [2023-01-19 05:30:27+08:00 推文](https://twitter.com/HeQinglian/status/1615823958850379807)
+
+Re @farmdirect8 @HozaHozashop <br>看一下这个。别急着补，我是真看见过，只是我家家具没这类油漆，没存下来。 <a href="https://www.bilibili.com/video/BV1U4411T7Md/" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/video/BV1U4411T7Md/</a>
 

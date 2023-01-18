@@ -297,7 +297,7 @@ I mean, South China is a pretty big region with a lot of variation. Cantonese, F
 
 (For those lacking prior context, see [this](https://reddit.com/r/HobbyDrama/comments/xhiwtl/hobby_scuffles_week_of_september_19_2022/ip68xpv/?context=999)).
 
-Reading the Marble Machine X subreddit is fascinating; I don't think I've ever seen Reddit posts so consistently 'ratioed'. Every new upload there's a few dozen comments and it's just the same few competing opinions over and over within a general air of bewilderment:
+Reading the Marble Machine X subreddit is fascinating; I don't think I've ever seen Reddit posts so consistently 'ratioed'. Every new upload there's half a dozen upvotes and a few dozen comments and it's just the same few competing opinions over and over within a general air of bewilderment:
 
 * Martin has lost the plot and isn't going to have a finished machine;
 * Martin is going to have a finished machine but it won't be what anyone actually wants; or
