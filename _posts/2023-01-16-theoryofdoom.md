@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2023-01-17
+date: 2023-01-18
 from: https://old.reddit.com/r/stupidpol/comments/10cvuh9/it_turns_out_hillary_clinton_not_russian_bots/
 layout: post
 tags:
@@ -56,4 +56,14 @@ Bad dental hygiene.
 To use a food analogy . . . Gibson's may be objectively better than In-N-Out.  But In-N-Out . . . in Chicago?  It's going to get attention. 
 
 Another analogy.  Grindr is like going to the fridge.  You know what's in there but sometimes just look to confirm nothing new has found its way in.  Novelty is itself attractive.
+
+### 446: [Welcome to 2030. I own nothing, have no privacy, and life has never been better](https://old.reddit.com/r/DarkFuturology/comments/10eugpx/welcome_to_2030_i_own_nothing_have_no_privacy_and/), submitted on 2023-01-18 09:46:29+08:00.
+
+----- __446.1__ -----2023-01-18 13:51:52+08:00:
+
+Славься, Отечество наше свободное, Дружбы народов надёжный оплот!  Партия Ленина - сила народная.  Нас к торжеству коммунизма ведёт!
+
+Except not [ironically](https://www.youtube.com/watch?v=U06jlgpMtQs&ab_channel=rascrifice).
+
+If only stupid ideas like this hadn't been tried before.
 
