@@ -189,7 +189,7 @@ RT Jonathan Cheng<br>"While China’s central bank has repeatedly encouraged C
 
 ### 44: [2022-10-18 16:14:33+08:00 推文](https://twitter.com/cnmediaproject/status/1582283983936966658)
 
-A reminder in the digital age of keyword blocks and 404 messages of just how elementary the control of ideas can be.<br><br>Chenchen Zhang 🤦🏻‍♀️: no more self-service printing in Tsinghua print shops. "make sure every print &amp; photocopy page is inspected by staff".<br>one can destroy all the printers in the world but ideas don't die. they may be suppressed but they won't die which why power finds it so threatening<br> <a href="https://twitter.com/abnersheng/status/1581872470755135488" target="_blank" rel="noopener noreferrer">https://twitter.com/abnersheng/status/1581872470755135488</a>
+A reminder in the digital age of keyword blocks and 404 messages of just how elementary the control of ideas can be.<br><br>Chenchen Zhang 🤦🏻‍♀️: no more self-service printing in Tsinghua print shops. "make sure every print &amp; photocopy page is inspected by staff".<br>one can destroy all the printers in the world but ideas don't die. they may be suppressed but they won't die which why power finds it so threatening<br>
 
 ### 45: [2022-10-18 16:15:50+08:00 推文](https://twitter.com/puzhiqiang/status/1582284306721800193)
 
@@ -241,7 +241,7 @@ RT Bill Bishop<br>Shanghai will build an isolation facility that can house tho
 
 ### 57: [2022-10-20 13:59:14+08:00 推文](https://twitter.com/cnmediaproject/status/1582974702846636032)
 
-A revealing case dealt with in greater detail in the new ASPI report that is well worth a read. The tactic of what we call "cloaking" at CMP (hiding clear associations with state media and agencies to make interactions seem real and organic) is actually many decades old.<br><br>Nerys Avery: Fascinating thread and exposé<br>
+A revealing case dealt with in greater detail in the new ASPI report that is well worth a read. The tactic of what we call "cloaking" at CMP (hiding clear associations with state media and agencies to make interactions seem real and organic) is actually many decades old.<br><br>Nerys Avery: Fascinating thread and exposé<br> <a href="https://twitter.com/fryan/status/1582960014053949440" target="_blank" rel="noopener noreferrer">https://twitter.com/fryan/status/1582960014053949440</a>
 
 ### 58: [2022-10-21 15:21:13+08:00 推文](https://twitter.com/cnmediaproject/status/1583357722388746240)
 
@@ -289,7 +289,7 @@ Re @BeatriceGallel1 That's right. We wrote about that here: <a href="https://c
 
 ### 69: [2022-10-22 03:26:45+08:00 推文](https://twitter.com/niubi/status/1583540310948204544)
 
-RT Bill Bishop<br>An Quanzhong owns the Parc hotel, which he will likely be forced to forfeit now. Guy clearly a flight risk, bail likely will be denied.<br><img style="" src="https://pbs.twimg.com/media/FfndhIpXgBAm2l3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><br>Bill Bishop: The indictment is fascinating. Some highlights. FBI should put mob investigators on these cases<br><br><img style="" src="https://pbs.twimg.com/media/FfncwyHXgAoEFsY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfncwyAXgBQZa_B?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfncwyBXgAUU2ow?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfncwyiagAEuYJU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT Bill Bishop<br>An Quanzhong owns the Parc hotel, which he will likely be forced to forfeit now. Guy clearly a flight risk, bail likely will be denied.<br><img style="" src="https://pbs.twimg.com/media/FfndhIpXgBAm2l3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><br>Bill Bishop: The indictment is fascinating. Some highlights. FBI should put mob investigators on these cases<br><br><img style="" src="https://pbs.twimg.com/media/FfncwyHXgAoEFsY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfncwyAXgBQZa_B?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfncwyBXgAUU2ow?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfncwyiagAEuYJU?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/niubi/status/1583527512868409344" target="_blank" rel="noopener noreferrer">https://twitter.com/niubi/status/1583527512868409344</a>
 
 ### 70: [2022-10-22 06:48:45+08:00 推文](https://twitter.com/cnmediaproject/status/1583591146466340864)
 
