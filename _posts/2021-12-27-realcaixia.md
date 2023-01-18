@@ -29,11 +29,11 @@ title: 'Twitter @蔡霞: 2021-12-27~2022-01-02'
 
 ### 4: [2021-12-29 12:54:32+08:00 推文](https://twitter.com/realcaixia/status/1476054000898383873)
 
-每日一推，呼吁无罪释放长沙公益仨。<br><br>施明磊 #释放长沙公益仨: #每日一推要求程渊和吴葛健雄的家属探视权12月28日 第18推）<br>小吴在的衡州监狱来电话了，说你们没有亲属关系，拒绝我们要求吴葛健雄家属探视权的投诉。<br><br>根据监狱法四十八条规定，#程渊、#吴葛健雄 享有亲属会见的权利。<br><br>衡州监狱，你们在违法懂不懂？<br><br>@湖南司法厅厅长范运田，监狱管理局局长钟艺兵<br><br><img style="" src="https://pbs.twimg.com/media/FHtweDUWYAAUzht?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHtweDRWYAQV-wJ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHtweD6X0AY4o3E?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHtweD-XEAEjTWP?format=jpg&name=orig" referrerpolicy="no-referrer">
+每日一推，呼吁无罪释放长沙公益仨。<br><br>施明磊 #释放长沙公益仨: #每日一推要求程渊和吴葛健雄的家属探视权12月28日 第18推）<br>小吴在的衡州监狱来电话了，说你们没有亲属关系，拒绝我们要求吴葛健雄家属探视权的投诉。<br><br>根据监狱法四十八条规定，#程渊、#吴葛健雄 享有亲属会见的权利。<br><br>衡州监狱，你们在违法懂不懂？<br><br>@湖南司法厅厅长范运田，监狱管理局局长钟艺兵<br><br><img style src="https://pbs.twimg.com/media/FHtweDUWYAAUzht?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHtweDRWYAQV-wJ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHtweD6X0AY4o3E?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHtweD-XEAEjTWP?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2021-12-30 00:39:20+08:00 推文](https://twitter.com/realcaixia/status/1476231371718803461)
 
-造假与谎言蒙人，是极权意识形态的一贯手法，。这样的胡编乱造，是下面人某种半躺平半糊弄的干法。<br><br>浩哥i✝️i🇺🇸iA2: 故事编得太潦草😩<br><br><img style src="https://pbs.twimg.com/media/FHtTHKyXsAAte2Q?format=jpg&name=orig" referrerpolicy="no-referrer">
+造假与谎言蒙人，是极权意识形态的一贯手法，。这样的胡编乱造，是下面人某种半躺平半糊弄的干法。<br><br>浩哥i✝️i🇺🇸iA2: 故事编得太潦草😩<br><br><img style="" src="https://pbs.twimg.com/media/FHtTHKyXsAAte2Q?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2021-12-30 03:29:31+08:00 推文](https://twitter.com/realcaixia/status/1476274199429881857)
 
@@ -41,7 +41,7 @@ title: 'Twitter @蔡霞: 2021-12-27~2022-01-02'
 
 ### 7: [2021-12-30 03:33:22+08:00 推文](https://twitter.com/realcaixia/status/1476275167831728130)
 
-民主国家政府抵制冬奥，这是正义之举，应该唤起更多的国家政府共同抵制冬奥会！<br><br>DW 中文- 德国之声: 北京冬季奥运会即将开幕。美国已宣布外交抵制。欧盟尚在寻求共同立场。🇩🇪外交、内政部长已作出个人决定：不去北京。<br>不过她们都强调，此为个人决定，并非外交抵制的政治决策。<br>相关报道：<br><br><img style="" src="https://pbs.twimg.com/media/FHySweXWQAUb0Bt?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://dw.com/p/44xdn" target="_blank" rel="noopener noreferrer">http://dw.com/p/44xdn</a>
+民主国家政府抵制冬奥，这是正义之举，应该唤起更多的国家政府共同抵制冬奥会！<br><br>DW 中文- 德国之声: 北京冬季奥运会即将开幕。美国已宣布外交抵制。欧盟尚在寻求共同立场。🇩🇪外交、内政部长已作出个人决定：不去北京。<br>不过她们都强调，此为个人决定，并非外交抵制的政治决策。<br>相关报道：<br><br><img style src="https://pbs.twimg.com/media/FHySweXWQAUb0Bt?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://dw.com/p/44xdn" target="_blank" rel="noopener noreferrer">http://dw.com/p/44xdn</a>
 
 ### 8: [2021-12-30 20:19:44+08:00 推文](https://twitter.com/realcaixia/status/1476528427725381633)
 
@@ -53,7 +53,7 @@ title: 'Twitter @蔡霞: 2021-12-27~2022-01-02'
 
 ### 10: [2022-01-01 00:16:36+08:00 推文](https://twitter.com/realcaixia/status/1476950427543375872)
 
-八年前，中国海关无理扣留《李锐口述往事》这书，自那起，南央为维护言论与出版自由与中共国海关总署已打了八年官司，并将进入第九年。跟进此事，亦是跟进一种信念，跟进一种精神。<br>南央整理了诸多朋友与她分享的跟进感言发来，读完深为感动并感触良多，特与众推友分享。<br>第四图是我的跟进感言完整篇。<br><img style="" src="https://pbs.twimg.com/media/FH8ukRbWYAEwH_I?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH8ukqBXMAA3bv6?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH8ulAlXsAIBJ3d?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH8ulW4XsAkui3t?format=jpg&name=orig" referrerpolicy="no-referrer">
+八年前，中国海关无理扣留《李锐口述往事》这书，自那起，南央为维护言论与出版自由与中共国海关总署已打了八年官司，并将进入第九年。跟进此事，亦是跟进一种信念，跟进一种精神。<br>南央整理了诸多朋友与她分享的跟进感言发来，读完深为感动并感触良多，特与众推友分享。<br>第四图是我的跟进感言完整篇。<br><img style src="https://pbs.twimg.com/media/FH8ukRbWYAEwH_I?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH8ukqBXMAA3bv6?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH8ulAlXsAIBJ3d?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH8ulW4XsAkui3t?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 11: [2022-01-01 00:46:29+08:00 推文](https://twitter.com/realcaixia/status/1476957947641188361)
 
@@ -101,11 +101,11 @@ Re @ni87107 这本书是香港出版的，估计香港已经买不到了。
 
 ### 22: [2022-01-01 08:20:27+08:00 推文](https://twitter.com/realcaixia/status/1477072189954351107)
 
-武汉病毒疫情至今仍在祸害全球，回顾两年前武汉疫情初期情况，越发明确显示出习当局有意隐瞒真相。这篇文章报道了几个关键点：<br>1，12月29号武汉传染病医院收了9个症状相同病人；<br>2，12月30号病人开始增加，到第二天晚上已经有24个病人；3，12月31号国家级专家到武汉医院；<br>4，1月2号前后事态更为严重。<br><img style src="https://pbs.twimg.com/media/FH-dT3RXoAAEfk3?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH-dUKyXwAEpzk9?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH-dUhpXEAoWHKq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH-dUzVWQAEHjcu?format=jpg&name=orig" referrerpolicy="no-referrer">
+武汉病毒疫情至今仍在祸害全球，回顾两年前武汉疫情初期情况，越发明确显示出习当局有意隐瞒真相。这篇文章报道了几个关键点：<br>1，12月29号武汉传染病医院收了9个症状相同病人；<br>2，12月30号病人开始增加，到第二天晚上已经有24个病人；3，12月31号国家级专家到武汉医院；<br>4，1月2号前后事态更为严重。<br><img style="" src="https://pbs.twimg.com/media/FH-dT3RXoAAEfk3?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH-dUKyXwAEpzk9?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH-dUhpXEAoWHKq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH-dUzVWQAEHjcu?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 23: [2022-01-01 21:58:50+08:00 推文](https://twitter.com/realcaixia/status/1477278143853600769)
 
-盘点经济，王小二过年一年不如一年。<br><br>荣剑: 记得在2019年底，有人说，2019年是过去十年最差的一年，却可能是未来十年最好的一年。<br><br><img style src="https://pbs.twimg.com/media/FIA1BW2aUAEGLQ5?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIA1B-ZaAAMlGv_?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIA1CfzacAQXT2d?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIA1DAzacAAQrxy?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/rongjian1957/status/1477238018582872065" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1477238018582872065</a>
+盘点经济，王小二过年一年不如一年。<br><br>荣剑: 记得在2019年底，有人说，2019年是过去十年最差的一年，却可能是未来十年最好的一年。<br><br><img style="" src="https://pbs.twimg.com/media/FIA1BW2aUAEGLQ5?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIA1B-ZaAAMlGv_?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIA1CfzacAQXT2d?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIA1DAzacAAQrxy?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/rongjian1957/status/1477238018582872065" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1477238018582872065</a>
 
 ### 24: [2022-01-01 23:15:36+08:00 推文](https://twitter.com/realcaixia/status/1477297463128174593)
 
