@@ -293,3 +293,15 @@ Don't we all?
 
 I mean, South China is a pretty big region with a lot of variation. Cantonese, Fujianese, and Hunanese cuisine are all pretty distinct. To be honest I think asking is the best policy.
 
+----- __1057.4__ -----2023-01-19 03:37:43+08:00:
+
+(For those lacking prior context, see [this](https://reddit.com/r/HobbyDrama/comments/xhiwtl/hobby_scuffles_week_of_september_19_2022/ip68xpv/?context=999)).
+
+Reading the Marble Machine X subreddit is fascinating; I don't think I've ever seen Reddit posts so consistently 'ratioed'. Every new upload there's a few dozen comments and it's just the same few competing opinions over and over within a general air of bewilderment:
+
+* Martin has lost the plot and isn't going to have a finished machine;
+* Martin is going to have a finished machine but it won't be what anyone actually wants; or
+* Martin will deliver, but he'll take time to get there.
+
+IMO he's never going to finish this thing and it's simply taken him too long to get here as it is. Marble Machine 1 went viral nearly *seven years ago* in March 2016, having taken about 16 months to go from build to video. MMX was scrapped in September 2021, having begun development in January 2017 – that's 57 months of wasted time. He could have redesigned and rebuilt the original Marble Machine *three and a half times over* in the time that he finish building the MMX. The way it stands, it's looking like *Synecdoche: New York* levels of life-consuming unfinishedness. I've seen the odd comparison to Yandere Simulator, but you know what Yandere Simulator has consistently had that MMX hasn't? Functional, accessible builds that have been iterated on, however slowly, and not a singular integrated device whose creator is too much of a perfectionist to be willing to complete, even in rough form.
+
