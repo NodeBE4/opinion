@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-01-19
+date: 2023-01-20
 from: https://twitter.com/HeQinglian/status/1614693015112630272
 layout: post
 tags:
@@ -270,4 +270,12 @@ Re @david_david1968 去年就有她要辞职的传闻。不过我没怎么关心
 ### 64: [2023-01-19 23:49:16+08:00 推文](https://twitter.com/HeQinglian/status/1616100487463419905)
 
 Re @Isabel_3299 这是长期目标，今年刚恢复开会，主题简单多了。
+
+### 65: [2023-01-20 01:38:00+08:00 推文](https://twitter.com/HeQinglian/status/1616127850414850094)
+
+Re @Isabel_3299 今年的主题是：欢迎中国重返国际舞台，认为习密友刘鹤是信使，表态让全球化力量安心。此前习的作为让他们失望。
+
+### 66: [2023-01-20 01:54:53+08:00 推文](https://twitter.com/HeQinglian/status/1616132099710369807)
+
+Re @TheDeadCarp 你的聪明，正好Macth Far Left。
 
