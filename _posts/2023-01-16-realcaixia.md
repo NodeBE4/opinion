@@ -29,7 +29,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FmjiESzaEAA3wwu?format=jpg
 
 ### 4: [2023-01-17 02:01:27+08:00 推文](https://twitter.com/realcaixia/status/1615046590401777664)
 
-再次转推！<div class="rsshub-quote"><br><br>大師兄（原Bob New）: 再次强烈建议墙内民众传播该里程碑级事件！<br>可以说，从国会立法和机构设置层面，将CCP和中国、中国人民剥离，已经触及中共最恐惧的噩梦！<br>对此，中共无论官方还是媒体，都表现的异乎寻常的，象死妈一样的沉默！<br>那么，咱们就偏不让这些垃圾装死！<br></div>
+再次转推！<div class="rsshub-quote"><br><br>大師兄（原Bob New）: 再次强烈建议墙内民众传播该里程碑级事件！<br>可以说，从国会立法和机构设置层面，将CCP和中国、中国人民剥离，已经触及中共最恐惧的噩梦！<br>对此，中共无论官方还是媒体，都表现的异乎寻常的，象死妈一样的沉默！<br>那么，咱们就偏不让这些垃圾装死！<br> <a href="https://twitter.com/caijingzhenxing/status/1613807208352960518" target="_blank" rel="noopener noreferrer">https://twitter.com/caijingzhenxing/status/1613807208352960518</a></div>
 
 ### 5: [2023-01-17 02:06:51+08:00 推文](https://twitter.com/realcaixia/status/1615047946214707200)
 
@@ -85,7 +85,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FmsHud-agAAIUi8?format=jpg
 
 ### 18: [2023-01-18 07:59:41+08:00 推文](https://twitter.com/realcaixia/status/1615499130557665281)
 
-是上海市崇明岛。<div class="rsshub-quote"><br><br>量子跃迁: 我看着这些面对自己亲人堆积如山的尸体仍默默忍耐的民众，我深刻理解了为什么中共在三年大饥荒中饿死了9000多万民众而政权无恙的原因。胆小、懦弱、奴性，让广大百姓没有人性的存在，只有动物性的存在！<br></div>
+是上海市崇明岛。<div class="rsshub-quote"><br><br>量子跃迁: 我看着这些面对自己亲人堆积如山的尸体仍默默忍耐的民众，我深刻理解了为什么中共在三年大饥荒中饿死了9000多万民众而政权无恙的原因。胆小、懦弱、奴性，让广大百姓没有人性的存在，只有动物性的存在！<br> <a href="https://twitter.com/jacklee7281/status/1614717528160305154" target="_blank" rel="noopener noreferrer">https://twitter.com/jacklee7281/status/1614717528160305154</a></div>
 
 ### 19: [2023-01-18 08:02:19+08:00 推文](https://twitter.com/realcaixia/status/1615499790443331584)
 
@@ -105,7 +105,7 @@ Re @ErR7YLP9yZf4Yem 中共9000多万内是有分化的，并非铁板一块。�
 
 ### 23: [2023-01-19 04:42:22+08:00 推文](https://twitter.com/realcaixia/status/1615811861299204096)
 
-感动。<div class="rsshub-quote"><br><br>韩连潮: 一位癌症患者为做化疗不得不去剃掉长发，而她的理发师做了一件出人意料的事：<br> <a href="https://twitter.com/Brink_Thinker/status/1614983092980121600" target="_blank" rel="noopener noreferrer">https://twitter.com/Brink_Thinker/status/1614983092980121600</a></div>
+感动。<div class="rsshub-quote"><br><br>韩连潮: 一位癌症患者为做化疗不得不去剃掉长发，而她的理发师做了一件出人意料的事：<br></div>
 
 ### 24: [2023-01-19 05:14:11+08:00 推文](https://twitter.com/realcaixia/status/1615819868238131200)
 
@@ -122,4 +122,8 @@ Re @ErR7YLP9yZf4Yem 中共9000多万内是有分化的，并非铁板一块。�
 ### 27: [2023-01-19 08:40:33+08:00 推文](https://twitter.com/realcaixia/status/1615871801237860352)
 
 维权律师的妻子们有很多本不是对政治有兴趣的人，但她们深爱她们的男人。当男人们受到严酷迫害时，她们为救自己的男人而奔走呼号。正是在这种磨难中，妻子们成长起来，成为中国女性中站在捍卫人权、为民主自由而抗争第一线的勇敢者代表人物！敬佩她们！🌹🌹🌹<div class="rsshub-quote"><br><br>王贺楠: 今天是爱忠失去自由的563天，刚刚律师会见完爱忠。12号我邮寄给爱忠的信他还没有收到。爱忠十分的想念家人和朋友们。在新春佳节到来之际，我代表爱忠和家人们提前给大家拜年祝朋友新春大吉，平安健康，万事如意。同时我呼吁天河看守所恢复王爱忠的通信权。感恩朋友们一路的鼓励和支持！<br><br><video src="https://video.twimg.com/ext_tw_video/1615282974400065537/pu/vid/720x960/9p0S8DfUV13_Xqmx.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1615282974400065537/pu/img/SkBFva7dxxGfPFd4.jpg"></video></div>
+
+### 28: [2023-01-19 23:00:39+08:00 推文](https://twitter.com/realcaixia/status/1616088251051413505)
+
+中共警察常无法律手续与无告知理由， 国人到机场办登机手续时才知被限制出境。<br><br>许多人不仅被剥夺行动自由权利，而且被恫吓不许声张。一些人幻想配合当局保持沉默能换来他们的“善心”放行，但结果是招来愈加肆无忌惮的欺压施虐。<br>上海谢芳女士勇敢揭开了这个黑幕。关注与声援谢芳，就是维护自己的权益。<br><img style="" src="https://pbs.twimg.com/media/Fm1_rfAakAI1rpF?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fm1_r1OakAM8joc?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fm1_sLraMAMmEQ3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fm1_sgtakAAHZgo?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

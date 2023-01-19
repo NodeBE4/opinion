@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2022-06-06~2022-06-12'
 
 ### 1: [2022-06-06 00:56:57+08:00 推文](https://twitter.com/realcaixia/status/1533493088835993605)
 
-转发此推文，以便于更多推友获知更多信息。
+转发此推文，以便于更多推友获知更多信息。<br><br>老好人: @realcaixia 1988年5月，于北师大相遇老鬼，得此书及老鬼的勉励。马先生应该认得他的笔迹。<br><br><img style="" src="https://pbs.twimg.com/media/FUgJO3pXoAEUr1x?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUgJPMlWQAI-v5e?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUgJPd4XEAII_Xn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2022-06-06 01:08:16+08:00 推文](https://twitter.com/realcaixia/status/1533495934994243584)
 
@@ -73,7 +73,7 @@ Re @yonghewang1969 谢谢您和大家的支持鼓励，让我们在反抗极权�
 
 ### 15: [2022-06-09 00:00:05+08:00 推文](https://twitter.com/realcaixia/status/1534565938405617664)
 
-从小在中共洗脑欺骗下，我曾经以为“国民党反动派”这六个字是必须连读的一个“专用”名词，反动派是国民党的专利。在我逐步清除极权统治的谎言宣传洗脑毒害过程中，才明白一切反时代前进潮流而动的政治集团都是反动派。习当局就是反动派，他们岂只是开倒车、阻挡中国历史前进，他们是反动，反文明反人性。<br><br>LeLeFarley 乐乐法利: 喔！这段儿我在历史书上看过不止一次👍<br><br><img style="" src="https://pbs.twimg.com/media/FUqWGipWYAE3_6Q?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+从小在中共洗脑欺骗下，我曾经以为“国民党反动派”这六个字是必须连读的一个“专用”名词，反动派是国民党的专利。在我逐步清除极权统治的谎言宣传洗脑毒害过程中，才明白一切反时代前进潮流而动的政治集团都是反动派。习当局就是反动派，他们岂只是开倒车、阻挡中国历史前进，他们是反动，反文明反人性。
 
 ### 16: [2022-06-09 20:43:51+08:00 推文](https://twitter.com/realcaixia/status/1534878944360644608)
 
@@ -93,11 +93,11 @@ Re @yonghewang1969 谢谢您和大家的支持鼓励，让我们在反抗极权�
 
 ### 20: [2022-06-09 22:58:29+08:00 推文](https://twitter.com/realcaixia/status/1534912825981816840)
 
-特别喜欢这个视频。<br><br>ZHANGDONG: 这个民族有希望💪💪<br> <a href="https://twitter.com/wutingzy/status/1534339164539428864" target="_blank" rel="noopener noreferrer">https://twitter.com/wutingzy/status/1534339164539428864</a>
+特别喜欢这个视频。
 
 ### 21: [2022-06-09 23:27:22+08:00 推文](https://twitter.com/realcaixia/status/1534920093943078914)
 
-昨晚与杨建利博士一同参加“共产主义受难者纪念馆”开馆招待会。发起人爱德华兹博士32年坚持不懈努力，终于建成纪念馆。纪念馆有一专室，展出北京6.4屠杀事件，血衣陈列在此。在京时多次听血衣捐献者江林女士回忆那一夜，也听过多位因6.4入秦城监狱的体制反叛者的讲述。这纪念馆极有教育意义，极为珍贵。<br><br>楊建利 Yang Jianli: 蔡霞教授。抱歉，笔误。<br>
+昨晚与杨建利博士一同参加“共产主义受难者纪念馆”开馆招待会。发起人爱德华兹博士32年坚持不懈努力，终于建成纪念馆。纪念馆有一专室，展出北京6.4屠杀事件，血衣陈列在此。在京时多次听血衣捐献者江林女士回忆那一夜，也听过多位因6.4入秦城监狱的体制反叛者的讲述。这纪念馆极有教育意义，极为珍贵。
 
 ### 22: [2022-06-09 23:57:05+08:00 推文](https://twitter.com/realcaixia/status/1534927573020442626)
 
