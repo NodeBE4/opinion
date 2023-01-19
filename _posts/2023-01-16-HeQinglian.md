@@ -239,43 +239,67 @@ Re @eGUAbe2V7j26GHw 这是WEF达沃斯会议效应。既然这会议上科技精
 
 Re @eGUAbe2V7j26GHw 还有更令人“惊喜”的：<br>摩根士丹利首席亚洲和新兴市场策略师Jonathan Garner预计，2023年中国经济将结束两年放缓，增速或可达到美国的10倍。<br>拜登去年12月11日发表推文，“根据独立专家预测，今年美国经济增速可能超过中国。这是自1976年以来从未发生过的情况”。<br>中文推说，死四亿人，经济崩溃<br>🤣🤣🤣
 
-### 57: [2023-01-19 22:24:54+08:00 推文](https://twitter.com/HeQinglian/status/1616079254994784257)
+### 57: [2023-01-19 21:16:48+08:00 推文](https://twitter.com/Tianshuihanyan/status/1616062118486503428)
+
+RT 纳姐 全媒体首席主播，全媒体美国小镇镇长<br>新西兰🇳🇿人民反抗独裁暴政取得成功，<br>极左大龅牙女首相宣布将辞职！<br>恭喜那些勇敢抗争的新西兰人民！<div class="rsshub-quote"><br><br>Pelham: Congratulations to all the New Zealanders that fought against Jacinda Ardern’s dictatorship… she will resign as the most unpopular leader in modern history <br><br>RESIST 🔥🔥🔥<br><br><video src="https://video.twimg.com/ext_tw_video/1615876757516845059/pu/vid/1280x718/AqDSPEAugLxdjLHQ.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1615876757516845059/pu/img/leW6KmLs4N_KtUvS.jpg"></video></div>
+
+### 58: [2023-01-19 22:24:54+08:00 推文](https://twitter.com/HeQinglian/status/1616079254994784257)
 
 Re @realJackLaw 欧盟没有外交自主，尤其在对俄罗斯的问题上，对中国的外交自主略好些。<br>是否记是德国总理肖尔茨访华时，中共希望德国与欧洲外交上要独立。
 
-### 58: [2023-01-19 22:28:10+08:00 推文](https://twitter.com/HeQinglian/status/1616080077040631808)
+### 59: [2023-01-19 22:28:10+08:00 推文](https://twitter.com/HeQinglian/status/1616080077040631808)
 
 Re @guchuan81 纽约时报去年12月有文章，借一位台湾人之口说，美国之所以衰落，全球领导力下降，全因为川普成天胡说2020大选被窃，要终止这种胡说，才有可能恢复领导力。😅
 
-### 59: [2023-01-19 22:31:26+08:00 推文](https://twitter.com/HeQinglian/status/1616080900051337216)
+### 60: [2023-01-19 22:31:26+08:00 推文](https://twitter.com/HeQinglian/status/1616080900051337216)
 
 Re @Isabel_3299 看到某跨国集团的CEO说：世界各国人民不信任政府，希望大企业多承担些责任——与中共宪法一样，以人民的名义自我赋权——这两天正在研究WEF2023最大的主诉是什么。
 
-### 60: [2023-01-19 22:34:37+08:00 推文](https://twitter.com/Lucs24659702/status/1616081701960318976)
+### 61: [2023-01-19 22:34:37+08:00 推文](https://twitter.com/Lucs24659702/status/1616081701960318976)
 
 RT Lucs<br>全国 42% 的谋杀案发生在美国 1% 的县。<br><br>犯罪预防研究中心的一项研究发现，5% 的县占所有谋杀案的 73%，而这些县的人口不到美国人口的一半。<br><br>根据这项新研究，美国 1% 的县占美国谋杀案的 42%，而 52% 的县没有谋杀案。<br><img style="" src="https://pbs.twimg.com/media/Fm15vMEaAAIrWWg?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 61: [2023-01-19 22:35:16+08:00 推文](https://twitter.com/Lucs24659702/status/1616081864275693569)
+### 62: [2023-01-19 22:35:16+08:00 推文](https://twitter.com/Lucs24659702/status/1616081864275693569)
 
 RT Lucs<br>Re 接上推👆🏻：<br><br>2020 年，1% 是 32 个县，它们拥有美国 21% 的人口。<br><br> 伊利诺伊州库克县的谋杀案最多，有 775 起，加利福尼亚州洛杉矶县排名第二，有 691 起谋杀案。<br><br> 他们有什么共同点？
 
-### 62: [2023-01-19 22:55:19+08:00 推文](https://twitter.com/HeQinglian/status/1616086909847240706)
+### 63: [2023-01-19 22:55:19+08:00 推文](https://twitter.com/HeQinglian/status/1616086909847240706)
 
 Re @JianglinLi @HongfuDing @Wu_Zhi @david_david1968 阿德恩是NWO挑选的年轻女性领导人，她的国际声誉在很多方面建立于应付任期内许多挑战，包括两座清真寺发生的大规模枪击事件，造成 51 人死亡的火山爆发、牛病爆发和covid-19。<br>她的工党民调现落后于另一大党，她说不考虑，因她的油箱里没油了，也不打算竞选议员。<br>是否因左派议题推行困难？报道未提。
 
-### 63: [2023-01-19 23:01:42+08:00 推文](https://twitter.com/HeQinglian/status/1616088515175133186)
+### 64: [2023-01-19 23:01:42+08:00 推文](https://twitter.com/HeQinglian/status/1616088515175133186)
 
 Re @david_david1968 去年就有她要辞职的传闻。不过我没怎么关心。
 
-### 64: [2023-01-19 23:49:16+08:00 推文](https://twitter.com/HeQinglian/status/1616100487463419905)
+### 65: [2023-01-19 23:46:15+08:00 推文](https://twitter.com/NAConservative9/status/1616099726759432197)
+
+RT 北美保守评论🇺🇸🇨🇦<br>《德里克·肖文对乔治·弗洛伊德之死的判决提出上诉，称“审判不公平”》<br><br>在已经出现暴乱，并有人跟踪陪审团成员的情况下，法院并没有采用异地审理、隔离陪审团的做法。而且，在审判过程中，所有有利于被告肖文警官的证据，都被故意忽略了。因此审理存在严重瑕疵，导致审判不公。 <a href="https://nacr.info/WordPress/index.php/2023/01/19/derek-chauvin-appeals-conviction-in-george-floyds-death-cites-unfair-trial/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2023/01/19/derek-chauvin-appeals-conviction-in-george-floyds-death-cites-unfair-trial/</a><br><img style="" src="https://pbs.twimg.com/media/Fm2Jf7NWAAAHs-2?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 66: [2023-01-19 23:49:16+08:00 推文](https://twitter.com/HeQinglian/status/1616100487463419905)
 
 Re @Isabel_3299 这是长期目标，今年刚恢复开会，主题简单多了。
 
-### 65: [2023-01-20 01:38:00+08:00 推文](https://twitter.com/HeQinglian/status/1616127850414850094)
+### 67: [2023-01-20 01:38:00+08:00 推文](https://twitter.com/HeQinglian/status/1616127850414850094)
 
 Re @Isabel_3299 今年的主题是：欢迎中国重返国际舞台，认为习密友刘鹤是信使，表态让全球化力量安心。此前习的作为让他们失望。
 
-### 66: [2023-01-20 01:54:53+08:00 推文](https://twitter.com/HeQinglian/status/1616132099710369807)
+### 68: [2023-01-20 01:54:53+08:00 推文](https://twitter.com/HeQinglian/status/1616132099710369807)
 
 Re @TheDeadCarp 你的聪明，正好Macth Far Left。
+
+### 69: [2023-01-20 04:19:58+08:00 推文](https://twitter.com/HeQinglian/status/1616168611613130758)
+
+Re @elonmusk @disclosetv 👍👍👍👍👍
+
+### 70: [2023-01-20 04:25:10+08:00 推文](https://twitter.com/HeQinglian/status/1616169918889607182)
+
+WEF主席施瓦布称，在全球对政治机构的信任处于历史最低点之际，WEF的全球协作村值得信赖，因为国际刑警组织是一个协调警方对犯罪反应的国际组织，参与了该项目。对此，马斯克回答：“世界经济论坛正日益成为一个未经选举产生的世界政府，人们从来没有要求过，也不需要。” <br>Fox/美联社等报道了这条消息。<br><img style="" src="https://pbs.twimg.com/media/Fm3JlsGWQBobhG3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 71: [2023-01-20 05:32:17+08:00 推文](https://twitter.com/HeQinglian/status/1616186809800880130)
+
+Re @Wu_Zhi WEF就是欧盟的放大版，不同之处是其核心成员多是科技精英及其培养选定的各国进步领导人，比如刚辞职的新西兰女总理。欧盟委员会的规格略低些。
+
+### 72: [2023-01-20 05:34:31+08:00 推文](https://twitter.com/HeQinglian/status/1616187372701634561)
+
+自由不是免费的。<br>Freedom is not free.<div class="rsshub-quote"><br><br>纳姐 全媒体首席主播，全媒体美国小镇镇长: 新西兰🇳🇿人民反抗独裁暴政取得成功，<br>极左大龅牙女首相宣布将辞职！<br>恭喜那些勇敢抗争的新西兰人民！<br></div>
 

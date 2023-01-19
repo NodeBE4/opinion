@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-01-18
+date: 2023-01-19
 from: https://old.reddit.com/r/badhistory/comments/10dcsdy/mindless_monday_16_january_2023/
 layout: post
 tags:
@@ -42,4 +42,12 @@ The KV-2. The terrifying, top-heavy-looking monstrosity that is the KV-2. Whose 
 ----- __1061.2__ -----2023-01-19 01:01:53+08:00:
 
 Thanks! There does seem to have been an experimental quality about the KV-2 from appearances alone and I'm unsurprised it didn't go anywhere.
+
+### 1062: [[Home Improvement] The Groverhaus: a tale of load-bearing drywall and insulated stairs](https://old.reddit.com/r/HobbyDrama/comments/10fvpy7/home_improvement_the_groverhaus_a_tale_of/), submitted on 2023-01-19 15:33:22+08:00.
+
+----- __1062.1__ -----2023-01-20 06:10:14+08:00:
+
+> popular gaming channel Yogscast
+
+Every once in a while I am reminded that yes, Yogscast does still exist and didn't just sort of fizzle out in 2015. Believe it or not, The Spiffing Brit is *technically* a Yogscast affiliate channel despite not advertising it.
 
