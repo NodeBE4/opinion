@@ -29,7 +29,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FmjiESzaEAA3wwu?format=jpg
 
 ### 4: [2023-01-17 02:01:27+08:00 推文](https://twitter.com/realcaixia/status/1615046590401777664)
 
-再次转推！<div class="rsshub-quote"><br><br>大師兄（原Bob New）: 再次强烈建议墙内民众传播该里程碑级事件！<br>可以说，从国会立法和机构设置层面，将CCP和中国、中国人民剥离，已经触及中共最恐惧的噩梦！<br>对此，中共无论官方还是媒体，都表现的异乎寻常的，象死妈一样的沉默！<br>那么，咱们就偏不让这些垃圾装死！<br> <a href="https://twitter.com/caijingzhenxing/status/1613807208352960518" target="_blank" rel="noopener noreferrer">https://twitter.com/caijingzhenxing/status/1613807208352960518</a></div>
+再次转推！<div class="rsshub-quote"><br><br>大師兄（原Bob New）: 再次强烈建议墙内民众传播该里程碑级事件！<br>可以说，从国会立法和机构设置层面，将CCP和中国、中国人民剥离，已经触及中共最恐惧的噩梦！<br>对此，中共无论官方还是媒体，都表现的异乎寻常的，象死妈一样的沉默！<br>那么，咱们就偏不让这些垃圾装死！<br></div>
 
 ### 5: [2023-01-17 02:06:51+08:00 推文](https://twitter.com/realcaixia/status/1615047946214707200)
 
@@ -85,7 +85,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FmsHud-agAAIUi8?format=jpg
 
 ### 18: [2023-01-18 07:59:41+08:00 推文](https://twitter.com/realcaixia/status/1615499130557665281)
 
-是上海市崇明岛。<div class="rsshub-quote"><br><br>量子跃迁: 我看着这些面对自己亲人堆积如山的尸体仍默默忍耐的民众，我深刻理解了为什么中共在三年大饥荒中饿死了9000多万民众而政权无恙的原因。胆小、懦弱、奴性，让广大百姓没有人性的存在，只有动物性的存在！<br></div>
+是上海市崇明岛。<div class="rsshub-quote"><br><br>量子跃迁: 我看着这些面对自己亲人堆积如山的尸体仍默默忍耐的民众，我深刻理解了为什么中共在三年大饥荒中饿死了9000多万民众而政权无恙的原因。胆小、懦弱、奴性，让广大百姓没有人性的存在，只有动物性的存在！<br> <a href="https://twitter.com/jacklee7281/status/1614717528160305154" target="_blank" rel="noopener noreferrer">https://twitter.com/jacklee7281/status/1614717528160305154</a></div>
 
 ### 19: [2023-01-18 08:02:19+08:00 推文](https://twitter.com/realcaixia/status/1615499790443331584)
 
@@ -105,7 +105,7 @@ Re @ErR7YLP9yZf4Yem 中共9000多万内是有分化的，并非铁板一块。�
 
 ### 23: [2023-01-19 04:42:22+08:00 推文](https://twitter.com/realcaixia/status/1615811861299204096)
 
-感动。<div class="rsshub-quote"><br><br>韩连潮: 一位癌症患者为做化疗不得不去剃掉长发，而她的理发师做了一件出人意料的事：<br></div>
+感动。<div class="rsshub-quote"><br><br>韩连潮: 一位癌症患者为做化疗不得不去剃掉长发，而她的理发师做了一件出人意料的事：<br> <a href="https://twitter.com/Brink_Thinker/status/1614983092980121600" target="_blank" rel="noopener noreferrer">https://twitter.com/Brink_Thinker/status/1614983092980121600</a></div>
 
 ### 24: [2023-01-19 05:14:11+08:00 推文](https://twitter.com/realcaixia/status/1615819868238131200)
 
