@@ -175,39 +175,67 @@ Re @fading_you1 芝加哥三大宝：<br>1、每天都发生的黑人枪击、�
 
 Re @Jingfengtang1 圣经如果万能，美国信教者不会迅速减少。
 
-### 41: [2023-01-18 23:47:10+08:00 推文](https://twitter.com/Lucs24659702/status/1615737571300212736)
+### 41: [2023-01-18 23:46:27+08:00 推文](https://twitter.com/Lucs24659702/status/1615737389305180160)
+
+RT Lucs<br>世界经济论坛关于人工智能的小组集中在一个点上——通过颠覆人类生活，可以赚到很多钱，也可以获得很多权力。<br><br> 这就是第四次工业革命的本质。<br><video src="https://video.twimg.com/ext_tw_video/1615737340483497985/pu/vid/640x416/iyKUCRvVpmcq6IzZ.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1615737340483497985/pu/img/iiS4unHVLjcdYs2z.jpg"></video>
+
+### 42: [2023-01-18 23:47:10+08:00 推文](https://twitter.com/Lucs24659702/status/1615737571300212736)
 
 RT Lucs<br>最新消息 - 全球气候欺诈：据报道，Netflix、迪士尼、Gucci、壳牌、拜耳、SAP 和其他公司从全球领先的供应商 Verra 购买了毫无价值的二氧化碳证书。<br><br> Zeit 评估的研究数据表明，所分析项目中超过 90% 的二氧化碳证书毫无价值：“垃圾泡沫”。 <a href="https://www.zeit.de/2023/04/co2-zertifikate-betrug-emissionshandel-klimaschutz" target="_blank" rel="noopener noreferrer">https://www.zeit.de/2023/04/co2-zertifikate-betrug-emissionshandel-klimaschutz</a>
 
-### 42: [2023-01-19 02:02:16+08:00 推文](https://twitter.com/HeQinglian/status/1615771570659627009)
+### 43: [2023-01-18 23:59:30+08:00 推文](https://twitter.com/dw_chinese/status/1615740673503727616)
+
+RT DW 中文- 德国之声<br>在1000名受访者当中，有大约43%将中国视为最大的威胁。美国被视为仅次于中国的最大军事威胁，并且在乌克兰战争问题上更多的归咎于北约和华盛顿，而不是俄罗斯总统普京。 <a href="https://p.dw.com/p/4MMY6" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4MMY6</a>
+
+### 44: [2023-01-19 02:02:16+08:00 推文](https://twitter.com/HeQinglian/status/1615771570659627009)
 
 Re @lydia488144315 @fading_you1 退休人士，除了我这种自由写作者，凡属要上班的，基本会有一段时期不适应。<br>尤其是在权力机构、社会声望较高的机构、掌握资源分析的机构工作，又是部门负责人，基本会如此——不完全是因为感觉世界离了他们就不转了，而是社会肯定、社会承认等消失后的不适应感。
 
-### 43: [2023-01-19 02:07:02+08:00 推文](https://twitter.com/HeQinglian/status/1615772768599175169)
+### 45: [2023-01-19 02:07:02+08:00 推文](https://twitter.com/HeQinglian/status/1615772768599175169)
 
 Re @RalphBei 白人确实成为一个种族了，CRT理论批判白人种族主义至上的白人，包括盎格鲁撒克逊人、日耳曼人、高卢人、爱尔兰人、苏格兰人、北欧人。
 
-### 44: [2023-01-19 04:52:24+08:00 推文](https://twitter.com/HeQinglian/status/1615814383510163472)
+### 46: [2023-01-19 04:52:24+08:00 推文](https://twitter.com/HeQinglian/status/1615814383510163472)
 
 Re @farmdirect8 Hoza<br>@HozaHozashop<br>这个推号经常介绍各种小技巧，似乎几个月前看到教人如何修复破损的地板，你查查看。
 
-### 45: [2023-01-19 05:02:36+08:00 推文](https://twitter.com/HeQinglian/status/1615816951208579072)
+### 47: [2023-01-19 05:02:36+08:00 推文](https://twitter.com/HeQinglian/status/1615816951208579072)
 
 Re @RalphBei 可惜，CRT没将他们包括在内，因为信仰的宗教不同。
 
-### 46: [2023-01-19 05:24:27+08:00 推文](https://twitter.com/HeQinglian/status/1615822449618075648)
+### 48: [2023-01-19 05:24:27+08:00 推文](https://twitter.com/HeQinglian/status/1615822449618075648)
 
 Re @realJackLaw 利益冲突，国际地位之争，国家利益之争都包含在内。<br>1、美国左派早就放弃基督教了，连圣诞这个词都成为奥、希忌讳。<br>2、制度冲突如果为真，民主党的颜色革命就不应该发生。<br>每有利益冲突，就寻找各种解释。
 
-### 47: [2023-01-19 05:25:03+08:00 推文](https://twitter.com/HeQinglian/status/1615822603670757386)
+### 49: [2023-01-19 05:25:03+08:00 推文](https://twitter.com/HeQinglian/status/1615822603670757386)
 
 Re @GhanwarAli 去看文章，还有，请去访问这些人。或者看他们的回忆录，很多。
 
-### 48: [2023-01-19 05:27:02+08:00 推文](https://twitter.com/HeQinglian/status/1615823100326682638)
+### 50: [2023-01-19 05:27:02+08:00 推文](https://twitter.com/HeQinglian/status/1615823100326682638)
 
 Re @farmdirect8 @HozaHozashop 刚才还看到，难道我复制错了？再出现，我给你发过去。
 
-### 49: [2023-01-19 05:30:27+08:00 推文](https://twitter.com/HeQinglian/status/1615823958850379807)
+### 51: [2023-01-19 05:30:27+08:00 推文](https://twitter.com/HeQinglian/status/1615823958850379807)
 
 Re @farmdirect8 @HozaHozashop <br>看一下这个。别急着补，我是真看见过，只是我家家具没这类油漆，没存下来。 <a href="https://www.bilibili.com/video/BV1U4411T7Md/" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/video/BV1U4411T7Md/</a>
+
+### 52: [2023-01-19 07:14:53+08:00 推文](https://twitter.com/HeQinglian/status/1615850244347936774)
+
+Re @farmdirect8 参考重庆公安局长文强儿子例。<br>文强儿子在外留学，重庆唱红打黑时，知道自己要倒霉，让儿子留在加拿大不要回，儿子死活要回，回来不到半年，父亲被抓，判死刑。
+
+### 53: [2023-01-19 08:28:09+08:00 推文](https://twitter.com/HeQinglian/status/1615868679463358464)
+
+这是本人幼年时经历。<br>自1964年毛发动阶级斗争，一些差生开始以出身自傲，骂优生是剥削阶级家庭出身，但这只是个别现象。<br>自1966年文革开始，有那么几年，红五类对黑五类（后扩展至21种人的子弟），也有如黑命贵欺负白人一样，中央文革说了，这是“好人打坏人，应该”。<br>白左不识文革滋味，白孩子得记打<div class="rsshub-quote"><br><br>Lucs: 这发生在特拉华州威尔明顿的一所学校。<br> 这个黑人女孩戴着指节铜环。<br><br><video src="https://video.twimg.com/ext_tw_video/1615763031585325057/pu/vid/540x720/DksJ4-1gRj_mK8jd.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1615763031585325057/pu/img/aSpkxbDqiN7gfwOU.jpg"></video></div>
+
+### 54: [2023-01-19 08:50:25+08:00 推文](https://twitter.com/HeQinglian/status/1615874286161645569)
+
+Re @sohfangwei Why？资本最听利润的话，哪里赚钱哪安家。
+
+### 55: [2023-01-19 10:15:16+08:00 推文](https://twitter.com/HeQinglian/status/1615895635609231361)
+
+Re @eGUAbe2V7j26GHw 这是WEF达沃斯会议效应。既然这会议上科技精英、政界人物全以中国回归世界经济舞台为盼，盛赞中国是世界经济的稳定器。前几天还是另一种调门的日经也得迎头赶上浪潮。<br>彭博标题：耶伦惊喜 | 美国财政部长珍妮特耶伦将于 1 月 18 日在苏黎世与中国副总理刘鹤举行首次面对面会谈。
+
+### 56: [2023-01-19 10:33:18+08:00 推文](https://twitter.com/HeQinglian/status/1615900173695082498)
+
+Re @eGUAbe2V7j26GHw 还有更令人“惊喜”的：<br>摩根士丹利首席亚洲和新兴市场策略师Jonathan Garner预计，2023年中国经济将结束两年放缓，增速或可达到美国的10倍。<br>拜登去年12月11日发表推文，“根据独立专家预测，今年美国经济增速可能超过中国。这是自1976年以来从未发生过的情况”。<br>中文推说，死四亿人，经济崩溃<br>🤣🤣🤣
 

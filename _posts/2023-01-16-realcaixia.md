@@ -29,7 +29,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FmjiESzaEAA3wwu?format=jpg
 
 ### 4: [2023-01-17 02:01:27+08:00 推文](https://twitter.com/realcaixia/status/1615046590401777664)
 
-再次转推！<div class="rsshub-quote"><br><br>大師兄（原Bob New）: 再次强烈建议墙内民众传播该里程碑级事件！<br>可以说，从国会立法和机构设置层面，将CCP和中国、中国人民剥离，已经触及中共最恐惧的噩梦！<br>对此，中共无论官方还是媒体，都表现的异乎寻常的，象死妈一样的沉默！<br>那么，咱们就偏不让这些垃圾装死！<br></div>
+再次转推！<div class="rsshub-quote"><br><br>大師兄（原Bob New）: 再次强烈建议墙内民众传播该里程碑级事件！<br>可以说，从国会立法和机构设置层面，将CCP和中国、中国人民剥离，已经触及中共最恐惧的噩梦！<br>对此，中共无论官方还是媒体，都表现的异乎寻常的，象死妈一样的沉默！<br>那么，咱们就偏不让这些垃圾装死！<br> <a href="https://twitter.com/caijingzhenxing/status/1613807208352960518" target="_blank" rel="noopener noreferrer">https://twitter.com/caijingzhenxing/status/1613807208352960518</a></div>
 
 ### 5: [2023-01-17 02:06:51+08:00 推文](https://twitter.com/realcaixia/status/1615047946214707200)
 
@@ -37,7 +37,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FmjiESzaEAA3wwu?format=jpg
 
 ### 6: [2023-01-17 03:36:53+08:00 推文](https://twitter.com/realcaixia/status/1615070606256640000)
 
-平民在中国活得很不容易，做父亲的更是压力山大。李承鹏先生这篇文章说到了父亲的奋斗、困窘与不堪。令人心酸至极。父爱如山！<div class="rsshub-quote"><br><br>李承鹏（真正的大眼哥）: 中国的父亲跟全世界的父亲有些不同，他们牺牲尊严来养活家庭，比如违章小贩夏俊峰，这个父亲只是想让儿子学画，才上街摆摊，可巨大的城市竟容不下一个烧烤摊，被城管毒打、踢裆，他奋起反击最终竟逼至杀人。想象瘦小的夏俊峰挥刀刺向身形高大的城管时，蚍蚨撼树，内心该多悲凉。<br></div>
+平民在中国活得很不容易，做父亲的更是压力山大。李承鹏先生这篇文章说到了父亲的奋斗、困窘与不堪。令人心酸至极。父爱如山！<div class="rsshub-quote"><br><br>李承鹏（真正的大眼哥）: 中国的父亲跟全世界的父亲有些不同，他们牺牲尊严来养活家庭，比如违章小贩夏俊峰，这个父亲只是想让儿子学画，才上街摆摊，可巨大的城市竟容不下一个烧烤摊，被城管毒打、踢裆，他奋起反击最终竟逼至杀人。想象瘦小的夏俊峰挥刀刺向身形高大的城管时，蚍蚨撼树，内心该多悲凉。<br> <a href="https://twitter.com/dayangelcp/status/1614874075645767685" target="_blank" rel="noopener noreferrer">https://twitter.com/dayangelcp/status/1614874075645767685</a></div>
 
 ### 7: [2023-01-17 03:43:17+08:00 推文](https://twitter.com/realcaixia/status/1615072213987889153)
 
@@ -85,7 +85,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FmsHud-agAAIUi8?format=jpg
 
 ### 18: [2023-01-18 07:59:41+08:00 推文](https://twitter.com/realcaixia/status/1615499130557665281)
 
-是上海市崇明岛。<div class="rsshub-quote"><br><br>量子跃迁: 我看着这些面对自己亲人堆积如山的尸体仍默默忍耐的民众，我深刻理解了为什么中共在三年大饥荒中饿死了9000多万民众而政权无恙的原因。胆小、懦弱、奴性，让广大百姓没有人性的存在，只有动物性的存在！<br> <a href="https://twitter.com/jacklee7281/status/1614717528160305154" target="_blank" rel="noopener noreferrer">https://twitter.com/jacklee7281/status/1614717528160305154</a></div>
+是上海市崇明岛。<div class="rsshub-quote"><br><br>量子跃迁: 我看着这些面对自己亲人堆积如山的尸体仍默默忍耐的民众，我深刻理解了为什么中共在三年大饥荒中饿死了9000多万民众而政权无恙的原因。胆小、懦弱、奴性，让广大百姓没有人性的存在，只有动物性的存在！<br></div>
 
 ### 19: [2023-01-18 08:02:19+08:00 推文](https://twitter.com/realcaixia/status/1615499790443331584)
 
@@ -105,7 +105,7 @@ Re @ErR7YLP9yZf4Yem 中共9000多万内是有分化的，并非铁板一块。�
 
 ### 23: [2023-01-19 04:42:22+08:00 推文](https://twitter.com/realcaixia/status/1615811861299204096)
 
-感动。<div class="rsshub-quote"><br><br>韩连潮: 一位癌症患者为做化疗不得不去剃掉长发，而她的理发师做了一件出人意料的事：<br> <a href="https://twitter.com/Brink_Thinker/status/1614983092980121600" target="_blank" rel="noopener noreferrer">https://twitter.com/Brink_Thinker/status/1614983092980121600</a></div>
+感动。<div class="rsshub-quote"><br><br>韩连潮: 一位癌症患者为做化疗不得不去剃掉长发，而她的理发师做了一件出人意料的事：<br></div>
 
 ### 24: [2023-01-19 05:14:11+08:00 推文](https://twitter.com/realcaixia/status/1615819868238131200)
 
@@ -118,4 +118,8 @@ Re @ErR7YLP9yZf4Yem 中共9000多万内是有分化的，并非铁板一块。�
 ### 26: [2023-01-19 06:29:16+08:00 推文](https://twitter.com/realcaixia/status/1615838762914975744)
 
 议报发布的这篇文章是触及到人的思想方法和思维方式的很深层次的思考，非常值得阅读并思考文中所提出的问题。<div class="rsshub-quote"><br><br>楊建利 Jianli (Doc) Yang: 周濂 | 奥威尔说，思维的浅陋让我们的语言变得粗俗而有失准确 <br>议报<br><br>我看《意志的胜利》，总会想起奥威尔另外一句话，他说：“正步走是世界上最为恐怖的景象之一，甚至比俯冲轰炸机更令人感到恐怖，这是一个赤裸裸的权力的宣言、、、<br> <a href="https://yibaochina.com/?p=249128" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=249128</a></div>
+
+### 27: [2023-01-19 08:40:33+08:00 推文](https://twitter.com/realcaixia/status/1615871801237860352)
+
+维权律师的妻子们有很多本不是对政治有兴趣的人，但她们深爱她们的男人。当男人们受到严酷迫害时，她们为救自己的男人而奔走呼号。正是在这种磨难中，妻子们成长起来，成为中国女性中站在捍卫人权、为民主自由而抗争第一线的勇敢者代表人物！敬佩她们！🌹🌹🌹<div class="rsshub-quote"><br><br>王贺楠: 今天是爱忠失去自由的563天，刚刚律师会见完爱忠。12号我邮寄给爱忠的信他还没有收到。爱忠十分的想念家人和朋友们。在新春佳节到来之际，我代表爱忠和家人们提前给大家拜年祝朋友新春大吉，平安健康，万事如意。同时我呼吁天河看守所恢复王爱忠的通信权。感恩朋友们一路的鼓励和支持！<br><br><video src="https://video.twimg.com/ext_tw_video/1615282974400065537/pu/vid/720x960/9p0S8DfUV13_Xqmx.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1615282974400065537/pu/img/SkBFva7dxxGfPFd4.jpg"></video></div>
 
