@@ -379,3 +379,43 @@ Re @mingshi_chen 这很好。如果能够为孩子找到一两个相应的朋友
 
 Re @mingshi_chen 【其实人生必备常识就那点玩意，关键是要有“看山不是山看水不是水”的能力！】<br>你得先自问一下，你是什么年龄段有这能力的。
 
+### 92: [2023-01-20 12:14:28+08:00 推文](https://twitter.com/_xiaohan/status/1616288021292388353)
+
+RT 萧瀚<br>伏尔泰为新教徒卡拉斯冤案申雪，奔走了四年，发动了他几乎所有社会关系，包括叶卡捷琳娜女皇和腓特烈大帝。伏尔泰讨厌宗教，《哲学辞典》里他对宗教的嘲讽十分著名，但更重要的是他为宗教宽容辩护，其名言“我不同意你的观点，但誓死捍卫你说话的权利。”许多人鹦鹉学舌，但伏尔泰是亲身实践了这句话的。
+
+### 93: [2023-01-20 13:31:41+08:00 推文](https://twitter.com/SSK2024/status/1616307453356048385)
+
+RT 萧生客SSK🇺🇸🇨🇦<br>4分钟的内容，最后一分钟也很值得看！<br><br>独立记者在达沃斯堵住辉瑞制药公司的总裁CEO 艾伯特.布拉拷问：<br><br>你什么时候知道疫苗不能阻止传播的？<br>你知道这件事却不公之于众多久了？<br>是时候向全世界道歉了吗，先生？<br>你不为你的所作所为感到羞耻？…<br><br>油管封杀，只能发兰博： <a href="https://rumble.com/v26877c-131392632.html" target="_blank" rel="noopener noreferrer">https://rumble.com/v26877c-131392632.html</a><br><video src="https://video.twimg.com/ext_tw_video/1616307277874569216/pu/vid/1280x720/jy4G6zdsKHqXC3Rs.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1616307277874569216/pu/img/UINaxLePy0hcAlLo.jpg"></video>
+
+### 94: [2023-01-20 22:18:40+08:00 推文](https://twitter.com/HeQinglian/status/1616440076074094593)
+
+Re @JianglinLi @HongfuDing @Wu_Zhi @ngexp @david_david1968 环节就是深喉曝料，因“保护新闻来源的秘密”这条行规而被置于不可问。<br>进入互联网时代是另一种玩法了。<br>薄熙来事件，中国权斗的方式之一是海外曝料，电子文件打印成纸质，往各大外媒驻华机构送，最后是纽约时报大胆发布，彭博最初让记者写，写成之后不发表，记者出走纽约时报。<br>今后可能就是网上曝料。
+
+### 95: [2023-01-20 22:24:39+08:00 推文](https://twitter.com/HeQinglian/status/1616441579652227074)
+
+Re @shenliangqing2 世界人口70亿，又进入了“马尔萨斯陷阱”：人口太多时，就会发生战争、瘟疫，减少人口，恢复人口与资源的平衡。<br>这位“人口学之父”当然没想到，瘟疫可以从实验室开始。<br>不过，左派从反全球化到最后拥抱全球化，从主张人口可以没有极限的增长，到如今实验室病毒成上帝礼物，这跨度太大了。前者我找到转折点
+
+### 96: [2023-01-20 22:26:40+08:00 推文](https://twitter.com/HeQinglian/status/1616442087070654464)
+
+Re @shenliangqing2 接上：<br>这个转折点是1999年“西雅图之战”，非常明显。<br>后者的转折点经过一阵沉默期，援非的停滞，但明显的理论转折期我还需要寻找资料。如果有推友能够提示，感谢。
+
+### 97: [2023-01-20 22:27:44+08:00 推文](https://twitter.com/HeQinglian/status/1616442354478755841)
+
+Re @JianglinLi @HongfuDing @Wu_Zhi @ngexp @david_david1968 我查过这资料，到此为此，一切都断了。
+
+### 98: [2023-01-20 22:33:45+08:00 推文](https://twitter.com/HeQinglian/status/1616443870912610304)
+
+Re @zhixiangziyou 庾信《枯树赋》：“昔年种柳，依依汉南。今看摇落，凄怆江潭。树犹如此，人何以堪！”
+
+### 99: [2023-01-20 22:37:19+08:00 推文](https://twitter.com/HeQinglian/status/1616444769546158080)
+
+Re @Yjll95699445 Up to you. 你高兴就行——挺合推名。
+
+### 100: [2023-01-20 22:38:57+08:00 推文](https://twitter.com/HeQinglian/status/1616445181116702720)
+
+有两个产业应该废止，一是器官移植，二是变性。<br>前一个导致无数人莫名死亡，后一个让人活成废料。<div class="rsshub-quote"><br><br>韦石 watson Meng of Farm Direct: 割取買賣器官不只是利益鏈，是產業鏈。和中央領導家族有關的產業鏈。<br> <a href="https://twitter.com/uyunistar/status/1616155368945750017" target="_blank" rel="noopener noreferrer">https://twitter.com/uyunistar/status/1616155368945750017</a></div>
+
+### 101: [2023-01-20 22:45:00+08:00 推文](https://twitter.com/HeQinglian/status/1616446703879745537)
+
+Re @JianglinLi @HongfuDing @Wu_Zhi @ngexp @david_david1968 记错了，纠正。美国纪录片 America’s Book of Secrets，全32集。
+
