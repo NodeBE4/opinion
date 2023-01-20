@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2023-01-19
+date: 2023-01-21
 from: https://twitter.com/realcaixia/status/1614724084339822595
 layout: post
 tags:
@@ -29,7 +29,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FmjiESzaEAA3wwu?format=jpg
 
 ### 4: [2023-01-17 02:01:27+08:00 推文](https://twitter.com/realcaixia/status/1615046590401777664)
 
-再次转推！<div class="rsshub-quote"><br><br>大師兄（原Bob New）: 再次强烈建议墙内民众传播该里程碑级事件！<br>可以说，从国会立法和机构设置层面，将CCP和中国、中国人民剥离，已经触及中共最恐惧的噩梦！<br>对此，中共无论官方还是媒体，都表现的异乎寻常的，象死妈一样的沉默！<br>那么，咱们就偏不让这些垃圾装死！<br></div>
+再次转推！<div class="rsshub-quote"><br><br>大師兄（原Bob New）: 再次强烈建议墙内民众传播该里程碑级事件！<br>可以说，从国会立法和机构设置层面，将CCP和中国、中国人民剥离，已经触及中共最恐惧的噩梦！<br>对此，中共无论官方还是媒体，都表现的异乎寻常的，象死妈一样的沉默！<br>那么，咱们就偏不让这些垃圾装死！<br> <a href="https://twitter.com/caijingzhenxing/status/1613807208352960518" target="_blank" rel="noopener noreferrer">https://twitter.com/caijingzhenxing/status/1613807208352960518</a></div>
 
 ### 5: [2023-01-17 02:06:51+08:00 推文](https://twitter.com/realcaixia/status/1615047946214707200)
 
@@ -85,7 +85,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FmsHud-agAAIUi8?format=jpg
 
 ### 18: [2023-01-18 07:59:41+08:00 推文](https://twitter.com/realcaixia/status/1615499130557665281)
 
-是上海市崇明岛。<div class="rsshub-quote"><br><br>量子跃迁: 我看着这些面对自己亲人堆积如山的尸体仍默默忍耐的民众，我深刻理解了为什么中共在三年大饥荒中饿死了9000多万民众而政权无恙的原因。胆小、懦弱、奴性，让广大百姓没有人性的存在，只有动物性的存在！<br> <a href="https://twitter.com/jacklee7281/status/1614717528160305154" target="_blank" rel="noopener noreferrer">https://twitter.com/jacklee7281/status/1614717528160305154</a></div>
+是上海市崇明岛。<div class="rsshub-quote"><br><br>量子跃迁: 我看着这些面对自己亲人堆积如山的尸体仍默默忍耐的民众，我深刻理解了为什么中共在三年大饥荒中饿死了9000多万民众而政权无恙的原因。胆小、懦弱、奴性，让广大百姓没有人性的存在，只有动物性的存在！<br></div>
 
 ### 19: [2023-01-18 08:02:19+08:00 推文](https://twitter.com/realcaixia/status/1615499790443331584)
 
@@ -105,7 +105,7 @@ Re @ErR7YLP9yZf4Yem 中共9000多万内是有分化的，并非铁板一块。�
 
 ### 23: [2023-01-19 04:42:22+08:00 推文](https://twitter.com/realcaixia/status/1615811861299204096)
 
-感动。<div class="rsshub-quote"><br><br>韩连潮: 一位癌症患者为做化疗不得不去剃掉长发，而她的理发师做了一件出人意料的事：<br> <a href="https://twitter.com/Brink_Thinker/status/1614983092980121600" target="_blank" rel="noopener noreferrer">https://twitter.com/Brink_Thinker/status/1614983092980121600</a></div>
+感动。<div class="rsshub-quote"><br><br>韩连潮: 一位癌症患者为做化疗不得不去剃掉长发，而她的理发师做了一件出人意料的事：<br></div>
 
 ### 24: [2023-01-19 05:14:11+08:00 推文](https://twitter.com/realcaixia/status/1615819868238131200)
 
@@ -126,4 +126,24 @@ Re @ErR7YLP9yZf4Yem 中共9000多万内是有分化的，并非铁板一块。�
 ### 28: [2023-01-19 23:00:39+08:00 推文](https://twitter.com/realcaixia/status/1616088251051413505)
 
 中共警察常无法律手续与无告知理由， 国人到机场办登机手续时才知被限制出境。<br><br>许多人不仅被剥夺行动自由权利，而且被恫吓不许声张。一些人幻想配合当局保持沉默能换来他们的“善心”放行，但结果是招来愈加肆无忌惮的欺压施虐。<br>上海谢芳女士勇敢揭开了这个黑幕。关注与声援谢芳，就是维护自己的权益。<br><img style="" src="https://pbs.twimg.com/media/Fm1_rfAakAI1rpF?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fm1_r1OakAM8joc?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fm1_sLraMAMmEQ3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fm1_sgtakAAHZgo?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 29: [2023-01-21 00:03:40+08:00 推文](https://twitter.com/realcaixia/status/1616466500629704704)
+
+兔年新春佳节将至，网友发给我一副迎春对联。<br><img style="" src="https://pbs.twimg.com/media/Fm7XtsmaYAAK8yM?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 30: [2023-01-21 00:24:40+08:00 推文](https://twitter.com/realcaixia/status/1616471785582563328)
+
+特别推荐#议报发布李承鹏文章《某江某河某特征 》<br><br>文人，写下去即是胜利。<br><br>很久以后才明白，一个人战胜恐惧的方法只有两种：攻击对手，让他比你更恐惧；找出恐惧的根源其实就是自己，然后坚持走下去。<br><br>不是因为我足够强大，而是意识到自己实在渺小，因为渺小，只好坚持。 <a href="https://yibaochina.com/?p=249132" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=249132</a>
+
+### 31: [2023-01-21 01:07:18+08:00 推文](https://twitter.com/realcaixia/status/1616482513534189590)
+
+转发：<br>缅怀！近40天，100余位书画家离世！（附名单）<br>之前网上有过中国科学院、工程院几十位科学家去世的名录；传过北大、清华等名校学界泰斗和老教授去世的数据图；传过一些中共高官显贵去世的消息，下面是2022年习当局从坚决清零到躺平放开后中国100余位美术家去世的名录。 <a href="https://mp.weixin.qq.com/s/gIxho9MGa02fpKMcDXPodQ" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/gIxho9MGa02fpKMcDXPodQ</a>
+
+### 32: [2023-01-21 01:25:36+08:00 推文](https://twitter.com/realcaixia/status/1616487118305648641)
+
+Re 有兴趣的朋友可以点击上面链接，查看一些书画家的解释和他们的代表作品，还有从2022年12月1日到2023年1月11日这40天内去世的书画家名录。<br><img style="" src="https://pbs.twimg.com/media/Fm7qdOMWYAApfNL?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fm7qdOJWAAEGrT-?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fm7qdOMWAAMJndP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fm7qdOLWACkTMnM?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 33: [2023-01-21 02:56:48+08:00 推文](https://twitter.com/realcaixia/status/1616510069461422100)
+
+从隐瞒疫情到坚持清零到躺平放开，几百万人被疫病、被祸国殃民政策做法、被专制极权制度、被独裁强权意志夺去生命。且瘟疫病毒还在作祟不止！<br>习当局竟然发布禁令，禁止悲哭禁止诉穷禁止说惨！<br><br>自2020年春节起，数十万户武汉市民从此春节无团圆无快乐；自2023年春节起，全中国人从此春节当成清明节！<br><img style="" src="https://pbs.twimg.com/media/Fm7_VwRWQAAidW-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

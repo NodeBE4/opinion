@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2022-05-30~2022-06-05'
 
 ### 1: [2022-05-31 07:20:48+08:00 推文](https://twitter.com/realcaixia/status/1531415358187487232)
 
-自2020年武汉新冠病毒祸害全世界，习当局就上演过种种甩锅丑剧。上行下效，上海市委跟着学，甩锅给居委会。这种甩锅能寒了上千万中共基层干部的心，他们也要给自己留条后路，躺平和枪口抬高一寸是必然的反应。这将使极权专制机器越来越半瘫痪……
+自2020年武汉新冠病毒祸害全世界，习当局就上演过种种甩锅丑剧。上行下效，上海市委跟着学，甩锅给居委会。这种甩锅能寒了上千万中共基层干部的心，他们也要给自己留条后路，躺平和枪口抬高一寸是必然的反应。这将使极权专制机器越来越半瘫痪……<br><br>韩连潮: 【上海市委太差火】习近平下令上海封城引发天怒人怨，上海市领导居然把责任推到居委会头上，引发全市民众议论。详情如图，最后一幅是居委会干部不管了，他们开始躺平，最后一句话表达了其极度不满情绪：“还管啥管”！<br><br><img style="" src="https://pbs.twimg.com/media/FUCdXeUVEAAJDId?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUCdXeUUAAI905F?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUCdXeTUcAAR5LU?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUCdXeVUEAAefGT?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2022-05-31 09:36:19+08:00 推文](https://twitter.com/realcaixia/status/1531449460835876864)
 
@@ -49,11 +49,11 @@ Re 1、规避这个规定而继续大权独揽的路径是：中共党内另设�
 
 ### 9: [2022-06-02 23:11:45+08:00 推文](https://twitter.com/realcaixia/status/1532379450226225152)
 
-记住六.四！
+记住六.四！<br><br>周锋锁 Fengsuo Zhou: 江林的经历，是近年来最重要的八九六四新证词。这件保存了三十三年的血衣，见证了她在六四屠杀中生死之交的抉择，也带出了当年军队内部反对戒严的历史事实。<br>她和张胜一家被戒严部队暴力殴打到致命程度，张胜儿子手指打断被捕。<br>张胜是总参作战部战役局局长，父亲张爱萍领衔七上将公开反对军队武力进城<br> <a href="https://twitter.com/voachinese/status/1531494177195712512" target="_blank" rel="noopener noreferrer">https://twitter.com/voachinese/status/1531494177195712512</a>
 
 ### 10: [2022-06-03 20:28:55+08:00 推文](https://twitter.com/realcaixia/status/1532700857816457216)
 
-在端午节这个日子里，期盼所有被极权迫害被关押的的正义人士都能早日回家与亲人团聚。期盼张展、潇男、翘楚、任志强、孙大午、丁家喜、高智晟………都能早日回家……<br><br>王贺楠: 又是一年端午节，我只愿我先生王爱忠能够早日回家和我们团聚。越是这些节日我越会想念。在这里我和家人祝所有一直关心我们的朋友：端午安康！<br><br><img style="" src="https://pbs.twimg.com/media/FUTCIA6VUAA0eyY?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+在端午节这个日子里，期盼所有被极权迫害被关押的的正义人士都能早日回家与亲人团聚。期盼张展、潇男、翘楚、任志强、孙大午、丁家喜、高智晟………都能早日回家……
 
 ### 11: [2022-06-03 21:26:56+08:00 推文](https://twitter.com/realcaixia/status/1532715458557890563)
 
