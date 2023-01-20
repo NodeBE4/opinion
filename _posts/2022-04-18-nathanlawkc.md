@@ -25,9 +25,9 @@ Author of Freedom, UK (https://t.co/2OFalKXJG1) and NA (https://t.co/mkF6N8U5d0)
 
 1. The recent controversy about pro-Beijing groups getting funding from BN(O) scheme makes me worried that the integration partners fail to understand the traits of the Hong Kong community.&nbsp;<br>To conduct a successful integration campaign for HK arrivals, we must know a few facts.
 
-### 3: [2022-04-19 23:22:59+08:00 推文](https://twitter.com/nathanlawkc/status/1516437211352379397)
+### 3: [2022-04-19 23:22:59+08:00 推文](https://twitter.com/nathanlawkc/status/1516437209112616963)
 
-Re 3. HKers are anxious and insecure. Most of them are in support of the pro-democracy movement, therefore they left Hong Kong with trauma and worries of persecution. They fear that Chinese agents in the UK would send their activity records back to Hong Kong, thus endangering them.
+Re 2. HKers have a unique identity and community. HKers and Chinese are two distinct communities — their spoken languages, culture, and way of life are different. Understanding this difference is the most crucial step to making Hongkongers feel respected.
 
 ### 4: [2022-04-19 23:23:00+08:00 推文](https://twitter.com/nathanlawkc/status/1516437215479488512)
 
