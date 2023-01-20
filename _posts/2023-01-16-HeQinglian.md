@@ -309,7 +309,7 @@ Re @Wu_Zhi WEF就是欧盟的放大版，不同之处是其核心成员多是科
 
 ### 74: [2023-01-20 05:34:31+08:00 推文](https://twitter.com/HeQinglian/status/1616187372701634561)
 
-自由不是免费的。<br>Freedom is not free.<div class="rsshub-quote"><br><br>纳姐 全媒体首席主播，全媒体美国小镇镇长: 新西兰🇳🇿人民反抗独裁暴政取得成功，<br>极左大龅牙女首相宣布将辞职！<br>恭喜那些勇敢抗争的新西兰人民！<br> <a href="https://twitter.com/resist_05/status/1615876871786491904" target="_blank" rel="noopener noreferrer">https://twitter.com/resist_05/status/1615876871786491904</a></div>
+自由不是免费的。<br>Freedom is not free.<div class="rsshub-quote"><br><br>纳姐 全媒体首席主播，全媒体美国小镇镇长: 新西兰🇳🇿人民反抗独裁暴政取得成功，<br>极左大龅牙女首相宣布将辞职！<br>恭喜那些勇敢抗争的新西兰人民！<br></div>
 
 ### 75: [2023-01-20 05:53:36+08:00 推文](https://twitter.com/HeQinglian/status/1616192174630047764)
 
@@ -362,4 +362,16 @@ Re @freefromGulag @JianglinLi 我还真没去查这是什么“地方”，他�
 ### 87: [2023-01-20 09:54:41+08:00 推文](https://twitter.com/HeQinglian/status/1616252843714904075)
 
 Re @NAConservative9 如果他此刻去中国，一定是另一番遭遇，肯定一大票人举着标语欢迎他：我们要辉瑞，请支援我们更多的疫苗。<br>——环球不同凉热。
+
+### 88: [2023-01-20 10:55:20+08:00 推文](https://twitter.com/HeQinglian/status/1616268109840629761)
+
+Re @mingshi_chen 那不是数学培养的能力。获奖能够形成孩子学习向上的动力。
+
+### 89: [2023-01-20 11:00:03+08:00 推文](https://twitter.com/HeQinglian/status/1616269294324809729)
+
+Re 忘记告诉推友一件事情：<br>前一向查中国各大城市与省会城市的老龄人口，发现只有武汉市的停留在2019年底，此后不再更新。<br>2019年12月末出现武汉肺炎，2020年初传播全球。
+
+### 90: [2023-01-20 11:01:03+08:00 推文](https://twitter.com/HeQinglian/status/1616269546964353027)
+
+Re @mingshi_chen 这很好。如果能够为孩子找到一两个相应的朋友，那就更好了。
 
