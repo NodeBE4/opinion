@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-01-20
+date: 2023-01-21
 from: https://twitter.com/HeQinglian/status/1614693015112630272
 layout: post
 tags:
@@ -418,4 +418,16 @@ Re @Yjll95699445 Up to you. 你高兴就行——挺合推名。
 ### 101: [2023-01-20 22:45:00+08:00 推文](https://twitter.com/HeQinglian/status/1616446703879745537)
 
 Re @JianglinLi @HongfuDing @Wu_Zhi @ngexp @david_david1968 记错了，纠正。美国纪录片 America’s Book of Secrets，全32集。
+
+### 102: [2023-01-21 02:47:29+08:00 推文](https://twitter.com/HeQinglian/status/1616507723390062599)
+
+Re @James20220313 我会认命。<br>目前这种乱采器官的情况，一个人的延命，以另一个他（她）不认识的人的生命为代价，你愿意做就做。
+
+### 103: [2023-01-21 02:53:46+08:00 推文](https://twitter.com/HeQinglian/status/1616509307289481216)
+
+Re @zhixiangziyou 美国这些不都在陆续出事么？
+
+### 104: [2023-01-21 04:38:48+08:00 推文](https://twitter.com/HeQinglian/status/1616535738132357120)
+
+Re @mingshi_chen 美方公布的要略晚小半月。<br>如果没有对照，在这段时期，可以这样说：<br>1、中国统计局（或海关数据），没一个是真的；<br>2、你想帮中共说话。
 
