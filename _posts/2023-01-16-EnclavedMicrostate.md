@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-01-19
+date: 2023-01-21
 from: https://old.reddit.com/r/badhistory/comments/10dcsdy/mindless_monday_16_january_2023/
 layout: post
 tags:
@@ -64,4 +64,10 @@ For a dive into the politics of China Proper, books on controversies seem to be 
 It's worth also considering the Qing's more colonial frontiers: Emma Teng's *Taiwan's Imagined Geography*, John Robert Shepard's *Statecraft and Political Economy on the Taiwan Frontier, 1600-1800*, and Laura Hostetler's *Qing Colonial Enterprise* are all extremely valuable reads on Qing relations with indigenous peoples. The second and third chapters of Norman Smith's edited volume *Empire and Environment in the Making of Manchuria* are also worth reading for an understanding of the colonial dynamics of Qing rule in that region, and see also Jonathan Schlesinger's *A World Trimmed With Fur* on the broader interaction between ecology, economy, and colonialism on the Qing periphery.
 
 It would be remiss not to include some key cornerstones of 'New Qing' historiography as well. The two big ones would be Pamela Crossley's *A Translucent Mirror*, about Qianlong-era ideological developments, and Mark Elliott's *The Manchu Way*, about the development of the Banner system up to about 1800. There's also a couple of edited volumes worth looking at: Lynn Struve's *The Qing Formation in World-Historical Time* and Millward, Dunnell, Elliott and Forêt's *New Qing Imperial History*.
+
+### 1064: [What’s your opinion on Jack the Ripper?](https://old.reddit.com/r/AskHistorians/comments/10h9p74/whats_your_opinion_on_jack_the_ripper/), submitted on 2023-01-21 05:58:52+08:00.
+
+----- __1064.1__ -----2023-01-21 06:51:34+08:00:
+
+We have, using the moderator discretion powers set out [here](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_moderator.27s_discretion), removed this question because we feel it verges too close to our [rule on poll-type questions and value judgements](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). We suggest you amend the wording to ask about historical consensus rather than individual opinions.
 
