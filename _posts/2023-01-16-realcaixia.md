@@ -29,7 +29,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FmjiESzaEAA3wwu?format=jpg
 
 ### 4: [2023-01-17 02:01:27+08:00 推文](https://twitter.com/realcaixia/status/1615046590401777664)
 
-再次转推！<div class="rsshub-quote"><br><br>大師兄（原Bob New）: 再次强烈建议墙内民众传播该里程碑级事件！<br>可以说，从国会立法和机构设置层面，将CCP和中国、中国人民剥离，已经触及中共最恐惧的噩梦！<br>对此，中共无论官方还是媒体，都表现的异乎寻常的，象死妈一样的沉默！<br>那么，咱们就偏不让这些垃圾装死！<br> <a href="https://twitter.com/caijingzhenxing/status/1613807208352960518" target="_blank" rel="noopener noreferrer">https://twitter.com/caijingzhenxing/status/1613807208352960518</a></div>
+再次转推！<div class="rsshub-quote"><br><br>大師兄（原Bob New）: 再次强烈建议墙内民众传播该里程碑级事件！<br>可以说，从国会立法和机构设置层面，将CCP和中国、中国人民剥离，已经触及中共最恐惧的噩梦！<br>对此，中共无论官方还是媒体，都表现的异乎寻常的，象死妈一样的沉默！<br>那么，咱们就偏不让这些垃圾装死！<br></div>
 
 ### 5: [2023-01-17 02:06:51+08:00 推文](https://twitter.com/realcaixia/status/1615047946214707200)
 
@@ -37,7 +37,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FmjiESzaEAA3wwu?format=jpg
 
 ### 6: [2023-01-17 03:36:53+08:00 推文](https://twitter.com/realcaixia/status/1615070606256640000)
 
-平民在中国活得很不容易，做父亲的更是压力山大。李承鹏先生这篇文章说到了父亲的奋斗、困窘与不堪。令人心酸至极。父爱如山！<div class="rsshub-quote"><br><br>李承鹏（真正的大眼哥）: 中国的父亲跟全世界的父亲有些不同，他们牺牲尊严来养活家庭，比如违章小贩夏俊峰，这个父亲只是想让儿子学画，才上街摆摊，可巨大的城市竟容不下一个烧烤摊，被城管毒打、踢裆，他奋起反击最终竟逼至杀人。想象瘦小的夏俊峰挥刀刺向身形高大的城管时，蚍蚨撼树，内心该多悲凉。<br></div>
+平民在中国活得很不容易，做父亲的更是压力山大。李承鹏先生这篇文章说到了父亲的奋斗、困窘与不堪。令人心酸至极。父爱如山！<div class="rsshub-quote"><br><br>李承鹏（真正的大眼哥）: 中国的父亲跟全世界的父亲有些不同，他们牺牲尊严来养活家庭，比如违章小贩夏俊峰，这个父亲只是想让儿子学画，才上街摆摊，可巨大的城市竟容不下一个烧烤摊，被城管毒打、踢裆，他奋起反击最终竟逼至杀人。想象瘦小的夏俊峰挥刀刺向身形高大的城管时，蚍蚨撼树，内心该多悲凉。<br> <a href="https://twitter.com/dayangelcp/status/1614874075645767685" target="_blank" rel="noopener noreferrer">https://twitter.com/dayangelcp/status/1614874075645767685</a></div>
 
 ### 7: [2023-01-17 03:43:17+08:00 推文](https://twitter.com/realcaixia/status/1615072213987889153)
 
@@ -85,7 +85,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FmsHud-agAAIUi8?format=jpg
 
 ### 18: [2023-01-18 07:59:41+08:00 推文](https://twitter.com/realcaixia/status/1615499130557665281)
 
-是上海市崇明岛。<div class="rsshub-quote"><br><br>量子跃迁: 我看着这些面对自己亲人堆积如山的尸体仍默默忍耐的民众，我深刻理解了为什么中共在三年大饥荒中饿死了9000多万民众而政权无恙的原因。胆小、懦弱、奴性，让广大百姓没有人性的存在，只有动物性的存在！<br></div>
+是上海市崇明岛。<div class="rsshub-quote"><br><br>量子跃迁: 我看着这些面对自己亲人堆积如山的尸体仍默默忍耐的民众，我深刻理解了为什么中共在三年大饥荒中饿死了9000多万民众而政权无恙的原因。胆小、懦弱、奴性，让广大百姓没有人性的存在，只有动物性的存在！<br> <a href="https://twitter.com/jacklee7281/status/1614717528160305154" target="_blank" rel="noopener noreferrer">https://twitter.com/jacklee7281/status/1614717528160305154</a></div>
 
 ### 19: [2023-01-18 08:02:19+08:00 推文](https://twitter.com/realcaixia/status/1615499790443331584)
 
@@ -105,7 +105,7 @@ Re @ErR7YLP9yZf4Yem 中共9000多万内是有分化的，并非铁板一块。�
 
 ### 23: [2023-01-19 04:42:22+08:00 推文](https://twitter.com/realcaixia/status/1615811861299204096)
 
-感动。<div class="rsshub-quote"><br><br>韩连潮: 一位癌症患者为做化疗不得不去剃掉长发，而她的理发师做了一件出人意料的事：<br></div>
+感动。<div class="rsshub-quote"><br><br>韩连潮: 一位癌症患者为做化疗不得不去剃掉长发，而她的理发师做了一件出人意料的事：<br> <a href="https://twitter.com/Brink_Thinker/status/1614983092980121600" target="_blank" rel="noopener noreferrer">https://twitter.com/Brink_Thinker/status/1614983092980121600</a></div>
 
 ### 24: [2023-01-19 05:14:11+08:00 推文](https://twitter.com/realcaixia/status/1615819868238131200)
 
@@ -146,4 +146,8 @@ Re 有兴趣的朋友可以点击上面链接，查看一些书画家的解释�
 ### 33: [2023-01-21 02:56:48+08:00 推文](https://twitter.com/realcaixia/status/1616510069461422100)
 
 从隐瞒疫情到坚持清零到躺平放开，几百万人被疫病、被祸国殃民政策做法、被专制极权制度、被独裁强权意志夺去生命。且瘟疫病毒还在作祟不止！<br>习当局竟然发布禁令，禁止悲哭禁止诉穷禁止说惨！<br><br>自2020年春节起，数十万户武汉市民从此春节无团圆无快乐；自2023年春节起，全中国人从此春节当成清明节！<br><img style="" src="https://pbs.twimg.com/media/Fm7_VwRWQAAidW-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 34: [2023-01-21 09:59:55+08:00 推文](https://twitter.com/realcaixia/status/1616616549477134338)
+
+是，确实很奇怪，一个多月全国人感染率达到60%以上，感染大跃进？！这符合疫病传染规律吗？为什么中国能用40天快速感染跑过欧美国家3年的感染过程？是怎么能做到的？<div class="rsshub-quote"><br><br>蔡慎坤: 几千年来从来没有过生病死亡不能说病因，这次新冠病毒以闪电般的速度在全国范围内广泛传播，一个多月感染率前所未有，重症死亡率也是有目共睹，无论死于医院还是死于家中，荒谬的是都不能说死于新冠病毒，党政机关企事业单位因病毒致死的家属甚至连公开哭丧的权利都被无情剥夺，这样的新时代何其残忍！<br></div>
 

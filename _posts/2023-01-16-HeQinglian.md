@@ -309,7 +309,7 @@ Re @Wu_Zhi WEF就是欧盟的放大版，不同之处是其核心成员多是科
 
 ### 74: [2023-01-20 05:34:31+08:00 推文](https://twitter.com/HeQinglian/status/1616187372701634561)
 
-自由不是免费的。<br>Freedom is not free.<div class="rsshub-quote"><br><br>纳姐 全媒体首席主播，全媒体美国小镇镇长: 新西兰🇳🇿人民反抗独裁暴政取得成功，<br>极左大龅牙女首相宣布将辞职！<br>恭喜那些勇敢抗争的新西兰人民！<br></div>
+自由不是免费的。<br>Freedom is not free.<div class="rsshub-quote"><br><br>纳姐 全媒体首席主播，全媒体美国小镇镇长: 新西兰🇳🇿人民反抗独裁暴政取得成功，<br>极左大龅牙女首相宣布将辞职！<br>恭喜那些勇敢抗争的新西兰人民！<br> <a href="https://twitter.com/resist_05/status/1615876871786491904" target="_blank" rel="noopener noreferrer">https://twitter.com/resist_05/status/1615876871786491904</a></div>
 
 ### 75: [2023-01-20 05:53:36+08:00 推文](https://twitter.com/HeQinglian/status/1616192174630047764)
 
@@ -413,7 +413,7 @@ Re @Yjll95699445 Up to you. 你高兴就行——挺合推名。
 
 ### 100: [2023-01-20 22:38:57+08:00 推文](https://twitter.com/HeQinglian/status/1616445181116702720)
 
-有两个产业应该废止，一是器官移植，二是变性。<br>前一个导致无数人莫名死亡，后一个让人活成废料。<div class="rsshub-quote"><br><br>韦石 watson Meng of Farm Direct: 割取買賣器官不只是利益鏈，是產業鏈。和中央領導家族有關的產業鏈。<br></div>
+有两个产业应该废止，一是器官移植，二是变性。<br>前一个导致无数人莫名死亡，后一个让人活成废料。<div class="rsshub-quote"><br><br>韦石 watson Meng of Farm Direct: 割取買賣器官不只是利益鏈，是產業鏈。和中央領導家族有關的產業鏈。<br> <a href="https://twitter.com/uyunistar/status/1616155368945750017" target="_blank" rel="noopener noreferrer">https://twitter.com/uyunistar/status/1616155368945750017</a></div>
 
 ### 101: [2023-01-20 22:45:00+08:00 推文](https://twitter.com/HeQinglian/status/1616446703879745537)
 
@@ -438,4 +438,36 @@ Re @david_david1968 对比一下，我家差得太远，还得努力，不过，
 ### 106: [2023-01-21 04:47:14+08:00 推文](https://twitter.com/HeQinglian/status/1616537859770441728)
 
 Re @mingshi_chen 这是我最近我经常遇到的事情。<br>比如，这次WEF会议的中心之一，竟然是欢呼中国回归世界经济舞台，与某人说起，得到的回答就是这样，挺搞笑的。
+
+### 107: [2023-01-21 08:19:43+08:00 推文](https://twitter.com/HeQinglian/status/1616591332461645824)
+
+Re @mingshi_chen @tiger20boy22 金融资本、跨国资本对中共的真实态度，其实达沃斯2023年会很明显，遮住眼睛就是<br>转两则信息供参考：<br>1、脸书谭松年:”我想了很久：对中国人民说美国的问题和腐败可能是使我们丧失对美国要推翻中共的信心！”另有一则针对性很强的，我不转了。<br>2、疑美、憎美與厭憎民主的三位一體 <a href="https://www.upmedia.mg/news_info.php?Type=2&amp;SerialNo=164353" target="_blank" rel="noopener noreferrer">https://www.upmedia.mg/news_info.php?Type=2&amp;SerialNo=164353</a>
+
+### 108: [2023-01-21 08:21:06+08:00 推文](https://twitter.com/HeQinglian/status/1616591680957710336)
+
+Re @jokergetupearly @mingshi_chen 我从来没被破防，倒是你自己破防了。<br>我如果要引用，与这位的唯一差别可能会等半个月，核对一下其他方面的。
+
+### 109: [2023-01-21 08:22:19+08:00 推文](https://twitter.com/HeQinglian/status/1616591988119281665)
+
+Re @JianglinLi @david_david1968 如果是英尺错写，就太小了。应该是换算后的。
+
+### 110: [2023-01-21 08:27:53+08:00 推文](https://twitter.com/HeQinglian/status/1616593389104910337)
+
+Re @Jingfengtang1 @david_david1968 普林斯顿镇的房子，那是真买不起，不过可能不会比旧金山、洛杉矶、纽约曼哈顿贵。<br>离其车程15分钟之外，房价就便宜一些了。<br>几天前去纽约上州一朋友家看望，半座山沿山路上去，三户人家，每家都有3000英尺以上，还有几英亩地，房价也就50万左右。只要不在意中国菜，有如桃源。
+
+### 111: [2023-01-21 08:29:35+08:00 推文](https://twitter.com/HeQinglian/status/1616593817557426177)
+
+Re @fading_you1 宗教团体，不需要纠错，也从来不认为有错。
+
+### 112: [2023-01-21 08:32:40+08:00 推文](https://twitter.com/HeQinglian/status/1616594591561519104)
+
+Re @jokergetupearly @mingshi_chen 进出口数据很难造假，一是对方有数据，可以比对；二是造假没意义。<br>去年第四季度，恰好是进出口下降，年度化后会低一些。<br>重要的是进出口商品的构成，看了后，就明白是否有持续性。
+
+### 113: [2023-01-21 08:37:58+08:00 推文](https://twitter.com/HeQinglian/status/1616595925102739457)
+
+Re @shenliangqing2 西雅图之战<br><br>一定要看，有些纪录片镜头。名导演。看了后会明白很多事情。<br>去时反WTO与全球化，离开时已经合流，领导人当初反后来不反也好，反正没弄明白。但没弄明白的事情，不妨碍他们反对与支持。 <a href="https://www.nunuyy5.org/dianying/37924.html" target="_blank" rel="noopener noreferrer">https://www.nunuyy5.org/dianying/37924.html</a>
+
+### 114: [2023-01-21 08:39:37+08:00 推文](https://twitter.com/HeQinglian/status/1616596341148504064)
+
+Re @mingshi_chen @tiger20boy22 你就保持自己的思考好了，只要他们不来统一他人的思想，爱怎样想就怎样想。
 
