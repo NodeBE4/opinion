@@ -65,9 +65,19 @@ It's worth also considering the Qing's more colonial frontiers: Emma Teng's *Tai
 
 It would be remiss not to include some key cornerstones of 'New Qing' historiography as well. The two big ones would be Pamela Crossley's *A Translucent Mirror*, about Qianlong-era ideological developments, and Mark Elliott's *The Manchu Way*, about the development of the Banner system up to about 1800. There's also a couple of edited volumes worth looking at: Lynn Struve's *The Qing Formation in World-Historical Time* and Millward, Dunnell, Elliott and Forêt's *New Qing Imperial History*.
 
-### 1064: [What’s the biggest overreaction you’ve ever seen from a fanbase?](https://old.reddit.com/r/TwoBestFriendsPlay/comments/10h7irw/whats_the_biggest_overreaction_youve_ever_seen/), submitted on 2023-01-21 04:39:30+08:00.
+### 1064: [What was once highly respected that is now a complete joke?](https://old.reddit.com/r/AskReddit/comments/10h0r47/what_was_once_highly_respected_that_is_now_a/), submitted on 2023-01-21 00:08:28+08:00.
 
------ __1064.1__ -----2023-01-21 18:03:31+08:00:
+----- __1064.1__ -----2023-01-21 20:00:55+08:00:
+
+> *Stole credit for music that was made by his partners and employees
+> 
+> 
+
+Music or sound effects? I seem to recall he did do composing of music, but it was the sound effects he stole credit for. He definitely lied about which games he contributed to, but I don't recall stealing credit for music specifically.
+
+### 1065: [What’s the biggest overreaction you’ve ever seen from a fanbase?](https://old.reddit.com/r/TwoBestFriendsPlay/comments/10h7irw/whats_the_biggest_overreaction_youve_ever_seen/), submitted on 2023-01-21 04:39:30+08:00.
+
+----- __1065.1__ -----2023-01-21 18:03:31+08:00:
 
 We don't know precisely why she was fired. The termination notice simply stated that she was fired for 'breach of contract' and for spreading rumours, not specifically NDA violations, and Korekore ('Japanese Keemstar') insinuated that she had been leaking other info to him in the past. So it could be that her deliberate leaks in February-March 2022 were the sole cause, or it could be that she had been let off with a warning before and was fired over a repeat offence. We simply do not know the precise reasons, but it's certainly not due to any company policy around a 'dating ban' as some have insinuated (indeed there's at least one talent at that particular agency who's been very open about her relationships, and two who are public about having been dating).
 
@@ -75,15 +85,15 @@ Not all VTubers are owned or managed by the same agency, or even under an agency
 
 Most VTubers, however, are independents: some bigger, some smaller. At one end you have someone like Spanish-speaking VTuber Nimu Spacecat with 2.4m Twitch followers (the most-followed VTuber on Twitch), at the other you have a whole host of really small indies (I wouldn't even know where to look, but search 'debut' on the VirtualYoutubers subreddit and you'll find a few), with various people in the middle like Nekomiya Hinata or OBKatieKat. It's a very big space, where the major agencies are really just the tip of the iceberg.
 
-### 1065: [What’s your opinion on Jack the Ripper?](https://old.reddit.com/r/AskHistorians/comments/10h9p74/whats_your_opinion_on_jack_the_ripper/), submitted on 2023-01-21 05:58:52+08:00.
+### 1066: [What’s your opinion on Jack the Ripper?](https://old.reddit.com/r/AskHistorians/comments/10h9p74/whats_your_opinion_on_jack_the_ripper/), submitted on 2023-01-21 05:58:52+08:00.
 
------ __1065.1__ -----2023-01-21 06:51:34+08:00:
+----- __1066.1__ -----2023-01-21 06:51:34+08:00:
 
 We have, using the moderator discretion powers set out [here](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_moderator.27s_discretion), removed this question because we feel it verges too close to our [rule on poll-type questions and value judgements](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). We suggest you amend the wording to ask about historical consensus rather than individual opinions.
 
-### 1066: [who created the first economics faculty and in which university?](https://old.reddit.com/r/AskHistorians/comments/10hm8d1/who_created_the_first_economics_faculty_and_in/), submitted on 2023-01-21 16:08:55+08:00.
+### 1067: [who created the first economics faculty and in which university?](https://old.reddit.com/r/AskHistorians/comments/10hm8d1/who_created_the_first_economics_faculty_and_in/), submitted on 2023-01-21 16:08:55+08:00.
 
------ __1066.1__ -----2023-01-21 17:06:41+08:00:
+----- __1067.1__ -----2023-01-21 17:06:41+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
