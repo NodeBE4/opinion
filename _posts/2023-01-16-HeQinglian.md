@@ -309,7 +309,7 @@ Re @Wu_Zhi WEF就是欧盟的放大版，不同之处是其核心成员多是科
 
 ### 74: [2023-01-20 05:34:31+08:00 推文](https://twitter.com/HeQinglian/status/1616187372701634561)
 
-自由不是免费的。<br>Freedom is not free.<div class="rsshub-quote"><br><br>纳姐 全媒体首席主播，全媒体美国小镇镇长: 新西兰🇳🇿人民反抗独裁暴政取得成功，<br>极左大龅牙女首相宣布将辞职！<br>恭喜那些勇敢抗争的新西兰人民！<br> <a href="https://twitter.com/resist_05/status/1615876871786491904" target="_blank" rel="noopener noreferrer">https://twitter.com/resist_05/status/1615876871786491904</a></div>
+自由不是免费的。<br>Freedom is not free.<div class="rsshub-quote"><br><br>纳姐 全媒体首席主播，全媒体美国小镇镇长: 新西兰🇳🇿人民反抗独裁暴政取得成功，<br>极左大龅牙女首相宣布将辞职！<br>恭喜那些勇敢抗争的新西兰人民！<br></div>
 
 ### 75: [2023-01-20 05:53:36+08:00 推文](https://twitter.com/HeQinglian/status/1616192174630047764)
 
@@ -413,7 +413,7 @@ Re @Yjll95699445 Up to you. 你高兴就行——挺合推名。
 
 ### 100: [2023-01-20 22:38:57+08:00 推文](https://twitter.com/HeQinglian/status/1616445181116702720)
 
-有两个产业应该废止，一是器官移植，二是变性。<br>前一个导致无数人莫名死亡，后一个让人活成废料。<div class="rsshub-quote"><br><br>韦石 watson Meng of Farm Direct: 割取買賣器官不只是利益鏈，是產業鏈。和中央領導家族有關的產業鏈。<br></div>
+有两个产业应该废止，一是器官移植，二是变性。<br>前一个导致无数人莫名死亡，后一个让人活成废料。<div class="rsshub-quote"><br><br>韦石 watson Meng of Farm Direct: 割取買賣器官不只是利益鏈，是產業鏈。和中央領導家族有關的產業鏈。<br> <a href="https://twitter.com/uyunistar/status/1616155368945750017" target="_blank" rel="noopener noreferrer">https://twitter.com/uyunistar/status/1616155368945750017</a></div>
 
 ### 101: [2023-01-20 22:45:00+08:00 推文](https://twitter.com/HeQinglian/status/1616446703879745537)
 
