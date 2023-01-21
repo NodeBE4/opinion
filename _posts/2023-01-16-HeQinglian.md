@@ -413,7 +413,7 @@ Re @Yjll95699445 Up to you. 你高兴就行——挺合推名。
 
 ### 100: [2023-01-20 22:38:57+08:00 推文](https://twitter.com/HeQinglian/status/1616445181116702720)
 
-有两个产业应该废止，一是器官移植，二是变性。<br>前一个导致无数人莫名死亡，后一个让人活成废料。<div class="rsshub-quote"><br><br>韦石 watson Meng of Farm Direct: 割取買賣器官不只是利益鏈，是產業鏈。和中央領導家族有關的產業鏈。<br> <a href="https://twitter.com/uyunistar/status/1616155368945750017" target="_blank" rel="noopener noreferrer">https://twitter.com/uyunistar/status/1616155368945750017</a></div>
+有两个产业应该废止，一是器官移植，二是变性。<br>前一个导致无数人莫名死亡，后一个让人活成废料。<div class="rsshub-quote"><br><br>韦石 watson Meng of Farm Direct: 割取買賣器官不只是利益鏈，是產業鏈。和中央領導家族有關的產業鏈。<br></div>
 
 ### 101: [2023-01-20 22:45:00+08:00 推文](https://twitter.com/HeQinglian/status/1616446703879745537)
 
@@ -470,4 +470,12 @@ Re @shenliangqing2 西雅图之战<br><br>一定要看，有些纪录片镜头�
 ### 114: [2023-01-21 08:39:37+08:00 推文](https://twitter.com/HeQinglian/status/1616596341148504064)
 
 Re @mingshi_chen @tiger20boy22 你就保持自己的思考好了，只要他们不来统一他人的思想，爱怎样想就怎样想。
+
+### 115: [2023-01-21 08:53:35+08:00 推文](https://twitter.com/HeQinglian/status/1616599857766223873)
+
+Re @mingshi_chen @tiger20boy22 去年10月左右，说是Archegos对几只股票的高杠杆押注崩盘，震惊了华尔街并引发监管机构的调查，瑞士信贷承担了大部分损失。这些亏损使瑞信经历了自金融危机以来最糟糕的时刻，外界甚至说是又一个雷曼时刻要来了。后来换帅，现在不提了。那个小国，银行几乎是经济之本，经不起这事折腾。
+
+### 116: [2023-01-21 08:58:18+08:00 推文](https://twitter.com/HeQinglian/status/1616601044963758080)
+
+Re @tiger20boy22 @mingshi_chen 从美国将瑞士银行的保险箱撬开一条缝之后，瑞士银行被迫与美、英等银行交换月报，已经流失了不少大客户。
 
