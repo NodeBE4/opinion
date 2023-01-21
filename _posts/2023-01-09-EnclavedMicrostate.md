@@ -305,3 +305,7 @@ Reading the Marble Machine X subreddit is fascinating; I don't think I've ever s
 
 IMO he's never going to finish this thing and it's simply taken him too long to get here as it is. Marble Machine 1 went viral nearly *seven years ago* in March 2016, having taken about 16 months to go from build to video. MMX was scrapped in September 2021, having begun development in January 2017 – that's 57 months of wasted time. He could have redesigned and rebuilt the original Marble Machine *three and a half times over* in the time that he finish building the MMX. The way it stands, it's looking like *Synecdoche: New York* levels of life-consuming unfinishedness. I've seen the odd comparison to Yandere Simulator, but you know what Yandere Simulator has consistently had that MMX hasn't? Functional, accessible builds that have been iterated on, however slowly, and not a singular integrated device whose creator is too much of a perfectionist to be willing to complete, even in rough form.
 
+----- __1057.5__ -----2023-01-21 17:18:54+08:00:
+
+[This](https://www.reddit.com/r/HobbyDrama/comments/106kkcq/hobby_scuffles_week_of_january_9_2023/j3i506x/?context=999) is probably the comment in question by /u/ohbuggerit.
+
