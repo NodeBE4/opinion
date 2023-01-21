@@ -309,7 +309,7 @@ Re @Wu_Zhi WEF就是欧盟的放大版，不同之处是其核心成员多是科
 
 ### 74: [2023-01-20 05:34:31+08:00 推文](https://twitter.com/HeQinglian/status/1616187372701634561)
 
-自由不是免费的。<br>Freedom is not free.<div class="rsshub-quote"><br><br>纳姐 全媒体首席主播，全媒体美国小镇镇长: 新西兰🇳🇿人民反抗独裁暴政取得成功，<br>极左大龅牙女首相宣布将辞职！<br>恭喜那些勇敢抗争的新西兰人民！<br></div>
+自由不是免费的。<br>Freedom is not free.<div class="rsshub-quote"><br><br>纳姐 全媒体首席主播，全媒体美国小镇镇长: 新西兰🇳🇿人民反抗独裁暴政取得成功，<br>极左大龅牙女首相宣布将辞职！<br>恭喜那些勇敢抗争的新西兰人民！<br> <a href="https://twitter.com/resist_05/status/1615876871786491904" target="_blank" rel="noopener noreferrer">https://twitter.com/resist_05/status/1615876871786491904</a></div>
 
 ### 75: [2023-01-20 05:53:36+08:00 推文](https://twitter.com/HeQinglian/status/1616192174630047764)
 
@@ -413,7 +413,7 @@ Re @Yjll95699445 Up to you. 你高兴就行——挺合推名。
 
 ### 100: [2023-01-20 22:38:57+08:00 推文](https://twitter.com/HeQinglian/status/1616445181116702720)
 
-有两个产业应该废止，一是器官移植，二是变性。<br>前一个导致无数人莫名死亡，后一个让人活成废料。<div class="rsshub-quote"><br><br>韦石 watson Meng of Farm Direct: 割取買賣器官不只是利益鏈，是產業鏈。和中央領導家族有關的產業鏈。<br> <a href="https://twitter.com/uyunistar/status/1616155368945750017" target="_blank" rel="noopener noreferrer">https://twitter.com/uyunistar/status/1616155368945750017</a></div>
+有两个产业应该废止，一是器官移植，二是变性。<br>前一个导致无数人莫名死亡，后一个让人活成废料。<div class="rsshub-quote"><br><br>韦石 watson Meng of Farm Direct: 割取買賣器官不只是利益鏈，是產業鏈。和中央領導家族有關的產業鏈。<br></div>
 
 ### 101: [2023-01-20 22:45:00+08:00 推文](https://twitter.com/HeQinglian/status/1616446703879745537)
 
@@ -478,4 +478,8 @@ Re @mingshi_chen @tiger20boy22 去年10月左右，说是Archegos对几只股票
 ### 116: [2023-01-21 08:58:18+08:00 推文](https://twitter.com/HeQinglian/status/1616601044963758080)
 
 Re @tiger20boy22 @mingshi_chen 从美国将瑞士银行的保险箱撬开一条缝之后，瑞士银行被迫与美、英等银行交换月报，已经流失了不少大客户。
+
+### 117: [2023-01-21 23:13:19+08:00 推文](https://twitter.com/HeQinglian/status/1616816215057367043)
+
+Re @tmODvAC5FUgujZS @James20220313 以前，中国监狱有个操作，犯人填表愿意死后捐献器官，可以挣表现分。听说不少这种犯人会“自然死亡”，引发国际反死刑组织的反对声。<br>文革时，江西政治犯李九莲与钟海源被活杀取肾，那惨状听了后，还有同理心的人不会赞成取死刑犯的器官。<br>因为中国并非现代宪政法治国家。
 
