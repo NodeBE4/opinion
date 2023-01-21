@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2022-07-18~2022-07-24'
 
 ### 1: [2022-07-18 09:34:51+08:00 推文](https://twitter.com/realcaixia/status/1548843710527508481)
 
-我曾是中央党校代表团成员之一访问朝鲜。一天参观朝鲜劳动党中央党校，教室墙上有几个大挂幅，上面写满了朝鲜文。我们团的一个鲜族教授，大声翻译那些朝鲜文。原来这是培训官员如何“管理党员和民众”的要点，其中之一就是实行五户连坐制。一人被控谋反，五家人连坐判同罪。看来，中国朝鲜化正在进行时。
+我曾是中央党校代表团成员之一访问朝鲜。一天参观朝鲜劳动党中央党校，教室墙上有几个大挂幅，上面写满了朝鲜文。我们团的一个鲜族教授，大声翻译那些朝鲜文。原来这是培训官员如何“管理党员和民众”的要点，其中之一就是实行五户连坐制。一人被控谋反，五家人连坐判同罪。看来，中国朝鲜化正在进行时。<br><br>一剑飘尘 007: 习近平时代，中共倒退到“连坐”制度，还有人说“谁上都一样”！不要说八十年代胡赵时期，就是江胡时代，也不至于如此明目张胆连坐孩子吧？习下是方向，谁上都更强<br><br><img style="" src="https://pbs.twimg.com/media/FX6IDYbUcAEuEYE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2022-07-19 08:41:33+08:00 推文](https://twitter.com/realcaixia/status/1549192684144934912)
 
@@ -45,7 +45,7 @@ Re 中共党政官员中包括国企央企高管，所有党员干部都有行�
 
 ### 8: [2022-07-19 20:57:08+08:00 推文](https://twitter.com/realcaixia/status/1549377803040264192)
 
-他们又开坦克。8964后，坦克成为一种政治象征。那次，人们还认为他们“不致于”，经过6.4那一夜，人们知道他们什么都能干得出来。现在他们又公然出动坦克。习统治下，中国越来越成为坦克轮子上的帝国”了。<br><br>方舟子: 冲锋枪不够威武了，坦克出动。<br><br><video src="https://video.twimg.com/ext_tw_video/1549159214169305089/pu/vid/888x502/NgwZx8eN7lfdinra.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1549159214169305089/pu/img/SIhVLuj8jIgCUXlU.jpg"></video>
+他们又开坦克。8964后，坦克成为一种政治象征。那次，人们还认为他们“不致于”，经过6.4那一夜，人们知道他们什么都能干得出来。现在他们又公然出动坦克。习统治下，中国越来越成为坦克轮子上的帝国”了。
 
 ### 9: [2022-07-19 23:36:46+08:00 推文](https://twitter.com/realcaixia/status/1549417975777820674)
 
@@ -57,7 +57,7 @@ Re <br><video src="https://video.twimg.com/ext_tw_video/1549418664331460610/pu/v
 
 ### 11: [2022-07-20 00:11:36+08:00 推文](https://twitter.com/realcaixia/status/1549426740623187975)
 
-王缉思教授对中共高层很有影响力。近年来中共战狼外交遭世界普遍反感，中共在国际上处境孤立，正在遭文明世界抛弃。王教授的发言或许是中共外交策略有所改变的征兆：收敛战狼嘴脸，遮掩中共军事威胁台湾、破坏国际秩序、危害他国国家安全的种种恶行，继续打利益牌鼓吹增进往来。王教授学问为党国效力<br><br>韩连潮: 【谁想把中美拉入战火】王缉思最近的发言是猪八戒倒打一耙，混淆是非，比战狼危害更大。他说中共高官无攻台时间表，事实是98年江泽民就提出时间表，习也提过，还用地动山摇来威胁；目前和平统一的“和平”二字都已删掉，天天军机扰台，拿下台湾成为民族复兴主要任务，一直叫嚣战争的是党国，而不是美国。<br><br><img style="" src="https://pbs.twimg.com/media/FYBsGTHXoAIQ4dF?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+王缉思教授对中共高层很有影响力。近年来中共战狼外交遭世界普遍反感，中共在国际上处境孤立，正在遭文明世界抛弃。王教授的发言或许是中共外交策略有所改变的征兆：收敛战狼嘴脸，遮掩中共军事威胁台湾、破坏国际秩序、危害他国国家安全的种种恶行，继续打利益牌鼓吹增进往来。王教授学问为党国效力
 
 ### 12: [2022-07-20 00:18:32+08:00 推文](https://twitter.com/realcaixia/status/1549428485936058368)
 
@@ -93,7 +93,7 @@ Re @wongkim728 你有什么根据说某人刻意造谣呢？这需要拿出事�
 
 ### 20: [2022-07-21 01:14:43+08:00 推文](https://twitter.com/realcaixia/status/1549805012095848450)
 
-中共對自己幹的罪惡一清二楚，他們害怕人們的紀念，他們千方百計地想要扼殺人們的記憶。這和它們年年妄圖扼殺人們對6.4天安門廣場死難者的紀念一樣。<br><br>hanbugerger: @realcaixia 墙内现状。<br><br><img style="" src="https://pbs.twimg.com/media/FYH_7mNXgAYXpU9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+中共對自己幹的罪惡一清二楚，他們害怕人們的紀念，他們千方百計地想要扼殺人們的記憶。這和它們年年妄圖扼殺人們對6.4天安門廣場死難者的紀念一樣。
 
 ### 21: [2022-07-21 01:48:51+08:00 推文](https://twitter.com/realcaixia/status/1549813602693140480)
 
@@ -121,11 +121,11 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FYJewOwX0AUPknj?format=jpg
 
 ### 27: [2022-07-21 22:43:27+08:00 推文](https://twitter.com/realcaixia/status/1550129333116608512)
 
-特别推荐盛洪先生的这篇分析文章。
+特别推荐盛洪先生的这篇分析文章。<br><br>Sheng Hong: 据报道，近来多达300多楼盘业主采取强制停贷，以逼迫开发商复工。这显然是开发商的违约导致的。然而这不是偶然出现的，不是个别开发商违规使用资金所能完全解释的，这是一个系统性问题，是去年就出现的房地产市场萎缩的进一步恶化。而以土地为中心的<br> <a href="https://five-woods.com/2021/10/21/%e3%80%90%e6%a8%aa%e8%ae%ae%e3%80%91%e4%b8%ba%e4%bb%80%e4%b9%88%e4%b8%8d%e5%8f%97%e7%ba%a6%e6%9d%9f%e7%9a%84%e6%9d%83%e5%8a%9b%e4%bc%9a%e7%93%a6%e8%a7%a3%e4%b8%ad%e5%9b%bd%e5%a5%87%e8%bf%b9%ef%bc%9f/" target="_blank" rel="noopener noreferrer">https://five-woods.com/2021/10/21/%e3%80%90%e6%a8%aa%e8%ae%ae%e3%80%91%e4%b8%ba%e4%bb%80%e4%b9%88%e4%b8%8d%e5%8f%97%e7%ba%a6%e6%9d%9f%e7%9a%84%e6%9d%83%e5%8a%9b%e4%bc%9a%e7%93%a6%e8%a7%a3%e4%b8%ad%e5%9b%bd%e5%a5%87%e8%bf%b9%ef%bc%9f/</a>
 
 ### 28: [2022-07-22 05:48:02+08:00 推文](https://twitter.com/realcaixia/status/1550236182981869575)
 
-清华大学校园出现传单，令校方十分紧张，他们正在四处打搜捕传单张贴者。<br>这令我想起从小看过的中共宣传的“革命”电影。电影里机智勇敢张贴传单者都是共产党员，出动军警全城大搜捕的是反动独裁政府。<br>现在“革命”电影情景再现于清华大学。真是莫大的历史讽刺！！！
+清华大学校园出现传单，令校方十分紧张，他们正在四处打搜捕传单张贴者。<br>这令我想起从小看过的中共宣传的“革命”电影。电影里机智勇敢张贴传单者都是共产党员，出动军警全城大搜捕的是反动独裁政府。<br>现在“革命”电影情景再现于清华大学。真是莫大的历史讽刺！！！<br><br>高瑜: 清華最近張貼出《從法西斯手中保衛生活》的傳單，校方緊張搜捕張貼者。傳單開宗明義：公開的法西斯主義被消滅近80年，今天的法西斯主義，以“習慣”的形式侵蝕我們的生活和我們的道德。我們變得冷漠而殘忍，以他人的痛苦為樂，我們為仇恨言論所吸引，自以為能在叢林競爭中獲得優勝。張貼者號召：<br><br><img style="" src="https://pbs.twimg.com/media/FYKb7LJagAEWTIr?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 29: [2022-07-22 05:54:47+08:00 推文](https://twitter.com/realcaixia/status/1550237880592859138)
 
@@ -137,11 +137,11 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FYObfD5XgAMmgmH?format=jpg
 
 ### 31: [2022-07-22 23:11:57+08:00 推文](https://twitter.com/realcaixia/status/1550498892197896192)
 
-沉默啊沉默，不在沉默中死亡，就在沉默中爆发。中共极权统治集团做好死无葬身之地的准备了吗？<br><br>高伐林: 中国网信办《互联网用户账号管理规定》自8月1日起生效，互联网用户注册须填写真实职业，将揭露IP地址；过去网民用错别字、谐音或相近文字、数字和符号打擦边球传布“敏感”信息，规避审查，现在都遭明文禁止；严格管控数据跨国流通，对最重要学术平台“知网”启动网络安全审查。<br> <a href="https://www.voachinese.com/a/china-launches-security-review-on-cnki-the-country-s-leading-academic-research-database-0722222/6666367.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/china-launches-security-review-on-cnki-the-country-s-leading-academic-research-database-0722222/6666367.html</a>
+沉默啊沉默，不在沉默中死亡，就在沉默中爆发。中共极权统治集团做好死无葬身之地的准备了吗？
 
 ### 32: [2022-07-23 02:53:08+08:00 推文](https://twitter.com/realcaixia/status/1550554556538490883)
 
-相信越来越多的人会像这位世界小姐一样，勇敢地站出来。
+相信越来越多的人会像这位世界小姐一样，勇敢地站出来。<br><br>婉清: 加拿大世界小姐選美皇后，因为这些演讲，父親被國安請“喝茶”！<br>  <br>为勇敢揭露中共的美女点赞👍💐！<br><br><video src="https://video.twimg.com/ext_tw_video/1549889783664484352/pu/vid/720x720/lcWu_0qUAC8OtlZg.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1549889783664484352/pu/img/HFTuhs044upF7xQ4.jpg"></video>
 
 ### 33: [2022-07-24 21:00:09+08:00 推文](https://twitter.com/realcaixia/status/1551190497888182274)
 
