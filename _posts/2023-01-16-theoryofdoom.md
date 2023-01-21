@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2023-01-18
+date: 2023-01-21
 from: https://old.reddit.com/r/stupidpol/comments/10cvuh9/it_turns_out_hillary_clinton_not_russian_bots/
 layout: post
 tags:
@@ -78,4 +78,22 @@ The word "queer" used in the context described by the OP means everything and no
 Except not [ironically](https://www.youtube.com/watch?v=U06jlgpMtQs&ab_channel=rascrifice).
 
 If only stupid ideas like this hadn't been tried before.
+
+### 448: [My younger brother got kicked out of Sunday School for saying Spider-Man is morally better than God. (How would you argue against this?)](https://old.reddit.com/r/AskAChristian/comments/10hcrup/my_younger_brother_got_kicked_out_of_sunday/), submitted on 2023-01-21 07:37:12+08:00.
+
+----- __448.1__ -----2023-01-21 14:55:51+08:00:
+
+I'd tell the atheist kiddo two sets of things.  
+
+First, kiddo's parents and youth pastor are probably stupid.  Both of them responded incorrectly even if kiddo was being brat --- and I assume he was.  So, how those adults handled this situation is a reflection of that stupidity.  Not a reflection of the merits of Christianity as such.  The youth pastor didn't know how to deal with this situation.  The parents didn't know how to deal with the fact that their kid challenged an authority.  And they probably focused on that, because they weren't even remotely equipped to handle kiddo's actual question.  
+
+This is the sort of thing that makes kids turn their back on Christianity.  Was very stupid on the part of adults involved, even if kiddo was way out of line.  Which he probably was They disregarded it, because what else was there for them to do?  Bite off more than they will ever be able to chew?  Open a door that might even shake the foundation of their faith?  Not likely.  But when you're a thirteen year old boy, you challenge that sort of stuff because that's the only point in your life when the stakes don't make you immediately back away.  
+
+Second, though phrased from the perspective of a thirteen year old boy, kiddo's question was a lot heavier than it seems at face value.  And it has to be recognized as a serious question, because it gets to the essential point of the problem of evil.  Which is no simple problem.  It's a big problem.  Arguably the most compelling indictment of Christianity, so complicated that it's nearly impossible to even conceptualize it outside the context of fiction (e.g., Dostoevsky's character Ivan Karamazov and the Grand Inquisitor).  This is way out of the parents or the youth pastors' depth.  Clearly.  
+
+Back to the point.  How is Peter Parker not morally superior to God?  God is omniscient.  Spider man is not.  That difference matters for several reasons:
+
+Spiderman's displeasure with God's non-intervention ignores the greater problem of God's intervention in the alternative world.  If God acted consistently with Spiderman's maxim, then human beings lack agency, will and any capability for salvation.  Consider the world where God acts to prevent all harm.  In so doing, evil is no more.  In this world, we're back to the pre-Fall scenario that was the garden of Eden, with one critical difference: Eve no longer has the capability to will herself to take a bite of the apple.  
+
+The limit of Spiderman's ability to live his maxim is his own (imaginary) being, because he is not omniscient (nor could he ever prevent all evil).  Spiderman can only, on his best day, act to present specific cases of harm in singular contexts that are defined in relation to his (imaginary) presence.  Basically, Spiderman can't save the city he isn't in.  But God can.  As well as the country, nation and entirety of all beings as such.  If God acted as Spiderman, there would be no Spiderman.  Nor would there be any such need.  In this way, human beings will not have been created in God's image because they would be no more than one of many beasts of the land.
 
