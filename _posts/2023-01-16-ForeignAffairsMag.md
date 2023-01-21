@@ -33,3 +33,11 @@ Putin’s effort to restore Russia’s lost empire is destined to fail. The mome
 The West, and above all the United States, is capable of providing the military and financial support to hasten the inevitable and propel Ukraine to a speedy victory. But the Biden administration still hasn’t coalesced around a clear endgame for the war, and some U.S. officials have suggested that Kyiv should consider giving up part of its territory in pursuit of peace—suggestions that are not reassuring. Ukrainian President Volodymyr Zelensky has made it clear that the Ukrainian people will never accept such a deal. Any territorial concessions made to Putin will inevitably lead to another war down the road.  
 At the root of Washington’s unwillingness to supply the necessary weapons lies a fear of the potential consequences of decisively defeating Russia in Ukraine. Many in the Biden administration believe that Putin’s downfall could trigger the collapse of Russia, plunging the nuclear-armed state into chaos and potentially strengthening China. But such fears are overstated.
 
+### 338: [Peru’s Democratic Dysfunction: How to Fix the Country’s Broken System](https://old.reddit.com/r/geopolitics/comments/10hspjb/perus_democratic_dysfunction_how_to_fix_the/), submitted on 2023-01-21 22:41:09+08:00.
+
+----- __338.1__ -----2023-01-21 22:42:49+08:00:
+
+\[SS from the essay by Will Freeman, Ph.D. candidate in Politics at Princeton University and a 2022 Fulbright-Hays Scholar in Colombia, Guatemala, and Peru\]
+
+Peru’s troubles go deeper than the conflict over the election calendar. Even if the president and the entire Congress resigned tomorrow, democratic erosion would likely persist. That is because Peru is afflicted by a more serious issue: the weaponization of checks and balances by both branches of government. It is too easy for Congress to impeach the president and for the president to shut down Congress. Until reforms prevent the president and Congress from abusing their powers to rein in each other, Peru will continue to spiral.
+
