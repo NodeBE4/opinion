@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2023-01-21
+date: 2023-01-22
 from: https://old.reddit.com/r/stupidpol/comments/10cvuh9/it_turns_out_hillary_clinton_not_russian_bots/
 layout: post
 tags:
@@ -96,4 +96,10 @@ Back to the point.  How is Peter Parker not morally superior to God?  God is omn
 Spiderman's displeasure with God's non-intervention ignores the greater problem of God's intervention in the alternative world.  If God acted consistently with Spiderman's maxim, then human beings lack agency, will and any capability for salvation.  Consider the world where God acts to prevent all harm.  In so doing, evil is no more.  In this world, we're back to the pre-Fall scenario that was the garden of Eden, with one critical difference: Eve no longer has the capability to will herself to take a bite of the apple.  
 
 The limit of Spiderman's ability to live his maxim is his own (imaginary) being, because he is not omniscient (nor could he ever prevent all evil).  Spiderman can only, on his best day, act to present specific cases of harm in singular contexts that are defined in relation to his (imaginary) presence.  Basically, Spiderman can't save the city he isn't in.  But God can.  As well as the country, nation and entirety of all beings as such.  If God acted as Spiderman, there would be no Spiderman.  Nor would there be any such need.  In this way, human beings will not have been created in God's image because they would be no more than one of many beasts of the land.
+
+### 449: [We need an open source intelligence center](https://old.reddit.com/r/craftofintelligence/comments/10idyhh/we_need_an_open_source_intelligence_center/), submitted on 2023-01-22 15:28:35+08:00.
+
+----- __449.1__ -----2023-01-23 02:25:34+08:00:
+
+We have an open-source intelligence center.
 
