@@ -53,7 +53,7 @@ Re 1、规避这个规定而继续大权独揽的路径是：中共党内另设�
 
 ### 10: [2022-06-03 20:28:55+08:00 推文](https://twitter.com/realcaixia/status/1532700857816457216)
 
-在端午节这个日子里，期盼所有被极权迫害被关押的的正义人士都能早日回家与亲人团聚。期盼张展、潇男、翘楚、任志强、孙大午、丁家喜、高智晟………都能早日回家……<br><br>王贺楠: 又是一年端午节，我只愿我先生王爱忠能够早日回家和我们团聚。越是这些节日我越会想念。在这里我和家人祝所有一直关心我们的朋友：端午安康！<br><br><img style="" src="https://pbs.twimg.com/media/FUTCIA6VUAA0eyY?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+在端午节这个日子里，期盼所有被极权迫害被关押的的正义人士都能早日回家与亲人团聚。期盼张展、潇男、翘楚、任志强、孙大午、丁家喜、高智晟………都能早日回家……
 
 ### 11: [2022-06-03 21:26:56+08:00 推文](https://twitter.com/realcaixia/status/1532715458557890563)
 
@@ -61,7 +61,7 @@ Re 1、规避这个规定而继续大权独揽的路径是：中共党内另设�
 
 ### 12: [2022-06-04 03:42:09+08:00 推文](https://twitter.com/realcaixia/status/1532809885511045121)
 
-明天六.四！
+明天六.四！<br><br>ZHANGDONG: 明天又是“六.四”纪念日，香港维园最后的蜡烛也被无情地踩灭了。历史真相必须揭露并不断反思才能让悲剧不再发生。<br>现在中国“6.4”这个日期都成了🈲词，更狂谈纪念反思。而今又借瘟疫把中国变成了人间地狱，这就是今日中国之黑现状！33年来中共独裁专制进一步把中国推向深渊。鲍彤先生的回忆很有历史价值.<br><br><video src="https://video.twimg.com/ext_tw_video/1532643686441426945/pu/vid/932x720/XrU9-7xZIoTcxzm7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1532643686441426945/pu/img/pM537xrpmEjWELHq.jpg"></video> <a href="https://twitter.com/gaoyu200812/status/1532613508067602437" target="_blank" rel="noopener noreferrer">https://twitter.com/gaoyu200812/status/1532613508067602437</a>
 
 ### 13: [2022-06-04 04:04:43+08:00 推文](https://twitter.com/realcaixia/status/1532815562753347584)
 
@@ -93,7 +93,7 @@ Re 1、规避这个规定而继续大权独揽的路径是：中共党内另设�
 
 ### 20: [2022-06-05 07:15:22+08:00 推文](https://twitter.com/realcaixia/status/1533225932743331840)
 
-他们恐惧任何可能联想到6•4屠杀的事物，这是罪犯的本能，就像秃子最初忌讳“癞”字，后来连别人说到“光”、“亮”、“灯”也忌讳一样。
+他们恐惧任何可能联想到6•4屠杀的事物，这是罪犯的本能，就像秃子最初忌讳“癞”字，后来连别人说到“光”、“亮”、“灯”也忌讳一样。<br><br>学文- insist: 我气坏了。刚接到老家国宝电话。说我凌晨发的莫扎特的安魂曲上面关注了。我问：你们为什么不把莫扎特禁了？这是一个何等荒谬的时代啊！<br><br><img style="" src="https://pbs.twimg.com/media/FUYBWg5UUAArOwn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 21: [2022-06-05 22:53:16+08:00 推文](https://twitter.com/realcaixia/status/1533461960741765122)
 

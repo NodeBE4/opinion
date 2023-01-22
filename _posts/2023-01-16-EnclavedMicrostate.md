@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-01-21
+date: 2023-01-22
 from: https://old.reddit.com/r/badhistory/comments/10dcsdy/mindless_monday_16_january_2023/
 layout: post
 tags:
@@ -100,4 +100,10 @@ We have, using the moderator discretion powers set out [here](https://www.reddit
 Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 1068: [Little table we put together...](https://old.reddit.com/r/TerrainBuilding/comments/10i8fsm/little_table_we_put_together/), submitted on 2023-01-22 10:15:35+08:00.
+
+----- __1068.1__ -----2023-01-23 02:51:30+08:00:
+
+That would be me! And yes. You are correct.
 
