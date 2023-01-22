@@ -89,7 +89,7 @@ Re @shenliangqing2 你忘记本月底拜习视频会是熄火会、和好努力�
 
 ### 19: [2022-07-25 21:44:58+08:00 推文](https://twitter.com/HeQinglian/status/1551564164006612992)
 
-与台、中轮流建交，早就成了小国的生存之道，废一次、兴一次，就是几十亿美元的进帐，三年来一次吧。<br><br>美国之音莉雅: 所罗门群岛议会外委会主席、反对党议员凯尼洛里(Peter Kenilorea Jr.)7月25日在议会反对党领导人办公室接受我们的专访时说，如果反对派在下次的选举中获胜组阁的话，第一件事就是废除所中安全协议。至于是否会重新与台湾建交，他说，有这种可能性但这是一个更长的程序，而且涉及到国际方面的议题。<br><br><img style="" src="https://pbs.twimg.com/media/FYgt5y4akAER6xJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FYgt7S4akAEUEWl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+与台、中轮流建交，早就成了小国的生存之道，废一次、兴一次，就是几十亿美元的进帐，三年来一次吧。
 
 ### 20: [2022-07-25 21:47:07+08:00 推文](https://twitter.com/HeQinglian/status/1551564705423970304)
 
@@ -165,7 +165,7 @@ Re @CrabNJ @badpeop19875194 @KELMAND1 推上当真是藏龙卧虎，什么人才
 
 ### 38: [2022-07-26 10:03:42+08:00 推文](https://twitter.com/HeQinglian/status/1551750072462893056)
 
-纵观所有的颜色革命，包括美欧最推崇的“诺贝尔和平奖得主领导模式”南非与缅甸，其实都未竟全功，问题多多。<br>只有美国民主党阵营精心策划的2020年美国大选，将积20余年颜色革命的全套功夫用于本国，非常成功地夺取了政权，开始改造社会与大众思想大业。<br><br>曹長青: 美国中情局长伍尔西曾在电视上承认，美国干预他国选举。白宫顾问博尔顿对CNN说，他谋划多国政变。克里米亚事件就起源奥巴马政府支持乌克兰街头暴力推翻民选总统的“政变”，导致俄国不再调解克里米亚，结果那里人民公投回归俄国；该事件是奥巴马反俄、干预乌内政结果；拜登更煽动乌反俄，是战争导火索。<br>
+纵观所有的颜色革命，包括美欧最推崇的“诺贝尔和平奖得主领导模式”南非与缅甸，其实都未竟全功，问题多多。<br>只有美国民主党阵营精心策划的2020年美国大选，将积20余年颜色革命的全套功夫用于本国，非常成功地夺取了政权，开始改造社会与大众思想大业。
 
 ### 39: [2022-07-26 10:05:03+08:00 推文](https://twitter.com/HeQinglian/status/1551750413778665472)
 
@@ -305,7 +305,7 @@ Re @xxj2040 年龄这么大，生个病又不是难事。上次是covid-19阳性
 
 ### 73: [2022-07-28 10:34:15+08:00 推文](https://twitter.com/HeQinglian/status/1552482537762693121)
 
-三大美国跨国公司购买了 1700 万公顷乌克兰农业用地<br>对这条消息，不少推主表示怀疑，此为原始出处。 <a href="https://www.australiannationalreview.com/lifestyle/three-large-american-multinationals-bought-17-million-hectares-of-ukrainian-agricultural-land/" target="_blank" rel="noopener noreferrer">https://www.australiannationalreview.com/lifestyle/three-large-american-multinationals-bought-17-million-hectares-of-ukrainian-agricultural-land/</a>
+三大美国跨国公司购买了 1700 万公顷乌克兰农业用地<br>对这条消息，不少推主表示怀疑，此为原始出处。<br><br>晚風: 還剩一半了，波瀾心動嗎？<br><br><img style="" src="https://pbs.twimg.com/media/FYq8LctaQAAg6yz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 74: [2022-07-28 10:37:11+08:00 推文](https://twitter.com/HeQinglian/status/1552483274462748672)
 
@@ -681,7 +681,7 @@ Re @zhixiangziyou @triplebai 羊肉冬瓜汤？<br>羊肉是温补食物，冬�
 
 ### 167: [2022-07-31 03:46:34+08:00 推文](https://twitter.com/HeQinglian/status/1553467102958424065)
 
-尽管知道文化快餐的年代，这种严肃的社会病溯源文章不会有多少人读，但我还是认真推荐。<br>文化马克思主义正在毁掉西方，只是美国有BLM这种暴马加文马存在，毁的速度特别快。
+尽管知道文化快餐的年代，这种严肃的社会病溯源文章不会有多少人读，但我还是认真推荐。<br>文化马克思主义正在毁掉西方，只是美国有BLM这种暴马加文马存在，毁的速度特别快。<br><br>戴维（英国观察）: 解滨：文化马克思主义正在毁掉美国<br> <a href="https://groups.google.com/g/2ncn/c/DIVTQSFiM6o" target="_blank" rel="noopener noreferrer">https://groups.google.com/g/2ncn/c/DIVTQSFiM6o</a>
 
 ### 168: [2022-07-31 04:05:52+08:00 推文](https://twitter.com/HeQinglian/status/1553471960604200960)
 
