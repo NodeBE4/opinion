@@ -23,3 +23,7 @@ title: 'Twitter @蔡霞: 2023-01-23~2023-01-29'
 
 昨日转发了国内网络的推特4图：墙里人的除夕夜。有推友指出图一黄永玉画作被修改了，并发出据说是黄永玉的作品原画。我非画家，无从辨析真假，也无从考究真假图的最初来源，所以我撤了图一。现在的4图依然来源于国内网络，我作转发。<br>图一是国内流传的除夕倡议；<br>图二是符合官方要求的造神迎新春；<br><img style="" src="https://pbs.twimg.com/media/FnGM_zNagAAhx8w?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FnGNAJBagAA39Xr?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FnGNAeMaUAAI_y-?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FnGNA1zaMAYy2Sk?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 3: [2023-01-23 02:50:20+08:00 推文](https://twitter.com/realcaixia/status/1617233218029379584)
+
+Re 图三，行为艺术作品“看春晚”。两只袜子各有一只眼盯着央视春晚电视。彷佛是一对男女正在欣赏专为他们定制的电视“顺天时报”。今早才知14亿中陪看的仅111万多人；<br>图四，城市一居民小区夜景。灯光如暗夜中凄凉的萤光，没一点过年的喜庆，倒是透出一股寒气逼人的肃杀、悲戚、死气沉沉的氛围
+

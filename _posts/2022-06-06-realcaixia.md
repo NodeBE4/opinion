@@ -73,7 +73,7 @@ Re @yonghewang1969 谢谢您和大家的支持鼓励，让我们在反抗极权�
 
 ### 15: [2022-06-09 00:00:05+08:00 推文](https://twitter.com/realcaixia/status/1534565938405617664)
 
-从小在中共洗脑欺骗下，我曾经以为“国民党反动派”这六个字是必须连读的一个“专用”名词，反动派是国民党的专利。在我逐步清除极权统治的谎言宣传洗脑毒害过程中，才明白一切反时代前进潮流而动的政治集团都是反动派。习当局就是反动派，他们岂只是开倒车、阻挡中国历史前进，他们是反动，反文明反人性。
+从小在中共洗脑欺骗下，我曾经以为“国民党反动派”这六个字是必须连读的一个“专用”名词，反动派是国民党的专利。在我逐步清除极权统治的谎言宣传洗脑毒害过程中，才明白一切反时代前进潮流而动的政治集团都是反动派。习当局就是反动派，他们岂只是开倒车、阻挡中国历史前进，他们是反动，反文明反人性。<br><br>LeLeFarley 乐乐法利: 喔！这段儿我在历史书上看过不止一次👍<br><br><img style="" src="https://pbs.twimg.com/media/FUqWGipWYAE3_6Q?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 16: [2022-06-09 20:43:51+08:00 推文](https://twitter.com/realcaixia/status/1534878944360644608)
 
@@ -93,7 +93,7 @@ Re @yonghewang1969 谢谢您和大家的支持鼓励，让我们在反抗极权�
 
 ### 20: [2022-06-09 22:58:29+08:00 推文](https://twitter.com/realcaixia/status/1534912825981816840)
 
-特别喜欢这个视频。<br><br>ZHANGDONG: 这个民族有希望💪💪<br> <a href="https://twitter.com/wutingzy/status/1534339164539428864" target="_blank" rel="noopener noreferrer">https://twitter.com/wutingzy/status/1534339164539428864</a>
+特别喜欢这个视频。
 
 ### 21: [2022-06-09 23:27:22+08:00 推文](https://twitter.com/realcaixia/status/1534920093943078914)
 
