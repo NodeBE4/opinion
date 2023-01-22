@@ -3,7 +3,7 @@ author: EnclavedMicrostate
 categories:
 - Reddit
 date: 2023-01-22
-from: https://old.reddit.com/r/badhistory/comments/10dcsdy/mindless_monday_16_january_2023/
+from: https://old.reddit.com/r/VirtualYoutubers/comments/10d3tqz/massive_minecraft_mountain_weekly_discussion/
 layout: post
 tags:
 - Reddit
@@ -13,47 +13,53 @@ title: EnclavedMicrostate在2023-01-16~2023-01-22的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 1058: [Mindless Monday, 16 January 2023](https://old.reddit.com/r/badhistory/comments/10dcsdy/mindless_monday_16_january_2023/), submitted on 2023-01-16 20:00:11+08:00.
+### 1058: [Massive Minecraft Mountain - Weekly Discussion Thread, 16th Jan, 2023](https://old.reddit.com/r/VirtualYoutubers/comments/10d3tqz/massive_minecraft_mountain_weekly_discussion/), submitted on 2023-01-16 11:29:55+08:00.
 
------ __1058.1__ -----2023-01-18 18:00:54+08:00:
+----- __1058.1__ -----2023-01-23 04:15:14+08:00:
+
+Could well be Indonesians in HK for all we know, or mainland Chinese viewers proxy-donating via HKD, especially as Mandarin isn't broadly a standard language of conversation there anyway (even if widely known as a second language).
+
+### 1059: [Mindless Monday, 16 January 2023](https://old.reddit.com/r/badhistory/comments/10dcsdy/mindless_monday_16_january_2023/), submitted on 2023-01-16 20:00:11+08:00.
+
+----- __1059.1__ -----2023-01-18 18:00:54+08:00:
 
 There's quite a bit actually. There's an edited volume, *The Construction of Racial Identities in China and Japan*, with one chapter each on anti-Semitism and discourses around Jewishness in those countries. Well worth a read.
 
-### 1059: [Why were the upper class of Chinese society scholars rather than warrior aristocrats?](https://old.reddit.com/r/AskHistorians/comments/10e0zp7/why_were_the_upper_class_of_chinese_society/), submitted on 2023-01-17 11:02:05+08:00.
+### 1060: [Why were the upper class of Chinese society scholars rather than warrior aristocrats?](https://old.reddit.com/r/AskHistorians/comments/10e0zp7/why_were_the_upper_class_of_chinese_society/), submitted on 2023-01-17 11:02:05+08:00.
 
------ __1059.1__ -----2023-01-18 01:18:41+08:00:
+----- __1060.1__ -----2023-01-18 01:18:41+08:00:
 
 Your comment has been removed due to violations of the [subreddit’s rules](https://www.reddit.com/r/AskHistorians/wiki/rules). We expect answers to provide [in-depth and comprehensive insight](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer) into the topic at hand and to [be free of significant errors or misunderstandings](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/) while doing so. Before contributing again, please take the time to better familiarize yourself with the [subreddit rules](https://www.reddit.com/r/AskHistorians/wiki/rules) and [expectations](https://www.reddit.com/r/AskHistorians/wiki/faq/meta#wiki_rules_discussion) for an answer.
 
-### 1060: [How would I refer to Alexander?](https://old.reddit.com/r/AskHistorians/comments/10erl6x/how_would_i_refer_to_alexander/), submitted on 2023-01-18 07:45:01+08:00.
+### 1061: [How would I refer to Alexander?](https://old.reddit.com/r/AskHistorians/comments/10erl6x/how_would_i_refer_to_alexander/), submitted on 2023-01-18 07:45:01+08:00.
 
------ __1060.1__ -----2023-01-18 22:53:24+08:00:
+----- __1061.1__ -----2023-01-18 22:53:24+08:00:
 
 In addition to the answer already linked, I'd also like to draw your eyes to [this answer](https://www.reddit.com/r/AskHistorians/comments/l7ehi3/relationship_between_alexander_the_great_and_his/glicfea/) (or better yet the linked article), which discusses a revisionist position on *proskynesis* (formal prostration) arguing that a lot of what has been said about it has been exaggerated.
 
-### 1061: [I am Peter Samsonov, author of IS-2: Development, Design, and Production of Stalin's Warhammer. AMA about Soviet heavy tanks!](https://old.reddit.com/r/AskHistorians/comments/10f9hm3/i_am_peter_samsonov_author_of_is2_development/), submitted on 2023-01-18 23:03:17+08:00.
+### 1062: [I am Peter Samsonov, author of IS-2: Development, Design, and Production of Stalin's Warhammer. AMA about Soviet heavy tanks!](https://old.reddit.com/r/AskHistorians/comments/10f9hm3/i_am_peter_samsonov_author_of_is2_development/), submitted on 2023-01-18 23:03:17+08:00.
 
------ __1061.1__ -----2023-01-18 23:07:43+08:00:
+----- __1062.1__ -----2023-01-18 23:07:43+08:00:
 
 So, I have got to ask this, although I admit, it isn't about the IS-2, at least not directly.
 
 The KV-2. The terrifying, top-heavy-looking monstrosity that is the KV-2. Whose idea was it, why did nobody at any point say 'let's not', and was it any good? Or, if you prefer a more IS-2-based question, what sorts of design lessons did the KV-2 provide? What worked well, what needed correcting?
 
------ __1061.2__ -----2023-01-19 01:01:53+08:00:
+----- __1062.2__ -----2023-01-19 01:01:53+08:00:
 
 Thanks! There does seem to have been an experimental quality about the KV-2 from appearances alone and I'm unsurprised it didn't go anywhere.
 
-### 1062: [[Home Improvement] The Groverhaus: a tale of load-bearing drywall and insulated stairs](https://old.reddit.com/r/HobbyDrama/comments/10fvpy7/home_improvement_the_groverhaus_a_tale_of/), submitted on 2023-01-19 15:33:22+08:00.
+### 1063: [[Home Improvement] The Groverhaus: a tale of load-bearing drywall and insulated stairs](https://old.reddit.com/r/HobbyDrama/comments/10fvpy7/home_improvement_the_groverhaus_a_tale_of/), submitted on 2023-01-19 15:33:22+08:00.
 
------ __1062.1__ -----2023-01-20 06:10:14+08:00:
+----- __1063.1__ -----2023-01-20 06:10:14+08:00:
 
 > popular gaming channel Yogscast
 
 Every once in a while I am reminded that yes, Yogscast does still exist and didn't just sort of fizzle out in 2015. Believe it or not, The Spiffing Brit is *technically* a Yogscast affiliate channel despite not advertising it.
 
-### 1063: [Thursday Reading & Recommendations | January 19, 2023](https://old.reddit.com/r/AskHistorians/comments/10g2eld/thursday_reading_recommendations_january_19_2023/), submitted on 2023-01-19 22:00:09+08:00.
+### 1064: [Thursday Reading & Recommendations | January 19, 2023](https://old.reddit.com/r/AskHistorians/comments/10g2eld/thursday_reading_recommendations_january_19_2023/), submitted on 2023-01-19 22:00:09+08:00.
 
------ __1063.1__ -----2023-01-20 18:14:04+08:00:
+----- __1064.1__ -----2023-01-20 18:14:04+08:00:
 
 For a general survey, William T. Rowe's *China's Last Empire: The Great Qing* is a very good synthesis of the scholarship on the pre-1800 period, albeit with a general geographic bias towards the Yangtze valley and China proper more broadly, over the full scope of the Qing empire. 
 
@@ -65,9 +71,9 @@ It's worth also considering the Qing's more colonial frontiers: Emma Teng's *Tai
 
 It would be remiss not to include some key cornerstones of 'New Qing' historiography as well. The two big ones would be Pamela Crossley's *A Translucent Mirror*, about Qianlong-era ideological developments, and Mark Elliott's *The Manchu Way*, about the development of the Banner system up to about 1800. There's also a couple of edited volumes worth looking at: Lynn Struve's *The Qing Formation in World-Historical Time* and Millward, Dunnell, Elliott and Forêt's *New Qing Imperial History*.
 
-### 1064: [What was once highly respected that is now a complete joke?](https://old.reddit.com/r/AskReddit/comments/10h0r47/what_was_once_highly_respected_that_is_now_a/), submitted on 2023-01-21 00:08:28+08:00.
+### 1065: [What was once highly respected that is now a complete joke?](https://old.reddit.com/r/AskReddit/comments/10h0r47/what_was_once_highly_respected_that_is_now_a/), submitted on 2023-01-21 00:08:28+08:00.
 
------ __1064.1__ -----2023-01-21 20:00:55+08:00:
+----- __1065.1__ -----2023-01-21 20:00:55+08:00:
 
 > *Stole credit for music that was made by his partners and employees
 > 
@@ -75,9 +81,9 @@ It would be remiss not to include some key cornerstones of 'New Qing' historiogr
 
 Music or sound effects? I seem to recall he did do composing of music, but it was the sound effects he stole credit for. He definitely lied about which games he contributed to, but I don't recall stealing credit for music specifically.
 
-### 1065: [What’s the biggest overreaction you’ve ever seen from a fanbase?](https://old.reddit.com/r/TwoBestFriendsPlay/comments/10h7irw/whats_the_biggest_overreaction_youve_ever_seen/), submitted on 2023-01-21 04:39:30+08:00.
+### 1066: [What’s the biggest overreaction you’ve ever seen from a fanbase?](https://old.reddit.com/r/TwoBestFriendsPlay/comments/10h7irw/whats_the_biggest_overreaction_youve_ever_seen/), submitted on 2023-01-21 04:39:30+08:00.
 
------ __1065.1__ -----2023-01-21 18:03:31+08:00:
+----- __1066.1__ -----2023-01-21 18:03:31+08:00:
 
 We don't know precisely why she was fired. The termination notice simply stated that she was fired for 'breach of contract' and for spreading rumours, not specifically NDA violations, and Korekore ('Japanese Keemstar') insinuated that she had been leaking other info to him in the past. So it could be that her leaks – deliberate or otherwise – in February-March 2022 were the sole cause, or it could be that she had been let off with a warning before and was fired over a repeat offence. We simply do not know the precise reasons, but it's certainly not due to any company policy around a 'dating ban' as some have insinuated (indeed there's at least one talent at that particular agency who's been very open about her relationships, and two who are public about having been dating).
 
@@ -85,15 +91,15 @@ Not all VTubers are owned or managed by the same agency, or even under an agency
 
 Most VTubers, however, are independents: some bigger, some smaller. At one end you have someone like Spanish-speaking VTuber Nimu Spacecat with 2.4m Twitch followers (the most-followed VTuber on Twitch), at the other you have a whole host of really small indies (I wouldn't even know where to look, but search 'debut' on the VirtualYoutubers subreddit and you'll find a few), with various people in the middle like Nekomiya Hinata or OBKatieKat. It's a very big space, where the major agencies are really just the tip of the iceberg.
 
-### 1066: [What’s your opinion on Jack the Ripper?](https://old.reddit.com/r/AskHistorians/comments/10h9p74/whats_your_opinion_on_jack_the_ripper/), submitted on 2023-01-21 05:58:52+08:00.
+### 1067: [What’s your opinion on Jack the Ripper?](https://old.reddit.com/r/AskHistorians/comments/10h9p74/whats_your_opinion_on_jack_the_ripper/), submitted on 2023-01-21 05:58:52+08:00.
 
------ __1066.1__ -----2023-01-21 06:51:34+08:00:
+----- __1067.1__ -----2023-01-21 06:51:34+08:00:
 
 We have, using the moderator discretion powers set out [here](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_moderator.27s_discretion), removed this question because we feel it verges too close to our [rule on poll-type questions and value judgements](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). We suggest you amend the wording to ask about historical consensus rather than individual opinions.
 
-### 1067: [who created the first economics faculty and in which university?](https://old.reddit.com/r/AskHistorians/comments/10hm8d1/who_created_the_first_economics_faculty_and_in/), submitted on 2023-01-21 16:08:55+08:00.
+### 1068: [who created the first economics faculty and in which university?](https://old.reddit.com/r/AskHistorians/comments/10hm8d1/who_created_the_first_economics_faculty_and_in/), submitted on 2023-01-21 16:08:55+08:00.
 
------ __1067.1__ -----2023-01-21 17:06:41+08:00:
+----- __1068.1__ -----2023-01-21 17:06:41+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -101,9 +107,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 1068: [Little table we put together...](https://old.reddit.com/r/TerrainBuilding/comments/10i8fsm/little_table_we_put_together/), submitted on 2023-01-22 10:15:35+08:00.
+### 1069: [Little table we put together...](https://old.reddit.com/r/TerrainBuilding/comments/10i8fsm/little_table_we_put_together/), submitted on 2023-01-22 10:15:35+08:00.
 
------ __1068.1__ -----2023-01-23 02:51:30+08:00:
+----- __1069.1__ -----2023-01-23 02:51:30+08:00:
 
 That would be me! And yes. You are correct.
 
