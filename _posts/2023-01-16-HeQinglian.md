@@ -495,3 +495,15 @@ Re @JianglinLi @HongfuDing @ngexp @david_david1968 @Wu_Zhi 应该是逼迫他宣
 
 Re @Wu_Zhi @JianglinLi @HongfuDing @ngexp @david_david1968 那也得等2024年参选吧？如果是目前退位，宪法程序上，奥八夫人接不了班，只能是哈里斯。就算哈里斯愿意让贤，奥八夫人又不是众议长。除了改宪法。
 
+### 121: [2023-01-22 23:48:54+08:00 推文](https://twitter.com/HeQinglian/status/1617187560119468035)
+
+Re @JianglinLi 请看这篇文章。<br>美国的评论人士对中共的批判不绝于耳，其中很多是有道理的……讽刺的是，对国家管控严格的共产党带来了另一种自由：犯罪和人身安全方面的担忧基本不存在，女儿们从11岁起就可以在一座约2600万人口的城市不用大人陪同乘坐地铁。随处可见警察维持秩序的身影。 <a href="https://cn.nytimes.com/opinion/20230119/china-education-parenting-culture/" target="_blank" rel="noopener noreferrer">https://cn.nytimes.com/opinion/20230119/china-education-parenting-culture/</a>
+
+### 122: [2023-01-22 23:51:30+08:00 推文](https://twitter.com/HeQinglian/status/1617188214439088128)
+
+Re @JianglinLi 推荐这篇文章，是因为文章作者（美国人）懂得非黑即白的思维方式会让人错误地看世界。其中一个原因当然是美国这些年的大城市沦为犯罪天堂，Antifa与BLM成为为所欲为的犯罪者。
+
+### 123: [2023-01-22 23:52:25+08:00 推文](https://twitter.com/HeQinglian/status/1617188441581654026)
+
+Re @jake_zhao @JianglinLi 这些美国人了解美国每年有很多失踪人口。其余的，我已经在第二条推文里已经讲了。
+
