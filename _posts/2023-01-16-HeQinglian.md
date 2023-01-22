@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-01-21
+date: 2023-01-22
 from: https://twitter.com/HeQinglian/status/1614693015112630272
 layout: post
 tags:
@@ -482,4 +482,16 @@ Re @tiger20boy22 @mingshi_chen 从美国将瑞士银行的保险箱撬开一条�
 ### 117: [2023-01-21 23:13:19+08:00 推文](https://twitter.com/HeQinglian/status/1616816215057367043)
 
 Re @tmODvAC5FUgujZS @James20220313 以前，中国监狱有个操作，犯人填表愿意死后捐献器官，可以挣表现分。听说不少这种犯人会“自然死亡”，引发国际反死刑组织的反对声。<br>文革时，江西政治犯李九莲与钟海源被活杀取肾，那惨状听了后，还有同理心的人不会赞成取死刑犯的器官。<br>因为中国并非现代宪政法治国家。
+
+### 118: [2023-01-22 08:43:48+08:00 推文](https://twitter.com/HeQinglian/status/1616959780769222657)
+
+Re @JianglinLi @HongfuDing @ngexp @david_david1968 @Wu_Zhi 应该是逼迫他宣布2024年不参选。
+
+### 119: [2023-01-22 08:57:44+08:00 推文](https://twitter.com/HeQinglian/status/1616963288180445186)
+
+2023達沃斯年會，中國為何成為焦點？<br><br>2023达沃斯年会的重心成了希望拉拢中国回归全球化，刘鹤是习“密友”及“信使”身份被尽量放大。WEF之所以如此看重中国，乃因“大重置”目标非常宏大，没有中国参与和配合就几乎没办法实现，只能成为西方40余国参与的“半球化”政治游戏。 <a href="https://www.upmedia.mg/news_info.php?Type=2&amp;SerialNo=164468" target="_blank" rel="noopener noreferrer">https://www.upmedia.mg/news_info.php?Type=2&amp;SerialNo=164468</a>
+
+### 120: [2023-01-22 09:03:45+08:00 推文](https://twitter.com/HeQinglian/status/1616964804333248513)
+
+Re @Wu_Zhi @JianglinLi @HongfuDing @ngexp @david_david1968 那也得等2024年参选吧？如果是目前退位，宪法程序上，奥八夫人接不了班，只能是哈里斯。就算哈里斯愿意让贤，奥八夫人又不是众议长。除了改宪法。
 
