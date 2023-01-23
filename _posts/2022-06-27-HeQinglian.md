@@ -181,7 +181,7 @@ Re @shenliangqing2 @JianglinLi @RealBeiMing @ngexp @Wu_Zhi 你这倒提醒了我
 
 ### 42: [2022-06-28 22:52:24+08:00 推文](https://twitter.com/HeQinglian/status/1541796662078750720)
 
-如果是说北京要从俄乌战争中吸取教训，百分之百正确，资源依赖过高的国家在战争状态中处于不利地位，而中国资源对外依赖过高。<br>和平年代是买方市场，大买方有话事权；战争年代供方一咬牙，将买方市场扭转成卖方市场，对方喉咙就被捏住。6月15日俄宣布因技术原因减少供应，烧柴论包括什么都烧论就出来了<br><br>RFI 华语 - 法国国际广播电台: 澳大利亚总理: 北京要从普京的错误中吸取教训<br><br><img style="" src="https://pbs.twimg.com/media/FWVvNFVUIAAsWmB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8XRF.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8XRF.t</a>
+如果是说北京要从俄乌战争中吸取教训，百分之百正确，资源依赖过高的国家在战争状态中处于不利地位，而中国资源对外依赖过高。<br>和平年代是买方市场，大买方有话事权；战争年代供方一咬牙，将买方市场扭转成卖方市场，对方喉咙就被捏住。6月15日俄宣布因技术原因减少供应，烧柴论包括什么都烧论就出来了
 
 ### 43: [2022-06-28 23:44:28+08:00 推文](https://twitter.com/HeQinglian/status/1541809767643070464)
 
@@ -305,7 +305,7 @@ Re @Wu_Zhi @JianglinLi @RealBeiMing @ngexp @david_david1968 去之前，李显�
 
 ### 73: [2022-06-30 20:22:02+08:00 推文](https://twitter.com/HeQinglian/status/1542483599534039042)
 
-译：西方将在数年内失去俄罗斯能源市场。<br>再比对：德总理萧兹：不排除出席G20峰会 即使普京在场 <br>还有没在这条消息中出现的话：欧洲国家都不会破坏G20.<br>竞猜：西方政府首脑出席G20，是为了普京入场时集体退场羞辱他，还是别有目的？<br><br>🅰pocalypsis 🅰pocalypseos 🇷🇺 🇨🇳 🅉: “The energy market of the West will be lost for Russia for several years. The processes are irreversible. For Europe, these are questions of pure politics, insane and reckless, but such are modern realities.” — Spydell 🧵<br>
+译：西方将在数年内失去俄罗斯能源市场。<br>再比对：德总理萧兹：不排除出席G20峰会 即使普京在场 <br>还有没在这条消息中出现的话：欧洲国家都不会破坏G20.<br>竞猜：西方政府首脑出席G20，是为了普京入场时集体退场羞辱他，还是别有目的？ <a href="https://rfi.my/8XK6.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8XK6.T</a>
 
 ### 74: [2022-06-30 20:47:44+08:00 推文](https://twitter.com/HeQinglian/status/1542490064806101001)
 
@@ -489,7 +489,7 @@ Re 补充：昨天有推友来我推下留言，称拜登支持北约，让北�
 
 ### 119: [2022-07-01 21:55:26+08:00 推文](https://twitter.com/JianglinLi/status/1542869490169483267)
 
-RT 李江琳<br>1986年的预测：到2020年弗罗里达将会由于气候变化而消失。😂😂😂
+RT 李江琳<br>1986年的预测：到2020年弗罗里达将会由于气候变化而消失。😂😂😂<br><br>C.J. Wilson: H/T to @JunkScience for posting this- an EPA Hot Take from 1986 saying that Florida would be wiped out in 2020 due to climate change.  Important to understand that anyone can come up with a scary scenario if their job depends on it. History ends up debunking most doomsday ideas.<br><br><img style="" src="https://pbs.twimg.com/media/FWldVp-UcAAh-Nx?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 120: [2022-07-01 21:56:02+08:00 推文](https://twitter.com/HeQinglian/status/1542869642754097154)
 
@@ -689,11 +689,11 @@ Re @fanggexu @JianglinLi @david_david1968 @Wu_Zhi 我完全不耽心2035年的�
 
 ### 169: [2022-07-03 03:25:03+08:00 推文](https://twitter.com/HeQinglian/status/1543314830785904642)
 
-BRICKS在俄乌战后启动内部结算系统，五国贸易不再用美元结算，可以用五国货币结算，印度、中国都增加对俄能源天然气的购买，不知这算不算“实质性援助”？
+BRICKS在俄乌战后启动内部结算系统，五国贸易不再用美元结算，可以用五国货币结算，印度、中国都增加对俄能源天然气的购买，不知这算不算“实质性援助”？<br><br>美国之音中文网: 白宫再次表示，尚未发现中国为俄罗斯提供实质性援助<br> <a href="http://dlvr.it/STBcg9" target="_blank" rel="noopener noreferrer">http://dlvr.it/STBcg9</a>
 
 ### 170: [2022-07-03 03:46:49+08:00 推文](https://twitter.com/HeQinglian/status/1543320305912905729)
 
-如果泽连斯基真说了这话，说明他知道乌克兰现在、过去在西方的安全架构中的位置“不体面”。从这点来说，他有自知之明，比如3月28日接受《经济学人》采访时很明确地挑明自己在打代理人战争。<br><br>绫波: 乌克兰总统泽连斯基：待与俄罗斯的冲突结束后，乌克兰必须在西方安全架构中有一个“体面的位置”，而不是充当北约和俄罗斯之间的“灰色地带”。<br><br><img style="" src="https://pbs.twimg.com/media/FWpVYJnWIAEsu70?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+如果泽连斯基真说了这话，说明他知道乌克兰现在、过去在西方的安全架构中的位置“不体面”。从这点来说，他有自知之明，比如3月28日接受《经济学人》采访时很明确地挑明自己在打代理人战争。
 
 ### 171: [2022-07-03 04:33:29+08:00 推文](https://twitter.com/HeQinglian/status/1543332051557941249)
 
