@@ -27,3 +27,15 @@ title: 'Twitter @蔡霞: 2023-01-23~2023-01-29'
 
 Re 图三，行为艺术作品“看春晚”。两只袜子各有一只眼盯着央视春晚电视。彷佛是一对男女正在欣赏专为他们定制的电视“顺天时报”。今早才知14亿中陪看的仅111万多人；<br>图四，城市一居民小区夜景。灯光如暗夜中凄凉的萤光，没一点过年的喜庆，倒是透出一股寒气逼人的肃杀、悲戚、死气沉沉的氛围
 
+### 4: [2023-01-23 08:34:48+08:00 推文](https://twitter.com/realcaixia/status/1617319905593892866)
+
+文章作者张伟光在2023年1月去世，网友特意将这篇文章再发到墙内网上流传以致哀悼。议报转发全文。<br><br>文章看点1，讲述如何争取央视新闻联播播出被非法剥夺中共党总书记职务的耀邦镜头；<br><br>2，透露中共高层内隐秘而微妙的政治分歧。中共党内自上而下从来都不是铁板一块。 <a href="https://yibaochina.com/?p=249152" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=249152</a>
+
+### 5: [2023-01-23 09:42:48+08:00 推文](https://twitter.com/realcaixia/status/1617337018542874627)
+
+再次转推千帆教授的演讲。<div class="rsshub-quote"><br><br>苗也: #张千帆 教授2分钟就把中共的底裤给扒了下来，痛快👏👍<br>中共独裁让宪法成为笑话<br><br><video src="https://video.twimg.com/ext_tw_video/1615857977554239488/pu/vid/710x540/796janMAWyAcH0Kg.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1615857977554239488/pu/img/OOKwILMH_ek7-kbA.jpg"></video></div>
+
+### 6: [2023-01-23 09:47:50+08:00 推文](https://twitter.com/realcaixia/status/1617338286594314241)
+
+感动！<div class="rsshub-quote"><br><br>ChinaNews JayPro: 陕西一家冒菜馆里的一号餐，在寒冷的冬天为人们送来一份温暖。<br><br>为众人抱薪者，不可使其冻毙于风雪。<br>为自由开道者，不可令其困厄于荆棘<br>#爱心餐馆 #免费一号餐<br><br><video src="https://video.twimg.com/ext_tw_video/1617079837063249922/pu/vid/1280x720/x4cbSCECN30W8Ess.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1617079837063249922/pu/img/3LgyCO-96sbvSL6l.jpg"></video></div>
+
