@@ -23,7 +23,7 @@ So what you end up with is that a lot of the *good* comparative history doesn't 
 
 ----- __1070.2__ -----2023-01-23 21:55:12+08:00:
 
-I wonder if you're misapprehending /u/Ramses_IV's point here, which is not that popular history deserves no credit, but rather that it is not creditable for an author or work to merely *draw attention* to a topic if its presentation of that topic is flawed and if the most obvious follow-ups are as well. It's not that people shouldn't write biographies of Charlemagne for a popular audience; rather it's that people shouldn't get credit for writing them for a popular audience, people should get credit for them being *good history*.
+I wonder if you're misapprehending /u/Ramses_IV's point here, which is not that popular history deserves no credit, but rather that it is not creditable for an author or work to *only* draw attention to a topic if its presentation of that topic is flawed and if the most obvious follow-ups are as well. It's not that people shouldn't write biographies of Charlemagne for a popular audience; rather it's that people shouldn't get credit for writing them for a popular audience, people should get credit for them being *good history*.
 
 ### 1071: [Unusual grouping of 5 horses. I haven't enabled abundant resources or anything else that would cause this.](https://old.reddit.com/r/civ/comments/10iy8mz/unusual_grouping_of_5_horses_i_havent_enabled/), submitted on 2023-01-23 07:54:08+08:00.
 

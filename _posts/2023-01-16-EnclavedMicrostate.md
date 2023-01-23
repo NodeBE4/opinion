@@ -113,3 +113,7 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 That would be me! And yes. You are correct.
 
+----- __1069.2__ -----2023-01-24 00:52:32+08:00:
+
+This is a weekend event that had been a long time planning, so there was actually plenty of time once the game got going.
+

@@ -265,7 +265,7 @@ Re @chuangnanzoubei 烧木柴，除了美国之外，大头也是俄罗斯供。
 
 ### 63: [2022-06-30 02:18:16+08:00 推文](https://twitter.com/RealBeiMing/status/1542210860172582915)
 
-RT 北明BeiMing<br>白宮命名“變性人日”，克宮命名“家庭、愛與忠誠日”。<br><br>想起另一個類似的歷史事件：當年毛澤東在大陸發動“文化大革命運動”，蔣中正針鋒相對在台灣掀起了“中國文化復興運動”。<br><br>Lucs: 普京刚刚宣布 7 月 8 日为家庭、爱和忠诚日…我们的白宫宣布为变性人日。🤦🏻‍♀️<br><br><img style="" src="https://pbs.twimg.com/media/FWb_1q7VsAAlO76?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT 北明BeiMing<br>白宮命名“變性人日”，克宮命名“家庭、愛與忠誠日”。<br><br>想起另一個類似的歷史事件：當年毛澤東在大陸發動“文化大革命運動”，蔣中正針鋒相對在台灣掀起了“中國文化復興運動”。
 
 ### 64: [2022-06-30 03:38:27+08:00 推文](https://twitter.com/HeQinglian/status/1542231038730158083)
 
@@ -585,7 +585,7 @@ Re @JiangShangrong 自己不选他就行了。这十分之七的美国居民当�
 
 ### 143: [2022-07-02 06:09:21+08:00 推文](https://twitter.com/HeQinglian/status/1542993788087537664)
 
-瑞银(UBS)在2022年4月至6月期间对30家主要央行所做的年度调查显示，已经投资或有兴趣投资人民币的央行储备管理机构的比例从去年的81%升至85%。这是地缘政治纷争可能削弱美元主导地位的一个迹象。<br>我不希望美国如此快衰落，希望拜登认真考虑，没有美国的强大支撑，他是Nothing。<br><br>He Qinglian: 关于规则，在一个讲信用的时代确实需要规则，以前的美苏冷战还是讲规则。如今美国对内无规则，对外当然也不讲规则了，美国军事实力第一、美元霸权，还掌握Swift系统，可以不讲规则。<br>如今已“胜利”：开战前1美元兑80卢布，今天莫斯科交易所美元汇率跌破51卢布，欧元汇率自2015年4月以来首次跌破53卢布。<br> <a href="https://twitter.com/RealBeiMing/status/1542933622784671745" target="_blank" rel="noopener noreferrer">https://twitter.com/RealBeiMing/status/1542933622784671745</a>
+瑞银(UBS)在2022年4月至6月期间对30家主要央行所做的年度调查显示，已经投资或有兴趣投资人民币的央行储备管理机构的比例从去年的81%升至85%。这是地缘政治纷争可能削弱美元主导地位的一个迹象。<br>我不希望美国如此快衰落，希望拜登认真考虑，没有美国的强大支撑，他是Nothing。 <a href="http://www.ftchinese.com/story/001096547?full=y&amp;exclusive" target="_blank" rel="noopener noreferrer">http://www.ftchinese.com/story/001096547?full=y&amp;exclusive</a>
 
 ### 144: [2022-07-02 07:38:42+08:00 推文](https://twitter.com/HeQinglian/status/1543016275789619201)
 
@@ -693,7 +693,7 @@ BRICKS在俄乌战后启动内部结算系统，五国贸易不再用美元结�
 
 ### 170: [2022-07-03 03:46:49+08:00 推文](https://twitter.com/HeQinglian/status/1543320305912905729)
 
-如果泽连斯基真说了这话，说明他知道乌克兰现在、过去在西方的安全架构中的位置“不体面”。从这点来说，他有自知之明，比如3月28日接受《经济学人》采访时很明确地挑明自己在打代理人战争。<br><br>绫波: 乌克兰总统泽连斯基：待与俄罗斯的冲突结束后，乌克兰必须在西方安全架构中有一个“体面的位置”，而不是充当北约和俄罗斯之间的“灰色地带”。<br><br><img style="" src="https://pbs.twimg.com/media/FWpVYJnWIAEsu70?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+如果泽连斯基真说了这话，说明他知道乌克兰现在、过去在西方的安全架构中的位置“不体面”。从这点来说，他有自知之明，比如3月28日接受《经济学人》采访时很明确地挑明自己在打代理人战争。
 
 ### 171: [2022-07-03 04:33:29+08:00 推文](https://twitter.com/HeQinglian/status/1543332051557941249)
 
