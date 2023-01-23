@@ -31,3 +31,9 @@ I wonder if you're misapprehending /u/Ramses_IV's point here, which is not that 
 
 Australia looking on in envy...
 
+### 1072: [What pop history book has done the best job of accurately portraying your area of study?](https://old.reddit.com/r/AskHistorians/comments/10j9dge/what_pop_history_book_has_done_the_best_job_of/), submitted on 2023-01-23 18:27:17+08:00.
+
+----- __1072.1__ -----2023-01-24 01:55:18+08:00:
+
+Stephen Platt's *Autumn in the Heavenly Kingdom*, hands-down. It's meticulously researched, extremely well-written, and historiographically innovative. If I were to be asked what one book to read on the Taiping, this would be it. Now, its coverage is decidedly incomplete. It does not cover the leadup to the uprising in the 1840s, nor its first nine years or so from 1851-59. What it does do is narrate, in meticulous detail, the last five years of the Taiping War, in which the Taiping sought to gain control of Shanghai while as Qing gradually pushed downriver along the Yangtze towards their capital at Nanjing. The key thing is it is fundamentally a connected history. The resurgence of the Taiping in 1860 is placed in a context with the concluding phases of the Qing defeat in the Arrow War against Britain and France; the British decision to tacitly, and later actively, support the Qing is considered in conjunction with British approaches to 'neutrality' in the concurrent American Civil War. The Taiping can often be trivialised as a curiosity of Chinese history, but Platt manages to reframe it as a key event of *global* history.
+
