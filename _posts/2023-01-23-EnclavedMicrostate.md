@@ -23,7 +23,7 @@ So what you end up with is that a lot of the *good* comparative history doesn't 
 
 ----- __1070.2__ -----2023-01-23 21:55:12+08:00:
 
-I wonder if you're misapprehending /u/Ramses_IV's point here, which is not that popular history deserves no credit, but rather that it is not creditable for an author or work to *only* draw attention to a topic if its presentation of that topic is flawed and if the most obvious follow-ups are as well. It's not that people shouldn't write biographies of Charlemagne for a popular audience; rather it's that people shouldn't get credit for writing them for a popular audience, people should get credit for them being *good history*.
+I wonder if you're misapprehending /u/Ramses_IV's point here, which is not that popular history deserves no credit, but rather that it is not creditable for an author or work to *only* draw attention to a topic if its presentation of that topic is flawed and if the most obvious follow-ups are as well. It's not that people shouldn't write biographies of Charlemagne for a popular audience; rather it's that people shouldn't get credit *for* writing them for a popular audience, people should get credit for them being *good history*.
 
 ### 1071: [Unusual grouping of 5 horses. I haven't enabled abundant resources or anything else that would cause this.](https://old.reddit.com/r/civ/comments/10iy8mz/unusual_grouping_of_5_horses_i_havent_enabled/), submitted on 2023-01-23 07:54:08+08:00.
 
@@ -36,4 +36,8 @@ Australia looking on in envy...
 ----- __1072.1__ -----2023-01-24 01:55:18+08:00:
 
 Stephen Platt's *Autumn in the Heavenly Kingdom*, hands-down. It's meticulously researched, extremely well-written, and historiographically innovative. If I were to be asked what one book to read on the Taiping, this would be it. Now, its coverage is decidedly incomplete. It does not cover the leadup to the uprising in the 1840s, nor its first nine years or so from 1851-59. What it does do is narrate, in meticulous detail, the last five years of the Taiping War, in which the Taiping sought to gain control of Shanghai while as Qing gradually pushed downriver along the Yangtze towards their capital at Nanjing. The key thing is it is fundamentally a connected history. The resurgence of the Taiping in 1860 is placed in a context with the concluding phases of the Qing defeat in the Arrow War against Britain and France; the British decision to tacitly, and later actively, support the Qing is considered in conjunction with British approaches to 'neutrality' in the concurrent American Civil War. The Taiping can often be trivialised as a curiosity of Chinese history, but Platt manages to reframe it as a key event of *global* history.
+
+----- __1072.2__ -----2023-01-24 02:57:19+08:00:
+
+It's popular in the sense of being intended for a general rather than a narrowly academic audience. It's published by a trade press, it has a narrative format, it uses end- rather than footnotes (though that's not uncommon in academic press books either), and so on. It just happens to also be written by an academic and provide a fresh perspective that enhances our academic understanding.
 
