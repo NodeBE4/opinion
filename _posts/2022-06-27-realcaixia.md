@@ -125,11 +125,11 @@ Re @Kk98721066 看明白了，警察开车从这走，检查核酸检测的工�
 
 ### 28: [2022-07-01 00:04:58+08:00 推文](https://twitter.com/realcaixia/status/1542539699667062788)
 
-🥀🥀🥀🙏🙏🙏大陆深度调查记者对揭露大陆的黑暗面，反映民众呼声写过很多优秀报道，产生过巨大影响。习近平上台后遭严厉打压说真话的深度调查记者，很多媒体内部撤销了深度调查部门。只有几家媒体坚持继续做深度调查。又一位深度调查优秀记者离去，令人感伤。哀悼杨海鹏先生。<br><br>高伐林: 中国著名调查记者杨海鹏于6月29日突发心梗逝世，年仅55岁。<br>杨当过教师，在法院做过4年研究员，后辞职进入媒体业，曾任《南方周末》法治调查记者，参与创办《新周报》，后为《财经》杂志华东新闻中心主任。杨撰写了很多内幕稿件，引起社会广泛关注。<br>英年早逝，令人痛惜！祈愿天堂没有心梗，只有心安。<br><br><img style="" src="https://pbs.twimg.com/media/FWgGDhyXwAI3Kxo?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+🥀🥀🥀🙏🙏🙏大陆深度调查记者对揭露大陆的黑暗面，反映民众呼声写过很多优秀报道，产生过巨大影响。习近平上台后遭严厉打压说真话的深度调查记者，很多媒体内部撤销了深度调查部门。只有几家媒体坚持继续做深度调查。又一位深度调查优秀记者离去，令人感伤。哀悼杨海鹏先生。
 
 ### 29: [2022-07-01 02:53:56+08:00 推文](https://twitter.com/realcaixia/status/1542582221881704448)
 
-非常赞同文章作者观点。<br><br>韩连潮: 美媒Politico发文，题为“美国不能就这样埋葬和遗忘香港”，值得一读。英美和其他西方民主国家有责任支持香港人维护其政治权利和公民权利。<br>U.S. can't just bury and forget Hong Kong<br><br><img style="" src="https://pbs.twimg.com/media/FWgF7BwX0AEkPs4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://politi.co/3AfE78x" target="_blank" rel="noopener noreferrer">https://politi.co/3AfE78x</a>
+非常赞同文章作者观点。
 
 ### 30: [2022-07-01 03:05:39+08:00 推文](https://twitter.com/realcaixia/status/1542585172381601794)
 
@@ -161,23 +161,23 @@ Re 中共党内奴性文化、阴谋文化是中共党性修养的本质内涵�
 
 ### 37: [2022-07-02 07:19:20+08:00 推文](https://twitter.com/realcaixia/status/1543011400871821312)
 
-香港上了一个以警察为业的特首，这和习越来越依赖于警察治国的总方针很吻合。作为警察，李家超几十年来在处置港人保护自由香港的抗争中忠实执行了北京意志，其表现令北京满意。否则，香港作为世界金融中心之一、世界自由贸易港、亚洲四小龙，怎么也轮不到李当特首。现在管香港，维稳第一，李家超正合适
+香港上了一个以警察为业的特首，这和习越来越依赖于警察治国的总方针很吻合。作为警察，李家超几十年来在处置港人保护自由香港的抗争中忠实执行了北京意志，其表现令北京满意。否则，香港作为世界金融中心之一、世界自由贸易港、亚洲四小龙，怎么也轮不到李当特首。现在管香港，维稳第一，李家超正合适<br><br>自由亚洲电台: 【港新任特首李加超就职演说表情十足】<br>【惟台下观众多“闭目养神”】<br>于7月1日就任的香港特首李家超表就职演说。虽然李家超一改以往平实发言的风格，不时刻意调高嗓子，双眉、双眼与及口部动作亦明显比平时增多，但也未能得到台下观众注目。<br>13分钟演说里，台下有不少观众都呼呼入睡。<br><br>视频截图<br><br><img style="" src="https://pbs.twimg.com/media/FWkYJhYWQAE7UvT?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 38: [2022-07-02 07:25:34+08:00 推文](https://twitter.com/realcaixia/status/1543012970762043393)
 
-习近平在李家超就职演说时踏实睡觉了，就像文革后期曾经传说的毛泽东的六个字那样：“你办事我放心”。有枪在，有港版国安法在，还有李家超在。<br><br>浪得难受: @RFA_Chinese 你们不敢发，我来帮你们补一张。<br><br><img style="" src="https://pbs.twimg.com/media/FWkblU6UIAAFEPo?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+习近平在李家超就职演说时踏实睡觉了，就像文革后期曾经传说的毛泽东的六个字那样：“你办事我放心”。有枪在，有港版国安法在，还有李家超在。
 
 ### 39: [2022-07-02 20:50:01+08:00 推文](https://twitter.com/realcaixia/status/1543215415165435906)
 
-看到有几个推特都在推这个视频，跟着凑个热闹。<br><br>官场观察工作室 昭明: 当年老江去香港时，到都是操着粤语的香港本地人到场欢迎，老江也能说一两句粤语，还能给大家表演一两段，老江倒是不怕暗杀，更没有把内地大陆的小粉红带到香港造假欢迎场面。<br><br><video src="https://video.twimg.com/ext_tw_video/1542857715051302912/pu/vid/608x480/usMiqB-2VmhsWMbo.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1542857715051302912/pu/img/hjzTjQ5uecHBptm9.jpg"></video>
+看到有几个推特都在推这个视频，跟着凑个热闹。
 
 ### 40: [2022-07-02 21:32:49+08:00 推文](https://twitter.com/realcaixia/status/1543226187417354240)
 
-在转一个胡锦涛在香港的视频，是一个推友转发的Youtube上的。<br><br>Vicky Huang: @ZhaoMingObserve @Littlerize 看看當時影片 跟現在樣板完全不同<br> <a href="https://youtu.be/kxRYIrwnU_c" target="_blank" rel="noopener noreferrer">https://youtu.be/kxRYIrwnU_c</a>
+在转一个胡锦涛在香港的视频，是一个推友转发的Youtube上的。
 
 ### 41: [2022-07-02 22:18:52+08:00 推文](https://twitter.com/realcaixia/status/1543237776904175617)
 
-极权统治出打手举刀了。
+极权统治出打手举刀了。<br><br>靜心: 轉：雷霆行動，唐山開始抓捕舉報人了，微博和微信賬號銷了一萬多，這就是他們解決問題的手段！<br><br><img style="" src="https://pbs.twimg.com/media/FWlC29XWQAATeXf?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 42: [2022-07-02 22:22:48+08:00 推文](https://twitter.com/realcaixia/status/1543238766894223361)
 
