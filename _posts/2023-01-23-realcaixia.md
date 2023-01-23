@@ -39,3 +39,15 @@ Re 图三，行为艺术作品“看春晚”。两只袜子各有一只眼盯�
 
 感动！<div class="rsshub-quote"><br><br>ChinaNews JayPro: 陕西一家冒菜馆里的一号餐，在寒冷的冬天为人们送来一份温暖。<br><br>为众人抱薪者，不可使其冻毙于风雪。<br>为自由开道者，不可令其困厄于荆棘<br>#爱心餐馆 #免费一号餐<br><br><video src="https://video.twimg.com/ext_tw_video/1617079837063249922/pu/vid/1280x720/x4cbSCECN30W8Ess.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1617079837063249922/pu/img/3LgyCO-96sbvSL6l.jpg"></video></div>
 
+### 7: [2023-01-23 11:52:33+08:00 推文](https://twitter.com/realcaixia/status/1617369672021680129)
+
+Re 有人说胡耀邦只给中共高官平反，这是胡说八道。<br>胡耀邦给所有地主、资本家、民国政府雇员、知识分子、所有外资银行与公司职员、右派分子、国民党军官等都平反解放，消除了他们的政治贱民身份。胡耀邦平反了数千万人，我2015年写纪念胡耀邦文章，刊登文章的网站被勒令撤掉，理由是不准曝光平反人数。
+
+### 8: [2023-01-23 11:59:17+08:00 推文](https://twitter.com/realcaixia/status/1617371367300796417)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FnIOrvgacAAOSBL?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FnIOruhaAAI2IAn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 9: [2023-01-23 12:03:50+08:00 推文](https://twitter.com/realcaixia/status/1617372512580702211)
+
+Re @xyctaiwan 🌹🤝💗🙏
+
