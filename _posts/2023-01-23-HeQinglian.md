@@ -91,3 +91,7 @@ Re @eGUAbe2V7j26GHw @myfxtrader 潮汕人经商很成功，广东各地的成功
 
 Re @eGUAbe2V7j26GHw @myfxtrader 不过，那时深圳与就一个渔村，他们也没差到哪里去。你想想，华侨城是谁的地盘，廖、何家族的，海外华侨得改革风气之先。光明农场我在时确实不错，现在如何就不知了。经营管理得跟上时代。
 
+### 20: [2023-01-23 22:29:24+08:00 推文](https://twitter.com/JianglinLi/status/1617529940437794818)
+
+RT 李江琳<br>过去两年内两百万学生离开公立教育系统。16%的黑人家庭在家教育，是各族裔中比例最高的。——好事！<div class="rsshub-quote"><br><br>Dumisani Washington: Over 2 million students have left public schools in the past 2 years. Many of those are now homeschooled including over 16% of Black households — largest % of any ethnic group. <br><br>The only people surprised by those numbers are those who don’t know what’s going on in public schools<br></div>
+
