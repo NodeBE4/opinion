@@ -41,3 +41,7 @@ Stephen Platt's *Autumn in the Heavenly Kingdom*, hands-down. It's meticulously 
 
 It's popular in the sense of being intended for a general rather than a narrowly academic audience. It's published by a trade press, it has a narrative format, it uses end- rather than footnotes (though that's not uncommon in academic press books either), and so on. It just happens to also be written by an academic and provide a fresh perspective that enhances our academic understanding.
 
+----- __1072.3__ -----2023-01-24 06:43:48+08:00:
+
+I would consider it to be popular history written by an academic, yes. My benchmark is not to do with provenance but rather to do with intended audience: generally speaking, a narrative history published via a trade press is going to be intended to be both affordable and approachable to the general public in a way that an analytical history via an academic press will not.
+
