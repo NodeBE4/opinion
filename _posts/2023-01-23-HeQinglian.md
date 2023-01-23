@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-01-23
+date: 2023-01-24
 from: https://twitter.com/HeQinglian/status/1617192085089652736
 layout: post
 tags:
@@ -94,4 +94,12 @@ Re @eGUAbe2V7j26GHw @myfxtrader 不过，那时深圳与就一个渔村，他们
 ### 20: [2023-01-23 22:29:24+08:00 推文](https://twitter.com/JianglinLi/status/1617529940437794818)
 
 RT 李江琳<br>过去两年内两百万学生离开公立教育系统。16%的黑人家庭在家教育，是各族裔中比例最高的。——好事！<div class="rsshub-quote"><br><br>Dumisani Washington: Over 2 million students have left public schools in the past 2 years. Many of those are now homeschooled including over 16% of Black households — largest % of any ethnic group. <br><br>The only people surprised by those numbers are those who don’t know what’s going on in public schools<br></div>
+
+### 21: [2023-01-24 00:05:50+08:00 推文](https://twitter.com/HeQinglian/status/1617554208991105024)
+
+我的女儿高慧民被推下纽约地铁，她的生命应该被记住 <br>我非常同情高先生一家。但他提出的解决方案仍然是“你有暴力，我有鲜花与爱”：“无论民众被给予什么样的自由，并不意味着我们可以把马夏尔·西蒙这样的人弃于地铁系统而不顾。”<br>难道是纽约救助得不够，西蒙才选择了华人女士？ <a href="https://cn.nytimes.com/opinion/20230116/michelle-go-death-subway-father/" target="_blank" rel="noopener noreferrer">https://cn.nytimes.com/opinion/20230116/michelle-go-death-subway-father/</a>
+
+### 22: [2023-01-24 00:07:48+08:00 推文](https://twitter.com/HeQinglian/status/1617554701947654146)
+
+Re 我不清楚这是高先生本来想表达的意思，还是《纽约时报》编辑润色的结果。<br>旧金山与纽约是流浪汉的天堂，都有当地政府的大量补贴，但这种凶杀从未停止。
 
