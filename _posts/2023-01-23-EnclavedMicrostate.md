@@ -101,3 +101,7 @@ Also, 'leave border regions undeveloped' is a hell of a way to frame 'not doing 
 
 I mean there's any number of reasons to do it, but if China is looking at things in terms of having a stronger border, then yes, expanding it economically offsets the cost of administrative and military strengthening. The economic side of things is made more efficient by having cheap Uighur and Kazakh labour thanks to being able to essentially conscript prison labour from the interment camps, of course, but that doesn't inherently mean farming up against the border is beneficial.
 
+----- __1074.5__ -----2023-01-24 16:36:22+08:00:
+
+If by 'savvy' you mean 'an effective method of colonialism whereby Han Chinese people are transplanted to outpopulate Kazakhs and Uighurs, at the same time that there are programmes of cultural genocide [and literal eugenicist policies to force abortions and sterilisations of Uighurs](https://apnews.com/article/ap-top-news-international-news-weekend-reads-china-health-269b3de1af34e17c1941a514f78d764c), then sure, it's 'savvy', but I will not give China that 'credit'. Brutality, pure and simple, is what it is. It's brutality that is common throughout human history, but that does not give China an excuse.
+
