@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2023-01-24
+date: 2023-01-25
 from: https://twitter.com/realcaixia/status/1617222036350472197
 layout: post
 tags:
@@ -66,4 +66,8 @@ Re @xyctaiwan 🌹🤝💗🙏
 ### 13: [2023-01-24 23:35:58+08:00 推文](https://twitter.com/realcaixia/status/1617909079040749574)
 
 整个中国就是大监狱。西方国家的民众活在自由民主、宪政法治、保障人权、监督政府的制度环境中；中国人活在被封嘴、被禁行、被随时抓、被抢钱的大监狱中。天壤之别！<div class="rsshub-quote"><br><br>美国之音中文网: “我想对思琪和那些消失的年轻人们说，你们没有做错。”在白纸运动被抓的名单上，小云看到四个熟悉的名字。她无法相信那些才华横溢的朋友们会成为铁拳的牺牲品。 “中国就是一个非常大的监狱。为了不被抓，你只能苟且地活着。但可能对有些人来说，那样活着感觉挺没有尊严的，“她对美国之音说。<br><br><video src="https://video.twimg.com/amplify_video/1617660549637996545/vid/1080x1080/BzkxDm_seh4oNRVH.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/media/FnMXmgUWYAAljqW?format=jpg&amp;name=orig"></video></div>
+
+### 14: [2023-01-25 00:06:56+08:00 推文](https://twitter.com/realcaixia/status/1617916871814303747)
+
+Re 习能如此暴政，首先是依赖一套暴政制度，这就是毛说他自己是“秦始皇➕马克思”，中国秦政2000多年一贯制，只是外面包装了“马克思主义”骗人的皮而已；<br><br>习暴政还利用高科技➕权谋政治。高科技手段得以严密监视控制每一个人，权谋政治是中共党文化的“可意会不可言传”部分，是实际控制党内人言行的“潜规则”
 
