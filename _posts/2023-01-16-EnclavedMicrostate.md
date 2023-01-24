@@ -117,3 +117,15 @@ That would be me! And yes. You are correct.
 
 This is a weekend event that had been a long time planning, so there was actually plenty of time once the game got going.
 
+### 1070: [[Hobby Scuffles] Week of January 23, 2023](https://old.reddit.com/r/HobbyDrama/comments/10iljrw/hobby_scuffles_week_of_january_23_2023/), submitted on 2023-01-22 23:00:15+08:00.
+
+----- __1070.1__ -----2023-01-25 01:57:34+08:00:
+
+> I'm at the point where my instinctive response to anyone who goes on about "respecting the lore" has become, "Why is 'the lore' intrinsically worthy of respect?"
+
+Me except for Star Trek.
+
+----- __1070.2__ -----2023-01-25 02:00:27+08:00:
+
+I mean I say go ahead.
+
