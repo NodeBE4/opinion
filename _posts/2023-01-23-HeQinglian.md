@@ -147,43 +147,59 @@ Re @ericji2006 从拜登讲过美国公民要反抗政府，需要拥有F35战�
 
 RT 华尔街日报中文网<br>德国和法国表示共同支持欧盟回击美国《降低通胀法案》中减税措施的努力，增加了欧盟在下个月就简化欧洲补贴规则和对特定行业提供额外援助达成一致的可能性。 <a href="https://on.wsj.com/3Ho13ps" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3Ho13ps</a>
 
-### 34: [2023-01-24 23:14:27+08:00 推文](https://twitter.com/HeQinglian/status/1617903663959388161)
+### 34: [2023-01-24 11:31:05+08:00 推文](https://twitter.com/zhixiangziyou/status/1617726654847283201)
+
+RT L JM🇺🇸<br>重磅炸弹报告：参议院证词证实，亚利桑那州近 40,000 张选票在 2022 年中期选举中被非法统计。-Kari Lake<br><br>媒体死寂...<div class="rsshub-quote"><br><br>Chuck Callesto: BOMBSHELL REPORT: Senate Testimony CONFIRMS nearly 40,000 Arizona ballots were ILLEGALLY COUNTED in 2022 Midterm election.. -Kari Lake<br><br>MEDIA DEAD SILENT...<br></div>
+
+### 35: [2023-01-24 23:14:27+08:00 推文](https://twitter.com/HeQinglian/status/1617903663959388161)
 
 Re @farmdirect8 那是绝对不可能的。连房产一起，资产净值达100万的，只有20%多一些。
 
-### 35: [2023-01-24 23:20:12+08:00 推文](https://twitter.com/HeQinglian/status/1617905111875088384)
+### 36: [2023-01-24 23:20:12+08:00 推文](https://twitter.com/HeQinglian/status/1617905111875088384)
 
 Re @MaxDongh 👌推上一批中国人，恨不得将其他华人的黄皮肤都烧了。
 
-### 36: [2023-01-24 23:40:21+08:00 推文](https://twitter.com/HeQinglian/status/1617910181811326977)
+### 37: [2023-01-24 23:40:21+08:00 推文](https://twitter.com/HeQinglian/status/1617910181811326977)
 
 关于部分推主斥责美国人血气越来越稀少，请参看邦迪对峙（Bundy standoff）。<br>这是2014年发生于美国农场主克莱文·邦迪及其支持者与美国执法当局之间的武装对峙事件。迫于压力, 克莱文·邦迪和新任的土地管理局局长尼尔·科恩泽在警长道格·吉莱斯皮斡旋下进行谈判。
 
-### 37: [2023-01-24 23:41:22+08:00 推文](https://twitter.com/HeQinglian/status/1617910439740051456)
+### 38: [2023-01-24 23:41:22+08:00 推文](https://twitter.com/HeQinglian/status/1617910439740051456)
 
 Re 中国人也熟悉的“秋后算帐”：<br>科恩泽局长选择放弃围捕牛群的行动、撤走执法人员、释放克莱文的牛群以缓解局势<br>冲突结束后不久，美国联邦政府起诉包括邦迪本人及其两名儿子在内的17人。2017年7月26日，17名被告之中的来自亚利桑那州菲尼克斯的格雷戈里·布莱森（Gregory Burleson）被判处68年监禁。
 
-### 38: [2023-01-24 23:48:57+08:00 推文](https://twitter.com/HeQinglian/status/1617912346344853505)
+### 39: [2023-01-24 23:48:57+08:00 推文](https://twitter.com/HeQinglian/status/1617912346344853505)
 
 Re 卫报《当前美国农民为何自杀率空前高企？》及相关评论，展示了西方国家农业从上游投入、中游生产，直至下游供应环节逐渐为大资本及其代理政府所控制，从而将农民、社区、环境、可持续等大自然与人类社会的天然权利排斥于农业链条之外的惨痛故事——川普获红脖广泛支持原因在此 <a href="https://www.theguardian.com/us-news/2017/dec/06/why-are-americas-farmers-killing-themselves-in-record-numbers" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/us-news/2017/dec/06/why-are-americas-farmers-killing-themselves-in-record-numbers</a>
 
-### 39: [2023-01-24 23:51:24+08:00 推文](https://twitter.com/HeQinglian/status/1617912963163369472)
+### 40: [2023-01-24 23:51:24+08:00 推文](https://twitter.com/HeQinglian/status/1617912963163369472)
 
 Re @Lucs24659702 这是哪个地方的学校？太堕落了。
 
-### 40: [2023-01-24 23:53:36+08:00 推文](https://twitter.com/HeQinglian/status/1617913517436469248)
+### 41: [2023-01-24 23:53:36+08:00 推文](https://twitter.com/HeQinglian/status/1617913517436469248)
 
 Re @mingshi_chen 还是需要法治，只有健全的法治才能保障公民权益。
 
-### 41: [2023-01-24 23:55:07+08:00 推文](https://twitter.com/HeQinglian/status/1617913900615499776)
+### 42: [2023-01-24 23:55:07+08:00 推文](https://twitter.com/HeQinglian/status/1617913900615499776)
 
 Re @james5879 答应了又如何？找个别的由头，比如生态被破坏了，这个案例中就是这理由。
 
-### 42: [2023-01-25 00:40:55+08:00 推文](https://twitter.com/HeQinglian/status/1617925423907864576)
+### 43: [2023-01-25 00:40:55+08:00 推文](https://twitter.com/HeQinglian/status/1617925423907864576)
 
 这篇文章的作者独独没考虑机器人时代，劳动力本就过剩。<br>国际劳工组织《2022 年全球青年就业趋势》指出，最新的评估数据表明，未就业、受教育或未接受培训的青年（24岁以下）比例上升至 23.3%。女青年更为糟糕。2022 年全球有 27.4% 的女青年处于就业状态，而男性青年的就业比例则为 40.3%。<div class="rsshub-quote"><br><br>联合早报 Lianhe Zaobao: 去年中国人口减少85万，自1961年来首现负增长。随着这个世界第二大经济体迎来人口拐点，分析预计中国劳动队伍将加速萎缩，消费、住宅和基础设施等需求也随之减少。除了消费回落，人口减少也将降低房屋需求，意味着中国楼市难以重回两年前的峰值，房地产投资将随之走弱。<br><br><img style="" src="https://pbs.twimg.com/media/FnO1I8_XEAQE1jN?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3WssKle" target="_blank" rel="noopener noreferrer">https://bit.ly/3WssKle</a></div>
 
-### 43: [2023-01-25 00:41:41+08:00 推文](https://twitter.com/HeQinglian/status/1617925618104152064)
+### 44: [2023-01-25 00:41:41+08:00 推文](https://twitter.com/HeQinglian/status/1617925618104152064)
 
 Re @Lucs24659702 一般读者看看就可以了，我如果引用，需要核实资料来源。
+
+### 45: [2023-01-25 02:11:04+08:00 推文](https://twitter.com/HeQinglian/status/1617948113750364160)
+
+Re @mingshi_chen 看了此推下的回复，觉得各位被美国近年现状伤到了。<br>各位所忧乃是事实，但从古到今，法治良序虽非尽善，毕竟是普通人也能受益的体制。<br>丛林社会，那才真是弱肉强食。
+
+### 46: [2023-01-25 02:13:38+08:00 推文](https://twitter.com/HeQinglian/status/1617948756930097152)
+
+Re @zhixiangziyou 没这样说的原因，有许多有零工可做。报告指的就业状态，应该是充分就业，而非Part Time。<br>美国实际上就是这样计算就业，如每周就业多少小时。比如本人从未申领失业金，也交税，一直算充分就业。
+
+### 47: [2023-01-25 02:28:38+08:00 推文](https://twitter.com/HeQinglian/status/1617952534383185924)
+
+American Standoff<br><br>这部纪实片就是以邦迪家族与联邦土地管理局的对峙为背景拍摄，没有中文，但有英文字幕。这个家族领导了多次对抗，算是全国性的领袖。<br>这部纪实片值得一看，尤其是采访中各方的立场表态很有意思。<div class="rsshub-quote"><br><br>He Qinglian: 关于部分推主斥责美国人血气越来越稀少，请参看邦迪对峙（Bundy standoff）。<br>这是2014年发生于美国农场主克莱文·邦迪及其支持者与美国执法当局之间的武装对峙事件。迫于压力, 克莱文·邦迪和新任的土地管理局局长尼尔·科恩泽在警长道格·吉莱斯皮斡旋下进行谈判。<br></div>
 
