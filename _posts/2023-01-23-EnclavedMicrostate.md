@@ -75,41 +75,51 @@ It's popular in the sense of being intended for a general rather than a narrowly
 
 I would consider it to be popular history written by an academic, yes. My benchmark is not to do with provenance but rather to do with intended audience: generally speaking, a narrative history published via a trade press is going to be intended to be both affordable and approachable to the general public in a way that an analytical history via an academic press will not.
 
-### 1074: [Doja Cat covered in 30,000 Swarovski crystals applied by hand at the Schiaparelli Haute Couture show](https://old.reddit.com/r/pics/comments/10jhnbc/doja_cat_covered_in_30000_swarovski_crystals/), submitted on 2023-01-24 01:12:46+08:00.
+### 1074: [Miku Magical Mirai - Weekly Discussion Thread, Jan 23rd, 2023](https://old.reddit.com/r/VirtualYoutubers/comments/10je17q/miku_magical_mirai_weekly_discussion_thread_jan/), submitted on 2023-01-23 22:41:52+08:00.
 
------ __1074.1__ -----2023-01-24 08:10:39+08:00:
+----- __1074.1__ -----2023-01-25 07:01:51+08:00:
+
+Noel has one now too: https://twitter.com/danchou_sub
+
+### 1075: [Doja Cat covered in 30,000 Swarovski crystals applied by hand at the Schiaparelli Haute Couture show](https://old.reddit.com/r/pics/comments/10jhnbc/doja_cat_covered_in_30000_swarovski_crystals/), submitted on 2023-01-24 01:12:46+08:00.
+
+----- __1075.1__ -----2023-01-24 08:10:39+08:00:
 
 Well enough to remember that it's the Suliban, yes.
 
-### 1075: [Border between China and Kazakhstan in Xinjiang region](https://old.reddit.com/r/MapPorn/comments/10jkbqr/border_between_china_and_kazakhstan_in_xinjiang/), submitted on 2023-01-24 02:58:35+08:00.
+### 1076: [Border between China and Kazakhstan in Xinjiang region](https://old.reddit.com/r/MapPorn/comments/10jkbqr/border_between_china_and_kazakhstan_in_xinjiang/), submitted on 2023-01-24 02:58:35+08:00.
 
------ __1075.1__ -----2023-01-24 07:54:14+08:00:
+----- __1076.1__ -----2023-01-24 07:54:14+08:00:
 
 It's classic imperial frontier consolidation: having a denser population in a region makes it more affordable and justifiable to build up administrative and defence infrastructure.
 
------ __1075.2__ -----2023-01-24 07:55:15+08:00:
+----- __1076.2__ -----2023-01-24 07:55:15+08:00:
 
 I mean, a good chunk of those fields – even if not those specific ones, Xinjiang in general – are being farmed by slave labour, or near-equivalents like prison labour, conscripted from the internment camps. It's hardly some kind of whataboutism. Like, if you saw a photo of an 1850s plantation in the American south, it'd hardly be inappropriate to mention slavery if it wasn't highlighted in the original post.
 
------ __1075.3__ -----2023-01-24 08:14:43+08:00:
+----- __1076.3__ -----2023-01-24 08:14:43+08:00:
 
 'Free countries' ideally recognise that international cooperation is preferable to militarisation and brinkmanship. This is why there are things like the Schengen Area, which is a case of several countries undefending their borders so much they don't even have civilian border controls with each other.
 
 Also, 'leave border regions undeveloped' is a hell of a way to frame 'not doing a colonialism by deliberately migrating a favoured population into a region while committing cultural genocide against its indigenous people.'
 
------ __1075.4__ -----2023-01-24 08:41:35+08:00:
+----- __1076.4__ -----2023-01-24 08:41:35+08:00:
 
 I mean there's any number of reasons to do it, but if China is looking at things in terms of having a stronger border, then yes, expanding it economically offsets the cost of administrative and military strengthening. The economic side of things is made more efficient by having cheap Uighur and Kazakh labour thanks to being able to essentially conscript prison labour from the interment camps, of course, but that doesn't inherently mean farming up against the border is beneficial.
 
------ __1075.5__ -----2023-01-24 16:36:22+08:00:
+----- __1076.5__ -----2023-01-24 16:36:22+08:00:
 
 If by 'savvy' you mean 'an effective method of colonialism whereby Han Chinese people are transplanted to outpopulate Kazakhs and Uighurs, at the same time that there are programmes of cultural genocide [and literal eugenicist policies to force abortions and sterilisations of Uighurs](https://apnews.com/article/ap-top-news-international-news-weekend-reads-china-health-269b3de1af34e17c1941a514f78d764c), then sure, it's 'savvy', but I will not give China that 'credit'. Brutality, pure and simple, is what it is. It's brutality that is common throughout human history, but that does not give China an excuse.
 
------ __1075.6__ -----2023-01-25 06:29:42+08:00:
+----- __1076.6__ -----2023-01-25 06:29:42+08:00:
 
 'Its own cities' which it conquered by force in the 1750s, maintained control of through force from the 1820s onwards, conquered *again* after they declared independence in the 1870s, conquered *again* after they declared independence in the 1940s, and have been actively genociding the native populations of in the last few decades. Sure. China's 'own' cities. Sure.
 
------ __1075.7__ -----2023-01-25 06:34:04+08:00:
+----- __1076.7__ -----2023-01-25 06:34:04+08:00:
 
 TIL that it's Sinophobia to oppose genocide and colonialism, because guess what? I think there *should* be restitution for First Nations and Native groups, which hasn't been forthcoming in America, nor in Canada, and sure as hell ain't happening in China right now.
+
+----- __1076.8__ -----2023-01-25 06:53:30+08:00:
+
+Just repeating the assertions you made to me, but go off I guess.
 
