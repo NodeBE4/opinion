@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2023-01-23
+date: 2023-01-24
 from: https://twitter.com/realcaixia/status/1617222036350472197
 layout: post
 tags:
@@ -50,4 +50,12 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FnIOrvgacAAOSBL?format=jpg
 ### 9: [2023-01-23 12:03:50+08:00 推文](https://twitter.com/realcaixia/status/1617372512580702211)
 
 Re @xyctaiwan 🌹🤝💗🙏
+
+### 10: [2023-01-24 13:06:11+08:00 推文](https://twitter.com/realcaixia/status/1617750588468637697)
+
+特别推荐自由亚洲电台采访慕容雪村的这期节目。<br>2020年武汉市正是武汉病毒依旧猖獗时，慕容雪村在武汉做了深入的考察与采访，正因为他有了别人没有的经历，使他对武汉病毒疫情中的中共与习当局的撒谎和洗脑，有了更为深刻的认识与思考。 <a href="https://youtu.be/8xau2YGgWZc" target="_blank" rel="noopener noreferrer">https://youtu.be/8xau2YGgWZc</a>
+
+### 11: [2023-01-24 13:38:57+08:00 推文](https://twitter.com/realcaixia/status/1617758833421725698)
+
+推荐自由亚洲电台这期访问节目。<br>2020年中共警察在武汉突然动手，抓捕了三位要了解真相说真话的记者与公民，他们是张展、方斌和李泽华。<br>这期节目采访了李泽华，现在李泽华已经到了美国，在学习和研究极权制度和统治集团是如何做到利用高科技监视和镇压民间反抗的。 <a href="https://youtu.be/1SucbhODExA" target="_blank" rel="noopener noreferrer">https://youtu.be/1SucbhODExA</a>
 
