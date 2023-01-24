@@ -105,3 +105,11 @@ I mean there's any number of reasons to do it, but if China is looking at things
 
 If by 'savvy' you mean 'an effective method of colonialism whereby Han Chinese people are transplanted to outpopulate Kazakhs and Uighurs, at the same time that there are programmes of cultural genocide [and literal eugenicist policies to force abortions and sterilisations of Uighurs](https://apnews.com/article/ap-top-news-international-news-weekend-reads-china-health-269b3de1af34e17c1941a514f78d764c), then sure, it's 'savvy', but I will not give China that 'credit'. Brutality, pure and simple, is what it is. It's brutality that is common throughout human history, but that does not give China an excuse.
 
+----- __1075.6__ -----2023-01-25 06:29:42+08:00:
+
+'Its own cities' which it conquered by force in the 1750s, maintained control of through force from the 1820s onwards, conquered *again* after they declared independence in the 1870s, conquered *again* after they declared independence in the 1940s, and have been actively genociding the native populations of in the last few decades. Sure. China's 'own' cities. Sure.
+
+----- __1075.7__ -----2023-01-25 06:34:04+08:00:
+
+TIL that it's Sinophobia to oppose genocide and colonialism, because guess what? I think there *should* be restitution for First Nations and Native groups, which hasn't been forthcoming in America, nor in Canada, and sure as hell ain't happening in China right now.
+
