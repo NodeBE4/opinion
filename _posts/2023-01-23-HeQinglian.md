@@ -275,3 +275,11 @@ Re @JohnMBelz1 你看来不懂人世间事物。<br>读亚当夏娃故事，弄�
 
 Re @shenliangqing2 @JianglinLi 福柯可能也没想到今天美国加州有如吸毒者天堂：无需工作，想吸毒就去政府提供的毒品屋住上一阵子（需求大于供给，肯定要排队），甚至成为进步主义标配。
 
+### 66: [2023-01-26 04:27:38+08:00 推文](https://twitter.com/JianglinLi/status/1618344868669198336)
+
+RT 李江琳<br>Re @HongfuDing @HeQinglian @david_david1968 @Wu_Zhi  真相工程的哥们儿今晚8点要爆猛料。👇<div class="rsshub-quote"><br><br>James O'Keefe: Tonight’s Veritas release may blow up the internet.<br><br>8pm.<br></div>
+
+### 67: [2023-01-26 04:47:25+08:00 推文](https://twitter.com/HeQinglian/status/1618349844351029249)
+
+Re @JianglinLi @HongfuDing @david_david1968 @Wu_Zhi 等着看。
+
