@@ -207,27 +207,31 @@ American Standoff<br><br>这部纪实片就是以邦迪家族与联邦土地管�
 
 Re @JianglinLi @HongfuDing @ngexp @david_david1968 @Wu_Zhi 我有几个小小的疑问：<br>1、美国机密文件保管制度有何规定。比如中国密级高的是记名发送，事后回收<br>2、川普机密文件导致海湖被抄，这些人有足够的时间将自己家里清理干净，为何不做？<br>3、机密文件不当保管的最高惩罚是什么？如果不严重，这种打击的目标不是做死对方。<br>1、2做到，就不会有私藏机密文件。
 
-### 49: [2023-01-25 08:38:24+08:00 推文](https://twitter.com/HeQinglian/status/1618045587500462081)
+### 49: [2023-01-25 07:01:33+08:00 推文](https://twitter.com/NAConservative9/status/1618021213561028609)
+
+RT 北美保守评论🇺🇸🇨🇦<br>《卫生官员警告说，芬太尼正在杀死这么多人，西雅图的存尸空间已耗尽》<br><br>华盛顿州是民主党绝对控制的州，西雅图是极左人士的乐土。该州最高法院2021年裁定，该州禁止持有可卡因、甲基苯丙胺和海洛因等毒品供个人使用的法律违宪。从此，那里的人可以随意拥有或吸食各色毒品了。 <a href="https://nacr.info/WordPress/index.php/2023/01/24/seattle-is-running-out-of-space-for-dead-bodies-because-fentanyl-is-killing-so-many-people/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2023/01/24/seattle-is-running-out-of-space-for-dead-bodies-because-fentanyl-is-killing-so-many-people/</a><br><img style="" src="https://pbs.twimg.com/media/FnRcu5HXoAE2XO0?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 50: [2023-01-25 08:38:24+08:00 推文](https://twitter.com/HeQinglian/status/1618045587500462081)
 
 Re @catland95581230 17个人当中，最高的判68年监禁。其余的不等，但 Cliven Bundy、两个儿子和一名同案被告的所有指控均因偏見而被驳回。
 
-### 50: [2023-01-25 09:07:44+08:00 推文](https://twitter.com/HeQinglian/status/1618052971350331393)
+### 51: [2023-01-25 09:07:44+08:00 推文](https://twitter.com/HeQinglian/status/1618052971350331393)
 
 据统计，2022年1-12月，中美贸易额为7594.27亿美元，同比增长0.6%。其中，中国对美国出口5817.83亿美元，增长1.2%；中国自美国进口1776.44亿美元，减少1.1%。<br>截至去年11月的美国政府数据显示，2022年美中贸易进出口总量将达到历史最高水平。2月7日美方最终报告才正式出炉。 <a href="https://news.bloomberglaw.com/international-trade/us-china-trade-is-near-a-record-defying-talk-of-decoupling-1" target="_blank" rel="noopener noreferrer">https://news.bloomberglaw.com/international-trade/us-china-trade-is-near-a-record-defying-talk-of-decoupling-1</a>
 
-### 51: [2023-01-25 09:11:45+08:00 推文](https://twitter.com/HeQinglian/status/1618053981464596481)
+### 52: [2023-01-25 09:11:45+08:00 推文](https://twitter.com/HeQinglian/status/1618053981464596481)
 
 Re 中国出口美国商品当中，2022年1-11月医疗器械对美出口口额达1027.60亿元，占比23.1%；如果考虑到还有制药原料的占比，说明美国医药产业对中国依赖较大。<br>中国出口不再是衣服、鞋子、箱包之类廉价中国制造为主。<br>等资料全出后再分析。
 
-### 52: [2023-01-25 09:15:37+08:00 推文](https://twitter.com/HeQinglian/status/1618054955210018816)
+### 53: [2023-01-25 09:15:37+08:00 推文](https://twitter.com/HeQinglian/status/1618054955210018816)
 
 Re @JohnChe68058637 我一直奇怪，为什么会有人认为正在脱钩。商贸来往、投资等重要数据没有这方面迹象。<br>一周前有人与我探讨，拿11月数据说事，我说等等再看，12月之后全年数据出来，还会有今年1月的数据出来。数据说话最实在。
 
-### 53: [2023-01-25 09:16:50+08:00 推文](https://twitter.com/HeQinglian/status/1618055260110737408)
+### 54: [2023-01-25 09:16:50+08:00 推文](https://twitter.com/HeQinglian/status/1618055260110737408)
 
 Re @yeningusa 叶律发火为哪般？🤣<br>对数据不满，还是对我转这数据不满？
 
-### 54: [2023-01-25 09:29:38+08:00 推文](https://twitter.com/HeQinglian/status/1618058481680125954)
+### 55: [2023-01-25 09:29:38+08:00 推文](https://twitter.com/HeQinglian/status/1618058481680125954)
 
 Re @yeningusa 我其实最吃惊的是美国医疗器械与医药原料如此依赖中国。前者本是美国强项。
 
