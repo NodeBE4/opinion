@@ -235,3 +235,27 @@ Re @yeningusa 叶律发火为哪般？🤣<br>对数据不满，还是对我转�
 
 Re @yeningusa 我其实最吃惊的是美国医疗器械与医药原料如此依赖中国。前者本是美国强项。
 
+### 56: [2023-01-25 21:49:48+08:00 推文](https://twitter.com/HeQinglian/status/1618244747797352449)
+
+Re @wen07902316 数据倒不是主媒编制的（记者造假除外），都是各专业机构编制的。一般也会有说明，比如如何采样，样本多大，样本分布状态，统计误差范围。<br>现在左派政府太政治化，调整数据是常事。因此，我分析时，要看多年数据，从连续性中可以看出一些问题。
+
+### 57: [2023-01-25 21:57:38+08:00 推文](https://twitter.com/HeQinglian/status/1618246722274353152)
+
+需要成立居委会与党支部进行调解了？😅😅<br>美国心理咨询非常发达，但不是每个工作机构都会提供。除了教会之外，似乎没什么压力缓解机制。<div class="rsshub-quote"><br><br>联合早报 Lianhe Zaobao: 据美国特勤局公布的最新报告，在2016年至2020年间，美国有一半的大规模袭击是由个人、家庭和工作场所的纠纷引起。<br> <a href="https://www.zaobao.com.sg/realtime/world/story20230125-1356471" target="_blank" rel="noopener noreferrer">https://www.zaobao.com.sg/realtime/world/story20230125-1356471</a></div>
+
+### 58: [2023-01-25 22:06:57+08:00 推文](https://twitter.com/HeQinglian/status/1618249063941693442)
+
+Re @JianglinLi 除了这类机构，中小企业就没有。<br>如果按照FBI的说法，似乎效用不大，最后导致凶杀频发。<br>此外，中学那很不管用，我知道的是一般建议学生去看心理医生，多少小时。每小时200元以上。
+
+### 59: [2023-01-25 22:11:44+08:00 推文](https://twitter.com/HeQinglian/status/1618250267933413381)
+
+很久以前，五毒闹中华时，大清将毒品归罪于英国进口，打了两场战争。<br>如今，美国成为如今这模样，也学习大清，归罪于芬太尼、大麻等毒品来源国？<br>这得等到美国左派选民不再与拜登在吸毒儿子上共情之后，或许有救。如果美左选民眼泪汪汪地希望总统理解自家吸毒，没救。<div class="rsshub-quote"><br><br>北美保守评论🇺🇸🇨🇦: 《卫生官员警告说，芬太尼正在杀死这么多人，西雅图的存尸空间已耗尽》<br><br>华盛顿州是民主党绝对控制的州，西雅图是极左人士的乐土。该州最高法院2021年裁定，该州禁止持有可卡因、甲基苯丙胺和海洛因等毒品供个人使用的法律违宪。从此，那里的人可以随意拥有或吸食各色毒品了。<br><br><img style="" src="https://pbs.twimg.com/media/FnRcu5HXoAE2XO0?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://nacr.info/WordPress/index.php/2023/01/24/seattle-is-running-out-of-space-for-dead-bodies-because-fentanyl-is-killing-so-many-people/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2023/01/24/seattle-is-running-out-of-space-for-dead-bodies-because-fentanyl-is-killing-so-many-people/</a></div>
+
+### 60: [2023-01-25 22:20:31+08:00 推文](https://twitter.com/HeQinglian/status/1618252478612660225)
+
+Re 美国加州今年查获芬太尼2.8万磅，足以杀死北美洲所有人口两次 <a href="https://rfi.my/91NJ.T" target="_blank" rel="noopener noreferrer">https://rfi.my/91NJ.T</a>
+
+### 61: [2023-01-25 22:22:11+08:00 推文](https://twitter.com/HeQinglian/status/1618252897594257408)
+
+Re @fading_you1 观点随时会变，尤其是对50岁以下的人。<br>亲缘没法改变。
+
