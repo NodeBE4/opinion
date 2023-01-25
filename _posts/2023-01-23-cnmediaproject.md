@@ -1,0 +1,25 @@
+---
+author: cnmediaproject
+categories:
+- Twitter
+date: 2023-01-25
+from: https://twitter.com/cnmediaproject/status/1618146804595556352
+layout: post
+tags:
+- Twitter
+title: 'Twitter @China Media Project: 2023-01-23~2023-01-29'
+---
+
+The China Media Project (中国传媒研究计划) is an independent think
+
+* This will become a table of contents (this text will be scrapped).
+{:toc}
+
+### 1: [2023-01-25 15:20:36+08:00 推文](https://twitter.com/cnmediaproject/status/1618146804595556352)
+
+Last month, Nanchang Aviation University announced that it had launched a new center with the China Media Group to use "overseas student resources" (留学生资源) to assist with China's external propaganda objectives. More in our latest: <a href="https://chinamediaproject.org/2023/01/25/making-propaganda-personal/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2023/01/25/making-propaganda-personal/</a>
+
+### 2: [2023-01-25 15:29:26+08:00 推文](https://twitter.com/cnmediaproject/status/1618149027497005057)
+
+Really great rundown from CDT of Chinese state narratives around the Belt and Road Initiative and how they sometimes are — and often very much aren't — working. <a href="https://chinadigitaltimes.net/2023/01/one-decade-on-the-bri-and-its-media-backers-struggle-to-tell-chinas-story-well/" target="_blank" rel="noopener noreferrer">https://chinadigitaltimes.net/2023/01/one-decade-on-the-bri-and-its-media-backers-struggle-to-tell-chinas-story-well/</a>
+
