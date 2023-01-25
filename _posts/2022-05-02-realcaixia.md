@@ -25,7 +25,7 @@ title: 'Twitter @蔡霞: 2022-05-02~2022-05-08'
 
 ### 3: [2022-05-03 21:58:44+08:00 推文](https://twitter.com/realcaixia/status/1521489437028491271)
 
-恶法下的执法与土匪没有什么区别。<br><br>蔡慎坤: 这是上海吗？怎么如同土匪一样！<br> <a href="https://twitter.com/salmon_ten/status/1520985187412492289" target="_blank" rel="noopener noreferrer">https://twitter.com/salmon_ten/status/1520985187412492289</a>
+恶法下的执法与土匪没有什么区别。<br><br>蔡慎坤: 这是上海吗？怎么如同土匪一样！<br> <a href="https://twitter.com/Salmon_Ten/status/1520985187412492289" target="_blank" rel="noopener noreferrer">https://twitter.com/Salmon_Ten/status/1520985187412492289</a>
 
 ### 4: [2022-05-03 22:01:00+08:00 推文](https://twitter.com/realcaixia/status/1521490008003198976)
 
@@ -33,7 +33,7 @@ Re @Lisa00792327545 @cskun1989 请搜议报网站，议报发布了全文。
 
 ### 5: [2022-05-04 03:27:22+08:00 推文](https://twitter.com/realcaixia/status/1521572140671279105)
 
-别忘了，新华社和央视报道过李文亮等“武汉有8人造谣”。
+别忘了，新华社和央视报道过李文亮等“武汉有8人造谣”。<br><br>Henry Chang: 马某被国安采取刑事强制措施 像假新闻 以震慑民营企业家<br>说它假的理由是：一是杭州国安越俎代庖。煽颠罪应由公安局政保处侦办，而不是国安局。二是采取刑事强制措施语焉不详。公安、国安的强制措施就2种:行政拘留和刑事拘留。行拘15天放人；刑拘须报检察院批捕。<br>这么做意在吓唬民企别高兴得太早了。<br><br><img style="" src="https://pbs.twimg.com/media/FRzlluVVgAAc0U-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2022-05-06 04:14:01+08:00 推文](https://twitter.com/realcaixia/status/1522308656926277634)
 
