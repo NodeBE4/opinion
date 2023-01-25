@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-01-25
+date: 2023-01-26
 from: https://twitter.com/HeQinglian/status/1617192085089652736
 layout: post
 tags:
@@ -113,7 +113,7 @@ Re @JianglinLi 看美国的事情需要记忆力极好，往前记忆至少需�
 
 ### 25: [2023-01-24 06:04:32+08:00 推文](https://twitter.com/HeQinglian/status/1617644479233789959)
 
-关于控枪与反对控枪的争议，其实多想想就会明白其中道理。<br>反对控枪的多是红州，农业州。去过那里的人都知道，地广人稀很远没有邻居，一到晚上，每家就象旷野中的独居者，无论是对付野兽还是不期而至的抢劫者，枪是唯一可依靠的。<br>这些事情，城市人尤其是中国的城市人弄不明白。幸亏美国各州还有自治权<div class="rsshub-quote"><br><br>古川（Gu Chuan): 这样划分也不完全，滕彪不是号称维权律师吗？<br> <a href="https://twitter.com/baiyong1965/status/1617601666186117121" target="_blank" rel="noopener noreferrer">https://twitter.com/baiyong1965/status/1617601666186117121</a></div>
+关于控枪与反对控枪的争议，其实多想想就会明白其中道理。<br>反对控枪的多是红州，农业州。去过那里的人都知道，地广人稀很远没有邻居，一到晚上，每家就象旷野中的独居者，无论是对付野兽还是不期而至的抢劫者，枪是唯一可依靠的。<br>这些事情，城市人尤其是中国的城市人弄不明白。幸亏美国各州还有自治权<div class="rsshub-quote"><br><br>古川（Gu Chuan): 这样划分也不完全，滕彪不是号称维权律师吗？<br></div>
 
 ### 26: [2023-01-24 06:08:48+08:00 推文](https://twitter.com/HeQinglian/status/1617645552619114496)
 
@@ -258,4 +258,20 @@ Re 美国加州今年查获芬太尼2.8万磅，足以杀死北美洲所有人�
 ### 61: [2023-01-25 22:22:11+08:00 推文](https://twitter.com/HeQinglian/status/1618252897594257408)
 
 Re @fading_you1 观点随时会变，尤其是对50岁以下的人。<br>亲缘没法改变。
+
+### 62: [2023-01-25 23:47:01+08:00 推文](https://twitter.com/HeQinglian/status/1618274248145108993)
+
+Re @JianglinLi 生命诚短暂，“仙境”常遨游——死也值得。尤其是与一生自律、成天劳作纳税的工蚁，太值了。
+
+### 63: [2023-01-25 23:49:37+08:00 推文](https://twitter.com/HeQinglian/status/1618274900531380236)
+
+Re @JohnMBelz1 你看来不懂人世间事物。<br>读亚当夏娃故事，弄清楚不管什么制度、什么家庭出身，对人的诱惑尤其是诱惑人堕落的因素从来就存在，区别就在于如何管理国民与家庭成员。
+
+### 64: [2023-01-25 23:54:33+08:00 推文](https://twitter.com/HeQinglian/status/1618276144381558785)
+
+别忘了《聚焦》（Spotlight） 第88届奥斯卡最佳影片(2016) ，取材自真实事件，讲述《波士顿环球报》“聚焦”报道组的编辑和记者，披露美国天主教试图掩盖神父性侵儿童的丑闻的故事。<br>这是美国电影界最后一次非左派意识形态纪实影片获奖，算是对传统平面媒体的最后致敬。<div class="rsshub-quote"><br><br>Lucs: 教皇弗朗西斯批评将同性恋定为犯罪的法律是“不公正的”，称上帝爱他所有的孩子。 教皇呼吁支持法律的天主教主教欢迎 LGBTQ 人进入教堂。<br><br><video src="https://video.twimg.com/ext_tw_video/1618259971434741761/pu/vid/848x464/Op6Q8BSU_97EfVYh.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1618259971434741761/pu/img/FGCCWgbvkkglAEFJ.jpg"></video></div>
+
+### 65: [2023-01-26 01:48:10+08:00 推文](https://twitter.com/HeQinglian/status/1618304735672692737)
+
+Re @shenliangqing2 @JianglinLi 福柯可能也没想到今天美国加州有如吸毒者天堂：无需工作，想吸毒就去政府提供的毒品屋住上一阵子（需求大于供给，肯定要排队），甚至成为进步主义标配。
 
