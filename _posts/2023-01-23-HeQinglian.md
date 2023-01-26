@@ -113,7 +113,7 @@ Re @JianglinLi 看美国的事情需要记忆力极好，往前记忆至少需�
 
 ### 25: [2023-01-24 06:04:32+08:00 推文](https://twitter.com/HeQinglian/status/1617644479233789959)
 
-关于控枪与反对控枪的争议，其实多想想就会明白其中道理。<br>反对控枪的多是红州，农业州。去过那里的人都知道，地广人稀很远没有邻居，一到晚上，每家就象旷野中的独居者，无论是对付野兽还是不期而至的抢劫者，枪是唯一可依靠的。<br>这些事情，城市人尤其是中国的城市人弄不明白。幸亏美国各州还有自治权<div class="rsshub-quote"><br><br>古川（Gu Chuan): 这样划分也不完全，滕彪不是号称维权律师吗？<br></div>
+关于控枪与反对控枪的争议，其实多想想就会明白其中道理。<br>反对控枪的多是红州，农业州。去过那里的人都知道，地广人稀很远没有邻居，一到晚上，每家就象旷野中的独居者，无论是对付野兽还是不期而至的抢劫者，枪是唯一可依靠的。<br>这些事情，城市人尤其是中国的城市人弄不明白。幸亏美国各州还有自治权<div class="rsshub-quote"><br><br>古川（Gu Chuan): 这样划分也不完全，滕彪不是号称维权律师吗？<br> <a href="https://twitter.com/baiyong1965/status/1617601666186117121" target="_blank" rel="noopener noreferrer">https://twitter.com/baiyong1965/status/1617601666186117121</a></div>
 
 ### 26: [2023-01-24 06:08:48+08:00 推文](https://twitter.com/HeQinglian/status/1617645552619114496)
 
@@ -294,4 +294,8 @@ Re @JianglinLi @HongfuDing @Wu_Zhi @david_david1968 关于疫苗，如今是美�
 ### 70: [2023-01-26 09:28:16+08:00 推文](https://twitter.com/HeQinglian/status/1618420525239533568)
 
 Re @Wu_Zhi @JianglinLi @HongfuDing @david_david1968 不讲。同样也不对他们讲美国教育系统的变性运动——讲了也不信，美国就是好，怎可能会有这种事情？
+
+### 71: [2023-01-26 22:08:51+08:00 推文](https://twitter.com/HeQinglian/status/1618611929882427396)
+
+Re @LionQue39480372 如果是这样，民主党充其量只剩下20%的选票——公务员、财政款供养的教育系统、政党化的媒体从业者、工会贵族，等等。
 
