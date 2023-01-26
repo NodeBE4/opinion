@@ -145,3 +145,14 @@ When was the classic 'pith helmet' pattern of Foreign Service Helmet introduced 
 
 This isn't wholly true, although I admit I'm not familiar with the possibility of changes by the Napoleonic wars: [1770s British manuals routinely refer to the bayonet lug as a 'sight'](https://twitter.com/RobbieMacNiven/status/1614995851713339393), which certainly implies that the ordinary musketeer would have been aiming with it.
 
+----- __1079.2__ -----2023-01-27 02:43:45+08:00:
+
+To quote the 1764 publication *A Manual of Military Exercise and Commonly Practiced Manoevres*,
+
+> Front Rank (Kneeling).  
+> ...  
+> Present !  
+> Bring the Firelock briskly down to the Present, by extending the left Arm to the full Length with a strong Motion ; at the same Time spring up the Butt by the Cock with the right Hand, and raise up the butt so high upon the right Shoulder, that you may not be obliged to stoop too much with the Head, the right Cheek to be close to the Butt, and the left Eye shut, and look along the Barrel with the right Eye from the Breech Pin to the Muzzle ; keep the left Elbow down in an easy Position, and stand as steady as possible, the Thumb of the right Hand to remain in the Position as described in the third Explanation of the Manual.
+
+This seems pretty unambiguous that when volley firing, you were supposed to use parts of the gun to aim at the enemy rather than just pointing it in a general direction.
+
