@@ -156,3 +156,11 @@ To quote the 1764 publication *A Manual of Military Exercise and Commonly Practi
 
 This seems pretty unambiguous that when volley firing, you were supposed to use parts of the gun to aim at the enemy rather than just pointing it in a general direction.
 
+----- __1079.3__ -----2023-01-27 07:33:21+08:00:
+
+We are in fact referring simply to different parts of the same 1764 manual. My quotation is from page 26, which is part of the more elaborated-upon set of drills, while yours is from pages 1-2, in the shorter introductory segment. That aiming is not specified in the introductory segment would imply to me that it would have been readily intuitive.
+
+Meanwhile, I'm not sure if we're speaking of the same 46% here, but 46% was the accuracy achieved at 150 paces [during Prussian volley fire trials](http://kabinettskriege.blogspot.com/2016/02/how-accurate-were-regular-soldiers-in.html).
+
+I'm simply very doubtful of the claim that you didn't aim to hit – simply *trying* to be somewhat on-target, in the window you had between 'Present!' and 'Fire!', would have been a trivial action that would have paid off, and that is precisely why it was done.
+
