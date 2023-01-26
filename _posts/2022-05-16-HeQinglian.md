@@ -61,7 +61,7 @@ Re @wechat2525138 与挪威前年那个案子的案由一样，当然，这些�
 
 ### 12: [2022-05-18 00:05:19+08:00 推文](https://twitter.com/HeQinglian/status/1526594722269212674)
 
-这篇报道的用词，很好地诠释了乌克兰及支持它的美国政府为何能够立于不败之地，其实就是名词包装的“认知战”：<br>失败=撤离；投降时的缴枪不杀=被允许离开安全转移；对方对俘虏的人道救助=接受医疗救助。<br>与2020年盗选名为“捍卫民主”，同出一辙。<br>美国无敌。
+这篇报道的用词，很好地诠释了乌克兰及支持它的美国政府为何能够立于不败之地，其实就是名词包装的“认知战”：<br>失败=撤离；投降时的缴枪不杀=被允许离开安全转移；对方对俘虏的人道救助=接受医疗救助。<br>与2020年盗选名为“捍卫民主”，同出一辙。<br>美国无敌。<br><br>华尔街日报中文网: 乌克兰政府宣布结束其在马里乌波尔的作战任务，结束了与俄罗斯军队数月的血腥战斗。这场战斗的尾声是在一家废弃钢铁厂避难的战斗人员和平民遭到惊心动魄的围困。泽连斯基说，亚速钢铁厂的战斗人员正在接受医疗救助，他恳请在他们被允许离开后保全他们的性命。<br> <a href="https://on.wsj.com/3NgEqTZ" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3NgEqTZ</a>
 
 ### 13: [2022-05-18 03:08:51+08:00 推文](https://twitter.com/HeQinglian/status/1526640910716616707)
 
@@ -265,11 +265,11 @@ Re @franktianxie @dajiyuan 最近认知战影响很大，梦想现在越来越�
 
 ### 63: [2022-05-20 08:04:38+08:00 推文](https://twitter.com/HeQinglian/status/1527440122161029122)
 
-这个委员会将与拜登曲线一样，是美国史上的耻辱——当然，这得要美国今后不是左派的美国。<br><br>北美保守评论🇺🇸🇨🇦: 《“虚假信息委员会”心虚停业 委员会主任自觉下岗》<br><br>国土安全部之下的 “虚假信息治理委员会” —— 美国的 “真理部”、“中宣部”，以便从联邦政府层面加强舆论和新闻审查，限制、扼杀言论自由，这明显是违背美国宪法第一修正案的。这种想法是由他们左派极权主义的思维方式决定的。<br><br><img style="" src="https://pbs.twimg.com/media/FTJ0D9QWUA0zgFA?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://nacr.info/WordPress/index.php/2022/05/19/dhs-disinformation-chief-quits-after-board-is-put-on-hold/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/05/19/dhs-disinformation-chief-quits-after-board-is-put-on-hold/</a>
+这个委员会将与拜登曲线一样，是美国史上的耻辱——当然，这得要美国今后不是左派的美国。
 
 ### 64: [2022-05-20 08:09:08+08:00 推文](https://twitter.com/HeQinglian/status/1527441254446948368)
 
-如果可能，今后选议员，一定需要这些人有过挣工资养活自己的经历，否则都不知道钱是需要辛苦工作。<br>才写完，想起AOC做酒吧服务生时，也需要辛苦工作。但现在根本不知道“谁知盘中餐，粒粒皆辛苦”，全是小拜登那号以父之名挣钱、敞开手花钱的主儿。<br><br>The Hill: Thursday, the Senate blocked $48 billion aid package for restaurants and other small businesses.<br><br><video src="https://video.twimg.com/amplify_video/1527422746413645824/vid/1280x720/6woAhhNPx20kERzk.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1527422746413645824/img/j-O9AhQ_PhBxDqrS.jpg"></video> <a href="http://hill.cm/ELVsWwr" target="_blank" rel="noopener noreferrer">http://hill.cm/ELVsWwr</a>
+如果可能，今后选议员，一定需要这些人有过挣工资养活自己的经历，否则都不知道钱是需要辛苦工作。<br>才写完，想起AOC做酒吧服务生时，也需要辛苦工作。但现在根本不知道“谁知盘中餐，粒粒皆辛苦”，全是小拜登那号以父之名挣钱、敞开手花钱的主儿。
 
 ### 65: [2022-05-20 08:13:51+08:00 推文](https://twitter.com/HeQinglian/status/1527442443716673536)
 
@@ -277,7 +277,7 @@ Re @KELMAND1 我一是痛惜乌克兰人的命，二是希望俄罗斯少点牺�
 
 ### 66: [2022-05-20 08:17:48+08:00 推文](https://twitter.com/HeQinglian/status/1527443437733257216)
 
-届时我一定将世界欢呼拜登当选的媒体报道一篇篇翻出来，让媒体人知道自己做了多大的孽。
+届时我一定将世界欢呼拜登当选的媒体报道一篇篇翻出来，让媒体人知道自己做了多大的孽。<br><br>lexislex: 预告一个个来了<br>May, 2022<br><br><img style="" src="https://pbs.twimg.com/media/FTIOwpXUYAEvYo7?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 67: [2022-05-20 08:20:54+08:00 推文](https://twitter.com/HeQinglian/status/1527444218196680711)
 
@@ -385,7 +385,7 @@ Re @FranzMendelsso1 奥巴第一次选举，在某县就遭遇选民空前热情
 
 ### 93: [2022-05-21 09:21:07+08:00 推文](https://twitter.com/HeQinglian/status/1527821757394067456)
 
-以前一谈起袁克定为其父袁世凯办一份专供皇上御览的《顺天时报》，人人充满了嘲笑之情。今后不必嘲笑了，只要合适，哪个左派国家都会出现真理部——不幸的是，左派现在很得势，到处都是马克思、新马、变种马（法兰克福学派各种传人）当政的国家。
+以前一谈起袁克定为其父袁世凯办一份专供皇上御览的《顺天时报》，人人充满了嘲笑之情。今后不必嘲笑了，只要合适，哪个左派国家都会出现真理部——不幸的是，左派现在很得势，到处都是马克思、新马、变种马（法兰克福学派各种传人）当政的国家。<br><br>He Qinglian: 美国反虚假信息工作组：争议中的“真理部”尚未满月被叫停<br><br>报道说：<br>“该工作组自4月27日成立以来，引发了主要来自右翼和公民社团的大规模抗议”——意思是左派很欢迎。<br>整篇评论对真理部被关停充满了惋惜。<br>建议英国赶紧成立类似部门，BBC派员负责。<br> <a href="https://www.bbc.com/zhongwen/simp/world-61521549" target="_blank" rel="noopener noreferrer">https://www.bbc.com/zhongwen/simp/world-61521549</a>
 
 ### 94: [2022-05-21 09:25:47+08:00 推文](https://twitter.com/HeQinglian/status/1527822932399034370)
 
