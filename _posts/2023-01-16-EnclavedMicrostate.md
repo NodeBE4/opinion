@@ -143,3 +143,7 @@ Except Tsunderia's shrinkage has coincided with the emergence and growth of othe
 
 \* There may be some caveats to that though. Production Kawaii has been accused on occasion of inept management, while Phase-Connect is riding heavily on the success of Pipkin Pippa, who is basically 4chan personified. So there are reasons to also 'hrmmm' a bit there.
 
+----- __1070.4__ -----2023-01-26 20:14:58+08:00:
+
+To be fair I also mostly only know of her by reputation, but I've watched one or two of her edited videos, like [this one](https://www.youtube.com/watch?v=9zukpiSTr5M), and I certainly see where the narrative comes from.
+
