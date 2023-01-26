@@ -249,7 +249,7 @@ Re @princeton_walk 据说是俄海军太弱，管理不善，某些装置没启�
 
 ### 59: [2022-04-18 21:19:31+08:00 推文](https://twitter.com/HeQinglian/status/1516043752074326019)
 
-Re @yu_su_chen 你说的自宫，美国一直在做。<br>俄乌战争那么吃紧，拜登都始终未忘本国公民的生殖器官阉割问题，提拔了一位变性人（男变女）做能源部长，号召全美未成年人自主变性，父母干涉就是违法。<br>就算天塌下来，拜登也不会忘记这件自宫大事。<br>有时我怀疑金老爷子说的《葵花宝典》被倒卖到美国，被民主党捡了漏。
+RT He Qinglian<br>Re @yu_su_chen 你说的自宫，美国一直在做。<br>俄乌战争那么吃紧，拜登都始终未忘本国公民的生殖器官阉割问题，提拔了一位变性人（男变女）做能源部长，号召全美未成年人自主变性，父母干涉就是违法。<br>就算天塌下来，拜登也不会忘记这件自宫大事。<br>有时我怀疑金老爷子说的《葵花宝典》被倒卖到美国，被民主党捡了漏。
 
 ### 60: [2022-04-18 21:20:55+08:00 推文](https://twitter.com/HeQinglian/status/1516044104534310912)
 
@@ -321,7 +321,7 @@ Re @zt33268778 最大的可能是贴牌生产。<br>美墨边境会设很多工�
 
 ### 77: [2022-04-19 07:52:25+08:00 推文](https://twitter.com/HeQinglian/status/1516203025672675328)
 
-记得班加西事件发生后，有位在美军服役的熟人告诉我：外交界与军人恨透了希拉里。<br>2016年大选，军人票投了多少给希拉里我不清楚，但我知道300多名美国外交官联名反对川普，说他不适合做总统。2020年，一百多名美国外交官再发公开信反对川普。
+记得班加西事件发生后，有位在美军服役的熟人告诉我：外交界与军人恨透了希拉里。<br>2016年大选，军人票投了多少给希拉里我不清楚，但我知道300多名美国外交官联名反对川普，说他不适合做总统。2020年，一百多名美国外交官再发公开信反对川普。<br><br>Kim Jong-un: 分享美利坚轶闻一则。<br><br>2012年7月25日，一架美军直升机在利比亚执行任务时被导弹射中，万幸导弹并未爆炸。<br>飞行员迫降后，惊讶地发现这是一枚美军的毒刺导弹。事故调查组根据导弹上的序列号，发现这枚导弹本应由美国中央情报局保管在干里之外的卡塔尔乌代德基地中。<br>那么导弹为何落到恐怖组织手里？<br>
 
 ### 78: [2022-04-19 07:58:05+08:00 推文](https://twitter.com/HeQinglian/status/1516204449450151941)
 
@@ -409,7 +409,7 @@ Re @livivian86 @JiangShangrong 再怼你一次，因为你不怀好意。<br>我
 
 ### 99: [2022-04-20 05:03:21+08:00 推文](https://twitter.com/HeQinglian/status/1516522865381810183)
 
-Z世代以前出生者，活在西方，知道什么叫言论自由。我们曾向往过。<br>现在，我们正目睹言论自由如何被这代白左生生送进坟墓。<br><br>萧生客SSK🇺🇸🇨🇦: “我预测在传统互联网体系的所有层面，审查/封杀政策基本相同。客户端和服务器端的ISP、云平台、CDN、支付网络、客户端操作系统、浏览器、电子邮件客户端。只有极少数的例外。压力很大。“<br><br>一龙：非常令人担忧。谁在推动这种审查/封杀？非常阴暗。<br><br>马对邪教邪党沼泽生物的恶仅风闻无体验吧，是政治小白<br><br><img style="" src="https://pbs.twimg.com/media/FQuj6CHXoAk2Mx1?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Z世代以前出生者，活在西方，知道什么叫言论自由。我们曾向往过。<br>现在，我们正目睹言论自由如何被这代白左生生送进坟墓。
 
 ### 100: [2022-04-20 05:18:11+08:00 推文](https://twitter.com/HeQinglian/status/1516526596974329856)
 
@@ -545,7 +545,7 @@ Re @JianglinLi @Jason_2018 @RFI_Cn 拉黑这人，我立刻做。
 
 ### 133: [2022-04-20 23:30:03+08:00 推文](https://twitter.com/HeQinglian/status/1516801376969531397)
 
-2月14日，冷战大师马特洛克（美驻苏前大使，1987-1991）指出：我们正目睹一场精心策划、被严重放大的闹剧，以服务于国内政治目的。面对不断上升的通胀、covid-19的蹂躏、对阿富汗撤军的指责，以及未能获得本党对重建更好法案的全力支持。拜登政府得为今年的国会选举做准备……<br><br>He Qinglian: 拜登政府启动学生贷款审查，称将取消40,000名借款人的债务<br>教育部周二称这将纠正过去拒绝 360 万借款人免除学生贷款的错误，并将导致大约 40,000 名借款人的债务立即取消。<br>别小看这4万票，精准投放在某些选区，定会赢得选举。360万是个大票仓。<br> <a href="https://www.marketwatch.com/story/biden-administration-launches-student-loan-review-says-40-000-borrowers-will-see-debt-canceled-11650391220?mod=mw_more_headlines" target="_blank" rel="noopener noreferrer">https://www.marketwatch.com/story/biden-administration-launches-student-loan-review-says-40-000-borrowers-will-see-debt-canceled-11650391220?mod=mw_more_headlines</a>
+2月14日，冷战大师马特洛克（美驻苏前大使，1987-1991）指出：我们正目睹一场精心策划、被严重放大的闹剧，以服务于国内政治目的。面对不断上升的通胀、covid-19的蹂躏、对阿富汗撤军的指责，以及未能获得本党对重建更好法案的全力支持。拜登政府得为今年的国会选举做准备…… <a href="https://www.democracynow.org/2022/2/17/jack_matlock_ukraine_russia_nato_us" target="_blank" rel="noopener noreferrer">https://www.democracynow.org/2022/2/17/jack_matlock_ukraine_russia_nato_us</a>
 
 ### 134: [2022-04-20 23:33:50+08:00 推文](https://twitter.com/HeQinglian/status/1516802326861914122)
 
@@ -857,7 +857,7 @@ Re @Wu_Zhi 还有一大帮生活在不用为乌克兰支付代理人费用的国
 
 ### 211: [2022-04-23 01:05:05+08:00 推文](https://twitter.com/HeQinglian/status/1517550065660878851)
 
-拜登也没达到目的：<br>The Hill报导，昆尼皮亚克大学（Quinnipiac University）日前公布的一项民调发现，拜登当前的支持率只有33%，标志着他在昆尼皮亚克大学民调记录中的最低点。他在拉美裔选民中的支持率更低，仅26%。<br>乌克兰人的血、美国纳税人与通胀掠夺来的钱、盟友的经济，未换来拜登支持率的上升<br><br>He Qinglian: 2月14日，冷战大师马特洛克（美驻苏前大使，1987-1991）指出：我们正目睹一场精心策划、被严重放大的闹剧，以服务于国内政治目的。面对不断上升的通胀、covid-19的蹂躏、对阿富汗撤军的指责，以及未能获得本党对重建更好法案的全力支持。拜登政府得为今年的国会选举做准备……<br> <a href="https://www.democracynow.org/2022/2/17/jack_matlock_ukraine_russia_nato_us" target="_blank" rel="noopener noreferrer">https://www.democracynow.org/2022/2/17/jack_matlock_ukraine_russia_nato_us</a> <a href="https://twitter.com/HeQinglian/status/1516780090457301008" target="_blank" rel="noopener noreferrer">https://twitter.com/HeQinglian/status/1516780090457301008</a>
+拜登也没达到目的：<br>The Hill报导，昆尼皮亚克大学（Quinnipiac University）日前公布的一项民调发现，拜登当前的支持率只有33%，标志着他在昆尼皮亚克大学民调记录中的最低点。他在拉美裔选民中的支持率更低，仅26%。<br>乌克兰人的血、美国纳税人与通胀掠夺来的钱、盟友的经济，未换来拜登支持率的上升
 
 ### 212: [2022-04-23 02:54:50+08:00 推文](https://twitter.com/HeQinglian/status/1517577686033518594)
 
@@ -893,7 +893,7 @@ Re @HelloTommy2015 你本来就没名声，换个推号再来。重新开张。<
 
 ### 220: [2022-04-23 03:56:19+08:00 推文](https://twitter.com/Awaken168/status/1517593160813318144)
 
-RT ⚜️Awaken🔱<br>🔴🔥⚡電視網絡 Rasha Tudej 播放了有關 #洩露 2000 份文件的消息…⬇️<br>🔴這些文件證明了 #喬治·索羅斯 和開放社會在 #操縱 歐洲各國 #選舉 方面的責任!!!<br><br>nikola  tesla prvi: 🔥⚡Телевизијска мрежа Раша тудеј емитовала је вест о цурењу 2000 докумената који доказују одговорност Џорџа Сороша и Отвореног друштва у манипулацији изборима у земљама широм Европе!!!<br><br><video src="https://video.twimg.com/ext_tw_video/1517535973395025920/pu/vid/432x304/OcOf_8CH8iIU8ogS.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1517535973395025920/pu/img/ciYjsBp4DeS5kcy9.jpg"></video>
+RT ⚜️Awaken🔱<br>🔴🔥⚡電視網絡 Rasha Tudej 播放了有關 #洩露 2000 份文件的消息…⬇️<br>🔴這些文件證明了 #喬治·索羅斯 和開放社會在 #操縱 歐洲各國 #選舉 方面的責任!!!
 
 ### 221: [2022-04-23 08:27:28+08:00 推文](https://twitter.com/HeQinglian/status/1517661395919290368)
 
