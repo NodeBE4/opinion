@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-01-24
+date: 2023-01-25
 from: https://old.reddit.com/r/AskHistorians/comments/10iunfq/what_pop_history_book_has_done_the_most_damage_to/
 layout: post
 tags:
@@ -122,4 +122,12 @@ TIL that it's Sinophobia to oppose genocide and colonialism, because guess what?
 ----- __1076.8__ -----2023-01-25 06:53:30+08:00:
 
 Just repeating the assertions you made to me, but go off I guess.
+
+### 1077: [What was the role of the grand secretaries during the Qing dynasty?](https://old.reddit.com/r/AskHistorians/comments/10kzuq1/what_was_the_role_of_the_grand_secretaries_during/), submitted on 2023-01-25 22:27:24+08:00.
+
+----- __1077.1__ -----2023-01-26 08:46:09+08:00:
+
+As an addendum, Peter Perdue has made the case that the expansion of the secret memorial system and the establishment of the Grand Council were closely linked with the Qing military effort in Central Asia. The Grand Council was, of course, officially the *Junjichu* 軍機處 or 'Department of Military Secrets'. While their function was to circumvent the more traditionally Han-run, Ming-era inheritances in the Qing civil service, it was made imperative by the costly, and largely Manchu-run, Inner Asian-interested campaigns the Qing waged on their western and northern frontiers. Hence, among other things, the almost exclusively Banner makeup of the Grand Council in its early iterations.
+
+Peter Perdue's *China Marches West* (2005) goes into this in more detail than I do here; as an addendum on matters in China Proper and the 'inner' vs 'outer' court, Wensheng Wang's *White Lotus Rebels and South China Pirates* (2014) is the book to read on the Jiaqing-era reforms to Qing political mechanisms and the ideological struggle over the balance of power between the two.
 

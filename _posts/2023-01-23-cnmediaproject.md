@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2023-01-25
+date: 2023-01-26
 from: https://twitter.com/cnmediaproject/status/1618146804595556352
 layout: post
 tags:
@@ -22,4 +22,8 @@ Last month, Nanchang Aviation University announced that it had launched a new ce
 ### 2: [2023-01-25 15:29:26+08:00 推文](https://twitter.com/cnmediaproject/status/1618149027497005057)
 
 Really great rundown from CDT of Chinese state narratives around the Belt and Road Initiative and how they sometimes are — and often very much aren't — working. <a href="https://chinadigitaltimes.net/2023/01/one-decade-on-the-bri-and-its-media-backers-struggle-to-tell-chinas-story-well/" target="_blank" rel="noopener noreferrer">https://chinadigitaltimes.net/2023/01/one-decade-on-the-bri-and-its-media-backers-struggle-to-tell-chinas-story-well/</a>
+
+### 3: [2023-01-26 03:12:50+08:00 推文](https://twitter.com/Lingling_Wei/status/1618326041659068417)
+
+RT Lingling Wei 魏玲灵<br>“Don’t let us disappear like this.” A group of female friends, mostly in their mid-20s, joined a protest in Beijing. Then, the detentions started. An inspiring account on what courage looks like, by @shenlulushen  @QiLiyan <a href="https://www.wsj.com/articles/in-china-young-women-become-accidental-symbols-of-defiance-11674667983?st=llw83oe60nirg35" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/in-china-young-women-become-accidental-symbols-of-defiance-11674667983?st=llw83oe60nirg35</a>
 
