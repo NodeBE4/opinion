@@ -147,3 +147,7 @@ Except Tsunderia's shrinkage has coincided with the emergence and growth of othe
 
 To be fair I also mostly only know of her by reputation, but I've watched one or two of her edited videos, like [this one](https://www.youtube.com/watch?v=9zukpiSTr5M), and I certainly see where the narrative comes from.
 
+----- __1070.5__ -----2023-01-26 23:03:37+08:00:
+
+Unfortunately, another second-hand report from me, coming via [this](https://www.reddit.com/r/VirtualYoutubers/comments/10llml5/a_progress_report_on_where_the_small_en_agencies/j5xvm0x/). Unfortunately they don't list sources, but at the very least I can find some evidence WRT the copyright strike claim: https://www.youtube.com/watch?v=DOiI4TTUgbA
+
