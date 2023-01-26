@@ -275,19 +275,23 @@ Re @JohnMBelz1 你看来不懂人世间事物。<br>读亚当夏娃故事，弄�
 
 Re @shenliangqing2 @JianglinLi 福柯可能也没想到今天美国加州有如吸毒者天堂：无需工作，想吸毒就去政府提供的毒品屋住上一阵子（需求大于供给，肯定要排队），甚至成为进步主义标配。
 
-### 66: [2023-01-26 04:27:38+08:00 推文](https://twitter.com/JianglinLi/status/1618344868669198336)
+### 66: [2023-01-26 03:11:49+08:00 推文](https://twitter.com/NAConservative9/status/1618325788604116992)
+
+RT 北美保守评论🇺🇸🇨🇦<br>《录像带：对某郊区LGBTQ娈童癖团伙调查的发现》<br><br>这对男同性恋夫妇对自己收养的两个年幼的兄弟惨无人道的暴力性侵，令人忍无可忍。世界上竟然还有如此畜牲不如的流氓恶棍存在，而且还是民主党政府极力推行的 LGBTQ 运动和主流媒体的宠儿，以及反 ”仇视同性恋“ 运动的干将。 <a href="https://nacr.info/WordPress/index.php/2023/01/25/tapes-we-investigated-a-suburban-lgbtq-pedophile-ring-heres-what-we-found/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2023/01/25/tapes-we-investigated-a-suburban-lgbtq-pedophile-ring-heres-what-we-found/</a><br><img style="" src="https://pbs.twimg.com/media/FnVybIcWYAI8t_L?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 67: [2023-01-26 04:27:38+08:00 推文](https://twitter.com/JianglinLi/status/1618344868669198336)
 
 RT 李江琳<br>Re @HongfuDing @HeQinglian @david_david1968 @Wu_Zhi  真相工程的哥们儿今晚8点要爆猛料。👇<div class="rsshub-quote"><br><br>James O'Keefe: Tonight’s Veritas release may blow up the internet.<br><br>8pm.<br></div>
 
-### 67: [2023-01-26 04:47:25+08:00 推文](https://twitter.com/HeQinglian/status/1618349844351029249)
+### 68: [2023-01-26 04:47:25+08:00 推文](https://twitter.com/HeQinglian/status/1618349844351029249)
 
 Re @JianglinLi @HongfuDing @david_david1968 @Wu_Zhi 等着看。
 
-### 68: [2023-01-26 09:24:23+08:00 推文](https://twitter.com/HeQinglian/status/1618419547576635393)
+### 69: [2023-01-26 09:24:23+08:00 推文](https://twitter.com/HeQinglian/status/1618419547576635393)
 
 Re @JianglinLi @HongfuDing @Wu_Zhi @david_david1968 关于疫苗，如今是美国自揭辉瑞存的各种欺骗与问题，中国人却花高价购买。<br>无话可说。
 
-### 69: [2023-01-26 09:28:16+08:00 推文](https://twitter.com/HeQinglian/status/1618420525239533568)
+### 70: [2023-01-26 09:28:16+08:00 推文](https://twitter.com/HeQinglian/status/1618420525239533568)
 
 Re @Wu_Zhi @JianglinLi @HongfuDing @david_david1968 不讲。同样也不对他们讲美国教育系统的变性运动——讲了也不信，美国就是好，怎可能会有这种事情？
 
