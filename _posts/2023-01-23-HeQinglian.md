@@ -283,3 +283,11 @@ RT 李江琳<br>Re @HongfuDing @HeQinglian @david_david1968 @Wu_Zhi  真相工
 
 Re @JianglinLi @HongfuDing @david_david1968 @Wu_Zhi 等着看。
 
+### 68: [2023-01-26 09:24:23+08:00 推文](https://twitter.com/HeQinglian/status/1618419547576635393)
+
+Re @JianglinLi @HongfuDing @Wu_Zhi @david_david1968 关于疫苗，如今是美国自揭辉瑞存的各种欺骗与问题，中国人却花高价购买。<br>无话可说。
+
+### 69: [2023-01-26 09:28:16+08:00 推文](https://twitter.com/HeQinglian/status/1618420525239533568)
+
+Re @Wu_Zhi @JianglinLi @HongfuDing @david_david1968 不讲。同样也不对他们讲美国教育系统的变性运动——讲了也不信，美国就是好，怎可能会有这种事情？
+
