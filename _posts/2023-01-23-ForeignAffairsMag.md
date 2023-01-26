@@ -19,3 +19,7 @@ title: ForeignAffairsMag在2023-01-23~2023-01-29的言论
 
 **Short Statement:** Foreign Affairs has recently published a number of pieces on the war in Ukraine, the potential outcomes of the conflict, and the possibility of a negotiated settlement between Kyiv and Moscow. To complement these articles, a broad pool of experts were surveyed for their take. As with previous surveys, Foreign Affairs approached dozens of authorities with expertise relevant to the question at hand, along with leading generalists in the field. Participants were asked to state whether they agreed or disagreed with a proposition and to rate their confidence level in their opinion.
 
+----- __339.2__ -----2023-01-27 04:33:43+08:00:
+
+Thank you! We try to be as aware as possible. Please check out our app for more mobile options.
+
