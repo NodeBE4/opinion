@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-01-25
+date: 2023-01-26
 from: https://old.reddit.com/r/AskHistorians/comments/10iunfq/what_pop_history_book_has_done_the_most_damage_to/
 layout: post
 tags:
@@ -130,4 +130,18 @@ Just repeating the assertions you made to me, but go off I guess.
 As an addendum, Peter Perdue has made the case that the expansion of the secret memorial system and the establishment of the Grand Council were closely linked with the Qing military effort in Central Asia. The Grand Council was, of course, officially the *Junjichu* 軍機處 or 'Department of Military Secrets'. While their function was to circumvent the more traditionally Han-run, Ming-era inheritances in the Qing civil service, it was made imperative by the costly, and largely Manchu-run, Inner Asian-interested campaigns the Qing waged on their western and northern frontiers. Hence, among other things, the almost exclusively Banner makeup of the Grand Council in its early iterations.
 
 Peter Perdue's *China Marches West* (2005) goes into this in more detail than I do here; as an addendum on matters in China Proper and the 'inner' vs 'outer' court, Wensheng Wang's *White Lotus Rebels and South China Pirates* (2014) is the book to read on the Jiaqing-era reforms to Qing political mechanisms and the ideological struggle over the balance of power between the two.
+
+### 1078: [Short Answers to Simple Questions | January 25, 2023](https://old.reddit.com/r/AskHistorians/comments/10l3hny/short_answers_to_simple_questions_january_25_2023/), submitted on 2023-01-26 01:00:14+08:00.
+
+----- __1078.1__ -----2023-01-26 19:22:56+08:00:
+
+When was the classic 'pith helmet' pattern of Foreign Service Helmet introduced in the British military? I'm aware of the older 'air-pipe' type being used in India, China, and East Africa from at least 1857 to 1868, but I don't know when the version without the raised vent spine was used. On a related note, was this style of helmet also worn by Royal Navy personnel, or just the Army?
+
+### 1079: [Why do Napoleonics miniatures have fixed bayonets?](https://old.reddit.com/r/wargaming/comments/10lbv82/why_do_napoleonics_miniatures_have_fixed_bayonets/), submitted on 2023-01-26 06:33:40+08:00.
+
+----- __1079.1__ -----2023-01-26 19:02:31+08:00:
+
+> the standard infantryman didn't aim as we know it
+
+This isn't wholly true, although I admit I'm not familiar with the possibility of changes by the Napoleonic wars: [1770s British manuals routinely refer to the bayonet lug as a 'sight'](https://twitter.com/RobbieMacNiven/status/1614995851713339393), which certainly implies that the ordinary musketeer would have been aiming with it.
 
