@@ -151,3 +151,7 @@ To be fair I also mostly only know of her by reputation, but I've watched one or
 
 Unfortunately, another second-hand report from me, coming via [this](https://www.reddit.com/r/VirtualYoutubers/comments/10llml5/a_progress_report_on_where_the_small_en_agencies/j5xvm0x/). Unfortunately they don't list sources, but at the very least I can find some evidence WRT the copyright strike claim: https://www.youtube.com/watch?v=DOiI4TTUgbA
 
+----- __1070.6__ -----2023-01-27 01:43:09+08:00:
+
+English-language.
+
