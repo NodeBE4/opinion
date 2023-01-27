@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-01-26
+date: 2023-01-27
 from: https://old.reddit.com/r/AskHistorians/comments/10iunfq/what_pop_history_book_has_done_the_most_damage_to/
 layout: post
 tags:
@@ -163,4 +163,10 @@ We are in fact referring simply to different parts of the same 1764 manual. My q
 Meanwhile, I'm not sure if we're speaking of the same 46% here, but 46% was the accuracy achieved at 150 paces [during Prussian volley fire trials](http://kabinettskriege.blogspot.com/2016/02/how-accurate-were-regular-soldiers-in.html).
 
 I'm simply very doubtful of the claim that you didn't aim to hit – simply *trying* to be somewhat on-target, in the window you had between 'Present!' and 'Fire!', would have been a trivial action that would have paid off, and that is precisely why it was done.
+
+### 1080: [THE Japanese Massacred Many Korean Filipino and Chinese civillians men women children and elders and they cause the Nanking massacre and the Bataan Death march but why they are playing as a victim of the bombings of Hiroshima and Nagasaki?](https://old.reddit.com/r/AskHistorians/comments/10m71fu/the_japanese_massacred_many_korean_filipino_and/), submitted on 2023-01-27 08:19:17+08:00.
+
+----- __1080.1__ -----2023-01-27 08:54:36+08:00:
+
+This submission has been removed because it is [soapboxing](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.) or [moralizing:](https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/) it has the effect of promoting an opinion on contemporary politics or social issues at the expense of historical integrity. There are certainly historical topics that relate to contemporary issues and it is possible for legitimate interpretations that differ from each other to come out of looking at the past through different political lenses. However, we will remove questions that put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.
 
