@@ -111,3 +111,45 @@ Like most failures in academia, she found her way into university administration
 
 I also invited my students to e-mail her their thoughts on why her policy was stupid, with specific points that I suggested.
 
+----- __452.4__ -----2023-01-27 14:50:16+08:00:
+
+> Film History
+
+Wow.  I was expecting you to be talking about some intro-level core requirement class.  
+
+I must rant a bit.  The following has nothing to do with your comment.  Just my waxing nostalgic about electives in my college days. 
+
+I had a philosophy professor encourage the class to experiment with drugs.  Which I of course already was.  We got drunk in the kind of bar where the bartender had a handlebar mustache (that I still remember all these years later) when the class was over.  This was my introduction to Jean Baudrillard, for example. 
+
+I had a contemporary film-focused class that once assigned old reruns of my all-time favorite show, Queer as Folk (the Showtime version).  
+
+I could go on.  But I think these are what electives should be, in addition to some others that ensure you have some minimal level of cultural literacy.  
+
+For example, I took a couple of hard-hitting courses in Russian literature, a course in French lit and several others in non-mathematical philosophy.  
+
+You probably were hoping to find something like a source of baseline cultural literacy in your film class.  Instead, you got a basket case.  Next time you see a professor like that, drop their class.
+
+### 453: [100% similarity score on TurnItIn](https://old.reddit.com/r/college/comments/10mc53z/100_similarity_score_on_turnitin/), submitted on 2023-01-27 12:32:20+08:00.
+
+----- __453.1__ -----2023-01-27 15:21:34+08:00:
+
+Alright, kiddo.  I've got good news.  And I've got bad news.
+
+Here's the good news: I believe you.
+
+Here's the bad news: The reason I believe you is because I have a little bit of insight into what TurnItIn is and how it works.
+
+What TurnItIn *actually* measures is not the same thing that it is *held out* to measure.  That platform is marketed as competent to determine "plagiarism" based on "similarity or dissimilarity with a finite and pathetically flawed set of reference data, which is not even close to the same thing.  Except that isn't plagiarism.
+
+Plagiarism is when you steal someone else's ideas and pass them off as your own, like George Lucas did when he made "Dune for idiots," known as "Star Wars."  
+
+So here are the problems: What exactly is "similarity"?  How is that determined?  How "similar" does some piece of language have to be to some other piece of language, to be flagged as "similar"?  And at exactly what level of generality or specificity?   
+
+TurnItIn's methods are both over-inclusive and under-inclusive.  For example, they're over-inclusive because they capture a lot more than what is actually plagiarized.  They're under-inclusive because fail to capture entire universes of what is plagiarized and what might ever be plagiarized (because of their limited reference datasets).  That program doesn't even have a known error rate, much less anything that might vaguely resemble a method to determine its own error rate.  
+
+But the problem is that the people who make decisions about how to detect "plagiarism" are typically brain-dead fuckwits, with about as much cognitive activity as a certain [fish](https://www.wired.com/2009/09/fmrisalmon/) that participated in an experiment a number of years ago.  And the marketing efforts of the company that makes TurnItIn have as much impact on university admin as the pictures those researchers showed the fish.  
+
+Just because you have a piece of alleged technology that says it does something, doesn't mean that technology actually does the thing it says it does.  
+
+TurnItIn is to plagiarism what [patent medicines](https://en.wikipedia.org/wiki/Patent_medicine) are to health maladies.
+
