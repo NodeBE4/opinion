@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-01-27
+date: 2023-01-28
 from: https://twitter.com/HeQinglian/status/1617192085089652736
 layout: post
 tags:
@@ -305,7 +305,7 @@ Re @Lucs24659702 终于意识到选择性抽检，有违美国的司法公平。
 
 ### 73: [2023-01-27 02:07:18+08:00 推文](https://twitter.com/HeQinglian/status/1618671938653790209)
 
-RT He Qinglian<br>数据说话：中-美欧经济脱钩并非现实<br>2022年西方舆论表达要与中国脱钩、以及猜测习近平想与美国脱钩成了主流。被视为“习近平信使”的刘鹤出席2023达沃斯年会，让与会者欢呼中国回归全球化。<br>本文用中国及美欧自身数据表明，中国脱离全球化现在终于回归，其实是个彻底的虚假命题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html</a>
+数据说话：中-美欧经济脱钩并非现实<br>2022年西方舆论表达要与中国脱钩、以及猜测习近平想与美国脱钩成了主流。被视为“习近平信使”的刘鹤出席2023达沃斯年会，让与会者欢呼中国回归全球化。<br>本文用中国及美欧自身数据表明，中国脱离全球化现在终于回归，其实是个彻底的虚假命题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html</a>
 
 ### 74: [2023-01-27 02:36:25+08:00 推文](https://twitter.com/zhixiangziyou/status/1618679268707536896)
 
@@ -529,7 +529,7 @@ Re @liuximing2022 @zhengchu 假定拜登政府再干一任，民主党接着再�
 
 ### 129: [2023-01-27 23:03:59+08:00 推文](https://twitter.com/HeQinglian/status/1618988194275692549)
 
-昨天我这篇《数据说话：中-美欧经济脱钩并非现实》<br>引来了解滨先生的这条诛心的指责。花了一下午时间与他讨论，这是推上普遍情况，相关讨论推文见三处，集中的在这一处。<br>希望年轻推友们从中领悟一些东西，路还长，认识世界是改造世界并建设的第一步。蒙着眼睛是走不下去的。<div class="rsshub-quote"><br><br>Bin Xie （解滨）#TheGreatTranslationMovement: @HeQinglian 你为社么现在要拐弯抹角地为中共说话？你难道不知道中国是多么恶毒的一个国家中共是一个多么阴险的团体？ 不脱钩，难道自由世界还要继续被中国毒害？我知道脱钩是一步险棋而且后果确实很严重，但谁远意和毒蛇住在一个村里？<br></div>
+昨天我这篇《数据说话：中-美欧经济脱钩并非现实》<br>引来了解滨先生的这条诛心的指责。花了一下午时间与他讨论，这是推上普遍情况，相关讨论推文见三处，集中的在这一处。<br>希望年轻推友们从中领悟一些东西，路还长，认识世界是改造世界并建设的第一步。蒙着眼睛是走不下去的。 <a href="https://rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html" target="_blank" rel="noopener noreferrer">https://rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html</a> <a href="https://twitter.com/bxieus/status/1618715162609070081" target="_blank" rel="noopener noreferrer">https://twitter.com/bxieus/status/1618715162609070081</a>
 
 ### 130: [2023-01-27 23:08:13+08:00 推文](https://twitter.com/HeQinglian/status/1618989257519144960)
 
@@ -546,4 +546,24 @@ Re @jessyshen 这种担心普遍存在。据说也是事实。<br>本小区有�
 ### 133: [2023-01-27 23:25:13+08:00 推文](https://twitter.com/NAConservative9/status/1618993538058027010)
 
 RT 北美保守评论🇺🇸🇨🇦<br>《卢比奥就所谓的功能增益研究致信辉瑞首席执行官》<br><br>辉瑞公司所说的冠状病毒“定向进化”研究，使之发生突变，变得更容易传播、更加致命，这实质就是美国禁止的“功能增益”研究。辉瑞正在为了暴利以身试法，视人民的健康为儿戏；美国监管机构对其行为放松监管，是十足的渎职。 <a href="https://nacr.info/WordPress/index.php/2023/01/27/rubio-sends-letter-to-pfizer-ceo-on-alleged-gain-of-function-research/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2023/01/27/rubio-sends-letter-to-pfizer-ceo-on-alleged-gain-of-function-research/</a><br><img style="" src="https://pbs.twimg.com/media/FnfRtEhaYAMQaHr?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 134: [2023-01-27 23:45:11+08:00 推文](https://twitter.com/HeQinglian/status/1618998564050587648)
+
+Re @mingshi_chen 有英文分析。通用汽车公司之后，美国工人已经自觉地抵制工会进入他们的工厂了，主要是新建工厂。原有的是走不了。<br>有些研究美国工会的著作，还是揭露得非常深刻的。朱利安尼时期，连纽约黑帮与工会二而一，一而二的关系都揭出来了。
+
+### 135: [2023-01-28 00:01:48+08:00 推文](https://twitter.com/HeQinglian/status/1619002743406104577)
+
+Re @FightForJiuCai 这些市长们应该想到一个现实中的悖论：<br>战争赋予了战时总统泽连斯期超强的专断权力并通过持续的战争来巩固它——只要战争不结束，美国的支持继续——专断权力也就继续下去。<br>这个闭环的打破，必须借助美国等外力，但美国不会打破这个闭环。<br>只能自然发展，等美国国内政治形势变化了。
+
+### 136: [2023-01-28 00:12:31+08:00 推文](https://twitter.com/HeQinglian/status/1619005439718596610)
+
+Re @P9Wb1kMpj484jEW 这礼仪很重要，是以成人标准来要求人的礼仪，自此之后，男女青年都得为成为合格的社会成员而努力。<br>中国古代至明清，士族及诗礼之家（包括大家族）都为跨入成年的青年男女举行这一仪式，男称冠礼，十八而冠（各朝代有不同），女为笄礼，年十五。<br>如今巨婴太多，就因心态如孩子。
+
+### 137: [2023-01-28 00:45:23+08:00 推文](https://twitter.com/HeQinglian/status/1619013713838899201)
+
+Re @FightForJiuCai 希望多点及时信息，让我们了解真正的乌克兰国内局势。<br>如今我已经不看信息战产品了。<br>乌克兰男子的牺牲，应该算惨重了。希望尽快止损。我从一开始就明确反对华盛顿希望乌克兰与普京战至最后一个乌克兰人。
+
+### 138: [2023-01-28 00:53:44+08:00 推文](https://twitter.com/HeQinglian/status/1619015812551147520)
+
+Re @FightForJiuCai 平心而论，有个过程。最开始，他是真的留有余地。因为毕竟不是蒙古成吉思汗那种时代。<br>这变化是在泽第一次大反攻，声称几天之内收复了七万多平公，并且有报复行为之后。<br>我想你也很清楚，讲事实很困难。估计这条推后，我又得拉黑数位。
 
