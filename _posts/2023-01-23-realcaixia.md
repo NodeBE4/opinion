@@ -75,3 +75,15 @@ Re 习能如此暴政，首先是依赖一套暴政制度，这就是毛说他�
 
 读书是自我修养的一个好习惯，痛心很多真正的民族文化和世界文化瑰宝在中国被毁灭被排斥，不少人的精神世界越来越狭小；而充斥谎言、荒谬、虚假历史、颠倒黑白以及毁灭人的理性思考能力的文字垃圾和洗脑毒文畅行无阻。<div class="rsshub-quote"><br><br>《议报》: 李承鹏：我读书从反动派外祖父日英文翻译《毛选》开始！<br> <a href="https://yibaochina.com/?p=249245" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=249245</a></div>
 
+### 16: [2023-01-28 01:14:53+08:00 推文](https://twitter.com/realcaixia/status/1619021135244591104)
+
+看看民间的春晚……<div class="rsshub-quote"><br><br>Gancheng Wang: 叶匡政的诗歌《我们都是木头人》教三个一开始“嘻皮笑脸”的男人都流下了泪水。这首诗创作于三年前，原来影响有限，但这三年的经历让我们都真切地感受到我们都是木头人……<br><br><video src="https://video.twimg.com/amplify_video/1618511052030754816/vid/720x1560/BIocoZFTonHWkJUi.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1618511052030754816/img/AIA6AzZorRvy45ao.jpg"></video> <a href="https://twitter.com/i/web/status/1618513150390988802" target="_blank" rel="noopener noreferrer">https://twitter.com/i/web/status/1618513150390988802</a></div>
+
+### 17: [2023-01-28 01:19:14+08:00 推文](https://twitter.com/realcaixia/status/1619022229387505664)
+
+请品黄永玉老先生的兔年月历…………<div class="rsshub-quote"><br><br>Gancheng Wang: 黄永玉老爷子的兔年月历比邮票更精彩！有预言，有智慧，有愿景……<br><br>一月份：叫什么，谁让你尾巴那么长<br>虎兔交班，虎尾被夹，如果果断交班，何至于吃这个苦头！<br><br><img style="" src="https://pbs.twimg.com/media/FnTUt36WAAIe4My?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 18: [2023-01-28 01:40:34+08:00 推文](https://twitter.com/realcaixia/status/1619027601670160384)
+
+Re @KathyHu56423186 @whyyoutouzhele 说得好！我以前就是这样的愚蠢无知，直到2009年于建嵘引导我翻出了体制高墙与体制外人接触……。
+
