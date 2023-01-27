@@ -17,11 +17,11 @@ title: 'Twitter @中国文字狱事件盘点: 2021-11-22~2021-11-28'
 
 ### 1: [2021-11-24 11:11:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1463344370648854530)
 
-湖南省邵阳县男子卿某，因在QQ发表“侮辱亵渎革命英烈”的言论，被处拘留10日，其具体言论内容不详。<br><img style="" src="https://pbs.twimg.com/media/FE6hMXPX0AYDrYK?format=jpg&name=orig" referrerpolicy="no-referrer">
+湖南省邵阳县男子卿某，因在QQ发表“侮辱亵渎革命英烈”的言论，被处拘留10日，其具体言论内容不详。<br><img style src="https://pbs.twimg.com/media/FE6hMXPX0AYDrYK?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2021-11-24 11:13:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1463344873977917445)
 
-Hunan man Qing detained for 10 days for "insulting martyrs" in QQ.<br><img style="" src="https://pbs.twimg.com/media/FE6hd4WXsAERgv2?format=jpg&name=orig" referrerpolicy="no-referrer">
+Hunan man Qing detained for 10 days for "insulting martyrs" in QQ.<br><img style src="https://pbs.twimg.com/media/FE6hd4WXsAERgv2?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2021-11-25 18:56:20+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1463823862999756801)
 

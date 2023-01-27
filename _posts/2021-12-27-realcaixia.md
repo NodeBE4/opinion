@@ -41,7 +41,7 @@ title: 'Twitter @蔡霞: 2021-12-27~2022-01-02'
 
 ### 7: [2021-12-30 03:33:22+08:00 推文](https://twitter.com/realcaixia/status/1476275167831728130)
 
-民主国家政府抵制冬奥，这是正义之举，应该唤起更多的国家政府共同抵制冬奥会！<br><br>DW 中文- 德国之声: 北京冬季奥运会即将开幕。美国已宣布外交抵制。欧盟尚在寻求共同立场。🇩🇪外交、内政部长已作出个人决定：不去北京。<br>不过她们都强调，此为个人决定，并非外交抵制的政治决策。<br>相关报道：<br><br><img style src="https://pbs.twimg.com/media/FHySweXWQAUb0Bt?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://dw.com/p/44xdn" target="_blank" rel="noopener noreferrer">http://dw.com/p/44xdn</a>
+民主国家政府抵制冬奥，这是正义之举，应该唤起更多的国家政府共同抵制冬奥会！<br><br>DW 中文- 德国之声: 北京冬季奥运会即将开幕。美国已宣布外交抵制。欧盟尚在寻求共同立场。🇩🇪外交、内政部长已作出个人决定：不去北京。<br>不过她们都强调，此为个人决定，并非外交抵制的政治决策。<br>相关报道：<br><br><img style="" src="https://pbs.twimg.com/media/FHySweXWQAUb0Bt?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://dw.com/p/44xdn" target="_blank" rel="noopener noreferrer">http://dw.com/p/44xdn</a>
 
 ### 8: [2021-12-30 20:19:44+08:00 推文](https://twitter.com/realcaixia/status/1476528427725381633)
 
@@ -101,7 +101,7 @@ Re @ni87107 这本书是香港出版的，估计香港已经买不到了。
 
 ### 22: [2022-01-01 08:20:27+08:00 推文](https://twitter.com/realcaixia/status/1477072189954351107)
 
-武汉病毒疫情至今仍在祸害全球，回顾两年前武汉疫情初期情况，越发明确显示出习当局有意隐瞒真相。这篇文章报道了几个关键点：<br>1，12月29号武汉传染病医院收了9个症状相同病人；<br>2，12月30号病人开始增加，到第二天晚上已经有24个病人；3，12月31号国家级专家到武汉医院；<br>4，1月2号前后事态更为严重。<br><img style="" src="https://pbs.twimg.com/media/FH-dT3RXoAAEfk3?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH-dUKyXwAEpzk9?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH-dUhpXEAoWHKq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH-dUzVWQAEHjcu?format=jpg&name=orig" referrerpolicy="no-referrer">
+武汉病毒疫情至今仍在祸害全球，回顾两年前武汉疫情初期情况，越发明确显示出习当局有意隐瞒真相。这篇文章报道了几个关键点：<br>1，12月29号武汉传染病医院收了9个症状相同病人；<br>2，12月30号病人开始增加，到第二天晚上已经有24个病人；3，12月31号国家级专家到武汉医院；<br>4，1月2号前后事态更为严重。<br><img style src="https://pbs.twimg.com/media/FH-dT3RXoAAEfk3?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH-dUKyXwAEpzk9?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH-dUhpXEAoWHKq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH-dUzVWQAEHjcu?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 23: [2022-01-01 21:58:50+08:00 推文](https://twitter.com/realcaixia/status/1477278143853600769)
 
