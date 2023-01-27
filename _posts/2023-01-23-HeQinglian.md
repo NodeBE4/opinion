@@ -499,3 +499,51 @@ Re @zhixiangziyou @openyourtete 陆文夫善品美食，是美食家，最后也
 
 Re @Lucs24659702 这组织在福奇电邮门之后，有不少揭发报道。充当白手套，为武毒所提供资助。
 
+### 122: [2023-01-27 22:18:00+08:00 推文](https://twitter.com/HeQinglian/status/1618976622488727552)
+
+Re @Cherokee_TX 你是转着弯说我是大外宣？😅<br>这块蒙着你眼睛的布，永远不要取下来。
+
+### 123: [2023-01-27 22:21:12+08:00 推文](https://twitter.com/HeQinglian/status/1618977425622466561)
+
+Re @Jenny67470141 中国这么没脾气了？战狼休假了？
+
+### 124: [2023-01-27 22:26:05+08:00 推文](https://twitter.com/HeQinglian/status/1618978655056842758)
+
+Re @loveonly2012 @david_david1968 到底是袁大总统，推上总统做久了，就以为自己是总统了。<br>好教总统得知，人家美国自己都没公布目标性脱钩的数据，你的旨意是要我编造？<br>还是穿上你的龙袍，意淫天下莫不在朕掌握之中为好。<br>滚吧。
+
+### 125: [2023-01-27 22:49:10+08:00 推文](https://twitter.com/HeQinglian/status/1618984465484890115)
+
+Re @eGUAbe2V7j26GHw 是事实，不是说法。
+
+### 126: [2023-01-27 22:52:04+08:00 推文](https://twitter.com/HeQinglian/status/1618985193502830593)
+
+Re @kingray_148 确实如此。<br>因此，他在卸任之后，拍了一部《美国工厂》，意在说明：美国自身的问题，导致制造业流失，非我之责。<br>然后弄了两个纲领性文件，但从未做事。<br>川普在墨西哥边境做了些事情，启动了近岸外包。
+
+### 127: [2023-01-27 22:54:17+08:00 推文](https://twitter.com/HeQinglian/status/1618985753001984000)
+
+Re @berialmhk 只是计划。那时候流失严重，波士顿咨询出了连续性报告，为了表明非他之责，弄了个计划出来，并未做任何实事。<br>有实说实。你是老推友，这些年我说话，你多半不喜欢听，但能留在这里，说明你从未因意见不同而恶语伤人。<br>继续吧，这也是个思想长跑。
+
+### 128: [2023-01-27 23:00:11+08:00 推文](https://twitter.com/HeQinglian/status/1618987237781434369)
+
+Re @liuximing2022 @zhengchu 假定拜登政府再干一任，民主党接着再干八年，这个前景有30%的可能。
+
+### 129: [2023-01-27 23:03:59+08:00 推文](https://twitter.com/HeQinglian/status/1618988194275692549)
+
+昨天我这篇《数据说话：中-美欧经济脱钩并非现实》<br>引来了解滨先生的这条诛心的指责。花了一下午时间与他讨论，这是推上普遍情况，相关讨论推文见三处，集中的在这一处。<br>希望年轻推友们从中领悟一些东西，路还长，认识世界是改造世界并建设的第一步。蒙着眼睛是走不下去的。<div class="rsshub-quote"><br><br>Bin Xie （解滨）#TheGreatTranslationMovement: @HeQinglian 你为社么现在要拐弯抹角地为中共说话？你难道不知道中国是多么恶毒的一个国家中共是一个多么阴险的团体？ 不脱钩，难道自由世界还要继续被中国毒害？我知道脱钩是一步险棋而且后果确实很严重，但谁远意和毒蛇住在一个村里？<br></div>
+
+### 130: [2023-01-27 23:08:13+08:00 推文](https://twitter.com/HeQinglian/status/1618989257519144960)
+
+Re @berialmhk 补充一句，我的推文基本客观，立场也是以事实为先。<br>如果你认为只有这一条客观，那是你的问题，不是我的问题。<br>我记得你说过宁愿揽炒香港，与我在这问题上有分歧，一直没转过弯来。我意是揽炒结局不好，但点到为止，香港是你们的，自己都要揽炒了，我们末法子。
+
+### 131: [2023-01-27 23:13:15+08:00 推文](https://twitter.com/HeQinglian/status/1618990524781969409)
+
+Re @Lucs24659702 李白斗酒诗百篇，小拜饮毒画更佳，直追莫奈与梵高。<br>这个世界通行的洗钱方式，美国民主党政府及检察官们天真纯洁又善良，不知道。他们认为亨特是艺术天才，被某些特定顾客发现了而已。正在为美国有世不二出的艺术 天才被世界发现了高兴不已。🤣🤣🤣<br>不知者不罪。🤣🤣🤣🤣🤣🤣
+
+### 132: [2023-01-27 23:18:45+08:00 推文](https://twitter.com/HeQinglian/status/1618991911003643904)
+
+Re @jessyshen 这种担心普遍存在。据说也是事实。<br>本小区有位就是这样，女主人也不讳言。男的在上海已经有妻有子（是否合法婚姻没说），有业务就回来，办完就走。
+
+### 133: [2023-01-27 23:25:13+08:00 推文](https://twitter.com/NAConservative9/status/1618993538058027010)
+
+RT 北美保守评论🇺🇸🇨🇦<br>《卢比奥就所谓的功能增益研究致信辉瑞首席执行官》<br><br>辉瑞公司所说的冠状病毒“定向进化”研究，使之发生突变，变得更容易传播、更加致命，这实质就是美国禁止的“功能增益”研究。辉瑞正在为了暴利以身试法，视人民的健康为儿戏；美国监管机构对其行为放松监管，是十足的渎职。 <a href="https://nacr.info/WordPress/index.php/2023/01/27/rubio-sends-letter-to-pfizer-ceo-on-alleged-gain-of-function-research/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2023/01/27/rubio-sends-letter-to-pfizer-ceo-on-alleged-gain-of-function-research/</a><br><img style="" src="https://pbs.twimg.com/media/FnfRtEhaYAMQaHr?format=png&amp;name=orig" referrerpolicy="no-referrer">
+

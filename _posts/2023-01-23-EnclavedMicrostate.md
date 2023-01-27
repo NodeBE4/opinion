@@ -123,6 +123,12 @@ TIL that it's Sinophobia to oppose genocide and colonialism, because guess what?
 
 Just repeating the assertions you made to me, but go off I guess.
 
+----- __1076.9__ -----2023-01-27 23:41:10+08:00:
+
+Restitution for killing and expelling their ancestors and seizing their land? Restitution for breaking treaties?
+
+As for the word 'colonialism', it absolutely is. Historians have been using colonialism to describe Chinese policies on Taiwan, in southeast China, in Tibet, in Mongolia, in Manchuria, and in Xinjiang for at least the last 2 decades. Colonialism isn't just what white Europeans do to people who aren't white Europeans. When China settles Han Chinese people in Xinjiang, blows up mosques, and rounds up Uighurs and Kazakhs into 're-education' camps, that's textbook colonial policy, just with the technology of modern totalitarianism.
+
 ### 1077: [What was the role of the grand secretaries during the Qing dynasty?](https://old.reddit.com/r/AskHistorians/comments/10kzuq1/what_was_the_role_of_the_grand_secretaries_during/), submitted on 2023-01-25 22:27:24+08:00.
 
 ----- __1077.1__ -----2023-01-26 08:46:09+08:00:

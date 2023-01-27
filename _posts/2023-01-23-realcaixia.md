@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2023-01-25
+date: 2023-01-28
 from: https://twitter.com/realcaixia/status/1617222036350472197
 layout: post
 tags:
@@ -70,4 +70,8 @@ Re @xyctaiwan 🌹🤝💗🙏
 ### 14: [2023-01-25 00:06:56+08:00 推文](https://twitter.com/realcaixia/status/1617916871814303747)
 
 Re 习能如此暴政，首先是依赖一套暴政制度，这就是毛说他自己是“秦始皇➕马克思”，中国秦政2000多年一贯制，只是外面包装了“马克思主义”骗人的皮而已；<br><br>习暴政还利用高科技➕权谋政治。高科技手段得以严密监视控制每一个人，权谋政治是中共党文化的“可意会不可言传”部分，是实际控制党内人言行的“潜规则”
+
+### 15: [2023-01-28 00:46:17+08:00 推文](https://twitter.com/realcaixia/status/1619013938070556679)
+
+读书是自我修养的一个好习惯，痛心很多真正的民族文化和世界文化瑰宝在中国被毁灭被排斥，不少人的精神世界越来越狭小；而充斥谎言、荒谬、虚假历史、颠倒黑白以及毁灭人的理性思考能力的文字垃圾和洗脑毒文畅行无阻。<div class="rsshub-quote"><br><br>《议报》: 李承鹏：我读书从反动派外祖父日英文翻译《毛选》开始！<br> <a href="https://yibaochina.com/?p=249245" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=249245</a></div>
 
