@@ -655,51 +655,79 @@ Re @parnyy @Nobody197575 因为鸡有产蛋旺季与淡季，每年冬天，鸡�
 
 路易斯安那州参议员约翰·肯尼迪总结了拜登任总统两年送给美国人的礼物：<br>“我认为拜登总统是整个银河系中唯一相信我们国家正朝着正确方向前进的人。<br>看看事实：去年我们的经济增长了1%，累计通胀13.5% ；平均租金上涨了12%。30年期抵押贷款的平均价格从 3% 上涨到 6.5%，我们的平均工资下降了 4%。”
 
-### 161: [2023-01-28 17:35:20+08:00 推文](https://twitter.com/FightForJiuCai/status/1619267873419198464)
+### 161: [2023-01-28 17:01:35+08:00 推文](https://twitter.com/jiongnasen/status/1619259383048974336)
+
+RT 约拿坦<br>project veritas最新的那个辉瑞爆料对我来说最有意思的部分不是关于病毒研究，而是由一个辉瑞中高层亲口说出“辉瑞跟政府之间有扇旋转门，一些负责审核我们的疫苗的官员曾经就在辉瑞工作。”<br>上次关注这个词是那篇关于奥巴马时期白宫财政部美联储官员跟blackrock之间来回跳动的调查报告《贝莱德旋转门》<br><img style="" src="https://pbs.twimg.com/media/FnjD0WYakAAFKwS?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FnjD0WXacAA3meh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 162: [2023-01-28 17:35:20+08:00 推文](https://twitter.com/FightForJiuCai/status/1619267873419198464)
 
 RT 正念先生-东欧视角🇺🇦🙏🕊<br>乌克兰人对腐败的政客们愤怒到极点<br>“我们国家在战争中，尤利娅·季莫申科却在杜拜度假，提先科在泰国玩水，看到你们这样，哪个国家还会捐款帮助我们！？”<br><video src="https://video.twimg.com/ext_tw_video/1619267752979582976/pu/vid/720x1280/2CB4DGqEdoUOCad6.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1619267752979582976/pu/img/7ZZ1j1hArXCT8qUi.jpg"></video>
 
-### 162: [2023-01-28 22:38:57+08:00 推文](https://twitter.com/HeQinglian/status/1619344281038372864)
+### 163: [2023-01-28 22:38:57+08:00 推文](https://twitter.com/HeQinglian/status/1619344281038372864)
 
 Re @JianglinLi @Lucs24659702 近几年我已经悟出美左的逻辑：<br>凡黑皮肤人对他们的行为有所批评，这些人就不是黑人，或者是黑人的叛徒，比如索维尔、欧文斯。此逻辑应该也会用之于这些黑人逻辑。<br>白左得到的最高表扬是：皮肤虽然是白的，但他们的心（灵魂）是黑人的心（灵魂）。
 
-### 163: [2023-01-28 22:41:59+08:00 推文](https://twitter.com/HeQinglian/status/1619345045777432576)
+### 164: [2023-01-28 22:41:59+08:00 推文](https://twitter.com/HeQinglian/status/1619345045777432576)
 
 Re @Lucs24659702 纽约市当局终于清醒一点了，没去给BLM下跪，表演“我不能呼吸”？
 
-### 164: [2023-01-28 22:45:19+08:00 推文](https://twitter.com/HeQinglian/status/1619345885632266240)
+### 165: [2023-01-28 22:45:19+08:00 推文](https://twitter.com/HeQinglian/status/1619345885632266240)
 
 Re @JianglinLi @Lucs24659702 应该是地下气象员的传人。
 
-### 165: [2023-01-28 22:51:25+08:00 推文](https://twitter.com/HeQinglian/status/1619347417668763649)
+### 166: [2023-01-28 22:51:25+08:00 推文](https://twitter.com/HeQinglian/status/1619347417668763649)
 
 Re @Susanchan521 @david_david1968 有次我说了实际情况不如理想，台湾实际上是半拒，有位港灿（请原谅我这样称呼这位头大症患者）在我这里闹了半天，说香港人不比大陆人，全世界哪里都欢迎，想去哪就能去哪里。虽然我知道实情必不如此，但还是希望他愿望成真。
 
-### 166: [2023-01-28 23:03:07+08:00 推文](https://twitter.com/HeQinglian/status/1619350363173437441)
+### 167: [2023-01-28 23:03:07+08:00 推文](https://twitter.com/HeQinglian/status/1619350363173437441)
 
 美众议院四名共和党议员在致拜登和防长的信中要求解释向乌克兰提供艾布拉姆斯坦克的决定。重点是担心腐败，并对“以美国纳税人的利益为代价不断升级冲突”这一事实表示不满。<br><br>为何全世界都喜欢美国民主党当选？他们考虑全世界所有国家（人民）的利益，独独忘记了美国纳税人。 <a href="https://dailycaller.com/2023/01/27/troy-nehls-house-republicans-demand-answers-joe-biden-decision-send-us-tanks-to-ukraine/" target="_blank" rel="noopener noreferrer">https://dailycaller.com/2023/01/27/troy-nehls-house-republicans-demand-answers-joe-biden-decision-send-us-tanks-to-ukraine/</a>
 
-### 167: [2023-01-28 23:04:06+08:00 推文](https://twitter.com/HeQinglian/status/1619350612331880448)
+### 168: [2023-01-28 23:04:06+08:00 推文](https://twitter.com/HeQinglian/status/1619350612331880448)
 
 Re @JianglinLi @fading_you1 看看人家的项目一个接一个成立，就明白了，因为他们也被纳入“伟大的社会变革运动”当中。
 
-### 168: [2023-01-28 23:06:42+08:00 推文](https://twitter.com/HeQinglian/status/1619351266609762304)
+### 169: [2023-01-28 23:06:42+08:00 推文](https://twitter.com/HeQinglian/status/1619351266609762304)
 
 Re @JianglinLi @fading_you1 不为这，人家跟着指鹿为马为哪般？
 
-### 169: [2023-01-28 23:10:52+08:00 推文](https://twitter.com/HeQinglian/status/1619352314850185219)
+### 170: [2023-01-28 23:10:52+08:00 推文](https://twitter.com/HeQinglian/status/1619352314850185219)
 
 Re @FightForJiuCai 美国拜登政府会继续，因为阿富汗帐本显示，援助阿富汗的巨额资金，大半被美国各种机构包括NGO分帐。
 
-### 170: [2023-01-28 23:15:46+08:00 推文](https://twitter.com/HeQinglian/status/1619353548344676354)
+### 171: [2023-01-28 23:15:46+08:00 推文](https://twitter.com/HeQinglian/status/1619353548344676354)
 
 Re @wapww 纠正一下，“行百里者半九十”，重点在“行”，不是空想、坚持表达自己缺乏事实支撑的认知。<br>想清楚这点，再做表达。
 
-### 171: [2023-01-28 23:30:25+08:00 推文](https://twitter.com/shenliangqing2/status/1619357233690853377)
+### 172: [2023-01-28 23:18:52+08:00 推文](https://twitter.com/JianglinLi/status/1619354325620494341)
+
+RT 李江琳<br>兰德智库报告：避免长期战争：美国政策和俄乌冲突走向。Avoiding a Long War<br>U.S. Policy and the Trajectory of the Russia-Ukraine Conflict <a href="https://www.rand.org/pubs/perspectives/PEA2510-1.html" target="_blank" rel="noopener noreferrer">https://www.rand.org/pubs/perspectives/PEA2510-1.html</a>
+
+### 173: [2023-01-28 23:30:25+08:00 推文](https://twitter.com/shenliangqing2/status/1619357233690853377)
 
 RT 沈良庆二世<br>#禁枪与谋杀率关系：美国谋杀率全球第三；去掉图中五个严格控枪的民主党人控制城市，美国在全球193个国家谋杀率排名仅为第189位。说明民主党及其拥趸要求废除 #宪法第二修正案 赋予美国人民的持枪权与治安无关，目的是弱民，剥夺人民持枪反抗暴政和暴徒的革命权和正当防卫权。<div class="rsshub-quote"><br><br>Tony: 美國的謀殺率位居世界第三，但是如果移除： <br>1. 芝加哥 <br>2. 底特律 <br>3. 華盛頓特區 <br>4. 聖路易士 <br>5. 費城 <br>美國在全球193個國家中就排名在第189位。<br>這五個城市都有”嚴格”的槍支管制法律，並且都由民主黨人控制<br>這說明什麼？法律的限制永遠不是解決問題的方法！<br><br><img style="" src="https://pbs.twimg.com/media/FniRyFUaMAAIW_n?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
-### 172: [2023-01-29 00:10:28+08:00 推文](https://twitter.com/HeQinglian/status/1619367313479970816)
+### 174: [2023-01-29 00:10:28+08:00 推文](https://twitter.com/HeQinglian/status/1619367313479970816)
 
 Re @JianglinLi @Lucs24659702 有部美国电影，一白富家女参加恐怖组织，从事恐怖活动被抓（炸死几个人，包括儿童），关在单人牢房里，没窗户。给其父亲写信，要求活动出一间有窗户的单人牢房，说没有窗户，极不人道。<br>电影里安排她毕业于普林斯顿大学。
+
+### 175: [2023-01-29 04:46:19+08:00 推文](https://twitter.com/HeQinglian/status/1619436732159754245)
+
+Re @Jenny67470141 一场阿富汗战争，历经几届政府，援助万亿美元，逾半被洗成国内利益集团的财富，无一人为此担责。这种模式当然得继续下去。既道义，又安全，无本万利。
+
+### 176: [2023-01-29 04:55:04+08:00 推文](https://twitter.com/HeQinglian/status/1619438933049495552)
+
+已经很久没关注俄乌战争的战况了，读了这条，发现乌军已经成了“被困在城市的北约联军”，当真是鸟枪换炮。<br>印象中，北约是当今世界最强大的军事集团，其中的美国一直是神话一般的存在。<br>这北约联军里有多少美军？<div class="rsshub-quote"><br><br>🇷🇺 🅉 俄乌局势: 今日巴赫穆特：<br>俄军已经完成对巴赫穆特的纵深合围，并且抵达巴赫穆特西部的伊万尼夫斯克镇。<br>被困在城市的北约联军无法再获得任何食物或武器供应，瓦格纳正在戈尔洛夫卡附近的托列茨克进行另一次袭击。<br>北约联军残部试图转移到乌格莱达尔，这可能意味着巴赫穆特要被放弃。<br><br><img style="" src="https://pbs.twimg.com/media/Fni4jPvaIAA4sqr?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fni4jPwaUAEfMfb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 177: [2023-01-29 04:56:44+08:00 推文](https://twitter.com/HeQinglian/status/1619439352416964608)
+
+Re @Susanchan521 @david_david1968 同意前半部分。<br>但总有能够看清现实的人。
+
+### 178: [2023-01-29 05:01:33+08:00 推文](https://twitter.com/HeQinglian/status/1619440566038847491)
+
+Re @JianglinLi 我觉得民主党当政，肯定是长期战争，每年1000亿对乌援助，分配方式参照阿富汗帐本。<br>人权人道、国际主义精神、大国风范尽显，从投资角度来说，非常安全，因为一般是预扣。
+
+### 179: [2023-01-29 05:11:43+08:00 推文](https://twitter.com/HeQinglian/status/1619443123792523264)
+
+Re @princeton_walk @guchuan81 CRT教育与宣传打造出来的这块“制度性种族主义”（或曰总体性种族歧视）带小铁钉的橡皮泥大饼，迟早会让美国严重消化不良，产生各种疾病。
 
