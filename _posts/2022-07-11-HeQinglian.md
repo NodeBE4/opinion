@@ -25,7 +25,7 @@ Re @bcyixiu 这我还真不能写，主要原因是：我并不比你们了解�
 
 ### 3: [2022-07-11 02:05:45+08:00 推文](https://twitter.com/HeQinglian/status/1546193978126733313)
 
-将熊熊一窝。不是美国能力不行，是领导人不行。<br>我要是布林肯，拒绝接受那四份要求美国纠正错误言论与政策的清单，让王毅带回北京去。<br><br>华尔街日报中文网: #本周热读 经济专栏记者Greg Ip写道，虽然美国的经济体系已准备好迎接与中国的地缘政治竞赛，但政治体系是否做好了准备还不好说。过去一周发生的一些重大事件引起了很多疑问。<br> <a href="https://on.wsj.com/3AyyOBw" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3AyyOBw</a>
+将熊熊一窝。不是美国能力不行，是领导人不行。<br>我要是布林肯，拒绝接受那四份要求美国纠正错误言论与政策的清单，让王毅带回北京去。
 
 ### 4: [2022-07-11 04:16:48+08:00 推文](https://twitter.com/HeQinglian/status/1546226957813256192)
 
@@ -69,7 +69,7 @@ Re @dongle_smith “欧洲逼和团去了几次，热心金毛突然下台”，
 
 ### 14: [2022-07-11 21:39:30+08:00 推文](https://twitter.com/HeQinglian/status/1546489359276417026)
 
-经查：德国气候温和，在一年中，气温通常在-2°C到25°C之间变化，极少低于-10°C或高于31°C ...<br><br>比中国南部的天气好得多，中国南部城市，也就少部分人近年冬天安装了电暖气。<br>煤球炉可以取暖，打开一扇窗户通气，烧热水。 <a href="https://zh.weatherspark.com/countries/DE" target="_blank" rel="noopener noreferrer">https://zh.weatherspark.com/countries/DE</a>
+经查：德国气候温和，在一年中，气温通常在-2°C到25°C之间变化，极少低于-10°C或高于31°C ...<br><br>比中国南部的天气好得多，中国南部城市，也就少部分人近年冬天安装了电暖气。<br>煤球炉可以取暖，打开一扇窗户通气，烧热水。<br><br>DW 中文- 德国之声: 今天开始，北溪1号管线进入十多天的维修季，停止供气。如果之后俄罗斯不恢复供气，不仅德国老百姓将挨冻，德国经济可能萎缩12%。<br><br>这些天来，许多租户收到房主的通知，柏林一家大型出租房产公司告诉租客，今后油气取暖费至少翻倍。<br> <a href="https://p.dw.com/p/4DxFD" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4DxFD</a>
 
 ### 15: [2022-07-11 21:43:55+08:00 推文](https://twitter.com/HeQinglian/status/1546490470557270019)
 
@@ -97,7 +97,7 @@ Re @shenliangqing2 实不实，自己去查。用几个关键英文词，第一�
 
 ### 21: [2022-07-12 00:05:58+08:00 推文](https://twitter.com/HeQinglian/status/1546526221739216898)
 
-这篇文章值得一看。现在是主流媒体好几家觉得拜登不能应付紧急状态。<br>这事儿我想过，发现原因很简单：换人，贺锦丽比拜登更糟糕，就算一年之后换人，是南希。<br>主要是没来得及改宪法。希拉里倒是想当，也比这几位合适一点，但宪法没为她准备接位的空间。<br>赶紧修宪，量身定做。
+这篇文章值得一看。现在是主流媒体好几家觉得拜登不能应付紧急状态。<br>这事儿我想过，发现原因很简单：换人，贺锦丽比拜登更糟糕，就算一年之后换人，是南希。<br>主要是没来得及改宪法。希拉里倒是想当，也比这几位合适一点，但宪法没为她准备接位的空间。<br>赶紧修宪，量身定做。<br><br>井上-Z-不二雄: 总统杠上贝索斯，后果很严重。亿万富翁拥有的传媒，不需要做什么，只需要如实报道（停止帮总统擦屁股）就够总统喝一壶的。<br> <a href="https://www.zerohedge.com/political/knives-out-wapo-nyt-go-biden-blood-scathing-moment-honesty" target="_blank" rel="noopener noreferrer">https://www.zerohedge.com/political/knives-out-wapo-nyt-go-biden-blood-scathing-moment-honesty</a>
 
 ### 22: [2022-07-12 00:13:53+08:00 推文](https://twitter.com/HeQinglian/status/1546528212775276546)
 
@@ -233,7 +233,7 @@ Re @shenliangqing2 加州这几年有许多奇葩法律。比如自我心理认�
 
 ### 55: [2022-07-13 01:46:01+08:00 推文](https://twitter.com/HeQinglian/status/1546913784475820032)
 
-德国漂绿是真的，但是否取消碳中和目标，还得查核一下。不过，虽然这位是某些人眼中说什么都错的中国人，但这次却说得非常对，因为事实摆在那里：天然气、核能全部漂绿，煤炭开采也恢复了。<br>原来，绿能奠基于他国进口能源并购买碳排放额度指标上。<br><br>薛丁丁归来: #德国取消2035年碳中和目标   读书的时候老师就说过，现在大部分标准是欧美人定的，打着环保等名义，其实用来限制后发国家，等你们真的做到了，他又会出一套新的标准继续限制你，当然，如果他们做不到，他们随时会把标准废除。我们努力的方向不是去追求西方标准，而是要凭实力，把标准制定权抢过来。<br><br><video src="https://video.twimg.com/ext_tw_video/1546668011788021760/pu/vid/856x480/qwn2QPe7h3wiqVtA.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1546668011788021760/pu/img/GdO-BowXHBTATi_l.jpg"></video>
+德国漂绿是真的，但是否取消碳中和目标，还得查核一下。不过，虽然这位是某些人眼中说什么都错的中国人，但这次却说得非常对，因为事实摆在那里：天然气、核能全部漂绿，煤炭开采也恢复了。<br>原来，绿能奠基于他国进口能源并购买碳排放额度指标上。
 
 ### 56: [2022-07-13 03:07:59+08:00 推文](https://twitter.com/HeQinglian/status/1546934414118211586)
 
@@ -293,7 +293,7 @@ Re @KELMAND1 从制造话题的效果来看，李克强政变被炒作得很成�
 
 ### 70: [2022-07-13 20:59:03+08:00 推文](https://twitter.com/HeQinglian/status/1547203957801598978)
 
-如今这世界，领导一个国家，只要奉行胡锦涛金句“不折腾”，或者少折腾，就能坐着赢。<br>中国的清零算是折腾，如今就是少折腾一下，与西方世界那大折腾相比，就出口增长了——这可以今年北京没预料到的，一直说出口因疫情，会在疫情好转时下降。<br><br>DW 中文- 德国之声: 中国海关总署发布的数据显示，6月份中国进出口同比增长14.3%；前6个月进出口同比增长9.4%。<br><br>海关总署新闻发言人李魁文在新闻发布会上表示，外贸企业复工复产有序推进，特别是长三角等地区进出口快速恢复，带动中国全国外贸整体增速明显回升。<br><br><img style="" src="https://pbs.twimg.com/media/FXiTt7ZXkAEoGsA?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+如今这世界，领导一个国家，只要奉行胡锦涛金句“不折腾”，或者少折腾，就能坐着赢。<br>中国的清零算是折腾，如今就是少折腾一下，与西方世界那大折腾相比，就出口增长了——这可以今年北京没预料到的，一直说出口因疫情，会在疫情好转时下降。
 
 ### 71: [2022-07-13 21:01:56+08:00 推文](https://twitter.com/HeQinglian/status/1547204680224317440)
 
@@ -349,7 +349,7 @@ Re @NAConservative9 希望各位对我这条推文留言补充，看看我遗漏
 
 ### 84: [2022-07-14 04:58:24+08:00 推文](https://twitter.com/HeQinglian/status/1547324590661242883)
 
-是否会有内战，我不知道。但此推所讲，全是事实。<br>一看到觉醒派们痛哭流涕讲述白人对黑人的罪恶与压迫，那比中国斗地主还过去一千公里。<br>控诉地主阶级的罪恶主要是土改积极分子（极少真正的贫下中农、多为流氓地痞），美国多是白左，尤其是女士。<br><br>北美保守评论🇺🇸🇨🇦: 《我们是否正面临着另一场内战？》<br><br>左派一直在为战争作准备：在军队中安插各种“觉醒派”人员，包括LGBTQ等，显然是削弱军队的战斗力，却是对付国内保守派的有效措施。近一、二十年来的“控枪”努力，也使百姓拥枪变得更加困难。多年对孩子的洗脑，使多数青年无常识地支持左派。<br><br><img style="" src="https://pbs.twimg.com/media/FXkYJ5pX0Acld05?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://nacr.info/WordPress/index.php/2022/07/13/are-we-looking-at-another-civil-war/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/07/13/are-we-looking-at-another-civil-war/</a>
+是否会有内战，我不知道。但此推所讲，全是事实。<br>一看到觉醒派们痛哭流涕讲述白人对黑人的罪恶与压迫，那比中国斗地主还过去一千公里。<br>控诉地主阶级的罪恶主要是土改积极分子（极少真正的贫下中农、多为流氓地痞），美国多是白左，尤其是女士。
 
 ### 85: [2022-07-14 05:04:42+08:00 推文](https://twitter.com/HeQinglian/status/1547326173239189505)
 
@@ -601,7 +601,7 @@ Re @JianglinLi @RealBeiMing @Wu_Zhi @david_david1968 @ngexp 在瑞典沦为强�
 
 ### 147: [2022-07-16 10:16:38+08:00 推文](https://twitter.com/HeQinglian/status/1548129452034363395)
 
-这是美国将向全世界推广的新人权。不信去美国政府网站上看，华拜粉如果不承认，我将那政府通告贴他们眼睛上。<br><br>龚小夏 Sasha Gong: 拜登政府两位高级官员在法国大使官邸参加法国国庆活动。左面为拜登任命的四星将军Rachel Levin （生来是男性，现为女性），右面为拜登能源部负责处理核废料的副部长Sam Britton （生为男性，现在还自认是男性，但爱着女装、涂口红）。<br><br><img style="" src="https://pbs.twimg.com/media/FXvKcRdVQAELBe_?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+这是美国将向全世界推广的新人权。不信去美国政府网站上看，华拜粉如果不承认，我将那政府通告贴他们眼睛上。
 
 ### 148: [2022-07-16 12:07:35+08:00 推文](https://twitter.com/cskun1989/status/1548157370458525697)
 

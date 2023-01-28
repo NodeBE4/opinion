@@ -143,6 +143,10 @@ Peter Perdue's *China Marches West* (2005) goes into this in more detail than I 
 
 When was the classic 'pith helmet' pattern of Foreign Service Helmet introduced in the British military? I'm aware of the older 'air-pipe' type being used in India, China, and East Africa from at least 1857 to 1868, but I don't know when the version without the raised vent spine was used. On a related note, was this style of helmet also worn by Royal Navy personnel, or just the Army?
 
+----- __1078.2__ -----2023-01-29 05:49:19+08:00:
+
+Jean Chesneaux's edited volume *Popular Movements and Secret Societies in China, 1840-1950* is a bit old, but it covers quite a lot of the late Qing secret societies and I think is worth a read. Dian Murray's *The Origins of the Tiandihui* is an in-depth look specifically at the Heaven and Earth Society, the antecedent to the Triads, which for the mid-nineteenth century was certainly one of the more influential entities. David Ownby's *Brotherhood and Secret Societies in Early and Mid-Qing China: The Formation of a Tradition* is one I haven't read but covers a slightly broader period. Ownby's edited volume with Mary Heidhues and others, *Secret Societies Reconsidered: Perspectives on the Social History of Early Modern China and Southeast Asia*, is probably one of the better modern works on the subject, but it does focus mainly on the Southeast Asian cases over the well-trodden grounds of Chinese societies.
+
 ### 1079: [Why do Napoleonics miniatures have fixed bayonets?](https://old.reddit.com/r/wargaming/comments/10lbv82/why_do_napoleonics_miniatures_have_fixed_bayonets/), submitted on 2023-01-26 06:33:40+08:00.
 
 ----- __1079.1__ -----2023-01-26 19:02:31+08:00:
