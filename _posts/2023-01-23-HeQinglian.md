@@ -305,7 +305,7 @@ Re @Lucs24659702 终于意识到选择性抽检，有违美国的司法公平。
 
 ### 73: [2023-01-27 02:07:18+08:00 推文](https://twitter.com/HeQinglian/status/1618671938653790209)
 
-数据说话：中-美欧经济脱钩并非现实<br>2022年西方舆论表达要与中国脱钩、以及猜测习近平想与美国脱钩成了主流。被视为“习近平信使”的刘鹤出席2023达沃斯年会，让与会者欢呼中国回归全球化。<br>本文用中国及美欧自身数据表明，中国脱离全球化现在终于回归，其实是个彻底的虚假命题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html</a>
+RT He Qinglian<br>数据说话：中-美欧经济脱钩并非现实<br>2022年西方舆论表达要与中国脱钩、以及猜测习近平想与美国脱钩成了主流。被视为“习近平信使”的刘鹤出席2023达沃斯年会，让与会者欢呼中国回归全球化。<br>本文用中国及美欧自身数据表明，中国脱离全球化现在终于回归，其实是个彻底的虚假命题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html</a>
 
 ### 74: [2023-01-27 02:36:25+08:00 推文](https://twitter.com/zhixiangziyou/status/1618679268707536896)
 
@@ -654,4 +654,8 @@ Re @parnyy @Nobody197575 因为鸡有产蛋旺季与淡季，每年冬天，鸡�
 ### 160: [2023-01-28 10:38:44+08:00 推文](https://twitter.com/HeQinglian/status/1619163031803670529)
 
 路易斯安那州参议员约翰·肯尼迪总结了拜登任总统两年送给美国人的礼物：<br>“我认为拜登总统是整个银河系中唯一相信我们国家正朝着正确方向前进的人。<br>看看事实：去年我们的经济增长了1%，累计通胀13.5% ；平均租金上涨了12%。30年期抵押贷款的平均价格从 3% 上涨到 6.5%，我们的平均工资下降了 4%。”
+
+### 161: [2023-01-28 22:38:57+08:00 推文](https://twitter.com/HeQinglian/status/1619344281038372864)
+
+Re @JianglinLi @Lucs24659702 近几年我已经悟出美左的逻辑：<br>凡黑皮肤人对他们的行为有所批评，这些人就不是黑人，或者是黑人的叛徒，比如索维尔、欧文斯。此逻辑应该也会用之于这些黑人逻辑。<br>白左得到的最高表扬是：皮肤虽然是白的，但他们的心（灵魂）是黑人的心（灵魂）。
 
