@@ -19,7 +19,7 @@ Author of Freedom, UK (https://t.co/2OFalKXJG1) and NA (https://t.co/mkF6N8U5d0)
 
 ### 1: [2021-11-29 18:52:30+08:00 推文](https://twitter.com/nathanlawkc/status/1465272453253505025)
 
-It's hypocritical to counter "anti-Asian hate" but defend China's human rights record. Millions of Uyghurs are suffering in concertion camps now. They can only get away from it by equating "criticizing China" to "advancing US imperialism." <br>I can't even explain how lame it is.<br><br>Fiona Edwards: The cold war warriors/lackeys of US imperialism are spreading fake news about yesterday's successful and peaceful ANTI-RACIST rally in London's Chinatown.<br><br>150 people attended. We heard from victims of racist violence & from leaders of the peace& anti-racist movements in Britain.<br><br><img style src="https://pbs.twimg.com/media/FFSrjNiXMAkQkXT?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/nathanlawkc/status/1464891227694850049" target="_blank" rel="noopener noreferrer">https://twitter.com/nathanlawkc/status/1464891227694850049</a>
+It's hypocritical to counter "anti-Asian hate" but defend China's human rights record. Millions of Uyghurs are suffering in concertion camps now. They can only get away from it by equating "criticizing China" to "advancing US imperialism." <br>I can't even explain how lame it is.<br><br>Fiona Edwards: The cold war warriors/lackeys of US imperialism are spreading fake news about yesterday's successful and peaceful ANTI-RACIST rally in London's Chinatown.<br><br>150 people attended. We heard from victims of racist violence & from leaders of the peace& anti-racist movements in Britain.<br><br><img style="" src="https://pbs.twimg.com/media/FFSrjNiXMAkQkXT?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/nathanlawkc/status/1464891227694850049" target="_blank" rel="noopener noreferrer">https://twitter.com/nathanlawkc/status/1464891227694850049</a>
 
 ### 2: [2021-11-29 22:58:15+08:00 推文](https://twitter.com/nathanlawkc/status/1465334296735105026)
 
@@ -39,9 +39,9 @@ Powerful statement.<br><br>wta: "With the full support of the WTA Board of Dir
 
 ### 6: [2021-12-02 18:53:23+08:00 推文](https://twitter.com/nathanlawkc/status/1466359838494056457)
 
-My deepest gratitude to @GretaThunberg for her hand-writing letter to my friend @joshuawongcf, who has been jailed for over a year. We still don’t know when activists like Joshua can leave jail.<br><br>“You are a big hero, we are with you always."<br><br>Thanks @daeseon_lee for his effort.<br><img style="" src="https://pbs.twimg.com/media/FFmNUDQX0AUSe-K?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FFmN7oVX0AI2uC-?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FFmN8TUWQAIKg9I?format=jpg&name=orig" referrerpolicy="no-referrer">
+My deepest gratitude to @GretaThunberg for her hand-writing letter to my friend @joshuawongcf, who has been jailed for over a year. We still don’t know when activists like Joshua can leave jail.<br><br>“You are a big hero, we are with you always."<br><br>Thanks @daeseon_lee for his effort.<br><img style src="https://pbs.twimg.com/media/FFmNUDQX0AUSe-K?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FFmN7oVX0AI2uC-?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FFmN8TUWQAIKg9I?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2021-12-04 19:58:43+08:00 推文](https://twitter.com/nathanlawkc/status/1467101052864454660)
 
-Is it a white paper or a rap paper<br>Or actually It’s a joke<br><br>Jeremy Goldkorn: Poetry is not dead.<br><br><img style="" src="https://pbs.twimg.com/media/FFutuVQXIAEwZfW?format=jpg&name=orig" referrerpolicy="no-referrer">
+Is it a white paper or a rap paper<br>Or actually It’s a joke<br><br>Jeremy Goldkorn: Poetry is not dead.<br><br><img style src="https://pbs.twimg.com/media/FFutuVQXIAEwZfW?format=jpg&name=orig" referrerpolicy="no-referrer">
 

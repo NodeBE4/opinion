@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-01-28
+date: 2023-01-29
 from: https://twitter.com/HeQinglian/status/1617192085089652736
 layout: post
 tags:
@@ -113,7 +113,7 @@ Re @JianglinLi 看美国的事情需要记忆力极好，往前记忆至少需�
 
 ### 25: [2023-01-24 06:04:32+08:00 推文](https://twitter.com/HeQinglian/status/1617644479233789959)
 
-关于控枪与反对控枪的争议，其实多想想就会明白其中道理。<br>反对控枪的多是红州，农业州。去过那里的人都知道，地广人稀很远没有邻居，一到晚上，每家就象旷野中的独居者，无论是对付野兽还是不期而至的抢劫者，枪是唯一可依靠的。<br>这些事情，城市人尤其是中国的城市人弄不明白。幸亏美国各州还有自治权<div class="rsshub-quote"><br><br>古川（Gu Chuan): 这样划分也不完全，滕彪不是号称维权律师吗？<br> <a href="https://twitter.com/baiyong1965/status/1617601666186117121" target="_blank" rel="noopener noreferrer">https://twitter.com/baiyong1965/status/1617601666186117121</a></div>
+关于控枪与反对控枪的争议，其实多想想就会明白其中道理。<br>反对控枪的多是红州，农业州。去过那里的人都知道，地广人稀很远没有邻居，一到晚上，每家就象旷野中的独居者，无论是对付野兽还是不期而至的抢劫者，枪是唯一可依靠的。<br>这些事情，城市人尤其是中国的城市人弄不明白。幸亏美国各州还有自治权<div class="rsshub-quote"><br><br>古川（Gu Chuan): 这样划分也不完全，滕彪不是号称维权律师吗？<br></div>
 
 ### 26: [2023-01-24 06:08:48+08:00 推文](https://twitter.com/HeQinglian/status/1617645552619114496)
 
@@ -305,7 +305,7 @@ Re @Lucs24659702 终于意识到选择性抽检，有违美国的司法公平。
 
 ### 73: [2023-01-27 02:07:18+08:00 推文](https://twitter.com/HeQinglian/status/1618671938653790209)
 
-数据说话：中-美欧经济脱钩并非现实<br>2022年西方舆论表达要与中国脱钩、以及猜测习近平想与美国脱钩成了主流。被视为“习近平信使”的刘鹤出席2023达沃斯年会，让与会者欢呼中国回归全球化。<br>本文用中国及美欧自身数据表明，中国脱离全球化现在终于回归，其实是个彻底的虚假命题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html</a>
+RT He Qinglian<br>数据说话：中-美欧经济脱钩并非现实<br>2022年西方舆论表达要与中国脱钩、以及猜测习近平想与美国脱钩成了主流。被视为“习近平信使”的刘鹤出席2023达沃斯年会，让与会者欢呼中国回归全球化。<br>本文用中国及美欧自身数据表明，中国脱离全球化现在终于回归，其实是个彻底的虚假命题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html</a>
 
 ### 74: [2023-01-27 02:36:25+08:00 推文](https://twitter.com/zhixiangziyou/status/1618679268707536896)
 
@@ -529,7 +529,7 @@ Re @liuximing2022 @zhengchu 假定拜登政府再干一任，民主党接着再�
 
 ### 129: [2023-01-27 23:03:59+08:00 推文](https://twitter.com/HeQinglian/status/1618988194275692549)
 
-昨天我这篇《数据说话：中-美欧经济脱钩并非现实》<br>引来了解滨先生的这条诛心的指责。花了一下午时间与他讨论，这是推上普遍情况，相关讨论推文见三处，集中的在这一处。<br>希望年轻推友们从中领悟一些东西，路还长，认识世界是改造世界并建设的第一步。蒙着眼睛是走不下去的。 <a href="https://rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html" target="_blank" rel="noopener noreferrer">https://rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html</a> <a href="https://twitter.com/bxieus/status/1618715162609070081" target="_blank" rel="noopener noreferrer">https://twitter.com/bxieus/status/1618715162609070081</a>
+昨天我这篇《数据说话：中-美欧经济脱钩并非现实》<br>引来了解滨先生的这条诛心的指责。花了一下午时间与他讨论，这是推上普遍情况，相关讨论推文见三处，集中的在这一处。<br>希望年轻推友们从中领悟一些东西，路还长，认识世界是改造世界并建设的第一步。蒙着眼睛是走不下去的。<div class="rsshub-quote"><br><br>Bin Xie （解滨）#TheGreatTranslationMovement: @HeQinglian 你为社么现在要拐弯抹角地为中共说话？你难道不知道中国是多么恶毒的一个国家中共是一个多么阴险的团体？ 不脱钩，难道自由世界还要继续被中国毒害？我知道脱钩是一步险棋而且后果确实很严重，但谁远意和毒蛇住在一个村里？<br></div>
 
 ### 130: [2023-01-27 23:08:13+08:00 推文](https://twitter.com/HeQinglian/status/1618989257519144960)
 
@@ -655,7 +655,51 @@ Re @parnyy @Nobody197575 因为鸡有产蛋旺季与淡季，每年冬天，鸡�
 
 路易斯安那州参议员约翰·肯尼迪总结了拜登任总统两年送给美国人的礼物：<br>“我认为拜登总统是整个银河系中唯一相信我们国家正朝着正确方向前进的人。<br>看看事实：去年我们的经济增长了1%，累计通胀13.5% ；平均租金上涨了12%。30年期抵押贷款的平均价格从 3% 上涨到 6.5%，我们的平均工资下降了 4%。”
 
-### 161: [2023-01-28 22:38:57+08:00 推文](https://twitter.com/HeQinglian/status/1619344281038372864)
+### 161: [2023-01-28 17:35:20+08:00 推文](https://twitter.com/FightForJiuCai/status/1619267873419198464)
+
+RT 正念先生-东欧视角🇺🇦🙏🕊<br>乌克兰人对腐败的政客们愤怒到极点<br>“我们国家在战争中，尤利娅·季莫申科却在杜拜度假，提先科在泰国玩水，看到你们这样，哪个国家还会捐款帮助我们！？”<br><video src="https://video.twimg.com/ext_tw_video/1619267752979582976/pu/vid/720x1280/2CB4DGqEdoUOCad6.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1619267752979582976/pu/img/7ZZ1j1hArXCT8qUi.jpg"></video>
+
+### 162: [2023-01-28 22:38:57+08:00 推文](https://twitter.com/HeQinglian/status/1619344281038372864)
 
 Re @JianglinLi @Lucs24659702 近几年我已经悟出美左的逻辑：<br>凡黑皮肤人对他们的行为有所批评，这些人就不是黑人，或者是黑人的叛徒，比如索维尔、欧文斯。此逻辑应该也会用之于这些黑人逻辑。<br>白左得到的最高表扬是：皮肤虽然是白的，但他们的心（灵魂）是黑人的心（灵魂）。
+
+### 163: [2023-01-28 22:41:59+08:00 推文](https://twitter.com/HeQinglian/status/1619345045777432576)
+
+Re @Lucs24659702 纽约市当局终于清醒一点了，没去给BLM下跪，表演“我不能呼吸”？
+
+### 164: [2023-01-28 22:45:19+08:00 推文](https://twitter.com/HeQinglian/status/1619345885632266240)
+
+Re @JianglinLi @Lucs24659702 应该是地下气象员的传人。
+
+### 165: [2023-01-28 22:51:25+08:00 推文](https://twitter.com/HeQinglian/status/1619347417668763649)
+
+Re @Susanchan521 @david_david1968 有次我说了实际情况不如理想，台湾实际上是半拒，有位港灿（请原谅我这样称呼这位头大症患者）在我这里闹了半天，说香港人不比大陆人，全世界哪里都欢迎，想去哪就能去哪里。虽然我知道实情必不如此，但还是希望他愿望成真。
+
+### 166: [2023-01-28 23:03:07+08:00 推文](https://twitter.com/HeQinglian/status/1619350363173437441)
+
+美众议院四名共和党议员在致拜登和防长的信中要求解释向乌克兰提供艾布拉姆斯坦克的决定。重点是担心腐败，并对“以美国纳税人的利益为代价不断升级冲突”这一事实表示不满。<br><br>为何全世界都喜欢美国民主党当选？他们考虑全世界所有国家（人民）的利益，独独忘记了美国纳税人。 <a href="https://dailycaller.com/2023/01/27/troy-nehls-house-republicans-demand-answers-joe-biden-decision-send-us-tanks-to-ukraine/" target="_blank" rel="noopener noreferrer">https://dailycaller.com/2023/01/27/troy-nehls-house-republicans-demand-answers-joe-biden-decision-send-us-tanks-to-ukraine/</a>
+
+### 167: [2023-01-28 23:04:06+08:00 推文](https://twitter.com/HeQinglian/status/1619350612331880448)
+
+Re @JianglinLi @fading_you1 看看人家的项目一个接一个成立，就明白了，因为他们也被纳入“伟大的社会变革运动”当中。
+
+### 168: [2023-01-28 23:06:42+08:00 推文](https://twitter.com/HeQinglian/status/1619351266609762304)
+
+Re @JianglinLi @fading_you1 不为这，人家跟着指鹿为马为哪般？
+
+### 169: [2023-01-28 23:10:52+08:00 推文](https://twitter.com/HeQinglian/status/1619352314850185219)
+
+Re @FightForJiuCai 美国拜登政府会继续，因为阿富汗帐本显示，援助阿富汗的巨额资金，大半被美国各种机构包括NGO分帐。
+
+### 170: [2023-01-28 23:15:46+08:00 推文](https://twitter.com/HeQinglian/status/1619353548344676354)
+
+Re @wapww 纠正一下，“行百里者半九十”，重点在“行”，不是空想、坚持表达自己缺乏事实支撑的认知。<br>想清楚这点，再做表达。
+
+### 171: [2023-01-28 23:30:25+08:00 推文](https://twitter.com/shenliangqing2/status/1619357233690853377)
+
+RT 沈良庆二世<br>#禁枪与谋杀率关系：美国谋杀率全球第三；去掉图中五个严格控枪的民主党人控制城市，美国在全球193个国家谋杀率排名仅为第189位。说明民主党及其拥趸要求废除 #宪法第二修正案 赋予美国人民的持枪权与治安无关，目的是弱民，剥夺人民持枪反抗暴政和暴徒的革命权和正当防卫权。<div class="rsshub-quote"><br><br>Tony: 美國的謀殺率位居世界第三，但是如果移除： <br>1. 芝加哥 <br>2. 底特律 <br>3. 華盛頓特區 <br>4. 聖路易士 <br>5. 費城 <br>美國在全球193個國家中就排名在第189位。<br>這五個城市都有”嚴格”的槍支管制法律，並且都由民主黨人控制<br>這說明什麼？法律的限制永遠不是解決問題的方法！<br><br><img style="" src="https://pbs.twimg.com/media/FniRyFUaMAAIW_n?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 172: [2023-01-29 00:10:28+08:00 推文](https://twitter.com/HeQinglian/status/1619367313479970816)
+
+Re @JianglinLi @Lucs24659702 有部美国电影，一白富家女参加恐怖组织，从事恐怖活动被抓（炸死几个人，包括儿童），关在单人牢房里，没窗户。给其父亲写信，要求活动出一间有窗户的单人牢房，说没有窗户，极不人道。<br>电影里安排她毕业于普林斯顿大学。
 
