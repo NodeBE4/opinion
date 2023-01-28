@@ -113,7 +113,7 @@ Re @JianglinLi 看美国的事情需要记忆力极好，往前记忆至少需�
 
 ### 25: [2023-01-24 06:04:32+08:00 推文](https://twitter.com/HeQinglian/status/1617644479233789959)
 
-关于控枪与反对控枪的争议，其实多想想就会明白其中道理。<br>反对控枪的多是红州，农业州。去过那里的人都知道，地广人稀很远没有邻居，一到晚上，每家就象旷野中的独居者，无论是对付野兽还是不期而至的抢劫者，枪是唯一可依靠的。<br>这些事情，城市人尤其是中国的城市人弄不明白。幸亏美国各州还有自治权<div class="rsshub-quote"><br><br>古川（Gu Chuan): 这样划分也不完全，滕彪不是号称维权律师吗？<br> <a href="https://twitter.com/baiyong1965/status/1617601666186117121" target="_blank" rel="noopener noreferrer">https://twitter.com/baiyong1965/status/1617601666186117121</a></div>
+关于控枪与反对控枪的争议，其实多想想就会明白其中道理。<br>反对控枪的多是红州，农业州。去过那里的人都知道，地广人稀很远没有邻居，一到晚上，每家就象旷野中的独居者，无论是对付野兽还是不期而至的抢劫者，枪是唯一可依靠的。<br>这些事情，城市人尤其是中国的城市人弄不明白。幸亏美国各州还有自治权<div class="rsshub-quote"><br><br>古川（Gu Chuan): 这样划分也不完全，滕彪不是号称维权律师吗？<br></div>
 
 ### 26: [2023-01-24 06:08:48+08:00 推文](https://twitter.com/HeQinglian/status/1617645552619114496)
 
@@ -305,7 +305,7 @@ Re @Lucs24659702 终于意识到选择性抽检，有违美国的司法公平。
 
 ### 73: [2023-01-27 02:07:18+08:00 推文](https://twitter.com/HeQinglian/status/1618671938653790209)
 
-数据说话：中-美欧经济脱钩并非现实<br>2022年西方舆论表达要与中国脱钩、以及猜测习近平想与美国脱钩成了主流。被视为“习近平信使”的刘鹤出席2023达沃斯年会，让与会者欢呼中国回归全球化。<br>本文用中国及美欧自身数据表明，中国脱离全球化现在终于回归，其实是个彻底的虚假命题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html</a>
+RT He Qinglian<br>数据说话：中-美欧经济脱钩并非现实<br>2022年西方舆论表达要与中国脱钩、以及猜测习近平想与美国脱钩成了主流。被视为“习近平信使”的刘鹤出席2023达沃斯年会，让与会者欢呼中国回归全球化。<br>本文用中国及美欧自身数据表明，中国脱离全球化现在终于回归，其实是个彻底的虚假命题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html</a>
 
 ### 74: [2023-01-27 02:36:25+08:00 推文](https://twitter.com/zhixiangziyou/status/1618679268707536896)
 
@@ -730,4 +730,16 @@ Re @JianglinLi 我觉得民主党当政，肯定是长期战争，每年1000亿�
 ### 179: [2023-01-29 05:11:43+08:00 推文](https://twitter.com/HeQinglian/status/1619443123792523264)
 
 Re @princeton_walk @guchuan81 CRT教育与宣传打造出来的这块“制度性种族主义”（或曰总体性种族歧视）带小铁钉的橡皮泥大饼，迟早会让美国严重消化不良，产生各种疾病。
+
+### 180: [2023-01-29 06:08:16+08:00 推文](https://twitter.com/HeQinglian/status/1619457357402210304)
+
+据说这是耶伦2月访华与中国商谈的重点之一——日经新闻如此分析。<br>考虑到美国的新非洲战略，可能会是重点；<br>考虑到美国想缓解对华关系，这招有点莫名其妙，中国早就放话了，非洲方面，欢迎美国竞争，中国自有方略。这人情卖给美国，中国肯定觉得不划算。<div class="rsshub-quote"><br><br>华尔街日报中文网: #本周热读 美国财政部长耶伦呼吁中国减免赞比亚的债务。赞比亚两年来在重组174.9亿美元外币贷款和债券方面陷入困境，已成为其他发展中国家的警示案例。赞比亚约三分之一的外债是欠中国贷款机构的。<br> <a href="https://on.wsj.com/3iX9cI7" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3iX9cI7</a></div>
+
+### 181: [2023-01-29 06:13:56+08:00 推文](https://twitter.com/HeQinglian/status/1619458781821435904)
+
+Re @farmdirect8 这照片，实在不象是女士，莫非又是Trans？或者是自我心理识别为女的男士？
+
+### 182: [2023-01-29 07:22:08+08:00 推文](https://twitter.com/HeQinglian/status/1619475944296812544)
+
+Re @PekingGodFather 与对美乌共享信息战的态度一样，兼听。<br>你尽管只听美乌共享信息战的新闻，基辅幽灵正在乌克兰上空盘旋，一天击落俄机（现在可能是俄坦克）两位数以上。
 

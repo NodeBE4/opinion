@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2023-01-27
+date: 2023-01-28
 from: https://old.reddit.com/r/Deplatformed_/comments/10jgtob/last_week_steven_crowder_and_jeremy_boreing_gave/
 layout: post
 tags:
@@ -152,4 +152,12 @@ But the problem is that the people who make decisions about how to detect "plagi
 Just because you have a piece of alleged technology that says it does something, doesn't mean that technology actually does the thing it says it does.  
 
 TurnItIn is to plagiarism what [patent medicines](https://en.wikipedia.org/wiki/Patent_medicine) are to health maladies.
+
+### 454: [Finacial aid suspension](https://old.reddit.com/r/college/comments/10nant0/finacial_aid_suspension/), submitted on 2023-01-28 17:00:56+08:00.
+
+----- __454.1__ -----2023-01-29 07:22:07+08:00:
+
+Communicate to them that withdrawing financial aid will result in financial hardship that, in all reality, may result in your dropping out of school.
+
+That being said, I think you should withdraw and transfer to another school.
 
