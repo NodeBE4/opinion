@@ -193,7 +193,7 @@ RT Judicial Watch ⚖️<br>NEW: Hillary did it. And the FBI helped. READ MORE
 
 ### 45: [2022-06-09 04:24:59+08:00 推文](https://twitter.com/HeQinglian/status/1534632602145005568)
 
-撤出的公司当中，比较重要的是美国苹果公司计划将iPad组件的生产从中国工厂转移到越南的决定。其余的互联网公司，比如电子书商等服务性行业，在中国本来就没多少业务好开展。<br>我相信俄乌战争后，中国会将脱离美国高科技公司包括金融业务当作一个发展方向。闭关锁国不会，但“独立自主”有了足够的理由。<br><br>美国之音中文网: 美企陆续撤离中国市场 分析：还会有更多企业离开<br> <a href="http://dlvr.it/SRmzbp" target="_blank" rel="noopener noreferrer">http://dlvr.it/SRmzbp</a>
+撤出的公司当中，比较重要的是美国苹果公司计划将iPad组件的生产从中国工厂转移到越南的决定。其余的互联网公司，比如电子书商等服务性行业，在中国本来就没多少业务好开展。<br>我相信俄乌战争后，中国会将脱离美国高科技公司包括金融业务当作一个发展方向。闭关锁国不会，但“独立自主”有了足够的理由。
 
 ### 46: [2022-06-09 04:38:59+08:00 推文](https://twitter.com/HeQinglian/status/1534636126018981891)
 
@@ -261,11 +261,11 @@ Re @Greatorentalman 实话实说，中国专家研究美国，比美国专家研
 
 ### 62: [2022-06-10 01:52:26+08:00 推文](https://twitter.com/HeQinglian/status/1534956600322031618)
 
-“应该”的事情太多了，可惜世上没有后悔药。<br><br>DW 中文- 德国之声: "我们应将俄罗斯人至少逼退到2月23日之前的边界，而克里米亚和其它被俄罗斯人占领了8年的领土的命运应经由政治外交途径解决。"<br> <a href="https://p.dw.com/p/4CTPd" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4CTPd</a>
+“应该”的事情太多了，可惜世上没有后悔药。
 
 ### 63: [2022-06-10 03:29:24+08:00 推文](https://twitter.com/HeQinglian/status/1534981005504921601)
 
-日本地缘政治的敌人主要是中国，用北约对付中国，隔山打牛。如果是想要美国支持，美日同盟即可。<br>不大知道日本出于什么想法。实在想要同盟，四方会谈军事化就可以，大不了是印度不干，美澳日三国还是可以的。<br><br>RFI 华语 - 法国国际广播电台: 日本加入北约的可能性有多大？<br> <a href="https://rfi.my/8U63.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8U63.T</a>
+日本地缘政治的敌人主要是中国，用北约对付中国，隔山打牛。如果是想要美国支持，美日同盟即可。<br>不大知道日本出于什么想法。实在想要同盟，四方会谈军事化就可以，大不了是印度不干，美澳日三国还是可以的。
 
 ### 64: [2022-06-10 03:31:56+08:00 推文](https://twitter.com/HeQinglian/status/1534981639587110912)
 
@@ -277,7 +277,7 @@ Re @Swanlake1979 同出复旦，未见过面。我去复旦时，他已进京。
 
 ### 66: [2022-06-10 03:36:06+08:00 推文](https://twitter.com/HeQinglian/status/1534982690583216129)
 
-有钱好，有钱就能成为全知全能。<br><br>William Long: 全球首富埃隆∙马斯克（Elon Musk）星期一（6月6日）在推特上说，“绝大多数人仍以为中国实施一胎化政策。尽管已经实施三胎化政策，中国去年的出生率居然出现新低！以目前的出生率，中国每一代人都将减少大约40%的人口！人口崩溃！”<br>
+有钱好，有钱就能成为全知全能。
 
 ### 67: [2022-06-10 03:37:43+08:00 推文](https://twitter.com/HeQinglian/status/1534983098105987072)
 
@@ -341,7 +341,7 @@ Re @suwoluofu123 @JiangShangrong 挺麻烦的，干脆逢俄必裁，连果戈�
 
 ### 82: [2022-06-10 22:58:21+08:00 推文](https://twitter.com/HeQinglian/status/1535275179059863555)
 
-这个视频挺传神地表明了西方人富、闲兼备，无聊之极，想方设法找难受的社会倾向：蚂蚁不来咬，想方设法让蚂蚁上身。
+这个视频挺传神地表明了西方人富、闲兼备，无聊之极，想方设法找难受的社会倾向：蚂蚁不来咬，想方设法让蚂蚁上身。<br><br>Unitiger Life: 💥🦟Just plug it in and start enjoying your backyard! Keep mosquitoes and flies away from your family!😎<br><br>Get yours👉<br><br><video src="https://video.twimg.com/amplify_video/1522144356282793985/vid/640x640/Ali9h5W-AoLl9l31.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1522144356282793985/img/Sb4grEYNyfOPmpfA.jpg"></video> <a href="http://www.unitiger.co/E2546" target="_blank" rel="noopener noreferrer">http://www.unitiger.co/E2546</a>
 
 ### 83: [2022-06-10 23:00:14+08:00 推文](https://twitter.com/HeQinglian/status/1535275651984510976)
 
