@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2023-01-28
+date: 2023-01-29
 from: https://twitter.com/realcaixia/status/1617222036350472197
 layout: post
 tags:
@@ -86,4 +86,8 @@ Re 习能如此暴政，首先是依赖一套暴政制度，这就是毛说他�
 ### 18: [2023-01-28 01:40:34+08:00 推文](https://twitter.com/realcaixia/status/1619027601670160384)
 
 Re @KathyHu56423186 @whyyoutouzhele 说得好！我以前就是这样的愚蠢无知，直到2009年于建嵘引导我翻出了体制高墙与体制外人接触……。
+
+### 19: [2023-01-29 02:07:14+08:00 推文](https://twitter.com/realcaixia/status/1619396699323076608)
+
+特别推荐：#议报发布王维洛文章：中国人重回东方病夫、癌症、水污染………。<br>中共政府在改革开放的几十年里GDP指标为首位考核官员政绩，对中国资源进行掠夺式开发利用，整个国家几乎没有成了巨大的污染场空气污染、水污染、土壤污染，已经显示恶劣后果。<div class="rsshub-quote"><br><br>《议报》: 王维洛 | 中国人重回东方病夫、癌症、水污染与自来水达标<br> <a href="https://yibaochina.com/?p=249201" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=249201</a></div>
 
