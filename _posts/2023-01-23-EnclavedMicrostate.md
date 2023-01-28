@@ -176,3 +176,11 @@ I'm simply very doubtful of the claim that you didn't aim to hit – simply *try
 
 This submission has been removed because it is [soapboxing](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.) or [moralizing:](https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/) it has the effect of promoting an opinion on contemporary politics or social issues at the expense of historical integrity. There are certainly historical topics that relate to contemporary issues and it is possible for legitimate interpretations that differ from each other to come out of looking at the past through different political lenses. However, we will remove questions that put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.
 
+### 1081: [Why were the Japanese so willing to adopt Western music/fashion/culture during the Meiji period?](https://old.reddit.com/r/AskHistorians/comments/10mnrz9/why_were_the_japanese_so_willing_to_adopt_western/), submitted on 2023-01-27 23:36:39+08:00.
+
+----- __1081.1__ -----2023-01-28 07:39:35+08:00:
+
+Thank you for your response. Unfortunately, we have had to remove it due to violations of [subreddit’s rules about answers needing to reflect current scholarship](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_answers). While we appreciate the effort you have put into this comment, there are nevertheless significant errors, misunderstandings, or omissions of the topic at hand [which necessitated its removal](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/). 
+ 
+We understand this can be discouraging, but we would also encourage you to consult [this Rules Roundtable to better understand how the mod team evaluates answers on the sub](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/). If you are interested in feedback on improving future contributions, please feel free to [reach out to us via modmail](https://www.reddit.com/message/compose?to=%2Fr%2FAskHistorians&subject=Inquiry%20About%20Improving%20Future%20Responses). Thank you for your understanding.
+

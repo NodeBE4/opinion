@@ -305,7 +305,7 @@ Re @Lucs24659702 终于意识到选择性抽检，有违美国的司法公平。
 
 ### 73: [2023-01-27 02:07:18+08:00 推文](https://twitter.com/HeQinglian/status/1618671938653790209)
 
-数据说话：中-美欧经济脱钩并非现实<br>2022年西方舆论表达要与中国脱钩、以及猜测习近平想与美国脱钩成了主流。被视为“习近平信使”的刘鹤出席2023达沃斯年会，让与会者欢呼中国回归全球化。<br>本文用中国及美欧自身数据表明，中国脱离全球化现在终于回归，其实是个彻底的虚假命题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html</a>
+RT He Qinglian<br>数据说话：中-美欧经济脱钩并非现实<br>2022年西方舆论表达要与中国脱钩、以及猜测习近平想与美国脱钩成了主流。被视为“习近平信使”的刘鹤出席2023达沃斯年会，让与会者欢呼中国回归全球化。<br>本文用中国及美欧自身数据表明，中国脱离全球化现在终于回归，其实是个彻底的虚假命题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html</a>
 
 ### 74: [2023-01-27 02:36:25+08:00 推文](https://twitter.com/zhixiangziyou/status/1618679268707536896)
 
@@ -529,7 +529,7 @@ Re @liuximing2022 @zhengchu 假定拜登政府再干一任，民主党接着再�
 
 ### 129: [2023-01-27 23:03:59+08:00 推文](https://twitter.com/HeQinglian/status/1618988194275692549)
 
-昨天我这篇《数据说话：中-美欧经济脱钩并非现实》<br>引来了解滨先生的这条诛心的指责。花了一下午时间与他讨论，这是推上普遍情况，相关讨论推文见三处，集中的在这一处。<br>希望年轻推友们从中领悟一些东西，路还长，认识世界是改造世界并建设的第一步。蒙着眼睛是走不下去的。 <a href="https://rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html" target="_blank" rel="noopener noreferrer">https://rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html</a>
+昨天我这篇《数据说话：中-美欧经济脱钩并非现实》<br>引来了解滨先生的这条诛心的指责。花了一下午时间与他讨论，这是推上普遍情况，相关讨论推文见三处，集中的在这一处。<br>希望年轻推友们从中领悟一些东西，路还长，认识世界是改造世界并建设的第一步。蒙着眼睛是走不下去的。 <a href="https://rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html" target="_blank" rel="noopener noreferrer">https://rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html</a> <a href="https://twitter.com/bxieus/status/1618715162609070081" target="_blank" rel="noopener noreferrer">https://twitter.com/bxieus/status/1618715162609070081</a>
 
 ### 130: [2023-01-27 23:08:13+08:00 推文](https://twitter.com/HeQinglian/status/1618989257519144960)
 
@@ -559,23 +559,87 @@ Re @FightForJiuCai 这些市长们应该想到一个现实中的悖论：<br>战
 
 Re @P9Wb1kMpj484jEW 这礼仪很重要，是以成人标准来要求人的礼仪，自此之后，男女青年都得为成为合格的社会成员而努力。<br>中国古代至明清，士族及诗礼之家（包括大家族）都为跨入成年的青年男女举行这一仪式，男称冠礼，十八而冠（各朝代有不同），女为笄礼，年十五。<br>如今巨婴太多，就因心态如孩子。
 
-### 137: [2023-01-28 00:45:23+08:00 推文](https://twitter.com/HeQinglian/status/1619013713838899201)
+### 137: [2023-01-28 00:28:54+08:00 推文](https://twitter.com/FightForJiuCai/status/1619009564472639488)
+
+RT 正念先生-东欧视角🇺🇦🙏🕊<br>Re @HeQinglian 30多个乌克兰各地市长都来支持切尔尼戈夫市长<br>整个政治生态，不是美国想怎么样就怎么样的<br>本国人的意志力很重要<br><img style="" src="https://pbs.twimg.com/media/FnfgnQ9WAAEhzbL?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FnfgnRgacAA6rcJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 138: [2023-01-28 00:45:23+08:00 推文](https://twitter.com/HeQinglian/status/1619013713838899201)
 
 Re @FightForJiuCai 希望多点及时信息，让我们了解真正的乌克兰国内局势。<br>如今我已经不看信息战产品了。<br>乌克兰男子的牺牲，应该算惨重了。希望尽快止损。我从一开始就明确反对华盛顿希望乌克兰与普京战至最后一个乌克兰人。
 
-### 138: [2023-01-28 00:53:44+08:00 推文](https://twitter.com/HeQinglian/status/1619015812551147520)
+### 139: [2023-01-28 00:53:44+08:00 推文](https://twitter.com/HeQinglian/status/1619015812551147520)
 
 Re @FightForJiuCai 平心而论，有个过程。最开始，他是真的留有余地。因为毕竟不是蒙古成吉思汗那种时代。<br>这变化是在泽第一次大反攻，声称几天之内收复了七万多平公，并且有报复行为之后。<br>我想你也很清楚，讲事实很困难。估计这条推后，我又得拉黑数位。
 
-### 139: [2023-01-28 02:00:45+08:00 推文](https://twitter.com/HeQinglian/status/1619032678606737408)
+### 140: [2023-01-28 02:00:45+08:00 推文](https://twitter.com/HeQinglian/status/1619032678606737408)
 
 Re @JianglinLi 没用的。<br>美国左派认为，这是正常的性生活，是个人自由，需要尊重与保护。<br>民运战士认为，只要佩洛西支持我们，看在她光辉的反共历史上，这点小事不须计较，更何况这是她丈夫，不是她本人。<br>什么人支持什么人。
 
-### 140: [2023-01-28 02:04:39+08:00 推文](https://twitter.com/HeQinglian/status/1619033660551987206)
+### 141: [2023-01-28 02:04:39+08:00 推文](https://twitter.com/HeQinglian/status/1619033660551987206)
 
 Re @sncm439 布林肯说，美国政府管不了国会（上次南希访台就是这样说），我们一个中国的政策没有变。<br>中国政府一边抗议，一边接待。<br>戏台搭好了，总得有演员，也得演下去。
 
-### 141: [2023-01-28 02:06:02+08:00 推文](https://twitter.com/HeQinglian/status/1619034006972162048)
+### 142: [2023-01-28 02:06:02+08:00 推文](https://twitter.com/HeQinglian/status/1619034006972162048)
 
 这都是被憋得“反弹性”旅游。<div class="rsshub-quote"><br><br>华尔街日报中文网: 中国政府结束动态清零防疫政策以来的首个公共长假过半时，国内旅游热门景点被人潮淹没，出境游预订量增多，影院人气火爆。这与以往防疫措施限制民众出行并重创消费者信心的情况形成鲜明对比。<br> <a href="https://on.wsj.com/3RaEIPq" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3RaEIPq</a></div>
+
+### 143: [2023-01-28 05:30:15+08:00 推文](https://twitter.com/HeQinglian/status/1619085403289694209)
+
+Re @Vince6610 @JianglinLi 这个视频显示，匪徒是这个家的特殊客人。
+
+### 144: [2023-01-28 05:33:28+08:00 推文](https://twitter.com/HeQinglian/status/1619086210084765696)
+
+Re @ZResearcher001 坐等欧洲各国相继宣布参战。😅<br>英国率先表态，德国紧跟。
+
+### 145: [2023-01-28 05:34:51+08:00 推文](https://twitter.com/HeQinglian/status/1619086559961092096)
+
+Re @Nobody197575 不管真不真，鸡蛋已经涨到8美元多一盒了。
+
+### 146: [2023-01-28 05:41:07+08:00 推文](https://twitter.com/HeQinglian/status/1619088137506144256)
+
+Re @Lucs24659702 这意思是，每隔一两年放一两种病毒出来？
+
+### 147: [2023-01-28 05:46:20+08:00 推文](https://twitter.com/HeQinglian/status/1619089448951549952)
+
+Re @david_david1968 这事儿，让我想起一位推友当年对我说的：“揽炒香港，我就不信香港有人仆街，国际社会坐视不管”。<br>香港确被揽炒了一遍，仆街没见（听说有很多失踪、河中浮尸，算仆街的同义），国际社会倒也算管了，欢迎香港人避难。
+
+### 148: [2023-01-28 05:48:21+08:00 推文](https://twitter.com/HeQinglian/status/1619089958119292929)
+
+Re @Jenny67470141 @Lucs24659702 基本如此。只是中文推的多数仍然将美国视为灯塔，正照耀着人类。
+
+### 149: [2023-01-28 06:06:32+08:00 推文](https://twitter.com/HeQinglian/status/1619094530774515719)
+
+Re @david_david1968 自己都分不清，昨天还有人声称一辈子反华，反吧。人是文化的沉淀，看这些人如何拔着自己的头发升天。
+
+### 150: [2023-01-28 06:39:57+08:00 推文](https://twitter.com/HeQinglian/status/1619102943290216449)
+
+Re @Jenny67470141 @FightForJiuCai 请记住曹刿论战。判断目前进入二鼓还是三鼓就行。拜登今天不是说三战开始了么？<br>这一战其实是人类命运之战。美乌赢，大重置开始；俄罗斯赢，客观会导致世界多极化。大重置就在美欧这些国家里面自个折腾。<br>你看东欧正念先生，了解乌克兰国内局势；看战争局势，姜尚荣电报、Z字号推，其余情绪推可免。
+
+### 151: [2023-01-28 06:45:07+08:00 推文](https://twitter.com/HeQinglian/status/1619104240294821888)
+
+Re @Jenny67470141 @Lucs24659702 比中国文革后恢复难得多。人不一样，中国文革爱好者占人口20%不到，特别是知识阶层憎恨文革；美国文革爱好者占人口45%，教育、媒体从业者、NGO均在其内。
+
+### 152: [2023-01-28 06:57:34+08:00 推文](https://twitter.com/HeQinglian/status/1619107377218998272)
+
+Re @FightForJiuCai @Jenny67470141 人家美国总统说了三战开始，地球怎能不听话？德国不也有位蠢货外长跟着宣布了么？<br>乌克兰的未来在泽连斯基的嘴巴上，在美乌共享信息战的信息中（现在不知美国还花钱打信息战不）；<br>土耳其与中国不接壤，新疆问题的火哪怕熊熊燃烧，也是口水仗为多。中国如果不是出于一带一路考虑，应付起来简单一些。
+
+### 153: [2023-01-28 08:41:25+08:00 推文](https://twitter.com/HeQinglian/status/1619133508500459522)
+
+VOA：【台湾中央研究院最新民调显示，近六成的台湾人一方面质疑美国的“安全承诺”，另一方面又高度期待美国的军售和协防。<br>部分观察人士表示，此充满矛盾的民调显示，在中国的认知作战和操弄下，台湾的“疑美论”抬头，若不正视，任其发酵，恐将损及台海稳定和美国的利益。】 <a href="https://www.voachinese.com/a/polls-show-that-56-6-of-taiwanese-find-the-u-s-untrustworthy-20230126/6934924.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/polls-show-that-56-6-of-taiwanese-find-the-u-s-untrustworthy-20230126/6934924.html</a>
+
+### 154: [2023-01-28 08:48:50+08:00 推文](https://twitter.com/HeQinglian/status/1619135378107285504)
+
+Re @Jenny67470141 @FightForJiuCai 一种姿态，大选热身。通俄门是折腾不出啥来了，拜登的通乌门要被揭发。
+
+### 155: [2023-01-28 08:55:56+08:00 推文](https://twitter.com/HeQinglian/status/1619137165182787585)
+
+Re @parnyy @Nobody197575 假如这样，三个月之后，我们能吃上鸡蛋就很有幸福感了。
+
+### 156: [2023-01-28 09:00:52+08:00 推文](https://twitter.com/HeQinglian/status/1619138405715304449)
+
+Re @worldpeople2019 😅😅😅<br>当初基辅幽灵一天击落俄机数架直至十几架的消息出来后，台湾有人说了，要学习美乌共享信息战，与中共打认知战。<br>大半年过去，结果出来了，此文好象是说中共在认知仗上赢了——如果我没理解错<br>但怨中共，十二分政治正确，立场200%站稳——很难驳斥，一驳马上有人抄几顶共特、大外宣、五毛帽子送上。
+
+### 157: [2023-01-28 09:07:15+08:00 推文](https://twitter.com/HeQinglian/status/1619140013249429505)
+
+Re @Lucs24659702 不动手烧毁，他就是老鼠。<br>纽约有几个他们集中的区，确实配得上这待遇。
 
