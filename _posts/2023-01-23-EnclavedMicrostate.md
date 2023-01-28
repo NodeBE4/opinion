@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-01-27
+date: 2023-01-28
 from: https://old.reddit.com/r/AskHistorians/comments/10iunfq/what_pop_history_book_has_done_the_most_damage_to/
 layout: post
 tags:
@@ -183,4 +183,14 @@ This submission has been removed because it is [soapboxing](http://www.reddit.co
 Thank you for your response. Unfortunately, we have had to remove it due to violations of [subreddit’s rules about answers needing to reflect current scholarship](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_answers). While we appreciate the effort you have put into this comment, there are nevertheless significant errors, misunderstandings, or omissions of the topic at hand [which necessitated its removal](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/). 
  
 We understand this can be discouraging, but we would also encourage you to consult [this Rules Roundtable to better understand how the mod team evaluates answers on the sub](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/). If you are interested in feedback on improving future contributions, please feel free to [reach out to us via modmail](https://www.reddit.com/message/compose?to=%2Fr%2FAskHistorians&subject=Inquiry%20About%20Improving%20Future%20Responses). Thank you for your understanding.
+
+### 1082: [Why past Chinese states/government is called "Dynasty" not "Empire or Kingdom"?](https://old.reddit.com/r/AskHistorians/comments/10nghpx/why_past_chinese_statesgovernment_is_called/), submitted on 2023-01-28 22:35:47+08:00.
+
+----- __1082.1__ -----2023-01-29 01:32:31+08:00:
+
+**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
+
+Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
+
+Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
