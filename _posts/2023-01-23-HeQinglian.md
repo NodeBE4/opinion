@@ -113,7 +113,7 @@ Re @JianglinLi 看美国的事情需要记忆力极好，往前记忆至少需�
 
 ### 25: [2023-01-24 06:04:32+08:00 推文](https://twitter.com/HeQinglian/status/1617644479233789959)
 
-关于控枪与反对控枪的争议，其实多想想就会明白其中道理。<br>反对控枪的多是红州，农业州。去过那里的人都知道，地广人稀很远没有邻居，一到晚上，每家就象旷野中的独居者，无论是对付野兽还是不期而至的抢劫者，枪是唯一可依靠的。<br>这些事情，城市人尤其是中国的城市人弄不明白。幸亏美国各州还有自治权<div class="rsshub-quote"><br><br>古川（Gu Chuan): 这样划分也不完全，滕彪不是号称维权律师吗？<br></div>
+关于控枪与反对控枪的争议，其实多想想就会明白其中道理。<br>反对控枪的多是红州，农业州。去过那里的人都知道，地广人稀很远没有邻居，一到晚上，每家就象旷野中的独居者，无论是对付野兽还是不期而至的抢劫者，枪是唯一可依靠的。<br>这些事情，城市人尤其是中国的城市人弄不明白。幸亏美国各州还有自治权<div class="rsshub-quote"><br><br>古川（Gu Chuan): 这样划分也不完全，滕彪不是号称维权律师吗？<br> <a href="https://twitter.com/baiyong1965/status/1617601666186117121" target="_blank" rel="noopener noreferrer">https://twitter.com/baiyong1965/status/1617601666186117121</a></div>
 
 ### 26: [2023-01-24 06:08:48+08:00 推文](https://twitter.com/HeQinglian/status/1617645552619114496)
 
@@ -305,7 +305,7 @@ Re @Lucs24659702 终于意识到选择性抽检，有违美国的司法公平。
 
 ### 73: [2023-01-27 02:07:18+08:00 推文](https://twitter.com/HeQinglian/status/1618671938653790209)
 
-RT He Qinglian<br>数据说话：中-美欧经济脱钩并非现实<br>2022年西方舆论表达要与中国脱钩、以及猜测习近平想与美国脱钩成了主流。被视为“习近平信使”的刘鹤出席2023达沃斯年会，让与会者欢呼中国回归全球化。<br>本文用中国及美欧自身数据表明，中国脱离全球化现在终于回归，其实是个彻底的虚假命题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html</a>
+数据说话：中-美欧经济脱钩并非现实<br>2022年西方舆论表达要与中国脱钩、以及猜测习近平想与美国脱钩成了主流。被视为“习近平信使”的刘鹤出席2023达沃斯年会，让与会者欢呼中国回归全球化。<br>本文用中国及美欧自身数据表明，中国脱离全球化现在终于回归，其实是个彻底的虚假命题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html</a>
 
 ### 74: [2023-01-27 02:36:25+08:00 推文](https://twitter.com/zhixiangziyou/status/1618679268707536896)
 
@@ -711,51 +711,91 @@ RT 沈良庆二世<br>#禁枪与谋杀率关系：美国谋杀率全球第三�
 
 Re @JianglinLi @Lucs24659702 有部美国电影，一白富家女参加恐怖组织，从事恐怖活动被抓（炸死几个人，包括儿童），关在单人牢房里，没窗户。给其父亲写信，要求活动出一间有窗户的单人牢房，说没有窗户，极不人道。<br>电影里安排她毕业于普林斯顿大学。
 
-### 175: [2023-01-29 04:46:19+08:00 推文](https://twitter.com/HeQinglian/status/1619436732159754245)
+### 175: [2023-01-29 03:24:34+08:00 推文](https://twitter.com/cheyennexli/status/1619416159153184768)
+
+RT 全媒体日报/全媒体新闻台 QM News<br>拯救美国，百折不挠，川普总统开始2024竞选征程！<br>面对史无前例的造谣、诽谤、羞辱、构陷、迫害、威胁，打压，川普总统不为所动，始终坚持美国优先，捍卫美国价值，对恶势力不退半分。这是一位真正的绅士和勇敢的爱国者！<br><br>请下载全媒体小镇App <a href="http://qtown.media/" target="_blank" rel="noopener noreferrer">http://qtown.media</a> <a href="https://www.qtown.media/share/linkPage/60F1A23F-C7EE-4CB7-BAF8-8D628C90BDC9.html" target="_blank" rel="noopener noreferrer">https://www.qtown.media/share/linkPage/60F1A23F-C7EE-4CB7-BAF8-8D628C90BDC9.html</a>
+
+### 176: [2023-01-29 04:46:19+08:00 推文](https://twitter.com/HeQinglian/status/1619436732159754245)
 
 Re @Jenny67470141 一场阿富汗战争，历经几届政府，援助万亿美元，逾半被洗成国内利益集团的财富，无一人为此担责。这种模式当然得继续下去。既道义，又安全，无本万利。
 
-### 176: [2023-01-29 04:55:04+08:00 推文](https://twitter.com/HeQinglian/status/1619438933049495552)
+### 177: [2023-01-29 04:55:04+08:00 推文](https://twitter.com/HeQinglian/status/1619438933049495552)
 
 已经很久没关注俄乌战争的战况了，读了这条，发现乌军已经成了“被困在城市的北约联军”，当真是鸟枪换炮。<br>印象中，北约是当今世界最强大的军事集团，其中的美国一直是神话一般的存在。<br>这北约联军里有多少美军？<div class="rsshub-quote"><br><br>🇷🇺 🅉 俄乌局势: 今日巴赫穆特：<br>俄军已经完成对巴赫穆特的纵深合围，并且抵达巴赫穆特西部的伊万尼夫斯克镇。<br>被困在城市的北约联军无法再获得任何食物或武器供应，瓦格纳正在戈尔洛夫卡附近的托列茨克进行另一次袭击。<br>北约联军残部试图转移到乌格莱达尔，这可能意味着巴赫穆特要被放弃。<br><br><img style="" src="https://pbs.twimg.com/media/Fni4jPvaIAA4sqr?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fni4jPwaUAEfMfb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
-### 177: [2023-01-29 04:56:44+08:00 推文](https://twitter.com/HeQinglian/status/1619439352416964608)
+### 178: [2023-01-29 04:56:44+08:00 推文](https://twitter.com/HeQinglian/status/1619439352416964608)
 
 Re @Susanchan521 @david_david1968 同意前半部分。<br>但总有能够看清现实的人。
 
-### 178: [2023-01-29 05:01:33+08:00 推文](https://twitter.com/HeQinglian/status/1619440566038847491)
+### 179: [2023-01-29 05:01:33+08:00 推文](https://twitter.com/HeQinglian/status/1619440566038847491)
 
 Re @JianglinLi 我觉得民主党当政，肯定是长期战争，每年1000亿对乌援助，分配方式参照阿富汗帐本。<br>人权人道、国际主义精神、大国风范尽显，从投资角度来说，非常安全，因为一般是预扣。
 
-### 179: [2023-01-29 05:11:43+08:00 推文](https://twitter.com/HeQinglian/status/1619443123792523264)
+### 180: [2023-01-29 05:11:43+08:00 推文](https://twitter.com/HeQinglian/status/1619443123792523264)
 
 Re @princeton_walk @guchuan81 CRT教育与宣传打造出来的这块“制度性种族主义”（或曰总体性种族歧视）带小铁钉的橡皮泥大饼，迟早会让美国严重消化不良，产生各种疾病。
 
-### 180: [2023-01-29 06:08:16+08:00 推文](https://twitter.com/HeQinglian/status/1619457357402210304)
+### 181: [2023-01-29 06:08:16+08:00 推文](https://twitter.com/HeQinglian/status/1619457357402210304)
 
 据说这是耶伦2月访华与中国商谈的重点之一——日经新闻如此分析。<br>考虑到美国的新非洲战略，可能会是重点；<br>考虑到美国想缓解对华关系，这招有点莫名其妙，中国早就放话了，非洲方面，欢迎美国竞争，中国自有方略。这人情卖给美国，中国肯定觉得不划算。<div class="rsshub-quote"><br><br>华尔街日报中文网: #本周热读 美国财政部长耶伦呼吁中国减免赞比亚的债务。赞比亚两年来在重组174.9亿美元外币贷款和债券方面陷入困境，已成为其他发展中国家的警示案例。赞比亚约三分之一的外债是欠中国贷款机构的。<br> <a href="https://on.wsj.com/3iX9cI7" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3iX9cI7</a></div>
 
-### 181: [2023-01-29 06:13:56+08:00 推文](https://twitter.com/HeQinglian/status/1619458781821435904)
+### 182: [2023-01-29 06:13:56+08:00 推文](https://twitter.com/HeQinglian/status/1619458781821435904)
 
 Re @farmdirect8 这照片，实在不象是女士，莫非又是Trans？或者是自我心理识别为女的男士？
 
-### 182: [2023-01-29 07:22:08+08:00 推文](https://twitter.com/HeQinglian/status/1619475944296812544)
+### 183: [2023-01-29 07:22:08+08:00 推文](https://twitter.com/HeQinglian/status/1619475944296812544)
 
 Re @PekingGodFather 与对美乌共享信息战的态度一样，兼听。<br>你尽管只听美乌共享信息战的新闻，基辅幽灵正在乌克兰上空盘旋，一天击落俄机（现在可能是俄坦克）两位数以上。
 
-### 183: [2023-01-29 07:26:34+08:00 推文](https://twitter.com/HeQinglian/status/1619477063332958210)
+### 184: [2023-01-29 07:26:34+08:00 推文](https://twitter.com/HeQinglian/status/1619477063332958210)
 
 Re @kbclindy @farmdirect8 <br>？？？ <a href="https://www.popsugar.com/Meryl-Streep" target="_blank" rel="noopener noreferrer">https://www.popsugar.com/Meryl-Streep</a>
 
-### 184: [2023-01-29 07:28:29+08:00 推文](https://twitter.com/HeQinglian/status/1619477545627582466)
+### 185: [2023-01-29 07:28:29+08:00 推文](https://twitter.com/HeQinglian/status/1619477545627582466)
 
 Re @PekingGodFather 请问尊驾是美国真理部新任主管？人家转什么也属于你的业务范围？<br>我挺喜欢转好几个人的，请鉴别一下。不过，我不喜欢真理部的人来管束。
 
-### 185: [2023-01-29 07:39:36+08:00 推文](https://twitter.com/HeQinglian/status/1619480342993473538)
+### 186: [2023-01-29 07:39:36+08:00 推文](https://twitter.com/HeQinglian/status/1619480342993473538)
 
 Re @PekingGodFather 挺乌者基本都有当教师爷的瘾，发作起来没边界。<br>要论辨识新闻真假，我有两本专著。能否见示你的专著，或者是一条新闻的辨识文章？🤣🤣🤣
 
-### 186: [2023-01-29 07:42:31+08:00 推文](https://twitter.com/HeQinglian/status/1619481074412961793)
+### 187: [2023-01-29 07:42:31+08:00 推文](https://twitter.com/HeQinglian/status/1619481074412961793)
 
 Re @PekingGodFather 原来，我也成了与这两位政治人物齐肩的人了，看来，乌粉就是一个乌七八糟，不说胡话难以度日的集合。<br>不陪了。浪费时间。
+
+### 188: [2023-01-29 08:19:39+08:00 推文](https://twitter.com/rijingzhongwen/status/1619490421763371008)
+
+RT 日经中文网<br>【美国GDP“虚增”？衰退论调加强】“美国经济有一个非常好的消息”，美国2022年10～12月实际GDP增长率为年率2.9％，总统拜登在演说中充满自信。但很多经济学家认为，此次的GDP存在“虚增”的因素…… <a href="https://cn.nikkei.com/politicsaeconomy/epolitics/51214-2023-01-29-05-00-00.html" target="_blank" rel="noopener noreferrer">https://cn.nikkei.com/politicsaeconomy/epolitics/51214-2023-01-29-05-00-00.html</a>
+
+### 189: [2023-01-29 09:01:00+08:00 推文](https://twitter.com/ChineseWSJ/status/1619500826304679936)
+
+RT 华尔街日报中文网<br>#本周热读 跨国公司仍在寻找廉价、高效和年轻的市场。但现在它们也想要安全，这对许多公司来说意味着多元化，远离世界经济大国之间的直接紧张关系。<br>全球经济联系并没有结束，只是在改变路线，产生广泛的影响。学者说：“我们正在目睹的不是全球化的崩溃。它更像是一种重塑。” <a href="https://on.wsj.com/3ZHKtIo" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3ZHKtIo</a>
+
+### 190: [2023-01-29 09:32:57+08:00 推文](https://twitter.com/HeQinglian/status/1619508867762892801)
+
+Re @david_david1968 正念发布的信息、素材，其中不少有参考价值，毕竟他在乌克兰，也支持乌克兰，不会去抹黑，因此，他讲乌克兰的信息，我认为可信度比较大。<br>至于评论，不是我看他推文的主要目标。
+
+### 191: [2023-01-29 09:36:40+08:00 推文](https://twitter.com/HeQinglian/status/1619509803558248449)
+
+Re @shenliangqing2 现在的各国边界，大体上都是二战后形成的。翻到此前去讲，多半就是民族纠纷的由来。
+
+### 192: [2023-01-29 09:47:08+08:00 推文](https://twitter.com/HeQinglian/status/1619512435500789762)
+
+Re @eGUAbe2V7j26GHw 现在这战事，我是想起来，就去看三四个人的推文（姜尚荣的电报号我也看）。至于各国政客的表态，就不看了。<br>比如今天有位北约的将军表态说，不排除北约军队与俄罗斯正面对抗——我突然想起中国哪部戏的戏文：“你要战，便来战”，给个痛快的，观众都快散尽了。
+
+### 193: [2023-01-29 09:51:29+08:00 推文](https://twitter.com/HeQinglian/status/1619513532252590080)
+
+今天从纽约听来的信息：<br>昨天Antifa大闹纽约城，时报广场是重点。一群台湾人住在离广场9个街区的旅馆，警车群集，警笛长鸣，彻夜难眠。这群台湾人够恐慌的，“疑美”情绪高涨：美国成这样了，还能保护我们吗？<br>随即又坚定信心：只能相信美国，美国外交军事还是很有力的。
+
+### 194: [2023-01-29 10:07:38+08:00 推文](https://twitter.com/HeQinglian/status/1619517596310835206)
+
+Re @Ben43349230 地大物博，反正就在民主党统治的那几个大城市造，自作自受，97%的谋杀案就发生在那些热爱民主党的城市里。<br>那地方的选民也有逾50%喜欢民主党，他们包括BLM、拉美来的低端移民、华人左派，还有老中青大麻客、lgbtqi，粉客，这种生活是他们追求的生活，虽九死其犹未悔。
+
+### 195: [2023-01-29 11:15:15+08:00 推文](https://twitter.com/HeQinglian/status/1619534610031075331)
+
+德国外长“对俄战争”声明引发风波 <br>这位外长是跟美国拜登总统跟得太紧出了问题。老拜登在电视上说三战开始了，女外长间不容发立刻发表对俄战争声明。<br>老拜登经常说错话，白宫时刻准备着帮其圆场， 这次连圆场都没有，直接当疯言疯语了。<br>下次这位外长悠着点。 <a href="https://rfi.my/96uG.T" target="_blank" rel="noopener noreferrer">https://rfi.my/96uG.T</a>
+
+### 196: [2023-01-29 11:28:00+08:00 推文](https://twitter.com/HeQinglian/status/1619537819902574592)
+
+Re @Wu_Zhi 你看看台湾报纸就知道了。引用美媒，全是纽约时报、CNN，连WSJ、WP都很少引用，多数人不知有Fox，纽约邮报很多人没听说。<br>纽约是天堂，中央公园、第五大道、帝国大厦是纽约的象征。美国的lgbtqi、性自由是人性的解放，BLM是反抗种族歧视。<br>南希家那点事情，没一家台媒报道过。
 
