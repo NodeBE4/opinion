@@ -81,6 +81,10 @@ I would consider it to be popular history written by an academic, yes. My benchm
 
 Noel has one now too: https://twitter.com/danchou_sub
 
+----- __1074.2__ -----2023-01-29 17:26:58+08:00:
+
+Noel likes sniffing her hamsters but I've never heard of her eating them.
+
 ### 1075: [Doja Cat covered in 30,000 Swarovski crystals applied by hand at the Schiaparelli Haute Couture show](https://old.reddit.com/r/pics/comments/10jhnbc/doja_cat_covered_in_30000_swarovski_crystals/), submitted on 2023-01-24 01:12:46+08:00.
 
 ----- __1075.1__ -----2023-01-24 08:10:39+08:00:

@@ -101,7 +101,7 @@ Re @ni87107 这本书是香港出版的，估计香港已经买不到了。
 
 ### 22: [2022-01-01 08:20:27+08:00 推文](https://twitter.com/realcaixia/status/1477072189954351107)
 
-武汉病毒疫情至今仍在祸害全球，回顾两年前武汉疫情初期情况，越发明确显示出习当局有意隐瞒真相。这篇文章报道了几个关键点：<br>1，12月29号武汉传染病医院收了9个症状相同病人；<br>2，12月30号病人开始增加，到第二天晚上已经有24个病人；3，12月31号国家级专家到武汉医院；<br>4，1月2号前后事态更为严重。<br><img style src="https://pbs.twimg.com/media/FH-dT3RXoAAEfk3?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH-dUKyXwAEpzk9?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH-dUhpXEAoWHKq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH-dUzVWQAEHjcu?format=jpg&name=orig" referrerpolicy="no-referrer">
+武汉病毒疫情至今仍在祸害全球，回顾两年前武汉疫情初期情况，越发明确显示出习当局有意隐瞒真相。这篇文章报道了几个关键点：<br>1，12月29号武汉传染病医院收了9个症状相同病人；<br>2，12月30号病人开始增加，到第二天晚上已经有24个病人；3，12月31号国家级专家到武汉医院；<br>4，1月2号前后事态更为严重。<br><img style="" src="https://pbs.twimg.com/media/FH-dT3RXoAAEfk3?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH-dUKyXwAEpzk9?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH-dUhpXEAoWHKq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH-dUzVWQAEHjcu?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 23: [2022-01-01 21:58:50+08:00 推文](https://twitter.com/realcaixia/status/1477278143853600769)
 
