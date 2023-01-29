@@ -91,3 +91,11 @@ Re @KathyHu56423186 @whyyoutouzhele 说得好！我以前就是这样的愚蠢�
 
 特别推荐：#议报发布王维洛文章：中国人重回东方病夫、癌症、水污染………。<br>中共政府在改革开放的几十年里GDP指标为首位考核官员政绩，对中国资源进行掠夺式开发利用，整个国家几乎没有成了巨大的污染场空气污染、水污染、土壤污染，已经显示恶劣后果。<div class="rsshub-quote"><br><br>《议报》: 王维洛 | 中国人重回东方病夫、癌症、水污染与自来水达标<br> <a href="https://yibaochina.com/?p=249201" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=249201</a></div>
 
+### 20: [2023-01-29 23:17:27+08:00 推文](https://twitter.com/realcaixia/status/1619716359302311937)
+
+特别推荐#议报首发子野文章：《中国改革开放的命运》。<br>文章深刻而犀利地分析解剖了，中共是如何打着改革开放，建立市场经济体制的旗号，使经济领域的改革开放变成党内官宦及其官宦子弟从中捞利的国家资本主义和权贵经济的几个阶段。尽管文章长点，但非常值得一读。<div class="rsshub-quote"><br><br>《议报》: 子野 | 中国改革开放的命运<br> <a href="https://yibaochina.com/?p=249276" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=249276</a></div>
+
+### 21: [2023-01-29 23:19:22+08:00 推文](https://twitter.com/realcaixia/status/1619716840992956418)
+
+一针见血！精辟！<div class="rsshub-quote"><br><br>李承鹏（真正的大眼哥）: 余秋雨是一支肤浅的文化口红，张艺谋是一把遮羞的油漆刷子。<br></div>
+
