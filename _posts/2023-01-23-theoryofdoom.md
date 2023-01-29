@@ -171,6 +171,14 @@ I know it may not be worth more than a picture of air to someone who is drowning
 
 I really do feel for your situation.  And if you want to DM me when you hear back from your appeal, you can.
 
+----- __454.4__ -----2023-01-30 00:27:55+08:00:
+
+> It’s stressful because I come from a very religious and strict family of it’s either college or nothing. 
+
+You'll make it.  
+
+Let me know what becomes of the appeal.
+
 ### 455: [I’ve been playing guitar for about 2 years now and I’ve been using a squire Stratocaster. I’m wanting to get a new guitar now and was wondering if this is worth it?](https://old.reddit.com/r/guitars/comments/10no5aa/ive_been_playing_guitar_for_about_2_years_now_and/), submitted on 2023-01-29 04:05:59+08:00.
 
 ----- __455.1__ -----2023-01-29 07:53:38+08:00:

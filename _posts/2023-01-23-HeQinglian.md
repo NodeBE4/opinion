@@ -305,7 +305,7 @@ Re @Lucs24659702 终于意识到选择性抽检，有违美国的司法公平。
 
 ### 73: [2023-01-27 02:07:18+08:00 推文](https://twitter.com/HeQinglian/status/1618671938653790209)
 
-数据说话：中-美欧经济脱钩并非现实<br>2022年西方舆论表达要与中国脱钩、以及猜测习近平想与美国脱钩成了主流。被视为“习近平信使”的刘鹤出席2023达沃斯年会，让与会者欢呼中国回归全球化。<br>本文用中国及美欧自身数据表明，中国脱离全球化现在终于回归，其实是个彻底的虚假命题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html</a>
+RT He Qinglian<br>数据说话：中-美欧经济脱钩并非现实<br>2022年西方舆论表达要与中国脱钩、以及猜测习近平想与美国脱钩成了主流。被视为“习近平信使”的刘鹤出席2023达沃斯年会，让与会者欢呼中国回归全球化。<br>本文用中国及美欧自身数据表明，中国脱离全球化现在终于回归，其实是个彻底的虚假命题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html</a>
 
 ### 74: [2023-01-27 02:36:25+08:00 推文](https://twitter.com/zhixiangziyou/status/1618679268707536896)
 
@@ -529,7 +529,7 @@ Re @liuximing2022 @zhengchu 假定拜登政府再干一任，民主党接着再�
 
 ### 129: [2023-01-27 23:03:59+08:00 推文](https://twitter.com/HeQinglian/status/1618988194275692549)
 
-昨天我这篇《数据说话：中-美欧经济脱钩并非现实》<br>引来了解滨先生的这条诛心的指责。花了一下午时间与他讨论，这是推上普遍情况，相关讨论推文见三处，集中的在这一处。<br>希望年轻推友们从中领悟一些东西，路还长，认识世界是改造世界并建设的第一步。蒙着眼睛是走不下去的。 <a href="https://rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html" target="_blank" rel="noopener noreferrer">https://rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html</a> <a href="https://twitter.com/bxieus/status/1618715162609070081" target="_blank" rel="noopener noreferrer">https://twitter.com/bxieus/status/1618715162609070081</a>
+昨天我这篇《数据说话：中-美欧经济脱钩并非现实》<br>引来了解滨先生的这条诛心的指责。花了一下午时间与他讨论，这是推上普遍情况，相关讨论推文见三处，集中的在这一处。<br>希望年轻推友们从中领悟一些东西，路还长，认识世界是改造世界并建设的第一步。蒙着眼睛是走不下去的。<div class="rsshub-quote"><br><br>Bin Xie （解滨）#TheGreatTranslationMovement: @HeQinglian 你为社么现在要拐弯抹角地为中共说话？你难道不知道中国是多么恶毒的一个国家中共是一个多么阴险的团体？ 不脱钩，难道自由世界还要继续被中国毒害？我知道脱钩是一步险棋而且后果确实很严重，但谁远意和毒蛇住在一个村里？<br></div>
 
 ### 130: [2023-01-27 23:08:13+08:00 推文](https://twitter.com/HeQinglian/status/1618989257519144960)
 
@@ -826,4 +826,24 @@ Re @wangxiaoshan 我点了一次，是“帅”。🤣
 ### 203: [2023-01-29 22:26:12+08:00 推文](https://twitter.com/HeQinglian/status/1619703462513766402)
 
 Re @zhixiangziyou 以黑制黑，孟菲斯人民求仁得仁。<br>但田纳西是个红州，孟菲斯如同费城在宾州的地位一样。
+
+### 204: [2023-01-29 23:17:51+08:00 推文](https://twitter.com/HeQinglian/status/1619716460150161411)
+
+Re @pandatress1 @zlhlt @PekingGodFather 这早就是摆在明面上的事情，就中文圈的乌粉们死活不相信。<br>他们不肯相信几件事情：<br>1、这是美国的代理人战争；2、美欧的经济制裁无效；3、北乌军没取得胜利。<br>只剩下一件事情做：不看不听，还不许别人说。<br>可怜见的，再折腾几个月，眼见得不正常了。
+
+### 205: [2023-01-29 23:25:42+08:00 推文](https://twitter.com/HeQinglian/status/1619718436980146177)
+
+Re @lianghuiwang2 我认真查过，美国民航业飞行员短缺，十余年前将役龄延至65岁，两年前又延至67岁。<br>区别：<br>1、人家一直在驾驶飞机；2、这是民航机，不是战斗机，即时反应能力不需要那么超强。<br>因此，如果美国民航的飞行员愿意去乌克兰当Contractor，65岁也可以考虑，风萧萧兮第聂伯河水寒，壮士一去兮不复还，拼了。
+
+### 206: [2023-01-29 23:27:23+08:00 推文](https://twitter.com/HeQinglian/status/1619718860177027072)
+
+Re @eGUAbe2V7j26GHw 不愧是成吉思汗，言简意骇，不掉书袋。
+
+### 207: [2023-01-29 23:36:52+08:00 推文](https://twitter.com/HeQinglian/status/1619721245574180864)
+
+现在美国政治的代际人群差异：<br>1、70老翁上选场竞选总统；<br>2、中年一代，有出息的在高科技行业玩科技，余兴节目抽麻、吸点粉，Lgbtqi; 成色差点的混媒体、NGO，余兴节目相同；<br>3、青年一代忙于享受生活、游戏、吸麻、Woke。高兴了上街游行，包括裸体游。骄傲月成了嘉年华会。<br>剩下的都是工蜂，纳税。
+
+### 208: [2023-01-29 23:45:03+08:00 推文](https://twitter.com/HeQinglian/status/1619723306739064833)
+
+Re @oak22222 如果欧洲学美国部分州县，实行群婚制并由联邦法律保护，这位乌克兰人百战余身，可以去欧洲依亲移民。希望其他人的妻子能来美国波士顿哈佛附近，那有两个县率先实行群婚制。<br>如果有人要更多的信息，我可以帮助查找，看看是否还有其他地方实行了群婚制，免费。
 
