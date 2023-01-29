@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2023-01-28
+date: 2023-01-29
 from: https://old.reddit.com/r/Deplatformed_/comments/10jgtob/last_week_steven_crowder_and_jeremy_boreing_gave/
 layout: post
 tags:
@@ -160,4 +160,20 @@ TurnItIn is to plagiarism what [patent medicines](https://en.wikipedia.org/wiki/
 Communicate to them that withdrawing financial aid will result in financial hardship that, in all reality, may result in your dropping out of school.
 
 That being said, I think you should withdraw and transfer to another school.
+
+### 455: [I’ve been playing guitar for about 2 years now and I’ve been using a squire Stratocaster. I’m wanting to get a new guitar now and was wondering if this is worth it?](https://old.reddit.com/r/guitars/comments/10no5aa/ive_been_playing_guitar_for_about_2_years_now_and/), submitted on 2023-01-29 04:05:59+08:00.
+
+----- __455.1__ -----2023-01-29 07:53:38+08:00:
+
+Very true.
+
+----- __455.2__ -----2023-01-29 08:20:22+08:00:
+
+Please list your guitars and what dog breeds they remind you of.
+
+I would compare my EOB strat to a husky, but my early 70s vintage to an old german shepherd.
+
+----- __455.3__ -----2023-01-29 08:20:37+08:00:
+
+Buy it.
 

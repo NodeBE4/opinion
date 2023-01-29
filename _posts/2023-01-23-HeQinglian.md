@@ -113,7 +113,7 @@ Re @JianglinLi 看美国的事情需要记忆力极好，往前记忆至少需�
 
 ### 25: [2023-01-24 06:04:32+08:00 推文](https://twitter.com/HeQinglian/status/1617644479233789959)
 
-关于控枪与反对控枪的争议，其实多想想就会明白其中道理。<br>反对控枪的多是红州，农业州。去过那里的人都知道，地广人稀很远没有邻居，一到晚上，每家就象旷野中的独居者，无论是对付野兽还是不期而至的抢劫者，枪是唯一可依靠的。<br>这些事情，城市人尤其是中国的城市人弄不明白。幸亏美国各州还有自治权<div class="rsshub-quote"><br><br>古川（Gu Chuan): 这样划分也不完全，滕彪不是号称维权律师吗？<br></div>
+关于控枪与反对控枪的争议，其实多想想就会明白其中道理。<br>反对控枪的多是红州，农业州。去过那里的人都知道，地广人稀很远没有邻居，一到晚上，每家就象旷野中的独居者，无论是对付野兽还是不期而至的抢劫者，枪是唯一可依靠的。<br>这些事情，城市人尤其是中国的城市人弄不明白。幸亏美国各州还有自治权<div class="rsshub-quote"><br><br>古川（Gu Chuan): 这样划分也不完全，滕彪不是号称维权律师吗？<br> <a href="https://twitter.com/baiyong1965/status/1617601666186117121" target="_blank" rel="noopener noreferrer">https://twitter.com/baiyong1965/status/1617601666186117121</a></div>
 
 ### 26: [2023-01-24 06:08:48+08:00 推文](https://twitter.com/HeQinglian/status/1617645552619114496)
 
@@ -305,7 +305,7 @@ Re @Lucs24659702 终于意识到选择性抽检，有违美国的司法公平。
 
 ### 73: [2023-01-27 02:07:18+08:00 推文](https://twitter.com/HeQinglian/status/1618671938653790209)
 
-RT He Qinglian<br>数据说话：中-美欧经济脱钩并非现实<br>2022年西方舆论表达要与中国脱钩、以及猜测习近平想与美国脱钩成了主流。被视为“习近平信使”的刘鹤出席2023达沃斯年会，让与会者欢呼中国回归全球化。<br>本文用中国及美欧自身数据表明，中国脱离全球化现在终于回归，其实是个彻底的虚假命题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html</a>
+数据说话：中-美欧经济脱钩并非现实<br>2022年西方舆论表达要与中国脱钩、以及猜测习近平想与美国脱钩成了主流。被视为“习近平信使”的刘鹤出席2023达沃斯年会，让与会者欢呼中国回归全球化。<br>本文用中国及美欧自身数据表明，中国脱离全球化现在终于回归，其实是个彻底的虚假命题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html</a>
 
 ### 74: [2023-01-27 02:36:25+08:00 推文](https://twitter.com/zhixiangziyou/status/1618679268707536896)
 
@@ -742,4 +742,20 @@ Re @farmdirect8 这照片，实在不象是女士，莫非又是Trans？或者�
 ### 182: [2023-01-29 07:22:08+08:00 推文](https://twitter.com/HeQinglian/status/1619475944296812544)
 
 Re @PekingGodFather 与对美乌共享信息战的态度一样，兼听。<br>你尽管只听美乌共享信息战的新闻，基辅幽灵正在乌克兰上空盘旋，一天击落俄机（现在可能是俄坦克）两位数以上。
+
+### 183: [2023-01-29 07:26:34+08:00 推文](https://twitter.com/HeQinglian/status/1619477063332958210)
+
+Re @kbclindy @farmdirect8 <br>？？？ <a href="https://www.popsugar.com/Meryl-Streep" target="_blank" rel="noopener noreferrer">https://www.popsugar.com/Meryl-Streep</a>
+
+### 184: [2023-01-29 07:28:29+08:00 推文](https://twitter.com/HeQinglian/status/1619477545627582466)
+
+Re @PekingGodFather 请问尊驾是美国真理部新任主管？人家转什么也属于你的业务范围？<br>我挺喜欢转好几个人的，请鉴别一下。不过，我不喜欢真理部的人来管束。
+
+### 185: [2023-01-29 07:39:36+08:00 推文](https://twitter.com/HeQinglian/status/1619480342993473538)
+
+Re @PekingGodFather 挺乌者基本都有当教师爷的瘾，发作起来没边界。<br>要论辨识新闻真假，我有两本专著。能否见示你的专著，或者是一条新闻的辨识文章？🤣🤣🤣
+
+### 186: [2023-01-29 07:42:31+08:00 推文](https://twitter.com/HeQinglian/status/1619481074412961793)
+
+Re @PekingGodFather 原来，我也成了与这两位政治人物齐肩的人了，看来，乌粉就是一个乌七八糟，不说胡话难以度日的集合。<br>不陪了。浪费时间。
 
