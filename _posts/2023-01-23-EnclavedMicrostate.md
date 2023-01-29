@@ -85,6 +85,10 @@ Noel has one now too: https://twitter.com/danchou_sub
 
 Noel likes sniffing her hamsters but I've never heard of her eating them.
 
+----- __1074.3__ -----2023-01-30 06:26:40+08:00:
+
+Vaguepost much?
+
 ### 1075: [Doja Cat covered in 30,000 Swarovski crystals applied by hand at the Schiaparelli Haute Couture show](https://old.reddit.com/r/pics/comments/10jhnbc/doja_cat_covered_in_30000_swarovski_crystals/), submitted on 2023-01-24 01:12:46+08:00.
 
 ----- __1075.1__ -----2023-01-24 08:10:39+08:00:
