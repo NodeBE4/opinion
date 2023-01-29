@@ -297,7 +297,7 @@ Re @david_david1968 这我完全不能同意。
 
 ### 71: [2022-06-25 04:46:40+08:00 推文](https://twitter.com/HeQinglian/status/1540436264884834304)
 
-立本推存照，请记住，2019年1月全美选举委员会听证，专家指出多米尼系统有问题：无法验证选民身份，对外开放不到0.1秒就会被入侵，说来不及了；2020年1月同样的听证会，同样的理由。<br>现在美国缺那几亿美元了。<br>大权在握，就是不更换偷票机，你奈我何？
+立本推存照，请记住，2019年1月全美选举委员会听证，专家指出多米尼系统有问题：无法验证选民身份，对外开放不到0.1秒就会被入侵，说来不及了；2020年1月同样的听证会，同样的理由。<br>现在美国缺那几亿美元了。<br>大权在握，就是不更换偷票机，你奈我何？<br><br>He Qinglian: 美国投票机有问题，但没钱更换，美国缺钱：<br>布伦南中心和验证投票的联合分析发现，更换老化的投票设备将花费数亿美元。<br>近年来，这些模型中的一些“翻转”投票，由于与老化硬件相关的校准错误，触摸屏错误记录了选民的选择。这反过来又导致了病毒视频和机器“窃取选票”的阴谋论。<br> <a href="https://www.brennancenter.org/our-work/research-reports/voting-machines-risk-2022" target="_blank" rel="noopener noreferrer">https://www.brennancenter.org/our-work/research-reports/voting-machines-risk-2022</a>
 
 ### 72: [2022-06-25 13:10:44+08:00 推文](https://twitter.com/bonsandcake/status/1540563119096881152)
 
