@@ -212,3 +212,9 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 Probably Noel's.
 
+### 1084: [[Hobby Scuffles] Week of January 30, 2023](https://old.reddit.com/r/HobbyDrama/comments/10o8x58/hobby_scuffles_week_of_january_30_2023/), submitted on 2023-01-29 22:30:09+08:00.
+
+----- __1084.1__ -----2023-01-30 22:00:26+08:00:
+
+Shh don't give people ideas, it could be *you*!
+
