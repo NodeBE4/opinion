@@ -17,7 +17,7 @@ title: 'Twitter @中国文字狱事件盘点: 2022-01-17~2022-01-23'
 
 ### 1: [2022-01-17 21:28:26+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1483068699603091459)
 
-山西太原媒体人胡新成，因长期帮助访民和推行全民免费医疗（通过网络呼吁和收集签名提交请愿等方式），于去年12月失联。近日其律师通过其家人确认其已被捕，罪名为宣扬恐怖主义罪。<br><img style src="https://pbs.twimg.com/media/FJTqd0UXoAYfKQb?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FJTqgQfWUAkzEZu?format=png&name=orig" referrerpolicy="no-referrer">
+山西太原媒体人胡新成，因长期帮助访民和推行全民免费医疗（通过网络呼吁和收集签名提交请愿等方式），于去年12月失联。近日其律师通过其家人确认其已被捕，罪名为宣扬恐怖主义罪。<br><img style="" src="https://pbs.twimg.com/media/FJTqd0UXoAYfKQb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FJTqgQfWUAkzEZu?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2022-01-17 21:32:54+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1483069823315845120)
 
@@ -45,5 +45,5 @@ Re 后续：在案件引发关注和热议之后，彬州公安已经撤销了�
 
 ### 8: [2022-01-21 19:01:06+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1484481171601997831)
 
-Re Update: The punishment has been withdrawn by the police on Jan 19.<br><img style="" src="https://pbs.twimg.com/media/FJnvVxqWYAAZ9EC?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re Update: The punishment has been withdrawn by the police on Jan 19.<br><img style="" src="https://pbs.twimg.com/media/FJnvVxqWYAAZ9EC?format=jpg&name=orig" referrerpolicy="no-referrer">
 
