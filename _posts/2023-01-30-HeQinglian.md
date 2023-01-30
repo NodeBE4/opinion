@@ -91,3 +91,23 @@ Re @aiwu2075 @guchuan81 不是没发现，是假装没发现。<br>因为希望�
 
 Re @jojowheel 这是事实。因为儒家文化，存宗延嗣这是最重要的事情。这点，后来人也都表示理解。文家而言，他本人没有后裔。
 
+### 20: [2023-01-31 04:07:04+08:00 推文](https://twitter.com/HeQinglian/status/1620151629214527490)
+
+Re @princeton_walk 关于2020大选，我做了全过程跟踪研究，事实俱在。如果有兴趣，我可以提供文章，都有可靠来源。<br>如果你的前提是这种烂透了的制度存在就不必要参选，就如同说，这国家烂透了，你不必呆，离开——二者逻辑一致<br>民主党没能通过为人民法案将这套制度变成彻底为一党服务，如果因为不完善就弃选，岂不正合其意？
+
+### 21: [2023-01-31 04:40:08+08:00 推文](https://twitter.com/HeQinglian/status/1620159952957632512)
+
+Re @princeton_walk 可能你将推特言论当成研究了。<br>事实上，指控主要集中在几个战场州，调查舞弊也在这几个州。宾州今年中选后出台法律禁止大规模邮寄选票、亚历桑那舞弊的情况你应该知道。<br>佛州今年正因做了许多防止工作，才避免了2020出现的漏洞。<br>知道你不喜欢川普。资格够的人都可参选，最后能否成功，得看党内初选。
+
+### 22: [2023-01-31 04:42:47+08:00 推文](https://twitter.com/HeQinglian/status/1620160620887961601)
+
+Re @Lucs24659702 这个长达13条的串推很有意思，大部分情节过去都有媒体报道过，对得上。<div class="rsshub-quote"><br><br>Clandestine: 1) Now that I have everyone’s attention, allow me to address why US establishment politicians are sending tanks, jets, weapons, equipment, and $100+ billion to Ukraine. <br><br>It has nothing to do with Ukrainian citizens, and everything to do with Deep State assets/secrets in Ukraine.<br><br><img style="" src="https://pbs.twimg.com/media/Fnr-BKuXwAArBjd?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fnr-BKuXgAA2oUf?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 23: [2023-01-31 04:44:43+08:00 推文](https://twitter.com/HeQinglian/status/1620161107087491072)
+
+这是一个搜索引擎，不象Google一样过滤信息，我经常用它搜索，有心者请Mark。<div class="rsshub-quote"><br><br>DuckDuckGo: Google is so last year. <br><br>Switch to DuckDuckGo to help avoid targeted ads, invasive tracking, and online profiling — all for free.<br> <a href="https://www.theatlantic.com/ideas/archive/2022/06/google-search-algorithm-internet/661325/" target="_blank" rel="noopener noreferrer">https://www.theatlantic.com/ideas/archive/2022/06/google-search-algorithm-internet/661325/</a></div>
+
+### 24: [2023-01-31 04:48:54+08:00 推文](https://twitter.com/HeQinglian/status/1620162158578499585)
+
+Re @shenliangqing2 保守人士最大特点是缺乏战略眼光，经常为一些无关大局仅与价值观有关的事情，忽视了更重要的事情。<br>去年没出现预想中的中选大胜，与那个堕胎权被利用有充分关系。<br>话说，那些未婚不良少女的孩子非要全生下来，不就得靠纳税人供养？我们这就如此，为她们建房提供各种福利，这些人养三孩就等于年收入5万
+
