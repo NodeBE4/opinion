@@ -249,7 +249,7 @@ Re @princeton_walk 据说是俄海军太弱，管理不善，某些装置没启�
 
 ### 59: [2022-04-18 21:19:31+08:00 推文](https://twitter.com/HeQinglian/status/1516043752074326019)
 
-Re @yu_su_chen 你说的自宫，美国一直在做。<br>俄乌战争那么吃紧，拜登都始终未忘本国公民的生殖器官阉割问题，提拔了一位变性人（男变女）做能源部长，号召全美未成年人自主变性，父母干涉就是违法。<br>就算天塌下来，拜登也不会忘记这件自宫大事。<br>有时我怀疑金老爷子说的《葵花宝典》被倒卖到美国，被民主党捡了漏。
+RT He Qinglian<br>Re @yu_su_chen 你说的自宫，美国一直在做。<br>俄乌战争那么吃紧，拜登都始终未忘本国公民的生殖器官阉割问题，提拔了一位变性人（男变女）做能源部长，号召全美未成年人自主变性，父母干涉就是违法。<br>就算天塌下来，拜登也不会忘记这件自宫大事。<br>有时我怀疑金老爷子说的《葵花宝典》被倒卖到美国，被民主党捡了漏。
 
 ### 60: [2022-04-18 21:20:55+08:00 推文](https://twitter.com/HeQinglian/status/1516044104534310912)
 
@@ -353,7 +353,7 @@ Re @JiangShangrong 我猜想，放也是有条件的，比如让他说出真相�
 
 ### 85: [2022-04-19 23:43:36+08:00 推文](https://twitter.com/HeQinglian/status/1516442399072993283)
 
-全球政治分裂——“三个世界”格局重现<br><br>美欧推行全球化先从经济开始，继之以社会与政治。<br>政治全球化主要藉颜色革命推行，在中俄从未成功，阿拉伯之春与南非彩虹革命则让世界心存疑虑。这次对俄全面经济制裁让经济全球化退回两个大国经济集团+140余个不结盟国家构成的第三世界。 <a href="https://www.epochtimes.com/gb/22/4/19/n13715415.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/4/19/n13715415.htm</a>
+RT He Qinglian<br>全球政治分裂——“三个世界”格局重现<br><br>美欧推行全球化先从经济开始，继之以社会与政治。<br>政治全球化主要藉颜色革命推行，在中俄从未成功，阿拉伯之春与南非彩虹革命则让世界心存疑虑。这次对俄全面经济制裁让经济全球化退回两个大国经济集团+140余个不结盟国家构成的第三世界。 <a href="https://www.epochtimes.com/gb/22/4/19/n13715415.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/4/19/n13715415.htm</a>
 
 ### 86: [2022-04-19 23:47:00+08:00 推文](https://twitter.com/HeQinglian/status/1516443255017201674)
 
@@ -845,7 +845,7 @@ Re @JianglinLi @Wu_Zhi @JiangShangrong 连自己都没照亮。<br>记得有位U
 
 ### 208: [2022-04-23 00:53:01+08:00 推文](https://twitter.com/HeQinglian/status/1517547030146600965)
 
-[欧盟委员会周五表示，如果欧盟公司以欧元或美元支付，然后将其兑换成俄罗斯货币，那么它们可能能够解决俄罗斯要求以卢布支付天然气的要求，而不会违反制裁。]<br>路透还有一条，英国允许本国公司购买俄能源到5月31日。<br>自己撒落的一地鸡毛，一片一片捡吧。
+[欧盟委员会周五表示，如果欧盟公司以欧元或美元支付，然后将其兑换成俄罗斯货币，那么它们可能能够解决俄罗斯要求以卢布支付天然气的要求，而不会违反制裁。]<br>路透还有一条，英国允许本国公司购买俄能源到5月31日。<br>自己撒落的一地鸡毛，一片一片捡吧。<br><br>Reuters: EU says gas payments may be possible under Russian roubles proposal without breaching sanctions<br><br><img style="" src="https://pbs.twimg.com/media/FQ9PUVfXwAAdBc4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="http://reut.rs/3KadHGC" target="_blank" rel="noopener noreferrer">http://reut.rs/3KadHGC</a>
 
 ### 209: [2022-04-23 00:55:41+08:00 推文](https://twitter.com/HeQinglian/status/1517547703382724609)
 
