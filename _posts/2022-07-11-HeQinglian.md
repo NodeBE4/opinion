@@ -65,7 +65,7 @@ Re @dongle_smith “欧洲逼和团去了几次，热心金毛突然下台”，
 
 ### 13: [2022-07-11 21:21:15+08:00 推文](https://twitter.com/HeQinglian/status/1546484765561393152)
 
-消息来源应该是这：<br>比尔盖茨在野外释放数百万蚊子后，美国数月内蚊子对罕见、致命的病毒检测呈阳性<br>Mosquitoes Testing Positive to Rare, Deadly Viruses in US Months After Bill Gates Released Millions in The Wild<br><br>推主们可看这位Qing的串推。<br>美国有钱的疯子狂人多。<br><br>Qing: 几个月前，比尔·盖茨（ Bill Gates ）的一家科技初创公司将数百万只转基因蚊子放归野外。如今，美国各地的蚊子对极其罕见的致命病毒呈阳性反应，其中一些病毒在美国之前从未被报道过。⬇️<br><br><img style="" src="https://pbs.twimg.com/media/FXVQwawUcAAjZI5?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+消息来源应该是这：<br>比尔盖茨在野外释放数百万蚊子后，美国数月内蚊子对罕见、致命的病毒检测呈阳性<br>Mosquitoes Testing Positive to Rare, Deadly Viruses in US Months After Bill Gates Released Millions in The Wild<br><br>推主们可看这位Qing的串推。<br>美国有钱的疯子狂人多。 <a href="https://newspunch.com/mosquitoes-testing-positive-to-rare-deadly-viruses-in-us-months-after-bill-gates-released-millions-in-the-wild/" target="_blank" rel="noopener noreferrer">https://newspunch.com/mosquitoes-testing-positive-to-rare-deadly-viruses-in-us-months-after-bill-gates-released-millions-in-the-wild/</a>
 
 ### 14: [2022-07-11 21:39:30+08:00 推文](https://twitter.com/HeQinglian/status/1546489359276417026)
 
@@ -233,7 +233,7 @@ Re @shenliangqing2 加州这几年有许多奇葩法律。比如自我心理认�
 
 ### 55: [2022-07-13 01:46:01+08:00 推文](https://twitter.com/HeQinglian/status/1546913784475820032)
 
-德国漂绿是真的，但是否取消碳中和目标，还得查核一下。不过，虽然这位是某些人眼中说什么都错的中国人，但这次却说得非常对，因为事实摆在那里：天然气、核能全部漂绿，煤炭开采也恢复了。<br>原来，绿能奠基于他国进口能源并购买碳排放额度指标上。<br><br>薛丁丁归来: #德国取消2035年碳中和目标   读书的时候老师就说过，现在大部分标准是欧美人定的，打着环保等名义，其实用来限制后发国家，等你们真的做到了，他又会出一套新的标准继续限制你，当然，如果他们做不到，他们随时会把标准废除。我们努力的方向不是去追求西方标准，而是要凭实力，把标准制定权抢过来。<br><br><video src="https://video.twimg.com/ext_tw_video/1546668011788021760/pu/vid/856x480/qwn2QPe7h3wiqVtA.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1546668011788021760/pu/img/GdO-BowXHBTATi_l.jpg"></video>
+德国漂绿是真的，但是否取消碳中和目标，还得查核一下。不过，虽然这位是某些人眼中说什么都错的中国人，但这次却说得非常对，因为事实摆在那里：天然气、核能全部漂绿，煤炭开采也恢复了。<br>原来，绿能奠基于他国进口能源并购买碳排放额度指标上。
 
 ### 56: [2022-07-13 03:07:59+08:00 推文](https://twitter.com/HeQinglian/status/1546934414118211586)
 
@@ -305,7 +305,7 @@ Re @JiangShangrong 通过他国购买后贴牌转让的算不算？<br>壳牌公
 
 ### 73: [2022-07-13 23:23:19+08:00 推文](https://twitter.com/gliderhook/status/1547240261042012162)
 
-RT 滑翔戟<br>鼓掌还要缓，一方面看战局发展和泽伦斯基到时候的“春秋评价”，另一方面，大家都是成年人，话要说全：天然气、贵金属、粮食、第三方转运都要禁，这才是全部真相——尤其转运，德国切割硬度达不到对付刚玉的莫氏9级，印度就达不到切玻璃的6级，中国干脆不考虑，切塑料戏法也不演了。<br><br>DW 中文- 德国之声: 德国国务秘书库基斯在澳大利亚悉尼出席全球能源论坛时表示，德国很快将不再从俄罗斯进口煤炭和石油。他说，德国希望从8月1日起不再进口俄罗斯的煤炭，从12月31日起停止从俄罗斯进口石油。他说，这将从根本上改变德国的能源供应。<br><br>德国从俄罗斯进口的煤炭和石油曾在国内需求量中的占比达到40%。<br><br><img style="" src="https://pbs.twimg.com/media/FXi_44JWYAEBp1X?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT 滑翔戟<br>鼓掌还要缓，一方面看战局发展和泽伦斯基到时候的“春秋评价”，另一方面，大家都是成年人，话要说全：天然气、贵金属、粮食、第三方转运都要禁，这才是全部真相——尤其转运，德国切割硬度达不到对付刚玉的莫氏9级，印度就达不到切玻璃的6级，中国干脆不考虑，切塑料戏法也不演了。
 
 ### 74: [2022-07-13 23:31:19+08:00 推文](https://twitter.com/HeQinglian/status/1547242273640947712)
 
@@ -349,7 +349,7 @@ Re @NAConservative9 希望各位对我这条推文留言补充，看看我遗漏
 
 ### 84: [2022-07-14 04:58:24+08:00 推文](https://twitter.com/HeQinglian/status/1547324590661242883)
 
-是否会有内战，我不知道。但此推所讲，全是事实。<br>一看到觉醒派们痛哭流涕讲述白人对黑人的罪恶与压迫，那比中国斗地主还过去一千公里。<br>控诉地主阶级的罪恶主要是土改积极分子（极少真正的贫下中农、多为流氓地痞），美国多是白左，尤其是女士。<br><br>北美保守评论🇺🇸🇨🇦: 《我们是否正面临着另一场内战？》<br><br>左派一直在为战争作准备：在军队中安插各种“觉醒派”人员，包括LGBTQ等，显然是削弱军队的战斗力，却是对付国内保守派的有效措施。近一、二十年来的“控枪”努力，也使百姓拥枪变得更加困难。多年对孩子的洗脑，使多数青年无常识地支持左派。<br><br><img style="" src="https://pbs.twimg.com/media/FXkYJ5pX0Acld05?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://nacr.info/WordPress/index.php/2022/07/13/are-we-looking-at-another-civil-war/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/07/13/are-we-looking-at-another-civil-war/</a>
+是否会有内战，我不知道。但此推所讲，全是事实。<br>一看到觉醒派们痛哭流涕讲述白人对黑人的罪恶与压迫，那比中国斗地主还过去一千公里。<br>控诉地主阶级的罪恶主要是土改积极分子（极少真正的贫下中农、多为流氓地痞），美国多是白左，尤其是女士。
 
 ### 85: [2022-07-14 05:04:42+08:00 推文](https://twitter.com/HeQinglian/status/1547326173239189505)
 
@@ -417,7 +417,7 @@ Re @dongle_smith @RFI_Cn 这是谴责名单，不是一回事。
 
 ### 101: [2022-07-14 10:29:59+08:00 推文](https://twitter.com/HeQinglian/status/1547408034061815815)
 
-历史的经验告诉人们：<br>当年拿破仑要回来了，巴黎的报纸一天换一个标题。<br>第一天：“科西嘉的怪物在儒安港登陆”<br>第二天：“吃人的魔鬼向格腊斯前进”<br>第三天：“篡位者进入格勒诺布尔”<br>第四天：“波拿巴占领里昂”<br>第五天：“拿破仑接近枫丹白露”<br>第六天：“皇帝陛下将于今日抵达他忠实的巴黎”<br><br>Frank Tian Xie (謝田), Ph.D.: 纽约时报六月卅日报导：普京近来神情“轻松、耐心、自信”，告别数月前“紧张、易怒，甚至心神不定”的他。这戏剧化转变怎么来的？<br> <a href="https://twitter.com/bannedebook/status/1547372813874794496" target="_blank" rel="noopener noreferrer">https://twitter.com/bannedebook/status/1547372813874794496</a>
+历史的经验告诉人们：<br>当年拿破仑要回来了，巴黎的报纸一天换一个标题。<br>第一天：“科西嘉的怪物在儒安港登陆”<br>第二天：“吃人的魔鬼向格腊斯前进”<br>第三天：“篡位者进入格勒诺布尔”<br>第四天：“波拿巴占领里昂”<br>第五天：“拿破仑接近枫丹白露”<br>第六天：“皇帝陛下将于今日抵达他忠实的巴黎”
 
 ### 102: [2022-07-14 22:04:25+08:00 推文](https://twitter.com/HeQinglian/status/1547582795123343366)
 
@@ -549,7 +549,7 @@ Re @Tepezano161 是腐蚀了，而且早就开始，目前只是结果显现。
 
 ### 134: [2022-07-15 21:42:59+08:00 推文](https://twitter.com/HeQinglian/status/1547939787314565122)
 
-从2010年初开始，关于中国房地产，我说过这泡沫迟早会破，只是从30层、50层还是100层往下跳的区别。<br>防护网质量好，对30层的跳楼者可能还有点保护作用，如今破灭，是无人生还的境地。
+从2010年初开始，关于中国房地产，我说过这泡沫迟早会破，只是从30层、50层还是100层往下跳的区别。<br>防护网质量好，对30层的跳楼者可能还有点保护作用，如今破灭，是无人生还的境地。<br><br>华尔街日报中文网: 来自全国各地的业主们纷纷宣称，如果开发商不履行承诺，不能按期交付预售房，他们也“停贷”。 大型中资银行的股价和许多开发商的股债跌声一片。<br>分析人士说，投资者对整个中国房地产行业基本上信心尽失，因为住房销售几乎没有好转迹象。<br> <a href="https://on.wsj.com/3PqtjJa" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3PqtjJa</a>
 
 ### 135: [2022-07-15 21:44:55+08:00 推文](https://twitter.com/HeQinglian/status/1547940275820998656)
 
