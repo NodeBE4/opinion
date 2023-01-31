@@ -105,7 +105,7 @@ Re @Kk98721066 看明白了，警察开车从这走，检查核酸检测的工�
 
 ### 23: [2022-06-30 08:21:41+08:00 推文](https://twitter.com/realcaixia/status/1542302314706378754)
 
-看明白了，警察开车从这走，检查核酸检测的工作人员让出示核酸检测结果，发现警察7天没做核酸，要警察回去不能走，警察下车拿手铐要拷那哥检查人员，双方上演全武行。调解的人说，你是工作，我们也是工作。这出戏倒是不多见。难怪唐老鸭拍的这段小视频从大陆流到外面。<br><br>唐和尚: 20220629唐师曾：北京房山长阳镇（转发） <br>#北京核酸<br><br><video src="https://video.twimg.com/ext_tw_video/1542011217304223750/pu/vid/406x720/lKm8bTsVjK7NMwUn.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1542011217304223750/pu/img/yrtsdlUb29N3lVnH.jpg"></video> <a href="https://youtu.be/-bvR2S9uIY8" target="_blank" rel="noopener noreferrer">https://youtu.be/-bvR2S9uIY8</a>
+看明白了，警察开车从这走，检查核酸检测的工作人员让出示核酸检测结果，发现警察7天没做核酸，要警察回去不能走，警察下车拿手铐要拷那哥检查人员，双方上演全武行。调解的人说，你是工作，我们也是工作。这出戏倒是不多见。难怪唐老鸭拍的这段小视频从大陆流到外面。
 
 ### 24: [2022-06-30 08:39:03+08:00 推文](https://twitter.com/realcaixia/status/1542306687071174657)
 
@@ -121,7 +121,7 @@ Re @Kk98721066 看明白了，警察开车从这走，检查核酸检测的工�
 
 ### 27: [2022-06-30 23:57:04+08:00 推文](https://twitter.com/realcaixia/status/1542537711881519105)
 
-看到这个推文所述老人的屈辱遭遇，简直令人无法平静平和。中共打手就是撒旦恶魔在中共一党极权统治制度下疯狂残害中国人！一党专政不灭，天理难容！<br><br>李承诺: 丹东93岁的大爷去开出门条。居委会说没病不开。大爷只好脱下长裤证明患了疝气。居委会报警说他耍流氓，警察就铐走老头。回来时脸上有伤，家属要看执法记录仪，警察说没有。老头一气之吊死了。<br>警察有必要把93岁路都走不动的老头铐走吗。<br>同一天，举国人民为国家摘掉星号欢呼，活像一群右派欢呼摘掉帽子<br><br><img style="" src="https://pbs.twimg.com/media/FWfaOvSagAAsNjI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+看到这个推文所述老人的屈辱遭遇，简直令人无法平静平和。中共打手就是撒旦恶魔在中共一党极权统治制度下疯狂残害中国人！一党专政不灭，天理难容！
 
 ### 28: [2022-07-01 00:04:58+08:00 推文](https://twitter.com/realcaixia/status/1542539699667062788)
 
@@ -129,7 +129,7 @@ Re @Kk98721066 看明白了，警察开车从这走，检查核酸检测的工�
 
 ### 29: [2022-07-01 02:53:56+08:00 推文](https://twitter.com/realcaixia/status/1542582221881704448)
 
-非常赞同文章作者观点。<br><br>韩连潮: 美媒Politico发文，题为“美国不能就这样埋葬和遗忘香港”，值得一读。英美和其他西方民主国家有责任支持香港人维护其政治权利和公民权利。<br>U.S. can't just bury and forget Hong Kong<br><br><img style="" src="https://pbs.twimg.com/media/FWgF7BwX0AEkPs4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://politi.co/3AfE78x" target="_blank" rel="noopener noreferrer">https://politi.co/3AfE78x</a>
+非常赞同文章作者观点。
 
 ### 30: [2022-07-01 03:05:39+08:00 推文](https://twitter.com/realcaixia/status/1542585172381601794)
 
@@ -141,7 +141,7 @@ Re @Kk98721066 看明白了，警察开车从这走，检查核酸检测的工�
 
 ### 32: [2022-07-01 23:28:54+08:00 推文](https://twitter.com/realcaixia/status/1542893011419467776)
 
-1920年前后，整个中国社会的文明发育水平达不到建立现代政党的程度，只能产生政治色彩浓厚、顶着“政党”名称的江湖帮会组织。中共与国民党早期都不具备现代政党特质。但国民党艰难地进化反思，接受英美文明，改造成党；中共始终是底层流氓无产者品性为主导，以马克思列宁理论为包装，黑社会本色不改。
+1920年前后，整个中国社会的文明发育水平达不到建立现代政党的程度，只能产生政治色彩浓厚、顶着“政党”名称的江湖帮会组织。中共与国民党早期都不具备现代政党特质。但国民党艰难地进化反思，接受英美文明，改造成党；中共始终是底层流氓无产者品性为主导，以马克思列宁理论为包装，黑社会本色不改。<br><br>韩连潮: 【中共是流氓帮会】今天是中共建党101周年，这个镰刀斧头帮等级森严的组织形态、邪恶的共产理念、切口、帮规和暴力手段等都证明它是地道的流氓帮会。流氓帮会掌控流氓政权，流氓政权宣扬流氓文化，流氓文化加速社会黑恶化，而中国黑社会化必将祸害人类世界。结论是，中共不除，国无宁日！<br><br><img style="" src="https://pbs.twimg.com/media/FWk7ySPXEAQg9OW?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 33: [2022-07-01 23:49:24+08:00 推文](https://twitter.com/realcaixia/status/1542898170530758656)
 
@@ -169,7 +169,7 @@ Re 中共党内奴性文化、阴谋文化是中共党性修养的本质内涵�
 
 ### 39: [2022-07-02 20:50:01+08:00 推文](https://twitter.com/realcaixia/status/1543215415165435906)
 
-看到有几个推特都在推这个视频，跟着凑个热闹。
+看到有几个推特都在推这个视频，跟着凑个热闹。<br><br>官场观察工作室 昭明: 当年老江去香港时，到都是操着粤语的香港本地人到场欢迎，老江也能说一两句粤语，还能给大家表演一两段，老江倒是不怕暗杀，更没有把内地大陆的小粉红带到香港造假欢迎场面。<br><br><video src="https://video.twimg.com/ext_tw_video/1542857715051302912/pu/vid/608x480/usMiqB-2VmhsWMbo.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1542857715051302912/pu/img/hjzTjQ5uecHBptm9.jpg"></video>
 
 ### 40: [2022-07-02 21:32:49+08:00 推文](https://twitter.com/realcaixia/status/1543226187417354240)
 
@@ -177,7 +177,7 @@ Re 中共党内奴性文化、阴谋文化是中共党性修养的本质内涵�
 
 ### 41: [2022-07-02 22:18:52+08:00 推文](https://twitter.com/realcaixia/status/1543237776904175617)
 
-极权统治出打手举刀了。
+极权统治出打手举刀了。<br><br>靜心: 轉：雷霆行動，唐山開始抓捕舉報人了，微博和微信賬號銷了一萬多，這就是他們解決問題的手段！<br><br><img style="" src="https://pbs.twimg.com/media/FWlC29XWQAATeXf?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 42: [2022-07-02 22:22:48+08:00 推文](https://twitter.com/realcaixia/status/1543238766894223361)
 
