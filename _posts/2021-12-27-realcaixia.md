@@ -33,7 +33,7 @@ title: 'Twitter @蔡霞: 2021-12-27~2022-01-02'
 
 ### 5: [2021-12-30 00:39:20+08:00 推文](https://twitter.com/realcaixia/status/1476231371718803461)
 
-造假与谎言蒙人，是极权意识形态的一贯手法，。这样的胡编乱造，是下面人某种半躺平半糊弄的干法。<br><br>浩哥i✝️i🇺🇸iA2: 故事编得太潦草😩<br><br><img style src="https://pbs.twimg.com/media/FHtTHKyXsAAte2Q?format=jpg&name=orig" referrerpolicy="no-referrer">
+造假与谎言蒙人，是极权意识形态的一贯手法，。这样的胡编乱造，是下面人某种半躺平半糊弄的干法。<br><br>浩哥i✝️i🇺🇸iA2: 故事编得太潦草😩<br><br><img style="" src="https://pbs.twimg.com/media/FHtTHKyXsAAte2Q?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2021-12-30 03:29:31+08:00 推文](https://twitter.com/realcaixia/status/1476274199429881857)
 
@@ -101,11 +101,11 @@ Re @ni87107 这本书是香港出版的，估计香港已经买不到了。
 
 ### 22: [2022-01-01 08:20:27+08:00 推文](https://twitter.com/realcaixia/status/1477072189954351107)
 
-武汉病毒疫情至今仍在祸害全球，回顾两年前武汉疫情初期情况，越发明确显示出习当局有意隐瞒真相。这篇文章报道了几个关键点：<br>1，12月29号武汉传染病医院收了9个症状相同病人；<br>2，12月30号病人开始增加，到第二天晚上已经有24个病人；3，12月31号国家级专家到武汉医院；<br>4，1月2号前后事态更为严重。<br><img style src="https://pbs.twimg.com/media/FH-dT3RXoAAEfk3?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH-dUKyXwAEpzk9?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH-dUhpXEAoWHKq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH-dUzVWQAEHjcu?format=jpg&name=orig" referrerpolicy="no-referrer">
+武汉病毒疫情至今仍在祸害全球，回顾两年前武汉疫情初期情况，越发明确显示出习当局有意隐瞒真相。这篇文章报道了几个关键点：<br>1，12月29号武汉传染病医院收了9个症状相同病人；<br>2，12月30号病人开始增加，到第二天晚上已经有24个病人；3，12月31号国家级专家到武汉医院；<br>4，1月2号前后事态更为严重。<br><img style="" src="https://pbs.twimg.com/media/FH-dT3RXoAAEfk3?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH-dUKyXwAEpzk9?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH-dUhpXEAoWHKq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH-dUzVWQAEHjcu?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 23: [2022-01-01 21:58:50+08:00 推文](https://twitter.com/realcaixia/status/1477278143853600769)
 
-盘点经济，王小二过年一年不如一年。<br><br>荣剑: 记得在2019年底，有人说，2019年是过去十年最差的一年，却可能是未来十年最好的一年。<br><br><img style src="https://pbs.twimg.com/media/FIA1BW2aUAEGLQ5?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIA1B-ZaAAMlGv_?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIA1CfzacAQXT2d?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIA1DAzacAAQrxy?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/rongjian1957/status/1477238018582872065" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1477238018582872065</a>
+盘点经济，王小二过年一年不如一年。<br><br>荣剑: 记得在2019年底，有人说，2019年是过去十年最差的一年，却可能是未来十年最好的一年。<br><br><img style="" src="https://pbs.twimg.com/media/FIA1BW2aUAEGLQ5?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIA1B-ZaAAMlGv_?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIA1CfzacAQXT2d?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIA1DAzacAAQrxy?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/rongjian1957/status/1477238018582872065" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1477238018582872065</a>
 
 ### 24: [2022-01-01 23:15:36+08:00 推文](https://twitter.com/realcaixia/status/1477297463128174593)
 

@@ -241,7 +241,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FSrg9DDUUAEO-Jq?format=jpg
 
 ### 57: [2022-05-15 22:45:45+08:00 推文](https://twitter.com/realcaixia/status/1525849924092297216)
 
-荒谬的消杀做法，是政府违法犯法，是打着防疫名义的犯罪行为。杨佳至今活在人们心里，是因为杨佳拼死反抗了极权政权。大陆当局正在逼迫越来越多的人成为杨佳。<br><br>liqun chen（陈立群）: 北京人应该都知道杨佳吧！虽然事情发生在上海。<br>杨佳说：你不给我一个说法，我就给你一个说法！<br> <a href="https://twitter.com/Jupiterf5/status/1525734088409092096" target="_blank" rel="noopener noreferrer">https://twitter.com/Jupiterf5/status/1525734088409092096</a>
+荒谬的消杀做法，是政府违法犯法，是打着防疫名义的犯罪行为。杨佳至今活在人们心里，是因为杨佳拼死反抗了极权政权。大陆当局正在逼迫越来越多的人成为杨佳。
 
 ### 58: [2022-05-15 23:00:59+08:00 推文](https://twitter.com/realcaixia/status/1525853756176277504)
 

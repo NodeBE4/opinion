@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2023-02-01
+date: 2023-02-02
 from: https://twitter.com/realcaixia/status/1620431587207950336
 layout: post
 tags:
@@ -33,7 +33,7 @@ title: 'Twitter @蔡霞: 2023-01-30~2023-02-05'
 
 ### 5: [2023-02-01 10:46:52+08:00 推文](https://twitter.com/realcaixia/status/1620614630254182402)
 
-病毒溯源的过程就是伸张正义、追究真相的过程！需要多国政府和民众共同努力，需要国际组织强有力的实际行动！<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 病毒溯源的為什麼👇<br></div>
+病毒溯源的过程就是伸张正义、追究真相的过程！需要多国政府和民众共同努力，需要国际组织强有力的实际行动！<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 病毒溯源的為什麼👇<br> <a href="https://twitter.com/zonghengjp/status/1620371274160807937" target="_blank" rel="noopener noreferrer">https://twitter.com/zonghengjp/status/1620371274160807937</a></div>
 
 ### 6: [2023-02-01 14:46:01+08:00 推文](https://twitter.com/realcaixia/status/1620674815903277056)
 
@@ -41,5 +41,13 @@ title: 'Twitter @蔡霞: 2023-01-30~2023-02-05'
 
 ### 7: [2023-02-01 18:30:40+08:00 推文](https://twitter.com/realcaixia/status/1620731350121840640)
 
-追溯病毒起源关乎到真相与公平，是给逝者的必须的告慰。<div class="rsshub-quote"><br><br>Jane Wang 王剑虹 #FreeZhangZhan: 悲痛的母亲 #杨敏 <br>三年前 #张展 曾希望安慰、帮助她<br>#武汉，已被抑制三年的哀声和怒火<br> <a href="https://twitter.com/zonghengjp/status/1620371274160807937" target="_blank" rel="noopener noreferrer">https://twitter.com/zonghengjp/status/1620371274160807937</a></div>
+追溯病毒起源关乎到真相与公平，是给逝者的必须的告慰。<div class="rsshub-quote"><br><br>Jane Wang 王剑虹 #FreeZhangZhan: 悲痛的母亲 #杨敏 <br>三年前 #张展 曾希望安慰、帮助她<br>#武汉，已被抑制三年的哀声和怒火<br></div>
+
+### 8: [2023-02-02 00:41:57+08:00 推文](https://twitter.com/realcaixia/status/1620824788125224961)
+
+特别推荐：有英文阅读能力的网友请读下面议报英文版转发CNN记者对贵州农村的采访。<div class="rsshub-quote"><br><br>Selina Wang: After three years of covid, we went deep into rural China for Lunar New Year. Here's the story of what we found &amp; how officials tried to stop us. @cnn<br><br><video src="https://video.twimg.com/amplify_video/1618907962462068743/vid/960x540/D0f9EcURoFoAYnuN.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/media/FneEuY7acAALTX-?format=jpg&amp;name=orig"></video> <a href="https://www.cnn.com/2023/01/27/china/rural-china-lunar-new-year-covid-intl-hnk-dst/index.html" target="_blank" rel="noopener noreferrer">https://www.cnn.com/2023/01/27/china/rural-china-lunar-new-year-covid-intl-hnk-dst/index.html</a></div>
+
+### 9: [2023-02-02 00:43:39+08:00 推文](https://twitter.com/realcaixia/status/1620825216573382656)
+
+希望能彻底查清病毒起源。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 聯合國專家終於發聲：新冠病毒最大可能的來源是實驗室！👇<br> <a href="https://twitter.com/colindavdbutler/status/1619516584514707459" target="_blank" rel="noopener noreferrer">https://twitter.com/colindavdbutler/status/1619516584514707459</a></div>
 
