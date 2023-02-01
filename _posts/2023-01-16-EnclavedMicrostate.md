@@ -91,15 +91,21 @@ Not all VTubers are owned or managed by the same agency, or even under an agency
 
 Most VTubers, however, are independents: some bigger, some smaller. At one end you have someone like Spanish-speaking VTuber Nimu Spacecat with 2.4m Twitch followers (the most-followed VTuber on Twitch), at the other you have a whole host of really small indies (I wouldn't even know where to look, but search 'debut' on the VirtualYoutubers subreddit and you'll find a few), with various people in the middle like Nekomiya Hinata or OBKatieKat. It's a very big space, where the major agencies are really just the tip of the iceberg.
 
-### 1067: [What’s your opinion on Jack the Ripper?](https://old.reddit.com/r/AskHistorians/comments/10h9p74/whats_your_opinion_on_jack_the_ripper/), submitted on 2023-01-21 05:58:52+08:00.
+### 1067: [AskHistorians Podcast Episode 213 - The World The Plague Made with James Belich](https://old.reddit.com/r/AskHistorians/comments/10h7wq6/askhistorians_podcast_episode_213_the_world_the/), submitted on 2023-01-21 04:56:15+08:00.
 
------ __1067.1__ -----2023-01-21 06:51:34+08:00:
+----- __1067.1__ -----2023-02-01 22:36:40+08:00:
+
+Perks of cornering him in a pub after he'd had a few drinks in him...
+
+### 1068: [What’s your opinion on Jack the Ripper?](https://old.reddit.com/r/AskHistorians/comments/10h9p74/whats_your_opinion_on_jack_the_ripper/), submitted on 2023-01-21 05:58:52+08:00.
+
+----- __1068.1__ -----2023-01-21 06:51:34+08:00:
 
 We have, using the moderator discretion powers set out [here](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_moderator.27s_discretion), removed this question because we feel it verges too close to our [rule on poll-type questions and value judgements](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). We suggest you amend the wording to ask about historical consensus rather than individual opinions.
 
-### 1068: [who created the first economics faculty and in which university?](https://old.reddit.com/r/AskHistorians/comments/10hm8d1/who_created_the_first_economics_faculty_and_in/), submitted on 2023-01-21 16:08:55+08:00.
+### 1069: [who created the first economics faculty and in which university?](https://old.reddit.com/r/AskHistorians/comments/10hm8d1/who_created_the_first_economics_faculty_and_in/), submitted on 2023-01-21 16:08:55+08:00.
 
------ __1068.1__ -----2023-01-21 17:06:41+08:00:
+----- __1069.1__ -----2023-01-21 17:06:41+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -107,29 +113,29 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 1069: [Little table we put together...](https://old.reddit.com/r/TerrainBuilding/comments/10i8fsm/little_table_we_put_together/), submitted on 2023-01-22 10:15:35+08:00.
+### 1070: [Little table we put together...](https://old.reddit.com/r/TerrainBuilding/comments/10i8fsm/little_table_we_put_together/), submitted on 2023-01-22 10:15:35+08:00.
 
------ __1069.1__ -----2023-01-23 02:51:30+08:00:
+----- __1070.1__ -----2023-01-23 02:51:30+08:00:
 
 That would be me! And yes. You are correct.
 
------ __1069.2__ -----2023-01-24 00:52:32+08:00:
+----- __1070.2__ -----2023-01-24 00:52:32+08:00:
 
 This is a weekend event that had been a long time planning, so there was actually plenty of time once the game got going.
 
-### 1070: [[Hobby Scuffles] Week of January 23, 2023](https://old.reddit.com/r/HobbyDrama/comments/10iljrw/hobby_scuffles_week_of_january_23_2023/), submitted on 2023-01-22 23:00:15+08:00.
+### 1071: [[Hobby Scuffles] Week of January 23, 2023](https://old.reddit.com/r/HobbyDrama/comments/10iljrw/hobby_scuffles_week_of_january_23_2023/), submitted on 2023-01-22 23:00:15+08:00.
 
------ __1070.1__ -----2023-01-25 01:57:34+08:00:
+----- __1071.1__ -----2023-01-25 01:57:34+08:00:
 
 > I'm at the point where my instinctive response to anyone who goes on about "respecting the lore" has become, "Why is 'the lore' intrinsically worthy of respect?"
 
 Me except for Star Trek.
 
------ __1070.2__ -----2023-01-25 02:00:27+08:00:
+----- __1071.2__ -----2023-01-25 02:00:27+08:00:
 
 I mean I say go ahead.
 
------ __1070.3__ -----2023-01-26 18:25:51+08:00:
+----- __1071.3__ -----2023-01-26 18:25:51+08:00:
 
 Well then. It has happened. As of yesterday (25 January 2023 when I'm writing this), EN VTuber agency Tsunderia has dissolved, with its members continuing as independents. This isn't necessarily a shocking blow, but it comes at the tail end of a long period of downsizing for the agency since April 2022, when five of its then-twelve members, including Miori Celesta (far and away its most popular member), departed as independents. (The other four were Yazaki Kallin, Matsuro Meru, Nini Yuuna and Orla Gan Ceann). *Except* this wasn't wholly the case – in Kallin's case at least, she was [loaning her character IP from Tsunderia](https://twitter.com/kallinGBN/status/1602806686728732675) until she could rebrand, which may also have been true of Orla, who hasn't been active in some months, possibly for the same reason. Nini Yuuna and Miori Celesta were independents before Tsunderia so continued independent; Matsuro Meru has continued streaming and not promised a rebrand so it's unclear what's going on with her. 
 
@@ -143,15 +149,15 @@ Except Tsunderia's shrinkage has coincided with the emergence and growth of othe
 
 \* There may be some caveats to that though. Production Kawaii has been accused on occasion of inept management, while Phase-Connect is riding heavily on the success of Pipkin Pippa, who is basically 4chan personified. So there are reasons to also 'hrmmm' a bit there.
 
------ __1070.4__ -----2023-01-26 20:14:58+08:00:
+----- __1071.4__ -----2023-01-26 20:14:58+08:00:
 
 To be fair I also mostly only know of her by reputation, but I've watched one or two of her edited videos, like [this one](https://www.youtube.com/watch?v=9zukpiSTr5M), and I certainly see where the narrative comes from.
 
------ __1070.5__ -----2023-01-26 23:03:37+08:00:
+----- __1071.5__ -----2023-01-26 23:03:37+08:00:
 
 Unfortunately, another second-hand report from me, coming via [this](https://www.reddit.com/r/VirtualYoutubers/comments/10llml5/a_progress_report_on_where_the_small_en_agencies/j5xvm0x/). Unfortunately they don't list sources, but at the very least I can find some evidence WRT the copyright strike claim: https://www.youtube.com/watch?v=DOiI4TTUgbA
 
------ __1070.6__ -----2023-01-27 01:43:09+08:00:
+----- __1071.6__ -----2023-01-27 01:43:09+08:00:
 
 English-language.
 
