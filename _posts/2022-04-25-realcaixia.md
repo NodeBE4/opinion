@@ -173,7 +173,7 @@ Re @hehe2114 请到YouTube上搜各媒体对我访谈的视频，那里有我的
 
 ### 40: [2022-04-29 03:52:23+08:00 推文](https://twitter.com/realcaixia/status/1519766497052274688)
 
-这是人们对封杀四月之声的强烈抗议！对极权反人性反人类的清零封城的悲愤控诉！<br><br>bamboo0716: 四月之声 瞬间在这片土地上销声匿迹<br><br><img style="" src="https://pbs.twimg.com/media/FQ9lFQ3VEAAOyPV?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+这是人们对封杀四月之声的强烈抗议！对极权反人性反人类的清零封城的悲愤控诉！
 
 ### 41: [2022-04-29 03:57:05+08:00 推文](https://twitter.com/realcaixia/status/1519767680332541956)
 
