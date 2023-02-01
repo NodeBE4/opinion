@@ -145,7 +145,7 @@ Re @tlzhlyq 我和毛新宇同班同学。党校招考博士研究生很严格�
 
 ### 33: [2022-05-09 20:46:36+08:00 推文](https://twitter.com/realcaixia/status/1523645612666761216)
 
-中共党和政府是世界上最大的撒谎者。央视天天撒谎。<br>很多年前，觉醒了的中国人说人日报和央视新华社都撒谎，只有天气预报是真的。<br>自从美国驻华大使馆顶住中国压力发布空气污染指数，越来越多中国人重视PM2.5后，中共气象台被迫播报空气质量，但很快人们知道原来天气预报也造假。中共信誉已经彻底破产<br><br>美国驻华使领馆 US MissionCN: 五角大楼新闻秘书@PentagonPresSec：2022年4月20日，美国国防部长@SecDef与中华人民共和国国防部长通话。中华人民共和国国防部发布的会后汇报错误地宣称“the United States adheres to the one-China principle”（美国坚持一个中国原则<br> <a href="http://eng.mod.gov.cn/news/2022-04/20/content_4909446.htm" target="_blank" rel="noopener noreferrer">http://eng.mod.gov.cn/news/2022-04/20/content_4909446.htm</a> <a href="https://twitter.com/DeptofDefense/status/1522322906319044608" target="_blank" rel="noopener noreferrer">https://twitter.com/DeptofDefense/status/1522322906319044608</a>
+中共党和政府是世界上最大的撒谎者。央视天天撒谎。<br>很多年前，觉醒了的中国人说人日报和央视新华社都撒谎，只有天气预报是真的。<br>自从美国驻华大使馆顶住中国压力发布空气污染指数，越来越多中国人重视PM2.5后，中共气象台被迫播报空气质量，但很快人们知道原来天气预报也造假。中共信誉已经彻底破产
 
 ### 34: [2022-05-09 21:07:43+08:00 推文](https://twitter.com/realcaixia/status/1523650927336382465)
 
@@ -245,7 +245,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FSrg9DDUUAEO-Jq?format=jpg
 
 ### 58: [2022-05-15 23:00:59+08:00 推文](https://twitter.com/realcaixia/status/1525853756176277504)
 
-这三字精辟地总结了这三年中国社会民情的基本特征；这三字背后诉尽大陆中国人的民生艰辛困境乃至绝境。<br>从卷到润，还是民心的变化。<br>“润”即用脚投票，问题是至少80%的人无力用脚投票；有能力用脚投票的人正在被快速关闭的国门阻挡。<br>2023 将是哪个字？<br>2024 再是哪个字？<br><br>iPaul🇨🇦🇺🇦: 三个字概括过去这3年：<br>2020：卷<br>2021：躺<br>2022：润<br>
+这三字精辟地总结了这三年中国社会民情的基本特征；这三字背后诉尽大陆中国人的民生艰辛困境乃至绝境。<br>从卷到润，还是民心的变化。<br>“润”即用脚投票，问题是至少80%的人无力用脚投票；有能力用脚投票的人正在被快速关闭的国门阻挡。<br>2023 将是哪个字？<br>2024 再是哪个字？
 
 ### 59: [2022-05-15 23:02:55+08:00 推文](https://twitter.com/realcaixia/status/1525854245110489090)
 
