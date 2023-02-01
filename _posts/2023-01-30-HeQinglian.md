@@ -211,3 +211,11 @@ Re @fading_you1 阿富汗从1968年至今，已经从中等发达国家折腾回
 
 Re @tech130896 你认真研究过儒学？
 
+### 50: [2023-02-01 10:04:30+08:00 推文](https://twitter.com/HeQinglian/status/1620603968031444993)
+
+Re @Yjll95699445 @fading_you1 你可以告诉我，德国的选举与美国的选举一样么？
+
+### 51: [2023-02-01 10:12:43+08:00 推文](https://twitter.com/HeQinglian/status/1620606037224206337)
+
+Re @eGUAbe2V7j26GHw @Estellaluu 如今很多家庭就是因为母亲放弃了母职，才变得不正常且无温馨感。
+
