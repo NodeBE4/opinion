@@ -299,3 +299,7 @@ Re @NAConservative9 👍👍👍
 
 奥巴马亲自出马为大麻合法化造势，连大麻都打上了种族歧视烙印。<br>2014年1月，他在接受《纽约客》（The New Yorker）记者雷姆尼克（David Remnick）采访时说，他小时候吸过大麻，大麻的危害性不及酒精。由于中产阶级的孩子不吸麻，相关法律的执行对象大部分是贫穷的少数族裔。 <a href="https://www.newyorker.com/magazine/2014/01/27/going-the-distance-david-remnick" target="_blank" rel="noopener noreferrer">https://www.newyorker.com/magazine/2014/01/27/going-the-distance-david-remnick</a>
 
+### 72: [2023-02-02 06:30:04+08:00 推文](https://twitter.com/HeQinglian/status/1620912396067028998)
+
+Re @Nobody197575 我这里是12个鸡蛋，根据大小7-9美元。
+

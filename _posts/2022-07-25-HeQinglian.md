@@ -681,7 +681,7 @@ Re @zhixiangziyou @triplebai 羊肉冬瓜汤？<br>羊肉是温补食物，冬�
 
 ### 167: [2022-07-31 03:46:34+08:00 推文](https://twitter.com/HeQinglian/status/1553467102958424065)
 
-尽管知道文化快餐的年代，这种严肃的社会病溯源文章不会有多少人读，但我还是认真推荐。<br>文化马克思主义正在毁掉西方，只是美国有BLM这种暴马加文马存在，毁的速度特别快。
+尽管知道文化快餐的年代，这种严肃的社会病溯源文章不会有多少人读，但我还是认真推荐。<br>文化马克思主义正在毁掉西方，只是美国有BLM这种暴马加文马存在，毁的速度特别快。<br><br>戴维（英国观察）: 解滨：文化马克思主义正在毁掉美国<br> <a href="https://groups.google.com/g/2ncn/c/DIVTQSFiM6o" target="_blank" rel="noopener noreferrer">https://groups.google.com/g/2ncn/c/DIVTQSFiM6o</a>
 
 ### 168: [2022-07-31 04:05:52+08:00 推文](https://twitter.com/HeQinglian/status/1553471960604200960)
 
