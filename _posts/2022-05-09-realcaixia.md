@@ -165,7 +165,7 @@ Re @q5E5KqUxIoWkM33 @AndrickLi 我遇到过两次查我：1，2013年我发文�
 
 ### 38: [2022-05-09 22:02:46+08:00 推文](https://twitter.com/realcaixia/status/1523664777976852481)
 
-这个文件如果是真实的，很值得关注。文革时期的各种做法改头换面的死灰复燃了。“斗争”是文革时期的主旋律，以各种借口挑起民众斗民众，并且还是政府组织一支队伍斗争民众。<br><br>餘錢 100: @realcaixia 【組建法理鬥爭民兵排】什麼玩意東西？難道是中共見識到了上海的懂法群眾，專門組建起來用來對付敢言的法學教授或學者？打不贏就用糾纏？這不就是文革式流氓嗎？司法局難道要文革复闢打倒法學教材嗎？上海人的主張是完全有法理的，法理鬥爭民兵排拿什麼來鬥爭？用假法理鬥爭真法理？真的是貽笑大方！<br><br><img style="" src="https://pbs.twimg.com/media/FSUYNMQXsAAw_WQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+这个文件如果是真实的，很值得关注。文革时期的各种做法改头换面的死灰复燃了。“斗争”是文革时期的主旋律，以各种借口挑起民众斗民众，并且还是政府组织一支队伍斗争民众。
 
 ### 39: [2022-05-10 02:09:28+08:00 推文](https://twitter.com/realcaixia/status/1523726863918534658)
 
@@ -241,7 +241,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FSrg9DDUUAEO-Jq?format=jpg
 
 ### 57: [2022-05-15 22:45:45+08:00 推文](https://twitter.com/realcaixia/status/1525849924092297216)
 
-荒谬的消杀做法，是政府违法犯法，是打着防疫名义的犯罪行为。杨佳至今活在人们心里，是因为杨佳拼死反抗了极权政权。大陆当局正在逼迫越来越多的人成为杨佳。
+荒谬的消杀做法，是政府违法犯法，是打着防疫名义的犯罪行为。杨佳至今活在人们心里，是因为杨佳拼死反抗了极权政权。大陆当局正在逼迫越来越多的人成为杨佳。<br><br>liqun chen（陈立群）: 北京人应该都知道杨佳吧！虽然事情发生在上海。<br>杨佳说：你不给我一个说法，我就给你一个说法！<br> <a href="https://twitter.com/jupiterf5/status/1525734088409092096" target="_blank" rel="noopener noreferrer">https://twitter.com/jupiterf5/status/1525734088409092096</a>
 
 ### 58: [2022-05-15 23:00:59+08:00 推文](https://twitter.com/realcaixia/status/1525853756176277504)
 
