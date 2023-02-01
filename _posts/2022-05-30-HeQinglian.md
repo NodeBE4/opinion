@@ -213,7 +213,7 @@ Re @chinazi198404 @JiangShangrong 说得很清楚：半黑半白，全看什么�
 
 ### 50: [2022-06-05 10:06:14+08:00 推文](https://twitter.com/HeQinglian/status/1533268929946296320)
 
-疫情以来，世卫无论说什么，包括承认错误、批评中国之类，只能让我猜想：世卫这番折腾，是奔什么标的物去的？
+疫情以来，世卫无论说什么，包括承认错误、批评中国之类，只能让我猜想：世卫这番折腾，是奔什么标的物去的？<br><br>KimPR: 政變：世衛組織正式承認其關於新冠死亡率的大量數據是錯誤的🤡🍿<br><br><img style="" src="https://pbs.twimg.com/media/FUXmKbgXwAAgeDK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 51: [2022-06-05 10:16:30+08:00 推文](https://twitter.com/HeQinglian/status/1533271515873034241)
 
@@ -225,7 +225,7 @@ RT 🇷🇺圣母白莲花高级研究员<br>印度外长苏杰生质问欧盟
 
 ### 53: [2022-06-05 20:20:17+08:00 推文](https://twitter.com/HeQinglian/status/1533423461288263681)
 
-美国民主党的拳头就是BLM、Antifa、严重党派化的司法系统。<br>2024年拜登控枪演讲时说“想用武器对抗政府就得有F15战机和核武器” ，虽然被解释成开玩笑，我觉得是真言。
+美国民主党的拳头就是BLM、Antifa、严重党派化的司法系统。<br>2024年拜登控枪演讲时说“想用武器对抗政府就得有F15战机和核武器” ，虽然被解释成开玩笑，我觉得是真言。<br><br>沈良庆二世: 美国政治学者罗素.哈丁曾指出宪法、民主功能的有限性：只有我们能协调自己，这些东西才能协调我们。意指特定政治社会价值和利益多元的人们必须有基本共识，这些游戏规则才能发挥协调作用。在那些分裂型社会，如索马里、卢旺达那样的非洲国家，赢家通吃导致输家不接受游戏规则，最后只能靠拳头决雌雄。<br>
 
 ### 54: [2022-06-05 20:31:32+08:00 推文](https://twitter.com/HeQinglian/status/1533426292699369472)
 
@@ -241,5 +241,5 @@ Re @xiaxiaoqiang 以前电影、电视剧看得少，近几年的不好看。本
 
 ### 57: [2022-06-05 20:43:17+08:00 推文](https://twitter.com/HeQinglian/status/1533429248261771264)
 
-这几天上推少，居然遗漏了这条重要消息。<br><br>jiang shangrong: ‼️🇺🇸🇺🇦“拜登说,作为‘协商解决’一部分,乌可能不得不将领土交给俄”—纽约邮报<br><br>“拜登下属此前表示,乌正放弃土地以安抚普京”纽约邮报说<br><br>评:不是言之凿凿要肢解俄,让普京下台,作战犯审判吗?咋“安抚”普京了?主动割地求和了?可惜，现在的局势，什么时候停，怎么停，可不是你说了算了<br><br><img style="" src="https://pbs.twimg.com/media/FUdzfd6X0AE2Orp?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="http://t.me/JShangrong" target="_blank" rel="noopener noreferrer">http://t.me/JShangrong</a>
+这几天上推少，居然遗漏了这条重要消息。 <a href="https://twitter.com/JiangShangrong/status/1533321188046405635" target="_blank" rel="noopener noreferrer">https://twitter.com/JiangShangrong/status/1533321188046405635</a>
 

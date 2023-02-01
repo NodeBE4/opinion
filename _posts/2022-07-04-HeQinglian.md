@@ -421,7 +421,7 @@ Re @JianglinLi 这些人就是这么走过来的，当年挺郭、挺拜包括�
 
 ### 102: [2022-07-07 20:18:05+08:00 推文](https://twitter.com/HeQinglian/status/1545019318538326018)
 
-因为研究养成的习惯，总喜欢了解事情全过程，观其首尾。<br>从约翰逊首次郑重宣布“普京必须下台”，到现在也不过就三个多月而已。<br>世事之无常也还罢了，希望一干人忙着变脸时，认真想想这几个月世界发生了什么。<br>拜登如果不下台，美国现在的“民主”绝对有问题，英相主要祸害本国，拜登祸害要广得多。
+因为研究养成的习惯，总喜欢了解事情全过程，观其首尾。<br>从约翰逊首次郑重宣布“普京必须下台”，到现在也不过就三个多月而已。<br>世事之无常也还罢了，希望一干人忙着变脸时，认真想想这几个月世界发生了什么。<br>拜登如果不下台，美国现在的“民主”绝对有问题，英相主要祸害本国，拜登祸害要广得多。<br><br>jiang shangrong: 约翰逊宣布辞去首相职务。<br><br><video src="https://video.twimg.com/ext_tw_video/1545011890589507590/pu/vid/848x464/0v71lXJMNKLUrp8R.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1545011890589507590/pu/img/WaQ0CQQfM-9SPxwn.jpg"></video> <a href="https://t.me/JShangrong" target="_blank" rel="noopener noreferrer">https://t.me/JShangrong</a>
 
 ### 103: [2022-07-07 20:22:34+08:00 推文](https://twitter.com/HeQinglian/status/1545020449410752514)
 
@@ -697,7 +697,7 @@ Re @guchuan81 我其实也好想种棵樱桃树，查了资料，畏惧甲虫与
 
 ### 171: [2022-07-10 03:24:05+08:00 推文](https://twitter.com/Tianshuihanyan/status/1545851299811442688)
 
-RT 纳姐 全媒体首席主播，全媒体美国小镇镇长<br>拜登老婆比女皇还威风！退休3星将军只在拜登老婆的推下面回了一句话：“很高兴看到你终于知道什么是女人了！”  . 居然被美军解除高薪顾问工作合约！<br><br>左派就是用这些卑鄙手段恐吓打击军中保守派官兵，让他们屈服于左派的统治！
+RT 纳姐 全媒体首席主播，全媒体美国小镇镇长<br>拜登老婆比女皇还威风！退休3星将军只在拜登老婆的推下面回了一句话：“很高兴看到你终于知道什么是女人了！”  . 居然被美军解除高薪顾问工作合约！<br><br>左派就是用这些卑鄙手段恐吓打击军中保守派官兵，让他们屈服于左派的统治！<br><br>New York Post: Retired three-star general Gary Volesky suspended over tweet mocking Jill Biden<br><br><img style="" src="https://pbs.twimg.com/media/FXPdBhpXEAAIBVm?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://trib.al/pzgrj03" target="_blank" rel="noopener noreferrer">https://trib.al/pzgrj03</a>
 
 ### 172: [2022-07-10 03:56:25+08:00 推文](https://twitter.com/HeQinglian/status/1545859437658783745)
 

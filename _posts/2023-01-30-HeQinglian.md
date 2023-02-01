@@ -201,7 +201,7 @@ Re @farmdirect8 去纽约上州一朋友家，他家的Deck都未装栏干，如
 
 ### 47: [2023-02-01 02:30:26+08:00 推文](https://twitter.com/HeQinglian/status/1620489700887900161)
 
-RT He Qinglian<br>Re @fading_you1 以前我以为中国人该长点记性了，但这几年“顺着反共的一地坚冰，呲溜一下滑到进步主义街对面去”的人太多了，因此已有思想准备。<br>阿富汗是前车之鉴。这国从1960年代开始，先是马克思主义立国、再就是苏联美国先后折腾，弄出一个极端伊斯兰主义，然后是美式民主（包括性多元化教育），现在又回到极伊。
+Re @fading_you1 以前我以为中国人该长点记性了，但这几年“顺着反共的一地坚冰，呲溜一下滑到进步主义街对面去”的人太多了，因此已有思想准备。<br>阿富汗是前车之鉴。这国从1960年代开始，先是马克思主义立国、再就是苏联美国先后折腾，弄出一个极端伊斯兰主义，然后是美式民主（包括性多元化教育），现在又回到极伊。
 
 ### 48: [2023-02-01 02:36:48+08:00 推文](https://twitter.com/HeQinglian/status/1620491304382906368)
 
@@ -239,39 +239,63 @@ Re @Yjll95699445 @fading_you1 我从未为中国经济造势。<br>中国经济�
 
 Re @KELMAND1 性产业是纳入服务业计算的，应召女郎应该算是自由职业，纳税应该是很少的。大麻行业从2020年之后，收益有增长，有些州依赖还很大。但纳入什么行业，我还真的需要查查，肯定不是毒品，难道是药品、食品行业？
 
-### 57: [2023-02-01 23:31:19+08:00 推文](https://twitter.com/HeQinglian/status/1620807011796656128)
+### 57: [2023-02-01 23:29:00+08:00 推文](https://twitter.com/NAConservative9/status/1620806430659067905)
+
+RT 北美保守评论🇺🇸🇨🇦<br>《德桑蒂斯计划撤销在佛州公立大学里资助CRT、DEI废话的资金》<br><br>我们不禁为德桑蒂斯的坚定的保守主义立场和极大的勇气击节叫好！我们完全支持德桑蒂斯州长的行动，衷心祈愿佛罗里达州在他的领导下，坚定地守护美国传统的保守主义价值观，坚守美国的宪法，拆毁美国的一切作为。 <a href="https://nacr.info/WordPress/index.php/2023/02/01/desantis-plan-would-defund-crt-dei-nonsense-at-florida-public-universities/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2023/02/01/desantis-plan-would-defund-crt-dei-nonsense-at-florida-public-universities/</a><br><img style="" src="https://pbs.twimg.com/media/Fn5CnxnX0AAFX0g?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 58: [2023-02-01 23:31:19+08:00 推文](https://twitter.com/HeQinglian/status/1620807011796656128)
 
 俄罗斯总统令文化动员与西方冲突有何关系？<br><br>普京修改“国家文化政策基本原则”，规定保护男女结合的婚姻制度，在俄传统精神和道德价值观的基础上为儿童成长和发展创造条件<br>俄拒绝欧洲人权法院呼吁俄引入承认同性关系的法律程序，强调文化主权<br>俄罗斯与西方的冲突已进入文化层面 <a href="https://chinese.aljazeera.net/sport-culture/culture/2023/1/28/%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E4%BB%A4%E6%96%87%E5%8C%96%E5%8A%A8%E5%91%98%E4%B8%8E%E8%A5%BF%E6%96%B9%E5%86%B2%E7%AA%81%E6%9C%89%E4%BD%95%E5%85%B3%E7%B3%BB" target="_blank" rel="noopener noreferrer">https://chinese.aljazeera.net/sport-culture/culture/2023/1/28/%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E4%BB%A4%E6%96%87%E5%8C%96%E5%8A%A8%E5%91%98%E4%B8%8E%E8%A5%BF%E6%96%B9%E5%86%B2%E7%AA%81%E6%9C%89%E4%BD%95%E5%85%B3%E7%B3%BB</a>
 
-### 58: [2023-02-01 23:36:10+08:00 推文](https://twitter.com/HeQinglian/status/1620808231378636800)
+### 59: [2023-02-01 23:36:10+08:00 推文](https://twitter.com/HeQinglian/status/1620808231378636800)
 
 Re @Tepezano161 你动不动就作历史结论。<br>历史需要时间沉淀，切莫将正在发生的事情归于历史。
 
-### 59: [2023-02-01 23:46:16+08:00 推文](https://twitter.com/HeQinglian/status/1620810773101674496)
+### 60: [2023-02-01 23:46:16+08:00 推文](https://twitter.com/HeQinglian/status/1620810773101674496)
 
 Re @huxkak1 政客是白莲花？<br>世上有这样的政客吗？
 
-### 60: [2023-02-02 00:37:42+08:00 推文](https://twitter.com/HeQinglian/status/1620823718556749826)
+### 61: [2023-02-02 00:37:42+08:00 推文](https://twitter.com/HeQinglian/status/1620823718556749826)
 
 Re @Tifas1999 @TianyuB 文化对人的影响，从来就是一个各抒己见的议题，甲从一堆资料、文献里找出不少例子证明自己的观点；乙立刻从一堆文献里找出相反的例子证明自己的观点。
 
-### 61: [2023-02-02 00:38:28+08:00 推文](https://twitter.com/HeQinglian/status/1620823912480374784)
+### 62: [2023-02-02 00:38:28+08:00 推文](https://twitter.com/HeQinglian/status/1620823912480374784)
 
 Re @Tepezano161 男女性别，不是传统观念，是常识，亘古未变。
 
-### 62: [2023-02-02 00:42:22+08:00 推文](https://twitter.com/HeQinglian/status/1620824892450160647)
+### 63: [2023-02-02 00:42:22+08:00 推文](https://twitter.com/HeQinglian/status/1620824892450160647)
 
 Re @ddiohnjingxu7 能支持一百年，那就不是浩劫了，算人类生存状态之一。<br>毛的统治前后也就28年，可着劲折腾，直到他自己老病交至，折腾不动。
 
-### 63: [2023-02-02 00:46:03+08:00 推文](https://twitter.com/HeQinglian/status/1620825817755553792)
+### 64: [2023-02-02 00:46:03+08:00 推文](https://twitter.com/HeQinglian/status/1620825817755553792)
 
 Re @tina68971999 不完全是，有的算中间。
 
-### 64: [2023-02-02 00:50:04+08:00 推文](https://twitter.com/HeQinglian/status/1620826828180172801)
+### 65: [2023-02-02 00:50:04+08:00 推文](https://twitter.com/HeQinglian/status/1620826828180172801)
 
 Re @jiu_chai_yi_gen 你可能忽视了几个月前的消息：乌克兰与台湾挺乌团体已经公开宣布，双方在文化价值上的冲突，皆因俄反同（2014年就制定法律）。<br>文化冲突是因素之一（甚至不是开战因素），但最高表现是战争。
 
-### 65: [2023-02-02 00:53:41+08:00 推文](https://twitter.com/HeQinglian/status/1620827740923654145)
+### 66: [2023-02-02 00:53:41+08:00 推文](https://twitter.com/HeQinglian/status/1620827740923654145)
 
 Re @huxkak1 民主、自由这块牌子真好，有了它，做什么都对。专制牌子（包括从前政权继承来的专制极权牌子）臭大街，做什么都是错。<br>拜登家族那事，搁在普京、习近平身上，会如何？恐怕早就罄竹难书，只是这些人文化水儿少点，做不了李密与骆宾王，只能开粗口。
+
+### 67: [2023-02-02 04:08:49+08:00 推文](https://twitter.com/HeQinglian/status/1620876849097347072)
+
+Re @cheerlyhsu 我说过，据我长期追踪拉斯穆森调查，无论拜登与民主党做什么都支持的人，大概占28%左右，80%都支持的占34-36%，民主党铁粉应该在40%左右——曾写过一项数据分析。
+
+### 68: [2023-02-02 04:24:09+08:00 推文](https://twitter.com/HeQinglian/status/1620880706359685123)
+
+参议员伊丽莎白·沃伦在宣布华盛顿特区应该成为一个州后，被美国群众恶补宪法课。<br>群众不得不告诉参议员教授：美国宪法第 I 条第 8 节禁止华盛顿特区建州。<br>DC成为一个州的唯一途径是批准一项授予其州地位的宪法修正案。<br><br>民主党一直想让DC与波多黎各建州，以便本党多四个议席 <a href="https://www.theblaze.com/news/elizabeth-warren-dc-statehood" target="_blank" rel="noopener noreferrer">https://www.theblaze.com/news/elizabeth-warren-dc-statehood</a>
+
+### 69: [2023-02-02 04:27:02+08:00 推文](https://twitter.com/HeQinglian/status/1620881430078443520)
+
+Re @JianglinLi 明年好象是八年树龄，花开应该满枝头了。
+
+### 70: [2023-02-02 04:28:33+08:00 推文](https://twitter.com/HeQinglian/status/1620881814071177216)
+
+Re @NAConservative9 👍👍👍
+
+### 71: [2023-02-02 04:55:26+08:00 推文](https://twitter.com/HeQinglian/status/1620888580548878337)
+
+奥巴马亲自出马为大麻合法化造势，连大麻都打上了种族歧视烙印。<br>2014年1月，他在接受《纽约客》（The New Yorker）记者雷姆尼克（David Remnick）采访时说，他小时候吸过大麻，大麻的危害性不及酒精。由于中产阶级的孩子不吸麻，相关法律的执行对象大部分是贫穷的少数族裔。 <a href="https://www.newyorker.com/magazine/2014/01/27/going-the-distance-david-remnick" target="_blank" rel="noopener noreferrer">https://www.newyorker.com/magazine/2014/01/27/going-the-distance-david-remnick</a>
 
