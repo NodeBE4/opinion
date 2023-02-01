@@ -321,7 +321,7 @@ Re @zt33268778 最大的可能是贴牌生产。<br>美墨边境会设很多工�
 
 ### 77: [2022-04-19 07:52:25+08:00 推文](https://twitter.com/HeQinglian/status/1516203025672675328)
 
-记得班加西事件发生后，有位在美军服役的熟人告诉我：外交界与军人恨透了希拉里。<br>2016年大选，军人票投了多少给希拉里我不清楚，但我知道300多名美国外交官联名反对川普，说他不适合做总统。2020年，一百多名美国外交官再发公开信反对川普。
+记得班加西事件发生后，有位在美军服役的熟人告诉我：外交界与军人恨透了希拉里。<br>2016年大选，军人票投了多少给希拉里我不清楚，但我知道300多名美国外交官联名反对川普，说他不适合做总统。2020年，一百多名美国外交官再发公开信反对川普。<br><br>Kim Jong-un: 分享美利坚轶闻一则。<br><br>2012年7月25日，一架美军直升机在利比亚执行任务时被导弹射中，万幸导弹并未爆炸。<br>飞行员迫降后，惊讶地发现这是一枚美军的毒刺导弹。事故调查组根据导弹上的序列号，发现这枚导弹本应由美国中央情报局保管在干里之外的卡塔尔乌代德基地中。<br>那么导弹为何落到恐怖组织手里？<br>
 
 ### 78: [2022-04-19 07:58:05+08:00 推文](https://twitter.com/HeQinglian/status/1516204449450151941)
 
@@ -845,7 +845,7 @@ Re @JianglinLi @Wu_Zhi @JiangShangrong 连自己都没照亮。<br>记得有位U
 
 ### 208: [2022-04-23 00:53:01+08:00 推文](https://twitter.com/HeQinglian/status/1517547030146600965)
 
-[欧盟委员会周五表示，如果欧盟公司以欧元或美元支付，然后将其兑换成俄罗斯货币，那么它们可能能够解决俄罗斯要求以卢布支付天然气的要求，而不会违反制裁。]<br>路透还有一条，英国允许本国公司购买俄能源到5月31日。<br>自己撒落的一地鸡毛，一片一片捡吧。
+[欧盟委员会周五表示，如果欧盟公司以欧元或美元支付，然后将其兑换成俄罗斯货币，那么它们可能能够解决俄罗斯要求以卢布支付天然气的要求，而不会违反制裁。]<br>路透还有一条，英国允许本国公司购买俄能源到5月31日。<br>自己撒落的一地鸡毛，一片一片捡吧。<br><br>Reuters: EU says gas payments may be possible under Russian roubles proposal without breaching sanctions<br><br><img style="" src="https://pbs.twimg.com/media/FQ9PUVfXwAAdBc4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="http://reut.rs/3KadHGC" target="_blank" rel="noopener noreferrer">http://reut.rs/3KadHGC</a>
 
 ### 209: [2022-04-23 00:55:41+08:00 推文](https://twitter.com/HeQinglian/status/1517547703382724609)
 
