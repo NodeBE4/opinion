@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2020-10-12~2020-10-18'
 
 ### 1: [2020-10-13 06:13:25+08:00 推文](https://twitter.com/realcaixia/status/1315777621666467840)
 
-<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  因篇幅所限，转发许志永案件律师谢宇燕所写的公开信。谢律师在公开信中指出的几点至关重要：1，许志永，丁家喜因2019年12月26日在厦门一餐厅正常的公民聚会而被拘，罪名是邪恶的“煽颠罪”；2、许志永、丁家喜被拘至今未被获准见其辩护律师，许、丁无法获得权利救助，律师无法履行法律职责；<br clear="both"><div style="clear: both"></div><a href="https://pbs.twimg.com/media/EkKUwqdWoAMK4wj?format=jpg&name=orig"><img hspace="4" vspace="8" src="https://pbs.twimg.com/media/EkKUwqdWoAMK4wj?format=jpg&name=orig" referrerpolicy="no-referrer"></a><a href="https://pbs.twimg.com/media/EkKUwqeX0AAxK80?format=jpg&name=orig"><img hspace="4" vspace="8" src="https://pbs.twimg.com/media/EkKUwqeX0AAxK80?format=jpg&name=orig" referrerpolicy="no-referrer"></a><a href="https://pbs.twimg.com/media/EkKUwqfXcAUoiX8?format=jpg&name=orig"><img hspace="4" vspace="8" src="https://pbs.twimg.com/media/EkKUwqfXcAUoiX8?format=jpg&name=orig" referrerpolicy="no-referrer"></a><a href="https://pbs.twimg.com/media/EkKUwqpWkAEFjPe?format=jpg&name=orig"><img hspace="4" vspace="8" src="https://pbs.twimg.com/media/EkKUwqpWkAEFjPe?format=jpg&name=orig" referrerpolicy="no-referrer"></a><hr><small>10/13/2020, 6:13:25 AM</small>
+因篇幅所限，转发许志永案件律师谢宇燕所写的公开信。谢律师在公开信中指出的几点至关重要：1，许志永，丁家喜因2019年12月26日在厦门一餐厅正常的公民聚会而被拘，罪名是邪恶的“煽颠罪”；2、许志永、丁家喜被拘至今未被获准见其辩护律师，许、丁无法获得权利救助，律师无法履行法律职责； <br><img src="https://pbs.twimg.com/media/EkKUwqdWoAMK4wj?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EkKUwqeX0AAxK80?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EkKUwqfXcAUoiX8?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EkKUwqpWkAEFjPe?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2020-10-13 06:17:37+08:00 推文](https://twitter.com/realcaixia/status/1315778676261302274)
 
@@ -25,7 +25,7 @@ Re 3、中共司法当局明知无证据、无事实根据、无法律依据，�
 
 ### 3: [2020-10-13 06:20:30+08:00 推文](https://twitter.com/realcaixia/status/1315779405147496449)
 
-<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  🔁 丁家喜夫人女儿移居在美，丁家喜2017年到美与家人团聚后，放下对妻女的眷恋，重返中国大陆为中国的政治发展而不懈努力。<br> 5，谢律师指出：专制历史终将终结。我们面对着的是少数反法治反正义反人类的邪恶势力。善恶终有报是天道法则，伤天害理放纵堕落必将劫数难逃！掌权者应无罪释放许丁等所有良心犯<hr><small>10/13/2020, 6:20:30 AM</small>
+Re 丁家喜夫人女儿移居在美，丁家喜2017年到美与家人团聚后，放下对妻女的眷恋，重返中国大陆为中国的政治发展而不懈努力。<br> 5，谢律师指出：专制历史终将终结。我们面对着的是少数反法治反正义反人类的邪恶势力。善恶终有报是天道法则，伤天害理放纵堕落必将劫数难逃！掌权者应无罪释放许丁等所有良心犯
 
 ### 4: [2020-10-13 08:00:08+08:00 推文](https://twitter.com/realcaixia/status/1315804478453489670)
 
@@ -49,7 +49,7 @@ Re 4，这意味着，中国自上而下通过强化警察在政府系统中的�
 
 ### 9: [2020-10-13 10:15:50+08:00 推文](https://twitter.com/realcaixia/status/1315838628216688640)
 
-<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  🔁 辅警纳入政府事业单位编制。<br clear="both"><div style="clear: both"></div><a href="https://pbs.twimg.com/media/EkLMQeAX0Acryt7?format=jpg&name=orig"><img hspace="4" vspace="8" src="https://pbs.twimg.com/media/EkLMQeAX0Acryt7?format=jpg&name=orig" referrerpolicy="no-referrer"></a><hr><small>10/13/2020, 10:15:50 AM</small>
+Re 辅警纳入政府事业单位编制。 <br><img src="https://pbs.twimg.com/media/EkLMQeAX0Acryt7?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 10: [2020-10-13 22:28:45+08:00 推文](https://twitter.com/realcaixia/status/1316023071715684358)
 
