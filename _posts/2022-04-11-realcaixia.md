@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2022-04-11~2022-04-17'
 
 ### 1: [2022-04-11 00:54:31+08:00 推文](https://twitter.com/realcaixia/status/1513198753209065473)
 
-当局是大规模传播病毒感染的制造者。<br><br>鲁  难: 按照广州测核酸的这个模式来推测，距离封城应该不远了。<br>测核酸就说明知道有潜在的病毒携带者。<br>然后把人们聚在一起测核酸，创造一个集体感染、让疾病集中爆发的环境条件，这是抗疫还是在传播疫情？<br><br><video src="https://video.twimg.com/ext_tw_video/1513170686134697985/pu/vid/720x1146/FHPTK1I1OIEPxWAO.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1513170686134697985/pu/img/yjgXNGA6Ixu7xf1E.jpg"></video>
+当局是大规模传播病毒感染的制造者。
 
 ### 2: [2022-04-11 01:03:19+08:00 推文](https://twitter.com/realcaixia/status/1513200970234224641)
 
@@ -41,11 +41,11 @@ Re 多个跟帖说现在这长冷兵器已经充分普及了。反过来想，�
 
 ### 7: [2022-04-11 11:29:22+08:00 推文](https://twitter.com/realcaixia/status/1513358520623591426)
 
-太好了！台湾民选政府才是中国人的真正民主政府，期望看到有更多的国家和台湾建立正式邦交关系。台湾是中国人推动大陆向宪政民主政治转型的榜样。
+太好了！台湾民选政府才是中国人的真正民主政府，期望看到有更多的国家和台湾建立正式邦交关系。台湾是中国人推动大陆向宪政民主政治转型的榜样。<br><br>Dr. Bo 🇺🇸🇹🇼🇭🇰: 台灣外交部歡迎瑞典國會和歐洲議會代表訪問台灣。這是歷史上首次歐洲立法機構代表訪問台灣。<br> <a href="https://twitter.com/MOFA_Taiwan/status/1513121067090743301" target="_blank" rel="noopener noreferrer">https://twitter.com/MOFA_Taiwan/status/1513121067090743301</a>
 
 ### 8: [2022-04-11 11:45:34+08:00 推文](https://twitter.com/realcaixia/status/1513362596484714499)
 
-这是民间自救互救，本是大好事。中共对这个都要封杀，可见他们是多么的残暴与虚伪。他们不是天天说“人民至上”吗？！
+这是民间自救互救，本是大好事。中共对这个都要封杀，可见他们是多么的残暴与虚伪。他们不是天天说“人民至上”吗？！<br><br>新闻/真话: 上海程序员有善心，想减少封城引发的次生灾害，就搞了一个上海人自救网站，让网友把自己的紧急情况登记在上面，本来是功德无量的事，却无意间曝光了中共的罪恶，导致中共恼羞成怒，封杀了这个救人的网站<br><br><img style="" src="https://pbs.twimg.com/media/FP_lJ19agAMzv-r?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP_lJ1-agAM1B4Q?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 9: [2022-04-11 13:38:12+08:00 推文](https://twitter.com/realcaixia/status/1513390942648078337)
 
@@ -61,7 +61,7 @@ Re @lianchaohan 习是人祸制造者。
 
 ### 12: [2022-04-12 00:01:46+08:00 推文](https://twitter.com/realcaixia/status/1513547866375172108)
 
-中共文件的标题就表明了挂羊头卖狗肉。市场经济是法治保障公平竞争的自由经济。所谓“统一”大市场，“统一”什么？谁来统一？怎么统一？中共文件从头到尾充满强权意志话语。看看他们对孙大午企业的公然抢劫，他们对孙大午的公开迫害，就知道他们要干什么。用脚投票是正确选择，但是许多人还能出得来吗？<br><br>荣剑: 今天的股市，当然，未必是对这个即将到来的统一大市场的恐惧性反映，你们看吧，在这样的政策下，总是会有越来越多的人选择用脚投票。<br><br><img style="" src="https://pbs.twimg.com/media/FQCZHkVagAUSOpv?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/rongjian1957/status/1513321867003641859" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1513321867003641859</a>
+中共文件的标题就表明了挂羊头卖狗肉。市场经济是法治保障公平竞争的自由经济。所谓“统一”大市场，“统一”什么？谁来统一？怎么统一？中共文件从头到尾充满强权意志话语。看看他们对孙大午企业的公然抢劫，他们对孙大午的公开迫害，就知道他们要干什么。用脚投票是正确选择，但是许多人还能出得来吗？
 
 ### 13: [2022-04-12 00:25:03+08:00 推文](https://twitter.com/realcaixia/status/1513553725968814080)
 
@@ -85,7 +85,7 @@ Re @wsddasfgd @yibaochina 是的，这个问题还没有最终解决，我们正
 
 ### 18: [2022-04-12 21:33:31+08:00 推文](https://twitter.com/realcaixia/status/1513872948087640067)
 
-一党专政遍地是灾！一人独裁全民遭殃！
+一党专政遍地是灾！一人独裁全民遭殃！<br><br>Chenchen Zhang 🤦🏻‍♀️: what's it like to be quarantined in uni dorms in Changchun...<br>stuck in a 6-person room for a month, only able to take a shower once, can only go to the water distribution room and public bathroom (no toilet or water tap in the dorm), where one must use one designated stall<br><br><img style="" src="https://pbs.twimg.com/media/FQH9AppXoAE7J9z?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 19: [2022-04-14 05:02:18+08:00 推文](https://twitter.com/realcaixia/status/1514348274844672003)
 
@@ -97,7 +97,7 @@ Re @wsddasfgd @yibaochina 是的，这个问题还没有最终解决，我们正
 
 ### 21: [2022-04-14 08:47:25+08:00 推文](https://twitter.com/realcaixia/status/1514404928340598786)
 
-强力推荐#议报昨日发布的关于习近平与普京关系的文章。追溯历史，中共作为前苏共党第三国际里的中国支部，一开始就不是独立的政党。尽管中苏曾有过两党关系紧张，但中共从没割断过与前苏共党连结的精神脐带。习近平曾评论前苏联政治巨变时说苏共党内“竟无一人是男儿”，就充分体现习是前列宁党的子孙。
+强力推荐#议报昨日发布的关于习近平与普京关系的文章。追溯历史，中共作为前苏共党第三国际里的中国支部，一开始就不是独立的政党。尽管中苏曾有过两党关系紧张，但中共从没割断过与前苏共党连结的精神脐带。习近平曾评论前苏联政治巨变时说苏共党内“竟无一人是男儿”，就充分体现习是前列宁党的子孙。<br><br>《议报》: 【译丛】不要低估习近平与普京的关系<br> <a href="https://yibaochina.com/?p=245940" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245940</a>
 
 ### 22: [2022-04-14 09:04:24+08:00 推文](https://twitter.com/realcaixia/status/1514409200415227905)
 
@@ -129,7 +129,7 @@ Re 孙大午对官府绝不行贿，依靠自己和村民勤劳努力办企业�
 
 ### 29: [2022-04-15 00:16:03+08:00 推文](https://twitter.com/realcaixia/status/1514638623097823240)
 
-上海市志愿者反抗强权意志！为这样的志愿者叫好！<br><br>鲁  难: 上海市徐汇区的志愿者拒绝上门贴封条：难道法律还没有你们的领导大吗？<br><br><video src="https://video.twimg.com/ext_tw_video/1514075238883020813/pu/vid/720x1006/cy7J2U_-8NkvLIJ3.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1514075238883020813/pu/img/-PHWGVwKEUbf8spp.jpg"></video>
+上海市志愿者反抗强权意志！为这样的志愿者叫好！
 
 ### 30: [2022-04-15 02:13:41+08:00 推文](https://twitter.com/realcaixia/status/1514668227716005889)
 
@@ -137,7 +137,7 @@ Re 孙大午对官府绝不行贿，依靠自己和村民勤劳努力办企业�
 
 ### 31: [2022-04-15 02:29:12+08:00 推文](https://twitter.com/realcaixia/status/1514672132105592835)
 
-请看这篇推友发布的上海非正常逝去生命的一些信息。有网友提议：希望这份名单可以成为一份开放协作文档，请大家添上身边逝者的故事。<br>虽然很残酷很令人痛心，但为的是让大家看到这不仅只是数字，而是一个个真实的人，曾经鲜活的生命。每一个逝去的生命都让数个家庭数位亲友瞬时跌入无尽痛苦深渊……<br><br>Ying Li: @liuhong @ZhouFengSuo<br> <a href="https://twitter.com/suxinpl/status/1514584550239875074" target="_blank" rel="noopener noreferrer">https://twitter.com/suxinpl/status/1514584550239875074</a>
+请看这篇推友发布的上海非正常逝去生命的一些信息。有网友提议：希望这份名单可以成为一份开放协作文档，请大家添上身边逝者的故事。<br>虽然很残酷很令人痛心，但为的是让大家看到这不仅只是数字，而是一个个真实的人，曾经鲜活的生命。每一个逝去的生命都让数个家庭数位亲友瞬时跌入无尽痛苦深渊……
 
 ### 32: [2022-04-15 02:47:44+08:00 推文](https://twitter.com/realcaixia/status/1514676798964989953)
 
@@ -149,7 +149,7 @@ Re @tsui_c2019 请看这篇推友发布的上海非正常逝去生命的一些�
 
 ### 34: [2022-04-15 20:04:58+08:00 推文](https://twitter.com/realcaixia/status/1514937825963171851)
 
-强力推荐：<br><br>新闻调查: 上海rapper，彻底火了<br><br><video src="https://video.twimg.com/ext_tw_video/1514626941583872006/pu/vid/886x532/dZz1AwhG8HqmU2JY.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1514626941583872006/pu/img/eADl3LSyE0LuHKCr.jpg"></video>
+强力推荐：
 
 ### 35: [2022-04-15 20:54:52+08:00 推文](https://twitter.com/realcaixia/status/1514950385416376323)
 
@@ -165,7 +165,7 @@ Re @lizaixi5 感谢各位网友的支持关注和给我的帮助。我们一起�
 
 ### 38: [2022-04-16 03:49:25+08:00 推文](https://twitter.com/realcaixia/status/1515054708292931586)
 
-怀念胡耀邦，他是中共党内的良心。<br><br>浦志强: 33年前的今天，胡耀邦去世。<br><br><img style="" src="https://pbs.twimg.com/media/FQXf_iGUcAUtfMI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+怀念胡耀邦，他是中共党内的良心。
 
 ### 39: [2022-04-16 10:35:29+08:00 推文](https://twitter.com/realcaixia/status/1515156899708121088)
 
