@@ -33,15 +33,15 @@ title: 'Twitter @蔡霞: 2022-05-16~2022-05-22'
 
 ### 5: [2022-05-17 20:16:39+08:00 推文](https://twitter.com/realcaixia/status/1526537175604641792)
 
-6•4将近，习当局怕学生续6.4精神，自然是先好话哄过去再说。但是秋后算帐、镇压学生运动，历来是他们的本能。<br><br>方舟子: 北大学生闹事后，辅导员鼓励同学根据现场照片相互检举揭发，秋后算帐，从来如此。<br><br><img style="" src="https://pbs.twimg.com/media/FS26l20VIAEEaw6?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FS26l21VEAIvTmi?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FS26l23UUAA27Da?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+6•4将近，习当局怕学生续6.4精神，自然是先好话哄过去再说。但是秋后算帐、镇压学生运动，历来是他们的本能。
 
 ### 6: [2022-05-18 07:48:15+08:00 推文](https://twitter.com/realcaixia/status/1526711223609434112)
 
-一个模版专供抄作业。<br><br>鲁难-: <br><br><img style="" src="https://pbs.twimg.com/media/FS8CeMoWAAEGC3O?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FS8CeMsXEAAmkXe?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+一个模版专供抄作业。
 
 ### 7: [2022-05-18 07:49:51+08:00 推文](https://twitter.com/realcaixia/status/1526711628372246528)
 
-一个模版专供抄作业（二）
+一个模版专供抄作业（二）<br><br>鲁难-: 大爷，改一改数字很难吗？非要一分钟也不差………<br><br><img style="" src="https://pbs.twimg.com/media/FS8CaycWIAE4vIt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FS8CaydXoAAwFdm?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FS8CayfX0AAqtNs?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FS8CaybWIAEgXZW?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2022-05-18 08:55:45+08:00 推文](https://twitter.com/realcaixia/status/1526728213061410817)
 
