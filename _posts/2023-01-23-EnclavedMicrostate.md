@@ -55,6 +55,10 @@ It's worth adding that the two milhist books you mention there are, er, not unam
 
 That said, it's not that he hasn't made an interesting contribution or two: 'The Concept of ‘Decisive Battles’ in World History' is, in my view, a reasonably cromulent read. But essentially only one of his two books before the pivot to evo-psych was particularly well-regarded.
 
+----- __1072.4__ -----2023-02-02 18:12:32+08:00:
+
+Is it? This is, I kid you not, the *first time* I have seen that explanation, and I've done a decent amount of study on the Great Divergence thesis over the past few months. That's anecdotal of course, but the fact I cannot name a single historian in the last 20 years to have proposed that is telling as to how mainstream that view is.
+
 ### 1073: [Unusual grouping of 5 horses. I haven't enabled abundant resources or anything else that would cause this.](https://old.reddit.com/r/civ/comments/10iy8mz/unusual_grouping_of_5_horses_i_havent_enabled/), submitted on 2023-01-23 07:54:08+08:00.
 
 ----- __1073.1__ -----2023-01-23 21:07:22+08:00:
