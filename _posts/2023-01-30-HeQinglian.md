@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-02-02
+date: 2023-02-03
 from: https://twitter.com/HeQinglian/status/1619729297610256384
 layout: post
 tags:
@@ -201,7 +201,7 @@ Re @farmdirect8 去纽约上州一朋友家，他家的Deck都未装栏干，如
 
 ### 47: [2023-02-01 02:30:26+08:00 推文](https://twitter.com/HeQinglian/status/1620489700887900161)
 
-RT He Qinglian<br>Re @fading_you1 以前我以为中国人该长点记性了，但这几年“顺着反共的一地坚冰，呲溜一下滑到进步主义街对面去”的人太多了，因此已有思想准备。<br>阿富汗是前车之鉴。这国从1960年代开始，先是马克思主义立国、再就是苏联美国先后折腾，弄出一个极端伊斯兰主义，然后是美式民主（包括性多元化教育），现在又回到极伊。
+Re @fading_you1 以前我以为中国人该长点记性了，但这几年“顺着反共的一地坚冰，呲溜一下滑到进步主义街对面去”的人太多了，因此已有思想准备。<br>阿富汗是前车之鉴。这国从1960年代开始，先是马克思主义立国、再就是苏联美国先后折腾，弄出一个极端伊斯兰主义，然后是美式民主（包括性多元化教育），现在又回到极伊。
 
 ### 48: [2023-02-01 02:36:48+08:00 推文](https://twitter.com/HeQinglian/status/1620491304382906368)
 
@@ -370,4 +370,44 @@ Re @duijiudangge13 @dinglili7 好象他没说过北约援助乌克兰武器时�
 ### 89: [2023-02-02 11:25:29+08:00 推文](https://twitter.com/HeQinglian/status/1620986738356420608)
 
 Re 纽约如果实行这个计划，后面再加一个0，可能零元购会少一点——从此以后，BLM连出门零元购那劲也不用费了，坐在廉租房里，打个电话，说自己想玩枪了，3000元收买费奉上，领点免费食物，付点点廉租房租金，剩下的买点大麻，人生非常easy/Happy，还很进步。<br>然后还可去地铁推人下轨道，反正不是用枪。
+
+### 90: [2023-02-02 22:45:54+08:00 推文](https://twitter.com/HeQinglian/status/1621157969290477573)
+
+近十年的多份民调证实如此。其中25岁以上-56岁的社会主义者，68%集中在民主党。因此，民主党就是社会主义者政党。<br>只是不知她引据哪份民调。<div class="rsshub-quote"><br><br>Ezio Mao☢: 共和党众议员玛丽亚萨拉查称，在美国近 40% 的 Z 世代和千禧一代年轻人认为卡尔马克思的共产主义宣言比托马斯杰斐逊的独立宣言更好地捍卫自由和平。40%的美国人（全年龄段，不止年轻人）认为社会主义挺好的。<br><br>不管真不真吧，喜闻乐见喜闻乐见。😂<br><br><video src="https://video.twimg.com/ext_tw_video/1621012074083274752/pu/vid/640x352/E3qaEGg2J33lzE9H.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1621012074083274752/pu/img/wMQjiDmNhB8od6Q7.jpg"></video></div>
+
+### 91: [2023-02-02 22:50:52+08:00 推文](https://twitter.com/HeQinglian/status/1621159219872559107)
+
+Re @Jenny67470141 台湾命运，自有“天数”——本岛人民有选举权，蔡任期还有两年，这两年Trans按美国速度，也就能增加10万多吧？那位赖清德没这么爱好这口，国民党也无这爱好。不管谁上，这把戏希望止住。<br>不知大麻普及状态如何，哪天我问问。trans比较闹腾。
+
+### 92: [2023-02-02 22:53:23+08:00 推文](https://twitter.com/HeQinglian/status/1621159852834947074)
+
+Re @chenjglawyer 爱扣就扣吧，反正坐在民主党给的金币与访问机会上，眼睛盲了，心更盲了。
+
+### 93: [2023-02-02 23:06:51+08:00 推文](https://twitter.com/HeQinglian/status/1621163241086013440)
+
+民主党在美六个代表：代表BLM、代表大麻白粉族、代表lgbtqi+、女权尤其是Trans，代表文教传媒公务员系统、代表主张全球化的跨国企业、代表福利族与非移。<br>这是共产主义2.0的大集合。不信请看纽时：<br>2018年一项调查显示，在18~34岁的民主党人当中，61%的人对社会主义持正面态度 <a href="https://cn.nytimes.com/opinion/20180703/democratic-socialists-progressive-democratic-party-trump/" target="_blank" rel="noopener noreferrer">https://cn.nytimes.com/opinion/20180703/democratic-socialists-progressive-democratic-party-trump/</a>
+
+### 94: [2023-02-02 23:12:19+08:00 推文](https://twitter.com/HeQinglian/status/1621164616851279872)
+
+Re @Jenny67470141 人的行为有既定模式，如非大痛或大变，不会改变。<br>想想他的孤独感，只有这种场合能够弥补。<br>我这些天在翻查奥巴马任期的“改革”，只能说选这个人进白宫，是美国劫数到了。这人当时做事稳打稳扎，步步为营推进，比如任命合适忠诚的人做司法部长，由了出面鼓吹监狱改革、毒品除罪化，试水之后自己再跟上。
+
+### 95: [2023-02-02 23:31:18+08:00 推文](https://twitter.com/KrisstinaLoren/status/1621169394826240001)
+
+RT Krisstina Loren<br>Re @HeQinglian<br><img style="" src="https://pbs.twimg.com/media/Fn-M9kMXoAA6_RI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 96: [2023-02-02 23:40:51+08:00 推文](https://twitter.com/HeQinglian/status/1621171798791561217)
+
+Re @Jingfengtang1 这些人估计分散在上述几个群落里了。
+
+### 97: [2023-02-02 23:57:54+08:00 推文](https://twitter.com/HeQinglian/status/1621176090004951043)
+
+Re @Jingfengtang1 有所发现，请分享。<br>我的研究习惯是拿事实说话，不做推想。
+
+### 98: [2023-02-03 00:16:40+08:00 推文](https://twitter.com/HeQinglian/status/1621180813894115331)
+
+Re @ddiohnjingxu7 正解。<br>我们经历过毛时代与文革，没想到在美国要再次经历。<br>古巴移民与我们同痛。<br>不过，我的同时代美华似乎不太痛。
+
+### 99: [2023-02-03 00:39:58+08:00 推文](https://twitter.com/HeQinglian/status/1621186677057126401)
+
+Re @Jingfengtang1 @Fumitoku_T 不是。😅<br>刚才谈到的前两者，有事实依据。<br>唯独后面这点，还没有非常硬的事实依据。因此希望你能够找出来分享。<br>人，知也无涯，但有个过程。
 
