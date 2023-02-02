@@ -101,7 +101,7 @@ Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style src="
 
 ### 22: [2022-01-05 22:40:25+08:00 推文](https://twitter.com/realcaixia/status/1478738161132093449)
 
-偶然读到了这篇短文，好心酸。这是大陆最底层民生艰难的真实叙述，是一颗悲苦的灵魂最后的呼喊。希望更多的网友来读这篇带着孩子稚嫩笔迹的短文。特此推荐。<br><br>请勿提我的名字🙏: 小时候学朱自清的背影，最让我感动的就是父亲肥胖的背影那段描写，这篇短文再次让我感动了，小文不是视频，没办法摆拍吧<br><br><img style src="https://pbs.twimg.com/media/FITXz2tVcAErygy?format=jpg&name=orig" referrerpolicy="no-referrer">
+偶然读到了这篇短文，好心酸。这是大陆最底层民生艰难的真实叙述，是一颗悲苦的灵魂最后的呼喊。希望更多的网友来读这篇带着孩子稚嫩笔迹的短文。特此推荐。<br><br>请勿提我的名字🙏: 小时候学朱自清的背影，最让我感动的就是父亲肥胖的背影那段描写，这篇短文再次让我感动了，小文不是视频，没办法摆拍吧<br><br><img style="" src="https://pbs.twimg.com/media/FITXz2tVcAErygy?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 23: [2022-01-05 22:59:27+08:00 推文](https://twitter.com/realcaixia/status/1478742949714399236)
 
@@ -213,7 +213,7 @@ Re 我在北京时，曾经听黑龙江省的退休基层干部（80多岁）说
 
 ### 50: [2022-01-09 02:44:58+08:00 推文](https://twitter.com/realcaixia/status/1479886864677019649)
 
-防疫清零不仅不科学更是骗人的鬼话。大陆极权当局真正清零的目标在言论——就怕人们说真话。它们封江雪《长安十日》，封郭于华教授文章，再一次自证习当局的邪恶、野蛮与脆弱。<br><br>ZHANGDONG: 继江雪的《长安十日》，郭于华昨天在其公号上发表了《西安，西安，可否长安》，此两篇文章在大陆网络获得热烈反响和传播。不出所料，两文先后遭到网络全面封杀，江雪文存活了4天，郭于华文仅存活了1天，连带微信号也被封杀，她们就这样被“社会层面清零”了。官家以为封杀社会舆情就能清灭新冠病毒了吗？<br><br><img style src="https://pbs.twimg.com/media/FImYynEWQAMOHoa?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FImYyzpWQAEStdo?format=jpg&name=orig" referrerpolicy="no-referrer">
+防疫清零不仅不科学更是骗人的鬼话。大陆极权当局真正清零的目标在言论——就怕人们说真话。它们封江雪《长安十日》，封郭于华教授文章，再一次自证习当局的邪恶、野蛮与脆弱。<br><br>ZHANGDONG: 继江雪的《长安十日》，郭于华昨天在其公号上发表了《西安，西安，可否长安》，此两篇文章在大陆网络获得热烈反响和传播。不出所料，两文先后遭到网络全面封杀，江雪文存活了4天，郭于华文仅存活了1天，连带微信号也被封杀，她们就这样被“社会层面清零”了。官家以为封杀社会舆情就能清灭新冠病毒了吗？<br><br><img style="" src="https://pbs.twimg.com/media/FImYynEWQAMOHoa?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FImYyzpWQAEStdo?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 51: [2022-01-09 02:52:10+08:00 推文](https://twitter.com/realcaixia/status/1479888676314361862)
 
