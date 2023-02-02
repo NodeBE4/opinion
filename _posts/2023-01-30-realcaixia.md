@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2023-02-02
+date: 2023-02-03
 from: https://twitter.com/realcaixia/status/1620431587207950336
 layout: post
 tags:
@@ -41,7 +41,7 @@ title: 'Twitter @蔡霞: 2023-01-30~2023-02-05'
 
 ### 7: [2023-02-01 18:30:40+08:00 推文](https://twitter.com/realcaixia/status/1620731350121840640)
 
-追溯病毒起源关乎到真相与公平，是给逝者的必须的告慰。<div class="rsshub-quote"><br><br>Jane Wang 王剑虹 #FreeZhangZhan: 悲痛的母亲 #杨敏 <br>三年前 #张展 曾希望安慰、帮助她<br>#武汉，已被抑制三年的哀声和怒火<br></div>
+追溯病毒起源关乎到真相与公平，是给逝者的必须的告慰。<div class="rsshub-quote"><br><br>Jane Wang 王剑虹 #FreeZhangZhan: 悲痛的母亲 #杨敏 <br>三年前 #张展 曾希望安慰、帮助她<br>#武汉，已被抑制三年的哀声和怒火<br> <a href="https://twitter.com/zonghengjp/status/1620371274160807937" target="_blank" rel="noopener noreferrer">https://twitter.com/zonghengjp/status/1620371274160807937</a></div>
 
 ### 8: [2023-02-02 00:41:57+08:00 推文](https://twitter.com/realcaixia/status/1620824788125224961)
 
@@ -49,9 +49,13 @@ title: 'Twitter @蔡霞: 2023-01-30~2023-02-05'
 
 ### 9: [2023-02-02 00:43:39+08:00 推文](https://twitter.com/realcaixia/status/1620825216573382656)
 
-希望能彻底查清病毒起源。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 聯合國專家終於發聲：新冠病毒最大可能的來源是實驗室！👇<br> <a href="https://twitter.com/ColinDavdButler/status/1619516584514707459" target="_blank" rel="noopener noreferrer">https://twitter.com/ColinDavdButler/status/1619516584514707459</a></div>
+希望能彻底查清病毒起源。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 聯合國專家終於發聲：新冠病毒最大可能的來源是實驗室！👇<br></div>
 
 ### 10: [2023-02-02 10:22:50+08:00 推文](https://twitter.com/realcaixia/status/1620970972995100672)
 
 丁家喜获得美国务院全球人权捍卫者奖 <a href="https://www.rfa.org/mandarin/Xinwen/9-02012023154445.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/Xinwen/9-02012023154445.html</a>
+
+### 11: [2023-02-03 04:52:15+08:00 推文](https://twitter.com/realcaixia/status/1621250167033794561)
+
+这样的新闻发布会就是侮辱人的智商！无真相无良知无规则无希望！中共当局干脆直接说：中国进入乱世新闻发布会。<div class="rsshub-quote"><br><br>Gancheng Wang: 看了胡鑫宇事件新闻发布会之后，清华大学某良知教授这样说：“经过这一年的乱局，中国彻底跌进四无社会，即无真相、无良知、无规矩、无希望。真相不明、良知泯灭，如果规矩尚存，还有希望。现在规矩都给他们彻底破坏了，十四亿老百姓从此无法可依，就算十四亿头猪炸窝了，你怎么抓？”<br><br><img style="" src="https://pbs.twimg.com/media/Fn8Q9sFXEAInWPO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fn8Q9sIWYAMkP5Y?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fn8Q9sIWAAIdhY-?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 

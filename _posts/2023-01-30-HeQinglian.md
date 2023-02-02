@@ -371,55 +371,83 @@ Re @duijiudangge13 @dinglili7 好象他没说过北约援助乌克兰武器时�
 
 Re 纽约如果实行这个计划，后面再加一个0，可能零元购会少一点——从此以后，BLM连出门零元购那劲也不用费了，坐在廉租房里，打个电话，说自己想玩枪了，3000元收买费奉上，领点免费食物，付点点廉租房租金，剩下的买点大麻，人生非常easy/Happy，还很进步。<br>然后还可去地铁推人下轨道，反正不是用枪。
 
-### 90: [2023-02-02 22:45:54+08:00 推文](https://twitter.com/HeQinglian/status/1621157969290477573)
+### 90: [2023-02-02 11:56:32+08:00 推文](https://twitter.com/tankman2002/status/1620994552105672704)
+
+RT 二大爷<br>关于胡鑫宇案，我说一点题外话。<br>一个青春期的少年，社会关系、人生矛盾很简单，除了家庭，就是学校。而前者又是主因。2019年我的邻居，一个我从小看着长大的小姑娘，因为不堪家庭给予的学业压力，跳楼了。我为此很久都难以接受。作为在国内环境成长起来的人，我相信大家都能体会，一个中国孩子在成长
+
+### 91: [2023-02-02 22:45:54+08:00 推文](https://twitter.com/HeQinglian/status/1621157969290477573)
 
 近十年的多份民调证实如此。其中25岁以上-56岁的社会主义者，68%集中在民主党。因此，民主党就是社会主义者政党。<br>只是不知她引据哪份民调。<div class="rsshub-quote"><br><br>Ezio Mao☢: 共和党众议员玛丽亚萨拉查称，在美国近 40% 的 Z 世代和千禧一代年轻人认为卡尔马克思的共产主义宣言比托马斯杰斐逊的独立宣言更好地捍卫自由和平。40%的美国人（全年龄段，不止年轻人）认为社会主义挺好的。<br><br>不管真不真吧，喜闻乐见喜闻乐见。😂<br><br><video src="https://video.twimg.com/ext_tw_video/1621012074083274752/pu/vid/640x352/E3qaEGg2J33lzE9H.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1621012074083274752/pu/img/wMQjiDmNhB8od6Q7.jpg"></video></div>
 
-### 91: [2023-02-02 22:50:52+08:00 推文](https://twitter.com/HeQinglian/status/1621159219872559107)
+### 92: [2023-02-02 22:50:52+08:00 推文](https://twitter.com/HeQinglian/status/1621159219872559107)
 
 Re @Jenny67470141 台湾命运，自有“天数”——本岛人民有选举权，蔡任期还有两年，这两年Trans按美国速度，也就能增加10万多吧？那位赖清德没这么爱好这口，国民党也无这爱好。不管谁上，这把戏希望止住。<br>不知大麻普及状态如何，哪天我问问。trans比较闹腾。
 
-### 92: [2023-02-02 22:53:23+08:00 推文](https://twitter.com/HeQinglian/status/1621159852834947074)
+### 93: [2023-02-02 22:53:23+08:00 推文](https://twitter.com/HeQinglian/status/1621159852834947074)
 
 Re @chenjglawyer 爱扣就扣吧，反正坐在民主党给的金币与访问机会上，眼睛盲了，心更盲了。
 
-### 93: [2023-02-02 23:06:51+08:00 推文](https://twitter.com/HeQinglian/status/1621163241086013440)
+### 94: [2023-02-02 23:06:51+08:00 推文](https://twitter.com/HeQinglian/status/1621163241086013440)
 
 民主党在美六个代表：代表BLM、代表大麻白粉族、代表lgbtqi+、女权尤其是Trans，代表文教传媒公务员系统、代表主张全球化的跨国企业、代表福利族与非移。<br>这是共产主义2.0的大集合。不信请看纽时：<br>2018年一项调查显示，在18~34岁的民主党人当中，61%的人对社会主义持正面态度 <a href="https://cn.nytimes.com/opinion/20180703/democratic-socialists-progressive-democratic-party-trump/" target="_blank" rel="noopener noreferrer">https://cn.nytimes.com/opinion/20180703/democratic-socialists-progressive-democratic-party-trump/</a>
 
-### 94: [2023-02-02 23:12:19+08:00 推文](https://twitter.com/HeQinglian/status/1621164616851279872)
+### 95: [2023-02-02 23:12:19+08:00 推文](https://twitter.com/HeQinglian/status/1621164616851279872)
 
 Re @Jenny67470141 人的行为有既定模式，如非大痛或大变，不会改变。<br>想想他的孤独感，只有这种场合能够弥补。<br>我这些天在翻查奥巴马任期的“改革”，只能说选这个人进白宫，是美国劫数到了。这人当时做事稳打稳扎，步步为营推进，比如任命合适忠诚的人做司法部长，由了出面鼓吹监狱改革、毒品除罪化，试水之后自己再跟上。
 
-### 95: [2023-02-02 23:31:18+08:00 推文](https://twitter.com/KrisstinaLoren/status/1621169394826240001)
+### 96: [2023-02-02 23:31:18+08:00 推文](https://twitter.com/KrisstinaLoren/status/1621169394826240001)
 
 RT Krisstina Loren<br>Re @HeQinglian<br><img style="" src="https://pbs.twimg.com/media/Fn-M9kMXoAA6_RI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 96: [2023-02-02 23:40:51+08:00 推文](https://twitter.com/HeQinglian/status/1621171798791561217)
+### 97: [2023-02-02 23:40:51+08:00 推文](https://twitter.com/HeQinglian/status/1621171798791561217)
 
 Re @Jingfengtang1 这些人估计分散在上述几个群落里了。
 
-### 97: [2023-02-02 23:57:54+08:00 推文](https://twitter.com/HeQinglian/status/1621176090004951043)
+### 98: [2023-02-02 23:57:54+08:00 推文](https://twitter.com/HeQinglian/status/1621176090004951043)
 
 Re @Jingfengtang1 有所发现，请分享。<br>我的研究习惯是拿事实说话，不做推想。
 
-### 98: [2023-02-03 00:16:40+08:00 推文](https://twitter.com/HeQinglian/status/1621180813894115331)
+### 99: [2023-02-03 00:16:40+08:00 推文](https://twitter.com/HeQinglian/status/1621180813894115331)
 
 Re @ddiohnjingxu7 正解。<br>我们经历过毛时代与文革，没想到在美国要再次经历。<br>古巴移民与我们同痛。<br>不过，我的同时代美华似乎不太痛。
 
-### 99: [2023-02-03 00:39:58+08:00 推文](https://twitter.com/HeQinglian/status/1621186677057126401)
+### 100: [2023-02-03 00:39:58+08:00 推文](https://twitter.com/HeQinglian/status/1621186677057126401)
 
 Re @Jingfengtang1 @Fumitoku_T 不是。😅<br>刚才谈到的前两者，有事实依据。<br>唯独后面这点，还没有非常硬的事实依据。因此希望你能够找出来分享。<br>人，知也无涯，但有个过程。
 
-### 100: [2023-02-03 02:19:52+08:00 推文](https://twitter.com/HeQinglian/status/1621211815605665797)
+### 101: [2023-02-03 02:19:52+08:00 推文](https://twitter.com/HeQinglian/status/1621211815605665797)
 
 Re @Jingfengtang1 @Fumitoku_T 神学能被证明吗？
 
-### 101: [2023-02-03 02:23:31+08:00 推文](https://twitter.com/HeQinglian/status/1621212736611835906)
+### 102: [2023-02-03 02:23:31+08:00 推文](https://twitter.com/HeQinglian/status/1621212736611835906)
 
 Re @davidkpolicycn 原来你是“Marxism in the Post Mao Era'; 'Asian Freedoms'.”<br>我还真不是极右，也不对极右做评断。但是，你们眼里，不认同Maxism的全是极右。
 
-### 102: [2023-02-03 02:25:02+08:00 推文](https://twitter.com/HeQinglian/status/1621213116917858307)
+### 103: [2023-02-03 02:25:02+08:00 推文](https://twitter.com/HeQinglian/status/1621213116917858307)
 
 Re @Jenny67470141 我刚才就遇到一个，专门研究马克思主义的美国人，中文很好。<br>有这些人在，美国就是这样了。
+
+### 104: [2023-02-03 04:32:12+08:00 推文](https://twitter.com/HeQinglian/status/1621245120883326979)
+
+Re @sohfangwei 这本书确实预见到了今天，但是，这些是当年的1968年人宣称的。<br>这本书的书名，从中文来说，应该译成《赤裸裸的共产主义》，意指其毫不掩饰。
+
+### 105: [2023-02-03 04:38:17+08:00 推文](https://twitter.com/HeQinglian/status/1621246650428653569)
+
+Re @sohfangwei 虽然都是身份政治，但比第一次难。<br>共产1.0是穷国推行，许诺受剥削者翻身当领导阶级，享受政治特权。结果在物质条件上没能充分满足社会成员的需要，又违背人性。<br>这次是最富强的国家推行，解放人性中最恶的部分：不受社会伦理束缚、受压迫者（身份、性取向）在社会序列中优先、不劳而获成理所当然。
+
+### 106: [2023-02-03 04:41:22+08:00 推文](https://twitter.com/HeQinglian/status/1621247427171815432)
+
+Re @Lucs24659702 如果校报上统计一下，有多少学生这样做，这个社会实验就成功了，可以进行下一个实验：“如果你蹲在地上，请黑人朋友骑在脖子上，二人一道友好前行。”<br>这学校约五六年前一次民调，70%多主张废除美国宪法。
+
+### 107: [2023-02-03 04:47:31+08:00 推文](https://twitter.com/HeQinglian/status/1621248974685454341)
+
+Re @ddiohnjingxu7 我不敢用“上帝视角”😅，毕竟是人。<br>但是，我觉得做中文推圈里的一只“巴比伦蜜蜂”吧——不知这个推号恢复了没有？
+
+### 108: [2023-02-03 05:28:51+08:00 推文](https://twitter.com/HeQinglian/status/1621259375124815872)
+
+Re @0oldbigbrother @Lucs24659702 快了。我不谈2020年弗洛伊德事件后，白女左发疯时的那些口号还有街头行为了，因为我不想花时间找那些东西，基本接近这。
+
+### 109: [2023-02-03 05:36:06+08:00 推文](https://twitter.com/HeQinglian/status/1621261201421246464)
+
+刚看了“台湾1450化”，上网搜查，学了个新词：<br>1450網軍（简称1450）为台湾網路用语，用于讽刺偏袒民進黨的网络水军。 2019年行政院農業委員會以1450万元新台币用于“加强农业讯息因应对策计划”，招募人员在社交平台进行“讯息实时澄清”工作。 被中國國民黨籍立法委員质疑是在招募網路水軍。
 
