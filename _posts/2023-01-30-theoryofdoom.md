@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2023-01-31
+date: 2023-02-01
 from: https://old.reddit.com/r/PublicFreakout/comments/10ol3f0/8_redding_ca_police_officers_brutalize_man_attack/
 layout: post
 tags:
@@ -72,4 +72,22 @@ Indeed, a racket by definition.  And you've just heard from a ghost in the machi
 ----- __458.1__ -----2023-02-01 13:08:09+08:00:
 
 Don't pick a stupid major.  Stupid majors include, but are not limited to, education, women's studies, communication, history, sociology, psychology, English and the list goes on and on.  In your best life, you are working in Silicon Valley doing something like content moderation on Twitter or maybe you work in Human Resources at Google.  Layoffs abound, but that was foreseeable because those fields create no value whatsoever.  Pick a major that enables you to create value.
+
+### 459: [Ozzy Osbourne to retire from touring due to declining health](https://old.reddit.com/r/Metal/comments/10qrwzi/ozzy_osbourne_to_retire_from_touring_due_to/), submitted on 2023-02-01 19:41:39+08:00.
+
+----- __459.1__ -----2023-02-02 13:47:35+08:00:
+
+> Ozzy and Black Sabbath are some of the biggest musical influences in modern rock. As long as humans have music, his legacy will live on. He’s one of those guys that I never really pictured dying. It’s sad that he’s getting up there. What a legend.
+
+Black Sabbath was my introduction to metal and I've loved Ozzy Osbourne since the first time I heard Paranoid.  
+
+His music has changed over the years, but he is a legend in his own rite.  
+
+I wish I could get one more Ozzfest.
+
+### 460: [Joydivision/New Order nominated for rock and roll hall of fame](https://old.reddit.com/r/JoyDivision/comments/10qwmel/joydivisionnew_order_nominated_for_rock_and_roll/), submitted on 2023-02-01 22:54:02+08:00.
+
+----- __460.1__ -----2023-02-02 13:53:32+08:00:
+
+I am reminded of a Bill Burr comment on bands in that situation.
 
