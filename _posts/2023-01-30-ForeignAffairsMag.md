@@ -41,3 +41,9 @@ If earnest negotiations were to start soon, Zelensky might still be open to a de
 
 Doing so would force Putin to the negotiating table and create an opening for diplomatic talks while the final status of Crimea remains unsettled, offering Putin a path out of Ukraine that doesn’t guarantee his political demise and allowing Ukraine to avoid an enormously costly military campaign that is by no means guaranteed to succeed. The eventual deal would require an immediate reduction of Russian conventional forces on the peninsula and outline a path to a referendum allowing the people of Crimea, including those displaced after the 2014 invasion, to determine the final status of the region.
 
+### 344: [The Long Twilight of the Islamic Republic: Iran’s Transformational Season of Protest](https://old.reddit.com/r/TrueReddit/comments/10rr7s2/the_long_twilight_of_the_islamic_republic_irans/), submitted on 2023-02-02 22:32:43+08:00.
+
+----- __344.1__ -----2023-02-02 22:37:45+08:00:
+
+**Short Summary:** "The Islamic Republic is now a hollow misnomer. It is a theocracy that has inadvertently secularized the population. It is a republic that has demolished the participatory base it once used to legitimize its rule. By gradually tightening his circle of insiders, Supreme Leader Ali Khamenei has sidelined an increasing number of the original revolutionaries and other politicians who sought to put the system on a better path. Khamenei elevated sycophants over skilled experts and loyalists over loyal critics, prompting a crisis of competence that has brought the country to the brink of socioeconomic and environmental disaster. There is no one left with political heft, acumen, or gravitas to deliver hard truths to Khamenei, who will soon turn 84."
+
