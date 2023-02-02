@@ -351,3 +351,23 @@ Re @dinglili7 有一办法，安排一引爆装置，由乌军控制，一旦坦
 
 Re @RICHARD08999364 我已经不太在意正常体态的原生女性穿暴露服装，就怕看见Trans们各种奇异着装。说实话，中国西游记的服化道设计者如果看了他们游行展示，小妖们的形象设计一定大有长进，比头上长角、耳朵弄个招风耳要有创意多了。
 
+### 85: [2023-02-02 11:07:05+08:00 推文](https://twitter.com/HeQinglian/status/1620982108964663297)
+
+Re @duijiudangge13 @dinglili7 原来，乌军比俄军高八个档次。
+
+### 86: [2023-02-02 11:08:02+08:00 推文](https://twitter.com/HeQinglian/status/1620982345171111938)
+
+Re @baohongcang @dinglili7 如此甚好，赶紧给苏纳克带个话，别担心了，放心援乌。
+
+### 87: [2023-02-02 11:15:31+08:00 推文](https://twitter.com/HeQinglian/status/1620984231156391936)
+
+最出彩的是这：【美國加州舊金山為了緩解日漸上升的槍支暴力事件，正著手推出一個大膽的新計劃，準備每月付錢給那些可能槍擊他人的民眾，……預期10月開始啓動的「夢想守護者夥伴關系」，將支付10人一個月300美元，讓他們不參與槍擊犯罪……並被視為致力防止暴力的「社區大使」】<div class="rsshub-quote"><br><br>xiaxiaoqiang 夏小強: 調查顯示，原來白左的精神病比例很高<br> <a href="https://www.xiaxiaoqiang.net/white-left-has-high-rate-of-mental-illness/.html" target="_blank" rel="noopener noreferrer">https://www.xiaxiaoqiang.net/white-left-has-high-rate-of-mental-illness/.html</a></div>
+
+### 88: [2023-02-02 11:20:54+08:00 推文](https://twitter.com/HeQinglian/status/1620985585342062593)
+
+Re @duijiudangge13 @dinglili7 好象他没说过北约援助乌克兰武器时援助了人吧？
+
+### 89: [2023-02-02 11:25:29+08:00 推文](https://twitter.com/HeQinglian/status/1620986738356420608)
+
+Re 纽约如果实行这个计划，后面再加一个0，可能零元购会少一点——从此以后，BLM连出门零元购那劲也不用费了，坐在廉租房里，打个电话，说自己想玩枪了，3000元收买费奉上，领点免费食物，付点点廉租房租金，剩下的买点大麻，人生非常easy/Happy，还很进步。<br>然后还可去地铁推人下轨道，反正不是用枪。
+

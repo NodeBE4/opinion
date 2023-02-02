@@ -25,7 +25,7 @@ Re @Jam79922967 @lianchaohan 这类长冷兵器不是城管混混儿能有的，
 
 ### 3: [2022-04-11 01:13:39+08:00 推文](https://twitter.com/realcaixia/status/1513203569540882442)
 
-这类长冷兵器不是城管混混儿能有的，再看看他们统一的发型，他们应该是武警。2014年昆明火车站“3.1”恐怖袭击事件的第四天我到了昆明，武警在昆明街头巡逻，就拿着这类长冷兵器。那时我第一次看到这类长冷兵器，当场就觉得中国处在三国演义时代。现在再次出现在上海高楼大厦下，真是时空穿越，魔幻！<br><br>Jam: 今日上海，我为上海哭泣。上帝啊，你一定也看到了，为什么你无动于衷呢？该出手了，是时候了。<br><br><video src="https://video.twimg.com/ext_tw_video/1513180381436157959/pu/vid/720x1280/5qe_KowCgMbPf5uy.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1513180381436157959/pu/img/4zfVb1Ljm9SQGGnk.jpg"></video>
+这类长冷兵器不是城管混混儿能有的，再看看他们统一的发型，他们应该是武警。2014年昆明火车站“3.1”恐怖袭击事件的第四天我到了昆明，武警在昆明街头巡逻，就拿着这类长冷兵器。那时我第一次看到这类长冷兵器，当场就觉得中国处在三国演义时代。现在再次出现在上海高楼大厦下，真是时空穿越，魔幻！
 
 ### 4: [2022-04-11 01:25:56+08:00 推文](https://twitter.com/realcaixia/status/1513206661049114626)
 
@@ -33,7 +33,7 @@ Re 多个跟帖说现在这长冷兵器已经充分普及了。反过来想，�
 
 ### 5: [2022-04-11 04:11:43+08:00 推文](https://twitter.com/realcaixia/status/1513248381908398081)
 
-看看，习是知道这些用来对付谁的。
+看看，习是知道这些用来对付谁的。<br><br>熊二快跑: @realcaixia 习主席在基层视察维稳利器。<br><br><img style="" src="https://pbs.twimg.com/media/FQAMXf1XsAY8iCx?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2022-04-11 11:18:09+08:00 推文](https://twitter.com/realcaixia/status/1513355696099581955)
 
@@ -97,7 +97,7 @@ Re @wsddasfgd @yibaochina 是的，这个问题还没有最终解决，我们正
 
 ### 21: [2022-04-14 08:47:25+08:00 推文](https://twitter.com/realcaixia/status/1514404928340598786)
 
-强力推荐#议报昨日发布的关于习近平与普京关系的文章。追溯历史，中共作为前苏共党第三国际里的中国支部，一开始就不是独立的政党。尽管中苏曾有过两党关系紧张，但中共从没割断过与前苏共党连结的精神脐带。习近平曾评论前苏联政治巨变时说苏共党内“竟无一人是男儿”，就充分体现习是前列宁党的子孙。<br><br>《议报》: 【译丛】不要低估习近平与普京的关系<br> <a href="https://yibaochina.com/?p=245940" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245940</a>
+强力推荐#议报昨日发布的关于习近平与普京关系的文章。追溯历史，中共作为前苏共党第三国际里的中国支部，一开始就不是独立的政党。尽管中苏曾有过两党关系紧张，但中共从没割断过与前苏共党连结的精神脐带。习近平曾评论前苏联政治巨变时说苏共党内“竟无一人是男儿”，就充分体现习是前列宁党的子孙。
 
 ### 22: [2022-04-14 09:04:24+08:00 推文](https://twitter.com/realcaixia/status/1514409200415227905)
 
@@ -137,7 +137,7 @@ Re 孙大午对官府绝不行贿，依靠自己和村民勤劳努力办企业�
 
 ### 31: [2022-04-15 02:29:12+08:00 推文](https://twitter.com/realcaixia/status/1514672132105592835)
 
-请看这篇推友发布的上海非正常逝去生命的一些信息。有网友提议：希望这份名单可以成为一份开放协作文档，请大家添上身边逝者的故事。<br>虽然很残酷很令人痛心，但为的是让大家看到这不仅只是数字，而是一个个真实的人，曾经鲜活的生命。每一个逝去的生命都让数个家庭数位亲友瞬时跌入无尽痛苦深渊……
+请看这篇推友发布的上海非正常逝去生命的一些信息。有网友提议：希望这份名单可以成为一份开放协作文档，请大家添上身边逝者的故事。<br>虽然很残酷很令人痛心，但为的是让大家看到这不仅只是数字，而是一个个真实的人，曾经鲜活的生命。每一个逝去的生命都让数个家庭数位亲友瞬时跌入无尽痛苦深渊……<br><br>Ying Li: @liuhong @ZhouFengSuo<br> <a href="https://twitter.com/suxinpl/status/1514584550239875074" target="_blank" rel="noopener noreferrer">https://twitter.com/suxinpl/status/1514584550239875074</a>
 
 ### 32: [2022-04-15 02:47:44+08:00 推文](https://twitter.com/realcaixia/status/1514676798964989953)
 
@@ -165,7 +165,7 @@ Re @lizaixi5 感谢各位网友的支持关注和给我的帮助。我们一起�
 
 ### 38: [2022-04-16 03:49:25+08:00 推文](https://twitter.com/realcaixia/status/1515054708292931586)
 
-怀念胡耀邦，他是中共党内的良心。
+怀念胡耀邦，他是中共党内的良心。<br><br>浦志强: 33年前的今天，胡耀邦去世。<br><br><img style="" src="https://pbs.twimg.com/media/FQXf_iGUcAUtfMI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 39: [2022-04-16 10:35:29+08:00 推文](https://twitter.com/realcaixia/status/1515156899708121088)
 
@@ -237,7 +237,7 @@ Re @lianchaohan 这个名单中应该加上“支持恐怖主义的国家：中�
 
 ### 56: [2022-04-17 11:10:49+08:00 推文](https://twitter.com/realcaixia/status/1515528177287766018)
 
-这张照片很珍贵。
+这张照片很珍贵。<br><br>Jam: 今天是胡耀邦去世的纪念日。照片中的他带着两个学生。他们不折腾，免农民税，都是党内好人。习近平时代里，人民却更加怀念胡耀邦，这大概是习近平不知道的，他没那个自知之明呢。<br><br><img style="" src="https://pbs.twimg.com/media/FQa47yyXsAA8rvP?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 57: [2022-04-17 19:19:02+08:00 推文](https://twitter.com/realcaixia/status/1515651043052433409)
 
