@@ -245,7 +245,7 @@ Re @KELMAND1 OMG，战争一旦开打，不是累不累的问题，而是生与�
 
 ### 58: [2022-07-05 23:24:49+08:00 推文](https://twitter.com/shenliangqing2/status/1544341537961586689)
 
-RT 沈良庆二世<br>人与人之间互相尊重才能和平共处。如今在发达国家已经不存在大众性向歧视小众性向问题，而是包括跨性别在内的小众不断用激进手段来骚扰、绑架、胁迫大众，试图抢占更多公共资源，用自己的特殊性取向冒犯甚至侵犯大众，试图改造他人甚至儿童。压迫过头了，迟早会遭遇大众反抗，危害自身。<br><br>BBC News 中文: 英国政府表示，越来越多的“性别中立”厕所让女性“处于不公平的弱势地位”，增加女性排队时间。政府提议修法，规定新建公共建筑必须设置男女分开的单一性别厕所。<br><br>“性别中立”厕所让使用者按照自己的性别认同选择使用厕所，通常有数个厕所隔间，但使用者必须共用排队和洗手设施，有些女性对此感到不舒服。<br><br><img style="" src="https://pbs.twimg.com/media/FW6CBUDWAAI-qQV?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT 沈良庆二世<br>人与人之间互相尊重才能和平共处。如今在发达国家已经不存在大众性向歧视小众性向问题，而是包括跨性别在内的小众不断用激进手段来骚扰、绑架、胁迫大众，试图抢占更多公共资源，用自己的特殊性取向冒犯甚至侵犯大众，试图改造他人甚至儿童。压迫过头了，迟早会遭遇大众反抗，危害自身。
 
 ### 59: [2022-07-06 00:54:29+08:00 推文](https://twitter.com/HeQinglian/status/1544364100188311553)
 
@@ -281,7 +281,7 @@ Re @comeonjustchill 战争初起，我就提过一点：前十大GDP国家中，
 
 ### 67: [2022-07-06 03:50:56+08:00 推文](https://twitter.com/HeQinglian/status/1544408505976856576)
 
-这几年，美国、英国就拿这事领导世界新潮流了。<br>骄傲月的妖魔鬼怪性活动表演，什么时候能禁止？<br><br>BBC News 中文: 英国政府表示，越来越多的“性别中立”厕所让女性“处于不公平的弱势地位”，增加女性排队时间。政府提议修法，规定新建公共建筑必须设置男女分开的单一性别厕所。<br><br>“性别中立”厕所让使用者按照自己的性别认同选择使用厕所，通常有数个厕所隔间，但使用者必须共用排队和洗手设施，有些女性对此感到不舒服。<br><br><img style="" src="https://pbs.twimg.com/media/FW6CBUDWAAI-qQV?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+这几年，美国、英国就拿这事领导世界新潮流了。<br>骄傲月的妖魔鬼怪性活动表演，什么时候能禁止？
 
 ### 68: [2022-07-06 04:16:01+08:00 推文](https://twitter.com/HeQinglian/status/1544414820631470081)
 
@@ -337,7 +337,7 @@ Re @david_david1968 那司机可能要连升15级？
 
 ### 81: [2022-07-06 22:30:25+08:00 推文](https://twitter.com/HeQinglian/status/1544690233295380482)
 
-英国政客比美国政客有自尊。<br>拜登、南希将美国打理成这样，还天天玩怪罪游戏：一切都是普京的错，通胀全是他折腾的。没见他们要辞职，还说要竞选连任。<br><br>Vanessa 姗: 突发新闻: 财政大臣辞职，财政部长辞职，健康部长辞职，交通部长辞职，司法部长辞职，学校部长辞职, 环境部长辞职，住房部长辞职。。。。。。从昨晚开始，已经有18位约翰逊手下的各部门大臣向他递交了辞职书 ，恐怕约翰逊会因此被迫辞职，尽管他已表示会坚持，不知他能否坚持过今晚🤦‍♀️。<br><br><img style="" src="https://pbs.twimg.com/media/FW_Ec1lXkAMk9yu?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FW_EdAMWQAAMrUs?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+英国政客比美国政客有自尊。<br>拜登、南希将美国打理成这样，还天天玩怪罪游戏：一切都是普京的错，通胀全是他折腾的。没见他们要辞职，还说要竞选连任。
 
 ### 82: [2022-07-06 23:00:29+08:00 推文](https://twitter.com/HeQinglian/status/1544697802613297154)
 
@@ -421,7 +421,7 @@ Re @JianglinLi 这些人就是这么走过来的，当年挺郭、挺拜包括�
 
 ### 102: [2022-07-07 20:18:05+08:00 推文](https://twitter.com/HeQinglian/status/1545019318538326018)
 
-因为研究养成的习惯，总喜欢了解事情全过程，观其首尾。<br>从约翰逊首次郑重宣布“普京必须下台”，到现在也不过就三个多月而已。<br>世事之无常也还罢了，希望一干人忙着变脸时，认真想想这几个月世界发生了什么。<br>拜登如果不下台，美国现在的“民主”绝对有问题，英相主要祸害本国，拜登祸害要广得多。<br><br>jiang shangrong: 约翰逊宣布辞去首相职务。<br><br><video src="https://video.twimg.com/ext_tw_video/1545011890589507590/pu/vid/848x464/0v71lXJMNKLUrp8R.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1545011890589507590/pu/img/WaQ0CQQfM-9SPxwn.jpg"></video> <a href="https://t.me/JShangrong" target="_blank" rel="noopener noreferrer">https://t.me/JShangrong</a>
+因为研究养成的习惯，总喜欢了解事情全过程，观其首尾。<br>从约翰逊首次郑重宣布“普京必须下台”，到现在也不过就三个多月而已。<br>世事之无常也还罢了，希望一干人忙着变脸时，认真想想这几个月世界发生了什么。<br>拜登如果不下台，美国现在的“民主”绝对有问题，英相主要祸害本国，拜登祸害要广得多。
 
 ### 103: [2022-07-07 20:22:34+08:00 推文](https://twitter.com/HeQinglian/status/1545020449410752514)
 
@@ -697,11 +697,11 @@ Re @guchuan81 我其实也好想种棵樱桃树，查了资料，畏惧甲虫与
 
 ### 171: [2022-07-10 03:24:05+08:00 推文](https://twitter.com/Tianshuihanyan/status/1545851299811442688)
 
-RT 纳姐 全媒体首席主播，全媒体美国小镇镇长<br>拜登老婆比女皇还威风！退休3星将军只在拜登老婆的推下面回了一句话：“很高兴看到你终于知道什么是女人了！”  . 居然被美军解除高薪顾问工作合约！<br><br>左派就是用这些卑鄙手段恐吓打击军中保守派官兵，让他们屈服于左派的统治！<br><br>New York Post: Retired three-star general Gary Volesky suspended over tweet mocking Jill Biden<br><br><img style="" src="https://pbs.twimg.com/media/FXPdBhpXEAAIBVm?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://trib.al/pzgrj03" target="_blank" rel="noopener noreferrer">https://trib.al/pzgrj03</a>
+RT 纳姐 全媒体首席主播，全媒体美国小镇镇长<br>拜登老婆比女皇还威风！退休3星将军只在拜登老婆的推下面回了一句话：“很高兴看到你终于知道什么是女人了！”  . 居然被美军解除高薪顾问工作合约！<br><br>左派就是用这些卑鄙手段恐吓打击军中保守派官兵，让他们屈服于左派的统治！
 
 ### 172: [2022-07-10 03:56:25+08:00 推文](https://twitter.com/HeQinglian/status/1545859437658783745)
 
-RT He Qinglian<br>Re @Wu_Zhi @JianglinLi 西方媒体正在忙于报道G20俄外长先离场之事，为西方团结冷落俄罗斯高兴不已。<br>BTW，不管是否愿意看到，这次G20王毅成了主角。中方向美方提出四份清单：要求美纠正错误对华政策和言行的清单、中方关切的重点个案清单、中方重点关切的涉华法案清单、中美8个领域合作清单。<br>拜登对华外交办成这样，无语。
+Re @Wu_Zhi @JianglinLi 西方媒体正在忙于报道G20俄外长先离场之事，为西方团结冷落俄罗斯高兴不已。<br>BTW，不管是否愿意看到，这次G20王毅成了主角。中方向美方提出四份清单：要求美纠正错误对华政策和言行的清单、中方关切的重点个案清单、中方重点关切的涉华法案清单、中美8个领域合作清单。<br>拜登对华外交办成这样，无语。
 
 ### 173: [2022-07-10 03:58:59+08:00 推文](https://twitter.com/HeQinglian/status/1545860082692399106)
 
