@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2023-02-02
+date: 2023-02-04
 from: https://old.reddit.com/r/geopolitics/comments/10p4nwv/how_to_get_a_breakthrough_in_ukraine_the_case/
 layout: post
 tags:
@@ -46,4 +46,18 @@ Doing so would force Putin to the negotiating table and create an opening for di
 ----- __344.1__ -----2023-02-02 22:37:45+08:00:
 
 **Short Summary:** "The Islamic Republic is now a hollow misnomer. It is a theocracy that has inadvertently secularized the population. It is a republic that has demolished the participatory base it once used to legitimize its rule. By gradually tightening his circle of insiders, Supreme Leader Ali Khamenei has sidelined an increasing number of the original revolutionaries and other politicians who sought to put the system on a better path. Khamenei elevated sycophants over skilled experts and loyalists over loyal critics, prompting a crisis of competence that has brought the country to the brink of socioeconomic and environmental disaster. There is no one left with political heft, acumen, or gravitas to deliver hard truths to Khamenei, who will soon turn 84."
+
+### 345: [Turkey’s Turning Point: What Will Erdogan Do to Stay in Power?](https://old.reddit.com/r/geopolitics/comments/10snysx/turkeys_turning_point_what_will_erdogan_do_to/), submitted on 2023-02-04 00:07:50+08:00.
+
+----- __345.1__ -----2023-02-04 00:10:18+08:00:
+
+**From Henri Barkey:** In a year that has brought renewed strength and unity to NATO, perhaps no country has proven more confounding to the alliance than Turkey. For other NATO members, Russia’s war in Ukraine has brought new resolve against a common enemy and paved the way for the alliance’s expansion. Yet Turkey, though it is a NATO member, has not only maintained cordial relations with Russia; it has also threatened to block the NATO candidacies of Sweden and Finland.
+
+Meanwhile, the Turkish government has suggested it might start a new land invasion of northern Syria to take on the United States’ Syrian Kurdish allies, who operate in that area. And even as Turkey repairs strained ties with many Middle Eastern powers, it has continued to have chilly relations with the European Union and has made new threats toward Greece. Perhaps most unexpectedly, after years of seeking to undermine Syrian dictator Bashar al-Assad, Ankara has begun a rapprochement with the regime in Damascus, mediated by Russia.
+
+These moves, though controversial in the West, are generally popular in Turkey. They also have a clear purpose. In May, Turkey’s longtime populist-authoritarian ruler, President Recep Tayyip Erdogan, will face what will likely be the toughest reelection bid of his political career, and foreign policy has become an effective way to distract voters from multiple crises at home. After years of economic mismanagement, Turkey’s inflation rate peaked at 85 percent in November 2022, declining somewhat to 64 percent in December. This is by far the highest rate in Europe, easily surpassing runner-up Hungary with its 25 percent. Turkey’s foreign exchange reserves are dwindling, and the nation faces a burgeoning current-account deficit. The Turkish population is increasingly disgruntled by the presence of 3.6 million Syrian refugees, which Turkey, to its credit, admitted at the beginning of the Syrian Civil War. There is also growing fatigue with Erdogan’s increasingly autocratic 20-year rule; a whole generation has known no other leader.
+
+For Erdogan, everything is now riding on the elections. After 20 years of largely unchallenged rule, a defeat would entail serious repercussions for him, his family, his cronies, and many others in his Justice and Development Party (AKP) who have personally benefited from his rule and could likely face prosecution. An opposition win would also constitute a form of regime change, given that its leaders support the restoration of Turkey’s parliamentary system and the curtailment of presidential powers. Erdogan’s sense of vulnerability has grown so acute that the government has used the courts to try to ban a leading potential opposition candidate, Istanbul Mayor Ekrem Imamoglu, from running—an extreme move that could ultimately backfire.
+
+Current polls suggest that Erdogan and the AKP could lose the election, scheduled for May 14. For any other leader, such levels of unpopularity and economic malaise might spell certain defeat. But Erdogan is known for his tenacity and his ability to win elections, and he has managed to steady his poll numbers. Given how much is at stake, he is likely to employ almost any means to avoid defeat. As his recent foreign policy moves suggest, he also has several cards to play, and he may seek to manufacture a crisis—including with the West—to change the domestic mood. Europe and the United States must prepare for such a development to minimize potential damage and must have a strategy in place to counter it. Turkey is far too important a country to be allowed to drift away from Western influence.
 
