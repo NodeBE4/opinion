@@ -221,7 +221,7 @@ Re @TONY19891989 @FightForJiuCai 还以为真理在手，加上仇恨在胸，�
 
 ### 52: [2022-04-28 03:28:55+08:00 推文](https://twitter.com/HeQinglian/status/1519398205733093378)
 
-突发新闻：<br>意大利能源巨头埃尼集团将在 Gazprombank 开设卢布账户。<br>问：这是G7集团成员，欧盟怎么办？<br><br>The Spectator Index: BREAKING: Italian energy giant Eni set to open rubles accounts with Gazprombank<br>
+突发新闻：<br>意大利能源巨头埃尼集团将在 Gazprombank 开设卢布账户。<br>问：这是G7集团成员，欧盟怎么办？
 
 ### 53: [2022-04-28 03:34:11+08:00 推文](https://twitter.com/HeQinglian/status/1519399528176271360)
 
@@ -469,7 +469,7 @@ Re @Wu_Zhi @JianglinLi @HongfuDing 我觉得没认错，只是在说：我努力
 
 ### 114: [2022-04-30 20:20:50+08:00 推文](https://twitter.com/HeQinglian/status/1520377636400529409)
 
-以前美国政府报告谈对外使命是推广民主，拜登政府第一份公开的政府报告，谈的是美国极左偏爱的性别多元化，与民主普世人权没半点关系。<br>该政府一年多负债10万亿（共30万亿），经济增速-1.4%，通货膨胀8.9%；想带盟国战俄罗斯，又提供不了盟国需要的能源；盗选以来软实力降为负值。<br>世界需要你领导吗？
+以前美国政府报告谈对外使命是推广民主，拜登政府第一份公开的政府报告，谈的是美国极左偏爱的性别多元化，与民主普世人权没半点关系。<br>该政府一年多负债10万亿（共30万亿），经济增速-1.4%，通货膨胀8.9%；想带盟国战俄罗斯，又提供不了盟国需要的能源；盗选以来软实力降为负值。<br>世界需要你领导吗？<br><br>美国驻华使领馆 US MissionCN: 我们发布了有史以来的第一份公开的美国政府报告，展示我们为在全球推动男女同性恋、双性恋、跨性别者、酷儿及间性人等人士（LGBTQI+）的人权所作的工作。我们敦促所有政府与我们一起采取行动，支持LGBTQI+人权捍卫者不懈和崇高的工作。<br> <a href="https://twitter.com/SecBlinken/status/1519651037988233216" target="_blank" rel="noopener noreferrer">https://twitter.com/SecBlinken/status/1519651037988233216</a>
 
 ### 115: [2022-04-30 21:16:58+08:00 推文](https://twitter.com/HeQinglian/status/1520391763294306304)
 
