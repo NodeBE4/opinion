@@ -17,7 +17,7 @@ title: 'Twitter @中国文字狱事件盘点: 2021-12-20~2021-12-26'
 
 ### 1: [2021-12-21 18:16:49+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1473236004102455303)
 
-Re 深圳大学教师吴远卿，因在朋友圈转发人《人民日报》旧闻《不告密不揭发是道德底线》并配文“恶意举报老师的小人，其告密行为将记入档案，终生受益呦”，以批评近日举报上海震旦学院教师宋庚一并导致其被开除的学生，现被校方调查。<br><img style src="https://pbs.twimg.com/media/FHH60fBWUAAqKrV?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re 深圳大学教师吴远卿，因在朋友圈转发人《人民日报》旧闻《不告密不揭发是道德底线》并配文“恶意举报老师的小人，其告密行为将记入档案，终生受益呦”，以批评近日举报上海震旦学院教师宋庚一并导致其被开除的学生，现被校方调查。<br><img style="" src="https://pbs.twimg.com/media/FHH60fBWUAAqKrV?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2021-12-21 18:19:48+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1473236755310694405)
 
@@ -29,7 +29,7 @@ Re Shenzhen University teacher Wu Yuanqing under investigation by the University
 
 ### 4: [2021-12-23 18:49:04+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1473968894872330242)
 
-近日，湖南教师李田田因为在微博声援上海震旦学院宋庚一老师而被当局强行关进精神病院，且有消息称李田田已有四个月身孕，引起内外网公愤。<br>想想几年前的董瑶琼因对习近平画像泼墨而被关进精神病院，以及2010年公安部那条让人细思极恐的命令：精神病院未经警方同意不得收治正常人。<br>这就叫暗无天日。<br><img style="" src="https://pbs.twimg.com/media/FHSUh2yWYAIHKnT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHSVQJiXoAgUggf?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHSWauFXoAMbp0R?format=jpg&name=orig" referrerpolicy="no-referrer">
+近日，湖南教师李田田因为在微博声援上海震旦学院宋庚一老师而被当局强行关进精神病院，且有消息称李田田已有四个月身孕，引起内外网公愤。<br>想想几年前的董瑶琼因对习近平画像泼墨而被关进精神病院，以及2010年公安部那条让人细思极恐的命令：精神病院未经警方同意不得收治正常人。<br>这就叫暗无天日。<br><img style src="https://pbs.twimg.com/media/FHSUh2yWYAIHKnT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHSVQJiXoAgUggf?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHSWauFXoAMbp0R?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2021-12-23 18:55:24+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1473970490851086339)
 
@@ -41,9 +41,9 @@ Re The teacher's name is Li Tiantian, and the Shanghai teacher she supported on 
 
 ### 7: [2021-12-26 20:30:51+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1475081675428216835)
 
-甘肃省陇南市男子张某，因在微信群里“辱骂村干部“，被处拘留6日。<br><img style="" src="https://pbs.twimg.com/media/FHiKw3oXsAMwokP?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHiKyBuWUAQEJLN?format=jpg&name=orig" referrerpolicy="no-referrer">
+甘肃省陇南市男子张某，因在微信群里“辱骂村干部“，被处拘留6日。<br><img style src="https://pbs.twimg.com/media/FHiKw3oXsAMwokP?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHiKyBuWUAQEJLN?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2021-12-26 20:31:39+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1475081875840552963)
 
-Gansu man Zhang detained for 6 days for "insulting village officials" in a WeChat group chat.<br><img style src="https://pbs.twimg.com/media/FHiK_zrXsAEnQ6c?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHiLAxtXIAAw8Hu?format=jpg&name=orig" referrerpolicy="no-referrer">
+Gansu man Zhang detained for 6 days for "insulting village officials" in a WeChat group chat.<br><img style="" src="https://pbs.twimg.com/media/FHiK_zrXsAEnQ6c?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHiLAxtXIAAw8Hu?format=jpg&name=orig" referrerpolicy="no-referrer">
 
