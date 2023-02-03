@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2023-02-01
+date: 2023-02-03
 from: https://twitter.com/nathanlawkc/status/1620516346382680073
 layout: post
 tags:
@@ -24,4 +24,8 @@ In the past two years, more than 150k Hongkongers have relocated to the UK under
 ### 2: [2023-02-01 04:20:03+08:00 推文](https://twitter.com/nathanlawkc/status/1620517284635901953)
 
 Re @SKinnock @DanielKorski @sundersays @FelicityBuchan The key to a good integration/immigration program is not only getting HKers to know about the UK society, but also making our community more visible and showing our uniqueness. Part of my work is to introduce our culture to the locals --  follow @HKFF_UK and @HKUC_UK for more.
+
+### 3: [2023-02-03 18:04:55+08:00 推文](https://twitter.com/nathanlawkc/status/1621449646403895298)
+
+“China is challenging the rest of the world about its ideology, about its global international system,” Law said. “It’s really important to keep raising awareness for political prisoners in Hong Kong, human rights violations in Hong Kong.” <a href="https://www.bloomberg.com/news/articles/2023-02-03/exiled-hong-kong-activist-nathan-law-says-bn-o-flight-to-uk-will-continue?utm_source=website&amp;utm_medium=share&amp;utm_campaign=twitter" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2023-02-03/exiled-hong-kong-activist-nathan-law-says-bn-o-flight-to-uk-will-continue?utm_source=website&amp;utm_medium=share&amp;utm_campaign=twitter</a>
 
