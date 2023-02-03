@@ -246,3 +246,11 @@ To be honest, I do not think they're that bad, or even bad at all. I don't gener
 
 It will also never not be amusing seeing Suchet play Inspector Japp in *Thirteen at Dinner*, 15 years before playing Poirot in another adaptation of the same story.
 
+----- __1085.5__ -----2023-02-03 10:30:44+08:00:
+
+Speaking as someone whose familiarity with NijiEN is quite poor outside the odd Selen stream, I nevertheless find this all quite bewildering.
+
+The first thing is the timeline: First off, a trailer dropped, and then the announcement of 'cancellation' (instead of postponement as at least some of the talents have stated it is) came a mere *11 days* later. Secondly, while it cites covid as a reason, which is not inherently implausible, the sheer vagary sticks out. It is *very* difficult to grasp why that would manage to impose a sufficient delay that the event in question – whose original scheduled date would still have been over 2 months away as of writing – can't even be definitively rescheduled. By the time you have a trailer, you really *ought* to be confident that your event can and will go ahead.
+
+The second is the existence of those tweets: They indicate to me that the talents, who appear to have known that an announcement of postponement/cancellation was coming, were *heavily* blindsided by the *nature* of that announcement. While I appreciate the notion that this is deeply unprofessional, it's also not unlikely that Nijisanji's internal communications are not in great shape. The fact that NijiID members recently publicly tweeted about their not being forwarded fanmail, that implies that recourse within internal management structures either hadn't been forthcoming in that instance, or that prior precedent had indicated that would be probable. Either way, not a great situation to be in, and I can understand if there had been increasing strains internally that are just now boiling over.
+
