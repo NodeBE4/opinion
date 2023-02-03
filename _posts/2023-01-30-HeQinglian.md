@@ -201,7 +201,7 @@ Re @farmdirect8 去纽约上州一朋友家，他家的Deck都未装栏干，如
 
 ### 47: [2023-02-01 02:30:26+08:00 推文](https://twitter.com/HeQinglian/status/1620489700887900161)
 
-Re @fading_you1 以前我以为中国人该长点记性了，但这几年“顺着反共的一地坚冰，呲溜一下滑到进步主义街对面去”的人太多了，因此已有思想准备。<br>阿富汗是前车之鉴。这国从1960年代开始，先是马克思主义立国、再就是苏联美国先后折腾，弄出一个极端伊斯兰主义，然后是美式民主（包括性多元化教育），现在又回到极伊。
+RT He Qinglian<br>Re @fading_you1 以前我以为中国人该长点记性了，但这几年“顺着反共的一地坚冰，呲溜一下滑到进步主义街对面去”的人太多了，因此已有思想准备。<br>阿富汗是前车之鉴。这国从1960年代开始，先是马克思主义立国、再就是苏联美国先后折腾，弄出一个极端伊斯兰主义，然后是美式民主（包括性多元化教育），现在又回到极伊。
 
 ### 48: [2023-02-01 02:36:48+08:00 推文](https://twitter.com/HeQinglian/status/1620491304382906368)
 
@@ -465,7 +465,7 @@ Re 我去台湾时，还有人专门给我讲解大陆针对台湾的网军。
 
 ### 113: [2023-02-03 08:50:00+08:00 推文](https://twitter.com/HeQinglian/status/1621309999115902976)
 
-所谓“统一、分裂”，在中国语境中，就是谁当权谁就要统一（包括统一思想）；谁在野，谁就反对统一，要分裂。<br>反统一的毛在1949年之后反分裂，二者无缝平滑对接，粘合剂就是权力。无权时，想通过分裂分一杯羹；一朝权在手，分裂就是罪。<br>从春秋无义战开始至今，就是如此。 <a href="https://twitter.com/remonwangxt/status/1621300809634816002" target="_blank" rel="noopener noreferrer">https://twitter.com/remonwangxt/status/1621300809634816002</a>
+所谓“统一、分裂”，在中国语境中，就是谁当权谁就要统一（包括统一思想）；谁在野，谁就反对统一，要分裂。<br>反统一的毛在1949年之后反分裂，二者无缝平滑对接，粘合剂就是权力。无权时，想通过分裂分一杯羹；一朝权在手，分裂就是罪。<br>从春秋无义战开始至今，就是如此。
 
 ### 114: [2023-02-03 08:51:48+08:00 推文](https://twitter.com/HeQinglian/status/1621310449898717186)
 
@@ -578,4 +578,36 @@ Re @JianglinLi @monk0620 确有其事，好象报道过两例。
 ### 141: [2023-02-04 02:10:01+08:00 推文](https://twitter.com/HeQinglian/status/1621571725778362370)
 
 Re @eGUAbe2V7j26GHw 拜登最近因党内采取各种动作（多处搜秘密文件、在中国资助的宾大拜登中心私藏大量秘密文件、儿子的烂事）逼其退出2024竞选，正不高兴，躺平状态。😅
+
+### 142: [2023-02-04 04:47:50+08:00 推文](https://twitter.com/HeQinglian/status/1621611442720980992)
+
+我感觉自她离开国会议长席位，她的党成为少数之后，美国国会开始走向正常化。<div class="rsshub-quote"><br><br>Lois 💜Q👍👍👍: 美国历史上最糟糕和最具破坏性的演讲者!<br><br>如你同意的话转发<br><br><img style="" src="https://pbs.twimg.com/media/Fn_-OpkaIAALkkF?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 143: [2023-02-04 04:50:12+08:00 推文](https://twitter.com/HeQinglian/status/1621612039142612992)
+
+Re @jokergetupearly @eGUAbe2V7j26GHw 共和党这个月干得不错，刚通过谴责社会主义法案——正一件一件地来，希望继续。
+
+### 144: [2023-02-04 04:56:13+08:00 推文](https://twitter.com/HeQinglian/status/1621613553303146500)
+
+Re @LQniupitang 刚才看到一众分析，如下：<br>1、万一里面是病毒呢？<br>2、汽球里装满了毒气；<br>因此，不是畏惧。美国总统与军队爱人民。<br>总之，非不能也，是不打也。刚才布林肯国务卿已经决定延迟访华了，北京失去接待美国务卿的机会，损失很大。<br>BTW，刚才五角大楼发言人说了，美国人民想知道汽球动向，可以仰望天空。
+
+### 145: [2023-02-04 05:05:46+08:00 推文](https://twitter.com/HeQinglian/status/1621615955620012034)
+
+看了内容，发现这又是地对空放炮。难怪民主党有109人同意了，因为法案内容是针对斯大林的苏式（古巴）社会主义。<br>民主党实行的社会主义，打的是民主社会主义旗号，展示的是北欧高福利样品。人家民主党想的是：你谴责的社会主义与俺党的高福利+lgbtqi毫无关系，更何况斯大林当年还迫害过同性恋，该谴责<div class="rsshub-quote"><br><br>阿波罗网唯一官方推号: 美众议院通过谴责社会主义法案(图): 2月2日，美国联邦众议院通过了谴责社会主义恐怖的《H.Con.Res.9法案》，称社会主义与美国立国原则相悖。 该法案是由众议员玛丽亚·萨拉查（Maria Salazar）提出的，两党以327对86的绝对...<br><br><img style="" src="https://pbs.twimg.com/media/FoAzipOaUAEkpmT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="http://dlvr.it/ShsRzT" target="_blank" rel="noopener noreferrer">http://dlvr.it/ShsRzT</a></div>
+
+### 146: [2023-02-04 05:07:17+08:00 推文](https://twitter.com/HeQinglian/status/1621616335590510598)
+
+Re 补充：当年川普也如此谴责过。<br>不知共和党是不明白二者区别，还是明白了也选择只谴责斯大林与古巴式社会主义。
+
+### 147: [2023-02-04 05:08:33+08:00 推文](https://twitter.com/HeQinglian/status/1621616653837516806)
+
+Re @Zhanglihualois 你的意思是说，没有南希的身影，美国就没有国会？
+
+### 148: [2023-02-04 05:29:44+08:00 推文](https://twitter.com/HeQinglian/status/1621621988144848896)
+
+一直在奇怪民主党总是置移民法于不顾，鼓励投票时不验ID，加州等地更是鼓励非移参与投票，现在知道源头了，2016年，奥巴马接受采访时说：‘<br>“When you vote, you are a citizen yourself.” （当你投票时，你就是美国公民了）。 <a href="https://www.statesman.com/story/news/local/2016/11/08/opinion-obamas-recent-bean-spilling-interview-is-shocking/9914318007/" target="_blank" rel="noopener noreferrer">https://www.statesman.com/story/news/local/2016/11/08/opinion-obamas-recent-bean-spilling-interview-is-shocking/9914318007/</a>
+
+### 149: [2023-02-04 05:34:00+08:00 推文](https://twitter.com/HeQinglian/status/1621623059265232896)
+
+Re 在节目中，主持人吉娜·罗德里格斯 (Gina Rodriguez) 问：“无证公民——我称他们为公民——害怕投票。 担心如果我投票，移民局会知道我住在哪里吗？ 他们会来抓我的家人并驱逐我们吗？”奥巴马如此回答，稍后在采访中，奥巴马加强了他的立场：“如果你的家庭成员可能没有身份，那么你就有更大的理由投票。”
 
