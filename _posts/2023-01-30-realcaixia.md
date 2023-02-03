@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2023-02-03
+date: 2023-02-04
 from: https://twitter.com/realcaixia/status/1620431587207950336
 layout: post
 tags:
@@ -29,11 +29,11 @@ title: 'Twitter @蔡霞: 2023-01-30~2023-02-05'
 
 ### 4: [2023-02-01 10:36:45+08:00 推文](https://twitter.com/realcaixia/status/1620612087495168000)
 
-这是个好消息。中共警察跨国长臂监控华人的罪恶行径，是中共对美国主权的侵犯。美国政府理当以法律处置并惩罚这个罪恶的机构。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: Ccp紐約警察局被關閉！<br></div>
+这是个好消息。中共警察跨国长臂监控华人的罪恶行径，是中共对美国主权的侵犯。美国政府理当以法律处置并惩罚这个罪恶的机构。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: Ccp紐約警察局被關閉！<br> <a href="https://twitter.com/nro/status/1620376417639833601" target="_blank" rel="noopener noreferrer">https://twitter.com/nro/status/1620376417639833601</a></div>
 
 ### 5: [2023-02-01 10:46:52+08:00 推文](https://twitter.com/realcaixia/status/1620614630254182402)
 
-病毒溯源的过程就是伸张正义、追究真相的过程！需要多国政府和民众共同努力，需要国际组织强有力的实际行动！<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 病毒溯源的為什麼👇<br></div>
+病毒溯源的过程就是伸张正义、追究真相的过程！需要多国政府和民众共同努力，需要国际组织强有力的实际行动！<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 病毒溯源的為什麼👇<br> <a href="https://twitter.com/zonghengjp/status/1620371274160807937" target="_blank" rel="noopener noreferrer">https://twitter.com/zonghengjp/status/1620371274160807937</a></div>
 
 ### 6: [2023-02-01 14:46:01+08:00 推文](https://twitter.com/realcaixia/status/1620674815903277056)
 
@@ -41,7 +41,7 @@ title: 'Twitter @蔡霞: 2023-01-30~2023-02-05'
 
 ### 7: [2023-02-01 18:30:40+08:00 推文](https://twitter.com/realcaixia/status/1620731350121840640)
 
-追溯病毒起源关乎到真相与公平，是给逝者的必须的告慰。<div class="rsshub-quote"><br><br>Jane Wang 王剑虹 #FreeZhangZhan: 悲痛的母亲 #杨敏 <br>三年前 #张展 曾希望安慰、帮助她<br>#武汉，已被抑制三年的哀声和怒火<br></div>
+追溯病毒起源关乎到真相与公平，是给逝者的必须的告慰。<div class="rsshub-quote"><br><br>Jane Wang 王剑虹 #FreeZhangZhan: 悲痛的母亲 #杨敏 <br>三年前 #张展 曾希望安慰、帮助她<br>#武汉，已被抑制三年的哀声和怒火<br> <a href="https://twitter.com/zonghengjp/status/1620371274160807937" target="_blank" rel="noopener noreferrer">https://twitter.com/zonghengjp/status/1620371274160807937</a></div>
 
 ### 8: [2023-02-02 00:41:57+08:00 推文](https://twitter.com/realcaixia/status/1620824788125224961)
 
@@ -49,7 +49,7 @@ title: 'Twitter @蔡霞: 2023-01-30~2023-02-05'
 
 ### 9: [2023-02-02 00:43:39+08:00 推文](https://twitter.com/realcaixia/status/1620825216573382656)
 
-希望能彻底查清病毒起源。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 聯合國專家終於發聲：新冠病毒最大可能的來源是實驗室！👇<br> <a href="https://twitter.com/colindavdbutler/status/1619516584514707459" target="_blank" rel="noopener noreferrer">https://twitter.com/colindavdbutler/status/1619516584514707459</a></div>
+希望能彻底查清病毒起源。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 聯合國專家終於發聲：新冠病毒最大可能的來源是實驗室！👇<br></div>
 
 ### 10: [2023-02-02 10:22:50+08:00 推文](https://twitter.com/realcaixia/status/1620970972995100672)
 
@@ -74,4 +74,8 @@ title: 'Twitter @蔡霞: 2023-01-30~2023-02-05'
 ### 15: [2023-02-03 23:43:38+08:00 推文](https://twitter.com/realcaixia/status/1621534885784555520)
 
 这是有良知有正常思维人的愤怒！<br>明镜台李琪、梁➕何，却在海外与墙内中共带风向舆论一个腔调，说胡鑫宇是心理出问题自杀。请问李琪你有孩子吗？你理解做母亲的心碎悲痛欲绝的情感吗？！梁➕何们，你们还有哪怕是一点点人性善吗？2016年雷洋案冤死还被诬嫖娼，今天胡被污心理出问题自杀，再版雷洋案！<div class="rsshub-quote"><br><br>花仙子: 他爲什麽這麽憤怒？因爲官方的發佈會嚴重侮辱了他的智商，侮辱了每個人的智商！<br><br><video src="https://video.twimg.com/ext_tw_video/1621385542934974465/pu/vid/320x320/KZEBcz0QvJcezJVf.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1621385542934974465/pu/img/KYHg3nyihjUHNIK2.jpg"></video></div>
+
+### 16: [2023-02-04 03:30:43+08:00 推文](https://twitter.com/realcaixia/status/1621592036221542401)
+
+特别推荐#议报发布周舵自述（一）我的母親 。现在的许多朋友，特别是五毛粉红，很少有人了解1950—1976年，中国人心灵世界被施虐而扭曲的真实情况。<br>周舵写了他一家的真实生活状态和境遇，值得我们每个人都想想。 <a href="https://yibaochina.com/?p=249353" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=249353</a>
 
