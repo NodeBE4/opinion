@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-02-03
+date: 2023-02-04
 from: https://twitter.com/HeQinglian/status/1619729297610256384
 layout: post
 tags:
@@ -554,4 +554,24 @@ Re @qige1863 他们可以申请当警察、公路巡警等执法人员，一下�
 ### 135: [2023-02-03 22:29:55+08:00 推文](https://twitter.com/HeQinglian/status/1621516336248803329)
 
 Re @shenliangqing2 中国这不明显，我们这代固然有毛左遗老，但年轻点的有不少学西左的。
+
+### 136: [2023-02-04 00:18:50+08:00 推文](https://twitter.com/HeQinglian/status/1621543747413594117)
+
+Re @FrankLaoFan @fading_you1 分群体。
+
+### 137: [2023-02-04 00:35:56+08:00 推文](https://twitter.com/HeQinglian/status/1621548048349380612)
+
+Re @hohot 看来，赖清德做上民进党主席，实在来之不易，如果不是九合一选举民进党失利，这位置真到不了他头上。
+
+### 138: [2023-02-04 00:48:47+08:00 推文](https://twitter.com/HeQinglian/status/1621551283852148736)
+
+民主党有百多票谴责社会主义，猜想：<br>1、这是“新民主党人”+残存的保守民主党人（蓝狗联盟）合力谴责。新民主党人的领袖是克林顿，前一向他说了再这样下去，美国民主很危险；奥、南领导的国会连线也有部分加入。进步民主党人+部分国会连线反对谴责。<br>2、谴责的民主党人认为该党实行的不是社会主义。<div class="rsshub-quote"><br><br>阿波罗网唯一官方推号: 美众议院通过谴责社会主义法案(图): 2月2日，美国联邦众议院通过了谴责社会主义恐怖的《H.Con.Res.9法案》，称社会主义与美国立国原则相悖。 该法案是由众议员玛丽亚·萨拉查（Maria Salazar）提出的，两党以327对86的绝对...<br><br><img style="" src="https://pbs.twimg.com/media/FoAzipOaUAEkpmT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="http://dlvr.it/ShsRzT" target="_blank" rel="noopener noreferrer">http://dlvr.it/ShsRzT</a></div>
+
+### 139: [2023-02-04 00:49:39+08:00 推文](https://twitter.com/HeQinglian/status/1621551502870417408)
+
+Re @JianglinLi @monk0620 确有其事，好象报道过两例。
+
+### 140: [2023-02-04 01:07:32+08:00 推文](https://twitter.com/HeQinglian/status/1621556003090096129)
+
+有什么好绕开的？<br>美国什么武器都有，想打就打。拜登总司令不想打，喉咙喊破也没用。<br>继续口水仗，成本低，效益好。这么冷的天，反正无处可去，没事可干的人就积极参与口水仗。<br>这时候用大汗体最好：你要战，便来战——改成：<br>美方：你敢飘来，我就敢打；<br>中方：你不敢打，下个还来。<div class="rsshub-quote"><br><br>零敲牛皮糖537.7: 今天<br>全推特的反贼<br>都选择<br>绕开<br>气球🎈的话题<br>这是为什么呢🧐<br></div>
 

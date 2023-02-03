@@ -236,7 +236,7 @@ So yeah, needless to say things are *weird* in VTuberland at the moment.
 
 ----- __1085.3__ -----2023-02-03 06:12:30+08:00:
 
-Not just that, we've had Indonesian talents – some but not all – complaining about not being forwarded their fanmail, and Nijisanji's official Twitter explicitly accusing a member of having 'committed dishonest acts' as the cause of their recently-concluded suspension. [Both are summarised and linked to here.](https://www.reddit.com/r/HobbyDrama/comments/10o8x58/hobby_scuffles_week_of_january_30_2023/j6ogwsf/)
+Not just that, we've seen Indonesian talents – some but not all – complaining about not being forwarded their fanmail, and Nijisanji's official Twitter explicitly accusing a member of having 'committed dishonest acts' as the cause of their recently-concluded suspension. [Both are summarised and linked to here.](https://www.reddit.com/r/HobbyDrama/comments/10o8x58/hobby_scuffles_week_of_january_30_2023/j6ogwsf/)
 
 ----- __1085.4__ -----2023-02-03 07:52:30+08:00:
 
