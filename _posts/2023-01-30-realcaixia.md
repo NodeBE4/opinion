@@ -29,11 +29,11 @@ title: 'Twitter @蔡霞: 2023-01-30~2023-02-05'
 
 ### 4: [2023-02-01 10:36:45+08:00 推文](https://twitter.com/realcaixia/status/1620612087495168000)
 
-这是个好消息。中共警察跨国长臂监控华人的罪恶行径，是中共对美国主权的侵犯。美国政府理当以法律处置并惩罚这个罪恶的机构。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: Ccp紐約警察局被關閉！<br></div>
+这是个好消息。中共警察跨国长臂监控华人的罪恶行径，是中共对美国主权的侵犯。美国政府理当以法律处置并惩罚这个罪恶的机构。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: Ccp紐約警察局被關閉！<br> <a href="https://twitter.com/NRO/status/1620376417639833601" target="_blank" rel="noopener noreferrer">https://twitter.com/NRO/status/1620376417639833601</a></div>
 
 ### 5: [2023-02-01 10:46:52+08:00 推文](https://twitter.com/realcaixia/status/1620614630254182402)
 
-病毒溯源的过程就是伸张正义、追究真相的过程！需要多国政府和民众共同努力，需要国际组织强有力的实际行动！<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 病毒溯源的為什麼👇<br></div>
+病毒溯源的过程就是伸张正义、追究真相的过程！需要多国政府和民众共同努力，需要国际组织强有力的实际行动！<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 病毒溯源的為什麼👇<br> <a href="https://twitter.com/zonghengjp/status/1620371274160807937" target="_blank" rel="noopener noreferrer">https://twitter.com/zonghengjp/status/1620371274160807937</a></div>
 
 ### 6: [2023-02-01 14:46:01+08:00 推文](https://twitter.com/realcaixia/status/1620674815903277056)
 
@@ -41,7 +41,7 @@ title: 'Twitter @蔡霞: 2023-01-30~2023-02-05'
 
 ### 7: [2023-02-01 18:30:40+08:00 推文](https://twitter.com/realcaixia/status/1620731350121840640)
 
-追溯病毒起源关乎到真相与公平，是给逝者的必须的告慰。<div class="rsshub-quote"><br><br>Jane Wang 王剑虹 #FreeZhangZhan: 悲痛的母亲 #杨敏 <br>三年前 #张展 曾希望安慰、帮助她<br>#武汉，已被抑制三年的哀声和怒火<br></div>
+追溯病毒起源关乎到真相与公平，是给逝者的必须的告慰。<div class="rsshub-quote"><br><br>Jane Wang 王剑虹 #FreeZhangZhan: 悲痛的母亲 #杨敏 <br>三年前 #张展 曾希望安慰、帮助她<br>#武汉，已被抑制三年的哀声和怒火<br> <a href="https://twitter.com/zonghengjp/status/1620371274160807937" target="_blank" rel="noopener noreferrer">https://twitter.com/zonghengjp/status/1620371274160807937</a></div>
 
 ### 8: [2023-02-02 00:41:57+08:00 推文](https://twitter.com/realcaixia/status/1620824788125224961)
 
@@ -78,4 +78,16 @@ title: 'Twitter @蔡霞: 2023-01-30~2023-02-05'
 ### 16: [2023-02-04 03:30:43+08:00 推文](https://twitter.com/realcaixia/status/1621592036221542401)
 
 特别推荐#议报发布周舵自述（一）我的母親 。现在的许多朋友，特别是五毛粉红，很少有人了解1950—1976年，中国人心灵世界被施虐而扭曲的真实情况。<br>周舵写了他一家的真实生活状态和境遇，值得我们每个人都想想。 <a href="https://yibaochina.com/?p=249353" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=249353</a>
+
+### 17: [2023-02-04 04:39:42+08:00 推文](https://twitter.com/realcaixia/status/1621609397029052417)
+
+我们还去了国会大厦下面的议员餐厅，那比中共某些机构餐厅差了好几档。举例我吃过的新华社总社大楼餐厅，食品品种100多种、象征性收费。美国会大厦餐食可填饱肚子，没一样是高档食品，冷热食品一共超不过30种，餐食价格是自选称重量类型。我一个小盒重约不到300克，是$9.81，加1小杯热茶2美元。<div class="rsshub-quote"><br><br>楊建利 Jianli (Doc) Yang: 今天上午美国新科众议员Anna Paulina Luna接见公民力量部分成员，座谈一个多小时。Luna众议员是美国新一代领袖的代表人物之一，为政热情勤奋，关注中国人权议题，有成为第二个佩洛西的潜质。<br><br><img style="" src="https://pbs.twimg.com/media/FoAKeEwXgAA8RZW?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 18: [2023-02-04 04:43:58+08:00 推文](https://twitter.com/realcaixia/status/1621610469831151616)
+
+Re 那位新科国会女议员，是共和党议员。
+
+### 19: [2023-02-04 04:48:58+08:00 推文](https://twitter.com/realcaixia/status/1621611726876856321)
+
+Re @Gabriel73781378 是的。
 
