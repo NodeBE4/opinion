@@ -29,3 +29,7 @@ Re @SKinnock @DanielKorski @sundersays @FelicityBuchan The key to a good integra
 
 “China is challenging the rest of the world about its ideology, about its global international system,” Law said. “It’s really important to keep raising awareness for political prisoners in Hong Kong, human rights violations in Hong Kong.” <a href="https://www.bloomberg.com/news/articles/2023-02-03/exiled-hong-kong-activist-nathan-law-says-bn-o-flight-to-uk-will-continue?utm_source=website&amp;utm_medium=share&amp;utm_campaign=twitter" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2023-02-03/exiled-hong-kong-activist-nathan-law-says-bn-o-flight-to-uk-will-continue?utm_source=website&amp;utm_medium=share&amp;utm_campaign=twitter</a>
 
+### 4: [2023-02-03 21:15:32+08:00 推文](https://twitter.com/nathanlawkc/status/1621497618902786049)
+
+Cannot think of a better way to show solidarity with the people of Ukraine than producing a song -- one of the best Hong Kong music producers @AdriancpyChow wrote this fantastic piece.<br>Like and share it -- I hope one day we can hear it from a big stage. <a href="https://www.youtube.com/watch?v=pOxsFk2mWfQ" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=pOxsFk2mWfQ</a>
+

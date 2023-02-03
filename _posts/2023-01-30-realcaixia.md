@@ -29,11 +29,11 @@ title: 'Twitter @蔡霞: 2023-01-30~2023-02-05'
 
 ### 4: [2023-02-01 10:36:45+08:00 推文](https://twitter.com/realcaixia/status/1620612087495168000)
 
-这是个好消息。中共警察跨国长臂监控华人的罪恶行径，是中共对美国主权的侵犯。美国政府理当以法律处置并惩罚这个罪恶的机构。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: Ccp紐約警察局被關閉！<br></div>
+这是个好消息。中共警察跨国长臂监控华人的罪恶行径，是中共对美国主权的侵犯。美国政府理当以法律处置并惩罚这个罪恶的机构。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: Ccp紐約警察局被關閉！<br> <a href="https://twitter.com/nro/status/1620376417639833601" target="_blank" rel="noopener noreferrer">https://twitter.com/nro/status/1620376417639833601</a></div>
 
 ### 5: [2023-02-01 10:46:52+08:00 推文](https://twitter.com/realcaixia/status/1620614630254182402)
 
-病毒溯源的过程就是伸张正义、追究真相的过程！需要多国政府和民众共同努力，需要国际组织强有力的实际行动！<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 病毒溯源的為什麼👇<br></div>
+病毒溯源的过程就是伸张正义、追究真相的过程！需要多国政府和民众共同努力，需要国际组织强有力的实际行动！<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 病毒溯源的為什麼👇<br> <a href="https://twitter.com/zonghengjp/status/1620371274160807937" target="_blank" rel="noopener noreferrer">https://twitter.com/zonghengjp/status/1620371274160807937</a></div>
 
 ### 6: [2023-02-01 14:46:01+08:00 推文](https://twitter.com/realcaixia/status/1620674815903277056)
 
@@ -41,7 +41,7 @@ title: 'Twitter @蔡霞: 2023-01-30~2023-02-05'
 
 ### 7: [2023-02-01 18:30:40+08:00 推文](https://twitter.com/realcaixia/status/1620731350121840640)
 
-追溯病毒起源关乎到真相与公平，是给逝者的必须的告慰。<div class="rsshub-quote"><br><br>Jane Wang 王剑虹 #FreeZhangZhan: 悲痛的母亲 #杨敏 <br>三年前 #张展 曾希望安慰、帮助她<br>#武汉，已被抑制三年的哀声和怒火<br></div>
+追溯病毒起源关乎到真相与公平，是给逝者的必须的告慰。<div class="rsshub-quote"><br><br>Jane Wang 王剑虹 #FreeZhangZhan: 悲痛的母亲 #杨敏 <br>三年前 #张展 曾希望安慰、帮助她<br>#武汉，已被抑制三年的哀声和怒火<br> <a href="https://twitter.com/zonghengjp/status/1620371274160807937" target="_blank" rel="noopener noreferrer">https://twitter.com/zonghengjp/status/1620371274160807937</a></div>
 
 ### 8: [2023-02-02 00:41:57+08:00 推文](https://twitter.com/realcaixia/status/1620824788125224961)
 
@@ -49,7 +49,7 @@ title: 'Twitter @蔡霞: 2023-01-30~2023-02-05'
 
 ### 9: [2023-02-02 00:43:39+08:00 推文](https://twitter.com/realcaixia/status/1620825216573382656)
 
-希望能彻底查清病毒起源。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 聯合國專家終於發聲：新冠病毒最大可能的來源是實驗室！👇<br></div>
+希望能彻底查清病毒起源。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 聯合國專家終於發聲：新冠病毒最大可能的來源是實驗室！👇<br> <a href="https://twitter.com/ColinDavdButler/status/1619516584514707459" target="_blank" rel="noopener noreferrer">https://twitter.com/ColinDavdButler/status/1619516584514707459</a></div>
 
 ### 10: [2023-02-02 10:22:50+08:00 推文](https://twitter.com/realcaixia/status/1620970972995100672)
 
@@ -58,4 +58,16 @@ title: 'Twitter @蔡霞: 2023-01-30~2023-02-05'
 ### 11: [2023-02-03 04:52:15+08:00 推文](https://twitter.com/realcaixia/status/1621250167033794561)
 
 这样的新闻发布会就是侮辱人的智商！无真相无良知无规则无希望！中共当局干脆直接说：中国进入乱世新闻发布会。<div class="rsshub-quote"><br><br>Gancheng Wang: 看了胡鑫宇事件新闻发布会之后，清华大学某良知教授这样说：“经过这一年的乱局，中国彻底跌进四无社会，即无真相、无良知、无规矩、无希望。真相不明、良知泯灭，如果规矩尚存，还有希望。现在规矩都给他们彻底破坏了，十四亿老百姓从此无法可依，就算十四亿头猪炸窝了，你怎么抓？”<br><br><img style="" src="https://pbs.twimg.com/media/Fn8Q9sFXEAInWPO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fn8Q9sIWYAMkP5Y?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fn8Q9sIWAAIdhY-?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 12: [2023-02-03 21:40:51+08:00 推文](https://twitter.com/realcaixia/status/1621503989870387201)
+
+胡鑫宇案疑点重重，却被官方火速定下结论。又引起了一轮不信任政府的舆论海啸。那么中共为何要快速“结案”？这其中涉及哪些政治因素？案件的众多疑点该怎么看？【石山角度】(有冇搞錯國語)| 2022. - YouTube <a href="https://m.youtube.com/watch?v=PkB3bwdP3rY&amp;t=21s" target="_blank" rel="noopener noreferrer">https://m.youtube.com/watch?v=PkB3bwdP3rY&amp;t=21s</a>
+
+### 13: [2023-02-03 22:11:48+08:00 推文](https://twitter.com/realcaixia/status/1621511775928864771)
+
+胡鑫宇案，民间由议论、怀疑、到直接指出警方新闻发布疑点百出。这表明人心明显改变，由怀疑到普遍不信，当局欺骗性宣传已经破产。<br>当局做法明摆着是用恐吓高压来强迫民间“服”。<br>一般说来人心变化有这几步：<br>信—疑—不信但怕——不信且不怕。中国许多独立思考人士早已“不信”，对胡鑫宇案，民间普遍不信。<div class="rsshub-quote"><br><br>李承鹏（真正的大眼哥）: 从一根铁链到一根鞋带，一切都没变。不仅有为底层争取真相的无力感，还有脆弱的伪中产对未来的迷茫无助。一切看上去都不会有改变，只能尽可能保持点人性。只有保持人性是确定的。<br></div>
+
+### 14: [2023-02-03 22:32:35+08:00 推文](https://twitter.com/realcaixia/status/1621517007689781250)
+
+这是用科学戳破谎言，诉诸于民心。这不是与流氓讲理。中共警方用央视直播站台，并说已经抓了胡鑫宇案“造谣者”，已表明了中共高层没打算你“信”，而是高压恐吓只强迫你“服”。<br><br>中共越是动用央视这样的高规格大阵仗，越表明背后黑幕之深。还记得李文亮吗？也是被扣“造谣者”帽子，并且上了央视新闻播报！<div class="rsshub-quote"><br><br>方伟｜Wei Fang: 章天亮教授總結的胡鑫宇從高處縱身一跳勒死自己的拉力，看鞋帶是不是可以拉得住？<br>（最後的f=30m，應該是f=30mg，就是30倍的體重）<br><br><img style="" src="https://pbs.twimg.com/media/Fn__mMBXkAMUnSP?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
 
