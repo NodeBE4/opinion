@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2023-02-03
+date: 2023-02-04
 from: https://twitter.com/nathanlawkc/status/1620516346382680073
 layout: post
 tags:
@@ -32,4 +32,8 @@ Re @SKinnock @DanielKorski @sundersays @FelicityBuchan The key to a good integra
 ### 4: [2023-02-03 21:15:32+08:00 推文](https://twitter.com/nathanlawkc/status/1621497618902786049)
 
 Cannot think of a better way to show solidarity with the people of Ukraine than producing a song -- one of the best Hong Kong music producers @AdriancpyChow wrote this fantastic piece.<br>Like and share it -- I hope one day we can hear it from a big stage. <a href="https://www.youtube.com/watch?v=pOxsFk2mWfQ" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=pOxsFk2mWfQ</a>
+
+### 5: [2023-02-04 23:40:22+08:00 推文](https://twitter.com/nathanlawkc/status/1621896452569010178)
+
+Really excited to share my view on @taniabranigan's new book #Redmemory. To understand modern China, one must start with the Cultural Revolution. There are so many parallels between Mao's ruling from Xi's era. <br>@ChathamHouse <a href="https://www.chathamhouse.org/publications/the-world-today/2023-02/review-cultural-revolution-still-haunts-china?utm_source=twitter.com&amp;utm_medium=organic-social&amp;utm_campaign=twt-febmarch-2023-review-red-memory&amp;utm_content=twt-febmarch-2023-review-red-memory-content" target="_blank" rel="noopener noreferrer">https://www.chathamhouse.org/publications/the-world-today/2023-02/review-cultural-revolution-still-haunts-china?utm_source=twitter.com&amp;utm_medium=organic-social&amp;utm_campaign=twt-febmarch-2023-review-red-memory&amp;utm_content=twt-febmarch-2023-review-red-memory-content</a>
 
