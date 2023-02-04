@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2023-01-30~2023-02-05'
 
 ### 4: [2023-02-01 10:36:45+08:00 推文](https://twitter.com/realcaixia/status/1620612087495168000)
 
-这是个好消息。中共警察跨国长臂监控华人的罪恶行径，是中共对美国主权的侵犯。美国政府理当以法律处置并惩罚这个罪恶的机构。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: Ccp紐約警察局被關閉！<br> <a href="https://twitter.com/NRO/status/1620376417639833601" target="_blank" rel="noopener noreferrer">https://twitter.com/NRO/status/1620376417639833601</a></div>
+这是个好消息。中共警察跨国长臂监控华人的罪恶行径，是中共对美国主权的侵犯。美国政府理当以法律处置并惩罚这个罪恶的机构。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: Ccp紐約警察局被關閉！<br> <a href="https://twitter.com/nro/status/1620376417639833601" target="_blank" rel="noopener noreferrer">https://twitter.com/nro/status/1620376417639833601</a></div>
 
 ### 5: [2023-02-01 10:46:52+08:00 推文](https://twitter.com/realcaixia/status/1620614630254182402)
 
@@ -41,7 +41,7 @@ title: 'Twitter @蔡霞: 2023-01-30~2023-02-05'
 
 ### 7: [2023-02-01 18:30:40+08:00 推文](https://twitter.com/realcaixia/status/1620731350121840640)
 
-追溯病毒起源关乎到真相与公平，是给逝者的必须的告慰。<div class="rsshub-quote"><br><br>Jane Wang 王剑虹 #FreeZhangZhan: 悲痛的母亲 #杨敏 <br>三年前 #张展 曾希望安慰、帮助她<br>#武汉，已被抑制三年的哀声和怒火<br></div>
+追溯病毒起源关乎到真相与公平，是给逝者的必须的告慰。<div class="rsshub-quote"><br><br>Jane Wang 王剑虹 #FreeZhangZhan: 悲痛的母亲 #杨敏 <br>三年前 #张展 曾希望安慰、帮助她<br>#武汉，已被抑制三年的哀声和怒火<br> <a href="https://twitter.com/zonghengjp/status/1620371274160807937" target="_blank" rel="noopener noreferrer">https://twitter.com/zonghengjp/status/1620371274160807937</a></div>
 
 ### 8: [2023-02-02 00:41:57+08:00 推文](https://twitter.com/realcaixia/status/1620824788125224961)
 
@@ -49,7 +49,7 @@ title: 'Twitter @蔡霞: 2023-01-30~2023-02-05'
 
 ### 9: [2023-02-02 00:43:39+08:00 推文](https://twitter.com/realcaixia/status/1620825216573382656)
 
-希望能彻底查清病毒起源。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 聯合國專家終於發聲：新冠病毒最大可能的來源是實驗室！👇<br></div>
+希望能彻底查清病毒起源。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 聯合國專家終於發聲：新冠病毒最大可能的來源是實驗室！👇<br> <a href="https://twitter.com/colindavdbutler/status/1619516584514707459" target="_blank" rel="noopener noreferrer">https://twitter.com/colindavdbutler/status/1619516584514707459</a></div>
 
 ### 10: [2023-02-02 10:22:50+08:00 推文](https://twitter.com/realcaixia/status/1620970972995100672)
 
@@ -90,4 +90,16 @@ Re 那位新科国会女议员，是共和党议员。
 ### 19: [2023-02-04 04:48:58+08:00 推文](https://twitter.com/realcaixia/status/1621611726876856321)
 
 Re @Gabriel73781378 是的。
+
+### 20: [2023-02-04 06:57:04+08:00 推文](https://twitter.com/realcaixia/status/1621643964775268352)
+
+Re @juanli324 我认为假的。因为做手术必须无菌操作，致远中学有高质量的无菌手术室，并能治配置一应俱全的设备吗？如果没有，那应该是先使胡鑫宇失去知觉意识弄走，但那时显然不必衣服全脱。到了手术室才要做全脱并彻底消毒杀菌。其二，现在的场景模糊，不应贸然肯定。我曾在军队医院工作近十年，懂基本的医学常识。
+
+### 21: [2023-02-04 07:20:23+08:00 推文](https://twitter.com/realcaixia/status/1621649834414379009)
+
+Re @autumnredleaf 党校工作人员食堂，学校把午餐补贴发给外包的餐饮公司，校内工作人员吃午餐不交钱。如果带外人去吃，每人交15—25元。当时校内员工提出建议，即应把补贴发给工作人员自己，邀俩家餐饮公司竞争性营业，由工作人员自由购买午餐。但那时学校不采纳建议。有些同事议论校内相关部门与餐饮公司有无猫腻？
+
+### 22: [2023-02-04 07:35:50+08:00 推文](https://twitter.com/realcaixia/status/1621653721766584321)
+
+Re 有问党校食堂的跟帖。党校把午餐补贴发给外包的餐饮公司，校内工作人员吃午餐不交钱。如果带外人去吃，每人交15—25元。当时校内员工提出建议，即应把补贴发给工作人员自己，邀俩家餐饮公司竞争性营业，由工作人员自由购买午餐。但那时学校不采纳此建议。有些同事议论校内相关部门与餐饮公司有无猫腻？
 
