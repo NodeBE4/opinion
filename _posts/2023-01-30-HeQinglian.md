@@ -465,7 +465,7 @@ Re 我去台湾时，还有人专门给我讲解大陆针对台湾的网军。
 
 ### 113: [2023-02-03 08:50:00+08:00 推文](https://twitter.com/HeQinglian/status/1621309999115902976)
 
-所谓“统一、分裂”，在中国语境中，就是谁当权谁就要统一（包括统一思想）；谁在野，谁就反对统一，要分裂。<br>反统一的毛在1949年之后反分裂，二者无缝平滑对接，粘合剂就是权力。无权时，想通过分裂分一杯羹；一朝权在手，分裂就是罪。<br>从春秋无义战开始至今，就是如此。 <a href="https://twitter.com/remonwangxt/status/1621300809634816002" target="_blank" rel="noopener noreferrer">https://twitter.com/remonwangxt/status/1621300809634816002</a>
+所谓“统一、分裂”，在中国语境中，就是谁当权谁就要统一（包括统一思想）；谁在野，谁就反对统一，要分裂。<br>反统一的毛在1949年之后反分裂，二者无缝平滑对接，粘合剂就是权力。无权时，想通过分裂分一杯羹；一朝权在手，分裂就是罪。<br>从春秋无义战开始至今，就是如此。
 
 ### 114: [2023-02-03 08:51:48+08:00 推文](https://twitter.com/HeQinglian/status/1621310449898717186)
 
@@ -710,4 +710,12 @@ Re @aoduolong 金庸是多大年龄去了香港？<br>人的社会化过程是�
 ### 174: [2023-02-04 22:52:58+08:00 推文](https://twitter.com/HeQinglian/status/1621884523695771648)
 
 Re @woaijinpinmei 如果你长于忧患，最后能够终于安乐，就是幸运。
+
+### 175: [2023-02-04 23:45:47+08:00 推文](https://twitter.com/HeQinglian/status/1621897818075021312)
+
+Re @SearchNoFilter 以美国国防部最后公布的为准，目前还正在变动中。😅<br>大家看着，及时更新。
+
+### 176: [2023-02-04 23:55:31+08:00 推文](https://twitter.com/HeQinglian/status/1621900267674271745)
+
+拜登“将尝试击落”大西洋上空的中国间谍气球，以便将其取回并进行研究——现在五角大楼正计划在美国水域执行击落和捕获任务，执行任务的飞机定于今天中午从东海岸飞越卡罗莱纳州。 <a href="https://www.dailymail.co.uk/news/article-11712933/Biden-try-shoot-Chinese-spy-balloon-Atlantic.html" target="_blank" rel="noopener noreferrer">https://www.dailymail.co.uk/news/article-11712933/Biden-try-shoot-Chinese-spy-balloon-Atlantic.html</a>
 

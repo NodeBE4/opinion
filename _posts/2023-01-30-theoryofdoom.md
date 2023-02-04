@@ -103,9 +103,31 @@ What is SEL?
 
 According to the accounts of people I know that have knowledge of such situations (I'm sorry I can't be more specific), that is indeed what happens.  That information will eventually be known by the general population, one way or another.  Even prison gangs that hate each other agree that they all hate child abusers more.  And they'll cooperate with one another to exact their own variety of justice.
 
+----- __461.3__ -----2023-02-05 00:02:07+08:00:
+
+What does that refer to?  I'm not trying to be petulant I just really have no idea what that means.  I have never taught grade school students and I haven't heard that term before.
+
 ### 462: [WEF: What if everywhere has ubiquitous monitoring](https://old.reddit.com/r/DeclineIntoCensorship/comments/10t1u04/wef_what_if_everywhere_has_ubiquitous_monitoring/), submitted on 2023-02-04 09:50:07+08:00.
 
 ----- __462.1__ -----2023-02-04 13:23:16+08:00:
 
 If everywhere had ubiquitous monitoring, then maybe a certain mathematician whose name starts with the letter "K" was right.
+
+### 463: [Bill That Would Allow Inmates to Trade Their Organs for Less Prison Time Introduced in Massachusetts](https://old.reddit.com/r/DarkFuturology/comments/10t2lqw/bill_that_would_allow_inmates_to_trade_their/), submitted on 2023-02-04 10:27:18+08:00.
+
+----- __463.1__ -----2023-02-05 00:20:17+08:00:
+
+Talk about creating an incentive to flood the prisons.  
+
+It takes no difficulty whatsoever to realize how certain individuals might even be targeted for "incarceration," based on their genetic information (known or inferred from aggregated databases).
+
+For example, suppose you (or someone sufficiently closely related to you) submitted their genetic information to 23andMe or any other such company. 
+
+With that information, at least one of the following two things could be accomplished:
+
+First, an exact donor match might be identified.
+
+Second, a very precise pool of candidate donors could be narrowed from the general population.
+
+How that information might be used should shock the conscience of any decent, thinking person.
 
