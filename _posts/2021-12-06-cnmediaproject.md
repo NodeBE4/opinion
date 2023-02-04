@@ -57,7 +57,7 @@ Topping page one of the People's Daily today -- the release of a new book on hum
 
 ### 11: [2021-12-08 08:17:00+08:00 推文](https://twitter.com/cnmediaproject/status/1468374013861072896)
 
-Re The book release was covered last night on the official newscast Xinwen Lianbo, which said that the "CCP and the Chinese government have respected and protected human rights throughout," and "found a path to human rights suiting national circumstances." <a href="https://www.yicai.com/news/101251439.html" target="_blank" rel="noopener noreferrer">https://www.yicai.com/news/101251439.html</a><br><img style="" src="https://pbs.twimg.com/media/FGC1qAAVEAQBVf_?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re The book release was covered last night on the official newscast Xinwen Lianbo, which said that the "CCP and the Chinese government have respected and protected human rights throughout," and "found a path to human rights suiting national circumstances." <a href="https://www.yicai.com/news/101251439.html" target="_blank" rel="noopener noreferrer">https://www.yicai.com/news/101251439.html</a><br><img style src="https://pbs.twimg.com/media/FGC1qAAVEAQBVf_?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2021-12-08 08:19:45+08:00 推文](https://twitter.com/niubi/status/1468374707007275015)
 
@@ -89,7 +89,7 @@ Re Wait. Can't get enough of these inspiring layouts? Here is Shenyang Daily.<br
 
 ### 19: [2021-12-08 08:34:33+08:00 推文](https://twitter.com/cnmediaproject/status/1468378428462477313)
 
-Re And China Youth Daily, the official mouthpiece of the Chinese Communist Youth League. <a href="http://zqb.cyol.com/html/2021-12/08/nw.D110000zgqnb_20211208_2-01.htm" target="_blank" rel="noopener noreferrer">http://zqb.cyol.com/html/2021-12/08/nw.D110000zgqnb_20211208_2-01.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGC6Y8PUcAEVH-7?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re And China Youth Daily, the official mouthpiece of the Chinese Communist Youth League. <a href="http://zqb.cyol.com/html/2021-12/08/nw.D110000zgqnb_20211208_2-01.htm" target="_blank" rel="noopener noreferrer">http://zqb.cyol.com/html/2021-12/08/nw.D110000zgqnb_20211208_2-01.htm</a><br><img style src="https://pbs.twimg.com/media/FGC6Y8PUcAEVH-7?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 20: [2021-12-08 08:35:32+08:00 推文](https://twitter.com/cnmediaproject/status/1468378676064833536)
 
@@ -137,7 +137,7 @@ Re He is listed as the dir. of the Cross-Cultural HR Centre, affiliated (?) with
 
 ### 31: [2021-12-09 09:39:10+08:00 推文](https://twitter.com/cnmediaproject/status/1468757077455966208)
 
-Re The video dates to the 2019 South-South HR Forum, and advocates moving "development" to the center of human rights concepts, a typical CCP point. . . But look more closely at the "News and Opinion" section on the Cross-Cultural Human Rights Centre website. <a href="https://crossculturalhumanrightscentre.com/?page_id=12" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=12</a><br><img style src="https://pbs.twimg.com/media/FGISi0SVkAA3yGf?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re The video dates to the 2019 South-South HR Forum, and advocates moving "development" to the center of human rights concepts, a typical CCP point. . . But look more closely at the "News and Opinion" section on the Cross-Cultural Human Rights Centre website. <a href="https://crossculturalhumanrightscentre.com/?page_id=12" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=12</a><br><img style="" src="https://pbs.twimg.com/media/FGISi0SVkAA3yGf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 32: [2021-12-09 09:49:20+08:00 推文](https://twitter.com/cnmediaproject/status/1468759639550734336)
 
@@ -157,11 +157,11 @@ Re The forum was launched in 2017, making this the 5th such event. The forum doe
 
 ### 36: [2021-12-09 10:20:48+08:00 推文](https://twitter.com/cnmediaproject/status/1468767555016093696)
 
-Re Recall that the purpose of the SCIO, founded 1991, is external propaganda and "explaining China to the world." It is run by the CCP's Central Propaganda Department -- again under Huang Kunming, who read Xi's letter to the human rights forum. <a href="http://www.scio.gov.cn/xwbjs/" target="_blank" rel="noopener noreferrer">http://www.scio.gov.cn/xwbjs/</a><br><img style src="https://pbs.twimg.com/media/FGIcBy0VEAAf8lp?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Recall that the purpose of the SCIO, founded 1991, is external propaganda and "explaining China to the world." It is run by the CCP's Central Propaganda Department -- again under Huang Kunming, who read Xi's letter to the human rights forum. <a href="http://www.scio.gov.cn/xwbjs/" target="_blank" rel="noopener noreferrer">http://www.scio.gov.cn/xwbjs/</a><br><img style="" src="https://pbs.twimg.com/media/FGIcBy0VEAAf8lp?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 37: [2021-12-09 11:23:02+08:00 推文](https://twitter.com/cnmediaproject/status/1468783218573082631)
 
-Don't miss today's page-two "Zhong Sheng" (钟声) commentary in the People's Daily, this being a byline reserved for important CCP central views on int'l affairs. This one is about Nathan Law, continuing yesterday's attacks, and it simply bristles. <a href="http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_7-03.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_7-03.htm</a><br><img style src="https://pbs.twimg.com/media/FGIqSj9UUAERa3G?format=jpg&name=orig" referrerpolicy="no-referrer">
+Don't miss today's page-two "Zhong Sheng" (钟声) commentary in the People's Daily, this being a byline reserved for important CCP central views on int'l affairs. This one is about Nathan Law, continuing yesterday's attacks, and it simply bristles. <a href="http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_7-03.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_7-03.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGIqSj9UUAERa3G?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 38: [2021-12-10 02:42:32+08:00 推文](https://twitter.com/GeringTuvia/status/1469014618307641344)
 
