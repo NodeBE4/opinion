@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2023-02-01
+date: 2023-02-04
 from: https://old.reddit.com/r/PublicFreakout/comments/10ol3f0/8_redding_ca_police_officers_brutalize_man_attack/
 layout: post
 tags:
@@ -90,4 +90,22 @@ I wish I could get one more Ozzfest.
 ----- __460.1__ -----2023-02-02 13:53:32+08:00:
 
 I am reminded of a Bill Burr comment on bands in that situation.
+
+### 461: [9 years old girl was beaten on the school bus in Florida. Unprovoked attack.](https://old.reddit.com/r/ActualPublicFreakouts/comments/10sau5j/9_years_old_girl_was_beaten_on_the_school_bus_in/), submitted on 2023-02-03 12:17:45+08:00.
+
+----- __461.1__ -----2023-02-04 12:46:53+08:00:
+
+What is SEL?
+
+----- __461.2__ -----2023-02-04 12:56:49+08:00:
+
+> According to my dad, some of the COs would tip the more violent inmates off about child abusers
+
+According to the accounts of people I know that have knowledge of such situations (I'm sorry I can't be more specific), that is indeed what happens.  That information will eventually be known by the general population, one way or another.  Even prison gangs that hate each other agree that they all hate child abusers more.  And they'll cooperate with one another to exact their own variety of justice.
+
+### 462: [WEF: What if everywhere has ubiquitous monitoring](https://old.reddit.com/r/DeclineIntoCensorship/comments/10t1u04/wef_what_if_everywhere_has_ubiquitous_monitoring/), submitted on 2023-02-04 09:50:07+08:00.
+
+----- __462.1__ -----2023-02-04 13:23:16+08:00:
+
+If everywhere had ubiquitous monitoring, then maybe a certain mathematician whose name starts with the letter "K" was right.
 
