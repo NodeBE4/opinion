@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-02-04
+date: 2023-02-05
 from: https://twitter.com/HeQinglian/status/1619729297610256384
 layout: post
 tags:
@@ -201,7 +201,7 @@ Re @farmdirect8 去纽约上州一朋友家，他家的Deck都未装栏干，如
 
 ### 47: [2023-02-01 02:30:26+08:00 推文](https://twitter.com/HeQinglian/status/1620489700887900161)
 
-RT He Qinglian<br>Re @fading_you1 以前我以为中国人该长点记性了，但这几年“顺着反共的一地坚冰，呲溜一下滑到进步主义街对面去”的人太多了，因此已有思想准备。<br>阿富汗是前车之鉴。这国从1960年代开始，先是马克思主义立国、再就是苏联美国先后折腾，弄出一个极端伊斯兰主义，然后是美式民主（包括性多元化教育），现在又回到极伊。
+Re @fading_you1 以前我以为中国人该长点记性了，但这几年“顺着反共的一地坚冰，呲溜一下滑到进步主义街对面去”的人太多了，因此已有思想准备。<br>阿富汗是前车之鉴。这国从1960年代开始，先是马克思主义立国、再就是苏联美国先后折腾，弄出一个极端伊斯兰主义，然后是美式民主（包括性多元化教育），现在又回到极伊。
 
 ### 48: [2023-02-01 02:36:48+08:00 推文](https://twitter.com/HeQinglian/status/1620491304382906368)
 
@@ -718,4 +718,8 @@ Re @SearchNoFilter 以美国国防部最后公布的为准，目前还正在变�
 ### 176: [2023-02-04 23:55:31+08:00 推文](https://twitter.com/HeQinglian/status/1621900267674271745)
 
 拜登“将尝试击落”大西洋上空的中国间谍气球，以便将其取回并进行研究——现在五角大楼正计划在美国水域执行击落和捕获任务，执行任务的飞机定于今天中午从东海岸飞越卡罗莱纳州。 <a href="https://www.dailymail.co.uk/news/article-11712933/Biden-try-shoot-Chinese-spy-balloon-Atlantic.html" target="_blank" rel="noopener noreferrer">https://www.dailymail.co.uk/news/article-11712933/Biden-try-shoot-Chinese-spy-balloon-Atlantic.html</a>
+
+### 177: [2023-02-05 05:05:52+08:00 推文](https://twitter.com/HeQinglian/status/1621978366160125955)
+
+Re @farmdirect8 昨天我看了英文信息，是介绍这类气球的，说其实都有自爆装置，让气球裂一个大口子就下落了。
 
