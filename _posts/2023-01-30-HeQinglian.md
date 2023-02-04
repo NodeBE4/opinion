@@ -465,7 +465,7 @@ Re 我去台湾时，还有人专门给我讲解大陆针对台湾的网军。
 
 ### 113: [2023-02-03 08:50:00+08:00 推文](https://twitter.com/HeQinglian/status/1621309999115902976)
 
-所谓“统一、分裂”，在中国语境中，就是谁当权谁就要统一（包括统一思想）；谁在野，谁就反对统一，要分裂。<br>反统一的毛在1949年之后反分裂，二者无缝平滑对接，粘合剂就是权力。无权时，想通过分裂分一杯羹；一朝权在手，分裂就是罪。<br>从春秋无义战开始至今，就是如此。
+所谓“统一、分裂”，在中国语境中，就是谁当权谁就要统一（包括统一思想）；谁在野，谁就反对统一，要分裂。<br>反统一的毛在1949年之后反分裂，二者无缝平滑对接，粘合剂就是权力。无权时，想通过分裂分一杯羹；一朝权在手，分裂就是罪。<br>从春秋无义战开始至今，就是如此。 <a href="https://twitter.com/remonwangxt/status/1621300809634816002" target="_blank" rel="noopener noreferrer">https://twitter.com/remonwangxt/status/1621300809634816002</a>
 
 ### 114: [2023-02-03 08:51:48+08:00 推文](https://twitter.com/HeQinglian/status/1621310449898717186)
 
@@ -722,4 +722,20 @@ Re @SearchNoFilter 以美国国防部最后公布的为准，目前还正在变�
 ### 177: [2023-02-05 05:05:52+08:00 推文](https://twitter.com/HeQinglian/status/1621978366160125955)
 
 Re @farmdirect8 昨天我看了英文信息，是介绍这类气球的，说其实都有自爆装置，让气球裂一个大口子就下落了。
+
+### 178: [2023-02-05 06:18:29+08:00 推文](https://twitter.com/HeQinglian/status/1621996644546789376)
+
+Re @FightForJiuCai 莫非各国政府得召集本国国防部与财政部、央行一起开会，讨论“关于援助乌克兰的经济成本与政治成本核算比较”，再决定是否继续下去？<br>美国伊拉克战争花了多少钱，可做参照系。
+
+### 179: [2023-02-05 06:30:10+08:00 推文](https://twitter.com/HeQinglian/status/1621999583105613825)
+
+今天美媒出现一个热词称中国间谍气球将是“拜登的卫星时刻”（Biden’s Sputnik moment）。<br>Sputnik moment指苏联 1957 年发射的第一颗地球轨道人造卫星 Sputnik 1，让美国意识到需要增加对教育、创新研究和开发等方面的投资来赶上苏联明显的技术和科学发展。该事件点燃了冷战期间的太空竞赛。（续）
+
+### 180: [2023-02-05 06:33:04+08:00 推文](https://twitter.com/HeQinglian/status/1622000310855008258)
+
+Re 最先导致美国于 1969 年成功完成载人登月。这13年的美国总统当中的两任赫赫有名：德怀特·大卫·艾森豪威尔、肯尼迪，接任的约翰逊有争论，但目前也算中等评价。<br>接下来就是里根的美苏星球大战计划。<br>拜登是那号人吗？民主党能通过彩虹计划回应中国间谍气球吗？<br>不管别人信不信，反正我不相信。
+
+### 181: [2023-02-05 06:59:07+08:00 推文](https://twitter.com/HeQinglian/status/1622006866959077376)
+
+美国军方击落中国间谍气球的实况 <a href="https://www.foxnews.com/politics/pentagon-reveals-details-chinese-spy-balloon-taken-single-shot" target="_blank" rel="noopener noreferrer">https://www.foxnews.com/politics/pentagon-reveals-details-chinese-spy-balloon-taken-single-shot</a>
 

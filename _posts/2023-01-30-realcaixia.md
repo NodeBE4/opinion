@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2023-02-04
+date: 2023-02-05
 from: https://twitter.com/realcaixia/status/1620431587207950336
 layout: post
 tags:
@@ -41,7 +41,7 @@ title: 'Twitter @蔡霞: 2023-01-30~2023-02-05'
 
 ### 7: [2023-02-01 18:30:40+08:00 推文](https://twitter.com/realcaixia/status/1620731350121840640)
 
-追溯病毒起源关乎到真相与公平，是给逝者的必须的告慰。<div class="rsshub-quote"><br><br>Jane Wang 王剑虹 #FreeZhangZhan: 悲痛的母亲 #杨敏 <br>三年前 #张展 曾希望安慰、帮助她<br>#武汉，已被抑制三年的哀声和怒火<br></div>
+追溯病毒起源关乎到真相与公平，是给逝者的必须的告慰。<div class="rsshub-quote"><br><br>Jane Wang 王剑虹 #FreeZhangZhan: 悲痛的母亲 #杨敏 <br>三年前 #张展 曾希望安慰、帮助她<br>#武汉，已被抑制三年的哀声和怒火<br> <a href="https://twitter.com/zonghengjp/status/1620371274160807937" target="_blank" rel="noopener noreferrer">https://twitter.com/zonghengjp/status/1620371274160807937</a></div>
 
 ### 8: [2023-02-02 00:41:57+08:00 推文](https://twitter.com/realcaixia/status/1620824788125224961)
 
@@ -49,7 +49,7 @@ title: 'Twitter @蔡霞: 2023-01-30~2023-02-05'
 
 ### 9: [2023-02-02 00:43:39+08:00 推文](https://twitter.com/realcaixia/status/1620825216573382656)
 
-希望能彻底查清病毒起源。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 聯合國專家終於發聲：新冠病毒最大可能的來源是實驗室！👇<br></div>
+希望能彻底查清病毒起源。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 聯合國專家終於發聲：新冠病毒最大可能的來源是實驗室！👇<br> <a href="https://twitter.com/colindavdbutler/status/1619516584514707459" target="_blank" rel="noopener noreferrer">https://twitter.com/colindavdbutler/status/1619516584514707459</a></div>
 
 ### 10: [2023-02-02 10:22:50+08:00 推文](https://twitter.com/realcaixia/status/1620970972995100672)
 
@@ -102,4 +102,16 @@ Re @autumnredleaf 党校工作人员食堂，学校把午餐补贴发给外包�
 ### 22: [2023-02-04 07:35:50+08:00 推文](https://twitter.com/realcaixia/status/1621653721766584321)
 
 Re 有问党校食堂的跟帖。党校把午餐补贴发给外包的餐饮公司，校内工作人员吃午餐不交钱。如果带外人去吃，每人交15—25元。当时校内员工提出建议，即应把补贴发给工作人员自己，邀俩家餐饮公司竞争性营业，由工作人员自由购买午餐。但那时学校不采纳此建议。有些同事议论校内相关部门与餐饮公司有无猫腻？
+
+### 23: [2023-02-05 06:19:30+08:00 推文](https://twitter.com/realcaixia/status/1621996900110016514)
+
+强烈推荐议报发武书剑文章：胡鑫宇案：适用 “ 他杀推定 ” 原则 ！<br><br>作者提出10条价值判定原则；并提出对任何死因不明者首先应采取“他杀推定”假设，只要有一个疑点没解除，就不能定为“自杀”。作者指出：无罪推定是不冤枉任何好人；他杀推定是不放过任何凶手。这就是人命关天！ <a href="https://yibaochina.com/?p=249367" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=249367</a>
+
+### 24: [2023-02-05 06:47:32+08:00 推文](https://twitter.com/realcaixia/status/1622003955277463555)
+
+Re @baflssqs 说得对。
+
+### 25: [2023-02-05 07:25:57+08:00 推文](https://twitter.com/realcaixia/status/1622013623207088128)
+
+中国地方政府债与31省市财政全部亏损，地方政府面临破产危机；房地产业溃败及政府财政危机将引发金融危机；外资外企大量撤出、外贸出口大幅下降已致外汇紧张；国内几百万中小企业破产倒闭；数千万人失业、通货膨胀、民生艰难…，上关涉政权命运，下关系每个人每个家庭生计，必要高度关注。<br>强烈推荐<div class="rsshub-quote"><br><br>Li Yuan: 今年是中国经济特别关键的一年，不明白播客会做一系列关于中国经济的专题节目，这是第一期。地方债听起来可能有点枯燥，却是可能会影响每个中国人的问题。我问了 @vshih2 教授中国普通人为什么要关心地方债问题，地方政府财政困难是否会对中国的政治稳定造成影响，以及地方债问题最后可能会如何收场。<br></div>
 
