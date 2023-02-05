@@ -465,7 +465,7 @@ Re 我去台湾时，还有人专门给我讲解大陆针对台湾的网军。
 
 ### 113: [2023-02-03 08:50:00+08:00 推文](https://twitter.com/HeQinglian/status/1621309999115902976)
 
-所谓“统一、分裂”，在中国语境中，就是谁当权谁就要统一（包括统一思想）；谁在野，谁就反对统一，要分裂。<br>反统一的毛在1949年之后反分裂，二者无缝平滑对接，粘合剂就是权力。无权时，想通过分裂分一杯羹；一朝权在手，分裂就是罪。<br>从春秋无义战开始至今，就是如此。 <a href="https://twitter.com/remonwangxt/status/1621300809634816002" target="_blank" rel="noopener noreferrer">https://twitter.com/remonwangxt/status/1621300809634816002</a>
+所谓“统一、分裂”，在中国语境中，就是谁当权谁就要统一（包括统一思想）；谁在野，谁就反对统一，要分裂。<br>反统一的毛在1949年之后反分裂，二者无缝平滑对接，粘合剂就是权力。无权时，想通过分裂分一杯羹；一朝权在手，分裂就是罪。<br>从春秋无义战开始至今，就是如此。
 
 ### 114: [2023-02-03 08:51:48+08:00 推文](https://twitter.com/HeQinglian/status/1621310449898717186)
 
@@ -777,7 +777,7 @@ Re @Lucs24659702 有此果，查其因，因由自种。
 
 ### 191: [2023-02-05 09:44:14+08:00 推文](https://twitter.com/zhixiangziyou/status/1622048420809539584)
 
-RT L JM🇺🇸<br>拜登作为总司令彻底失败了。他没有保护我们的南部边界，他从阿富汗撤军是一场彻头彻尾的灾难，他的软弱导致了乌克兰的战争，现在共产主义间谍气球在我们的天空中自由飞翔。历史上最糟糕的总司令。<div class="rsshub-quote"><br><br>First Words: @GenFlynn @elonmusk @VP @JoeBiden Biden has utterly failed as commander-in-chief. He hasn’t protected our southern border, his withdrawal from Afghanistan was an unmitigated disaster, his weakness led to war in Ukraine and now a communist spy balloon freely flies our skies. Worst commander-in-chief in history.<br></div>
+RT L JM🇺🇸<br>拜登作为总司令彻底失败了。他没有保护我们的南部边界，他从阿富汗撤军是一场彻头彻尾的灾难，他的软弱导致了乌克兰的战争，现在共产主义间谍气球在我们的天空中自由飞翔。历史上最糟糕的总司令。
 
 ### 192: [2023-02-05 10:37:20+08:00 推文](https://twitter.com/HeQinglian/status/1622061785950871555)
 
@@ -806,4 +806,24 @@ Re @JianglinLi 应该没有下文了。<br>难道让中国气球的所有者出�
 ### 198: [2023-02-05 10:58:20+08:00 推文](https://twitter.com/HeQinglian/status/1622067068223774722)
 
 Re @JianglinLi @zhixiangziyou 中国这次考虑不周，如果送一只彩虹气球进来，是不是可以被视为友好标志？<br>不过，彩虹的颜色不可以乱涂，有顺序的。我至今分不清，但彩虹人士分得清。
+
+### 199: [2023-02-05 20:52:48+08:00 推文](https://twitter.com/fading_you1/status/1622216670566563840)
+
+RT 天降伟人包由检<br>徐思远常出现在我tl。对他支黑理论我没啥好说。一个好中国人都碰不上憋屈至此，这是他的不幸不是我的不幸。不过说到拿耿潇男开黄腔，这就不是观点问题，纯属品行猥琐。帮他说话的有个“大猫”说骂徐的人“神化耿潇男”。这更可笑。难道随便拿个端庄女性开黄腔就不猥琐？我还以为支黑自己行事会高人一品呢
+
+### 200: [2023-02-05 22:20:36+08:00 推文](https://twitter.com/HeQinglian/status/1622238768177487872)
+
+Re @fading_you1 虽然不认识耿女士，但从他人描述来看，这位是有担当的一位豪爽女性。愿她早获自由，再展鸿翮。<br>人世间有些人，与他们不经意之间见面就是错。
+
+### 201: [2023-02-05 22:23:43+08:00 推文](https://twitter.com/HeQinglian/status/1622239552394895360)
+
+Re @alexling7251 @liqunchen @JianglinLi 这方面不是知识，是新闻。如果我将她的措施列举出来，你愿意当众道歉，我愿意花几分钟时间。否则你还是呆在你那64平方米的大蜗居时看天下吧。
+
+### 202: [2023-02-05 22:35:01+08:00 推文](https://twitter.com/HeQinglian/status/1622242395231342594)
+
+Re @fading_you1 @x07EsfDrQssaTWK 也因此，我多少有点理解中华田园女权开骂中国男人的现象。但凡有点教养的女士，谁愿意与这些污糟货对骂。也只有田园女拳能征惯战，可以灭了这些货。
+
+### 203: [2023-02-05 22:49:32+08:00 推文](https://twitter.com/HeQinglian/status/1622246050546307073)
+
+并非拜登无能，世界都遭遇中国气球入侵😅：<br>美國ABC News引述美軍官員說法，指稱中國擁有一支「監控氣球艦隊」（fleet of surveillance balloons），且在過去數年之間，全球五大洲都有國家遭到該裝置的滲透，其中也包括東亞、南亞與歐洲等地區。<br>川普时期也遇到三只气球入侵。 <a href="https://www.upmedia.mg/news_info.php?Type=3&amp;SerialNo=165189" target="_blank" rel="noopener noreferrer">https://www.upmedia.mg/news_info.php?Type=3&amp;SerialNo=165189</a>
 
