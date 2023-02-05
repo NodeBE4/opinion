@@ -201,7 +201,7 @@ Re @farmdirect8 去纽约上州一朋友家，他家的Deck都未装栏干，如
 
 ### 47: [2023-02-01 02:30:26+08:00 推文](https://twitter.com/HeQinglian/status/1620489700887900161)
 
-Re @fading_you1 以前我以为中国人该长点记性了，但这几年“顺着反共的一地坚冰，呲溜一下滑到进步主义街对面去”的人太多了，因此已有思想准备。<br>阿富汗是前车之鉴。这国从1960年代开始，先是马克思主义立国、再就是苏联美国先后折腾，弄出一个极端伊斯兰主义，然后是美式民主（包括性多元化教育），现在又回到极伊。
+RT He Qinglian<br>Re @fading_you1 以前我以为中国人该长点记性了，但这几年“顺着反共的一地坚冰，呲溜一下滑到进步主义街对面去”的人太多了，因此已有思想准备。<br>阿富汗是前车之鉴。这国从1960年代开始，先是马克思主义立国、再就是苏联美国先后折腾，弄出一个极端伊斯兰主义，然后是美式民主（包括性多元化教育），现在又回到极伊。
 
 ### 48: [2023-02-01 02:36:48+08:00 推文](https://twitter.com/HeQinglian/status/1620491304382906368)
 
@@ -781,7 +781,7 @@ RT L JM🇺🇸<br>拜登作为总司令彻底失败了。他没有保护我�
 
 ### 192: [2023-02-05 10:37:20+08:00 推文](https://twitter.com/HeQinglian/status/1622061785950871555)
 
-【中國球型飛行物事件：它自1月28日進入美國，進進出出多次，白宮對民眾保密，不想影響和北京的友好氣氛，但飛行物被民眾發現，在社交媒體引起熱議後官方才被逼採取行動。】<br>事实如此，WSJ报道了是哪个民众发现拍照传往社交媒体。<div class="rsshub-quote"><br><br>韦石 watson Meng of Farm Direct: 中國球型飛行物事件：它自1月28日進入美國，進進出出多次，白宮對民眾保密，不想影響和北京的友好氣氛，但飛行物被民眾發現，在社交媒體引起熱議後官方才被逼採取行動。<br>評：我看台灣是指不上美國了。<br> <a href="https://twitter.com/jmichaelwaller/status/1621802672490967040" target="_blank" rel="noopener noreferrer">https://twitter.com/jmichaelwaller/status/1621802672490967040</a></div>
+【中國球型飛行物事件：它自1月28日進入美國，進進出出多次，白宮對民眾保密，不想影響和北京的友好氣氛，但飛行物被民眾發現，在社交媒體引起熱議後官方才被逼採取行動。】<br>事实如此，WSJ报道了是哪个民众发现拍照传往社交媒体。<div class="rsshub-quote"><br><br>韦石 watson Meng of Farm Direct: 中國球型飛行物事件：它自1月28日進入美國，進進出出多次，白宮對民眾保密，不想影響和北京的友好氣氛，但飛行物被民眾發現，在社交媒體引起熱議後官方才被逼採取行動。<br>評：我看台灣是指不上美國了。<br></div>
 
 ### 193: [2023-02-05 10:44:46+08:00 推文](https://twitter.com/HeQinglian/status/1622063655331270658)
 
@@ -826,4 +826,24 @@ Re @fading_you1 @x07EsfDrQssaTWK 也因此，我多少有点理解中华田园�
 ### 203: [2023-02-05 22:49:32+08:00 推文](https://twitter.com/HeQinglian/status/1622246050546307073)
 
 并非拜登无能，世界都遭遇中国气球入侵😅：<br>美國ABC News引述美軍官員說法，指稱中國擁有一支「監控氣球艦隊」（fleet of surveillance balloons），且在過去數年之間，全球五大洲都有國家遭到該裝置的滲透，其中也包括東亞、南亞與歐洲等地區。<br>川普时期也遇到三只气球入侵。 <a href="https://www.upmedia.mg/news_info.php?Type=3&amp;SerialNo=165189" target="_blank" rel="noopener noreferrer">https://www.upmedia.mg/news_info.php?Type=3&amp;SerialNo=165189</a>
+
+### 204: [2023-02-05 23:28:29+08:00 推文](https://twitter.com/HeQinglian/status/1622255850734686209)
+
+Re @JianglinLi @mingshi_chen @zhixiangziyou @fading_you1 实际生活中挤不进，但Twitter上能挤进。
+
+### 205: [2023-02-05 23:37:32+08:00 推文](https://twitter.com/HeQinglian/status/1622258129684647936)
+
+Re 英文链接：<br>中国有只气球舰队<br>China has fleet of surveillance balloons, senior defense official says<br> <br>川普时遭遇三只中国气球入侵<br>Yes, Chinese Spy Balloons Flew Over The U.S. When President Trump Was In Office Too<br><br>不知能否挽回拜登形象 <a href="https://abcnews.go.com/US/live-updates/china-spy-balloon/?id=96874279#96898650" target="_blank" rel="noopener noreferrer">https://abcnews.go.com/US/live-updates/china-spy-balloon/?id=96874279#96898650</a> <a href="https://www.forbes.com/sites/mattnovak/2023/02/04/yes-chinese-spy-balloons-flew-over-the-us-when-president-trump-was-in-office-too/" target="_blank" rel="noopener noreferrer">https://www.forbes.com/sites/mattnovak/2023/02/04/yes-chinese-spy-balloons-flew-over-the-us-when-president-trump-was-in-office-too/</a>
+
+### 206: [2023-02-05 23:37:56+08:00 推文](https://twitter.com/HeQinglian/status/1622258227206397952)
+
+Re @Vince6610 这个有链接么？
+
+### 207: [2023-02-05 23:38:44+08:00 推文](https://twitter.com/HeQinglian/status/1622258428251865088)
+
+Re @mingshi_chen @JianglinLi @zhixiangziyou @fading_you1 我也早拉黑了。<br>不正常的推主，看见就拉黑。
+
+### 208: [2023-02-05 23:54:02+08:00 推文](https://twitter.com/HeQinglian/status/1622262280455946241)
+
+Re @ZResearcher001 一直有人说是去库存，为武器更新换代留空间。
 

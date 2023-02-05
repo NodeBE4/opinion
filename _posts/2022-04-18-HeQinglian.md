@@ -249,7 +249,7 @@ Re @princeton_walk 据说是俄海军太弱，管理不善，某些装置没启�
 
 ### 59: [2022-04-18 21:19:31+08:00 推文](https://twitter.com/HeQinglian/status/1516043752074326019)
 
-RT He Qinglian<br>Re @yu_su_chen 你说的自宫，美国一直在做。<br>俄乌战争那么吃紧，拜登都始终未忘本国公民的生殖器官阉割问题，提拔了一位变性人（男变女）做能源部长，号召全美未成年人自主变性，父母干涉就是违法。<br>就算天塌下来，拜登也不会忘记这件自宫大事。<br>有时我怀疑金老爷子说的《葵花宝典》被倒卖到美国，被民主党捡了漏。
+Re @yu_su_chen 你说的自宫，美国一直在做。<br>俄乌战争那么吃紧，拜登都始终未忘本国公民的生殖器官阉割问题，提拔了一位变性人（男变女）做能源部长，号召全美未成年人自主变性，父母干涉就是违法。<br>就算天塌下来，拜登也不会忘记这件自宫大事。<br>有时我怀疑金老爷子说的《葵花宝典》被倒卖到美国，被民主党捡了漏。
 
 ### 60: [2022-04-18 21:20:55+08:00 推文](https://twitter.com/HeQinglian/status/1516044104534310912)
 
@@ -845,7 +845,7 @@ Re @JianglinLi @Wu_Zhi @JiangShangrong 连自己都没照亮。<br>记得有位U
 
 ### 208: [2022-04-23 00:53:01+08:00 推文](https://twitter.com/HeQinglian/status/1517547030146600965)
 
-[欧盟委员会周五表示，如果欧盟公司以欧元或美元支付，然后将其兑换成俄罗斯货币，那么它们可能能够解决俄罗斯要求以卢布支付天然气的要求，而不会违反制裁。]<br>路透还有一条，英国允许本国公司购买俄能源到5月31日。<br>自己撒落的一地鸡毛，一片一片捡吧。<br><br>Reuters: EU says gas payments may be possible under Russian roubles proposal without breaching sanctions<br><br><img style="" src="https://pbs.twimg.com/media/FQ9PUVfXwAAdBc4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="http://reut.rs/3KadHGC" target="_blank" rel="noopener noreferrer">http://reut.rs/3KadHGC</a>
+[欧盟委员会周五表示，如果欧盟公司以欧元或美元支付，然后将其兑换成俄罗斯货币，那么它们可能能够解决俄罗斯要求以卢布支付天然气的要求，而不会违反制裁。]<br>路透还有一条，英国允许本国公司购买俄能源到5月31日。<br>自己撒落的一地鸡毛，一片一片捡吧。
 
 ### 209: [2022-04-23 00:55:41+08:00 推文](https://twitter.com/HeQinglian/status/1517547703382724609)
 
