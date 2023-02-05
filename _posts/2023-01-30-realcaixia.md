@@ -29,11 +29,11 @@ title: 'Twitter @蔡霞: 2023-01-30~2023-02-05'
 
 ### 4: [2023-02-01 10:36:45+08:00 推文](https://twitter.com/realcaixia/status/1620612087495168000)
 
-这是个好消息。中共警察跨国长臂监控华人的罪恶行径，是中共对美国主权的侵犯。美国政府理当以法律处置并惩罚这个罪恶的机构。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: Ccp紐約警察局被關閉！<br></div>
+这是个好消息。中共警察跨国长臂监控华人的罪恶行径，是中共对美国主权的侵犯。美国政府理当以法律处置并惩罚这个罪恶的机构。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: Ccp紐約警察局被關閉！<br> <a href="https://twitter.com/NRO/status/1620376417639833601" target="_blank" rel="noopener noreferrer">https://twitter.com/NRO/status/1620376417639833601</a></div>
 
 ### 5: [2023-02-01 10:46:52+08:00 推文](https://twitter.com/realcaixia/status/1620614630254182402)
 
-病毒溯源的过程就是伸张正义、追究真相的过程！需要多国政府和民众共同努力，需要国际组织强有力的实际行动！<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 病毒溯源的為什麼👇<br> <a href="https://twitter.com/zonghengjp/status/1620371274160807937" target="_blank" rel="noopener noreferrer">https://twitter.com/zonghengjp/status/1620371274160807937</a></div>
+病毒溯源的过程就是伸张正义、追究真相的过程！需要多国政府和民众共同努力，需要国际组织强有力的实际行动！<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 病毒溯源的為什麼👇<br></div>
 
 ### 6: [2023-02-01 14:46:01+08:00 推文](https://twitter.com/realcaixia/status/1620674815903277056)
 
@@ -41,7 +41,7 @@ title: 'Twitter @蔡霞: 2023-01-30~2023-02-05'
 
 ### 7: [2023-02-01 18:30:40+08:00 推文](https://twitter.com/realcaixia/status/1620731350121840640)
 
-追溯病毒起源关乎到真相与公平，是给逝者的必须的告慰。<div class="rsshub-quote"><br><br>Jane Wang 王剑虹 #FreeZhangZhan: 悲痛的母亲 #杨敏 <br>三年前 #张展 曾希望安慰、帮助她<br>#武汉，已被抑制三年的哀声和怒火<br> <a href="https://twitter.com/zonghengjp/status/1620371274160807937" target="_blank" rel="noopener noreferrer">https://twitter.com/zonghengjp/status/1620371274160807937</a></div>
+追溯病毒起源关乎到真相与公平，是给逝者的必须的告慰。<div class="rsshub-quote"><br><br>Jane Wang 王剑虹 #FreeZhangZhan: 悲痛的母亲 #杨敏 <br>三年前 #张展 曾希望安慰、帮助她<br>#武汉，已被抑制三年的哀声和怒火<br></div>
 
 ### 8: [2023-02-02 00:41:57+08:00 推文](https://twitter.com/realcaixia/status/1620824788125224961)
 
@@ -49,7 +49,7 @@ title: 'Twitter @蔡霞: 2023-01-30~2023-02-05'
 
 ### 9: [2023-02-02 00:43:39+08:00 推文](https://twitter.com/realcaixia/status/1620825216573382656)
 
-希望能彻底查清病毒起源。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 聯合國專家終於發聲：新冠病毒最大可能的來源是實驗室！👇<br> <a href="https://twitter.com/colindavdbutler/status/1619516584514707459" target="_blank" rel="noopener noreferrer">https://twitter.com/colindavdbutler/status/1619516584514707459</a></div>
+希望能彻底查清病毒起源。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 聯合國專家終於發聲：新冠病毒最大可能的來源是實驗室！👇<br></div>
 
 ### 10: [2023-02-02 10:22:50+08:00 推文](https://twitter.com/realcaixia/status/1620970972995100672)
 
@@ -114,4 +114,20 @@ Re @baflssqs 说得对。
 ### 25: [2023-02-05 07:25:57+08:00 推文](https://twitter.com/realcaixia/status/1622013623207088128)
 
 中国地方政府债与31省市财政全部亏损，地方政府面临破产危机；房地产业溃败及政府财政危机将引发金融危机；外资外企大量撤出、外贸出口大幅下降已致外汇紧张；国内几百万中小企业破产倒闭；数千万人失业、通货膨胀、民生艰难…，上关涉政权命运，下关系每个人每个家庭生计，必要高度关注。<br>强烈推荐<div class="rsshub-quote"><br><br>Li Yuan: 今年是中国经济特别关键的一年，不明白播客会做一系列关于中国经济的专题节目，这是第一期。地方债听起来可能有点枯燥，却是可能会影响每个中国人的问题。我问了 @vshih2 教授中国普通人为什么要关心地方债问题，地方政府财政困难是否会对中国的政治稳定造成影响，以及地方债问题最后可能会如何收场。<br></div>
+
+### 26: [2023-02-05 08:50:22+08:00 推文](https://twitter.com/realcaixia/status/1622034867348443136)
+
+这样的夫人令人感动和尊敬。<div class="rsshub-quote"><br><br>魏欢欢（欧彪峰妻子）: 今天上午收到了欧彪峰的入监通知书，感觉送信的邮政大哥比我还紧张尴尬，毕竟一般观念看来，亲人入狱是难受又难堪的事，但对我来说，这是两年多漫长等待得来的结果，我也从不认为我的丈夫因为政治观点和声援同道入狱是让人羞耻的事情，所以很平静，社会进步总要有人付出，有人承担代价，这是我们的荣光<br><br><img style="" src="https://pbs.twimg.com/media/FoF1SmdaMAE2EF1?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FoF1SlgaMAAhdR6?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 27: [2023-02-05 09:08:51+08:00 推文](https://twitter.com/realcaixia/status/1622039515732004864)
+
+去新疆的汉人是要具体分析的，不要因民族不同而一律仇视。应该是维汉民众团结起来，共同反抗中共极权统治。<br>其实在我看来汉族已被中共灭了。汉族的传统文化经历几轮毁灭，汉族的文字被改变为简体中文，民国时期的各路精英留在大陆的大约85%被迫害致死。<div class="rsshub-quote"><br><br>Nini艾番妮🇺🇸🇭🇰ChinaNews海外华人新闻在线: #白纸革命 #四通桥勇士 <br><br>郭艺：网名Edith，女，清华大学经管学院2015级学生，新疆文科状元。<br>郭艺（Edith）2022年10月20日左右，她带着自己制作的四通桥勇士彭立发海报到北京厕所张贴时被捕。随后其家中的四通桥海报也被搜出，<br>三个月以来，她的被捕并不为外界所知。<br><br><img style="" src="https://pbs.twimg.com/media/FoIuBUFaUAATctw?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FoIuBUFaQAEsCRp?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FoIuBUEaIAE1bZj?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FoIuBUCaAAAAHci?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://wqw2010.blogspot.com/2023/02/edith.html" target="_blank" rel="noopener noreferrer">https://wqw2010.blogspot.com/2023/02/edith.html</a></div>
+
+### 28: [2023-02-05 09:16:11+08:00 推文](https://twitter.com/realcaixia/status/1622041362572144642)
+
+Re @USABelAir2021 要看汉族的传统、文化、民俗、汉文化的温润儒雅，各种礼节，只有在台湾能看到。<br>汉族已被灭族，现在与极权沆瀣一气的，是被极权统治改造后泯灭了扭曲了人性的“共产主义新人”。<br>所有参加因白纸运动而被警察抓捕的人，我们都有义务有责任为她们呼喊，使她们得到更多人的支持和帮助。
+
+### 29: [2023-02-05 09:25:58+08:00 推文](https://twitter.com/realcaixia/status/1622043823005376512)
+
+Re 要看汉族的传统、文化、民俗、汉文化的温润儒雅，各种礼节，只有在台湾能看到。<br>汉族已被灭族，现在与极权沆瀣一气的，是被极权统治改造后泯灭了扭曲了人性的“共产主义新人”。<br>所有参加因白纸运动而被警察抓捕的人，我们都有义务有责任为她们呼喊，使她们得到更多人的支持和帮助。
 

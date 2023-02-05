@@ -465,7 +465,7 @@ Re 我去台湾时，还有人专门给我讲解大陆针对台湾的网军。
 
 ### 113: [2023-02-03 08:50:00+08:00 推文](https://twitter.com/HeQinglian/status/1621309999115902976)
 
-所谓“统一、分裂”，在中国语境中，就是谁当权谁就要统一（包括统一思想）；谁在野，谁就反对统一，要分裂。<br>反统一的毛在1949年之后反分裂，二者无缝平滑对接，粘合剂就是权力。无权时，想通过分裂分一杯羹；一朝权在手，分裂就是罪。<br>从春秋无义战开始至今，就是如此。 <a href="https://twitter.com/remonwangxt/status/1621300809634816002" target="_blank" rel="noopener noreferrer">https://twitter.com/remonwangxt/status/1621300809634816002</a>
+所谓“统一、分裂”，在中国语境中，就是谁当权谁就要统一（包括统一思想）；谁在野，谁就反对统一，要分裂。<br>反统一的毛在1949年之后反分裂，二者无缝平滑对接，粘合剂就是权力。无权时，想通过分裂分一杯羹；一朝权在手，分裂就是罪。<br>从春秋无义战开始至今，就是如此。
 
 ### 114: [2023-02-03 08:51:48+08:00 推文](https://twitter.com/HeQinglian/status/1621310449898717186)
 
@@ -738,4 +738,12 @@ Re 最先导致美国于 1969 年成功完成载人登月。这13年的美国总
 ### 181: [2023-02-05 06:59:07+08:00 推文](https://twitter.com/HeQinglian/status/1622006866959077376)
 
 美国军方击落中国间谍气球的实况 <a href="https://www.foxnews.com/politics/pentagon-reveals-details-chinese-spy-balloon-taken-single-shot" target="_blank" rel="noopener noreferrer">https://www.foxnews.com/politics/pentagon-reveals-details-chinese-spy-balloon-taken-single-shot</a>
+
+### 182: [2023-02-05 07:43:31+08:00 推文](https://twitter.com/HeQinglian/status/1622018040912117762)
+
+这篇报道最出彩的一句是拜登说，早在星期三他就命令军方尽快将中国气球击落。<br>刚看到华拜粉在山呼万岁。齐颂：拜帅这一仗，打得真漂亮。对中共狠到骨子里。😅<br>如果他们知道古巴导弹危机，一定会称赞他们的拜帅比肯尼迪厉害，当年古巴导弹危机处理花时12天，这次才三天不到，强四倍。<div class="rsshub-quote"><br><br>美国之音中文网: 美国2月4日宣布在南卡罗来纳州沿海上空将中国侦察气球击落。拜登总统对执行击落任务的飞行人员表示赞赏。他还表示，他星期三在听取相关简报时就下令尽快将气球击落，军方建议等到气球飞到最安全地方的上空后再实施击落。报道:<br><br><video src="https://video.twimg.com/amplify_video/1621991346633310208/vid/1080x1080/dq1bWbKxlcM6Ptek.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/media/FoJ8u2DaQAAcqFC?format=jpg&amp;name=orig"></video> <a href="https://bit.ly/3juQB6m" target="_blank" rel="noopener noreferrer">https://bit.ly/3juQB6m</a></div>
+
+### 183: [2023-02-05 08:42:52+08:00 推文](https://twitter.com/HeQinglian/status/1622032978741280769)
+
+Re @JianglinLi @LeafBodhi @Wu_Zhi @HongfuDing @david_david1968 @ngexp 那两道白色的据说是激光。
 

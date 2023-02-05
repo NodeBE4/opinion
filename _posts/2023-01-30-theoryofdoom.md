@@ -131,3 +131,17 @@ Second, a very precise pool of candidate donors could be narrowed from the gener
 
 How that information might be used should shock the conscience of any decent, thinking person.
 
+### 464: [How can I make this email better?](https://old.reddit.com/r/college/comments/10tj1zl/how_can_i_make_this_email_better/), submitted on 2023-02-04 23:29:54+08:00.
+
+----- __464.1__ -----2023-02-05 07:43:15+08:00:
+
+Use fewer words. 
+
+Hi [Person], 
+
+Good morning.  In follow up to my initial screening, what are the next steps for my application? 
+
+I would look forward to working together.
+
+Best,
+
