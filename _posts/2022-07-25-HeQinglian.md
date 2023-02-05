@@ -69,7 +69,7 @@ Re @Tianshuihanyan 激将法。不是一起去，他去，希望在那见到南�
 
 ### 14: [2022-07-25 21:20:04+08:00 推文](https://twitter.com/HeQinglian/status/1551557899209654273)
 
-Re @JianglinLi @9527joshua @KELMAND1 @ZedongWinine @LetsBeatRabbits 马克思主义在东、西方回归，各有套路。<br>中国的年轻一代信的马经，就是马克思主义哲学（唯物辨证法）、剩余价值理论做主干的政经学、暴革说。<br>西方年轻人则是新马那套，高福利、人性的解放——进步主义，包括LGBTQI、消解男女组成的婚姻家庭，实行性多元化。<br>不知“两马会师”是何情景？正邪决斗还是相容？
+RT He Qinglian<br>Re @JianglinLi @9527joshua @KELMAND1 @ZedongWinine @LetsBeatRabbits 马克思主义在东、西方回归，各有套路。<br>中国的年轻一代信的马经，就是马克思主义哲学（唯物辨证法）、剩余价值理论做主干的政经学、暴革说。<br>西方年轻人则是新马那套，高福利、人性的解放——进步主义，包括LGBTQI、消解男女组成的婚姻家庭，实行性多元化。<br>不知“两马会师”是何情景？正邪决斗还是相容？
 
 ### 15: [2022-07-25 21:27:08+08:00 推文](https://twitter.com/HeQinglian/status/1551559679628697600)
 
@@ -253,7 +253,7 @@ Re @realTaoRay 这么害怕川普2024出山？<br>其实，只要诚实选举，
 
 ### 60: [2022-07-28 03:28:43+08:00 推文](https://twitter.com/HeQinglian/status/1552375447291367425)
 
-解决方案来了：<br>1、拜习通话后，拜登想要的能否得到已成定局，不会再传达军方意见反对南希去。民主党内矛盾让位于美中矛盾；<br>2、南希等人成行，如中方不用武力威慑，从此可视中共为Paper Tiger；如果美方回应，政治反对派解放中国的梦想可实现。如果不回应，美国就是Paper Tiger。<br>前提是南希健康。
+解决方案来了：<br>1、拜习通话后，拜登想要的能否得到已成定局，不会再传达军方意见反对南希去。民主党内矛盾让位于美中矛盾；<br>2、南希等人成行，如中方不用武力威慑，从此可视中共为Paper Tiger；如果美方回应，政治反对派解放中国的梦想可实现。如果不回应，美国就是Paper Tiger。<br>前提是南希健康。<br><br>RFI 华语 - 法国国际广播电台: 佩洛西何时访台？彭博社：应在拜登与习近平通话几天后<br><br><img style="" src="https://pbs.twimg.com/media/FYoQQ3VVQAAI_cX?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8c72.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8c72.t</a>
 
 ### 61: [2022-07-28 03:30:44+08:00 推文](https://twitter.com/HeQinglian/status/1552375957826174979)
 
@@ -305,7 +305,7 @@ Re @xxj2040 年龄这么大，生个病又不是难事。上次是covid-19阳性
 
 ### 73: [2022-07-28 10:34:15+08:00 推文](https://twitter.com/HeQinglian/status/1552482537762693121)
 
-三大美国跨国公司购买了 1700 万公顷乌克兰农业用地<br>对这条消息，不少推主表示怀疑，此为原始出处。 <a href="https://www.australiannationalreview.com/lifestyle/three-large-american-multinationals-bought-17-million-hectares-of-ukrainian-agricultural-land/" target="_blank" rel="noopener noreferrer">https://www.australiannationalreview.com/lifestyle/three-large-american-multinationals-bought-17-million-hectares-of-ukrainian-agricultural-land/</a>
+三大美国跨国公司购买了 1700 万公顷乌克兰农业用地<br>对这条消息，不少推主表示怀疑，此为原始出处。<br><br>晚風: 還剩一半了，波瀾心動嗎？<br><br><img style="" src="https://pbs.twimg.com/media/FYq8LctaQAAg6yz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 74: [2022-07-28 10:37:11+08:00 推文](https://twitter.com/HeQinglian/status/1552483274462748672)
 
@@ -577,7 +577,7 @@ Re @shenliangqing2 @FranzMendelsso1 @RealBeiMing 美国演变至今，有个过�
 
 ### 141: [2022-07-30 04:16:09+08:00 推文](https://twitter.com/HeQinglian/status/1553112163069399041)
 
-看了法广这条的留言与Quote后，我去看了一眼：<br>“俄總統新聞秘書佩斯科夫當天告訴媒體稱，克里姆林宮同意中國領導人習近平的觀點（不要“玩火”）”。<br>拉夫羅夫在回答有關台灣周邊局勢和佩洛西可能計畫訪問台灣的問題時說：“我們只有一個中國的立場沒有改變”。<br>发表评论却连内容都不看。
+看了法广这条的留言与Quote后，我去看了一眼：<br>“俄總統新聞秘書佩斯科夫當天告訴媒體稱，克里姆林宮同意中國領導人習近平的觀點（不要“玩火”）”。<br>拉夫羅夫在回答有關台灣周邊局勢和佩洛西可能計畫訪問台灣的問題時說：“我們只有一個中國的立場沒有改變”。<br>发表评论却连内容都不看。<br><br>RFI 華語 - 法國國際廣播電台: 拉夫羅夫：俄羅斯希望不會出現使台灣周邊局勢惡化的挑釁行為<br><br><img style="" src="https://pbs.twimg.com/media/FY12eHWUUAAWFwq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8caD.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8caD.t</a>
 
 ### 142: [2022-07-30 04:42:17+08:00 推文](https://twitter.com/HeQinglian/status/1553118738119069696)
 

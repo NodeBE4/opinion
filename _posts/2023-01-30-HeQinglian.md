@@ -465,7 +465,7 @@ Re 我去台湾时，还有人专门给我讲解大陆针对台湾的网军。
 
 ### 113: [2023-02-03 08:50:00+08:00 推文](https://twitter.com/HeQinglian/status/1621309999115902976)
 
-所谓“统一、分裂”，在中国语境中，就是谁当权谁就要统一（包括统一思想）；谁在野，谁就反对统一，要分裂。<br>反统一的毛在1949年之后反分裂，二者无缝平滑对接，粘合剂就是权力。无权时，想通过分裂分一杯羹；一朝权在手，分裂就是罪。<br>从春秋无义战开始至今，就是如此。
+所谓“统一、分裂”，在中国语境中，就是谁当权谁就要统一（包括统一思想）；谁在野，谁就反对统一，要分裂。<br>反统一的毛在1949年之后反分裂，二者无缝平滑对接，粘合剂就是权力。无权时，想通过分裂分一杯羹；一朝权在手，分裂就是罪。<br>从春秋无义战开始至今，就是如此。 <a href="https://twitter.com/remonwangxt/status/1621300809634816002" target="_blank" rel="noopener noreferrer">https://twitter.com/remonwangxt/status/1621300809634816002</a>
 
 ### 114: [2023-02-03 08:51:48+08:00 推文](https://twitter.com/HeQinglian/status/1621310449898717186)
 
@@ -746,4 +746,64 @@ Re 最先导致美国于 1969 年成功完成载人登月。这13年的美国总
 ### 183: [2023-02-05 08:42:52+08:00 推文](https://twitter.com/HeQinglian/status/1622032978741280769)
 
 Re @JianglinLi @LeafBodhi @Wu_Zhi @HongfuDing @david_david1968 @ngexp 那两道白色的据说是激光。
+
+### 184: [2023-02-05 08:46:53+08:00 推文](https://twitter.com/HeQinglian/status/1622033987307798530)
+
+Re @princeton_walk @Jam79922967 这种气球都有自毁装置，这次不知是不灵了还是没启动。<br>总之，是一场“对美非军事行动”。<br>拿捏轻重是这次美国的主要考量。下次再玩就不灵了，得换种方式。
+
+### 185: [2023-02-05 08:48:22+08:00 推文](https://twitter.com/HeQinglian/status/1622034361880018945)
+
+Re @TianyuB 美国人说没关系。中文推不行啊，这样说马上有反共人士出来说：你就希望习近平赢。
+
+### 186: [2023-02-05 08:49:37+08:00 推文](https://twitter.com/HeQinglian/status/1622034677912506376)
+
+Re @zhixiangziyou @JianglinLi @LeafBodhi @Wu_Zhi @HongfuDing @david_david1968 @ngexp 不用飞机，能用什么？是飞机用激光武器打的，意在穿透。
+
+### 187: [2023-02-05 09:08:21+08:00 推文](https://twitter.com/HeQinglian/status/1622039392800874497)
+
+Re @FlyInRainS3 @JianglinLi @LeafBodhi @Wu_Zhi @HongfuDing @david_david1968 @ngexp 坐等五角大楼详细解释。
+
+### 188: [2023-02-05 09:18:08+08:00 推文](https://twitter.com/tianlumanyou/status/1622041854392045571)
+
+RT 天路漫游<br>關於 #器官移植<br><img style="" src="https://pbs.twimg.com/media/FoKmd8uaYAAFSzq?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 189: [2023-02-05 09:27:01+08:00 推文](https://twitter.com/HeQinglian/status/1622044088483577856)
+
+Re @Lucs24659702 有此果，查其因，因由自种。
+
+### 190: [2023-02-05 09:43:36+08:00 推文](https://twitter.com/HeQinglian/status/1622048261916737539)
+
+推友们，看了海外中文媒体的评论，我终于感到，拜登又大赢了一次（英文圈还真不是这样，也许CNN、纽时明天会喝彩）。<br>本来民主党内想让他退出2024年竞选，FBI抄家取秘密文件、媒体终于再提小拜电脑门，拜登正灰头土脸之际，中国间谍气球被拜登三天前就做出英明决策今天击落，2024代民主党出征竞选有望
+
+### 191: [2023-02-05 09:44:14+08:00 推文](https://twitter.com/zhixiangziyou/status/1622048420809539584)
+
+RT L JM🇺🇸<br>拜登作为总司令彻底失败了。他没有保护我们的南部边界，他从阿富汗撤军是一场彻头彻尾的灾难，他的软弱导致了乌克兰的战争，现在共产主义间谍气球在我们的天空中自由飞翔。历史上最糟糕的总司令。
+
+### 192: [2023-02-05 10:37:20+08:00 推文](https://twitter.com/HeQinglian/status/1622061785950871555)
+
+【中國球型飛行物事件：它自1月28日進入美國，進進出出多次，白宮對民眾保密，不想影響和北京的友好氣氛，但飛行物被民眾發現，在社交媒體引起熱議後官方才被逼採取行動。】<br>事实如此，WSJ报道了是哪个民众发现拍照传往社交媒体。<div class="rsshub-quote"><br><br>韦石 watson Meng of Farm Direct: 中國球型飛行物事件：它自1月28日進入美國，進進出出多次，白宮對民眾保密，不想影響和北京的友好氣氛，但飛行物被民眾發現，在社交媒體引起熱議後官方才被逼採取行動。<br>評：我看台灣是指不上美國了。<br></div>
+
+### 193: [2023-02-05 10:44:46+08:00 推文](https://twitter.com/HeQinglian/status/1622063655331270658)
+
+Re @JianglinLi 中国既然有心送来流浪气球，自然会做好美国击落的准备，不会带有什么让美国抓把柄令中国受损的资料。<br>后续口水仗再打几天就完了。我现在关心另外那两只气球如何处置。
+
+### 194: [2023-02-05 10:46:43+08:00 推文](https://twitter.com/HeQinglian/status/1622064147025334272)
+
+Re @JianglinLi 没忘，就是没有新视频出现。
+
+### 195: [2023-02-05 10:49:28+08:00 推文](https://twitter.com/HeQinglian/status/1622064836422107136)
+
+Re @JianglinLi 五角大楼比较开明，前天在新闻发布会上就说了，美国公民当然可以抬头仰望天空，看那气球。
+
+### 196: [2023-02-05 10:54:03+08:00 推文](https://twitter.com/HeQinglian/status/1622065992456077312)
+
+Re @liqunchen @JianglinLi 蔡总正在尽快推行Trans。“唯有民主，才能保护台湾”，她理解的“民主”就是亦步亦趋跟美国民主党走，民主党倡导什么，她就赶紧做什么。
+
+### 197: [2023-02-05 10:56:38+08:00 推文](https://twitter.com/HeQinglian/status/1622066643391193089)
+
+Re @JianglinLi 应该没有下文了。<br>难道让中国气球的所有者出面向美国索赔？美国那会先追究侵略美国上空之责。<br>不太清楚，领空权高达几万英尺。如果是6万英尺，中国就可以说那是人类共有的外太空了。
+
+### 198: [2023-02-05 10:58:20+08:00 推文](https://twitter.com/HeQinglian/status/1622067068223774722)
+
+Re @JianglinLi @zhixiangziyou 中国这次考虑不周，如果送一只彩虹气球进来，是不是可以被视为友好标志？<br>不过，彩虹的颜色不可以乱涂，有顺序的。我至今分不清，但彩虹人士分得清。
 
