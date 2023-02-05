@@ -135,9 +135,17 @@ How that information might be used should shock the conscience of any decent, th
 
 Ah, but how many people learn?
 
-### 464: [How can I make this email better?](https://old.reddit.com/r/college/comments/10tj1zl/how_can_i_make_this_email_better/), submitted on 2023-02-04 23:29:54+08:00.
+### 464: ["AITA for telling my son that he is obviously gay?" Thoughts from other gaybros?](https://old.reddit.com/r/askgaybros/comments/10tioq8/aita_for_telling_my_son_that_he_is_obviously_gay/), submitted on 2023-02-04 23:14:05+08:00.
 
------ __464.1__ -----2023-02-05 07:43:15+08:00:
+----- __464.1__ -----2023-02-05 22:32:41+08:00:
+
+> I can see how this would be frustrating, but at the same time I wish my parents would have been this open and accepting of it. They clearly have seen the signs and know their son has feelings for the other boy, and instead of being homophobic and making them stop being friends or something worse, they asked the son if they would be including this important person in their lives on a family trip/vacation. If my parents had done this, sure I would have been embarrassed but I would have also secretly been relieved.
+
+Same
+
+### 465: [How can I make this email better?](https://old.reddit.com/r/college/comments/10tj1zl/how_can_i_make_this_email_better/), submitted on 2023-02-04 23:29:54+08:00.
+
+----- __465.1__ -----2023-02-05 07:43:15+08:00:
 
 Use fewer words. 
 
