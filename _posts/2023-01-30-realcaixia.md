@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2023-01-30~2023-02-05'
 
 ### 4: [2023-02-01 10:36:45+08:00 推文](https://twitter.com/realcaixia/status/1620612087495168000)
 
-这是个好消息。中共警察跨国长臂监控华人的罪恶行径，是中共对美国主权的侵犯。美国政府理当以法律处置并惩罚这个罪恶的机构。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: Ccp紐約警察局被關閉！<br></div>
+这是个好消息。中共警察跨国长臂监控华人的罪恶行径，是中共对美国主权的侵犯。美国政府理当以法律处置并惩罚这个罪恶的机构。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: Ccp紐約警察局被關閉！<br> <a href="https://twitter.com/NRO/status/1620376417639833601" target="_blank" rel="noopener noreferrer">https://twitter.com/NRO/status/1620376417639833601</a></div>
 
 ### 5: [2023-02-01 10:46:52+08:00 推文](https://twitter.com/realcaixia/status/1620614630254182402)
 
@@ -49,7 +49,7 @@ title: 'Twitter @蔡霞: 2023-01-30~2023-02-05'
 
 ### 9: [2023-02-02 00:43:39+08:00 推文](https://twitter.com/realcaixia/status/1620825216573382656)
 
-希望能彻底查清病毒起源。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 聯合國專家終於發聲：新冠病毒最大可能的來源是實驗室！👇<br> <a href="https://twitter.com/ColinDavdButler/status/1619516584514707459" target="_blank" rel="noopener noreferrer">https://twitter.com/ColinDavdButler/status/1619516584514707459</a></div>
+希望能彻底查清病毒起源。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 聯合國專家終於發聲：新冠病毒最大可能的來源是實驗室！👇<br> <a href="https://twitter.com/colindavdbutler/status/1619516584514707459" target="_blank" rel="noopener noreferrer">https://twitter.com/colindavdbutler/status/1619516584514707459</a></div>
 
 ### 10: [2023-02-02 10:22:50+08:00 推文](https://twitter.com/realcaixia/status/1620970972995100672)
 
@@ -130,4 +130,12 @@ Re @USABelAir2021 要看汉族的传统、文化、民俗、汉文化的温润�
 ### 29: [2023-02-05 09:25:58+08:00 推文](https://twitter.com/realcaixia/status/1622043823005376512)
 
 Re 要看汉族的传统、文化、民俗、汉文化的温润儒雅，各种礼节，只有在台湾能看到。<br>汉族已被灭族，现在与极权沆瀣一气的，是被极权统治改造后泯灭了扭曲了人性的“共产主义新人”。<br>所有参加因白纸运动而被警察抓捕的人，我们都有义务有责任为她们呼喊，使她们得到更多人的支持和帮助。
+
+### 30: [2023-02-05 12:14:21+08:00 推文](https://twitter.com/realcaixia/status/1622086199669317635)
+
+推荐这个节目，明居正教授与范畴先生对中共国的分析，各有自己的角度，二位嘉宾的访谈都很精彩。 <a href="https://youtu.be/CvkE4nf96qQ" target="_blank" rel="noopener noreferrer">https://youtu.be/CvkE4nf96qQ</a>
+
+### 31: [2023-02-05 12:42:17+08:00 推文](https://twitter.com/realcaixia/status/1622093229222162435)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FoLVMTLacAAq54Z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FoLVMTOakAIvy4B?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FoLVMTMaEAE_RlA?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FoLVMTKaYAAKHKw?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

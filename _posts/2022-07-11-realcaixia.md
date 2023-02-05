@@ -25,11 +25,11 @@ title: 'Twitter @蔡霞: 2022-07-11~2022-07-17'
 
 ### 3: [2022-07-14 03:39:34+08:00 推文](https://twitter.com/realcaixia/status/1547304749938130944)
 
-纪念刘晓波。我作为后来者会继续往前走，宪政民主是中国政治走向现代文明必须实现的首要目标。<br><br>ZHANGDONG: 五年前的今天他走了，在北欧留下了一把空椅和未竟的事业。<br><br><img style="" src="https://pbs.twimg.com/media/FXkHj9VX0AA-gJt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FXkHkSPWIAMDhWI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+纪念刘晓波。我作为后来者会继续往前走，宪政民主是中国政治走向现代文明必须实现的首要目标。
 
 ### 4: [2022-07-14 09:52:58+08:00 推文](https://twitter.com/realcaixia/status/1547398719150211073)
 
-纪念刘晓波，我们拒绝遗忘。每年今日就犹如每年的六·四一样：<br>纪念为所有争取自由民主而献出生命的英魂，他们的精神感召与激励着更多的人加入为此而奋斗的行列。相信无论前路如何艰难，无论需要多长的时间，未来的中国终将走向宪政民主。<br><br>胡发云 hufayun: 胡發雲：索爾維格之歌的故事 <br>怀念小波。<br> <a href="https://youtu.be/rEI8vbana4c" target="_blank" rel="noopener noreferrer">https://youtu.be/rEI8vbana4c</a>
+纪念刘晓波，我们拒绝遗忘。每年今日就犹如每年的六·四一样：<br>纪念为所有争取自由民主而献出生命的英魂，他们的精神感召与激励着更多的人加入为此而奋斗的行列。相信无论前路如何艰难，无论需要多长的时间，未来的中国终将走向宪政民主。
 
 ### 5: [2022-07-14 09:58:48+08:00 推文](https://twitter.com/realcaixia/status/1547400187169181697)
 
@@ -53,7 +53,7 @@ Re @gaoyu200812 原先是有规则的，新闻联播前25分钟是国内报道�
 
 ### 10: [2022-07-15 23:39:27+08:00 推文](https://twitter.com/realcaixia/status/1547969096158810115)
 
-我之前一个转发变态辣椒推特的视频是下面这个视频的后半段，两个视频都看，才算看完整了。这个上半段视频，同一个银行工作人员在解释银行监管的内容和如何监管的操作规程。造成迫使业主停止还贷款这个状况的，银行必须承担一定责任。这两段视频完整地透露了政府银行房地产公司勾结一气割韭菜的。<br><br>bridgeduan: 河南烂尾楼事件，贷款买的期货房子没建好或者压根没建，房地产商把建房款挪用，烂尾了，银行却依然每月定时催还贷。业主们集体质疑银行的监管账户为什么不监管，银行的回复如视频：<br><br><video src="https://video.twimg.com/ext_tw_video/1547780735356260352/pu/vid/368x640/SjzLd5o28eELI36r.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1547780735356260352/pu/img/fwkXN9eOUpr94yor.jpg"></video>
+我之前一个转发变态辣椒推特的视频是下面这个视频的后半段，两个视频都看，才算看完整了。这个上半段视频，同一个银行工作人员在解释银行监管的内容和如何监管的操作规程。造成迫使业主停止还贷款这个状况的，银行必须承担一定责任。这两段视频完整地透露了政府银行房地产公司勾结一气割韭菜的。
 
 ### 11: [2022-07-15 23:51:21+08:00 推文](https://twitter.com/realcaixia/status/1547972093869928455)
 
