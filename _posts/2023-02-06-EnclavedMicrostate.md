@@ -19,3 +19,11 @@ title: EnclavedMicrostate在2023-02-06~2023-02-12的言论
 
 Oh don't worry, we are here, and we know it.
 
+### 1093: [Who were the greatest Italian military commanders of the early modern era? (1400-1800)](https://old.reddit.com/r/AskHistorians/comments/10uusxe/who_were_the_greatest_italian_military_commanders/), submitted on 2023-02-06 10:12:58+08:00.
+
+----- __1093.1__ -----2023-02-06 16:54:46+08:00:
+
+This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
+
+For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
+
