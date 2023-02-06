@@ -21,7 +21,7 @@ title: 'Twitter @中国文字狱事件盘点: 2021-12-06~2021-12-12'
 
 ### 2: [2021-12-08 13:38:59+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1468455041170386947)
 
-3 years ago, someone spread a "rumor" that a government officer in Nanjing spent 6 million RMB to celebrate his secret lover's birthday. Police immediately arrested & punished the one who spread the "rumor". The officer was arrested recently, and the rumor was revealed true.<br><img style="" src="https://pbs.twimg.com/media/FGD-2VbWUAISsDb?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGD-4EOXwAYqPOF?format=jpg&name=orig" referrerpolicy="no-referrer">
+3 years ago, someone spread a "rumor" that a government officer in Nanjing spent 6 million RMB to celebrate his secret lover's birthday. Police immediately arrested & punished the one who spread the "rumor". The officer was arrested recently, and the rumor was revealed true.<br><img style src="https://pbs.twimg.com/media/FGD-2VbWUAISsDb?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGD-4EOXwAYqPOF?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2021-12-10 12:43:34+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1469165872279400449)
 
