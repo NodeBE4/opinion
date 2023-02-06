@@ -25,7 +25,7 @@ Shandong man Zou Zhiping detained for 15 days for criticizing Chinese government
 
 ### 3: [2021-12-01 22:34:46+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1466053162855501836)
 
-青海省互助县一名村民宋某，因在微信群里“辱骂村干部”，被处拘留10日并罚款500元。<br><img style="" src="https://pbs.twimg.com/media/FFh3cjlXwAUwSgx?format=jpg&name=orig" referrerpolicy="no-referrer">
+青海省互助县一名村民宋某，因在微信群里“辱骂村干部”，被处拘留10日并罚款500元。<br><img style src="https://pbs.twimg.com/media/FFh3cjlXwAUwSgx?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-12-01 22:35:59+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1466053469668794369)
 
