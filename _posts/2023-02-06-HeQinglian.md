@@ -87,3 +87,15 @@ Re @lisaxinsohradio 我来美国前十余年，确实见过这样的美国人，
 
 Re @lisaxinsohradio 人，确实一代比一代在社会公德上要差些。<br>我1980年代中期去上海复旦，老一代上海人，无论工人还是白领，都挺好的，哪怕是陌生人，也常得到他们的帮助。
 
+### 19: [2023-02-06 10:34:22+08:00 推文](https://twitter.com/zhixiangziyou/status/1622423425401626624)
+
+RT L JM🇺🇸<br>突发报告：约翰·克里正在接受与中国的秘密接触、“无视美国国家安全”的谈判的调查。<br><br>他最终会被追究责任吗？<div class="rsshub-quote"><br><br>Chuck Callesto: BREAKING REPORT: John Kerry under investigation for Secret Chinese Contacts, Negotiations that 'SHOW DISREGARD FOR AMERICAN national security'..<br><br>Will he finally be held accountable?<br> <a href="https://twitter.com/i/web/status/1622024052926717954" target="_blank" rel="noopener noreferrer">https://twitter.com/i/web/status/1622024052926717954</a></div>
+
+### 20: [2023-02-06 11:11:54+08:00 推文](https://twitter.com/HeQinglian/status/1622432872907902976)
+
+Re @tiger20boy22 @zhixiangziyou 哪国的快艇？<br>不管哪国，不怀好意进入他国领海，先击沉再说。
+
+### 21: [2023-02-06 11:40:19+08:00 推文](https://twitter.com/HeQinglian/status/1622440022656917508)
+
+Re @fading_you1 记得中美南海撞机时，美方确实索赔3.4万美元，但中国最后称无赔偿义务。<br>我们那时都觉得怎么就索赔这么一点钱，好奇怪。
+
