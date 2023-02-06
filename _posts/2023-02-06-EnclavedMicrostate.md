@@ -27,3 +27,9 @@ This submission has been removed because it violates the [rule on poll-type ques
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
+### 1094: [Ah yes, my modern attack helicopter with who knows how many highly explosive rockets and possibly multiple machine guns, can barely scratch a couple 1700s dudes with rifles](https://old.reddit.com/r/civ/comments/10v3zos/ah_yes_my_modern_attack_helicopter_with_who_knows/), submitted on 2023-02-06 19:08:37+08:00.
+
+----- __1094.1__ -----2023-02-06 21:39:42+08:00:
+
+Muskets rather than rifles, one would have thought.
+
