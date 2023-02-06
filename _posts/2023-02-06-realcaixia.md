@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2023-02-06
+date: 2023-02-07
 from: https://twitter.com/realcaixia/status/1622337053626097664
 layout: post
 tags:
@@ -30,4 +30,12 @@ title: 'Twitter @蔡霞: 2023-02-06~2023-02-12'
 ### 4: [2023-02-06 09:48:21+08:00 推文](https://twitter.com/realcaixia/status/1622411844752130050)
 
 可以理解为什么中共军方反应激烈了吧。<div class="rsshub-quote"><br><br>Petrichor: 民用帽子下的军事图谋。<br><br><img style="" src="https://pbs.twimg.com/media/FoNQ5laWYAAh9dK?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FoNQ5laX0AAkTjt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FoNQ5ldXEAE0Uxg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 5: [2023-02-07 01:20:36+08:00 推文](https://twitter.com/realcaixia/status/1622646452085481472)
+
+特别推荐LT视界这期节目⬇️<br><br>研究報告首次量化習近平對中國經濟的破壞性；兩件事情標誌中國民營企業環境並未改善；為何中國社科院比華爾街悲觀？ - YouTube <a href="https://m.youtube.com/watch?v=1HwAwJ0oDeg" target="_blank" rel="noopener noreferrer">https://m.youtube.com/watch?v=1HwAwJ0oDeg</a>
+
+### 6: [2023-02-07 01:31:54+08:00 推文](https://twitter.com/realcaixia/status/1622649297086074880)
+
+Re LT视界这期节目，集中两个问题：1，美击落中共高空间谍气球，中美关系将如何？2，一研究所报告量化研究习近平破坏中国经济造成中国多大的经济损失。很值得一听。<br><img style="" src="https://pbs.twimg.com/media/FoTO7paaIAE78i2?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
