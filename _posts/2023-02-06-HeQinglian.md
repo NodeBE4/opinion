@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-02-06
+date: 2023-02-07
 from: https://twitter.com/HeQinglian/status/1622265773652680707
 layout: post
 tags:
@@ -98,4 +98,52 @@ Re @tiger20boy22 @zhixiangziyou 哪国的快艇？<br>不管哪国，不怀好�
 ### 21: [2023-02-06 11:40:19+08:00 推文](https://twitter.com/HeQinglian/status/1622440022656917508)
 
 Re @fading_you1 记得中美南海撞机时，美方确实索赔3.4万美元，但中国最后称无赔偿义务。<br>我们那时都觉得怎么就索赔这么一点钱，好奇怪。
+
+### 22: [2023-02-06 23:19:51+08:00 推文](https://twitter.com/HeQinglian/status/1622616067653640192)
+
+Re @david_david1968 这有传统。“翩然一只云中鹤，飞来飞去宰相衙”，除了赵朴初之外，都比那些常侍帝侧的邵元节们档次低些，混了些文化与江湖名声。
+
+### 23: [2023-02-06 23:34:33+08:00 推文](https://twitter.com/HeQinglian/status/1622619764752351233)
+
+Re @mingshi_chen @david_david1968 道衍，是彻底的政治和尚，人家向朱棣提议的全是军事治国大计，与修行无关。<br>别将宗教身份与做国师的职业混在一起谈，前者算是别开旁门积累资本的一种投资。<br>八思巴本来就是政教合一的宗教创立者。
+
+### 24: [2023-02-06 23:44:30+08:00 推文](https://twitter.com/HeQinglian/status/1622622270320529409)
+
+Re @jojowheel 美方在这问题上，也是有枣没枣先打三杆子。<br>乌军的战场失利日渐明显，中国应该有独立的情报来源。以前经济制裁以吓人之势出现时，中国都没站在西方这边，如今更没必要了。西方对华各种制裁威胁挣足了面子与虚荣，北京也听烦了。<br>现在美国正在找台阶下，不想与中国交恶。
+
+### 25: [2023-02-06 23:47:09+08:00 推文](https://twitter.com/HeQinglian/status/1622622935541329921)
+
+Re @mingshi_chen @david_david1968 【道衍是一代菩萨转世，那就是大乘佛法修行！】<br>君子不语六合之外。如果真有，那就得说中国主席是现世佛了。😅😅
+
+### 26: [2023-02-07 00:18:54+08:00 推文](https://twitter.com/HeQinglian/status/1622630927343001606)
+
+Re @mingshi_chen @david_david1968 既入佛门，拿佛门说事，就不能有舍有取，须知佛门敬皇上，“如来是过去佛，皇上是现世佛，现世佛不拜过去佛”。<br>😅😅😅
+
+### 27: [2023-02-07 00:21:46+08:00 推文](https://twitter.com/HeQinglian/status/1622631647995625475)
+
+Re @KELMAND1 “乌克兰希望美国对印度和中国实施制裁”，美国正在努力拉拢印度，希望与中国保持接触、尽可能经济合作。<br>乌克兰可能将自己当成美国三代单传的独生子了。
+
+### 28: [2023-02-07 00:25:45+08:00 推文](https://twitter.com/HeQinglian/status/1622632648874000388)
+
+Re @mingshi_chen @david_david1968 信宗教，都有上中下三品，上品借宗教成事，中品借宗教谋生，下品奉献。<br>敬请各种信徒不要来这里留言，道不同，不相为谋。
+
+### 29: [2023-02-07 00:30:08+08:00 推文](https://twitter.com/HeQinglian/status/1622633751179149313)
+
+碎片还未全捞上来，美方左派媒体与政府方面各种解析都出来了，对中方往失误上解释，对美方则往早就英明决策上解释，还说川普时期就有三次气球入侵。纽时这篇算其中之一。<br>一句话，为与中国接触、合作留余地。这点还看不出，无话可说。<div class="rsshub-quote"><br><br>Yaxue Cao: 但就放肆程度来说，气球事件有所不同。当它徘徊在蒙大拿州的核发射井上空时，它对公众产生了极大的吸引力…最终，它在南卡罗来纳州海岸附近的浅水区被飞弹击落，迎来戏剧性的结局。<br><br>“这让人好奇，中国是谁在发号施令，这显然是中国近段时间犯下的最严重的非受迫性失误。”<br> <a href="https://cn.nytimes.com/usa/20230206/balloon-china-spying-united-states/?utm_source=tw-nytimeschinese&amp;utm_medium=social&amp;utm_campaign=cur" target="_blank" rel="noopener noreferrer">https://cn.nytimes.com/usa/20230206/balloon-china-spying-united-states/?utm_source=tw-nytimeschinese&amp;utm_medium=social&amp;utm_campaign=cur</a></div>
+
+### 30: [2023-02-07 00:33:01+08:00 推文](https://twitter.com/HeQinglian/status/1622634476743393281)
+
+Re @mingshi_chen @david_david1968 虽然也常有见解不同之时，但比较喜欢聪明人。交流是比见识、知识，不是晒愚蠢。<br>推上这种人不太多。😅😅
+
+### 31: [2023-02-07 00:39:07+08:00 推文](https://twitter.com/HeQinglian/status/1622636011850170383)
+
+很好解释。<br>中方想展示“我敢放飞艇来美国”，你美国牛什么？这是让世界看“东升西降”。<br>美国想说明，就一个气球，决策失误（暴露中方高层内部矛盾），打下来了，不与你这专制野蛮者计较。我美国依然光芒四射，全球第一。<br>至于全世界政府（包括法德意在内）怎么想，接下来一个月就有答案了。<div class="rsshub-quote"><br><br>林悦杨: 世界看到的是“气球”，中国发言人称为“飞艇”，为啥⁉️<br></div>
+
+### 32: [2023-02-07 00:40:58+08:00 推文](https://twitter.com/HeQinglian/status/1622636478575542277)
+
+Re @mingshi_chen @david_david1968 推上微笑，得通过推文。理朽木干甚。
+
+### 33: [2023-02-07 00:44:30+08:00 推文](https://twitter.com/HeQinglian/status/1622637368900550659)
+
+Re @KELMAND1 问题是，北约欧盟都未收养，欧盟承诺的是停战后考虑收养，美国更加没有可能正式收养，临时收养一下做代理人，就头大得找不着南北了。
 
