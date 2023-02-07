@@ -177,7 +177,7 @@ Re @fading_you1 与美国民主党支持者相同。都是求仁得仁，如其�
 
 ### 41: [2023-02-07 02:10:12+08:00 推文](https://twitter.com/HeQinglian/status/1622658936313610240)
 
-Re @fading_you1 日本首相解雇了一名助理，原因是这位先生说了他不想看到同性恋和自己做邻居。同性恋发起山呼海啸的抗议，首相只得表示愤怒解雇他。<br>日本是G7当中唯一同婚未合法化的国家，同性恋们趁机再推一把。不过，日本大龄女35岁至50岁未婚占同龄人近40%，拉拉很快会如雨后春笋。 <a href="https://www.bbc.com/news/world-asia-64521862" target="_blank" rel="noopener noreferrer">https://www.bbc.com/news/world-asia-64521862</a>
+RT He Qinglian<br>Re @fading_you1 日本首相解雇了一名助理，原因是这位先生说了他不想看到同性恋和自己做邻居。同性恋发起山呼海啸的抗议，首相只得表示愤怒解雇他。<br>日本是G7当中唯一同婚未合法化的国家，同性恋们趁机再推一把。不过，日本大龄女35岁至50岁未婚占同龄人近40%，拉拉很快会如雨后春笋。 <a href="https://www.bbc.com/news/world-asia-64521862" target="_blank" rel="noopener noreferrer">https://www.bbc.com/news/world-asia-64521862</a>
 
 ### 42: [2023-02-07 02:47:06+08:00 推文](https://twitter.com/HeQinglian/status/1622668222603436038)
 
@@ -237,7 +237,7 @@ RT He Qinglian<br>Re @JianglinLi 拜登想挣回两次面子：<br>一是打�
 
 ### 56: [2023-02-07 23:17:23+08:00 推文](https://twitter.com/HeQinglian/status/1622977832128245763)
 
-RT He Qinglian<br>Re @JianglinLi 我一直没弄明白，国务卿这个位置的高官出马，其实是诸事在略低层次的官员谈定各种协议后才出面，仪式性地敲定双方协约。<br>有什么事情非要当面谈，谈前还要向世界宣布：我要给中国划条红线、带去警告，让北京在俄罗斯问题上不要乱说乱动？<br>中国政府早就放弃轁光养晦，露出牙齿与爪子了。
+Re @JianglinLi 我一直没弄明白，国务卿这个位置的高官出马，其实是诸事在略低层次的官员谈定各种协议后才出面，仪式性地敲定双方协约。<br>有什么事情非要当面谈，谈前还要向世界宣布：我要给中国划条红线、带去警告，让北京在俄罗斯问题上不要乱说乱动？<br>中国政府早就放弃轁光养晦，露出牙齿与爪子了。
 
 ### 57: [2023-02-07 23:36:43+08:00 推文](https://twitter.com/HeQinglian/status/1622982700234678272)
 
@@ -310,4 +310,36 @@ Re @Nolforever8964 这事，美国还未解密，中方倒是不断有文章谈�
 ### 74: [2023-02-08 02:42:09+08:00 推文](https://twitter.com/HeQinglian/status/1623029364358057988)
 
 Re @GuppyJ1 @JianglinLi 三次飞进，无时间、无地点、无纪录的“三无美国新闻”。还辨说那时技术没法侦测，但也没说现在如何时间倒回侦测。<br>结果有二：一是长中国志气，美国早就成了它想来就来想走就走的无空防之境；二是说明这些人为了证明自己正确不惜撒谎。<br>美国占人口40%的左派如果还有点有头脑的人，应该明白彩虹文化误国
+
+### 75: [2023-02-08 04:00:42+08:00 推文](https://twitter.com/NAConservative9/status/1623049130049253377)
+
+RT 北美保守评论🇺🇸🇨🇦<br>《客观性已经死了，是左派媒体杀死了它》<br><br>宪法制定者将新闻界指定为专门的机构，旨在向人民报道政府的行为。新闻的设计是为了促进思想的自由交流，鼓励辩论，并使当权者对人民负责。今日媒体则自行决定哪些思想应予宣扬，哪些思想应予忽视；哪些主题值得发表，哪些应该避免。 <a href="https://nacr.info/WordPress/index.php/2023/02/07/objectivity-is-dead-and-the-leftist-media-killed-it/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2023/02/07/objectivity-is-dead-and-the-leftist-media-killed-it/</a><br><img style="" src="https://pbs.twimg.com/media/FoY5z6GWIAsX_v7?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 76: [2023-02-08 04:50:01+08:00 推文](https://twitter.com/Lucs24659702/status/1623061542983045125)
+
+RT Lucs<br>民主党代表是中共支持的情报前沿组织的“名誉主席” <br><br>据透露，加利福尼亚州的民主党众议员朱迪·丘于2019年8月被任命为一个被指控的中国共产党（CCP）情报前沿组织的荣誉领导职位。 <a href="https://thepostmillennial.com/democrat-rep-was-honorary-chair-of-ccp-backed-intelligence-front-group" target="_blank" rel="noopener noreferrer">https://thepostmillennial.com/democrat-rep-was-honorary-chair-of-ccp-backed-intelligence-front-group</a>
+
+### 77: [2023-02-08 05:12:09+08:00 推文](https://twitter.com/JianglinLi/status/1623067110921367563)
+
+RT 李江琳<br>红尘浊世，花不负我<br><img style="" src="https://pbs.twimg.com/media/FoZKuVXWcA4J1_g?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FoZK1HjXgAAhO_o?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 78: [2023-02-08 05:23:53+08:00 推文](https://twitter.com/HeQinglian/status/1623070066672558087)
+
+【拜登2022年9月告诉美媒：到目前为止，没有迹象表明中方对俄方提供了武器或援助。2月4日，WSJ引海关记录，中国的国防公司有向俄罗斯政府旗下的国防公司运送导航设备、干扰技术和战斗机部件。】<br>印象中，习近平没承诺不向俄方提供武器与援助。如说过，记者可同时质问两人。 <a href="https://rfi.my/98IK.T" target="_blank" rel="noopener noreferrer">https://rfi.my/98IK.T</a>
+
+### 79: [2023-02-08 05:25:50+08:00 推文](https://twitter.com/HeQinglian/status/1623070554503749640)
+
+Re @Foooggggdfh 你的拜登总统永远伟大。
+
+### 80: [2023-02-08 05:26:55+08:00 推文](https://twitter.com/HeQinglian/status/1623070827972362246)
+
+Re @akakak474747 @JianglinLi 谁也没有失心疯。但现在你有点，主要是因为我讲了拜登政府的事实。
+
+### 81: [2023-02-08 05:29:00+08:00 推文](https://twitter.com/HeQinglian/status/1623071351501193219)
+
+Re @akakak474747 @JianglinLi 1、文章已经回答你了。<br>中国是否与俄罗斯做军火生意？海关记录说话 <br>2、你当然救不了，让自己正常一些就是对人类最大的贡献。<br>别再出现了。否则成吵架了。 <a href="https://rfi.my/98IK.T" target="_blank" rel="noopener noreferrer">https://rfi.my/98IK.T</a>
+
+### 82: [2023-02-08 05:38:34+08:00 推文](https://twitter.com/HeQinglian/status/1623073761242107905)
+
+Re @KELMAND1 这件事情如果他没征求北约（美英之外的欧盟国家）同意，结果会是：<br>1、乌克兰西让波兰托管，北约发声明：除波兰本土之外，乌西土地不适用于北约某某条款；<br>2、乌克兰根本不会与波兰成交。
 

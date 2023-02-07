@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2023-02-07
+date: 2023-02-08
 from: https://twitter.com/realcaixia/status/1622337053626097664
 layout: post
 tags:
@@ -38,4 +38,12 @@ title: 'Twitter @蔡霞: 2023-02-06~2023-02-12'
 ### 6: [2023-02-07 01:31:54+08:00 推文](https://twitter.com/realcaixia/status/1622649297086074880)
 
 Re LT视界这期节目，集中两个问题：1，美击落中共高空间谍气球，中美关系将如何？2，一研究所报告量化研究习近平破坏中国经济造成中国多大的经济损失。很值得一听。<br><img style="" src="https://pbs.twimg.com/media/FoTO7paaIAE78i2?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 7: [2023-02-08 04:01:28+08:00 推文](https://twitter.com/realcaixia/status/1623049323725606912)
+
+央企国企不是真的市场经济主体，而是靠国家垄断地位搜刮民间经济利益的江洋大盗。<br>中国经济是死是活，根本的要看民营企业是死是活。成百上千万中小企业家被逼到绝境，中国经济就别想还有什么生气活力。<br>Those who can run are running or have already run out，在墙里的都在为“一家人怎么活”而挣扎。<div class="rsshub-quote"><br><br>Lucy Zhao: 中共體制下負債累累的老闆們!😱😢<br><br><video src="https://video.twimg.com/ext_tw_video/1619139460658233347/pu/vid/1280x720/kF0f0twz6LF-kVhi.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1619139460658233347/pu/img/7tctHRZJjwOEetor.jpg"></video></div>
+
+### 8: [2023-02-08 04:23:10+08:00 推文](https://twitter.com/realcaixia/status/1623054785351135232)
+
+地方政府面临财政破产危机，对民间搜刮钱财已经竭泽而渔，现在得照习近平“刀刃向内”指令下手了。<div class="rsshub-quote"><br><br>公民力量: 国内网民反映江苏地方政府为了解决地方财政收入问题，开始追查公职人员过去20年的收入，进行罚款，这一番操作收入高达25亿Chinese local governments are using unexpected method to solve the financial difficulties.<br><br><img style="" src="https://pbs.twimg.com/media/FoXtPrEX0AM1UBK?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FoXtPrFXsAUpOoD?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FoXtPrLWIAAhaAq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FoXtPrEWcAU752a?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
