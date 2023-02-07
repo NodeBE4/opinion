@@ -147,59 +147,63 @@ Re @mingshi_chen @david_david1968 推上微笑，得通过推文。理朽木干�
 
 Re @KELMAND1 问题是，北约欧盟都未收养，欧盟承诺的是停战后考虑收养，美国更加没有可能正式收养，临时收养一下做代理人，就头大得找不着南北了。
 
-### 34: [2023-02-07 00:52:37+08:00 推文](https://twitter.com/HeQinglian/status/1622639412965154817)
+### 34: [2023-02-07 00:47:00+08:00 推文](https://twitter.com/dw_chinese/status/1622637996683190274)
+
+RT DW 中文- 德国之声<br>#澳大利亚 方面要求中方重启"不设障碍的商贸关系"。2020年开始中方对大麦、牛肉以及葡萄酒等澳大利亚重要出口商品征收的高额 #关税 会取消吗？ <a href="https://p.dw.com/p/4N9g1" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4N9g1</a>
+
+### 35: [2023-02-07 00:52:37+08:00 推文](https://twitter.com/HeQinglian/status/1622639412965154817)
 
 Re 答案就在各国政府首脑及重要部门负责人与中国是否接触互访。
 
-### 35: [2023-02-07 01:17:44+08:00 推文](https://twitter.com/HeQinglian/status/1622645731814146057)
+### 36: [2023-02-07 01:17:44+08:00 推文](https://twitter.com/HeQinglian/status/1622645731814146057)
 
 Re @YaxueCao 现在双方都降温了，美国通过奥巴马政府时的前官员释放出不闹大还想保持关系的善意、现官员评说是中方失误之后，中方现在也放话“双方克制，不要影响两国关系”。<br>耶伦2月访华的事情，这几天根本没提是推迟还是如期，估计正在沟通中。<br>我一直是这态度：看戏别入戏，能保持好看客姿态最佳。
 
-### 36: [2023-02-07 01:20:44+08:00 推文](https://twitter.com/HeQinglian/status/1622646487963389953)
+### 37: [2023-02-07 01:20:44+08:00 推文](https://twitter.com/HeQinglian/status/1622646487963389953)
 
 Re @Tepezano161 美国社会生活也成了肥皂剧，不少人好好的衣服不穿，非得将自己身体染上各种颜色，涂上各种图案，打扮成妖怪模样——肥皂剧中人物好歹穿的是人的服装，有的人比较夸张而已。
 
-### 37: [2023-02-07 01:39:12+08:00 推文](https://twitter.com/HeQinglian/status/1622651133264003102)
+### 38: [2023-02-07 01:39:12+08:00 推文](https://twitter.com/HeQinglian/status/1622651133264003102)
 
 解析：中国间谍气球事件为何不同寻常<br><br>中国周末释出信号，希望气球事件翻篇<br><br>学者：中方盼“不美丽的错误”翻篇<br>从纽时文讲超级大国互相监视本属寻常，气球事件可能是个失误，再到WSJ 、VOA表达中方盼望。中方依美国样画葫芦就行 <a href="https://cn.nytimes.com/usa/20230206/balloon-china-spying-united-states/?utm_source=tw-nytimeschinese&amp;utm_medium=social&amp;utm_campaign=cur" target="_blank" rel="noopener noreferrer">https://cn.nytimes.com/usa/20230206/balloon-china-spying-united-states/?utm_source=tw-nytimeschinese&amp;utm_medium=social&amp;utm_campaign=cur</a> <a href="https://cn.wsj.com/amp/articles/%E4%B8%AD%E5%9B%BD%E9%87%8A%E5%87%BA%E4%BF%A1%E5%8F%B7-%E5%B8%8C%E6%9C%9B%E6%B0%94%E7%90%83%E4%BA%8B%E4%BB%B6%E7%BF%BB%E7%AF%87-11675662006" target="_blank" rel="noopener noreferrer">https://cn.wsj.com/amp/articles/%E4%B8%AD%E5%9B%BD%E9%87%8A%E5%87%BA%E4%BF%A1%E5%8F%B7-%E5%B8%8C%E6%9C%9B%E6%B0%94%E7%90%83%E4%BA%8B%E4%BB%B6%E7%BF%BB%E7%AF%87-11675662006</a> <a href="https://www.voachinese.com/a/china-s-reaction-to-the-balloon-incident-20230206/6949892.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/china-s-reaction-to-the-balloon-incident-20230206/6949892.html</a>
 
-### 38: [2023-02-07 01:45:19+08:00 推文](https://twitter.com/HeQinglian/status/1622652675614441492)
+### 39: [2023-02-07 01:45:19+08:00 推文](https://twitter.com/HeQinglian/status/1622652675614441492)
 
 Re @Lucs24659702 BLM，政府国内外项目的获得者。<br>就算普通公务员，也得与我们一样承受高通胀。
 
-### 39: [2023-02-07 01:50:30+08:00 推文](https://twitter.com/HeQinglian/status/1622653976305930240)
+### 40: [2023-02-07 01:50:30+08:00 推文](https://twitter.com/HeQinglian/status/1622653976305930240)
 
 Re @fading_you1 与美国民主党支持者相同。都是求仁得仁，如其所愿。
 
-### 40: [2023-02-07 02:10:12+08:00 推文](https://twitter.com/HeQinglian/status/1622658936313610240)
+### 41: [2023-02-07 02:10:12+08:00 推文](https://twitter.com/HeQinglian/status/1622658936313610240)
 
 Re @fading_you1 日本首相解雇了一名助理，原因是这位先生说了他不想看到同性恋和自己做邻居。同性恋发起山呼海啸的抗议，首相只得表示愤怒解雇他。<br>日本是G7当中唯一同婚未合法化的国家，同性恋们趁机再推一把。不过，日本大龄女35岁至50岁未婚占同龄人近40%，拉拉很快会如雨后春笋。 <a href="https://www.bbc.com/news/world-asia-64521862" target="_blank" rel="noopener noreferrer">https://www.bbc.com/news/world-asia-64521862</a>
 
-### 41: [2023-02-07 02:47:06+08:00 推文](https://twitter.com/HeQinglian/status/1622668222603436038)
+### 42: [2023-02-07 02:47:06+08:00 推文](https://twitter.com/HeQinglian/status/1622668222603436038)
 
 Re @fading_you1 没将利益放在第一就能顶住。比如匈牙利尽管身在欧盟，人家就硬顶。瑞士宣布不承认男女两性之外的任何性别，变性人要登记，一律为女。<br>尽管目前美国在全世界推行，进展不大，据世界经济论坛年度研究，对同性恋友好城市数量在减少，友好度在下降，但在某些新地区有进展，比如香港、台北、印度一些地区。
 
-### 42: [2023-02-07 02:49:36+08:00 推文](https://twitter.com/HeQinglian/status/1622668852445290513)
+### 43: [2023-02-07 02:49:36+08:00 推文](https://twitter.com/HeQinglian/status/1622668852445290513)
 
 Re @shenliangqing2 @YaxueCao 大势就是如此。见到一点冲突就以为要脱钩，那只是他们的愿望。<br>说个小事，从抵制新疆棉之后，美国的服装就没什么象话的棉制品。近两年买过两件内衣，穿后搁在那里，太不舒适了。
 
-### 43: [2023-02-07 02:55:28+08:00 推文](https://twitter.com/HeQinglian/status/1622670326906724358)
+### 44: [2023-02-07 02:55:28+08:00 推文](https://twitter.com/HeQinglian/status/1622670326906724358)
 
 这点事就开战，评论者可能根本就不知道1999年5月美国轰炸中国驻南斯拉夫大使馆事件、2001年4月中美南海撞机事件（这是中国对前一事件的报复性动作）。<br>这两件事都熬过来了，两国关系没那么脆弱，尤其是现在双方有需要之时。<div class="rsshub-quote"><br><br>DW 中文- 德国之声: “气球危机依然留给我们一些疑问：为什么偏偏是现在飞越美国？为什么五角大楼在布林肯即将访华时才披露消息，而不是在之前刚刚发现时？这样的中国气球前些年也飞越过美国领空，为什么现在却能引发如此大的声浪？”<br> <a href="https://p.dw.com/p/4N9lV" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4N9lV</a></div>
 
-### 44: [2023-02-07 03:02:19+08:00 推文](https://twitter.com/HeQinglian/status/1622672052002988035)
+### 45: [2023-02-07 03:02:19+08:00 推文](https://twitter.com/HeQinglian/status/1622672052002988035)
 
 Re @chenandfamily 去对白宫提建议吧。<br>你不看美国的英文新闻，难道也不看特意用中文发布的？
 
-### 45: [2023-02-07 03:02:45+08:00 推文](https://twitter.com/HeQinglian/status/1622672158685110303)
+### 46: [2023-02-07 03:02:45+08:00 推文](https://twitter.com/HeQinglian/status/1622672158685110303)
 
 Re @ni87107 用不着，太多了，关键的几个就行了。
 
-### 46: [2023-02-07 04:53:11+08:00 推文](https://twitter.com/HeQinglian/status/1622699953448427520)
+### 47: [2023-02-07 04:53:11+08:00 推文](https://twitter.com/HeQinglian/status/1622699953448427520)
 
 Re @chenandfamily 这事有什么好争的？<br>今天三篇文章我发了推，自己仔细琢磨一下。再过最多一个月就有分晓。到时欢迎你再来。
 
-### 47: [2023-02-07 05:05:44+08:00 推文](https://twitter.com/HeQinglian/status/1622703109309968384)
+### 48: [2023-02-07 05:05:44+08:00 推文](https://twitter.com/HeQinglian/status/1622703109309968384)
 
 Re @eGUAbe2V7j26GHw 主要是急着发言，不是急于了解动态。<br>其实，今天看美媒就知道了。美媒至少有四家媒体用中文发布，尤其是中美关系与涉及中国的，几乎都会译出来前后脚发表。<br>我昨天看了VOA的一篇，就明白开始调整方向了。路数还是“中国请下跪，求你了”——这次有点不同的是说中方舆论要求翻篇。<br>太着急了一点。
 
