@@ -305,7 +305,7 @@ Re @Lucs24659702 终于意识到选择性抽检，有违美国的司法公平。
 
 ### 73: [2023-01-27 02:07:18+08:00 推文](https://twitter.com/HeQinglian/status/1618671938653790209)
 
-数据说话：中-美欧经济脱钩并非现实<br>2022年西方舆论表达要与中国脱钩、以及猜测习近平想与美国脱钩成了主流。被视为“习近平信使”的刘鹤出席2023达沃斯年会，让与会者欢呼中国回归全球化。<br>本文用中国及美欧自身数据表明，中国脱离全球化现在终于回归，其实是个彻底的虚假命题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html</a>
+RT He Qinglian<br>数据说话：中-美欧经济脱钩并非现实<br>2022年西方舆论表达要与中国脱钩、以及猜测习近平想与美国脱钩成了主流。被视为“习近平信使”的刘鹤出席2023达沃斯年会，让与会者欢呼中国回归全球化。<br>本文用中国及美欧自身数据表明，中国脱离全球化现在终于回归，其实是个彻底的虚假命题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html</a>
 
 ### 74: [2023-01-27 02:36:25+08:00 推文](https://twitter.com/zhixiangziyou/status/1618679268707536896)
 
