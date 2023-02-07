@@ -53,7 +53,7 @@ Re @xxj2040 英国退欧，有个原因是在欧盟内部的地位尴尬，德�
 
 ### 10: [2022-07-11 11:13:51+08:00 推文](https://twitter.com/HeQinglian/status/1546331910334517255)
 
-7月6日，由于担心基辅无法归还这笔钱，欧盟委员会预算机构拒绝批准通过欧洲投资银行向乌克兰援助的15亿欧元贷款；德国亦出手阻止欧盟对乌克兰的 90 亿欧元一揽子援助计划<br><br>此信息说明目前乌克兰战争已经成了西方世界的鸡肋。不知泽连斯基下一个筹款对象是哪些国家。 <a href="https://www.bloomberg.com/news/articles/2022-07-07/eu-bureaucracy-seen-blocking-1-5-billion-euro-loan-to-ukraine" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2022-07-07/eu-bureaucracy-seen-blocking-1-5-billion-euro-loan-to-ukraine</a>
+7月6日，由于担心基辅无法归还这笔钱，欧盟委员会预算机构拒绝批准通过欧洲投资银行向乌克兰援助的15亿欧元贷款；德国亦出手阻止欧盟对乌克兰的 90 亿欧元一揽子援助计划<br><br>此信息说明目前乌克兰战争已经成了西方世界的鸡肋。不知泽连斯基下一个筹款对象是哪些国家。<br><br>jiang shangrong: ‼️‼️泽连斯基：“我们需要惩罚俄罗斯——一个恐怖主义国家——对乌克兰和国际法律秩序所做的一切。”<br><br>泽连斯基承诺，在“未来几周”内，他将寻求全世界承认“俄罗斯的罪行”。他承诺，俄罗斯的“战犯”将在世界各地被捕，即便年龄在 90 至 100 岁之间。<br><br><video src="https://video.twimg.com/ext_tw_video/1546237120053792768/pu/vid/848x464/3-sfP6zMZP-9db3Q.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1546237120053792768/pu/img/f2OsX91TSfVeAb20.jpg"></video> <a href="https://t.me/JShangrong" target="_blank" rel="noopener noreferrer">https://t.me/JShangrong</a> <a href="https://twitter.com/jiangshangrong/status/1545832524391321602" target="_blank" rel="noopener noreferrer">https://twitter.com/jiangshangrong/status/1545832524391321602</a>
 
 ### 11: [2022-07-11 11:17:56+08:00 推文](https://twitter.com/HeQinglian/status/1546332938031321089)
 
@@ -233,7 +233,7 @@ Re @shenliangqing2 加州这几年有许多奇葩法律。比如自我心理认�
 
 ### 55: [2022-07-13 01:46:01+08:00 推文](https://twitter.com/HeQinglian/status/1546913784475820032)
 
-德国漂绿是真的，但是否取消碳中和目标，还得查核一下。不过，虽然这位是某些人眼中说什么都错的中国人，但这次却说得非常对，因为事实摆在那里：天然气、核能全部漂绿，煤炭开采也恢复了。<br>原来，绿能奠基于他国进口能源并购买碳排放额度指标上。<br><br>薛丁丁归来: #德国取消2035年碳中和目标   读书的时候老师就说过，现在大部分标准是欧美人定的，打着环保等名义，其实用来限制后发国家，等你们真的做到了，他又会出一套新的标准继续限制你，当然，如果他们做不到，他们随时会把标准废除。我们努力的方向不是去追求西方标准，而是要凭实力，把标准制定权抢过来。<br><br><video src="https://video.twimg.com/ext_tw_video/1546668011788021760/pu/vid/856x480/qwn2QPe7h3wiqVtA.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1546668011788021760/pu/img/GdO-BowXHBTATi_l.jpg"></video>
+德国漂绿是真的，但是否取消碳中和目标，还得查核一下。不过，虽然这位是某些人眼中说什么都错的中国人，但这次却说得非常对，因为事实摆在那里：天然气、核能全部漂绿，煤炭开采也恢复了。<br>原来，绿能奠基于他国进口能源并购买碳排放额度指标上。
 
 ### 56: [2022-07-13 03:07:59+08:00 推文](https://twitter.com/HeQinglian/status/1546934414118211586)
 
@@ -305,7 +305,7 @@ Re @JiangShangrong 通过他国购买后贴牌转让的算不算？<br>壳牌公
 
 ### 73: [2022-07-13 23:23:19+08:00 推文](https://twitter.com/gliderhook/status/1547240261042012162)
 
-RT 滑翔戟<br>鼓掌还要缓，一方面看战局发展和泽伦斯基到时候的“春秋评价”，另一方面，大家都是成年人，话要说全：天然气、贵金属、粮食、第三方转运都要禁，这才是全部真相——尤其转运，德国切割硬度达不到对付刚玉的莫氏9级，印度就达不到切玻璃的6级，中国干脆不考虑，切塑料戏法也不演了。<br><br>DW 中文- 德国之声: 德国国务秘书库基斯在澳大利亚悉尼出席全球能源论坛时表示，德国很快将不再从俄罗斯进口煤炭和石油。他说，德国希望从8月1日起不再进口俄罗斯的煤炭，从12月31日起停止从俄罗斯进口石油。他说，这将从根本上改变德国的能源供应。<br><br>德国从俄罗斯进口的煤炭和石油曾在国内需求量中的占比达到40%。<br><br><img style="" src="https://pbs.twimg.com/media/FXi_44JWYAEBp1X?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT 滑翔戟<br>鼓掌还要缓，一方面看战局发展和泽伦斯基到时候的“春秋评价”，另一方面，大家都是成年人，话要说全：天然气、贵金属、粮食、第三方转运都要禁，这才是全部真相——尤其转运，德国切割硬度达不到对付刚玉的莫氏9级，印度就达不到切玻璃的6级，中国干脆不考虑，切塑料戏法也不演了。
 
 ### 74: [2022-07-13 23:31:19+08:00 推文](https://twitter.com/HeQinglian/status/1547242273640947712)
 
@@ -657,7 +657,7 @@ Re @farmdirect8 @shenliangqing2 @peichang_yang 为什么要费尽心思？男女
 
 ### 161: [2022-07-17 05:53:35+08:00 推文](https://twitter.com/HeQinglian/status/1548425640264708100)
 
-经济学人：中东为美国提供了什么？<br>美国总统开始漫无目的的旅行<br>乔·拜登于 7 月 13 日开始对以色列和巴勒斯坦进行近 48 小时的访问，目的是进行平庸的练习：握手，看几个景点，然后返回机场。在最近的记忆中，没有哪位美国总统在谈到该地区最棘手的冲突时几乎无话可说。<br><br>The Economist: Joe Biden’s hosts will offer a friendly welcome, but they will probably send him home with little more than a few token souvenirs<br> <a href="https://econ.st/3IOSlzP" target="_blank" rel="noopener noreferrer">https://econ.st/3IOSlzP</a>
+经济学人：中东为美国提供了什么？<br>美国总统开始漫无目的的旅行<br>乔·拜登于 7 月 13 日开始对以色列和巴勒斯坦进行近 48 小时的访问，目的是进行平庸的练习：握手，看几个景点，然后返回机场。在最近的记忆中，没有哪位美国总统在谈到该地区最棘手的冲突时几乎无话可说。
 
 ### 162: [2022-07-17 09:04:35+08:00 推文](https://twitter.com/HeQinglian/status/1548473706740994049)
 
@@ -697,7 +697,7 @@ Re @JianglinLi 我们这下了一场雨，一英寸不到。但是喷灌系统�
 
 ### 171: [2022-07-17 21:56:27+08:00 推文](https://twitter.com/HeQinglian/status/1548667952366485504)
 
-我可没觉得当初BBC不知道这消息。<br>此时报，我也不觉得是该台想恢复媒体追求事实。
+我可没觉得当初BBC不知道这消息。<br>此时报，我也不觉得是该台想恢复媒体追求事实。<br><br>BBC News 中文: 2020年，据称属于乔·拜登之子亨特·拜登的笔记本电脑内容曝光，内容涉及以权谋私指称以及亨特的私生活细节。直至今日，“硬盘门”风波依然涟漪未息。亨特·拜登电脑事件真相到底是什么?<br> <a href="https://bbc.in/3ci3FrO" target="_blank" rel="noopener noreferrer">https://bbc.in/3ci3FrO</a>
 
 ### 172: [2022-07-17 22:04:40+08:00 推文](https://twitter.com/HeQinglian/status/1548670019877437441)
 
