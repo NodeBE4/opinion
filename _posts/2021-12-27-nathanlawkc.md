@@ -23,11 +23,11 @@ When free press is the focal point of human rights discussion this year, CCP kee
 
 ### 2: [2021-12-29 20:51:43+08:00 推文](https://twitter.com/nathanlawkc/status/1476174087999438856)
 
-THREAD:<br>1.After the Apple Daily closure, Stand News became the largest free media in Hong Kong. Today, we have witnessed another forced closure with a number of arrests. The message Beijing sends is clear: report in the way that we allow, or end up in jail.<br><img style src="https://pbs.twimg.com/media/FHxry3QXsAMFjM1?format=jpg&name=orig" referrerpolicy="no-referrer">
+THREAD:<br>1.After the Apple Daily closure, Stand News became the largest free media in Hong Kong. Today, we have witnessed another forced closure with a number of arrests. The message Beijing sends is clear: report in the way that we allow, or end up in jail.<br><img style="" src="https://pbs.twimg.com/media/FHxry3QXsAMFjM1?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2021-12-29 20:51:44+08:00 推文](https://twitter.com/nathanlawkc/status/1476174095003926534)
 
-Re 3. It's a colonial law so draconian that the British colonial government ended up abandoning it. The HKG reversed the trend and used it to arrest journalists arbitrarily. Seven former and current editors and board members are arrested, with more than 200 police raid their office.<br><img style src="https://pbs.twimg.com/media/FHxsNM8WQAALCiy?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re 3. It's a colonial law so draconian that the British colonial government ended up abandoning it. The HKG reversed the trend and used it to arrest journalists arbitrarily. Seven former and current editors and board members are arrested, with more than 200 police raid their office.<br><img style="" src="https://pbs.twimg.com/media/FHxsNM8WQAALCiy?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-12-29 20:51:45+08:00 推文](https://twitter.com/nathanlawkc/status/1476174099366006786)
 
@@ -43,11 +43,11 @@ Re 6. I hope it does not create a domino effect that other smaller independent o
 
 ### 7: [2021-12-29 20:51:48+08:00 推文](https://twitter.com/nathanlawkc/status/1476174108413116418)
 
-Re 7. Let's not forget who are arrested. Denise Ho, a Hong Kong canto-pop diva who has been very vocal on LGBTQI rights and social justice. She could have lived a prosperous and fancy life if she had stayed silent. But she didn't. Wealth cannot buy out one's faith and values.<br><img style="" src="https://pbs.twimg.com/media/FHxsPZ4WUAUH41T?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re 7. Let's not forget who are arrested. Denise Ho, a Hong Kong canto-pop diva who has been very vocal on LGBTQI rights and social justice. She could have lived a prosperous and fancy life if she had stayed silent. But she didn't. Wealth cannot buy out one's faith and values.<br><img style src="https://pbs.twimg.com/media/FHxsPZ4WUAUH41T?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2021-12-29 20:51:49+08:00 推文](https://twitter.com/nathanlawkc/status/1476174113580404739)
 
-Re 8. Margaret Ng, a former legislator and well respected barrister. She is 73 and continues to campaign for a better judicial system in Hong Kong. Many political campaigners see her as a role model and the most powerful voice to preserve our values.<br><img style="" src="https://pbs.twimg.com/media/FHxsWd9WUAcWHKF?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re 8. Margaret Ng, a former legislator and well respected barrister. She is 73 and continues to campaign for a better judicial system in Hong Kong. Many political campaigners see her as a role model and the most powerful voice to preserve our values.<br><img style src="https://pbs.twimg.com/media/FHxsWd9WUAcWHKF?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 9: [2021-12-30 19:50:24+08:00 推文](https://twitter.com/nathanlawkc/status/1476521046668886020)
 

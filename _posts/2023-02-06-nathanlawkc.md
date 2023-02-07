@@ -1,0 +1,43 @@
+---
+author: nathanlawkc
+categories:
+- Twitter
+date: 2023-02-07
+from: https://twitter.com/nathanlawkc/status/1622962903262322693
+layout: post
+tags:
+- Twitter
+title: 'Twitter @Nathan Law 羅冠聰: 2023-02-06~2023-02-12'
+---
+
+#HongKong activist. Youngest lawmaker in HK history. Now Exiled in London.
+Author of Freedom, UK (https://t.co/2OFalKXJG1) and NA (https://t.co/mkF6N8U5d0) 
+#TIME100 
+
+* This will become a table of contents (this text will be scrapped).
+{:toc}
+
+### 1: [2023-02-07 22:18:03+08:00 推文](https://twitter.com/nathanlawkc/status/1622962903262322693)
+
+The largest National Security Law case in Hong Kong has begun. Here are some facts in a 🧵:<br>1. Around two third of the defendants have been detained for almost two years. They were denied bail on the basis that "they may conduct activities that endanger national security."<br><img style="" src="https://pbs.twimg.com/media/FoXrcDTXoAEtQ1A?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 2: [2023-02-07 22:18:04+08:00 推文](https://twitter.com/nathanlawkc/status/1622962907037270023)
+
+Re 2. Campaigners are charged due to an action every party would do in a democracy — joining a primary election. The HK authority equates "vetoing budget" as "topping the government," thus committing a "subversive action." How ridiculous is it?
+
+### 3: [2023-02-07 22:18:05+08:00 推文](https://twitter.com/nathanlawkc/status/1622962910019432448)
+
+Re 3. The Beijing authority makes the rule for the trial. They handpicked judges, denied the right to a jury, and made the law. <br>4. Defendants' lawyers are named by pro-Beijing newspapers, which is a sign that the govt plans to go after them.
+
+### 4: [2023-02-07 22:18:06+08:00 推文](https://twitter.com/nathanlawkc/status/1622962912313716736)
+
+Re 5. Most defendants pledged guilty to minimize sentencing. It's not a sign that they admitted wrongdoings — they are hopeless towards the justice system and wanted to get the sentence cut to leave jail as soon as possible.
+
+### 5: [2023-02-07 22:18:07+08:00 推文](https://twitter.com/nathanlawkc/status/1622962916939923461)
+
+Re 7. Many of them have experienced solidarity confinement, a form of torture, for trivial reasons. Sharing chocolate and hair clips, publishing an update on Facebook...... that's a form of extralegal punishment they suffered.
+
+### 6: [2023-02-07 22:18:08+08:00 推文](https://twitter.com/nathanlawkc/status/1622962921553768449)
+
+Re The prison walls encompass them not because they've done anything wrong, but because the govt wanted them to be silenced. That's why we have to continue to voice for them. <br>@joshuawongcf @yttai @LesterShum @ChuHoiDick <br>#HongKong #Politicalprisoners<br>Photo: Nikkei Asia<br>-END
+

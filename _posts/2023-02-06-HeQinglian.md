@@ -177,7 +177,7 @@ Re @fading_you1 与美国民主党支持者相同。都是求仁得仁，如其�
 
 ### 41: [2023-02-07 02:10:12+08:00 推文](https://twitter.com/HeQinglian/status/1622658936313610240)
 
-Re @fading_you1 日本首相解雇了一名助理，原因是这位先生说了他不想看到同性恋和自己做邻居。同性恋发起山呼海啸的抗议，首相只得表示愤怒解雇他。<br>日本是G7当中唯一同婚未合法化的国家，同性恋们趁机再推一把。不过，日本大龄女35岁至50岁未婚占同龄人近40%，拉拉很快会如雨后春笋。 <a href="https://www.bbc.com/news/world-asia-64521862" target="_blank" rel="noopener noreferrer">https://www.bbc.com/news/world-asia-64521862</a>
+RT He Qinglian<br>Re @fading_you1 日本首相解雇了一名助理，原因是这位先生说了他不想看到同性恋和自己做邻居。同性恋发起山呼海啸的抗议，首相只得表示愤怒解雇他。<br>日本是G7当中唯一同婚未合法化的国家，同性恋们趁机再推一把。不过，日本大龄女35岁至50岁未婚占同龄人近40%，拉拉很快会如雨后春笋。 <a href="https://www.bbc.com/news/world-asia-64521862" target="_blank" rel="noopener noreferrer">https://www.bbc.com/news/world-asia-64521862</a>
 
 ### 42: [2023-02-07 02:47:06+08:00 推文](https://twitter.com/HeQinglian/status/1622668222603436038)
 
@@ -206,4 +206,16 @@ Re @chenandfamily 这事有什么好争的？<br>今天三篇文章我发了推�
 ### 48: [2023-02-07 05:05:44+08:00 推文](https://twitter.com/HeQinglian/status/1622703109309968384)
 
 Re @eGUAbe2V7j26GHw 主要是急着发言，不是急于了解动态。<br>其实，今天看美媒就知道了。美媒至少有四家媒体用中文发布，尤其是中美关系与涉及中国的，几乎都会译出来前后脚发表。<br>我昨天看了VOA的一篇，就明白开始调整方向了。路数还是“中国请下跪，求你了”——这次有点不同的是说中方舆论要求翻篇。<br>太着急了一点。
+
+### 49: [2023-02-07 22:18:15+08:00 推文](https://twitter.com/HeQinglian/status/1622962950007844864)
+
+这话听起来挺强势：<br>我划好了道道，你照不照办，你看着办，后果自负。<br>——但手脚必须听脑袋的话：三个月甚至半年内不理睬北京，不主动要求缓和关系，继续不断制裁，美国务院负责中国事务的部门先躺平。待北京主动要求缓和关系，有可能拿回一些主动权。<div class="rsshub-quote"><br><br>美国之音中文网: 白宫发言人2月6日答记者问时说，击落中国侦察气球后，美国将继续保持与中国的沟通渠道，北京想要什么样的美中关系，取决于中方。文字报道：<br><br><video src="https://video.twimg.com/amplify_video/1622766011211546628/vid/1080x1080/PVG6aUGepUww3E5r.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/media/FoVSIfhX0AMTyRt?format=jpg&amp;name=orig"></video> <a href="https://www.voachinese.com/a/white-house-us-china-balloon-20230206/6950576.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/white-house-us-china-balloon-20230206/6950576.html</a></div>
+
+### 50: [2023-02-07 22:45:52+08:00 推文](https://twitter.com/HeQinglian/status/1622969899986583557)
+
+Re 接前：<br>目前要孤立中国，还是与盟国打好招呼：这段时期美国暂时冻结与中国接触之前，各国也不要行动，别成天想着与中国进行商贸谈判，表面上批评几句中国人权、“新疆维族种族屠杀”就算对老大交差。<br>白宫也不用一天两次发声明，立场改来改去，一次性就行。<br>希望顶着美国名的彩虹政府能办点正事
+
+### 51: [2023-02-07 22:50:23+08:00 推文](https://twitter.com/HeQinglian/status/1622971039608352768)
+
+Re @shenliangqing2 这段话以讹传讹，早就成了90%引用者都相信的话。<br>早就有人考证过，遍查林语堂书，无此语。<br>在FB上，有位天天推送各种名人名言，大半是假的。我实在看不下去，直接B了，仅仅是Unfriend，今后又要求加友，我也记不得他的网名。
 

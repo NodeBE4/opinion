@@ -31,3 +31,9 @@ These challenges make it more difficult for Western policymakers to know whether
 
 Here is a free-access link: https://www.foreignaffairs.com/guest-pass/redeem/SLGJkoj8hN8
 
+### 348: [The Third Intifada? Why the Israeli-Palestinian Conflict Might Boil Over, Again](https://old.reddit.com/r/geopolitics/comments/10w48vl/the_third_intifada_why_the_israelipalestinian/), submitted on 2023-02-07 23:13:54+08:00.
+
+----- __348.1__ -----2023-02-07 23:15:09+08:00:
+
+**From Daniel Byman:** "In November 2022, the United Nations warned that the Israeli-Palestinian conflict was “again reaching a boiling point.” Amit Saar, a top Israeli intelligence official, predicted that violence in the West Bank (although not Gaza) will rank as Israel’s second biggest challenge in 2023, just below the perennial threat from Iran. Saar warned not only that violence was increasing but also that the foundations for managing it were becoming “unstable.” The policing capacity of the Palestinian Authority, the governing body in the West Bank, and its relationship with Israel are eroding. No political process holds the promise of Palestinian independence. And ordinary Palestinians are growing frustrated with established groups and leaders that reject violence—such as Fatah, the party that has long dominated Palestinian politics, and its head, Mahmoud Abbas, the president of the PA. In yet another foreboding development, in December 2022, Prime Minister Benjamin Netanyahu created a new government that put settlers, political extremists, and racists in key positions overseeing the West Bank. All this leads to a despairing, inescapable conclusion: the odds of a third intifada are higher than they have been in years."
+
