@@ -39,6 +39,10 @@ So you can make the case that it's *theoretically* not. In the Wade-Giles Romani
 
 By way of clumsy and, I will fully admit, not particularly comparable analogy, it'd be like me naming a German character 'Adolf Goering' and saying 'well Adolf is a real name, and there are still Goerings about, which means the name is plausible and there is no specific intention behind me choosing that particular first name and surname combination.' Or, more frivolously, if I named a character 'Gaylord Cockburn' you would imagine some kind of intentionality to it. That's how I see 'Cho Chang'.
 
+----- __1092.5__ -----2023-02-07 19:55:18+08:00:
+
+It absolutely doesn't help that to Chinese cultural elites, non-Mandarin languages are essentially branded as 'lesser', or as relics to be consigned to the dustbin of linguistic extinction.
+
 ### 1093: [Who were the greatest Italian military commanders of the early modern era? (1400-1800)](https://old.reddit.com/r/AskHistorians/comments/10uusxe/who_were_the_greatest_italian_military_commanders/), submitted on 2023-02-06 10:12:58+08:00.
 
 ----- __1093.1__ -----2023-02-06 16:54:46+08:00:
