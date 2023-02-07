@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-02-07
+date: 2023-02-08
 from: https://twitter.com/HeQinglian/status/1622265773652680707
 layout: post
 tags:
@@ -207,15 +207,67 @@ Re @chenandfamily 这事有什么好争的？<br>今天三篇文章我发了推�
 
 Re @eGUAbe2V7j26GHw 主要是急着发言，不是急于了解动态。<br>其实，今天看美媒就知道了。美媒至少有四家媒体用中文发布，尤其是中美关系与涉及中国的，几乎都会译出来前后脚发表。<br>我昨天看了VOA的一篇，就明白开始调整方向了。路数还是“中国请下跪，求你了”——这次有点不同的是说中方舆论要求翻篇。<br>太着急了一点。
 
-### 49: [2023-02-07 22:18:15+08:00 推文](https://twitter.com/HeQinglian/status/1622962950007844864)
+### 49: [2023-02-07 22:04:57+08:00 推文](https://twitter.com/JianglinLi/status/1622959605713350666)
+
+RT 李江琳<br>转了一圈又回去了：华盛顿州首府奥林比亚的一所公立小学成立排除白人的学生组织。<div class="rsshub-quote"><br><br>The Gateway Pundit: Elementary School Starts Student Club That Excludes White Kids<br> <a href="https://ift.tt/Xy2KAO0" target="_blank" rel="noopener noreferrer">https://ift.tt/Xy2KAO0</a></div>
+
+### 50: [2023-02-07 22:18:15+08:00 推文](https://twitter.com/HeQinglian/status/1622962950007844864)
 
 这话听起来挺强势：<br>我划好了道道，你照不照办，你看着办，后果自负。<br>——但手脚必须听脑袋的话：三个月甚至半年内不理睬北京，不主动要求缓和关系，继续不断制裁，美国务院负责中国事务的部门先躺平。待北京主动要求缓和关系，有可能拿回一些主动权。<div class="rsshub-quote"><br><br>美国之音中文网: 白宫发言人2月6日答记者问时说，击落中国侦察气球后，美国将继续保持与中国的沟通渠道，北京想要什么样的美中关系，取决于中方。文字报道：<br><br><video src="https://video.twimg.com/amplify_video/1622766011211546628/vid/1080x1080/PVG6aUGepUww3E5r.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/media/FoVSIfhX0AMTyRt?format=jpg&amp;name=orig"></video> <a href="https://www.voachinese.com/a/white-house-us-china-balloon-20230206/6950576.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/white-house-us-china-balloon-20230206/6950576.html</a></div>
 
-### 50: [2023-02-07 22:45:52+08:00 推文](https://twitter.com/HeQinglian/status/1622969899986583557)
+### 51: [2023-02-07 22:45:52+08:00 推文](https://twitter.com/HeQinglian/status/1622969899986583557)
 
 Re 接前：<br>目前要孤立中国，还是与盟国打好招呼：这段时期美国暂时冻结与中国接触之前，各国也不要行动，别成天想着与中国进行商贸谈判，表面上批评几句中国人权、“新疆维族种族屠杀”就算对老大交差。<br>白宫也不用一天两次发声明，立场改来改去，一次性就行。<br>希望顶着美国名的彩虹政府能办点正事
 
-### 51: [2023-02-07 22:50:23+08:00 推文](https://twitter.com/HeQinglian/status/1622971039608352768)
+### 52: [2023-02-07 22:50:23+08:00 推文](https://twitter.com/HeQinglian/status/1622971039608352768)
 
 Re @shenliangqing2 这段话以讹传讹，早就成了90%引用者都相信的话。<br>早就有人考证过，遍查林语堂书，无此语。<br>在FB上，有位天天推送各种名人名言，大半是假的。我实在看不下去，直接B了，仅仅是Unfriend，今后又要求加友，我也记不得他的网名。
+
+### 53: [2023-02-07 22:53:27+08:00 推文](https://twitter.com/HeQinglian/status/1622971809959391232)
+
+Re @runrunalong 先打招呼，让其停下来。😅告诉澳政府：上次中国抵制你国的红葡萄酒，我们都买过以示支持。
+
+### 54: [2023-02-07 23:05:05+08:00 推文](https://twitter.com/HeQinglian/status/1622974736409202688)
+
+我四天前说的是为了不让布林肯访华，看来这看法成了共识，只是说成内斗。<br>《華盛頓郵報》David Ignatius引述情報分析師表示，中國偵察氣球此時入侵美國，可能是為了展現實力，抑或是內部強硬派欲破壞美國國務卿布林肯訪華。他指出：對習近平的好戰政權來說，能讓美國難堪的機會永遠吸引人。<div class="rsshub-quote"><br><br>RFI 華語 - 法國國際廣播電台: 華盛頓郵報揭示中國間諜氣球為何入侵美國<br><br><img style="" src="https://pbs.twimg.com/media/FoUtD3YaMAAodlA?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/98WX.t" target="_blank" rel="noopener noreferrer">https://rfi.my/98WX.t</a></div>
+
+### 55: [2023-02-07 23:10:24+08:00 推文](https://twitter.com/HeQinglian/status/1622976073733402624)
+
+Re @JianglinLi 拜登想挣回两次面子：<br>一是打气球——虽然迟了几天，但几天前就做了决定，况且川普时期气球来过三回（无时间、地点与纪录，说来了就来了），全世界五大洲都遇到中国气球舰队，就我拜登敢打。<br>二是敢给中国政府划道道，不许援俄，不能反美国制裁，否则你看着办。<br>内里：求求你，赶紧让布林肯去北京。
+
+### 56: [2023-02-07 23:17:23+08:00 推文](https://twitter.com/HeQinglian/status/1622977832128245763)
+
+Re @JianglinLi 我一直没弄明白，国务卿这个位置的高官出马，其实是诸事在略低层次的官员谈定各种协议后才出面，仪式性地敲定双方协约。<br>有什么事情非要当面谈，谈前还要向世界宣布：我要给中国划条红线、带去警告，让北京在俄罗斯问题上不要乱说乱动？<br>中国政府早就放弃轁光养晦，露出牙齿与爪子了。
+
+### 57: [2023-02-07 23:36:43+08:00 推文](https://twitter.com/HeQinglian/status/1622982700234678272)
+
+温故知新：<br>2001年4月中美南海撞机事件发生后几天内，布什总统始终无法与中方领导人通话。国务卿鲍威尔的努力也以失败告终，他后来回忆说““这让人想知道在更严重的危机下会发生什么”。<br>美国始终没说出：这是中国对北京1999年5月炸毁中国驻南斯拉夫大使馆的报复。国人皆知那次是江泽民打碎牙齿和血吞
+
+### 58: [2023-02-07 23:38:32+08:00 推文](https://twitter.com/HeQinglian/status/1622983156168024071)
+
+Re @JianglinLi 如果没想再吃，问题不大。中国就算放出证据来，也没人相信。好好利用中国在舆论战上的劣势：美国方说话，信者达95%，中国正好相反。
+
+### 59: [2023-02-07 23:45:07+08:00 推文](https://twitter.com/HeQinglian/status/1622984810464522240)
+
+Re @AlikiZhang 完全不是。<br>江泽民亲美是出名的，在夏威夷跳草裙舞被国人视为失格——那时的人没进化到今天这样，随便什么身材都敢裸露当众扭动，何况他是国家元首。<br>炸馆之后，认为他如此讨好，还被美国狠狠打脸，攻击者真的很多，甚至有要求对等对待的。只是一因是搜集情报，二是为了加入WTO，最后忍了。
+
+### 60: [2023-02-08 00:39:23+08:00 推文](https://twitter.com/HeQinglian/status/1622998468468871174)
+
+Re @akakak474747 @JianglinLi 你还是去促进你心仪的彩虹政府做点正经事情。<br>彩虹政府正在做的，也不能说了？难道要象你一样：拜登做什么都是对的，星宿老仙永远正确？<br>我这些天最大的心得就是：要保证中国政府的核心利益，美国还是民主党当选最好。你什么时候见过中国批评过美彩虹政府的弱国之道？<br>你到底想什么，自己知道。
+
+### 61: [2023-02-08 00:41:52+08:00 推文](https://twitter.com/HeQinglian/status/1622999092380020756)
+
+Re @KELMAND1 这不是泄露了北约的最高军事机密么？😅<br>虽然是只隔一层窗户纸没捅破，但毕竟由自家内部人捅破，看相不好。
+
+### 62: [2023-02-08 00:45:01+08:00 推文](https://twitter.com/HeQinglian/status/1622999884507885574)
+
+Re @Lucs24659702 地震这种事情可以人为操控么？
+
+### 63: [2023-02-08 00:48:18+08:00 推文](https://twitter.com/HeQinglian/status/1623000713231040512)
+
+Re @JianglinLi 欧盟与土耳其的关系本就在盟友与非盟友之间模糊得很。这次地震后，土耳其的反应对欧美不利。<div class="rsshub-quote"><br><br>Lucs: 视频证明：没有巧合这样的事情。 土耳其在一周前拒绝了北约的扩张，然后又面临一场大地震。<br><br><video src="https://video.twimg.com/ext_tw_video/1622996455337385984/pu/vid/1280x720/9lWxD8nCZIqcAQDC.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1622996455337385984/pu/img/D3uVhRwKqWMjC3Lh.jpg"></video></div>
+
+### 64: [2023-02-08 00:53:46+08:00 推文](https://twitter.com/HeQinglian/status/1623002086542651416)
+
+推友自己去比较一下两国的体量，同样事情，中国为何只向哥斯达黎加道歉。<br>中国为气球飞越哥斯达黎加领空道歉 <a href="https://rfi.my/98bm.T" target="_blank" rel="noopener noreferrer">https://rfi.my/98bm.T</a>
 
