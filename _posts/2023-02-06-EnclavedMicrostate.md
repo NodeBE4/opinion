@@ -19,6 +19,18 @@ title: EnclavedMicrostate在2023-02-06~2023-02-12的言论
 
 Oh don't worry, we are here, and we know it.
 
+----- __1092.2__ -----2023-02-07 16:45:38+08:00:
+
+> "But wouldn't Mandarin be better for work?"
+
+I mean the key thing to remember is that the standardisation of Chinese around Mandarin is a north-Chinese, Han-centric hegemonic initiative to destroy regional distinctiveness in pursuit of a singular national homogeny in an attempt to sustain the necrotic remnants of Manchu dynastic imperialism.
+
+/s but also not really
+
+----- __1092.3__ -----2023-02-07 16:58:22+08:00:
+
+Honestly I'm surprised the comparison is to r/scp and not r/AskHistorians...
+
 ### 1093: [Who were the greatest Italian military commanders of the early modern era? (1400-1800)](https://old.reddit.com/r/AskHistorians/comments/10uusxe/who_were_the_greatest_italian_military_commanders/), submitted on 2023-02-06 10:12:58+08:00.
 
 ----- __1093.1__ -----2023-02-06 16:54:46+08:00:

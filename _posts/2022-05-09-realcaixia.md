@@ -145,7 +145,7 @@ Re @tlzhlyq 我和毛新宇同班同学。党校招考博士研究生很严格�
 
 ### 33: [2022-05-09 20:46:36+08:00 推文](https://twitter.com/realcaixia/status/1523645612666761216)
 
-中共党和政府是世界上最大的撒谎者。央视天天撒谎。<br>很多年前，觉醒了的中国人说人日报和央视新华社都撒谎，只有天气预报是真的。<br>自从美国驻华大使馆顶住中国压力发布空气污染指数，越来越多中国人重视PM2.5后，中共气象台被迫播报空气质量，但很快人们知道原来天气预报也造假。中共信誉已经彻底破产<br><br>美国驻华使领馆 US MissionCN: 五角大楼新闻秘书@PentagonPresSec：2022年4月20日，美国国防部长@SecDef与中华人民共和国国防部长通话。中华人民共和国国防部发布的会后汇报错误地宣称“the United States adheres to the one-China principle”（美国坚持一个中国原则<br> <a href="http://eng.mod.gov.cn/news/2022-04/20/content_4909446.htm" target="_blank" rel="noopener noreferrer">http://eng.mod.gov.cn/news/2022-04/20/content_4909446.htm</a> <a href="https://twitter.com/DeptofDefense/status/1522322906319044608" target="_blank" rel="noopener noreferrer">https://twitter.com/DeptofDefense/status/1522322906319044608</a>
+中共党和政府是世界上最大的撒谎者。央视天天撒谎。<br>很多年前，觉醒了的中国人说人日报和央视新华社都撒谎，只有天气预报是真的。<br>自从美国驻华大使馆顶住中国压力发布空气污染指数，越来越多中国人重视PM2.5后，中共气象台被迫播报空气质量，但很快人们知道原来天气预报也造假。中共信誉已经彻底破产
 
 ### 34: [2022-05-09 21:07:43+08:00 推文](https://twitter.com/realcaixia/status/1523650927336382465)
 
@@ -165,7 +165,7 @@ Re @q5E5KqUxIoWkM33 @AndrickLi 我遇到过两次查我：1，2013年我发文�
 
 ### 38: [2022-05-09 22:02:46+08:00 推文](https://twitter.com/realcaixia/status/1523664777976852481)
 
-这个文件如果是真实的，很值得关注。文革时期的各种做法改头换面的死灰复燃了。“斗争”是文革时期的主旋律，以各种借口挑起民众斗民众，并且还是政府组织一支队伍斗争民众。<br><br>餘錢 100: @realcaixia 【組建法理鬥爭民兵排】什麼玩意東西？難道是中共見識到了上海的懂法群眾，專門組建起來用來對付敢言的法學教授或學者？打不贏就用糾纏？這不就是文革式流氓嗎？司法局難道要文革复闢打倒法學教材嗎？上海人的主張是完全有法理的，法理鬥爭民兵排拿什麼來鬥爭？用假法理鬥爭真法理？真的是貽笑大方！<br><br><img style="" src="https://pbs.twimg.com/media/FSUYNMQXsAAw_WQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+这个文件如果是真实的，很值得关注。文革时期的各种做法改头换面的死灰复燃了。“斗争”是文革时期的主旋律，以各种借口挑起民众斗民众，并且还是政府组织一支队伍斗争民众。<br><br>餘錢100: @realcaixia 【組建法理鬥爭民兵排】什麼玩意東西？難道是中共見識到了上海的懂法群眾，專門組建起來用來對付敢言的法學教授或學者？打不贏就用糾纏？這不就是文革式流氓嗎？司法局難道要文革复闢打倒法學教材嗎？上海人的主張是完全有法理的，法理鬥爭民兵排拿什麼來鬥爭？用假法理鬥爭真法理？真的是貽笑大方！<br><br><img style="" src="https://pbs.twimg.com/media/FSUYNMQXsAAw_WQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 39: [2022-05-10 02:09:28+08:00 推文](https://twitter.com/realcaixia/status/1523726863918534658)
 
@@ -229,25 +229,25 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FSrg9DDUUAEO-Jq?format=jpg
 
 ### 54: [2022-05-15 22:24:54+08:00 推文](https://twitter.com/realcaixia/status/1525844675994652672)
 
-这是大陆一位很有造诣的政治学学者的文章。特别推荐。<br><br>《议报》: 包刚升: 贫富冲突与现代政治<br> <a href="https://yibaochina.com/?p=246460" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246460</a>
+这是大陆一位很有造诣的政治学学者的文章。特别推荐。
 
 ### 55: [2022-05-15 22:25:52+08:00 推文](https://twitter.com/realcaixia/status/1525844920161820672)
 
-特别推荐。
+特别推荐。<br><br>《议报》: 柴思原：对于 “不可知论”的反驳以及何为现代人的“多元主义”<br> <a href="https://yibaochina.com/?p=246464" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246464</a>
 
 ### 56: [2022-05-15 22:38:50+08:00 推文](https://twitter.com/realcaixia/status/1525848181522587648)
 
-这个推文很好，特别转推。<br><br>端咖啡内女的🇺🇦🇺🇦: 我出国前啥都不懂。同学们都出国，不出国就像个loser，所以我也跟风出国了。出国后给家里写的信上说：如果不是亲眼见，你不会相信世界上有这么好的国家、有这么好的社会。每个人都被尊重，每个人做事都认真守规矩，我感到精神上前所未有的放松和自由。<br>
+这个推文很好，特别转推。
 
 ### 57: [2022-05-15 22:45:45+08:00 推文](https://twitter.com/realcaixia/status/1525849924092297216)
 
-荒谬的消杀做法，是政府违法犯法，是打着防疫名义的犯罪行为。杨佳至今活在人们心里，是因为杨佳拼死反抗了极权政权。大陆当局正在逼迫越来越多的人成为杨佳。<br><br>liqun chen（陈立群）: 北京人应该都知道杨佳吧！虽然事情发生在上海。<br>杨佳说：你不给我一个说法，我就给你一个说法！<br> <a href="https://twitter.com/jupiterf5/status/1525734088409092096" target="_blank" rel="noopener noreferrer">https://twitter.com/jupiterf5/status/1525734088409092096</a>
+荒谬的消杀做法，是政府违法犯法，是打着防疫名义的犯罪行为。杨佳至今活在人们心里，是因为杨佳拼死反抗了极权政权。大陆当局正在逼迫越来越多的人成为杨佳。
 
 ### 58: [2022-05-15 23:00:59+08:00 推文](https://twitter.com/realcaixia/status/1525853756176277504)
 
-这三字精辟地总结了这三年中国社会民情的基本特征；这三字背后诉尽大陆中国人的民生艰辛困境乃至绝境。<br>从卷到润，还是民心的变化。<br>“润”即用脚投票，问题是至少80%的人无力用脚投票；有能力用脚投票的人正在被快速关闭的国门阻挡。<br>2023 将是哪个字？<br>2024 再是哪个字？
+这三字精辟地总结了这三年中国社会民情的基本特征；这三字背后诉尽大陆中国人的民生艰辛困境乃至绝境。<br>从卷到润，还是民心的变化。<br>“润”即用脚投票，问题是至少80%的人无力用脚投票；有能力用脚投票的人正在被快速关闭的国门阻挡。<br>2023 将是哪个字？<br>2024 再是哪个字？<br><br>iPaul🇨🇦🇺🇦: 三个字概括过去这3年：<br>2020：卷<br>2021：躺<br>2022：润<br>
 
 ### 59: [2022-05-15 23:02:55+08:00 推文](https://twitter.com/realcaixia/status/1525854245110489090)
 
-英雄出狱。
+英雄出狱。<br><br>维权网: 维权网: 获刑3年的安徽合肥著名异议人士沈良庆刑满出狱<br><br><img style="" src="https://pbs.twimg.com/media/FSxcWf1akAcphhR?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSxcXTAagAAqJRm?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSxcYYtacAApsZq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://wqw2010.blogspot.com/2022/05/3.html?spref=tw" target="_blank" rel="noopener noreferrer">https://wqw2010.blogspot.com/2022/05/3.html?spref=tw</a>
 
