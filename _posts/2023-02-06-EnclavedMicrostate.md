@@ -43,6 +43,10 @@ By way of clumsy and, I will fully admit, not particularly comparable analogy, i
 
 It absolutely doesn't help that to Chinese cultural elites, non-Mandarin languages are essentially branded as 'lesser', or as relics to be consigned to the dustbin of linguistic extinction.
 
+----- __1092.6__ -----2023-02-08 01:30:01+08:00:
+
+We are famously draconian.
+
 ### 1093: [Who were the greatest Italian military commanders of the early modern era? (1400-1800)](https://old.reddit.com/r/AskHistorians/comments/10uusxe/who_were_the_greatest_italian_military_commanders/), submitted on 2023-02-06 10:12:58+08:00.
 
 ----- __1093.1__ -----2023-02-06 16:54:46+08:00:
