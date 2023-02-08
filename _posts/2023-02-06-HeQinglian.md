@@ -177,7 +177,7 @@ Re @fading_you1 与美国民主党支持者相同。都是求仁得仁，如其�
 
 ### 41: [2023-02-07 02:10:12+08:00 推文](https://twitter.com/HeQinglian/status/1622658936313610240)
 
-RT He Qinglian<br>Re @fading_you1 日本首相解雇了一名助理，原因是这位先生说了他不想看到同性恋和自己做邻居。同性恋发起山呼海啸的抗议，首相只得表示愤怒解雇他。<br>日本是G7当中唯一同婚未合法化的国家，同性恋们趁机再推一把。不过，日本大龄女35岁至50岁未婚占同龄人近40%，拉拉很快会如雨后春笋。 <a href="https://www.bbc.com/news/world-asia-64521862" target="_blank" rel="noopener noreferrer">https://www.bbc.com/news/world-asia-64521862</a>
+Re @fading_you1 日本首相解雇了一名助理，原因是这位先生说了他不想看到同性恋和自己做邻居。同性恋发起山呼海啸的抗议，首相只得表示愤怒解雇他。<br>日本是G7当中唯一同婚未合法化的国家，同性恋们趁机再推一把。不过，日本大龄女35岁至50岁未婚占同龄人近40%，拉拉很快会如雨后春笋。 <a href="https://www.bbc.com/news/world-asia-64521862" target="_blank" rel="noopener noreferrer">https://www.bbc.com/news/world-asia-64521862</a>
 
 ### 42: [2023-02-07 02:47:06+08:00 推文](https://twitter.com/HeQinglian/status/1622668222603436038)
 
@@ -346,4 +346,52 @@ Re @KELMAND1 这件事情如果他没征求北约（美英之外的欧盟国家�
 ### 83: [2023-02-08 05:43:04+08:00 推文](https://twitter.com/HeQinglian/status/1623074894308147202)
 
 现在回想，关于中国是否援助俄武器，一直是美国的自问自答题：<br>先设问：中国如果向俄提供武器，我们将启动经济制裁（后特别声明是二级制裁，不是制裁俄的SWIFT王炸）；<br>后答题（答题者为布林肯与拜登）：至今没有证据显示，中国向俄提供了武器军援。<br>各国海关数据都有月报，难道白宫只能看到年报？<div class="rsshub-quote"><br><br>He Qinglian: 【拜登2022年9月告诉美媒：到目前为止，没有迹象表明中方对俄方提供了武器或援助。2月4日，WSJ引海关记录，中国的国防公司有向俄罗斯政府旗下的国防公司运送导航设备、干扰技术和战斗机部件。】<br>印象中，习近平没承诺不向俄方提供武器与援助。如说过，记者可同时质问两人。<br> <a href="https://rfi.my/98IK.T" target="_blank" rel="noopener noreferrer">https://rfi.my/98IK.T</a></div>
+
+### 84: [2023-02-08 05:46:33+08:00 推文](https://twitter.com/HeQinglian/status/1623075771840438274)
+
+Re @hx_maggie 土耳其人已经成了德国居民的第二大主体了，甚至成为德国选举的重要力量。
+
+### 85: [2023-02-08 05:57:59+08:00 推文](https://twitter.com/HeQinglian/status/1623078646331150342)
+
+Re @runrunalong 你眼睛不好使，我这条推是回上推的，主语在主推中是指美国。<br>下次看明白再说，别以为回你一推，就开始炸翅膀了。
+
+### 86: [2023-02-08 06:01:26+08:00 推文](https://twitter.com/HeQinglian/status/1623079515642552320)
+
+Re @wj20200118 @JianglinLi 这不同，这是黑人成了美国新贵族之后的自我隔离。我倒也赞成，包括分区居住。<br>我印象中，贵族居住区也就他们自己喜欢。包括推上美华左，相信都没住在他们心仪的贵族区，至少我知道的人当中没有。
+
+### 87: [2023-02-08 06:05:02+08:00 推文](https://twitter.com/HeQinglian/status/1623080419456585728)
+
+Re @lujianyan1971 人家海关数据说的是导航系统等类，你给加进了高价石油。<br>那高价石油是多年前的协议。<br>弄清楚类别。不过，大陆新闻我主要看数据与干货，不是看你看的新闻评论。
+
+### 88: [2023-02-08 06:10:59+08:00 推文](https://twitter.com/HeQinglian/status/1623081920153395202)
+
+Re @GeorgeW83697840 参考如今乌克兰的雇佣军例。今天有位奥地利上校讲自己脱下军服，签了合同，就成了雇佣军。<br>理解吧，毕竟是不想直接参战。<div class="rsshub-quote"><br><br>Ezio Mao☢: 奥地利武装部队上校马库斯·赖斯纳 (Markus Reisner) 描述了北约军队如何在乌克兰参战（这也解释了我长久以来强调的，技术兵种乌克兰几个月是培训不出来的）：<br><br>“我脱掉制服，签了合同，然后去了乌克兰。我就不再是奥地利士兵，而是雇佣兵，”他在新闻发布会上说。<br><br><video src="https://video.twimg.com/ext_tw_video/1622798788523073536/pu/vid/688x848/kh7cDPkfkiB31JC3.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1622798788523073536/pu/img/K5Ac7j28T0pCTWP1.jpg"></video></div>
+
+### 89: [2023-02-08 07:39:54+08:00 推文](https://twitter.com/HeQinglian/status/1623104295389351936)
+
+Re @mingshi_chen 美国只能发现飞机运输。布林肯宣布访华前，国防部官员说了，俄罗斯的运输机频频飞往中国，虽然没说内容，估计会有猜测。
+
+### 90: [2023-02-08 08:22:53+08:00 推文](https://twitter.com/HeQinglian/status/1623115113346605057)
+
+Re @tiger20boy22 现在公布了又如何？北京一句话顶回来：中俄友好早就宣示，中国是主权国家，没必要看他国脸色行事。
+
+### 91: [2023-02-08 08:32:45+08:00 推文](https://twitter.com/rijingzhongwen/status/1623117594420191234)
+
+RT 日经中文网<br>【美国在接近经济低迷的“死亡交叉”】永井洋一：联邦基金（FF）利率高于CPI、实际基准利率转正被称为“死亡交叉”。在日本泡沫破裂期，截至1996年基准利率高于CPI，导致了“日本版金融危机”。美国可能在2023年中期出现死亡交叉，危机的岩浆正在膨胀…… <a href="https://cn.nikkei.com/columnviewpoint/column/51325-2023-02-08-05-00-51.html" target="_blank" rel="noopener noreferrer">https://cn.nikkei.com/columnviewpoint/column/51325-2023-02-08-05-00-51.html</a>
+
+### 92: [2023-02-08 08:40:41+08:00 推文](https://twitter.com/HeQinglian/status/1623119592376729602)
+
+五角大楼：特朗普政府时期未能实时探测到中国间谍气球<br><br>2021年情报界发布第一份关于不明事件的公开报告，对所查看的144起事件当中的一起提供了解释<br>后续报告上个月提交国会，该报告查看了366份事件报告。171起事件原因仍然不明，但其中163起标记为气球，三起发生于川普时期。 <a href="https://cn.nytimes.com/usa/20230207/china-spy-balloon-trump-administration/?utm_source=RSS" target="_blank" rel="noopener noreferrer">https://cn.nytimes.com/usa/20230207/china-spy-balloon-trump-administration/?utm_source=RSS</a>
+
+### 93: [2023-02-08 08:49:03+08:00 推文](https://twitter.com/HeQinglian/status/1623121697141293056)
+
+Re @Wu_Zhi 深层政府其实就是指行政国家，一个独立于选民之外的官僚系统，这些人有盘根错节的利益关系与独立的利益诉求，选民诉求与他们无关；因工会的保护，他们不能被辞退（政治任命者除外）<br>这个系统，中国介绍为“西方的文官系统”。大重置势力通过操控各国文官系统的重要人物达到目标——选举安排人是另一途径
+
+### 94: [2023-02-08 09:46:08+08:00 推文](https://twitter.com/HeQinglian/status/1623136064280961025)
+
+Re @Vince6610 擅长谋一党之私，不善于谋国。<br>一个如此强大的超级大国，经营两年，对内鸡飞狗跳，对外打只入侵的地球宛如打了一场大国间的战争，媒体哄着，自己说着，结果自己也相信获得大胜了。
+
+### 95: [2023-02-08 09:52:43+08:00 推文](https://twitter.com/HeQinglian/status/1623137719395266562)
+
+只要美国彩虹政府不胡折腾，本来就没希望超过。<br>不过，本世纪末是77年之后，这预期之长，全世界除了宗教预言，一般都没这么长。😅<div class="rsshub-quote"><br><br>美国之音中文网: 澳大利亚智库：中国整体实力下降，本世纪末或无望超越美国<br> <a href="http://dlvr.it/Sj2WXH" target="_blank" rel="noopener noreferrer">http://dlvr.it/Sj2WXH</a></div>
 
