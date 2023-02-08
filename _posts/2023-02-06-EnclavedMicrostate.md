@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-02-06
+date: 2023-02-08
 from: https://old.reddit.com/r/HobbyDrama/comments/10unm05/hobby_scuffles_week_of_february_5_2023/
 layout: post
 tags:
@@ -62,4 +62,10 @@ For questions of this type, we ask that you redirect them to more appropriate su
 ----- __1094.1__ -----2023-02-06 21:39:42+08:00:
 
 Muskets rather than rifles, one would have thought.
+
+### 1095: [NIJISANJI’s Zaion LanZa Has Been Suspended](https://old.reddit.com/r/VirtualYoutubers/comments/10wv0df/nijisanjis_zaion_lanza_has_been_suspended/), submitted on 2023-02-08 20:06:27+08:00.
+
+----- __1095.1__ -----2023-02-09 00:25:44+08:00:
+
+...***yikes***
 
