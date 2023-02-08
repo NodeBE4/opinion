@@ -47,3 +47,7 @@ Re LT视界这期节目，集中两个问题：1，美击落中共高空间谍�
 
 地方政府面临财政破产危机，对民间搜刮钱财已经竭泽而渔，现在得照习近平“刀刃向内”指令下手了。<div class="rsshub-quote"><br><br>公民力量: 国内网民反映江苏地方政府为了解决地方财政收入问题，开始追查公职人员过去20年的收入，进行罚款，这一番操作收入高达25亿Chinese local governments are using unexpected method to solve the financial difficulties.<br><br><img style="" src="https://pbs.twimg.com/media/FoXtPrEX0AM1UBK?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FoXtPrFXsAUpOoD?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FoXtPrLWIAAhaAq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FoXtPrEWcAU752a?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
+### 9: [2023-02-08 17:05:10+08:00 推文](https://twitter.com/realcaixia/status/1623246550632656896)
+
+人们一旦不再恐惧了，勇敢表达意愿的人将会越来越多。<div class="rsshub-quote"><br><br>自由亚洲电台: 【#武汉 万人市府集会】<br>【医药补贴缩减 抗议者呛:太不像话了!】<br>武汉市上万名退休人员本周三（8日）聚集在市政府门前请愿，要求政府官员公开解释为何将每月两百六十多元的医药补贴，降至数十元。集会者称，全市近两百万名退休工人受此影响，倘若政府不解决问题，定于本月15日举行更大规模的抗议。<br><br><video src="https://video.twimg.com/ext_tw_video/1623238587117608960/pu/vid/720x720/VhBMRaKRGO6lLTJc.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1623238587117608960/pu/img/VW24YE1fRsYvLarQ.jpg"></video></div>
+
