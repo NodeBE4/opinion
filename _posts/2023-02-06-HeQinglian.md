@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-02-08
+date: 2023-02-09
 from: https://twitter.com/HeQinglian/status/1622265773652680707
 layout: post
 tags:
@@ -237,7 +237,7 @@ Re @JianglinLi 拜登想挣回两次面子：<br>一是打气球——虽然迟�
 
 ### 56: [2023-02-07 23:17:23+08:00 推文](https://twitter.com/HeQinglian/status/1622977832128245763)
 
-Re @JianglinLi 我一直没弄明白，国务卿这个位置的高官出马，其实是诸事在略低层次的官员谈定各种协议后才出面，仪式性地敲定双方协约。<br>有什么事情非要当面谈，谈前还要向世界宣布：我要给中国划条红线、带去警告，让北京在俄罗斯问题上不要乱说乱动？<br>中国政府早就放弃轁光养晦，露出牙齿与爪子了。
+RT He Qinglian<br>Re @JianglinLi 我一直没弄明白，国务卿这个位置的高官出马，其实是诸事在略低层次的官员谈定各种协议后才出面，仪式性地敲定双方协约。<br>有什么事情非要当面谈，谈前还要向世界宣布：我要给中国划条红线、带去警告，让北京在俄罗斯问题上不要乱说乱动？<br>中国政府早就放弃轁光养晦，露出牙齿与爪子了。
 
 ### 57: [2023-02-07 23:36:43+08:00 推文](https://twitter.com/HeQinglian/status/1622982700234678272)
 
@@ -434,4 +434,24 @@ Re @Wu_Zhi 马克思的徒子徒孙，一预测就是几百年，未来社会。
 ### 105: [2023-02-08 22:40:25+08:00 推文](https://twitter.com/HeQinglian/status/1623330919653289986)
 
 Re @mingshi_chen @dinglili7 你真错了，最近几个月，双方都已经表明，这是一场文化战争。
+
+### 106: [2023-02-09 01:12:45+08:00 推文](https://twitter.com/HeQinglian/status/1623369252433534976)
+
+Re @mengyan1234567 有出有进，进得更多。这点只要看分类项目就知。
+
+### 107: [2023-02-09 01:15:55+08:00 推文](https://twitter.com/HeQinglian/status/1623370052291502081)
+
+这条消息表明了德国追随美国打击俄罗斯的决心，虽然炸管道造成了天然气供应困难，但与敌同死的决心使德国大度地不计较盟国大哥不事先征求意见的作为。<br>更何况最初的责难全由疑似坏蛋俄罗斯承受。<br>😅😅<div class="rsshub-quote"><br><br>🇷🇺 🅉 俄乌局势: 美国著名记者西摩·赫什称，“北溪”管道的炸药是美国潜水员于2022年6月埋下的。<br>“去年夏天，海军潜水员在被称为 Baltops 22 的北约演习的掩护下，放置了遥控爆炸装置，三个月后摧毁了北溪四条管道中的三条，”赫什引用消息来源写道。<br>据他说，9 月 26 日，一架挪威海军飞机投下了一个声纳浮标，引爆了炸弹<br><br><img style="" src="https://pbs.twimg.com/media/Foc7TPsaUAAEz57?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 108: [2023-02-09 01:39:55+08:00 推文](https://twitter.com/HeQinglian/status/1623376089828495392)
+
+除了这两条：<br>【冯德莱恩：“乌克兰女人卖淫是通往贞洁之路？”<br>拜登：“我搞家庭乱伦是通往崇高的道德伦理之路？”】<br>其余的都实现了。BTW，奥巴马任上说过“变性人是上帝按自己模样创造的美好形象，拜登后来只是学舌”。<br>要出处，我会提供，只要提出要求的有礼貌。<div class="rsshub-quote"><br><br>🇷🇺 🅉 俄乌局势: 改自网友：<br>北约秘书长斯托尔滕贝格：“向基辅提供武器是通往和平的捷径。”<br>欧盟外事负责人博雷尔：“欧盟对俄罗斯媒体的禁令是保护言论自由。”<br>下一个是谁？<br>冯德莱恩：“乌克兰女人卖淫是通往贞洁之路？”<br>拜登：“我搞家庭乱伦是通往崇高的道德伦理之路？”<br>奥巴马：“不分性别，LGBTQ是通往人类进步之路”<br><br><img style="" src="https://pbs.twimg.com/media/FocQ9meaAAIcgaq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FocRTYYaMAAV7UT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 109: [2023-02-09 01:50:04+08:00 推文](https://twitter.com/NAConservative9/status/1623378646391001126)
+
+RT 北美保守评论🇺🇸🇨🇦<br>《乔·拜登在国情咨文中撒的15个弥天大谎》<br><br>他试图让美国人相信，我们的联邦目前的状态 —— 被通货膨胀所削弱，被毒品和南部边境走私的移民所泛滥，在左翼肆虐所煽动的一场使国家衰弱的文化战争中 —— 并没有陷入困境。 <a href="https://nacr.info/WordPress/index.php/2023/02/08/15-whoppers-joe-biden-told-during-the-state-of-the-union-address/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2023/02/08/15-whoppers-joe-biden-told-during-the-state-of-the-union-address/</a><br><img style="" src="https://pbs.twimg.com/media/Fodl0_NXEA00bFD?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 110: [2023-02-09 01:59:47+08:00 推文](https://twitter.com/HeQinglian/status/1623381088402808841)
+
+Re @NAConservative9 话说，这本来就是左派希望追求多年、不惜在大街撒泼打滚抢劫盗选谋来的盛世，他们为什么要认为是危机？
 
