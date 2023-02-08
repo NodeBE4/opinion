@@ -37,7 +37,7 @@ Re 任先生认为习不在乎中国经济，不在乎十多亿人的生计活�
 
 ### 6: [2022-07-04 21:07:21+08:00 推文](https://twitter.com/realcaixia/status/1543944554302275588)
 
-我理解乐乐法利的感受，转发乐乐法利这个推文以表支持。乐乐法利对中国的观察分析很犀利，并且用他丰富想像力和巨大创造性来表达他的观察思考，他的真诚与热情都令人钦佩与感动。<br>中国与西方的文明发育水平差距至少200年，尊重保护知识产权的社会意识相当薄弱，甚至有些人或许没有知识产权概念。
+我理解乐乐法利的感受，转发乐乐法利这个推文以表支持。乐乐法利对中国的观察分析很犀利，并且用他丰富想像力和巨大创造性来表达他的观察思考，他的真诚与热情都令人钦佩与感动。<br>中国与西方的文明发育水平差距至少200年，尊重保护知识产权的社会意识相当薄弱，甚至有些人或许没有知识产权概念。<br><br>LeLeFarley 乐乐法利: 我花了很多时间把这个视频做出来，结果被@Sophia36982957 直接搬到她的推特上，没有我的授权，没有第一时间贴上油管链接，也没有at我。我自己为这个视频付出了几十个小时的劳动力，被人花三分钟占尽便宜，油管原视频却毫无热度<br>I’m taking a break. 今天真的很失望<br><br><video src="https://video.twimg.com/ext_tw_video/1543652048486498310/pu/vid/1280x720/mYOTokGzaLUAUOjP.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1543652048486498310/pu/img/gBXd1ixn5MgvLfhD.jpg"></video> <a href="https://youtu.be/VGwQFKNgD7M" target="_blank" rel="noopener noreferrer">https://youtu.be/VGwQFKNgD7M</a>
 
 ### 7: [2022-07-05 02:24:05+08:00 推文](https://twitter.com/realcaixia/status/1544024263111446529)
 
@@ -65,7 +65,7 @@ Re 请听范畴先生的分析。这是目前对中共政治分析最具有深�
 
 ### 13: [2022-07-07 16:33:30+08:00 推文](https://twitter.com/realcaixia/status/1544962799331430400)
 
-大陆这块土地已经成了一个被极端邪恶绑架的无人伦道德底线的炼狱，容不得一句真话，容不得理性思考，容不得现代文明观念。这块土地上的10后、20后的孩子将会长成什么样的几代人？不敢想。<br><br>Jacobson🌎🌸贴贴BOT: 最新消息：那位发文章说屈原是忠君爱国的自杀者，教孩子们不要以身殉国、要珍爱生命的教育厅厅长，因涉嫌“违法犯罪”，被移交有关部门处理了。说真话的代价是如此之大，难以承受。<br><br><img style="" src="https://pbs.twimg.com/media/FW8zRoGUIAA7LL9?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FW8zSSCUcAAVzc4?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+大陆这块土地已经成了一个被极端邪恶绑架的无人伦道德底线的炼狱，容不得一句真话，容不得理性思考，容不得现代文明观念。这块土地上的10后、20后的孩子将会长成什么样的几代人？不敢想。
 
 ### 14: [2022-07-07 20:37:51+08:00 推文](https://twitter.com/realcaixia/status/1545024293330993152)
 
@@ -85,7 +85,7 @@ Re 这三场人祸是全民受害，必上史书；还有许多局部人祸，�
 
 ### 18: [2022-07-09 21:09:39+08:00 推文](https://twitter.com/realcaixia/status/1545757071169167361)
 
-科学创新与技术进步本身无所谓善与恶，而是在什么制度条件下，被谁掌控和所用，就会显示出极端的善恶两极。
+科学创新与技术进步本身无所谓善与恶，而是在什么制度条件下，被谁掌控和所用，就会显示出极端的善恶两极。<br><br>鲁  难: 数据技术的进步不仅没有使中国人获得自由，反而陷入更加严酷的禁锢之中。<br> <a href="https://twitter.com/rfa_chinese/status/1545432275004833792" target="_blank" rel="noopener noreferrer">https://twitter.com/rfa_chinese/status/1545432275004833792</a>
 
 ### 19: [2022-07-09 21:19:49+08:00 推文](https://twitter.com/realcaixia/status/1545759631246598147)
 
@@ -93,7 +93,7 @@ Re 这三场人祸是全民受害，必上史书；还有许多局部人祸，�
 
 ### 20: [2022-07-10 06:00:48+08:00 推文](https://twitter.com/realcaixia/status/1545890740814991361)
 
-唐山师范学院处理退休教师，请问是甘于堕落为无良知反文明的极权帮凶吗？！退休教授网上发言要被处罚，不仅显示中国现在言论自由没有任何空间，而且还不允许人们坚守良知，非要把人逼成邪恶暴力的鼓吹者。這樣的師範學院究竟以什么作“為人师表”的准则？！
+唐山师范学院处理退休教师，请问是甘于堕落为无良知反文明的极权帮凶吗？！退休教授网上发言要被处罚，不仅显示中国现在言论自由没有任何空间，而且还不允许人们坚守良知，非要把人逼成邪恶暴力的鼓吹者。這樣的師範學院究竟以什么作“為人师表”的准则？！<br><br>ZHANGDONG: 安倍遇刺身亡，几家欢喜几家愁！<br>唐山师院退休教师石文瑛被立专项调查，据说只因为发表了“错误言论”，还将被“依法依规严肃处理”。她到底说了什么？请看下面新浪新闻的截图👇<br>也不知批评国民劣根性触犯了哪条法规？鲁迅若还活在当世，估计早就被严肃处理好几回了。如今还让人说话不？！<br><br><img style="" src="https://pbs.twimg.com/media/FXPq0tdXwAAUKWl?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FXPq073XgAA2NeC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FXPq1LjWAAA8p-k?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 21: [2022-07-10 21:32:15+08:00 推文](https://twitter.com/realcaixia/status/1546125148075528193)
 
