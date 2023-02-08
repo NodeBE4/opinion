@@ -455,3 +455,23 @@ RT 北美保守评论🇺🇸🇨🇦<br>《乔·拜登在国情咨文中撒�
 
 Re @NAConservative9 话说，这本来就是左派希望追求多年、不惜在大街撒泼打滚抢劫盗选谋来的盛世，他们为什么要认为是危机？
 
+### 111: [2023-02-09 04:33:29+08:00 推文](https://twitter.com/HeQinglian/status/1623419769557852161)
+
+共和党的教养还是强出不少，对比波洛希撕毁川普的国情咨文。据说出身富人之家，行为堪比AOC那街区长大之人。<div class="rsshub-quote"><br><br>东七区无面者FacelessMen: 感受一下美国两党现在的撕裂程度，拜登在前面放，后面只有哈里斯假装鼓掌示意，麦卡锡根本听都不带听的回去就发twitter骂拜登。<br><br><video src="https://video.twimg.com/ext_tw_video/1623162272066703360/pu/vid/1280x720/jZZ2BGghh-PT-zeH.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1623162272066703360/pu/img/nht24CLiapyHdh2k.jpg"></video></div>
+
+### 112: [2023-02-09 04:53:21+08:00 推文](https://twitter.com/HeQinglian/status/1623424771504447488)
+
+Re @ElaineYuMuMu @shenliangqing2 知道。<br>但你能否认大部分谈的是人间伦理及基于伦理的秩序么？<br>无非是人的家庭关系、人与社群的关系、人与神的关系。本来产生于人间，用了神的名义规范。<br>希望你们的神能够拯救当今世界，不过，还是让西方的基督教先拒绝LGBTQI等吧<br>儒家学说少了人与神的关系，所谓“天道”，不是神。<br>神学著作我读过不少
+
+### 113: [2023-02-09 04:53:41+08:00 推文](https://twitter.com/HeQinglian/status/1623424854195113989)
+
+Re @chinglish2012 @shenliangqing2 去读李泽厚的三论吧。
+
+### 114: [2023-02-09 04:55:14+08:00 推文](https://twitter.com/HeQinglian/status/1623425243938258944)
+
+Re @Wu_Zhi 在美国，威尔逊总统对内建立行政国家，对外谈国际主义（放弃华盛顿光荣孤立），称之为“美国二次革命”，第一次是独立战争。
+
+### 115: [2023-02-09 05:01:00+08:00 推文](https://twitter.com/HeQinglian/status/1623426694148227072)
+
+Re @Vince6610 这已经算有保留了，人家没说这是Political Wisdom.如果中文好，就送上“大智大勇”四字。
+
