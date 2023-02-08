@@ -51,3 +51,7 @@ Re LT视界这期节目，集中两个问题：1，美击落中共高空间谍�
 
 人们一旦不再恐惧了，勇敢表达意愿的人将会越来越多。<div class="rsshub-quote"><br><br>自由亚洲电台: 【#武汉 万人市府集会】<br>【医药补贴缩减 抗议者呛:太不像话了!】<br>武汉市上万名退休人员本周三（8日）聚集在市政府门前请愿，要求政府官员公开解释为何将每月两百六十多元的医药补贴，降至数十元。集会者称，全市近两百万名退休工人受此影响，倘若政府不解决问题，定于本月15日举行更大规模的抗议。<br><br><video src="https://video.twimg.com/ext_tw_video/1623238587117608960/pu/vid/720x720/VhBMRaKRGO6lLTJc.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1623238587117608960/pu/img/VW24YE1fRsYvLarQ.jpg"></video></div>
 
+### 10: [2023-02-08 17:42:35+08:00 推文](https://twitter.com/realcaixia/status/1623255964081172486)
+
+好诗！<div class="rsshub-quote"><br><br>高瑜: 【季風的癸卯年】從除夕到初六，六四學生領袖、詩人季風天天收到電話騷擾，讓閉嘴、刪貼。長假過後繼續不讓涉及“白紙運動”和胡鑫宇案，元宵節竟然登門談話。詩人憤怒，連夜做詩，因為詩中有“流浪氣球”和“兩根鞋帶”，有司竟然又兩次登門，讓即刪詩，詩人不從，此事還沒完。<br></div>
+
