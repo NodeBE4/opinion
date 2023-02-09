@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2023-02-08
+date: 2023-02-10
 from: https://old.reddit.com/r/geopolitics/comments/10v8f1d/how_russia_decides_to_go_nuclear_deciphering_the/
 layout: post
 tags:
@@ -48,4 +48,16 @@ Once home, the two Americans informed U.S. President Joe Biden that Moscow had m
 These strengths were substantial. Before the invasion, Russia’s military was larger and better equipped than Ukraine’s. Its forces had more combat experience than did Kyiv’s, even though both had fought in Ukraine’s eastern territories. Most Western analysts therefore assumed that if Russian forces used their advantages wisely, the Ukrainians could not withstand the attack for long.
 
 Why Russia did not prevail—why it was instead stopped in its tracks, routed outside major cities, and put on the defensive—has become one of the most important questions in both U.S. foreign policy and international security more broadly. The answer has many components. The excessive internal secrecy gave troops and commanders little time to prepare, leading to heavy losses. Russia created an invasion plan that was riddled with faulty assumptions, arbitrary political guidance, and planning errors that departed from key Russian military principles. The initial invasion called for multiple lines of attack with no follow-on force, tethering the military to operational objectives that were overly ambitious for the size of its forces. And the Kremlin erroneously believed that its war plans were sound, that Ukraine would not put up much resistance, and that the West’s support would not be strong enough to make a difference. As a result, Russia was shocked when its troops ran into a determined Ukraine backed by Western intelligence and weapons. Russian forces were then repeatedly beaten.
+
+### 350: [Out of Alignment: What the War in Ukraine Has Revealed About Non-Western Powers](https://old.reddit.com/r/geopolitics/comments/10y5226/out_of_alignment_what_the_war_in_ukraine_has/), submitted on 2023-02-10 04:20:34+08:00.
+
+----- __350.1__ -----2023-02-10 04:21:49+08:00:
+
+**From Shivshankar Menon:** For the past year, many Western analysts have regarded the war in Ukraine as marking a turning point in geopolitics, bringing together not only the United States and its NATO allies but also a broader liberal coalition to counter Russian aggression. In this view, countries around the world should naturally support the West in this defining contest between democracy and autocracy.
+
+Beyond the borders of North America and Europe, however, the past 12 months have looked very different. At the outset of the war, numerous countries in the global South identified with neither the West nor Russia. Several dozen—including such large democracies as India, Indonesia, and South Africa, as well as numerous other countries in Africa—abstained from resolutions condemning Russia at the UN General Assembly and in the UN Human Rights Council. Many of them have also been reluctant to formally adopt the West’s economic sanctions against Russia while respecting them in practice, and as the war has unfolded, some of them have sought to maintain relations with Russia as much as with the West.
+
+Moreover, in many parts of the world, the most crucial issues of 2022 had little to do with the war in Ukraine. Emerging from the havoc of the pandemic and confronted by far-reaching challenges ranging from debt crises to a slowing world economy to climate change, many developing countries have been alienated by what they view as the self-absorption of the West and of China and Russia. For them, the war in Ukraine is about the future of Europe, not the future of the world order, and the war has become a distraction from the more pressing global issues of our time.
+
+Yet despite this disillusionment, a coherent third way, a clear alternative to current great-power rivalry, has yet to emerge. Instead, these countries have sought to work with present realities, respecting Western sanctions on Russia, for instance, in an international system that no longer inspires much faith in its relevance to their security and economic concerns. In this sense, for many parts of the globe, a year of war in Ukraine has done less to redefine the world order than to set it further adrift, raising new questions about how urgent transnational challenges can be met.
 
