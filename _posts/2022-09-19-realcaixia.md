@@ -73,7 +73,7 @@ Re 只有阻止习连任，中国人才有逐步恢复生计，为经济发展�
 
 ### 15: [2022-09-24 05:11:15+08:00 推文](https://twitter.com/realcaixia/status/1573419749731872768)
 
-布林肯这句话真是经典！同理，对于极权统治，也是一样。<br><br>荣剑: 对于侵略者，停止抵抗就是投降，绝不能当投降者！<br>
+布林肯这句话真是经典！同理，对于极权统治，也是一样。<br><br>荣剑: 对于侵略者，停止抵抗就是投降，绝不能当投降者！<br> <a href="https://twitter.com/NiKiTa_32156/status/1573239000944500738" target="_blank" rel="noopener noreferrer">https://twitter.com/NiKiTa_32156/status/1573239000944500738</a>
 
 ### 16: [2022-09-24 05:51:25+08:00 推文](https://twitter.com/realcaixia/status/1573429857647988736)
 
