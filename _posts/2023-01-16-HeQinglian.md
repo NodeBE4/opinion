@@ -197,7 +197,7 @@ Re @RalphBei 白人确实成为一个种族了，CRT理论批判白人种族主�
 
 ### 46: [2023-01-19 02:16:32+08:00 推文](https://twitter.com/Joshua23C/status/1615775161277624321)
 
-RT Joshua.C<br>如果想毁掉一个国家的工业，那就给它输出工会运动和环保主义；毁掉本土人口，就输出女权主义和全球主义；毁掉民族文化，就输出多元文化主义；毁掉传统价值，就输出自由主义；毁掉责权对等的社会秩序，就输出民主主义。如果一个不够，那就多来几个。
+RT Joshua<br>如果想毁掉一个国家的工业，那就给它输出工会运动和环保主义；毁掉本土人口，就输出女权主义和全球主义；毁掉民族文化，就输出多元文化主义；毁掉传统价值，就输出自由主义；毁掉责权对等的社会秩序，就输出民主主义。如果一个不够，那就多来几个。
 
 ### 47: [2023-01-19 04:52:24+08:00 推文](https://twitter.com/HeQinglian/status/1615814383510163472)
 
@@ -413,7 +413,7 @@ Re @Yjll95699445 Up to you. 你高兴就行——挺合推名。
 
 ### 100: [2023-01-20 22:38:57+08:00 推文](https://twitter.com/HeQinglian/status/1616445181116702720)
 
-有两个产业应该废止，一是器官移植，二是变性。<br>前一个导致无数人莫名死亡，后一个让人活成废料。<div class="rsshub-quote"><br><br>韦石 watson Meng of Farm Direct: 割取買賣器官不只是利益鏈，是產業鏈。和中央領導家族有關的產業鏈。<br> <a href="https://twitter.com/uyunistar/status/1616155368945750017" target="_blank" rel="noopener noreferrer">https://twitter.com/uyunistar/status/1616155368945750017</a></div>
+有两个产业应该废止，一是器官移植，二是变性。<br>前一个导致无数人莫名死亡，后一个让人活成废料。<div class="rsshub-quote"><br><br>韦石 watson Meng of Farm Direct: 割取買賣器官不只是利益鏈，是產業鏈。和中央領導家族有關的產業鏈。<br></div>
 
 ### 101: [2023-01-20 22:45:00+08:00 推文](https://twitter.com/HeQinglian/status/1616446703879745537)
 
