@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-02-09
+date: 2023-02-10
 from: https://old.reddit.com/r/HobbyDrama/comments/10unm05/hobby_scuffles_week_of_february_5_2023/
 layout: post
 tags:
@@ -63,9 +63,15 @@ For questions of this type, we ask that you redirect them to more appropriate su
 
 Muskets rather than rifles, one would have thought.
 
-### 1095: [In large parts of Chinese history, China has been united but then it falls and fractures again. So were the several rises and falls of disparate Chinese dynasties one continuous state evolution or can they be treated as rise of different empires just happening to lie in the same geographical region?](https://old.reddit.com/r/AskHistorians/comments/10wj2lk/in_large_parts_of_chinese_history_china_has_been/), submitted on 2023-02-08 09:12:21+08:00.
+### 1095: [Dark Darker Darkest - Weekly Discussion Thread, Feb 6th, 2023](https://old.reddit.com/r/VirtualYoutubers/comments/10vatwp/dark_darker_darkest_weekly_discussion_thread_feb/), submitted on 2023-02-07 00:26:14+08:00.
 
------ __1095.1__ -----2023-02-09 06:16:53+08:00:
+----- __1095.1__ -----2023-02-10 06:14:39+08:00:
+
+Oh yes, absolutely. I remember virtually nothing of it but Yogscast defined a decent chunk of my tweens and early teens.
+
+### 1096: [In large parts of Chinese history, China has been united but then it falls and fractures again. So were the several rises and falls of disparate Chinese dynasties one continuous state evolution or can they be treated as rise of different empires just happening to lie in the same geographical region?](https://old.reddit.com/r/AskHistorians/comments/10wj2lk/in_large_parts_of_chinese_history_china_has_been/), submitted on 2023-02-08 09:12:21+08:00.
+
+----- __1096.1__ -----2023-02-09 06:16:53+08:00:
 
 So, there are any number of perspectives on this, but to lay out my *own* position, informed by my familiarity primarily with Qing scholarship, it is better to conceive of imperial China as comprising a contiguous set of political traditions claimed by a variety of non-consecutive states, rather than as a singular polity whose mantle passed between ruling families.
 
@@ -90,29 +96,39 @@ Even then, relics of that political division survive in modern English. The term
 
 Finally we just need to talk about the nomenclature here. There is no Chinese word that maps onto the same variety of meanings encompassed by the English word 'China'; or, to put it another way, the English word 'China' is used to encompass a variety of meanings that exist as individual terms in Chinese, if they even do at all. Paradoxically, this flexibility is at times deliberately reabsorbed and appropriated by the more nationalistic strand of Chinese historians to argue that if a particular empire had *a* concept of a 'China' in some way, that it must therefore have been the *same* concept of China as used today. But even the term *Zhongguo* 中國, the closest analogue to 'China' that exists in Chinese, has had a variety of meanings over time. When first coined in the Warring States period, it was a plural meaning 'the central state**s**' that referred to the collective of the states that nominally recognised Zhou hegemony, or it was used in the singular to refer specifically to the Zhou as the nominal hegemon. Sometimes it was used to refer to a space defined by cultural cachet, at others to state boundaries. The Ming would use *Zhongguo* to denote a geographical region that we might term 'China proper', while excluding their outer imperial holdings, but the Qing used it more generally to refer to all of the territory under their rule. These are all different uses of the term *Zhongguo*, and its reuse over time is not in itself fundamentally convincing as to state continuity, especially when not all states agreed on what territory the term encompassed. Indeed, one thing to note is that the use of *Zhongguo* to describe the whole territory of a state may well be a Manchu calque: *dulimba-i gurun*, 'central polity', is a term with distinct Khitan and Jurchen precedents, and may have influenced *Zhongguo* rather than the other way around. Moreover, that these states did *not* simply reuse a shared term for their own territorial scope is indicative of the genuine notion that these were different empires. Empires with some shared political traditions, and overlapping territory, but nevertheless different.
 
------ __1095.2__ -----2023-02-09 06:20:21+08:00:
+----- __1096.2__ -----2023-02-09 06:20:21+08:00:
 
 If you want a perspective from someone with a bit more scholarly training and expertise, I'd recommend a read of [this 2008 open-access article by Peter Perdue](https://worldhistoryconnected.press.uillinois.edu/5.2/perdue.html), who covers many of the issues I do here but with a great deal more eloquence and concision. Nevertheless I hope the above has been at least decently thought-provoking.
 
------ __1095.3__ -----2023-02-09 10:33:55+08:00:
+----- __1096.3__ -----2023-02-09 10:33:55+08:00:
 
 And you presume correctly!
 
-### 1096: [NIJISANJI’s Zaion LanZa Has Been Suspended](https://old.reddit.com/r/VirtualYoutubers/comments/10wv0df/nijisanjis_zaion_lanza_has_been_suspended/), submitted on 2023-02-08 20:06:27+08:00.
+### 1097: [NIJISANJI’s Zaion LanZa Has Been Suspended](https://old.reddit.com/r/VirtualYoutubers/comments/10wv0df/nijisanjis_zaion_lanza_has_been_suspended/), submitted on 2023-02-08 20:06:27+08:00.
 
------ __1096.1__ -----2023-02-09 00:25:44+08:00:
+----- __1097.1__ -----2023-02-09 00:25:44+08:00:
 
 ...***yikes***
 
-### 1097: [Alexander the Great was likely buried alive. His body didn’t decompose until six days after his declared “death.” It’s theorized he suffered from Gillian-Barre Syndrome (GBS), leaving one completely paralyzed but yet of sound mind and consciousness.](https://old.reddit.com/r/Damnthatsinteresting/comments/10xhfim/alexander_the_great_was_likely_buried_alive_his/), submitted on 2023-02-09 09:29:51+08:00.
+### 1098: [Alexander the Great was likely buried alive. His body didn’t decompose until six days after his declared “death.” It’s theorized he suffered from Gillian-Barre Syndrome (GBS), leaving one completely paralyzed but yet of sound mind and consciousness.](https://old.reddit.com/r/Damnthatsinteresting/comments/10xhfim/alexander_the_great_was_likely_buried_alive_his/), submitted on 2023-02-09 09:29:51+08:00.
 
------ __1097.1__ -----2023-02-09 18:07:41+08:00:
+----- __1098.1__ -----2023-02-09 18:07:41+08:00:
 
 Huh. You'd think they'd also mention that Plutarch's source was the account of Eumenes' *brother*.
 
-### 1098: [Yep I i totally understand](https://old.reddit.com/r/Hololive/comments/10xop9z/yep_i_i_totally_understand/), submitted on 2023-02-09 15:31:25+08:00.
+### 1099: [Yep I i totally understand](https://old.reddit.com/r/Hololive/comments/10xop9z/yep_i_i_totally_understand/), submitted on 2023-02-09 15:31:25+08:00.
 
------ __1098.1__ -----2023-02-10 00:20:39+08:00:
+----- __1099.1__ -----2023-02-10 00:20:39+08:00:
 
 Don't forget the existence of a character of East Asian descent, Cho Chang, whose precise background is not stated (hence endless uncertainty over whether she's Chinese or Korean), and whose name sounds *at best* horrendously generic and *at worst* like it might have been a slightly altered racial slur.
+
+### 1100: [Can someone translate the instructions on this tea please?](https://old.reddit.com/r/ChineseTranslation/comments/10y81xh/can_someone_translate_the_instructions_on_this/), submitted on 2023-02-10 06:19:08+08:00.
+
+----- __1100.1__ -----2023-02-10 06:30:46+08:00:
+
+Hot: Pour the contents of one sachet into the cup. Directly add 200 mL of hot water and stir until even.
+
+Cold: First use 60 mL of hot water and stir until even, then add 140 mL of cold water or ice.
+
+Concentration can be to one's personal tastes, increase or reduce water accordingly.
 
