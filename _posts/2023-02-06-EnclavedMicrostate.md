@@ -110,3 +110,9 @@ And you presume correctly!
 
 Huh. You'd think they'd also mention that Plutarch's source was the account of Eumenes' *brother*.
 
+### 1098: [Yep I i totally understand](https://old.reddit.com/r/Hololive/comments/10xop9z/yep_i_i_totally_understand/), submitted on 2023-02-09 15:31:25+08:00.
+
+----- __1098.1__ -----2023-02-10 00:20:39+08:00:
+
+Don't forget the existence of a character of East Asian descent, Cho Chang, whose precise background is not stated (hence endless uncertainty over whether she's Chinese or Korean), and whose name sounds *at best* horrendously generic and *at worst* like it might have been a slightly altered racial slur.
+

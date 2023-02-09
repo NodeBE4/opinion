@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2023-02-07
+date: 2023-02-09
 from: https://twitter.com/nathanlawkc/status/1622962903262322693
 layout: post
 tags:
@@ -40,4 +40,8 @@ Re 8. Most of the defendants are my friends. They are activists, professors, vet
 ### 6: [2023-02-07 22:18:08+08:00 推文](https://twitter.com/nathanlawkc/status/1622962921553768449)
 
 Re The prison walls encompass them not because they've done anything wrong, but because the govt wanted them to be silenced. That's why we have to continue to voice for them. <br>@joshuawongcf @yttai @LesterShum @ChuHoiDick <br>#HongKong #Politicalprisoners<br>Photo: Nikkei Asia<br>-END
+
+### 7: [2023-02-09 23:56:28+08:00 推文](https://twitter.com/nathanlawkc/status/1623712442525130753)
+
+The names and faces we should remember.<br>#HongKong <br><br>The 47 Pro-Democracy Figures in Hong Kong’s Largest National Security Trial <a href="https://www.nytimes.com/interactive/2023/02/06/world/asia/hong-kong-47-democracy-trial.html?smid=tw-share" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/interactive/2023/02/06/world/asia/hong-kong-47-democracy-trial.html?smid=tw-share</a>
 
