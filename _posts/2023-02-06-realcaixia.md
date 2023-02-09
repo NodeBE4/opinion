@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2023-02-08
+date: 2023-02-10
 from: https://twitter.com/realcaixia/status/1622337053626097664
 layout: post
 tags:
@@ -53,5 +53,13 @@ Re LT视界这期节目，集中两个问题：1，美击落中共高空间谍�
 
 ### 10: [2023-02-08 17:42:35+08:00 推文](https://twitter.com/realcaixia/status/1623255964081172486)
 
-好诗！<div class="rsshub-quote"><br><br>高瑜: 【季風的癸卯年】從除夕到初六，六四學生領袖、詩人季風天天收到電話騷擾，讓閉嘴、刪貼。長假過後繼續不讓涉及“白紙運動”和胡鑫宇案，元宵節竟然登門談話。詩人憤怒，連夜做詩，因為詩中有“流浪氣球”和“兩根鞋帶”，有司竟然又兩次登門，讓即刪詩，詩人不從，此事還沒完。<br> <a href="https://twitter.com/jhf8964/status/1622383477823000577" target="_blank" rel="noopener noreferrer">https://twitter.com/jhf8964/status/1622383477823000577</a></div>
+好诗！<div class="rsshub-quote"><br><br>高瑜: 【季風的癸卯年】從除夕到初六，六四學生領袖、詩人季風天天收到電話騷擾，讓閉嘴、刪貼。長假過後繼續不讓涉及“白紙運動”和胡鑫宇案，元宵節竟然登門談話。詩人憤怒，連夜做詩，因為詩中有“流浪氣球”和“兩根鞋帶”，有司竟然又兩次登門，讓即刪詩，詩人不從，此事還沒完。<br></div>
+
+### 11: [2023-02-10 01:52:25+08:00 推文](https://twitter.com/realcaixia/status/1623741623715655680)
+
+越来越多的民众敢于共同表达自己的意愿，这表明当局的高压恐怖统治越来越难以维持。<br>习上台十年，耗尽中国人30多年积累的财富。习为对外扩张和权贵洗钱而大撒币；对内为维持政权和他团伙安全，把越来越多的钱用于欺骗宣传、监视民众、增加警力；现在又借医保改革之名明抢大众的血汗钱。必须追责习当局<div class="rsshub-quote"><br><br>MilesYu 余茂春: 中国人民是惹不得的，如果惹翻了，是不好办的。                 Arise, those who refuse to be slaves!—-Wuhan citizens peacefully protesting govt plan to drastically cut health care subsidies.<br> <a href="https://twitter.com/i/web/status/1623703203366805505" target="_blank" rel="noopener noreferrer">https://twitter.com/i/web/status/1623703203366805505</a></div>
+
+### 12: [2023-02-10 02:33:35+08:00 推文](https://twitter.com/realcaixia/status/1623751985798471681)
+
+香港司法越来越靠拢中国内地司法，法治香港已不在。内地司法是中共极权统治的工具，现在香港司法也同样是中共极权统治延伸至香港的罪恶之手。<div class="rsshub-quote"><br><br>《议报》: 【译丛】香港对民主初选的审判揭示了一个黑暗的真相<br> <a href="https://yibaochina.com/?p=249423" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=249423</a></div>
 
