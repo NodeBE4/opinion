@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-02-08
+date: 2023-02-09
 from: https://old.reddit.com/r/HobbyDrama/comments/10unm05/hobby_scuffles_week_of_february_5_2023/
 layout: post
 tags:
@@ -103,4 +103,10 @@ And you presume correctly!
 ----- __1096.1__ -----2023-02-09 00:25:44+08:00:
 
 ...***yikes***
+
+### 1097: [Alexander the Great was likely buried alive. His body didn’t decompose until six days after his declared “death.” It’s theorized he suffered from Gillian-Barre Syndrome (GBS), leaving one completely paralyzed but yet of sound mind and consciousness.](https://old.reddit.com/r/Damnthatsinteresting/comments/10xhfim/alexander_the_great_was_likely_buried_alive_his/), submitted on 2023-02-09 09:29:51+08:00.
+
+----- __1097.1__ -----2023-02-09 18:07:41+08:00:
+
+Huh. You'd think they'd also mention that Plutarch's source was the account of Eumenes' *brother*.
 
