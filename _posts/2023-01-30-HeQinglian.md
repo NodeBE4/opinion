@@ -777,7 +777,7 @@ Re @Lucs24659702 有此果，查其因，因由自种。
 
 ### 191: [2023-02-05 09:44:14+08:00 推文](https://twitter.com/zhixiangziyou/status/1622048420809539584)
 
-RT L JM🇺🇸<br>拜登作为总司令彻底失败了。他没有保护我们的南部边界，他从阿富汗撤军是一场彻头彻尾的灾难，他的软弱导致了乌克兰的战争，现在共产主义间谍气球在我们的天空中自由飞翔。历史上最糟糕的总司令。<div class="rsshub-quote"><br><br>First Words: @GenFlynn @elonmusk @VP @JoeBiden Biden has utterly failed as commander-in-chief. He hasn’t protected our southern border, his withdrawal from Afghanistan was an unmitigated disaster, his weakness led to war in Ukraine and now a communist spy balloon freely flies our skies. Worst commander-in-chief in history.<br></div>
+RT L JM🇺🇸<br>拜登作为总司令彻底失败了。他没有保护我们的南部边界，他从阿富汗撤军是一场彻头彻尾的灾难，他的软弱导致了乌克兰的战争，现在共产主义间谍气球在我们的天空中自由飞翔。历史上最糟糕的总司令。
 
 ### 192: [2023-02-05 10:37:20+08:00 推文](https://twitter.com/HeQinglian/status/1622061785950871555)
 
