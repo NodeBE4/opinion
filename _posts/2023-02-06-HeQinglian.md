@@ -233,11 +233,11 @@ Re @runrunalong 先打招呼，让其停下来。😅告诉澳政府：上次中
 
 ### 55: [2023-02-07 23:10:24+08:00 推文](https://twitter.com/HeQinglian/status/1622976073733402624)
 
-Re @JianglinLi 拜登想挣回两次面子：<br>一是打气球——虽然迟了几天，但几天前就做了决定，况且川普时期气球来过三回（无时间、地点与纪录，说来了就来了），全世界五大洲都遇到中国气球舰队，就我拜登敢打。<br>二是敢给中国政府划道道，不许援俄，不能反美国制裁，否则你看着办。<br>内里：求求你，赶紧让布林肯去北京。
+RT He Qinglian<br>Re @JianglinLi 拜登想挣回两次面子：<br>一是打气球——虽然迟了几天，但几天前就做了决定，况且川普时期气球来过三回（无时间、地点与纪录，说来了就来了），全世界五大洲都遇到中国气球舰队，就我拜登敢打。<br>二是敢给中国政府划道道，不许援俄，不能反美国制裁，否则你看着办。<br>内里：求求你，赶紧让布林肯去北京。
 
 ### 56: [2023-02-07 23:17:23+08:00 推文](https://twitter.com/HeQinglian/status/1622977832128245763)
 
-Re @JianglinLi 我一直没弄明白，国务卿这个位置的高官出马，其实是诸事在略低层次的官员谈定各种协议后才出面，仪式性地敲定双方协约。<br>有什么事情非要当面谈，谈前还要向世界宣布：我要给中国划条红线、带去警告，让北京在俄罗斯问题上不要乱说乱动？<br>中国政府早就放弃轁光养晦，露出牙齿与爪子了。
+RT He Qinglian<br>Re @JianglinLi 我一直没弄明白，国务卿这个位置的高官出马，其实是诸事在略低层次的官员谈定各种协议后才出面，仪式性地敲定双方协约。<br>有什么事情非要当面谈，谈前还要向世界宣布：我要给中国划条红线、带去警告，让北京在俄罗斯问题上不要乱说乱动？<br>中国政府早就放弃轁光养晦，露出牙齿与爪子了。
 
 ### 57: [2023-02-07 23:36:43+08:00 推文](https://twitter.com/HeQinglian/status/1622982700234678272)
 
@@ -457,7 +457,7 @@ Re @NAConservative9 话说，这本来就是左派希望追求多年、不惜在
 
 ### 111: [2023-02-09 04:33:29+08:00 推文](https://twitter.com/HeQinglian/status/1623419769557852161)
 
-共和党的教养还是强出不少，对比波洛希撕毁川普的国情咨文。据说出身富人之家，行为堪比AOC那街区长大之人。<div class="rsshub-quote"><br><br>东七区无面者FacelessMen: 感受一下美国两党现在的撕裂程度，拜登在前面放，后面只有哈里斯假装鼓掌示意，麦卡锡根本听都不带听的回去就发twitter骂拜登。<br><br><video src="https://video.twimg.com/ext_tw_video/1623162272066703360/pu/vid/1280x720/jZZ2BGghh-PT-zeH.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1623162272066703360/pu/img/nht24CLiapyHdh2k.jpg"></video> <a href="https://twitter.com/harry_shosta/status/1623160605506166784" target="_blank" rel="noopener noreferrer">https://twitter.com/harry_shosta/status/1623160605506166784</a></div>
+共和党的教养还是强出不少，对比波洛希撕毁川普的国情咨文。据说出身富人之家，行为堪比AOC那街区长大之人。<div class="rsshub-quote"><br><br>东七区无面者FacelessMen: 感受一下美国两党现在的撕裂程度，拜登在前面放，后面只有哈里斯假装鼓掌示意，麦卡锡根本听都不带听的回去就发twitter骂拜登。<br><br><video src="https://video.twimg.com/ext_tw_video/1623162272066703360/pu/vid/1280x720/jZZ2BGghh-PT-zeH.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1623162272066703360/pu/img/nht24CLiapyHdh2k.jpg"></video></div>
 
 ### 112: [2023-02-09 04:53:21+08:00 推文](https://twitter.com/HeQinglian/status/1623424771504447488)
 
@@ -486,4 +486,44 @@ Re @ElaineYuMuMu @shenliangqing2 去看看这位 @linbibing139 ，成天无端�
 ### 118: [2023-02-09 10:13:16+08:00 推文](https://twitter.com/HeQinglian/status/1623505279349399553)
 
 Re @shenliangqing2 这位就不用争了。<br>2020大选，76天政变之说，文章发给他，人家还辨半天，劲很大。
+
+### 119: [2023-02-09 22:16:31+08:00 推文](https://twitter.com/HeQinglian/status/1623687289653153792)
+
+Re @shenliangqing2 思想偷懒者，又想占据道德或其他优势，就开始说神，称自己是某信徒。<br>建议他们要么找同信仰者切磋，要么去征讨异教徒。连Sin与Crime都分不清，成天说只人有罪。<br>确实让人烦透。
+
+### 120: [2023-02-09 22:22:02+08:00 推文](https://twitter.com/HeQinglian/status/1623688679498694656)
+
+Re @KELMAND1 记得上次因欠巨额费用被停用，马斯克成了西方公敌。
+
+### 121: [2023-02-09 22:58:41+08:00 推文](https://twitter.com/HeQinglian/status/1623697901019885571)
+
+文章让我想起关于GDP的一个笑话：<br>先拉一泡屎在地上，说创造了GDP；然后再雇人铲除 ，再次创造GDP。<br>几个要点值得介绍：<br>【我是一名酷儿女性，在政治上属于桑德斯左派。我的世界观深深地塑造了我的职业生涯。 我一直在为弱势群体提供咨询服务：寄养儿童、性少数群体和穷人。】<div class="rsshub-quote"><br><br>李江琳: @HeQinglian @david_david1968 @ngexp @Wu_Zhi<br> <a href="https://www.thefp.com/p/i-thought-i-was-saving-trans-kids" target="_blank" rel="noopener noreferrer">https://www.thefp.com/p/i-thought-i-was-saving-trans-kids</a></div>
+
+### 122: [2023-02-09 23:00:23+08:00 推文](https://twitter.com/HeQinglian/status/1623698331053568003)
+
+Re 【在近四年的时间里，我在华盛顿大学医学院传染病科工作，与 HIV 阳性的青少年一起工作。 他们中的许多人是Trans或其他性别不合格者，我可以理解：在童年和青春期，我对自己进行了很多性别质疑。 我现在嫁给了一个跨性别男人，我们一起抚养前一段婚姻中的两个亲生孩子和三个我们希望收养的寄养孩子】
+
+### 123: [2023-02-09 23:01:00+08:00 推文](https://twitter.com/HeQinglian/status/1623698484581761029)
+
+Re 【所有这些让我在 2018 年找到了一份工作，在圣路易斯儿童医院的华盛顿大学跨性别中心担任个案经理，该中心成立于一年前。<br>一些评论家将我工作的跨性别中心等地方提供的治疗描述为一种全国性实验。 但那是错误的。】
+
+### 124: [2023-02-09 23:01:30+08:00 推文](https://twitter.com/HeQinglian/status/1623698611967086592)
+
+Re 【实验应该经过精心设计。 假设应该在道德上得到检验。 我在跨性别中心共事的医生经常谈到我们病人的治疗：“我们在驾驶飞机的同时也在建造飞机。” 儿童不应该成为那种飞机的乘客。】
+
+### 125: [2023-02-09 23:05:48+08:00 推文](https://twitter.com/HeQinglian/status/1623699691962568707)
+
+Re 现在这位算其中极少数良心不安者。<br>我不是滥好人，我想说的是：<br>1、这个行业不是建造飞机，而是污染。儿童变性就如同铅污染，很难再治。<br>2、他们在强迫社会接受尊重并不许质疑他们的价值观时，拜登通过法律保护全美青少年变性时，已经严重地破坏了美国传统价值观。<br>3、现在他们还只想到自己并非社会。
+
+### 126: [2023-02-09 23:28:58+08:00 推文](https://twitter.com/HeQinglian/status/1623705523450179584)
+
+2月7日，阿肯色州州长莎拉·桑德斯在回应拜登国情咨文中说：“美国的分界线不再是右派或左派，而是在正常还是疯狂之间做出选择。现在是新一代共和党领导层的时候了。”<br><br>皮尤：与温和保守的同龄人相比，所有年龄段的白人进步主义者更多患有心理健康问题。 <a href="https://cbs4indy.com/hill-politics/sanders-says-choice-is-between-normal-or-crazy-in-gop-response/" target="_blank" rel="noopener noreferrer">https://cbs4indy.com/hill-politics/sanders-says-choice-is-between-normal-or-crazy-in-gop-response/</a> <a href="https://freebeacon.com/politics/white-libs-mental-health/" target="_blank" rel="noopener noreferrer">https://freebeacon.com/politics/white-libs-mental-health/</a>
+
+### 127: [2023-02-09 23:30:28+08:00 推文](https://twitter.com/zhixiangziyou/status/1623705899788279810)
+
+RT L JM🇺🇸<br>“文明始于秩序,随着自由成长,随着混乱死亡。 “——威尔·杜兰特(美国历史学家)<br><br>“Civilization begins with order, grows with liberty and dies with chaos.” — Will Durant (American Historian)<br><img style="" src="https://pbs.twimg.com/media/FoiP6LKWcAA9iIC?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 128: [2023-02-09 23:41:08+08:00 推文](https://twitter.com/HeQinglian/status/1623708584788762624)
+
+Re @Wu_Zhi @JianglinLi @david_david1968 @ngexp 精神病患者无行动负责能力，轻度亦在内。<br>美国社会自我问责吧。加州、纽约市就是个两个民主党左派价值观实现后的活生生样板，看到之后还坚持进步主义、拥护民主党，不管出现什么，对这些人只有一句：“如此盛世，如你所愿。”
 
