@@ -53,7 +53,7 @@ Re @GaoMilan 既然如此，还抱怨什么？认吧。
 
 ### 10: [2022-07-25 09:37:02+08:00 推文](https://twitter.com/HeQinglian/status/1551380976240140288)
 
-想当年，克林顿竞选时的豪言：我如果当了美国总统，从北京到巴格达的独裁者，一个也不放过。<br>后来，克林顿力主中国入世，成了中国政府的好朋友。退位后经常到中国演讲，每场演讲进帐几十万美元——友谊长青。<br>因此，我宁可将这些看作政治噱头。<br><br>RFI 華語 - 法國國際廣播電台: 英保守黨黨魁競選周一電視辯論： 蘇納克將抨擊特拉斯對華政策軟弱<br><br><img style="" src="https://pbs.twimg.com/media/FYeHnGJUEAEws_L?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8bmS.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8bmS.t</a>
+想当年，克林顿竞选时的豪言：我如果当了美国总统，从北京到巴格达的独裁者，一个也不放过。<br>后来，克林顿力主中国入世，成了中国政府的好朋友。退位后经常到中国演讲，每场演讲进帐几十万美元——友谊长青。<br>因此，我宁可将这些看作政治噱头。
 
 ### 11: [2022-07-25 20:17:17+08:00 推文](https://twitter.com/HeQinglian/status/1551542097773223936)
 
@@ -149,7 +149,7 @@ Re @CrabNJ 你愿意称呼令堂为“会怀孕的女人”吗？如果你不愿
 
 ### 34: [2022-07-26 04:09:34+08:00 推文](https://twitter.com/HeQinglian/status/1551660953955074060)
 
-刚知道，【英相候选人苏纳克“一度顾左右而言他，表示要在维护国家利益和价值的同时，‘继续和中国交往’。而中共喉舌《环球时报》早前曾发文形容，在英国首相之争中，苏纳克是唯一一位“对发展中英关系持明确而务实观点”的候选人。<br>这个定性，被外界形容是中方对苏纳克的“死亡之吻”。】<br>果然是竞选策略。<br><br>He Qinglian: 想当年，克林顿竞选时的豪言：我如果当了美国总统，从北京到巴格达的独裁者，一个也不放过。<br>后来，克林顿力主中国入世，成了中国政府的好朋友。退位后经常到中国演讲，每场演讲进帐几十万美元——友谊长青。<br>因此，我宁可将这些看作政治噱头。<br> <a href="https://twitter.com/RFI_TradCn/status/1551357705066950658" target="_blank" rel="noopener noreferrer">https://twitter.com/RFI_TradCn/status/1551357705066950658</a>
+刚知道，【英相候选人苏纳克“一度顾左右而言他，表示要在维护国家利益和价值的同时，‘继续和中国交往’。而中共喉舌《环球时报》早前曾发文形容，在英国首相之争中，苏纳克是唯一一位“对发展中英关系持明确而务实观点”的候选人。<br>这个定性，被外界形容是中方对苏纳克的“死亡之吻”。】<br>果然是竞选策略。
 
 ### 35: [2022-07-26 04:14:15+08:00 推文](https://twitter.com/HeQinglian/status/1551662132877484037)
 
@@ -217,7 +217,7 @@ Re @shenliangqing2 美国现在最大的问题是忘记了自身的辉煌是宪�
 
 ### 51: [2022-07-27 22:16:03+08:00 推文](https://twitter.com/HeQinglian/status/1552296764446834689)
 
-由于民主党的努力，美国LGBT人口快接近10%（不包插QI，前一向古川有疑问，给过链接），猴痘应运而生，WHO、法国已经证明此病在男同及与他们有性关系的人群，敬请拜登政府与福奇对症下药，最多扩大至LGBT人群。
+由于民主党的努力，美国LGBT人口快接近10%（不包插QI，前一向古川有疑问，给过链接），猴痘应运而生，WHO、法国已经证明此病在男同及与他们有性关系的人群，敬请拜登政府与福奇对症下药，最多扩大至LGBT人群。<br><br>华尔街日报中文网: 美国联邦数据显示，美国已经报告了3,400多例确诊或疑似猴痘病例，成为自这个国际关注的突发公共卫生事件发生以来已知感染病例最多的国家。<br> <a href="https://on.wsj.com/3JfATo7" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3JfATo7</a>
 
 ### 52: [2022-07-27 22:22:48+08:00 推文](https://twitter.com/HeQinglian/status/1552298464578572288)
 
@@ -577,7 +577,7 @@ Re @shenliangqing2 @FranzMendelsso1 @RealBeiMing 美国演变至今，有个过�
 
 ### 141: [2022-07-30 04:16:09+08:00 推文](https://twitter.com/HeQinglian/status/1553112163069399041)
 
-看了法广这条的留言与Quote后，我去看了一眼：<br>“俄總統新聞秘書佩斯科夫當天告訴媒體稱，克里姆林宮同意中國領導人習近平的觀點（不要“玩火”）”。<br>拉夫羅夫在回答有關台灣周邊局勢和佩洛西可能計畫訪問台灣的問題時說：“我們只有一個中國的立場沒有改變”。<br>发表评论却连内容都不看。
+看了法广这条的留言与Quote后，我去看了一眼：<br>“俄總統新聞秘書佩斯科夫當天告訴媒體稱，克里姆林宮同意中國領導人習近平的觀點（不要“玩火”）”。<br>拉夫羅夫在回答有關台灣周邊局勢和佩洛西可能計畫訪問台灣的問題時說：“我們只有一個中國的立場沒有改變”。<br>发表评论却连内容都不看。<br><br>RFI 華語 - 法國國際廣播電台: 拉夫羅夫：俄羅斯希望不會出現使台灣周邊局勢惡化的挑釁行為<br><br><img style="" src="https://pbs.twimg.com/media/FY12eHWUUAAWFwq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8caD.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8caD.t</a>
 
 ### 142: [2022-07-30 04:42:17+08:00 推文](https://twitter.com/HeQinglian/status/1553118738119069696)
 
@@ -681,11 +681,11 @@ Re @zhixiangziyou @triplebai 羊肉冬瓜汤？<br>羊肉是温补食物，冬�
 
 ### 167: [2022-07-31 03:46:34+08:00 推文](https://twitter.com/HeQinglian/status/1553467102958424065)
 
-尽管知道文化快餐的年代，这种严肃的社会病溯源文章不会有多少人读，但我还是认真推荐。<br>文化马克思主义正在毁掉西方，只是美国有BLM这种暴马加文马存在，毁的速度特别快。
+尽管知道文化快餐的年代，这种严肃的社会病溯源文章不会有多少人读，但我还是认真推荐。<br>文化马克思主义正在毁掉西方，只是美国有BLM这种暴马加文马存在，毁的速度特别快。<br><br>戴维（英国观察）: 解滨：文化马克思主义正在毁掉美国<br> <a href="https://groups.google.com/g/2ncn/c/DIVTQSFiM6o" target="_blank" rel="noopener noreferrer">https://groups.google.com/g/2ncn/c/DIVTQSFiM6o</a>
 
 ### 168: [2022-07-31 04:05:52+08:00 推文](https://twitter.com/HeQinglian/status/1553471960604200960)
 
-目前世界确实进入十字路口，但比日本外相林芳正讲的要复杂得多。<br>从近期看，俄乌战争确实让地缘政治中的国家安全处于首位；<br>从长远看，接受美拜登政府推广的LGBTQI+第四代女权+大麻+BLM(CRT)换取美国保护是未来的大问题<br>拜乌粉们考虑不了这些问题。少数知道后者的危害的人，迷失在“救亡压倒启蒙”当中。<br><br>RFI 华语 - 法国国际广播电台: 日外相：在乌克兰发生的事情决不允许在世界其他地方发生<br><br><img style="" src="https://pbs.twimg.com/media/FY6EqpsUYAAvJot?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8cgI.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8cgI.t</a>
+目前世界确实进入十字路口，但比日本外相林芳正讲的要复杂得多。<br>从近期看，俄乌战争确实让地缘政治中的国家安全处于首位；<br>从长远看，接受美拜登政府推广的LGBTQI+第四代女权+大麻+BLM(CRT)换取美国保护是未来的大问题<br>拜乌粉们考虑不了这些问题。少数知道后者的危害的人，迷失在“救亡压倒启蒙”当中。
 
 ### 169: [2022-07-31 04:17:18+08:00 推文](https://twitter.com/HeQinglian/status/1553474839356313600)
 
