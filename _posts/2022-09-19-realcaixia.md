@@ -69,11 +69,11 @@ Re 只有阻止习连任，中国人才有逐步恢复生计，为经济发展�
 
 ### 14: [2022-09-23 21:16:58+08:00 推文](https://twitter.com/realcaixia/status/1573300389943836673)
 
-胡平老师的这篇文章，为如何解读习以及中共国的官方舆论宣传提供了很好的历史借鉴。<br><br>Hu Ping胡平: 大跃进惨败，导致了人类历史上最大的人为大饥荒，暴君兼昏君毛泽东不因此而垮台就已经够不可思议的了，殊不知三五年后，毛泽东的个人威望不降反升，竟然还达到最高点，以至于攒足了发动文革的本钱。岂非咄咄怪事？<br>胡平：从经济狂想到政治狂想<br>链接：<br> <a href="https://www.chinesepen.org/blog/archives/110973" target="_blank" rel="noopener noreferrer">https://www.chinesepen.org/blog/archives/110973</a> <a href="https://twitter.com/L2socialmedia/status/1573104151793631232" target="_blank" rel="noopener noreferrer">https://twitter.com/L2socialmedia/status/1573104151793631232</a>
+胡平老师的这篇文章，为如何解读习以及中共国的官方舆论宣传提供了很好的历史借鉴。<br><br>Hu Ping胡平: 大跃进惨败，导致了人类历史上最大的人为大饥荒，暴君兼昏君毛泽东不因此而垮台就已经够不可思议的了，殊不知三五年后，毛泽东的个人威望不降反升，竟然还达到最高点，以至于攒足了发动文革的本钱。岂非咄咄怪事？<br>胡平：从经济狂想到政治狂想<br>链接：<br> <a href="https://www.chinesepen.org/blog/archives/110973" target="_blank" rel="noopener noreferrer">https://www.chinesepen.org/blog/archives/110973</a>
 
 ### 15: [2022-09-24 05:11:15+08:00 推文](https://twitter.com/realcaixia/status/1573419749731872768)
 
-布林肯这句话真是经典！同理，对于极权统治，也是一样。<br><br>荣剑: 对于侵略者，停止抵抗就是投降，绝不能当投降者！<br>
+布林肯这句话真是经典！同理，对于极权统治，也是一样。<br><br>荣剑: 对于侵略者，停止抵抗就是投降，绝不能当投降者！<br> <a href="https://twitter.com/NiKiTa_32156/status/1573239000944500738" target="_blank" rel="noopener noreferrer">https://twitter.com/NiKiTa_32156/status/1573239000944500738</a>
 
 ### 16: [2022-09-24 05:51:25+08:00 推文](https://twitter.com/realcaixia/status/1573429857647988736)
 
