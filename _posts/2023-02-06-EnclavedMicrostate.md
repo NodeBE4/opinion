@@ -136,7 +136,7 @@ Concentration can be to one's personal tastes, increase or reduce water accordin
 
 ----- __1101.1__ -----2023-02-10 23:54:41+08:00:
 
-We as moderators judge the usefulness of replies on a case-by-case basis. Sometimes a follow up is useful only in the context of the original comment being responded to, but occasionally something does just slip through the cracks.
+We as moderators judge the usefulness of replies on a case-by-case basis. Sometimes a follow up is useful only in the context of the original comment being responded to, while occasionally something does just slip through the cracks.
 
 ### 1102: [What determines real estate allocation in a currency-free society?](https://old.reddit.com/r/DaystromInstitute/comments/10ygtg2/what_determines_real_estate_allocation_in_a/), submitted on 2023-02-10 13:03:51+08:00.
 
