@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2023-02-10
+date: 2023-02-11
 from: https://old.reddit.com/r/geopolitics/comments/10v8f1d/how_russia_decides_to_go_nuclear_deciphering_the/
 layout: post
 tags:
@@ -60,4 +60,14 @@ Beyond the borders of North America and Europe, however, the past 12 months have
 Moreover, in many parts of the world, the most crucial issues of 2022 had little to do with the war in Ukraine. Emerging from the havoc of the pandemic and confronted by far-reaching challenges ranging from debt crises to a slowing world economy to climate change, many developing countries have been alienated by what they view as the self-absorption of the West and of China and Russia. For them, the war in Ukraine is about the future of Europe, not the future of the world order, and the war has become a distraction from the more pressing global issues of our time.
 
 Yet despite this disillusionment, a coherent third way, a clear alternative to current great-power rivalry, has yet to emerge. Instead, these countries have sought to work with present realities, respecting Western sanctions on Russia, for instance, in an international system that no longer inspires much faith in its relevance to their security and economic concerns. In this sense, for many parts of the globe, a year of war in Ukraine has done less to redefine the world order than to set it further adrift, raising new questions about how urgent transnational challenges can be met.
+
+### 351: [Make Russia Pay: Lessons From the West’s Botched Response to Moscow’s 2008 Assault on Georgia - Vasil Sikharulidze](https://old.reddit.com/r/geopolitics/comments/10z2elr/make_russia_pay_lessons_from_the_wests_botched/), submitted on 2023-02-11 04:39:38+08:00.
+
+----- __351.1__ -----2023-02-11 04:40:31+08:00:
+
+**Short Summary:** When Russian President Vladimir Putin invaded Ukraine, he was confident that this new assault on the rules-based international order would not be met with serious pushback—and with good reason. For more than a decade, Putin had gotten away with this type of aggressive behavior. From land grabs in Georgia and Ukraine to war crimes in Syria, from interference in other countries’ domestic politics to murder within and outside Russia’s borders, his list of crimes was long, but Putin never paid a substantial political or economic price for his offenses.
+
+Putin learned this lesson after invading Georgia in 2008. Russia’s goal was to overthrow the democratically elected government of Mikheil Saakashvili and install a puppet regime. It was the first time since the Soviet invasion of Afghanistan in 1979 that Moscow had invaded another country. Georgian resistance and Western support helped stop Russia from establishing full control over the country, but after a five-day war, Moscow still managed to seize territory from Tbilisi. Despite this, the West did not make Russia pay for violating another country’s sovereignty when the war was over. No economic or political sanctions against Russia followed. Instead, the United States and its allies soon looked for ways to reset their policies with the Kremlin, hoping to improve relations in the service of other goals. Yet accommodation only encouraged Putin to further harass Russia’s neighbors, repress his people, and undermine security and stability in Europe.
+
+For now, the goals in Ukraine are to stop Putin from destroying the country and to restore its territorial integrity. But this war will one day come to an end, and at that point, the West will need to decide how to deal with a postwar Russia. The West cannot forget the lessons of Georgia: it must remember the dangers of accommodating Putin or another Russian dictator. To avoid repeating its past mistakes, the West should first fully support Ukraine to win this war. It should grant NATO membership to Georgia and Ukraine. It should seek to liberate Russian-occupied territories in Georgia and Moldova by sustaining political and economic pressure on Russia and by supporting democracy and good governance in those countries. The United States and its allies should also develop an energy and transportation corridor that connects Central Asia with Europe, bypassing Russia. If the West takes these overdue steps, there is a chance for lasting peace, because Putin will finally pay a price for his wars.
 
