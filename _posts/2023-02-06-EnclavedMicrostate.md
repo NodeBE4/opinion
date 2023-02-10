@@ -142,3 +142,7 @@ Concentration can be to one's personal tastes, increase or reduce water accordin
 
 But where are they going, and, more crucially, how? We know that a fully-crammed *Galaxy*-class can carry 15,000 people (and that's its absolute max capacity); to even halve Earth's population from 8 billion to 4 billion, you'd be looking at nearly 270,000 trips by Galaxy-class ships bursting at the gunwales. By 2400, Earth has had viable long-distance warp for 250 years; if we average things out, that still means 1000 Galaxy-class ships stuffed with emigrants leaving Earth every single year – 3 every day(!), assuming we see no migration *to* Earth either.
 
+----- __1101.2__ -----2023-02-10 19:58:32+08:00:
+
+According to Pike that saw 30% of the human population wiped out, so assuming no demographic recovery by 2150, that still means that in order to get to 4 billion (i.e. lose 1.6 billion), you'd need a little over 100,000 Galaxy-class trips, or 400 per year, or at least one fully-laden Galaxy leaving Earth every day and an extra at the weekend.
+
