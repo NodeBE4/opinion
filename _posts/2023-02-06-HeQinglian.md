@@ -177,7 +177,7 @@ Re @fading_you1 与美国民主党支持者相同。都是求仁得仁，如其�
 
 ### 41: [2023-02-07 02:10:12+08:00 推文](https://twitter.com/HeQinglian/status/1622658936313610240)
 
-RT He Qinglian<br>Re @fading_you1 日本首相解雇了一名助理，原因是这位先生说了他不想看到同性恋和自己做邻居。同性恋发起山呼海啸的抗议，首相只得表示愤怒解雇他。<br>日本是G7当中唯一同婚未合法化的国家，同性恋们趁机再推一把。不过，日本大龄女35岁至50岁未婚占同龄人近40%，拉拉很快会如雨后春笋。 <a href="https://www.bbc.com/news/world-asia-64521862" target="_blank" rel="noopener noreferrer">https://www.bbc.com/news/world-asia-64521862</a>
+Re @fading_you1 日本首相解雇了一名助理，原因是这位先生说了他不想看到同性恋和自己做邻居。同性恋发起山呼海啸的抗议，首相只得表示愤怒解雇他。<br>日本是G7当中唯一同婚未合法化的国家，同性恋们趁机再推一把。不过，日本大龄女35岁至50岁未婚占同龄人近40%，拉拉很快会如雨后春笋。 <a href="https://www.bbc.com/news/world-asia-64521862" target="_blank" rel="noopener noreferrer">https://www.bbc.com/news/world-asia-64521862</a>
 
 ### 42: [2023-02-07 02:47:06+08:00 推文](https://twitter.com/HeQinglian/status/1622668222603436038)
 
@@ -237,7 +237,7 @@ Re @JianglinLi 拜登想挣回两次面子：<br>一是打气球——虽然迟�
 
 ### 56: [2023-02-07 23:17:23+08:00 推文](https://twitter.com/HeQinglian/status/1622977832128245763)
 
-RT He Qinglian<br>Re @JianglinLi 我一直没弄明白，国务卿这个位置的高官出马，其实是诸事在略低层次的官员谈定各种协议后才出面，仪式性地敲定双方协约。<br>有什么事情非要当面谈，谈前还要向世界宣布：我要给中国划条红线、带去警告，让北京在俄罗斯问题上不要乱说乱动？<br>中国政府早就放弃轁光养晦，露出牙齿与爪子了。
+Re @JianglinLi 我一直没弄明白，国务卿这个位置的高官出马，其实是诸事在略低层次的官员谈定各种协议后才出面，仪式性地敲定双方协约。<br>有什么事情非要当面谈，谈前还要向世界宣布：我要给中国划条红线、带去警告，让北京在俄罗斯问题上不要乱说乱动？<br>中国政府早就放弃轁光养晦，露出牙齿与爪子了。
 
 ### 57: [2023-02-07 23:36:43+08:00 推文](https://twitter.com/HeQinglian/status/1622982700234678272)
 
@@ -457,7 +457,7 @@ Re @NAConservative9 话说，这本来就是左派希望追求多年、不惜在
 
 ### 111: [2023-02-09 04:33:29+08:00 推文](https://twitter.com/HeQinglian/status/1623419769557852161)
 
-共和党的教养还是强出不少，对比波洛希撕毁川普的国情咨文。据说出身富人之家，行为堪比AOC那街区长大之人。<div class="rsshub-quote"><br><br>东七区无面者FacelessMen: 感受一下美国两党现在的撕裂程度，拜登在前面放，后面只有哈里斯假装鼓掌示意，麦卡锡根本听都不带听的回去就发twitter骂拜登。<br><br><video src="https://video.twimg.com/ext_tw_video/1623162272066703360/pu/vid/1280x720/jZZ2BGghh-PT-zeH.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1623162272066703360/pu/img/nht24CLiapyHdh2k.jpg"></video> <a href="https://twitter.com/harry_shosta/status/1623160605506166784" target="_blank" rel="noopener noreferrer">https://twitter.com/harry_shosta/status/1623160605506166784</a></div>
+共和党的教养还是强出不少，对比波洛希撕毁川普的国情咨文。据说出身富人之家，行为堪比AOC那街区长大之人。<div class="rsshub-quote"><br><br>东七区无面者FacelessMen: 感受一下美国两党现在的撕裂程度，拜登在前面放，后面只有哈里斯假装鼓掌示意，麦卡锡根本听都不带听的回去就发twitter骂拜登。<br><br><video src="https://video.twimg.com/ext_tw_video/1623162272066703360/pu/vid/1280x720/jZZ2BGghh-PT-zeH.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1623162272066703360/pu/img/nht24CLiapyHdh2k.jpg"></video></div>
 
 ### 112: [2023-02-09 04:53:21+08:00 推文](https://twitter.com/HeQinglian/status/1623424771504447488)
 
@@ -610,4 +610,12 @@ Re @JianglinLi @zhixiangziyou 无论如何，没想到高科技发达的美国�
 ### 149: [2023-02-10 11:40:26+08:00 推文](https://twitter.com/HeQinglian/status/1623889601285836800)
 
 Re @mingshi_chen @JianglinLi @zhixiangziyou 应该是中产之家且有余钱为子女付这种费用的。<br>比如芝加哥有所私立小学，年学费5万以上，那得中上资产家庭。那学校的特色就是将儿童性化，但报道没提及家长是否知道。
+
+### 150: [2023-02-10 11:47:34+08:00 推文](https://twitter.com/HeQinglian/status/1623891397685256194)
+
+Re @JianglinLi @zhixiangziyou 我家附近的普林斯顿高中，大麻合法化前，学生吸麻已经非常厉害。现在更厉害，好好一所非常好的名高中，就这样被毁了。<br>新州新开一些专业烟店，开始纳闷，烟需要开专业店么？但一看橱窗，有吸麻工具（在电视上看到的，因此认识），就明白是供麻民们的大麻。
+
+### 151: [2023-02-10 11:50:18+08:00 推文](https://twitter.com/HeQinglian/status/1623892088273227778)
+
+Re @JianglinLi @zhixiangziyou 有个行内指标：一月内吸多少次。似乎一周吸一次的不算成瘾。说这60%的人当中，有部分是一月吸一次或二两次的。但有42%左右是经常需要吸，两天一次，多少不论。
 
