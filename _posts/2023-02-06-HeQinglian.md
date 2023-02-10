@@ -177,7 +177,7 @@ Re @fading_you1 与美国民主党支持者相同。都是求仁得仁，如其�
 
 ### 41: [2023-02-07 02:10:12+08:00 推文](https://twitter.com/HeQinglian/status/1622658936313610240)
 
-Re @fading_you1 日本首相解雇了一名助理，原因是这位先生说了他不想看到同性恋和自己做邻居。同性恋发起山呼海啸的抗议，首相只得表示愤怒解雇他。<br>日本是G7当中唯一同婚未合法化的国家，同性恋们趁机再推一把。不过，日本大龄女35岁至50岁未婚占同龄人近40%，拉拉很快会如雨后春笋。 <a href="https://www.bbc.com/news/world-asia-64521862" target="_blank" rel="noopener noreferrer">https://www.bbc.com/news/world-asia-64521862</a>
+RT He Qinglian<br>Re @fading_you1 日本首相解雇了一名助理，原因是这位先生说了他不想看到同性恋和自己做邻居。同性恋发起山呼海啸的抗议，首相只得表示愤怒解雇他。<br>日本是G7当中唯一同婚未合法化的国家，同性恋们趁机再推一把。不过，日本大龄女35岁至50岁未婚占同龄人近40%，拉拉很快会如雨后春笋。 <a href="https://www.bbc.com/news/world-asia-64521862" target="_blank" rel="noopener noreferrer">https://www.bbc.com/news/world-asia-64521862</a>
 
 ### 42: [2023-02-07 02:47:06+08:00 推文](https://twitter.com/HeQinglian/status/1622668222603436038)
 
@@ -237,7 +237,7 @@ RT He Qinglian<br>Re @JianglinLi 拜登想挣回两次面子：<br>一是打�
 
 ### 56: [2023-02-07 23:17:23+08:00 推文](https://twitter.com/HeQinglian/status/1622977832128245763)
 
-Re @JianglinLi 我一直没弄明白，国务卿这个位置的高官出马，其实是诸事在略低层次的官员谈定各种协议后才出面，仪式性地敲定双方协约。<br>有什么事情非要当面谈，谈前还要向世界宣布：我要给中国划条红线、带去警告，让北京在俄罗斯问题上不要乱说乱动？<br>中国政府早就放弃轁光养晦，露出牙齿与爪子了。
+RT He Qinglian<br>Re @JianglinLi 我一直没弄明白，国务卿这个位置的高官出马，其实是诸事在略低层次的官员谈定各种协议后才出面，仪式性地敲定双方协约。<br>有什么事情非要当面谈，谈前还要向世界宣布：我要给中国划条红线、带去警告，让北京在俄罗斯问题上不要乱说乱动？<br>中国政府早就放弃轁光养晦，露出牙齿与爪子了。
 
 ### 57: [2023-02-07 23:36:43+08:00 推文](https://twitter.com/HeQinglian/status/1622982700234678272)
 
@@ -558,4 +558,12 @@ Re @shenliangqing2 其实将上帝的性别改成Trans或者无性别、双性�
 ### 136: [2023-02-10 02:41:01+08:00 推文](https://twitter.com/HeQinglian/status/1623753855518363651)
 
 Re @Vince6610 @Wu_Zhi @JianglinLi @david_david1968 @ngexp 这解释有道理，欧洲左派也疯，但程度上相差较大。
+
+### 137: [2023-02-10 09:33:04+08:00 推文](https://twitter.com/HeQinglian/status/1623857548699873283)
+
+孙悟空由男变女：<br>劇作家和導演法德納(Jonathan Fadner)和身兼演員、歌手及舞者的妻子金博麗·法德納(Kimbirdlee Fadner)聯手打造全新版本的故事：一個女版孫悟空領導猴群走向永生。<br>万幸，美猴王暂时没被折腾成Trans。亚裔迎合美国进步派趣味一至于此。 <a href="https://www.worldjournal.com/wj/story/121382/6957575" target="_blank" rel="noopener noreferrer">https://www.worldjournal.com/wj/story/121382/6957575</a>
+
+### 138: [2023-02-10 09:34:52+08:00 推文](https://twitter.com/HeQinglian/status/1623858004549419009)
+
+Re @hbbkk66 原来，你已经自觉地将自己及儿女后代当作党产了。
 
