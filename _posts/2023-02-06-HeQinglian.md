@@ -177,7 +177,7 @@ Re @fading_you1 与美国民主党支持者相同。都是求仁得仁，如其�
 
 ### 41: [2023-02-07 02:10:12+08:00 推文](https://twitter.com/HeQinglian/status/1622658936313610240)
 
-Re @fading_you1 日本首相解雇了一名助理，原因是这位先生说了他不想看到同性恋和自己做邻居。同性恋发起山呼海啸的抗议，首相只得表示愤怒解雇他。<br>日本是G7当中唯一同婚未合法化的国家，同性恋们趁机再推一把。不过，日本大龄女35岁至50岁未婚占同龄人近40%，拉拉很快会如雨后春笋。 <a href="https://www.bbc.com/news/world-asia-64521862" target="_blank" rel="noopener noreferrer">https://www.bbc.com/news/world-asia-64521862</a>
+RT He Qinglian<br>Re @fading_you1 日本首相解雇了一名助理，原因是这位先生说了他不想看到同性恋和自己做邻居。同性恋发起山呼海啸的抗议，首相只得表示愤怒解雇他。<br>日本是G7当中唯一同婚未合法化的国家，同性恋们趁机再推一把。不过，日本大龄女35岁至50岁未婚占同龄人近40%，拉拉很快会如雨后春笋。 <a href="https://www.bbc.com/news/world-asia-64521862" target="_blank" rel="noopener noreferrer">https://www.bbc.com/news/world-asia-64521862</a>
 
 ### 42: [2023-02-07 02:47:06+08:00 推文](https://twitter.com/HeQinglian/status/1622668222603436038)
 
@@ -559,11 +559,55 @@ Re @shenliangqing2 其实将上帝的性别改成Trans或者无性别、双性�
 
 Re @Vince6610 @Wu_Zhi @JianglinLi @david_david1968 @ngexp 这解释有道理，欧洲左派也疯，但程度上相差较大。
 
-### 137: [2023-02-10 09:33:04+08:00 推文](https://twitter.com/HeQinglian/status/1623857548699873283)
+### 137: [2023-02-10 03:51:14+08:00 推文](https://twitter.com/cheyennexli/status/1623771523961200641)
+
+RT 全媒体日报/全媒体新闻台 QM News<br>又一名美国共和党议员被谋杀！<br>开始在美国的土地上搞恐怖主义了吗？<br><br>新泽西州议员被杀一周后，第二名议员被谋杀 - <a href="http://qtown.media/" target="_blank" rel="noopener noreferrer">http://QTown.media</a> <a href="https://www.qtown.media/share/linkPage/383A8C30-14A0-4B78-9123-DE599BB68D1A.html" target="_blank" rel="noopener noreferrer">https://www.qtown.media/share/linkPage/383A8C30-14A0-4B78-9123-DE599BB68D1A.html</a>
+
+### 138: [2023-02-10 09:33:04+08:00 推文](https://twitter.com/HeQinglian/status/1623857548699873283)
 
 孙悟空由男变女：<br>劇作家和導演法德納(Jonathan Fadner)和身兼演員、歌手及舞者的妻子金博麗·法德納(Kimbirdlee Fadner)聯手打造全新版本的故事：一個女版孫悟空領導猴群走向永生。<br>万幸，美猴王暂时没被折腾成Trans。亚裔迎合美国进步派趣味一至于此。 <a href="https://www.worldjournal.com/wj/story/121382/6957575" target="_blank" rel="noopener noreferrer">https://www.worldjournal.com/wj/story/121382/6957575</a>
 
-### 138: [2023-02-10 09:34:52+08:00 推文](https://twitter.com/HeQinglian/status/1623858004549419009)
+### 139: [2023-02-10 09:34:52+08:00 推文](https://twitter.com/HeQinglian/status/1623858004549419009)
 
 Re @hbbkk66 原来，你已经自觉地将自己及儿女后代当作党产了。
+
+### 140: [2023-02-10 10:03:55+08:00 推文](https://twitter.com/HeQinglian/status/1623865314730450945)
+
+Re @Nobody197575 美国应该组织青少年去参观一下中国这位小女孩的生活，然后知道Trans不是人生必须。<br>中美两国差距之一是：<br>中国大城市圈之外的维生经济，贫民家庭青少年需要辛苦工作；<br>美国社会过度丰裕，青少年不满足于正常世界的正常生活。<br>美国青少年最好在这摊上工作一个月，啥毛病都治好了。
+
+### 141: [2023-02-10 10:04:48+08:00 推文](https://twitter.com/HeQinglian/status/1623865536147775490)
+
+Re @eGUAbe2V7j26GHw 我还真想问问：中国人想看这变性孙悟空吗？
+
+### 142: [2023-02-10 11:03:56+08:00 推文](https://twitter.com/HeQinglian/status/1623880416791875584)
+
+Re @tiger20boy22 @Nobody197575 福利制度害了他们，一个黑女子未婚生养孩子，只要三个，生活水平达到年收入五万的家庭，不需要交税，医保全有。
+
+### 143: [2023-02-10 11:13:30+08:00 推文](https://twitter.com/HeQinglian/status/1623882824037146625)
+
+Re @qihang19211 @Nobody197575 不应该是这种方式。但是，让青少年接触贫穷与社会不太光鲜的一面，却是必须的。至少要让他们十多岁时打点工。<br>我在中国就带着儿子走过大西北农村地区，也回过老家一趟，他知道深圳之外的中国不那么美好，印象最深的就是农村的厕所。
+
+### 144: [2023-02-10 11:15:33+08:00 推文](https://twitter.com/HeQinglian/status/1623883342398517249)
+
+Re @Lohck1992 @eGUAbe2V7j26GHw 很多图片，你用Google图片功能搜索就看到了。
+
+### 145: [2023-02-10 11:19:25+08:00 推文](https://twitter.com/HeQinglian/status/1623884313824571392)
+
+Re @JianglinLi @zhixiangziyou 今天你推荐的那篇文章，这位想做吹哨人的变性行业工作者说了，接待的多是女孩，而且往往是同一个学校——那是教师有问题。可惜的是母亲们盲从女儿。<br>她涉及到的几个问题都非常严重。
+
+### 146: [2023-02-10 11:22:19+08:00 推文](https://twitter.com/HeQinglian/status/1623885043906015232)
+
+Re @zhixiangziyou @JianglinLi 变性后，不少想变回来（行话叫做“去变性化”），反正就为药业创造营利空间。不然我怎么会说：先拉屎污染地面（服激素等药创造GDP），再雇佣劳力铲除屎（服去变性化的药创造GDP）。<br>不管变性还是去变性化，心理咨询师总有业务。
+
+### 147: [2023-02-10 11:29:14+08:00 推文](https://twitter.com/HeQinglian/status/1623886783837622274)
+
+Re @JianglinLi @zhixiangziyou 有个资料，说明变性青少年当中，60%左右是女孩。如果是这样，美国男青年将来找婚姻对象，发展中国家是重要来源。美国未来一大批这种人，可能只能圈内“婚姻”了——如果那也叫婚姻。
+
+### 148: [2023-02-10 11:34:19+08:00 推文](https://twitter.com/HeQinglian/status/1623888062588526594)
+
+Re @JianglinLi @zhixiangziyou 无论如何，没想到高科技发达的美国，最后要赚钱竟然将主意打到两个罪恶行业上面，青少年变性、全民吸麻的大麻产业（幸好只有60%左右的人吸麻）。
+
+### 149: [2023-02-10 11:40:26+08:00 推文](https://twitter.com/HeQinglian/status/1623889601285836800)
+
+Re @mingshi_chen @JianglinLi @zhixiangziyou 应该是中产之家且有余钱为子女付这种费用的。<br>比如芝加哥有所私立小学，年学费5万以上，那得中上资产家庭。那学校的特色就是将儿童性化，但报道没提及家长是否知道。
 
