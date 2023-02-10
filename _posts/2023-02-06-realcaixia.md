@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2023-02-10
+date: 2023-02-11
 from: https://twitter.com/realcaixia/status/1622337053626097664
 layout: post
 tags:
@@ -70,4 +70,8 @@ Re LT视界这期节目，集中两个问题：1，美击落中共高空间谍�
 ### 14: [2023-02-10 03:29:03+08:00 推文](https://twitter.com/realcaixia/status/1623765944198909952)
 
 不仅是吹牛，而且是狂妄加野心。习既不直说与自由民主国家为敌，又大力推销中国模式，只能用吹牛和谎言为手段来蒙骗那些又想维持旧权力规则又想从中国捞到好处的某些发展中国家首脑。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 繼續吹牛😃<br> <a href="https://twitter.com/RudyakMarina/status/1623759148100866051" target="_blank" rel="noopener noreferrer">https://twitter.com/RudyakMarina/status/1623759148100866051</a></div>
+
+### 15: [2023-02-11 03:37:14+08:00 推文](https://twitter.com/realcaixia/status/1624130388430884881)
+
+这次或许不演戏了。看看快递小哥们的表情，这是自然反应，小哥们没把习当作什么“东方又红、太阳又升”。习想爬上神坛，享受毛太阳的天安门红卫兵发疯似的欢呼雀跃，面对小哥们习不断说好听的话暖场，小哥不热泪盈眶不灿烂笑容，那眼神里透着冷，没温度。未知习近平可心寒胆颤？<div class="rsshub-quote"><br><br>一剑飘尘 007: 感觉这次工作不到位，一不小心走进真正的快递员队伍里，而不是演员的队伍了。没有热泪盈眶，没有山呼万岁，这样的视频能播出来，说明习包子在中共党内威信严重下降<br><br><video src="https://video.twimg.com/ext_tw_video/1623309365137801217/pu/vid/848x464/lvPlNFpRfX5AambX.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1623309365137801217/pu/img/TlfIHIJ6WYE7NzaR.jpg"></video></div>
 
