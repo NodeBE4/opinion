@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-02-10
+date: 2023-02-11
 from: https://twitter.com/HeQinglian/status/1622265773652680707
 layout: post
 tags:
@@ -177,7 +177,7 @@ Re @fading_you1 与美国民主党支持者相同。都是求仁得仁，如其�
 
 ### 41: [2023-02-07 02:10:12+08:00 推文](https://twitter.com/HeQinglian/status/1622658936313610240)
 
-Re @fading_you1 日本首相解雇了一名助理，原因是这位先生说了他不想看到同性恋和自己做邻居。同性恋发起山呼海啸的抗议，首相只得表示愤怒解雇他。<br>日本是G7当中唯一同婚未合法化的国家，同性恋们趁机再推一把。不过，日本大龄女35岁至50岁未婚占同龄人近40%，拉拉很快会如雨后春笋。 <a href="https://www.bbc.com/news/world-asia-64521862" target="_blank" rel="noopener noreferrer">https://www.bbc.com/news/world-asia-64521862</a>
+RT He Qinglian<br>Re @fading_you1 日本首相解雇了一名助理，原因是这位先生说了他不想看到同性恋和自己做邻居。同性恋发起山呼海啸的抗议，首相只得表示愤怒解雇他。<br>日本是G7当中唯一同婚未合法化的国家，同性恋们趁机再推一把。不过，日本大龄女35岁至50岁未婚占同龄人近40%，拉拉很快会如雨后春笋。 <a href="https://www.bbc.com/news/world-asia-64521862" target="_blank" rel="noopener noreferrer">https://www.bbc.com/news/world-asia-64521862</a>
 
 ### 42: [2023-02-07 02:47:06+08:00 推文](https://twitter.com/HeQinglian/status/1622668222603436038)
 
@@ -237,7 +237,7 @@ RT He Qinglian<br>Re @JianglinLi 拜登想挣回两次面子：<br>一是打�
 
 ### 56: [2023-02-07 23:17:23+08:00 推文](https://twitter.com/HeQinglian/status/1622977832128245763)
 
-Re @JianglinLi 我一直没弄明白，国务卿这个位置的高官出马，其实是诸事在略低层次的官员谈定各种协议后才出面，仪式性地敲定双方协约。<br>有什么事情非要当面谈，谈前还要向世界宣布：我要给中国划条红线、带去警告，让北京在俄罗斯问题上不要乱说乱动？<br>中国政府早就放弃轁光养晦，露出牙齿与爪子了。
+RT He Qinglian<br>Re @JianglinLi 我一直没弄明白，国务卿这个位置的高官出马，其实是诸事在略低层次的官员谈定各种协议后才出面，仪式性地敲定双方协约。<br>有什么事情非要当面谈，谈前还要向世界宣布：我要给中国划条红线、带去警告，让北京在俄罗斯问题上不要乱说乱动？<br>中国政府早就放弃轁光养晦，露出牙齿与爪子了。
 
 ### 57: [2023-02-07 23:36:43+08:00 推文](https://twitter.com/HeQinglian/status/1622982700234678272)
 
@@ -457,7 +457,7 @@ Re @NAConservative9 话说，这本来就是左派希望追求多年、不惜在
 
 ### 111: [2023-02-09 04:33:29+08:00 推文](https://twitter.com/HeQinglian/status/1623419769557852161)
 
-共和党的教养还是强出不少，对比波洛希撕毁川普的国情咨文。据说出身富人之家，行为堪比AOC那街区长大之人。<div class="rsshub-quote"><br><br>东七区无面者FacelessMen: 感受一下美国两党现在的撕裂程度，拜登在前面放，后面只有哈里斯假装鼓掌示意，麦卡锡根本听都不带听的回去就发twitter骂拜登。<br><br><video src="https://video.twimg.com/ext_tw_video/1623162272066703360/pu/vid/1280x720/jZZ2BGghh-PT-zeH.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1623162272066703360/pu/img/nht24CLiapyHdh2k.jpg"></video></div>
+共和党的教养还是强出不少，对比波洛希撕毁川普的国情咨文。据说出身富人之家，行为堪比AOC那街区长大之人。<div class="rsshub-quote"><br><br>东七区无面者FacelessMen: 感受一下美国两党现在的撕裂程度，拜登在前面放，后面只有哈里斯假装鼓掌示意，麦卡锡根本听都不带听的回去就发twitter骂拜登。<br><br><video src="https://video.twimg.com/ext_tw_video/1623162272066703360/pu/vid/1280x720/jZZ2BGghh-PT-zeH.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1623162272066703360/pu/img/nht24CLiapyHdh2k.jpg"></video> <a href="https://twitter.com/harry_shosta/status/1623160605506166784" target="_blank" rel="noopener noreferrer">https://twitter.com/harry_shosta/status/1623160605506166784</a></div>
 
 ### 112: [2023-02-09 04:53:21+08:00 推文](https://twitter.com/HeQinglian/status/1623424771504447488)
 
@@ -634,4 +634,20 @@ Re @9K331_Tor_M1 @zhixiangziyou @JianglinLi 我现居的美国仍然是世界第
 ### 155: [2023-02-10 23:04:53+08:00 推文](https://twitter.com/HeQinglian/status/1624061849930006530)
 
 Re @9K331_Tor_M1 @zhixiangziyou @JianglinLi 最终通过几代人的教育，养成了今天的严重问题。<br>3、不是我的偏见，而是社会实况。奥巴马统治是关键转折点。<br>4、美国社会大众过去不太了解，这几年待惊觉之时，已经发现美国成了不可逆转之势。如同索维尔感叹的：No Point of Return.<br>5、台湾、日本正在学<br>如果你真一直看我的推文，其余的不需要我回答了
+
+### 156: [2023-02-10 23:11:47+08:00 推文](https://twitter.com/HeQinglian/status/1624063588670267393)
+
+Re @HettyJ008 至少越南、韩国都看《西游记》。<br>有部80年代的越南电影，似乎以春、夏、秋季节命名，其中一位财主家的少爷，在书房朗诵西游记，迷住了小丫头。
+
+### 157: [2023-02-10 23:21:46+08:00 推文](https://twitter.com/HeQinglian/status/1624066097925201920)
+
+Re @fading_you1 包老弟文采，当是小菜一碟。<br>问题是：央请代写情诗者固然不懂，倾诉对象也不懂。再加上如今男无写作《燕子笺》的阮大铖、女无秦淮八艳的董小宛。只怕你落个“知音少，弦断有谁听”。😅😅
+
+### 158: [2023-02-10 23:54:41+08:00 推文](https://twitter.com/HeQinglian/status/1624074383168876545)
+
+Re @eGUAbe2V7j26GHw 安倍晋三回忆录近日出版，其中对中国外交的评价有意思：<br>“中国外交政策就像下棋，如果对手试图吃掉你的高价值棋子，你要以同样的方式回敬……我感觉我在与中国打一场持续多年的心理战，从这个角度来说，中国人与韩国人完全不同，韩国人唯一的战术就是把棋盘掀个底朝天。”<br>美拜连胡萝卜加大棒也没用好
+
+### 159: [2023-02-11 00:17:36+08:00 推文](https://twitter.com/HeQinglian/status/1624080148705181696)
+
+Re @HighwayNicoll 【廣東人说的，跌落地都要拿番乍沙（跌倒在地还要捡回一把沙子）】👍<br>形象。广东话的妙处，我到广东三年后就开始有所体会，因那时才算初步懂了一些。
 

@@ -132,9 +132,15 @@ Cold: First use 60 mL of hot water and stir until even, then add 140 mL of cold 
 
 Concentration can be to one's personal tastes, increase or reduce water accordingly.
 
-### 1101: [What determines real estate allocation in a currency-free society?](https://old.reddit.com/r/DaystromInstitute/comments/10ygtg2/what_determines_real_estate_allocation_in_a/), submitted on 2023-02-10 13:03:51+08:00.
+### 1101: [[META] Can we get two new regulations regarding bad answers in this sub?](https://old.reddit.com/r/AskHistorians/comments/10yeh01/meta_can_we_get_two_new_regulations_regarding_bad/), submitted on 2023-02-10 11:00:06+08:00.
 
------ __1101.1__ -----2023-02-10 19:17:57+08:00:
+----- __1101.1__ -----2023-02-10 23:54:41+08:00:
+
+We as moderators judge the usefulness of replies on a case-by-case basis. Sometimes a follow up is useful only in the context of the original comment being responded to, but occasionally something does just slip through the cracks.
+
+### 1102: [What determines real estate allocation in a currency-free society?](https://old.reddit.com/r/DaystromInstitute/comments/10ygtg2/what_determines_real_estate_allocation_in_a/), submitted on 2023-02-10 13:03:51+08:00.
+
+----- __1102.1__ -----2023-02-10 19:17:57+08:00:
 
 > Earth's. Population for example might only be measured in 100 millions or low billions.
 > 
@@ -142,7 +148,7 @@ Concentration can be to one's personal tastes, increase or reduce water accordin
 
 But where are they going, and, more crucially, how? We know that a fully-crammed *Galaxy*-class can carry 15,000 people (and that's its absolute max capacity); to even halve Earth's population from 8 billion to 4 billion, you'd be looking at nearly 270,000 trips by Galaxy-class ships bursting at the gunwales. By 2400, Earth has had viable long-distance warp for 250 years; if we average things out, that still means 1000 Galaxy-class ships stuffed with emigrants leaving Earth every single year – 3 every day(!), assuming we see no migration *to* Earth either.
 
------ __1101.2__ -----2023-02-10 19:58:32+08:00:
+----- __1102.2__ -----2023-02-10 19:58:32+08:00:
 
 According to Pike that saw 30% of the human population wiped out, so assuming no demographic recovery by 2150, that still means that in order to get to 4 billion (i.e. lose 1.6 billion), you'd need a little over 100,000 Galaxy-class trips, or 400 per year, or at least one fully-laden Galaxy leaving Earth every day and an extra at the weekend.
 
