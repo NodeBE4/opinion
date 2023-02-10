@@ -237,7 +237,7 @@ Re @JianglinLi 拜登想挣回两次面子：<br>一是打气球——虽然迟�
 
 ### 56: [2023-02-07 23:17:23+08:00 推文](https://twitter.com/HeQinglian/status/1622977832128245763)
 
-RT He Qinglian<br>Re @JianglinLi 我一直没弄明白，国务卿这个位置的高官出马，其实是诸事在略低层次的官员谈定各种协议后才出面，仪式性地敲定双方协约。<br>有什么事情非要当面谈，谈前还要向世界宣布：我要给中国划条红线、带去警告，让北京在俄罗斯问题上不要乱说乱动？<br>中国政府早就放弃轁光养晦，露出牙齿与爪子了。
+Re @JianglinLi 我一直没弄明白，国务卿这个位置的高官出马，其实是诸事在略低层次的官员谈定各种协议后才出面，仪式性地敲定双方协约。<br>有什么事情非要当面谈，谈前还要向世界宣布：我要给中国划条红线、带去警告，让北京在俄罗斯问题上不要乱说乱动？<br>中国政府早就放弃轁光养晦，露出牙齿与爪子了。
 
 ### 57: [2023-02-07 23:36:43+08:00 推文](https://twitter.com/HeQinglian/status/1622982700234678272)
 
@@ -655,15 +655,27 @@ Re @HighwayNicoll 【廣東人说的，跌落地都要拿番乍沙（跌倒在�
 
 Re @JianglinLi @lichennan1985 @zhixiangziyou @9K331_Tor_M1 不是一些问题，是伤及宪政法治的根本大问题。
 
-### 161: [2023-02-11 04:54:05+08:00 推文](https://twitter.com/HeQinglian/status/1624149731382263810)
+### 161: [2023-02-11 01:39:08+08:00 推文](https://twitter.com/JianglinLi/status/1624100671027916812)
+
+RT 李江琳<br>相信废除法律的无政府活动家奥克兰极左烘培师洁妮佛·安吉尔被抢劫犯拖拽致死。为她设立的众筹上说他们希望罪犯不要被关押。<div class="rsshub-quote"><br><br>Andy Ngô 🏳️‍🌈: A radical leftist baker in Oakland who believes in the abolishment of the law has tragically died after being dragged to death by robbers. Jennifer Angel, who ran Angel Cakes, was an anarchist activist. Her GoFundMe says they hope her killers (believed to be black) aren't jailed.<br><br><img style="" src="https://pbs.twimg.com/media/FomujBiWcAArCKH?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fomuk1rWcAIB9zS?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fomu8QVXEAA1yjj?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FomwuzpWcAEcvlz?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 162: [2023-02-11 04:54:05+08:00 推文](https://twitter.com/HeQinglian/status/1624149731382263810)
 
 Re @KELMAND1 话说，我从《剑桥战争史》中，从一战以来所有的战史中，俄乌战争当中一方，以本国生存为代价，完全依靠他国资助武器、训练军队、再到雇佣军（实为他国军人）上场，这样来打一场战争，也为仅见，可以进入教科书。<br>这案例，是前无古人，但愿也后无来者。
 
-### 162: [2023-02-11 04:55:26+08:00 推文](https://twitter.com/HeQinglian/status/1624150068843405324)
+### 163: [2023-02-11 04:55:26+08:00 推文](https://twitter.com/HeQinglian/status/1624150068843405324)
 
 Re @dinglili7 他们的上帝呢？昨天还有人说，圣经第一句与接近最后一句为核心。
 
-### 163: [2023-02-11 04:56:15+08:00 推文](https://twitter.com/HeQinglian/status/1624150274498519040)
+### 164: [2023-02-11 04:56:15+08:00 推文](https://twitter.com/HeQinglian/status/1624150274498519040)
 
 Re @sohfangwei 不兴抽烟抽大麻。
+
+### 165: [2023-02-11 05:24:56+08:00 推文](https://twitter.com/HeQinglian/status/1624157491868098574)
+
+Re @JianglinLi 这个案例，与费城、纽约那些支持BLM却被他们痛殴的华女性质相同。而且被痛殴之后的做派也与这案例的众筹者相同。<br>再回溯德国难民潮后被强奸的社民青年党女议员、女儿在难民营做义工被轮奸杀害的欧盟议员案例，一模一样。
+
+### 166: [2023-02-11 07:37:52+08:00 推文](https://twitter.com/HeQinglian/status/1624190945464930305)
+
+Re @shenliangqing2 这人见少了。这是研究文章，其中说得很清楚，性自由是什么？<br>另外，美国1968-69反越战，也是反抗到哪里，吸毒与性放纵到哪里，性病流行到哪里。<br>陶短房：法国五月风暴：一场真正的“文化革命” <a href="https://ptext.nju.edu.cn/a5/89/c13424a304521/page.htm" target="_blank" rel="noopener noreferrer">https://ptext.nju.edu.cn/a5/89/c13424a304521/page.htm</a>
 
