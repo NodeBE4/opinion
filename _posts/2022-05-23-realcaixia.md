@@ -45,11 +45,11 @@ Re 请看市民这封给公安机关人员的公开信。信的一开始就说�
 
 ### 8: [2022-05-23 21:42:51+08:00 推文](https://twitter.com/realcaixia/status/1528733199098122242)
 
-荣剑老师的推文，文字平和，思想深刻，眼光锐利，意味深长。<br><br>荣剑: 这大概就是文明的分野，没有经过清朝的人，也不必说遗憾，清和后清有什么区别吗？区别或许就是帖子中所说的疯狂的删帖取代了文字狱——当然，有人肯定会说，现在因言获罪还少吗？面对这样的质疑，我无言以答。<br><br><img style="" src="https://pbs.twimg.com/media/FTXKTPGVIAEGNN3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+荣剑老师的推文，文字平和，思想深刻，眼光锐利，意味深长。
 
 ### 9: [2022-05-23 23:38:02+08:00 推文](https://twitter.com/realcaixia/status/1528762185098440708)
 
-清零封城搞到天怒人怨，胡锡进着急投谏保经济，是为保党国不翻船。以往网民骂胡“叼盘”他一概不反应：现在一说他关心经济，胡就怕了。说明什么？至少两点：1、中共国里无人有安全，人人皆可为阶下囚；2，清零与经济、保党国与保习上帝，内在利益是冲突的。习坑民也坑党国，天怒人怨党内不满或许合流。<br><br>《议报》: 郑荣南：除了胡锡进，没人关心经济了<br> <a href="https://yibaochina.com/?p=246616" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246616</a>
+清零封城搞到天怒人怨，胡锡进着急投谏保经济，是为保党国不翻船。以往网民骂胡“叼盘”他一概不反应：现在一说他关心经济，胡就怕了。说明什么？至少两点：1、中共国里无人有安全，人人皆可为阶下囚；2，清零与经济、保党国与保习上帝，内在利益是冲突的。习坑民也坑党国，天怒人怨党内不满或许合流。
 
 ### 10: [2022-05-23 23:40:12+08:00 推文](https://twitter.com/realcaixia/status/1528762731532255232)
 
@@ -77,7 +77,7 @@ Re @wang6332558 @xizhutou2020 @yjpc007 @YouTube 就是啊，相煎何太急！�
 
 ### 16: [2022-05-24 20:16:27+08:00 推文](https://twitter.com/realcaixia/status/1529073840462057472)
 
-转发好友推特，并借用推文，我将“解放”改为“自由”二字。<br>自救自治委员会成员已经行动起来，几个小区已先行获得自由，当有更多小区获得自由，我们就能逐步产生自由街道、行政区，最后自由全上海!<br>自由靠我们自己争取！请参与进来争取自由，在本小区内找到8个以上朋友，成立群组，纵深拓展，赢得主动权!<br><br>liqun chen（陈立群）: 上海同胞们:我们不要畏惧、退缩，我们维护自身权益、拯救上海，合法合规，合情合理!<br>自救自治委员会成员已经行动起来，先行解放几个小区。当有更多小区得到解放，我们就能逐步解放街道、行政区，最后解放全上海!<br>请参与进来争取自由，在本小区内找到8个以上朋友，成立群组，纵深拓展，赢得主动权!<br><br><video src="https://video.twimg.com/ext_tw_video/1529014988366663682/pu/vid/640x360/7n_EN97joLbXmejo.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1529014988366663682/pu/img/OwuWacBwiJe3vRi-.jpg"></video>
+转发好友推特，并借用推文，我将“解放”改为“自由”二字。<br>自救自治委员会成员已经行动起来，几个小区已先行获得自由，当有更多小区获得自由，我们就能逐步产生自由街道、行政区，最后自由全上海!<br>自由靠我们自己争取！请参与进来争取自由，在本小区内找到8个以上朋友，成立群组，纵深拓展，赢得主动权!
 
 ### 17: [2022-05-24 21:18:20+08:00 推文](https://twitter.com/realcaixia/status/1529089414449741825)
 
@@ -93,7 +93,7 @@ Re @wang6332558 @xizhutou2020 @yjpc007 @YouTube 就是啊，相煎何太急！�
 
 ### 20: [2022-05-24 21:52:40+08:00 推文](https://twitter.com/realcaixia/status/1529098058063089666)
 
-香港媒体当时记录的真实场面。中国一切热爱自由、争取自由的人，当永远记住6.4，并传告子孙后代。<br><br>🥜食花生🍻飲啤酒🤥吹吹水🤣: @realcaixia HK #TVB recorded the footage of the #8964 massacre that year, and the sound of gunfire was endless.<br><br>Many young people in China have never heard of June 4th. <br>Take a good look at it, keep it well, spread it widely, and remember it forever.<br>@un<br> #wuforget64<br><br><video src="https://video.twimg.com/ext_tw_video/1527617002948284417/pu/vid/932x720/X-xmm6o3emBHQB7f.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1527617002948284417/pu/img/MT4j0ivG0Wp8T9I0.jpg"></video>
+香港媒体当时记录的真实场面。中国一切热爱自由、争取自由的人，当永远记住6.4，并传告子孙后代。
 
 ### 21: [2022-05-25 12:00:44+08:00 推文](https://twitter.com/realcaixia/status/1529311480008560640)
 
@@ -109,23 +109,23 @@ Re @fishsalt8 说得好！不改变思维方式不可能真具有自由民主观
 
 ### 24: [2022-05-25 12:40:07+08:00 推文](https://twitter.com/realcaixia/status/1529321388275748864)
 
-这就是大度、豁达、善良，通透。不浪费时间精力打无聊口水仗，把时间精力投入在值得做的事情上。这就是活得坦荡。<br><br>王局志安: 这两天有不少人告诉我一些人在攻击我，我第一不在意，第二不关心，第三我也不会回复那些子虚乌有的各种污蔑。话说我现在非常忙，上午日语课，下午找选题录节目，看办公室，看招聘的简历，和各路想要投资的人相谈。根本顾不上看这些攻击的言论。我已两鬓斑白，不想把有限的生命浪费到这些事情上。<br>
+这就是大度、豁达、善良，通透。不浪费时间精力打无聊口水仗，把时间精力投入在值得做的事情上。这就是活得坦荡。
 
 ### 25: [2022-05-25 20:52:42+08:00 推文](https://twitter.com/realcaixia/status/1529445354650886146)
 
-陈全国这些话做实自己就是屠夫，陈说已经授权了，即屠杀维族人是北京最高层下令了。
+陈全国这些话做实自己就是屠夫，陈说已经授权了，即屠杀维族人是北京最高层下令了。<br><br>韩连潮: 【格杀勿论令】陈全国5.28讲话：<br>“你像我们的17、8岁的孩子，20多岁的孩子，一参加暴恐团伙就击毙，这些人，不也是受蒙蔽的受害人吗？”<br>“...否则参加暴恐就击毙了，参加培训班还可以转化，转化之后还能生活..."<br>"...跑几步把他击毙了，你像这些你跑了就击毙没什么问题的，早都授权了。"<br><br><img style="" src="https://pbs.twimg.com/media/FTmeAw5XEAMRMs1?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 26: [2022-05-25 20:55:34+08:00 推文](https://twitter.com/realcaixia/status/1529446076134064132)
 
-💔
+💔<br><br>韩连潮: 看到这张照片仍无动于衷的，我不知道他们是什么！<br><br><img style="" src="https://pbs.twimg.com/media/FTmkwgvXsAASlep?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 27: [2022-05-26 02:13:17+08:00 推文](https://twitter.com/realcaixia/status/1529526030536708096)
 
-索罗斯是位目光极为锐利的智者。早在2019年，索罗斯就指出中共国利用高科技，正在威胁世界和平和人类文明。<br>后来索罗斯几次发表文章，提醒与告诫自由民主国家要高度警惕习近平掌控下的中国。他对中共极权政权的清醒认识，甚至超过美国的一些热衷于中美engagement policy 的政治家们。
+索罗斯是位目光极为锐利的智者。早在2019年，索罗斯就指出中共国利用高科技，正在威胁世界和平和人类文明。<br>后来索罗斯几次发表文章，提醒与告诫自由民主国家要高度警惕习近平掌控下的中国。他对中共极权政权的清醒认识，甚至超过美国的一些热衷于中美engagement policy 的政治家们。<br><br>韩连潮: 【索罗斯如是说】索罗斯昨在世界经济论坛上发表演讲，称俄入侵乌克兰可能是第三次世界大战的开始，威胁到人类文明；中俄利用高科技构成了对世界的最大威胁。但他也指这两个专制政权都开始出现裂痕 -- 普京入侵乌克兰被世界孤立，习近平抗疫失误引发人民不满。<br><br><img style="" src="https://pbs.twimg.com/media/FTmnuiaWIAAIgnI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 28: [2022-05-26 02:17:21+08:00 推文](https://twitter.com/realcaixia/status/1529527052629528581)
 
-封城清零封到老鼠饿死在面店里。<br><br>吴文行wenxingwu: 上海因疫情店面关闭，老鼠被活活饿死！饥荒达到高水准！<br><br><img style="" src="https://pbs.twimg.com/media/FTlbvqPVsAAZA3s?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+封城清零封到老鼠饿死在面店里。
 
 ### 29: [2022-05-26 22:53:06+08:00 推文](https://twitter.com/realcaixia/status/1529838039152922625)
 
@@ -133,7 +133,7 @@ Re @fishsalt8 说得好！不改变思维方式不可能真具有自由民主观
 
 ### 30: [2022-05-26 23:05:36+08:00 推文](https://twitter.com/realcaixia/status/1529841185031716864)
 
-清零的“丰功伟绩”——经济大盘将崩，5/25李克强召开全国稳住经济大盘会议。李期望挽回经济，挽救中共党国将崩塌的统治基础，习和习小兄弟伙要保的是权力宝座。习李分歧明朗，各自代表不同利益。<br><br>Jam: “习主席，太伟大了！他做主席，做一辈子”，中国人口不用计划生育,也要减半。<br><br><video src="https://video.twimg.com/ext_tw_video/1529653249585860609/pu/vid/640x368/qR0MHZzcuVXN3qXg.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1529653249585860609/pu/img/GutYr44ZW7OaG9rj.jpg"></video>
+清零的“丰功伟绩”——经济大盘将崩，5/25李克强召开全国稳住经济大盘会议。李期望挽回经济，挽救中共党国将崩塌的统治基础，习和习小兄弟伙要保的是权力宝座。习李分歧明朗，各自代表不同利益。
 
 ### 31: [2022-05-27 07:36:34+08:00 推文](https://twitter.com/realcaixia/status/1529969775803260931)
 
@@ -161,7 +161,7 @@ Re @fishsalt8 说得好！不改变思维方式不可能真具有自由民主观
 
 ### 37: [2022-05-27 21:26:25+08:00 推文](https://twitter.com/realcaixia/status/1530178613085192192)
 
-请听学生喊的口号。
+请听学生喊的口号。<br><br>帥哥: @realcaixia 給<br><br><video src="https://video.twimg.com/ext_tw_video/1530177981246672897/pu/vid/960x528/K5bnn03vwg2Pb1Wh.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1530177981246672897/pu/img/-QFYc18VqmxNE6gP.jpg"></video>
 
 ### 38: [2022-05-27 21:39:12+08:00 推文](https://twitter.com/realcaixia/status/1530181830594502659)
 
@@ -205,7 +205,7 @@ Re 就是这个视频。请关注。<br><img style="" src="https://pbs.twimg.com
 
 ### 48: [2022-05-28 22:05:34+08:00 推文](https://twitter.com/realcaixia/status/1530550852913704961)
 
-请读一读这篇文章。<br><br>公民力量: CPIFC: The Myth of Public Opinion Under Xi Jinping #xijinping<br> <a href="https://www.citizenpowerforchina.org/the-myth-of-public-opinion-under-xi-jinping/" target="_blank" rel="noopener noreferrer">https://www.citizenpowerforchina.org/the-myth-of-public-opinion-under-xi-jinping/</a>
+请读一读这篇文章。
 
 ### 49: [2022-05-28 22:08:33+08:00 推文](https://twitter.com/realcaixia/status/1530551603727675393)
 
