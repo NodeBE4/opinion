@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-02-10
+date: 2023-02-11
 from: https://old.reddit.com/r/HobbyDrama/comments/10unm05/hobby_scuffles_week_of_february_5_2023/
 layout: post
 tags:
@@ -159,4 +159,10 @@ But where are they going, and, more crucially, how? We know that a fully-crammed
 ----- __1102.2__ -----2023-02-10 19:58:32+08:00:
 
 According to Pike that saw 30% of the human population wiped out, so assuming no demographic recovery by 2150, that still means that in order to get to 4 billion (i.e. lose 1.6 billion), you'd need a little over 100,000 Galaxy-class trips, or 400 per year, or at least one fully-laden Galaxy leaving Earth every day and an extra at the weekend.
+
+### 1103: [Why did Malyasia and Indonesia (and Brunei) end up as separate states after decolonisation, rather than a single state? Both regions have Malay as a lingua franca, long histories of connection, and a shared border on Borneo. Was it just continuity from the colonial period, or was there more at work?](https://old.reddit.com/r/AskHistorians/comments/10yy6ps/why_did_malyasia_and_indonesia_and_brunei_end_up/), submitted on 2023-02-11 01:51:33+08:00.
+
+----- __1103.1__ -----2023-02-11 17:07:46+08:00:
+
+While this is a very interesting chronology, it still leaves me in the dark on the *why* of things. What *about* those separate colonial histories meant that Malaysia and Indonesia ultimately reified into two distinct state formations?
 

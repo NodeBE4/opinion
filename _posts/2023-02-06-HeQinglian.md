@@ -177,7 +177,7 @@ Re @fading_you1 与美国民主党支持者相同。都是求仁得仁，如其�
 
 ### 41: [2023-02-07 02:10:12+08:00 推文](https://twitter.com/HeQinglian/status/1622658936313610240)
 
-RT He Qinglian<br>Re @fading_you1 日本首相解雇了一名助理，原因是这位先生说了他不想看到同性恋和自己做邻居。同性恋发起山呼海啸的抗议，首相只得表示愤怒解雇他。<br>日本是G7当中唯一同婚未合法化的国家，同性恋们趁机再推一把。不过，日本大龄女35岁至50岁未婚占同龄人近40%，拉拉很快会如雨后春笋。 <a href="https://www.bbc.com/news/world-asia-64521862" target="_blank" rel="noopener noreferrer">https://www.bbc.com/news/world-asia-64521862</a>
+Re @fading_you1 日本首相解雇了一名助理，原因是这位先生说了他不想看到同性恋和自己做邻居。同性恋发起山呼海啸的抗议，首相只得表示愤怒解雇他。<br>日本是G7当中唯一同婚未合法化的国家，同性恋们趁机再推一把。不过，日本大龄女35岁至50岁未婚占同龄人近40%，拉拉很快会如雨后春笋。 <a href="https://www.bbc.com/news/world-asia-64521862" target="_blank" rel="noopener noreferrer">https://www.bbc.com/news/world-asia-64521862</a>
 
 ### 42: [2023-02-07 02:47:06+08:00 推文](https://twitter.com/HeQinglian/status/1622668222603436038)
 
@@ -237,7 +237,7 @@ Re @JianglinLi 拜登想挣回两次面子：<br>一是打气球——虽然迟�
 
 ### 56: [2023-02-07 23:17:23+08:00 推文](https://twitter.com/HeQinglian/status/1622977832128245763)
 
-RT He Qinglian<br>Re @JianglinLi 我一直没弄明白，国务卿这个位置的高官出马，其实是诸事在略低层次的官员谈定各种协议后才出面，仪式性地敲定双方协约。<br>有什么事情非要当面谈，谈前还要向世界宣布：我要给中国划条红线、带去警告，让北京在俄罗斯问题上不要乱说乱动？<br>中国政府早就放弃轁光养晦，露出牙齿与爪子了。
+Re @JianglinLi 我一直没弄明白，国务卿这个位置的高官出马，其实是诸事在略低层次的官员谈定各种协议后才出面，仪式性地敲定双方协约。<br>有什么事情非要当面谈，谈前还要向世界宣布：我要给中国划条红线、带去警告，让北京在俄罗斯问题上不要乱说乱动？<br>中国政府早就放弃轁光养晦，露出牙齿与爪子了。
 
 ### 57: [2023-02-07 23:36:43+08:00 推文](https://twitter.com/HeQinglian/status/1622982700234678272)
 
@@ -457,7 +457,7 @@ Re @NAConservative9 话说，这本来就是左派希望追求多年、不惜在
 
 ### 111: [2023-02-09 04:33:29+08:00 推文](https://twitter.com/HeQinglian/status/1623419769557852161)
 
-共和党的教养还是强出不少，对比波洛希撕毁川普的国情咨文。据说出身富人之家，行为堪比AOC那街区长大之人。<div class="rsshub-quote"><br><br>东七区无面者FacelessMen: 感受一下美国两党现在的撕裂程度，拜登在前面放，后面只有哈里斯假装鼓掌示意，麦卡锡根本听都不带听的回去就发twitter骂拜登。<br><br><video src="https://video.twimg.com/ext_tw_video/1623162272066703360/pu/vid/1280x720/jZZ2BGghh-PT-zeH.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1623162272066703360/pu/img/nht24CLiapyHdh2k.jpg"></video> <a href="https://twitter.com/harry_shosta/status/1623160605506166784" target="_blank" rel="noopener noreferrer">https://twitter.com/harry_shosta/status/1623160605506166784</a></div>
+共和党的教养还是强出不少，对比波洛希撕毁川普的国情咨文。据说出身富人之家，行为堪比AOC那街区长大之人。<div class="rsshub-quote"><br><br>东七区无面者FacelessMen: 感受一下美国两党现在的撕裂程度，拜登在前面放，后面只有哈里斯假装鼓掌示意，麦卡锡根本听都不带听的回去就发twitter骂拜登。<br><br><video src="https://video.twimg.com/ext_tw_video/1623162272066703360/pu/vid/1280x720/jZZ2BGghh-PT-zeH.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1623162272066703360/pu/img/nht24CLiapyHdh2k.jpg"></video></div>
 
 ### 112: [2023-02-09 04:53:21+08:00 推文](https://twitter.com/HeQinglian/status/1623424771504447488)
 
@@ -726,4 +726,12 @@ Re @9998au @ElaineYuMuMu 无脑两脚羊。希望他将来用AI训练他的后�
 ### 178: [2023-02-11 10:59:45+08:00 推文](https://twitter.com/HeQinglian/status/1624241754437300227)
 
 Re @JianglinLi 没关系。导弹闲置，不是送乌克兰就是打气球，比较而言，捍卫领空更重要。<br>堂堂美利坚，如果上一个不吭声地打掉，而不是先让布林肯找王毅协商碰钉子，再经过白宫五角大楼多次会议，媒体社会动员，对方也不会送第二个来了。
+
+### 179: [2023-02-11 17:26:47+08:00 推文](https://twitter.com/HeQinglian/status/1624339154182995969)
+
+Re @Lucs24659702 有拜登在，人家正感觉“敌人一天天烂下去，我们一天天好起来”。在接受美国PBS专访时，拜登说，中国国家主席习近平现在面临"巨大麻烦"，其中包括"运转不怎么良好的经济"。<br>美国主流媒体对此解读也很有意思。崩溃？那必定是中国崩溃，不是美国。
+
+### 180: [2023-02-11 17:30:58+08:00 推文](https://twitter.com/HeQinglian/status/1624340204646539266)
+
+Re @MuracoSmart 不着急，打完了，等主人前来认领。目前可能正在鉴定中。
 
