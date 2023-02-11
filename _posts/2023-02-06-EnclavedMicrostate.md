@@ -170,3 +170,7 @@ According to Pike that saw 30% of the human population wiped out, so assuming no
 
 While this is a very interesting chronology, it still leaves me in the dark on the *why* of things. What *about* those separate colonial histories meant that Malaysia and Indonesia ultimately reified into two distinct state formations?
 
+----- __1103.2__ -----2023-02-11 20:21:18+08:00:
+
+Thank you! This really adds a lot of context to the period that I hadn't been aware of, which does a lot to explain things.
+

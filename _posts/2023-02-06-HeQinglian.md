@@ -233,11 +233,11 @@ Re @runrunalong 先打招呼，让其停下来。😅告诉澳政府：上次中
 
 ### 55: [2023-02-07 23:10:24+08:00 推文](https://twitter.com/HeQinglian/status/1622976073733402624)
 
-Re @JianglinLi 拜登想挣回两次面子：<br>一是打气球——虽然迟了几天，但几天前就做了决定，况且川普时期气球来过三回（无时间、地点与纪录，说来了就来了），全世界五大洲都遇到中国气球舰队，就我拜登敢打。<br>二是敢给中国政府划道道，不许援俄，不能反美国制裁，否则你看着办。<br>内里：求求你，赶紧让布林肯去北京。
+RT He Qinglian<br>Re @JianglinLi 拜登想挣回两次面子：<br>一是打气球——虽然迟了几天，但几天前就做了决定，况且川普时期气球来过三回（无时间、地点与纪录，说来了就来了），全世界五大洲都遇到中国气球舰队，就我拜登敢打。<br>二是敢给中国政府划道道，不许援俄，不能反美国制裁，否则你看着办。<br>内里：求求你，赶紧让布林肯去北京。
 
 ### 56: [2023-02-07 23:17:23+08:00 推文](https://twitter.com/HeQinglian/status/1622977832128245763)
 
-Re @JianglinLi 我一直没弄明白，国务卿这个位置的高官出马，其实是诸事在略低层次的官员谈定各种协议后才出面，仪式性地敲定双方协约。<br>有什么事情非要当面谈，谈前还要向世界宣布：我要给中国划条红线、带去警告，让北京在俄罗斯问题上不要乱说乱动？<br>中国政府早就放弃轁光养晦，露出牙齿与爪子了。
+RT He Qinglian<br>Re @JianglinLi 我一直没弄明白，国务卿这个位置的高官出马，其实是诸事在略低层次的官员谈定各种协议后才出面，仪式性地敲定双方协约。<br>有什么事情非要当面谈，谈前还要向世界宣布：我要给中国划条红线、带去警告，让北京在俄罗斯问题上不要乱说乱动？<br>中国政府早就放弃轁光养晦，露出牙齿与爪子了。
 
 ### 57: [2023-02-07 23:36:43+08:00 推文](https://twitter.com/HeQinglian/status/1622982700234678272)
 
@@ -457,7 +457,7 @@ Re @NAConservative9 话说，这本来就是左派希望追求多年、不惜在
 
 ### 111: [2023-02-09 04:33:29+08:00 推文](https://twitter.com/HeQinglian/status/1623419769557852161)
 
-共和党的教养还是强出不少，对比波洛希撕毁川普的国情咨文。据说出身富人之家，行为堪比AOC那街区长大之人。<div class="rsshub-quote"><br><br>东七区无面者FacelessMen: 感受一下美国两党现在的撕裂程度，拜登在前面放，后面只有哈里斯假装鼓掌示意，麦卡锡根本听都不带听的回去就发twitter骂拜登。<br><br><video src="https://video.twimg.com/ext_tw_video/1623162272066703360/pu/vid/1280x720/jZZ2BGghh-PT-zeH.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1623162272066703360/pu/img/nht24CLiapyHdh2k.jpg"></video></div>
+共和党的教养还是强出不少，对比波洛希撕毁川普的国情咨文。据说出身富人之家，行为堪比AOC那街区长大之人。<div class="rsshub-quote"><br><br>东七区无面者FacelessMen: 感受一下美国两党现在的撕裂程度，拜登在前面放，后面只有哈里斯假装鼓掌示意，麦卡锡根本听都不带听的回去就发twitter骂拜登。<br><br><video src="https://video.twimg.com/ext_tw_video/1623162272066703360/pu/vid/1280x720/jZZ2BGghh-PT-zeH.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1623162272066703360/pu/img/nht24CLiapyHdh2k.jpg"></video> <a href="https://twitter.com/harry_shosta/status/1623160605506166784" target="_blank" rel="noopener noreferrer">https://twitter.com/harry_shosta/status/1623160605506166784</a></div>
 
 ### 112: [2023-02-09 04:53:21+08:00 推文](https://twitter.com/HeQinglian/status/1623424771504447488)
 
@@ -734,4 +734,12 @@ Re @Lucs24659702 有拜登在，人家正感觉“敌人一天天烂下去，我
 ### 180: [2023-02-11 17:30:58+08:00 推文](https://twitter.com/HeQinglian/status/1624340204646539266)
 
 Re @MuracoSmart 不着急，打完了，等主人前来认领。目前可能正在鉴定中。
+
+### 181: [2023-02-11 17:42:30+08:00 推文](https://twitter.com/HeQinglian/status/1624343107083853824)
+
+“中国气球事件”在华府上空化成皂沫<br>美国自答题：美中关系是否会更恶化？<br>纽时《解析：中国间谍气球事件为何不同寻常》称超级大国相互监视并非新鲜事，通过气球监视是美国首创<br>WSJ《中国周末释出信号，希望气球事件翻篇》：中国外交部罕见地“表示遗憾”，为避免冲突升级留了余地 <a href="https://www.sbs.com.au/language/chinese/zh-hans/article/chinese-balloon-incident-comment/22mjna6wa" target="_blank" rel="noopener noreferrer">https://www.sbs.com.au/language/chinese/zh-hans/article/chinese-balloon-incident-comment/22mjna6wa</a>
+
+### 182: [2023-02-11 17:45:05+08:00 推文](https://twitter.com/HeQinglian/status/1624343756320243713)
+
+Re 第二个气球击落，主人身份确定之后，自答题可能更进一步。<br>邮寄选票与“2000头骡子”选出来的拜登政府，还能有什么期望？
 
