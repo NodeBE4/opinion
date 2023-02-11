@@ -174,3 +174,9 @@ While this is a very interesting chronology, it still leaves me in the dark on t
 
 Thank you! This really adds a lot of context to the period that I hadn't been aware of, which does a lot to explain things.
 
+### 1104: [Why isn't Chinese history as popular or well-known as European history?](https://old.reddit.com/r/AskHistorians/comments/10zgy4q/why_isnt_chinese_history_as_popular_or_wellknown/), submitted on 2023-02-11 17:21:35+08:00.
+
+----- __1104.1__ -----2023-02-11 22:12:38+08:00:
+
+More may be said on the broader matter of Chinese history, but as I get into in [this answer](https://www.reddit.com/r/AskHistorians/comments/wohtte/why_isnt_the_taiping_rebellion_more_well_known/ikcm7vb/?context=999), given the way that history is generally understood, it makes sense (in the sense of, it is consistent with the internal logics of historical education as it currently exists) that history is taught in a *national* manner that emphasises narratives of national emergence and development. For instance, Rome is thus a part of British history in a way that it isn't for Chinese history; imperial China is a part of Chinese history in a way that it isn't for, say, French or German history. I would also note, drawing from [this answer](https://www.reddit.com/r/AskHistorians/comments/wohtte/why_isnt_the_taiping_rebellion_more_well_known/ikcm7vb/?context=999), that **importance** and **scale** ought not to be conflated. It is entirely reasonable to say, for instance, that the American Civil War was more important *to America* than the Taiping War, despite the disparity in mortality; indeed, I would allow that it may even have been more important globally than the Taiping War because of the place of the United States in the global networks of the time and the extent to which the war disrupted that place.
+
