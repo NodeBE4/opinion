@@ -53,7 +53,7 @@ Re LT视界这期节目，集中两个问题：1，美击落中共高空间谍�
 
 ### 10: [2023-02-08 17:42:35+08:00 推文](https://twitter.com/realcaixia/status/1623255964081172486)
 
-好诗！<div class="rsshub-quote"><br><br>高瑜: 【季風的癸卯年】從除夕到初六，六四學生領袖、詩人季風天天收到電話騷擾，讓閉嘴、刪貼。長假過後繼續不讓涉及“白紙運動”和胡鑫宇案，元宵節竟然登門談話。詩人憤怒，連夜做詩，因為詩中有“流浪氣球”和“兩根鞋帶”，有司竟然又兩次登門，讓即刪詩，詩人不從，此事還沒完。<br> <a href="https://twitter.com/jhf8964/status/1622383477823000577" target="_blank" rel="noopener noreferrer">https://twitter.com/jhf8964/status/1622383477823000577</a></div>
+好诗！<div class="rsshub-quote"><br><br>高瑜: 【季風的癸卯年】從除夕到初六，六四學生領袖、詩人季風天天收到電話騷擾，讓閉嘴、刪貼。長假過後繼續不讓涉及“白紙運動”和胡鑫宇案，元宵節竟然登門談話。詩人憤怒，連夜做詩，因為詩中有“流浪氣球”和“兩根鞋帶”，有司竟然又兩次登門，讓即刪詩，詩人不從，此事還沒完。<br></div>
 
 ### 11: [2023-02-10 01:52:25+08:00 推文](https://twitter.com/realcaixia/status/1623741623715655680)
 
@@ -69,9 +69,13 @@ Re LT视界这期节目，集中两个问题：1，美击落中共高空间谍�
 
 ### 14: [2023-02-10 03:29:03+08:00 推文](https://twitter.com/realcaixia/status/1623765944198909952)
 
-不仅是吹牛，而且是狂妄加野心。习既不直说与自由民主国家为敌，又大力推销中国模式，只能用吹牛和谎言为手段来蒙骗那些又想维持旧权力规则又想从中国捞到好处的某些发展中国家首脑。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 繼續吹牛😃<br> <a href="https://twitter.com/RudyakMarina/status/1623759148100866051" target="_blank" rel="noopener noreferrer">https://twitter.com/RudyakMarina/status/1623759148100866051</a></div>
+不仅是吹牛，而且是狂妄加野心。习既不直说与自由民主国家为敌，又大力推销中国模式，只能用吹牛和谎言为手段来蒙骗那些又想维持旧权力规则又想从中国捞到好处的某些发展中国家首脑。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 繼續吹牛😃<br> <a href="https://twitter.com/rudyakmarina/status/1623759148100866051" target="_blank" rel="noopener noreferrer">https://twitter.com/rudyakmarina/status/1623759148100866051</a></div>
 
 ### 15: [2023-02-11 03:37:14+08:00 推文](https://twitter.com/realcaixia/status/1624130388430884881)
 
 这次或许不演戏了。看看快递小哥们的表情，这是自然反应，小哥们没把习当作什么“东方又红、太阳又升”。习想爬上神坛，享受毛太阳的天安门红卫兵发疯似的欢呼雀跃，面对小哥们习不断说好听的话暖场，小哥不热泪盈眶不灿烂笑容，那眼神里透着冷，没温度。未知习近平可心寒胆颤？<div class="rsshub-quote"><br><br>一剑飘尘 007: 感觉这次工作不到位，一不小心走进真正的快递员队伍里，而不是演员的队伍了。没有热泪盈眶，没有山呼万岁，这样的视频能播出来，说明习包子在中共党内威信严重下降<br><br><video src="https://video.twimg.com/ext_tw_video/1623309365137801217/pu/vid/848x464/lvPlNFpRfX5AambX.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1623309365137801217/pu/img/TlfIHIJ6WYE7NzaR.jpg"></video></div>
+
+### 16: [2023-02-11 22:58:32+08:00 推文](https://twitter.com/realcaixia/status/1624422639011008513)
+
+特别推荐：<br>習近平開錯藥方，經濟陷惡性循環，政府缺錢挖百姓墻角，紅衛兵一代上街維權；白紙運動后效應，民間抗議如火如荼；內外交困，習近平要求為驚濤駭浪做準備｜#菁英論壇【石山角度】(有冇搞錯國語)| 2022. - YouTube <a href="https://m.youtube.com/watch?v=xITj4zaLTWs" target="_blank" rel="noopener noreferrer">https://m.youtube.com/watch?v=xITj4zaLTWs</a>
 
