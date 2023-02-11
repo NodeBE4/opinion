@@ -349,7 +349,7 @@ Re 【新冠肺炎】因疫苗副作用　逾万澳洲人向当局索赔<br><br>
 
 ### 84: [2022-04-06 23:57:08+08:00 推文](https://twitter.com/HeQinglian/status/1511734760292458503)
 
-IMF基金组织份额<br>2016年7月29日<br>始自2014年的IMF改革，份额比重显著调整。中国成为基金组织第三大成员国，调整后基金组织份额最大的十个成员国中有四个新兴市场和发展中国家（巴西、中国、印度和俄罗斯）。<br><br>WilderMohn’er 野罂粟2: 把俄罗斯开除出国际货币基金组织将不能成功 - 美国财政部长<br> <a href="https://twitter.com/ntvru/status/1511732103460933634" target="_blank" rel="noopener noreferrer">https://twitter.com/ntvru/status/1511732103460933634</a>
+IMF基金组织份额<br>2016年7月29日<br>始自2014年的IMF改革，份额比重显著调整。中国成为基金组织第三大成员国，调整后基金组织份额最大的十个成员国中有四个新兴市场和发展中国家（巴西、中国、印度和俄罗斯）。 <a href="https://www.imf.org/zh/About/Factsheets/Sheets/2016/07/14/12/21/IMF-Quotas" target="_blank" rel="noopener noreferrer">https://www.imf.org/zh/About/Factsheets/Sheets/2016/07/14/12/21/IMF-Quotas</a>
 
 ### 85: [2022-04-07 01:36:08+08:00 推文](https://twitter.com/HeQinglian/status/1511759675477405702)
 
@@ -361,7 +361,7 @@ Re @wen_spring Musk还未进入工作状态。<br>Twitter经营团队说了，�
 
 ### 87: [2022-04-07 01:51:55+08:00 推文](https://twitter.com/HeQinglian/status/1511763649693683716)
 
-Re 附一网友推文： <a href="https://twitter.com/bruce_sun/status/1511744704303443974" target="_blank" rel="noopener noreferrer">https://twitter.com/bruce_sun/status/1511744704303443974</a>
+Re 附一网友推文：<br><br>Bruccess: @HeQinglian 不是你给的链接错了，是短链接服务崩了，没法解析，<br> <a href="https://www.servicesaustralia.gov.au/how-to-make-claim-under-covid-19-vaccine-claims-scheme?context=55953" target="_blank" rel="noopener noreferrer">https://www.servicesaustralia.gov.au/how-to-make-claim-under-covid-19-vaccine-claims-scheme?context=55953</a>
 
 ### 88: [2022-04-07 02:01:13+08:00 推文](https://twitter.com/HeQinglian/status/1511765986311036928)
 
@@ -989,7 +989,7 @@ Re @HHWyH5IacghLykf 泽连斯基正在攀登他人生的珠穆朗玛峰，这也
 
 ### 244: [2022-04-09 22:56:25+08:00 推文](https://twitter.com/HeQinglian/status/1512806646686306311)
 
-展示一枚头大症。<br>这位头大症以为自己是万国智库，说句话世界都得听。其实，各国是否制裁中国，完全看自己有无能力。世界上没有哪个国家会根据这位头大症的话，让本国民众失业去制裁另一国家。欧盟国家的烦恼正大着呢。
+展示一枚头大症。<br>这位头大症以为自己是万国智库，说句话世界都得听。其实，各国是否制裁中国，完全看自己有无能力。世界上没有哪个国家会根据这位头大症的话，让本国民众失业去制裁另一国家。欧盟国家的烦恼正大着呢。<br><br>Colosseo: 德国也依赖中国市场，按照你这种逻辑美国是不是要放共匪一码，免得误伤盟友？看到没，啧啧，归根结底还是要回到放生党国的逻辑线上。<br> <a href="https://twitter.com/HeQinglian/status/1512804560385028109" target="_blank" rel="noopener noreferrer">https://twitter.com/HeQinglian/status/1512804560385028109</a>
 
 ### 245: [2022-04-09 22:59:41+08:00 推文](https://twitter.com/HeQinglian/status/1512807466454630403)
 
@@ -1117,7 +1117,7 @@ Re @davidyching 拜登是这样说的：让普京政权垮台。我知道欧盟�
 
 ### 276: [2022-04-10 10:07:33+08:00 推文](https://twitter.com/HeQinglian/status/1512975543544819712)
 
-德国让一些人很生气：<br>英国“卫报”报导，德总理萧兹（Olaf Scholz）上任后首度与英国进行双边扩大会谈，会后与英首相Boris Johnson共同举行记者会。<br>萧兹表示，德国正竭尽所能摆脱对俄罗斯能源的依赖，但不愿为英国首相提出2024年中起停止从俄国进口天然气的要求背书。<br>😂
+德国让一些人很生气：<br>英国“卫报”报导，德总理萧兹（Olaf Scholz）上任后首度与英国进行双边扩大会谈，会后与英首相Boris Johnson共同举行记者会。<br>萧兹表示，德国正竭尽所能摆脱对俄罗斯能源的依赖，但不愿为英国首相提出2024年中起停止从俄国进口天然气的要求背书。<br>😂<br><br>He Qinglian: 德国联邦国防军几乎没有可供给乌克兰的武器了 <br>德国前总理默克尔为任期内没有同意乌克兰靠近北约和欧盟而受到批评。默克尔为自己当年的政策做了辩护。但批评声持续不断，认为默对现在的乌克兰战争负有潜在的连带责任。现基民盟高层经过讨论后，明确支持前党领袖默克尔的路线。<br> <a href="https://rfi.my/8K6d.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8K6d.T</a>
 
 ### 277: [2022-04-10 10:13:07+08:00 推文](https://twitter.com/HeQinglian/status/1512976942206791686)
 
@@ -1205,7 +1205,7 @@ Re @Wu_Zhi 自己相信就好，不是好多人都说美乌共享信息战非常
 
 ### 298: [2022-04-10 21:58:14+08:00 推文](https://twitter.com/HeQinglian/status/1513154388877062150)
 
-Re @telte99 @Colosseo77 因为我比你看得远。<br>第一层次：俄罗斯侵略乌克兰——你属于这个层次，大多数，70%；<br>第二层次：两国的历史恩怨，乌克兰本身的问题——25%；<br>第三层次：全球化失败后的大重置，拜登治下的美国是理想模式。<br>因此，你离我这远点，你还差得太远。就是左派思维，不同意见就是投共。
+RT He Qinglian<br>Re @telte99 @Colosseo77 因为我比你看得远。<br>第一层次：俄罗斯侵略乌克兰——你属于这个层次，大多数，70%；<br>第二层次：两国的历史恩怨，乌克兰本身的问题——25%；<br>第三层次：全球化失败后的大重置，拜登治下的美国是理想模式。<br>因此，你离我这远点，你还差得太远。就是左派思维，不同意见就是投共。
 
 ### 299: [2022-04-10 22:01:33+08:00 推文](https://twitter.com/HeQinglian/status/1513155223539306496)
 
