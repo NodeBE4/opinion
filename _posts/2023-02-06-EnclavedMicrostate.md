@@ -112,6 +112,10 @@ If you want a perspective from someone with a bit more scholarly training and ex
 
 And you presume correctly!
 
+----- __1096.4__ -----2023-02-11 18:00:58+08:00:
+
+There's absolutely a strand of 'unificationist' thinking in Chinese grand strategy, but the thing is, there was never a consistent geographical definition of what 'China' one was supposed to 'unify'. In practice, this was usually *suspiciously* similar to the land encompassed by the empire claiming to have achieved 'unification', irrespective of additional conquests or missing breakaway regions. The Song did indeed fail to fully 'unify' China's cultural space, but their policies of ethnographic classification that I mention in the above answer fall into a general pattern of essentialising 'China' into the lands of the Song Empire to the exclusion of their allegedly 'lost' territory; the Ming were arguably huffing from the same bottle of copium when they gave up on military interventionism in the steppe and built the Great Wall, or when they were forced out of Vietnam. In this regard, the PRC is actually relatively unusual – although the timescale is still a bit shorter – in that it has not dropped its irredentist claims to Taiwan.
+
 ### 1097: [NIJISANJI’s Zaion LanZa Has Been Suspended](https://old.reddit.com/r/VirtualYoutubers/comments/10wv0df/nijisanjis_zaion_lanza_has_been_suspended/), submitted on 2023-02-08 20:06:27+08:00.
 
 ----- __1097.1__ -----2023-02-09 00:25:44+08:00:
