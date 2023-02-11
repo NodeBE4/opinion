@@ -53,7 +53,7 @@ Re LT视界这期节目，集中两个问题：1，美击落中共高空间谍�
 
 ### 10: [2023-02-08 17:42:35+08:00 推文](https://twitter.com/realcaixia/status/1623255964081172486)
 
-好诗！<div class="rsshub-quote"><br><br>高瑜: 【季風的癸卯年】從除夕到初六，六四學生領袖、詩人季風天天收到電話騷擾，讓閉嘴、刪貼。長假過後繼續不讓涉及“白紙運動”和胡鑫宇案，元宵節竟然登門談話。詩人憤怒，連夜做詩，因為詩中有“流浪氣球”和“兩根鞋帶”，有司竟然又兩次登門，讓即刪詩，詩人不從，此事還沒完。<br> <a href="https://twitter.com/jhf8964/status/1622383477823000577" target="_blank" rel="noopener noreferrer">https://twitter.com/jhf8964/status/1622383477823000577</a></div>
+好诗！<div class="rsshub-quote"><br><br>高瑜: 【季風的癸卯年】從除夕到初六，六四學生領袖、詩人季風天天收到電話騷擾，讓閉嘴、刪貼。長假過後繼續不讓涉及“白紙運動”和胡鑫宇案，元宵節竟然登門談話。詩人憤怒，連夜做詩，因為詩中有“流浪氣球”和“兩根鞋帶”，有司竟然又兩次登門，讓即刪詩，詩人不從，此事還沒完。<br></div>
 
 ### 11: [2023-02-10 01:52:25+08:00 推文](https://twitter.com/realcaixia/status/1623741623715655680)
 
@@ -94,4 +94,24 @@ Re 分享菁英论坛节目，听对中国局势更多角度的分析，这对�
 ### 20: [2023-02-12 03:28:02+08:00 推文](https://twitter.com/realcaixia/status/1624490461720371200)
 
 中共大外宣和中共网军是在“帮”我扩大影响吗？<br><img style="" src="https://pbs.twimg.com/media/FotZdCvacAAvpXS?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FotZdieaEAAjliI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 21: [2023-02-12 06:09:54+08:00 推文](https://twitter.com/realcaixia/status/1624531199103483904)
+
+ <a href="https://v.youku.com/v_show/id_XNzQ1MDMyMzU2.html?playMode=pugv&amp;frommaciku=1" target="_blank" rel="noopener noreferrer">https://v.youku.com/v_show/id_XNzQ1MDMyMzU2.html?playMode=pugv&amp;frommaciku=1</a>
+
+### 22: [2023-02-12 06:25:43+08:00 推文](https://twitter.com/realcaixia/status/1624535176410959872)
+
+这篇文章写得真好。<div class="rsshub-quote"><br><br>Cai Chu: 野渡：不负爱与自由<br>2011年12月18日，在香港友人的聚会上，我与幸彤初相遇。聚会友人颇多，而幸彤说话不多，所以我们彼此都没留下深刻印象，也没交换联系方式。我们都没预料到，这偶然的寻常相遇是必然相爱的开始，冥冥之中我们已被命运用无形的线紧紧捆绑在一起。<br><br><img style="" src="https://pbs.twimg.com/media/FoiiipuXgAAGpy3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://minzhuzhongguo.org/default.php?id=100188" target="_blank" rel="noopener noreferrer">https://minzhuzhongguo.org/default.php?id=100188</a></div>
+
+### 23: [2023-02-12 06:27:52+08:00 推文](https://twitter.com/realcaixia/status/1624535719606906880)
+
+赞同文章作者的基本看法。<div class="rsshub-quote"><br><br>楊建利 Jianli (Doc) Yang: 我在《The Diplomat外交家》杂志上撰文说明，对王沪宁的任用透露了习近平针对台湾的一个思路，虽然他意识到和平统一已变得很渺茫，但为了师出有名，他需要王推出新的统一台湾的理论，取代老的失去效力的“一国两制”，由此对台施加压力。新理论将是对台统战的指导，也是“大棒加胡萝卜”的新种胡萝卜。<br></div>
+
+### 24: [2023-02-12 06:37:01+08:00 推文](https://twitter.com/realcaixia/status/1624538022208507905)
+
+中共的连骗带恐吓，半个字都不要相信。尽量公开透明每一次被警察找谈话的情况，越透明他们越有顾忌，在目前境况下为自己撑开的争取权利、保护自己的空间就越大。<div class="rsshub-quote"><br><br>王丽（王藏妻子）: 今天有关部门来到家里找我谈话。<br>1.了解到家里的情况确实特殊困难，看能否帮忙给我安排工作。<br>2.让我不要和外界人士联系，否则第二次进去会非常麻烦。<br>3.让我转告王藏，出狱后不要乱写乱画乱说。<br>4.这次对我和王藏的处理是很轻的，因政府考虑到我们有四个孩子，不然会很重。<br></div>
+
+### 25: [2023-02-12 06:38:47+08:00 推文](https://twitter.com/realcaixia/status/1624538465659666433)
+
+作者提出的查清案件真相的这些原则极为重要❗️<div class="rsshub-quote"><br><br>楊建利 Jianli (Doc) Yang: 武书剑 | 胡鑫宇案：适用 “ 他杀推定 ” 原则 ！ <br>#议报<br>我只是提出“他杀推定”这样一种价值观。希望推动我国的司法进步！<br>我不是造谣胡鑫宇被“他杀”，而是假定他被“他杀”，从而要求对每个可疑点进一步排除。不能以“自杀”结案。毕竟，大家心里的疑问还很多很多。<br> <a href="https://yibaochina.com/?p=249367" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=249367</a></div>
 

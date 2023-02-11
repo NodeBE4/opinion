@@ -97,19 +97,19 @@ Re @wuzuolai 祚来老师大度平和🌹🌹👍。
 
 ### 21: [2022-01-21 07:13:54+08:00 推文](https://twitter.com/realcaixia/status/1484303197841854466)
 
-中国的公安局警察是货真价实的统治工具，他们最主要的“工作”就是监控信访民众异议人士；勒索钱财，比如交通警察以罚款为目的；镇压民众，为强拆民房强占土地充当打手保镖。<br><br>NFcloud Official: 这才是真实的芸芸众生。<br><br><img style="" src="https://pbs.twimg.com/media/FJhhDQeaAAInHtv?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/keaising/status/1483852802204246016" target="_blank" rel="noopener noreferrer">https://twitter.com/keaising/status/1483852802204246016</a>
+中国的公安局警察是货真价实的统治工具，他们最主要的“工作”就是监控信访民众异议人士；勒索钱财，比如交通警察以罚款为目的；镇压民众，为强拆民房强占土地充当打手保镖。<br><br>NFcloud Official: 这才是真实的芸芸众生。<br><br><img style src="https://pbs.twimg.com/media/FJhhDQeaAAInHtv?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/keaising/status/1483852802204246016" target="_blank" rel="noopener noreferrer">https://twitter.com/keaising/status/1483852802204246016</a>
 
 ### 22: [2022-01-21 07:14:10+08:00 推文](https://twitter.com/realcaixia/status/1484303267408805888)
 
-中国的公安局警察是货真价实的统治工具，他们最主要的“工作”就是监控信访民众异议人士；勒索钱财，比如交通警察以罚款为目的；镇压民众，为强拆民房强占土地充当打手保镖。<br><br>NFcloud Official: 这才是真实的芸芸众生。<br><br><img style="" src="https://pbs.twimg.com/media/FJhhDQeaAAInHtv?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/keaising/status/1483852802204246016" target="_blank" rel="noopener noreferrer">https://twitter.com/keaising/status/1483852802204246016</a>
+中国的公安局警察是货真价实的统治工具，他们最主要的“工作”就是监控信访民众异议人士；勒索钱财，比如交通警察以罚款为目的；镇压民众，为强拆民房强占土地充当打手保镖。<br><br>NFcloud Official: 这才是真实的芸芸众生。<br><br><img style src="https://pbs.twimg.com/media/FJhhDQeaAAInHtv?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/keaising/status/1483852802204246016" target="_blank" rel="noopener noreferrer">https://twitter.com/keaising/status/1483852802204246016</a>
 
 ### 23: [2022-01-22 01:47:52+08:00 推文](https://twitter.com/realcaixia/status/1484583540524212232)
 
-真是转频道精彩绝伦！风趣幽默且智慧。<br><br>BBC News 中文: “你好，认识你很高兴！”<br><br>英国首相约翰逊被自由民主党党魁埃德·戴维爵士要求下台时，忽然用普通话跟议长打招呼，引起全场哄动。<br><br>戴维爵士在担任能源大臣期间，收受李贞驹5,000英镑捐款。军情五处（MI5）最近警告，李贞驹为中国共产党秘密渗透议会。<br><br>有人估计约翰逊突然“转频道”，是为挖苦戴维爵士。<br><br><video src="https://video.twimg.com/amplify_video/1484447221491904516/vid/640x360/jaTYWOrx3n5ZRB6N.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/FJxneogXwAIvRjJ?format=jpg&name=orig"></video>
+真是转频道精彩绝伦！风趣幽默且智慧。<br><br>BBC News 中文: “你好，认识你很高兴！”<br><br>英国首相约翰逊被自由民主党党魁埃德·戴维爵士要求下台时，忽然用普通话跟议长打招呼，引起全场哄动。<br><br>戴维爵士在担任能源大臣期间，收受李贞驹5,000英镑捐款。军情五处（MI5）最近警告，李贞驹为中国共产党秘密渗透议会。<br><br>有人估计约翰逊突然“转频道”，是为挖苦戴维爵士。<br><br><video src="https://video.twimg.com/amplify_video/1484447221491904516/vid/640x360/jaTYWOrx3n5ZRB6N.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/FJnfb9cXsAI6oXU?format=jpg&amp;name=orig"></video>
 
 ### 24: [2022-01-22 19:19:29+08:00 推文](https://twitter.com/realcaixia/status/1484848186212638720)
 
-习上台后以反腐败起步，左右都叫好，因为中共党内普遍腐败；<br><br>一年后中共党内逐渐议论四起，因为习选择性反腐，实际是清除异己，安插小兄弟伙抢夺权位；<br><br>再后来习说反腐取得压倒性胜利，全党沉默，因为都被“不得妄议”封住了嘴；<br><br>现在习说反腐永远在路上，人们都明白这意味着习用权力清洗整人永远没完<br><br>鲍简: 这个会开的莫名其妙。大张旗鼓反腐10年，还在推进不敢腐不能腐不想腐……十年反腐成绩在哪里🧐首次中纪委全会缺席这么多人，主持会议的还不是人……<br><br><img style="" src="https://pbs.twimg.com/media/FJswoinUYAAPFPJ?format=jpg&name=orig" referrerpolicy="no-referrer">
+习上台后以反腐败起步，左右都叫好，因为中共党内普遍腐败；<br><br>一年后中共党内逐渐议论四起，因为习选择性反腐，实际是清除异己，安插小兄弟伙抢夺权位；<br><br>再后来习说反腐取得压倒性胜利，全党沉默，因为都被“不得妄议”封住了嘴；<br><br>现在习说反腐永远在路上，人们都明白这意味着习用权力清洗整人永远没完<br><br>鲍简: 这个会开的莫名其妙。大张旗鼓反腐10年，还在推进不敢腐不能腐不想腐……十年反腐成绩在哪里🧐首次中纪委全会缺席这么多人，主持会议的还不是人……<br><br><img style="" src="https://pbs.twimg.com/media/FJswoinUYAAPFPJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 25: [2022-01-23 05:10:59+08:00 推文](https://twitter.com/realcaixia/status/1484997043554852870)
 
@@ -117,7 +117,7 @@ Re @wuzuolai 祚来老师大度平和🌹🌹👍。
 
 ### 26: [2022-01-23 22:43:08+08:00 推文](https://twitter.com/realcaixia/status/1485261825381969927)
 
-据纽时报报道，中共官方提供的冬奥通app有后门，可以窃取使用者的资料，并设置了4位数之多的敏感词，可以监控并限制运动员言论。运动员参加的是无观众无喝彩的比赛。以防疫为名的运动员被“清零”式封闭、被全时空监控的奥运会，真是21世纪的希特勒式奥运会。国际奥林匹克运动将因此被蒙上耻辱。<br><br>韩连潮: 国内网友传来的当局对参加北京冬奥运动员严加管束的信息，看来中共要借疫情来禁止运动员批评其侵犯人权和反人类的罪行。<br><br><img style src="https://pbs.twimg.com/media/FJydMDeXwAA4Txl?format=jpg&name=orig" referrerpolicy="no-referrer">
+据纽时报报道，中共官方提供的冬奥通app有后门，可以窃取使用者的资料，并设置了4位数之多的敏感词，可以监控并限制运动员言论。运动员参加的是无观众无喝彩的比赛。以防疫为名的运动员被“清零”式封闭、被全时空监控的奥运会，真是21世纪的希特勒式奥运会。国际奥林匹克运动将因此被蒙上耻辱。<br><br>韩连潮: 国内网友传来的当局对参加北京冬奥运动员严加管束的信息，看来中共要借疫情来禁止运动员批评其侵犯人权和反人类的罪行。<br><br><img style="" src="https://pbs.twimg.com/media/FJydMDeXwAA4Txl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 27: [2022-01-23 22:45:35+08:00 推文](https://twitter.com/realcaixia/status/1485262439864274947)
 
