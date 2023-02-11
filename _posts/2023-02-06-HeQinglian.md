@@ -457,7 +457,7 @@ Re @NAConservative9 话说，这本来就是左派希望追求多年、不惜在
 
 ### 111: [2023-02-09 04:33:29+08:00 推文](https://twitter.com/HeQinglian/status/1623419769557852161)
 
-共和党的教养还是强出不少，对比波洛希撕毁川普的国情咨文。据说出身富人之家，行为堪比AOC那街区长大之人。<div class="rsshub-quote"><br><br>东七区无面者FacelessMen: 感受一下美国两党现在的撕裂程度，拜登在前面放，后面只有哈里斯假装鼓掌示意，麦卡锡根本听都不带听的回去就发twitter骂拜登。<br><br><video src="https://video.twimg.com/ext_tw_video/1623162272066703360/pu/vid/1280x720/jZZ2BGghh-PT-zeH.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1623162272066703360/pu/img/nht24CLiapyHdh2k.jpg"></video></div>
+共和党的教养还是强出不少，对比波洛希撕毁川普的国情咨文。据说出身富人之家，行为堪比AOC那街区长大之人。<div class="rsshub-quote"><br><br>东七区无面者FacelessMen: 感受一下美国两党现在的撕裂程度，拜登在前面放，后面只有哈里斯假装鼓掌示意，麦卡锡根本听都不带听的回去就发twitter骂拜登。<br><br><video src="https://video.twimg.com/ext_tw_video/1623162272066703360/pu/vid/1280x720/jZZ2BGghh-PT-zeH.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1623162272066703360/pu/img/nht24CLiapyHdh2k.jpg"></video> <a href="https://twitter.com/harry_shosta/status/1623160605506166784" target="_blank" rel="noopener noreferrer">https://twitter.com/harry_shosta/status/1623160605506166784</a></div>
 
 ### 112: [2023-02-09 04:53:21+08:00 推文](https://twitter.com/HeQinglian/status/1623424771504447488)
 
@@ -702,4 +702,24 @@ Re @zhixiangziyou 美国今后可能会进入血亲同态复仇状态——如�
 ### 172: [2023-02-11 09:21:54+08:00 推文](https://twitter.com/HeQinglian/status/1624217127119880197)
 
 Re @ElaineYuMuMu 我只想知道，这AI的设计者编程者是谁？
+
+### 173: [2023-02-11 10:36:15+08:00 推文](https://twitter.com/HeQinglian/status/1624235840648912897)
+
+Re @JianglinLi @Maghriz_UMa @jefflee395395 如果一个人在单位里做过部门负责人，就知道规则是如何重要。无规则无法达成一个小共同体的目标。<br>无政府主义者得从鲁滨逊式生活开始——20世纪前20年，许多著作得从这里开讲，排他性地开始建构学问。
+
+### 174: [2023-02-11 10:37:30+08:00 推文](https://twitter.com/HeQinglian/status/1624236153741225990)
+
+Re @shenliangqing2 我的经验，心情好时，开涮一下。如果连这价值也无，直接拉黑。
+
+### 175: [2023-02-11 10:42:35+08:00 推文](https://twitter.com/HeQinglian/status/1624237432366329857)
+
+这就对了，一切不明飞行物进入领空就击落，待主人出面认领再扯皮。<div class="rsshub-quote"><br><br>加拿大国际广播: 突发：美国击落阿拉斯加上空的不明飞行物 <br>这个不明飞行物的体积和一辆小汽车相当，被击落时位于12100米的高空。美国目前还不知道这个飞行物属于谁，是否携带监测装置，从何处飞来以及用途是什么，但肯定它无人驾驶。<br> <a href="https://ici.radio-canada.ca/rci/zh-hans/%E6%96%B0%E9%97%BB/1955550/%E7%BE%8E%E5%9B%BD-%E5%87%BB%E8%90%BD-%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E4%B8%8A%E7%A9%BA-%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9" target="_blank" rel="noopener noreferrer">https://ici.radio-canada.ca/rci/zh-hans/%E6%96%B0%E9%97%BB/1955550/%E7%BE%8E%E5%9B%BD-%E5%87%BB%E8%90%BD-%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E4%B8%8A%E7%A9%BA-%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9</a></div>
+
+### 176: [2023-02-11 10:48:21+08:00 推文](https://twitter.com/HeQinglian/status/1624238883285131264)
+
+Re @Maghriz_UMa @JianglinLi @jefflee395395 鲁滨逊情境就是无政府，自己、星期五、荒岛。每天的生存需要自己一点一点地从打火、拾柴、找水、寻找树皮与打猎找毛皮。<br>早期经典著从鲁滨逊假设开始，就是告诉这类人：人需要群体、互相交换、由此产生分工、专业化、效率等等一切。<br>我其实不太清楚西方教育怎么会出这种废材。
+
+### 177: [2023-02-11 10:54:33+08:00 推文](https://twitter.com/HeQinglian/status/1624240444358918145)
+
+Re @9998au @ElaineYuMuMu 无脑两脚羊。希望他将来用AI训练他的后代。
 

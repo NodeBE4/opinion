@@ -33,13 +33,13 @@ Re 2/<br>Things that are worthwhile looking at:<br>- Attitude of the central gov
 
 Re 3/<br>- Demands of people. Slogans range from “end COVID lockdown” to “Down with CCP/ Xi.” It would be interesting to see whether there’s a consolidation of what people want<br>- Overseas protests. Tens of overseas protests were organised in the past weekend ....
 
-### 5: [2022-11-28 18:52:48+08:00 推文](https://twitter.com/nathanlawkc/status/1597181710327611394)
+### 5: [2022-11-28 18:52:48+08:00 推文](https://twitter.com/nathanlawkc/status/1597181707933061120)
 
-Re 5/<br>whether the people continue to protest is the key. Colleges are still crucial sites. <br>- Intl support. Many are hesitant because PRC would label any foreign supports as “interference”, then weaken the moral appeal of the protest. How intl NGOs &amp; Orgs &amp; Govts gonna react?
+Re 4/<br>some of them (eg. London) had +1000 turnouts, most participants are Chinese students. We’ve never seen so much mobilization of them, who are often seen as either “apolitical” or “loyal”. <br>- Size of protest. With tighter control&amp; arrests made...
 
-### 6: [2022-11-28 18:52:49+08:00 推文](https://twitter.com/nathanlawkc/status/1597181715692544000)
+### 6: [2022-11-28 18:52:49+08:00 推文](https://twitter.com/nathanlawkc/status/1597181713192394752)
 
-Re 7/<br>- Technical support. People with expertise in internet security and safe communication should come in and share knowledge.<br>- Help overseas Chinese who want to protest. Any kind of help — design work, logistic, dealing with govt&amp;police etc… you can do something with your exp.
+Re 6/<br>What we can do as non-local protestors:<br>- Retweet &amp; spread info. It’s crucial to educate more ppl about what’s happening in China.<br>- Solidarity. Protestors are often in fear and feel alone. They cannot publicly talk about it. Show your solidarity with them to keep them warm.
 
 ### 7: [2022-11-28 18:52:50+08:00 推文](https://twitter.com/nathanlawkc/status/1597181718263308288)
 
@@ -65,9 +65,9 @@ Friends have told me that when my thread on the #Chinaprotest was forwarded to W
 
 1/<br>「中國示威群眾在爭取些甚麼？」「他們清楚自己的目標嗎？」<br>非常重要，卻難以準確回答的問題，畢竟任何公正的群眾研究是幾乎不可能進行的。由要求解封到呼籲政制改革，示威群眾有寬闊的口號，也有個別參加者呼籲不要摻和挑戰大一統、政權的想法。<br><img style="" src="https://pbs.twimg.com/media/Fi0hkkYX0AE4lyU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 13: [2022-11-30 23:07:31+08:00 推文](https://twitter.com/nathanlawkc/status/1597970585908547585)
+### 13: [2022-11-30 23:07:31+08:00 推文](https://twitter.com/nathanlawkc/status/1597970588349308928)
 
-Re 2/<br>一張白紙，各種表述，是在這場運動中難以避免，皆因廣泛地凝聚群眾共識的條件（尤其是在牆內）並不存在。<br>那麼該如何團結不同聲音？<br>我沒有答案。或者說，我們感到很需要答案，但抱歉並不可能有答案，而且很可能不太需要答案。
+Re 3/<br>我們必須接納光譜的存在，呼聲的多元，接納有人比較溫和、激進，接納未來可以帶領談判的人並不完全覆蓋所有人的聲音。在這個前提下，大家必須海納百川地爭取更多人同意自己的路線。
 
 ### 14: [2022-11-30 23:07:32+08:00 推文](https://twitter.com/nathanlawkc/status/1597970590387777536)
 
@@ -77,9 +77,9 @@ Re 4/<br>所謂公民社會，是外在於政府、私營機構，用以監察�
 
 Re 6/<br>換言之，比起「他們正在爭取甚麼」，更重要的，是他們「將會」爭取甚麼。作為一個群眾運動組織者，這就是Empowerment的意義，嘗試讓大家更了解身上的枷瑣，然後掙脫最限制自由的。當然，這涉及一個過程，也涉及很多辯論和修正。
 
-### 16: [2022-11-30 23:07:34+08:00 推文](https://twitter.com/nathanlawkc/status/1597970598059470850)
+### 16: [2022-11-30 23:07:34+08:00 推文](https://twitter.com/nathanlawkc/status/1597970601008058370)
 
-Re 7/<br>中共教育／外宣最大的遺毒，是將國族主義凌駕一切。就像聯群結黨，不問是非，只以族群（黨國）利益的「想像」作判別是非的唯一準則。他們嘗試說服牆內的人，這個世界一直都是這樣行事──美國人不罵美國，香港人想爭取改革就是外國勢力，任何動亂都是只「一小撮人」受「煽動」而發生。<br>這是錯的。
+Re 8/<br>公民的意思，就是將公義置於在民族主義之上。民主大於愛國，自由大於愛國，公義大於愛國。只談愛國不談價值，是一個披露光鮮外衣的流氓。<br>而愛國主義最高的情操，是用以推動公義的實踐，為疆土邊界內的子民服務。換句話來說，假若「國家」的代表、政權機關不義，是可以被挑戰、被動搖的。
 
 ### 17: [2022-11-30 23:07:35+08:00 推文](https://twitter.com/nathanlawkc/status/1597970603428184066)
 
