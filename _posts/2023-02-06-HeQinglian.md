@@ -177,7 +177,7 @@ Re @fading_you1 与美国民主党支持者相同。都是求仁得仁，如其�
 
 ### 41: [2023-02-07 02:10:12+08:00 推文](https://twitter.com/HeQinglian/status/1622658936313610240)
 
-Re @fading_you1 日本首相解雇了一名助理，原因是这位先生说了他不想看到同性恋和自己做邻居。同性恋发起山呼海啸的抗议，首相只得表示愤怒解雇他。<br>日本是G7当中唯一同婚未合法化的国家，同性恋们趁机再推一把。不过，日本大龄女35岁至50岁未婚占同龄人近40%，拉拉很快会如雨后春笋。 <a href="https://www.bbc.com/news/world-asia-64521862" target="_blank" rel="noopener noreferrer">https://www.bbc.com/news/world-asia-64521862</a>
+RT He Qinglian<br>Re @fading_you1 日本首相解雇了一名助理，原因是这位先生说了他不想看到同性恋和自己做邻居。同性恋发起山呼海啸的抗议，首相只得表示愤怒解雇他。<br>日本是G7当中唯一同婚未合法化的国家，同性恋们趁机再推一把。不过，日本大龄女35岁至50岁未婚占同龄人近40%，拉拉很快会如雨后春笋。 <a href="https://www.bbc.com/news/world-asia-64521862" target="_blank" rel="noopener noreferrer">https://www.bbc.com/news/world-asia-64521862</a>
 
 ### 42: [2023-02-07 02:47:06+08:00 推文](https://twitter.com/HeQinglian/status/1622668222603436038)
 
@@ -237,7 +237,7 @@ Re @JianglinLi 拜登想挣回两次面子：<br>一是打气球——虽然迟�
 
 ### 56: [2023-02-07 23:17:23+08:00 推文](https://twitter.com/HeQinglian/status/1622977832128245763)
 
-Re @JianglinLi 我一直没弄明白，国务卿这个位置的高官出马，其实是诸事在略低层次的官员谈定各种协议后才出面，仪式性地敲定双方协约。<br>有什么事情非要当面谈，谈前还要向世界宣布：我要给中国划条红线、带去警告，让北京在俄罗斯问题上不要乱说乱动？<br>中国政府早就放弃轁光养晦，露出牙齿与爪子了。
+RT He Qinglian<br>Re @JianglinLi 我一直没弄明白，国务卿这个位置的高官出马，其实是诸事在略低层次的官员谈定各种协议后才出面，仪式性地敲定双方协约。<br>有什么事情非要当面谈，谈前还要向世界宣布：我要给中国划条红线、带去警告，让北京在俄罗斯问题上不要乱说乱动？<br>中国政府早就放弃轁光养晦，露出牙齿与爪子了。
 
 ### 57: [2023-02-07 23:36:43+08:00 推文](https://twitter.com/HeQinglian/status/1622982700234678272)
 
@@ -678,4 +678,28 @@ Re @JianglinLi 这个案例，与费城、纽约那些支持BLM却被他们痛�
 ### 166: [2023-02-11 07:37:52+08:00 推文](https://twitter.com/HeQinglian/status/1624190945464930305)
 
 Re @shenliangqing2 这人见少了。这是研究文章，其中说得很清楚，性自由是什么？<br>另外，美国1968-69反越战，也是反抗到哪里，吸毒与性放纵到哪里，性病流行到哪里。<br>陶短房：法国五月风暴：一场真正的“文化革命” <a href="https://ptext.nju.edu.cn/a5/89/c13424a304521/page.htm" target="_blank" rel="noopener noreferrer">https://ptext.nju.edu.cn/a5/89/c13424a304521/page.htm</a>
+
+### 167: [2023-02-11 08:41:55+08:00 推文](https://twitter.com/HeQinglian/status/1624207064258994176)
+
+Re @nianchujiu @shenliangqing2 谢提示，我刚找来片源，有空就看。导演挺有名。
+
+### 168: [2023-02-11 08:49:34+08:00 推文](https://twitter.com/HeQinglian/status/1624208990983839744)
+
+Re @Lucs24659702 话说，这是他的性格使然。<br>人家有权竞选，如果胜出，也是选民选择了他。
+
+### 169: [2023-02-11 09:09:17+08:00 推文](https://twitter.com/HeQinglian/status/1624213952363208707)
+
+Re @9K331_Tor_M1 @zhixiangziyou @JianglinLi 对你这种人我无话可说，既然你从不看我的推文，就来我这里发言，无端指责，你将自己置于何地？<br>因为你不是做研究的人，所以认为世界上只有一种研究方式，就是亲身经历与调查。须知，这只是社会学、经济学的一种方式，而且是很窄的一种方式。<br>如果爱惜你自己，请就此打住。不会再为你浪费一分钟。
+
+### 170: [2023-02-11 09:13:12+08:00 推文](https://twitter.com/HeQinglian/status/1624214939337469953)
+
+Re @JianglinLi @9K331_Tor_M1 @zhixiangziyou 这人没Fo我，根本就没看过我的推文，甚至不了解我是什么人，就是自以为在东京，做生命科学研究，是万事通。<br>不知道社会科学研究恰好与实验室完全不一样。<br>不要再理这人，再冒头，我拉黑就是，不值得为这种人浪费精力。<br>推特上不少头大症患者。
+
+### 171: [2023-02-11 09:16:46+08:00 推文](https://twitter.com/HeQinglian/status/1624215836985552896)
+
+Re @zhixiangziyou 美国今后可能会进入血亲同态复仇状态——如果美国人还有血气的话。<br>因为左派偏爱罪犯。
+
+### 172: [2023-02-11 09:21:54+08:00 推文](https://twitter.com/HeQinglian/status/1624217127119880197)
+
+Re @ElaineYuMuMu 我只想知道，这AI的设计者编程者是谁？
 

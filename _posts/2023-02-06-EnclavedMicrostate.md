@@ -49,6 +49,14 @@ It absolutely doesn't help that to Chinese cultural elites, non-Mandarin languag
 
 We are famously draconian.
 
+----- __1092.7__ -----2023-02-11 08:39:17+08:00:
+
+A fast track to popularity, access to centralised resources, a group of like-minded people, business contacts, streamlined management and legal support, network arrangements that make things easier with hosting platforms...
+
+----- __1092.8__ -----2023-02-11 08:51:39+08:00:
+
+While it's true that evidence of experience is typically required, that's not to say that only people with substantial *popularity* get in. Speaking for HoloID's 3rd generation, Zeta and Kaela were very minor pre-Hololive, and I don't think *anyone* knows who Kobo was beforehand. As for Tempus (base game), only Magni was *that* substantially followed. Altare and Axel were pretty minor, while Vesper had a bit more audience but was still relatively niche. Arguably HoloCouncil was unusual in just how heavy-hitting those that got in had been beforehand, but even that had one relatively obscure member (Bae). So yes, an existing presence is needed, but not a particularly substantial one.
+
 ### 1093: [Who were the greatest Italian military commanders of the early modern era? (1400-1800)](https://old.reddit.com/r/AskHistorians/comments/10uusxe/who_were_the_greatest_italian_military_commanders/), submitted on 2023-02-06 10:12:58+08:00.
 
 ----- __1093.1__ -----2023-02-06 16:54:46+08:00:
