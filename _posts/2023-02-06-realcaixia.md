@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2023-02-11
+date: 2023-02-12
 from: https://twitter.com/realcaixia/status/1622337053626097664
 layout: post
 tags:
@@ -53,7 +53,7 @@ Re LT视界这期节目，集中两个问题：1，美击落中共高空间谍�
 
 ### 10: [2023-02-08 17:42:35+08:00 推文](https://twitter.com/realcaixia/status/1623255964081172486)
 
-好诗！<div class="rsshub-quote"><br><br>高瑜: 【季風的癸卯年】從除夕到初六，六四學生領袖、詩人季風天天收到電話騷擾，讓閉嘴、刪貼。長假過後繼續不讓涉及“白紙運動”和胡鑫宇案，元宵節竟然登門談話。詩人憤怒，連夜做詩，因為詩中有“流浪氣球”和“兩根鞋帶”，有司竟然又兩次登門，讓即刪詩，詩人不從，此事還沒完。<br></div>
+好诗！<div class="rsshub-quote"><br><br>高瑜: 【季風的癸卯年】從除夕到初六，六四學生領袖、詩人季風天天收到電話騷擾，讓閉嘴、刪貼。長假過後繼續不讓涉及“白紙運動”和胡鑫宇案，元宵節竟然登門談話。詩人憤怒，連夜做詩，因為詩中有“流浪氣球”和“兩根鞋帶”，有司竟然又兩次登門，讓即刪詩，詩人不從，此事還沒完。<br> <a href="https://twitter.com/jhf8964/status/1622383477823000577" target="_blank" rel="noopener noreferrer">https://twitter.com/jhf8964/status/1622383477823000577</a></div>
 
 ### 11: [2023-02-10 01:52:25+08:00 推文](https://twitter.com/realcaixia/status/1623741623715655680)
 
@@ -69,7 +69,7 @@ Re LT视界这期节目，集中两个问题：1，美击落中共高空间谍�
 
 ### 14: [2023-02-10 03:29:03+08:00 推文](https://twitter.com/realcaixia/status/1623765944198909952)
 
-不仅是吹牛，而且是狂妄加野心。习既不直说与自由民主国家为敌，又大力推销中国模式，只能用吹牛和谎言为手段来蒙骗那些又想维持旧权力规则又想从中国捞到好处的某些发展中国家首脑。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 繼續吹牛😃<br> <a href="https://twitter.com/rudyakmarina/status/1623759148100866051" target="_blank" rel="noopener noreferrer">https://twitter.com/rudyakmarina/status/1623759148100866051</a></div>
+不仅是吹牛，而且是狂妄加野心。习既不直说与自由民主国家为敌，又大力推销中国模式，只能用吹牛和谎言为手段来蒙骗那些又想维持旧权力规则又想从中国捞到好处的某些发展中国家首脑。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 繼續吹牛😃<br> <a href="https://twitter.com/RudyakMarina/status/1623759148100866051" target="_blank" rel="noopener noreferrer">https://twitter.com/RudyakMarina/status/1623759148100866051</a></div>
 
 ### 15: [2023-02-11 03:37:14+08:00 推文](https://twitter.com/realcaixia/status/1624130388430884881)
 
@@ -78,4 +78,16 @@ Re LT视界这期节目，集中两个问题：1，美击落中共高空间谍�
 ### 16: [2023-02-11 22:58:32+08:00 推文](https://twitter.com/realcaixia/status/1624422639011008513)
 
 特别推荐：<br>習近平開錯藥方，經濟陷惡性循環，政府缺錢挖百姓墻角，紅衛兵一代上街維權；白紙運動后效應，民間抗議如火如荼；內外交困，習近平要求為驚濤駭浪做準備｜#菁英論壇【石山角度】(有冇搞錯國語)| 2022. - YouTube <a href="https://m.youtube.com/watch?v=xITj4zaLTWs" target="_blank" rel="noopener noreferrer">https://m.youtube.com/watch?v=xITj4zaLTWs</a>
+
+### 17: [2023-02-12 01:15:00+08:00 推文](https://twitter.com/realcaixia/status/1624456981565300737)
+
+中共政府与习当局的所作所为，我想台湾人是看明白了是非善恶的，台湾大选不仅仅是选择哪个党组建政府，而且直接关系到台湾人现实的生活和台湾人子孙后代的命运，相信台湾人是明白事理的。<br>现在还想亲共、投靠中共的台湾政治势力，不应该如此短视。因一时利益而毁伤未来，何以面对台湾人，面对子孙？<div class="rsshub-quote"><br><br>吴祚来: 中共如果成功扶持了国民党上台，然后与中共绥靖，与美国保持距离，那么，台湾将会分裂或内乱，这可能是中共最想看到的结果。<br>国民党也不想想，当年联俄联共，直接导致了丢失大陆，中共的性质未变，对国际社会对香港，是怎样的背信弃义，那些叛变投共的国民党政要，有几个有好下场？还想再试一次？蠢啊<br></div>
+
+### 18: [2023-02-12 01:23:07+08:00 推文](https://twitter.com/realcaixia/status/1624459024644313088)
+
+这是中共宣传部门最近放出的视频吗？想拿这来捡回在北京快递小哥那里丢了的面子吧？<br>习要真心让中国人过上好日子，先公布铁链女、唐山四女和胡鑫宇案情真相，并依法处置相关部门和人员，让中国人先过上安生日子。<div class="rsshub-quote"><br><br>李隽🇦🇺: 他也就跟这些不能翻墙的老娘们儿扯扯“日子”，掀掀锅盖。<br><br><video src="https://video.twimg.com/ext_tw_video/1624300278374887424/pu/vid/720x892/s1TlAgCojQsHgVT4.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1624300278374887424/pu/img/ZixkkrS_d81rZ9-r.jpg"></video></div>
+
+### 19: [2023-02-12 02:35:54+08:00 推文](https://twitter.com/realcaixia/status/1624477343040536577)
+
+Re 分享菁英论坛节目，听对中国局势更多角度的分析，这对于我们扩展视野、吸收各种观点，提升自己的思考能力大有好处。这与信仰无关。<br>网上常有人把这说成是投向xxx，落到与xxx混在一起。这是中共习惯有的“选边站”思维模式，是污名化信仰不同的推友们。<br>尊重不同信仰推友，是应有的文明素养。<br><img style="" src="https://pbs.twimg.com/media/FotNh3oaEAAnUCV?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FotNh3maYAAM6vw?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FotNh3magAEloZo?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
