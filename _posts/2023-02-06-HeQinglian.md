@@ -237,7 +237,7 @@ RT He Qinglian<br>Re @JianglinLi 拜登想挣回两次面子：<br>一是打�
 
 ### 56: [2023-02-07 23:17:23+08:00 推文](https://twitter.com/HeQinglian/status/1622977832128245763)
 
-RT He Qinglian<br>Re @JianglinLi 我一直没弄明白，国务卿这个位置的高官出马，其实是诸事在略低层次的官员谈定各种协议后才出面，仪式性地敲定双方协约。<br>有什么事情非要当面谈，谈前还要向世界宣布：我要给中国划条红线、带去警告，让北京在俄罗斯问题上不要乱说乱动？<br>中国政府早就放弃轁光养晦，露出牙齿与爪子了。
+Re @JianglinLi 我一直没弄明白，国务卿这个位置的高官出马，其实是诸事在略低层次的官员谈定各种协议后才出面，仪式性地敲定双方协约。<br>有什么事情非要当面谈，谈前还要向世界宣布：我要给中国划条红线、带去警告，让北京在俄罗斯问题上不要乱说乱动？<br>中国政府早就放弃轁光养晦，露出牙齿与爪子了。
 
 ### 57: [2023-02-07 23:36:43+08:00 推文](https://twitter.com/HeQinglian/status/1622982700234678272)
 
@@ -457,7 +457,7 @@ Re @NAConservative9 话说，这本来就是左派希望追求多年、不惜在
 
 ### 111: [2023-02-09 04:33:29+08:00 推文](https://twitter.com/HeQinglian/status/1623419769557852161)
 
-共和党的教养还是强出不少，对比波洛希撕毁川普的国情咨文。据说出身富人之家，行为堪比AOC那街区长大之人。<div class="rsshub-quote"><br><br>东七区无面者FacelessMen: 感受一下美国两党现在的撕裂程度，拜登在前面放，后面只有哈里斯假装鼓掌示意，麦卡锡根本听都不带听的回去就发twitter骂拜登。<br><br><video src="https://video.twimg.com/ext_tw_video/1623162272066703360/pu/vid/1280x720/jZZ2BGghh-PT-zeH.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1623162272066703360/pu/img/nht24CLiapyHdh2k.jpg"></video> <a href="https://twitter.com/harry_shosta/status/1623160605506166784" target="_blank" rel="noopener noreferrer">https://twitter.com/harry_shosta/status/1623160605506166784</a></div>
+共和党的教养还是强出不少，对比波洛希撕毁川普的国情咨文。据说出身富人之家，行为堪比AOC那街区长大之人。<div class="rsshub-quote"><br><br>东七区无面者FacelessMen: 感受一下美国两党现在的撕裂程度，拜登在前面放，后面只有哈里斯假装鼓掌示意，麦卡锡根本听都不带听的回去就发twitter骂拜登。<br><br><video src="https://video.twimg.com/ext_tw_video/1623162272066703360/pu/vid/1280x720/jZZ2BGghh-PT-zeH.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1623162272066703360/pu/img/nht24CLiapyHdh2k.jpg"></video></div>
 
 ### 112: [2023-02-09 04:53:21+08:00 推文](https://twitter.com/HeQinglian/status/1623424771504447488)
 
@@ -790,4 +790,16 @@ Re @silenceserver 有印象。
 ### 194: [2023-02-12 06:33:01+08:00 推文](https://twitter.com/HeQinglian/status/1624537015466303488)
 
 美国与加拿大现在陷入内外战争。<br>对内是性别多元化与只承认两种性别的人的战争；<br>对外是气球大战。<br>这两种战争，两国都能赢。<div class="rsshub-quote"><br><br>Lucs: 刚刚 - 北美航空航天防御司令部 (NORAD) 正在监视“一两个”以上的潜在间谍气球。<br><br> 更新——北美防空司令部确认它正在追踪一个在加拿大上空飞行的“高空物体”。<br> <a href="https://www.disclose.tv/id/100039/" target="_blank" rel="noopener noreferrer">https://www.disclose.tv/id/100039/</a></div>
+
+### 195: [2023-02-12 09:40:19+08:00 推文](https://twitter.com/HeQinglian/status/1624584149636988928)
+
+Re @Lucs24659702 现在主要是美国打入侵的气球，打完就算完事了。气球主人大概率不会出面应战，最多是口头抗议，或者找个美国气球打爆出气。<br>乌克兰战争还未完，哪有那么多战争好打？美国青年变性、LGBTQI、吸麻都来不及，要他们上前线打仗，说不定立马向左派前辈看齐，反战开始。
+
+### 196: [2023-02-12 09:44:31+08:00 推文](https://twitter.com/HeQinglian/status/1624585208321171459)
+
+Re @victory18132784 @MuracoSmart 我只看说的是不是事实，只看立场不看事实，是你的偏好，不是我的。人家引述的是下面那英文推。<br>我最讨厌只看立场不看事实的推主。
+
+### 197: [2023-02-12 09:53:29+08:00 推文](https://twitter.com/HeQinglian/status/1624587462948401153)
+
+Re @zhuxiuliang 这位少年说的是：人生下来只有两种性别，男人与女人。你说的太监不是生下来就具有的性别，是阉割的结果。<br>可能会有个别生而不男不女的，但可能是万分之一，不具有统计学意义。
 

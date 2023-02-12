@@ -53,7 +53,7 @@ Re LT视界这期节目，集中两个问题：1，美击落中共高空间谍�
 
 ### 10: [2023-02-08 17:42:35+08:00 推文](https://twitter.com/realcaixia/status/1623255964081172486)
 
-好诗！<div class="rsshub-quote"><br><br>高瑜: 【季風的癸卯年】從除夕到初六，六四學生領袖、詩人季風天天收到電話騷擾，讓閉嘴、刪貼。長假過後繼續不讓涉及“白紙運動”和胡鑫宇案，元宵節竟然登門談話。詩人憤怒，連夜做詩，因為詩中有“流浪氣球”和“兩根鞋帶”，有司竟然又兩次登門，讓即刪詩，詩人不從，此事還沒完。<br> <a href="https://twitter.com/jhf8964/status/1622383477823000577" target="_blank" rel="noopener noreferrer">https://twitter.com/jhf8964/status/1622383477823000577</a></div>
+好诗！<div class="rsshub-quote"><br><br>高瑜: 【季風的癸卯年】從除夕到初六，六四學生領袖、詩人季風天天收到電話騷擾，讓閉嘴、刪貼。長假過後繼續不讓涉及“白紙運動”和胡鑫宇案，元宵節竟然登門談話。詩人憤怒，連夜做詩，因為詩中有“流浪氣球”和“兩根鞋帶”，有司竟然又兩次登門，讓即刪詩，詩人不從，此事還沒完。<br></div>
 
 ### 11: [2023-02-10 01:52:25+08:00 推文](https://twitter.com/realcaixia/status/1623741623715655680)
 
@@ -105,7 +105,7 @@ Re 分享菁英论坛节目，听对中国局势更多角度的分析，这对�
 
 ### 23: [2023-02-12 06:27:52+08:00 推文](https://twitter.com/realcaixia/status/1624535719606906880)
 
-赞同文章作者的基本看法。<div class="rsshub-quote"><br><br>楊建利 Jianli (Doc) Yang: 我在《The Diplomat外交家》杂志上撰文说明，对王沪宁的任用透露了习近平针对台湾的一个思路，虽然他意识到和平统一已变得很渺茫，但为了师出有名，他需要王推出新的统一台湾的理论，取代老的失去效力的“一国两制”，由此对台施加压力。新理论将是对台统战的指导，也是“大棒加胡萝卜”的新种胡萝卜。<br></div>
+赞同文章作者的基本看法。<div class="rsshub-quote"><br><br>楊建利 Jianli (Doc) Yang: 我在《The Diplomat外交家》杂志上撰文说明，对王沪宁的任用透露了习近平针对台湾的一个思路，虽然他意识到和平统一已变得很渺茫，但为了师出有名，他需要王推出新的统一台湾的理论，取代老的失去效力的“一国两制”，由此对台施加压力。新理论将是对台统战的指导，也是“大棒加胡萝卜”的新种胡萝卜。<br> <a href="https://twitter.com/yangjianli001/status/1622993400667549700" target="_blank" rel="noopener noreferrer">https://twitter.com/yangjianli001/status/1622993400667549700</a></div>
 
 ### 24: [2023-02-12 06:37:01+08:00 推文](https://twitter.com/realcaixia/status/1624538022208507905)
 
@@ -114,4 +114,12 @@ Re 分享菁英论坛节目，听对中国局势更多角度的分析，这对�
 ### 25: [2023-02-12 06:38:47+08:00 推文](https://twitter.com/realcaixia/status/1624538465659666433)
 
 作者提出的查清案件真相的这些原则极为重要❗️<div class="rsshub-quote"><br><br>楊建利 Jianli (Doc) Yang: 武书剑 | 胡鑫宇案：适用 “ 他杀推定 ” 原则 ！ <br>#议报<br>我只是提出“他杀推定”这样一种价值观。希望推动我国的司法进步！<br>我不是造谣胡鑫宇被“他杀”，而是假定他被“他杀”，从而要求对每个可疑点进一步排除。不能以“自杀”结案。毕竟，大家心里的疑问还很多很多。<br> <a href="https://yibaochina.com/?p=249367" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=249367</a></div>
+
+### 26: [2023-02-12 06:43:21+08:00 推文](https://twitter.com/realcaixia/status/1624539617260351488)
+
+各地都是这样情况，习亲自指挥亲自部署，毁坏中国市场经济。<div class="rsshub-quote"><br><br>ZHANGDONG: 有个做实业的朋友年前去江浙一带走了一圈，亲眼看到代工行业的颓败不景气，老板愁没订单，工人愁没钱过年。家家唉声叹气叫苦连天。这就是号称引领世界经济的大国真实情况。问题是那个能力不足败事有余占高位不肯让位者，耗尽改革红利把个国家折腾到民生危机怨声载道。这国迟早会再次爆发倒帝王革命。<br><br><video src="https://video.twimg.com/ext_tw_video/1623660478307221504/pu/vid/640x368/0i6QHM2N1VsC048b.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1623660478307221504/pu/img/HNLvdUBNYR3iCojo.jpg"></video></div>
+
+### 27: [2023-02-12 06:51:49+08:00 推文](https://twitter.com/realcaixia/status/1624541745903190016)
+
+这才是中国人自己的生活。这歌有意思。<div class="rsshub-quote"><br><br>ZHANGDONG: 😃😃<br> <a href="https://twitter.com/ltshijie/status/1623331832962883585" target="_blank" rel="noopener noreferrer">https://twitter.com/ltshijie/status/1623331832962883585</a></div>
 
