@@ -233,7 +233,7 @@ Re @runrunalong 先打招呼，让其停下来。😅告诉澳政府：上次中
 
 ### 55: [2023-02-07 23:10:24+08:00 推文](https://twitter.com/HeQinglian/status/1622976073733402624)
 
-RT He Qinglian<br>Re @JianglinLi 拜登想挣回两次面子：<br>一是打气球——虽然迟了几天，但几天前就做了决定，况且川普时期气球来过三回（无时间、地点与纪录，说来了就来了），全世界五大洲都遇到中国气球舰队，就我拜登敢打。<br>二是敢给中国政府划道道，不许援俄，不能反美国制裁，否则你看着办。<br>内里：求求你，赶紧让布林肯去北京。
+Re @JianglinLi 拜登想挣回两次面子：<br>一是打气球——虽然迟了几天，但几天前就做了决定，况且川普时期气球来过三回（无时间、地点与纪录，说来了就来了），全世界五大洲都遇到中国气球舰队，就我拜登敢打。<br>二是敢给中国政府划道道，不许援俄，不能反美国制裁，否则你看着办。<br>内里：求求你，赶紧让布林肯去北京。
 
 ### 56: [2023-02-07 23:17:23+08:00 推文](https://twitter.com/HeQinglian/status/1622977832128245763)
 
@@ -457,7 +457,7 @@ Re @NAConservative9 话说，这本来就是左派希望追求多年、不惜在
 
 ### 111: [2023-02-09 04:33:29+08:00 推文](https://twitter.com/HeQinglian/status/1623419769557852161)
 
-共和党的教养还是强出不少，对比波洛希撕毁川普的国情咨文。据说出身富人之家，行为堪比AOC那街区长大之人。<div class="rsshub-quote"><br><br>东七区无面者FacelessMen: 感受一下美国两党现在的撕裂程度，拜登在前面放，后面只有哈里斯假装鼓掌示意，麦卡锡根本听都不带听的回去就发twitter骂拜登。<br><br><video src="https://video.twimg.com/ext_tw_video/1623162272066703360/pu/vid/1280x720/jZZ2BGghh-PT-zeH.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1623162272066703360/pu/img/nht24CLiapyHdh2k.jpg"></video> <a href="https://twitter.com/harry_shosta/status/1623160605506166784" target="_blank" rel="noopener noreferrer">https://twitter.com/harry_shosta/status/1623160605506166784</a></div>
+共和党的教养还是强出不少，对比波洛希撕毁川普的国情咨文。据说出身富人之家，行为堪比AOC那街区长大之人。<div class="rsshub-quote"><br><br>东七区无面者FacelessMen: 感受一下美国两党现在的撕裂程度，拜登在前面放，后面只有哈里斯假装鼓掌示意，麦卡锡根本听都不带听的回去就发twitter骂拜登。<br><br><video src="https://video.twimg.com/ext_tw_video/1623162272066703360/pu/vid/1280x720/jZZ2BGghh-PT-zeH.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1623162272066703360/pu/img/nht24CLiapyHdh2k.jpg"></video></div>
 
 ### 112: [2023-02-09 04:53:21+08:00 推文](https://twitter.com/HeQinglian/status/1623424771504447488)
 
@@ -814,4 +814,36 @@ Re @Lucs24659702 测试一下，家长们有多少想自己的儿女长大后成
 ### 200: [2023-02-12 11:17:05+08:00 推文](https://twitter.com/HeQinglian/status/1624608502139297792)
 
 Re @Lucs24659702 美国娈童成风，儿童倒大霉了。家长过去是看好女孩，现在是男童女童都得看好。
+
+### 201: [2023-02-12 22:55:13+08:00 推文](https://twitter.com/HeQinglian/status/1624784194160193538)
+
+Re @Max19820615 维吉尼亚州某县马桥中学的事件，这事情，导致州长选举翻红，现在禁止在学校里强制、诱导学生变性。
+
+### 202: [2023-02-12 22:56:32+08:00 推文](https://twitter.com/HeQinglian/status/1624784526453997571)
+
+Re @mjldmzt 就算想为加拿大左派政府辩护，也看清我说了什么，拜托了。
+
+### 203: [2023-02-12 23:06:28+08:00 推文](https://twitter.com/HeQinglian/status/1624787024426283010)
+
+Re @shenliangqing2 不是差异，是无法追求到前者，加上左派哄劝式教育的核心是你是什么人，不是别人怎么看，而是自己怎么看，从You are most special person in the world 变成 You are most important person in the world，因此用这方式来彰显自己特别、重要。<br>变性需求就是如此。
+
+### 204: [2023-02-12 23:09:06+08:00 推文](https://twitter.com/HeQinglian/status/1624787687541510144)
+
+Re @dinglili7 20年前，我是中间偏左，因此，新左派因我《现代化的陷阱》硬拉我成“同道”，说右派不反腐，左派才反腐。我自己写过文章，还有其他人写过文章。<br>现在，我成了极右。极右就是正常人、有常识。我耻于与疯左为伍。
+
+### 205: [2023-02-12 23:19:17+08:00 推文](https://twitter.com/HeQinglian/status/1624790250772897792)
+
+Re @victory18132784 @JaneAustine6 拉黑就是。这东西根本不知道，拜登上任当天就签了总统令，鼓励在全美教育系统推行变性教育，佩洛西把持的国会后来出台法律，禁止家长过问子女在学校的性别教育。
+
+### 206: [2023-02-12 23:21:07+08:00 推文](https://twitter.com/HeQinglian/status/1624790713077575680)
+
+Re @Wu_Zhi 赞成他们自选去中国化过程，但别天天在网上Blabla，毕竟，他们还不是拜登与特鲁多。有本事先掌权再强制他人。
+
+### 207: [2023-02-12 23:27:05+08:00 推文](https://twitter.com/HeQinglian/status/1624792214986493953)
+
+Re @lianghuiwang2 倚天照海花无数，高山流水心自知。
+
+### 208: [2023-02-12 23:28:08+08:00 推文](https://twitter.com/HeQinglian/status/1624792479542247428)
+
+Re @Time_Ledge @Lucs24659702 原来，你喜欢这种变态，我园子里有你，真是大污染物。
 
