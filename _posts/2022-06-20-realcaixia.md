@@ -37,7 +37,7 @@ title: 'Twitter @蔡霞: 2022-06-20~2022-06-26'
 
 ### 6: [2022-06-21 08:17:15+08:00 推文](https://twitter.com/realcaixia/status/1539039711850901506)
 
-一位手无寸铁善良正直的文明书生，一位捍卫人权法治尊严的律师，一位从不伤害别人而是努力帮助弱者的义人，一位热诚尽心推动中国走向文明的公民，被凭空构陷秘密审判，所有这一切再次证明这个政权本身是何等的邪恶与罪恶。习当局在20大之前集中审判案件，无非是亮出带血的屠刀，恐吓所有反习反极权的人
+一位手无寸铁善良正直的文明书生，一位捍卫人权法治尊严的律师，一位从不伤害别人而是努力帮助弱者的义人，一位热诚尽心推动中国走向文明的公民，被凭空构陷秘密审判，所有这一切再次证明这个政权本身是何等的邪恶与罪恶。习当局在20大之前集中审判案件，无非是亮出带血的屠刀，恐吓所有反习反极权的人<br><br>Luo Shengchun丁家喜律师妻子: #一片漆黑的中共国庭审 丁家喜庭前会议已结束，律师被逼签保密协议，全都联系不上，只收到一条短信：丁家喜被指控颠覆国家政权案将于2022年6月24日上午9时在山东省临沭县法院不公开开庭审理。<br><br>从2月21日律师上一次会见到今天，没有家喜任何消息，中共国保密工作与其雪亮工程媲美，剥夺人权没有商量！<br><br><img style="" src="https://pbs.twimg.com/media/FVsGtz2WIAE1WH-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2022-06-21 09:05:20+08:00 推文](https://twitter.com/realcaixia/status/1539051810123661312)
 
@@ -45,7 +45,7 @@ title: 'Twitter @蔡霞: 2022-06-20~2022-06-26'
 
 ### 8: [2022-06-22 08:40:37+08:00 推文](https://twitter.com/realcaixia/status/1539407976532000768)
 
-大陆灾害不断。曾经江、朱、胡、温都亲上灾区第一线，现在的大陆高层，习不去查看灾害，其他人就不敢出头第一个到第一线。从2019年起就这样了。
+大陆灾害不断。曾经江、朱、胡、温都亲上灾区第一线，现在的大陆高层，习不去查看灾害，其他人就不敢出头第一个到第一线。从2019年起就这样了。<br><br>老司机: 福建水灾，全国各地水灾如今不但不报导，连领导也都不出面装装救灾的样子了。好像不没有发生一样！但是外国灾难新闻是肯定会播报的！<br><br><video src="https://video.twimg.com/ext_tw_video/1538655456314286080/pu/vid/720x1280/IoUw_eOSYGQMUYhL.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1538655456314286080/pu/img/IPg4FLoZt2DcKA3P.jpg"></video>
 
 ### 9: [2022-06-23 07:45:46+08:00 推文](https://twitter.com/realcaixia/status/1539756560699822088)
 
@@ -97,7 +97,7 @@ Re 人以群分物以类聚，价值观相同，追求一致的人迟早聚到�
 
 ### 21: [2022-06-26 02:35:37+08:00 推文](https://twitter.com/realcaixia/status/1540765676217982978)
 
-习为世界发展指明方向？！跟着习近平走就是走绝路。
+习为世界发展指明方向？！跟着习近平走就是走绝路。<br><br>Winnie Pooh: 清华小学直博博士为全球发展指明了方向<br><br><img style="" src="https://pbs.twimg.com/media/FWGY2FzVUAAkaZ0?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWGY3ZtUAAAOLZ8?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWGY49BVUAAozyl?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 22: [2022-06-26 06:16:34+08:00 推文](https://twitter.com/realcaixia/status/1540821277321175043)
 
