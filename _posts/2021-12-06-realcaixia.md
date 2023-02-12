@@ -61,7 +61,7 @@ Re @jiang_xicheng @luoye_figtree 说得好！👍🌹
 
 ### 12: [2021-12-09 10:10:37+08:00 推文](https://twitter.com/realcaixia/status/1468764994670145539)
 
-21世纪了，中共国妖孽倍出，不知中共当局以为今夕是何年？<br><br>刘晓原: 如今这个年代了，竟然还在搞“一人犯罪、株连全家”，又谈何法治精神？<br>但就是在古代，除了谋反、叛逆罪，一般的涉财产犯罪，也不会株连家人，更不会给他的家庭挂上囚牌，仅是罪犯额头刻个“囚”字。<br><br><img style="" src="https://pbs.twimg.com/media/FGDdO0jUcAQBbYk?format=jpg&name=orig" referrerpolicy="no-referrer">
+21世纪了，中共国妖孽倍出，不知中共当局以为今夕是何年？<br><br>刘晓原: 如今这个年代了，竟然还在搞“一人犯罪、株连全家”，又谈何法治精神？<br>但就是在古代，除了谋反、叛逆罪，一般的涉财产犯罪，也不会株连家人，更不会给他的家庭挂上囚牌，仅是罪犯额头刻个“囚”字。<br><br><img style src="https://pbs.twimg.com/media/FGDdO0jUcAQBbYk?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 13: [2021-12-09 12:53:30+08:00 推文](https://twitter.com/realcaixia/status/1468805982830706689)
 

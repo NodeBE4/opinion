@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-02-11
+date: 2023-02-12
 from: https://old.reddit.com/r/HobbyDrama/comments/10unm05/hobby_scuffles_week_of_february_5_2023/
 layout: post
 tags:
@@ -179,4 +179,10 @@ Thank you! This really adds a lot of context to the period that I hadn't been aw
 ----- __1104.1__ -----2023-02-11 22:12:38+08:00:
 
 More may be said on the broader matter of Chinese history, but as I get into in [this answer](https://www.reddit.com/r/AskHistorians/comments/wohtte/why_isnt_the_taiping_rebellion_more_well_known/ikcm7vb/?context=999), given the way that history is generally understood, it makes sense (in the sense of, it is consistent with the internal logics of historical education as it currently exists) that history is taught in a *national* manner that emphasises narratives of national emergence and development. For instance, Rome is thus a part of British history in a way that it isn't for Chinese history; imperial China is a part of Chinese history in a way that it isn't for, say, French or German history. I would also note, drawing from [this answer](https://www.reddit.com/r/AskHistorians/comments/wohtte/why_isnt_the_taiping_rebellion_more_well_known/ikcm7vb/?context=999), that **importance** and **scale** ought not to be conflated. It is entirely reasonable to say, for instance, that the American Civil War was more important *to America* than the Taiping War, despite the disparity in mortality; indeed, I would allow that it may even have been more important globally than the Taiping War because of the place of the United States in the global networks of the time and the extent to which the war disrupted that place.
+
+### 1105: [Is the legacy of Artemisia I of Caria significant?](https://old.reddit.com/r/AskHistorians/comments/10zyfit/is_the_legacy_of_artemisia_i_of_caria_significant/), submitted on 2023-02-12 05:27:33+08:00.
+
+----- __1105.1__ -----2023-02-12 18:25:31+08:00:
+
+Considering the 'hometown hero' aspect, surely Herodotos' being a Halicarnanian himself would have been extra reason to have been familiar with Artemisia? Or is that biographical detail a speculative one, stated with excessive certainty by past scholars?
 
