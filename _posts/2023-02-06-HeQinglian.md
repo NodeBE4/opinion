@@ -177,7 +177,7 @@ Re @fading_you1 与美国民主党支持者相同。都是求仁得仁，如其�
 
 ### 41: [2023-02-07 02:10:12+08:00 推文](https://twitter.com/HeQinglian/status/1622658936313610240)
 
-RT He Qinglian<br>Re @fading_you1 日本首相解雇了一名助理，原因是这位先生说了他不想看到同性恋和自己做邻居。同性恋发起山呼海啸的抗议，首相只得表示愤怒解雇他。<br>日本是G7当中唯一同婚未合法化的国家，同性恋们趁机再推一把。不过，日本大龄女35岁至50岁未婚占同龄人近40%，拉拉很快会如雨后春笋。 <a href="https://www.bbc.com/news/world-asia-64521862" target="_blank" rel="noopener noreferrer">https://www.bbc.com/news/world-asia-64521862</a>
+Re @fading_you1 日本首相解雇了一名助理，原因是这位先生说了他不想看到同性恋和自己做邻居。同性恋发起山呼海啸的抗议，首相只得表示愤怒解雇他。<br>日本是G7当中唯一同婚未合法化的国家，同性恋们趁机再推一把。不过，日本大龄女35岁至50岁未婚占同龄人近40%，拉拉很快会如雨后春笋。 <a href="https://www.bbc.com/news/world-asia-64521862" target="_blank" rel="noopener noreferrer">https://www.bbc.com/news/world-asia-64521862</a>
 
 ### 42: [2023-02-07 02:47:06+08:00 推文](https://twitter.com/HeQinglian/status/1622668222603436038)
 
@@ -771,35 +771,47 @@ Re @lianghuiwang2 大国争锋，宁为鸡首，勿为牛后。<br>落得乌国�
 
 Re @Lucs24659702 原来退欧是让英国先行一步，否则欧洲乱哄哄的，各国意见不一。
 
-### 190: [2023-02-12 06:15:35+08:00 推文](https://twitter.com/HeQinglian/status/1624532626970226690)
+### 190: [2023-02-12 05:40:14+08:00 推文](https://twitter.com/NAConservative9/status/1624523732411682816)
+
+RT 北美保守评论🇺🇸🇨🇦<br>《&lt;真相工程&gt;董事会政变 创办人奥基夫遭免职 保守派人士发声力挺奥基夫》<br><br>奥基夫是真相工程灵魂人物，摄制并曝光了记载拜登家族腐败的拜登女儿日记、辉瑞公司的冠状病毒“定向进化”研究、学校里的 “觉醒主义”灌输、DOJ/FBI 的腐败行为等爆炸性内容的视频，是利益集团的眼中钉。 <a href="https://nacr.info/WordPress/index.php/2023/02/11/prominent-conservatives-speak-out-in-support-of-james-okeefe-after-cancellation-attempt/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2023/02/11/prominent-conservatives-speak-out-in-support-of-james-okeefe-after-cancellation-attempt/</a><br><img style="" src="https://pbs.twimg.com/media/Fot0nJwWcAMM77n?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 191: [2023-02-12 06:15:35+08:00 推文](https://twitter.com/HeQinglian/status/1624532626970226690)
 
 Re @liuyi871 @lianghuiwang2 2014年是个关键点，那之前与现在比较，乌克兰应该知道怎样做。<br>保持中立地位，两边斡旋，是其生存之道。
 
-### 191: [2023-02-12 06:16:56+08:00 推文](https://twitter.com/HeQinglian/status/1624532966650134530)
+### 192: [2023-02-12 06:16:56+08:00 推文](https://twitter.com/HeQinglian/status/1624532966650134530)
 
 Re @WenbeiLi 你如果认为不算，可以告诉拜登及所有美国政客，是他们多虑了。<br>你怎样看不重要，美国怎样看最重要。
 
-### 192: [2023-02-12 06:19:56+08:00 推文](https://twitter.com/HeQinglian/status/1624533720538533896)
+### 193: [2023-02-12 06:19:56+08:00 推文](https://twitter.com/HeQinglian/status/1624533720538533896)
 
 Re @silenceserver 有印象。
 
-### 193: [2023-02-12 06:30:53+08:00 推文](https://twitter.com/HeQinglian/status/1624536476749889538)
+### 194: [2023-02-12 06:30:53+08:00 推文](https://twitter.com/HeQinglian/status/1624536476749889538)
 
 加拿大Renfrew，高中学生Josh Alexander因说只有两种性别而被捕。这位少年说的是：“只有两种性别，你生来不是男人就是女人。”<br>他被禁止进去学校，直到他对自己说的话认识到错误并且改正。<br>他试图重返学校继续学业，但立即被两名当地警察逮捕，并被控非法侵入。 <a href="https://torontosun.com/opinion/columnists/lilley-catholic-high-school-student-suspended-then-arrested-for-saying-there-are-only-two-genders" target="_blank" rel="noopener noreferrer">https://torontosun.com/opinion/columnists/lilley-catholic-high-school-student-suspended-then-arrested-for-saying-there-are-only-two-genders</a>
 
-### 194: [2023-02-12 06:33:01+08:00 推文](https://twitter.com/HeQinglian/status/1624537015466303488)
+### 195: [2023-02-12 06:33:01+08:00 推文](https://twitter.com/HeQinglian/status/1624537015466303488)
 
 美国与加拿大现在陷入内外战争。<br>对内是性别多元化与只承认两种性别的人的战争；<br>对外是气球大战。<br>这两种战争，两国都能赢。<div class="rsshub-quote"><br><br>Lucs: 刚刚 - 北美航空航天防御司令部 (NORAD) 正在监视“一两个”以上的潜在间谍气球。<br><br> 更新——北美防空司令部确认它正在追踪一个在加拿大上空飞行的“高空物体”。<br> <a href="https://www.disclose.tv/id/100039/" target="_blank" rel="noopener noreferrer">https://www.disclose.tv/id/100039/</a></div>
 
-### 195: [2023-02-12 09:40:19+08:00 推文](https://twitter.com/HeQinglian/status/1624584149636988928)
+### 196: [2023-02-12 09:40:19+08:00 推文](https://twitter.com/HeQinglian/status/1624584149636988928)
 
 Re @Lucs24659702 现在主要是美国打入侵的气球，打完就算完事了。气球主人大概率不会出面应战，最多是口头抗议，或者找个美国气球打爆出气。<br>乌克兰战争还未完，哪有那么多战争好打？美国青年变性、LGBTQI、吸麻都来不及，要他们上前线打仗，说不定立马向左派前辈看齐，反战开始。
 
-### 196: [2023-02-12 09:44:31+08:00 推文](https://twitter.com/HeQinglian/status/1624585208321171459)
+### 197: [2023-02-12 09:44:31+08:00 推文](https://twitter.com/HeQinglian/status/1624585208321171459)
 
 Re @victory18132784 @MuracoSmart 我只看说的是不是事实，只看立场不看事实，是你的偏好，不是我的。人家引述的是下面那英文推。<br>我最讨厌只看立场不看事实的推主。
 
-### 197: [2023-02-12 09:53:29+08:00 推文](https://twitter.com/HeQinglian/status/1624587462948401153)
+### 198: [2023-02-12 09:53:29+08:00 推文](https://twitter.com/HeQinglian/status/1624587462948401153)
 
 Re @zhuxiuliang 这位少年说的是：人生下来只有两种性别，男人与女人。你说的太监不是生下来就具有的性别，是阉割的结果。<br>可能会有个别生而不男不女的，但可能是万分之一，不具有统计学意义。
+
+### 199: [2023-02-12 09:59:59+08:00 推文](https://twitter.com/HeQinglian/status/1624589098571730944)
+
+Re @Lucs24659702 测试一下，家长们有多少想自己的儿女长大后成为图片中这人，还有骄傲月中出动的异形，如下面视频所示：<br>如果美国有超过40%的家长表示愿意，我觉得大家以后不必再为美国操心了。<div class="rsshub-quote"><br><br>沈良庆二世: 痴呆、破锣西最爱<br><br><video src="https://video.twimg.com/ext_tw_video/1623573172661501954/pu/vid/320x512/U8aYhVVsiFetZ09x.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1623573172661501954/pu/img/SZEco-wv9L95XANH.jpg"></video></div>
+
+### 200: [2023-02-12 11:17:05+08:00 推文](https://twitter.com/HeQinglian/status/1624608502139297792)
+
+Re @Lucs24659702 美国娈童成风，儿童倒大霉了。家长过去是看好女孩，现在是男童女童都得看好。
 
