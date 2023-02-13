@@ -31,3 +31,19 @@ Re @univeryu1 我去哪里，你管不着，我是美国纳税人，有权评论
 
 Re @lianghuiwang2 @univeryu1 把他送给小拜家族，有用处。
 
+### 5: [2023-02-13 11:11:35+08:00 推文](https://twitter.com/HeQinglian/status/1624969506031296513)
+
+Re @shenliangqing2 我不关心这女子的受害，我关心一件事情：是否还会有这女子的效颦者。
+
+### 6: [2023-02-13 11:18:10+08:00 推文](https://twitter.com/HeQinglian/status/1624971164153008129)
+
+Re @HL15611409 @mjldmzt 问题是：本人从来没领过美国的任何低保。就算是养老金，也得交税。
+
+### 7: [2023-02-13 11:19:56+08:00 推文](https://twitter.com/HeQinglian/status/1624971607465766912)
+
+Re @Wu_Zhi 一不小心，打错是有可能的。<br>我没看中国消息，不知现在打了几个境外势力放来的气球？
+
+### 8: [2023-02-13 11:40:34+08:00 推文](https://twitter.com/HeQinglian/status/1624976798734745600)
+
+Re @princeton_walk @shenliangqing2 我明天拿这个案例去向一位神学家牧师请教。
+
