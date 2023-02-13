@@ -67,3 +67,7 @@ Re @shenliangqing2 @princeton_walk 还真不是。三年前我请教过他对仇
 
 Re @NAConservative9 【有人说是 “政府故意将其引爆”】<br>美国政府与人民的信任度下降至此，真是可悲。
 
+### 14: [2023-02-14 04:36:36+08:00 推文](https://twitter.com/HeQinglian/status/1625232492805365760)
+
+Re @princeton_walk @shenliangqing2 这是位著作甚丰的神学家，在华人界声望很高。我其实问的就是这，答得很精彩。
+
