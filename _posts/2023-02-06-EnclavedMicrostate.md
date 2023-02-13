@@ -186,3 +186,15 @@ More may be said on the broader matter of Chinese history, but as I get into in 
 
 Considering the 'hometown hero' aspect, surely Herodotos' being a Halicarnanian himself would have been extra reason to have been familiar with Artemisia? Or is that biographical detail a speculative one, stated with excessive certainty by past scholars?
 
+### 1106: [[Hobby Scuffles] Week of February 13, 2023](https://old.reddit.com/r/HobbyDrama/comments/110hnbw/hobby_scuffles_week_of_february_13_2023/), submitted on 2023-02-12 23:00:11+08:00.
+
+----- __1106.1__ -----2023-02-14 03:14:28+08:00:
+
+So if you are interested in any one of
+
+1. VTubers
+2. The *Yakuza* series
+3. The Bakumatsu period in Japanese history (which, oddly enough, has a genuine fandom around it)
+
+Then the sentence [Nyatasha Nyanners joins the Shinsengumi in Like a Dragon: Ishin!](https://twitter.com/RGGStudio/status/1625177903205072897?t=HBMLOSgi7-aLiZqEY5pM_g&s) will presumably make sense to you, at least in part.
+
