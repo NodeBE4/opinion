@@ -37,7 +37,7 @@ RT Kristie Lu Stout✌🏽<br>In China, censors are already at work with the w
 
 ### 6: [2021-12-06 13:48:53+08:00 推文](https://twitter.com/cnmediaproject/status/1467732759351545860)
 
-The march toward "Xi Thought" continues this week with headline appearances of "Xi Jinping Economic Thought" in the People's Daily. <a href="https://chinamediaproject.org/2021/12/06/small-steps-for-xi-thought/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/06/small-steps-for-xi-thought/</a><br><img style="" src="https://pbs.twimg.com/media/FF5vJ-TVUAEZbRR?format=jpg&name=orig" referrerpolicy="no-referrer">
+The march toward "Xi Thought" continues this week with headline appearances of "Xi Jinping Economic Thought" in the People's Daily. <a href="https://chinamediaproject.org/2021/12/06/small-steps-for-xi-thought/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/06/small-steps-for-xi-thought/</a><br><img style src="https://pbs.twimg.com/media/FF5vJ-TVUAEZbRR?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2021-12-06 22:16:00+08:00 推文](https://twitter.com/Yangguobin/status/1467860378000392194)
 
@@ -45,7 +45,7 @@ RT Guobin Yang<br>In the coming months, I've a series of book talks which I'll
 
 ### 8: [2021-12-06 23:34:13+08:00 推文](https://twitter.com/manyapan/status/1467880064528400395)
 
-RT Manya Koetse<br>This iconic photo was taken when Wham! visited the Great Wall in 1985 during their historic 10-day visit to China. They were the first Western pop band to give a concert in the mainland. (*Not the first Western artist - Jean Michel Jarre did his Concerts in China in 1981).<br><img style="" src="https://pbs.twimg.com/media/FF7w4vuXwAQlaic?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Manya Koetse<br>This iconic photo was taken when Wham! visited the Great Wall in 1985 during their historic 10-day visit to China. They were the first Western pop band to give a concert in the mainland. (*Not the first Western artist - Jean Michel Jarre did his Concerts in China in 1981).<br><img style src="https://pbs.twimg.com/media/FF7w4vuXwAQlaic?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 9: [2021-12-07 18:43:00+08:00 推文](https://twitter.com/PM_Thornton/status/1468169162363125763)
 
@@ -53,11 +53,11 @@ RT Patricia M Thornton<br>(On November 23, Gu Kailai's mother, Fan Chengxiu, w
 
 ### 10: [2021-12-08 08:13:20+08:00 推文](https://twitter.com/cnmediaproject/status/1468373089344176128)
 
-Topping page one of the People's Daily today -- the release of a new book on human rights by Xi Jinping. CCP really working overtime to advertise its alternative readings on universal values -- including democracy and freedom of speech. <a href="http://paper.people.com.cn/rmrb/html/2021-12/08/nw.D110000renmrb_20211208_2-01.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/08/nw.D110000renmrb_20211208_2-01.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGC0xFOVEAAoLjh?format=jpg&name=orig" referrerpolicy="no-referrer">
+Topping page one of the People's Daily today -- the release of a new book on human rights by Xi Jinping. CCP really working overtime to advertise its alternative readings on universal values -- including democracy and freedom of speech. <a href="http://paper.people.com.cn/rmrb/html/2021-12/08/nw.D110000renmrb_20211208_2-01.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/08/nw.D110000renmrb_20211208_2-01.htm</a><br><img style src="https://pbs.twimg.com/media/FGC0xFOVEAAoLjh?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 11: [2021-12-08 08:17:00+08:00 推文](https://twitter.com/cnmediaproject/status/1468374013861072896)
 
-Re The book release was covered last night on the official newscast Xinwen Lianbo, which said that the "CCP and the Chinese government have respected and protected human rights throughout," and "found a path to human rights suiting national circumstances." <a href="https://www.yicai.com/news/101251439.html" target="_blank" rel="noopener noreferrer">https://www.yicai.com/news/101251439.html</a><br><img style="" src="https://pbs.twimg.com/media/FGC1qAAVEAQBVf_?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re The book release was covered last night on the official newscast Xinwen Lianbo, which said that the "CCP and the Chinese government have respected and protected human rights throughout," and "found a path to human rights suiting national circumstances." <a href="https://www.yicai.com/news/101251439.html" target="_blank" rel="noopener noreferrer">https://www.yicai.com/news/101251439.html</a><br><img style src="https://pbs.twimg.com/media/FGC1qAAVEAQBVf_?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2021-12-08 08:19:45+08:00 推文](https://twitter.com/niubi/status/1468374707007275015)
 
@@ -65,15 +65,15 @@ RT Bill Bishop<br>14k+ character people's daily article-Summary of General Sec
 
 ### 13: [2021-12-08 08:20:58+08:00 推文](https://twitter.com/cnmediaproject/status/1468375013317570560)
 
-Re The book's publication is big news, right? And editors would freely choose to place it in a prominent spot next to the masthead. . . . No, that's not how it works. They are under strict instructions to run the release, and to place it exactly here. Economic Daily. Look familiar?<br><img style src="https://pbs.twimg.com/media/FGC3GKPVEAQ2XXx?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re The book's publication is big news, right? And editors would freely choose to place it in a prominent spot next to the masthead. . . . No, that's not how it works. They are under strict instructions to run the release, and to place it exactly here. Economic Daily. Look familiar?<br><img style="" src="https://pbs.twimg.com/media/FGC3GKPVEAQ2XXx?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 14: [2021-12-08 08:24:04+08:00 推文](https://twitter.com/cnmediaproject/status/1468375793504239616)
 
-Re And here is Tianjin Daily, the official mouthpiece of the CCP leadership in Tianjin. Only different with People's Daily is placement of a horizontal headline on the 35th collective study session of the Politburo.<br><img style="" src="https://pbs.twimg.com/media/FGC3WlHUcAEq1nX?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re And here is Tianjin Daily, the official mouthpiece of the CCP leadership in Tianjin. Only different with People's Daily is placement of a horizontal headline on the 35th collective study session of the Politburo.<br><img style src="https://pbs.twimg.com/media/FGC3WlHUcAEq1nX?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 15: [2021-12-08 08:26:14+08:00 推文](https://twitter.com/cnmediaproject/status/1468376336456888322)
 
-Re How about Changjiang Daily, the official mouthpiece of the CCP leadership in the city of Wuhan? Deja vu all over again.<br><img style="" src="https://pbs.twimg.com/media/FGC4EBpUYAICIw0?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re How about Changjiang Daily, the official mouthpiece of the CCP leadership in the city of Wuhan? Deja vu all over again.<br><img style src="https://pbs.twimg.com/media/FGC4EBpUYAICIw0?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 16: [2021-12-08 08:27:31+08:00 推文](https://twitter.com/cnmediaproject/status/1468376658998861824)
 
@@ -101,7 +101,7 @@ Re It is always imp. to scrutinize CCP rhetoric to understand how the leadership
 
 ### 22: [2021-12-08 08:43:19+08:00 推文](https://twitter.com/cnmediaproject/status/1468380638026039300)
 
-Re On definitions, CMP is proud to be a partner in the excellent Decoding China project, which takes a deeper look at these issues. <a href="https://decodingchina.eu/" target="_blank" rel="noopener noreferrer">https://decodingchina.eu/</a><br><img style="" src="https://pbs.twimg.com/media/FGC8ZsDVkAArkh5?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re On definitions, CMP is proud to be a partner in the excellent Decoding China project, which takes a deeper look at these issues. <a href="https://decodingchina.eu/" target="_blank" rel="noopener noreferrer">https://decodingchina.eu/</a><br><img style src="https://pbs.twimg.com/media/FGC8ZsDVkAArkh5?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 23: [2021-12-08 19:00:19+08:00 推文](https://twitter.com/cnmediaproject/status/1468535910900047873)
 
@@ -125,7 +125,7 @@ Re A report from the Global Times late yesterday about the forum asserts that: "
 
 ### 28: [2021-12-09 09:03:10+08:00 推文](https://twitter.com/cnmediaproject/status/1468748020888240134)
 
-Re They are: Ma Zhaoxu, a MOFA vice-minister; Russia's Vladimir Norov of the SCO; Peng Qinxuan of Wuhan University Institute of International Law; and Zhu Ying of SW Univ of Pol. Science and Law. Zhu is a regular in human rights related takedowns of the West. <a href="https://hri.swupl.edu.cn/rmxx/301614.htm" target="_blank" rel="noopener noreferrer">https://hri.swupl.edu.cn/rmxx/301614.htm</a><br><img style src="https://pbs.twimg.com/media/FGIKfxWUcAM0dVC?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re They are: Ma Zhaoxu, a MOFA vice-minister; Russia's Vladimir Norov of the SCO; Peng Qinxuan of Wuhan University Institute of International Law; and Zhu Ying of SW Univ of Pol. Science and Law. Zhu is a regular in human rights related takedowns of the West. <a href="https://hri.swupl.edu.cn/rmxx/301614.htm" target="_blank" rel="noopener noreferrer">https://hri.swupl.edu.cn/rmxx/301614.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGIKfxWUcAM0dVC?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 29: [2021-12-09 09:29:12+08:00 推文](https://twitter.com/cnmediaproject/status/1468754569799028736)
 
@@ -141,7 +141,7 @@ Re The video dates to the 2019 South-South HR Forum, and advocates moving "devel
 
 ### 32: [2021-12-09 09:49:20+08:00 推文](https://twitter.com/cnmediaproject/status/1468759639550734336)
 
-Re The latest article, from 11/28, follows CCP talking points nearly verbatim. It openly declares that the Cross-Cultural Human Rights Centre supports the China-Russia declaration following US announcement of the Summit for Democracy.<br><img style="" src="https://pbs.twimg.com/media/FGIVGCRUUAYVII2?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re The latest article, from 11/28, follows CCP talking points nearly verbatim. It openly declares that the Cross-Cultural Human Rights Centre supports the China-Russia declaration following US announcement of the Summit for Democracy.<br><img style src="https://pbs.twimg.com/media/FGIVGCRUUAYVII2?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 33: [2021-12-09 09:57:54+08:00 推文](https://twitter.com/cnmediaproject/status/1468761792512163846)
 
@@ -165,7 +165,7 @@ Don't miss today's page-two "Zhong Sheng" (钟声) commentary in the People's Da
 
 ### 38: [2021-12-10 02:42:32+08:00 推文](https://twitter.com/GeringTuvia/status/1469014618307641344)
 
-RT Tuvia Gering 陶文亚<br>"The economic card is currently our best hand, with political influence following in second and security coming in third" - US expert Professor Wu Xinbo of Fudan University speaks on the "impact of US hegemony's decline on the international order."<br>1/<br><img style src="https://pbs.twimg.com/media/FGL88k2VUAA7Txf?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Tuvia Gering 陶文亚<br>"The economic card is currently our best hand, with political influence following in second and security coming in third" - US expert Professor Wu Xinbo of Fudan University speaks on the "impact of US hegemony's decline on the international order."<br>1/<br><img style="" src="https://pbs.twimg.com/media/FGL88k2VUAA7Txf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 39: [2021-12-11 03:02:36+08:00 推文](https://twitter.com/vshih2/status/1469382055511265280)
 
