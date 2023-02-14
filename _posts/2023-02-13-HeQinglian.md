@@ -71,3 +71,19 @@ Re @NAConservative9 【有人说是 “政府故意将其引爆”】<br>美国�
 
 Re @princeton_walk @shenliangqing2 这是位著作甚丰的神学家，在华人界声望很高。我其实问的就是这，答得很精彩。
 
+### 15: [2023-02-14 21:57:50+08:00 推文](https://twitter.com/HeQinglian/status/1625494530563928064)
+
+Re @eGUAbe2V7j26GHw 现代人懒，看那么多文字，没耐心。就看林青霞演的东方不败。想变性的人一看，积极性高涨：变性后这么惊艳，必须赶快，等于活广告啊。
+
+### 16: [2023-02-14 22:09:16+08:00 推文](https://twitter.com/HeQinglian/status/1625497407810322438)
+
+美国重新思考"如何与中国打交道"<br><br>气球事件迫使华府重新定位美中关系。美国得深度思考：指导中国改革的“改革者”与“改革助推者”已是历史，“颠覆者”这一角色在习近平结束外国NGO时已结束历史使命。剩下的角色是“竞争者”，如何让美国在竞争中获胜，是今后美国政府面临的主要课题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html</a>
+
+### 17: [2023-02-14 22:18:57+08:00 推文](https://twitter.com/HeQinglian/status/1625499842012397573)
+
+Re 里根总统助理杜班2016年提出的十点建议，关于美国处理俄中关系，算一语成谶。文内谈到。
+
+### 18: [2023-02-14 22:37:39+08:00 推文](https://twitter.com/HeQinglian/status/1625504547031613448)
+
+Re @shenliangqing2 中共的人定胜天是改天换地，叫高山低头、让河水让路。西方左派的能耐更大，做上帝之事，从伊甸园开始。<br>我现在等着看变性以什么形式结束，只希望这些人不要动地哀歌：一切都是政府的错，我们上当受骗，社会必须同情我们，赡养我们，承担我们的损失。
+
