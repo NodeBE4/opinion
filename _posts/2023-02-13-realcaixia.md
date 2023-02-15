@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2023-02-15
+date: 2023-02-16
 from: https://twitter.com/realcaixia/status/1624860742469001216
 layout: post
 tags:
@@ -38,4 +38,12 @@ Re @lianchaohan 我去过星云法师庙堂和证严法师的静思精舍及慈�
 ### 6: [2023-02-15 07:29:40+08:00 推文](https://twitter.com/realcaixia/status/1625638433191256065)
 
 Re <br><img style="" src="https://pbs.twimg.com/media/Fo9ticfWAAEMd90?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 7: [2023-02-16 00:36:46+08:00 推文](https://twitter.com/realcaixia/status/1625896914368729088)
+
+习黑帮的中共政府霸占权力为所欲为，老人们抗议完全正当，大规模出动警察镇压民众，足见习当局与民为敌的罪恶本质。<br>民主宪政就是以公民权利为中心的政治逻辑，国家权力镇压公民权利就是犯罪，公民主张权利就是正义！<br>必须颠覆中共以权力为中心的国家政治逻辑！这需有良知学者与民众共同努力。<div class="rsshub-quote"><br><br>李老师不是你老师: 2月15日上午，武汉和大连同时爆发了反医保改革游行示威。<br>两地民众不约而同地唱起了国际歌<br>据悉，此前在2月8日的武汉反医保改革游行示威中，曾有人声称如果政府不解决问题，将在2月15日进行更大规模的游行。<br><br><video src="https://video.twimg.com/ext_tw_video/1625798747534884867/pu/vid/1080x2400/5QzKjN9PvyaITYjL.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1625798747534884867/pu/img/fYvsKsXh0qdgzTnW.jpg"></video></div>
+
+### 8: [2023-02-16 00:50:21+08:00 推文](https://twitter.com/realcaixia/status/1625900330159570946)
+
+他们不懂何为逻辑，可以说现在的中共常委里真懂逻辑的超不过3个。懂逻辑的不讲逻辑，随机狡辩。这届1个头➕6个小矮人都不要常识。他们连常识都敢否定，都能否定，更何在乎逻辑！<div class="rsshub-quote"><br><br>荣剑: 搞不清楚，宣传工作为何如此混乱，自相矛盾，自我打脸，昨天说伟大斗争，今天说和平发展，能不能学点形式逻辑，讲一点同一律，老是这样颠三倒四，谁信你！<br><br><img style="" src="https://pbs.twimg.com/media/Fo432nxakAEIDc7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fo432xeaYAEfQpr?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
