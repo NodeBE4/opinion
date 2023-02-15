@@ -77,7 +77,7 @@ Re @eGUAbe2V7j26GHw 现代人懒，看那么多文字，没耐心。就看林青
 
 ### 16: [2023-02-14 22:09:16+08:00 推文](https://twitter.com/HeQinglian/status/1625497407810322438)
 
-美国重新思考"如何与中国打交道"<br><br>气球事件迫使华府重新定位美中关系。美国得深度思考：指导中国改革的“改革者”与“改革助推者”已是历史，“颠覆者”这一角色在习近平结束外国NGO时已结束历史使命。剩下的角色是“竞争者”，如何让美国在竞争中获胜，是今后美国政府面临的主要课题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html</a>
+RT He Qinglian<br>美国重新思考"如何与中国打交道"<br><br>气球事件迫使华府重新定位美中关系。美国得深度思考：指导中国改革的“改革者”与“改革助推者”已是历史，“颠覆者”这一角色在习近平结束外国NGO时已结束历史使命。剩下的角色是“竞争者”，如何让美国在竞争中获胜，是今后美国政府面临的主要课题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html</a>
 
 ### 17: [2023-02-14 22:18:57+08:00 推文](https://twitter.com/HeQinglian/status/1625499842012397573)
 
@@ -126,4 +126,16 @@ RT 萧生客SSK🇺🇸🇨🇦<br>福奇著文：新冠疫苗是一个失败�
 ### 28: [2023-02-15 09:48:42+08:00 推文](https://twitter.com/HeQinglian/status/1625673422104559616)
 
 Re @JohnLuoSays 杠精，文中说了，肖尔茨表示完全与美国站在一边。<br>美国当然不会告诉他某天某时由某人炸，但告诉他，不会再有北溪2号，你认为呢？<br>没看到就是没看到，承认事实，对你这么难？
+
+### 29: [2023-02-15 10:47:24+08:00 推文](https://twitter.com/HeQinglian/status/1625688197794521088)
+
+Re @JohnLuoSays 【很难想象什么样的国家领导人会同意盟友这么做不考虑后果的】<br>难道拜登当政以来的各种举措，尤其是通过教育系统诱导全美青少年变性并禁止家长与闻，是正常国家领导人的举措？<br>多看事实，不需要想象。
+
+### 30: [2023-02-15 10:49:30+08:00 推文](https://twitter.com/HeQinglian/status/1625688723777110019)
+
+Re @ddiohnjingxu7 @shenliangqing2 清朝太监有多少人？至多一两千吧？美国13-17岁的就达160多万，不说这个年龄段之外的。死绝得有年头。
+
+### 31: [2023-02-15 11:22:36+08:00 推文](https://twitter.com/HeQinglian/status/1625697053232824321)
+
+Re @Vince6610 我数天前就下载了，仔细看了后，决定介绍。<br>太多丰富的细节了。
 
