@@ -25,7 +25,7 @@ RT Kaiser Kuo<br>Rest In Peace. You were one of the greats.<br><br>The Associa
 
 ### 3: [2021-12-27 22:34:25+08:00 推文](https://twitter.com/iheartbeijing/status/1475475160329162753)
 
-RT Elyse Ribbons 柳素英<br>I’m very sad to learn of Jonathan Spence’s passing - I absolutely love his books on Chinese history.<br><br>Sad day for the #sinophile folks in your life, send them a hug. <br><br>#china #history #historian #rip #jonathanspence<br><img style src="https://pbs.twimg.com/media/FHnw1cmVcAE6GDH?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Elyse Ribbons 柳素英<br>I’m very sad to learn of Jonathan Spence’s passing - I absolutely love his books on Chinese history.<br><br>Sad day for the #sinophile folks in your life, send them a hug. <br><br>#china #history #historian #rip #jonathanspence<br><img style="" src="https://pbs.twimg.com/media/FHnw1cmVcAE6GDH?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-12-29 10:45:39+08:00 推文](https://twitter.com/ZhangTaisu/status/1476021568878923784)
 
@@ -41,11 +41,11 @@ RT Ryan Ho Kilpatrick 何松濤<br>How fitting and tragic that @StandNewsHK’
 
 ### 7: [2021-12-29 17:52:48+08:00 推文](https://twitter.com/cnmediaproject/status/1476129063953891329)
 
-CMP continues to watch Chinese discourse dry . . . so you don't have to. Our latest on how Xi Jinping's "Four Confidences" (四个自信) looks on the basis of today's People's Daily to be upgraded to the "Five Confidences." <a href="https://chinamediaproject.org/2021/12/29/and-then-there-were-five/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/29/and-then-there-were-five/</a><br><img style src="https://pbs.twimg.com/media/FHxDbenaMAQQaec?format=jpg&name=orig" referrerpolicy="no-referrer">
+CMP continues to watch Chinese discourse dry . . . so you don't have to. Our latest on how Xi Jinping's "Four Confidences" (四个自信) looks on the basis of today's People's Daily to be upgraded to the "Five Confidences." <a href="https://chinamediaproject.org/2021/12/29/and-then-there-were-five/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/29/and-then-there-were-five/</a><br><img style="" src="https://pbs.twimg.com/media/FHxDbenaMAQQaec?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2021-12-29 17:54:28+08:00 推文](https://twitter.com/cnmediaproject/status/1476129481417183234)
 
-Re The new buzzword is “historical confidence,” or lishi zixin (历史自信). Here it is in today's most prominent PD headline.<br><img style="" src="https://pbs.twimg.com/media/FHxD7ccagAEGUlu?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re The new buzzword is “historical confidence,” or lishi zixin (历史自信). Here it is in today's most prominent PD headline.<br><img style src="https://pbs.twimg.com/media/FHxD7ccagAEGUlu?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 9: [2021-12-30 00:40:53+08:00 推文](https://twitter.com/niubi/status/1476231759662665737)
 

@@ -17,7 +17,7 @@ The China Media Project (中国传媒研究计划) is an independent think
 
 ### 1: [2020-12-14 22:12:05+08:00 推文](https://twitter.com/Yaqiu/status/1338486924793798657)
 
-RT Yaqiu Wang 王亚秋<br>In which I spoke about the curious case of Tuber. A great analysis on it by @cnmediaproject :<br><br>Antony J Funnell: This morning at 10.30 on Future Tense @Neil_Selwyn of @MonashUni details his survey of public attitudes toward AI, while @Michael_b_evans explains the benefits of adopting a national plan. That's on RN..<br><br><img style src="https://pbs.twimg.com/media/Eo7DNihU0AE41Ng?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://www.abc.net.au/radionational/programs/futuretense/our-understanding-of-ai-and-the-value-of-a-national-plan/12919314" target="_blank" rel="noopener noreferrer">https://www.abc.net.au/radionational/programs/futuretense/our-understanding-of-ai-and-the-value-of-a-national-plan/12919314</a>
+RT Yaqiu Wang 王亚秋<br>In which I spoke about the curious case of Tuber. A great analysis on it by @cnmediaproject :<br><br>Antony J Funnell: This morning at 10.30 on Future Tense @Neil_Selwyn of @MonashUni details his survey of public attitudes toward AI, while @Michael_b_evans explains the benefits of adopting a national plan. That's on RN..<br><br><img style="" src="https://pbs.twimg.com/media/Eo7DNihU0AE41Ng?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://www.abc.net.au/radionational/programs/futuretense/our-understanding-of-ai-and-the-value-of-a-national-plan/12919314" target="_blank" rel="noopener noreferrer">https://www.abc.net.au/radionational/programs/futuretense/our-understanding-of-ai-and-the-value-of-a-national-plan/12919314</a>
 
 ### 2: [2020-12-17 17:46:31+08:00 推文](https://twitter.com/cnmediaproject/status/1339507256908517376)
 
@@ -29,7 +29,7 @@ Just as the tide was turning decisively against Huawei in Europe, this decision 
 
 ### 4: [2020-12-18 18:51:37+08:00 推文](https://twitter.com/cnmediaproject/status/1339886027717152774)
 
-CMP explores the intersection of security, technology, privacy and . . . toilet paper? <a href="https://chinamediaproject.org/2020/12/18/a-toilet-revolution-security-and-privacy/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2020/12/18/a-toilet-revolution-security-and-privacy/</a><br><img style="" src="https://pbs.twimg.com/media/Epg7NnvXEAIhjrR?format=jpg&name=orig" referrerpolicy="no-referrer">
+CMP explores the intersection of security, technology, privacy and . . . toilet paper? <a href="https://chinamediaproject.org/2020/12/18/a-toilet-revolution-security-and-privacy/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2020/12/18/a-toilet-revolution-security-and-privacy/</a><br><img style src="https://pbs.twimg.com/media/Epg7NnvXEAIhjrR?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2020-12-18 20:32:28+08:00 推文](https://twitter.com/mtdtl/status/1339911405567401984)
 
