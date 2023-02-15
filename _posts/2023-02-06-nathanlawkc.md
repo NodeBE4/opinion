@@ -33,9 +33,9 @@ Re 3. The Beijing authority makes the rule for the trial. They handpicked judges
 
 Re 6. The maximum penalty they face is a life sentence. Though we think that it's unlikely they would get that maximum penalty; however, it is expected that "masterminds" like Benny Tai would receive more than a decade of imprisonment.
 
-### 5: [2023-02-07 22:18:07+08:00 推文](https://twitter.com/nathanlawkc/status/1622962916939923461)
+### 5: [2023-02-07 22:18:07+08:00 推文](https://twitter.com/nathanlawkc/status/1622962919049777153)
 
-Re 7. Many of them have experienced solidarity confinement, a form of torture, for trivial reasons. Sharing chocolate and hair clips, publishing an update on Facebook...... that's a form of extralegal punishment they suffered.
+Re 8. Most of the defendants are my friends. They are activists, professors, veteran lawmakers, lawmakers....... the kind of people who you think are least likely to be jailed in a democracy. Yet they are there.
 
 ### 6: [2023-02-07 22:18:08+08:00 推文](https://twitter.com/nathanlawkc/status/1622962921553768449)
 
