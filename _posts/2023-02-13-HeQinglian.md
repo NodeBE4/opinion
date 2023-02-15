@@ -77,7 +77,7 @@ Re @eGUAbe2V7j26GHw 现代人懒，看那么多文字，没耐心。就看林青
 
 ### 16: [2023-02-14 22:09:16+08:00 推文](https://twitter.com/HeQinglian/status/1625497407810322438)
 
-RT He Qinglian<br>美国重新思考"如何与中国打交道"<br><br>气球事件迫使华府重新定位美中关系。美国得深度思考：指导中国改革的“改革者”与“改革助推者”已是历史，“颠覆者”这一角色在习近平结束外国NGO时已结束历史使命。剩下的角色是“竞争者”，如何让美国在竞争中获胜，是今后美国政府面临的主要课题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html</a>
+美国重新思考"如何与中国打交道"<br><br>气球事件迫使华府重新定位美中关系。美国得深度思考：指导中国改革的“改革者”与“改革助推者”已是历史，“颠覆者”这一角色在习近平结束外国NGO时已结束历史使命。剩下的角色是“竞争者”，如何让美国在竞争中获胜，是今后美国政府面临的主要课题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html</a>
 
 ### 17: [2023-02-14 22:18:57+08:00 推文](https://twitter.com/HeQinglian/status/1625499842012397573)
 
@@ -190,4 +190,40 @@ Re @Fanjing001 滚吧。利索点。<br>你就一没良知之人。
 ### 44: [2023-02-16 05:35:07+08:00 推文](https://twitter.com/HeQinglian/status/1625971996055011378)
 
 Re @shenliangqing2 这是表示，从此与俄罗斯能源脱钩，政治意义大于经济意义。
+
+### 45: [2023-02-16 05:45:59+08:00 推文](https://twitter.com/HeQinglian/status/1625974728308523020)
+
+看了三位华拜粉留言侮辱西摩·赫什（Seymour Myron " Sy " Hersh），或说他拿钱写文章，或说他是无名之人，发现拜粉普遍无知无畏。<br>这是美国名调查记者和政治作家。1969 年，因揭露美莱大屠杀因此获得 1970 年普利策国际报道奖。70年代，赫什为《纽约时报》报道水门事件。<div class="rsshub-quote"><br><br>He Qinglian: 美国如何炸毁了北溪2号管道<br>代号为 Ivy Bells的水下行动，计划于 2021 年底-2022 年2月制订，杰克·沙利文负责<br>执行任务的是位于巴拿马城的核心潜水学校毕业生，潜水员是海军，不是美国特种作战司令部的成员，不需要向国会八人帮汇报。<br>事先通知了德国总理肖尔茨并获同意。<br> <a href="https://seymourhersh.substack.com/p/how-america-took-out-the-nord-stream" target="_blank" rel="noopener noreferrer">https://seymourhersh.substack.com/p/how-america-took-out-the-nord-stream</a></div>
+
+### 46: [2023-02-16 05:51:42+08:00 推文](https://twitter.com/HeQinglian/status/1625976167420362754)
+
+Re 赫什2004年在《纽约客》发表美军在伊拉克阿布格莱布监狱虐囚事件。<br>赫什共获五项乔治波尔克奖和两个国家杂志奖。共著有 11 本书，包括《权力的代价：基辛格在尼克松白宫》 （1983 年），该书获美国国家图书评论家奖。<br>赫什写的北溪管道被毁真相，也无法在主流媒体上发表，可窥美国言论自由现状。
+
+### 47: [2023-02-16 05:54:56+08:00 推文](https://twitter.com/HeQinglian/status/1625976983661191168)
+
+Re 我要将推特华拜粉对赫什的侮辱这段糗事写出来。其中会点名道姓，如果不想我记载，可先在推上公开告知我。
+
+### 48: [2023-02-16 05:59:06+08:00 推文](https://twitter.com/HeQinglian/status/1625978032849649665)
+
+Re @CharlieVictor62 看来，什么叫实锤，由你改了定义。
+
+### 49: [2023-02-16 06:06:31+08:00 推文](https://twitter.com/HeQinglian/status/1625979899314929668)
+
+左派这个政治派别最大的特点就是挖祖坟，无知左派后辈经常将本派祖师级人物踩在脚下<br>乔姆斯基是新左派的祖师爷，JK.罗琳一直支持所有的左派主张，包括支持BLM与女权。二人均在2020年美国BLM高潮中被左派取消<br>西摩·赫什是美国左派记者的标杆人物，如今因一篇揭露北溪被毁真相的调查报道，或将面临“取消”
+
+### 50: [2023-02-16 06:07:44+08:00 推文](https://twitter.com/HeQinglian/status/1625980203833999363)
+
+Re @CharlieVictor62 他是调查记者，不是检察官。<br>我相信他有证据。
+
+### 51: [2023-02-16 06:15:45+08:00 推文](https://twitter.com/HeQinglian/status/1625982222481207299)
+
+Re @JianglinLi 这还好办，如果是黑白混血出生的人，为了政治正确，如何将自己的血统纯正化，才是真正的大难题。
+
+### 52: [2023-02-16 06:18:09+08:00 推文](https://twitter.com/HeQinglian/status/1625982825223553027)
+
+Re @danielhooverc 问题是：他们配吗？<br>提到的三位，都有公认的文化成就。莫非推上骂骂不同意见者，再在本派灭祖，就能进入左棍祠堂？
+
+### 53: [2023-02-16 06:55:42+08:00 推文](https://twitter.com/HeQinglian/status/1625992275695226883)
+
+各位猜猜，布林肯王毅这次德国会晤能否成真？<br>据路透社援引知情人士称，中国外交部宣布，应法意匈俄四国政府邀请，王毅将先后访问上述各国，并应邀出席第59届慕尼黑安全会议。布林肯考虑在德国出席会议时同王毅会面。美国副国务卿舍曼则透露，她对布王会晤暂无可供宣布的消息，但并不排除这种可能性。
 
