@@ -193,7 +193,7 @@ Re @UGy9oNugsWfeYes 这个文件我不知道。
 
 ### 45: [2022-05-11 21:21:45+08:00 推文](https://twitter.com/realcaixia/status/1524379234466250761)
 
-這位推友說得好！這是清零防疫帶來巨大人禍災難的本質！<br><br>躲猫猫3.0: 新冠目前比艾滋和癌症更让民众恐惧，恐惧的不是医学上的危害，而是政治上的恐惧和社会性的死亡，说到底，新冠现在是一种严重的政治病和人身迫害症。<br><br><video src="https://video.twimg.com/ext_tw_video/1524015266509639680/pu/vid/720x960/TdVj1QB1zDjghph1.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1524015266509639680/pu/img/ddOjckRe3OBKVC-d.jpg"></video>
+這位推友說得好！這是清零防疫帶來巨大人禍災難的本質！
 
 ### 46: [2022-05-12 00:52:51+08:00 推文](https://twitter.com/realcaixia/status/1524432357956145152)
 
@@ -201,7 +201,7 @@ Re @UGy9oNugsWfeYes 这个文件我不知道。
 
 ### 47: [2022-05-12 19:39:02+08:00 推文](https://twitter.com/realcaixia/status/1524715771519287296)
 
-王维洛先生把毛消灭血吸虫病与习的防疫清零做了全面比较，让人大开眼界，又令人极为沉重，从中可以看到防疫清零其实是再现毛的做法，并且是一整套运作机制的重复。 中共一再遮蔽历史，以至于人们只以为当下陷入困境与绝境，实际是60年前历史重演。习近平复辟毛路，陷中国人再次在历史的泥潭里挣扎。
+王维洛先生把毛消灭血吸虫病与习的防疫清零做了全面比较，让人大开眼界，又令人极为沉重，从中可以看到防疫清零其实是再现毛的做法，并且是一整套运作机制的重复。 中共一再遮蔽历史，以至于人们只以为当下陷入困境与绝境，实际是60年前历史重演。习近平复辟毛路，陷中国人再次在历史的泥潭里挣扎。<br><br>《议报》: 王维洛: 毛泽东的消灭血吸虫病和习近平的防疫清零<br> <a href="https://yibaochina.com/?p=246444" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246444</a>
 
 ### 48: [2022-05-12 23:48:07+08:00 推文](https://twitter.com/realcaixia/status/1524778456667627527)
 
@@ -229,7 +229,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FSrg9DDUUAEO-Jq?format=jpg
 
 ### 54: [2022-05-15 22:24:54+08:00 推文](https://twitter.com/realcaixia/status/1525844675994652672)
 
-这是大陆一位很有造诣的政治学学者的文章。特别推荐。<br><br>《议报》: 包刚升: 贫富冲突与现代政治<br> <a href="https://yibaochina.com/?p=246460" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246460</a>
+这是大陆一位很有造诣的政治学学者的文章。特别推荐。
 
 ### 55: [2022-05-15 22:25:52+08:00 推文](https://twitter.com/realcaixia/status/1525844920161820672)
 
@@ -241,7 +241,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FSrg9DDUUAEO-Jq?format=jpg
 
 ### 57: [2022-05-15 22:45:45+08:00 推文](https://twitter.com/realcaixia/status/1525849924092297216)
 
-荒谬的消杀做法，是政府违法犯法，是打着防疫名义的犯罪行为。杨佳至今活在人们心里，是因为杨佳拼死反抗了极权政权。大陆当局正在逼迫越来越多的人成为杨佳。
+荒谬的消杀做法，是政府违法犯法，是打着防疫名义的犯罪行为。杨佳至今活在人们心里，是因为杨佳拼死反抗了极权政权。大陆当局正在逼迫越来越多的人成为杨佳。<br><br>liqun chen（陈立群）: 北京人应该都知道杨佳吧！虽然事情发生在上海。<br>杨佳说：你不给我一个说法，我就给你一个说法！<br> <a href="https://twitter.com/Jupiterf5/status/1525734088409092096" target="_blank" rel="noopener noreferrer">https://twitter.com/Jupiterf5/status/1525734088409092096</a>
 
 ### 58: [2022-05-15 23:00:59+08:00 推文](https://twitter.com/realcaixia/status/1525853756176277504)
 
