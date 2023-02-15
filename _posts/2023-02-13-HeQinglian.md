@@ -91,3 +91,39 @@ Re @shenliangqing2 中共的人定胜天是改天换地，叫高山低头、让�
 
 Re @Lucs24659702 美国有“铁道游击队”，专门扒铁轨，制造事故？
 
+### 20: [2023-02-15 09:07:41+08:00 推文](https://twitter.com/HeQinglian/status/1625663100283224064)
+
+美国如何炸毁了北溪2号管道<br>代号为 Ivy Bells的水下行动，计划于 2021 年底-2022 年2月制订，杰克·沙利文负责<br>执行任务的是位于巴拿马城的核心潜水学校毕业生，潜水员是海军，不是美国特种作战司令部的成员，不需要向国会八人帮汇报。<br>事先通知了德国总理肖尔茨并获同意。 <a href="https://seymourhersh.substack.com/p/how-america-took-out-the-nord-stream" target="_blank" rel="noopener noreferrer">https://seymourhersh.substack.com/p/how-america-took-out-the-nord-stream</a>
+
+### 21: [2023-02-15 09:22:33+08:00 推文](https://twitter.com/HeQinglian/status/1625666844710281219)
+
+Re @ddiohnjingxu7 拜登的国情咨文显示，美国正处于历史上最好的时期之一，没任何问题。<br>唯一的问题是对华外交。
+
+### 22: [2023-02-15 09:25:12+08:00 推文](https://twitter.com/HeQinglian/status/1625667511378116609)
+
+Re @woaijinpinmei 文章说得很清楚，拜登亲自下令，责成沙利文负责；2月7日，亲口告诉德国总理肖尔茨，如果俄罗斯进攻乌克兰，美国将炸毁北溪2号。<br>唯一的难处是要模糊责任人，让世界无法在短期内溯源。
+
+### 23: [2023-02-15 09:33:10+08:00 推文](https://twitter.com/HeQinglian/status/1625669514724618241)
+
+Re @JianglinLi 最近这么集中地发生化学品火车与卡车翻车、爆炸事故，绝非偶然。<br>1、谁策划的？2、想达到什么目标？3、政府、FBI难道没有什么需要告诉公众的？
+
+### 24: [2023-02-15 09:35:59+08:00 推文](https://twitter.com/HeQinglian/status/1625670221762633728)
+
+Re @JohnLuoSays 你还是看仔细 点吧：<br>On February 7, less than three weeks before the seemingly inevitable Russian invasion of Ukraine, Biden met in his White House office with German Chancellor Olaf Scholz, who, after some wobbling, was now firmly on the American team.
+
+### 25: [2023-02-15 09:36:09+08:00 推文](https://twitter.com/HeQinglian/status/1625670264741560320)
+
+Re @JohnLuoSays At the press briefing that followed, Biden defiantly said, “If Russia invades . . . there will be no longer a Nord Stream 2. We will bring an end to it.”
+
+### 26: [2023-02-15 09:36:39+08:00 推文](https://twitter.com/HeQinglian/status/1625670392101711873)
+
+Re @JohnLuoSays 希望不要没看就误导其他人。
+
+### 27: [2023-02-15 09:39:59+08:00 推文](https://twitter.com/SSK2024/status/1625671229842628608)
+
+RT 萧生客SSK🇺🇸🇨🇦<br>福奇著文：新冠疫苗是一个失败的疫苗！（附“下一代冠状疫苗的反思”的全文）<br><br>问责福奇和他的同伙为何在两年前如此肯定疫苗必定是有效的?<br>在众多有良知的人已经提出疑问的时候，他把他们的声音打压下去，只留下他自己的声音。<br><br>福奇这篇洋洋数万字的长文，再次印证他是 ”科学… <a href="https://mp.weixin.qq.com/s/vKZE06ToE31dUUF5ap1-wg" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/vKZE06ToE31dUUF5ap1-wg</a><br><img style="" src="https://pbs.twimg.com/media/Fo-LXgmXwAMD2iG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fo-LXgmXsAEKAxg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fo-LXgnXoAEqQFg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fo-LXgmWcAAczAV?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 28: [2023-02-15 09:48:42+08:00 推文](https://twitter.com/HeQinglian/status/1625673422104559616)
+
+Re @JohnLuoSays 杠精，文中说了，肖尔茨表示完全与美国站在一边。<br>美国当然不会告诉他某天某时由某人炸，但告诉他，不会再有北溪2号，你认为呢？<br>没看到就是没看到，承认事实，对你这么难？
+
