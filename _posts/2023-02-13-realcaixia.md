@@ -47,3 +47,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fo9ticfWAAEMd90?format=jpg
 
 他们不懂何为逻辑，可以说现在的中共常委里真懂逻辑的超不过3个。懂逻辑的不讲逻辑，随机狡辩。这届1个头➕6个小矮人都不要常识。他们连常识都敢否定，都能否定，更何在乎逻辑！<div class="rsshub-quote"><br><br>荣剑: 搞不清楚，宣传工作为何如此混乱，自相矛盾，自我打脸，昨天说伟大斗争，今天说和平发展，能不能学点形式逻辑，讲一点同一律，老是这样颠三倒四，谁信你！<br><br><img style="" src="https://pbs.twimg.com/media/Fo432nxakAEIDc7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fo432xeaYAEfQpr?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
+### 9: [2023-02-16 01:58:23+08:00 推文](https://twitter.com/realcaixia/status/1625917453565050880)
+
+窃钩者诛，窃国者侯。<br>2018年3月全世界看大盗窃国序幕：流氓修宪； 2022年10月全世界看大盗窃国第一幕：窃国须先窃“党”，二十大中共”改为“习帮”；2023年3月全世界将看大盗窃国第二幕，习带上无限期国家主席桂冠，帮伙走卒占各级政府权位。<br>会有新版吗？第二幕合演尾声。若第二幕成，期待早日终局之幕！
+

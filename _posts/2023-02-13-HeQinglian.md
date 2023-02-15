@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-02-15
+date: 2023-02-16
 from: https://twitter.com/HeQinglian/status/1624803637313564672
 layout: post
 tags:
@@ -150,4 +150,20 @@ Re @ziliyang @shenliangqing2 你还是对这个左派标杆般存在的记者有
 ### 34: [2023-02-15 22:35:08+08:00 推文](https://twitter.com/HeQinglian/status/1625866305009078272)
 
 Re @washearg 炸了一段，选在挪威附近，因斯滕伯尔格的原因。文章说得非常清楚。
+
+### 35: [2023-02-15 22:53:00+08:00 推文](https://twitter.com/HeQinglian/status/1625870799314862080)
+
+Re @seadognw 陈述观点，我尊重，即使荒谬，陈述者激动不已秀情怀。<br>但否认事实，哪怕铁证如山的事实，就是洗地。
+
+### 36: [2023-02-15 22:54:56+08:00 推文](https://twitter.com/HeQinglian/status/1625871284503474180)
+
+Re @dinglili7 美国恐怖组织与左派当真是自毁不倦。
+
+### 37: [2023-02-16 00:19:32+08:00 推文](https://twitter.com/HongfuDing/status/1625892575394529280)
+
+RT Hongfu Ding<br>左派烏托邦，共產主義，大重置，同一東西的不同説法。相信科學，woke，cancel culture，BLM，CRT，氣候教，TRANS，都是通往同一目標的具體步驟。<div class="rsshub-quote"><br><br>ALX 🇺🇸: BREAKING: @ElonMusk speaks out against the idea of a “World Government” at the “World Government Summit” and warns it could lead to civilizational collapse.<br><br><video src="https://video.twimg.com/amplify_video/1625730838221520897/vid/1920x1080/Q0uyX9IxInkdYkyX.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1625730838221520897/img/bAxG7Ce4qxhqEXmw.jpg"></video></div>
+
+### 38: [2023-02-16 01:14:31+08:00 推文](https://twitter.com/HeQinglian/status/1625906413041070096)
+
+Re @dinglili7 拜登下令全国教育系统推行变性教育，民主党众议院立法家长不得过问，为什么左派就不说是政客通过行政权力强行推行变性？<br>如果左派全变性，我绝对赞成。
 
