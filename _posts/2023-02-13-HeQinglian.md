@@ -77,7 +77,7 @@ Re @eGUAbe2V7j26GHw 现代人懒，看那么多文字，没耐心。就看林青
 
 ### 16: [2023-02-14 22:09:16+08:00 推文](https://twitter.com/HeQinglian/status/1625497407810322438)
 
-美国重新思考"如何与中国打交道"<br><br>气球事件迫使华府重新定位美中关系。美国得深度思考：指导中国改革的“改革者”与“改革助推者”已是历史，“颠覆者”这一角色在习近平结束外国NGO时已结束历史使命。剩下的角色是“竞争者”，如何让美国在竞争中获胜，是今后美国政府面临的主要课题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html</a>
+RT He Qinglian<br>美国重新思考"如何与中国打交道"<br><br>气球事件迫使华府重新定位美中关系。美国得深度思考：指导中国改革的“改革者”与“改革助推者”已是历史，“颠覆者”这一角色在习近平结束外国NGO时已结束历史使命。剩下的角色是“竞争者”，如何让美国在竞争中获胜，是今后美国政府面临的主要课题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html</a>
 
 ### 17: [2023-02-14 22:18:57+08:00 推文](https://twitter.com/HeQinglian/status/1625499842012397573)
 
@@ -138,4 +138,16 @@ Re @ddiohnjingxu7 @shenliangqing2 清朝太监有多少人？至多一两千吧�
 ### 31: [2023-02-15 11:22:36+08:00 推文](https://twitter.com/HeQinglian/status/1625697053232824321)
 
 Re @Vince6610 我数天前就下载了，仔细看了后，决定介绍。<br>太多丰富的细节了。
+
+### 32: [2023-02-15 22:31:27+08:00 推文](https://twitter.com/HeQinglian/status/1625865374397767680)
+
+Re @Vince6610 我对他的了解不如你多。有什么好文章请发过来。
+
+### 33: [2023-02-15 22:33:43+08:00 推文](https://twitter.com/HeQinglian/status/1625865946836475909)
+
+Re @ziliyang @shenliangqing2 你还是对这个左派标杆般存在的记者有所了解再说。他是左派记者当中少有的几个还值得尊重的人。<br>至于你愿意相信什么，是你的事情，我不关心。你甚至可以不相信小拜登的电脑。
+
+### 34: [2023-02-15 22:35:08+08:00 推文](https://twitter.com/HeQinglian/status/1625866305009078272)
+
+Re @washearg 炸了一段，选在挪威附近，因斯滕伯尔格的原因。文章说得非常清楚。
 
