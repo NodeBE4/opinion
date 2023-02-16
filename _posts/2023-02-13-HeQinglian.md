@@ -371,3 +371,7 @@ Re @sohfangwei 白宫已经说了，看BBC昨天的消息。
 
 Re @IloveAmerica23 @shenliangqing2 问题就是出发点就是绑架全社会。你说的前提不存在。
 
+### 90: [2023-02-17 00:08:50+08:00 推文](https://twitter.com/HeQinglian/status/1626252271091609604)
+
+Re @FangYiDuan1 我今后只关心美方公布中国气球的最新动向，因为接下来将是新的外交动向，一般以布林肯对北京遥遥喊话开局。<br>气球打多了，第三次世界大战的担忧就更多了。
+
