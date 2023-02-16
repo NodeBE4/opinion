@@ -55,3 +55,19 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fo9ticfWAAEMd90?format=jpg
 
 Re @rj6FRBAxEVCFHwR 是我发现第二幕写成第三幕了，在推特上本身无法修改，只好删除了再修改再发出来。现在这推文上依然有需要改的字：戴变成“带”，“带”是点击时没有细看。也借此机会做一说明。
 
+### 11: [2023-02-16 08:04:34+08:00 推文](https://twitter.com/realcaixia/status/1626009606274289664)
+
+武汉市、大连市、鞍山市老人为争得起码的权利，勇敢地发出声音。从四通桥彭载舟一人到白纸数千人再到白发数万人，数十万人，越来越多的民众站出来了。极权维持统治的基本手段之一就是制造高压恐怖，战胜恐惧，不畏强权残暴打手，极权统治的恫吓效力先自减了许多。<div class="rsshub-quote"><br><br>新闻调查: 2月15日，武汉数十万老人走上街头，齐聚中山公园，将大动脉解放大道堵了个水泄不通，抗议武汉政府砍去2/3医保资金的改革。<br>老人们演讲，喊口号，唱《国际歌》，要求取消医改。<br>现场布置了大量警力，双方对抗激烈，一些警察开始抓人！<br>大连等其他城市老人们也走上街头！<br>最新视频！欢迎大家转发、关注！<br><br><video src="https://video.twimg.com/ext_tw_video/1625714617673732096/pu/vid/592x1280/s8O5doPhanJAWODg.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1625714617673732096/pu/img/ShPEsqT8lyxwMYSI.jpg"></video> <a href="https://twitter.com/i/web/status/1625714822875852803" target="_blank" rel="noopener noreferrer">https://twitter.com/i/web/status/1625714822875852803</a></div>
+
+### 12: [2023-02-16 08:23:50+08:00 推文](https://twitter.com/realcaixia/status/1626014456361947136)
+
+回顾习十年，是罪还是过，用数字说话。习身后，是名垂千古还是遗臭万年，都由后人评说、历史定论。<div class="rsshub-quote"><br><br>新高地官推 官网：https://www.newhighlandvision.com/: 海风：习执政已近10年，其昏庸的执政理念，直接导致全国的房价平均贬值70%以上；股市平均贬值80%以上；外资逃离80%以上；厂商倒闭60%以上；3000多个工业园80%已瘫痪；国人90%感染过新冠病毒；70%的家庭债务缠身；对外撒币十几万亿美元居然换来举世皆敌。如果10年前中国值100万亿美元，如今还值多少？<br><br><img style="" src="https://pbs.twimg.com/media/Fo9O-3xWIAQTK1Q?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 13: [2023-02-16 08:54:10+08:00 推文](https://twitter.com/realcaixia/status/1626022089257013248)
+
+同意 。<div class="rsshub-quote"><br><br>二大爷: 我很不喜欢诸如“支性”之类的指斥中国国民性的词语。因为我觉得，人性其实不分种族，大致都是相同的，不存在天生的高下。明明是制度压迫与扭曲导致的问题，冤有头债有主，不要把仇恨转移到受害者身上。面对一个打手众多、武器精良、手段残忍的黑社会集团，有很多墙外的人，对于受害者的仇恨和蔑视，甚至…<br> <a href="https://twitter.com/i/web/status/1625922271088103431" target="_blank" rel="noopener noreferrer">https://twitter.com/i/web/status/1625922271088103431</a></div>
+
+### 14: [2023-02-16 08:55:21+08:00 推文](https://twitter.com/realcaixia/status/1626022385165172736)
+
+哀悼！中国同样有热血男儿！<div class="rsshub-quote"><br><br>周锋锁 Fengsuo Zhou: 何家维在孤独无助中去世，不知道他临终经过了怎样的煎熬，愿他饱受困难的灵魂安息天国。曾经到处奔走，为各种受害者呼吁，最近两年身体状况恶化，行走不便，本来是需要有专人照顾。却长期遭受各种拘禁和监视隔离。恶毒的国保警察为了迫使贫困潦倒中的他屈服，甚至完全切断了他取得任何外界资助的渠道。<br><br><img style="" src="https://pbs.twimg.com/media/Fo-B2NKXwAA_kXS?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fo-B2NJXsAEmmpj?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fo-B2NJXgAEk-qY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fo-B2NKWIAAfctP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+

@@ -77,7 +77,7 @@ Re @eGUAbe2V7j26GHw 现代人懒，看那么多文字，没耐心。就看林青
 
 ### 16: [2023-02-14 22:09:16+08:00 推文](https://twitter.com/HeQinglian/status/1625497407810322438)
 
-美国重新思考"如何与中国打交道"<br><br>气球事件迫使华府重新定位美中关系。美国得深度思考：指导中国改革的“改革者”与“改革助推者”已是历史，“颠覆者”这一角色在习近平结束外国NGO时已结束历史使命。剩下的角色是“竞争者”，如何让美国在竞争中获胜，是今后美国政府面临的主要课题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html</a>
+RT He Qinglian<br>美国重新思考"如何与中国打交道"<br><br>气球事件迫使华府重新定位美中关系。美国得深度思考：指导中国改革的“改革者”与“改革助推者”已是历史，“颠覆者”这一角色在习近平结束外国NGO时已结束历史使命。剩下的角色是“竞争者”，如何让美国在竞争中获胜，是今后美国政府面临的主要课题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html</a>
 
 ### 17: [2023-02-14 22:18:57+08:00 推文](https://twitter.com/HeQinglian/status/1625499842012397573)
 
@@ -226,4 +226,40 @@ Re @danielhooverc 问题是：他们配吗？<br>提到的三位，都有公认�
 ### 53: [2023-02-16 06:55:42+08:00 推文](https://twitter.com/HeQinglian/status/1625992275695226883)
 
 各位猜猜，布林肯王毅这次德国会晤能否成真？<br>据路透社援引知情人士称，中国外交部宣布，应法意匈俄四国政府邀请，王毅将先后访问上述各国，并应邀出席第59届慕尼黑安全会议。布林肯考虑在德国出席会议时同王毅会面。美国副国务卿舍曼则透露，她对布王会晤暂无可供宣布的消息，但并不排除这种可能性。
+
+### 54: [2023-02-16 08:25:54+08:00 推文](https://twitter.com/HeQinglian/status/1626014975868166144)
+
+Re @bu3bu4 围魏，是指攻打莫斯科；救赵，是指俄军不得不从乌克兰撤军，回救本国。<br>迦太基著名统帅汉尼拔一生未打过一次败仗。但迦太基灭亡后，他的军队成了无根游魂，不败而败。
+
+### 55: [2023-02-16 08:28:47+08:00 推文](https://twitter.com/HeQinglian/status/1626015700048289793)
+
+Re @shenliangqing2 我好奇的是，这个雕像头上那两条东西象征什么？蛇？
+
+### 56: [2023-02-16 08:34:33+08:00 推文](https://twitter.com/HeQinglian/status/1626017151302750208)
+
+Re @mingshi_chen 布林肯前一次声称要谈俄乌战争问题，伊朗拥核似乎不在主菜单上。<br>这一次肯定加码气球问题。
+
+### 57: [2023-02-16 08:44:17+08:00 推文](https://twitter.com/HeQinglian/status/1626019600671379457)
+
+拉斯穆森调查：2024年大选，45%的选民表示愿意投票给拜登；42%的选民将选川普；11%的人愿意选其他的人。<br><br>看来，拜登的国情咨文巩固了美国人对他的信心，美国历史上最好的年代之一，没通胀、高就业，即将派发的高福利。美国总统，舍拜登其谁？🤣🤣 <a href="https://www.rasmussenreports.com/public_content/politics/biden_administration/2024_biden_narrowly_leads_trump" target="_blank" rel="noopener noreferrer">https://www.rasmussenreports.com/public_content/politics/biden_administration/2024_biden_narrowly_leads_trump</a>
+
+### 58: [2023-02-16 08:48:14+08:00 推文](https://twitter.com/HeQinglian/status/1626020593408655366)
+
+Re @shenliangqing2 估计是从埃及艳后克里奥佩屈特拉借鉴来的，艳后自杀是将手伸进装有毒蛇的筐子里。形象也与后世认定的形象。
+
+### 59: [2023-02-16 08:55:28+08:00 推文](https://twitter.com/HeQinglian/status/1626022414843801601)
+
+Re @Renny9915 解释的过程，是让一众推友看到瓦釜雷鸣，都是才盖了桶底的水，就晃荡得厉害。<br>比如说西摩·赫什不可信的人，在美好些年，完全不知美国。<br>比如说赫什拿钱写文章的人，除了钱之外，什么也不认。
+
+### 60: [2023-02-16 09:02:46+08:00 推文](https://twitter.com/HeQinglian/status/1626024254457126913)
+
+温故知新：从开战到一周前，各路大神对俄乌战争胜负预判，想看哪段就点哪个时段。<br>很多熟悉的面孔与大V。<br>如果心情不愉快，看后肯定一笑。 <a href="https://bad.news/ai/3689244" target="_blank" rel="noopener noreferrer">https://bad.news/ai/3689244</a>
+
+### 61: [2023-02-16 09:04:28+08:00 推文](https://twitter.com/HeQinglian/status/1626024679231176708)
+
+Re @YaxueCao 看来，美国要对中国间谍进行拉网式清查，人人过关，方能保证中国间谍不在美国搞事。🤣
+
+### 62: [2023-02-16 09:12:08+08:00 推文](https://twitter.com/HeQinglian/status/1626026611383336962)
+
+乌龙事件？<div class="rsshub-quote"><br><br>联合早报 Lianhe Zaobao: 美国政府初步评估认为，近日击落的三个不明飞行物可能属于商业用途，并非用于收集情报，目前也没有迹象显示与中国或其他国家政府对美国的监视计划有关。<br> <a href="https://www.zaobao.com.sg/news/world/story20230216-1363588" target="_blank" rel="noopener noreferrer">https://www.zaobao.com.sg/news/world/story20230216-1363588</a></div>
 
