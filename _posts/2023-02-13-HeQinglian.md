@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-02-16
+date: 2023-02-17
 from: https://twitter.com/HeQinglian/status/1624803637313564672
 layout: post
 tags:
@@ -77,7 +77,7 @@ Re @eGUAbe2V7j26GHw 现代人懒，看那么多文字，没耐心。就看林青
 
 ### 16: [2023-02-14 22:09:16+08:00 推文](https://twitter.com/HeQinglian/status/1625497407810322438)
 
-RT He Qinglian<br>美国重新思考"如何与中国打交道"<br><br>气球事件迫使华府重新定位美中关系。美国得深度思考：指导中国改革的“改革者”与“改革助推者”已是历史，“颠覆者”这一角色在习近平结束外国NGO时已结束历史使命。剩下的角色是“竞争者”，如何让美国在竞争中获胜，是今后美国政府面临的主要课题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html</a>
+美国重新思考"如何与中国打交道"<br><br>气球事件迫使华府重新定位美中关系。美国得深度思考：指导中国改革的“改革者”与“改革助推者”已是历史，“颠覆者”这一角色在习近平结束外国NGO时已结束历史使命。剩下的角色是“竞争者”，如何让美国在竞争中获胜，是今后美国政府面临的主要课题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html</a>
 
 ### 17: [2023-02-14 22:18:57+08:00 推文](https://twitter.com/HeQinglian/status/1625499842012397573)
 
@@ -334,4 +334,40 @@ Re @dinglili7 原来是想效仿巴西，换个总统多个小弟。<br>知-道-
 ### 80: [2023-02-16 22:37:23+08:00 推文](https://twitter.com/HeQinglian/status/1626229255557496834)
 
 Re @mingshi_chen 这条我得不同意了。<br>算来蓝玉那战，已经快过了四百年。当时，明军似乎还没有红衣大炮吧？<br>时移则势易。
+
+### 81: [2023-02-16 22:42:08+08:00 推文](https://twitter.com/HeQinglian/status/1626230453127766020)
+
+Re 今天再看柯比发言，发现自己居然没弄明白：那三个气球被美国白宫宣布不是中国的且无害，令多少人失望郁闷。<br>而且还居然无人无国认领，整个就是《流浪气球漂流记》。<br>其实可以模仿政变故事，自写气球真正主人是谁，编下去，肯定会有大流量。
+
+### 82: [2023-02-16 22:45:49+08:00 推文](https://twitter.com/HeQinglian/status/1626231380941352962)
+
+Re @mingshi_chen 那天不是有人编写美彩虹军——变性人上校亲驾飞机击落中国来犯气球的故事么？“政治正确”大军压境，肯定负荆开城门投降。
+
+### 83: [2023-02-16 22:47:23+08:00 推文](https://twitter.com/HeQinglian/status/1626231775126261761)
+
+Re @NoahYu12 @dinglili7 我当然不专业，所以要你亲自实践，这错了么？<br>最好赶赴Ohio事故发生地，如果你需要赞助，请在推上公开捐款帐户，我一定做第10位捐款者，五美元。
+
+### 84: [2023-02-16 22:49:53+08:00 推文](https://twitter.com/HeQinglian/status/1626232402581524480)
+
+Re @CharlieVictor62 @dinglili7 要不，从德国派点土耳其移民回国？这些人多是双重国籍。好几百万人呢，就算不带彩虹色，肯定比土生土长的要进步。
+
+### 85: [2023-02-16 23:00:59+08:00 推文](https://twitter.com/HeQinglian/status/1626235195065262081)
+
+Re @Lucs24659702 这事情我非常认真地考察过了。<br>尽管2021年1月3日，众议院在议长南希·佩洛西主持下通过议案，为尊重所有性别认同和”性别中立”，将取消美国家庭关系用语中和性别有关的”父亲母亲儿子女儿”等称谓——但佩洛西谈及女儿是否接班做议员时，在媒体上仍然称My Daughter，没称“我家那位生育的人”。她女儿也如此
+
+### 86: [2023-02-16 23:07:28+08:00 推文](https://twitter.com/HeQinglian/status/1626236827815510019)
+
+Re @mingshi_chen 你难道没见过美国AOC四人帮成员黑人——不，是非裔女议员前年在国会追打共和党男议员、男议员落荒而逃的情景？那真叫一个“雌勇”无敌，大长美国左派志气。
+
+### 87: [2023-02-16 23:24:03+08:00 推文](https://twitter.com/HeQinglian/status/1626241002947354624)
+
+Re @Lucs24659702 如果能够列举名单链接，让大家开眼界多好。
+
+### 88: [2023-02-16 23:26:06+08:00 推文](https://twitter.com/HeQinglian/status/1626241517198381056)
+
+Re @sohfangwei 白宫已经说了，看BBC昨天的消息。
+
+### 89: [2023-02-17 00:01:09+08:00 推文](https://twitter.com/HeQinglian/status/1626250337869869056)
+
+Re @IloveAmerica23 @shenliangqing2 问题就是出发点就是绑架全社会。你说的前提不存在。
 
