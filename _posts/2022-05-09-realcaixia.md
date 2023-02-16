@@ -185,7 +185,7 @@ Re @UGy9oNugsWfeYes 这个文件我不知道。
 
 ### 43: [2022-05-10 22:26:29+08:00 推文](https://twitter.com/realcaixia/status/1524033138153951232)
 
-极权统治下，人权灾难既能发生在新疆西藏也能发生在国际大都市的上海。曾经以为只要安分守己远离政治就可以岁月静好的人，现在不得不面对难以想象的，发生在和平时期的居家囚禁、饥饿死亡威胁、被面目模糊亦警亦匪白卫兵暴力恫吓有家不得居、出门即遭打，霎时就被抓的恐怖煎熬。这即中国特色防疫优势。
+极权统治下，人权灾难既能发生在新疆西藏也能发生在国际大都市的上海。曾经以为只要安分守己远离政治就可以岁月静好的人，现在不得不面对难以想象的，发生在和平时期的居家囚禁、饥饿死亡威胁、被面目模糊亦警亦匪白卫兵暴力恫吓有家不得居、出门即遭打，霎时就被抓的恐怖煎熬。这即中国特色防疫优势。<br><br>荣剑: 上海自开埠以来，和平时期，从未遭遇如此人为之灾难。<br><br><img style="" src="https://pbs.twimg.com/media/FSUYQUdVUAArSMe?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 44: [2022-05-11 04:59:52+08:00 推文](https://twitter.com/realcaixia/status/1524132136407605248)
 
@@ -205,7 +205,7 @@ Re @UGy9oNugsWfeYes 这个文件我不知道。
 
 ### 48: [2022-05-12 23:48:07+08:00 推文](https://twitter.com/realcaixia/status/1524778456667627527)
 
-跟推传发一夜庐诗作。
+跟推传发一夜庐诗作。<br><br>ZHANGDONG: 疫情新三别（之二）<br>小兒别<br><br><img style="" src="https://pbs.twimg.com/media/FSRTha1X0AU8QJK?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSRThosXoAIrT6H?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSRTh6IXMAAnddt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSRTiIdXwAAJzkl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 49: [2022-05-12 23:48:39+08:00 推文](https://twitter.com/realcaixia/status/1524778589404774400)
 
