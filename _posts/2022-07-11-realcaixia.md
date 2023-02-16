@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2022-07-11~2022-07-17'
 
 ### 2: [2022-07-13 21:22:03+08:00 推文](https://twitter.com/realcaixia/status/1547209743848165377)
 
-纪念刘晓波。他本该在诺贝尔奖颁奖典礼现场，然而由于中共极权统治的残酷迫害，颁奖典礼现场只有那把缺位的空椅子。从此，刘晓波—六·四屠杀事件—空椅子，成了追求自由民主的中国人心中永远的痛。我们纪念刘晓波，我们继续朝着刘晓波为之献出生命的目标前行。
+纪念刘晓波。他本该在诺贝尔奖颁奖典礼现场，然而由于中共极权统治的残酷迫害，颁奖典礼现场只有那把缺位的空椅子。从此，刘晓波—六·四屠杀事件—空椅子，成了追求自由民主的中国人心中永远的痛。我们纪念刘晓波，我们继续朝着刘晓波为之献出生命的目标前行。<br><br>自由亚洲电台: 【刘晓波逝世五周年 友人台北祭悼】<br>【刘晓波:中国必须有一个道义巨人无私牺牲】<br><br>13日是诺贝尔和平奖得主刘晓波逝世五周年。許多友人在台北以诗歌音乐舞蹈和演讲，悼念刘晓波。<br><br>流亡作家 #廖亦武 认为，刘晓波最重要的一句话是“中国没有道义巨人”。<br><br>#刘晓波<br>#李明哲<br>#矢板明夫<br>#中国没有道义巨人<br><br><video src="https://video.twimg.com/ext_tw_video/1547182384252010496/pu/vid/720x720/mcaCz7kODqDkw2y-.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1547182384252010496/pu/img/g_xZMsl74FPN_yst.jpg"></video>
 
 ### 3: [2022-07-14 03:39:34+08:00 推文](https://twitter.com/realcaixia/status/1547304749938130944)
 
@@ -41,11 +41,11 @@ Re 中国著名作家胡发云先生的文章—索尔维格之歌的故事：�
 
 ### 7: [2022-07-15 00:56:12+08:00 推文](https://twitter.com/realcaixia/status/1547626026435375104)
 
-荣剑的著作哪本都是精品，阅读荣剑的大作，既是思想盛宴又是文字美的艺术享受。我是在1989年6·4运动前后读到荣剑的文章的，如醍醐灌顶，从此后我就成了荣剑的铁杆粉丝。期待Amazon上能买到荣剑的这本纸质书。
+荣剑的著作哪本都是精品，阅读荣剑的大作，既是思想盛宴又是文字美的艺术享受。我是在1989年6·4运动前后读到荣剑的文章的，如醍醐灌顶，从此后我就成了荣剑的铁杆粉丝。期待Amazon上能买到荣剑的这本纸质书。<br><br>荣剑: 再次推广！<br> <a href="https://twitter.com/ArtNext/status/1446509334087847947" target="_blank" rel="noopener noreferrer">https://twitter.com/ArtNext/status/1446509334087847947</a>
 
 ### 8: [2022-07-15 05:45:33+08:00 推文](https://twitter.com/realcaixia/status/1547698840366567429)
 
-他们正在穷尽一切手段控制民众。清零如果坚持不下去就换种说法、换个花样，把社会控制到瘫，以保习近平二十大继续掌控权力。
+他们正在穷尽一切手段控制民众。清零如果坚持不下去就换种说法、换个花样，把社会控制到瘫，以保习近平二十大继续掌控权力。<br><br>ZHANGDONG: 暴政治国、钳制国民言论行动自由到了无以复加地步！上海欲在全社会层面普查疑似神经病，这是要把大上海变成神经病院吗？政府恐惧国民到如此地步也是这厉害国的执政特点了。口口声声的自信呢？<br><br><img style="" src="https://pbs.twimg.com/media/FXncdhWWQAA6J-M?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 9: [2022-07-15 23:04:23+08:00 推文](https://twitter.com/realcaixia/status/1547960272320544774)
 
@@ -57,7 +57,7 @@ Re @gaoyu200812 原先是有规则的，新闻联播前25分钟是国内报道�
 
 ### 11: [2022-07-15 23:51:21+08:00 推文](https://twitter.com/realcaixia/status/1547972093869928455)
 
-这段视频在国内微信群流传，看来问题出在政府部门。如果这个银行方人员说的是真相的话，那么银行应该“出门右转找政府”，政府耍赖的话，那么银行该去法院状告政府房管局，追究政府有关部门的法律责任。
+这段视频在国内微信群流传，看来问题出在政府部门。如果这个银行方人员说的是真相的话，那么银行应该“出门右转找政府”，政府耍赖的话，那么银行该去法院状告政府房管局，追究政府有关部门的法律责任。<br><br>变态辣椒RebelPepper: 銀行：冤有頭債有主，出門右轉找**<br><br><video src="https://video.twimg.com/ext_tw_video/1547624996008128512/pu/vid/368x640/-OWCK0CSkllCtYy4.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1547624996008128512/pu/img/-8JbfZBg5Jj65jAg.jpg"></video>
 
 ### 12: [2022-07-16 00:35:14+08:00 推文](https://twitter.com/realcaixia/status/1547983137363283974)
 
@@ -65,5 +65,5 @@ Re @gaoyu200812 原先是有规则的，新闻联播前25分钟是国内报道�
 
 ### 13: [2022-07-16 23:53:07+08:00 推文](https://twitter.com/realcaixia/status/1548334925681635332)
 
-一方面，这个事件的滑稽可笑表明，中共以及五毛粉红们的以言论罪，完全不讲逻辑、无可理喻，充满邪恶。另一方面，中共与习不是宣称有强大的五个自信吗？自信到了以捕风捉影、邪念妄想症来坑人整人的地步。
+一方面，这个事件的滑稽可笑表明，中共以及五毛粉红们的以言论罪，完全不讲逻辑、无可理喻，充满邪恶。另一方面，中共与习不是宣称有强大的五个自信吗？自信到了以捕风捉影、邪念妄想症来坑人整人的地步。<br><br>荣剑: 一起舆情事故就这么发生了，人家说的是知了，挡不住别人联想丰富。<br><br><img style="" src="https://pbs.twimg.com/media/FXwQrhGUYAQyUJu?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FXwQsQCUUAcb9es?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FXwQtR6UYAMQMov?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FXwQt_WUcAADxuN?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

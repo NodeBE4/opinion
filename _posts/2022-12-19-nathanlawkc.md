@@ -3,7 +3,7 @@ author: nathanlawkc
 categories:
 - Twitter
 date: 2022-12-25
-from: https://twitter.com/nathanlawkc/status/1606717590939860992
+from: https://twitter.com/nathanlawkc/status/1606717588284874755
 layout: post
 tags:
 - Twitter
@@ -17,9 +17,9 @@ Author of Freedom, UK (https://t.co/2OFalKXJG1) and NA (https://t.co/mkF6N8U5d0)
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 1: [2022-12-25 02:24:59+08:00 推文](https://twitter.com/nathanlawkc/status/1606717590939860992)
+### 1: [2022-12-25 02:24:59+08:00 推文](https://twitter.com/nathanlawkc/status/1606717588284874755)
 
-Re As a newcomer to this country, I believe we are obliged to learn more about it – its rich culture and history, as well as the changes and challenges. Chatting with the clients, serving them drinks and food are good ways to understand the complexity of the community.
+Just finished my 8 hours shift on Christmas Eve with @Crisis_uk, a charity that helps people experiencing homelessness.<br>In a time of hardship, it’s also more of a time to give and care. Very blessed to be offered an opportunity to reciprocate to the community.<br>#CrisisatChristmas<br><img style="" src="https://pbs.twimg.com/media/Fkw0kl9XkAAWjQV?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fkw0mthWIAE4_Rv?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2022-12-25 02:25:00+08:00 推文](https://twitter.com/nathanlawkc/status/1606717592923951104)
 
