@@ -263,3 +263,19 @@ Re @YaxueCao 看来，美国要对中国间谍进行拉网式清查，人人过�
 
 乌龙事件？<div class="rsshub-quote"><br><br>联合早报 Lianhe Zaobao: 美国政府初步评估认为，近日击落的三个不明飞行物可能属于商业用途，并非用于收集情报，目前也没有迹象显示与中国或其他国家政府对美国的监视计划有关。<br> <a href="https://www.zaobao.com.sg/news/world/story20230216-1363588" target="_blank" rel="noopener noreferrer">https://www.zaobao.com.sg/news/world/story20230216-1363588</a></div>
 
+### 63: [2023-02-16 09:24:41+08:00 推文](https://twitter.com/Lucs24659702/status/1626029766087438337)
+
+RT Lucs<br>一名男子驱车前往东巴勒斯坦给市民送瓶装水，因为政府拒绝帮助这些人。<br><video src="https://video.twimg.com/ext_tw_video/1626029737448706048/pu/vid/640x352/o0Ql2CbcG0pmINO1.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1626029737448706048/pu/img/7yWIQpxSamtYBtaT.jpg"></video>
+
+### 64: [2023-02-16 10:11:15+08:00 推文](https://twitter.com/HeQinglian/status/1626041485845037056)
+
+Re @bu3bu4 诚如所言，但心理打击极大。
+
+### 65: [2023-02-16 10:17:05+08:00 推文](https://twitter.com/zhixiangziyou/status/1626042954992197637)
+
+RT L JM🇺🇸<br>俄亥俄州居民<br><br>不要签署任何针对 Norfolk Southern 或对这场可怕的化学灾难负责的任何其他方的责任豁免<br><br>听到人们被迫签名的报告<br><br>不要这样做！<br><br>请帮忙把消息传出去，让这些受害者有一天能得到正义<div class="rsshub-quote"><br><br>DC_Draino: OHIO RESIDENTS<br><br>Do NOT sign any liability waivers against Norfolk Southern or any other parties responsible for this horrific chemical disaster<br><br>Hearing reports of people being pressured to sign<br><br>DONT DO IT!<br><br>Please help get the word out so these victims can get justice one day<br></div>
+
+### 66: [2023-02-16 10:17:30+08:00 推文](https://twitter.com/HeQinglian/status/1626043059862491136)
+
+Re @dinglili7 “媒体完全沉默”——恍惚到了天朝。<br>但又觉得有点不同。天朝发生这种事情，境外媒体报道，大家都觉得境外媒体做了件好事；美国发生这种事情，中国媒体报道，中文推不是说中文媒体别有用心，就是猜疑中国间谍在美国策划了爆炸。
+
