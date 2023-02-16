@@ -33,7 +33,7 @@ An official commentary published yesterday in the CCP's official People’s Dail
 
 ### 5: [2023-01-09 18:10:52+08:00 推文](https://twitter.com/yilingliu95/status/1612391447453659136)
 
-RT Yi-Ling Liu<br>Update: It's my first day as the China Editor at @restofworld! Looking forward to working closely with @violazhouyi &amp; the ROW dream team to cover China's ever-shifting tech landscape! <a href="https://twitter.com/AnupKaphle/status/1559523568454713344" target="_blank" rel="noopener noreferrer">https://twitter.com/AnupKaphle/status/1559523568454713344</a>
+RT Yi-Ling Liu<br>Update: It's my first day as the China Editor at @restofworld! Looking forward to working closely with @violazhouyi &amp; the ROW dream team to cover China's ever-shifting tech landscape!
 
 ### 6: [2023-01-10 15:17:07+08:00 推文](https://twitter.com/YianLee6/status/1612710111734267909)
 

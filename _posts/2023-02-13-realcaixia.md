@@ -71,3 +71,7 @@ Re @rj6FRBAxEVCFHwR 是我发现第二幕写成第三幕了，在推特上本身
 
 哀悼！中国同样有热血男儿！<div class="rsshub-quote"><br><br>周锋锁 Fengsuo Zhou: 何家维在孤独无助中去世，不知道他临终经过了怎样的煎熬，愿他饱受困难的灵魂安息天国。曾经到处奔走，为各种受害者呼吁，最近两年身体状况恶化，行走不便，本来是需要有专人照顾。却长期遭受各种拘禁和监视隔离。恶毒的国保警察为了迫使贫困潦倒中的他屈服，甚至完全切断了他取得任何外界资助的渠道。<br><br><img style="" src="https://pbs.twimg.com/media/Fo-B2NKXwAA_kXS?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fo-B2NJXsAEmmpj?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fo-B2NJXgAEk-qY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fo-B2NKWIAAfctP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
+### 15: [2023-02-16 11:03:11+08:00 推文](https://twitter.com/realcaixia/status/1626054557536079874)
+
+让世界看看港版国安法下的真实香港情况之一瞥。<div class="rsshub-quote"><br><br>RFA 自由亞洲粵語: 香港警方周二（14日）舉行香港整體治安情況記者會。警務處處長 #蕭澤頤 表示，《#港區國安法》在2020年實施，至去年底共拘捕236人，年齡從15至90歲，已有140人被檢控。同時，他透露2020年推出「#國安處舉報熱線」，2年多已收到超過40萬個訊息，去年6月推出「#反恐舉報熱線」，有接近1.3萬個訊息。<br><br><img style="" src="https://pbs.twimg.com/media/Fo_xSxOWAAAN7mV?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
