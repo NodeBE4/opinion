@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2023-02-16
+date: 2023-02-17
 from: https://twitter.com/realcaixia/status/1624860742469001216
 layout: post
 tags:
@@ -74,4 +74,8 @@ Re @rj6FRBAxEVCFHwR 是我发现第二幕写成第三幕了，在推特上本身
 ### 15: [2023-02-16 11:03:11+08:00 推文](https://twitter.com/realcaixia/status/1626054557536079874)
 
 让世界看看港版国安法下的真实香港情况之一瞥。<div class="rsshub-quote"><br><br>RFA 自由亞洲粵語: 香港警方周二（14日）舉行香港整體治安情況記者會。警務處處長 #蕭澤頤 表示，《#港區國安法》在2020年實施，至去年底共拘捕236人，年齡從15至90歲，已有140人被檢控。同時，他透露2020年推出「#國安處舉報熱線」，2年多已收到超過40萬個訊息，去年6月推出「#反恐舉報熱線」，有接近1.3萬個訊息。<br><br><img style="" src="https://pbs.twimg.com/media/Fo_xSxOWAAAN7mV?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 16: [2023-02-17 01:20:02+08:00 推文](https://twitter.com/realcaixia/status/1626270188122374154)
+
+这是训练警察辅警在街头秘密抓人。这几年中共大量招聘辅警、保安等，2023一些地方招政府公务员名额大量上升，他们不生产财富，而是吃财政饭的人越来越多。四十年中国人血汗劳动创造积累的财富，部分被吃财政饭的人吃光，部分被大撒币光，部分被贪污光，再有被灾难性决策嚯嚯光。又一个10年倒退3年浩劫<div class="rsshub-quote"><br><br>李老师不是你老师: 网友投稿<br>在微信视频号刷到一个演习视频，具体时间不详<br>但是可以看出，有关部门已经就如何应对举白纸等行为进行了针对性训练。<br><br><video src="https://video.twimg.com/ext_tw_video/1626221559185805312/pu/vid/886x498/OckZl3gvXItNjEZ3.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1626221559185805312/pu/img/E3kReA8APwu32f_E.jpg"></video></div>
 
