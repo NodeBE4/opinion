@@ -17,7 +17,7 @@ title: 'Twitter @中国文字狱事件盘点: 2021-11-29~2021-12-05'
 
 ### 1: [2021-11-29 22:26:34+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1465326323660955657)
 
-山东省淄博市男子邹志平，因在电报发表反对政府的言论，被以“在境外网站发表有害信息”为由拘留15日。<br><img style="" src="https://pbs.twimg.com/media/FFXihfEXEAsb6Gs?format=jpg&name=orig" referrerpolicy="no-referrer">
+山东省淄博市男子邹志平，因在电报发表反对政府的言论，被以“在境外网站发表有害信息”为由拘留15日。<br><img style src="https://pbs.twimg.com/media/FFXihfEXEAsb6Gs?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2021-11-29 22:28:11+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1465326729648615425)
 
@@ -33,7 +33,7 @@ A villager surnamed Song in Qinghai Province detained for 10 days and fined 500 
 
 ### 5: [2021-12-04 12:07:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1466982342237454336)
 
-贵州省凯里市女子欧某，因在交警建的微信群里抱怨交警执法过严，称每个人应该有一次警告的机会，并称交警为“狗日的”和“野生动物”，被处拘留5日。<br><img style="" src="https://pbs.twimg.com/media/FFtXKv6XEAQt4QN?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FFtXUXMXwAQynDS?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FFtXXuBXEAsX51f?format=jpg&name=orig" referrerpolicy="no-referrer">
+贵州省凯里市女子欧某，因在交警建的微信群里抱怨交警执法过严，称每个人应该有一次警告的机会，并称交警为“狗日的”和“野生动物”，被处拘留5日。<br><img style src="https://pbs.twimg.com/media/FFtXKv6XEAQt4QN?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FFtXUXMXwAQynDS?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FFtXXuBXEAsX51f?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2021-12-04 12:11:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1466983348773945347)
 
