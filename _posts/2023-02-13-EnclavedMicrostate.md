@@ -3,7 +3,7 @@ author: EnclavedMicrostate
 categories:
 - Reddit
 date: 2023-02-16
-from: https://old.reddit.com/r/AskHistorians/comments/111m35g/why_were_chinese_men_so_obsessed_with_the_idea_of/
+from: https://old.reddit.com/r/VirtualYoutubers/comments/111cgme/professionally_penalizing_paparazzi_weekly/
 layout: post
 tags:
 - Reddit
@@ -13,21 +13,29 @@ title: EnclavedMicrostate在2023-02-13~2023-02-19的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 1107: [Why were Chinese men so obsessed with the idea of widow chastity?](https://old.reddit.com/r/AskHistorians/comments/111m35g/why_were_chinese_men_so_obsessed_with_the_idea_of/), submitted on 2023-02-14 06:30:17+08:00.
+### 1107: [Professionally Penalizing Paparazzi - Weekly Discussion Thread, 13th of Feb, 2023](https://old.reddit.com/r/VirtualYoutubers/comments/111cgme/professionally_penalizing_paparazzi_weekly/), submitted on 2023-02-13 23:54:45+08:00.
 
------ __1107.1__ -----2023-02-14 18:16:12+08:00:
+----- __1107.1__ -----2023-02-16 17:14:15+08:00:
+
+> PK girls
+
+*snrks in Cantonese*
+
+### 1108: [Why were Chinese men so obsessed with the idea of widow chastity?](https://old.reddit.com/r/AskHistorians/comments/111m35g/why_were_chinese_men_so_obsessed_with_the_idea_of/), submitted on 2023-02-14 06:30:17+08:00.
+
+----- __1108.1__ -----2023-02-14 18:16:12+08:00:
 
 Your comment has been removed due to violations of the [subreddit’s rules](https://www.reddit.com/r/AskHistorians/wiki/rules). We expect answers to provide [in-depth and comprehensive insight](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer) into the topic at hand and to [be free of significant errors or misunderstandings](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/) while doing so. Before contributing again, please take the time to better familiarize yourself with the [subreddit rules](https://www.reddit.com/r/AskHistorians/wiki/rules) and [expectations](https://www.reddit.com/r/AskHistorians/wiki/faq/meta#wiki_rules_discussion) for an answer.
 
-### 1108: [Are there parallels between England today and the rise of the Nazis?](https://old.reddit.com/r/AskHistorians/comments/1123qkg/are_there_parallels_between_england_today_and_the/), submitted on 2023-02-14 20:02:03+08:00.
+### 1109: [Are there parallels between England today and the rise of the Nazis?](https://old.reddit.com/r/AskHistorians/comments/1123qkg/are_there_parallels_between_england_today_and_the/), submitted on 2023-02-14 20:02:03+08:00.
 
------ __1108.1__ -----2023-02-14 20:16:16+08:00:
+----- __1109.1__ -----2023-02-14 20:16:16+08:00:
 
 This submission has been removed because it involves current events.  To keep from discussion of politics, we have a [20-year rule](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events) here.  You may want to try /r/ask_politics, /r/NeutralPolitics, or another current-events focused sub. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
-### 1109: [The Tianjing Incident was a major set back for the Taiping, but what other kind of major set backs did the Taiping Face?](https://old.reddit.com/r/AskHistorians/comments/1135dj8/the_tianjing_incident_was_a_major_set_back_for/), submitted on 2023-02-16 02:48:22+08:00.
+### 1110: [The Tianjing Incident was a major set back for the Taiping, but what other kind of major set backs did the Taiping Face?](https://old.reddit.com/r/AskHistorians/comments/1135dj8/the_tianjing_incident_was_a_major_set_back_for/), submitted on 2023-02-16 02:48:22+08:00.
 
------ __1109.1__ -----2023-02-16 06:41:09+08:00:
+----- __1110.1__ -----2023-02-16 06:41:09+08:00:
 
 Were I being glib, I'd call the fact that the Taiping lost their biggest setback by far, but somehow I feel like that's not quite the question you're asking. Now, the definition of what makes a setback 'major' is going to be one that can be quibbled over endlessly, so if you disagree with my choices that is fundamentally a you problem, this is my opinion gosh darn it and you asked for it.
 
@@ -37,9 +45,9 @@ The Taiping did make attempts to relieve the siege. For one, harassing attacks a
 
 But as the above chronology suggests, there was another, more persistent setback, less a singular moment and more a perennial problem, and that was the abject failure of Taiping diplomacy. The failure of the Taiping to solicit British, French, or American support in 1853-4 was arguably an integral factor in the former two countries going to war with the Qing in 1856-60 for expanded trade access, which meant that while they were fighting against the Qing in the *short* term, in the *long* term they were staking on a Qing victory against the Taiping. After all, what reason was there to believe that the Taiping would honour treaties that had been signed by the Qing, their mortal enemies? Whether any diplomatic overtures after 1856 could have made a difference is an open question, but in the event, the foreign community in China by and large opposed the Taiping, and in turn influenced their home governments to do the same. As we have seen, British chicanery around the treaty ports doomed the Taiping attempt to relieve Anqing, and even before outright military intervention in 1862-4, Britain and France were giving more than tacit support to the Qing militarily: the Taiping were prevented from taking Shanghai in 1860, and in early 1862 foreign steamers shipped the newly-formed Anhui Army from Anqing to Shanghai to support the city's defence. It is an open question as to how integral foreign support was to the Qing's victory, but you could make a decent case for there being somewhat more certainty going the other way: the Taiping's defeat can be attributed in no small part to the failure of foreign support to materialise.
 
-### 1110: [Different types of German units](https://old.reddit.com/r/wwi/comments/113boxx/different_types_of_german_units/), submitted on 2023-02-16 07:21:38+08:00.
+### 1111: [Different types of German units](https://old.reddit.com/r/wwi/comments/113boxx/different_types_of_german_units/), submitted on 2023-02-16 07:21:38+08:00.
 
------ __1110.1__ -----2023-02-16 08:11:58+08:00:
+----- __1111.1__ -----2023-02-16 08:11:58+08:00:
 
 >  (as opposed to "Schutzen" who used Muskets in that period)
 

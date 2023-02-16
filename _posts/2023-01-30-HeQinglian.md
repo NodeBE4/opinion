@@ -201,7 +201,7 @@ Re @farmdirect8 去纽约上州一朋友家，他家的Deck都未装栏干，如
 
 ### 47: [2023-02-01 02:30:26+08:00 推文](https://twitter.com/HeQinglian/status/1620489700887900161)
 
-Re @fading_you1 以前我以为中国人该长点记性了，但这几年“顺着反共的一地坚冰，呲溜一下滑到进步主义街对面去”的人太多了，因此已有思想准备。<br>阿富汗是前车之鉴。这国从1960年代开始，先是马克思主义立国、再就是苏联美国先后折腾，弄出一个极端伊斯兰主义，然后是美式民主（包括性多元化教育），现在又回到极伊。
+RT He Qinglian<br>Re @fading_you1 以前我以为中国人该长点记性了，但这几年“顺着反共的一地坚冰，呲溜一下滑到进步主义街对面去”的人太多了，因此已有思想准备。<br>阿富汗是前车之鉴。这国从1960年代开始，先是马克思主义立国、再就是苏联美国先后折腾，弄出一个极端伊斯兰主义，然后是美式民主（包括性多元化教育），现在又回到极伊。
 
 ### 48: [2023-02-01 02:36:48+08:00 推文](https://twitter.com/HeQinglian/status/1620491304382906368)
 
@@ -777,7 +777,7 @@ Re @Lucs24659702 有此果，查其因，因由自种。
 
 ### 191: [2023-02-05 09:44:14+08:00 推文](https://twitter.com/zhixiangziyou/status/1622048420809539584)
 
-RT L JM🇺🇸<br>拜登作为总司令彻底失败了。他没有保护我们的南部边界，他从阿富汗撤军是一场彻头彻尾的灾难，他的软弱导致了乌克兰的战争，现在共产主义间谍气球在我们的天空中自由飞翔。历史上最糟糕的总司令。
+RT L JM🇺🇸<br>拜登作为总司令彻底失败了。他没有保护我们的南部边界，他从阿富汗撤军是一场彻头彻尾的灾难，他的软弱导致了乌克兰的战争，现在共产主义间谍气球在我们的天空中自由飞翔。历史上最糟糕的总司令。<div class="rsshub-quote"><br><br>First Words: @GenFlynn @elonmusk @VP @JoeBiden Biden has utterly failed as commander-in-chief. He hasn’t protected our southern border, his withdrawal from Afghanistan was an unmitigated disaster, his weakness led to war in Ukraine and now a communist spy balloon freely flies our skies. Worst commander-in-chief in history.<br></div>
 
 ### 192: [2023-02-05 10:37:20+08:00 推文](https://twitter.com/HeQinglian/status/1622061785950871555)
 
