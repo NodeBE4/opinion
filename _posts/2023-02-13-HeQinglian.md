@@ -375,3 +375,15 @@ Re @IloveAmerica23 @shenliangqing2 问题就是出发点就是绑架全社会。
 
 Re @FangYiDuan1 我今后只关心美方公布中国气球的最新动向，因为接下来将是新的外交动向，一般以布林肯对北京遥遥喊话开局。<br>气球打多了，第三次世界大战的担忧就更多了。
 
+### 91: [2023-02-17 05:05:11+08:00 推文](https://twitter.com/HeQinglian/status/1626326850044628992)
+
+天苍苍，野茫茫，西方群国变性玩。<br>西班牙通过新法，16岁国民可以自由登记性别，14至15岁在双亲或法律监护人同意下也可申请改变身分证上性别；12至13岁者须取得法官同意。<br>一些在跨性别立法上开先驱的欧洲国家，近几年却开始持更加谨慎态度——其实只是在服药干预性别上有限制 <a href="https://rfi.my/9AOn.T" target="_blank" rel="noopener noreferrer">https://rfi.my/9AOn.T</a>
+
+### 92: [2023-02-17 05:06:40+08:00 推文](https://twitter.com/HeQinglian/status/1626327225564860419)
+
+Re @Chung26861988 自己去查图片，成堆。那时你没上推？
+
+### 93: [2023-02-17 06:45:46+08:00 推文](https://twitter.com/HeQinglian/status/1626352164770656257)
+
+中国"寻找粮食"与美国"农地安全"的碰撞<br>中国约20%的粮食需要进口，美国的玉米大豆需要买家，因此玉米大豆外交为双方所必需。<br>USCC去年发布《中国在美国的农业利益》，意在限制中国在美国购买农地，引发了国会立法讨论。<br>气球事件激活了这些半睡眠的立法讨论，美国22州相继跟进 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02152023164242.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02152023164242.html</a>
+
