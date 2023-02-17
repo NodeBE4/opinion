@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2023-02-16
+date: 2023-02-17
 from: https://twitter.com/cnmediaproject/status/1625447084987158528
 layout: post
 tags:
@@ -26,4 +26,12 @@ RT Jonathan Cheng<br>WaPo: The U.S. tracked the Chinese balloon as it lifted o
 ### 3: [2023-02-16 12:15:13+08:00 推文](https://twitter.com/cnmediaproject/status/1626072682684121088)
 
 Earlier this week, the Ministry of Human Resources posted its 2023 call for the hiring of positions within the CCP’s Central Propaganda Department and its subsidiary departments. Your chance to help control the minds of billions? <a href="https://chinamediaproject.org/2023/02/16/chinas-propaganda-machine-is-calling/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2023/02/16/chinas-propaganda-machine-is-calling/</a>
+
+### 4: [2023-02-17 15:07:37+08:00 推文](https://twitter.com/cnmediaproject/status/1626478457554350081)
+
+In our latest piece for "Going Global," we take an in-depth look at the China International Communication Center (CICC) and its role in international film and television co-productions. <a href="https://chinamediaproject.org/2023/02/17/co-producing-with-the-ccp/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2023/02/17/co-producing-with-the-ccp/</a>
+
+### 5: [2023-02-17 15:08:06+08:00 推文](https://twitter.com/cnmediaproject/status/1626478579994497024)
+
+Re "Despite its clear and direct association with the Central Propaganda Department, CICC has presented itself globally as a media group ready to do business."<br><img style="" src="https://pbs.twimg.com/media/FpJponxagAEau8-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
