@@ -93,7 +93,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fip1xxuUAAEkjNd?format=jpg
 
 ### 20: [2022-11-28 21:37:17+08:00 推文](https://twitter.com/realcaixia/status/1597223103540604928)
 
-这就是所谓“人民至上”的真实显示：以人民为敌！ <a href="https://twitter.com/cnnnd022/status/1597031992994193409" target="_blank" rel="noopener noreferrer">https://twitter.com/cnnnd022/status/1597031992994193409</a>
+这就是所谓“人民至上”的真实显示：以人民为敌！<br><br>CNMD NEWS ²²: #行为艺术<br>昨晚，上海以东出大事了！警车冲撞示威人群。<br><br><video src="https://video.twimg.com/ext_tw_video/1597031950308749314/pu/vid/720x1082/9Kk232ZOTNJjv67o.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1597031950308749314/pu/img/L8NBrsHrb3Fa2Dqd.jpg"></video>
 
 ### 21: [2022-11-28 21:38:59+08:00 推文](https://twitter.com/realcaixia/status/1597223530982408192)
 
@@ -185,7 +185,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fiu2Jw8VEAEx6r9?format=jpg
 
 ### 43: [2022-11-30 06:28:32+08:00 推文](https://twitter.com/realcaixia/status/1597719183353335808)
 
-海外学子与国内学子心心相连。<br><br>Nini艾番妮🇺🇸🇭🇰🇺🇦Margana🎗️✋👍💛💙: @realcaixia 蔡霞老师，您好这是昨天晚上加州大学伯克利分校的视频，还有大量视频待剪辑，明确喊出罢免国贼习近平。<br> <a href="https://twitter.com/usabelair2021/status/1597489702667399168" target="_blank" rel="noopener noreferrer">https://twitter.com/usabelair2021/status/1597489702667399168</a>
+海外学子与国内学子心心相连。<br><br>Nini艾番妮🇺🇸🇭🇰🇺🇦Margana🎗️✋👍💛💙: @realcaixia 蔡霞老师，您好这是昨天晚上加州大学伯克利分校的视频，还有大量视频待剪辑，明确喊出罢免国贼习近平。<br>
 
 ### 44: [2022-11-30 12:48:19+08:00 推文](https://twitter.com/realcaixia/status/1597814759520206848)
 
@@ -193,7 +193,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fiu2Jw8VEAEx6r9?format=jpg
 
 ### 45: [2022-11-30 13:01:58+08:00 推文](https://twitter.com/realcaixia/status/1597818196308144128)
 
-请传给大陆的民众，分享参与抗争经历，积累识别混进，民众抗争行列里的便衣军警，增长保护自己安全的知识。这绝对必要。⬇请细细阅读️这位推友的详细叙述，我感觉很有益处。<br><br>巴丢草 Bad ї ucao: “当我趴在路边的一块石头上写新标语时，很多人在给我拍照，我那个时候不知会被便衣拍照，所以并未拒绝他们。这时候一个阿姨（戴着眼镜，像个文静精干的老教师）走过来跟我说：“妹妹，他们在拍你啊！不要怕，我帮你挡住，我保护你哈”<br> <a href="https://twitter.com/badiucao/status/1597491262948773888" target="_blank" rel="noopener noreferrer">https://twitter.com/badiucao/status/1597491262948773888</a>
+请传给大陆的民众，分享参与抗争经历，积累识别混进，民众抗争行列里的便衣军警，增长保护自己安全的知识。这绝对必要。⬇请细细阅读️这位推友的详细叙述，我感觉很有益处。<br><br>巴丢草 Bad ї ucao: “当我趴在路边的一块石头上写新标语时，很多人在给我拍照，我那个时候不知会被便衣拍照，所以并未拒绝他们。这时候一个阿姨（戴着眼镜，像个文静精干的老教师）走过来跟我说：“妹妹，他们在拍你啊！不要怕，我帮你挡住，我保护你哈”<br>
 
 ### 46: [2022-11-30 13:07:24+08:00 推文](https://twitter.com/realcaixia/status/1597819560874639360)
 
@@ -245,7 +245,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FiycsaSXoAE4s3S?format=jpg
 
 ### 58: [2022-12-01 23:27:52+08:00 推文](https://twitter.com/realcaixia/status/1598338097909227520)
 
-与推友分享这个推文。如何运用现有法律保护好每一位参加白纸运动的大陆民众，下面⬇️介绍的做法很值得学习。如果能把这个广为传播，让更多的墙内朋友看到就好了。<br><br>Bob New: 教科書般運用法律保護白紙革命參與者合法權利的案例！<br>本次全民反封鎖運動，白紙革命畢竟只是少部分人參與，我們之所以覺得聲勢浩大，是因為社交媒體的信息茧房效應，昨天我聯繫上海朋友，他居然根本不知道抗議事件。<br>但是關於居委會封鎖違法的全面法治啟蒙卻實實在在傳播整個中國！<br> <a href="https://twitter.com/Tianwei_Yin/status/1597823903271129089" target="_blank" rel="noopener noreferrer">https://twitter.com/Tianwei_Yin/status/1597823903271129089</a>
+与推友分享这个推文。如何运用现有法律保护好每一位参加白纸运动的大陆民众，下面⬇️介绍的做法很值得学习。如果能把这个广为传播，让更多的墙内朋友看到就好了。<br><br>Bob New: 教科書般運用法律保護白紙革命參與者合法權利的案例！<br>本次全民反封鎖運動，白紙革命畢竟只是少部分人參與，我們之所以覺得聲勢浩大，是因為社交媒體的信息茧房效應，昨天我聯繫上海朋友，他居然根本不知道抗議事件。<br>但是關於居委會封鎖違法的全面法治啟蒙卻實實在在傳播整個中國！<br>
 
 ### 59: [2022-12-01 23:36:33+08:00 推文](https://twitter.com/realcaixia/status/1598340279513141249)
 
@@ -293,7 +293,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FiycsaSXoAE4s3S?format=jpg
 
 ### 70: [2022-12-03 03:12:22+08:00 推文](https://twitter.com/realcaixia/status/1598756983183618048)
 
-有网友推荐和平抗争和枪口抬高一寸的做法。⬇️就是一例。<br>香港反送中运动中，香港青年提出“兄弟爬山，各自努力”，就是很好的思路。每个人在自己所处环境中，根据各自情况用各种方式抵制和反抗暴政。<br>“白纸运动”或称“白纸革命”也是这样，一张白纸可以表达可以容纳无限的可能，这就是极权怕白纸的原因所在<br><br>王思聪: 安全的反抗方法<br>1、广大人民不买房不买车，除了生活必需品，尽量不消费，让他们税收来源暴跌<br>2、工作岗位上消极怠工，能拖将就拖，能请假就请假，特别是关键物品生产<br>3、军人警察隐蔽性的不服从命令，比如无效率镇压百姓、消极查搜查用户信息、枪口故意不准<br>4、公务员故意不执行上级命令或者无效率执行<br>
+有网友推荐和平抗争和枪口抬高一寸的做法。⬇️就是一例。<br>香港反送中运动中，香港青年提出“兄弟爬山，各自努力”，就是很好的思路。每个人在自己所处环境中，根据各自情况用各种方式抵制和反抗暴政。<br>“白纸运动”或称“白纸革命”也是这样，一张白纸可以表达可以容纳无限的可能，这就是极权怕白纸的原因所在<br><br>王思聪: 安全的反抗方法<br>1、广大人民不买房不买车，除了生活必需品，尽量不消费，让他们税收来源暴跌<br>2、工作岗位上消极怠工，能拖将就拖，能请假就请假，特别是关键物品生产<br>3、军人警察隐蔽性的不服从命令，比如无效率镇压百姓、消极查搜查用户信息、枪口故意不准<br>4、公务员故意不执行上级命令或者无效率执行<br> <a href="https://twitter.com/whyyoutouzhele/status/1598279542946381825" target="_blank" rel="noopener noreferrer">https://twitter.com/whyyoutouzhele/status/1598279542946381825</a>
 
 ### 71: [2022-12-03 03:20:26+08:00 推文](https://twitter.com/realcaixia/status/1598759010404282369)
 

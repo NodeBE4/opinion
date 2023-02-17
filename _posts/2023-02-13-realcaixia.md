@@ -79,3 +79,19 @@ Re @rj6FRBAxEVCFHwR 是我发现第二幕写成第三幕了，在推特上本身
 
 这是训练警察辅警在街头秘密抓人。这几年中共大量招聘辅警、保安等，2023一些地方招政府公务员名额大量上升，他们不生产财富，而是吃财政饭的人越来越多。四十年中国人血汗劳动创造积累的财富，部分被吃财政饭的人吃光，部分被大撒币光，部分被贪污光，再有被灾难性决策嚯嚯光。又一个10年倒退3年浩劫<div class="rsshub-quote"><br><br>李老师不是你老师: 网友投稿<br>在微信视频号刷到一个演习视频，具体时间不详<br>但是可以看出，有关部门已经就如何应对举白纸等行为进行了针对性训练。<br><br><video src="https://video.twimg.com/ext_tw_video/1626221559185805312/pu/vid/886x498/OckZl3gvXItNjEZ3.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1626221559185805312/pu/img/E3kReA8APwu32f_E.jpg"></video></div>
 
+### 17: [2023-02-17 09:06:45+08:00 推文](https://twitter.com/realcaixia/status/1626387644057010176)
+
+伊朗总统访问中共国，满载而归。<br>政治：伊朗说中伊是政治伙伴关系（中共敢承认吗？）；<br>经济：中共与伊朗签订多项合约，说约100亿—200亿美刀（估计少报了数）；<br>文化教育：北京大学授给伊朗总统名誉教授头衔（这是北京大学抹不去的耻辱！）<br>国际关系：中共国、伊朗、俄罗斯成三大邪恶轴心国。<br><img style="" src="https://pbs.twimg.com/media/FpIW691aQAMdedr?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpIW7YHacAEPEhP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpIW7shaAAAFhRl?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpIW8DaaIAA3m6a?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 18: [2023-02-17 09:22:12+08:00 推文](https://twitter.com/realcaixia/status/1626391531052752898)
+
+看看教唆孩子从小拆装真枪，莫非要学希特勒培养小纳粹分子？<br><video src="https://video.twimg.com/ext_tw_video/1626391499700305921/pu/vid/480x464/an0CDSPRtYclFvIl.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1626391499700305921/pu/img/luPYxrHV7It6sLrX.jpg"></video>
+
+### 19: [2023-02-17 09:31:16+08:00 推文](https://twitter.com/realcaixia/status/1626393810447265793)
+
+Re 有疑问吗？请看早就有了文章揭露二战时期的纳粹青年团——实际是以青年团为名义的童子军。童子军的残忍不亚于成年纳粹分子。<br><img style="" src="https://pbs.twimg.com/media/FpIci5uaIAAUmSA?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpIci5taIAAWVxb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpIci5uacAEvc5r?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 20: [2023-02-17 10:07:16+08:00 推文](https://twitter.com/realcaixia/status/1626402871658020866)
+
+这真是文革中基本手段: 先是发动群众斗群众；接着是“清理阶级队伍”—吐故纳新（铲除异己分子）；再接着是“群众专政”（打死人不犯法）；再接着一波是清查5.16分子（把前面斗群众斗官僚的打死人不偿命的造反派积极分子抓起来）。文革不是群众运动，是权力打着“敢于斗争、善于斗争”旗号运动群众，十年浩劫<div class="rsshub-quote"><br><br>亚军&amp;王歪嘴: 发动群众斗群众<br><br><img style="" src="https://pbs.twimg.com/media/Fo_pIGIagAARtpl?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
