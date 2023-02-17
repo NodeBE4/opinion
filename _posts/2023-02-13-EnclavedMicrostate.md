@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-02-16
+date: 2023-02-17
 from: https://old.reddit.com/r/VirtualYoutubers/comments/111cgme/professionally_penalizing_paparazzi_weekly/
 layout: post
 tags:
@@ -56,4 +56,16 @@ But as the above chronology suggests, there was another, more persistent setback
 >  (as opposed to "Schutzen" who used Muskets in that period)
 
 As a slightly pedantic correction, this does depend on which German state you're looking at, but Schützen were still skirmishers. In the (Napoleonic) Prussian army, Schützen were designated marksmen and skirmishers within line regiments, often issued with rifles; this distinguished them from Jäger who were full-sized skirmisher battalions. In the Austrian army, Landwehr skirmisher companies were designated as Schützen, while regular skirmisher battalions were Jäger. As a general rule though, Schütze was a term specifically applied to *rifle*men as opposed to musketeers.
+
+### 1112: [Gura in a Yukata](https://old.reddit.com/r/Hololive/comments/1147yht/gura_in_a_yukata/), submitted on 2023-02-17 10:12:11+08:00.
+
+----- __1112.1__ -----2023-02-17 19:17:16+08:00:
+
+Cheongsam is Cantonese for 'long dress'; Qipao is Mandarin for 'banner robe'; both refer to the same dress style.
+
+### 1113: [Guide to KHAKI](https://old.reddit.com/r/coolguides/comments/1148msi/guide_to_khaki/), submitted on 2023-02-17 10:45:56+08:00.
+
+----- __1113.1__ -----2023-02-17 18:47:34+08:00:
+
+We need to add in a mediating layer here, that being Hindustani (Hindi/Urdu), which loaned *khaki* for 'dirt', and then transmitted it to English in the 1840s, when the East India Company military started to use the term to describe 'drab' uniforms in earth tones.
 
