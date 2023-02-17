@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2023-02-16
+date: 2023-02-18
 from: https://old.reddit.com/r/UkraineWarVideoReport/comments/111h1qh/rather_than_providing_atacms_in_march_reapers_in/
 layout: post
 tags:
@@ -52,4 +52,14 @@ The war has revealed the full extent of Putin’s personalized political system.
 Determining Putin’s actual objectives can be difficult; as an anti-Western autocrat, he has little to gain by publicly disclosing his intentions. But the last year has made some answers clear enough. Since February 2022, the world has learned that Putin wants to create a new version of the Russian empire based on his Soviet-era preoccupations and his interpretations of history. The launching of the invasion itself has shown that his views of past events can provoke him to cause massive human suffering. It has become clear that there is little other states and actors can do to deter Putin from prosecuting a war if he is determined to do so and that the Russian president will adapt old narratives as well as adopt new ones to suit his purposes.
 
 But the events of 2022 and early 2023 have demonstrated that there are ways to constrain Putin, especially if a broad enough coalition of states gets involved. They have also underscored that the West will need to redouble its efforts at strengthening such a diplomatic and military coalition. Because even now, after a year of carnage, Putin is still convinced he can prevail.
+
+### 356: [Kyiv and Moscow Are Fighting Two Different Wars - Lawrence Freedman](https://old.reddit.com/r/geopolitics/comments/114t4dy/kyiv_and_moscow_are_fighting_two_different_wars/), submitted on 2023-02-18 01:57:27+08:00.
+
+----- __356.1__ -----2023-02-18 01:58:16+08:00:
+
+**Short Summary:** Over the course of the war in Ukraine, the strategies of Russia and Ukraine have increasingly diverged. At first, Russia sought to catch Ukraine by surprise using a modern army engaged in some fast-moving maneuvers that would yield a rapid and decisive victory. But over time, its army has been seriously degraded, and it has increasingly been relying on artillery barrages and mass infantry assaults to achieve battlefield breakthroughs while stepping up its attacks on Ukrainian cities. In the areas its forces are occupying, it is seeking to impose “Russification” and has dealt harshly with those suspected of spying and sabotage, or simple dissent.
+
+Ukraine has been more innovative in its tactics and more disciplined in their execution. Aided by a growing supply of Western weapons and an agile command, it has managed to recover some of the areas occupied by Russian forces. But it has also been fighting on its own territory and unable to reach far into Russia. So while Ukraine has limited itself to targeting Russia’s military, Russia is targeting Ukraine as a whole: its armed forces, its infrastructure, and its people.
+
+These contrasting approaches—the “classic warfare” pursued by Ukraine and the “total warfare” adopted by Russia—have deep roots in the wars of the twentieth century. As the war in Ukraine reaches its one-year mark, it has begun to offer significant insights into how these two forms of warfare can cope in contemporary conflicts—and how they are likely to shape the contest between Kyiv and Moscow in the coming months.
 

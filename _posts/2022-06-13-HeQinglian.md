@@ -89,7 +89,7 @@ Re @guchuan81 这本书让我认识到美国保守派为何如此不堪一击。
 
 ### 19: [2022-06-13 10:48:13+08:00 推文](https://twitter.com/HeQinglian/status/1536178598679302146)
 
-美国前总统川普说：如果是我，中国不会赢；<br>美国现总统拜登说：全是川普的错，外加普京的错。没有这些错，我那重建美丽新世界的计划真的很美丽。
+美国前总统川普说：如果是我，中国不会赢；<br>美国现总统拜登说：全是川普的错，外加普京的错。没有这些错，我那重建美丽新世界的计划真的很美丽。<br><br>Ezio Mao☢: 美中贸易战谁是输家？显而易见，美国在4年的贸易战之后取得了数个历史记录，不得不说美国赢麻了：<br><br>- 最近四十年最严重的通胀<br>- 历史新纪录30.5万亿美元的债务总量<br>- 有史以来第一次无计可施的货币政策<br><br>随着美国内部矛盾的加剧，我们要反思，反思什么再说吧...先反思着吧<br> <a href="https://twitter.com/VOAChinese/status/1533538538444103681?s=20&amp;t=NTQrdXyt0wqHO6IO2SMkEA" target="_blank" rel="noopener noreferrer">https://twitter.com/VOAChinese/status/1533538538444103681?s=20&amp;t=NTQrdXyt0wqHO6IO2SMkEA</a>
 
 ### 20: [2022-06-13 20:33:31+08:00 推文](https://twitter.com/HeQinglian/status/1536325896201818114)
 
@@ -269,7 +269,7 @@ RT 北明BeiMing<br>◆挑釁成禍，老闆在全國支持率太低惱羞成�
 
 ### 64: [2022-06-16 22:30:27+08:00 推文](https://twitter.com/HeQinglian/status/1537442487224004608)
 
-克林顿说：“我实际上认为，如果我们继续做出错误的决定，我们很有可能在几十年内完全失去我们的宪政民主。……我以前从未像现在这样担心我们民主政府的结构”。<br>6月15日发布的雅虎新闻-YouGov 民意调查显示，55% 的民主党人和 53% 的共和党人表示，他们相信美国有一天“可能”不会成为民主国家。<br><br>The Hill: Bill Clinton: "Fair chance" US could "completely lose" its democratic system<br><br><img style="" src="https://pbs.twimg.com/media/FVYVqFcVsAcfNK2?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://trib.al/mp92tnr" target="_blank" rel="noopener noreferrer">https://trib.al/mp92tnr</a>
+克林顿说：“我实际上认为，如果我们继续做出错误的决定，我们很有可能在几十年内完全失去我们的宪政民主。……我以前从未像现在这样担心我们民主政府的结构”。<br>6月15日发布的雅虎新闻-YouGov 民意调查显示，55% 的民主党人和 53% 的共和党人表示，他们相信美国有一天“可能”不会成为民主国家。
 
 ### 65: [2022-06-16 22:35:27+08:00 推文](https://twitter.com/HeQinglian/status/1537443744412098561)
 
@@ -289,11 +289,11 @@ Re @Vince6610 吓唬谁呢？打就打。
 
 ### 69: [2022-06-17 08:55:55+08:00 推文](https://twitter.com/HeQinglian/status/1537599889936371714)
 
-拜登进白宫一年半以来，说的最正确的就是这句话。<br>希望他某天能够说出另一句真话：支持我领导美国的人，是与我一样，或者与我儿子一样的人。<br><br>jiang shangrong: 拜登说，美国的经济和他的一样地充满健康和活力。<br><br><img style="" src="https://pbs.twimg.com/media/FVU-KkVWYAEk-3j?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://t.me/JShangrong" target="_blank" rel="noopener noreferrer">https://t.me/JShangrong</a>
+拜登进白宫一年半以来，说的最正确的就是这句话。<br>希望他某天能够说出另一句真话：支持我领导美国的人，是与我一样，或者与我儿子一样的人。
 
 ### 70: [2022-06-17 09:00:51+08:00 推文](https://twitter.com/HeQinglian/status/1537601129588084738)
 
-支持乌克兰还未竟全功，现在又吹响支持台湾抗中的集结号了，费用列入2023财年开支。美国需要上千亿美元。<br>这次肯定也是四十国联军，习近平听了这滴滴答的号声，仿佛如临寒冬，在中南海里瑟瑟发抖。
+支持乌克兰还未竟全功，现在又吹响支持台湾抗中的集结号了，费用列入2023财年开支。美国需要上千亿美元。<br>这次肯定也是四十国联军，习近平听了这滴滴答的号声，仿佛如临寒冬，在中南海里瑟瑟发抖。<br><br>DW 中文- 德国之声: "中国虽投入巨资，却仍然无法在技术上赶超台湾，这也许恰恰会成为武力攻台的一个理由。中国也许会孤注一掷，将这个芯片基地据为己有。"<br> <a href="https://p.dw.com/p/4CoYc" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4CoYc</a>
 
 ### 71: [2022-06-17 09:02:04+08:00 推文](https://twitter.com/HeQinglian/status/1537601438389571584)
 
@@ -513,7 +513,7 @@ Re @wakeup_arrow 出于好奇看了一眼。那位巴丢草我因其左得出位
 
 ### 125: [2022-06-19 23:19:59+08:00 推文](https://twitter.com/HeQinglian/status/1538542113008271364)
 
-我一直觉得西方在中俄关系上，对中国有不切实际的期待。<br>1、习近平对俄与普京的好感，中国人都知道，不是国家机密；2、地缘政治的需要，中国从未向美国许诺过亲美疏俄；3、金砖五国自2009年以来每年开会，日渐亲密，这也是公开信息。<br>西方要么不看自家之外的信息，要么将自家愿望当作他国必须要做之事
+我一直觉得西方在中俄关系上，对中国有不切实际的期待。<br>1、习近平对俄与普京的好感，中国人都知道，不是国家机密；2、地缘政治的需要，中国从未向美国许诺过亲美疏俄；3、金砖五国自2009年以来每年开会，日渐亲密，这也是公开信息。<br>西方要么不看自家之外的信息，要么将自家愿望当作他国必须要做之事<br><br>华尔街日报中文网: #本周热读 习近平在自己69岁生日这天与普京通话，重申支持莫斯科方面的安全关切，这一举动意味着中国无意在中俄密切关系上收手。保持与俄罗斯的伙伴关系意味着，中国必须继续采取一种向来很难的骑墙外交立场。<br> <a href="https://on.wsj.com/3zDmHCH" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3zDmHCH</a>
 
 ### 126: [2022-06-19 23:32:06+08:00 推文](https://twitter.com/HeQinglian/status/1538545164909682690)
 
