@@ -77,7 +77,7 @@ Re @eGUAbe2V7j26GHw 现代人懒，看那么多文字，没耐心。就看林青
 
 ### 16: [2023-02-14 22:09:16+08:00 推文](https://twitter.com/HeQinglian/status/1625497407810322438)
 
-美国重新思考"如何与中国打交道"<br><br>气球事件迫使华府重新定位美中关系。美国得深度思考：指导中国改革的“改革者”与“改革助推者”已是历史，“颠覆者”这一角色在习近平结束外国NGO时已结束历史使命。剩下的角色是“竞争者”，如何让美国在竞争中获胜，是今后美国政府面临的主要课题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html</a>
+RT He Qinglian<br>美国重新思考"如何与中国打交道"<br><br>气球事件迫使华府重新定位美中关系。美国得深度思考：指导中国改革的“改革者”与“改革助推者”已是历史，“颠覆者”这一角色在习近平结束外国NGO时已结束历史使命。剩下的角色是“竞争者”，如何让美国在竞争中获胜，是今后美国政府面临的主要课题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html</a>
 
 ### 17: [2023-02-14 22:18:57+08:00 推文](https://twitter.com/HeQinglian/status/1625499842012397573)
 
@@ -386,4 +386,28 @@ Re @Chung26861988 自己去查图片，成堆。那时你没上推？
 ### 93: [2023-02-17 06:45:46+08:00 推文](https://twitter.com/HeQinglian/status/1626352164770656257)
 
 中国"寻找粮食"与美国"农地安全"的碰撞<br>中国约20%的粮食需要进口，美国的玉米大豆需要买家，因此玉米大豆外交为双方所必需。<br>USCC去年发布《中国在美国的农业利益》，意在限制中国在美国购买农地，引发了国会立法讨论。<br>气球事件激活了这些半睡眠的立法讨论，美国22州相继跟进 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02152023164242.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02152023164242.html</a>
+
+### 94: [2023-02-17 09:19:39+08:00 推文](https://twitter.com/HeQinglian/status/1626390891194621962)
+
+法國：與中國“重新建立聯繫”的時機已經到來 <br>评：联想到美国期盼布林肯在德国慕尼黑会议上至少要与王毅建立“走廊外交”（正式安排之外的“偶遇”），不得不认为，对西方来说，中国是个奇怪的存在：一方面经常批评彰显自己的人权，另一方面又争先恐后地“建立联系”。 <a href="https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20230216-%E6%B3%95%E5%9C%8B-%E8%88%87%E4%B8%AD%E5%9C%8B-%E9%87%8D%E6%96%B0%E5%BB%BA%E7%AB%8B%E8%81%AF%E7%B9%AB-%E7%9A%84%E6%99%82%E6%A9%9F%E5%B7%B2%E7%B6%93%E5%88%B0%E4%BE%86" target="_blank" rel="noopener noreferrer">https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20230216-%E6%B3%95%E5%9C%8B-%E8%88%87%E4%B8%AD%E5%9C%8B-%E9%87%8D%E6%96%B0%E5%BB%BA%E7%AB%8B%E8%81%AF%E7%B9%AB-%E7%9A%84%E6%99%82%E6%A9%9F%E5%B7%B2%E7%B6%93%E5%88%B0%E4%BE%86</a>
+
+### 95: [2023-02-17 09:26:13+08:00 推文](https://twitter.com/HeQinglian/status/1626392540227198976)
+
+Re @princeton_walk @meimei1935 她主张自己的颜色，等于认同身份政治。看好她什么？
+
+### 96: [2023-02-17 09:44:51+08:00 推文](https://twitter.com/HeQinglian/status/1626397230235017216)
+
+一周之内，美众、参两院先后通过决议，谴责中国侦察气球侵犯美国主权<br><br>拜登这讲话是为布王德国“走廊外交”做铺垫，缓和两国关系。<br>尽管美国已经很谦虚地从中国改革助推者、中国专制政权颠覆者退到竞争者的位置，拜登不想由竞争滑到冲突——但这可不是“走廊外交”能够解决的事儿。<div class="rsshub-quote"><br><br>方菲 Jenny: 拜登剛就氣球時間做了一個10分鐘的講話。主要內容：<br>1. 另外3只被打下來的氣球很可能是私人公司的，用於科研或氣象目的。目前還在搜尋殘骸。沒有跡象顯示和中國有關。<br>2. 與中國是競爭關係；不希望由競爭滑向衝突。將與習近平通話，但沒說何時。<br>3.…<br> <a href="https://twitter.com/i/web/status/1626312513187971072" target="_blank" rel="noopener noreferrer">https://twitter.com/i/web/status/1626312513187971072</a></div>
+
+### 97: [2023-02-17 09:46:49+08:00 推文](https://twitter.com/HeQinglian/status/1626397727042027520)
+
+Re @zhixiangziyou 下一场大流行病，盖茨可能是零号病人。
+
+### 98: [2023-02-17 09:57:37+08:00 推文](https://twitter.com/HeQinglian/status/1626400442564374528)
+
+Re @seeyoua22819375 西方认为与中国建立联系，让中国支持乌克兰至关重要。<br>逻辑上如何推出来的，只有他们自己知道。
+
+### 99: [2023-02-17 10:00:35+08:00 推文](https://twitter.com/HeQinglian/status/1626401192241684480)
+
+Re @seeyoua22819375 最后总要结束，“华府希望与俄罗斯战斗至最后一个乌克兰人”——这不是一开始就预测过的结局？
 

@@ -21,6 +21,10 @@ title: EnclavedMicrostate在2023-02-13~2023-02-19的言论
 
 *snrks in Cantonese*
 
+----- __1107.2__ -----2023-02-17 10:52:56+08:00:
+
+It's what sometimes gets known as a 'glass cliff' – women who get to be put in places of corporate responsibility are often there because they will be the ones to take the fall if, or more often when, something goes wrong.
+
 ### 1108: [Why were Chinese men so obsessed with the idea of widow chastity?](https://old.reddit.com/r/AskHistorians/comments/111m35g/why_were_chinese_men_so_obsessed_with_the_idea_of/), submitted on 2023-02-14 06:30:17+08:00.
 
 ----- __1108.1__ -----2023-02-14 18:16:12+08:00:
