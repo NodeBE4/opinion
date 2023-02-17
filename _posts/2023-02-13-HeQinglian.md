@@ -77,7 +77,7 @@ Re @eGUAbe2V7j26GHw 现代人懒，看那么多文字，没耐心。就看林青
 
 ### 16: [2023-02-14 22:09:16+08:00 推文](https://twitter.com/HeQinglian/status/1625497407810322438)
 
-RT He Qinglian<br>美国重新思考"如何与中国打交道"<br><br>气球事件迫使华府重新定位美中关系。美国得深度思考：指导中国改革的“改革者”与“改革助推者”已是历史，“颠覆者”这一角色在习近平结束外国NGO时已结束历史使命。剩下的角色是“竞争者”，如何让美国在竞争中获胜，是今后美国政府面临的主要课题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html</a>
+美国重新思考"如何与中国打交道"<br><br>气球事件迫使华府重新定位美中关系。美国得深度思考：指导中国改革的“改革者”与“改革助推者”已是历史，“颠覆者”这一角色在习近平结束外国NGO时已结束历史使命。剩下的角色是“竞争者”，如何让美国在竞争中获胜，是今后美国政府面临的主要课题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html</a>
 
 ### 17: [2023-02-14 22:18:57+08:00 推文](https://twitter.com/HeQinglian/status/1625499842012397573)
 
@@ -506,4 +506,20 @@ Re @yyffnn1963 法國承認在這個問題（指新疆维吾尔人）上將保�
 ### 123: [2023-02-18 02:28:27+08:00 推文](https://twitter.com/HeQinglian/status/1626649796869070848)
 
 Re @xchen156 俄罗斯难道还有外国NGO没清理干净？<br>中国现在只剩下极少数由外国资助的环保 、女权、LGBTQ组织还合法存在，骄傲月可以上街游行。让国民开眼长见识知道骄傲月长啥样可以，但政变的力量应该不足。FBI的线人在几年前就收拾干净了（纽时报道过还很形象有细节）。
+
+### 124: [2023-02-18 04:22:44+08:00 推文](https://twitter.com/HeQinglian/status/1626678556314030093)
+
+索罗斯成为政变预言家（按日期由近到远）：<br>索罗斯语出惊人：“俄罗斯帝国”或将瓦解，而中国面临“政权更替或革命”<br><br>索罗斯：四大因素威胁习近平连任<br><br>索罗斯：习近平在清零等问题犯错 或影响连任 <a href="https://www.voachinese.com/a/soros-says-russian-defeat-in-ukraine-would-trigger-dissolution-of-russian-empire-02172023/6967425.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/soros-says-russian-defeat-in-ukraine-would-trigger-dissolution-of-russian-empire-02172023/6967425.html</a> <a href="https://www.epochtimes.com/gb/22/1/31/n13545334.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/1/31/n13545334.htm</a> <a href="https://www.epochtimes.com/gb/22/5/25/n13744730.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/25/n13744730.htm</a>
+
+### 125: [2023-02-18 04:31:12+08:00 推文](https://twitter.com/HeQinglian/status/1626680687330820096)
+
+Re 仅供参考，信则灵。😅<br>不过，预言中国政变（习下李上等类）仅有自媒体是不够的，虽然“表达了人民的心声”，毕竟人望不够，西方媒体刚赶上这班车，政变没发生就被验证了。<br>有了索罗斯的加盟，媒体广为传播，“千夫所指，无疾而终”。<br>信息战模式带来快感，只用于战争中实在太可惜。
+
+### 126: [2023-02-18 04:36:07+08:00 推文](https://twitter.com/HeQinglian/status/1626681921429295110)
+
+Re @miren_41319 竟然有这事？我美国虽然蛋涨价幅度很大，好象还能买到。
+
+### 127: [2023-02-18 04:43:00+08:00 推文](https://twitter.com/HeQinglian/status/1626683657015422980)
+
+Re @dinglili7 普京要输，不是依靠信息战、说服，而是战场上将俄军打趴，用事实教育他。<br>这世界进入一种怎样的颠倒状态，以为口水仗就是一切。<br>看来，这次慕尼黑安全会议，各国最重要的任务是说服王毅，让他转告习近平：赶紧与俄划清界限，弃暗投明，要不，我们都不与习近平玩了，天天宣告他与普京的灭亡。
 
