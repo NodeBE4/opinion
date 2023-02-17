@@ -63,6 +63,10 @@ As a slightly pedantic correction, this does depend on which German state you're
 
 Cheongsam is Cantonese for 'long dress'; Qipao is Mandarin for 'banner robe'; both refer to the same dress style.
 
+----- __1112.2__ -----2023-02-17 19:58:35+08:00:
+
+It's a dress with an interesting if complex history relating to ethnic minority groups in China, the Discourse around which is, er, look it's complicated.
+
 ### 1113: [Guide to KHAKI](https://old.reddit.com/r/coolguides/comments/1148msi/guide_to_khaki/), submitted on 2023-02-17 10:45:56+08:00.
 
 ----- __1113.1__ -----2023-02-17 18:47:34+08:00:
