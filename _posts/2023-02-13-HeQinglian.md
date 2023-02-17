@@ -77,7 +77,7 @@ Re @eGUAbe2V7j26GHw 现代人懒，看那么多文字，没耐心。就看林青
 
 ### 16: [2023-02-14 22:09:16+08:00 推文](https://twitter.com/HeQinglian/status/1625497407810322438)
 
-美国重新思考"如何与中国打交道"<br><br>气球事件迫使华府重新定位美中关系。美国得深度思考：指导中国改革的“改革者”与“改革助推者”已是历史，“颠覆者”这一角色在习近平结束外国NGO时已结束历史使命。剩下的角色是“竞争者”，如何让美国在竞争中获胜，是今后美国政府面临的主要课题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html</a>
+RT He Qinglian<br>美国重新思考"如何与中国打交道"<br><br>气球事件迫使华府重新定位美中关系。美国得深度思考：指导中国改革的“改革者”与“改革助推者”已是历史，“颠覆者”这一角色在习近平结束外国NGO时已结束历史使命。剩下的角色是“竞争者”，如何让美国在竞争中获胜，是今后美国政府面临的主要课题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html</a>
 
 ### 17: [2023-02-14 22:18:57+08:00 推文](https://twitter.com/HeQinglian/status/1625499842012397573)
 
@@ -414,4 +414,36 @@ Re @seeyoua22819375 最后总要结束，“华府希望与俄罗斯战斗至最
 ### 100: [2023-02-17 10:47:36+08:00 推文](https://twitter.com/HeQinglian/status/1626413022515281920)
 
 Re @TG_9527 失敬了，原来你重要到被某媒体投喂信息的地步，看来，我这园子里藏龙卧虎。😅😅
+
+### 101: [2023-02-17 22:39:29+08:00 推文](https://twitter.com/HeQinglian/status/1626592173805404160)
+
+Re @Lucs24659702 自作孽。<br>不过，这是他们父祖辈作的孽，子孙受。
+
+### 102: [2023-02-17 22:47:28+08:00 推文](https://twitter.com/HeQinglian/status/1626594181115428872)
+
+Re @JianglinLi 这些组织声称白女是他们的赔偿，意思是可以随意当作自己的财产？<br>美国女权只能欺负同种族男人与话语权少的女人。这种情况下，她们如何应对？<br>BTW，昨天有个装天真的推号不相信2020年BLM运动中发生的怪事，我用BLM，Kneel Down与White Girl，Black Dxxk搜索，不少，后者无奇不有，甘心自作贵族性奴。
+
+### 103: [2023-02-17 22:50:05+08:00 推文](https://twitter.com/Lucs24659702/status/1626594841571504136)
+
+RT Lucs<br>小罗伯特·肯尼迪：五角大楼和国家安全局负责整个大流行病应对工作。<br><br> “辉瑞和 Moderna 并不真正拥有这些疫苗。他们在上面贴上标签，但这是五角大楼的项目。”<br><video src="https://video.twimg.com/ext_tw_video/1626594760646623238/pu/vid/1280x720/IPdtwDe-32RHWQNP.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1626594760646623238/pu/img/2wQCYppK2kWPJINn.jpg"></video>
+
+### 104: [2023-02-17 22:55:46+08:00 推文](https://twitter.com/HeQinglian/status/1626596269727846411)
+
+Re @ddiohnjingxu7 @seeyoua22819375 这个，消息很多，欧盟、英国不断有计划推出，要没收这笔、那笔俄罗斯资产，要用俄罗斯这资源、那资源帮助乌重建。<br>只是你要特别提醒自己：如今世界身处平行世界，战场上与信息战中的战况区别很大很大，就看你愿意相信什么了。<br>推特上乌粉圈每天都捷报频传。
+
+### 105: [2023-02-17 22:58:02+08:00 推文](https://twitter.com/HeQinglian/status/1626596842581667842)
+
+Re @JianglinLi 原来还以为那疯劲过去后，这些人会将自拍的丑态删除，毕竟还要为人，结果发现当初在推上偶然见到的视频太小儿科了，人至贱无敌。
+
+### 106: [2023-02-17 23:07:31+08:00 推文](https://twitter.com/HeQinglian/status/1626599228188360705)
+
+Re @princeton_walk @meimei1935 我不认同。她胜不了。<br>一个理念上接近民主党的人，要她干甚？在双方极化之时，她这种主张既争取不到中间选民，还会动摇本阵营。<br>她的经费来自对方，搅局作用。<br>德桑蒂斯本是共和党内无可置疑的新星，被对方与布什家族弄成如今这局面。<br>民主党这么毁国不倦，有如尼禄焚罗马城。
+
+### 107: [2023-02-17 23:09:59+08:00 推文](https://twitter.com/HeQinglian/status/1626599850459697154)
+
+Re @Lucs24659702 如果此事为真，整个事件得从始点开始覆盘。
+
+### 108: [2023-02-17 23:12:09+08:00 推文](https://twitter.com/HeQinglian/status/1626600394750332929)
+
+Re @JianglinLi 好象还有长得比较好的，只是身上画满了各种纹身。这都是什么家庭教养出来的怪物？
 
