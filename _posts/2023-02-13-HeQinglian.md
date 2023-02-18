@@ -563,3 +563,27 @@ Re @JianglinLi 气球问题出现的时间正好，一来可以让大家不关�
 
 Re @eGUAbe2V7j26GHw @RickyYu6612 人家那段子讲的是Loser。
 
+### 138: [2023-02-18 21:35:17+08:00 推文](https://twitter.com/HeQinglian/status/1626938405794811904)
+
+Re @Lucs24659702 德国难民潮以来，该国女人经常在公共场所被性侵，其男友、男伴经常弃她们逃窜。对此，我一直在想：怎么全没了血气？现在看来，求仁得仁，全是她们驯化的结果。<br>怪不得BLM运动起来后，美国一些白左女那样疯狂仰慕BLM，原来她们将被政治正确保护的暴行虐行当男子汉气概，虐待他人时也希望自己被虐。
+
+### 139: [2023-02-18 21:50:03+08:00 推文](https://twitter.com/HeQinglian/status/1626942120933179393)
+
+在慕尼黑安全会议前一次演讲中，索罗斯还点评印度总理莫迪，表示印度“是个民主国家，但总理莫迪并不是民主人士”。<br>对此，印度外长尖锐回应：索罗斯的说法“主观并且危险”，是印度选民决定国家如何运作，“我们感到担忧。我们是经历过殖民主义的国家，我们知道外部干预的危险”。<div class="rsshub-quote"><br><br>He Qinglian: 索罗斯成为政变预言家（按日期由近到远）：<br>索罗斯语出惊人：“俄罗斯帝国”或将瓦解，而中国面临“政权更替或革命”<br><br>索罗斯：四大因素威胁习近平连任<br><br>索罗斯：习近平在清零等问题犯错 或影响连任<br> <a href="https://www.voachinese.com/a/soros-says-russian-defeat-in-ukraine-would-trigger-dissolution-of-russian-empire-02172023/6967425.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/soros-says-russian-defeat-in-ukraine-would-trigger-dissolution-of-russian-empire-02172023/6967425.html</a> <a href="https://www.epochtimes.com/gb/22/1/31/n13545334.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/1/31/n13545334.htm</a> <a href="https://www.epochtimes.com/gb/22/5/25/n13744730.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/25/n13744730.htm</a></div>
+
+### 140: [2023-02-18 21:59:15+08:00 推文](https://twitter.com/HeQinglian/status/1626944437480787971)
+
+Re @Lucs24659702 代白宫团队纠误：是口误，说的是一小部分税收。
+
+### 141: [2023-02-18 22:02:06+08:00 推文](https://twitter.com/HeQinglian/status/1626945152299200516)
+
+Re @JianglinLi @Lucs24659702 一个顶俩时，要看场合：<br>1、遇到白种男人与亚裔男人、女人时，一个顶俩、顶仨。<br>2、遇到讲道理、讲常识的人时，非常勇猛甚至凶猛；<br>3、遇到BLM、伊斯兰族群尤其是难民时，驯服如羊。
+
+### 142: [2023-02-18 22:07:40+08:00 推文](https://twitter.com/HeQinglian/status/1626946555251924992)
+
+Re @Lucs24659702 这比苏共苏维埃时期的性消费券、中共延安时期的组织安排还进一步，那被安排的还只是生理正常女性。
+
+### 143: [2023-02-18 22:12:02+08:00 推文](https://twitter.com/HeQinglian/status/1626947655623495682)
+
+Re @dinglili7 我刚才看错了，以为是说“如果俄罗斯总统普京在乌克兰失败”。后来知道自己看错了，由此浮想联翩。<br>1、这时候，以北约秘书长身份说这话，如果不是心中有此看法，不会如此动摇军心。<br>2、先给中俄联盟加根楔子。
+
