@@ -25,7 +25,7 @@ title: 'Twitter @蔡霞: 2022-05-02~2022-05-08'
 
 ### 3: [2022-05-03 21:58:44+08:00 推文](https://twitter.com/realcaixia/status/1521489437028491271)
 
-恶法下的执法与土匪没有什么区别。<br><br>蔡慎坤: 这是上海吗？怎么如同土匪一样！<br> <a href="https://twitter.com/Salmon_Ten/status/1520985187412492289" target="_blank" rel="noopener noreferrer">https://twitter.com/Salmon_Ten/status/1520985187412492289</a>
+恶法下的执法与土匪没有什么区别。<br><br>蔡慎坤: 这是上海吗？怎么如同土匪一样！<br> <a href="https://twitter.com/salmon_ten/status/1520985187412492289" target="_blank" rel="noopener noreferrer">https://twitter.com/salmon_ten/status/1520985187412492289</a>
 
 ### 4: [2022-05-03 22:01:00+08:00 推文](https://twitter.com/realcaixia/status/1521490008003198976)
 
@@ -33,11 +33,11 @@ Re @Lisa00792327545 @cskun1989 请搜议报网站，议报发布了全文。
 
 ### 5: [2022-05-04 03:27:22+08:00 推文](https://twitter.com/realcaixia/status/1521572140671279105)
 
-别忘了，新华社和央视报道过李文亮等“武汉有8人造谣”。
+别忘了，新华社和央视报道过李文亮等“武汉有8人造谣”。<br><br>Henry Chang: 马某被国安采取刑事强制措施 像假新闻 以震慑民营企业家<br>说它假的理由是：一是杭州国安越俎代庖。煽颠罪应由公安局政保处侦办，而不是国安局。二是采取刑事强制措施语焉不详。公安、国安的强制措施就2种:行政拘留和刑事拘留。行拘15天放人；刑拘须报检察院批捕。<br>这么做意在吓唬民企别高兴得太早了。<br><br><img style="" src="https://pbs.twimg.com/media/FRzlluVVgAAc0U-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2022-05-06 04:14:01+08:00 推文](https://twitter.com/realcaixia/status/1522308656926277634)
 
-恰好今天读到一封欢迎沈良庆先生被定煽动颠覆罪将刑期满出狱的情真意切的短文。沈良庆先生大学毕业后已经成为一个省高等检察院的检察官，本可以在体制内衣食无忧到退休，但他为争取中国的民主自由数次被抓入狱，几十年信念不改。这样的中国青年是改革开放后中国真正的青年才俊。
+恰好今天读到一封欢迎沈良庆先生被定煽动颠覆罪将刑期满出狱的情真意切的短文。沈良庆先生大学毕业后已经成为一个省高等检察院的检察官，本可以在体制内衣食无忧到退休，但他为争取中国的民主自由数次被抓入狱，几十年信念不改。这样的中国青年是改革开放后中国真正的青年才俊。<br><br>高瑜: 陳獨秀、魯迅、陳寅恪、胡適（按年齡排序），都是民國時代的大學教授，堪稱青年導師。他們的教育思想，已經完全被今天中共的大學教育泯滅，這種泯滅 ，即是滅智，也是滅德。而且與中共一直鼓吹的『五四運動』的精神：『德先生』、『賽先生』背道而馳。<br><br><img style="" src="https://pbs.twimg.com/media/FR6r3QuWUAMnlm8?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2022-05-06 09:29:13+08:00 推文](https://twitter.com/realcaixia/status/1522387978730962949)
 
@@ -49,11 +49,11 @@ Re @Lisa00792327545 @cskun1989 请搜议报网站，议报发布了全文。
 
 ### 9: [2022-05-06 22:05:45+08:00 推文](https://twitter.com/realcaixia/status/1522578368629202946)
 
-强力推荐#议报发布的这篇文章。<br>沈良庆先生在1980年代中期大学毕业后曾有体制内的工作职位，他因追求自由民主，在其后几十年里几遭迫害几度入狱，心中信念始终不变。这就是当代中国正义之士的“虽九死其犹未悔”！这篇短文以最简洁的文字追述了他的几十年经历，令人感动。向沈先生致敬！<br><br>《议报》: 侯文豹：欢迎老反革命分子沈良庆出狱！<br> <a href="https://yibaochina.com/?p=246339" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246339</a>
+强力推荐#议报发布的这篇文章。<br>沈良庆先生在1980年代中期大学毕业后曾有体制内的工作职位，他因追求自由民主，在其后几十年里几遭迫害几度入狱，心中信念始终不变。这就是当代中国正义之士的“虽九死其犹未悔”！这篇短文以最简洁的文字追述了他的几十年经历，令人感动。向沈先生致敬！
 
 ### 10: [2022-05-06 22:19:50+08:00 推文](https://twitter.com/realcaixia/status/1522581913050963969)
 
-特别推荐#议报发布的查建国先生这篇短评。<br>习近平对外暗中支持普金发动侵乌战争，对内顽固坚持清零政策，这已经给中国人带来巨大的伤害。若不从这两个关系国运的灾难性决策中解套出来，中国人还将陷入更深的灾难深渊。而这更深灾难的大门已经被习近平在中共党5月5日中央常委会会议上打开了。<br><br>《议报》: 查建国：两个骑虎难下已成最热点<br> <a href="https://yibaochina.com/?p=246315" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246315</a>
+特别推荐#议报发布的查建国先生这篇短评。<br>习近平对外暗中支持普金发动侵乌战争，对内顽固坚持清零政策，这已经给中国人带来巨大的伤害。若不从这两个关系国运的灾难性决策中解套出来，中国人还将陷入更深的灾难深渊。而这更深灾难的大门已经被习近平在中共党5月5日中央常委会会议上打开了。
 
 ### 11: [2022-05-06 22:54:40+08:00 推文](https://twitter.com/realcaixia/status/1522590677745422338)
 
@@ -81,7 +81,7 @@ Re @Tututula4 @HenryCh34283099 这个问题需要您去问执行者。猜，没�
 
 ### 17: [2022-05-07 08:58:37+08:00 推文](https://twitter.com/realcaixia/status/1522742665699340290)
 
-开心！<br><br>荣剑: 网上说张维为清空了他的微博，还以为是谣传，从微博上看了一下，果然如此，看来这回渣国师“被揍”之后，心灵受到的打击远大于其被揍得鼻青脸肿，这叫伤害不大，羞辱不小，于是，恼羞成怒，关了自己的微博。😂😂<br><br><img style="" src="https://pbs.twimg.com/media/FRUOppXUUAAAaaa?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FRUOqN0VkAA78HY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FRUOq0_VkAE0ReB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FRUOrVhVgAAOmgU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+开心！
 
 ### 18: [2022-05-08 00:46:48+08:00 推文](https://twitter.com/realcaixia/status/1522981283751555072)
 
