@@ -214,3 +214,7 @@ The question of what it all means has been an old one, but the simplest theory w
 
 There's definitely a Kelvin throwaway mention in Discovery S3, but yeah, nothing so far.
 
+----- __1106.4__ -----2023-02-19 06:36:03+08:00:
+
+Japanese doesn't *formally* have '-m' as a terminal consonant; in theory its only terminal consonant is '-n'. As a result, loanwords will end either in a vowel sound, or in '-n'.
+
