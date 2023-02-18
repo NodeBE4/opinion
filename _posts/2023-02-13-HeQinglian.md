@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-02-18
+date: 2023-02-19
 from: https://twitter.com/HeQinglian/status/1624803637313564672
 layout: post
 tags:
@@ -586,4 +586,8 @@ Re @Lucs24659702 这比苏共苏维埃时期的性消费券、中共延安时期
 ### 143: [2023-02-18 22:12:02+08:00 推文](https://twitter.com/HeQinglian/status/1626947655623495682)
 
 Re @dinglili7 我刚才看错了，以为是说“如果俄罗斯总统普京在乌克兰失败”。后来知道自己看错了，由此浮想联翩。<br>1、这时候，以北约秘书长身份说这话，如果不是心中有此看法，不会如此动摇军心。<br>2、先给中俄联盟加根楔子。
+
+### 144: [2023-02-19 02:52:42+08:00 推文](https://twitter.com/HeQinglian/status/1627018285228167168)
+
+北约秘书长：俄侵乌教训 勿过度依赖中国 <br>这教训不够深刻。<br>全球化讲国际分工，资本都流向成本洼地，两头对外依赖的欧盟只好从无到有变出绿能，希望利用西方的先进地位，在世界分配碳排放权额度，将绿能概念变做资源，让俄澳等资源国与中国印度等资源消费大国出钱购买。 <a href="https://rfi.my/9Ahx.T" target="_blank" rel="noopener noreferrer">https://rfi.my/9Ahx.T</a>
 

@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2023-02-17
+date: 2023-02-19
 from: https://twitter.com/realcaixia/status/1624860742469001216
 layout: post
 tags:
@@ -94,4 +94,8 @@ Re 有疑问吗？请看早就有了文章揭露二战时期的纳粹青年团�
 ### 20: [2023-02-17 10:07:16+08:00 推文](https://twitter.com/realcaixia/status/1626402871658020866)
 
 这真是文革中基本手段: 先是发动群众斗群众；接着是“清理阶级队伍”—吐故纳新（铲除异己分子）；再接着是“群众专政”（打死人不犯法）；再接着一波是清查5.16分子（把前面斗群众斗官僚的打死人不偿命的造反派积极分子抓起来）。文革不是群众运动，是权力打着“敢于斗争、善于斗争”旗号运动群众，十年浩劫<div class="rsshub-quote"><br><br>亚军&amp;王歪嘴: 发动群众斗群众<br><br><img style="" src="https://pbs.twimg.com/media/Fo_pIGIagAARtpl?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 21: [2023-02-19 01:53:16+08:00 推文](https://twitter.com/realcaixia/status/1627003330470768642)
+
+特别推荐：李锐日记秘密第20集，请看毛泽东是如何逐步爬上中共党内权位最高的。延安整风是毛爬上最高位的关键步骤。<br><br>禁忌史話：李銳日記秘密20 ｜毛澤東攀上權力巔峰之路 <a href="https://youtu.be/8MEAjgQqZSk" target="_blank" rel="noopener noreferrer">https://youtu.be/8MEAjgQqZSk</a>
 
