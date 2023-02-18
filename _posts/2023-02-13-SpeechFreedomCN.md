@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2023-02-15
+date: 2023-02-18
 from: https://twitter.com/SpeechFreedomCN/status/1625089651676532737
 layout: post
 tags:
@@ -30,4 +30,12 @@ Man from Jiangxi surnamed Zeng detained for three days for his WeChat Moment pos
 ### 4: [2023-02-15 20:28:32+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1625834442940899331)
 
 Unnamed Chinese netizen detained for 10 days for posting info on Twitter and Facebook critical of the Chinese Communist Party, including revealing local police's crackdown on freedom of speech.<br><img style="" src="https://pbs.twimg.com/media/FpAffuEWAAE3iCc?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpAfijoWcAYSuVJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2023-02-18 19:26:30+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1626905997305434114)
+
+近日，山西省天镇县货车司机庞某在其自己的微信公众号发布了一篇文章质疑山东沂南县交警执法，内容包括交警违规行为导致了交通事故并殴打涉事司机，且配有视频和图片证据。随后，庞某被跨省抓捕并被刑事拘留。事件引发舆论热议后，警方已将其取保候审，并称已对此事展开调查。<br><img style="" src="https://pbs.twimg.com/media/FpPsyFLXoAYzI-m?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpPs0I7XEAAwpKe?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpPs17tXEAEq03b?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2023-02-18 19:30:35+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1626907023106314241)
+
+Shanxi man Pang, who recently posted an article on Internet to accuse Shandong traffic police of causing an accident with wrongdoing and beating the involved driver, arrested. The incident sparked public outrage, thus police released him on bail and launched a probe into it.<br><img style="" src="https://pbs.twimg.com/media/FpPubZsWIAABO-Q?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpPudgMWcAIiAzO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpPue7QXgAAY7BK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
