@@ -77,7 +77,7 @@ Re @eGUAbe2V7j26GHw 现代人懒，看那么多文字，没耐心。就看林青
 
 ### 16: [2023-02-14 22:09:16+08:00 推文](https://twitter.com/HeQinglian/status/1625497407810322438)
 
-美国重新思考"如何与中国打交道"<br><br>气球事件迫使华府重新定位美中关系。美国得深度思考：指导中国改革的“改革者”与“改革助推者”已是历史，“颠覆者”这一角色在习近平结束外国NGO时已结束历史使命。剩下的角色是“竞争者”，如何让美国在竞争中获胜，是今后美国政府面临的主要课题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html</a>
+RT He Qinglian<br>美国重新思考"如何与中国打交道"<br><br>气球事件迫使华府重新定位美中关系。美国得深度思考：指导中国改革的“改革者”与“改革助推者”已是历史，“颠覆者”这一角色在习近平结束外国NGO时已结束历史使命。剩下的角色是“竞争者”，如何让美国在竞争中获胜，是今后美国政府面临的主要课题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html</a>
 
 ### 17: [2023-02-14 22:18:57+08:00 推文](https://twitter.com/HeQinglian/status/1625499842012397573)
 
@@ -542,4 +542,24 @@ Re @sorrymaoli 这小姑娘大概想起曹子建的《洛神赋》了：“凌�
 ### 132: [2023-02-18 09:13:34+08:00 推文](https://twitter.com/HeQinglian/status/1626751744695730176)
 
 几点不解：<br>1、是中国气球流浪到美国领空，又无法控制，打下来是必然之举，何须向中国道歉？<br>2、美国民意对领空安全在意，一边倒认为这是中国侵犯美国领空；拜登没有任何国内压力需要道歉。<br>3、他为什么会想到道歉？<br>只有一条，他有求于中国，才在不需要弯腰时弯腰；无须道歉时冒出这奇怪想法。<div class="rsshub-quote"><br><br>He Qinglian: 拜登日前表示，他将就美国空军本月早些时候击落一只高科技中国间谍气球事件，与习近平进行交谈。拜登强调美国“不寻求新冷战”，但不会对击落中方气球的行动道歉。<br>中国外交部强硬表示，美方"没有资格"谈论相关全球共同规范。<br>西方期望布王慕尼黑“走廊外交”可能性现只剩下50%。<br> <a href="https://www.rfa.org/mandarin/yataibaodao/junshiwaijiao/vs-02172023104224.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/yataibaodao/junshiwaijiao/vs-02172023104224.html</a></div>
+
+### 133: [2023-02-18 10:24:42+08:00 推文](https://twitter.com/HeQinglian/status/1626769646685765639)
+
+Re @amon_tian 这气球的碎片是“肉”，打要40多万美元，捞碎片也要几十万美元——不好吃，中国要，派飞机运回去。<br>而且，好象不是邻居，万山千山遥相隔。
+
+### 134: [2023-02-18 10:30:30+08:00 推文](https://twitter.com/HeQinglian/status/1626771107456995331)
+
+Re @shenliangqing2 @CharlieVictor62 这事，我还真做过一些研究。<br>这是2014年纽约时报记者面临的压力。同行及律师认为这是第一修正案赋予的权力。这种事情，同一国之内，最好就同一标准。<br>美国记者力争保护消息来源 <a href="https://www.voachinese.com/a/protecting-reporters-20140815/2414988.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/protecting-reporters-20140815/2414988.html</a>
+
+### 135: [2023-02-18 10:31:50+08:00 推文](https://twitter.com/HeQinglian/status/1626771440509849600)
+
+Re @amon_tian 是打主人脸，这点，没有人否认。
+
+### 136: [2023-02-18 10:50:29+08:00 推文](https://twitter.com/HeQinglian/status/1626776134309318656)
+
+Re @JianglinLi 气球问题出现的时间正好，一来可以让大家不关注北溪2号是谁炸的；二来凸显了中美冲突，俄亥俄州及多处爆炸因中媒报道得太多成了中共大外宣的恶意阴谋论。
+
+### 137: [2023-02-18 11:01:58+08:00 推文](https://twitter.com/HeQinglian/status/1626779025308807170)
+
+Re @eGUAbe2V7j26GHw @RickyYu6612 人家那段子讲的是Loser。
 
