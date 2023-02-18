@@ -77,7 +77,7 @@ Re @eGUAbe2V7j26GHw 现代人懒，看那么多文字，没耐心。就看林青
 
 ### 16: [2023-02-14 22:09:16+08:00 推文](https://twitter.com/HeQinglian/status/1625497407810322438)
 
-美国重新思考"如何与中国打交道"<br><br>气球事件迫使华府重新定位美中关系。美国得深度思考：指导中国改革的“改革者”与“改革助推者”已是历史，“颠覆者”这一角色在习近平结束外国NGO时已结束历史使命。剩下的角色是“竞争者”，如何让美国在竞争中获胜，是今后美国政府面临的主要课题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html</a>
+RT He Qinglian<br>美国重新思考"如何与中国打交道"<br><br>气球事件迫使华府重新定位美中关系。美国得深度思考：指导中国改革的“改革者”与“改革助推者”已是历史，“颠覆者”这一角色在习近平结束外国NGO时已结束历史使命。剩下的角色是“竞争者”，如何让美国在竞争中获胜，是今后美国政府面临的主要课题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html</a>
 
 ### 17: [2023-02-14 22:18:57+08:00 推文](https://twitter.com/HeQinglian/status/1625499842012397573)
 
@@ -590,4 +590,16 @@ Re @dinglili7 我刚才看错了，以为是说“如果俄罗斯总统普京在
 ### 144: [2023-02-19 02:52:42+08:00 推文](https://twitter.com/HeQinglian/status/1627018285228167168)
 
 北约秘书长：俄侵乌教训 勿过度依赖中国 <br>这教训不够深刻。<br>全球化讲国际分工，资本都流向成本洼地，两头对外依赖的欧盟只好从无到有变出绿能，希望利用西方的先进地位，在世界分配碳排放权额度，将绿能概念变做资源，让俄澳等资源国与中国印度等资源消费大国出钱购买。 <a href="https://rfi.my/9Ahx.T" target="_blank" rel="noopener noreferrer">https://rfi.my/9Ahx.T</a>
+
+### 145: [2023-02-19 04:32:40+08:00 推文](https://twitter.com/HeQinglian/status/1627043443158712322)
+
+气球危机难化解 王毅批美方反应 “歇斯底里”<br><br>记者询问王是否会见布林肯时，王微笑着拒绝置评（估计大概率不会与布林肯在走廊相遇并亲切交谈）。<br>王再次呼吁在乌克兰问题展开对话，并建议欧洲冷静思考如何结束战争，“有一些势力似乎不希望谈判成功，也不希望战争很快结束。” <a href="https://p.dw.com/p/4Ngsj" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4Ngsj</a>
+
+### 146: [2023-02-19 04:34:39+08:00 推文](https://twitter.com/HeQinglian/status/1627043942180204544)
+
+Re @dinglili7 这是应该的，UN官员节约一点就行了。
+
+### 147: [2023-02-19 04:38:11+08:00 推文](https://twitter.com/HeQinglian/status/1627044832425414662)
+
+Re @Lucs24659702 贵族不是老想将自己与其他少数族隔离么？这种学校，自我发展好，全是贵族更好。
 

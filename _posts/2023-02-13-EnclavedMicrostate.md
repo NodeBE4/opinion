@@ -57,19 +57,27 @@ But as the above chronology suggests, there was another, more persistent setback
 
 As a slightly pedantic correction, this does depend on which German state you're looking at, but Schützen were still skirmishers. In the (Napoleonic) Prussian army, Schützen were designated marksmen and skirmishers within line regiments, often issued with rifles; this distinguished them from Jäger who were full-sized skirmisher battalions. In the Austrian army, Landwehr skirmisher companies were designated as Schützen, while regular skirmisher battalions were Jäger. As a general rule though, Schütze was a term specifically applied to *rifle*men as opposed to musketeers.
 
-### 1112: [Gura in a Yukata](https://old.reddit.com/r/Hololive/comments/1147yht/gura_in_a_yukata/), submitted on 2023-02-17 10:12:11+08:00.
+### 1112: [How do people paint so many miniatures?](https://old.reddit.com/r/wargaming/comments/113s486/how_do_people_paint_so_many_miniatures/), submitted on 2023-02-16 22:39:34+08:00.
 
------ __1112.1__ -----2023-02-17 19:17:16+08:00:
+----- __1112.1__ -----2023-02-19 04:10:03+08:00:
+
+My local club likes to refer to the 'three-foot rule' – if it looks good from 3 feet away, then it looks good.
+
+I'll also note that the size of a historicals army may seem daunting, but it depends what kind of game you're playing. If you're going full-on big battles then yes, you may well be looking at three-digit numbers for each side, but for a larger skirmish game like *Sharp Practice* or *Rebels and Patriots*, 40-60 per side is much more typical. And then you have some micro-skirmish sets like *Dead Man's Hand* or *A Fistful of Lead* (both Wild West games to be fair) where you can get a game in with as few as 6-10 figures. So it's really a matter of not just the individual figure scale, but also the scale of engagement you're interested in.
+
+### 1113: [Gura in a Yukata](https://old.reddit.com/r/Hololive/comments/1147yht/gura_in_a_yukata/), submitted on 2023-02-17 10:12:11+08:00.
+
+----- __1113.1__ -----2023-02-17 19:17:16+08:00:
 
 Cheongsam is Cantonese for 'long dress'; Qipao is Mandarin for 'banner robe'; both refer to the same dress style.
 
------ __1112.2__ -----2023-02-17 19:58:35+08:00:
+----- __1113.2__ -----2023-02-17 19:58:35+08:00:
 
 It's a dress with an interesting if complex history relating to ethnic minority groups in China, the Discourse around which is, er, look it's complicated.
 
-### 1113: [Guide to KHAKI](https://old.reddit.com/r/coolguides/comments/1148msi/guide_to_khaki/), submitted on 2023-02-17 10:45:56+08:00.
+### 1114: [Guide to KHAKI](https://old.reddit.com/r/coolguides/comments/1148msi/guide_to_khaki/), submitted on 2023-02-17 10:45:56+08:00.
 
------ __1113.1__ -----2023-02-17 18:47:34+08:00:
+----- __1114.1__ -----2023-02-17 18:47:34+08:00:
 
 We need to add in a mediating layer here, that being Hindustani (Hindi/Urdu), which loaned *khaki* for 'dirt', and then transmitted it to English in the 1840s, when the East India Company military started to use the term to describe 'drab' uniforms in earth tones.
 
