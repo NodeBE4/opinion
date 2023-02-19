@@ -99,3 +99,19 @@ Re 有疑问吗？请看早就有了文章揭露二战时期的纳粹青年团�
 
 特别推荐：李锐日记秘密第20集，请看毛泽东是如何逐步爬上中共党内权位最高的。延安整风是毛爬上最高位的关键步骤。<br><br>禁忌史話：李銳日記秘密20 ｜毛澤東攀上權力巔峰之路 <a href="https://youtu.be/8MEAjgQqZSk" target="_blank" rel="noopener noreferrer">https://youtu.be/8MEAjgQqZSk</a>
 
+### 22: [2023-02-19 07:41:34+08:00 推文](https://twitter.com/realcaixia/status/1627090980267753474)
+
+Re @King12324534 592
+
+### 23: [2023-02-19 07:48:49+08:00 推文](https://twitter.com/realcaixia/status/1627092804865511424)
+
+Re 我也不知道。请问制片人李肃先生。抱歉了。
+
+### 24: [2023-02-19 09:44:07+08:00 推文](https://twitter.com/realcaixia/status/1627121820984901633)
+
+Re 延安整风是毛爬上最高权威地位的关键步骤。修正推文的最后一句话。
+
+### 25: [2023-02-19 09:59:43+08:00 推文](https://twitter.com/realcaixia/status/1627125746870235136)
+
+特别推荐：<br>李肃先生的“李锐日记秘密第20集”应和第21集一起看，毛泽东如何爬上最高权威地位。这两集说明白了毛泽东从井冈山到延安初期，通过权斗掌握中共大权，接着如何排挤掉王明，获得最高权威地位。<br><br>禁忌史話：李銳日記秘密21 ｜王明 一代中共黨魁的沉浮 <a href="https://youtu.be/-0LrNFPM2ao" target="_blank" rel="noopener noreferrer">https://youtu.be/-0LrNFPM2ao</a>
+

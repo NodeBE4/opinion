@@ -218,3 +218,11 @@ There's definitely a Kelvin throwaway mention in Discovery S3, but yeah, nothing
 
 Japanese doesn't *formally* have '-m' as a terminal consonant; in theory its only terminal consonant is '-n'. As a result, loanwords will end either in a vowel sound, or in '-n'.
 
+----- __1106.5__ -----2023-02-19 07:46:34+08:00:
+
+> It's due to the way their alphabet works, I think. It's all, like, syllabic.
+
+The word you're looking for is 'syllabary' – a script in which characters map onto syllables rather than individual vowels and consonants.
+
+I'll also add something I blanked on earlier (and tagging in /u/Xmgplays as well) – ん is pronounced /m/ when it precedes a m-, p-, or b- consonant. As such, コンプレックス could still be pronounced *kompureksu* even though it is spelled 'konpureksu'. When the 'plex' part of 'complex' is taken out, however, you are left with コン *kon*, with no subsequent m-/p-/b- consonant to make it a /m/ sound. If 'com' were being loaned, then コム *komu* would indeed make more sense, but this is an abbreviation of a loan, like サンドイッチ *sandoicchi* becoming shortened to サンド *sando*, or, more pertinently, 'personal computer' being abbreviated to パソコン *pasokon*.
+

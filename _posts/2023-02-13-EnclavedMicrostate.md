@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-02-17
+date: 2023-02-19
 from: https://old.reddit.com/r/VirtualYoutubers/comments/111cgme/professionally_penalizing_paparazzi_weekly/
 layout: post
 tags:
@@ -80,4 +80,32 @@ It's a dress with an interesting if complex history relating to ethnic minority 
 ----- __1114.1__ -----2023-02-17 18:47:34+08:00:
 
 We need to add in a mediating layer here, that being Hindustani (Hindi/Urdu), which loaned *khaki* for 'dirt', and then transmitted it to English in the 1840s, when the East India Company military started to use the term to describe 'drab' uniforms in earth tones.
+
+### 1115: [Is British comedy now....shitter?](https://old.reddit.com/r/CasualUK/comments/115r7ki/is_british_comedy_nowshitter/), submitted on 2023-02-19 05:03:09+08:00.
+
+----- __1115.1__ -----2023-02-19 08:15:45+08:00:
+
+What is this channel, by the way? I'm intrigued.
+
+----- __1115.2__ -----2023-02-19 09:29:47+08:00:
+
+Cheers!
+
+### 1116: [Why did the Manchus fail to preserve their language during the Qing dynasty?](https://old.reddit.com/r/AskHistorians/comments/115uq2l/why_did_the_manchus_fail_to_preserve_their/), submitted on 2023-02-19 07:00:00+08:00.
+
+----- __1116.1__ -----2023-02-19 07:39:48+08:00:
+
+More may of course be said, but I address aspects of your question in these past answers:
+
+* https://www.reddit.com/r/AskHistorians/comments/ly2n9i/why_didnt_the_manchu_language_dominate_china/gprbx9h/
+
+* https://www.reddit.com/r/AskHistorians/comments/jppetx/for_a_clanethnic_group_that_ruled_over_china_for/gbgde0x/
+
+* https://www.reddit.com/r/AskHistorians/comments/xlniq6/did_cixi_speakreadwrite_manchu/ipy8zjx/
+
+The real Reddit-dwelling Manchu studies specialist, though, is /u/shkencorebreaks, whose answers you may find also – if not more – useful:
+
+* https://www.reddit.com/r/AskHistorians/comments/xktjdh/how_did_the_translation_of_ming_and_preming_texts/ipl6644/?context=999
+
+* https://www.reddit.com/r/AskHistorians/comments/u4tkfm/did_the_manchu_qing_empire_know_of_its_connection/i5ttnmy/?context=999
 
