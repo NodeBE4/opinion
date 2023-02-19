@@ -25,7 +25,7 @@ title: 'Twitter @蔡霞: 2022-06-27~2022-07-03'
 
 ### 3: [2022-06-28 00:57:03+08:00 推文](https://twitter.com/realcaixia/status/1541465644427886594)
 
-中共對逝者如此恐懼，說明逝者在人們心中有多麼強大的感召力，反過來也說明中共是多麼的心虛膽顫，多麼的害怕。
+中共對逝者如此恐懼，說明逝者在人們心中有多麼強大的感召力，反過來也說明中共是多麼的心虛膽顫，多麼的害怕。<br><br>高瑜: 張思之律師送別式于明日八寶山舉行。因疫情只限制20人參加，僅張老親屬已經差不多了。張老弟子、當事人浦志強都在爭取之中。朋輩、晚輩及眾多仰慕者都不能最後送別，這是壬寅仲夏無以補救的遺憾。<br>推友給我發來1999年我與張老的合影，花也是張老送的。我曾用於我為張老80 大壽寫的文章《永遠的張思之》<br><br><img style="" src="https://pbs.twimg.com/media/FWOpWzdVsAEdddH?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWOqrYZUYAI6YBe?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2022-06-28 02:54:36+08:00 推文](https://twitter.com/realcaixia/status/1541495226841407489)
 
@@ -53,7 +53,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FWSJb9CXEAElwMm?format=jpg
 
 ### 10: [2022-06-28 21:23:21+08:00 推文](https://twitter.com/realcaixia/status/1541774252550098946)
 
-这是我最近完成的一篇文章，比较长，有兴趣的朋友请耐心读完。我把习近平是如何诡诈修宪的过程做了分析，从中国宪法和立法法角度；从中共党自己的党章规定和中共党的制度规定，揭露习是如何违宪违法、违反中共党章和党内制度规定的。习近平2018修宪坑害了中共党，同时坑害了10多亿国人。<br><br>《议报》: 蔡霞 ：2018年春他打开了什么样的潘多拉魔盒？——习近平诡诈而狡蛮的修宪及其影响<br> <a href="https://yibaochina.com/?p=247040" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247040</a>
+这是我最近完成的一篇文章，比较长，有兴趣的朋友请耐心读完。我把习近平是如何诡诈修宪的过程做了分析，从中国宪法和立法法角度；从中共党自己的党章规定和中共党的制度规定，揭露习是如何违宪违法、违反中共党章和党内制度规定的。习近平2018修宪坑害了中共党，同时坑害了10多亿国人。
 
 ### 11: [2022-06-28 23:39:00+08:00 推文](https://twitter.com/realcaixia/status/1541808389797322753)
 
@@ -177,7 +177,7 @@ Re 中共党内奴性文化、阴谋文化是中共党性修养的本质内涵�
 
 ### 41: [2022-07-02 22:18:52+08:00 推文](https://twitter.com/realcaixia/status/1543237776904175617)
 
-极权统治出打手举刀了。
+极权统治出打手举刀了。<br><br>靜心: 轉：雷霆行動，唐山開始抓捕舉報人了，微博和微信賬號銷了一萬多，這就是他們解決問題的手段！<br><br><img style="" src="https://pbs.twimg.com/media/FWlC29XWQAATeXf?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 42: [2022-07-02 22:22:48+08:00 推文](https://twitter.com/realcaixia/status/1543238766894223361)
 

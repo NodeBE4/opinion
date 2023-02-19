@@ -115,3 +115,11 @@ Re 延安整风是毛爬上最高权威地位的关键步骤。修正推文的�
 
 特别推荐：<br>李肃先生的“李锐日记秘密第20集”应和第21集一起看，毛泽东如何爬上最高权威地位。这两集说明白了毛泽东从井冈山到延安初期，通过权斗掌握中共大权，接着如何排挤掉王明，获得最高权威地位。<br><br>禁忌史話：李銳日記秘密21 ｜王明 一代中共黨魁的沉浮 <a href="https://youtu.be/-0LrNFPM2ao" target="_blank" rel="noopener noreferrer">https://youtu.be/-0LrNFPM2ao</a>
 
+### 26: [2023-02-19 10:29:15+08:00 推文](https://twitter.com/realcaixia/status/1627133181915811841)
+
+Re @krisweettt 他的回答跳了三个逻辑环节：1，他是依据专业活动的正常逻辑作分析，如有强大的外部干扰因素，就无法按正常逻辑作预判；2，这一专业活动是在现有制度（制度本身不合理）条件下进行的，他无法改变或摆脱现有制度，并只能在现有制度条件下工作；3，国家领导人权力可以干涉或取代专业人员做决策，他无奈。
+
+### 27: [2023-02-19 10:40:04+08:00 推文](https://twitter.com/realcaixia/status/1627135900449755139)
+
+对，伊朗和中共国还有军事上的联合。<div class="rsshub-quote"><br><br>ZHANGDONG: @realcaixia 警惕邪恶轴心国军事联盟！这是对世界和平与民主的公开挑战。<br><br><img style="" src="https://pbs.twimg.com/media/FpKvobTWYAYY5GZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
