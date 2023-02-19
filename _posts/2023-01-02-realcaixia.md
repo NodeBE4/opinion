@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2023-01-02~2023-01-08'
 
 ### 4: [2023-01-02 06:03:14+08:00 推文](https://twitter.com/realcaixia/status/1609671618250293248)
 
-这样的年轻人是我们这个民族的希望！<br><br>小陀螺: 小女生年纪轻轻就这么咄咄逼人，逻辑出色，这才是真正的后浪‼️讲得太棒了<br><br><video src="https://video.twimg.com/ext_tw_video/1335635650800971783/pu/vid/480x270/d1mXmavv4HeQ1LCS.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1335635650800971783/pu/img/hTkVODKVmNZWIkuv.jpg"></video>
+这样的年轻人是我们这个民族的希望！
 
 ### 5: [2023-01-02 23:31:00+08:00 推文](https://twitter.com/realcaixia/status/1609935297374195713)
 
