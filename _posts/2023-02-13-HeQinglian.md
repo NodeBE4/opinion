@@ -77,7 +77,7 @@ Re @eGUAbe2V7j26GHw 现代人懒，看那么多文字，没耐心。就看林青
 
 ### 16: [2023-02-14 22:09:16+08:00 推文](https://twitter.com/HeQinglian/status/1625497407810322438)
 
-美国重新思考"如何与中国打交道"<br><br>气球事件迫使华府重新定位美中关系。美国得深度思考：指导中国改革的“改革者”与“改革助推者”已是历史，“颠覆者”这一角色在习近平结束外国NGO时已结束历史使命。剩下的角色是“竞争者”，如何让美国在竞争中获胜，是今后美国政府面临的主要课题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html</a>
+RT He Qinglian<br>美国重新思考"如何与中国打交道"<br><br>气球事件迫使华府重新定位美中关系。美国得深度思考：指导中国改革的“改革者”与“改革助推者”已是历史，“颠覆者”这一角色在习近平结束外国NGO时已结束历史使命。剩下的角色是“竞争者”，如何让美国在竞争中获胜，是今后美国政府面临的主要课题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02132023195422.html</a>
 
 ### 17: [2023-02-14 22:18:57+08:00 推文](https://twitter.com/HeQinglian/status/1625499842012397573)
 
@@ -606,4 +606,28 @@ Re @Lucs24659702 贵族不是老想将自己与其他少数族隔离么？这种
 ### 148: [2023-02-19 04:44:35+08:00 推文](https://twitter.com/HeQinglian/status/1627046440068599810)
 
 Re 以上，就是西方期盼很久的中方出席慕安会的结果。<br>布林肯与美方通过种种途径热切表达“走廊外交”的愿望，在汪文斌说拜登没资格与习近平通话之后，这愿望应该也泡汤了。<br>另据国内消息：王毅宣布，中方将发布“关于政治解决乌克兰危机的中国立场”，读后希望西方不至于太失望。
+
+### 149: [2023-02-19 10:47:12+08:00 推文](https://twitter.com/HeQinglian/status/1627137698258460672)
+
+Re @FlyInRainS3 @dinglili7 乌克兰交过付费吗？<br>似乎是美、日、英、欧盟、中国等承担了95%左右吧？
+
+### 150: [2023-02-19 10:49:47+08:00 推文](https://twitter.com/HeQinglian/status/1627138347742240768)
+
+Re @kiyomi_taka 不明白何以得出这结论？昨天汪文斌的讲话 你看过没有？
+
+### 151: [2023-02-19 10:52:50+08:00 推文](https://twitter.com/HeQinglian/status/1627139114800754690)
+
+Re @shenliangqing2 实话实说，这种自贬，在美国我只见过中国大陆人。
+
+### 152: [2023-02-19 11:00:51+08:00 推文](https://twitter.com/HeQinglian/status/1627141133699522560)
+
+Re @HettyJ008 @zhixiangziyou 在美国，大概是十年前，我儿子还在大学期间时回家时说过一段流行语：如果你是白人男子，又是中产，不是同性恋，那你就完了——说的是找工作（技术专业要求不高的）。
+
+### 153: [2023-02-19 11:23:57+08:00 推文](https://twitter.com/HeQinglian/status/1627146944035409920)
+
+Re @kiyomi_taka 我更关心中美关系，这波之后，什么时候才阴转晴。中国外交，从来就不是外交部长等能够作主的事情。
+
+### 154: [2023-02-19 11:25:22+08:00 推文](https://twitter.com/HeQinglian/status/1627147303898292224)
+
+Re @Lucs24659702 她的上帝应该在泰国居住。<br>希望她母子二人永生不要反悔。
 
