@@ -127,3 +127,11 @@ Re @krisweettt 他的回答跳了三个逻辑环节：1，他是依据专业活�
 
 丁家喜律师的正直、善良与赤诚之心，令许多人为之感叹感动感激。中国不乏热血男儿！<div class="rsshub-quote"><br><br>Luo Shengchun丁家喜律师妻子: #律师会见超期羁押中的家喜 非常感谢彭剑律师！尽管知道家喜一直坚持锻炼身体，彭律的描述还是让我感觉很心酸和担忧。家喜非常关心外面发生的一切，关注被失踪的彭立发和白纸运动的年轻人。得知自己获奖，他感谢国务院对他的鼓励，感谢朋友们的问候，但他希望这个奖项颁给其它更需要被外界关注的人。<br></div>
 
+### 29: [2023-02-19 14:38:48+08:00 推文](https://twitter.com/realcaixia/status/1627195979547181057)
+
+特别推荐：议报转发墙里的网文<br><br>网文 | 我不担心ChatGPT抢我饭碗，但我担心那件更要命的事 - 议报 <a href="https://yibaochina.com/?p=249501" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=249501</a>
+
+### 30: [2023-02-19 14:52:57+08:00 推文](https://twitter.com/realcaixia/status/1627199544458096641)
+
+Mr.Soros的視野极为開闊，在以往阅读索羅斯文章和今天讀到的講演稿中，我感觉Mr.Soros 是以世界公民的意识和眼光来观察世界局势的变化和保护自然生态环境的，索罗斯的觀察和思考有相當的穿透力。他對於俄羅斯和乌克兰的战争结局是俄罗斯解体，他说习近平肯定是输家，中国具备了革命的一切条件。<div class="rsshub-quote"><br><br>《议报》: 【译丛】乔治·索罗斯 | 在2023年慕尼黑安全会议上的讲话<br> <a href="https://yibaochina.com/?p=249553" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=249553</a></div>
+
