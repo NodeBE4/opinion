@@ -63,3 +63,9 @@ Ukraine has been more innovative in its tactics and more disciplined in their ex
 
 These contrasting approaches—the “classic warfare” pursued by Ukraine and the “total warfare” adopted by Russia—have deep roots in the wars of the twentieth century. As the war in Ukraine reaches its one-year mark, it has begun to offer significant insights into how these two forms of warfare can cope in contemporary conflicts—and how they are likely to shape the contest between Kyiv and Moscow in the coming months.
 
+### 357: [Axis of Convenience](https://old.reddit.com/r/LessCredibleDefence/comments/114xrhm/axis_of_convenience/), submitted on 2023-02-18 05:12:22+08:00.
+
+----- __357.1__ -----2023-02-19 14:35:05+08:00:
+
+[Here is a free-access link](https://www.foreignaffairs.com/guest-pass/redeem/Mi721EmF6bE), if needed.
+
