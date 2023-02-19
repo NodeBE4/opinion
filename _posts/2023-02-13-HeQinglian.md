@@ -587,47 +587,59 @@ Re @Lucs24659702 这比苏共苏维埃时期的性消费券、中共延安时期
 
 Re @dinglili7 我刚才看错了，以为是说“如果俄罗斯总统普京在乌克兰失败”。后来知道自己看错了，由此浮想联翩。<br>1、这时候，以北约秘书长身份说这话，如果不是心中有此看法，不会如此动摇军心。<br>2、先给中俄联盟加根楔子。
 
-### 144: [2023-02-19 02:52:42+08:00 推文](https://twitter.com/HeQinglian/status/1627018285228167168)
+### 144: [2023-02-18 23:17:20+08:00 推文](https://twitter.com/Lucs24659702/status/1626964085433851904)
+
+RT Lucs<br>川普儿子发帖：<br><br>俄亥俄州宣布自己是乌克兰的一部分，希望得到拜登政府的援助。<br><img style="" src="https://pbs.twimg.com/media/FpQjNifacAEBQqI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 145: [2023-02-19 02:52:42+08:00 推文](https://twitter.com/HeQinglian/status/1627018285228167168)
 
 北约秘书长：俄侵乌教训 勿过度依赖中国 <br>这教训不够深刻。<br>全球化讲国际分工，资本都流向成本洼地，两头对外依赖的欧盟只好从无到有变出绿能，希望利用西方的先进地位，在世界分配碳排放权额度，将绿能概念变做资源，让俄澳等资源国与中国印度等资源消费大国出钱购买。 <a href="https://rfi.my/9Ahx.T" target="_blank" rel="noopener noreferrer">https://rfi.my/9Ahx.T</a>
 
-### 145: [2023-02-19 04:32:40+08:00 推文](https://twitter.com/HeQinglian/status/1627043443158712322)
+### 146: [2023-02-19 04:32:40+08:00 推文](https://twitter.com/HeQinglian/status/1627043443158712322)
 
 气球危机难化解 王毅批美方反应 “歇斯底里”<br><br>记者询问王是否会见布林肯时，王微笑着拒绝置评（估计大概率不会与布林肯在走廊相遇并亲切交谈）。<br>王再次呼吁在乌克兰问题展开对话，并建议欧洲冷静思考如何结束战争，“有一些势力似乎不希望谈判成功，也不希望战争很快结束。” <a href="https://p.dw.com/p/4Ngsj" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4Ngsj</a>
 
-### 146: [2023-02-19 04:34:39+08:00 推文](https://twitter.com/HeQinglian/status/1627043942180204544)
+### 147: [2023-02-19 04:34:39+08:00 推文](https://twitter.com/HeQinglian/status/1627043942180204544)
 
 Re @dinglili7 这是应该的，UN官员节约一点就行了。
 
-### 147: [2023-02-19 04:38:11+08:00 推文](https://twitter.com/HeQinglian/status/1627044832425414662)
+### 148: [2023-02-19 04:38:11+08:00 推文](https://twitter.com/HeQinglian/status/1627044832425414662)
 
 Re @Lucs24659702 贵族不是老想将自己与其他少数族隔离么？这种学校，自我发展好，全是贵族更好。
 
-### 148: [2023-02-19 04:44:35+08:00 推文](https://twitter.com/HeQinglian/status/1627046440068599810)
+### 149: [2023-02-19 04:44:35+08:00 推文](https://twitter.com/HeQinglian/status/1627046440068599810)
 
 Re 以上，就是西方期盼很久的中方出席慕安会的结果。<br>布林肯与美方通过种种途径热切表达“走廊外交”的愿望，在汪文斌说拜登没资格与习近平通话之后，这愿望应该也泡汤了。<br>另据国内消息：王毅宣布，中方将发布“关于政治解决乌克兰危机的中国立场”，读后希望西方不至于太失望。
 
-### 149: [2023-02-19 10:47:12+08:00 推文](https://twitter.com/HeQinglian/status/1627137698258460672)
+### 150: [2023-02-19 10:47:12+08:00 推文](https://twitter.com/HeQinglian/status/1627137698258460672)
 
 Re @FlyInRainS3 @dinglili7 乌克兰交过付费吗？<br>似乎是美、日、英、欧盟、中国等承担了95%左右吧？
 
-### 150: [2023-02-19 10:49:47+08:00 推文](https://twitter.com/HeQinglian/status/1627138347742240768)
+### 151: [2023-02-19 10:49:47+08:00 推文](https://twitter.com/HeQinglian/status/1627138347742240768)
 
 Re @kiyomi_taka 不明白何以得出这结论？昨天汪文斌的讲话 你看过没有？
 
-### 151: [2023-02-19 10:52:50+08:00 推文](https://twitter.com/HeQinglian/status/1627139114800754690)
+### 152: [2023-02-19 10:52:50+08:00 推文](https://twitter.com/HeQinglian/status/1627139114800754690)
 
 Re @shenliangqing2 实话实说，这种自贬，在美国我只见过中国大陆人。
 
-### 152: [2023-02-19 11:00:51+08:00 推文](https://twitter.com/HeQinglian/status/1627141133699522560)
+### 153: [2023-02-19 11:00:51+08:00 推文](https://twitter.com/HeQinglian/status/1627141133699522560)
 
 Re @HettyJ008 @zhixiangziyou 在美国，大概是十年前，我儿子还在大学期间时回家时说过一段流行语：如果你是白人男子，又是中产，不是同性恋，那你就完了——说的是找工作（技术专业要求不高的）。
 
-### 153: [2023-02-19 11:23:57+08:00 推文](https://twitter.com/HeQinglian/status/1627146944035409920)
+### 154: [2023-02-19 11:23:57+08:00 推文](https://twitter.com/HeQinglian/status/1627146944035409920)
 
 Re @kiyomi_taka 我更关心中美关系，这波之后，什么时候才阴转晴。中国外交，从来就不是外交部长等能够作主的事情。
 
-### 154: [2023-02-19 11:25:22+08:00 推文](https://twitter.com/HeQinglian/status/1627147303898292224)
+### 155: [2023-02-19 11:25:22+08:00 推文](https://twitter.com/HeQinglian/status/1627147303898292224)
 
 Re @Lucs24659702 她的上帝应该在泰国居住。<br>希望她母子二人永生不要反悔。
+
+### 156: [2023-02-19 21:42:26+08:00 推文](https://twitter.com/HeQinglian/status/1627302590768635909)
+
+2月15日，西摩·赫什在接受美国Democracy Now！采访时表示：“美国炸毁北溪管道是多年来所作出的“最愚蠢决定之一”，这一事件对于欧洲造成的长期影响将是“可怕的”，“切断了他们可以完全依赖美国的念想，即使是在危机之中”，进一步削弱“本就极其无用”的北约联盟。 <a href="https://www.democracynow.org/2023/2/15/nord_stream_sy_hersh" target="_blank" rel="noopener noreferrer">https://www.democracynow.org/2023/2/15/nord_stream_sy_hersh</a>
+
+### 157: [2023-02-19 21:46:33+08:00 推文](https://twitter.com/HeQinglian/status/1627303626560479232)
+
+Re @ddiohnjingxu7 @Lucs24659702 你如果熟悉中国诉苦型塑阶级仇恨的历史，就知道群众是可以动员并引导的。
 
