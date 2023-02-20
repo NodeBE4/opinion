@@ -353,7 +353,7 @@ Re @JiangShangrong 我猜想，放也是有条件的，比如让他说出真相�
 
 ### 85: [2022-04-19 23:43:36+08:00 推文](https://twitter.com/HeQinglian/status/1516442399072993283)
 
-全球政治分裂——“三个世界”格局重现<br><br>美欧推行全球化先从经济开始，继之以社会与政治。<br>政治全球化主要藉颜色革命推行，在中俄从未成功，阿拉伯之春与南非彩虹革命则让世界心存疑虑。这次对俄全面经济制裁让经济全球化退回两个大国经济集团+140余个不结盟国家构成的第三世界。 <a href="https://www.epochtimes.com/gb/22/4/19/n13715415.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/4/19/n13715415.htm</a>
+RT He Qinglian<br>全球政治分裂——“三个世界”格局重现<br><br>美欧推行全球化先从经济开始，继之以社会与政治。<br>政治全球化主要藉颜色革命推行，在中俄从未成功，阿拉伯之春与南非彩虹革命则让世界心存疑虑。这次对俄全面经济制裁让经济全球化退回两个大国经济集团+140余个不结盟国家构成的第三世界。 <a href="https://www.epochtimes.com/gb/22/4/19/n13715415.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/4/19/n13715415.htm</a>
 
 ### 86: [2022-04-19 23:47:00+08:00 推文](https://twitter.com/HeQinglian/status/1516443255017201674)
 
@@ -545,7 +545,7 @@ Re @JianglinLi @Jason_2018 @RFI_Cn 拉黑这人，我立刻做。
 
 ### 133: [2022-04-20 23:30:03+08:00 推文](https://twitter.com/HeQinglian/status/1516801376969531397)
 
-2月14日，冷战大师马特洛克（美驻苏前大使，1987-1991）指出：我们正目睹一场精心策划、被严重放大的闹剧，以服务于国内政治目的。面对不断上升的通胀、covid-19的蹂躏、对阿富汗撤军的指责，以及未能获得本党对重建更好法案的全力支持。拜登政府得为今年的国会选举做准备……<br><br>He Qinglian: 拜登政府启动学生贷款审查，称将取消40,000名借款人的债务<br>教育部周二称这将纠正过去拒绝 360 万借款人免除学生贷款的错误，并将导致大约 40,000 名借款人的债务立即取消。<br>别小看这4万票，精准投放在某些选区，定会赢得选举。360万是个大票仓。<br> <a href="https://www.marketwatch.com/story/biden-administration-launches-student-loan-review-says-40-000-borrowers-will-see-debt-canceled-11650391220?mod=mw_more_headlines" target="_blank" rel="noopener noreferrer">https://www.marketwatch.com/story/biden-administration-launches-student-loan-review-says-40-000-borrowers-will-see-debt-canceled-11650391220?mod=mw_more_headlines</a>
+2月14日，冷战大师马特洛克（美驻苏前大使，1987-1991）指出：我们正目睹一场精心策划、被严重放大的闹剧，以服务于国内政治目的。面对不断上升的通胀、covid-19的蹂躏、对阿富汗撤军的指责，以及未能获得本党对重建更好法案的全力支持。拜登政府得为今年的国会选举做准备…… <a href="https://www.democracynow.org/2022/2/17/jack_matlock_ukraine_russia_nato_us" target="_blank" rel="noopener noreferrer">https://www.democracynow.org/2022/2/17/jack_matlock_ukraine_russia_nato_us</a>
 
 ### 134: [2022-04-20 23:33:50+08:00 推文](https://twitter.com/HeQinglian/status/1516802326861914122)
 
@@ -697,7 +697,7 @@ Re @zwvrhwmjgx @pandatress1 你还有一丁点自尊心吗？<br>为什么不用
 
 ### 171: [2022-04-21 22:39:41+08:00 推文](https://twitter.com/HeQinglian/status/1517151090420051968)
 
-我一直没公开分享华邮2021 年 12 月 23 日 这篇《拜登政府正在研究如果莫斯科超越他们，如何战斗到最后一个乌克兰人》<br>其中提到：一位知识渊博的官员描述了该计划，其中包括向乌军队提供武器和其他支持以抵抗入侵的俄罗斯军队的方法。灵感从十年阿富汗战争中打败苏军中来。<br><br>zhix: @JianglinLi @dongle_smith @HeQinglian 还会让更多无辜的人去送死😂<br>
+我一直没公开分享华邮2021 年 12 月 23 日 这篇《拜登政府正在研究如果莫斯科超越他们，如何战斗到最后一个乌克兰人》<br>其中提到：一位知识渊博的官员描述了该计划，其中包括向乌军队提供武器和其他支持以抵抗入侵的俄罗斯军队的方法。灵感从十年阿富汗战争中打败苏军中来。 <a href="https://www.washingtonpost.com/opinions/2021/12/19/biden-ukraine-insurgents-russia/" target="_blank" rel="noopener noreferrer">https://www.washingtonpost.com/opinions/2021/12/19/biden-ukraine-insurgents-russia/</a>
 
 ### 172: [2022-04-21 23:05:44+08:00 推文](https://twitter.com/HeQinglian/status/1517157642434662406)
 
@@ -857,7 +857,7 @@ Re @Wu_Zhi 还有一大帮生活在不用为乌克兰支付代理人费用的国
 
 ### 211: [2022-04-23 01:05:05+08:00 推文](https://twitter.com/HeQinglian/status/1517550065660878851)
 
-拜登也没达到目的：<br>The Hill报导，昆尼皮亚克大学（Quinnipiac University）日前公布的一项民调发现，拜登当前的支持率只有33%，标志着他在昆尼皮亚克大学民调记录中的最低点。他在拉美裔选民中的支持率更低，仅26%。<br>乌克兰人的血、美国纳税人与通胀掠夺来的钱、盟友的经济，未换来拜登支持率的上升
+拜登也没达到目的：<br>The Hill报导，昆尼皮亚克大学（Quinnipiac University）日前公布的一项民调发现，拜登当前的支持率只有33%，标志着他在昆尼皮亚克大学民调记录中的最低点。他在拉美裔选民中的支持率更低，仅26%。<br>乌克兰人的血、美国纳税人与通胀掠夺来的钱、盟友的经济，未换来拜登支持率的上升<br><br>He Qinglian: 2月14日，冷战大师马特洛克（美驻苏前大使，1987-1991）指出：我们正目睹一场精心策划、被严重放大的闹剧，以服务于国内政治目的。面对不断上升的通胀、covid-19的蹂躏、对阿富汗撤军的指责，以及未能获得本党对重建更好法案的全力支持。拜登政府得为今年的国会选举做准备……<br> <a href="https://www.democracynow.org/2022/2/17/jack_matlock_ukraine_russia_nato_us" target="_blank" rel="noopener noreferrer">https://www.democracynow.org/2022/2/17/jack_matlock_ukraine_russia_nato_us</a> <a href="https://twitter.com/HeQinglian/status/1516780090457301008" target="_blank" rel="noopener noreferrer">https://twitter.com/HeQinglian/status/1516780090457301008</a>
 
 ### 212: [2022-04-23 02:54:50+08:00 推文](https://twitter.com/HeQinglian/status/1517577686033518594)
 
