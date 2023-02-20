@@ -13,17 +13,17 @@ title: EnclavedMicrostate在2023-02-20~2023-02-26的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 1117: [How "holy" is the holy land?](https://old.reddit.com/r/AskHistorians/comments/116ptty/how_holy_is_the_holy_land/), submitted on 2023-02-20 06:23:41+08:00.
+### 1118: [How "holy" is the holy land?](https://old.reddit.com/r/AskHistorians/comments/116ptty/how_holy_is_the_holy_land/), submitted on 2023-02-20 06:23:41+08:00.
 
------ __1117.1__ -----2023-02-20 08:44:37+08:00:
+----- __1118.1__ -----2023-02-20 08:44:37+08:00:
 
 This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
-### 1118: [What romanization scheme was in use for the Chinese in the State of Manchukuo?](https://old.reddit.com/r/AskHistorians/comments/1171m81/what_romanization_scheme_was_in_use_for_the/), submitted on 2023-02-20 16:31:23+08:00.
+### 1119: [What romanization scheme was in use for the Chinese in the State of Manchukuo?](https://old.reddit.com/r/AskHistorians/comments/1171m81/what_romanization_scheme_was_in_use_for_the/), submitted on 2023-02-20 16:31:23+08:00.
 
------ __1118.1__ -----2023-02-20 17:12:17+08:00:
+----- __1119.1__ -----2023-02-20 17:12:17+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
