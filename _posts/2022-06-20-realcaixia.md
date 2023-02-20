@@ -29,11 +29,11 @@ title: 'Twitter @蔡霞: 2022-06-20~2022-06-26'
 
 ### 4: [2022-06-21 07:56:58+08:00 推文](https://twitter.com/realcaixia/status/1539034604061040640)
 
-中共的极权体制流氓程度超过此前任何一个极权政权，他们把一切都藏在黑暗中，而后他们躲在黑暗中可以为所欲为，随心所欲地栽赃陷害。<br><br>Luo Shengchun丁家喜律师妻子: #强烈要求许志永丁家喜案公开开庭！早在2021年11月、12月志永与家喜便分别提出了开庭的三个基本要求，其中之一就是要求公开审理，附件是当时推特截图。厦门聚会不涉及任何国家秘密，丁许所倡导的一切也没有任何秘密。临沂中院公然违法私定密级，玩弄法律，搞黑箱操作，秘密审判，我们强烈谴责并抵制！<br><br><img style="" src="https://pbs.twimg.com/media/FVpTa5wWIAADFkg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVpTa51XoAwKL0x?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+中共的极权体制流氓程度超过此前任何一个极权政权，他们把一切都藏在黑暗中，而后他们躲在黑暗中可以为所欲为，随心所欲地栽赃陷害。
 
 ### 5: [2022-06-21 08:03:30+08:00 推文](https://twitter.com/realcaixia/status/1539036247766839296)
 
-他们把所有政治异见人士都打上颠覆罪。所有真正的民主选举国家，根本没有这条罪名，哪个政府敢立这条罪名，政府首脑首先自己将站在罪犯席上。中共当局这条罪名就是他们公开进行人权迫害的不可抵赖的罪证。
+他们把所有政治异见人士都打上颠覆罪。所有真正的民主选举国家，根本没有这条罪名，哪个政府敢立这条罪名，政府首脑首先自己将站在罪犯席上。中共当局这条罪名就是他们公开进行人权迫害的不可抵赖的罪证。<br><br>Luo Shengchun丁家喜律师妻子: 震惊最新消息：志永被控颠覆国家政权案将于2022年6月22日上午9时在山东省临沂市临沭县法院不公开开庭审理。<br><br>我真不敢相信自己的耳朵：志永怎么会答应不公开开庭？他们是不是给他灌药了？而且他们为什么突然不让律师会见家喜？是不是他们逼迫家喜同意不公开开庭，而家喜不答应就不让他见律师？真无耻！<br> <a href="https://twitter.com/luoshch/status/1537844902314254339" target="_blank" rel="noopener noreferrer">https://twitter.com/luoshch/status/1537844902314254339</a>
 
 ### 6: [2022-06-21 08:17:15+08:00 推文](https://twitter.com/realcaixia/status/1539039711850901506)
 
@@ -85,7 +85,7 @@ Re 刚才少说了几分钟，建议想多听者，从10分钟开始到30-32分�
 
 ### 18: [2022-06-25 21:52:10+08:00 推文](https://twitter.com/realcaixia/status/1540694340120416274)
 
-在北京时我去朋友家见过几次大律师，很文质彬彬很温和慈祥的老人。听他聊天很受教益。大律师病后曾有一段不能说话，后来恢复得很好。想起来恍如昨日，老人的音容笑貌犹在眼前。哀悼大律师，纪念大律师。作为后辈的我，会照着大律师的追求去做，让薪火代代相传。<br><br>韩连潮: 【悼念中国法治先行者张思之】张思之律师的逝去结束了一代法律人的追求，但他展现的死磕精神 --屡辩屡败，虽败尤荣，维护被诉者的辩护权，为蒙冤者呐喊 -- 开了中国法治之先河。对张先生最好的悼念就是承传其追求法治的精神，反思质疑，勇于担当，坚持任何人（包括党）都不得凌驾于法律之上的原则。<br><br><img style="" src="https://pbs.twimg.com/media/FWGIgsFWIAIJsks?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+在北京时我去朋友家见过几次大律师，很文质彬彬很温和慈祥的老人。听他聊天很受教益。大律师病后曾有一段不能说话，后来恢复得很好。想起来恍如昨日，老人的音容笑貌犹在眼前。哀悼大律师，纪念大律师。作为后辈的我，会照着大律师的追求去做，让薪火代代相传。
 
 ### 19: [2022-06-25 22:40:29+08:00 推文](https://twitter.com/realcaixia/status/1540706502675030018)
 
@@ -97,7 +97,7 @@ Re 人以群分物以类聚，价值观相同，追求一致的人迟早聚到�
 
 ### 21: [2022-06-26 02:35:37+08:00 推文](https://twitter.com/realcaixia/status/1540765676217982978)
 
-习为世界发展指明方向？！跟着习近平走就是走绝路。<br><br>Winnie Pooh: 清华小学直博博士为全球发展指明了方向<br><br><img style="" src="https://pbs.twimg.com/media/FWGY2FzVUAAkaZ0?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWGY3ZtUAAAOLZ8?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWGY49BVUAAozyl?format=png&amp;name=orig" referrerpolicy="no-referrer">
+习为世界发展指明方向？！跟着习近平走就是走绝路。
 
 ### 22: [2022-06-26 06:16:34+08:00 推文](https://twitter.com/realcaixia/status/1540821277321175043)
 
