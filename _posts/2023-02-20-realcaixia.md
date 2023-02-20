@@ -23,3 +23,11 @@ title: 'Twitter @蔡霞: 2023-02-20~2023-02-26'
 
 很有道理。<div class="rsshub-quote"><br><br>量子跃迁: 原创：洪流滚滚<br><br><img style="" src="https://pbs.twimg.com/media/FpVgwJRaYAEFLtS?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpVgwuUaEAEs9mE?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
 
+### 3: [2023-02-20 08:33:23+08:00 推文](https://twitter.com/realcaixia/status/1627466410715906048)
+
+习吹中国式现代化创造人类文明新形态：<br>贫富悬殊，中共国占世界前五位；<br>经济：⬇️面窥一斑而见全貌；<br>政治：习共党深陷塔西陀陷阱，   民众从白纸—烟花—白发革命…<br>法治：铁链女、唐山四女、胡鑫宇，公检法合演“胡芦僧判葫芦案”<br>生态：土地、江海河流、空气，无不带毒； <a href="https://m.youtube.com/watch?v=E-h3swakL_A" target="_blank" rel="noopener noreferrer">https://m.youtube.com/watch?v=E-h3swakL_A</a>
+
+### 4: [2023-02-20 08:55:12+08:00 推文](https://twitter.com/realcaixia/status/1627471898752987137)
+
+Re 教育、文化、科技创新😭<br><br>消费：各地裁员滚滚，收入维持不了生活，谁敢消费？企业倒闭、商店关门，市场半瘫，恶性循环。<br><br>国际关系：信誉扫地，空前孤立，交好国尽为恐怖国家：俄罗斯、北朝鲜、伊朗…<br><br>瘟疫与战争：源头尽在中共等恐怖国…<br><br>中国式现代化究竟是人类文明新新形态还是人类劫难新记录？！<br><img style="" src="https://pbs.twimg.com/media/FpXxEBtaMAAVtQs?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpXxEBtacAITan3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
