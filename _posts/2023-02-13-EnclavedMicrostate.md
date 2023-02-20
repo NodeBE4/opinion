@@ -123,3 +123,7 @@ The prominence of the idol narrative in English-language discussion is, IMO, ver
 
 The essential problem with this narrative of course is that it leads people to project a lot of ideas onto VTubers that simply aren't universally applicable, and which are outright wrong when the inaccurate stereotypical image of 'idols', as described in the linked post, is the one being held. VTubers as a whole are *far* more varied and nuanced than can be captured by the idea of 'idol culture', and while I will not demand that everyone starts watching them, I will say that it would be helpful if outsiders didn't just make assumptions based on a particular, distinct cultural phenomenon.
 
+----- __1117.2__ -----2023-02-21 02:46:30+08:00:
+
+It's certainly the perception from people I know through entirely non-fandom spaces, so it's true to my own experience at least.
+
