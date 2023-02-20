@@ -75,31 +75,67 @@ Re @_xiaohan 有一法对付这样的人：如果发现他们一年甚至几年�
 
 Re @fading_you1 那代人当真将“穷居陋巷，胸怀拯救天下苍生”的精神发挥到极致。令尊令堂可能比我大几岁（1950及此前），正好是红卫兵一代。<br>我中学读了一年，有位女老师姓梁，长相美，文才好，念这类诗时非常投入。但冬天的棉衣胸前常有油垢，袜子不同色。<br>那么美且有文才之人，本应是江南小轩窗下闲敲棋子听落花之人。
 
-### 16: [2023-02-21 01:08:25+08:00 推文](https://twitter.com/HeQinglian/status/1627716816721133570)
+### 16: [2023-02-21 01:05:26+08:00 推文](https://twitter.com/HongfuDing/status/1627716068125835325)
+
+RT Hongfu Ding<br>Re @USABelAir2021 歷史必將證明，這是一個錯誤的美國總統，在一個錯誤的時間，前往一個錯誤的地點，打一場錯誤的戰爭。
+
+### 17: [2023-02-21 01:08:25+08:00 推文](https://twitter.com/HeQinglian/status/1627716816721133570)
 
 Re @JianglinLi @dinglili7 这是“革命情怀高于天”的表现。犹记“我愿这地下的烈火，将我与这具活棺材”一起烧掉，都是为了一己之理想（其实是一己之利），要让天下苍生为自己陪葬之人。<br>我们这年龄是当红小兵（我因家庭出身没资格）的料，看着大几岁的兄姐辈闹腾，记得这些。
 
-### 17: [2023-02-21 01:52:39+08:00 推文](https://twitter.com/HeQinglian/status/1627727949309804544)
+### 18: [2023-02-21 01:52:39+08:00 推文](https://twitter.com/HeQinglian/status/1627727949309804544)
 
 Re @JJH_Chi @JianglinLi @dinglili7 波士顿市西北的Somerville正式成为美国第一个通过承认多重伴侣关系（polyamory）合法化的城市。该市法律将家庭伙伴关系定义为 “由多人（people）组成的实体”。简言之，“多重伴侣家庭”就是包含“一夫多妻”、“一妻多夫”和交叉性关系的“群婚”制。 <br>另一个自己查吧。给过多次链接 <a href="https://www.usatoday.com/story/news/nation/2020/07/02/polyamory-massachusetts-city-somerville-relationships-us/5370718002/" target="_blank" rel="noopener noreferrer">https://www.usatoday.com/story/news/nation/2020/07/02/polyamory-massachusetts-city-somerville-relationships-us/5370718002/</a>
 
-### 18: [2023-02-21 01:55:19+08:00 推文](https://twitter.com/HeQinglian/status/1627728621040201728)
+### 19: [2023-02-21 01:55:19+08:00 推文](https://twitter.com/HeQinglian/status/1627728621040201728)
 
 Re @Lucs24659702 不是沉默，是媒体不会登载他们的声音。<br>十余年前，有部系列《美国犯罪故事》，谈的是近20年前的白人被黑人杀害的问题，那位受害男孩的妈妈就做过这类控诉。
 
-### 19: [2023-02-21 02:04:16+08:00 推文](https://twitter.com/HeQinglian/status/1627730873629003780)
+### 20: [2023-02-21 02:04:16+08:00 推文](https://twitter.com/HeQinglian/status/1627730873629003780)
 
 “伪造毛泽东诗词”的陈明远<br><br>经查，尊文所引两句作者是陈明远，伪托毛诗词。<br>作者评曰：【毛诗词“张扬”和“痴迷”甚至达到了以丑为美的地步，……所以从美学意义上说，陈氏诗词比毛诗词要更为纯粹一些，尽管他也不可能不受毛氏的影响。】<br>独未谈陈氏后红卫兵时代所思所想。<br>一笑<div class="rsshub-quote"><br><br>天降伟人包由检: @HeQinglian “赤遍寰球是我家”这句，我大概是从青春之歌作者杨沫的儿子老鬼写的《血色黄昏》看来的。这应该属于我父母那一代人的青春回忆，我是由此一斑略窥上一代人精神世界的全豹<br></div>
 
-### 20: [2023-02-21 02:11:34+08:00 推文](https://twitter.com/HeQinglian/status/1627732710180458506)
+### 21: [2023-02-21 02:11:34+08:00 推文](https://twitter.com/HeQinglian/status/1627732710180458506)
 
 Re @franktianxie 前半句对，后半句有点扯。<br>中国在乌克兰战争中有什么预期的好处？就算能源获利，那是得西方制裁之利。就因中国不站队这么讲，不是事实。<br>美国政界常跑调，与中国要做“战略伙伴”时，千好万好一朵花。如今是“竞争伙伴”了，凡事有的没的硬挂上就好。包括俄亥俄州事件说是大外宣制造的，与中共宣传有一比。
 
-### 21: [2023-02-21 02:16:43+08:00 推文](https://twitter.com/HeQinglian/status/1627734006270771201)
+### 22: [2023-02-21 02:16:43+08:00 推文](https://twitter.com/HeQinglian/status/1627734006270771201)
 
 Re 有些人在“后红卫兵时代”成了思想化石。一辈子定格在自认为最辉煌的时代，我以前在国内偶然回家乡，遇见当年的红卫兵大哥们，听他们“回忆当年话今朝”，就开始充分修炼“维和”功夫——最开始傻，会说几句话，比如，他们的评论今朝“不是这样……”。再后来发现还是将美好留在记忆中最合适。
 
-### 22: [2023-02-21 02:18:35+08:00 推文](https://twitter.com/HeQinglian/status/1627734474032091152)
+### 23: [2023-02-21 02:18:35+08:00 推文](https://twitter.com/HeQinglian/status/1627734474032091152)
 
 Re @JJH_Chi @JianglinLi @dinglili7 那地方的左疯，是文疯，有理论支撑，还增加了一县。如果你考察之下发现有新成果，务必通知一声。<br>他们不象BLM，动辄打砸抢，“拿回我们的财产”，弄出人命。
+
+### 24: [2023-02-21 05:59:44+08:00 推文](https://twitter.com/HeQinglian/status/1627790129157791744)
+
+Re @franktianxie Green的话，不是将来式，是现在式。
+
+### 25: [2023-02-21 06:02:02+08:00 推文](https://twitter.com/HeQinglian/status/1627790707946582017)
+
+Re @akakak474747 @franktianxie 我说的是中国不站到西方队伍里来。有必要如此定向敏感么？挂到外交部口径，我也不怕，因为黑的说不成白的。<br>不要明知故问。至于中国没有援助俄罗斯武器，那是拜登、布林肯说的，你去查查。
+
+### 26: [2023-02-21 06:06:56+08:00 推文](https://twitter.com/HeQinglian/status/1627791940077989888)
+
+Re @Lucs24659702 共产主义1.0违背人性，还只是忽视了人的好逸恶劳天性，以为公有制能够激发人向上努力。共产主义2.0违背人性，因高福利已经完成社会分配，深入到从道德层面、审美层面与天然性别。
+
+### 27: [2023-02-21 06:18:28+08:00 推文](https://twitter.com/HeQinglian/status/1627794845589708806)
+
+Re @zach_osaka 社会科学分析，不是统计学分析，后者可以回归分析，前者不能这样。<br>1、全球化30多年，有前期、中后期，中后期出现问题，发达国家自己也注意到。《哈佛商业评论》数年前发表过调查报告；<br>2、听到不同意见后，第一反应不是跳起来，而是过过脑子，了解一点基本常识。否则你永远就在原地踏步。
+
+### 28: [2023-02-21 06:35:17+08:00 推文](https://twitter.com/HeQinglian/status/1627799074924552193)
+
+Re @solonch @_xiaohan 好对联。可惜，就算是该报中文版的编辑以及不问事实、凡“纽时说的必定是对的”，不太懂这副对联的典故。
+
+### 29: [2023-02-21 06:44:39+08:00 推文](https://twitter.com/HeQinglian/status/1627801433138503681)
+
+【拜登的领导经历了一系列无以复加的灾难和失败。<br>美国人承受着拜登政府和国会民主党人不计后果的开支的负担，导致通胀达到40年来的最高水平。<br>从旧金山到纽约，暴力犯罪在美国各大中城市激增，许多人失去了生活安全感。<br>边境发生明显的人道主义和国家安全危机。<br>拜登的领导下，世界变得更不安全。】<div class="rsshub-quote"><br><br>《北美保守评论》: 《川普已经经过了测试：这很重要》<br><br>今天是一年一度的总统日，我们在这里和广大读者们一起缅怀为美国的独立、自由和繁荣做出过非凡贡献的伟大的总统 —— 特别是乔治·华盛顿总统和亚伯拉罕·林肯总统。我们也将这个节日献给当代最伟大的美国第45任总统 —— 唐纳德·川普。…<br><br><img style="" src="https://pbs.twimg.com/media/FpbTxDaWABU85lS?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://nacr.info/WordPress/index.php/2023/02/20/trump-is-tested-that-matters/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2023/02/20/trump-is-tested-that-matters/</a> <a href="https://twitter.com/i/web/status/1627721612060393487" target="_blank" rel="noopener noreferrer">https://twitter.com/i/web/status/1627721612060393487</a></div>
+
+### 30: [2023-02-21 06:46:56+08:00 推文](https://twitter.com/HeQinglian/status/1627802006545989632)
+
+Re @LarrypageC @NAConservative9 今天翻查历史，确认了一点：里根时代的对华政策基调是“引导、帮助中国改革”，福特基金会那时进入中国，在中国为经济学界开办福特班，讲授西方经济学。与此同时，由美方出资，请中国官员、学者来美访问。
+
+### 31: [2023-02-21 06:58:03+08:00 推文](https://twitter.com/HeQinglian/status/1627804805660831744)
+
+纽约时报：美国人再次采用披露情报的策略 <br>消息概略：美国试图公布情报阻止中国援俄，称这是阻止中国向俄罗斯提供军事援助的手段之一，这样可以增加全球公众对中国支持俄罗斯的任何潜在行动的监督。并称这是重施去年3月之前华盛顿利用情报挫败俄罗斯战争的战略策略的一部分。 <a href="https://rfi.my/9B5J.T" target="_blank" rel="noopener noreferrer">https://rfi.my/9B5J.T</a>
 
