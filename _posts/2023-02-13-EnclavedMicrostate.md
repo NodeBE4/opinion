@@ -25,6 +25,12 @@ title: EnclavedMicrostate在2023-02-13~2023-02-19的言论
 
 It's what sometimes gets known as a 'glass cliff' – women who get to be put in places of corporate responsibility are often there because they will be the ones to take the fall if, or more often when, something goes wrong.
 
+----- __1107.3__ -----2023-02-21 17:46:54+08:00:
+
+> Classical opera BGM playing in the background
+
+It's Beethoven's Symphony No. 9 (the Ode to Joy), a choral symphony, not an opera.
+
 ### 1108: [Why were Chinese men so obsessed with the idea of widow chastity?](https://old.reddit.com/r/AskHistorians/comments/111m35g/why_were_chinese_men_so_obsessed_with_the_idea_of/), submitted on 2023-02-14 06:30:17+08:00.
 
 ----- __1108.1__ -----2023-02-14 18:16:12+08:00:
@@ -126,4 +132,8 @@ The essential problem with this narrative of course is that it leads people to p
 ----- __1117.2__ -----2023-02-21 02:46:30+08:00:
 
 It's certainly the perception from people I know through entirely non-fandom spaces, so it's true to my own experience at least.
+
+----- __1117.3__ -----2023-02-21 17:54:38+08:00:
+
+/r/worldbuilding has the effectively-official policy that you can post AI art if you can cite all the references. It is, in effect, a way of saying you cannot post AI art.
 
