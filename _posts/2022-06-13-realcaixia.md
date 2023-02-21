@@ -41,7 +41,7 @@ Re “摸着石头过河”的游戏已近“图穷匕首现”，公权力的�
 
 ### 7: [2022-06-19 04:52:29+08:00 推文](https://twitter.com/realcaixia/status/1538263403176857603)
 
-上海是这样的话，苏锡常地区都好不到哪里去，广东深圳也差不多一个样。清零清死了许多无辜的人；清死了大陆经济；清死了中共政府财政；就是没清死奥密克戎病毒。等着看清零最终能不能清死一党专政极权统治政权。<br><br>***堆: 复工复惨<br><br><video src="https://video.twimg.com/ext_tw_video/1537393279402405892/pu/vid/1280x720/8O3HogdMzFUIk6_B.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1537393279402405892/pu/img/6Tm5XmebD9Rnk3vy.jpg"></video>
+上海是这样的话，苏锡常地区都好不到哪里去，广东深圳也差不多一个样。清零清死了许多无辜的人；清死了大陆经济；清死了中共政府财政；就是没清死奥密克戎病毒。等着看清零最终能不能清死一党专政极权统治政权。
 
 ### 8: [2022-06-19 05:49:51+08:00 推文](https://twitter.com/realcaixia/status/1538277840705228800)
 
