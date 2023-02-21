@@ -179,3 +179,47 @@ Re @MichaelChen1119 @dinglili7 只能说，这些人真是特殊，跟风也不�
 
 Re @qi2p1AJP6kpdIki 等美媒宣布。<br>不过，难道各国都不自留种子，全依靠美国孟山都？
 
+### 42: [2023-02-21 22:50:12+08:00 推文](https://twitter.com/HeQinglian/status/1628044423207452673)
+
+Re @JianglinLi @Lucs24659702 维吉尼亚马桥中学那位被心理变性黑“女”强奸的女孩父母，都是铁杆民主党粉，父亲被以恐怖袭击罪名抓捕时大喊：“我是民主党支持者，不能这样对我！”<br>——与那些被BLM殴打后大喊“我支持BLM”的人一样，以为支持拜登民主党与没支持的人不一样，应该获得不同待遇。要求这些人去考虑恶法与司法变质几乎不可能。
+
+### 43: [2023-02-21 22:53:02+08:00 推文](https://twitter.com/HeQinglian/status/1628045136931217408)
+
+Re @lukyfell @Lucs24659702 “嘴炮王”？<br>你智商不够。
+
+### 44: [2023-02-21 22:56:11+08:00 推文](https://twitter.com/HeQinglian/status/1628045926920060932)
+
+Re @qqiaoqiao @Lucs24659702 原来，你只不信一条，不用追着我看。你还是去看另外一些人的吧，那些人天天说乌克兰必胜，包括美国著名记者发布的北溪调查，他们不想看，说成是无名者，信誉不好。去瞧瞧他们的，保管你信心爆棚。<br>真心拜托再也不要在我园子里出现。
+
+### 45: [2023-02-21 22:58:55+08:00 推文](https://twitter.com/HeQinglian/status/1628046616287449088)
+
+Re @washearg 除了美国还有些家底，其余的国家，就算了吧。
+
+### 46: [2023-02-21 23:05:51+08:00 推文](https://twitter.com/HeQinglian/status/1628048359180181507)
+
+Re @Lucs24659702 很多乌鸡血们，包括那位说自己“曾经是农民、永远是农民”的“瞧瞧桥”老妹子在内，不相信乌克兰的第10次征兵令，这是原推，信不信由他们，懂乌语的请好心一点翻译给她听，让她再也不要在见识上“永远是农民”。<div class="rsshub-quote"><br><br>绫波: 乌克兰泽连斯基发起第10次征兵令，打算征召100万名士兵。<br><br>征兵令中规定，成年男性65岁以上，85岁以下必须参军。<br><br><img style="" src="https://pbs.twimg.com/media/FpYOaBgaYAAL-9z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 47: [2023-02-21 23:08:41+08:00 推文](https://twitter.com/HeQinglian/status/1628049071679188993)
+
+Re @washearg 今年还有一个问题：英国出现蔬菜供应短缺。如果溯源，肯定又是俄之罪。 <a href="https://www.gbnews.uk/news/uk-supermarkets-forced-to-ration-products-as-difficult-conditions-sparks-shortages/445902" target="_blank" rel="noopener noreferrer">https://www.gbnews.uk/news/uk-supermarkets-forced-to-ration-products-as-difficult-conditions-sparks-shortages/445902</a>
+
+### 48: [2023-02-21 23:13:38+08:00 推文](https://twitter.com/HeQinglian/status/1628050320939941891)
+
+Re @qqiaoqiao @Lucs24659702 信息不对称，你说是自己永远是农民，眼前当然就是那一亩三分地。<br>交流的前提是信息、知识是否对称吧？<br>我其实已经请你去看一干乌鸡血的推了。如果还想看更多，我可以发一个专辑给你，一年以来的全在上面，是你的同好收集的。包你满意。
+
+### 49: [2023-02-21 23:18:51+08:00 推文](https://twitter.com/HeQinglian/status/1628051634184982530)
+
+Re @fading_you1 有误伤的，看来，左派总是擅长搞AB团。<br>这个误伤很严重：Yu曾经声明，谁说英雄泽连斯基半句不是，那就不是他朋友。<br>整个就是瞎扯，不过，能对乌鸡血做什么指望呢？连自我阉割的行为都被他们说成“进步”。
+
+### 50: [2023-02-21 23:23:20+08:00 推文](https://twitter.com/HeQinglian/status/1628052762440105984)
+
+Re @HettyJ008 这有个美国老电影记述了这个过程，电影名字我忘记了：但结束语我大致记得，与你讲的相同，幽默一点，最后一句是：到底是谁制造了今天的阿富汗？
+
+### 51: [2023-02-21 23:25:55+08:00 推文](https://twitter.com/HeQinglian/status/1628053412058222593)
+
+Re @qqiaoqiao @Lucs24659702 你在推上找出三个以上比我更严谨的吧？不要随口一说，你先指出我哪条错误？不是你不喜欢的观点，而是事实。如果指不出，别来了。<br>“同好”就是俄乌战争上，对你胃口的那些。OK？
+
+### 52: [2023-02-21 23:26:50+08:00 推文](https://twitter.com/HeQinglian/status/1628053641792786432)
+
+话说得这么直白，乌鸡血们又要来喷洒正义的热血了。<div class="rsshub-quote"><br><br>Isabel👑💎WW: 我再说一遍，挺俄需要更高门槛，因为需要对历史和现实重新认知，<br><br>挺乌不需要任何头脑，只需要情怀，而且这种情怀还是几十年人家灌输给你的。<br> <a href="https://twitter.com/123450terry/status/1627877464344231936" target="_blank" rel="noopener noreferrer">https://twitter.com/123450terry/status/1627877464344231936</a></div>
+
