@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-02-20
+date: 2023-02-21
 from: https://old.reddit.com/r/AskHistorians/comments/116ptty/how_holy_is_the_holy_land/
 layout: post
 tags:
@@ -44,4 +44,12 @@ I suppose that's less SEAD and more CEAD – Circumvention of Enemy Air Defence.
 ----- __1121.1__ -----2023-02-21 01:59:20+08:00:
 
 Doesn't look like bamboo to me – it's clearly metal tubing with metal brackets.
+
+### 1122: [I'm a Hellenistic tourist in 250 BC, on a mission to see all 7 Wonders of the World. After I finish, I'm hungry for more in farther away lands. Were I to travel outside the bounds of Alexander the Great's conquest, what place would be a candidate for an 8th Wonder during this time?](https://old.reddit.com/r/AskHistorians/comments/117p8mu/im_a_hellenistic_tourist_in_250_bc_on_a_mission/), submitted on 2023-02-21 08:19:26+08:00.
+
+----- __1122.1__ -----2023-02-21 20:42:43+08:00:
+
+This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
+
+For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
