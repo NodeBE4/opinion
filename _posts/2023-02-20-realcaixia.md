@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2023-02-20
+date: 2023-02-21
 from: https://twitter.com/realcaixia/status/1627360581853528064
 layout: post
 tags:
@@ -30,4 +30,12 @@ title: 'Twitter @蔡霞: 2023-02-20~2023-02-26'
 ### 4: [2023-02-20 08:55:12+08:00 推文](https://twitter.com/realcaixia/status/1627471898752987137)
 
 Re 教育、文化、科技创新😭<br><br>消费：各地裁员滚滚，收入维持不了生活，谁敢消费？企业倒闭、商店关门，市场半瘫，恶性循环。<br><br>国际关系：信誉扫地，空前孤立，交好国尽为恐怖国家：俄罗斯、北朝鲜、伊朗…<br><br>瘟疫与战争：源头尽在中共等恐怖国…<br><br>中国式现代化究竟是人类文明新新形态还是人类劫难新记录？！<br><img style="" src="https://pbs.twimg.com/media/FpXxEBtaMAAVtQs?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpXxEBtacAITan3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2023-02-21 07:31:18+08:00 推文](https://twitter.com/realcaixia/status/1627813171519168513)
+
+Re @reallijiakun 中庸是不走极端。
+
+### 6: [2023-02-21 08:07:20+08:00 推文](https://twitter.com/realcaixia/status/1627822241848377344)
+
+这个央视播音员真和习近平文化水平一般“高”吗？同样小学毕业、初中还正经读过？简直是自取其辱，无耻到不惜自黑自污来迎合统治者习近平、民间义和团吗？<br>这个年纪至少还得活三四十年吧？嘴里能说出这样无知无耻不要脸的话，等习和中共倒台，他如何面对观众听众，如何面对他的儿女和孙辈？！这人名字？<div class="rsshub-quote"><br><br>李老师不是你老师: 成本17美分的百元美钞应该价值多少美元？<br><br><video src="https://video.twimg.com/ext_tw_video/1627815198353489922/pu/vid/592x1280/o4Qe1hZ0_TbejyFL.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1627815198353489922/pu/img/2xqiv6z_hbNcS0gu.jpg"></video></div>
 

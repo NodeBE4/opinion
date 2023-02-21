@@ -31,9 +31,17 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 1120: [End of shift of a tower crane operator.](https://old.reddit.com/r/interestingasfuck/comments/1178al4/end_of_shift_of_a_tower_crane_operator/), submitted on 2023-02-20 22:42:06+08:00.
+### 1120: [What what were the operational and tactical factors which led to the failure of the Russian airborne forces to establish a an air bridge during the Battle of Hostomel Airport?](https://old.reddit.com/r/WarCollege/comments/1177jdx/what_what_were_the_operational_and_tactical/), submitted on 2023-02-20 22:07:20+08:00.
 
------ __1120.1__ -----2023-02-21 01:59:20+08:00:
+----- __1120.1__ -----2023-02-21 08:36:55+08:00:
+
+> b. Landing somewhere safe and moving onto the objective.
+
+I suppose that's less SEAD and more CEAD – Circumvention of Enemy Air Defence.
+
+### 1121: [End of shift of a tower crane operator.](https://old.reddit.com/r/interestingasfuck/comments/1178al4/end_of_shift_of_a_tower_crane_operator/), submitted on 2023-02-20 22:42:06+08:00.
+
+----- __1121.1__ -----2023-02-21 01:59:20+08:00:
 
 Doesn't look like bamboo to me – it's clearly metal tubing with metal brackets.
 
