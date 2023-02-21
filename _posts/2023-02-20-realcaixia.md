@@ -57,9 +57,13 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fphas_zaMAMf-a6?format=jpg
 
 ### 11: [2023-02-22 06:02:15+08:00 推文](https://twitter.com/realcaixia/status/1628153150954950656)
 
-凡恐怖国家平时都会训练孩子学用武器，到战争时期，孩子们被送上战场做炮灰。生长在恐怖国家的孩子们命运多舛，甚之生命就定格在少年时期。<div class="rsshub-quote"><br><br>ZHANGDONG: 俄罗斯幼儿园，和中国小学生有一比。可怜的孩子们从小被军国主义毒化。<br></div>
+凡恐怖国家平时都会训练孩子学用武器，到战争时期，孩子们被送上战场做炮灰。生长在恐怖国家的孩子们命运多舛，甚之生命就定格在少年时期。<div class="rsshub-quote"><br><br>ZHANGDONG: 俄罗斯幼儿园，和中国小学生有一比。可怜的孩子们从小被军国主义毒化。<br> <a href="https://twitter.com/Gerashchenko_en/status/1627712977276227584" target="_blank" rel="noopener noreferrer">https://twitter.com/Gerashchenko_en/status/1627712977276227584</a></div>
 
 ### 12: [2023-02-22 06:31:11+08:00 推文](https://twitter.com/realcaixia/status/1628160432107098114)
 
 习控制的政府给俄军提供军粮，是比提供常规武器还严重的援助普京侵略战争行为。<div class="rsshub-quote"><br><br>ZHANGDONG: 中国向俄军提供军粮，虽然不是致命武器，但是保命，算不算军援呢？战场上敌对双方唯一目的就是消灭对方，杀伤有生力量，你死我活。现在有一种声音主张和平谈判，但是只要求西方停止向乌克兰提供武器，而不要求普京撤军停火。这是虚伪的和平主义者，是偏袒侵略方俄罗斯，而让乌克兰放下武器最终灭国。<br><br><video src="https://video.twimg.com/ext_tw_video/1627708655838560266/pu/vid/720x1280/nT7r4Onn2h8RBM3K.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1627708655838560266/pu/img/OLWd_gPhC7t2y2RG.jpg"></video></div>
+
+### 13: [2023-02-22 06:35:45+08:00 推文](https://twitter.com/realcaixia/status/1628161581233078274)
+
+别说中国没一个孩子想，连成人都不敢想也不想想。<div class="rsshub-quote"><br><br>李隽🇦🇺: 听听这个少年说他为什么要上学，为什么学习知识。中国有一个孩子这样想吗？<br><br><video src="https://video.twimg.com/ext_tw_video/1627617293026070528/pu/vid/592x1280/-gK6VxJG6LBYZCW3.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1627617293026070528/pu/img/TfEwb2TZd83-BPZ1.jpg"></video></div>
 
