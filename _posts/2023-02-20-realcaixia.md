@@ -39,3 +39,11 @@ Re @reallijiakun 中庸是不走极端。
 
 这个央视播音员真和习近平文化水平一般“高”吗？同样小学毕业、初中还正经读过？简直是自取其辱，无耻到不惜自黑自污来迎合统治者习近平、民间义和团吗？<br>这个年纪至少还得活三四十年吧？嘴里能说出这样无知无耻不要脸的话，等习和中共倒台，他如何面对观众听众，如何面对他的儿女和孙辈？！这人名字？<div class="rsshub-quote"><br><br>李老师不是你老师: 成本17美分的百元美钞应该价值多少美元？<br><br><video src="https://video.twimg.com/ext_tw_video/1627815198353489922/pu/vid/592x1280/o4Qe1hZ0_TbejyFL.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1627815198353489922/pu/img/2xqiv6z_hbNcS0gu.jpg"></video></div>
 
+### 7: [2023-02-21 11:44:14+08:00 推文](https://twitter.com/realcaixia/status/1627876827011096576)
+
+街头出现习语朗读间，这可真是中国式现代化的一大发明创新。<div class="rsshub-quote"><br><br>Kingsley: @yajunwwz<br><br><img style="" src="https://pbs.twimg.com/media/FpZxKtEaMAE0-jk?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 8: [2023-02-21 11:46:01+08:00 推文](https://twitter.com/realcaixia/status/1627877274325336067)
+
+以言治罪。<div class="rsshub-quote"><br><br>亚军&amp;王歪嘴: 革委会<br><br><img style="" src="https://pbs.twimg.com/media/FpZr6U_aMAA1cZC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
