@@ -137,3 +137,7 @@ It's certainly the perception from people I know through entirely non-fandom spa
 
 /r/worldbuilding has the effectively-official policy that you can post AI art if you can cite all the references. It is, in effect, a way of saying you cannot post AI art.
 
+----- __1117.4__ -----2023-02-22 03:32:37+08:00:
+
+Listening through eyes is certainly an advanced skill.
+

@@ -33,7 +33,7 @@ Re @whisperCDX @cskun1989 15-20年前，我接触的台湾学界与文化界都�
 
 ### 5: [2022-07-04 09:46:00+08:00 推文](https://twitter.com/HeQinglian/status/1543773087661015041)
 
-7月1日路透发布英文消息：《美国官方消息：中国没有为俄罗斯在乌克兰的战争提供物质支持》，拜登政府一名高官在告诉路透，美商务部黑名单是针对企业，不是针对政府。<br><br>G7表态在前。由此可见，胡萝卜+大棒并用，美对华政策仍然处在战略摇摆状态，依据是中国经济前景不明朗。<br><br>华尔街日报中文网: #本周热读 美国及其在欧洲和亚洲的主要盟友正联合起来对抗中国，它们都将中国视为安全挑战，而且中方在乌克兰战争中对俄罗斯的支持更是令人不安。欧洲国家曾倾向于将中国视为一个经济机会，但最近对中国的强硬姿态显示出反感。<br> <a href="https://on.wsj.com/3NyRX9d" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3NyRX9d</a>
+7月1日路透发布英文消息：《美国官方消息：中国没有为俄罗斯在乌克兰的战争提供物质支持》，拜登政府一名高官在告诉路透，美商务部黑名单是针对企业，不是针对政府。<br><br>G7表态在前。由此可见，胡萝卜+大棒并用，美对华政策仍然处在战略摇摆状态，依据是中国经济前景不明朗。 <a href="https://www.reuters.com/world/china-not-giving-material-support-russias-war-ukraine-us-official-2022-07-01/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/china-not-giving-material-support-russias-war-ukraine-us-official-2022-07-01/</a>
 
 ### 6: [2022-07-04 09:48:32+08:00 推文](https://twitter.com/HeQinglian/status/1543773724310224897)
 
@@ -225,7 +225,7 @@ Re @franktianxie 我觉得，俄乌战争以来经济神话破灭得最彻底的
 
 ### 53: [2022-07-05 22:44:19+08:00 推文](https://twitter.com/HeQinglian/status/1544331343492009985)
 
-中国的节令是公历8月8日（或7日）立秋，西方的秋天大概也在8月，难怪乌克兰总理昨天说要在8月取得第一场可观的胜利（以前的胜利不可观？），白宫官员传拜登要在8月终战。<br>还是有始有终地好。不过，北约收获了新成员国，反俄力量壮大了。
+中国的节令是公历8月8日（或7日）立秋，西方的秋天大概也在8月，难怪乌克兰总理昨天说要在8月取得第一场可观的胜利（以前的胜利不可观？），白宫官员传拜登要在8月终战。<br>还是有始有终地好。不过，北约收获了新成员国，反俄力量壮大了。<br><br>Ezio Mao☢: 如果基辅在秋天之前不扭转局势，西方将开始削减援助。<br><br>《每日电讯报》参考其自己的消息来源对此进行了报道。<br><br>该出版物报道，西方集体逐渐得出结论，支持乌克兰毫无意义。<br><br><img style="" src="https://pbs.twimg.com/media/FW6P6l-UEAAAyPr?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 54: [2022-07-05 22:58:18+08:00 推文](https://twitter.com/HeQinglian/status/1544334862919811076)
 
@@ -329,7 +329,7 @@ Re @owenusa 快了，还差五公里，普京也差点被抓，只差那么一�
 
 ### 79: [2022-07-06 22:22:49+08:00 推文](https://twitter.com/HeQinglian/status/1544688323779764224)
 
-明白了。<br>那年，美国民主党在选前推出一个“红色幻影”的说法，并拟定了78天政变计划（给过AIXOS的链接）。<br>中国也做好了准备。<br>基于同一个原因：知道多米尼投票机将大显神威（2019年1月、2020年1月全美选举委员会听证会上专家均提及此机器来自中国，有两大问题）。<br>一切尽在不言中。<br><br>Ezio Mao☢: 这是老共两年前（2020年7月）提出来的，当时很多人还非常惊诧，其实就是提前布局，论下大棋，真的不是针对谁...啧啧啧<br><br><img style="" src="https://pbs.twimg.com/media/FW8rR_GaMAAYuy4?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+明白了。<br>那年，美国民主党在选前推出一个“红色幻影”的说法，并拟定了78天政变计划（给过AIXOS的链接）。<br>中国也做好了准备。<br>基于同一个原因：知道多米尼投票机将大显神威（2019年1月、2020年1月全美选举委员会听证会上专家均提及此机器来自中国，有两大问题）。<br>一切尽在不言中。
 
 ### 80: [2022-07-06 22:23:34+08:00 推文](https://twitter.com/HeQinglian/status/1544688512577986560)
 
@@ -421,7 +421,7 @@ Re @JianglinLi 这些人就是这么走过来的，当年挺郭、挺拜包括�
 
 ### 102: [2022-07-07 20:18:05+08:00 推文](https://twitter.com/HeQinglian/status/1545019318538326018)
 
-因为研究养成的习惯，总喜欢了解事情全过程，观其首尾。<br>从约翰逊首次郑重宣布“普京必须下台”，到现在也不过就三个多月而已。<br>世事之无常也还罢了，希望一干人忙着变脸时，认真想想这几个月世界发生了什么。<br>拜登如果不下台，美国现在的“民主”绝对有问题，英相主要祸害本国，拜登祸害要广得多。
+因为研究养成的习惯，总喜欢了解事情全过程，观其首尾。<br>从约翰逊首次郑重宣布“普京必须下台”，到现在也不过就三个多月而已。<br>世事之无常也还罢了，希望一干人忙着变脸时，认真想想这几个月世界发生了什么。<br>拜登如果不下台，美国现在的“民主”绝对有问题，英相主要祸害本国，拜登祸害要广得多。<br><br>jiang shangrong: 约翰逊宣布辞去首相职务。<br><br><video src="https://video.twimg.com/ext_tw_video/1545011890589507590/pu/vid/848x464/0v71lXJMNKLUrp8R.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1545011890589507590/pu/img/WaQ0CQQfM-9SPxwn.jpg"></video> <a href="https://t.me/JShangrong" target="_blank" rel="noopener noreferrer">https://t.me/JShangrong</a>
 
 ### 103: [2022-07-07 20:22:34+08:00 推文](https://twitter.com/HeQinglian/status/1545020449410752514)
 
@@ -701,7 +701,7 @@ RT 纳姐 全媒体首席主播，全媒体美国小镇镇长<br>拜登老婆�
 
 ### 172: [2022-07-10 03:56:25+08:00 推文](https://twitter.com/HeQinglian/status/1545859437658783745)
 
-RT He Qinglian<br>Re @Wu_Zhi @JianglinLi 西方媒体正在忙于报道G20俄外长先离场之事，为西方团结冷落俄罗斯高兴不已。<br>BTW，不管是否愿意看到，这次G20王毅成了主角。中方向美方提出四份清单：要求美纠正错误对华政策和言行的清单、中方关切的重点个案清单、中方重点关切的涉华法案清单、中美8个领域合作清单。<br>拜登对华外交办成这样，无语。
+Re @Wu_Zhi @JianglinLi 西方媒体正在忙于报道G20俄外长先离场之事，为西方团结冷落俄罗斯高兴不已。<br>BTW，不管是否愿意看到，这次G20王毅成了主角。中方向美方提出四份清单：要求美纠正错误对华政策和言行的清单、中方关切的重点个案清单、中方重点关切的涉华法案清单、中美8个领域合作清单。<br>拜登对华外交办成这样，无语。
 
 ### 173: [2022-07-10 03:58:59+08:00 推文](https://twitter.com/HeQinglian/status/1545860082692399106)
 
