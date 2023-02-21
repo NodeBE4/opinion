@@ -225,7 +225,7 @@ Re @qqiaoqiao @Lucs24659702 你在推上找出三个以上比我更严谨的吧�
 
 ### 53: [2023-02-21 23:26:50+08:00 推文](https://twitter.com/HeQinglian/status/1628053641792786432)
 
-话说得这么直白，乌鸡血们又要来喷洒正义的热血了。<div class="rsshub-quote"><br><br>Isabel👑💎WW: 我再说一遍，挺俄需要更高门槛，因为需要对历史和现实重新认知，<br><br>挺乌不需要任何头脑，只需要情怀，而且这种情怀还是几十年人家灌输给你的。<br> <a href="https://twitter.com/123450terry/status/1627877464344231936" target="_blank" rel="noopener noreferrer">https://twitter.com/123450terry/status/1627877464344231936</a></div>
+话说得这么直白，乌鸡血们又要来喷洒正义的热血了。<div class="rsshub-quote"><br><br>Isabel👑💎WW: 我再说一遍，挺俄需要更高门槛，因为需要对历史和现实重新认知，<br><br>挺乌不需要任何头脑，只需要情怀，而且这种情怀还是几十年人家灌输给你的。<br></div>
 
 ### 54: [2023-02-21 23:31:02+08:00 推文](https://twitter.com/HeQinglian/status/1628054698199552002)
 
@@ -266,4 +266,16 @@ Re @woaijinpinmei @Nobody197575 知道的华拜粉普及一下，不懂就说是
 ### 63: [2023-02-22 01:42:36+08:00 推文](https://twitter.com/HeQinglian/status/1628087809339797524)
 
 Re @qqiaoqiao @Lucs24659702 这位在推上，去问就是。<br>我说过，核实过多条，我相信她。没时间陪聊，你继续支持乌克兰，我与你不一样，尊重你的选择。而且，尊重你离开我园子的选择，不为你们浪费时间。今天太浪费了。
+
+### 64: [2023-02-22 05:00:27+08:00 推文](https://twitter.com/HeQinglian/status/1628137599020765209)
+
+Re @Jenny67470141 @lianghuiwang2 保守派在这事上缺乏识辨能力，支持拜登，说明这些人并不具备保守派的常识。
+
+### 65: [2023-02-22 05:03:02+08:00 推文](https://twitter.com/HeQinglian/status/1628138250790440961)
+
+Re @Lucs24659702 这位市长真的挺糊涂，给乌克兰的是数百万美元吗？我想弄清楚他是民主党人还是共和党人。
+
+### 66: [2023-02-22 05:09:57+08:00 推文](https://twitter.com/HeQinglian/status/1628139990533214238)
+
+Re @zhixiangziyou 不少拿了民主党资助的华人（不管是民、维还是以独立面目出现的），都说这是中共大外宣的阴谋，空气、水没有毒——有节目与推文为证。
 

@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2023-02-21
+date: 2023-02-22
 from: https://twitter.com/realcaixia/status/1627360581853528064
 layout: post
 tags:
@@ -46,4 +46,20 @@ Re @reallijiakun 中庸是不走极端。
 ### 8: [2023-02-21 11:46:01+08:00 推文](https://twitter.com/realcaixia/status/1627877274325336067)
 
 以言治罪。<div class="rsshub-quote"><br><br>亚军&amp;王歪嘴: 革委会<br><br><img style="" src="https://pbs.twimg.com/media/FpZr6U_aMAA1cZC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 9: [2023-02-22 05:43:44+08:00 推文](https://twitter.com/realcaixia/status/1628148492396003328)
+
+特别推荐：长沙一个NGO组织创始人程渊，一直在从事维护权利平等活动，尤其对底层民众。他在他被监禁的3年半被剥夺合法权利，被判罪，被强制劳动等，他始终不屈服。<br>他的妻子施明磊同样非常了不起，勇敢站出来公开揭露中共黑监狱的种种黑内幕。请关注和支持程渊和施明磊。 <a href="https://youtu.be/9PGPK5eHnaQ" target="_blank" rel="noopener noreferrer">https://youtu.be/9PGPK5eHnaQ</a>
+
+### 10: [2023-02-22 05:53:43+08:00 推文](https://twitter.com/realcaixia/status/1628151001617412103)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/Fphas_zaMAMf-a6?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fphas_zaMAciWUY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fphas_zaMAgPJI9?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fphas_0aMAIA1bM?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 11: [2023-02-22 06:02:15+08:00 推文](https://twitter.com/realcaixia/status/1628153150954950656)
+
+凡恐怖国家平时都会训练孩子学用武器，到战争时期，孩子们被送上战场做炮灰。生长在恐怖国家的孩子们命运多舛，甚之生命就定格在少年时期。<div class="rsshub-quote"><br><br>ZHANGDONG: 俄罗斯幼儿园，和中国小学生有一比。可怜的孩子们从小被军国主义毒化。<br></div>
+
+### 12: [2023-02-22 06:31:11+08:00 推文](https://twitter.com/realcaixia/status/1628160432107098114)
+
+习控制的政府给俄军提供军粮，是比提供常规武器还严重的援助普京侵略战争行为。<div class="rsshub-quote"><br><br>ZHANGDONG: 中国向俄军提供军粮，虽然不是致命武器，但是保命，算不算军援呢？战场上敌对双方唯一目的就是消灭对方，杀伤有生力量，你死我活。现在有一种声音主张和平谈判，但是只要求西方停止向乌克兰提供武器，而不要求普京撤军停火。这是虚伪的和平主义者，是偏袒侵略方俄罗斯，而让乌克兰放下武器最终灭国。<br><br><video src="https://video.twimg.com/ext_tw_video/1627708655838560266/pu/vid/720x1280/nT7r4Onn2h8RBM3K.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1627708655838560266/pu/img/OLWd_gPhC7t2y2RG.jpg"></video></div>
 
