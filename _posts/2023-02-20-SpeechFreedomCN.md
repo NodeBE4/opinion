@@ -1,0 +1,25 @@
+---
+author: SpeechFreedomCN
+categories:
+- Twitter
+date: 2023-02-22
+from: https://twitter.com/SpeechFreedomCN/status/1628367633513951236
+layout: post
+tags:
+- Twitter
+title: 'Twitter @中国文字狱事件盘点: 2023-02-20~2023-02-26'
+---
+
+收录近年中国因言获罪案件/Documenting China’s violation of #speechfreedom. Summary Sheet/总表：https://t.co/T9XT429Wdt; Verdicts/判决书: https://t.co/rzOxnudsQc 
+
+* This will become a table of contents (this text will be scrapped).
+{:toc}
+
+### 1: [2023-02-22 20:14:32+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1628367633513951236)
+
+福建省仙游县男子郑某，因在朋友圈发布了一条内容，指责交警“就跟土匪没什么区别……道德沦丧、毫无人性、天理难容……”，被认定为辱警并被拘留4日。<br><img style="" src="https://pbs.twimg.com/media/FpkfbqzWIAEJrjn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 2: [2023-02-22 20:15:47+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1628367951777734659)
+
+Fujian man Zheng detained for 4 days for accusing local police of "being no different from bandits, immoral, inhumane and unforgivable" in a WeChat Moments post.<br><img style="" src="https://pbs.twimg.com/media/FpkfwbtXoAE6IsH?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
