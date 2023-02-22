@@ -57,7 +57,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fphas_zaMAMf-a6?format=jpg
 
 ### 11: [2023-02-22 06:02:15+08:00 推文](https://twitter.com/realcaixia/status/1628153150954950656)
 
-凡恐怖国家平时都会训练孩子学用武器，到战争时期，孩子们被送上战场做炮灰。生长在恐怖国家的孩子们命运多舛，甚之生命就定格在少年时期。<div class="rsshub-quote"><br><br>ZHANGDONG: 俄罗斯幼儿园，和中国小学生有一比。可怜的孩子们从小被军国主义毒化。<br> <a href="https://twitter.com/Gerashchenko_en/status/1627712977276227584" target="_blank" rel="noopener noreferrer">https://twitter.com/Gerashchenko_en/status/1627712977276227584</a></div>
+凡恐怖国家平时都会训练孩子学用武器，到战争时期，孩子们被送上战场做炮灰。生长在恐怖国家的孩子们命运多舛，甚之生命就定格在少年时期。<div class="rsshub-quote"><br><br>ZHANGDONG: 俄罗斯幼儿园，和中国小学生有一比。可怜的孩子们从小被军国主义毒化。<br></div>
 
 ### 12: [2023-02-22 06:31:11+08:00 推文](https://twitter.com/realcaixia/status/1628160432107098114)
 

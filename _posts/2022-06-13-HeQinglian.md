@@ -341,7 +341,7 @@ Re 有个典故，看来经历过文革的也忘记了。<br>1970年代，有支
 
 ### 82: [2022-06-17 20:55:36+08:00 推文](https://twitter.com/HeQinglian/status/1537781002134863873)
 
-群魔乱舞。<br>华拜粉们带领儿女们去参加吧——一代而终，因为这都是无家可归之人。这家，指的是精神家园。<br>Liberal men与Women是心理上最不健康的，高吸毒率，高抑郁率，高家庭破碎率，喜欢回归丛林的原始状态。
+群魔乱舞。<br>华拜粉们带领儿女们去参加吧——一代而终，因为这都是无家可归之人。这家，指的是精神家园。<br>Liberal men与Women是心理上最不健康的，高吸毒率，高抑郁率，高家庭破碎率，喜欢回归丛林的原始状态。<br><br>Adaliab: They're not even hiding it anymore!<br><br><video src="https://video.twimg.com/ext_tw_video/1537500714443972608/pu/vid/560x352/c6edzy2w8y-GHEjF.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1537500714443972608/pu/img/gmhQPd6gCXSApcii.jpg"></video>
 
 ### 83: [2022-06-17 20:58:34+08:00 推文](https://twitter.com/HeQinglian/status/1537781748947353600)
 
