@@ -57,7 +57,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fphas_zaMAMf-a6?format=jpg
 
 ### 11: [2023-02-22 06:02:15+08:00 推文](https://twitter.com/realcaixia/status/1628153150954950656)
 
-凡恐怖国家平时都会训练孩子学用武器，到战争时期，孩子们被送上战场做炮灰。生长在恐怖国家的孩子们命运多舛，甚之生命就定格在少年时期。<div class="rsshub-quote"><br><br>ZHANGDONG: 俄罗斯幼儿园，和中国小学生有一比。可怜的孩子们从小被军国主义毒化。<br> <a href="https://twitter.com/Gerashchenko_en/status/1627712977276227584" target="_blank" rel="noopener noreferrer">https://twitter.com/Gerashchenko_en/status/1627712977276227584</a></div>
+凡恐怖国家平时都会训练孩子学用武器，到战争时期，孩子们被送上战场做炮灰。生长在恐怖国家的孩子们命运多舛，甚之生命就定格在少年时期。<div class="rsshub-quote"><br><br>ZHANGDONG: 俄罗斯幼儿园，和中国小学生有一比。可怜的孩子们从小被军国主义毒化。<br></div>
 
 ### 12: [2023-02-22 06:31:11+08:00 推文](https://twitter.com/realcaixia/status/1628160432107098114)
 
@@ -66,4 +66,12 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fphas_zaMAMf-a6?format=jpg
 ### 13: [2023-02-22 06:35:45+08:00 推文](https://twitter.com/realcaixia/status/1628161581233078274)
 
 别说中国没一个孩子想，连成人都不敢想也不想想。<div class="rsshub-quote"><br><br>李隽🇦🇺: 听听这个少年说他为什么要上学，为什么学习知识。中国有一个孩子这样想吗？<br><br><video src="https://video.twimg.com/ext_tw_video/1627617293026070528/pu/vid/592x1280/-gK6VxJG6LBYZCW3.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1627617293026070528/pu/img/TfEwb2TZd83-BPZ1.jpg"></video></div>
+
+### 14: [2023-02-22 08:15:55+08:00 推文](https://twitter.com/realcaixia/status/1628186790698917888)
+
+推荐这期岳戈节目。习召开20大政治局会议，放风再一次国家机构“改革”，实质是反动。习权欲熏心与绝对控制狂。<br>李强总理未坐定即被收权，李强或弱过李克强；二中全会机构改革规模大，中共教授怒批：哪还有党政分开！要求检讨三年疫控，哪位“民主党派”人士胆子如... <a href="https://youtu.be/gYwbKDW5Tr8" target="_blank" rel="noopener noreferrer">https://youtu.be/gYwbKDW5Tr8</a>
+
+### 15: [2023-02-22 08:29:55+08:00 推文](https://twitter.com/realcaixia/status/1628190312098107394)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/Fph-dRUXoAIuM1n?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

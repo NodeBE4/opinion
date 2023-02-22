@@ -279,3 +279,35 @@ Re @Lucs24659702 这位市长真的挺糊涂，给乌克兰的是数百万美元
 
 Re @zhixiangziyou 不少拿了民主党资助的华人（不管是民、维还是以独立面目出现的），都说这是中共大外宣的阴谋，空气、水没有毒——有节目与推文为证。
 
+### 67: [2023-02-22 05:41:56+08:00 推文](https://twitter.com/NAConservative9/status/1628148040321183744)
+
+RT 《北美保守评论》<br>《民族主义是“同一个世界的政府”的解药》<br><br>所谓“同一个世界的政府”就是我们常常说的统管全世界的… <a href="https://nacr.info/WordPress/index.php/2023/02/21/nationalism-is-the-antidote-to-one-world-government/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2023/02/21/nationalism-is-the-antidote-to-one-world-government/</a> <a href="https://twitter.com/i/web/status/1628148040321183744" target="_blank" rel="noopener noreferrer">https://twitter.com/i/web/status/1628148040321183744</a><br><img style="" src="https://pbs.twimg.com/media/FphXbi1X0AAI26W?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 68: [2023-02-22 05:51:16+08:00 推文](https://twitter.com/HeQinglian/status/1628150387701170176)
+
+我很好奇“中国和平解决冲突的建议”有些什么具体内容，最后乌方将如何表态。<div class="rsshub-quote"><br><br>Ezio Mao☢: 基辅已收到并正在研究中国和平解决冲突的建议—乌克兰外长德米特里·库莱拉<br><br>乌克兰外交部负责人表示，中共中央政治局委员王毅向乌方介绍了中国和平计划的要点，基辅拟研究并得出结论.<br><br><video src="https://video.twimg.com/ext_tw_video/1628016676070653952/pu/vid/848x464/UJbhcQpnT0mOAx_A.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1628016676070653952/pu/img/qn6XMrqcVhWx9tr_.jpg"></video></div>
+
+### 69: [2023-02-22 06:54:02+08:00 推文](https://twitter.com/HeQinglian/status/1628166184238456856)
+
+法广：中方的和平建议书预计包括呼吁停火和暂停向乌克兰交付武器的内容，中方将在2月24日提交一份交由联合国决议的草案，以对抗美欧要求俄撤军的另一份草案。<br>美欧担心中国提议可能导致美欧以外的许多国家拒绝加入对俄制裁，呼吁进行谈判并达成可能的西方停火协议。 <a href="https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20230221-%E6%99%AE%E4%BA%AC-%E6%9A%82%E9%80%80%E7%BE%8E%E4%BF%84%E9%99%90%E6%AD%A6%E6%9D%A1%E7%BA%A6-%E9%81%AD%E6%89%B9-%E4%B8%AD%E5%9B%BD%E8%A6%81%E5%BD%93%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89-%E5%92%8C%E4%BA%8B%E4%BD%AC-%E5%8F%97%E7%96%91" target="_blank" rel="noopener noreferrer">https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20230221-%E6%99%AE%E4%BA%AC-%E6%9A%82%E9%80%80%E7%BE%8E%E4%BF%84%E9%99%90%E6%AD%A6%E6%9D%A1%E7%BA%A6-%E9%81%AD%E6%89%B9-%E4%B8%AD%E5%9B%BD%E8%A6%81%E5%BD%93%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89-%E5%92%8C%E4%BA%8B%E4%BD%AC-%E5%8F%97%E7%96%91</a>
+
+### 70: [2023-02-22 06:59:12+08:00 推文](https://twitter.com/HeQinglian/status/1628167482711109641)
+
+Re @lianghuiwang2 比你想的高明，要玩到联合国去了。见我刚推的法广消息。
+
+### 71: [2023-02-22 08:30:25+08:00 推文](https://twitter.com/HeQinglian/status/1628190436773748737)
+
+Re @fading_you1 我怎么觉得都是二分之一加二分之一=四分之二的货？
+
+### 72: [2023-02-22 08:32:58+08:00 推文](https://twitter.com/HeQinglian/status/1628191082151378944)
+
+Re @paulzhiyong @YouTube 日本没有军队，是国民自卫队。按和平宪法，不能出国作战。<br>日本的国民自卫队总人数多少？
+
+### 73: [2023-02-22 08:36:16+08:00 推文](https://twitter.com/HeQinglian/status/1628191909507215362)
+
+我不太清楚有多少人看明白这条？<br>中国当局真的没有些人渲染的那么蠢，这招，政治上由守（应付美欧指责疑似军事援乌）转攻（要求北约不提供武器），而且联合国大会有非洲、东盟、拉美等参与。<div class="rsshub-quote"><br><br>He Qinglian: 法广：中方的和平建议书预计包括呼吁停火和暂停向乌克兰交付武器的内容，中方将在2月24日提交一份交由联合国决议的草案，以对抗美欧要求俄撤军的另一份草案。<br>美欧担心中国提议可能导致美欧以外的许多国家拒绝加入对俄制裁，呼吁进行谈判并达成可能的西方停火协议。<br> <a href="https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20230221-%E6%99%AE%E4%BA%AC-%E6%9A%82%E9%80%80%E7%BE%8E%E4%BF%84%E9%99%90%E6%AD%A6%E6%9D%A1%E7%BA%A6-%E9%81%AD%E6%89%B9-%E4%B8%AD%E5%9B%BD%E8%A6%81%E5%BD%93%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89-%E5%92%8C%E4%BA%8B%E4%BD%AC-%E5%8F%97%E7%96%91" target="_blank" rel="noopener noreferrer">https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20230221-%E6%99%AE%E4%BA%AC-%E6%9A%82%E9%80%80%E7%BE%8E%E4%BF%84%E9%99%90%E6%AD%A6%E6%9D%A1%E7%BA%A6-%E9%81%AD%E6%89%B9-%E4%B8%AD%E5%9B%BD%E8%A6%81%E5%BD%93%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89-%E5%92%8C%E4%BA%8B%E4%BD%AC-%E5%8F%97%E7%96%91</a></div>
+
+### 74: [2023-02-22 08:42:35+08:00 推文](https://twitter.com/HeQinglian/status/1628193500511494146)
+
+Re @zhuxiuyuan 请教：你说的可能性不大是指什么？如果是文中已经预见到的可能性，比如通过这决议，人家也知道可能性不大。<br>美欧的担心，你难道认为是杞人忧天？
+
