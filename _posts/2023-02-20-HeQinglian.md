@@ -225,7 +225,7 @@ Re @qqiaoqiao @Lucs24659702 你在推上找出三个以上比我更严谨的吧�
 
 ### 53: [2023-02-21 23:26:50+08:00 推文](https://twitter.com/HeQinglian/status/1628053641792786432)
 
-话说得这么直白，乌鸡血们又要来喷洒正义的热血了。<div class="rsshub-quote"><br><br>Isabel👑💎WW: 我再说一遍，挺俄需要更高门槛，因为需要对历史和现实重新认知，<br><br>挺乌不需要任何头脑，只需要情怀，而且这种情怀还是几十年人家灌输给你的。<br></div>
+话说得这么直白，乌鸡血们又要来喷洒正义的热血了。<div class="rsshub-quote"><br><br>Isabel👑💎WW: 我再说一遍，挺俄需要更高门槛，因为需要对历史和现实重新认知，<br><br>挺乌不需要任何头脑，只需要情怀，而且这种情怀还是几十年人家灌输给你的。<br> <a href="https://twitter.com/123450terry/status/1627877464344231936" target="_blank" rel="noopener noreferrer">https://twitter.com/123450terry/status/1627877464344231936</a></div>
 
 ### 54: [2023-02-21 23:31:02+08:00 推文](https://twitter.com/HeQinglian/status/1628054698199552002)
 
@@ -441,7 +441,7 @@ Re @FightForJiuCai 乌克兰人好歹有形式上的民主啊。<br>如果如乌
 
 ### 107: [2023-02-23 04:37:55+08:00 推文](https://twitter.com/HeQinglian/status/1628494315533000717)
 
-Re @shenliangqing2 建议与这一起参看。再加上骄傲月、零元购、裸体大游 行，就是左派们梦寐以求的进步主义NWO.<div class="rsshub-quote"><br><br>低级黑小明: 来看一下美国版的“操你妈逼”<br><br>现在的lgbt小屁孩一个二个都没有人样了，觉得只要别人把自己性别说错或者不承认自己的性别就要操你妈逼。<br><br><video src="https://video.twimg.com/amplify_video/1628179434556751872/vid/720x1280/ES33umab5NJKiUDD.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1628179434556751872/img/wfYMeOGe0leEv67A.jpg"></video></div>
+Re @shenliangqing2 建议与这一起参看。再加上骄傲月、零元购、裸体大游 行，就是左派们梦寐以求的进步主义NWO. https://twitter.com/djhxiaoming/status/1628179486452891648<div class="rsshub-quote"><br><br>低级黑小明: 来看一下美国版的“操你妈逼”<br><br>现在的lgbt小屁孩一个二个都没有人样了，觉得只要别人把自己性别说错或者不承认自己的性别就要操你妈逼。 https://t.co/xWwdJ4goYi<br><br><video src="https://video.twimg.com/amplify_video/1628179434556751872/vid/720x1280/ES33umab5NJKiUDD.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1628179434556751872/img/wfYMeOGe0leEv67A.jpg"></video></div>
 
 ### 108: [2023-02-23 04:41:44+08:00 推文](https://twitter.com/HeQinglian/status/1628495274657153026)
 
@@ -454,4 +454,20 @@ Re @shenliangqing2 @rongrong801111 最简单的消毒方式是开水煮或者火
 ### 110: [2023-02-23 05:33:06+08:00 推文](https://twitter.com/HeQinglian/status/1628508203217477632)
 
 Re @inno_dai @evaqiao2022 北溪管道是中国炸的？你有消息来源？😅
+
+### 111: [2023-02-23 05:54:42+08:00 推文](https://twitter.com/HeQinglian/status/1628513637613592577)
+
+2月21日台灣民意基金會公布最新政黨支持度民調：國民黨支持度27.1%，民進黨26.9%； 民眾黨12.3%。此外台灣人的統獨傾向，雖然還是有44%民眾支持台獨，勝過維持現狀與兩岸統一的總和，但卻也是4年來最低。https://tw.news.yahoo.com/%E6%B0%91%E8%AA%BF-%E6%94%BF%E9%BB%A8%E6%94%AF%E6%8C%81%E5%BA%A6-%E6%B0%91%E9%80%B2%E9%BB%A8%E9%81%AD%E5%9C%8B%E6%B0%91%E9%BB%A8%E8%B6%85%E8%BB%8A-%E5%8F%B0%E7%8D%A8%E6%94%AF%E6%8C%81%E5%BA%A64%E5%B9%B4%E4%BE%86%E6%9C%80%E4%BD%8E-033206743.html<br>又想起当年在台湾听到的一句话：台湾地方小，民意说翻盘就翻盘。
+
+### 112: [2023-02-23 06:31:23+08:00 推文](https://twitter.com/HeQinglian/status/1628522871348682756)
+
+最有趣的莫过于这句：“俄罗斯和中国的关系正在按计划发展”。<br>也就是说，过去一年多以来美欧全力指责的俄中结盟，完全不受影响。只是不知这“计划”形成于何时，内容也只能靠猜测。<div class="rsshub-quote"><br><br>Ezio Mao☢: 俄罗斯总统会见中共中央外事工作委员会办公室主任王毅<br><br>▪️俄罗斯联邦感谢中国的共同努力，现在世界国际关系很紧张；<br>▪️俄罗斯联邦与中国的合作对于稳定国际局势非常重要；<br>▪️莫斯科和北京正在落实会见中国国家主席的计划，这将推动双边关系的发展；<br>▪️俄罗斯和中国的关系正在按计划发展， https://t.co/57cA4ycrT4<br><br><video src="https://video.twimg.com/ext_tw_video/1628374269154701312/pu/vid/800x448/kE3g2eDzTxEstm-2.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1628374269154701312/pu/img/4nNO4r2754-Cxt8C.jpg"></video></div>
+
+### 113: [2023-02-23 06:33:42+08:00 推文](https://twitter.com/HeQinglian/status/1628523455216844800)
+
+Re 这也是台湾民众自救的一种方式，“台湾不想成为乌克兰”之后，给中共代理人一点念想，让中国的“非军事行动”不那么咄咄逼人。
+
+### 114: [2023-02-23 06:59:12+08:00 推文](https://twitter.com/HeQinglian/status/1628529870207680514)
+
+Re @KELMAND1 这是民主的配给制，而且是发挥国际主义精神的牺牲，占英国人民大多数的左派能够忍。<br>须知，英国青年（40岁以下），60%多喜欢社会主义。社会主义的两大特点：计划经济与国际主义精神（先关照世界上三分之二劳苦人民），可不能省略。
 
