@@ -47,7 +47,7 @@ Re 7. Let's not forget who are arrested. Denise Ho, a Hong Kong canto-pop diva w
 
 ### 8: [2021-12-29 20:51:49+08:00 推文](https://twitter.com/nathanlawkc/status/1476174113580404739)
 
-Re 8. Margaret Ng, a former legislator and well respected barrister. She is 73 and continues to campaign for a better judicial system in Hong Kong. Many political campaigners see her as a role model and the most powerful voice to preserve our values.<br><img style="" src="https://pbs.twimg.com/media/FHxsWd9WUAcWHKF?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re 8. Margaret Ng, a former legislator and well respected barrister. She is 73 and continues to campaign for a better judicial system in Hong Kong. Many political campaigners see her as a role model and the most powerful voice to preserve our values.<br><img style src="https://pbs.twimg.com/media/FHxsWd9WUAcWHKF?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 9: [2021-12-30 19:50:24+08:00 推文](https://twitter.com/nathanlawkc/status/1476521046668886020)
 
