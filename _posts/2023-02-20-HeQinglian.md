@@ -201,7 +201,7 @@ Re @washearg 除了美国还有些家底，其余的国家，就算了吧。
 
 ### 47: [2023-02-21 23:05:51+08:00 推文](https://twitter.com/HeQinglian/status/1628048359180181507)
 
-Re @Lucs24659702 很多乌鸡血们，包括那位说自己“曾经是农民、永远是农民”的“瞧瞧桥”老妹子在内，不相信乌克兰的第10次征兵令，这是原推，信不信由他们，懂乌语的请好心一点翻译给她听，让她再也不要在见识上“永远是农民”。<div class="rsshub-quote"><br><br>绫波: 乌克兰泽连斯基发起第10次征兵令，打算征召100万名士兵。<br><br>征兵令中规定，成年男性65岁以上，85岁以下必须参军。<br><br><img style="" src="https://pbs.twimg.com/media/FpYOaBgaYAAL-9z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT He Qinglian<br>Re @Lucs24659702 很多乌鸡血们，包括那位说自己“曾经是农民、永远是农民”的“瞧瞧桥”老妹子在内，不相信乌克兰的第10次征兵令，这是原推，信不信由他们，懂乌语的请好心一点翻译给她听，让她再也不要在见识上“永远是农民”。<div class="rsshub-quote"><br><br>绫波: 乌克兰泽连斯基发起第10次征兵令，打算征召100万名士兵。<br><br>征兵令中规定，成年男性65岁以上，85岁以下必须参军。<br><br><img style="" src="https://pbs.twimg.com/media/FpYOaBgaYAAL-9z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 48: [2023-02-21 23:08:41+08:00 推文](https://twitter.com/HeQinglian/status/1628049071679188993)
 
@@ -426,4 +426,32 @@ Re @xchen156 观察地毯、窗帘，有点小色差。看起来是一个，只�
 ### 103: [2023-02-23 03:08:24+08:00 推文](https://twitter.com/HeQinglian/status/1628471788144402434)
 
 Re @FightForJiuCai 【战机、坦克、远程导弹都没给，只有口炮，】？？？？<br>西方援乌1000多亿左右，70%来自美国。泽连斯基经常谴责一些国家不支持乌克兰，独对美国表示感谢。<br>至于拜登总统日访乌，乃因他自认是世界总统。“亲者严，疏者宽”——当然，对小拜登与家庭成员相反。
+
+### 104: [2023-02-23 04:16:05+08:00 推文](https://twitter.com/HeQinglian/status/1628488821032603650)
+
+Re @FightForJiuCai 【但是主要目地是“消耗”】<br>这一点，美国与英国都很诚实，一开头就明说了的：削弱俄罗斯，让乌克兰成为普京的坟场。<br>而且美国与北约也说了，何时决定谈判，决定权在乌克兰。<br>除了拜登与泽连斯基另有密约，我们看到的就是这样。
+
+### 105: [2023-02-23 04:17:58+08:00 推文](https://twitter.com/HeQinglian/status/1628489295102083074)
+
+Re @lianghuiwang2 怪物庄园。
+
+### 106: [2023-02-23 04:29:54+08:00 推文](https://twitter.com/HeQinglian/status/1628492296915124224)
+
+Re @FightForJiuCai 乌克兰人好歹有形式上的民主啊。<br>如果如乌克兰泽政府所说，只死了十万精壮军人，还没达到灭族，毕竟人口有4379万（43.79 million ，2021)。要真是那目的，这战还有很长时间。
+
+### 107: [2023-02-23 04:37:55+08:00 推文](https://twitter.com/HeQinglian/status/1628494315533000717)
+
+Re @shenliangqing2 建议与这一起参看。再加上骄傲月、零元购、裸体大游 行，就是左派们梦寐以求的进步主义NWO.<div class="rsshub-quote"><br><br>低级黑小明: 来看一下美国版的“操你妈逼”<br><br>现在的lgbt小屁孩一个二个都没有人样了，觉得只要别人把自己性别说错或者不承认自己的性别就要操你妈逼。<br><br><video src="https://video.twimg.com/amplify_video/1628179434556751872/vid/720x1280/ES33umab5NJKiUDD.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1628179434556751872/img/wfYMeOGe0leEv67A.jpg"></video></div>
+
+### 108: [2023-02-23 04:41:44+08:00 推文](https://twitter.com/HeQinglian/status/1628495274657153026)
+
+Re @JianglinLi @ngexp @HongfuDing @david_david1968 这是哪国哪个城市？
+
+### 109: [2023-02-23 04:43:27+08:00 推文](https://twitter.com/HeQinglian/status/1628495708130103302)
+
+Re @shenliangqing2 @rongrong801111 最简单的消毒方式是开水煮或者火上烧。
+
+### 110: [2023-02-23 05:33:06+08:00 推文](https://twitter.com/HeQinglian/status/1628508203217477632)
+
+Re @inno_dai @evaqiao2022 北溪管道是中国炸的？你有消息来源？😅
 
