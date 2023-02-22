@@ -89,7 +89,7 @@ Re @shenliangqing2 你忘记本月底拜习视频会是熄火会、和好努力�
 
 ### 19: [2022-07-25 21:44:58+08:00 推文](https://twitter.com/HeQinglian/status/1551564164006612992)
 
-与台、中轮流建交，早就成了小国的生存之道，废一次、兴一次，就是几十亿美元的进帐，三年来一次吧。<br><br>美国之音莉雅: 所罗门群岛议会外委会主席、反对党议员凯尼洛里(Peter Kenilorea Jr.)7月25日在议会反对党领导人办公室接受我们的专访时说，如果反对派在下次的选举中获胜组阁的话，第一件事就是废除所中安全协议。至于是否会重新与台湾建交，他说，有这种可能性但这是一个更长的程序，而且涉及到国际方面的议题。<br><br><img style="" src="https://pbs.twimg.com/media/FYgt5y4akAER6xJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FYgt7S4akAEUEWl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+与台、中轮流建交，早就成了小国的生存之道，废一次、兴一次，就是几十亿美元的进帐，三年来一次吧。
 
 ### 20: [2022-07-25 21:47:07+08:00 推文](https://twitter.com/HeQinglian/status/1551564705423970304)
 
@@ -149,7 +149,7 @@ Re @CrabNJ 你愿意称呼令堂为“会怀孕的女人”吗？如果你不愿
 
 ### 34: [2022-07-26 04:09:34+08:00 推文](https://twitter.com/HeQinglian/status/1551660953955074060)
 
-刚知道，【英相候选人苏纳克“一度顾左右而言他，表示要在维护国家利益和价值的同时，‘继续和中国交往’。而中共喉舌《环球时报》早前曾发文形容，在英国首相之争中，苏纳克是唯一一位“对发展中英关系持明确而务实观点”的候选人。<br>这个定性，被外界形容是中方对苏纳克的“死亡之吻”。】<br>果然是竞选策略。<br><br>He Qinglian: 想当年，克林顿竞选时的豪言：我如果当了美国总统，从北京到巴格达的独裁者，一个也不放过。<br>后来，克林顿力主中国入世，成了中国政府的好朋友。退位后经常到中国演讲，每场演讲进帐几十万美元——友谊长青。<br>因此，我宁可将这些看作政治噱头。<br> <a href="https://twitter.com/RFI_TradCn/status/1551357705066950658" target="_blank" rel="noopener noreferrer">https://twitter.com/RFI_TradCn/status/1551357705066950658</a>
+刚知道，【英相候选人苏纳克“一度顾左右而言他，表示要在维护国家利益和价值的同时，‘继续和中国交往’。而中共喉舌《环球时报》早前曾发文形容，在英国首相之争中，苏纳克是唯一一位“对发展中英关系持明确而务实观点”的候选人。<br>这个定性，被外界形容是中方对苏纳克的“死亡之吻”。】<br>果然是竞选策略。
 
 ### 35: [2022-07-26 04:14:15+08:00 推文](https://twitter.com/HeQinglian/status/1551662132877484037)
 
@@ -357,7 +357,7 @@ Re @zhixiangziyou 实话实说，如果我在深圳，一定去现场看。
 
 ### 86: [2022-07-28 21:52:45+08:00 推文](https://twitter.com/HeQinglian/status/1552653287966380036)
 
-这帐要这样算：<br>如果俄罗斯损失591亿美元，西方完胜；<br>如果俄罗斯损失500亿，西方大胜；<br>如果俄罗斯损失400亿，西方获得可观胜利；<br>如果俄罗斯经济损失极小，西方胜在道义。因为俄罗斯至少与西方40国交恶，被踢出先进文明的世界，美国将不再向俄直接推广LGBTQI+第四代女权+吸大麻（吸毒）+BLM（CRT）。
+这帐要这样算：<br>如果俄罗斯损失591亿美元，西方完胜；<br>如果俄罗斯损失500亿，西方大胜；<br>如果俄罗斯损失400亿，西方获得可观胜利；<br>如果俄罗斯经济损失极小，西方胜在道义。因为俄罗斯至少与西方40国交恶，被踢出先进文明的世界，美国将不再向俄直接推广LGBTQI+第四代女权+吸大麻（吸毒）+BLM（CRT）。<br><br>Ezio Mao☢: 据《华尔街日报》报道，由于对俄罗斯的制裁，上半年西方公司将损失590亿美元.<br><br>2022年第一季度，英国公司BP亏损255亿美元，壳牌 - 42亿美元，德国Uniper-32亿欧元，奥地利OMV-20亿欧元，德国 Wintershall Dea - 11亿欧元，法国Engie-10亿欧元。法国雷诺集团亏损 22 亿欧元。<br> <a href="https://www.wsj.com/articles/business-losses-from-russia-top-59-billion-as-sanctions-hit-11654853400" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/business-losses-from-russia-top-59-billion-as-sanctions-hit-11654853400</a>
 
 ### 87: [2022-07-28 21:55:43+08:00 推文](https://twitter.com/HeQinglian/status/1552654036498653186)
 

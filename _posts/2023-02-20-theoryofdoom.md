@@ -25,3 +25,13 @@ Content like this is why r/trashpandas is is one of three subreddits I am invest
 
 Meanwhile, our so-called commander in chief is asleep at the wheel.  A source of great reassurance.
 
+### 474: [I want to read Tolstoy's religious works soon, pls suggest me a book aside from](https://old.reddit.com/r/tolstoy/comments/117xtzv/i_want_to_read_tolstoys_religious_works_soon_pls/), submitted on 2023-02-21 15:47:48+08:00.
+
+----- __474.1__ -----2023-02-22 15:04:09+08:00:
+
+As kudiagnola suggested, I would focus on The Kingdom of God Is Within You.
+
+I would also suggest What I Believe.
+
+I know of few restatements of Christianity that are better.
+
