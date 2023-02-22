@@ -201,7 +201,7 @@ Re @washearg 除了美国还有些家底，其余的国家，就算了吧。
 
 ### 47: [2023-02-21 23:05:51+08:00 推文](https://twitter.com/HeQinglian/status/1628048359180181507)
 
-RT He Qinglian<br>Re @Lucs24659702 很多乌鸡血们，包括那位说自己“曾经是农民、永远是农民”的“瞧瞧桥”老妹子在内，不相信乌克兰的第10次征兵令，这是原推，信不信由他们，懂乌语的请好心一点翻译给她听，让她再也不要在见识上“永远是农民”。<div class="rsshub-quote"><br><br>绫波: 乌克兰泽连斯基发起第10次征兵令，打算征召100万名士兵。<br><br>征兵令中规定，成年男性65岁以上，85岁以下必须参军。<br><br><img style="" src="https://pbs.twimg.com/media/FpYOaBgaYAAL-9z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+Re @Lucs24659702 很多乌鸡血们，包括那位说自己“曾经是农民、永远是农民”的“瞧瞧桥”老妹子在内，不相信乌克兰的第10次征兵令，这是原推，信不信由他们，懂乌语的请好心一点翻译给她听，让她再也不要在见识上“永远是农民”。<div class="rsshub-quote"><br><br>绫波: 乌克兰泽连斯基发起第10次征兵令，打算征召100万名士兵。<br><br>征兵令中规定，成年男性65岁以上，85岁以下必须参军。<br><br><img style="" src="https://pbs.twimg.com/media/FpYOaBgaYAAL-9z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 48: [2023-02-21 23:08:41+08:00 推文](https://twitter.com/HeQinglian/status/1628049071679188993)
 
@@ -310,4 +310,36 @@ Re @paulzhiyong @YouTube 日本没有军队，是国民自卫队。按和平宪�
 ### 74: [2023-02-22 08:42:35+08:00 推文](https://twitter.com/HeQinglian/status/1628193500511494146)
 
 Re @zhuxiuyuan 请教：你说的可能性不大是指什么？如果是文中已经预见到的可能性，比如通过这决议，人家也知道可能性不大。<br>美欧的担心，你难道认为是杞人忧天？
+
+### 75: [2023-02-22 09:27:34+08:00 推文](https://twitter.com/HeQinglian/status/1628204821512699904)
+
+Re @Albertwander 中国是借势成事，不是帮俄罗斯，是帮自己。<br>你看了慕安会全况报道么？你了解气球事件后中美关系么？你知道地缘政治是怎么回事么？<br>不是幼儿园小朋友玩游戏。
+
+### 76: [2023-02-22 09:29:34+08:00 推文](https://twitter.com/HeQinglian/status/1628205323923165184)
+
+Re @Haleakala09 你算明白了。欧盟国家明白这点，因为内部不少国家早就厌战了。
+
+### 77: [2023-02-22 10:22:58+08:00 推文](https://twitter.com/HeQinglian/status/1628218761948852225)
+
+Re @qi2p1AJP6kpdIki @paulzhiyong @YouTube 除了这个视频，有无其他信息来源，比如日经、产经、朝日等？
+
+### 78: [2023-02-22 10:30:07+08:00 推文](https://twitter.com/HeQinglian/status/1628220561728888834)
+
+Re @Wu_Zhi 中国将于24日提交联合国大会决议的和平解决解决冲突协议，彭博等已经得到文本了；估计乌克兰的可能细致一点。<br>慕安会后，已经转换成美国（加上半心半意的德法英等）与中国的外交对决了。
+
+### 79: [2023-02-22 10:55:20+08:00 推文](https://twitter.com/HeQinglian/status/1628226907216003072)
+
+Re @KELMAND1 卢拉应该是奉美国之命行事。
+
+### 80: [2023-02-22 10:59:24+08:00 推文](https://twitter.com/HeQinglian/status/1628227932794589184)
+
+Re @KELMAND1 卢拉的当选，背后有美国身影。有他在，Bricks有条裂缝。<br>双簧要唱得象。
+
+### 81: [2023-02-22 11:05:46+08:00 推文](https://twitter.com/HeQinglian/status/1628229533009682433)
+
+Re @shenliangqing2 @lianghuiwang2 至今为止，美欧说的是“中国极有可能提供”，此前还说过没有中国向俄提供军援的证据。<br>只提双方停火，北约等所有国家停止向乌克兰提供武器，就如你所说，将了美国北约一军。<br>这次慕安会上中美双方发言，结果是将中国正式放在俄乌冲突的外交对手位置上了。<br>棋走到这步，只能说本来占先手之势的一方太菜了
+
+### 82: [2023-02-22 11:06:38+08:00 推文](https://twitter.com/HeQinglian/status/1628229751708975105)
+
+Re @yhsykmxszhlj @lianghuiwang2 打兔子带搂草，最后可能草没搂着，兔子也跑了。这种复杂形势下，目标要简单直接。
 
