@@ -201,7 +201,7 @@ Re @washearg 除了美国还有些家底，其余的国家，就算了吧。
 
 ### 47: [2023-02-21 23:05:51+08:00 推文](https://twitter.com/HeQinglian/status/1628048359180181507)
 
-Re @Lucs24659702 很多乌鸡血们，包括那位说自己“曾经是农民、永远是农民”的“瞧瞧桥”老妹子在内，不相信乌克兰的第10次征兵令，这是原推，信不信由他们，懂乌语的请好心一点翻译给她听，让她再也不要在见识上“永远是农民”。<div class="rsshub-quote"><br><br>绫波: 乌克兰泽连斯基发起第10次征兵令，打算征召100万名士兵。<br><br>征兵令中规定，成年男性65岁以上，85岁以下必须参军。<br><br><img style="" src="https://pbs.twimg.com/media/FpYOaBgaYAAL-9z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT He Qinglian<br>Re @Lucs24659702 很多乌鸡血们，包括那位说自己“曾经是农民、永远是农民”的“瞧瞧桥”老妹子在内，不相信乌克兰的第10次征兵令，这是原推，信不信由他们，懂乌语的请好心一点翻译给她听，让她再也不要在见识上“永远是农民”。<div class="rsshub-quote"><br><br>绫波: 乌克兰泽连斯基发起第10次征兵令，打算征召100万名士兵。<br><br>征兵令中规定，成年男性65岁以上，85岁以下必须参军。<br><br><img style="" src="https://pbs.twimg.com/media/FpYOaBgaYAAL-9z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 48: [2023-02-21 23:08:41+08:00 推文](https://twitter.com/HeQinglian/status/1628049071679188993)
 
@@ -493,7 +493,7 @@ Re @JianglinLi @Wu_Zhi @nuosu001 @seadognw 我在四川的同学有位同事在�
 
 ### 120: [2023-02-23 09:16:39+08:00 推文](https://twitter.com/HeQinglian/status/1628564461182132225)
 
-赫什文章指出：2022年2月7日在白宫，拜登告诉来访的德国总理肖尔茨，俄如果进攻乌克兰，北溪管道将不复存在。肖尔茨表示将与美国站在一起。会面结束的当晚，拜登公布了对北溪管道的打算。<br>我真的很好奇，肖尔茨需不需要对德国人解释这一点？ https://twitter.com/dw_chinese/status/1628404745214763012<div class="rsshub-quote"><br><br>DW 中文- 德国之声: 美国知名记者赫什网络发文爆料称这一破坏袭击是美国所为，让各种猜测沸腾。而参与调查的国家，包括德国的相关机构未公开任何与调查进展有关的信息。对媒体的询问，也多半讳莫如深。#北溪爆炸事件  https://p.dw.com/p/4Npqu<br></div>
+赫什文章指出：2022年2月7日在白宫，拜登告诉来访的德国总理肖尔茨，俄如果进攻乌克兰，北溪管道将不复存在。肖尔茨表示将与美国站在一起。会面结束的当晚，拜登公布了对北溪管道的打算。<br>我真的很好奇，肖尔茨需不需要对德国人解释这一点？<div class="rsshub-quote"><br><br>DW 中文- 德国之声: 美国知名记者赫什网络发文爆料称这一破坏袭击是美国所为，让各种猜测沸腾。而参与调查的国家，包括德国的相关机构未公开任何与调查进展有关的信息。对媒体的询问，也多半讳莫如深。#北溪爆炸事件  https://p.dw.com/p/4Npqu<br></div>
 
 ### 121: [2023-02-23 09:20:44+08:00 推文](https://twitter.com/HeQinglian/status/1628565488153382913)
 
@@ -503,67 +503,103 @@ Re @JianglinLi @Wu_Zhi @nuosu001 @seadognw 鱼已经煮成了汤，再想还原�
 
 Re @Wu_Zhi @nuosu001 @JianglinLi @seadognw 你德倒真应该向欧洲各国介绍经验，如何在一年内成功摆脱对俄罗斯的天然气依赖。<br>我知道的有：<br>1、去工业化（耗死一批用俄便宜能源的企业）；2、将煤炭、木柴等洗绿，纳入绿能；3、高价能源让德国人节能。<br>还有什么方法，请补充。乌克兰真不应该再骂德国人了。
 
-### 123: [2023-02-23 10:07:43+08:00 推文](https://twitter.com/HeQinglian/status/1628577311002951680)
+### 123: [2023-02-23 09:56:22+08:00 推文](https://twitter.com/Isabel_3299/status/1628574455482970112)
+
+RT Isabel👑💎WW<br>自古同性恋哪个文化都有，但是当把这种只占1%不到的人的特殊需求当政治正确打压99%属于正常人的权利就另当别论。<br><br>你同情他们个体的遭遇可以理解，但让所有人都同情这也是强人所难。 https://twitter.com/8964xjpfucku/status/1628567901723672585<div class="rsshub-quote"><br><br>一号女嘉宾: @Isabel_3299 可是中国也有LGBTQ群体啊，中国那么歧视LGBTQ但是即便在完全没有西方文化侵蚀的农村，也有变性人的。<br><br>这不是左逼捏造的东西，你可能不喜欢别人变性，但是这个东西确实是人家的真实生理需求。<br><br>你要是否认这个群体，他们就形婚，生娃，假装正常。基因还能延续呢。<br>人家自己绝后，对所有人都好。<br></div>
+
+### 124: [2023-02-23 10:07:43+08:00 推文](https://twitter.com/HeQinglian/status/1628577311002951680)
 
 Re @JianglinLi @Mydoglucky2 这类故事其实很多。<br>香港亚视曾拍过一部《远在他乡的故事 》，就是各种远嫁世界各国的中国女子的经历，有好有坏，最差的就是华东化工学院78级女生远嫁非洲的故事，听起来与陈怡的故事差不多。<br>最传奇的是一位嫁黎巴嫩商人的女子，生活有如王后。
 
-### 124: [2023-02-23 11:06:53+08:00 推文](https://twitter.com/HeQinglian/status/1628592200589123584)
+### 125: [2023-02-23 11:06:53+08:00 推文](https://twitter.com/HeQinglian/status/1628592200589123584)
 
 Re @hohot 用的是“end"，还能理解成别的意思？
 
-### 125: [2023-02-23 11:16:31+08:00 推文](https://twitter.com/HeQinglian/status/1628594627044429824)
+### 126: [2023-02-23 11:16:31+08:00 推文](https://twitter.com/HeQinglian/status/1628594627044429824)
 
 Re @shenliangqing2 这是啥节奏？<br>难道小土豆最近跟拜登不够紧？
 
-### 126: [2023-02-23 11:17:20+08:00 推文](https://twitter.com/HeQinglian/status/1628594830925340676)
+### 127: [2023-02-23 11:17:20+08:00 推文](https://twitter.com/HeQinglian/status/1628594830925340676)
 
 习亲俄不用再装 普京喜入新境界 乌战第二年谁的牌大？<br>https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20230222-%E4%B9%A0%E4%BA%B2%E4%BF%84%E4%B8%8D%E7%94%A8%E5%86%8D%E8%A3%85-%E6%99%AE%E4%BA%AC%E5%96%9C%E5%85%A5%E6%96%B0%E5%A2%83%E7%95%8C-%E4%B9%8C%E6%88%98%E7%AC%AC%E4%BA%8C%E5%B9%B4%E8%B0%81%E7%9A%84%E7%89%8C%E5%A4%A7<br>看后，忍不住爆笑。想起一年来西媒想用口水约束中俄，不让其走得太近，中南海某人应该吟诗：任尔东西南北风，咬住青山不放松。<br>终于轮到中国叫牌了。<br>可惜了美国的冷战专家与地缘政治研究圈。
 
-### 127: [2023-02-23 11:18:42+08:00 推文](https://twitter.com/HeQinglian/status/1628595174669524992)
+### 128: [2023-02-23 11:18:42+08:00 推文](https://twitter.com/HeQinglian/status/1628595174669524992)
 
 Re @kbclindy @Lucs24659702 北约第五条有这规定？
 
-### 128: [2023-02-23 11:24:50+08:00 推文](https://twitter.com/HeQinglian/status/1628596720639541249)
+### 129: [2023-02-23 11:24:50+08:00 推文](https://twitter.com/HeQinglian/status/1628596720639541249)
 
 Re @Wu_Zhi 我大概看过冷战专家与地缘政治专家们约30篇分析俄乌战争与美中俄关系的文章，发现他们基本被排斥在俄乌战争的决策圈之外。
 
-### 129: [2023-02-23 11:26:41+08:00 推文](https://twitter.com/HeQinglian/status/1628597185628471298)
+### 130: [2023-02-23 11:26:41+08:00 推文](https://twitter.com/HeQinglian/status/1628597185628471298)
 
 Re @kbclindy 谁也没说过拜登“想让美国的男人都变性”，一来他做不到；二来他家的儿子女儿、孙子孙女包括他自己与他弟弟都没变，示范作用不强。
 
-### 130: [2023-02-23 11:30:45+08:00 推文](https://twitter.com/HeQinglian/status/1628598208266993665)
+### 131: [2023-02-23 11:30:45+08:00 推文](https://twitter.com/HeQinglian/status/1628598208266993665)
 
 Re @kbclindy @Lucs24659702 请关注北约秘书长俄乌战争以来就这条的多次说明，毕竟，你不是北约秘书长，解释权在他，不在你。
 
-### 131: [2023-02-23 23:12:21+08:00 推文](https://twitter.com/HeQinglian/status/1628774774032695297)
+### 132: [2023-02-23 23:12:21+08:00 推文](https://twitter.com/HeQinglian/status/1628774774032695297)
 
 Re @tiger20boy22 你们弄清楚一点，两党最大的区别在国内政策，而不是在外交上。
 
-### 132: [2023-02-24 00:37:31+08:00 推文](https://twitter.com/HeQinglian/status/1628796204199907330)
+### 133: [2023-02-24 00:37:31+08:00 推文](https://twitter.com/HeQinglian/status/1628796204199907330)
 
 Re @realTaoRay 耶伦准备了一大堆要与中国谈的问题清单，猜想其中包括让中国购买美国国债、维持人民币汇率稳定等一堆，现在谈不成了。<br>这任财长真难做。她在川普任上做联储会主席时，还被左派撺掇着反川，现在估计想起来都觉得那是好时光，不用操太多心。
 
-### 133: [2023-02-24 00:38:31+08:00 推文](https://twitter.com/HeQinglian/status/1628796455220654087)
+### 134: [2023-02-24 00:38:31+08:00 推文](https://twitter.com/HeQinglian/status/1628796455220654087)
 
 Re @Lucs24659702 她的血统最多八分之一黑，应该是赔付多于所得。😅
 
-### 134: [2023-02-24 01:29:22+08:00 推文](https://twitter.com/HeQinglian/status/1628809253329813506)
+### 135: [2023-02-24 01:29:22+08:00 推文](https://twitter.com/HeQinglian/status/1628809253329813506)
 
 乌克兰外长称收到了中国的和平计划，正在研究。如果不接受，明说。但弄成这个局面，恐怕双方也没有会谈了。<br>https://twitter.com/KELMAND1/status/1628017107740000257<div class="rsshub-quote"><br><br>RFI 華語 - 法國國際廣播電台: 澤連斯基稱不知道有一個中國的烏克蘭戰爭和平計畫 希望與中國對話 https://rfi.my/9Bd8.t https://t.co/fJHWDsJeA4<br><br><img style="" src="https://pbs.twimg.com/media/Fpqft7WaEAAM6vh?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
-### 135: [2023-02-24 01:31:31+08:00 推文](https://twitter.com/HeQinglian/status/1628809795158286338)
+### 136: [2023-02-24 01:31:31+08:00 推文](https://twitter.com/HeQinglian/status/1628809795158286338)
 
 Re @CharlieVictor62 @JianglinLi @Mydoglucky2 谢纠正，是这个名。我看过两个系列，似乎后来没拍了。
 
-### 136: [2023-02-24 01:43:31+08:00 推文](https://twitter.com/Lucs24659702/status/1628812816194080768)
+### 137: [2023-02-24 01:43:31+08:00 推文](https://twitter.com/Lucs24659702/status/1628812816194080768)
 
 RT Lucs<br>Byron Donalds：亨特·拜登协助将钴矿出售给一家中国公司<br><br> “乔·拜登如此大力推动太阳能电池板、电池和电动汽车的原因之一是因为他的儿子促成了将钴矿出售给一家中国公司。” https://t.co/Wj2ek2X4AH<br><video src="https://video.twimg.com/ext_tw_video/1628812773571579905/pu/vid/1280x720/b8RktzccufT_6vyU.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1628812773571579905/pu/img/dwnZx9sEofrWfm7K.jpg"></video>
 
-### 137: [2023-02-24 02:16:41+08:00 推文](https://twitter.com/HeQinglian/status/1628821162561007625)
+### 138: [2023-02-24 02:16:41+08:00 推文](https://twitter.com/HeQinglian/status/1628821162561007625)
 
 Re @Lucs24659702 去年小拜登将美国释放的战略储备油卖给中石油——路透社消息，WSJ转发。我发过链接。
 
-### 138: [2023-02-24 02:33:17+08:00 推文](https://twitter.com/HeQinglian/status/1628825340528263170)
+### 139: [2023-02-24 02:33:17+08:00 推文](https://twitter.com/HeQinglian/status/1628825340528263170)
 
 中美经济脱钩，从美国方面来说，于公于私都很难。<br>于私，是美国第一公子小拜登不时被公布的与中国的利益互动。<br>于公，据美方政府日前公布，2022年美国和中国货物贸易总额达6906亿美元，创历史新高。<br>中国贸易顺差逾6000亿，美国贸易逆差近万亿，中国的贸易顺差多数来自于美国。<br>拜粉能否读懂这些数据？<div class="rsshub-quote"><br><br>Lucs: Byron Donalds：亨特·拜登协助将钴矿出售给一家中国公司<br><br> “乔·拜登如此大力推动太阳能电池板、电池和电动汽车的原因之一是因为他的儿子促成了将钴矿出售给一家中国公司。” https://t.co/Wj2ek2X4AH<br><br><video src="https://video.twimg.com/ext_tw_video/1628812773571579905/pu/vid/1280x720/b8RktzccufT_6vyU.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1628812773571579905/pu/img/dwnZx9sEofrWfm7K.jpg"></video></div>
+
+### 140: [2023-02-24 03:42:23+08:00 推文](https://twitter.com/HeQinglian/status/1628842726924988417)
+
+Re @chengmi60010742 只要有一方愿意脱层皮，来个牺牲打，当然可以。你弄明白德国脱层皮的内容是什么？为谁？得到什么？<br>如你所愿就行。
+
+### 141: [2023-02-24 03:44:00+08:00 推文](https://twitter.com/HeQinglian/status/1628843135437602816)
+
+Re @pandatress1 第一大贸易伙伴是近几年的事情，中国努力的方向。但东盟为中国提供了多少顺差？<br>最要紧的是分析几大顺差来源国。
+
+### 142: [2023-02-24 03:54:20+08:00 推文](https://twitter.com/HeQinglian/status/1628845735495012355)
+
+Re @Isabel_3299 除了你讲的这点之外，还有一个违反人性的做法：在升学录取、提拔、就业时，这些成为加分与优先的条件。这等于剥夺别人的权利——为什么不能与大家一样，在同一起跑线上？
+
+### 143: [2023-02-24 03:55:29+08:00 推文](https://twitter.com/HeQinglian/status/1628846024671260673)
+
+Re @woaijinpinmei @realTaoRay 错了，她不想做事，也不是被裹挟。只是比其他左派政要多点经济学专业知识，知道胡闹有个界限。
+
+### 144: [2023-02-24 04:00:18+08:00 推文](https://twitter.com/HeQinglian/status/1628847235017367553)
+
+Re @FangYiDuan1 那是。德国硬脱钩成功了，为了乌克兰。你愿意为了谁？在中国与在美国的答案不一样。
+
+### 145: [2023-02-24 04:01:52+08:00 推文](https://twitter.com/HeQinglian/status/1628847629806317570)
+
+Re @Vince6610 外资撤离是事实，但德国欧洲资本大量进去也是事实。
+
+### 146: [2023-02-24 04:05:54+08:00 推文](https://twitter.com/HeQinglian/status/1628848648409821186)
+
+Re @zhixiangziyou 这位女心理学教授，本人可能存在性受害幻想症，只是还不清楚为什么选定Kavanuagh做为强暴她的人。
+
+### 147: [2023-02-24 04:09:45+08:00 推文](https://twitter.com/HeQinglian/status/1628849614374809600)
+
+Re @TDXY 不是小圈子选举，是间接选举，选政党而非选领导人。政党选票最高的党主席是当然领导人，得票最高的政党可以选择与其联合执政的政党。<br>也因此，得票第二的选择党被踢开了。<br>这一点，2015年时，有位德国内政部的推友详细解释过。因此，经常出现选右倾政党，联合执政后成了左倾。
 
