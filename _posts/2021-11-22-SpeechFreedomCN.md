@@ -45,5 +45,5 @@ Shaanxi woman Xiao detained for 7 days for referring to police as robbers and ba
 
 ### 8: [2021-11-27 11:44:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1464439838808104969)
 
-Human rights lawyer @liangxiaojun based in Beijing revoked of Lawyer's License yesterday, for supporting Falun Gong and "vilifying and slandering China's political system and principals" on Twitter and Weibo.<br><img style src="https://pbs.twimg.com/media/FFJOfwnXoAww72M?format=jpg&name=orig" referrerpolicy="no-referrer">
+Human rights lawyer @liangxiaojun based in Beijing revoked of Lawyer's License yesterday, for supporting Falun Gong and "vilifying and slandering China's political system and principals" on Twitter and Weibo.<br><img style="" src="https://pbs.twimg.com/media/FFJOfwnXoAww72M?format=jpg&name=orig" referrerpolicy="no-referrer">
 
