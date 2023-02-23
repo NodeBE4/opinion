@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2022-05-16~2022-05-22'
 
 ### 4: [2022-05-17 06:24:50+08:00 推文](https://twitter.com/realcaixia/status/1526327844862930945)
 
-特别推荐。强力推荐。欢迎所有朋友都来下载。
+特别推荐。强力推荐。欢迎所有朋友都来下载。<br><br>韩连潮: 【翻墙APP】#议报 在 @GreatFireChina 的帮助下完善了翻墙APP。下载安装后不仅可以阅读 #议报 内容，而且可以遨游自由网络。下载链接如下：<br><br><img style="" src="https://pbs.twimg.com/media/FSzcoJzXwAAY9uh?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://yibaochina.com/?page_id=245397" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?page_id=245397</a>
 
 ### 5: [2022-05-17 20:16:39+08:00 推文](https://twitter.com/realcaixia/status/1526537175604641792)
 
@@ -37,11 +37,11 @@ title: 'Twitter @蔡霞: 2022-05-16~2022-05-22'
 
 ### 6: [2022-05-18 07:48:15+08:00 推文](https://twitter.com/realcaixia/status/1526711223609434112)
 
-一个模版专供抄作业。<br><br>鲁难-: <br><br><img style="" src="https://pbs.twimg.com/media/FS8CeMoWAAEGC3O?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FS8CeMsXEAAmkXe?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+一个模版专供抄作业。
 
 ### 7: [2022-05-18 07:49:51+08:00 推文](https://twitter.com/realcaixia/status/1526711628372246528)
 
-一个模版专供抄作业（二）
+一个模版专供抄作业（二）<br><br>鲁难-: 大爷，改一改数字很难吗？非要一分钟也不差………<br><br><img style="" src="https://pbs.twimg.com/media/FS8CaycWIAE4vIt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FS8CaydXoAAwFdm?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FS8CayfX0AAqtNs?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FS8CaybWIAEgXZW?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2022-05-18 08:55:45+08:00 推文](https://twitter.com/realcaixia/status/1526728213061410817)
 
@@ -85,7 +85,7 @@ Re 中共秘书侍候领导十分周到，20年前我曾经参加过中组部一
 
 ### 18: [2022-05-19 20:23:58+08:00 推文](https://twitter.com/realcaixia/status/1527263792677134338)
 
-特别推荐#议报转发刘梦熊先生文章：价值观颠倒必然逆转国运。与世界和平相对立，为侵略者做辩护，必然招致被文明世界孤立。孤立于国际社会之外的国家能有什么前途？
+特别推荐#议报转发刘梦熊先生文章：价值观颠倒必然逆转国运。与世界和平相对立，为侵略者做辩护，必然招致被文明世界孤立。孤立于国际社会之外的国家能有什么前途？<br><br>《议报》: 全国政协委员：价值观颠倒必导致国运逆转<br> <a href="https://yibaochina.com/?p=246529" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246529</a>
 
 ### 19: [2022-05-19 20:33:12+08:00 推文](https://twitter.com/realcaixia/status/1527266118389334017)
 
@@ -105,7 +105,7 @@ Re 中共秘书侍候领导十分周到，20年前我曾经参加过中组部一
 
 ### 23: [2022-05-20 22:03:57+08:00 推文](https://twitter.com/realcaixia/status/1527651342239600640)
 
-對中共統治體制和體制運作的機制需要深入研究。這無論是從社會學政治學理論角度看，還是從維護全世界自由民主和平看，都是極為重大而緊迫的課題。
+對中共統治體制和體制運作的機制需要深入研究。這無論是從社會學政治學理論角度看，還是從維護全世界自由民主和平看，都是極為重大而緊迫的課題。<br><br>韩连潮: 【哈德逊中国中心】恭贺哈德逊中国中心成立，恭贺余茂春博士主持新成立的哈德逊中国中心工作，相信在他和蓬佩奥国务卿领导下，中心一定会出一系列重要研究成果，为美国决策者提供急需的意见和策略。<br>Hudson Institute Launches New China Center - by Hudson Institute<br> <a href="https://www.hudson.org/research/17833-hudson-institute-launches-new-china-center" target="_blank" rel="noopener noreferrer">https://www.hudson.org/research/17833-hudson-institute-launches-new-china-center</a>
 
 ### 24: [2022-05-21 06:17:37+08:00 推文](https://twitter.com/realcaixia/status/1527775579025686529)
 
@@ -121,11 +121,11 @@ Re 中共秘书侍候领导十分周到，20年前我曾经参加过中组部一
 
 ### 27: [2022-05-21 08:38:22+08:00 推文](https://twitter.com/realcaixia/status/1527811001432915969)
 
-特别推荐#议报发布的这篇纪实报告。议报推文引语写的好。<br><br>《议报》: 王胜生: 被留置武汉火车站纪实<br> <a href="https://yibaochina.com/?p=246597" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246597</a>
+特别推荐#议报发布的这篇纪实报告。议报推文引语写的好。
 
 ### 28: [2022-05-21 21:50:02+08:00 推文](https://twitter.com/realcaixia/status/1528010227945177090)
 
-技術改進一小步，獲取信息一大步。
+技術改進一小步，獲取信息一大步。<br><br>GreatFire.org: Have you read an interesting story on WeChat? Think it might get censored? Archive the story on <br>帮助我们改进自由微信的抓取系统，以便您更容易的看到感兴趣的内容。<br><br><img style="" src="https://pbs.twimg.com/media/FTMFaNFWQAA-Wgx?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="http://freewechat.com/" target="_blank" rel="noopener noreferrer">http://FreeWeChat.com</a> <a href="https://freewechat.com/submit" target="_blank" rel="noopener noreferrer">https://freewechat.com/submit</a>
 
 ### 29: [2022-05-22 00:54:13+08:00 推文](https://twitter.com/realcaixia/status/1528056580440309760)
 
