@@ -21,7 +21,7 @@ title: 'Twitter @中国文字狱事件盘点: 2023-02-13~2023-02-19'
 
 ### 2: [2023-02-13 19:10:17+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1625089974063230980)
 
-Man from Jiangxi surnamed Zeng detained for three days for his WeChat Moment post that said he got bitten by a dog, which police claimed insulted them as he included a photo of his traffic violation ticket in the post.<br><img style="" src="https://pbs.twimg.com/media/Fo16d6FWYAANBHJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fo16feRXgAcGEiR?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fo16hRUX0AAeDWn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Man from Jiangxi surnamed Zeng detained for three days for his WeChat Moment post that said he got bitten by a dog, which police claimed insulted them as he included a photo of his traffic violation ticket in the post. https://t.co/8WJCdwBB5x<br><img style="" src="https://pbs.twimg.com/media/Fo16d6FWYAANBHJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fo16feRXgAcGEiR?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fo16hRUX0AAeDWn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2023-02-15 20:26:52+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1625834023485415425)
 
@@ -33,9 +33,9 @@ Unnamed Chinese netizen detained for 10 days for posting info on Twitter and Fac
 
 ### 5: [2023-02-18 19:26:30+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1626905997305434114)
 
-近日，山西省天镇县货车司机庞某在其自己的微信公众号发布了一篇文章质疑山东沂南县交警执法，内容包括交警违规行为导致了交通事故并殴打涉事司机，且配有视频和图片证据。随后，庞某被跨省抓捕并被刑事拘留。事件引发舆论热议后，警方已将其取保候审，并称已对此事展开调查。<br><img style="" src="https://pbs.twimg.com/media/FpPsyFLXoAYzI-m?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpPs0I7XEAAwpKe?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpPs17tXEAEq03b?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+近日，山西省天镇县货车司机庞某在其自己的微信公众号发布了一篇文章质疑山东沂南县交警执法，内容包括交警违规行为导致了交通事故并殴打涉事司机，且配有视频和图片证据。随后，庞某被跨省抓捕并被刑事拘留。事件引发舆论热议后，警方已将其取保候审，并称已对此事展开调查。 https://t.co/R87SxezNpz<br><img style="" src="https://pbs.twimg.com/media/FpPsyFLXoAYzI-m?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpPs0I7XEAAwpKe?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpPs17tXEAEq03b?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2023-02-18 19:30:35+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1626907023106314241)
 
-Shanxi man Pang, who recently posted an article on Internet to accuse Shandong traffic police of causing an accident with wrongdoing and beating the involved driver, arrested. The incident sparked public outrage, thus police released him on bail and launched a probe into it. https://t.co/UsdNKH2h6N<br><img style="" src="https://pbs.twimg.com/media/FpPubZsWIAABO-Q?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpPudgMWcAIiAzO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpPue7QXgAAY7BK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Shanxi man Pang, who recently posted an article on Internet to accuse Shandong traffic police of causing an accident with wrongdoing and beating the involved driver, arrested. The incident sparked public outrage, thus police released him on bail and launched a probe into it.<br><img style="" src="https://pbs.twimg.com/media/FpPubZsWIAABO-Q?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpPudgMWcAIiAzO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpPue7QXgAAY7BK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
