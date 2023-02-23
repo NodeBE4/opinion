@@ -25,5 +25,5 @@ Really great rundown from CDT of Chinese state narratives around the Belt and Ro
 
 ### 3: [2023-01-26 03:12:50+08:00 推文](https://twitter.com/Lingling_Wei/status/1618326041659068417)
 
-RT Lingling Wei 魏玲灵<br>“Don’t let us disappear like this.” A group of female friends, mostly in their mid-20s, joined a protest in Beijing. Then, the detentions started. An inspiring account on what courage looks like, by @shenlulushen  @QiLiyan  https://www.wsj.com/articles/in-china-young-women-become-accidental-symbols-of-defiance-11674667983?st=llw83oe60nirg35 via @WSJ
+RT Lingling Wei 魏玲灵<br>“Don’t let us disappear like this.” A group of female friends, mostly in their mid-20s, joined a protest in Beijing. Then, the detentions started. An inspiring account on what courage looks like, by @shenlulushen  @QiLiyan <a href="https://www.wsj.com/articles/in-china-young-women-become-accidental-symbols-of-defiance-11674667983?st=llw83oe60nirg35" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/in-china-young-women-become-accidental-symbols-of-defiance-11674667983?st=llw83oe60nirg35</a>
 

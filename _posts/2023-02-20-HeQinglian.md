@@ -201,7 +201,7 @@ Re @washearg 除了美国还有些家底，其余的国家，就算了吧。
 
 ### 47: [2023-02-21 23:05:51+08:00 推文](https://twitter.com/HeQinglian/status/1628048359180181507)
 
-RT He Qinglian<br>Re @Lucs24659702 很多乌鸡血们，包括那位说自己“曾经是农民、永远是农民”的“瞧瞧桥”老妹子在内，不相信乌克兰的第10次征兵令，这是原推，信不信由他们，懂乌语的请好心一点翻译给她听，让她再也不要在见识上“永远是农民”。<div class="rsshub-quote"><br><br>绫波: 乌克兰泽连斯基发起第10次征兵令，打算征召100万名士兵。<br><br>征兵令中规定，成年男性65岁以上，85岁以下必须参军。<br><br><img style="" src="https://pbs.twimg.com/media/FpYOaBgaYAAL-9z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+Re @Lucs24659702 很多乌鸡血们，包括那位说自己“曾经是农民、永远是农民”的“瞧瞧桥”老妹子在内，不相信乌克兰的第10次征兵令，这是原推，信不信由他们，懂乌语的请好心一点翻译给她听，让她再也不要在见识上“永远是农民”。<div class="rsshub-quote"><br><br>绫波: 乌克兰泽连斯基发起第10次征兵令，打算征召100万名士兵。<br><br>征兵令中规定，成年男性65岁以上，85岁以下必须参军。<br><br><img style="" src="https://pbs.twimg.com/media/FpYOaBgaYAAL-9z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 48: [2023-02-21 23:08:41+08:00 推文](https://twitter.com/HeQinglian/status/1628049071679188993)
 
@@ -506,4 +506,32 @@ Re @Wu_Zhi @nuosu001 @JianglinLi @seadognw 你德倒真应该向欧洲各国介�
 ### 123: [2023-02-23 10:07:43+08:00 推文](https://twitter.com/HeQinglian/status/1628577311002951680)
 
 Re @JianglinLi @Mydoglucky2 这类故事其实很多。<br>香港亚视曾拍过一部《远在他乡的故事 》，就是各种远嫁世界各国的中国女子的经历，有好有坏，最差的就是华东化工学院78级女生远嫁非洲的故事，听起来与陈怡的故事差不多。<br>最传奇的是一位嫁黎巴嫩商人的女子，生活有如王后。
+
+### 124: [2023-02-23 11:06:53+08:00 推文](https://twitter.com/HeQinglian/status/1628592200589123584)
+
+Re @hohot 用的是“end"，还能理解成别的意思？
+
+### 125: [2023-02-23 11:16:31+08:00 推文](https://twitter.com/HeQinglian/status/1628594627044429824)
+
+Re @shenliangqing2 这是啥节奏？<br>难道小土豆最近跟拜登不够紧？
+
+### 126: [2023-02-23 11:17:20+08:00 推文](https://twitter.com/HeQinglian/status/1628594830925340676)
+
+习亲俄不用再装 普京喜入新境界 乌战第二年谁的牌大？<br>https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20230222-%E4%B9%A0%E4%BA%B2%E4%BF%84%E4%B8%8D%E7%94%A8%E5%86%8D%E8%A3%85-%E6%99%AE%E4%BA%AC%E5%96%9C%E5%85%A5%E6%96%B0%E5%A2%83%E7%95%8C-%E4%B9%8C%E6%88%98%E7%AC%AC%E4%BA%8C%E5%B9%B4%E8%B0%81%E7%9A%84%E7%89%8C%E5%A4%A7<br>看后，忍不住爆笑。想起一年来西媒想用口水约束中俄，不让其走得太近，中南海某人应该吟诗：任尔东西南北风，咬住青山不放松。<br>终于轮到中国叫牌了。<br>可惜了美国的冷战专家与地缘政治研究圈。
+
+### 127: [2023-02-23 11:18:42+08:00 推文](https://twitter.com/HeQinglian/status/1628595174669524992)
+
+Re @kbclindy @Lucs24659702 北约第五条有这规定？
+
+### 128: [2023-02-23 11:24:50+08:00 推文](https://twitter.com/HeQinglian/status/1628596720639541249)
+
+Re @Wu_Zhi 我大概看过冷战专家与地缘政治专家们约30篇分析俄乌战争与美中俄关系的文章，发现他们基本被排斥在俄乌战争的决策圈之外。
+
+### 129: [2023-02-23 11:26:41+08:00 推文](https://twitter.com/HeQinglian/status/1628597185628471298)
+
+Re @kbclindy 谁也没说过拜登“想让美国的男人都变性”，一来他做不到；二来他家的儿子女儿、孙子孙女包括他自己与他弟弟都没变，示范作用不强。
+
+### 130: [2023-02-23 11:30:45+08:00 推文](https://twitter.com/HeQinglian/status/1628598208266993665)
+
+Re @kbclindy @Lucs24659702 请关注北约秘书长俄乌战争以来就这条的多次说明，毕竟，你不是北约秘书长，解释权在他，不在你。
 
