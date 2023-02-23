@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2022-05-16~2022-05-22'
 
 ### 1: [2022-05-16 00:34:39+08:00 推文](https://twitter.com/realcaixia/status/1525877328219209728)
 
-看到女性在国家事务中发挥越来越大的作用，很自豪。<br>“我们的身体不过是我们灵魂的外衣，是他与她之间唯一的区别，<br>至于灵魂，是一样好的，<br>是的，在许多女性身体中的灵魂也同样伟大。”<br>——索菲亚.布伦纳 写于1719年<br><br>韩连潮: 【巾帼英雄】芬兰和瑞典拟放弃分别实施了70多年和200年的中立，加入北约。不是安全受到来自普京的极大威胁，她们不会轻易更改这项国策。这两位国家领导敢作敢为，是真正的巾帼英雄。<br><br><img style="" src="https://pbs.twimg.com/media/FSzkJhOXwAE0o1H?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+看到女性在国家事务中发挥越来越大的作用，很自豪。<br>“我们的身体不过是我们灵魂的外衣，是他与她之间唯一的区别，<br>至于灵魂，是一样好的，<br>是的，在许多女性身体中的灵魂也同样伟大。”<br>——索菲亚.布伦纳 写于1719年
 
 ### 2: [2022-05-16 01:31:00+08:00 推文](https://twitter.com/realcaixia/status/1525891510989889536)
 
@@ -121,11 +121,11 @@ Re 中共秘书侍候领导十分周到，20年前我曾经参加过中组部一
 
 ### 27: [2022-05-21 08:38:22+08:00 推文](https://twitter.com/realcaixia/status/1527811001432915969)
 
-特别推荐#议报发布的这篇纪实报告。议报推文引语写的好。<br><br>《议报》: 王胜生: 被留置武汉火车站纪实<br> <a href="https://yibaochina.com/?p=246597" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246597</a>
+特别推荐#议报发布的这篇纪实报告。议报推文引语写的好。
 
 ### 28: [2022-05-21 21:50:02+08:00 推文](https://twitter.com/realcaixia/status/1528010227945177090)
 
-技術改進一小步，獲取信息一大步。
+技術改進一小步，獲取信息一大步。<br><br>GreatFire.org: Have you read an interesting story on WeChat? Think it might get censored? Archive the story on <br>帮助我们改进自由微信的抓取系统，以便您更容易的看到感兴趣的内容。<br><br><img style="" src="https://pbs.twimg.com/media/FTMFaNFWQAA-Wgx?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="http://freewechat.com/" target="_blank" rel="noopener noreferrer">http://FreeWeChat.com</a> <a href="https://freewechat.com/submit" target="_blank" rel="noopener noreferrer">https://freewechat.com/submit</a>
 
 ### 29: [2022-05-22 00:54:13+08:00 推文](https://twitter.com/realcaixia/status/1528056580440309760)
 
