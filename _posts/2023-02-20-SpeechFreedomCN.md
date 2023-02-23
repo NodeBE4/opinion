@@ -17,9 +17,9 @@ title: 'Twitter @中国文字狱事件盘点: 2023-02-20~2023-02-26'
 
 ### 1: [2023-02-22 20:14:32+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1628367633513951236)
 
-福建省仙游县男子郑某，因在朋友圈发布了一条内容，指责交警“就跟土匪没什么区别……道德沦丧、毫无人性、天理难容……”，被认定为辱警并被拘留4日。<br><img style="" src="https://pbs.twimg.com/media/FpkfbqzWIAEJrjn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+福建省仙游县男子郑某，因在朋友圈发布了一条内容，指责交警“就跟土匪没什么区别……道德沦丧、毫无人性、天理难容……”，被认定为辱警并被拘留4日。 https://t.co/MRkXZ0d5Ue<br><img style="" src="https://pbs.twimg.com/media/FpkfbqzWIAEJrjn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2023-02-22 20:15:47+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1628367951777734659)
 
-Fujian man Zheng detained for 4 days for accusing local police of "being no different from bandits, immoral, inhumane and unforgivable" in a WeChat Moments post.<br><img style="" src="https://pbs.twimg.com/media/FpkfwbtXoAE6IsH?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Fujian man Zheng detained for 4 days for accusing local police of "being no different from bandits, immoral, inhumane and unforgivable" in a WeChat Moments post. https://t.co/ja1fln5ET8<br><img style="" src="https://pbs.twimg.com/media/FpkfwbtXoAE6IsH?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

@@ -17,7 +17,7 @@ The China Media Project (中国传媒研究计划) is an independent think
 
 ### 1: [2023-02-02 11:22:36+08:00 推文](https://twitter.com/cnmediaproject/status/1620986012246896640)
 
-Turning a blind eye to the clear problems stemming from the sudden dismantling of "zero Covid" in early December, China's leaders and Party-state media have pushed the narrative that this has been a process  of "optimization." <a href="https://chinamediaproject.org/2023/02/02/optimization-another-word-for-messy/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2023/02/02/optimization-another-word-for-messy/</a>
+Turning a blind eye to the clear problems stemming from the sudden dismantling of "zero Covid" in early December, China's leaders and Party-state media have pushed the narrative that this has been a process  of "optimization." https://chinamediaproject.org/2023/02/02/optimization-another-word-for-messy/
 
 ### 2: [2023-02-03 22:02:24+08:00 推文](https://twitter.com/CarlMinzner/status/1621509412862017538)
 

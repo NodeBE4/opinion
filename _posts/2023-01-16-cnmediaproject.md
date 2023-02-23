@@ -17,7 +17,7 @@ The China Media Project (中国传媒研究计划) is an independent think
 
 ### 1: [2023-01-16 17:30:52+08:00 推文](https://twitter.com/mikechinoy/status/1614918096174845953)
 
-RT Mike Chinoy<br>My new book on the history of American journalists in China, "Assignment China," is now available through the website of  Columbia University Press. <a href="https://cup.columbia.edu/book/assignment-china/9780231207997" target="_blank" rel="noopener noreferrer">https://cup.columbia.edu/book/assignment-china/9780231207997</a>
+RT Mike Chinoy<br>My new book on the history of American journalists in China, "Assignment China," is now available through the website of  Columbia University Press.  https://cup.columbia.edu/book/assignment-china/9780231207997    You'll get a 20% discount by ordering with the promo code CUP20.  Thanks to everyone for your interest!
 
 ### 2: [2023-01-17 11:26:57+08:00 推文](https://twitter.com/yunjulietzhou/status/1615188899717910528)
 
@@ -25,7 +25,7 @@ RT Yun Zhou<br>This is a sea change (while buried at the end): China’s Natio
 
 ### 3: [2023-01-19 05:32:01+08:00 推文](https://twitter.com/EmilyZFeng/status/1615824356508147723)
 
-RT Emily Feng 冯哲芸<br>This is the best piece I've seen on the rural Covid pandemic in China. <br><br>A doctor working tirelessly, breathless from Covid herself. People dying of severe symptoms, unable to get tested/a hospital bed. And people getting on with new year parties and weddings - come whatever may
+RT Emily Feng 冯哲芸<br>This is the best piece I've seen on the rural Covid pandemic in China. <br><br>A doctor working tirelessly, breathless from Covid herself. People dying of severe symptoms, unable to get tested/a hospital bed. And people getting on with new year parties and weddings - come whatever may<div class="rsshub-quote"><br><br>Sixth Tone: In early December, China dismantled its “zero-COVID” policy. Within a month, the virus was everywhere. Sixth Tone’s @BeimengFu traveled to remote villages in the southwestern province of Sichuan, where she witnessed firsthand how the virus surge has inundated local hospitals.<br><br><video src="https://video.twimg.com/amplify_video/1615592827676917761/vid/830x466/GXhKfsRlSiJ3Mt7V.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/media/Fmu-nwyaAAA3tSM?format=jpg&amp;name=orig"></video></div>
 
 ### 4: [2023-01-19 11:35:35+08:00 推文](https://twitter.com/cnmediaproject/status/1615915850187567106)
 
@@ -33,5 +33,5 @@ In CMP's latest "Going Global" column, David Bandurski studies the recent report
 
 ### 5: [2023-01-19 11:37:36+08:00 推文](https://twitter.com/cnmediaproject/status/1615916359116017667)
 
-Re "China — for all its talk of 'a strategic communication system with Chinese characteristics' — has made few real advancements in terms of strategy or substance. It still relies overwhelmingly on the credible avenues offered by local and international media outside of China."<br><img style="" src="https://pbs.twimg.com/media/FmzjW1PakAE4ak_?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re "China — for all its talk of 'a strategic communication system with Chinese characteristics' — has made few real advancements in terms of strategy or substance. It still relies overwhelmingly on the credible avenues offered by local and international media outside of China." https://t.co/Cv9hClN1Cb<br><img style="" src="https://pbs.twimg.com/media/FmzjW1PakAE4ak_?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

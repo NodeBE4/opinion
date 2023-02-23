@@ -21,7 +21,7 @@ title: 'Twitter @中国文字狱事件盘点: 2023-01-30~2023-02-05'
 
 ### 2: [2023-01-30 21:02:09+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1620044699154403331)
 
-A villager surnamed Zhao from Qinghai Province administratively detained for "insulting village an official" in a WeChat group chat.<br><img style="" src="https://pbs.twimg.com/media/FnuNmzdWYAAmkMT?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+A villager surnamed Zhao from Qinghai Province administratively detained for "insulting village an official" in a WeChat group chat. https://t.co/uZsTHRmTUa<br><img style="" src="https://pbs.twimg.com/media/FnuNmzdWYAAmkMT?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2023-01-31 20:31:33+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1620399385237651457)
 
@@ -37,5 +37,5 @@ Gansu man Du detained for 5 days for "cursing" a local village official in WeCha
 
 ### 6: [2023-02-05 21:04:45+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1622219678104911872)
 
-Guangxi man Lao detained for 5 days for saying in a WeChat group chat "dogs checking vehicles", which police claimed insulted them.<br><img style="" src="https://pbs.twimg.com/media/FoNH-3GWYAIJ8FE?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FoNIAWbWAAErTP1?format=png&amp;name=orig" referrerpolicy="no-referrer">
+Guangxi man Lao detained for 5 days for saying in a WeChat group chat "dogs checking vehicles", which police claimed insulted them. https://t.co/FOfuDGhyaL<br><img style="" src="https://pbs.twimg.com/media/FoNH-3GWYAIJ8FE?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FoNIAWbWAAErTP1?format=png&amp;name=orig" referrerpolicy="no-referrer">
 

@@ -225,7 +225,7 @@ Re @qqiaoqiao @Lucs24659702 你在推上找出三个以上比我更严谨的吧�
 
 ### 53: [2023-02-21 23:26:50+08:00 推文](https://twitter.com/HeQinglian/status/1628053641792786432)
 
-话说得这么直白，乌鸡血们又要来喷洒正义的热血了。<div class="rsshub-quote"><br><br>Isabel👑💎WW: 我再说一遍，挺俄需要更高门槛，因为需要对历史和现实重新认知，<br><br>挺乌不需要任何头脑，只需要情怀，而且这种情怀还是几十年人家灌输给你的。<br> <a href="https://twitter.com/123450terry/status/1627877464344231936" target="_blank" rel="noopener noreferrer">https://twitter.com/123450terry/status/1627877464344231936</a></div>
+话说得这么直白，乌鸡血们又要来喷洒正义的热血了。<div class="rsshub-quote"><br><br>Isabel👑💎WW: 我再说一遍，挺俄需要更高门槛，因为需要对历史和现实重新认知，<br><br>挺乌不需要任何头脑，只需要情怀，而且这种情怀还是几十年人家灌输给你的。<br></div>
 
 ### 54: [2023-02-21 23:31:02+08:00 推文](https://twitter.com/HeQinglian/status/1628054698199552002)
 
@@ -441,7 +441,7 @@ Re @FightForJiuCai 乌克兰人好歹有形式上的民主啊。<br>如果如乌
 
 ### 107: [2023-02-23 04:37:55+08:00 推文](https://twitter.com/HeQinglian/status/1628494315533000717)
 
-Re @shenliangqing2 建议与这一起参看。再加上骄傲月、零元购、裸体大游 行，就是左派们梦寐以求的进步主义NWO. https://twitter.com/djhxiaoming/status/1628179486452891648<div class="rsshub-quote"><br><br>低级黑小明: 来看一下美国版的“操你妈逼”<br><br>现在的lgbt小屁孩一个二个都没有人样了，觉得只要别人把自己性别说错或者不承认自己的性别就要操你妈逼。 https://t.co/xWwdJ4goYi<br><br><video src="https://video.twimg.com/amplify_video/1628179434556751872/vid/720x1280/ES33umab5NJKiUDD.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1628179434556751872/img/wfYMeOGe0leEv67A.jpg"></video></div>
+Re @shenliangqing2 建议与这一起参看。再加上骄傲月、零元购、裸体大游 行，就是左派们梦寐以求的进步主义NWO.<div class="rsshub-quote"><br><br>低级黑小明: 来看一下美国版的“操你妈逼”<br><br>现在的lgbt小屁孩一个二个都没有人样了，觉得只要别人把自己性别说错或者不承认自己的性别就要操你妈逼。<br><br><video src="https://video.twimg.com/amplify_video/1628179434556751872/vid/720x1280/ES33umab5NJKiUDD.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1628179434556751872/img/wfYMeOGe0leEv67A.jpg"></video></div>
 
 ### 108: [2023-02-23 04:41:44+08:00 推文](https://twitter.com/HeQinglian/status/1628495274657153026)
 
@@ -470,4 +470,40 @@ Re 这也是台湾民众自救的一种方式，“台湾不想成为乌克兰�
 ### 114: [2023-02-23 06:59:12+08:00 推文](https://twitter.com/HeQinglian/status/1628529870207680514)
 
 Re @KELMAND1 这是民主的配给制，而且是发挥国际主义精神的牺牲，占英国人民大多数的左派能够忍。<br>须知，英国青年（40岁以下），60%多喜欢社会主义。社会主义的两大特点：计划经济与国际主义精神（先关照世界上三分之二劳苦人民），可不能省略。
+
+### 115: [2023-02-23 08:49:55+08:00 推文](https://twitter.com/HeQinglian/status/1628557733308899329)
+
+Re @shenliangqing2 我第一次在国外见到同性恋是在瑞典，是拉拉，其中一位是华女。因为有人打过招呼，说直呼其名即可，不需要加Mr. 或Ms.我也略知这些人特别敏感，一开始就选个较远的位置，因此无事。
+
+### 116: [2023-02-23 08:53:48+08:00 推文](https://twitter.com/HeQinglian/status/1628558712821391368)
+
+Re @houl1980tomcom 现在预测尚早。但赖清德有一致命弱点：最老的绿营人士，极端的台独主张者。这一点，会让台湾中间民众不考虑他。<br>还有段时间，台湾政治极易翻覆。现在说什么都有点早。
+
+### 117: [2023-02-23 08:58:42+08:00 推文](https://twitter.com/HeQinglian/status/1628559945347072000)
+
+Re @evaqiao2022 @inno_dai 不是川普说的，是美国一名资深记者说的。这记者名叫西摩·赫什。<br>很想问一声，你是以前那个“evaqiao”么？
+
+### 118: [2023-02-23 09:01:43+08:00 推文](https://twitter.com/HeQinglian/status/1628560703194820610)
+
+Re @CFPoPD4aJ0ljdTA @lianghuiwang2 你很聪明。<br>我不费口舌了。你继续保持这种看法并发表意见。
+
+### 119: [2023-02-23 09:08:24+08:00 推文](https://twitter.com/HeQinglian/status/1628562384133537792)
+
+Re @JianglinLi @Wu_Zhi @nuosu001 @seadognw 我在四川的同学有位同事在凉山某县挂职两年，在某乡蹲点一年。曾在成都相遇，我专门问过他，以他的基层经历与感受，有办法脱贫么？<br>他谈了三件事情：支农给种子，将种子煮饭吃了；送兔子饲养并定点收购，兔子吃了；送肥料改造土壤，基本扔了。<br>授人以渔的结果与授人以鱼是一样的。
+
+### 120: [2023-02-23 09:16:39+08:00 推文](https://twitter.com/HeQinglian/status/1628564461182132225)
+
+赫什文章指出：2022年2月7日在白宫，拜登告诉来访的德国总理肖尔茨，俄如果进攻乌克兰，北溪管道将不复存在。肖尔茨表示将与美国站在一起。会面结束的当晚，拜登公布了对北溪管道的打算。<br>我真的很好奇，肖尔茨需不需要对德国人解释这一点？<div class="rsshub-quote"><br><br>DW 中文- 德国之声: 美国知名记者赫什网络发文爆料称这一破坏袭击是美国所为，让各种猜测沸腾。而参与调查的国家，包括德国的相关机构未公开任何与调查进展有关的信息。对媒体的询问，也多半讳莫如深。#北溪爆炸事件  https://p.dw.com/p/4Npqu<br></div>
+
+### 121: [2023-02-23 09:20:44+08:00 推文](https://twitter.com/HeQinglian/status/1628565488153382913)
+
+Re @JianglinLi @Wu_Zhi @nuosu001 @seadognw 鱼已经煮成了汤，再想还原成鱼，难哪。
+
+### 122: [2023-02-23 09:50:43+08:00 推文](https://twitter.com/HeQinglian/status/1628573033450307586)
+
+Re @Wu_Zhi @nuosu001 @JianglinLi @seadognw 你德倒真应该向欧洲各国介绍经验，如何在一年内成功摆脱对俄罗斯的天然气依赖。<br>我知道的有：<br>1、去工业化（耗死一批用俄便宜能源的企业）；2、将煤炭、木柴等洗绿，纳入绿能；3、高价能源让德国人节能。<br>还有什么方法，请补充。乌克兰真不应该再骂德国人了。
+
+### 123: [2023-02-23 10:07:43+08:00 推文](https://twitter.com/HeQinglian/status/1628577311002951680)
+
+Re @JianglinLi @Mydoglucky2 这类故事其实很多。<br>香港亚视曾拍过一部《远在他乡的故事 》，就是各种远嫁世界各国的中国女子的经历，有好有坏，最差的就是华东化工学院78级女生远嫁非洲的故事，听起来与陈怡的故事差不多。<br>最传奇的是一位嫁黎巴嫩商人的女子，生活有如王后。
 

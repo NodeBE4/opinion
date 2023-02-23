@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2023-02-20~2023-02-26'
 
 ### 1: [2023-02-20 01:32:52+08:00 推文](https://twitter.com/realcaixia/status/1627360581853528064)
 
-普京侵略乌克兰，送上战场上死了的都是普京的炮灰，普京自己不出一滴血。<br>习武统台湾将送上战场的军人与后备人员，相当于现在普京的炮灰，习的炮灰是18岁—60岁的人。对家庭来说，他们是家的顶梁柱；对民族传续而言，他们是中坚力量。为满足普习野心而自毁民族中坚，普习都是民族的罪人。<div class="rsshub-quote"><br><br>華潤萬家: 《兲朝🇨🇳预备役法》2023年3月1日开始实施，未雨绸缪，承平日久必有战事的历史规律加上国际形势变化，不得不提前布局。如果发生大战各级武装力量上战场顺序：<br>首批，现役陆海空各部队；<br>次批，武装警察部队；<br>三批，预备役和退役军人；<br>四批，18-60岁的普通人；<br>最后一批，人民警察等公务员队伍。<br><br><video src="https://video.twimg.com/ext_tw_video/1627274543260930049/pu/vid/720x720/MJ6EdYbFPVhu2rbm.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1627274543260930049/pu/img/CP8f1fRCKCHlVKEa.jpg"></video></div>
+普京侵略乌克兰，送上战场上死了的都是普京的炮灰，普京自己不出一滴血。<br>习武统台湾将送上战场的军人与后备人员，相当于现在普京的炮灰，习的炮灰是18岁—60岁的人。对家庭来说，他们是家的顶梁柱；对民族传续而言，他们是中坚力量。为满足普习野心而自毁民族中坚，普习都是民族的罪人。<div class="rsshub-quote"><br><br>華潤萬家: 《兲朝🇨🇳预备役法》2023年3月1日开始实施，未雨绸缪，承平日久必有战事的历史规律加上国际形势变化，不得不提前布局。如果发生大战各级武装力量上战场顺序：<br>首批，现役陆海空各部队；<br>次批，武装警察部队；<br>三批，预备役和退役军人；<br>四批，18-60岁的普通人；<br>最后一批，人民警察等公务员队伍。 https://t.co/lGy5mfmEEU<br><br><video src="https://video.twimg.com/ext_tw_video/1627274543260930049/pu/vid/720x720/MJ6EdYbFPVhu2rbm.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1627274543260930049/pu/img/CP8f1fRCKCHlVKEa.jpg"></video></div>
 
 ### 2: [2023-02-20 01:48:02+08:00 推文](https://twitter.com/realcaixia/status/1627364397743230976)
 
@@ -25,7 +25,7 @@ title: 'Twitter @蔡霞: 2023-02-20~2023-02-26'
 
 ### 3: [2023-02-20 08:33:23+08:00 推文](https://twitter.com/realcaixia/status/1627466410715906048)
 
-习吹中国式现代化创造人类文明新形态：<br>贫富悬殊，中共国占世界前五位；<br>经济：⬇️面窥一斑而见全貌；<br>政治：习共党深陷塔西陀陷阱，   民众从白纸—烟花—白发革命…<br>法治：铁链女、唐山四女、胡鑫宇，公检法合演“胡芦僧判葫芦案”<br>生态：土地、江海河流、空气，无不带毒； <a href="https://m.youtube.com/watch?v=E-h3swakL_A" target="_blank" rel="noopener noreferrer">https://m.youtube.com/watch?v=E-h3swakL_A</a>
+习吹中国式现代化创造人类文明新形态：<br>贫富悬殊，中共国占世界前五位；<br>经济：⬇️面窥一斑而见全貌；<br>政治：习共党深陷塔西陀陷阱，   民众从白纸—烟花—白发革命…<br>法治：铁链女、唐山四女、胡鑫宇，公检法合演“胡芦僧判葫芦案”<br>生态：土地、江海河流、空气，无不带毒；<br><br> https://m.youtube.com/watch?v=E-h3swakL_A
 
 ### 4: [2023-02-20 08:55:12+08:00 推文](https://twitter.com/realcaixia/status/1627471898752987137)
 
@@ -41,19 +41,19 @@ Re @reallijiakun 中庸是不走极端。
 
 ### 7: [2023-02-21 11:44:14+08:00 推文](https://twitter.com/realcaixia/status/1627876827011096576)
 
-街头出现习语朗读间，这可真是中国式现代化的一大发明创新。<div class="rsshub-quote"><br><br>Kingsley: @yajunwwz<br><br><img style="" src="https://pbs.twimg.com/media/FpZxKtEaMAE0-jk?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+街头出现习语朗读间，这可真是中国式现代化的一大发明创新。<div class="rsshub-quote"><br><br>Kingsley: @yajunwwz https://t.co/wy74yNn324<br><br><img style="" src="https://pbs.twimg.com/media/FpZxKtEaMAE0-jk?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 8: [2023-02-21 11:46:01+08:00 推文](https://twitter.com/realcaixia/status/1627877274325336067)
 
-以言治罪。<div class="rsshub-quote"><br><br>亚军&amp;王歪嘴: 革委会<br><br><img style="" src="https://pbs.twimg.com/media/FpZr6U_aMAA1cZC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+以言治罪。<div class="rsshub-quote"><br><br>亚军&amp;王歪嘴: 革委会 https://t.co/y0DNmpqN5v<br><br><img style="" src="https://pbs.twimg.com/media/FpZr6U_aMAA1cZC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 9: [2023-02-22 05:43:44+08:00 推文](https://twitter.com/realcaixia/status/1628148492396003328)
 
-特别推荐：长沙一个NGO组织创始人程渊，一直在从事维护权利平等活动，尤其对底层民众。他在他被监禁的3年半被剥夺合法权利，被判罪，被强制劳动等，他始终不屈服。<br>他的妻子施明磊同样非常了不起，勇敢站出来公开揭露中共黑监狱的种种黑内幕。请关注和支持程渊和施明磊。 <a href="https://youtu.be/9PGPK5eHnaQ" target="_blank" rel="noopener noreferrer">https://youtu.be/9PGPK5eHnaQ</a>
+特别推荐：长沙一个NGO组织创始人程渊，一直在从事维护权利平等活动，尤其对底层民众。他在他被监禁的3年半被剥夺合法权利，被判罪，被强制劳动等，他始终不屈服。<br>他的妻子施明磊同样非常了不起，勇敢站出来公开揭露中共黑监狱的种种黑内幕。请关注和支持程渊和施明磊。 https://youtu.be/9PGPK5eHnaQ
 
 ### 10: [2023-02-22 05:53:43+08:00 推文](https://twitter.com/realcaixia/status/1628151001617412103)
 
-Re <br><img style="" src="https://pbs.twimg.com/media/Fphas_zaMAMf-a6?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fphas_zaMAciWUY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fphas_zaMAgPJI9?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fphas_0aMAIA1bM?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re https://t.co/ByuG6ocezr<br><img style="" src="https://pbs.twimg.com/media/Fphas_zaMAMf-a6?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fphas_zaMAciWUY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fphas_zaMAgPJI9?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fphas_0aMAIA1bM?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 11: [2023-02-22 06:02:15+08:00 推文](https://twitter.com/realcaixia/status/1628153150954950656)
 
@@ -65,13 +65,13 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fphas_zaMAMf-a6?format=jpg
 
 ### 13: [2023-02-22 06:35:45+08:00 推文](https://twitter.com/realcaixia/status/1628161581233078274)
 
-别说中国没一个孩子想，连成人都不敢想也不想想。<div class="rsshub-quote"><br><br>李隽🇦🇺: 听听这个少年说他为什么要上学，为什么学习知识。中国有一个孩子这样想吗？<br><br><video src="https://video.twimg.com/ext_tw_video/1627617293026070528/pu/vid/592x1280/-gK6VxJG6LBYZCW3.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1627617293026070528/pu/img/TfEwb2TZd83-BPZ1.jpg"></video></div>
+别说中国没一个孩子想，连成人都不敢想也不想想。<div class="rsshub-quote"><br><br>李隽🇦🇺: 听听这个少年说他为什么要上学，为什么学习知识。中国有一个孩子这样想吗？ https://t.co/MNz2NNWQqB<br><br><video src="https://video.twimg.com/ext_tw_video/1627617293026070528/pu/vid/592x1280/-gK6VxJG6LBYZCW3.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1627617293026070528/pu/img/TfEwb2TZd83-BPZ1.jpg"></video></div>
 
 ### 14: [2023-02-22 08:15:55+08:00 推文](https://twitter.com/realcaixia/status/1628186790698917888)
 
-推荐这期岳戈节目。习召开20大政治局会议，放风再一次国家机构“改革”，实质是反动。习权欲熏心与绝对控制狂。<br>李强总理未坐定即被收权，李强或弱过李克强；二中全会机构改革规模大，中共教授怒批：哪还有党政分开！要求检讨三年疫控，哪位“民主党派”人士胆子如... <a href="https://youtu.be/gYwbKDW5Tr8" target="_blank" rel="noopener noreferrer">https://youtu.be/gYwbKDW5Tr8</a>
+推荐这期岳戈节目。习召开20大政治局会议，放风再一次国家机构“改革”，实质是反动。习权欲熏心与绝对控制狂。<br>李强总理未坐定即被收权，李强或弱过李克强；二中全会机构改革规模大，中共教授怒批：哪还有党政分开！要求检讨三年疫控，哪位“民主党派”人士胆子如... https://youtu.be/gYwbKDW5Tr8 来自YouTube
 
 ### 15: [2023-02-22 08:29:55+08:00 推文](https://twitter.com/realcaixia/status/1628190312098107394)
 
-Re <br><img style="" src="https://pbs.twimg.com/media/Fph-dRUXoAIuM1n?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re https://t.co/TNult4X23E<br><img style="" src="https://pbs.twimg.com/media/Fph-dRUXoAIuM1n?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
