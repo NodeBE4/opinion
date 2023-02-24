@@ -197,7 +197,7 @@ Re @UGy9oNugsWfeYes 这个文件我不知道。
 
 ### 46: [2022-05-12 00:52:51+08:00 推文](https://twitter.com/realcaixia/status/1524432357956145152)
 
-李家超在镇压反送中运动中交了投名状，现在是向习近平表忠心，表绝对忠诚。极权制度从来是用最恶的人激发人性恶，无底线地干坏事。<br><br>韩连潮: 【陈日君被抓】中共恶警李家超无端抓捕一个90岁的老人向习近平献媚讨好，必将遭世人唾骂和诅咒。<br><br><img style="" src="https://pbs.twimg.com/media/FSfLkrjUUAI3IsK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+李家超在镇压反送中运动中交了投名状，现在是向习近平表忠心，表绝对忠诚。极权制度从来是用最恶的人激发人性恶，无底线地干坏事。
 
 ### 47: [2022-05-12 19:39:02+08:00 推文](https://twitter.com/realcaixia/status/1524715771519287296)
 
@@ -205,11 +205,11 @@ Re @UGy9oNugsWfeYes 这个文件我不知道。
 
 ### 48: [2022-05-12 23:48:07+08:00 推文](https://twitter.com/realcaixia/status/1524778456667627527)
 
-跟推传发一夜庐诗作。<br><br>ZHANGDONG: 疫情新三别（之二）<br>小兒别<br><br><img style="" src="https://pbs.twimg.com/media/FSRTha1X0AU8QJK?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSRThosXoAIrT6H?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSRTh6IXMAAnddt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSRTiIdXwAAJzkl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+跟推传发一夜庐诗作。
 
 ### 49: [2022-05-12 23:48:39+08:00 推文](https://twitter.com/realcaixia/status/1524778589404774400)
 
-跟推传发。<br><br>ZHANGDONG: 承蒙一夜廬先生特许，本推连载其新作《疫情新三吏三别》，至此六首诗作全部推出。先生常以古诗词形式针砭时弊，深得读者共鸣，在国内网络广为流传。<br>
+跟推传发。
 
 ### 50: [2022-05-13 22:18:10+08:00 推文](https://twitter.com/realcaixia/status/1525118207941484544)
 
@@ -229,7 +229,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FSrg9DDUUAEO-Jq?format=jpg
 
 ### 54: [2022-05-15 22:24:54+08:00 推文](https://twitter.com/realcaixia/status/1525844675994652672)
 
-这是大陆一位很有造诣的政治学学者的文章。特别推荐。<br><br>《议报》: 包刚升: 贫富冲突与现代政治<br> <a href="https://yibaochina.com/?p=246460" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246460</a>
+这是大陆一位很有造诣的政治学学者的文章。特别推荐。
 
 ### 55: [2022-05-15 22:25:52+08:00 推文](https://twitter.com/realcaixia/status/1525844920161820672)
 

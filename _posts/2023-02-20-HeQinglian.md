@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-02-24
+date: 2023-02-25
 from: https://twitter.com/HeQinglian/status/1627459636637888512
 layout: post
 tags:
@@ -461,7 +461,7 @@ Re @inno_dai @evaqiao2022 北溪管道是中国炸的？你有消息来源？�
 
 ### 112: [2023-02-23 06:31:23+08:00 推文](https://twitter.com/HeQinglian/status/1628522871348682756)
 
-最有趣的莫过于这句：“俄罗斯和中国的关系正在按计划发展”。<br>也就是说，过去一年多以来美欧全力指责的俄中结盟，完全不受影响。只是不知这“计划”形成于何时，内容也只能靠猜测。<div class="rsshub-quote"><br><br>Ezio Mao☢: 俄罗斯总统会见中共中央外事工作委员会办公室主任王毅<br><br>▪️俄罗斯联邦感谢中国的共同努力，现在世界国际关系很紧张；<br>▪️俄罗斯联邦与中国的合作对于稳定国际局势非常重要；<br>▪️莫斯科和北京正在落实会见中国国家主席的计划，这将推动双边关系的发展；<br>▪️俄罗斯和中国的关系正在按计划发展， https://t.co/57cA4ycrT4<br><br><video src="https://video.twimg.com/ext_tw_video/1628374269154701312/pu/vid/800x448/kE3g2eDzTxEstm-2.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1628374269154701312/pu/img/4nNO4r2754-Cxt8C.jpg"></video></div>
+最有趣的莫过于这句：“俄罗斯和中国的关系正在按计划发展”。<br>也就是说，过去一年多以来美欧全力指责的俄中结盟，完全不受影响。只是不知这“计划”形成于何时，内容也只能靠猜测。 https://twitter.com/KELMAND1/status/1628374309403246593<div class="rsshub-quote"><br><br>Ezio Mao☢: 俄罗斯总统会见中共中央外事工作委员会办公室主任王毅<br><br>▪️俄罗斯联邦感谢中国的共同努力，现在世界国际关系很紧张；<br>▪️俄罗斯联邦与中国的合作对于稳定国际局势非常重要；<br>▪️莫斯科和北京正在落实会见中国国家主席的计划，这将推动双边关系的发展；<br>▪️俄罗斯和中国的关系正在按计划发展， https://t.co/57cA4ycrT4<br><br><video src="https://video.twimg.com/ext_tw_video/1628374269154701312/pu/vid/800x448/kE3g2eDzTxEstm-2.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1628374269154701312/pu/img/4nNO4r2754-Cxt8C.jpg"></video></div>
 
 ### 113: [2023-02-23 06:33:42+08:00 推文](https://twitter.com/HeQinglian/status/1628523455216844800)
 
@@ -746,4 +746,40 @@ Re @pandatress1 俄罗斯的制造业经理人采购指数够牛的，大概在5
 ### 183: [2023-02-24 23:54:07+08:00 推文](https://twitter.com/HeQinglian/status/1629147671062622211)
 
 Re @KELMAND1 主要是美国白左当家，智商欠奉。
+
+### 184: [2023-02-24 23:58:23+08:00 推文](https://twitter.com/HeQinglian/status/1629148746637246464)
+
+Re @franktianxie @NTDChinese 【美國國防部參與投資的芒廷帕斯，2021年的稀土開採供應量佔世界的15%。美國總統拜登去年更是簽署了3,500萬美元的津貼，推動採礦行業發展和避免污染環境。】<br>解决了日本需求，但要在全球起杠杆作用，还得加大开采量，提高市场占有率——30%差不多了。
+
+### 185: [2023-02-25 00:20:45+08:00 推文](https://twitter.com/HeQinglian/status/1629154373044510720)
+
+Re @dinglili7 有时候，坚持就是胜利——从战争一开头我就说了，美国不能输。<br>但赢有各种方式，一是在信息战层面赢，这点美乌做到了，一直在赢；二是在道义层面，联合国第三轮投票，美乌又赢了；三是在实战层面，这也有个方法：你说你的，我说我的。<br>因此，美乌一直在赢。
+
+### 186: [2023-02-25 00:22:43+08:00 推文](https://twitter.com/HeQinglian/status/1629154869163466755)
+
+Re @ben1682005 老套路了，来点新的，好不？<br>你就直说，哪点不是事实？我现在看着美国这样，心痛。你反正除了恨中国之外，哪里也不爱。
+
+### 187: [2023-02-25 00:24:29+08:00 推文](https://twitter.com/HeQinglian/status/1629155313789161473)
+
+Re @pandatress1 印度而言，这个因素很明显。其余的国家不好说。
+
+### 188: [2023-02-25 00:26:51+08:00 推文](https://twitter.com/HeQinglian/status/1629155907631210503)
+
+Re @chai2171 @dinglili7 这个说法也备好了：普京原来想占领乌克兰全境，现在连基辅都未占领，当然是俄罗斯输了。
+
+### 189: [2023-02-25 00:31:35+08:00 推文](https://twitter.com/HeQinglian/status/1629157100830990337)
+
+Re @shenliangqing2 @KELMAND1 地缘政治当中，利益是唯一的。但有时候，历史恩怨起作用。比如在可见的百年内，中日永远不会走到一起；印度总念着当年苏联饥荒时期助印之情。
+
+### 190: [2023-02-25 00:39:33+08:00 推文](https://twitter.com/HeQinglian/status/1629159102755512323)
+
+Re @pandatress1 南非已经被美国与欧盟点名修理，在将来的选举中会下去。
+
+### 191: [2023-02-25 00:52:35+08:00 推文](https://twitter.com/HeQinglian/status/1629162384936910848)
+
+Re @pandatress1 巴西就成了。
+
+### 192: [2023-02-25 00:57:25+08:00 推文](https://twitter.com/HeQinglian/status/1629163600978882561)
+
+Re @shenliangqing2 @KELMAND1 这场战争，中国是客观情势造成的受益者。三方面受益，这点如今已经非常清楚了。如果是中国主动谋求，根本不可能得到这些。时势所至，末办法。<br>就比如，三年疫情，中国中小企业倒了400多万家，失业者达7000万，房地产走衰，楞是靠西方国家的外贸刚需撑过来了——制造业的40%产出对外出口。
 
