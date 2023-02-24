@@ -629,7 +629,7 @@ RT 沈良庆二世<br>中期选举后分裂的政府对美国意味着什么�
 
 ### 154: [2022-11-18 17:15:16+08:00 推文](https://twitter.com/KELMAND1/status/1593533286495969281)
 
-RT Ezio Mao☢<br>美国共和党国会议员要求国务院负责人安东尼布林肯就民主党、乌克兰和破产的加密货币交易所 FTX 之间的金融关系做出交代。<br><br>根据国会议员 Troy Nels、Louis Gomert、Mary Miller 和 Byron Donalds 的说法，作为军事援助转移到基辅的数十亿纳税人资金“可能会投资于 FTX 加密货币交易所。”<br><br>Ezio Mao☢: 关于乌克兰冲突的“FTX洗钱”骗局<br><br>“民主党撒钱给乌克兰，乌克兰把钱给 FTX，FTX 捐钱给民主党的竞选活动。我不知道这是战争牟利还是洗钱，我什至不知道，但需要调查。” “沃特斯说。<br><br><video src="https://video.twimg.com/ext_tw_video/1592840889482629120/pu/vid/640x352/e9b9iMoQ4reeiF-v.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1592840889482629120/pu/img/PgkblGPGkakbU1lT.jpg"></video>
+RT Ezio Mao☢<br>美国共和党国会议员要求国务院负责人安东尼布林肯就民主党、乌克兰和破产的加密货币交易所 FTX 之间的金融关系做出交代。<br><br>根据国会议员 Troy Nels、Louis Gomert、Mary Miller 和 Byron Donalds 的说法，作为军事援助转移到基辅的数十亿纳税人资金“可能会投资于 FTX 加密货币交易所。”<br><br>Ezio Mao☢: 关于乌克兰冲突的“FTX洗钱”骗局<br><br>“民主党撒钱给乌克兰，乌克兰把钱给 FTX，FTX 捐钱给民主党的竞选活动。我不知道这是战争牟利还是洗钱，我什至不知道，但需要调查。” “沃特斯说。<br><br><video src="https://video.twimg.com/ext_tw_video/1592840889482629120/pu/vid/640x352/e9b9iMoQ4reeiF-v.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1592840889482629120/pu/img/PgkblGPGkakbU1lT.jpg"></video> <a href="https://twitter.com/KELMAND1/status/1592399121633402881" target="_blank" rel="noopener noreferrer">https://twitter.com/KELMAND1/status/1592399121633402881</a>
 
 ### 155: [2022-11-18 21:51:34+08:00 推文](https://twitter.com/mingshi_chen/status/1593602820200189953)
 
@@ -789,7 +789,7 @@ Re @zhixiangziyou 忘记说明了。<br>这种圆木房子，从屋顶到墙，�
 
 ### 194: [2022-11-20 06:17:20+08:00 推文](https://twitter.com/HeQinglian/status/1594092488075214850)
 
-Re @jojowheel 美国现在的选民构成是D-40对R-40，中间约20%摇摆。<br>这摇摆的选民中不少是30岁至45岁的，年轻时左，成家后保守。但25岁以下的，75%是左与极左。<br>这种选民结构与教育体制，再加上拉美、华人等移民偏左，美国的未来，能够在摇摆中平衡，算最好情况。最差就是拜登2上台——这可能性不是没有。
+RT He Qinglian<br>Re @jojowheel 美国现在的选民构成是D-40对R-40，中间约20%摇摆。<br>这摇摆的选民中不少是30岁至45岁的，年轻时左，成家后保守。但25岁以下的，75%是左与极左。<br>这种选民结构与教育体制，再加上拉美、华人等移民偏左，美国的未来，能够在摇摆中平衡，算最好情况。最差就是拜登2上台——这可能性不是没有。
 
 ### 195: [2022-11-20 08:34:30+08:00 推文](https://twitter.com/HeQinglian/status/1594127004760039424)
 
@@ -857,7 +857,7 @@ Re @KELMAND1 说对了，防长其实是文官。
 
 ### 211: [2022-11-20 10:53:48+08:00 推文](https://twitter.com/HeQinglian/status/1594162061528948741)
 
-Re @lianghuiwang2 这事，你得了解巴西的历史。巴西人民聚集在陆军部前，自有其深意。<br><br>He Qinglian: 转：拉美陷入怪圈循环，全民普选-左派胜出-国有公营-安置亲信-员工冗重-成本巨高-技效低劣-产品滞销-财政赤字-增税印钞-搜刮通胀-平民上吊-右翼兵谏-扩大外贸-出口代工-信贷危机-金融风暴-通货紧缩-市场萧条-失业震荡-白左嘴炮-再度普选-还是左屌-循环往复<br>右派当政，独裁者傻逼；左派当政，选民傻逼<br>
+Re @lianghuiwang2 这事，你得了解巴西的历史。巴西人民聚集在陆军部前，自有其深意。<br><br>He Qinglian: 转：拉美陷入怪圈循环，全民普选-左派胜出-国有公营-安置亲信-员工冗重-成本巨高-技效低劣-产品滞销-财政赤字-增税印钞-搜刮通胀-平民上吊-右翼兵谏-扩大外贸-出口代工-信贷危机-金融风暴-通货紧缩-市场萧条-失业震荡-白左嘴炮-再度普选-还是左屌-循环往复<br>右派当政，独裁者傻逼；左派当政，选民傻逼<br> <a href="https://twitter.com/HeQinglian/status/1089898961069056001" target="_blank" rel="noopener noreferrer">https://twitter.com/HeQinglian/status/1089898961069056001</a>
 
 ### 212: [2022-11-20 11:02:28+08:00 推文](https://twitter.com/HeQinglian/status/1594164242483134464)
 
