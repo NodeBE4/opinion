@@ -61,7 +61,7 @@ Re @HenryCh34283099 对北大清华之类的大学，出于政治需要，即便
 
 ### 12: [2022-05-06 23:15:09+08:00 推文](https://twitter.com/realcaixia/status/1522595830305366018)
 
-强力推荐！#议报发布 <br>读笑蜀先生文章想起亨廷顿的《第三波》与福山的《历史的终极》，那时人们以为自由民主必然取代极权统治。事实上中共极权借此机会而获得时间和空间，快速崛起威胁世界和平。俄侵乌战争使普金结局已可见，此后即是自由民主与中共极权的对决。世界处在又一次关乎人类命运的历史关口
+强力推荐！#议报发布 <br>读笑蜀先生文章想起亨廷顿的《第三波》与福山的《历史的终极》，那时人们以为自由民主必然取代极权统治。事实上中共极权借此机会而获得时间和空间，快速崛起威胁世界和平。俄侵乌战争使普金结局已可见，此后即是自由民主与中共极权的对决。世界处在又一次关乎人类命运的历史关口<br><br>《议报》: 笑蜀：俄乌之战将威权打回原形，全球民主转型或会重启<br> <a href="https://yibaochina.com/?p=246302" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246302</a>
 
 ### 13: [2022-05-07 02:03:11+08:00 推文](https://twitter.com/realcaixia/status/1522638118935015426)
 
@@ -77,11 +77,11 @@ Re @Tututula4 @HenryCh34283099 这个问题需要您去问执行者。猜，没�
 
 ### 16: [2022-05-07 03:58:15+08:00 推文](https://twitter.com/realcaixia/status/1522667077819113477)
 
-他们一无所有时，他们要打碎一切，并号称为人民流血牺牲；他们踩着无数被牺牲的人民子弟尸骨登上金銮殿宝座时，他们就开始为保住一党专政权力与人民为敌。他们当然不许别人唱当年他们唱的国际歌。<br>他们的屁股决定他们的脑袋，有权就有一切是他们的信念。他们眼里没有正义，只有不惜一切保住权力的念头<br><br>老司机: 一场因为唱国际歌而引发的抓捕！在网络上引起轩然大波！这是猪头成天宣传依法治国的一记响亮的耳光！也是它一口气要求几十个全面监控的真实体现。它说什么从来都不重要，它们做什么才是真实发生的事实！那些对中国抱有幻想的人应该清醒了！<br><br><img style="" src="https://pbs.twimg.com/media/FSBr9OyVIAAnpsD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+他们一无所有时，他们要打碎一切，并号称为人民流血牺牲；他们踩着无数被牺牲的人民子弟尸骨登上金銮殿宝座时，他们就开始为保住一党专政权力与人民为敌。他们当然不许别人唱当年他们唱的国际歌。<br>他们的屁股决定他们的脑袋，有权就有一切是他们的信念。他们眼里没有正义，只有不惜一切保住权力的念头
 
 ### 17: [2022-05-07 08:58:37+08:00 推文](https://twitter.com/realcaixia/status/1522742665699340290)
 
-开心！
+开心！<br><br>荣剑: 网上说张维为清空了他的微博，还以为是谣传，从微博上看了一下，果然如此，看来这回渣国师“被揍”之后，心灵受到的打击远大于其被揍得鼻青脸肿，这叫伤害不大，羞辱不小，于是，恼羞成怒，关了自己的微博。😂😂<br><br><img style="" src="https://pbs.twimg.com/media/FRUOppXUUAAAaaa?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FRUOqN0VkAA78HY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FRUOq0_VkAE0ReB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FRUOrVhVgAAOmgU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2022-05-08 00:46:48+08:00 推文](https://twitter.com/realcaixia/status/1522981283751555072)
 
