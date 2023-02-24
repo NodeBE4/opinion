@@ -33,9 +33,9 @@ Re 2/<br>Things that are worthwhile looking at:<br>- Attitude of the central gov
 
 Re 3/<br>- Demands of people. Slogans range from “end COVID lockdown” to “Down with CCP/ Xi.” It would be interesting to see whether there’s a consolidation of what people want<br>- Overseas protests. Tens of overseas protests were organised in the past weekend ....
 
-### 5: [2022-11-28 18:52:48+08:00 推文](https://twitter.com/nathanlawkc/status/1597181710327611394)
+### 5: [2022-11-28 18:52:48+08:00 推文](https://twitter.com/nathanlawkc/status/1597181707933061120)
 
-Re 5/<br>whether the people continue to protest is the key. Colleges are still crucial sites. <br>- Intl support. Many are hesitant because PRC would label any foreign supports as “interference”, then weaken the moral appeal of the protest. How intl NGOs &amp; Orgs &amp; Govts gonna react?
+Re 4/<br>some of them (eg. London) had +1000 turnouts, most participants are Chinese students. We’ve never seen so much mobilization of them, who are often seen as either “apolitical” or “loyal”. <br>- Size of protest. With tighter control&amp; arrests made...
 
 ### 6: [2022-11-28 18:52:49+08:00 推文](https://twitter.com/nathanlawkc/status/1597181713192394752)
 
@@ -65,9 +65,9 @@ Friends have told me that when my thread on the #Chinaprotest was forwarded to W
 
 1/<br>「中國示威群眾在爭取些甚麼？」「他們清楚自己的目標嗎？」<br>非常重要，卻難以準確回答的問題，畢竟任何公正的群眾研究是幾乎不可能進行的。由要求解封到呼籲政制改革，示威群眾有寬闊的口號，也有個別參加者呼籲不要摻和挑戰大一統、政權的想法。<br><img style="" src="https://pbs.twimg.com/media/Fi0hkkYX0AE4lyU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 13: [2022-11-30 23:07:31+08:00 推文](https://twitter.com/nathanlawkc/status/1597970585908547585)
+### 13: [2022-11-30 23:07:31+08:00 推文](https://twitter.com/nathanlawkc/status/1597970588349308928)
 
-Re 2/<br>一張白紙，各種表述，是在這場運動中難以避免，皆因廣泛地凝聚群眾共識的條件（尤其是在牆內）並不存在。<br>那麼該如何團結不同聲音？<br>我沒有答案。或者說，我們感到很需要答案，但抱歉並不可能有答案，而且很可能不太需要答案。
+Re 3/<br>我們必須接納光譜的存在，呼聲的多元，接納有人比較溫和、激進，接納未來可以帶領談判的人並不完全覆蓋所有人的聲音。在這個前提下，大家必須海納百川地爭取更多人同意自己的路線。
 
 ### 14: [2022-11-30 23:07:32+08:00 推文](https://twitter.com/nathanlawkc/status/1597970590387777536)
 

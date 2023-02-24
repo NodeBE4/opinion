@@ -643,3 +643,51 @@ Re @horusi 数据不说谎，这是德国、美国、英国的官方数据。<br
 
 Re @Vince6610 近五年，美国已从中国第一大贸易伙伴，成为中国第四大贸易伙伴。<br>我改天专门写篇文章谈美国的脱钩努力与现实状况。
 
+### 158: [2023-02-24 06:46:38+08:00 推文](https://twitter.com/HeQinglian/status/1628889095509344256)
+
+俄乌战争以来，很多事美国没办好的原因，尤其是对俄制裁失败，主要是没弄清楚一点：<br>自2010年以来，全球化分工体系已经成为生产国、消费国与资源国，三类国家是互相依赖的互补关系。<br>美国是世界最大消费国，世界贸易顺差的主要来源；中国是生产国；俄罗斯是资源国，德国既是生产国（高端）又是消费国。<div class="rsshub-quote"><br><br>天降伟人包由检: 民主党机关报也觉得让俄罗斯内部推翻普京不那么现实，然后一直以来不知道哪根筋搭错了，总是特别希望包总来劝普京停手。这真挺有趣。我要是包总，肯定跟老美说“行啊，那总得有点好处吧……” https://t.co/Ma8VwyTLkX<br><br><img style="" src="https://pbs.twimg.com/media/FprvbLEWcAE-LQE?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLAWIAEkp__?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLAXgAI4e7z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLEXgAUvSha?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 159: [2023-02-24 07:05:36+08:00 推文](https://twitter.com/HeQinglian/status/1628893868212072448)
+
+Re @Mlu660317Mlu 如果你不懂经济，自然看不出门道。<br>你自己问问：为什么制裁俄罗斯，最后得通过炸管道逼德国资源脱钩？<br>为什么嚷嚷要二级制裁中国，最后与中国的进出口贸易创新高？<br>懒得与你说了。
+
+### 160: [2023-02-24 07:10:52+08:00 推文](https://twitter.com/HeQinglian/status/1628895196325851137)
+
+Re 我的习惯是每一两个月集中几天时间看经济类数据与相关资讯。今天从早上到现在，看了五六个小时相关资料，数万字，大概弄清楚中美欧日印几大国现在的状态。<br>中国已经过了最艰难的时期，今后脱困，主要仰仗这些国家对中国的经济依赖。<br>2月份中国大家电、家电的订单上升了20%，服装玩具类1月份下降。
+
+### 161: [2023-02-24 07:13:57+08:00 推文](https://twitter.com/HeQinglian/status/1628895971206746118)
+
+Re @3223_408 是今年吧？什么叫高增长？我不太看预期增长，只看实体层面，尤其是制造业的情况。
+
+### 162: [2023-02-24 08:52:09+08:00 推文](https://twitter.com/HeQinglian/status/1628920683483787264)
+
+今年前两个月，浙江许多大家电生产企业订单都出现了快速增长。“今年前两个月，返单的单量已经比去年同期增长了20%以上。”<br>对你，可能我得从ABC教起：数据比较有环比、月比、季度比。你能分辨出是什么比？<br>对你这种人，值得我花心思吗？<br>还是喊口号对你较合适。<div class="rsshub-quote"><br><br>UniversalValuesMatter: @HeQinglian 比起什么时候上升？😂 佩服佩服，教授水平真高👍<br></div>
+
+### 163: [2023-02-24 08:56:25+08:00 推文](https://twitter.com/HeQinglian/status/1628921758215507968)
+
+Re @pandatress1 中国与德国一样，既是生产国，又是（能源）消费国。区别是，中国生产中低端工业品，德国生产高端。<br>德国去工业化之后，大量投资去中国。昨天，DW有篇文章，用数据说明，德国企业已经成为中国的富士康，非常焦虑。
+
+### 164: [2023-02-24 08:57:58+08:00 推文](https://twitter.com/HeQinglian/status/1628922147304357891)
+
+Re @firesporp 数据要看最新的。<br>订单回升！海运价格大降，大件商品出口“清堵”<br>2023-02-20 01:39:02 北京商报https://finance.sina.com.cn/jjxw/2023-02-20/doc-imyhhhkm5354166.shtml<br>标题就是文章的三要素，做外贸的知道内涵。
+
+### 165: [2023-02-24 09:04:32+08:00 推文](https://twitter.com/HeQinglian/status/1628923801701416960)
+
+Re @wondershowfree 你找真的去吧。
+
+### 166: [2023-02-24 09:07:20+08:00 推文](https://twitter.com/HeQinglian/status/1628924503702097920)
+
+Re @eGUAbe2V7j26GHw 去年，德国去工业化，倒闭大批企业；法国、日本、韩国也同样如此，原因没德国那么直接，相对复杂一些。<br>中国去年也倒闭很多。
+
+### 167: [2023-02-24 09:11:57+08:00 推文](https://twitter.com/HeQinglian/status/1628925667579420672)
+
+【前外交部長王毅最近升任中共中央政治局局長】<br>请问推友，中国什么时候设立了这个职位——中共中央政治局局长？
+
+### 168: [2023-02-24 09:14:53+08:00 推文](https://twitter.com/HeQinglian/status/1628926404371927040)
+
+Re @fading_you1 @shichuangang 重建——首先是大基建，毁坏的基础设施，房屋，工厂。<br>投标吧。
+
+### 169: [2023-02-24 09:43:37+08:00 推文](https://twitter.com/HeQinglian/status/1628933634831929346)
+
+Re @eGUAbe2V7j26GHw 大概有3%的推主能够看出这吧？可能我高估了。
+

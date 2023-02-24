@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2023-02-23
+date: 2023-02-24
 from: https://twitter.com/nathanlawkc/status/1627753430268710927
 layout: post
 tags:
@@ -31,5 +31,9 @@ Re 3/ According to ISP-Myanmar, at least 38,568 houses and buildings have been b
 
 ### 4: [2023-02-23 03:19:20+08:00 推文](https://twitter.com/nathanlawkc/status/1628474537842036738)
 
-Re 4/ Two years of conflict has destroyed the country. Rising prices, and other hardship have created a serious humanitarian crisis. They need help.<br>We should continue to follow &amp; support the people of Myanmar, and their fight against military dictatorship.<br>#WhatsHappeninglnMyanmar https://t.co/9Kxj9p5kUA<br><img style="" src="https://pbs.twimg.com/media/FpmAvLvXwAABvdz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re 4/ Two years of conflict has destroyed the country. Rising prices, and other hardship have created a serious humanitarian crisis. They need help.<br>We should continue to follow &amp; support the people of Myanmar, and their fight against military dictatorship.<br>#WhatsHappeninglnMyanmar<br><img style="" src="https://pbs.twimg.com/media/FpmAvLvXwAABvdz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2023-02-24 08:23:37+08:00 推文](https://twitter.com/nathanlawkc/status/1628913502206275584)
+
+It’s been a year since Russia invaded Ukraine in 2022.<br>These historic meetings emerged, representing the world we're living in. Dictators work together, and democracies resist.<br>We are one, and we persist.<br>#SlavaUkraini  <br>#HongKongstandwithUkraine https://t.co/guhUUYZkbt<br><img style="" src="https://pbs.twimg.com/media/FpsP6r3XoAEYlj8?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
