@@ -29,9 +29,9 @@ RT Emily Feng 冯哲芸<br>This is the best piece I've seen on the rural Covid
 
 ### 4: [2023-01-19 11:35:35+08:00 推文](https://twitter.com/cnmediaproject/status/1615915850187567106)
 
-In CMP's latest "Going Global" column, David Bandurski studies the recent report card on global propaganda efforts published in the People's Daily. <a href="https://chinamediaproject.org/2023/01/19/chinese-propaganda-coming-to-a-local-paper-near-you/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2023/01/19/chinese-propaganda-coming-to-a-local-paper-near-you/</a>
+In CMP's latest "Going Global" column, David Bandurski studies the recent report card on global propaganda efforts published in the People's Daily. https://chinamediaproject.org/2023/01/19/chinese-propaganda-coming-to-a-local-paper-near-you/
 
 ### 5: [2023-01-19 11:37:36+08:00 推文](https://twitter.com/cnmediaproject/status/1615916359116017667)
 
-Re "China — for all its talk of 'a strategic communication system with Chinese characteristics' — has made few real advancements in terms of strategy or substance. It still relies overwhelmingly on the credible avenues offered by local and international media outside of China." https://t.co/Cv9hClN1Cb<br><img style="" src="https://pbs.twimg.com/media/FmzjW1PakAE4ak_?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re "China — for all its talk of 'a strategic communication system with Chinese characteristics' — has made few real advancements in terms of strategy or substance. It still relies overwhelmingly on the credible avenues offered by local and international media outside of China."<br><img style="" src="https://pbs.twimg.com/media/FmzjW1PakAE4ak_?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
