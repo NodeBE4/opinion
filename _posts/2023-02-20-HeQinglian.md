@@ -441,7 +441,7 @@ Re @FightForJiuCai 乌克兰人好歹有形式上的民主啊。<br>如果如乌
 
 ### 107: [2023-02-23 04:37:55+08:00 推文](https://twitter.com/HeQinglian/status/1628494315533000717)
 
-Re @shenliangqing2 建议与这一起参看。再加上骄傲月、零元购、裸体大游 行，就是左派们梦寐以求的进步主义NWO.<div class="rsshub-quote"><br><br>低级黑小明: 来看一下美国版的“操你妈逼”<br><br>现在的lgbt小屁孩一个二个都没有人样了，觉得只要别人把自己性别说错或者不承认自己的性别就要操你妈逼。<br><br><video src="https://video.twimg.com/amplify_video/1628179434556751872/vid/720x1280/ES33umab5NJKiUDD.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1628179434556751872/img/wfYMeOGe0leEv67A.jpg"></video></div>
+Re @shenliangqing2 建议与这一起参看。再加上骄傲月、零元购、裸体大游 行，就是左派们梦寐以求的进步主义NWO. https://twitter.com/djhxiaoming/status/1628179486452891648<div class="rsshub-quote"><br><br>低级黑小明: 来看一下美国版的“操你妈逼”<br><br>现在的lgbt小屁孩一个二个都没有人样了，觉得只要别人把自己性别说错或者不承认自己的性别就要操你妈逼。 https://t.co/xWwdJ4goYi<br><br><video src="https://video.twimg.com/amplify_video/1628179434556751872/vid/720x1280/ES33umab5NJKiUDD.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1628179434556751872/img/wfYMeOGe0leEv67A.jpg"></video></div>
 
 ### 108: [2023-02-23 04:41:44+08:00 推文](https://twitter.com/HeQinglian/status/1628495274657153026)
 
@@ -505,7 +505,7 @@ Re @Wu_Zhi @nuosu001 @JianglinLi @seadognw 你德倒真应该向欧洲各国介�
 
 ### 123: [2023-02-23 09:56:22+08:00 推文](https://twitter.com/Isabel_3299/status/1628574455482970112)
 
-RT Isabel👑💎WW<br>自古同性恋哪个文化都有，但是当把这种只占1%不到的人的特殊需求当政治正确打压99%属于正常人的权利就另当别论。<br><br>你同情他们个体的遭遇可以理解，但让所有人都同情这也是强人所难。 https://twitter.com/8964xjpfucku/status/1628567901723672585<div class="rsshub-quote"><br><br>一号女嘉宾: @Isabel_3299 可是中国也有LGBTQ群体啊，中国那么歧视LGBTQ但是即便在完全没有西方文化侵蚀的农村，也有变性人的。<br><br>这不是左逼捏造的东西，你可能不喜欢别人变性，但是这个东西确实是人家的真实生理需求。<br><br>你要是否认这个群体，他们就形婚，生娃，假装正常。基因还能延续呢。<br>人家自己绝后，对所有人都好。<br></div>
+RT Isabel👑💎WW<br>自古同性恋哪个文化都有，但是当把这种只占1%不到的人的特殊需求当政治正确打压99%属于正常人的权利就另当别论。<br><br>你同情他们个体的遭遇可以理解，但让所有人都同情这也是强人所难。<div class="rsshub-quote"><br><br>一号女嘉宾: @Isabel_3299 可是中国也有LGBTQ群体啊，中国那么歧视LGBTQ但是即便在完全没有西方文化侵蚀的农村，也有变性人的。<br><br>这不是左逼捏造的东西，你可能不喜欢别人变性，但是这个东西确实是人家的真实生理需求。<br><br>你要是否认这个群体，他们就形婚，生娃，假装正常。基因还能延续呢。<br>人家自己绝后，对所有人都好。<br></div>
 
 ### 124: [2023-02-23 10:07:43+08:00 推文](https://twitter.com/HeQinglian/status/1628577311002951680)
 
@@ -569,7 +569,7 @@ Re @Lucs24659702 去年小拜登将美国释放的战略储备油卖给中石油
 
 ### 139: [2023-02-24 02:33:17+08:00 推文](https://twitter.com/HeQinglian/status/1628825340528263170)
 
-中美经济脱钩，从美国方面来说，于公于私都很难。<br>于私，是美国第一公子小拜登不时被公布的与中国的利益互动。<br>于公，据美方政府日前公布，2022年美国和中国货物贸易总额达6906亿美元，创历史新高。<br>中国贸易顺差逾6000亿，美国贸易逆差近万亿，中国的贸易顺差多数来自于美国。<br>拜粉能否读懂这些数据？<div class="rsshub-quote"><br><br>Lucs: Byron Donalds：亨特·拜登协助将钴矿出售给一家中国公司<br><br> “乔·拜登如此大力推动太阳能电池板、电池和电动汽车的原因之一是因为他的儿子促成了将钴矿出售给一家中国公司。” https://t.co/Wj2ek2X4AH<br><br><video src="https://video.twimg.com/ext_tw_video/1628812773571579905/pu/vid/1280x720/b8RktzccufT_6vyU.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1628812773571579905/pu/img/dwnZx9sEofrWfm7K.jpg"></video></div>
+中美经济脱钩，从美国方面来说，于公于私都很难。<br>于私，是美国第一公子小拜登不时被公布的与中国的利益互动。<br>于公，据美方政府日前公布，2022年美国和中国货物贸易总额达6906亿美元，创历史新高。<br>中国贸易顺差逾6000亿，美国贸易逆差近万亿，中国的贸易顺差多数来自于美国。<br>拜粉能否读懂这些数据？ https://twitter.com/Lucs24659702/status/1628812816194080768<div class="rsshub-quote"><br><br>Lucs: Byron Donalds：亨特·拜登协助将钴矿出售给一家中国公司<br><br> “乔·拜登如此大力推动太阳能电池板、电池和电动汽车的原因之一是因为他的儿子促成了将钴矿出售给一家中国公司。” https://t.co/Wj2ek2X4AH<br><br><video src="https://video.twimg.com/ext_tw_video/1628812773571579905/pu/vid/1280x720/b8RktzccufT_6vyU.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1628812773571579905/pu/img/dwnZx9sEofrWfm7K.jpg"></video></div>
 
 ### 140: [2023-02-24 03:42:23+08:00 推文](https://twitter.com/HeQinglian/status/1628842726924988417)
 

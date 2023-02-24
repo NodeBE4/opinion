@@ -25,7 +25,7 @@ Re @bcyixiu 这我还真不能写，主要原因是：我并不比你们了解�
 
 ### 3: [2022-07-11 02:05:45+08:00 推文](https://twitter.com/HeQinglian/status/1546193978126733313)
 
-将熊熊一窝。不是美国能力不行，是领导人不行。<br>我要是布林肯，拒绝接受那四份要求美国纠正错误言论与政策的清单，让王毅带回北京去。
+将熊熊一窝。不是美国能力不行，是领导人不行。<br>我要是布林肯，拒绝接受那四份要求美国纠正错误言论与政策的清单，让王毅带回北京去。<br><br>华尔街日报中文网: #本周热读 经济专栏记者Greg Ip写道，虽然美国的经济体系已准备好迎接与中国的地缘政治竞赛，但政治体系是否做好了准备还不好说。过去一周发生的一些重大事件引起了很多疑问。<br> <a href="https://on.wsj.com/3AyyOBw" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3AyyOBw</a>
 
 ### 4: [2022-07-11 04:16:48+08:00 推文](https://twitter.com/HeQinglian/status/1546226957813256192)
 
@@ -69,7 +69,7 @@ Re @dongle_smith “欧洲逼和团去了几次，热心金毛突然下台”，
 
 ### 14: [2022-07-11 21:39:30+08:00 推文](https://twitter.com/HeQinglian/status/1546489359276417026)
 
-经查：德国气候温和，在一年中，气温通常在-2°C到25°C之间变化，极少低于-10°C或高于31°C ...<br><br>比中国南部的天气好得多，中国南部城市，也就少部分人近年冬天安装了电暖气。<br>煤球炉可以取暖，打开一扇窗户通气，烧热水。<br><br>DW 中文- 德国之声: 今天开始，北溪1号管线进入十多天的维修季，停止供气。如果之后俄罗斯不恢复供气，不仅德国老百姓将挨冻，德国经济可能萎缩12%。<br><br>这些天来，许多租户收到房主的通知，柏林一家大型出租房产公司告诉租客，今后油气取暖费至少翻倍。<br> <a href="https://p.dw.com/p/4DxFD" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4DxFD</a>
+经查：德国气候温和，在一年中，气温通常在-2°C到25°C之间变化，极少低于-10°C或高于31°C ...<br><br>比中国南部的天气好得多，中国南部城市，也就少部分人近年冬天安装了电暖气。<br>煤球炉可以取暖，打开一扇窗户通气，烧热水。 <a href="https://zh.weatherspark.com/countries/DE" target="_blank" rel="noopener noreferrer">https://zh.weatherspark.com/countries/DE</a>
 
 ### 15: [2022-07-11 21:43:55+08:00 推文](https://twitter.com/HeQinglian/status/1546490470557270019)
 
@@ -97,7 +97,7 @@ Re @shenliangqing2 实不实，自己去查。用几个关键英文词，第一�
 
 ### 21: [2022-07-12 00:05:58+08:00 推文](https://twitter.com/HeQinglian/status/1546526221739216898)
 
-这篇文章值得一看。现在是主流媒体好几家觉得拜登不能应付紧急状态。<br>这事儿我想过，发现原因很简单：换人，贺锦丽比拜登更糟糕，就算一年之后换人，是南希。<br>主要是没来得及改宪法。希拉里倒是想当，也比这几位合适一点，但宪法没为她准备接位的空间。<br>赶紧修宪，量身定做。<br><br>井上-Z-不二雄: 总统杠上贝索斯，后果很严重。亿万富翁拥有的传媒，不需要做什么，只需要如实报道（停止帮总统擦屁股）就够总统喝一壶的。<br> <a href="https://www.zerohedge.com/political/knives-out-wapo-nyt-go-biden-blood-scathing-moment-honesty" target="_blank" rel="noopener noreferrer">https://www.zerohedge.com/political/knives-out-wapo-nyt-go-biden-blood-scathing-moment-honesty</a>
+这篇文章值得一看。现在是主流媒体好几家觉得拜登不能应付紧急状态。<br>这事儿我想过，发现原因很简单：换人，贺锦丽比拜登更糟糕，就算一年之后换人，是南希。<br>主要是没来得及改宪法。希拉里倒是想当，也比这几位合适一点，但宪法没为她准备接位的空间。<br>赶紧修宪，量身定做。
 
 ### 22: [2022-07-12 00:13:53+08:00 推文](https://twitter.com/HeQinglian/status/1546528212775276546)
 
@@ -233,7 +233,7 @@ Re @shenliangqing2 加州这几年有许多奇葩法律。比如自我心理认�
 
 ### 55: [2022-07-13 01:46:01+08:00 推文](https://twitter.com/HeQinglian/status/1546913784475820032)
 
-德国漂绿是真的，但是否取消碳中和目标，还得查核一下。不过，虽然这位是某些人眼中说什么都错的中国人，但这次却说得非常对，因为事实摆在那里：天然气、核能全部漂绿，煤炭开采也恢复了。<br>原来，绿能奠基于他国进口能源并购买碳排放额度指标上。<br><br>薛丁丁归来: #德国取消2035年碳中和目标   读书的时候老师就说过，现在大部分标准是欧美人定的，打着环保等名义，其实用来限制后发国家，等你们真的做到了，他又会出一套新的标准继续限制你，当然，如果他们做不到，他们随时会把标准废除。我们努力的方向不是去追求西方标准，而是要凭实力，把标准制定权抢过来。<br><br><video src="https://video.twimg.com/ext_tw_video/1546668011788021760/pu/vid/856x480/qwn2QPe7h3wiqVtA.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1546668011788021760/pu/img/GdO-BowXHBTATi_l.jpg"></video>
+德国漂绿是真的，但是否取消碳中和目标，还得查核一下。不过，虽然这位是某些人眼中说什么都错的中国人，但这次却说得非常对，因为事实摆在那里：天然气、核能全部漂绿，煤炭开采也恢复了。<br>原来，绿能奠基于他国进口能源并购买碳排放额度指标上。
 
 ### 56: [2022-07-13 03:07:59+08:00 推文](https://twitter.com/HeQinglian/status/1546934414118211586)
 
@@ -373,7 +373,7 @@ Re @mayuki753 @NAConservative9 对。还有一点未兑现：说了给黑人奴�
 
 ### 90: [2022-07-14 08:07:07+08:00 推文](https://twitter.com/HeQinglian/status/1547372081888874497)
 
-左派文化的最大欺骗术就是：人民永远是对的，不会犯错误——人民其实是集合词。作为个人，很难不犯错。<br>美国现状不能说是拜登欺骗了选民，是左派选民发现现实不美妙，但不愿承认这就是他们当初上街闹腾死活也想要的生活，因此就说拜登欺骗了他们。<br>美国最大的问题在于这类人占了42%左右，只是程度不同。
+左派文化的最大欺骗术就是：人民永远是对的，不会犯错误——人民其实是集合词。作为个人，很难不犯错。<br>美国现状不能说是拜登欺骗了选民，是左派选民发现现实不美妙，但不愿承认这就是他们当初上街闹腾死活也想要的生活，因此就说拜登欺骗了他们。<br>美国最大的问题在于这类人占了42%左右，只是程度不同。<br><br>He Qinglian: @NAConservative9 平心而论，那位黑人说拜登骗了他，我觉得没有。<br>除了免除学生贷款，拜登实现了大部分竞选承诺：让8岁小孩自主变性、实施绿色能源政策（关闭页岩油开采）、提高LGBTQI权利、开放边境欢迎移民、增加对底层的福利、花钱搞基建、增加某收入线上的人的税收<br>当然他没说要通胀。但上述措施都要花钱，势必通胀<br>
 
 ### 91: [2022-07-14 08:08:38+08:00 推文](https://twitter.com/HeQinglian/status/1547372461217484800)
 
@@ -601,7 +601,7 @@ Re @JianglinLi @RealBeiMing @Wu_Zhi @david_david1968 @ngexp 在瑞典沦为强�
 
 ### 147: [2022-07-16 10:16:38+08:00 推文](https://twitter.com/HeQinglian/status/1548129452034363395)
 
-这是美国将向全世界推广的新人权。不信去美国政府网站上看，华拜粉如果不承认，我将那政府通告贴他们眼睛上。<br><br>龚小夏 Sasha Gong: 拜登政府两位高级官员在法国大使官邸参加法国国庆活动。左面为拜登任命的四星将军Rachel Levin （生来是男性，现为女性），右面为拜登能源部负责处理核废料的副部长Sam Britton （生为男性，现在还自认是男性，但爱着女装、涂口红）。<br><br><img style="" src="https://pbs.twimg.com/media/FXvKcRdVQAELBe_?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+这是美国将向全世界推广的新人权。不信去美国政府网站上看，华拜粉如果不承认，我将那政府通告贴他们眼睛上。
 
 ### 148: [2022-07-16 12:07:35+08:00 推文](https://twitter.com/cskun1989/status/1548157370458525697)
 
@@ -657,7 +657,7 @@ Re @farmdirect8 @shenliangqing2 @peichang_yang 为什么要费尽心思？男女
 
 ### 161: [2022-07-17 05:53:35+08:00 推文](https://twitter.com/HeQinglian/status/1548425640264708100)
 
-经济学人：中东为美国提供了什么？<br>美国总统开始漫无目的的旅行<br>乔·拜登于 7 月 13 日开始对以色列和巴勒斯坦进行近 48 小时的访问，目的是进行平庸的练习：握手，看几个景点，然后返回机场。在最近的记忆中，没有哪位美国总统在谈到该地区最棘手的冲突时几乎无话可说。
+经济学人：中东为美国提供了什么？<br>美国总统开始漫无目的的旅行<br>乔·拜登于 7 月 13 日开始对以色列和巴勒斯坦进行近 48 小时的访问，目的是进行平庸的练习：握手，看几个景点，然后返回机场。在最近的记忆中，没有哪位美国总统在谈到该地区最棘手的冲突时几乎无话可说。<br><br>The Economist: Joe Biden’s hosts will offer a friendly welcome, but they will probably send him home with little more than a few token souvenirs<br> <a href="https://econ.st/3IOSlzP" target="_blank" rel="noopener noreferrer">https://econ.st/3IOSlzP</a>
 
 ### 162: [2022-07-17 09:04:35+08:00 推文](https://twitter.com/HeQinglian/status/1548473706740994049)
 
