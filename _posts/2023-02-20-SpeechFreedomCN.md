@@ -35,3 +35,7 @@ Fujian man Zheng detained for 4 days for accusing local police of "being no diff
 
 Re @william98901393 点开词条
 
+### 6: [2023-02-24 22:32:01+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1629127008226623493)
+
+Re @william98901393 https://twitter.com/aapkapapu/status/1629076514347143168<div class="rsshub-quote"><br><br>这个社会是有罪的: @SpeechFreedomCN 惊喜在这里 https://t.co/DTYHbx7aze<br><br><video src="https://video.twimg.com/ext_tw_video/1629076480624934912/pu/vid/720x1036/sE5bYBVuUEKco-eS.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1629076480624934912/pu/img/UNGOC87UEGOJW_S4.jpg"></video></div>
+

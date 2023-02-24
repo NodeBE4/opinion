@@ -201,7 +201,7 @@ Re @washearg 除了美国还有些家底，其余的国家，就算了吧。
 
 ### 47: [2023-02-21 23:05:51+08:00 推文](https://twitter.com/HeQinglian/status/1628048359180181507)
 
-Re @Lucs24659702 很多乌鸡血们，包括那位说自己“曾经是农民、永远是农民”的“瞧瞧桥”老妹子在内，不相信乌克兰的第10次征兵令，这是原推，信不信由他们，懂乌语的请好心一点翻译给她听，让她再也不要在见识上“永远是农民”。<div class="rsshub-quote"><br><br>绫波: 乌克兰泽连斯基发起第10次征兵令，打算征召100万名士兵。<br><br>征兵令中规定，成年男性65岁以上，85岁以下必须参军。<br><br><img style="" src="https://pbs.twimg.com/media/FpYOaBgaYAAL-9z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT He Qinglian<br>Re @Lucs24659702 很多乌鸡血们，包括那位说自己“曾经是农民、永远是农民”的“瞧瞧桥”老妹子在内，不相信乌克兰的第10次征兵令，这是原推，信不信由他们，懂乌语的请好心一点翻译给她听，让她再也不要在见识上“永远是农民”。<div class="rsshub-quote"><br><br>绫波: 乌克兰泽连斯基发起第10次征兵令，打算征召100万名士兵。<br><br>征兵令中规定，成年男性65岁以上，85岁以下必须参军。<br><br><img style="" src="https://pbs.twimg.com/media/FpYOaBgaYAAL-9z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 48: [2023-02-21 23:08:41+08:00 推文](https://twitter.com/HeQinglian/status/1628049071679188993)
 
@@ -505,7 +505,7 @@ Re @Wu_Zhi @nuosu001 @JianglinLi @seadognw 你德倒真应该向欧洲各国介�
 
 ### 123: [2023-02-23 09:56:22+08:00 推文](https://twitter.com/Isabel_3299/status/1628574455482970112)
 
-RT Isabel👑💎WW<br>自古同性恋哪个文化都有，但是当把这种只占1%不到的人的特殊需求当政治正确打压99%属于正常人的权利就另当别论。<br><br>你同情他们个体的遭遇可以理解，但让所有人都同情这也是强人所难。 https://twitter.com/8964xjpfucku/status/1628567901723672585<div class="rsshub-quote"><br><br>一号女嘉宾: @Isabel_3299 可是中国也有LGBTQ群体啊，中国那么歧视LGBTQ但是即便在完全没有西方文化侵蚀的农村，也有变性人的。<br><br>这不是左逼捏造的东西，你可能不喜欢别人变性，但是这个东西确实是人家的真实生理需求。<br><br>你要是否认这个群体，他们就形婚，生娃，假装正常。基因还能延续呢。<br>人家自己绝后，对所有人都好。<br></div>
+RT Isabel👑💎WW<br>自古同性恋哪个文化都有，但是当把这种只占1%不到的人的特殊需求当政治正确打压99%属于正常人的权利就另当别论。<br><br>你同情他们个体的遭遇可以理解，但让所有人都同情这也是强人所难。<div class="rsshub-quote"><br><br>一号女嘉宾: @Isabel_3299 可是中国也有LGBTQ群体啊，中国那么歧视LGBTQ但是即便在完全没有西方文化侵蚀的农村，也有变性人的。<br><br>这不是左逼捏造的东西，你可能不喜欢别人变性，但是这个东西确实是人家的真实生理需求。<br><br>你要是否认这个群体，他们就形婚，生娃，假装正常。基因还能延续呢。<br>人家自己绝后，对所有人都好。<br></div>
 
 ### 124: [2023-02-23 10:07:43+08:00 推文](https://twitter.com/HeQinglian/status/1628577311002951680)
 
@@ -553,7 +553,7 @@ Re @Lucs24659702 她的血统最多八分之一黑，应该是赔付多于所得
 
 ### 135: [2023-02-24 01:29:22+08:00 推文](https://twitter.com/HeQinglian/status/1628809253329813506)
 
-乌克兰外长称收到了中国的和平计划，正在研究。如果不接受，明说。但弄成这个局面，恐怕双方也没有会谈了。<br>https://twitter.com/KELMAND1/status/1628017107740000257<div class="rsshub-quote"><br><br>RFI 華語 - 法國國際廣播電台: 澤連斯基稱不知道有一個中國的烏克蘭戰爭和平計畫 希望與中國對話 https://rfi.my/9Bd8.t https://t.co/fJHWDsJeA4<br><br><img style="" src="https://pbs.twimg.com/media/Fpqft7WaEAAM6vh?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+乌克兰外长称收到了中国的和平计划，正在研究。如果不接受，明说。但弄成这个局面，恐怕双方也没有会谈了。<br>https://twitter.com/KELMAND1/status/1628017107740000257 https://twitter.com/RFI_TradCn/status/1628789830036623361<div class="rsshub-quote"><br><br>RFI 華語 - 法國國際廣播電台: 澤連斯基稱不知道有一個中國的烏克蘭戰爭和平計畫 希望與中國對話 https://rfi.my/9Bd8.t https://t.co/fJHWDsJeA4<br><br><img style="" src="https://pbs.twimg.com/media/Fpqft7WaEAAM6vh?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 136: [2023-02-24 01:31:31+08:00 推文](https://twitter.com/HeQinglian/status/1628809795158286338)
 
@@ -569,7 +569,7 @@ Re @Lucs24659702 去年小拜登将美国释放的战略储备油卖给中石油
 
 ### 139: [2023-02-24 02:33:17+08:00 推文](https://twitter.com/HeQinglian/status/1628825340528263170)
 
-中美经济脱钩，从美国方面来说，于公于私都很难。<br>于私，是美国第一公子小拜登不时被公布的与中国的利益互动。<br>于公，据美方政府日前公布，2022年美国和中国货物贸易总额达6906亿美元，创历史新高。<br>中国贸易顺差逾6000亿，美国贸易逆差近万亿，中国的贸易顺差多数来自于美国。<br>拜粉能否读懂这些数据？<div class="rsshub-quote"><br><br>Lucs: Byron Donalds：亨特·拜登协助将钴矿出售给一家中国公司<br><br> “乔·拜登如此大力推动太阳能电池板、电池和电动汽车的原因之一是因为他的儿子促成了将钴矿出售给一家中国公司。” https://t.co/Wj2ek2X4AH<br><br><video src="https://video.twimg.com/ext_tw_video/1628812773571579905/pu/vid/1280x720/b8RktzccufT_6vyU.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1628812773571579905/pu/img/dwnZx9sEofrWfm7K.jpg"></video></div>
+中美经济脱钩，从美国方面来说，于公于私都很难。<br>于私，是美国第一公子小拜登不时被公布的与中国的利益互动。<br>于公，据美方政府日前公布，2022年美国和中国货物贸易总额达6906亿美元，创历史新高。<br>中国贸易顺差逾6000亿，美国贸易逆差近万亿，中国的贸易顺差多数来自于美国。<br>拜粉能否读懂这些数据？ https://twitter.com/Lucs24659702/status/1628812816194080768<div class="rsshub-quote"><br><br>Lucs: Byron Donalds：亨特·拜登协助将钴矿出售给一家中国公司<br><br> “乔·拜登如此大力推动太阳能电池板、电池和电动汽车的原因之一是因为他的儿子促成了将钴矿出售给一家中国公司。” https://t.co/Wj2ek2X4AH<br><br><video src="https://video.twimg.com/ext_tw_video/1628812773571579905/pu/vid/1280x720/b8RktzccufT_6vyU.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1628812773571579905/pu/img/dwnZx9sEofrWfm7K.jpg"></video></div>
 
 ### 140: [2023-02-24 03:42:23+08:00 推文](https://twitter.com/HeQinglian/status/1628842726924988417)
 
@@ -681,7 +681,7 @@ Re @eGUAbe2V7j26GHw 去年，德国去工业化，倒闭大批企业；法国、
 
 ### 167: [2023-02-24 09:11:57+08:00 推文](https://twitter.com/HeQinglian/status/1628925667579420672)
 
-【前外交部長王毅最近升任中共中央政治局局長】<br>请问推友，中国什么时候设立了这个职位——中共中央政治局局长？
+【前外交部長王毅最近升任中共中央政治局局長】<br>请问推友，中国什么时候设立了这个职位——中共中央政治局局长？ https://twitter.com/QQzk_prs/status/1628568255311888384
 
 ### 168: [2023-02-24 09:14:53+08:00 推文](https://twitter.com/HeQinglian/status/1628926404371927040)
 
@@ -710,4 +710,40 @@ Re @48963563448a 2月以后应该入春了，取暖的大概不再需要了。
 ### 174: [2023-02-24 21:47:18+08:00 推文](https://twitter.com/HeQinglian/status/1629115755106119681)
 
 Re @KELMAND1 中国深思熟虑，在合适的时候（非利益相关国家厌战）推出这个建议，不管是否被接受，赢了一票。
+
+### 175: [2023-02-24 21:55:52+08:00 推文](https://twitter.com/HeQinglian/status/1629117913624940545)
+
+Re @GaoMilan @horusi 我注意到医疗器械出口达3700多亿人民币，医疗用品、制药原料等我没查，应该也不低。总之，要细分。
+
+### 176: [2023-02-24 22:04:42+08:00 推文](https://twitter.com/HeQinglian/status/1629120135230373889)
+
+最重要的即时数据：<br>2023年1月中国采购经理指数制造业采购经理指数（PMI）为50.1%，比上月上升3.1个百分点，升至临界点以上，制造业景气水平明显回升<br>1月财新中国制造业PMI微升至49.2 仍低于荣枯线 …… 这一走势与统计局制造业PMI一致。<br>财新的不一样。但1月份还在疫情高峰。3月上旬看2月份的就知端倪
+
+### 177: [2023-02-24 22:13:25+08:00 推文](https://twitter.com/HeQinglian/status/1629122327521763331)
+
+Re @KELMAND1 可惜多数人完全不懂国际博弈是什么，以为开骂就是最好。<br>美欧一直要求中国站出来表态，说服俄撤军。中国这张牌，不在于让美欧接受，在于让美欧之外的世界看到自己的姿态。
+
+### 178: [2023-02-24 23:09:20+08:00 推文](https://twitter.com/HeQinglian/status/1629136399570989057)
+
+Re @KELMAND1 其实美国在冷战结束之后，国际政治研究的最大创新就是推出了地缘政治理论，冷战是意识形态站边（中苏矛盾除外），地缘政治是利益至上。<br>可惜美国的地缘政治顶级专家都被排斥在决策圈之外。
+
+### 179: [2023-02-24 23:17:06+08:00 推文](https://twitter.com/HeQinglian/status/1629138356893278208)
+
+Re @KELMAND1 我的意思是想说：如果地缘政治理论成立，美国应该想到俄中两国的利益是什么。<br>中国得利在：俄乌战争两年前，是中国求着俄友好；这状态在战争之前有点改变，普京态度友好多了；战争一起，是俄拼命示好中国。
+
+### 180: [2023-02-24 23:19:43+08:00 推文](https://twitter.com/HeQinglian/status/1629139014962843649)
+
+Re @pandatress1 俄罗斯的制造业经理人采购指数够牛的，大概在53%以上了——军工生产。
+
+### 181: [2023-02-24 23:43:55+08:00 推文](https://twitter.com/HeQinglian/status/1629145105016709120)
+
+多极化，美国彩虹文化就带着欧洲一道玩吧。 https://twitter.com/zt33268778/status/1628961825579577345<div class="rsshub-quote"><br><br>zt: 什么是“普世价值”，如果中共成了世界老大，普世价值就是永远坚持党的领导；如果墓撕陵当了老大，普世价值就是女人都要蒙面；如果白左成了老大，那么就什么都没有了，普世价值将湮没在LGBTQ的彩虹屁里，人类文明都要消亡。看起来前两者好歹也能算是个文明，后者就是文明的敌人。<br></div>
+
+### 182: [2023-02-24 23:45:24+08:00 推文](https://twitter.com/HeQinglian/status/1629145475805749249)
+
+慕安會之後　中國轉守為攻<br>https://upmedia.mg/news_info.php?Type=2&amp;SerialNo=166637<br>2023年慕安会，是中国围绕俄乌战争外交政策的转折点。抓住美欧之外国家普遍厌战的心理推出和平建议书，将了一军。从美欧舆论来看，仍是去年对付中国的老套路，但连二级经济制裁都不再提。缘何如此？西方与中国的经济相互依赖在2022年都加强了。
+
+### 183: [2023-02-24 23:54:07+08:00 推文](https://twitter.com/HeQinglian/status/1629147671062622211)
+
+Re @KELMAND1 主要是美国白左当家，智商欠奉。
 

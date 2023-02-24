@@ -33,9 +33,9 @@ Gansu man Du detained for 5 days for "cursing" a local village official in WeCha
 
 ### 5: [2023-02-05 21:03:36+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1622219390048509953)
 
-广西灵山县男子劳某，因在微信群里发信息说“三里江有狗查车”，被认定为侮辱交警并被拘留5日。 https://t.co/OlWbx8RKTh<br><img style="" src="https://pbs.twimg.com/media/FoNHq8tXEAILhlN?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FoNHtmgXEAA6ALu?format=png&amp;name=orig" referrerpolicy="no-referrer">
+广西灵山县男子劳某，因在微信群里发信息说“三里江有狗查车”，被认定为侮辱交警并被拘留5日。<br><img style="" src="https://pbs.twimg.com/media/FoNHq8tXEAILhlN?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FoNHtmgXEAA6ALu?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2023-02-05 21:04:45+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1622219678104911872)
 
-Guangxi man Lao detained for 5 days for saying in a WeChat group chat "dogs checking vehicles", which police claimed insulted them.<br><img style="" src="https://pbs.twimg.com/media/FoNH-3GWYAIJ8FE?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FoNIAWbWAAErTP1?format=png&amp;name=orig" referrerpolicy="no-referrer">
+Guangxi man Lao detained for 5 days for saying in a WeChat group chat "dogs checking vehicles", which police claimed insulted them. https://t.co/FOfuDGhyaL<br><img style="" src="https://pbs.twimg.com/media/FoNH-3GWYAIJ8FE?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FoNIAWbWAAErTP1?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
