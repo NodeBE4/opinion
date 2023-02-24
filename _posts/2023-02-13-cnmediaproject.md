@@ -33,7 +33,7 @@ Earlier this week, the Ministry of Human Resources posted its 2023 call for the 
 
 ### 5: [2023-02-17 15:07:37+08:00 推文](https://twitter.com/cnmediaproject/status/1626478457554350081)
 
-In our latest piece for "Going Global," we take an in-depth look at the China International Communication Center (CICC) and its role in international film and television co-productions. <a href="https://chinamediaproject.org/2023/02/17/co-producing-with-the-ccp/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2023/02/17/co-producing-with-the-ccp/</a>
+In our latest piece for "Going Global," we take an in-depth look at the China International Communication Center (CICC) and its role in international film and television co-productions. https://chinamediaproject.org/2023/02/17/co-producing-with-the-ccp/
 
 ### 6: [2023-02-17 15:08:06+08:00 推文](https://twitter.com/cnmediaproject/status/1626478579994497024)
 
