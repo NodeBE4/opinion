@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2023-02-23
+date: 2023-02-24
 from: https://twitter.com/SpeechFreedomCN/status/1628367633513951236
 layout: post
 tags:
@@ -26,4 +26,12 @@ Fujian man Zheng detained for 4 days for accusing local police of "being no diff
 ### 3: [2023-02-23 21:31:09+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1628749304025255937)
 
 什么年代了，还用这么low的手法来钓 https://t.co/r4wf5AA3Xi<br><img style="" src="https://pbs.twimg.com/media/Fpp6zTSXwAUmbgs?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fpp60DkWcAMWwcF?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 4: [2023-02-24 19:07:11+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1629075459861368833)
+
+去百度百科搜“行政处罚决定书”，有惊喜。
+
+### 5: [2023-02-24 19:10:23+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1629076265968738305)
+
+Re @william98901393 点开词条
 
