@@ -31,7 +31,7 @@ Re 3/ According to ISP-Myanmar, at least 38,568 houses and buildings have been b
 
 ### 4: [2023-02-23 03:19:20+08:00 推文](https://twitter.com/nathanlawkc/status/1628474537842036738)
 
-Re 4/ Two years of conflict has destroyed the country. Rising prices, and other hardship have created a serious humanitarian crisis. They need help.<br>We should continue to follow &amp; support the people of Myanmar, and their fight against military dictatorship.<br>#WhatsHappeninglnMyanmar<br><img style="" src="https://pbs.twimg.com/media/FpmAvLvXwAABvdz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re 4/ Two years of conflict has destroyed the country. Rising prices, and other hardship have created a serious humanitarian crisis. They need help.<br>We should continue to follow &amp; support the people of Myanmar, and their fight against military dictatorship.<br>#WhatsHappeninglnMyanmar https://t.co/9Kxj9p5kUA<br><img style="" src="https://pbs.twimg.com/media/FpmAvLvXwAABvdz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2023-02-24 08:23:37+08:00 推文](https://twitter.com/nathanlawkc/status/1628913502206275584)
 

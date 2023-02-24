@@ -37,11 +37,11 @@ title: 'Twitter @蔡霞: 2022-05-16~2022-05-22'
 
 ### 6: [2022-05-18 07:48:15+08:00 推文](https://twitter.com/realcaixia/status/1526711223609434112)
 
-一个模版专供抄作业。
+一个模版专供抄作业。<br><br>鲁难-: <br><br><img style="" src="https://pbs.twimg.com/media/FS8CeMoWAAEGC3O?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FS8CeMsXEAAmkXe?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2022-05-18 07:49:51+08:00 推文](https://twitter.com/realcaixia/status/1526711628372246528)
 
-一个模版专供抄作业（二）<br><br>鲁难-: 大爷，改一改数字很难吗？非要一分钟也不差………<br><br><img style="" src="https://pbs.twimg.com/media/FS8CaycWIAE4vIt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FS8CaydXoAAwFdm?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FS8CayfX0AAqtNs?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FS8CaybWIAEgXZW?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+一个模版专供抄作业（二）
 
 ### 8: [2022-05-18 08:55:45+08:00 推文](https://twitter.com/realcaixia/status/1526728213061410817)
 
@@ -81,15 +81,15 @@ Re 中共秘书侍候领导十分周到，20年前我曾经参加过中组部一
 
 ### 17: [2022-05-19 20:16:57+08:00 推文](https://twitter.com/realcaixia/status/1527262026896232450)
 
-真是一山容不得两虎，宁可习自己一条道走到黑，把9500万弄到翻船、把14亿打入地狱，也不许李伸手收拾烂摊子。是蠢到家还是坏到底？<br><br>荣剑: 虽然今天关于李总的消息爆屏了，但也有坏消息，有人因为越来越喜欢总理而招致删帖扣分处理 。这世道越来越看不明白了。<br><br><img style="" src="https://pbs.twimg.com/media/FTC8FUcVIAA1d2R?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/rongjian1957/status/1526848927768510464" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1526848927768510464</a>
+真是一山容不得两虎，宁可习自己一条道走到黑，把9500万弄到翻船、把14亿打入地狱，也不许李伸手收拾烂摊子。是蠢到家还是坏到底？ <a href="https://twitter.com/rongjian1957/status/1526927075138887681" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1526927075138887681</a>
 
 ### 18: [2022-05-19 20:23:58+08:00 推文](https://twitter.com/realcaixia/status/1527263792677134338)
 
-特别推荐#议报转发刘梦熊先生文章：价值观颠倒必然逆转国运。与世界和平相对立，为侵略者做辩护，必然招致被文明世界孤立。孤立于国际社会之外的国家能有什么前途？
+特别推荐#议报转发刘梦熊先生文章：价值观颠倒必然逆转国运。与世界和平相对立，为侵略者做辩护，必然招致被文明世界孤立。孤立于国际社会之外的国家能有什么前途？<br><br>《议报》: 全国政协委员：价值观颠倒必导致国运逆转<br> <a href="https://yibaochina.com/?p=246529" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246529</a>
 
 ### 19: [2022-05-19 20:33:12+08:00 推文](https://twitter.com/realcaixia/status/1527266118389334017)
 
-这种言语活活现出恶棍一样的品质。习从2009年教训中央党校h教师“不许吃党飯砸党锅”，2011年左右教训国内国际不许“说三道四”；2015年教训9500万“不得妄议”。上有所好下必甚焉，有恶行必学恶样。这是北京什么官？这人是谁？最好拉下口罩爆爆真面目。居然坐在台上公开教训人“哪来这么多废话？！”<br><br>iPaul🇨🇦🇺🇦: 北京领导，好大的官威<br><br><video src="https://video.twimg.com/ext_tw_video/1522570401787826176/pu/vid/480x848/xjM9HkNSKZp3B5jg.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1522570401787826176/pu/img/77MS-dWq6haNJ805.jpg"></video>
+这种言语活活现出恶棍一样的品质。习从2009年教训中央党校h教师“不许吃党飯砸党锅”，2011年左右教训国内国际不许“说三道四”；2015年教训9500万“不得妄议”。上有所好下必甚焉，有恶行必学恶样。这是北京什么官？这人是谁？最好拉下口罩爆爆真面目。居然坐在台上公开教训人“哪来这么多废话？！”
 
 ### 20: [2022-05-19 22:31:37+08:00 推文](https://twitter.com/realcaixia/status/1527295917451116547)
 
