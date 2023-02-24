@@ -89,3 +89,7 @@ Unfortunately, the study of latent Taiping sympathies remains underdeveloped, an
 
 * Audrey Wells, *The Political Thought of Sun Yat-sen: Development and Impact* (2001)
 
+----- __1123.3__ -----2023-02-25 06:48:43+08:00:
+
+A good question, one to which I have yet to find an answer. Possibly the answer lies in some Chinese-language scholarship I have yet to consult; possibly the sources exist but haven't been approached yet; possibly the sources do not even exist. Ask again in a few years if/when I've been able to work on it a bit, and I may have an answer for you.
+
