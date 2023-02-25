@@ -29,11 +29,11 @@ title: 'Twitter @蔡霞: 2021-12-27~2022-01-02'
 
 ### 4: [2021-12-29 12:54:32+08:00 推文](https://twitter.com/realcaixia/status/1476054000898383873)
 
-每日一推，呼吁无罪释放长沙公益仨。<br><br>施明磊 #释放长沙公益仨: #每日一推要求程渊和吴葛健雄的家属探视权12月28日 第18推）<br>小吴在的衡州监狱来电话了，说你们没有亲属关系，拒绝我们要求吴葛健雄家属探视权的投诉。<br><br>根据监狱法四十八条规定，#程渊、#吴葛健雄 享有亲属会见的权利。<br><br>衡州监狱，你们在违法懂不懂？<br><br>@湖南司法厅厅长范运田，监狱管理局局长钟艺兵<br><br><img style="" src="https://pbs.twimg.com/media/FHtweDUWYAAUzht?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHtweDRWYAQV-wJ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHtweD6X0AY4o3E?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHtweD-XEAEjTWP?format=jpg&name=orig" referrerpolicy="no-referrer">
+每日一推，呼吁无罪释放长沙公益仨。<br><br>施明磊 #释放长沙公益仨: #每日一推要求程渊和吴葛健雄的家属探视权12月28日 第18推）<br>小吴在的衡州监狱来电话了，说你们没有亲属关系，拒绝我们要求吴葛健雄家属探视权的投诉。<br><br>根据监狱法四十八条规定，#程渊、#吴葛健雄 享有亲属会见的权利。<br><br>衡州监狱，你们在违法懂不懂？<br><br>@湖南司法厅厅长范运田，监狱管理局局长钟艺兵<br><br><img style src="https://pbs.twimg.com/media/FHtweDUWYAAUzht?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHtweDRWYAQV-wJ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHtweD6X0AY4o3E?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHtweD-XEAEjTWP?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2021-12-30 00:39:20+08:00 推文](https://twitter.com/realcaixia/status/1476231371718803461)
 
-造假与谎言蒙人，是极权意识形态的一贯手法，。这样的胡编乱造，是下面人某种半躺平半糊弄的干法。<br><br>浩哥i✝️i🇺🇸iA2: 故事编得太潦草😩<br><br><img style="" src="https://pbs.twimg.com/media/FHtTHKyXsAAte2Q?format=jpg&name=orig" referrerpolicy="no-referrer">
+造假与谎言蒙人，是极权意识形态的一贯手法，。这样的胡编乱造，是下面人某种半躺平半糊弄的干法。<br><br>浩哥i✝️i🇺🇸iA2: 故事编得太潦草😩<br><br><img style src="https://pbs.twimg.com/media/FHtTHKyXsAAte2Q?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2021-12-30 03:29:31+08:00 推文](https://twitter.com/realcaixia/status/1476274199429881857)
 
@@ -41,7 +41,7 @@ title: 'Twitter @蔡霞: 2021-12-27~2022-01-02'
 
 ### 7: [2021-12-30 03:33:22+08:00 推文](https://twitter.com/realcaixia/status/1476275167831728130)
 
-民主国家政府抵制冬奥，这是正义之举，应该唤起更多的国家政府共同抵制冬奥会！<br><br>DW 中文- 德国之声: 北京冬季奥运会即将开幕。美国已宣布外交抵制。欧盟尚在寻求共同立场。🇩🇪外交、内政部长已作出个人决定：不去北京。<br>不过她们都强调，此为个人决定，并非外交抵制的政治决策。<br>相关报道：<br><br><img style="" src="https://pbs.twimg.com/media/FHySweXWQAUb0Bt?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://dw.com/p/44xdn" target="_blank" rel="noopener noreferrer">http://dw.com/p/44xdn</a>
+民主国家政府抵制冬奥，这是正义之举，应该唤起更多的国家政府共同抵制冬奥会！<br><br>DW 中文- 德国之声: 北京冬季奥运会即将开幕。美国已宣布外交抵制。欧盟尚在寻求共同立场。🇩🇪外交、内政部长已作出个人决定：不去北京。<br>不过她们都强调，此为个人决定，并非外交抵制的政治决策。<br>相关报道：<br><br><img style src="https://pbs.twimg.com/media/FHySweXWQAUb0Bt?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://dw.com/p/44xdn" target="_blank" rel="noopener noreferrer">http://dw.com/p/44xdn</a>
 
 ### 8: [2021-12-30 20:19:44+08:00 推文](https://twitter.com/realcaixia/status/1476528427725381633)
 
@@ -97,11 +97,11 @@ Re @ni87107 这本书是香港出版的，估计香港已经买不到了。
 
 ### 21: [2022-01-01 08:05:26+08:00 推文](https://twitter.com/realcaixia/status/1477068411666669581)
 
-发出了“发哨人子的人——艾芬”推文后，有推友跟帖说还有更早上报疫情的人——张继先。于是我又去搜寻来张继先的报道。最先上报病毒疫情是12月26号，12月29号她就判断这是人传人。国家专家最早到武汉是元旦期间。但是，直至1月中武汉当局还在否认人传人。<br><img style="" src="https://pbs.twimg.com/media/FH-Z36pXEAU1j4x?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH-Z4MhXMAI_EgK?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH-Z4haXEAAtosN?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH-Z45VXsAASEnl?format=jpg&name=orig" referrerpolicy="no-referrer">
+发出了“发哨人子的人——艾芬”推文后，有推友跟帖说还有更早上报疫情的人——张继先。于是我又去搜寻来张继先的报道。最先上报病毒疫情是12月26号，12月29号她就判断这是人传人。国家专家最早到武汉是元旦期间。但是，直至1月中武汉当局还在否认人传人。<br><img style src="https://pbs.twimg.com/media/FH-Z36pXEAU1j4x?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH-Z4MhXMAI_EgK?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH-Z4haXEAAtosN?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH-Z45VXsAASEnl?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 22: [2022-01-01 08:20:27+08:00 推文](https://twitter.com/realcaixia/status/1477072189954351107)
 
-武汉病毒疫情至今仍在祸害全球，回顾两年前武汉疫情初期情况，越发明确显示出习当局有意隐瞒真相。这篇文章报道了几个关键点：<br>1，12月29号武汉传染病医院收了9个症状相同病人；<br>2，12月30号病人开始增加，到第二天晚上已经有24个病人；3，12月31号国家级专家到武汉医院；<br>4，1月2号前后事态更为严重。<br><img style="" src="https://pbs.twimg.com/media/FH-dT3RXoAAEfk3?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH-dUKyXwAEpzk9?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH-dUhpXEAoWHKq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH-dUzVWQAEHjcu?format=jpg&name=orig" referrerpolicy="no-referrer">
+武汉病毒疫情至今仍在祸害全球，回顾两年前武汉疫情初期情况，越发明确显示出习当局有意隐瞒真相。这篇文章报道了几个关键点：<br>1，12月29号武汉传染病医院收了9个症状相同病人；<br>2，12月30号病人开始增加，到第二天晚上已经有24个病人；3，12月31号国家级专家到武汉医院；<br>4，1月2号前后事态更为严重。<br><img style src="https://pbs.twimg.com/media/FH-dT3RXoAAEfk3?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH-dUKyXwAEpzk9?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH-dUhpXEAoWHKq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH-dUzVWQAEHjcu?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 23: [2022-01-01 21:58:50+08:00 推文](https://twitter.com/realcaixia/status/1477278143853600769)
 
@@ -133,7 +133,7 @@ Re @dayangelcp @John17Churchill 倒翻篇。
 
 ### 30: [2022-01-02 00:28:18+08:00 推文](https://twitter.com/realcaixia/status/1477315755788091399)
 
-忘不了武汉，如今又增添一个城市：忘不了西安…<br><br>张海。: 这类图片很刺激我的内心，我总忘不了武汉封城期间电话那头传来的哭泣声，她先生发烧到昏迷，症状就是染上了新冠病毒🦠求遍了所有能求的人，没有床位，也没人管，更出不去。人上午走在了家里，下午很晚才拖走，社区开的死亡证明：猝死……当时的武汉这类悲剧太多太多，她的哭泣声永远留在我的脑海里……<br><br><img style="" src="https://pbs.twimg.com/media/FH6GrzHVkAAhTNW?format=jpg&name=orig" referrerpolicy="no-referrer">
+忘不了武汉，如今又增添一个城市：忘不了西安…<br><br>张海。: 这类图片很刺激我的内心，我总忘不了武汉封城期间电话那头传来的哭泣声，她先生发烧到昏迷，症状就是染上了新冠病毒🦠求遍了所有能求的人，没有床位，也没人管，更出不去。人上午走在了家里，下午很晚才拖走，社区开的死亡证明：猝死……当时的武汉这类悲剧太多太多，她的哭泣声永远留在我的脑海里……<br><br><img style src="https://pbs.twimg.com/media/FH6GrzHVkAAhTNW?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 31: [2022-01-02 00:31:37+08:00 推文](https://twitter.com/realcaixia/status/1477316590597255169)
 
