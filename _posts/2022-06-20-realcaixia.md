@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2022-06-20~2022-06-26'
 
 ### 4: [2022-06-21 07:56:58+08:00 推文](https://twitter.com/realcaixia/status/1539034604061040640)
 
-中共的极权体制流氓程度超过此前任何一个极权政权，他们把一切都藏在黑暗中，而后他们躲在黑暗中可以为所欲为，随心所欲地栽赃陷害。
+中共的极权体制流氓程度超过此前任何一个极权政权，他们把一切都藏在黑暗中，而后他们躲在黑暗中可以为所欲为，随心所欲地栽赃陷害。<br><br>Luo Shengchun丁家喜律师妻子: #强烈要求许志永丁家喜案公开开庭！早在2021年11月、12月志永与家喜便分别提出了开庭的三个基本要求，其中之一就是要求公开审理，附件是当时推特截图。厦门聚会不涉及任何国家秘密，丁许所倡导的一切也没有任何秘密。临沂中院公然违法私定密级，玩弄法律，搞黑箱操作，秘密审判，我们强烈谴责并抵制！<br><br><img style="" src="https://pbs.twimg.com/media/FVpTa5wWIAADFkg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVpTa51XoAwKL0x?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2022-06-21 08:03:30+08:00 推文](https://twitter.com/realcaixia/status/1539036247766839296)
 
@@ -45,7 +45,7 @@ title: 'Twitter @蔡霞: 2022-06-20~2022-06-26'
 
 ### 8: [2022-06-22 08:40:37+08:00 推文](https://twitter.com/realcaixia/status/1539407976532000768)
 
-大陆灾害不断。曾经江、朱、胡、温都亲上灾区第一线，现在的大陆高层，习不去查看灾害，其他人就不敢出头第一个到第一线。从2019年起就这样了。<br><br>老司机: 福建水灾，全国各地水灾如今不但不报导，连领导也都不出面装装救灾的样子了。好像不没有发生一样！但是外国灾难新闻是肯定会播报的！<br><br><video src="https://video.twimg.com/ext_tw_video/1538655456314286080/pu/vid/720x1280/IoUw_eOSYGQMUYhL.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1538655456314286080/pu/img/IPg4FLoZt2DcKA3P.jpg"></video>
+大陆灾害不断。曾经江、朱、胡、温都亲上灾区第一线，现在的大陆高层，习不去查看灾害，其他人就不敢出头第一个到第一线。从2019年起就这样了。
 
 ### 9: [2022-06-23 07:45:46+08:00 推文](https://twitter.com/realcaixia/status/1539756560699822088)
 
@@ -65,7 +65,7 @@ title: 'Twitter @蔡霞: 2022-06-20~2022-06-26'
 
 ### 13: [2022-06-24 05:15:50+08:00 推文](https://twitter.com/realcaixia/status/1540081219471392769)
 
-全世界众目睽睽之下，中共当局迫害中国正义人士。这笔帐记着，中国宪政民主之时，习近平、习的酷吏打手将会向米洛舍维奇一样被押上人权法庭接受审判。
+全世界众目睽睽之下，中共当局迫害中国正义人士。这笔帐记着，中国宪政民主之时，习近平、习的酷吏打手将会向米洛舍维奇一样被押上人权法庭接受审判。<br><br>BBC News 中文: 许志永是中国知名的法律学者，推动中国公民运动的领军人。丁家喜曾是航空工程师，后来转任律师，曾与许志永等人发起 “新公民运动”。<br><br>他们二人涉嫌“颠覆国家政权罪”的案件，将分别于22日和24日在山东一家法院不公开开庭审理。<br> <a href="https://bbc.in/3QB7FmN" target="_blank" rel="noopener noreferrer">https://bbc.in/3QB7FmN</a>
 
 ### 14: [2022-06-24 05:27:38+08:00 推文](https://twitter.com/realcaixia/status/1540084187755122688)
 
@@ -85,7 +85,7 @@ Re 刚才少说了几分钟，建议想多听者，从10分钟开始到30-32分�
 
 ### 18: [2022-06-25 21:52:10+08:00 推文](https://twitter.com/realcaixia/status/1540694340120416274)
 
-在北京时我去朋友家见过几次大律师，很文质彬彬很温和慈祥的老人。听他聊天很受教益。大律师病后曾有一段不能说话，后来恢复得很好。想起来恍如昨日，老人的音容笑貌犹在眼前。哀悼大律师，纪念大律师。作为后辈的我，会照着大律师的追求去做，让薪火代代相传。<br><br>韩连潮: 【悼念中国法治先行者张思之】张思之律师的逝去结束了一代法律人的追求，但他展现的死磕精神 --屡辩屡败，虽败尤荣，维护被诉者的辩护权，为蒙冤者呐喊 -- 开了中国法治之先河。对张先生最好的悼念就是承传其追求法治的精神，反思质疑，勇于担当，坚持任何人（包括党）都不得凌驾于法律之上的原则。<br><br><img style="" src="https://pbs.twimg.com/media/FWGIgsFWIAIJsks?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+在北京时我去朋友家见过几次大律师，很文质彬彬很温和慈祥的老人。听他聊天很受教益。大律师病后曾有一段不能说话，后来恢复得很好。想起来恍如昨日，老人的音容笑貌犹在眼前。哀悼大律师，纪念大律师。作为后辈的我，会照着大律师的追求去做，让薪火代代相传。
 
 ### 19: [2022-06-25 22:40:29+08:00 推文](https://twitter.com/realcaixia/status/1540706502675030018)
 
@@ -97,7 +97,7 @@ Re 人以群分物以类聚，价值观相同，追求一致的人迟早聚到�
 
 ### 21: [2022-06-26 02:35:37+08:00 推文](https://twitter.com/realcaixia/status/1540765676217982978)
 
-习为世界发展指明方向？！跟着习近平走就是走绝路。
+习为世界发展指明方向？！跟着习近平走就是走绝路。<br><br>Winnie Pooh: 清华小学直博博士为全球发展指明了方向<br><br><img style="" src="https://pbs.twimg.com/media/FWGY2FzVUAAkaZ0?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWGY3ZtUAAAOLZ8?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWGY49BVUAAozyl?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 22: [2022-06-26 06:16:34+08:00 推文](https://twitter.com/realcaixia/status/1540821277321175043)
 
