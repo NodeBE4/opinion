@@ -201,7 +201,7 @@ Re @washearg 除了美国还有些家底，其余的国家，就算了吧。
 
 ### 47: [2023-02-21 23:05:51+08:00 推文](https://twitter.com/HeQinglian/status/1628048359180181507)
 
-RT He Qinglian<br>Re @Lucs24659702 很多乌鸡血们，包括那位说自己“曾经是农民、永远是农民”的“瞧瞧桥”老妹子在内，不相信乌克兰的第10次征兵令，这是原推，信不信由他们，懂乌语的请好心一点翻译给她听，让她再也不要在见识上“永远是农民”。<div class="rsshub-quote"><br><br>绫波: 乌克兰泽连斯基发起第10次征兵令，打算征召100万名士兵。<br><br>征兵令中规定，成年男性65岁以上，85岁以下必须参军。<br><br><img style="" src="https://pbs.twimg.com/media/FpYOaBgaYAAL-9z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+Re @Lucs24659702 很多乌鸡血们，包括那位说自己“曾经是农民、永远是农民”的“瞧瞧桥”老妹子在内，不相信乌克兰的第10次征兵令，这是原推，信不信由他们，懂乌语的请好心一点翻译给她听，让她再也不要在见识上“永远是农民”。<div class="rsshub-quote"><br><br>绫波: 乌克兰泽连斯基发起第10次征兵令，打算征召100万名士兵。<br><br>征兵令中规定，成年男性65岁以上，85岁以下必须参军。<br><br><img style="" src="https://pbs.twimg.com/media/FpYOaBgaYAAL-9z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 48: [2023-02-21 23:08:41+08:00 推文](https://twitter.com/HeQinglian/status/1628049071679188993)
 
@@ -461,7 +461,7 @@ Re @inno_dai @evaqiao2022 北溪管道是中国炸的？你有消息来源？�
 
 ### 112: [2023-02-23 06:31:23+08:00 推文](https://twitter.com/HeQinglian/status/1628522871348682756)
 
-最有趣的莫过于这句：“俄罗斯和中国的关系正在按计划发展”。<br>也就是说，过去一年多以来美欧全力指责的俄中结盟，完全不受影响。只是不知这“计划”形成于何时，内容也只能靠猜测。<div class="rsshub-quote"><br><br>Ezio Mao☢: 俄罗斯总统会见中共中央外事工作委员会办公室主任王毅<br><br>▪️俄罗斯联邦感谢中国的共同努力，现在世界国际关系很紧张；<br>▪️俄罗斯联邦与中国的合作对于稳定国际局势非常重要；<br>▪️莫斯科和北京正在落实会见中国国家主席的计划，这将推动双边关系的发展；<br>▪️俄罗斯和中国的关系正在按计划发展， https://t.co/57cA4ycrT4<br><br><video src="https://video.twimg.com/ext_tw_video/1628374269154701312/pu/vid/800x448/kE3g2eDzTxEstm-2.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1628374269154701312/pu/img/4nNO4r2754-Cxt8C.jpg"></video></div>
+最有趣的莫过于这句：“俄罗斯和中国的关系正在按计划发展”。<br>也就是说，过去一年多以来美欧全力指责的俄中结盟，完全不受影响。只是不知这“计划”形成于何时，内容也只能靠猜测。 https://twitter.com/KELMAND1/status/1628374309403246593<div class="rsshub-quote"><br><br>Ezio Mao☢: 俄罗斯总统会见中共中央外事工作委员会办公室主任王毅<br><br>▪️俄罗斯联邦感谢中国的共同努力，现在世界国际关系很紧张；<br>▪️俄罗斯联邦与中国的合作对于稳定国际局势非常重要；<br>▪️莫斯科和北京正在落实会见中国国家主席的计划，这将推动双边关系的发展；<br>▪️俄罗斯和中国的关系正在按计划发展， https://t.co/57cA4ycrT4<br><br><video src="https://video.twimg.com/ext_tw_video/1628374269154701312/pu/vid/800x448/kE3g2eDzTxEstm-2.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1628374269154701312/pu/img/4nNO4r2754-Cxt8C.jpg"></video></div>
 
 ### 113: [2023-02-23 06:33:42+08:00 推文](https://twitter.com/HeQinglian/status/1628523455216844800)
 
@@ -569,7 +569,7 @@ Re @Lucs24659702 去年小拜登将美国释放的战略储备油卖给中石油
 
 ### 139: [2023-02-24 02:33:17+08:00 推文](https://twitter.com/HeQinglian/status/1628825340528263170)
 
-中美经济脱钩，从美国方面来说，于公于私都很难。<br>于私，是美国第一公子小拜登不时被公布的与中国的利益互动。<br>于公，据美方政府日前公布，2022年美国和中国货物贸易总额达6906亿美元，创历史新高。<br>中国贸易顺差逾6000亿，美国贸易逆差近万亿，中国的贸易顺差多数来自于美国。<br>拜粉能否读懂这些数据？<div class="rsshub-quote"><br><br>Lucs: Byron Donalds：亨特·拜登协助将钴矿出售给一家中国公司<br><br> “乔·拜登如此大力推动太阳能电池板、电池和电动汽车的原因之一是因为他的儿子促成了将钴矿出售给一家中国公司。” https://t.co/Wj2ek2X4AH<br><br><video src="https://video.twimg.com/ext_tw_video/1628812773571579905/pu/vid/1280x720/b8RktzccufT_6vyU.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1628812773571579905/pu/img/dwnZx9sEofrWfm7K.jpg"></video></div>
+中美经济脱钩，从美国方面来说，于公于私都很难。<br>于私，是美国第一公子小拜登不时被公布的与中国的利益互动。<br>于公，据美方政府日前公布，2022年美国和中国货物贸易总额达6906亿美元，创历史新高。<br>中国贸易顺差逾6000亿，美国贸易逆差近万亿，中国的贸易顺差多数来自于美国。<br>拜粉能否读懂这些数据？ https://twitter.com/Lucs24659702/status/1628812816194080768<div class="rsshub-quote"><br><br>Lucs: Byron Donalds：亨特·拜登协助将钴矿出售给一家中国公司<br><br> “乔·拜登如此大力推动太阳能电池板、电池和电动汽车的原因之一是因为他的儿子促成了将钴矿出售给一家中国公司。” https://t.co/Wj2ek2X4AH<br><br><video src="https://video.twimg.com/ext_tw_video/1628812773571579905/pu/vid/1280x720/b8RktzccufT_6vyU.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1628812773571579905/pu/img/dwnZx9sEofrWfm7K.jpg"></video></div>
 
 ### 140: [2023-02-24 03:42:23+08:00 推文](https://twitter.com/HeQinglian/status/1628842726924988417)
 
@@ -737,7 +737,7 @@ Re @pandatress1 俄罗斯的制造业经理人采购指数够牛的，大概在5
 
 ### 181: [2023-02-24 23:43:55+08:00 推文](https://twitter.com/HeQinglian/status/1629145105016709120)
 
-多极化，美国彩虹文化就带着欧洲一道玩吧。<div class="rsshub-quote"><br><br>zt: 什么是“普世价值”，如果中共成了世界老大，普世价值就是永远坚持党的领导；如果墓撕陵当了老大，普世价值就是女人都要蒙面；如果白左成了老大，那么就什么都没有了，普世价值将湮没在LGBTQ的彩虹屁里，人类文明都要消亡。看起来前两者好歹也能算是个文明，后者就是文明的敌人。<br></div>
+多极化，美国彩虹文化就带着欧洲一道玩吧。 https://twitter.com/zt33268778/status/1628961825579577345<div class="rsshub-quote"><br><br>zt: 什么是“普世价值”，如果中共成了世界老大，普世价值就是永远坚持党的领导；如果墓撕陵当了老大，普世价值就是女人都要蒙面；如果白左成了老大，那么就什么都没有了，普世价值将湮没在LGBTQ的彩虹屁里，人类文明都要消亡。看起来前两者好歹也能算是个文明，后者就是文明的敌人。<br></div>
 
 ### 182: [2023-02-24 23:45:24+08:00 推文](https://twitter.com/HeQinglian/status/1629145475805749249)
 
@@ -918,4 +918,68 @@ Re @TDXY @franktianxie 美国内部分裂程度远甚于中国。<br>建议你�
 ### 226: [2023-02-25 11:06:39+08:00 推文](https://twitter.com/HeQinglian/status/1629316917419712512)
 
 Re @E1l7iKepNbZvS52 自己判断，美国现在象准备好同时与俄中伊朗同时博弈的样子吗？
+
+### 227: [2023-02-25 11:15:26+08:00 推文](https://twitter.com/HeQinglian/status/1629319130359767040)
+
+美国20世纪出了三位国际战略大师，成就了美国的超级霸权地位，他们是基辛格、布热津斯基、米尔斯海默。<br>这三位有一点是共同的：绝对不能让俄罗斯、中国、伊朗形成联盟，这联盟一旦形成，美国将会非常头痛。<br>如今的奥-拜政府，反其道而行之，一定会有一位超级国际战略大师横空出世。
+
+### 228: [2023-02-25 11:18:03+08:00 推文](https://twitter.com/HeQinglian/status/1629319788294991872)
+
+Re @FightForJiuCai 他应该阻止小泽呼吁与习近平见面。
+
+### 229: [2023-02-25 11:23:01+08:00 推文](https://twitter.com/HeQinglian/status/1629321036872265729)
+
+Re @dinglili7 美国传统基基金会2021年有篇专题研究，以美国历史上最大的20次制裁为例分析，结论是：基本无效，除了缅甸等小国之外。
+
+### 230: [2023-02-25 11:26:15+08:00 推文](https://twitter.com/HeQinglian/status/1629321852043550722)
+
+Re @tanggulashanzei 中文圈当真是超级国际战略大师辈出，站在洼地里，却有一览众山小的气概。<br>如果某国领导能用之，一定成为春秋五霸之一。😅<br>找个人翻译一下，附送拜登如何？
+
+### 231: [2023-02-25 11:34:42+08:00 推文](https://twitter.com/HeQinglian/status/1629323977800704001)
+
+Re @Wu_Zhi 刚才拜登说习近平不知道气球事件。这意思是习近平支了另一张棋桌，下了先手，拜登暂时没打算入局对奕。
+
+### 232: [2023-02-25 11:36:16+08:00 推文](https://twitter.com/HeQinglian/status/1629324371608174594)
+
+Re @HenryWsa 我没资格，只看出点棋路，你努力一下，或许可期。😅<br>多支持一下拜登，让他听见你，看见你。
+
+### 233: [2023-02-25 11:41:56+08:00 推文](https://twitter.com/HeQinglian/status/1629325800313958400)
+
+Re @evaqiao2022 只有美国事事正确，你是这意思？
+
+### 234: [2023-02-25 12:29:14+08:00 推文](https://twitter.com/HeQinglian/status/1629337700942721029)
+
+Re @evaqiao2022 算了，你这几年在沉睡中。反正，你变了，不是变得更成熟，而是另一个人。
+
+### 235: [2023-02-25 12:32:27+08:00 推文](https://twitter.com/HeQinglian/status/1629338510086791168)
+
+Re @FightForJiuCai 索罗斯、布热津斯基这两人在乌克兰专家那里等量齐观，还真是有趣的现象。
+
+### 236: [2023-02-25 12:34:16+08:00 推文](https://twitter.com/HeQinglian/status/1629338970386493442)
+
+Re @zhangguomei211 我说得很明白：与美国下。只有你觉得中国要与别国下。
+
+### 237: [2023-02-25 12:35:16+08:00 推文](https://twitter.com/HeQinglian/status/1629339218802507778)
+
+Re @TianyuB 有，输入书名，就可找到PDF文件。
+
+### 238: [2023-02-25 12:40:53+08:00 推文](https://twitter.com/HeQinglian/status/1629340632480088065)
+
+Re @inno_dai 我记得2014年乌克兰政变后，米尔斯海默与当时在世的布热津斯基，均对未来局势做了预测：<br>1、乌克兰不能加入北约，否则俄罗斯一定会发动战争。<br>2、美国不会派兵，但是会对俄罗斯施压。<br>3、北约和美国不亲自下场，俄罗斯必赢，如果美欧亲自下场，则会将整个人类拖入核战的危险境地。<br>确实因川普延迟四年
+
+### 239: [2023-02-25 12:46:02+08:00 推文](https://twitter.com/HeQinglian/status/1629341930482966529)
+
+Re @FightForJiuCai 如今把索罗斯迎去也不晚啊，让他当乌克兰的太上总统，与泽连斯基一道亲自应付危局，要钱有钱，要武器有武器，顺带大重置-彩虹化。
+
+### 240: [2023-02-25 12:50:22+08:00 推文](https://twitter.com/HeQinglian/status/1629343019626266624)
+
+Re @HettyJ008 我怎么觉得这个故事的前半部已经发生了？只是美国约一半的大众不但没到忍无可忍的程度，还把他奉为神。😅
+
+### 241: [2023-02-25 13:00:09+08:00 推文](https://twitter.com/HeQinglian/status/1629345482525777923)
+
+Re @Wu_Zhi 我来翻译一下：<br>泽伦斯基警告不想向乌克兰提供更多美元的美国人：<br>“如果他们不改变他们的观点，如果他们不理解我们，如果他们不支持乌克兰，他们将失去北约，他们将失去美国的影响力。”<br>每天看新闻，看到最后，总是觉得好搞笑。
+
+### 242: [2023-02-25 13:01:11+08:00 推文](https://twitter.com/HeQinglian/status/1629345742295912451)
+
+Re @HettyJ008 谢谢。
 
