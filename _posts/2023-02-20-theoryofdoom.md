@@ -51,3 +51,7 @@ Same, because it's what I'd usually go to.
 
 But I might try the les paul, for a test drive.
 
+----- __479.2__ -----2023-02-26 03:00:30+08:00:
+
+I favor strats, as well.  Specifically my EOB with the sustainer pickup.  Or a classic strat.  Any strat, really.
+

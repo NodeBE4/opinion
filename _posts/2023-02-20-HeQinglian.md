@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-02-25
+date: 2023-02-26
 from: https://twitter.com/HeQinglian/status/1627459636637888512
 layout: post
 tags:
@@ -645,7 +645,7 @@ Re @Vince6610 近五年，美国已从中国第一大贸易伙伴，成为中国
 
 ### 158: [2023-02-24 06:46:38+08:00 推文](https://twitter.com/HeQinglian/status/1628889095509344256)
 
-俄乌战争以来，很多事美国没办好的原因，尤其是对俄制裁失败，主要是没弄清楚一点：<br>自2010年以来，全球化分工体系已经成为生产国、消费国与资源国，三类国家是互相依赖的互补关系。<br>美国是世界最大消费国，世界贸易顺差的主要来源；中国是生产国；俄罗斯是资源国，德国既是生产国（高端）又是消费国。<div class="rsshub-quote"><br><br>天降伟人包由检: 民主党机关报也觉得让俄罗斯内部推翻普京不那么现实，然后一直以来不知道哪根筋搭错了，总是特别希望包总来劝普京停手。这真挺有趣。我要是包总，肯定跟老美说“行啊，那总得有点好处吧……” https://t.co/Ma8VwyTLkX<br><br><img style="" src="https://pbs.twimg.com/media/FprvbLEWcAE-LQE?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLAWIAEkp__?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLAXgAI4e7z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLEXgAUvSha?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+俄乌战争以来，很多事美国没办好的原因，尤其是对俄制裁失败，主要是没弄清楚一点：<br>自2010年以来，全球化分工体系已经成为生产国、消费国与资源国，三类国家是互相依赖的互补关系。<br>美国是世界最大消费国，世界贸易顺差的主要来源；中国是生产国；俄罗斯是资源国，德国既是生产国（高端）又是消费国。 https://twitter.com/fading_you1/status/1628877470769246208<div class="rsshub-quote"><br><br>天降伟人包由检: 民主党机关报也觉得让俄罗斯内部推翻普京不那么现实，然后一直以来不知道哪根筋搭错了，总是特别希望包总来劝普京停手。这真挺有趣。我要是包总，肯定跟老美说“行啊，那总得有点好处吧……” https://t.co/Ma8VwyTLkX<br><br><img style="" src="https://pbs.twimg.com/media/FprvbLEWcAE-LQE?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLAWIAEkp__?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLAXgAI4e7z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLEXgAUvSha?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 159: [2023-02-24 07:05:36+08:00 推文](https://twitter.com/HeQinglian/status/1628893868212072448)
 
@@ -1038,4 +1038,40 @@ Re @wakeup_arrow 根据我找到的各国数据分析，中国与美国、欧盟
 ### 256: [2023-02-25 22:45:44+08:00 推文](https://twitter.com/HeQinglian/status/1629492847517786120)
 
 Re @KELMAND1 目前战场上实在没有太大的变化可看，俄乌战争还得持续消耗一段时间，解决方式在局外。但战场上略占优势的，会多点话语权。<br>时限应该就是美国反战声音较高之时，最晚应该是明年大选动员期开始之前。
+
+### 257: [2023-02-26 01:38:58+08:00 推文](https://twitter.com/HeQinglian/status/1629536446989123586)
+
+Re @luosifeng 人，还是要有点精气神的。<br>我根本不在意，不怕当5%甚至更少的少数派。
+
+### 258: [2023-02-26 01:41:26+08:00 推文](https://twitter.com/HeQinglian/status/1629537066630496259)
+
+Re @mitolyu @TianyuB 你在国内还是在国外？要买的是哪一本？
+
+### 259: [2023-02-26 01:45:17+08:00 推文](https://twitter.com/HeQinglian/status/1629538033425891329)
+
+Re @vi_zey 对你唯一的建议是去读书。如果不读书，人会废掉。
+
+### 260: [2023-02-26 01:59:18+08:00 推文](https://twitter.com/HeQinglian/status/1629541560256790529)
+
+Re @3zaCjUAGlkGmJsF 这倒是真的。基辛格后来不写书了，那两位对现实的预测只及于他国，完全没想到今天美国的自我摧残，只预料到这几国强大后对美国形成的威胁。
+
+### 261: [2023-02-26 02:00:48+08:00 推文](https://twitter.com/HeQinglian/status/1629541940659142659)
+
+Re @Walsh128 推文说了他的思想对今天有影响吗？<br>其余二人，你知道他们生年卒月吗？著作有多少？
+
+### 262: [2023-02-26 02:38:16+08:00 推文](https://twitter.com/HeQinglian/status/1629551370318520321)
+
+Re @SI0FNJaumWUpA6R 去年年中，米尔海默斯非常生气地发言说：我终生都研究国际战略、地缘政治，提过不少建议，没想到所有的蠢事现在都被政府做了。<br>前一向看到芝大学生“取消”他的一小段视频，太搞笑了，与中国文革有一拼。
+
+### 263: [2023-02-26 02:46:39+08:00 推文](https://twitter.com/HeQinglian/status/1629553476979109895)
+
+Re @dinglili7 德国一年来的行为很有意思：<br>1、能源脱俄的方法是洗绿，将原来摒弃的煤、核能、木柴等全部重新纳入绿能；<br>2、去工业化导致不少企业破产或外迁，德国领导人与媒体每天秀政治道德；<br>3、总理率大半个国家（企业豪华团）访华，才秀完外交成功，立刻又被美国逼着划清界限。<br>4、北溪被炸事情披露，继续缩头。
+
+### 264: [2023-02-26 02:50:27+08:00 推文](https://twitter.com/HeQinglian/status/1629554435549536258)
+
+Re @shenliangqing2 其实，没有这些人当初确定的联中抗俄，美国不可能赢得冷战，中国也不会有改革开放。这些人也不可能来美生活。<br>人家生存的意义是为美国，不是为了中国边缘政治反对者。
+
+### 265: [2023-02-26 02:52:25+08:00 推文](https://twitter.com/HeQinglian/status/1629554928199901184)
+
+Re @woshigbb @yeningusa 去过一趟北京访问（也许两三次），在中国讲学。大概因此被算成拥抱熊猫了吧。
 
