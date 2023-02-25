@@ -225,7 +225,7 @@ Re @qqiaoqiao @Lucs24659702 你在推上找出三个以上比我更严谨的吧�
 
 ### 53: [2023-02-21 23:26:50+08:00 推文](https://twitter.com/HeQinglian/status/1628053641792786432)
 
-话说得这么直白，乌鸡血们又要来喷洒正义的热血了。<div class="rsshub-quote"><br><br>Isabel👑💎WW: 我再说一遍，挺俄需要更高门槛，因为需要对历史和现实重新认知，<br><br>挺乌不需要任何头脑，只需要情怀，而且这种情怀还是几十年人家灌输给你的。<br> <a href="https://twitter.com/123450terry/status/1627877464344231936" target="_blank" rel="noopener noreferrer">https://twitter.com/123450terry/status/1627877464344231936</a></div>
+话说得这么直白，乌鸡血们又要来喷洒正义的热血了。<div class="rsshub-quote"><br><br>Isabel👑💎WW: 我再说一遍，挺俄需要更高门槛，因为需要对历史和现实重新认知，<br><br>挺乌不需要任何头脑，只需要情怀，而且这种情怀还是几十年人家灌输给你的。<br></div>
 
 ### 54: [2023-02-21 23:31:02+08:00 推文](https://twitter.com/HeQinglian/status/1628054698199552002)
 
@@ -505,7 +505,7 @@ Re @Wu_Zhi @nuosu001 @JianglinLi @seadognw 你德倒真应该向欧洲各国介�
 
 ### 123: [2023-02-23 09:56:22+08:00 推文](https://twitter.com/Isabel_3299/status/1628574455482970112)
 
-RT Isabel👑💎WW<br>自古同性恋哪个文化都有，但是当把这种只占1%不到的人的特殊需求当政治正确打压99%属于正常人的权利就另当别论。<br><br>你同情他们个体的遭遇可以理解，但让所有人都同情这也是强人所难。 https://twitter.com/8964xjpfucku/status/1628567901723672585<div class="rsshub-quote"><br><br>一号女嘉宾: @Isabel_3299 可是中国也有LGBTQ群体啊，中国那么歧视LGBTQ但是即便在完全没有西方文化侵蚀的农村，也有变性人的。<br><br>这不是左逼捏造的东西，你可能不喜欢别人变性，但是这个东西确实是人家的真实生理需求。<br><br>你要是否认这个群体，他们就形婚，生娃，假装正常。基因还能延续呢。<br>人家自己绝后，对所有人都好。<br></div>
+RT Isabel👑💎WW<br>自古同性恋哪个文化都有，但是当把这种只占1%不到的人的特殊需求当政治正确打压99%属于正常人的权利就另当别论。<br><br>你同情他们个体的遭遇可以理解，但让所有人都同情这也是强人所难。<div class="rsshub-quote"><br><br>一号女嘉宾: @Isabel_3299 可是中国也有LGBTQ群体啊，中国那么歧视LGBTQ但是即便在完全没有西方文化侵蚀的农村，也有变性人的。<br><br>这不是左逼捏造的东西，你可能不喜欢别人变性，但是这个东西确实是人家的真实生理需求。<br><br>你要是否认这个群体，他们就形婚，生娃，假装正常。基因还能延续呢。<br>人家自己绝后，对所有人都好。<br></div>
 
 ### 124: [2023-02-23 10:07:43+08:00 推文](https://twitter.com/HeQinglian/status/1628577311002951680)
 
@@ -569,7 +569,7 @@ Re @Lucs24659702 去年小拜登将美国释放的战略储备油卖给中石油
 
 ### 139: [2023-02-24 02:33:17+08:00 推文](https://twitter.com/HeQinglian/status/1628825340528263170)
 
-中美经济脱钩，从美国方面来说，于公于私都很难。<br>于私，是美国第一公子小拜登不时被公布的与中国的利益互动。<br>于公，据美方政府日前公布，2022年美国和中国货物贸易总额达6906亿美元，创历史新高。<br>中国贸易顺差逾6000亿，美国贸易逆差近万亿，中国的贸易顺差多数来自于美国。<br>拜粉能否读懂这些数据？ https://twitter.com/Lucs24659702/status/1628812816194080768<div class="rsshub-quote"><br><br>Lucs: Byron Donalds：亨特·拜登协助将钴矿出售给一家中国公司<br><br> “乔·拜登如此大力推动太阳能电池板、电池和电动汽车的原因之一是因为他的儿子促成了将钴矿出售给一家中国公司。” https://t.co/Wj2ek2X4AH<br><br><video src="https://video.twimg.com/ext_tw_video/1628812773571579905/pu/vid/1280x720/b8RktzccufT_6vyU.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1628812773571579905/pu/img/dwnZx9sEofrWfm7K.jpg"></video></div>
+中美经济脱钩，从美国方面来说，于公于私都很难。<br>于私，是美国第一公子小拜登不时被公布的与中国的利益互动。<br>于公，据美方政府日前公布，2022年美国和中国货物贸易总额达6906亿美元，创历史新高。<br>中国贸易顺差逾6000亿，美国贸易逆差近万亿，中国的贸易顺差多数来自于美国。<br>拜粉能否读懂这些数据？<div class="rsshub-quote"><br><br>Lucs: Byron Donalds：亨特·拜登协助将钴矿出售给一家中国公司<br><br> “乔·拜登如此大力推动太阳能电池板、电池和电动汽车的原因之一是因为他的儿子促成了将钴矿出售给一家中国公司。” https://t.co/Wj2ek2X4AH<br><br><video src="https://video.twimg.com/ext_tw_video/1628812773571579905/pu/vid/1280x720/b8RktzccufT_6vyU.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1628812773571579905/pu/img/dwnZx9sEofrWfm7K.jpg"></video></div>
 
 ### 140: [2023-02-24 03:42:23+08:00 推文](https://twitter.com/HeQinglian/status/1628842726924988417)
 
@@ -681,7 +681,7 @@ Re @eGUAbe2V7j26GHw 去年，德国去工业化，倒闭大批企业；法国、
 
 ### 167: [2023-02-24 09:11:57+08:00 推文](https://twitter.com/HeQinglian/status/1628925667579420672)
 
-【前外交部長王毅最近升任中共中央政治局局長】<br>请问推友，中国什么时候设立了这个职位——中共中央政治局局长？
+【前外交部長王毅最近升任中共中央政治局局長】<br>请问推友，中国什么时候设立了这个职位——中共中央政治局局长？ https://twitter.com/QQzk_prs/status/1628568255311888384
 
 ### 168: [2023-02-24 09:14:53+08:00 推文](https://twitter.com/HeQinglian/status/1628926404371927040)
 
@@ -805,7 +805,7 @@ Re @KELMAND1 拜登政府能够撑到2023年年底就差不多了，要竞选了
 
 ### 198: [2023-02-25 02:44:20+08:00 推文](https://twitter.com/HeQinglian/status/1629190506809896963)
 
-不算是很疯。今天看到VOA一条消息：美国陆军军官表示，对中国解放军有绝对优势——前两天VOA引美海军军官话说中国海空军力发展很快，美国似无绝对优势。<br>这意思是美中两国陆军将在一块陆地上相逢。我一直在想，这块陆地在哪？台湾肯定不合适，除了美国打到中国，或中国到美。<div class="rsshub-quote"><br><br>Ezio Mao☢: 下面是疯话环节:<br><br>“如果乌克兰输了，俄罗斯联邦将向北约国家开战，然后美国将不得不派兵参战”——泽连斯基 https://t.co/osIFUbqJVO<br><br><img style="" src="https://pbs.twimg.com/media/Fpv5ealaQAAQ6yT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+不算是很疯。今天看到VOA一条消息：美国陆军军官表示，对中国解放军有绝对优势——前两天VOA引美海军军官话说中国海空军力发展很快，美国似无绝对优势。<br>这意思是美中两国陆军将在一块陆地上相逢。我一直在想，这块陆地在哪？台湾肯定不合适，除了美国打到中国，或中国到美。 https://twitter.com/KELMAND1/status/1629169997074534400<div class="rsshub-quote"><br><br>Ezio Mao☢: 下面是疯话环节:<br><br>“如果乌克兰输了，俄罗斯联邦将向北约国家开战，然后美国将不得不派兵参战”——泽连斯基 https://twitter.com/KELMAND1/status/1629166174562062337 https://t.co/osIFUbqJVO<br><br><img style="" src="https://pbs.twimg.com/media/Fpv5ealaQAAQ6yT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 199: [2023-02-25 02:50:15+08:00 推文](https://twitter.com/HeQinglian/status/1629191994990858241)
 
@@ -882,4 +882,40 @@ Re @dinglili7 这意思就是不容许乌克兰不收得乌东四州？😅<br>�
 ### 217: [2023-02-25 10:02:39+08:00 推文](https://twitter.com/HeQinglian/status/1629300812961677315)
 
 Re @dinglili7 “收得”为“收复”之误。
+
+### 218: [2023-02-25 10:24:34+08:00 推文](https://twitter.com/HeQinglian/status/1629306327267778562)
+
+Re @chudlytw https://twitter.com/KELMAND1/status/1629180719007416320<div class="rsshub-quote"><br><br>Ezio Mao☢: 俄罗斯常驻联合国代表 Vasily Nebenzya 在世界组织安全理事会关于乌克兰的会议上的发言：<br><br>◾️俄罗斯从未宣称要摧毁乌克兰的目标，相反的说法是错误的；<br><br>俄罗斯联邦准备就和平实现特别行动目标进行谈判，它甚至不会考虑其他情况；<br><br>◾️俄罗斯欢迎乌克兰真正的和平愿望，例如中国的提议； https://t.co/7rofpKcj4v<br><br><img style="" src="https://pbs.twimg.com/media/FpwDOqnacAAZXi_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 219: [2023-02-25 10:26:00+08:00 推文](https://twitter.com/HeQinglian/status/1629306690989445121)
+
+Re @dustybill3 @cLb0SW7bwSU6y6p 这样说，失格了。
+
+### 220: [2023-02-25 10:29:20+08:00 推文](https://twitter.com/HeQinglian/status/1629307526574424065)
+
+Re @franktianxie 为什么要正式介入？<br>在俄罗斯掀翻的棋盘边支上另一张棋桌，执黑先下一子，不是更好么？<br>贵功一遇到反共问题，许多事情就想不明白了。比如对疫情的判断。
+
+### 221: [2023-02-25 10:34:47+08:00 推文](https://twitter.com/HeQinglian/status/1629308900787773442)
+
+俄乌战争进展到如今这地步，有必要读一下布热津斯基的《大棋局——美国的首要 地位及其地缘战略》了。在这本书中，关于未来几十年在欧亚大陆这个大棋盘上谁是棋手、谁是棋子，每一步怎么走，走的结果如何，都明明白白地写了出来。<br>这本书里，乌克兰不是棋手，是棋子。中国另支棋盘开新局，一半在其算中。
+
+### 222: [2023-02-25 10:39:57+08:00 推文](https://twitter.com/HeQinglian/status/1629310200430710790)
+
+Re 在围绕乌克兰这一地区局部博弈，作者勾画出一个基本框架：<br>1、美国是欧亚大陆大国关系的主要仲裁者，作为“离岸”霸权的美国其总目标是“阻止一个占主导地位和敌对的欧亚大陆大国的出现”——指俄罗斯。<br>3、乌克兰不是“棋手”而是“棋子”（书中称为“地缘政治支轴国家”）。最重要是是要让俄罗斯失去乌克兰，
+
+### 223: [2023-02-25 10:42:45+08:00 推文](https://twitter.com/HeQinglian/status/1629310905228902400)
+
+Re 接上：（注：这点在2014年通过颜色革命做到了。）<br>俄罗斯失去乌克兰，将不再是一个欧亚帝国，而退缩成一个亚洲帝国，并陷入与中亚和东亚国家的冲突，这符合美国霸权利益。
+
+### 224: [2023-02-25 10:45:00+08:00 推文](https://twitter.com/HeQinglian/status/1629311470277148672)
+
+Re 3、法德俄三个大国都是这一地区的地缘战略“棋手”国家，都有能力左右棋局，三个“棋手”的接近不符合美国的霸权利益，法德也不能代表欧洲单独同俄罗斯打交道，美国必须加以阻止。（北溪管道被炸，算是阻止了德俄交往）。<br>这本书写于1996年，算是神算吧。可惜作者于2017年去世了。
+
+### 225: [2023-02-25 10:47:48+08:00 推文](https://twitter.com/HeQinglian/status/1629312176035954688)
+
+Re @TDXY @franktianxie 美国内部分裂程度远甚于中国。<br>建议你读一下《大棋局》，以前我读过，不是很理解乌克兰为何被置于如此重要的地位，现在重读，不一样。
+
+### 226: [2023-02-25 11:06:39+08:00 推文](https://twitter.com/HeQinglian/status/1629316917419712512)
+
+Re @E1l7iKepNbZvS52 自己判断，美国现在象准备好同时与俄中伊朗同时博弈的样子吗？
 
