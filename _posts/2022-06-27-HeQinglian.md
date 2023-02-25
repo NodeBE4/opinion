@@ -725,7 +725,7 @@ Re @RealBeiMing 好莱坞有一类鬼怪片，里面的鬼怪就是这样打扮�
 
 ### 178: [2022-07-03 19:37:17+08:00 推文](https://twitter.com/HeQinglian/status/1543559502095683587)
 
-拉斯穆森近日调查，还有42%支持拜登，图中这类人、经常洗劫商店的BLM与骄傲日裸体游行的人，加上75%以上的青年大学生，以及95%以上的NGO，就是拜登民主党的社会基础。这个社会基础培育多年，很难短期内消失。 <a href="https://twitter.com/zt33268778/status/1543262704902848513" target="_blank" rel="noopener noreferrer">https://twitter.com/zt33268778/status/1543262704902848513</a>
+拉斯穆森近日调查，还有42%支持拜登，图中这类人、经常洗劫商店的BLM与骄傲日裸体游行的人，加上75%以上的青年大学生，以及95%以上的NGO，就是拜登民主党的社会基础。这个社会基础培育多年，很难短期内消失。<br><br>Clown World ™ 🤡: <br><br><video src="https://video.twimg.com/ext_tw_video/1542979457585074177/pu/vid/606x1080/eFgmNpIyLY-U1PRy.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1542979457585074177/pu/img/K9J_B57yzYVK0C4n.jpg"></video>
 
 ### 179: [2022-07-03 19:44:02+08:00 推文](https://twitter.com/HeQinglian/status/1543561198909759488)
 
