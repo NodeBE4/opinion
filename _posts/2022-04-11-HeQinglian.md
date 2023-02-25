@@ -53,7 +53,7 @@ Re @JianglinLi @Wazy1988bW 1984-2.0版。老大哥无时无刻都在看着你。
 
 ### 10: [2022-04-11 09:36:27+08:00 推文](https://twitter.com/HeQinglian/status/1513330102498643968)
 
-查今日俄罗斯，发现平淡报导俄任命新的乌克兰战争指挥官。但美等西方媒体却高调报道。以下是美联社与法新社的中文译报：<br>《谁是亚历山大·德沃尔尼科夫，被普京任命横扫乌克兰东部的被称为 “叙利亚屠夫” 的将军》<br>战略上只谈及一点：过去没有统一指挥，新指挥官将统一指挥。<br><br>He Qinglian: 俄罗斯任命南部军区司令员德沃尔尼科夫担任新的乌克兰战争指挥官，他在第二次车臣战争中参战，并在 2015 年被任命为驻叙利亚的俄罗斯军队负责之前担任过多个高级职位。<br>2016年，普京授予德沃尔尼科夫俄罗斯英雄勋章，这是该国最高奖项之一。<br> <a href="https://www.aol.com/news/us-official-russia-appoints-ukraine-142216330-152946083.html" target="_blank" rel="noopener noreferrer">https://www.aol.com/news/us-official-russia-appoints-ukraine-142216330-152946083.html</a>
+查今日俄罗斯，发现平淡报导俄任命新的乌克兰战争指挥官。但美等西方媒体却高调报道。以下是美联社与法新社的中文译报：<br>《谁是亚历山大·德沃尔尼科夫，被普京任命横扫乌克兰东部的被称为 “叙利亚屠夫” 的将军》<br>战略上只谈及一点：过去没有统一指挥，新指挥官将统一指挥。 <a href="https://www.infobae.com/cn/2022/04/10/who-is-alexander-dvornikov-the-general-known-as-the-butcher-of-syria-who-was-appointed-by-putin-to-sweep-eastern-ukraine/" target="_blank" rel="noopener noreferrer">https://www.infobae.com/cn/2022/04/10/who-is-alexander-dvornikov-the-general-known-as-the-butcher-of-syria-who-was-appointed-by-putin-to-sweep-eastern-ukraine/</a>
 
 ### 11: [2022-04-11 09:49:09+08:00 推文](https://twitter.com/HeQinglian/status/1513333297656610818)
 
@@ -293,7 +293,7 @@ Re @jason78proton 这是重大消息，类于二战时期？看来美国没打�
 
 ### 70: [2022-04-13 08:35:58+08:00 推文](https://twitter.com/HeQinglian/status/1514039656052109318)
 
-2021年，按官方平均汇率计算，人均名义GDP折合12173美元，乌克兰2021年人均GDP为4532美元，俄的人均GDP约为乌克兰的2.7倍。<br>数字说话。<br><br>jiang shangrong: 这段视频我笑了3分钟。特意做了字幕分享。虽然好笑却发人深省。翻墙出来那些被洗脑教育的又自以为是民主志士的中国人和这个姑娘本质上没有太大区别的。很多人眼里俄罗斯就是个连微波炉都要拼了坦克和命去抢的地方……<br> <a href="https://youtu.be/42GUB1j3bls" target="_blank" rel="noopener noreferrer">https://youtu.be/42GUB1j3bls</a>
+2021年，按官方平均汇率计算，人均名义GDP折合12173美元，乌克兰2021年人均GDP为4532美元，俄的人均GDP约为乌克兰的2.7倍。<br>数字说话。
 
 ### 71: [2022-04-13 08:52:20+08:00 推文](https://twitter.com/HeQinglian/status/1514043777907834890)
 
@@ -333,7 +333,7 @@ Re @princeton_walk @JiangShangrong 如今信息战，消息一定要多方Check�
 
 ### 80: [2022-04-13 10:26:50+08:00 推文](https://twitter.com/HeQinglian/status/1514067559787733004)
 
-请注意调查 样本搜集期限：“到2021年8月之前”，7个月后，发生俄乌战争。德国如今成了被泽连斯基吊打的对象，领导力江河日下。<br><br>美国之音中文网: 盖洛普全球领导地位排名：德国继续位居第一，美国出现回升，中俄相当<br> <a href="http://dlvr.it/SNTBpY" target="_blank" rel="noopener noreferrer">http://dlvr.it/SNTBpY</a>
+请注意调查 样本搜集期限：“到2021年8月之前”，7个月后，发生俄乌战争。德国如今成了被泽连斯基吊打的对象，领导力江河日下。
 
 ### 81: [2022-04-13 10:28:07+08:00 推文](https://twitter.com/HeQinglian/status/1514067881608335364)
 
