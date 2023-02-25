@@ -13,9 +13,9 @@ title: theoryofdoom在2023-01-23~2023-01-29的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 450: [Last week Steven Crowder and Jeremy Boreing gave the world a Masterclass on how NOT to negotiate a multi-million dollar deal. Steven reacted emotionally to lowball offers with onerous terms. Jeremy reacted similarly and escalated an already bad situation.](https://old.reddit.com/r/Deplatformed_/comments/10jgtob/last_week_steven_crowder_and_jeremy_boreing_gave/), submitted on 2023-01-24 00:40:05+08:00.
+### 451: [Last week Steven Crowder and Jeremy Boreing gave the world a Masterclass on how NOT to negotiate a multi-million dollar deal. Steven reacted emotionally to lowball offers with onerous terms. Jeremy reacted similarly and escalated an already bad situation.](https://old.reddit.com/r/Deplatformed_/comments/10jgtob/last_week_steven_crowder_and_jeremy_boreing_gave/), submitted on 2023-01-24 00:40:05+08:00.
 
------ __450.1__ -----2023-01-24 14:37:30+08:00:
+----- __451.1__ -----2023-01-24 14:37:30+08:00:
 
 The OP's [article](https://politiquerepublic.substack.com/p/the-steven-crowder-the-daily-wire)'s headline is somewhat misleading. 
 
@@ -37,9 +37,27 @@ And that is unconscionable.
 
 Boreing and the Daily Wire walk away from this looking incompetent.  Not to mention hypocritical.
 
-### 451: [Parents Calling on Your Behalf](https://old.reddit.com/r/college/comments/10ltycb/parents_calling_on_your_behalf/), submitted on 2023-01-26 23:09:10+08:00.
+### 452: [Don't stare at her!!! Shes really uncomfortable.](https://old.reddit.com/r/ImTheMainCharacter/comments/10jupxk/dont_stare_at_her_shes_really_uncomfortable/), submitted on 2023-01-24 10:24:13+08:00.
 
------ __451.1__ -----2023-01-27 12:10:32+08:00:
+----- __452.1__ -----2023-02-25 13:57:14+08:00:
+
+I see women like this in the gym, from time to time.  But if I'm looking at what they're doing, it's because they're doing stupid things that put themselves in danger or place others' safety at risk.  
+
+I've only had one woman go into thundercunt mode on me at the gym.  
+
+And my response was simple:
+
+> Don't flatter yourself, darling.  You're not that attractive.  And you're not my type, even if you were.  
+
+Then she was offended I wasn't sexually harassing her.  
+
+So when my (now ex) boyfriend got done with his set, I slapped his ass and kissed him on the cheek right in front of her.  
+
+I'd much rather have sexually harassed him.
+
+### 453: [Parents Calling on Your Behalf](https://old.reddit.com/r/college/comments/10ltycb/parents_calling_on_your_behalf/), submitted on 2023-01-26 23:09:10+08:00.
+
+----- __453.1__ -----2023-01-27 12:10:32+08:00:
 
 I will not talk to any student's parents about their child's experience in my class.
 
@@ -55,15 +73,15 @@ It never goes well for the parents.
 
 But then I tend to feel bad for the students, because of how unbelievably fucked up their home lives must have been.
 
-### 452: [professor called me out in front of class when trying to leave](https://old.reddit.com/r/college/comments/10m1oye/professor_called_me_out_in_front_of_class_when/), submitted on 2023-01-27 04:32:07+08:00.
+### 454: [professor called me out in front of class when trying to leave](https://old.reddit.com/r/college/comments/10m1oye/professor_called_me_out_in_front_of_class_when/), submitted on 2023-01-27 04:32:07+08:00.
 
------ __452.1__ -----2023-01-27 11:37:58+08:00:
+----- __454.1__ -----2023-01-27 11:37:58+08:00:
 
 Speaking as someone who once taught similar classes, I think your professor probably doesn't appreciate how much daylight exists between the things he's saying and what the class is understanding.  It is also entirely possible that he just doesn't have a clue how to interpret the actions of other human beings.  I had professors like that when I was an undergraduate and graduate student as well. 
 
 I would bet you're not the only one who is not learning the material, and this is something that should be brought to his attention.  You might not be in the best position to do it, though.  It sounds like he may have been genuinely surprised that anyone might not be following what he's saying, because I'm sure it's perfectly clear in his imagination of how he communicated it.
 
------ __452.2__ -----2023-01-27 11:48:20+08:00:
+----- __454.2__ -----2023-01-27 11:48:20+08:00:
 
 > I had a prof freshman semester that wouldn’t let you go to the bathroom. 
 
@@ -87,7 +105,7 @@ I found substantive errors throughout numerous of his papers, and related them t
 
 And he was a jackass.  An insufferable jackass.  So I returned that garbage in kind.  He despised me, and still hates me to this day.  Which is just fine because he's a fucking idiot, who no one wants to work with.
 
------ __452.3__ -----2023-01-27 12:00:55+08:00:
+----- __454.3__ -----2023-01-27 12:00:55+08:00:
 
 > You may dislike your professor, and you may not come to lectures, but common social etiquette of attending lectures requires you to sit through the end or sit in the back row if you know you need to leave early.
 
@@ -111,7 +129,7 @@ Like most failures in academia, she found her way into university administration
 
 I also invited my students to e-mail her their thoughts on why her policy was stupid, with specific points that I suggested.
 
------ __452.4__ -----2023-01-27 14:50:16+08:00:
+----- __454.4__ -----2023-01-27 14:50:16+08:00:
 
 > Film History
 
@@ -129,9 +147,9 @@ For example, I took a couple of hard-hitting courses in Russian literature, a co
 
 You probably were hoping to find something like a source of baseline cultural literacy in your film class.  Instead, you got a basket case.  Next time you see a professor like that, drop their class.
 
-### 453: [100% similarity score on TurnItIn](https://old.reddit.com/r/college/comments/10mc53z/100_similarity_score_on_turnitin/), submitted on 2023-01-27 12:32:20+08:00.
+### 455: [100% similarity score on TurnItIn](https://old.reddit.com/r/college/comments/10mc53z/100_similarity_score_on_turnitin/), submitted on 2023-01-27 12:32:20+08:00.
 
------ __453.1__ -----2023-01-27 15:21:34+08:00:
+----- __455.1__ -----2023-01-27 15:21:34+08:00:
 
 Alright, kiddo.  I've got good news.  And I've got bad news.
 
@@ -153,25 +171,25 @@ Just because you have a piece of alleged technology that says it does something,
 
 TurnItIn is to plagiarism what [patent medicines](https://en.wikipedia.org/wiki/Patent_medicine) are to health maladies.
 
-### 454: [Finacial aid suspension](https://old.reddit.com/r/college/comments/10nant0/finacial_aid_suspension/), submitted on 2023-01-28 17:00:56+08:00.
+### 456: [Finacial aid suspension](https://old.reddit.com/r/college/comments/10nant0/finacial_aid_suspension/), submitted on 2023-01-28 17:00:56+08:00.
 
------ __454.1__ -----2023-01-29 07:22:07+08:00:
+----- __456.1__ -----2023-01-29 07:22:07+08:00:
 
 Communicate to them that withdrawing financial aid will result in financial hardship that, in all reality, may result in your dropping out of school.
 
 That being said, I think you should withdraw and transfer to another school.
 
------ __454.2__ -----2023-01-29 12:21:21+08:00:
+----- __456.2__ -----2023-01-29 12:21:21+08:00:
 
 It's best to look around and see what your options are, and then make the call once you have all the information.
 
------ __454.3__ -----2023-01-29 12:28:14+08:00:
+----- __456.3__ -----2023-01-29 12:28:14+08:00:
 
 I know it may not be worth more than a picture of air to someone who is drowning, but for what little that is . . . 
 
 I really do feel for your situation.  And if you want to DM me when you hear back from your appeal, you can.
 
------ __454.4__ -----2023-01-30 00:27:55+08:00:
+----- __456.4__ -----2023-01-30 00:27:55+08:00:
 
 > It’s stressful because I come from a very religious and strict family of it’s either college or nothing. 
 
@@ -179,23 +197,23 @@ You'll make it.
 
 Let me know what becomes of the appeal.
 
-### 455: [I’ve been playing guitar for about 2 years now and I’ve been using a squire Stratocaster. I’m wanting to get a new guitar now and was wondering if this is worth it?](https://old.reddit.com/r/guitars/comments/10no5aa/ive_been_playing_guitar_for_about_2_years_now_and/), submitted on 2023-01-29 04:05:59+08:00.
+### 457: [I’ve been playing guitar for about 2 years now and I’ve been using a squire Stratocaster. I’m wanting to get a new guitar now and was wondering if this is worth it?](https://old.reddit.com/r/guitars/comments/10no5aa/ive_been_playing_guitar_for_about_2_years_now_and/), submitted on 2023-01-29 04:05:59+08:00.
 
------ __455.1__ -----2023-01-29 07:53:38+08:00:
+----- __457.1__ -----2023-01-29 07:53:38+08:00:
 
 Very true.
 
------ __455.2__ -----2023-01-29 08:20:22+08:00:
+----- __457.2__ -----2023-01-29 08:20:22+08:00:
 
 Please list your guitars and what dog breeds they remind you of.
 
 I would compare my EOB strat to a husky, but my early 70s vintage to an old german shepherd.
 
------ __455.3__ -----2023-01-29 08:20:37+08:00:
+----- __457.3__ -----2023-01-29 08:20:37+08:00:
 
 Buy it.
 
------ __455.4__ -----2023-01-29 12:25:32+08:00:
+----- __457.4__ -----2023-01-29 12:25:32+08:00:
 
 I've never owned a Les Paul.  
 
