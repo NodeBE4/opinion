@@ -43,3 +43,11 @@ Lot of incorrect and misleading information in that article.  Clearly written by
 
 We need to check these things more carefully.  A fact check should focus on, as the name suggests, facts.  Not partisan nonsense.
 
+### 479: [My current selection. Which one are you grabbing first?](https://old.reddit.com/r/guitars/comments/11bmnew/my_current_selection_which_one_are_you_grabbing/), submitted on 2023-02-25 22:45:58+08:00.
+
+----- __479.1__ -----2023-02-26 02:25:00+08:00:
+
+Same, because it's what I'd usually go to.  
+
+But I might try the les paul, for a test drive.
+
