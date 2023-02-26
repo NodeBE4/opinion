@@ -305,7 +305,7 @@ Re @xxj2040 年龄这么大，生个病又不是难事。上次是covid-19阳性
 
 ### 73: [2022-07-28 10:34:15+08:00 推文](https://twitter.com/HeQinglian/status/1552482537762693121)
 
-三大美国跨国公司购买了 1700 万公顷乌克兰农业用地<br>对这条消息，不少推主表示怀疑，此为原始出处。 <a href="https://www.australiannationalreview.com/lifestyle/three-large-american-multinationals-bought-17-million-hectares-of-ukrainian-agricultural-land/" target="_blank" rel="noopener noreferrer">https://www.australiannationalreview.com/lifestyle/three-large-american-multinationals-bought-17-million-hectares-of-ukrainian-agricultural-land/</a>
+三大美国跨国公司购买了 1700 万公顷乌克兰农业用地<br>对这条消息，不少推主表示怀疑，此为原始出处。<br><br>晚風: 還剩一半了，波瀾心動嗎？<br><br><img style="" src="https://pbs.twimg.com/media/FYq8LctaQAAg6yz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 74: [2022-07-28 10:37:11+08:00 推文](https://twitter.com/HeQinglian/status/1552483274462748672)
 
@@ -681,11 +681,11 @@ Re @zhixiangziyou @triplebai 羊肉冬瓜汤？<br>羊肉是温补食物，冬�
 
 ### 167: [2022-07-31 03:46:34+08:00 推文](https://twitter.com/HeQinglian/status/1553467102958424065)
 
-尽管知道文化快餐的年代，这种严肃的社会病溯源文章不会有多少人读，但我还是认真推荐。<br>文化马克思主义正在毁掉西方，只是美国有BLM这种暴马加文马存在，毁的速度特别快。<br><br>戴维（英国观察）: 解滨：文化马克思主义正在毁掉美国<br> <a href="https://groups.google.com/g/2ncn/c/DIVTQSFiM6o" target="_blank" rel="noopener noreferrer">https://groups.google.com/g/2ncn/c/DIVTQSFiM6o</a>
+尽管知道文化快餐的年代，这种严肃的社会病溯源文章不会有多少人读，但我还是认真推荐。<br>文化马克思主义正在毁掉西方，只是美国有BLM这种暴马加文马存在，毁的速度特别快。
 
 ### 168: [2022-07-31 04:05:52+08:00 推文](https://twitter.com/HeQinglian/status/1553471960604200960)
 
-目前世界确实进入十字路口，但比日本外相林芳正讲的要复杂得多。<br>从近期看，俄乌战争确实让地缘政治中的国家安全处于首位；<br>从长远看，接受美拜登政府推广的LGBTQI+第四代女权+大麻+BLM(CRT)换取美国保护是未来的大问题<br>拜乌粉们考虑不了这些问题。少数知道后者的危害的人，迷失在“救亡压倒启蒙”当中。
+目前世界确实进入十字路口，但比日本外相林芳正讲的要复杂得多。<br>从近期看，俄乌战争确实让地缘政治中的国家安全处于首位；<br>从长远看，接受美拜登政府推广的LGBTQI+第四代女权+大麻+BLM(CRT)换取美国保护是未来的大问题<br>拜乌粉们考虑不了这些问题。少数知道后者的危害的人，迷失在“救亡压倒启蒙”当中。<br><br>RFI 华语 - 法国国际广播电台: 日外相：在乌克兰发生的事情决不允许在世界其他地方发生<br><br><img style="" src="https://pbs.twimg.com/media/FY6EqpsUYAAvJot?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8cgI.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8cgI.t</a>
 
 ### 169: [2022-07-31 04:17:18+08:00 推文](https://twitter.com/HeQinglian/status/1553474839356313600)
 
