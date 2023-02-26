@@ -77,6 +77,10 @@ I'll also note that the size of a historicals army may seem daunting, but it dep
 
 Interestingly, you can also detect some form of that narrative in some Taiping texts: there's one proclamation in which Yang Xiuqing alleges that the Qing were an extractive colonial regime redirecting Chinese wealth to Manchuria, and there's a manifesto in which Hong Rengan, showing off his knowledge of world affairs, likens Manchu rule over China to Turkic rule over Iran in the Qajar empire. So I do wonder how far Social Darwinism and the like managed to serve as an independent source of a narrative of the Manchu Qing as a distinct and separate imperial conqueror, as opposed to contributing to an already widely-known narrative.
 
+----- __1113.2__ -----2023-02-26 22:37:17+08:00:
+
+Yeah, it definitely can't be denied that there was some kind of shift occasioned by intellectual exchange with the West, but it can be all too easy to dismiss existing anti-Qing narratives simply because, to be fair, they are very hard to detect except in moments of exceptional rupture like the Taiping uprising and the contemporaneous revolts in Yunnan. It's all just a bit hazy and frustrating.
+
 ### 1114: [Gura in a Yukata](https://old.reddit.com/r/Hololive/comments/1147yht/gura_in_a_yukata/), submitted on 2023-02-17 10:12:11+08:00.
 
 ----- __1114.1__ -----2023-02-17 19:17:16+08:00:
