@@ -165,7 +165,7 @@ Re @maliangyu 中国普通人谁能翻墙出来上推特？你是怎么做到开
 
 ### 38: [2021-03-11 22:20:38+08:00 推文](https://twitter.com/realcaixia/status/1370016819801694208)
 
-对一位忠于自己内心情感的年轻女性，对身患多种疾病的病人，当局竟然逮捕她，无丝毫人性。反人伦反人类。<br><br>王丹: 呼吁外界多多关注。<br> <a href="https://twitter.com/FreeLiQiaoChu/status/1369544681588101121" target="_blank" rel="noopener noreferrer">https://twitter.com/FreeLiQiaoChu/status/1369544681588101121</a>
+对一位忠于自己内心情感的年轻女性，对身患多种疾病的病人，当局竟然逮捕她，无丝毫人性。反人伦反人类。<br><br>王丹: 呼吁外界多多关注。<br> <a href="https://twitter.com/freeliqiaochu/status/1369544681588101121" target="_blank" rel="noopener noreferrer">https://twitter.com/freeliqiaochu/status/1369544681588101121</a>
 
 ### 39: [2021-03-11 22:23:21+08:00 推文](https://twitter.com/realcaixia/status/1370017503620063233)
 
