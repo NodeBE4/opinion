@@ -569,7 +569,7 @@ Re @Lucs24659702 去年小拜登将美国释放的战略储备油卖给中石油
 
 ### 139: [2023-02-24 02:33:17+08:00 推文](https://twitter.com/HeQinglian/status/1628825340528263170)
 
-中美经济脱钩，从美国方面来说，于公于私都很难。<br>于私，是美国第一公子小拜登不时被公布的与中国的利益互动。<br>于公，据美方政府日前公布，2022年美国和中国货物贸易总额达6906亿美元，创历史新高。<br>中国贸易顺差逾6000亿，美国贸易逆差近万亿，中国的贸易顺差多数来自于美国。<br>拜粉能否读懂这些数据？ https://twitter.com/Lucs24659702/status/1628812816194080768<div class="rsshub-quote"><br><br>Lucs: Byron Donalds：亨特·拜登协助将钴矿出售给一家中国公司<br><br> “乔·拜登如此大力推动太阳能电池板、电池和电动汽车的原因之一是因为他的儿子促成了将钴矿出售给一家中国公司。” https://t.co/Wj2ek2X4AH<br><br><video src="https://video.twimg.com/ext_tw_video/1628812773571579905/pu/vid/1280x720/b8RktzccufT_6vyU.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1628812773571579905/pu/img/dwnZx9sEofrWfm7K.jpg"></video></div>
+中美经济脱钩，从美国方面来说，于公于私都很难。<br>于私，是美国第一公子小拜登不时被公布的与中国的利益互动。<br>于公，据美方政府日前公布，2022年美国和中国货物贸易总额达6906亿美元，创历史新高。<br>中国贸易顺差逾6000亿，美国贸易逆差近万亿，中国的贸易顺差多数来自于美国。<br>拜粉能否读懂这些数据？<div class="rsshub-quote"><br><br>Lucs: Byron Donalds：亨特·拜登协助将钴矿出售给一家中国公司<br><br> “乔·拜登如此大力推动太阳能电池板、电池和电动汽车的原因之一是因为他的儿子促成了将钴矿出售给一家中国公司。” https://t.co/Wj2ek2X4AH<br><br><video src="https://video.twimg.com/ext_tw_video/1628812773571579905/pu/vid/1280x720/b8RktzccufT_6vyU.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1628812773571579905/pu/img/dwnZx9sEofrWfm7K.jpg"></video></div>
 
 ### 140: [2023-02-24 03:42:23+08:00 推文](https://twitter.com/HeQinglian/status/1628842726924988417)
 
@@ -645,7 +645,7 @@ Re @Vince6610 近五年，美国已从中国第一大贸易伙伴，成为中国
 
 ### 158: [2023-02-24 06:46:38+08:00 推文](https://twitter.com/HeQinglian/status/1628889095509344256)
 
-俄乌战争以来，很多事美国没办好的原因，尤其是对俄制裁失败，主要是没弄清楚一点：<br>自2010年以来，全球化分工体系已经成为生产国、消费国与资源国，三类国家是互相依赖的互补关系。<br>美国是世界最大消费国，世界贸易顺差的主要来源；中国是生产国；俄罗斯是资源国，德国既是生产国（高端）又是消费国。 https://twitter.com/fading_you1/status/1628877470769246208<div class="rsshub-quote"><br><br>天降伟人包由检: 民主党机关报也觉得让俄罗斯内部推翻普京不那么现实，然后一直以来不知道哪根筋搭错了，总是特别希望包总来劝普京停手。这真挺有趣。我要是包总，肯定跟老美说“行啊，那总得有点好处吧……” https://t.co/Ma8VwyTLkX<br><br><img style="" src="https://pbs.twimg.com/media/FprvbLEWcAE-LQE?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLAWIAEkp__?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLAXgAI4e7z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLEXgAUvSha?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+俄乌战争以来，很多事美国没办好的原因，尤其是对俄制裁失败，主要是没弄清楚一点：<br>自2010年以来，全球化分工体系已经成为生产国、消费国与资源国，三类国家是互相依赖的互补关系。<br>美国是世界最大消费国，世界贸易顺差的主要来源；中国是生产国；俄罗斯是资源国，德国既是生产国（高端）又是消费国。<div class="rsshub-quote"><br><br>天降伟人包由检: 民主党机关报也觉得让俄罗斯内部推翻普京不那么现实，然后一直以来不知道哪根筋搭错了，总是特别希望包总来劝普京停手。这真挺有趣。我要是包总，肯定跟老美说“行啊，那总得有点好处吧……” https://t.co/Ma8VwyTLkX<br><br><img style="" src="https://pbs.twimg.com/media/FprvbLEWcAE-LQE?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLAWIAEkp__?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLAXgAI4e7z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLEXgAUvSha?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 159: [2023-02-24 07:05:36+08:00 推文](https://twitter.com/HeQinglian/status/1628893868212072448)
 
@@ -661,7 +661,7 @@ Re @3223_408 是今年吧？什么叫高增长？我不太看预期增长，只�
 
 ### 162: [2023-02-24 08:52:09+08:00 推文](https://twitter.com/HeQinglian/status/1628920683483787264)
 
-今年前两个月，浙江许多大家电生产企业订单都出现了快速增长。“今年前两个月，返单的单量已经比去年同期增长了20%以上。”<br>对你，可能我得从ABC教起：数据比较有环比、月比、季度比。你能分辨出是什么比？<br>对你这种人，值得我花心思吗？<br>还是喊口号对你较合适。 https://twitter.com/KittieInDream/status/1628905393824092160<div class="rsshub-quote"><br><br>UniversalValuesMatter: @HeQinglian 比起什么时候上升？😂 佩服佩服，教授水平真高👍<br></div>
+今年前两个月，浙江许多大家电生产企业订单都出现了快速增长。“今年前两个月，返单的单量已经比去年同期增长了20%以上。”<br>对你，可能我得从ABC教起：数据比较有环比、月比、季度比。你能分辨出是什么比？<br>对你这种人，值得我花心思吗？<br>还是喊口号对你较合适。<div class="rsshub-quote"><br><br>UniversalValuesMatter: @HeQinglian 比起什么时候上升？😂 佩服佩服，教授水平真高👍<br></div>
 
 ### 163: [2023-02-24 08:56:25+08:00 推文](https://twitter.com/HeQinglian/status/1628921758215507968)
 
@@ -681,7 +681,7 @@ Re @eGUAbe2V7j26GHw 去年，德国去工业化，倒闭大批企业；法国、
 
 ### 167: [2023-02-24 09:11:57+08:00 推文](https://twitter.com/HeQinglian/status/1628925667579420672)
 
-【前外交部長王毅最近升任中共中央政治局局長】<br>请问推友，中国什么时候设立了这个职位——中共中央政治局局长？ https://twitter.com/QQzk_prs/status/1628568255311888384
+【前外交部長王毅最近升任中共中央政治局局長】<br>请问推友，中国什么时候设立了这个职位——中共中央政治局局长？
 
 ### 168: [2023-02-24 09:14:53+08:00 推文](https://twitter.com/HeQinglian/status/1628926404371927040)
 
@@ -737,7 +737,7 @@ Re @pandatress1 俄罗斯的制造业经理人采购指数够牛的，大概在5
 
 ### 181: [2023-02-24 23:43:55+08:00 推文](https://twitter.com/HeQinglian/status/1629145105016709120)
 
-多极化，美国彩虹文化就带着欧洲一道玩吧。 https://twitter.com/zt33268778/status/1628961825579577345<div class="rsshub-quote"><br><br>zt: 什么是“普世价值”，如果中共成了世界老大，普世价值就是永远坚持党的领导；如果墓撕陵当了老大，普世价值就是女人都要蒙面；如果白左成了老大，那么就什么都没有了，普世价值将湮没在LGBTQ的彩虹屁里，人类文明都要消亡。看起来前两者好歹也能算是个文明，后者就是文明的敌人。<br></div>
+多极化，美国彩虹文化就带着欧洲一道玩吧。<div class="rsshub-quote"><br><br>zt: 什么是“普世价值”，如果中共成了世界老大，普世价值就是永远坚持党的领导；如果墓撕陵当了老大，普世价值就是女人都要蒙面；如果白左成了老大，那么就什么都没有了，普世价值将湮没在LGBTQ的彩虹屁里，人类文明都要消亡。看起来前两者好歹也能算是个文明，后者就是文明的敌人。<br></div>
 
 ### 182: [2023-02-24 23:45:24+08:00 推文](https://twitter.com/HeQinglian/status/1629145475805749249)
 
@@ -1094,4 +1094,28 @@ Re @tangping8964 @wakeup_arrow 你会汉语拼音吗？<br>我激进吗？我是
 ### 270: [2023-02-26 05:06:23+08:00 推文](https://twitter.com/HeQinglian/status/1629588641415667713)
 
 Re @FightForJiuCai https://twitter.com/Military_idv_tw/status/1629438195011313664<div class="rsshub-quote"><br><br>新台灣國防軍事網: 最新消息！：美軍運輸司令部發布消息，指出烏克蘭抗戰一年來美國共出動 995 架次飛機、61 艘次貨輪、143 列次貨運火車與超過 6455 車次的卡車，向烏克蘭運輸交付大量軍援物資<br><br>圖：US DOD https://t.co/VOROkgP1jB<br><br><img style="" src="https://pbs.twimg.com/media/FpzsxfeaIAE5QzL?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 271: [2023-02-26 08:50:46+08:00 推文](https://twitter.com/HeQinglian/status/1629645110617993217)
+
+Re @vvuliu 我的推文不涉及你讲的问题。<br>布氏写《大棋局 》之时，中国还未入世，基本没考虑中国将成为美国的敌体。<br>台湾作为地缘政治的一个筹码，在小布什时期与奥巴马前期几乎放弃了，希拉里当国务卿之后，才有了“美国重返太平洋”之说。针对中国的屠龙派在小布什时期改名了，叫“熊猫避险派”。<br>外交政策多变。
+
+### 272: [2023-02-26 08:55:18+08:00 推文](https://twitter.com/HeQinglian/status/1629646252655747073)
+
+Re @richard20211212 @FightForJiuCai 拜登如果连任，美国的灾难，当然也会是世界的灾难。<br>相比之下，欧亚大陆那块地的灾难不算大的了。
+
+### 273: [2023-02-26 09:00:19+08:00 推文](https://twitter.com/HeQinglian/status/1629647513442570240)
+
+Re @KELMAND1 换个角度想一下。正因为看明白而且是非常简单地理解，认为颜色革命有助于底层翻身（中共革命的榜样作用），自己会从街上扔石头的人变成衙门的官。<br>2011年阿拉伯之春中埃及二次革命，纽约时报上有篇文章采访了当初革命发动者，悲叹的是他这类人的生活没有改变，并未从扔石头的街头抗议者进入权力体系。
+
+### 274: [2023-02-26 09:09:26+08:00 推文](https://twitter.com/HeQinglian/status/1629649807538020359)
+
+Re @XtLfoTpNXjuQ38S 乔治·凯南是冷战设计师，比他们早了20-40年。<br>冷战是以意识形态站队（两大阵营隔绝，除了间谍与外交），地缘政治的内容不同，不以意识形态站队，根据利益随时调整“盟友”。二者手段也很大不同。<br>后三者当然都是凯南的后辈。
+
+### 275: [2023-02-26 09:24:17+08:00 推文](https://twitter.com/HeQinglian/status/1629653547254968325)
+
+Re @Wu_Zhi @KELMAND1 要认识到这点，一需要头脑，二需要善于观察并跟踪了解被革命的国家。<br>至少可以了解南非——集世界所有进步力量连续30年打造的颜色革命第一样板。
+
+### 276: [2023-02-26 09:26:29+08:00 推文](https://twitter.com/HeQinglian/status/1629654101075140609)
+
+Re @KELMAND1 这是事实，可惜很多人意识不到。<br>比如毛革命将农村的底层痞子提升成统治阶级，到了还是痞子。1977年底恢复高考后，新统治阶级的子女基本没法考上。
 
