@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2023-02-25
+date: 2023-02-26
 from: https://old.reddit.com/r/trashpandas/comments/117hffo/my_boy_biscuit_is_tired_today_guys_send_him_some/
 layout: post
 tags:
@@ -54,4 +54,10 @@ But I might try the les paul, for a test drive.
 ----- __479.2__ -----2023-02-26 03:00:30+08:00:
 
 I favor strats, as well.  Specifically my EOB with the sustainer pickup.  Or a classic strat.  Any strat, really.
+
+### 480: [What is the most bullshit profession that actually exists?](https://old.reddit.com/r/AskReddit/comments/11btq7y/what_is_the_most_bullshit_profession_that/), submitted on 2023-02-26 03:43:16+08:00.
+
+----- __480.1__ -----2023-02-26 13:14:54+08:00:
+
+Professional fall guy.  Someone who is hired, for the purpose of assuming responsibility for a failure that has already occurred but is not yet public.
 
