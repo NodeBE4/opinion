@@ -13,17 +13,17 @@ title: EnclavedMicrostate在2023-02-20~2023-02-26的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 1118: [How "holy" is the holy land?](https://old.reddit.com/r/AskHistorians/comments/116ptty/how_holy_is_the_holy_land/), submitted on 2023-02-20 06:23:41+08:00.
+### 1119: [How "holy" is the holy land?](https://old.reddit.com/r/AskHistorians/comments/116ptty/how_holy_is_the_holy_land/), submitted on 2023-02-20 06:23:41+08:00.
 
------ __1118.1__ -----2023-02-20 08:44:37+08:00:
+----- __1119.1__ -----2023-02-20 08:44:37+08:00:
 
 This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
-### 1119: [What romanization scheme was in use for the Chinese in the State of Manchukuo?](https://old.reddit.com/r/AskHistorians/comments/1171m81/what_romanization_scheme_was_in_use_for_the/), submitted on 2023-02-20 16:31:23+08:00.
+### 1120: [What romanization scheme was in use for the Chinese in the State of Manchukuo?](https://old.reddit.com/r/AskHistorians/comments/1171m81/what_romanization_scheme_was_in_use_for_the/), submitted on 2023-02-20 16:31:23+08:00.
 
------ __1119.1__ -----2023-02-20 17:12:17+08:00:
+----- __1120.1__ -----2023-02-20 17:12:17+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -31,31 +31,31 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 1120: [What what were the operational and tactical factors which led to the failure of the Russian airborne forces to establish a an air bridge during the Battle of Hostomel Airport?](https://old.reddit.com/r/WarCollege/comments/1177jdx/what_what_were_the_operational_and_tactical/), submitted on 2023-02-20 22:07:20+08:00.
+### 1121: [What what were the operational and tactical factors which led to the failure of the Russian airborne forces to establish a an air bridge during the Battle of Hostomel Airport?](https://old.reddit.com/r/WarCollege/comments/1177jdx/what_what_were_the_operational_and_tactical/), submitted on 2023-02-20 22:07:20+08:00.
 
------ __1120.1__ -----2023-02-21 08:36:55+08:00:
+----- __1121.1__ -----2023-02-21 08:36:55+08:00:
 
 > b. Landing somewhere safe and moving onto the objective.
 
 I suppose that's less SEAD and more CEAD – Circumvention of Enemy Air Defence.
 
-### 1121: [End of shift of a tower crane operator.](https://old.reddit.com/r/interestingasfuck/comments/1178al4/end_of_shift_of_a_tower_crane_operator/), submitted on 2023-02-20 22:42:06+08:00.
+### 1122: [End of shift of a tower crane operator.](https://old.reddit.com/r/interestingasfuck/comments/1178al4/end_of_shift_of_a_tower_crane_operator/), submitted on 2023-02-20 22:42:06+08:00.
 
------ __1121.1__ -----2023-02-21 01:59:20+08:00:
+----- __1122.1__ -----2023-02-21 01:59:20+08:00:
 
 Doesn't look like bamboo to me – it's clearly metal tubing with metal brackets.
 
-### 1122: [I'm a Hellenistic tourist in 250 BC, on a mission to see all 7 Wonders of the World. After I finish, I'm hungry for more in farther away lands. Were I to travel outside the bounds of Alexander the Great's conquest, what place would be a candidate for an 8th Wonder during this time?](https://old.reddit.com/r/AskHistorians/comments/117p8mu/im_a_hellenistic_tourist_in_250_bc_on_a_mission/), submitted on 2023-02-21 08:19:26+08:00.
+### 1123: [I'm a Hellenistic tourist in 250 BC, on a mission to see all 7 Wonders of the World. After I finish, I'm hungry for more in farther away lands. Were I to travel outside the bounds of Alexander the Great's conquest, what place would be a candidate for an 8th Wonder during this time?](https://old.reddit.com/r/AskHistorians/comments/117p8mu/im_a_hellenistic_tourist_in_250_bc_on_a_mission/), submitted on 2023-02-21 08:19:26+08:00.
 
------ __1122.1__ -----2023-02-21 20:42:43+08:00:
+----- __1123.1__ -----2023-02-21 20:42:43+08:00:
 
 This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
-### 1123: [What was the early memory of the Taiping Rebellion in the Late Qing like?](https://old.reddit.com/r/AskHistorians/comments/119n3id/what_was_the_early_memory_of_the_taiping/), submitted on 2023-02-23 11:25:30+08:00.
+### 1124: [What was the early memory of the Taiping Rebellion in the Late Qing like?](https://old.reddit.com/r/AskHistorians/comments/119n3id/what_was_the_early_memory_of_the_taiping/), submitted on 2023-02-23 11:25:30+08:00.
 
------ __1123.1__ -----2023-02-23 21:05:57+08:00:
+----- __1124.1__ -----2023-02-23 21:05:57+08:00:
 
 I am going to have to confess from the get-go that my answer will be one that is incomplete, and necessarily so because of the nature of the source material. Simply put, *publicly* expressing any sort of wistful nostalgia for the Heavenly Kingdom, in any part of China, was unlikely to be beneficial to one's health given the Qing's rather understandable jumpiness around rebel remnants. The apparent resultant lack of any significant pro-Taiping sentiment thus needs to be weighed in relation to the sensibility of holding such sentiments: were people not expressing it because they *wouldn't*, i.e. the Taiping were seen as having been a pretty bad thing overall; or were they not expressing it because they *couldn't*, i.e. you didn't want to be branded as treasonous? There is also a certain consideration that needs to be taken of regional variation: there is a tendency in the historiography on late imperial China to effectively treat the Lower Yangtze region, or even the Jiangnan more narrowly, as representative of the whole of China. There have of course been attempts to rectify this, but studies of cultural memory around the Taiping have still largely focussed on cultural production in the Jiangnan, which, to be fair, was the most persistently devastated region, as opposed to the Kingdom's region of origin in the deep south. Those are the disclaimers to get out of the way.
 
@@ -71,7 +71,7 @@ But all of these are functionally elite statements. The extent to which there wa
 
 Unfortunately, the study of latent Taiping sympathies remains underdeveloped, and it is also not helped by the fact that post-revolutionary cultural output invariably parroted the pro-Taiping line of the KMT and latterly the CCP, just as pre-revolutionary literature had often toed the anti-Taiping line of the Qing. Where these post-revolution, pro-Taiping plays fit on a scale between concessions to state narrative and reflections of genuine popular sentiment is potentially an insoluble question. What is clear is that the connections between the Taiping and Christianity were not necessarily widely known, even to most Chinese Christians, before the 1920s, when Republican scholars travelled to overseas archives to recompile the Taiping textual record from writings that had been rescued by foreign visitors to the Heavenly Kingdom. Sun's own association of the Taiping with Christianity *before* the 1920s may have been a particularly individual one, influenced specifically by his alleged family background (or rather, one of his alleged family backgrounds). Pro-Taiping sentiments would therefore have likely been associated with anti-Manchuism, or latterly with social revolution, rather than with Christianity, and that would also likely explain some of the reasoning behind the 1903 attempt.
 
------ __1123.2__ -----2023-02-23 21:09:32+08:00:
+----- __1124.2__ -----2023-02-23 21:09:32+08:00:
 
 ### Sources and Further Reading
 
@@ -89,7 +89,7 @@ Unfortunately, the study of latent Taiping sympathies remains underdeveloped, an
 
 * Audrey Wells, *The Political Thought of Sun Yat-sen: Development and Impact* (2001)
 
------ __1123.3__ -----2023-02-25 06:48:43+08:00:
+----- __1124.3__ -----2023-02-25 06:48:43+08:00:
 
 A good question, one to which I have yet to find an answer. Possibly the answer lies in some Chinese-language scholarship I have yet to consult; possibly the sources exist but haven't been approached yet; possibly the sources do not even exist. Ask again in a few years if/when I've been able to work on it a bit, and I may have an answer for you.
 

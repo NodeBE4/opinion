@@ -71,35 +71,41 @@ My local club likes to refer to the 'three-foot rule' – if it looks good from 
 
 I'll also note that the size of a historicals army may seem daunting, but it depends what kind of game you're playing. If you're going full-on big battles then yes, you may well be looking at three-digit numbers for each side, but for a larger skirmish game like *Sharp Practice* or *Rebels and Patriots*, 40-60 per side is much more typical. And then you have some micro-skirmish sets like *Dead Man's Hand* or *A Fistful of Lead* (both Wild West games to be fair) where you can get a game in with as few as 6-10 figures. So it's really a matter of not just the individual figure scale, but also the scale of engagement you're interested in.
 
-### 1113: [Gura in a Yukata](https://old.reddit.com/r/Hololive/comments/1147yht/gura_in_a_yukata/), submitted on 2023-02-17 10:12:11+08:00.
+### 1113: [Jewish minorities have lived in China and India for thousands of years. Historically did they face any anti-Semitism like the Jewish people living in Europe did?](https://old.reddit.com/r/AskHistorians/comments/113tnkx/jewish_minorities_have_lived_in_china_and_india/), submitted on 2023-02-16 23:48:02+08:00.
 
------ __1113.1__ -----2023-02-17 19:17:16+08:00:
+----- __1113.1__ -----2023-02-26 19:03:08+08:00:
+
+Interestingly, you can also detect some form of that narrative in some Taiping texts: there's one proclamation in which Yang Xiuqing alleges that the Qing were an extractive colonial regime redirecting Chinese wealth to Manchuria, and there's a manifesto in which Hong Rengan, showing off his knowledge of world affairs, likens Manchu rule over China to Turkic rule over Iran in the Qajar empire. So I do wonder how far Social Darwinism and the like managed to serve as an independent source of a narrative of the Manchu Qing as a distinct and separate imperial conqueror, as opposed to contributing to an already widely-known narrative.
+
+### 1114: [Gura in a Yukata](https://old.reddit.com/r/Hololive/comments/1147yht/gura_in_a_yukata/), submitted on 2023-02-17 10:12:11+08:00.
+
+----- __1114.1__ -----2023-02-17 19:17:16+08:00:
 
 Cheongsam is Cantonese for 'long dress'; Qipao is Mandarin for 'banner robe'; both refer to the same dress style.
 
------ __1113.2__ -----2023-02-17 19:58:35+08:00:
+----- __1114.2__ -----2023-02-17 19:58:35+08:00:
 
 It's a dress with an interesting if complex history relating to ethnic minority groups in China, the Discourse around which is, er, look it's complicated.
 
-### 1114: [Guide to KHAKI](https://old.reddit.com/r/coolguides/comments/1148msi/guide_to_khaki/), submitted on 2023-02-17 10:45:56+08:00.
+### 1115: [Guide to KHAKI](https://old.reddit.com/r/coolguides/comments/1148msi/guide_to_khaki/), submitted on 2023-02-17 10:45:56+08:00.
 
------ __1114.1__ -----2023-02-17 18:47:34+08:00:
+----- __1115.1__ -----2023-02-17 18:47:34+08:00:
 
 We need to add in a mediating layer here, that being Hindustani (Hindi/Urdu), which loaned *khaki* for 'dirt', and then transmitted it to English in the 1840s, when the East India Company military started to use the term to describe 'drab' uniforms in earth tones.
 
-### 1115: [Is British comedy now....shitter?](https://old.reddit.com/r/CasualUK/comments/115r7ki/is_british_comedy_nowshitter/), submitted on 2023-02-19 05:03:09+08:00.
+### 1116: [Is British comedy now....shitter?](https://old.reddit.com/r/CasualUK/comments/115r7ki/is_british_comedy_nowshitter/), submitted on 2023-02-19 05:03:09+08:00.
 
------ __1115.1__ -----2023-02-19 08:15:45+08:00:
+----- __1116.1__ -----2023-02-19 08:15:45+08:00:
 
 What is this channel, by the way? I'm intrigued.
 
------ __1115.2__ -----2023-02-19 09:29:47+08:00:
+----- __1116.2__ -----2023-02-19 09:29:47+08:00:
 
 Cheers!
 
-### 1116: [Why did the Manchus fail to preserve their language during the Qing dynasty?](https://old.reddit.com/r/AskHistorians/comments/115uq2l/why_did_the_manchus_fail_to_preserve_their/), submitted on 2023-02-19 07:00:00+08:00.
+### 1117: [Why did the Manchus fail to preserve their language during the Qing dynasty?](https://old.reddit.com/r/AskHistorians/comments/115uq2l/why_did_the_manchus_fail_to_preserve_their/), submitted on 2023-02-19 07:00:00+08:00.
 
------ __1116.1__ -----2023-02-19 07:39:48+08:00:
+----- __1117.1__ -----2023-02-19 07:39:48+08:00:
 
 More may of course be said, but I address aspects of your question in these past answers:
 
@@ -115,9 +121,9 @@ The real Reddit-dwelling Manchu studies specialist, though, is /u/shkencorebreak
 
 * https://www.reddit.com/r/AskHistorians/comments/u4tkfm/did_the_manchu_qing_empire_know_of_its_connection/i5ttnmy/?context=999
 
-### 1117: [[Hobby Scuffles] Week of February 20, 2023](https://old.reddit.com/r/HobbyDrama/comments/116c1wp/hobby_scuffles_week_of_february_20_2023/), submitted on 2023-02-19 22:30:30+08:00.
+### 1118: [[Hobby Scuffles] Week of February 20, 2023](https://old.reddit.com/r/HobbyDrama/comments/116c1wp/hobby_scuffles_week_of_february_20_2023/), submitted on 2023-02-19 22:30:30+08:00.
 
------ __1117.1__ -----2023-02-20 21:27:00+08:00:
+----- __1118.1__ -----2023-02-20 21:27:00+08:00:
 
 I was going to gripe about Star Trek but that was going to be an in-fandom thing, so wouldn't fit. So it's VTuber time.
 
@@ -129,15 +135,15 @@ The prominence of the idol narrative in English-language discussion is, IMO, ver
 
 The essential problem with this narrative of course is that it leads people to project a lot of ideas onto VTubers that simply aren't universally applicable, and which are outright wrong when the inaccurate stereotypical image of 'idols', as described in the linked post, is the one being held. VTubers as a whole are *far* more varied and nuanced than can be captured by the idea of 'idol culture', and while I will not demand that everyone starts watching them, I will say that it would be helpful if outsiders didn't just make assumptions based on a particular, distinct cultural phenomenon.
 
------ __1117.2__ -----2023-02-21 02:46:30+08:00:
+----- __1118.2__ -----2023-02-21 02:46:30+08:00:
 
 It's certainly the perception from people I know through entirely non-fandom spaces, so it's true to my own experience at least.
 
------ __1117.3__ -----2023-02-21 17:54:38+08:00:
+----- __1118.3__ -----2023-02-21 17:54:38+08:00:
 
 /r/worldbuilding has the effectively-official policy that you can post AI art if you can cite all the references. It is, in effect, a way of saying you cannot post AI art.
 
------ __1117.4__ -----2023-02-22 03:32:37+08:00:
+----- __1118.4__ -----2023-02-22 03:32:37+08:00:
 
 Listening through eyes is certainly an advanced skill.
 
