@@ -35,29 +35,35 @@ I would also suggest What I Believe.
 
 I know of few restatements of Christianity that are better.
 
-### 478: [Commentators Push Unfounded Claims About Ohio Train Derailment](https://old.reddit.com/r/Disinfo/comments/11b5xet/commentators_push_unfounded_claims_about_ohio/), submitted on 2023-02-25 07:46:57+08:00.
+### 478: [M/36/5’5” [150lbs -> 140lbs] (9 months)](https://old.reddit.com/r/GYM/comments/1197gta/m3655_150lbs_140lbs_9_months/), submitted on 2023-02-23 02:39:29+08:00.
 
------ __478.1__ -----2023-02-25 14:30:21+08:00:
+----- __478.1__ -----2023-02-26 23:43:35+08:00:
+
+It's motivation for me to get off my ass and go to the gym.  No matter how tired I am.
+
+### 479: [Commentators Push Unfounded Claims About Ohio Train Derailment](https://old.reddit.com/r/Disinfo/comments/11b5xet/commentators_push_unfounded_claims_about_ohio/), submitted on 2023-02-25 07:46:57+08:00.
+
+----- __479.1__ -----2023-02-25 14:30:21+08:00:
 
 Lot of incorrect and misleading information in that article.  Clearly written by someone without a technical background.  
 
 We need to check these things more carefully.  A fact check should focus on, as the name suggests, facts.  Not partisan nonsense.
 
-### 479: [My current selection. Which one are you grabbing first?](https://old.reddit.com/r/guitars/comments/11bmnew/my_current_selection_which_one_are_you_grabbing/), submitted on 2023-02-25 22:45:58+08:00.
+### 480: [My current selection. Which one are you grabbing first?](https://old.reddit.com/r/guitars/comments/11bmnew/my_current_selection_which_one_are_you_grabbing/), submitted on 2023-02-25 22:45:58+08:00.
 
------ __479.1__ -----2023-02-26 02:25:00+08:00:
+----- __480.1__ -----2023-02-26 02:25:00+08:00:
 
 Same, because it's what I'd usually go to.  
 
 But I might try the les paul, for a test drive.
 
------ __479.2__ -----2023-02-26 03:00:30+08:00:
+----- __480.2__ -----2023-02-26 03:00:30+08:00:
 
 I favor strats, as well.  Specifically my EOB with the sustainer pickup.  Or a classic strat.  Any strat, really.
 
-### 480: [What is the most bullshit profession that actually exists?](https://old.reddit.com/r/AskReddit/comments/11btq7y/what_is_the_most_bullshit_profession_that/), submitted on 2023-02-26 03:43:16+08:00.
+### 481: [What is the most bullshit profession that actually exists?](https://old.reddit.com/r/AskReddit/comments/11btq7y/what_is_the_most_bullshit_profession_that/), submitted on 2023-02-26 03:43:16+08:00.
 
------ __480.1__ -----2023-02-26 13:14:54+08:00:
+----- __481.1__ -----2023-02-26 13:14:54+08:00:
 
 Professional fall guy.  Someone who is hired, for the purpose of assuming responsibility for a failure that has already occurred but is not yet public.
 
