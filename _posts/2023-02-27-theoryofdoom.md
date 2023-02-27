@@ -63,3 +63,19 @@ Do better.
 
 That's understandable.
 
+----- __482.5__ -----2023-02-27 10:30:10+08:00:
+
+Indeed.  Do you understand what that means?
+
+----- __482.6__ -----2023-02-27 10:41:59+08:00:
+
+Cochrane is evaluating the research, as it exists.  They find the research inadequate to support the claim that masks make a difference, for COVID transmission.
+
+The studies supposedly reaching the conclusion that masks, in fact, do make a difference are unreliable for various reasons.  Cochrane explains why.  
+
+This matters because we cannot make claims about what something does, when we do not have evidence to support the idea we're advancing. 
+
+This matters because it rejects the premise that most people have been incorrectly caused to believe as axiomatic: that masks not only make a difference, but they are critical to prevent COVID transmission.
+
+It would be like if I sold you a drug to prevent cancer, but the data from all of my clinical trials found no such benefit.  I think we can all understand doing that would be very bad.
+
