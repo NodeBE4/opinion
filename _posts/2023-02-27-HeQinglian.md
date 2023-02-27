@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-02-27
+date: 2023-02-28
 from: https://twitter.com/HeQinglian/status/1629884956888449031
 layout: post
 tags:
@@ -33,5 +33,41 @@ Re @uo7ZC09z6QEAOfd @shenliangqing2 基本如此。更大的问题是他们不�
 
 ### 5: [2023-02-27 02:42:32+08:00 推文](https://twitter.com/HeQinglian/status/1629914829090635781)
 
-最新Rasmussen Reports ，46% 的受访者认为乌战基本处于僵持状态，高于 12 月的 38%。19% 的受访者认为俄罗斯正在赢得乌战, 21%认为乌克兰获胜，低于 12 月份的 32%。有 14% 的人不确定谁赢。https://www.rasmussenreports.com/public_content/politics/biden_administration/ukraine_46_see_war_as_stalemate_after_a_year<br>经济学人这篇文章的结论太迟了。事实上多极世界已现雏形——一鲸落，万物生。 https://twitter.com/KELMAND1/status/1629727091796357126<div class="rsshub-quote"><br><br>Ezio Mao☢: 《经济学人》：乌克兰的命运将成为西方在国际体系中地缘政治地位和影响力的重要决定因素。<br><br>冲突的结果在这件事上将是决定性的—如果基辅输了，那么西方对世界政治影响力的削弱将变得显而易见。在美国及其仆从国在中东遭遇失败之后，许多人开始怀疑西方的力量。 https://t.co/ccK0JAFV47<br><br><img style="" src="https://pbs.twimg.com/media/Fp3yp6XaYAE7GoK?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
+最新Rasmussen Reports ，46% 的受访者认为乌战基本处于僵持状态，高于 12 月的 38%。19% 的受访者认为俄罗斯正在赢得乌战, 21%认为乌克兰获胜，低于 12 月份的 32%。有 14% 的人不确定谁赢。https://www.rasmussenreports.com/public_content/politics/biden_administration/ukraine_46_see_war_as_stalemate_after_a_year<br>经济学人这篇文章的结论太迟了。事实上多极世界已现雏形——一鲸落，万物生。<div class="rsshub-quote"><br><br>Ezio Mao☢: 《经济学人》：乌克兰的命运将成为西方在国际体系中地缘政治地位和影响力的重要决定因素。<br><br>冲突的结果在这件事上将是决定性的—如果基辅输了，那么西方对世界政治影响力的削弱将变得显而易见。在美国及其仆从国在中东遭遇失败之后，许多人开始怀疑西方的力量。 https://t.co/ccK0JAFV47<br><br><img style="" src="https://pbs.twimg.com/media/Fp3yp6XaYAE7GoK?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 6: [2023-02-27 22:19:01+08:00 推文](https://twitter.com/HeQinglian/status/1630210900849246209)
+
+Re @FightForJiuCai 夹在两大军事势力之间的弱国，在和平年代有弱国的求存之道，但乌克兰的求存之道非常奇葩。<br>最有意思的是，苏联崩溃之后，布热津斯基在《大棋局》中公开推演了乌克兰在美国的棋局中处于什么位势，乌克兰却一直听从棋手的摆布，用中国象棋术语来说，是过河卒子。
+
+### 7: [2023-02-27 22:22:31+08:00 推文](https://twitter.com/HeQinglian/status/1630211780768047104)
+
+Re @shenliangqing2 美国的Trans，吃虫子之类，算是政府及外围组织倡导，但并未拿枪逼着，还得个体配合，所以，我不知说什么好——因为他们本身就是这种“进步文化”的推动者。<br>拜登、南希、比尔盖茨们的家庭不Trans与吃虫子，这也是公开的信息。
+
+### 8: [2023-02-27 22:29:40+08:00 推文](https://twitter.com/HeQinglian/status/1630213579868651521)
+
+Re @kbclindy 回过头看，Tittytainment只是在全球化早期预感到将要出现的问题的对策，后来问题日多，大重置应运而生。
+
+### 9: [2023-02-27 22:45:08+08:00 推文](https://twitter.com/HeQinglian/status/1630217474334490624)
+
+Re @JianglinLi @Peterpa24029205 @lianghuiwang2 查阅公开信息就知。在疫情爆发之前，法国出了本专著，谈法国政府资助武汉病毒研究所之事；加拿大因两位中国访问学者偷病毒引发广泛猜疑，没吭声，在疫情爆发之后出来澄清说不是这种病毒。<br>疫情爆发之后，美国病毒学家披露北卡大学与中国的合作，该校校长声明：该校现无这类研究，合作在他来之前成立。
+
+### 10: [2023-02-27 22:56:36+08:00 推文](https://twitter.com/HeQinglian/status/1630220359034077185)
+
+法新社将联合国在俄乌战争一周年的投票定性为“在善恶之间的选择”<br>俄乌战争本质上是美欧与俄罗斯之间的战争，这场战争其实在布热津斯基的《大棋局》中有沙盘推演。<br>法新社的评论体现左派一贯特点：己方代表正义、公义与道德标杆。<br>https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%89%B9%E5%88%AB%E8%8A%82%E7%9B%AE/20230227-%E5%8D%B0%E5%BA%A6%E6%B1%89%E5%AD%A6%E5%AE%B6%E8%B0%88%E4%B8%AD%E5%8D%B0%E5%AF%B9%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89%E7%9A%84%E4%B8%8D%E5%90%8C%E7%AB%8B%E5%9C%BA<br>从文化层面来说，向世界推广LGBTQI与正义无关
+
+### 11: [2023-02-27 23:13:36+08:00 推文](https://twitter.com/RFA_Chinese/status/1630224636817604609)
+
+RT 自由亚洲电台<br>评论 | #何清涟 @HeQinglian：中国2023拼经济：#房地产，芝麻开门 https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02272023094854.html#.Y_zIKVsXE6U.twitter
+
+### 12: [2023-02-27 23:18:44+08:00 推文](https://twitter.com/HeQinglian/status/1630225930181328896)
+
+Re @zhuxiuyuan 你独独忘记了《明斯克协议》，现在默克尔都承认当初签订时并未打算遵守，只是希望赢得时间壮大乌克兰的军事实力。<br>建议你学学美国智库的地缘政治理论，从布热津斯基开始，否则这辈子都只会列宁的战争正义-非正义论。
+
+### 13: [2023-02-27 23:51:51+08:00 推文](https://twitter.com/HeQinglian/status/1630234263693017088)
+
+中国2023拼经济：房地产，芝麻开门https://www.rfa.org/mandarin/pinglun/heqinglian/hql-02272023094854.html<br>中国政府曾希望趁房地产市场走衰之时调整国内经济结构，但各种迹象表明，在未寻找到新的经济增长点之前，中央政府终于与地方政府达成一致：重归以房地产带动经济发展的老路。<br>住户需求饱和、居民购买力与债务过大这三个因素决定了此路不通。
+
+### 14: [2023-02-28 00:20:15+08:00 推文](https://twitter.com/Lucs24659702/status/1630241411491590144)
+
+RT Lucs<br>佐治亚州道格拉斯 - 据 GBI 官员称，咖啡县小学的校长因与多起儿童犯罪有关的指控而被捕。<br><br> Anastagia Carter，51 岁，Indian Creek 小学现任校长，被捕并被控两项一级虐待儿童罪、两项三级虐待儿童罪、两项非法监禁罪和两项简单殴打罪。<br><br>GBI 官员说，这些指控源于一名小学学生发生的事件。 https://t.co/0AoZd0Fcsq<br><video src="https://video.twimg.com/ext_tw_video/1630241280176590848/pu/vid/1280x720/OZi9cSX_FdOlbEeV.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1630241280176590848/pu/img/wG5Xyk7CzfwHt4Kw.jpg"></video>
 
