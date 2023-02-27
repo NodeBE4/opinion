@@ -17,6 +17,10 @@ title: theoryofdoom在2023-02-27~2023-03-05的言论
 
 ----- __482.1__ -----2023-02-27 07:01:51+08:00:
 
+The [Cochrane Review](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006207.pub6/full) to which I previously referred
+
+https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006207.pub6/full
+
 I am aware this link has been shared on subreddits that a lot of folks here will disagree with.  
 
 I remind each and every one of you: this is about science, evidence and data.  Not politics.
@@ -40,4 +44,22 @@ And you would have to be an idiot to challenge a Cochrane Review.
 The [Cochrane Review](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006207.pub6/full) to which I previously referred
 
 https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006207.pub6/full
+
+----- __482.3__ -----2023-02-27 09:04:30+08:00:
+
+> you've posted a link to a magazine
+
+Since you clearly failed to identify the [link](https://www.reddit.com/r/CoronavirusIllinois/comments/11cvj9l/cochrane_review_the_most_rigorous_and_extensive/ja5fq33/), I initially posted, I'll post it once again.  
+
+This way, you can't possibly fail to overlook it. 
+
+The [Cochrane Review](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006207.pub6/full) to which I previously referred
+
+https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006207.pub6/full
+
+Do better.
+
+----- __482.4__ -----2023-02-27 09:26:07+08:00:
+
+That's understandable.
 
