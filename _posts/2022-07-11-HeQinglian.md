@@ -69,7 +69,7 @@ Re @dongle_smith “欧洲逼和团去了几次，热心金毛突然下台”，
 
 ### 14: [2022-07-11 21:39:30+08:00 推文](https://twitter.com/HeQinglian/status/1546489359276417026)
 
-经查：德国气候温和，在一年中，气温通常在-2°C到25°C之间变化，极少低于-10°C或高于31°C ...<br><br>比中国南部的天气好得多，中国南部城市，也就少部分人近年冬天安装了电暖气。<br>煤球炉可以取暖，打开一扇窗户通气，烧热水。<br><br>DW 中文- 德国之声: 今天开始，北溪1号管线进入十多天的维修季，停止供气。如果之后俄罗斯不恢复供气，不仅德国老百姓将挨冻，德国经济可能萎缩12%。<br><br>这些天来，许多租户收到房主的通知，柏林一家大型出租房产公司告诉租客，今后油气取暖费至少翻倍。<br> <a href="https://p.dw.com/p/4DxFD" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4DxFD</a>
+经查：德国气候温和，在一年中，气温通常在-2°C到25°C之间变化，极少低于-10°C或高于31°C ...<br><br>比中国南部的天气好得多，中国南部城市，也就少部分人近年冬天安装了电暖气。<br>煤球炉可以取暖，打开一扇窗户通气，烧热水。 <a href="https://zh.weatherspark.com/countries/DE" target="_blank" rel="noopener noreferrer">https://zh.weatherspark.com/countries/DE</a>
 
 ### 15: [2022-07-11 21:43:55+08:00 推文](https://twitter.com/HeQinglian/status/1546490470557270019)
 
@@ -417,7 +417,7 @@ Re @dongle_smith @RFI_Cn 这是谴责名单，不是一回事。
 
 ### 101: [2022-07-14 10:29:59+08:00 推文](https://twitter.com/HeQinglian/status/1547408034061815815)
 
-历史的经验告诉人们：<br>当年拿破仑要回来了，巴黎的报纸一天换一个标题。<br>第一天：“科西嘉的怪物在儒安港登陆”<br>第二天：“吃人的魔鬼向格腊斯前进”<br>第三天：“篡位者进入格勒诺布尔”<br>第四天：“波拿巴占领里昂”<br>第五天：“拿破仑接近枫丹白露”<br>第六天：“皇帝陛下将于今日抵达他忠实的巴黎”<br><br>Frank Tian Xie (謝田), Ph.D.: 纽约时报六月卅日报导：普京近来神情“轻松、耐心、自信”，告别数月前“紧张、易怒，甚至心神不定”的他。这戏剧化转变怎么来的？<br> <a href="https://twitter.com/bannedebook/status/1547372813874794496" target="_blank" rel="noopener noreferrer">https://twitter.com/bannedebook/status/1547372813874794496</a>
+历史的经验告诉人们：<br>当年拿破仑要回来了，巴黎的报纸一天换一个标题。<br>第一天：“科西嘉的怪物在儒安港登陆”<br>第二天：“吃人的魔鬼向格腊斯前进”<br>第三天：“篡位者进入格勒诺布尔”<br>第四天：“波拿巴占领里昂”<br>第五天：“拿破仑接近枫丹白露”<br>第六天：“皇帝陛下将于今日抵达他忠实的巴黎”
 
 ### 102: [2022-07-14 22:04:25+08:00 推文](https://twitter.com/HeQinglian/status/1547582795123343366)
 

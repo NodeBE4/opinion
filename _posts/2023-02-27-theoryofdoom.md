@@ -103,3 +103,11 @@ REMINDER:  Follow the rules in the sidebar.
 
 Also, brigading will result in a permanent ban (and already has, on multiple occasions).  We can see whether you have a history of posting in this subreddit, too.
 
+----- __482.9__ -----2023-02-27 15:13:07+08:00:
+
+That's a large part of why it wouldn't matter if masks could be shown effective in a controlled setting. 
+
+If people won't comply, the intervention won't work.  No matter what it is. 
+
+This is a big problem with prescription drugs.
+
