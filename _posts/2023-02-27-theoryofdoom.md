@@ -25,20 +25,6 @@ I am aware this link has been shared on subreddits that a lot of folks here will
 
 I remind each and every one of you: this is about science, evidence and data.  Not politics.
 
-If you were mislead into believing masks made a difference because you believed incompetent experts (i.e., the people who failed to do their job correctly) that's not your fault.  
-
-You relied on them.  And they failed.
-
-That doesn't make you gullible.  It makes them incompetent. 
-
-But now the question is whether, in the face of evidence you previously did not have, will you change your mind?
-
-If you believe in science, then you will change your mind based on new evidence.
-
-If you are an idiot, you will argue that this Cochrane Review is wrong.
-
-And you would have to be an idiot to challenge a Cochrane Review.
-
 ----- __482.2__ -----2023-02-27 07:06:17+08:00:
 
 The [Cochrane Review](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006207.pub6/full) to which I previously referred
@@ -108,4 +94,12 @@ We live in a world where there is so much information out there, it's very hard 
 Neither of them change the bottom line.  The bottom line is simple: there is no credible research that supports claims that masks reduce COVID transmission.  
 
 It wasn't your job to figure that out, though.  So it's not like you're responsible.
+
+----- __482.8__ -----2023-02-27 13:23:42+08:00:
+
+[THE REVIEW IS LINKED HERE](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006207.pub6/full)
+
+REMINDER:  Follow the rules in the sidebar.   
+
+Also, brigading will result in a permanent ban (and already has, on multiple occasions).  We can see whether you have a history of posting in this subreddit, too.
 
