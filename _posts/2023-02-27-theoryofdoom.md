@@ -101,11 +101,7 @@ Cochrane cuts the wheat from the chaff.  Which everyone in this field understand
 
 If your name was on an article Cochrane called out, I'd bet you'd be unhappy about it too.  I'd be happy to let them speak, and hear what they have to say.  Although, these media stories are an irrelevant distraction.  
 
-Junk science isn't a new [problem](https://www.wired.com/2009/09/fmrisalmon/). But the harm is that now, a lot of people believe things that are unsupported.   
-
-We live in a world where there is so much information out there, it's very hard to know what to think.  That's why we have things like peer review, to make sure we're not publishing bullshit.  
-
-Sometimes those checks aren't enough.  
+We live in a world where there is so much information out there, it's very hard to know what to think.  That's why we have things like peer review, to make sure we're not publishing bullshit.  Sometimes those checks aren't enough.  
 
 > Two examples are below 
 
