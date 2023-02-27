@@ -79,3 +79,37 @@ This matters because it rejects the premise that most people have been incorrect
 
 It would be like if I sold you a drug to prevent cancer, but the data from all of my clinical trials found no such benefit.  I think we can all understand doing that would be very bad.
 
+----- __482.7__ -----2023-02-27 11:22:56+08:00:
+
+> Your comments and abrasive attitude
+
+I don't think you understand my perspective.  Nor do you understand why this is a source of outrage for me.  I want accountability for those in my field who knew better than to ever mislead the public with the bullshit that Cochrane is calling out.   We (i.e., folks in the field) knew better and dropped the ball, over and over again.  
+
+My ire is focused on my peers and my field.  Not you, or anyone who believed what you heard from the media.  So, do not feel like this is about you. It is not about you (unless your name is on one of the papers Cochrane was talking about). 
+
+> This is not the final word on the matter 
+
+You're right!  Nothing in science is ever final.  We try to reach the best conclusion we can with good evidence and reliable methods.  But sometimes folks drop the ball. They reach unsupported conclusions with terrible evidence on unreliable methods.  That is what happened here. 
+
+It is possible that further research may be undertaken.  And that research might reliably find that masks make a difference.   As it stands now, there is not now nor has there ever been good science to back such claims.  That's the point of the whole article. 
+
+> A quick search results in many articles that raise some questions on how to read the report. 
+
+Cochrane cuts the wheat from the chaff.  Which everyone in this field understands.  If your name was on a supposed paper Cochrane just said was bad, I'm sure you'd have all kinds of things to say about it too.  
+
+> also conclude that it isn't an open and shut case.
+
+If your name was on an article Cochrane called out, I'd bet you'd be unhappy about it too.  I'd be happy to let them speak, and hear what they have to say.  Although, these media stories are an irrelevant distraction.  
+
+Junk science isn't a new [problem](https://www.wired.com/2009/09/fmrisalmon/). But the harm is that now, a lot of people believe things that are unsupported.   
+
+We live in a world where there is so much information out there, it's very hard to know what to think.  That's why we have things like peer review, to make sure we're not publishing bullshit.  
+
+Sometimes those checks aren't enough.  
+
+> Two examples are below 
+
+Neither of them change the bottom line.  The bottom line is simple: there is no credible research that supports claims that masks reduce COVID transmission.  
+
+It wasn't your job to figure that out, though.  So it's not like you're responsible.
+
