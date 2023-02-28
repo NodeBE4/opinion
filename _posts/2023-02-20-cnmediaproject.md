@@ -21,7 +21,7 @@ RT Oliver Hotham<br>Great story from @VivianLin_  on livestreamers working lat
 
 ### 2: [2023-02-23 14:36:59+08:00 推文](https://twitter.com/gzmimi/status/1628645077127151616)
 
-RT Mimi Lau<br>Thank you @JMSCHKU for the mention. So glad to join such a great team at @annielab_jmsc ❤️❤️<div class="rsshub-quote"><br><br>HKU Journalism: Mimi Lau @gzmimi joined HKU Journalism as an assistant lecturer and the managing editor of Annie Lab @annielab_jmsc. Prior to joining the faculty, Mimi was China correspondent for @SCMPNews and hosted SCMP’s Inside China podcast. https://jmsc.hku.hk/people/mimi-lau/ https://t.co/CXKX9LgUgS<br><br><img style="" src="https://pbs.twimg.com/media/FpoUL3HaMAEhyO4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT Mimi Lau<br>Thank you @JMSCHKU for the mention. So glad to join such a great team at @annielab_jmsc ❤️❤️ https://twitter.com/jmschku/status/1628636496373886976<div class="rsshub-quote"><br><br>HKU Journalism: Mimi Lau @gzmimi joined HKU Journalism as an assistant lecturer and the managing editor of Annie Lab @annielab_jmsc. Prior to joining the faculty, Mimi was China correspondent for @SCMPNews and hosted SCMP’s Inside China podcast. https://jmsc.hku.hk/people/mimi-lau/ https://t.co/CXKX9LgUgS<br><br><img style="" src="https://pbs.twimg.com/media/FpoUL3HaMAEhyO4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 3: [2023-02-24 06:31:36+08:00 推文](https://twitter.com/ThisIsWenhao/status/1628885311899021315)
 
