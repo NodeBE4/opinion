@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-02-28
+date: 2023-03-01
 from: https://old.reddit.com/r/AskHistorians/comments/11d4udq/why_dont_medievalearly_modern_china_and_maybe/
 layout: post
 tags:
@@ -24,4 +24,10 @@ This is far from a complete answer to your question, but as a point of clarifica
 ----- __1126.1__ -----2023-02-28 22:37:29+08:00:
 
 Because Civ 6 has a policy cards feature where you can swap them in and out, rather than having one-off Social Policy purchases.
+
+### 1127: [What lessons from the Dust Bowl and Great Depression would help us, now - especially if China no longer exports to Western countries?](https://old.reddit.com/r/AskHistorians/comments/11el6fl/what_lessons_from_the_dust_bowl_and_great/), submitted on 2023-03-01 05:54:35+08:00.
+
+----- __1127.1__ -----2023-03-01 06:14:49+08:00:
+
+This submission has been removed because it involves current events.  To keep from discussion of politics, we have a [20-year rule](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events) here.  You may want to try /r/ask_politics, /r/NeutralPolitics, or another current-events focused sub. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
