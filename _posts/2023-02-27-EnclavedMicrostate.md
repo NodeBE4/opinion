@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-02-27
+date: 2023-02-28
 from: https://old.reddit.com/r/AskHistorians/comments/11d4udq/why_dont_medievalearly_modern_china_and_maybe/
 layout: post
 tags:
@@ -18,4 +18,10 @@ title: EnclavedMicrostate在2023-02-27~2023-03-05的言论
 ----- __1125.1__ -----2023-02-27 19:33:40+08:00:
 
 This is far from a complete answer to your question, but as a point of clarification, historically (and even today) [large-scale movement between China and India has never been particularly practicable](https://www.reddit.com/r/AskHistorians/comments/qlfr99/how_was_the_relationship_between_qing_china_and/hj65yek/).
+
+### 1126: [Seriously can we have an end turn alert cause I forget to do these every time](https://old.reddit.com/r/totalwar/comments/11dtlbs/seriously_can_we_have_an_end_turn_alert_cause_i/), submitted on 2023-02-28 09:51:51+08:00.
+
+----- __1126.1__ -----2023-02-28 22:37:29+08:00:
+
+Because Civ 6 has a policy cards feature where you can swap them in and out, rather than having one-off Social Policy purchases.
 
