@@ -857,7 +857,7 @@ Re @Wu_Zhi 还有一大帮生活在不用为乌克兰支付代理人费用的国
 
 ### 211: [2022-04-23 01:05:05+08:00 推文](https://twitter.com/HeQinglian/status/1517550065660878851)
 
-拜登也没达到目的：<br>The Hill报导，昆尼皮亚克大学（Quinnipiac University）日前公布的一项民调发现，拜登当前的支持率只有33%，标志着他在昆尼皮亚克大学民调记录中的最低点。他在拉美裔选民中的支持率更低，仅26%。<br>乌克兰人的血、美国纳税人与通胀掠夺来的钱、盟友的经济，未换来拜登支持率的上升
+拜登也没达到目的：<br>The Hill报导，昆尼皮亚克大学（Quinnipiac University）日前公布的一项民调发现，拜登当前的支持率只有33%，标志着他在昆尼皮亚克大学民调记录中的最低点。他在拉美裔选民中的支持率更低，仅26%。<br>乌克兰人的血、美国纳税人与通胀掠夺来的钱、盟友的经济，未换来拜登支持率的上升<br><br>He Qinglian: 2月14日，冷战大师马特洛克（美驻苏前大使，1987-1991）指出：我们正目睹一场精心策划、被严重放大的闹剧，以服务于国内政治目的。面对不断上升的通胀、covid-19的蹂躏、对阿富汗撤军的指责，以及未能获得本党对重建更好法案的全力支持。拜登政府得为今年的国会选举做准备……<br> <a href="https://www.democracynow.org/2022/2/17/jack_matlock_ukraine_russia_nato_us" target="_blank" rel="noopener noreferrer">https://www.democracynow.org/2022/2/17/jack_matlock_ukraine_russia_nato_us</a> <a href="https://twitter.com/HeQinglian/status/1516780090457301008" target="_blank" rel="noopener noreferrer">https://twitter.com/HeQinglian/status/1516780090457301008</a>
 
 ### 212: [2022-04-23 02:54:50+08:00 推文](https://twitter.com/HeQinglian/status/1517577686033518594)
 
@@ -893,7 +893,7 @@ Re @HelloTommy2015 你本来就没名声，换个推号再来。重新开张。<
 
 ### 220: [2022-04-23 03:56:19+08:00 推文](https://twitter.com/Awaken168/status/1517593160813318144)
 
-RT ⚜️Awaken🔱<br>🔴🔥⚡電視網絡 Rasha Tudej 播放了有關 #洩露 2000 份文件的消息…⬇️<br>🔴這些文件證明了 #喬治·索羅斯 和開放社會在 #操縱 歐洲各國 #選舉 方面的責任!!!<br><br>nikola  tesla prvi: 🔥⚡Телевизијска мрежа Раша тудеј емитовала је вест о цурењу 2000 докумената који доказују одговорност Џорџа Сороша и Отвореног друштва у манипулацији изборима у земљама широм Европе!!!<br><br><video src="https://video.twimg.com/ext_tw_video/1517535973395025920/pu/vid/432x304/OcOf_8CH8iIU8ogS.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1517535973395025920/pu/img/ciYjsBp4DeS5kcy9.jpg"></video>
+RT ⚜️Awaken🔱<br>🔴🔥⚡電視網絡 Rasha Tudej 播放了有關 #洩露 2000 份文件的消息…⬇️<br>🔴這些文件證明了 #喬治·索羅斯 和開放社會在 #操縱 歐洲各國 #選舉 方面的責任!!!
 
 ### 221: [2022-04-23 08:27:28+08:00 推文](https://twitter.com/HeQinglian/status/1517661395919290368)
 
