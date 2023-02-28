@@ -57,7 +57,7 @@ WTA的決定顯示了良知與正義，不為利益誘惑而出賣原則。相�
 
 ### 11: [2021-12-05 00:28:35+08:00 推文](https://twitter.com/realcaixia/status/1467168968901337088)
 
-这幅帖子概括得好！<br><br>章立凡 Zhang Lifan: ＃转【人家只好试试了】<br><br><img style="" src="https://pbs.twimg.com/media/FFpFlonWQAE87Ul?format=jpg&name=orig" referrerpolicy="no-referrer">
+这幅帖子概括得好！<br><br>章立凡 Zhang Lifan: ＃转【人家只好试试了】<br><br><img style src="https://pbs.twimg.com/media/FFpFlonWQAE87Ul?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2021-12-05 00:50:44+08:00 推文](https://twitter.com/realcaixia/status/1467174543093649412)
 
