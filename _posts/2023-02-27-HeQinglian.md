@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-02-28
+date: 2023-03-01
 from: https://twitter.com/HeQinglian/status/1629884956888449031
 layout: post
 tags:
@@ -33,7 +33,7 @@ Re @uo7ZC09z6QEAOfd @shenliangqing2 基本如此。更大的问题是他们不�
 
 ### 5: [2023-02-27 02:42:32+08:00 推文](https://twitter.com/HeQinglian/status/1629914829090635781)
 
-最新Rasmussen Reports ，46% 的受访者认为乌战基本处于僵持状态，高于 12 月的 38%。19% 的受访者认为俄罗斯正在赢得乌战, 21%认为乌克兰获胜，低于 12 月份的 32%。有 14% 的人不确定谁赢。https://www.rasmussenreports.com/public_content/politics/biden_administration/ukraine_46_see_war_as_stalemate_after_a_year<br>经济学人这篇文章的结论太迟了。事实上多极世界已现雏形——一鲸落，万物生。 https://twitter.com/KELMAND1/status/1629727091796357126<div class="rsshub-quote"><br><br>Ezio Mao☢: 《经济学人》：乌克兰的命运将成为西方在国际体系中地缘政治地位和影响力的重要决定因素。<br><br>冲突的结果在这件事上将是决定性的—如果基辅输了，那么西方对世界政治影响力的削弱将变得显而易见。在美国及其仆从国在中东遭遇失败之后，许多人开始怀疑西方的力量。 https://t.co/ccK0JAFV47<br><br><img style="" src="https://pbs.twimg.com/media/Fp3yp6XaYAE7GoK?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
+最新Rasmussen Reports ，46% 的受访者认为乌战基本处于僵持状态，高于 12 月的 38%。19% 的受访者认为俄罗斯正在赢得乌战, 21%认为乌克兰获胜，低于 12 月份的 32%。有 14% 的人不确定谁赢。https://www.rasmussenreports.com/public_content/politics/biden_administration/ukraine_46_see_war_as_stalemate_after_a_year<br>经济学人这篇文章的结论太迟了。事实上多极世界已现雏形——一鲸落，万物生。<div class="rsshub-quote"><br><br>Ezio Mao☢: 《经济学人》：乌克兰的命运将成为西方在国际体系中地缘政治地位和影响力的重要决定因素。<br><br>冲突的结果在这件事上将是决定性的—如果基辅输了，那么西方对世界政治影响力的削弱将变得显而易见。在美国及其仆从国在中东遭遇失败之后，许多人开始怀疑西方的力量。 https://t.co/ccK0JAFV47<br><br><img style="" src="https://pbs.twimg.com/media/Fp3yp6XaYAE7GoK?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 6: [2023-02-27 22:19:01+08:00 推文](https://twitter.com/HeQinglian/status/1630210900849246209)
 
@@ -142,4 +142,84 @@ Re @TDXY 从2017年这个圈集体拥郭，并代为征讨所有不拥郭的人�
 ### 32: [2023-02-28 22:39:35+08:00 推文](https://twitter.com/HeQinglian/status/1630578466226577410)
 
 Re @eGUAbe2V7j26GHw @wakeup_arrow 中国已经脱轨了。这几天有消息说，中国正在建燃煤发电厂。😅<br>再说下去，为什么欧洲国家煤炭可以洗绿，中国用燃煤就不是绿色？<br>这几年，美国民主选举与绿色能源先后崩塌，做个有头脑的看客，远比当举拳头喊口号的两脚羊强。<br>话说，如果我文革时也是两脚羊，恢复高考后，以小学资历肯定考不上大学。
+
+### 33: [2023-02-28 23:02:53+08:00 推文](https://twitter.com/HeQinglian/status/1630584328898969601)
+
+Re @dustybill3 先吃饭吧，比较适合你。
+
+### 34: [2023-02-28 23:06:26+08:00 推文](https://twitter.com/HeQinglian/status/1630585223388835840)
+
+Re @JianglinLi 对这些拜粉来说，自取。我们算受他们之害。
+
+### 35: [2023-02-28 23:15:26+08:00 推文](https://twitter.com/HeQinglian/status/1630587487901872128)
+
+俄中在联合国人权理事会上开天辟地双双被起诉  https://rfi.my/8lvb.T <br>该理事会有47个成员国。接着将是中俄与欧美争抢支持票数的决斗。如果欧美赢，理论上中俄或将遭联合国人权调查监督；如果中俄赢了，联合国将仍然对中俄人权批评噤声且无作为。<br>目测谴责俄或成行，就维吾尔人权谴责中国或难通过。
+
+### 36: [2023-02-28 23:36:52+08:00 推文](https://twitter.com/HeQinglian/status/1630592880854159361)
+
+Re @dinglili7 要害是：定义谁是民主国家，这是美欧的权力。<br>匈牙利与波兰两国是民选的，都因国内lgbtqi+的立法不合欧盟之意，被正式宣布过不是民主国家。波兰的事是两年前，记得的不多了。匈牙利是去年，可能还有100分之一记得。
+
+### 37: [2023-02-28 23:40:00+08:00 推文](https://twitter.com/HeQinglian/status/1630593670234664972)
+
+Re @KELMAND1 最近的战事我没多关注，但看地图显示，似有将占领土地连片之意。
+
+### 38: [2023-02-28 23:41:42+08:00 推文](https://twitter.com/HeQinglian/status/1630594098791956480)
+
+最后一次为你推送相关资料。<br>不要说没看到。  https://twitter.com/Frank26970699/status/1630459572082348038<div class="rsshub-quote"><br><br>竺修远律师: 一年前，我也认为是北约违反国际法。<br>  @HeQinglian  老师让我去找找“北约不东扩”的依据。<br><br>    经过查证，历史上北约从来没有以任何形式承诺过不东扩。<br>    恰恰相反，俄罗斯在历史上三次申请加入北约。<br></div>
+
+### 39: [2023-02-28 23:43:38+08:00 推文](https://twitter.com/HeQinglian/status/1630594582902702080)
+
+Re @washearg 战争不能师出无名，尤其是民主国家。😅<br>美国什么时候都没说过，这场战争是为了军工利益集团的进帐。
+
+### 40: [2023-02-28 23:47:26+08:00 推文](https://twitter.com/HeQinglian/status/1630595540403597312)
+
+现在的国际版图是二战后定的，连美国也只说要维护二战之后形成的国际秩序，没说要回溯到更早。<br>如果按照你这样翻旧帐，全世界永无宁日。<br>退下去好好想想，哪个国家的领土上还有多少原住民，民主国家为什么从半个世纪前开始，不断补偿原住民，主要是理论变了。<div class="rsshub-quote"><br><br>阿清: @HeQinglian 从叶卡捷琳娜女皇开始，俄罗斯🇷🇺不断侵吞别国领土直到现在👌<br></div>
+
+### 41: [2023-02-28 23:49:46+08:00 推文](https://twitter.com/HeQinglian/status/1630596128751210496)
+
+Re @JianglinLi 因为他说听我的建议后没找到，人家又是有名有姓的维权律师，我再推一次，以后不理了。<br>关于俄乌战争的大背景，及美国智库们的看法，我们推送得够多了，我点明他们的思想来自于列宁，不再理他们了。看见乌粉，全部拉黑，图清净。
+
+### 42: [2023-02-28 23:51:44+08:00 推文](https://twitter.com/HeQinglian/status/1630596624052285441)
+
+Re @maga_kureea 他说过，他对美国非常了解。
+
+### 43: [2023-02-28 23:52:56+08:00 推文](https://twitter.com/HeQinglian/status/1630596926641958912)
+
+Re @JianglinLi 在别处跳脚，与我无关，到我园子里跳脚，我得赶走。等会看见好言开导不起作用，继续跳脚的，我会拉黑。
+
+### 44: [2023-03-01 00:16:40+08:00 推文](https://twitter.com/HeQinglian/status/1630602899012173839)
+
+Re @JianglinLi 拉黑勿论。花的时间太多，不值得。
+
+### 45: [2023-03-01 00:18:43+08:00 推文](https://twitter.com/HeQinglian/status/1630603411115655172)
+
+Re @chinayvan 两会之后，最多三个月，这政策就得调整。地方政府的财政枯竭，得另找税源。<br>另找税源只有两法：一是加税，二是杀富。两者都有极限。<br>我看还是地方政府消肿为好。
+
+### 46: [2023-03-01 00:20:37+08:00 推文](https://twitter.com/HeQinglian/status/1630603891275444225)
+
+Re @KELMAND1 如果你对韩战板门店谈判之前的情况有所了解，会发现如今与那时一样：战争不死不活地拖着，双方都在等待双方均认为最有利的时机——直到达到共识为止。
+
+### 47: [2023-03-01 00:27:31+08:00 推文](https://twitter.com/HeQinglian/status/1630605627079684098)
+
+Re @richard20211212 这是AI？太搞了一点。
+
+### 48: [2023-03-01 00:30:04+08:00 推文](https://twitter.com/HeQinglian/status/1630606268657287169)
+
+Re @HongfuDing 话说，她/他/牠的眼光比拜登夫人强点，看中的不是被面花与16岁少女喜欢的款型。<br>既然失业了，拜登夫人聘请这位做服装顾问。
+
+### 49: [2023-03-01 00:32:27+08:00 推文](https://twitter.com/HeQinglian/status/1630606868912521220)
+
+Re @mingshi_chen 这次是美国集中力量再搏一把。<br>不过，中国在人权理事会的影响比较大，我觉得最聪明的方式应该是分两次，这样打包发送，中国做统战工作时，顺便帮了俄罗斯。
+
+### 50: [2023-03-01 00:44:31+08:00 推文](https://twitter.com/HeQinglian/status/1630609906796576771)
+
+Re @chinayvan 我至今也不理解，为何中国有人老说人口太少？<br>生育决策权好不容易还给家庭了，为何政府总喜欢干预？
+
+### 51: [2023-03-01 00:45:23+08:00 推文](https://twitter.com/HeQinglian/status/1630610124241879054)
+
+Re @mingshi_chen 今年中国历史最高的贸易顺差分别来自美欧，我正在分国计算。
+
+### 52: [2023-03-01 00:47:16+08:00 推文](https://twitter.com/HeQinglian/status/1630610597749440527)
+
+Re @KELMAND1 下次发张广范围的形势图，可能就清楚了。
 
