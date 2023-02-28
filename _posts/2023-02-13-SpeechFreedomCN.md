@@ -25,7 +25,7 @@ Man from Jiangxi surnamed Zeng detained for three days for his WeChat Moment pos
 
 ### 3: [2023-02-15 20:26:52+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1625834023485415425)
 
-网友爆料：因在推特和脸书发布反对中共的信息，包括揭露其打压异见人士，被处拘留10日，罪名为寻衅滋事。 https://t.co/HqvByYD3Z2<br><img style="" src="https://pbs.twimg.com/media/FpAfIOUWcAEhfzG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpAfMJjXsAMqKO7?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+网友爆料：因在推特和脸书发布反对中共的信息，包括揭露其打压异见人士，被处拘留10日，罪名为寻衅滋事。<br><img style="" src="https://pbs.twimg.com/media/FpAfIOUWcAEhfzG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpAfMJjXsAMqKO7?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2023-02-15 20:28:32+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1625834442940899331)
 
@@ -37,5 +37,5 @@ Unnamed Chinese netizen detained for 10 days for posting info on Twitter and Fac
 
 ### 6: [2023-02-18 19:30:35+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1626907023106314241)
 
-Shanxi man Pang, who recently posted an article on Internet to accuse Shandong traffic police of causing an accident with wrongdoing and beating the involved driver, arrested. The incident sparked public outrage, thus police released him on bail and launched a probe into it.<br><img style="" src="https://pbs.twimg.com/media/FpPubZsWIAABO-Q?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpPudgMWcAIiAzO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpPue7QXgAAY7BK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Shanxi man Pang, who recently posted an article on Internet to accuse Shandong traffic police of causing an accident with wrongdoing and beating the involved driver, arrested. The incident sparked public outrage, thus police released him on bail and launched a probe into it. https://t.co/UsdNKH2h6N<br><img style="" src="https://pbs.twimg.com/media/FpPubZsWIAABO-Q?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpPudgMWcAIiAzO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpPue7QXgAAY7BK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
