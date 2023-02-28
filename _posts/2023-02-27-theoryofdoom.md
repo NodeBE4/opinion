@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2023-02-27
+date: 2023-02-28
 from: https://old.reddit.com/r/CoronavirusIllinois/comments/11cvj9l/cochrane_review_the_most_rigorous_and_extensive/
 layout: post
 tags:
@@ -110,4 +110,10 @@ That's a large part of why it wouldn't matter if masks could be shown effective 
 If people won't comply, the intervention won't work.  No matter what it is. 
 
 This is a big problem with prescription drugs.
+
+### 483: [No tops are allowed in the fitting room](https://old.reddit.com/r/SuddenlyGay/comments/11dkawl/no_tops_are_allowed_in_the_fitting_room/), submitted on 2023-02-28 03:23:05+08:00.
+
+----- __483.1__ -----2023-02-28 13:36:56+08:00:
+
+I feel attacked.
 
