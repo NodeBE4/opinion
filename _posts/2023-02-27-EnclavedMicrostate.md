@@ -37,3 +37,11 @@ This submission has been removed because it involves current events.  To keep fr
 
 Roundway Hill near Devizes is the site of a Civil War battle in 1643, arguably the greatest success the Royalists ever managed to achieve. For its part, Bath has a good amount of Georgian architecture, and the eponymous Roman baths later refurbished in the Early Modern period.
 
+### 1129: [Pikamee will end all activities on March 31st, Japan Time](https://old.reddit.com/r/VirtualYoutubers/comments/11f38uc/pikamee_will_end_all_activities_on_march_31st/), submitted on 2023-03-01 21:03:10+08:00.
+
+----- __1129.1__ -----2023-03-02 00:46:46+08:00:
+
+No, I think you do. Someone buys the game -> JKR gets royalties -> JKR uses her money, which now includes royalties from that game, to fund anti-trans causes (e.g. [suing LGBTQ+ charity Stonewall](https://twitter.com/HPANA/status/1518650786347163651); [setting up a crisis centre in Scotland explicitly excluding trans people](https://www.advocate.com/transgender/2022/12/14/jk-rowling-funds-sex-abuse-crisis-center-excludes-trans-women)) -> anti-trans causes harm trans people.
+
+QED
+

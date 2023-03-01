@@ -77,7 +77,7 @@ Re @qihang19211 我未使用中国居民负债金额这个概念。<br>文中说
 
 ### 16: [2023-02-28 05:28:48+08:00 推文](https://twitter.com/HeQinglian/status/1630319059936899072)
 
-一战爆发后，列宁写了数篇文章，《革命的社会民主党在欧洲大战中的任务》（即“关于战争的提纲”），并以此为基础写了《战争和俄国社会民主党》。这两篇文献确定了这场战争的性质：资产阶级、帝国主义、王朝战争的性质，是非正义的。列宁提出“变帝国主义战争为国内战争”的口号，反沙俄的内战是正义的。 https://twitter.com/HeQinglian/status/1630225930181328896<div class="rsshub-quote"><br><br>He Qinglian: @zhuxiuyuan 你独独忘记了《明斯克协议》，现在默克尔都承认当初签订时并未打算遵守，只是希望赢得时间壮大乌克兰的军事实力。<br>建议你学学美国智库的地缘政治理论，从布热津斯基开始，否则这辈子都只会列宁的战争正义-非正义论。<br></div>
+一战爆发后，列宁写了数篇文章，《革命的社会民主党在欧洲大战中的任务》（即“关于战争的提纲”），并以此为基础写了《战争和俄国社会民主党》。这两篇文献确定了这场战争的性质：资产阶级、帝国主义、王朝战争的性质，是非正义的。列宁提出“变帝国主义战争为国内战争”的口号，反沙俄的内战是正义的。<div class="rsshub-quote"><br><br>He Qinglian: @zhuxiuyuan 你独独忘记了《明斯克协议》，现在默克尔都承认当初签订时并未打算遵守，只是希望赢得时间壮大乌克兰的军事实力。<br>建议你学学美国智库的地缘政治理论，从布热津斯基开始，否则这辈子都只会列宁的战争正义-非正义论。<br></div>
 
 ### 17: [2023-02-28 05:32:44+08:00 推文](https://twitter.com/HeQinglian/status/1630320048488214529)
 
@@ -273,7 +273,7 @@ Re @shenliangqing2 这在2020年时，推上某维律代表民主党与NGO通知
 
 ### 65: [2023-03-01 08:34:13+08:00 推文](https://twitter.com/HeQinglian/status/1630728109057101824)
 
-NATO Expansion: What Gorbachev Heard<br>https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early <br>共计30个文件，就是备忘录。当然，不是中文的，自己慢慢看。<br>这是我第三次推送给你，去年劝你了解情况时一次，都附了尊推号，<br>@zhuxiuyuan<br>今天上午推送，你连打开都不肯。 https://twitter.com/zhuxiuyuan/status/1630723092942036993<div class="rsshub-quote"><br><br>竺修远律师: @Nobody197575 @HeQinglian 没有条约、备忘录等书面协议。<br></div>
+NATO Expansion: What Gorbachev Heard<br>https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early <br>共计30个文件，就是备忘录。当然，不是中文的，自己慢慢看。<br>这是我第三次推送给你，去年劝你了解情况时一次，都附了尊推号，<br>@zhuxiuyuan<br>今天上午推送，你连打开都不肯。<div class="rsshub-quote"><br><br>竺修远律师: @Nobody197575 @HeQinglian 没有条约、备忘录等书面协议。<br></div>
 
 ### 66: [2023-03-01 08:59:24+08:00 推文](https://twitter.com/HeQinglian/status/1630734448818806785)
 
@@ -298,4 +298,40 @@ Re @GangYegang72 你的自述，说年过五十。出息成这样，是你自己
 ### 71: [2023-03-01 21:29:10+08:00 推文](https://twitter.com/HeQinglian/status/1630923130846806016)
 
 Re @shenliangqing2 这是受美国左派2020年频繁向BLM下跪道歉的影响，认为每个人需要为自己出生之前发生的事情道歉，受害者权益可以世袭。<br>我去过好几次台湾，觉得90年代以前的台湾最可爱。
+
+### 72: [2023-03-01 23:17:51+08:00 推文](https://twitter.com/HeQinglian/status/1630950485510201345)
+
+Re @Wu_Zhi 这事儿，我是赞成的。既然"华府希望与俄罗斯战斗至最后一个乌克兰人”(Washington Will Fight Russia to the Last Ukrainian)，这些赞成者当中，45岁以下的应该身体力行自己去参战，45岁以上者应该助养乌克兰遗孤。<br>是否涉及其子女，得看他们的子女是否愿意。
+
+### 73: [2023-03-01 23:19:30+08:00 推文](https://twitter.com/HeQinglian/status/1630950897214799872)
+
+Re @worldpeople2019 @zhuxiuyuan 这些人其实就是坚持一点：自己是正确兼正义的。他们秀正义与正确，我本也不管，但常常@我，生怕讲道我听不到，就有洗脑之嫌。
+
+### 74: [2023-03-01 23:36:07+08:00 推文](https://twitter.com/HeQinglian/status/1630955080173101056)
+
+Re @Adolf_KitlerXP @SI0FNJaumWUpA6R 世界上，除了没有原则趋利的人之外，还有其他各种人的存在，比如原则先于利益的人，他们的存在让世界更美好。
+
+### 75: [2023-03-01 23:37:23+08:00 推文](https://twitter.com/HeQinglian/status/1630955397862367233)
+
+Re @vi_zey 我将你当作感恩节之后的火鸡。
+
+### 76: [2023-03-01 23:37:51+08:00 推文](https://twitter.com/HeQinglian/status/1630955514556284928)
+
+Re @shinabuta59 @vi_zey 你可能就是。
+
+### 77: [2023-03-01 23:44:59+08:00 推文](https://twitter.com/HeQinglian/status/1630957313837113344)
+
+Re @shenliangqing2 美国现在的政治正确序列里，最高等级是BLM、变性人、穆斯林。<br>但穆斯林是前两类的克星，一是团结，二是小治安案件里，警察不想招惹他们。<br>这三类只要不在一个空间里出现，全是大王。
+
+### 78: [2023-03-01 23:48:42+08:00 推文](https://twitter.com/HeQinglian/status/1630958246931443713)
+
+Re @Isabel_3299 其实，拥护川普的人去贬低德·桑蒂斯，本身就是中了RINO与民主党的计谋。<br>我还是那句话，党内初选时，群星竞逐是正道。
+
+### 79: [2023-03-01 23:51:08+08:00 推文](https://twitter.com/HeQinglian/status/1630958859064836097)
+
+Re @shenliangqing2 补充：到现在为止，就我的了解而言，美国的穆斯林既不零元购，也不逼迫其他宗教承认自身的至高无上地位，相对安静多了。<br>按照美国左派这种搞法，今后如何不好说。
+
+### 80: [2023-03-01 23:54:03+08:00 推文](https://twitter.com/HeQinglian/status/1630959595425353730)
+
+Re @Isabel_3299 就是。有信心，就不要纠结于谁参选。平等竞争，输的服气，赢的自信，最后说不定多些党内支持者。
 
