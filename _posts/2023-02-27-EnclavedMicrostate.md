@@ -45,3 +45,13 @@ No, I think you do. Someone buys the game -> JKR gets royalties -> JKR uses her 
 
 QED
 
+----- __1129.2__ -----2023-03-02 01:44:55+08:00:
+
+So in other words, the fact that the game has *already* been used to fund anti-trans causes shouldn't stop you from promoting it? Even if further purchases of HL don't *immediately* go into royalties cheques for JKR, they do still prove the viability of the brand, and thus *more* royalties down the line.
+
+----- __1129.3__ -----2023-03-02 01:53:11+08:00:
+
+I don't think this is the counter-argument you think it is, though, because I think you very much *could*, even *should*, make that argument for Nintendo too, on that basis. In any event, in that particular comment at least, I wasn't even suggesting that there should be a boycott (although I do, in fact, believe so); I was simply stating that the chain of causality does in fact exist.
+
+My moral condemnation isn't reserved for anyone who may be playing the game without awareness of the nature of the issue: I condemn their actions, but I can accept that they may have no ill intent at the point of purchase. Nevertheless, it is my opinion that people should be informed of the causes that the game's beneficiaries promote, and I *do* take umbrage with anyone a) unwilling to engage with that in good faith, and/or b) who will go ahead with promoting the game despite knowing about those issues that have already been enumerated. But ultimately, my moral condemnation is reserved primarily for JK Rowling and the developers of the game.
+
