@@ -53,7 +53,7 @@ Re @GaoMilan 既然如此，还抱怨什么？认吧。
 
 ### 10: [2022-07-25 09:37:02+08:00 推文](https://twitter.com/HeQinglian/status/1551380976240140288)
 
-想当年，克林顿竞选时的豪言：我如果当了美国总统，从北京到巴格达的独裁者，一个也不放过。<br>后来，克林顿力主中国入世，成了中国政府的好朋友。退位后经常到中国演讲，每场演讲进帐几十万美元——友谊长青。<br>因此，我宁可将这些看作政治噱头。
+想当年，克林顿竞选时的豪言：我如果当了美国总统，从北京到巴格达的独裁者，一个也不放过。<br>后来，克林顿力主中国入世，成了中国政府的好朋友。退位后经常到中国演讲，每场演讲进帐几十万美元——友谊长青。<br>因此，我宁可将这些看作政治噱头。<br><br>RFI 華語 - 法國國際廣播電台: 英保守黨黨魁競選周一電視辯論： 蘇納克將抨擊特拉斯對華政策軟弱<br><br><img style="" src="https://pbs.twimg.com/media/FYeHnGJUEAEws_L?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8bmS.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8bmS.t</a>
 
 ### 11: [2022-07-25 20:17:17+08:00 推文](https://twitter.com/HeQinglian/status/1551542097773223936)
 
@@ -577,7 +577,7 @@ Re @shenliangqing2 @FranzMendelsso1 @RealBeiMing 美国演变至今，有个过�
 
 ### 141: [2022-07-30 04:16:09+08:00 推文](https://twitter.com/HeQinglian/status/1553112163069399041)
 
-看了法广这条的留言与Quote后，我去看了一眼：<br>“俄總統新聞秘書佩斯科夫當天告訴媒體稱，克里姆林宮同意中國領導人習近平的觀點（不要“玩火”）”。<br>拉夫羅夫在回答有關台灣周邊局勢和佩洛西可能計畫訪問台灣的問題時說：“我們只有一個中國的立場沒有改變”。<br>发表评论却连内容都不看。
+看了法广这条的留言与Quote后，我去看了一眼：<br>“俄總統新聞秘書佩斯科夫當天告訴媒體稱，克里姆林宮同意中國領導人習近平的觀點（不要“玩火”）”。<br>拉夫羅夫在回答有關台灣周邊局勢和佩洛西可能計畫訪問台灣的問題時說：“我們只有一個中國的立場沒有改變”。<br>发表评论却连内容都不看。<br><br>RFI 華語 - 法國國際廣播電台: 拉夫羅夫：俄羅斯希望不會出現使台灣周邊局勢惡化的挑釁行為<br><br><img style="" src="https://pbs.twimg.com/media/FY12eHWUUAAWFwq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8caD.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8caD.t</a>
 
 ### 142: [2022-07-30 04:42:17+08:00 推文](https://twitter.com/HeQinglian/status/1553118738119069696)
 
@@ -733,7 +733,7 @@ Re @riverkiosk 又来了，是不是最近乌战实际战况让你心情不愉�
 
 ### 180: [2022-07-31 10:33:17+08:00 推文](https://twitter.com/HeQinglian/status/1553569459113181184)
 
-这篇文章建议大家花五分钟，有趣之处在于德国专家与美国专家立场不同。<br>德国专家认为是“伤敌八百，自损一千”——因为专家本人也身受能源短缺之痛，与普通人有同理心<br>耶鲁专家在美国，除了油价飚升与通胀之外，并无德国人能源短缺之痛，因此主张继续制裁。德国自损两千都与其无关。<br>——立场决定研究结果😂
+这篇文章建议大家花五分钟，有趣之处在于德国专家与美国专家立场不同。<br>德国专家认为是“伤敌八百，自损一千”——因为专家本人也身受能源短缺之痛，与普通人有同理心<br>耶鲁专家在美国，除了油价飚升与通胀之外，并无德国人能源短缺之痛，因此主张继续制裁。德国自损两千都与其无关。<br>——立场决定研究结果😂<br><br>DW 中文- 德国之声: 对俄制裁，是俄罗斯蒙受重创、金融市场的前景堪称“全球最差”？还是西方“伤敌八百、自损一千”？<br> <a href="https://p.dw.com/p/4Erre" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4Erre</a>
 
 ### 181: [2022-07-31 20:48:35+08:00 推文](https://twitter.com/HeQinglian/status/1553724302461210624)
 
