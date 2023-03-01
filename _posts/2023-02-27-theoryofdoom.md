@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2023-02-28
+date: 2023-03-01
 from: https://old.reddit.com/r/CoronavirusIllinois/comments/11cvj9l/cochrane_review_the_most_rigorous_and_extensive/
 layout: post
 tags:
@@ -124,4 +124,10 @@ Yes, including mods.  Or former mods, as in this case.
 ----- __483.1__ -----2023-02-28 13:36:56+08:00:
 
 I feel attacked.
+
+### 484: [China spends billions on pro-Russia disinformation, US special envoy says | China](https://old.reddit.com/r/Disinfo/comments/11ew2gh/china_spends_billions_on_prorussia_disinformation/), submitted on 2023-03-01 14:08:12+08:00.
+
+----- __484.1__ -----2023-03-01 14:48:01+08:00:
+
+Excellent article.
 
