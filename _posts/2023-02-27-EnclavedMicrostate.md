@@ -31,3 +31,9 @@ Because Civ 6 has a policy cards feature where you can swap them in and out, rat
 
 This submission has been removed because it involves current events.  To keep from discussion of politics, we have a [20-year rule](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events) here.  You may want to try /r/ask_politics, /r/NeutralPolitics, or another current-events focused sub. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
+### 1128: [What places in this area would you recommend a history and nature enthusiast to vist ?](https://old.reddit.com/r/CasualUK/comments/11ez22m/what_places_in_this_area_would_you_recommend_a/), submitted on 2023-03-01 17:07:15+08:00.
+
+----- __1128.1__ -----2023-03-01 21:28:29+08:00:
+
+Roundway Hill near Devizes is the site of a Civil War battle in 1643, arguably the greatest success the Royalists ever managed to achieve. For its part, Bath has a good amount of Georgian architecture, and the eponymous Roman baths later refurbished in the Early Modern period.
+
