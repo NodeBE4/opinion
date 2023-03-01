@@ -125,9 +125,53 @@ Yes, including mods.  Or former mods, as in this case.
 
 I feel attacked.
 
-### 484: [China spends billions on pro-Russia disinformation, US special envoy says | China](https://old.reddit.com/r/Disinfo/comments/11ew2gh/china_spends_billions_on_prorussia_disinformation/), submitted on 2023-03-01 14:08:12+08:00.
+### 484: [The fate of student loan forgiveness rests on the Supreme Court](https://old.reddit.com/r/college/comments/11eaxdk/the_fate_of_student_loan_forgiveness_rests_on_the/), submitted on 2023-02-28 23:23:27+08:00.
 
------ __484.1__ -----2023-03-01 14:48:01+08:00:
+----- __484.1__ -----2023-03-01 22:33:56+08:00:
+
+> I feel like student loan forgiveness won't pass because of all the "oh I paid mine you should pay yours" people.
+
+I agree with this.  Despite the fact that student debt is crippling the economy and making new generations of indentured servants, a series of folks (most of them Gen X-ers) feel like others should have to bear a 'the same' weight as they did. The problem with that view is that Gen X-ers did not have to bear the same weight as Millenials and Gen Z.  Tuition rates were profoundly lower and the underlying amounts they borrowed was a lot less.  
+
+And then there's the issue of that guy from Dirty Jobs, Mike whatever his name is (Rowe?), who seems to know less than nothing about the subject.  His position is that it is unfair to forgive the debt of borrowers because that means you're using tax money from people who chose to get jobs in the trades right out of high school.  That argument has a lot of practical appeal, but only to the ignorant.  That is not how student loans are funded in any sense.
+
+### 485: [Michael Jackson did a concert in Seoul in 1996 and a fan climbed the crane up to him. MJ held him tightly to prevent him from falling, all while performing Earth Song](https://old.reddit.com/r/ImTheMainCharacter/comments/11eswdg/michael_jackson_did_a_concert_in_seoul_in_1996/), submitted on 2023-03-01 11:26:19+08:00.
+
+----- __485.1__ -----2023-03-01 21:53:25+08:00:
+
+I doubt that was what MJ was thinking.  He was probably worried that the show would stop if the fan fell from the platform.
+
+### 486: [Chicago Mayor Lori Lightfoot will lose reelection bid, CNN projects, as crime concerns grow | CNN Politics](https://old.reddit.com/r/stupidpol/comments/11etxvm/chicago_mayor_lori_lightfoot_will_lose_reelection/), submitted on 2023-03-01 12:16:48+08:00.
+
+----- __486.1__ -----2023-03-01 22:06:42+08:00:
+
+> I found public transport in Chicago much better than most other major American cities. The downtown districts felt safer compared to other cities I’ve lived in like DC or London.
+
+That was true in 2019.  Since then, things have gone downhill.
+
+----- __486.2__ -----2023-03-01 22:08:24+08:00:
+
+> If you took like half the punditry seriously last night, you would think Vallas was running on making chicago a white minority rule city a la South Africa, some sort of PW Botha with ethnic characteristics.
+
+Those "perspectives" can't be taken seriously, but I agree with your analysis of how the mayoral race has been covered.
+
+----- __486.3__ -----2023-03-01 22:22:52+08:00:
+
+I watched some of the coverage, but it was too stupid to even keep playing in the background.  
+
+Lori Lightfoot's problem is that she is incompetent and dispositionally ill-suited to hold executive responsibility.  I voted for her because I thought, at the time, she would be less worse than Preckwinkle.  But I was very wrong.
+
+----- __486.4__ -----2023-03-01 22:35:13+08:00:
+
+I think you're 100% correct on all counts. 
+
+> she is an incompetent moron who holed up for the past 36 months while the city went to shit
+
+As a voter, I can confirm this.
+
+### 487: [China spends billions on pro-Russia disinformation, US special envoy says | China](https://old.reddit.com/r/Disinfo/comments/11ew2gh/china_spends_billions_on_prorussia_disinformation/), submitted on 2023-03-01 14:08:12+08:00.
+
+----- __487.1__ -----2023-03-01 14:48:01+08:00:
 
 Excellent article.
 
