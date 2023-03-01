@@ -181,7 +181,7 @@ Re @shenliangqing2 @JianglinLi @RealBeiMing @ngexp @Wu_Zhi 你这倒提醒了我
 
 ### 42: [2022-06-28 22:52:24+08:00 推文](https://twitter.com/HeQinglian/status/1541796662078750720)
 
-如果是说北京要从俄乌战争中吸取教训，百分之百正确，资源依赖过高的国家在战争状态中处于不利地位，而中国资源对外依赖过高。<br>和平年代是买方市场，大买方有话事权；战争年代供方一咬牙，将买方市场扭转成卖方市场，对方喉咙就被捏住。6月15日俄宣布因技术原因减少供应，烧柴论包括什么都烧论就出来了
+如果是说北京要从俄乌战争中吸取教训，百分之百正确，资源依赖过高的国家在战争状态中处于不利地位，而中国资源对外依赖过高。<br>和平年代是买方市场，大买方有话事权；战争年代供方一咬牙，将买方市场扭转成卖方市场，对方喉咙就被捏住。6月15日俄宣布因技术原因减少供应，烧柴论包括什么都烧论就出来了<br><br>RFI 华语 - 法国国际广播电台: 澳大利亚总理: 北京要从普京的错误中吸取教训<br><br><img style="" src="https://pbs.twimg.com/media/FWVvNFVUIAAsWmB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8XRF.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8XRF.t</a>
 
 ### 43: [2022-06-28 23:44:28+08:00 推文](https://twitter.com/HeQinglian/status/1541809767643070464)
 
@@ -365,7 +365,7 @@ Re @JianglinLi @sorrymaoli 你太乐观了，就在这几年。你我一定会�
 
 ### 88: [2022-06-30 23:32:37+08:00 推文](https://twitter.com/HeQinglian/status/1542531559223353345)
 
-估计今后两年内，美国国债将以每年15万-20万亿美元的速度增长。<br>日本、中国都在减持美国国债，其他国家也是同样做法。估计美财政部与美联储又得祭出“隔夜回购”，左手出，右手进的把戏。这把戏刚停止不久（不知是否真停止了）。
+估计今后两年内，美国国债将以每年15万-20万亿美元的速度增长。<br>日本、中国都在减持美国国债，其他国家也是同样做法。估计美财政部与美联储又得祭出“隔夜回购”，左手出，右手进的把戏。这把戏刚停止不久（不知是否真停止了）。<br><br>华尔街日报中文网: 美国将在欧洲进行数十年来规模最大的军事扩张，包括在波兰永久驻军；而北约则准备再让两个国家加入，以回应俄罗斯对乌克兰的入侵。拜登说，这一事态发展说明俄罗斯总统普京试图让北约大门关闭的做法已经失败。<br> <a href="https://on.wsj.com/3NuSfOs" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3NuSfOs</a>
 
 ### 89: [2022-07-01 01:08:24+08:00 推文](https://twitter.com/HeQinglian/status/1542555665150926848)
 
@@ -725,7 +725,7 @@ Re @RealBeiMing 好莱坞有一类鬼怪片，里面的鬼怪就是这样打扮�
 
 ### 178: [2022-07-03 19:37:17+08:00 推文](https://twitter.com/HeQinglian/status/1543559502095683587)
 
-拉斯穆森近日调查，还有42%支持拜登，图中这类人、经常洗劫商店的BLM与骄傲日裸体游行的人，加上75%以上的青年大学生，以及95%以上的NGO，就是拜登民主党的社会基础。这个社会基础培育多年，很难短期内消失。<br><br>Clown World ™ 🤡: <br><br><video src="https://video.twimg.com/ext_tw_video/1542979457585074177/pu/vid/606x1080/eFgmNpIyLY-U1PRy.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1542979457585074177/pu/img/K9J_B57yzYVK0C4n.jpg"></video>
+拉斯穆森近日调查，还有42%支持拜登，图中这类人、经常洗劫商店的BLM与骄傲日裸体游行的人，加上75%以上的青年大学生，以及95%以上的NGO，就是拜登民主党的社会基础。这个社会基础培育多年，很难短期内消失。 <a href="https://twitter.com/zt33268778/status/1543262704902848513" target="_blank" rel="noopener noreferrer">https://twitter.com/zt33268778/status/1543262704902848513</a>
 
 ### 179: [2022-07-03 19:44:02+08:00 推文](https://twitter.com/HeQinglian/status/1543561198909759488)
 

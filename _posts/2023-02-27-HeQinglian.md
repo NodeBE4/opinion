@@ -267,3 +267,23 @@ Re @zhixiangziyou 挺符合拜登政府去年4月宣布的国策：向全世界�
 
 Re @bo71531490 这种安排本来很好，比如二人成为竞选搭档。但是，RINO与民主党忍不住。
 
+### 64: [2023-03-01 08:18:58+08:00 推文](https://twitter.com/HeQinglian/status/1630724270321016833)
+
+Re @shenliangqing2 这在2020年时，推上某维律代表民主党与NGO通知所有人：凡支持川普，就不被视为人权人士，取消一切资助。
+
+### 65: [2023-03-01 08:34:13+08:00 推文](https://twitter.com/HeQinglian/status/1630728109057101824)
+
+NATO Expansion: What Gorbachev Heard<br>https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early <br>共计30个文件，就是备忘录。当然，不是中文的，自己慢慢看。<br>这是我第三次推送给你，去年劝你了解情况时一次，都附了尊推号，<br>@zhuxiuyuan<br>今天上午推送，你连打开都不肯。<div class="rsshub-quote"><br><br>竺修远律师: @Nobody197575 @HeQinglian 没有条约、备忘录等书面协议。<br></div>
+
+### 66: [2023-03-01 08:59:24+08:00 推文](https://twitter.com/HeQinglian/status/1630734448818806785)
+
+Re @zhuxiuyuan 你现在承认有过约定了？<br>其实，江琳有句话说得好，每有大事发生，有些人（多数人）忙于跳脚站队，一些人想了解事情是如何发生的。<br>我是后一种。有种人想站队，但要表现得仿佛很理性，说自己查过资料。<br>希望你不是后一种。
+
+### 67: [2023-03-01 09:01:32+08:00 推文](https://twitter.com/HeQinglian/status/1630734985769492480)
+
+Re @mingshi_chen 那倒不是，欧盟将成为今年中美争夺的重点。毕竟，欧美已经互为第一大贸易伙伴，欧盟为中国提供了4000多亿美元的顺差，占中国贸易顺差的一半左右。
+
+### 68: [2023-03-01 09:59:07+08:00 推文](https://twitter.com/HeQinglian/status/1630749476338974723)
+
+Re @zhuxiuyuan @DK78701252 @Nobody197575 请不要@给我了。<br>对你是新发现，对我而言，我看过不少文章，美国许多冷 战专家与地缘政治研究专家都对此没有异议。我对这种铁板钉钉的事情，不认为加进你的讨论会有什么改变。
+
