@@ -111,6 +111,14 @@ If people won't comply, the intervention won't work.  No matter what it is.
 
 This is a big problem with prescription drugs.
 
+----- __482.10__ -----2023-03-01 11:37:05+08:00:
+
+> Savage_XPfizer -1 points 7 hours ago 
+>
+> And we are still banning people and even mods, lol.
+
+Yes, including mods.  Or former mods, as in this case.
+
 ### 483: [No tops are allowed in the fitting room](https://old.reddit.com/r/SuddenlyGay/comments/11dkawl/no_tops_are_allowed_in_the_fitting_room/), submitted on 2023-02-28 03:23:05+08:00.
 
 ----- __483.1__ -----2023-02-28 13:36:56+08:00:
