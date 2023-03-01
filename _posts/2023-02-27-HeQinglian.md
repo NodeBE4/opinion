@@ -33,7 +33,7 @@ Re @uo7ZC09z6QEAOfd @shenliangqing2 基本如此。更大的问题是他们不�
 
 ### 5: [2023-02-27 02:42:32+08:00 推文](https://twitter.com/HeQinglian/status/1629914829090635781)
 
-最新Rasmussen Reports ，46% 的受访者认为乌战基本处于僵持状态，高于 12 月的 38%。19% 的受访者认为俄罗斯正在赢得乌战, 21%认为乌克兰获胜，低于 12 月份的 32%。有 14% 的人不确定谁赢。https://www.rasmussenreports.com/public_content/politics/biden_administration/ukraine_46_see_war_as_stalemate_after_a_year<br>经济学人这篇文章的结论太迟了。事实上多极世界已现雏形——一鲸落，万物生。 https://twitter.com/KELMAND1/status/1629727091796357126<div class="rsshub-quote"><br><br>Ezio Mao☢: 《经济学人》：乌克兰的命运将成为西方在国际体系中地缘政治地位和影响力的重要决定因素。<br><br>冲突的结果在这件事上将是决定性的—如果基辅输了，那么西方对世界政治影响力的削弱将变得显而易见。在美国及其仆从国在中东遭遇失败之后，许多人开始怀疑西方的力量。 https://t.co/ccK0JAFV47<br><br><img style="" src="https://pbs.twimg.com/media/Fp3yp6XaYAE7GoK?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
+最新Rasmussen Reports ，46% 的受访者认为乌战基本处于僵持状态，高于 12 月的 38%。19% 的受访者认为俄罗斯正在赢得乌战, 21%认为乌克兰获胜，低于 12 月份的 32%。有 14% 的人不确定谁赢。https://www.rasmussenreports.com/public_content/politics/biden_administration/ukraine_46_see_war_as_stalemate_after_a_year<br>经济学人这篇文章的结论太迟了。事实上多极世界已现雏形——一鲸落，万物生。<div class="rsshub-quote"><br><br>Ezio Mao☢: 《经济学人》：乌克兰的命运将成为西方在国际体系中地缘政治地位和影响力的重要决定因素。<br><br>冲突的结果在这件事上将是决定性的—如果基辅输了，那么西方对世界政治影响力的削弱将变得显而易见。在美国及其仆从国在中东遭遇失败之后，许多人开始怀疑西方的力量。 https://t.co/ccK0JAFV47<br><br><img style="" src="https://pbs.twimg.com/media/Fp3yp6XaYAE7GoK?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 6: [2023-02-27 22:19:01+08:00 推文](https://twitter.com/HeQinglian/status/1630210900849246209)
 
@@ -77,7 +77,7 @@ Re @qihang19211 我未使用中国居民负债金额这个概念。<br>文中说
 
 ### 16: [2023-02-28 05:28:48+08:00 推文](https://twitter.com/HeQinglian/status/1630319059936899072)
 
-一战爆发后，列宁写了数篇文章，《革命的社会民主党在欧洲大战中的任务》（即“关于战争的提纲”），并以此为基础写了《战争和俄国社会民主党》。这两篇文献确定了这场战争的性质：资产阶级、帝国主义、王朝战争的性质，是非正义的。列宁提出“变帝国主义战争为国内战争”的口号，反沙俄的内战是正义的。<div class="rsshub-quote"><br><br>He Qinglian: @zhuxiuyuan 你独独忘记了《明斯克协议》，现在默克尔都承认当初签订时并未打算遵守，只是希望赢得时间壮大乌克兰的军事实力。<br>建议你学学美国智库的地缘政治理论，从布热津斯基开始，否则这辈子都只会列宁的战争正义-非正义论。<br></div>
+一战爆发后，列宁写了数篇文章，《革命的社会民主党在欧洲大战中的任务》（即“关于战争的提纲”），并以此为基础写了《战争和俄国社会民主党》。这两篇文献确定了这场战争的性质：资产阶级、帝国主义、王朝战争的性质，是非正义的。列宁提出“变帝国主义战争为国内战争”的口号，反沙俄的内战是正义的。 https://twitter.com/HeQinglian/status/1630225930181328896<div class="rsshub-quote"><br><br>He Qinglian: @zhuxiuyuan 你独独忘记了《明斯克协议》，现在默克尔都承认当初签订时并未打算遵守，只是希望赢得时间壮大乌克兰的军事实力。<br>建议你学学美国智库的地缘政治理论，从布热津斯基开始，否则这辈子都只会列宁的战争正义-非正义论。<br></div>
 
 ### 17: [2023-02-28 05:32:44+08:00 推文](https://twitter.com/HeQinglian/status/1630320048488214529)
 
@@ -374,4 +374,44 @@ Re @eGUAbe2V7j26GHw @Captxueinshai 我认识的上海男子不想娶外地姑娘
 ### 90: [2023-03-02 04:21:32+08:00 推文](https://twitter.com/HeQinglian/status/1631026905976565762)
 
 Re @Trumpwon008 @Isabel_3299 川普支持者当中，希望不要全是你这种。
+
+### 91: [2023-03-02 04:26:48+08:00 推文](https://twitter.com/HeQinglian/status/1631028232983126016)
+
+Re @KELMAND1 标普已经预测，今年前两季度美国GDP增速将下滑，后两季度回升，全年GDP增速为0.3%。<br>中国的经济情况，1、2月肯定不会非常理想，疫情、春节休假均是因素。3月份以后，可看第一季度的投资率、消费率。PMI是个前导指标。
+
+### 92: [2023-03-02 04:35:38+08:00 推文](https://twitter.com/HeQinglian/status/1631030457964830727)
+
+Re @richard20211212 这我还真不知道。不过数量不大，影响也不大。
+
+### 93: [2023-03-02 04:44:00+08:00 推文](https://twitter.com/HeQinglian/status/1631032561211252738)
+
+Re @Wu_Zhi 拜登政府的福利政策，包括民主党州的福利政策，都很奇葩。Oregon要给Homeless每月发千刀，耶伦说支持乌克兰，要减少4500万人的食物券发放并降低贫困补助数额——这都是民主党的票仓。这里面有什么我们猜不到的把戏？
+
+### 94: [2023-03-02 04:58:36+08:00 推文](https://twitter.com/HeQinglian/status/1631036234574249984)
+
+Re @richard20211212 我刚才数据上犯糊涂了。以为是12.2亿。<br>如果是这么大的数额，应该在统计之内，银行支付系统应该会有结算。<br>东盟的连中间产品都单独做了统计——东盟其实就是组装，为避税的技巧。
+
+### 95: [2023-03-02 05:06:12+08:00 推文](https://twitter.com/HeQinglian/status/1631038148460380161)
+
+Re @richard20211212 银行的外汇收支，有专门的统计，单独列表，逐月上报，月结延迟一月。
+
+### 96: [2023-03-02 05:17:38+08:00 推文](https://twitter.com/HeQinglian/status/1631041024985317378)
+
+Re @richard20211212 我谈的是统计类别，不是你讲的生产类别。<br>去年中日贸易减少，看起来日本比较实在，说制裁就真制裁，减少芯片出口。<br>过两天，我具体计算时，再看看有什么变化。
+
+### 97: [2023-03-02 05:18:35+08:00 推文](https://twitter.com/HeQinglian/status/1631041263947468805)
+
+Re @richard20211212 不管哪个帐号，银行都能统计，因为在银行那里，帐号没有公开与私下之分。
+
+### 98: [2023-03-02 05:20:45+08:00 推文](https://twitter.com/HeQinglian/status/1631041811522154499)
+
+Re @Wpattern @Wu_Zhi 你这种人死了，也是垃圾。
+
+### 99: [2023-03-02 05:28:57+08:00 推文](https://twitter.com/HeQinglian/status/1631043873211383808)
+
+这就得好好探究一下其中原因了。<div class="rsshub-quote"><br><br>《北美保守评论》: 📍美国的教会正在衰落之中，在美国每周平均有86座新教教堂关闭，那是一天12间，田纳西州纳什维尔的 LifeWay https://youtu.be/CZV08xO4MEU… https://twitter.com/i/web/status/1631042652983504896 https://t.co/BWbVfcuUvm<br><br><video src="https://video.twimg.com/amplify_video/1631042621119295488/vid/888x494/_UaVw5MUM8QwPV84.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1631042621119295488/img/EizSWMbuB5JgrcTZ.jpg"></video></div>
+
+### 100: [2023-03-02 06:02:06+08:00 推文](https://twitter.com/HeQinglian/status/1631052216680235008)
+
+Re @richard20211212 我刚才重新看了这个推，前面数量很小，突然进入【2022年中国跨境电商销售额约12.2万亿人民币】，应该与疫情期间购物方式剧烈改变有关，本人都有不少网购。<br>由此想到过去一些测度中国进出口贸易状态的方式得改改了，比如中国出口的港口集装箱的空置率，不能作重要参考指标了，电商的出口应该是分散的
 
