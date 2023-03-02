@@ -28,7 +28,7 @@ Russia and Ukraine are not unique in this regard, for ideological belief explain
 
 **From Matt Pottinger, Matthew Johnson, and David Feith:** "At the party congress, Xi was granted a third term as the CCP’s top leader—an unprecedented development in the contemporary era and a crucial step in his effort to centralize authority. But perhaps even more significant was the way the congress served to codify a worldview that Xi has been developing over the past decade in carefully crafted official party communications: Chinese-language speeches, documentaries, and textbooks, many of which Beijing deliberately mistranslates for foreign audiences, when it translates them at all. These texts dispel much of the ambiguity that camouflages the regime’s aims and methods and offer a window into Xi’s ideology and motivations: a deep fear of subversion, hostility toward the United States, sympathy with Russia, a desire to unify mainland China and Taiwan, and, above all, confidence in the ultimate victory of communism over the capitalist West. The end state he is pursuing requires the remaking of global governance. His explicit objective is to replace the modern nation-state system with a new order featuring Beijing at its pinnacle."
 
-### 321: [Xi Jinping in His Own Words](https://old.reddit.com/r/TrueReddit/comments/zawu83/xi_jinping_in_his_own_words/), submitted on 2022-12-03 04:35:11+08:00.
+### 321: [[deleted by user]](https://old.reddit.com/r/TrueReddit/comments/zawu83/deleted_by_user/), submitted on 2022-12-03 04:35:11+08:00.
 
 ----- __321.1__ -----2022-12-03 04:35:56+08:00:
 
