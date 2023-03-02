@@ -175,3 +175,50 @@ As a voter, I can confirm this.
 
 Excellent article.
 
+### 488: [I worked hard on this essay and got it peer reviewed. The professor didn't even read the whole thing.](https://old.reddit.com/r/college/comments/11f4ake/i_worked_hard_on_this_essay_and_got_it_peer/), submitted on 2023-03-01 21:51:44+08:00.
+
+----- __488.1__ -----2023-03-02 11:46:38+08:00:
+
+Former professor here.  I read the [prompt](https://www.reddit.com/r/college/comments/11f4ake/i_worked_hard_on_this_essay_and_got_it_peer/jahzpp9/?context=3).  This "feedback" appeared to be meaningless when I first reviewed it.  Now having read the prompt, I assume your professor is an idiot.  Whether you wrote a good essay or not is irrelevant at this point.  The individual teaching your class does not appear to be equipped to teach it.  
+
+And what kind of class is this, anyway?  How to be woke 101?
+
+----- __488.2__ -----2023-03-02 11:55:54+08:00:
+
+> I may need to speak with my advisor or the dean.
+
+The dean isn't going to take your side.  They never do.  They always side with the university, unless you belong to a protected class.
+
+----- __488.3__ -----2023-03-02 11:59:13+08:00:
+
+This class clearly is not a lab science.  And "discussion" cannot be graded impartially.
+
+----- __488.4__ -----2023-03-02 12:00:31+08:00:
+
+I assume this is your multi-account.  DM Me if you want.
+
+----- __488.5__ -----2023-03-02 12:02:42+08:00:
+
+> It is fine to stop reading after 2-3 pages, if the entire paper clearly needs overhauling.
+
+If.
+
+----- __488.6__ -----2023-03-02 12:14:08+08:00:
+
+> This is a professor that actually cares and is giving you another opportunity. 
+
+Former professor here.  I strongly disagree with your analysis.  
+
+This is a course that focuses on political issues, as clearly set forth [by the prompt](https://www.reddit.com/r/college/comments/11f4ake/i_worked_hard_on_this_essay_and_got_it_peer/jahzpp9/?context=3).  
+
+Your comment assumes the essay was poor.  This would be a fair assumption, for most undergraduates (and graduate students).  But it is an irrelevant assumption here.
+
+Here is why your assumptions are wrong:
+
+1. The "professor" identifies no specific fault with the content, structure or layout of the paper.  Instead, the professor references pedantic usage issues (that may or may not exist), without identifying them.  It is not even clear the professor correctly identified the issue, present in the paper. 
+2. The professor complains about editing, while failing to cite a single specific example beyond No. 1.  The paper could have been replete with typeos, citation errors and the like.  Or it might have had three total typeos across the sum of the pages the professor claims to have "read."  The scale cannot be ascertained from this incoherent "feedback."  
+3. The "deal" is not specified.  Clearly there was no meeting of the minds, when the "professor" can't even recite what the expected obligation was.  This looks like arbitrary "I don't like this so fuck off" type feedback.  Which I assume it was, based, again, on the context of the prompt. 
+4. "Fully engaged" is a bullshit term that incompetent people use, when they want someone to fail but want to appear like they're encouraging someone to become successful.  If you see that on a performance review, it's time to look for a new job because no matter the degree of your effort someone has it out for you.
+
+It is beyond obvious many commenters here simply have not had the experience of dealing with people like this kid's professor.
+

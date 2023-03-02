@@ -341,7 +341,7 @@ Re @suwoluofu123 @JiangShangrong 挺麻烦的，干脆逢俄必裁，连果戈�
 
 ### 82: [2022-06-10 22:58:21+08:00 推文](https://twitter.com/HeQinglian/status/1535275179059863555)
 
-这个视频挺传神地表明了西方人富、闲兼备，无聊之极，想方设法找难受的社会倾向：蚂蚁不来咬，想方设法让蚂蚁上身。
+这个视频挺传神地表明了西方人富、闲兼备，无聊之极，想方设法找难受的社会倾向：蚂蚁不来咬，想方设法让蚂蚁上身。<br><br>Unitiger Life: 💥🦟Just plug it in and start enjoying your backyard! Keep mosquitoes and flies away from your family!😎<br><br>Get yours👉<br><br><video src="https://video.twimg.com/amplify_video/1522144356282793985/vid/640x640/Ali9h5W-AoLl9l31.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1522144356282793985/img/Sb4grEYNyfOPmpfA.jpg"></video> <a href="http://www.unitiger.co/E2546" target="_blank" rel="noopener noreferrer">http://www.unitiger.co/E2546</a>
 
 ### 83: [2022-06-10 23:00:14+08:00 推文](https://twitter.com/HeQinglian/status/1535275651984510976)
 
