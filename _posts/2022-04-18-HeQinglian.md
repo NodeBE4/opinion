@@ -845,7 +845,7 @@ Re @JianglinLi @Wu_Zhi @JiangShangrong 连自己都没照亮。<br>记得有位U
 
 ### 208: [2022-04-23 00:53:01+08:00 推文](https://twitter.com/HeQinglian/status/1517547030146600965)
 
-[欧盟委员会周五表示，如果欧盟公司以欧元或美元支付，然后将其兑换成俄罗斯货币，那么它们可能能够解决俄罗斯要求以卢布支付天然气的要求，而不会违反制裁。]<br>路透还有一条，英国允许本国公司购买俄能源到5月31日。<br>自己撒落的一地鸡毛，一片一片捡吧。<br><br>Reuters: EU says gas payments may be possible under Russian roubles proposal without breaching sanctions<br><br><img style="" src="https://pbs.twimg.com/media/FQ9PUVfXwAAdBc4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="http://reut.rs/3KadHGC" target="_blank" rel="noopener noreferrer">http://reut.rs/3KadHGC</a>
+[欧盟委员会周五表示，如果欧盟公司以欧元或美元支付，然后将其兑换成俄罗斯货币，那么它们可能能够解决俄罗斯要求以卢布支付天然气的要求，而不会违反制裁。]<br>路透还有一条，英国允许本国公司购买俄能源到5月31日。<br>自己撒落的一地鸡毛，一片一片捡吧。
 
 ### 209: [2022-04-23 00:55:41+08:00 推文](https://twitter.com/HeQinglian/status/1517547703382724609)
 
@@ -973,7 +973,7 @@ Re @JianglinLi @Wu_Zhi 好象正主儿们都没欢庆吧？<br>对双方而言�
 
 ### 240: [2022-04-24 21:37:06+08:00 推文](https://twitter.com/HeQinglian/status/1518222501918224385)
 
-感言：<br>The media has always been the best friend of those who are willing to believe them.（媒体从来都是那些愿意相信它们的人的好朋友）。<br>Guadian这篇评论文章惹祸了，因为它预测普京要赢。🤣失去民心失订户。<br><br>Junson Chan 🇺🇸: The guardian is now saying Putin may win in the Ukraine. <br><br>People are stupid though, they'll always believe the media, never questioning ever "hey, these idiots have always lied and been wrong, what does that make me?"<br> <a href="https://www.theguardian.com/world/2022/apr/24/the-awful-truth-is-dawning-putin-may-win-in-ukraine-the-result-would-be-catastrophe" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/world/2022/apr/24/the-awful-truth-is-dawning-putin-may-win-in-ukraine-the-result-would-be-catastrophe</a>
+感言：<br>The media has always been the best friend of those who are willing to believe them.（媒体从来都是那些愿意相信它们的人的好朋友）。<br>Guadian这篇评论文章惹祸了，因为它预测普京要赢。🤣失去民心失订户。
 
 ### 241: [2022-04-24 21:45:34+08:00 推文](https://twitter.com/HeQinglian/status/1518224635225161730)
 

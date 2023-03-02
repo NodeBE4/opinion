@@ -29,11 +29,11 @@ Re https://t.co/kaatc091nt<br><img style="" src="https://pbs.twimg.com/media/Fp6
 
 ### 4: [2023-03-01 09:53:47+08:00 推文](https://twitter.com/realcaixia/status/1630748134484897792)
 
-他的这首歌我很喜欢。每个人都会有恐惧，我们如果正视并战胜内心的恐惧感，我们看未来就有希望，而不会让失望乃至绝望压倒自己，从而使自己绽放出更多的生命活力和生命的光彩。 https://twitter.com/geleilaoshi/status/1630414862349217796<div class="rsshub-quote"><br><br>Grey: 在路上有點累，但我想堅持寫歌，也讓我自己鼓舞起來，面對恐懼。 https://t.co/kTNoBdyVMt<br><br><video src="https://video.twimg.com/ext_tw_video/1630414454654468096/pu/vid/720x1280/IIcC1OPmY2QDS2KF.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1630414454654468096/pu/img/tN8acFv2gl1nP0CB.jpg"></video></div>
+他的这首歌我很喜欢。每个人都会有恐惧，我们如果正视并战胜内心的恐惧感，我们看未来就有希望，而不会让失望乃至绝望压倒自己，从而使自己绽放出更多的生命活力和生命的光彩。<div class="rsshub-quote"><br><br>Grey: 在路上有點累，但我想堅持寫歌，也讓我自己鼓舞起來，面對恐懼。 https://t.co/kTNoBdyVMt<br><br><video src="https://video.twimg.com/ext_tw_video/1630414454654468096/pu/vid/720x1280/IIcC1OPmY2QDS2KF.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1630414454654468096/pu/img/tN8acFv2gl1nP0CB.jpg"></video></div>
 
 ### 5: [2023-03-01 10:36:57+08:00 推文](https://twitter.com/realcaixia/status/1630758997128011779)
 
-致敬姚先生！十年被迫害，老 先生依然气质高雅，凛凛正气。充分显示老先生十年坚持风骨气节，保持尊严，挺立于天地之间！<div class="rsshub-quote"><br><br>Bao Pu 鮑樸: 在大陸冤獄10年的香港「晨鐘出版社」出版人姚文田先生（右二）2023年2月27日終於「刑滿」出獄。左三是姚夫人。 https://t.co/V3ksmrcO59<br><br><img style="" src="https://pbs.twimg.com/media/FqDeAo6aIAAW5TO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+致敬姚先生！十年被迫害，老 先生依然气质高雅，凛凛正气。充分显示老先生十年坚持风骨气节，保持尊严，挺立于天地之间！ https://twitter.com/NewCenturyBaopu/status/1630548083632402439<div class="rsshub-quote"><br><br>Bao Pu 鮑樸: 在大陸冤獄10年的香港「晨鐘出版社」出版人姚文田先生（右二）2023年2月27日終於「刑滿」出獄。左三是姚夫人。 https://t.co/V3ksmrcO59<br><br><img style="" src="https://pbs.twimg.com/media/FqDeAo6aIAAW5TO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 6: [2023-03-01 11:18:53+08:00 推文](https://twitter.com/realcaixia/status/1630769550923841539)
 
@@ -49,15 +49,15 @@ Re https://t.co/z96hhSQ4Y2<br><img style="" src="https://pbs.twimg.com/media/FqG
 
 ### 9: [2023-03-02 01:42:31+08:00 推文](https://twitter.com/realcaixia/status/1630986890898989056)
 
-我同意韩先生的看法。我细读了两遍刘亚洲先生的文章，我很认同这篇文章，尽管我并不完全认同刘亚洲将军其他的观点。<br>习近平担心控制不了军队，以年龄为由迫使刘晓江、刘源、刘亚洲退役。<br>三位上将中，刘亚洲很有独立思想和很强的表达能力。习为了能全部控制军队，以莫须有罪名置刘亚洲死地。 https://twitter.com/lianchaohan/status/1630378407853735936<div class="rsshub-quote"><br><br>韩连潮: 社會只存在著一個思想，那就是君主的思想。只存在著一個聲音，那就是君主的聲音。在一個國家，某種思想一旦成為「惟一」，而且「法定」，這個民族就休想再有什麼想像力和靈性了<br>--刘亚洲：甲申年再祭<br>刘亚洲看透了中国帝王人治社会本质，他的观点直接威胁习近平独裁，习要用莫须有罪名置他于死地。 https://t.co/UwY6fJHXud<br><br><img style="" src="https://pbs.twimg.com/media/FqBEhZzWAAEqj0b?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+我同意韩先生的看法。我细读了两遍刘亚洲先生的文章，我很认同这篇文章，尽管我并不完全认同刘亚洲将军其他的观点。<br>习近平担心控制不了军队，以年龄为由迫使刘晓江、刘源、刘亚洲退役。<br>三位上将中，刘亚洲很有独立思想和很强的表达能力。习为了能全部控制军队，以莫须有罪名置刘亚洲死地。<div class="rsshub-quote"><br><br>韩连潮: 社會只存在著一個思想，那就是君主的思想。只存在著一個聲音，那就是君主的聲音。在一個國家，某種思想一旦成為「惟一」，而且「法定」，這個民族就休想再有什麼想像力和靈性了<br>--刘亚洲：甲申年再祭<br>刘亚洲看透了中国帝王人治社会本质，他的观点直接威胁习近平独裁，习要用莫须有罪名置他于死地。 https://t.co/UwY6fJHXud<br><br><img style="" src="https://pbs.twimg.com/media/FqBEhZzWAAEqj0b?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 10: [2023-03-02 02:07:03+08:00 推文](https://twitter.com/realcaixia/status/1630993063345782784)
 
-这场讨论有些深度，但还是有相当的局限性。当然，所有的会议在有限的时间里，都只能讨论有限的问题。<br>相比较而言，与其说提出的问题具有一些深度，莫不如说会议打开了思考问题更开阔的思想空间，并具有将问题引向深处的学术潜力。<br>几位讲者在自由发言时段中的回复性发言，涵义丰富而更深，值得接续讨论 https://twitter.com/chinatransition/status/1630627933286027264<div class="rsshub-quote"><br><br>中国民主转型研究所: 习近平最近提出所谓＂中国式现代化＂。如何看待中国的现代化？现代化理论是否适用于中国？所谓＂中国模式＂是否走到了尽头？以＂中国式现代化＂对抗民主化是否会成功？<br>为此我们举行了＂反现代化的现代化＂研讨会，感谢与会欧美、华人专家精彩发言，欢迎观看以下全程视频 https://m.youtube.com/watch?v=dXZOitJ-JXY&amp;t=3360s<br></div>
+这场讨论有些深度，但还是有相当的局限性。当然，所有的会议在有限的时间里，都只能讨论有限的问题。<br>相比较而言，与其说提出的问题具有一些深度，莫不如说会议打开了思考问题更开阔的思想空间，并具有将问题引向深处的学术潜力。<br>几位讲者在自由发言时段中的回复性发言，涵义丰富而更深，值得接续讨论<div class="rsshub-quote"><br><br>中国民主转型研究所: 习近平最近提出所谓＂中国式现代化＂。如何看待中国的现代化？现代化理论是否适用于中国？所谓＂中国模式＂是否走到了尽头？以＂中国式现代化＂对抗民主化是否会成功？<br>为此我们举行了＂反现代化的现代化＂研讨会，感谢与会欧美、华人专家精彩发言，欢迎观看以下全程视频 https://m.youtube.com/watch?v=dXZOitJ-JXY&amp;t=3360s<br></div>
 
 ### 11: [2023-03-02 09:37:10+08:00 推文](https://twitter.com/realcaixia/status/1631106341614895105)
 
-任志强先生会被很多人记住，会被历史记住。任志强先生是中共体制内反对中共政权极权专制统治的良知者与大勇者的代表。任志强也是红二代中反对极权统治，真心推进宪政、推动中国走向自由民主的代表性人物。 https://twitter.com/543dom_/status/1630753827392565249<div class="rsshub-quote"><br><br>正視歷史▪️傳播真相🇺🇸: 好像都沒人記得他了☹️☹️☹️<br><br>他本可以對這個黑暗的社會視而不見，安享晚年，可他卻選擇了在嚴冬裡為我們抱薪而被判18年，他在為10億韭菜坐牢，他不該被遺忘。<br><br>完整版鏈接：<br>https://youtu.be/47z7QlWHlWc<br><br>#任志強 #任大炮 我們的社會責任是把面前的墻推倒，建立我們的民主制度。 https://t.co/jnSNRDX3XO<br><br><video src="https://video.twimg.com/ext_tw_video/1630751216077615104/pu/vid/640x360/8-3iWtulZ6UPAFzj.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1630751216077615104/pu/img/ytgT7FRvdsi-G1mk.jpg"></video></div>
+任志强先生会被很多人记住，会被历史记住。任志强先生是中共体制内反对中共政权极权专制统治的良知者与大勇者的代表。任志强也是红二代中反对极权统治，真心推进宪政、推动中国走向自由民主的代表性人物。<div class="rsshub-quote"><br><br>正視歷史▪️傳播真相🇺🇸: 好像都沒人記得他了☹️☹️☹️<br><br>他本可以對這個黑暗的社會視而不見，安享晚年，可他卻選擇了在嚴冬裡為我們抱薪而被判18年，他在為10億韭菜坐牢，他不該被遺忘。<br><br>完整版鏈接：<br>https://youtu.be/47z7QlWHlWc<br><br>#任志強 #任大炮 我們的社會責任是把面前的墻推倒，建立我們的民主制度。 https://t.co/jnSNRDX3XO<br><br><video src="https://video.twimg.com/ext_tw_video/1630751216077615104/pu/vid/640x360/8-3iWtulZ6UPAFzj.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1630751216077615104/pu/img/ytgT7FRvdsi-G1mk.jpg"></video></div>
 
 ### 12: [2023-03-02 10:04:19+08:00 推文](https://twitter.com/realcaixia/status/1631113172701659142)
 
