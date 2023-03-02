@@ -29,7 +29,7 @@ Re https://t.co/kaatc091nt<br><img style="" src="https://pbs.twimg.com/media/Fp6
 
 ### 4: [2023-03-01 09:53:47+08:00 推文](https://twitter.com/realcaixia/status/1630748134484897792)
 
-他的这首歌我很喜欢。每个人都会有恐惧，我们如果正视并战胜内心的恐惧感，我们看未来就有希望，而不会让失望乃至绝望压倒自己，从而使自己绽放出更多的生命活力和生命的光彩。 https://twitter.com/geleilaoshi/status/1630414862349217796<div class="rsshub-quote"><br><br>Grey: 在路上有點累，但我想堅持寫歌，也讓我自己鼓舞起來，面對恐懼。 https://t.co/kTNoBdyVMt<br><br><video src="https://video.twimg.com/ext_tw_video/1630414454654468096/pu/vid/720x1280/IIcC1OPmY2QDS2KF.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1630414454654468096/pu/img/tN8acFv2gl1nP0CB.jpg"></video></div>
+他的这首歌我很喜欢。每个人都会有恐惧，我们如果正视并战胜内心的恐惧感，我们看未来就有希望，而不会让失望乃至绝望压倒自己，从而使自己绽放出更多的生命活力和生命的光彩。<div class="rsshub-quote"><br><br>Grey: 在路上有點累，但我想堅持寫歌，也讓我自己鼓舞起來，面對恐懼。 https://t.co/kTNoBdyVMt<br><br><video src="https://video.twimg.com/ext_tw_video/1630414454654468096/pu/vid/720x1280/IIcC1OPmY2QDS2KF.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1630414454654468096/pu/img/tN8acFv2gl1nP0CB.jpg"></video></div>
 
 ### 5: [2023-03-01 10:36:57+08:00 推文](https://twitter.com/realcaixia/status/1630758997128011779)
 
