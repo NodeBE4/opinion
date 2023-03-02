@@ -49,11 +49,11 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FWSJb9CXEAElwMm?format=jpg
 
 ### 9: [2022-06-28 09:44:03+08:00 推文](https://twitter.com/realcaixia/status/1541598267372339200)
 
-特别推荐:#议报独家首发蔡慎坤先生文章<br>这篇文章以大量详实的数据，分析了中国经济在后疫情时代面临的险恶情势，文章分析了生产、消费、房地产、地方政府债务、地方财政收入锐减、公务员大幅度减少绩效工资甚至拖欠公务员工资、失业人数增长、大企业减员等各个方面的情况。<br><br>《议报》: 蔡慎坤：后疫情时代中国经济何去何从？<br> <a href="https://yibaochina.com/?p=247033" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247033</a>
+特别推荐:#议报独家首发蔡慎坤先生文章<br>这篇文章以大量详实的数据，分析了中国经济在后疫情时代面临的险恶情势，文章分析了生产、消费、房地产、地方政府债务、地方财政收入锐减、公务员大幅度减少绩效工资甚至拖欠公务员工资、失业人数增长、大企业减员等各个方面的情况。
 
 ### 10: [2022-06-28 21:23:21+08:00 推文](https://twitter.com/realcaixia/status/1541774252550098946)
 
-这是我最近完成的一篇文章，比较长，有兴趣的朋友请耐心读完。我把习近平是如何诡诈修宪的过程做了分析，从中国宪法和立法法角度；从中共党自己的党章规定和中共党的制度规定，揭露习是如何违宪违法、违反中共党章和党内制度规定的。习近平2018修宪坑害了中共党，同时坑害了10多亿国人。
+这是我最近完成的一篇文章，比较长，有兴趣的朋友请耐心读完。我把习近平是如何诡诈修宪的过程做了分析，从中国宪法和立法法角度；从中共党自己的党章规定和中共党的制度规定，揭露习是如何违宪违法、违反中共党章和党内制度规定的。习近平2018修宪坑害了中共党，同时坑害了10多亿国人。<br><br>《议报》: 蔡霞 ：2018年春他打开了什么样的潘多拉魔盒？——习近平诡诈而狡蛮的修宪及其影响<br> <a href="https://yibaochina.com/?p=247040" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247040</a>
 
 ### 11: [2022-06-28 23:39:00+08:00 推文](https://twitter.com/realcaixia/status/1541808389797322753)
 
@@ -69,7 +69,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FWSJb9CXEAElwMm?format=jpg
 
 ### 14: [2022-06-29 11:41:22+08:00 推文](https://twitter.com/realcaixia/status/1541990179686289409)
 
-送老爷子远行，在老浦照片里看到几位极好的好朋友，他们去向老爷子作最后的告别。老爷子一生坎坷，一生坚守公平正义法治。历史将会记住他，我和我的朋友们会一生记住他。<br><br>浦志强: 老浦说点事：6月28日：八宝山送别张思之先生：限定20人，不许拍照，没致悼词，没读生平，我们送老爷子低调远行（附：《张思之先生生平》和《波尔基金...<br><br><img style="" src="https://pbs.twimg.com/media/FWYmuN0UAAAg3yT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWYmuOUUYAAWV-v?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWYmuO8UsAAVXv3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWYmuO8UEAA2UO-?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://youtu.be/pLCwc-i-Jms" target="_blank" rel="noopener noreferrer">https://youtu.be/pLCwc-i-Jms</a>
+送老爷子远行，在老浦照片里看到几位极好的好朋友，他们去向老爷子作最后的告别。老爷子一生坎坷，一生坚守公平正义法治。历史将会记住他，我和我的朋友们会一生记住他。
 
 ### 15: [2022-06-29 12:21:55+08:00 推文](https://twitter.com/realcaixia/status/1542000383782014978)
 
@@ -93,7 +93,7 @@ Re @drkimharry 看来我们见过？
 
 ### 20: [2022-06-29 21:10:33+08:00 推文](https://twitter.com/realcaixia/status/1542133419542454272)
 
-非常感谢这位推友，他（她）做了一个视频，很感谢🙏🌹🌹。
+非常感谢这位推友，他（她）做了一个视频，很感谢🙏🌹🌹。<br><br>Sayori: @realcaixia 蔡霞老师的这篇文章确实很长，已经截屏不知可否帮助到各位，谢谢👒<br><br><video src="https://video.twimg.com/ext_tw_video/1542048648753979392/pu/vid/592x1280/RIxcHwjF1UfISao6.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1542048648753979392/pu/img/dQ56qV-uzAWFXwXB.jpg"></video>
 
 ### 21: [2022-06-29 23:30:51+08:00 推文](https://twitter.com/realcaixia/status/1542168726618898432)
 
@@ -121,7 +121,7 @@ Re @Kk98721066 看明白了，警察开车从这走，检查核酸检测的工�
 
 ### 27: [2022-06-30 23:57:04+08:00 推文](https://twitter.com/realcaixia/status/1542537711881519105)
 
-看到这个推文所述老人的屈辱遭遇，简直令人无法平静平和。中共打手就是撒旦恶魔在中共一党极权统治制度下疯狂残害中国人！一党专政不灭，天理难容！
+看到这个推文所述老人的屈辱遭遇，简直令人无法平静平和。中共打手就是撒旦恶魔在中共一党极权统治制度下疯狂残害中国人！一党专政不灭，天理难容！<br><br>李承诺: 丹东93岁的大爷去开出门条。居委会说没病不开。大爷只好脱下长裤证明患了疝气。居委会报警说他耍流氓，警察就铐走老头。回来时脸上有伤，家属要看执法记录仪，警察说没有。老头一气之吊死了。<br>警察有必要把93岁路都走不动的老头铐走吗。<br>同一天，举国人民为国家摘掉星号欢呼，活像一群右派欢呼摘掉帽子<br><br><img style="" src="https://pbs.twimg.com/media/FWfaOvSagAAsNjI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 28: [2022-07-01 00:04:58+08:00 推文](https://twitter.com/realcaixia/status/1542539699667062788)
 
@@ -161,19 +161,19 @@ Re 中共党内奴性文化、阴谋文化是中共党性修养的本质内涵�
 
 ### 37: [2022-07-02 07:19:20+08:00 推文](https://twitter.com/realcaixia/status/1543011400871821312)
 
-香港上了一个以警察为业的特首，这和习越来越依赖于警察治国的总方针很吻合。作为警察，李家超几十年来在处置港人保护自由香港的抗争中忠实执行了北京意志，其表现令北京满意。否则，香港作为世界金融中心之一、世界自由贸易港、亚洲四小龙，怎么也轮不到李当特首。现在管香港，维稳第一，李家超正合适<br><br>自由亚洲电台: 【港新任特首李加超就职演说表情十足】<br>【惟台下观众多“闭目养神”】<br>于7月1日就任的香港特首李家超表就职演说。虽然李家超一改以往平实发言的风格，不时刻意调高嗓子，双眉、双眼与及口部动作亦明显比平时增多，但也未能得到台下观众注目。<br>13分钟演说里，台下有不少观众都呼呼入睡。<br><br>视频截图<br><br><img style="" src="https://pbs.twimg.com/media/FWkYJhYWQAE7UvT?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+香港上了一个以警察为业的特首，这和习越来越依赖于警察治国的总方针很吻合。作为警察，李家超几十年来在处置港人保护自由香港的抗争中忠实执行了北京意志，其表现令北京满意。否则，香港作为世界金融中心之一、世界自由贸易港、亚洲四小龙，怎么也轮不到李当特首。现在管香港，维稳第一，李家超正合适
 
 ### 38: [2022-07-02 07:25:34+08:00 推文](https://twitter.com/realcaixia/status/1543012970762043393)
 
-习近平在李家超就职演说时踏实睡觉了，就像文革后期曾经传说的毛泽东的六个字那样：“你办事我放心”。有枪在，有港版国安法在，还有李家超在。<br><br>浪得难受: @RFA_Chinese 你们不敢发，我来帮你们补一张。<br><br><img style="" src="https://pbs.twimg.com/media/FWkblU6UIAAFEPo?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+习近平在李家超就职演说时踏实睡觉了，就像文革后期曾经传说的毛泽东的六个字那样：“你办事我放心”。有枪在，有港版国安法在，还有李家超在。
 
 ### 39: [2022-07-02 20:50:01+08:00 推文](https://twitter.com/realcaixia/status/1543215415165435906)
 
-看到有几个推特都在推这个视频，跟着凑个热闹。
+看到有几个推特都在推这个视频，跟着凑个热闹。<br><br>官场观察工作室 昭明: 当年老江去香港时，到都是操着粤语的香港本地人到场欢迎，老江也能说一两句粤语，还能给大家表演一两段，老江倒是不怕暗杀，更没有把内地大陆的小粉红带到香港造假欢迎场面。<br><br><video src="https://video.twimg.com/ext_tw_video/1542857715051302912/pu/vid/608x480/usMiqB-2VmhsWMbo.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1542857715051302912/pu/img/hjzTjQ5uecHBptm9.jpg"></video>
 
 ### 40: [2022-07-02 21:32:49+08:00 推文](https://twitter.com/realcaixia/status/1543226187417354240)
 
-在转一个胡锦涛在香港的视频，是一个推友转发的Youtube上的。
+在转一个胡锦涛在香港的视频，是一个推友转发的Youtube上的。<br><br>Vicky Huang: @ZhaoMingObserve @Littlerize 看看當時影片 跟現在樣板完全不同<br> <a href="https://youtu.be/kxRYIrwnU_c" target="_blank" rel="noopener noreferrer">https://youtu.be/kxRYIrwnU_c</a>
 
 ### 41: [2022-07-02 22:18:52+08:00 推文](https://twitter.com/realcaixia/status/1543237776904175617)
 

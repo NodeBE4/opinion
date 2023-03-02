@@ -33,7 +33,7 @@ Re https://t.co/kaatc091nt<br><img style="" src="https://pbs.twimg.com/media/Fp6
 
 ### 5: [2023-03-01 10:36:57+08:00 推文](https://twitter.com/realcaixia/status/1630758997128011779)
 
-致敬姚先生！十年被迫害，老 先生依然气质高雅，凛凛正气。充分显示老先生十年坚持风骨气节，保持尊严，挺立于天地之间！ https://twitter.com/newcenturybaopu/status/1630548083632402439<div class="rsshub-quote"><br><br>Bao Pu 鮑樸: 在大陸冤獄10年的香港「晨鐘出版社」出版人姚文田先生（右二）2023年2月27日終於「刑滿」出獄。左三是姚夫人。 https://t.co/V3ksmrcO59<br><br><img style="" src="https://pbs.twimg.com/media/FqDeAo6aIAAW5TO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+致敬姚先生！十年被迫害，老 先生依然气质高雅，凛凛正气。充分显示老先生十年坚持风骨气节，保持尊严，挺立于天地之间！<div class="rsshub-quote"><br><br>Bao Pu 鮑樸: 在大陸冤獄10年的香港「晨鐘出版社」出版人姚文田先生（右二）2023年2月27日終於「刑滿」出獄。左三是姚夫人。 https://t.co/V3ksmrcO59<br><br><img style="" src="https://pbs.twimg.com/media/FqDeAo6aIAAW5TO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 6: [2023-03-01 11:18:53+08:00 推文](https://twitter.com/realcaixia/status/1630769550923841539)
 
@@ -49,15 +49,15 @@ Re https://t.co/z96hhSQ4Y2<br><img style="" src="https://pbs.twimg.com/media/FqG
 
 ### 9: [2023-03-02 01:42:31+08:00 推文](https://twitter.com/realcaixia/status/1630986890898989056)
 
-我同意韩先生的看法。我细读了两遍刘亚洲先生的文章，我很认同这篇文章，尽管我并不完全认同刘亚洲将军其他的观点。<br>习近平担心控制不了军队，以年龄为由迫使刘晓江、刘源、刘亚洲退役。<br>三位上将中，刘亚洲很有独立思想和很强的表达能力。习为了能全部控制军队，以莫须有罪名置刘亚洲死地。<div class="rsshub-quote"><br><br>韩连潮: 社會只存在著一個思想，那就是君主的思想。只存在著一個聲音，那就是君主的聲音。在一個國家，某種思想一旦成為「惟一」，而且「法定」，這個民族就休想再有什麼想像力和靈性了<br>--刘亚洲：甲申年再祭<br>刘亚洲看透了中国帝王人治社会本质，他的观点直接威胁习近平独裁，习要用莫须有罪名置他于死地。 https://t.co/UwY6fJHXud<br><br><img style="" src="https://pbs.twimg.com/media/FqBEhZzWAAEqj0b?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+我同意韩先生的看法。我细读了两遍刘亚洲先生的文章，我很认同这篇文章，尽管我并不完全认同刘亚洲将军其他的观点。<br>习近平担心控制不了军队，以年龄为由迫使刘晓江、刘源、刘亚洲退役。<br>三位上将中，刘亚洲很有独立思想和很强的表达能力。习为了能全部控制军队，以莫须有罪名置刘亚洲死地。 https://twitter.com/lianchaohan/status/1630378407853735936<div class="rsshub-quote"><br><br>韩连潮: 社會只存在著一個思想，那就是君主的思想。只存在著一個聲音，那就是君主的聲音。在一個國家，某種思想一旦成為「惟一」，而且「法定」，這個民族就休想再有什麼想像力和靈性了<br>--刘亚洲：甲申年再祭<br>刘亚洲看透了中国帝王人治社会本质，他的观点直接威胁习近平独裁，习要用莫须有罪名置他于死地。 https://t.co/UwY6fJHXud<br><br><img style="" src="https://pbs.twimg.com/media/FqBEhZzWAAEqj0b?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 10: [2023-03-02 02:07:03+08:00 推文](https://twitter.com/realcaixia/status/1630993063345782784)
 
-这场讨论有些深度，但还是有相当的局限性。当然，所有的会议在有限的时间里，都只能讨论有限的问题。<br>相比较而言，与其说提出的问题具有一些深度，莫不如说会议打开了思考问题更开阔的思想空间，并具有将问题引向深处的学术潜力。<br>几位讲者在自由发言时段中的回复性发言，涵义丰富而更深，值得接续讨论 https://twitter.com/chinatransition/status/1630627933286027264<div class="rsshub-quote"><br><br>中国民主转型研究所: 习近平最近提出所谓＂中国式现代化＂。如何看待中国的现代化？现代化理论是否适用于中国？所谓＂中国模式＂是否走到了尽头？以＂中国式现代化＂对抗民主化是否会成功？<br>为此我们举行了＂反现代化的现代化＂研讨会，感谢与会欧美、华人专家精彩发言，欢迎观看以下全程视频 https://m.youtube.com/watch?v=dXZOitJ-JXY&amp;t=3360s<br></div>
+这场讨论有些深度，但还是有相当的局限性。当然，所有的会议在有限的时间里，都只能讨论有限的问题。<br>相比较而言，与其说提出的问题具有一些深度，莫不如说会议打开了思考问题更开阔的思想空间，并具有将问题引向深处的学术潜力。<br>几位讲者在自由发言时段中的回复性发言，涵义丰富而更深，值得接续讨论<div class="rsshub-quote"><br><br>中国民主转型研究所: 习近平最近提出所谓＂中国式现代化＂。如何看待中国的现代化？现代化理论是否适用于中国？所谓＂中国模式＂是否走到了尽头？以＂中国式现代化＂对抗民主化是否会成功？<br>为此我们举行了＂反现代化的现代化＂研讨会，感谢与会欧美、华人专家精彩发言，欢迎观看以下全程视频 https://m.youtube.com/watch?v=dXZOitJ-JXY&amp;t=3360s<br></div>
 
 ### 11: [2023-03-02 09:37:10+08:00 推文](https://twitter.com/realcaixia/status/1631106341614895105)
 
-任志强先生会被很多人记住，会被历史记住。任志强先生是中共体制内反对中共政权极权专制统治的良知者与大勇者的代表。任志强也是红二代中反对极权统治，真心推进宪政、推动中国走向自由民主的代表性人物。<div class="rsshub-quote"><br><br>正視歷史▪️傳播真相🇺🇸: 好像都沒人記得他了☹️☹️☹️<br><br>他本可以對這個黑暗的社會視而不見，安享晚年，可他卻選擇了在嚴冬裡為我們抱薪而被判18年，他在為10億韭菜坐牢，他不該被遺忘。<br><br>完整版鏈接：<br>https://youtu.be/47z7QlWHlWc<br><br>#任志強 #任大炮 我們的社會責任是把面前的墻推倒，建立我們的民主制度。 https://t.co/jnSNRDX3XO<br><br><video src="https://video.twimg.com/ext_tw_video/1630751216077615104/pu/vid/640x360/8-3iWtulZ6UPAFzj.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1630751216077615104/pu/img/ytgT7FRvdsi-G1mk.jpg"></video></div>
+任志强先生会被很多人记住，会被历史记住。任志强先生是中共体制内反对中共政权极权专制统治的良知者与大勇者的代表。任志强也是红二代中反对极权统治，真心推进宪政、推动中国走向自由民主的代表性人物。 https://twitter.com/543dom_/status/1630753827392565249<div class="rsshub-quote"><br><br>正視歷史▪️傳播真相🇺🇸: 好像都沒人記得他了☹️☹️☹️<br><br>他本可以對這個黑暗的社會視而不見，安享晚年，可他卻選擇了在嚴冬裡為我們抱薪而被判18年，他在為10億韭菜坐牢，他不該被遺忘。<br><br>完整版鏈接：<br>https://youtu.be/47z7QlWHlWc<br><br>#任志強 #任大炮 我們的社會責任是把面前的墻推倒，建立我們的民主制度。 https://t.co/jnSNRDX3XO<br><br><video src="https://video.twimg.com/ext_tw_video/1630751216077615104/pu/vid/640x360/8-3iWtulZ6UPAFzj.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1630751216077615104/pu/img/ytgT7FRvdsi-G1mk.jpg"></video></div>
 
 ### 12: [2023-03-02 10:04:19+08:00 推文](https://twitter.com/realcaixia/status/1631113172701659142)
 
@@ -69,9 +69,13 @@ Re https://t.co/z96hhSQ4Y2<br><img style="" src="https://pbs.twimg.com/media/FqG
 
 ### 14: [2023-03-02 13:26:02+08:00 推文](https://twitter.com/realcaixia/status/1631163934077239298)
 
-30年来中国有许多律师为维护人权而遭受各种迫害。在推进中国政治转型的过程中，总有很多人权律师和做真相调查的记者们，就像韩国转型中一样，站在抗争最前沿的是律师和记者。<br>关注刘晓原律师，让更多的朋友知道他的处境他的遭遇，就是保护和支持刘晓原律师。<div class="rsshub-quote"><br><br>光傳媒官推 官網 https://www.ipkmedia.com: 【关注刘晓原律师】<br><br>刘晓原律师三月一号要来珠海在赣州火车站被铁路警察拦下，其老家国保发协查通知，刘律师在警察局要求给说法，从昨天下午到现在联系不上刘律师。手机开着无人接听<br>关注有良心和影响力的刘律师，多年被变相剥夺工作权利，申请复议、起诉都无人答复。长期被监控、跟踪，行动不自由 https://t.co/1HqFiSZrMz<br><br><img style="" src="https://pbs.twimg.com/media/FqLnQVAWYAIAwpg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+30年来中国有许多律师为维护人权而遭受各种迫害。在推进中国政治转型的过程中，总有很多人权律师和做真相调查的记者们，就像韩国转型中一样，站在抗争最前沿的是律师和记者。<br>关注刘晓原律师，让更多的朋友知道他的处境他的遭遇，就是保护和支持刘晓原律师。 https://twitter.com/ipkmedia/status/1631120289370177537<div class="rsshub-quote"><br><br>光傳媒官推 官網 https://www.ipkmedia.com: 【关注刘晓原律师】<br><br>刘晓原律师三月一号要来珠海在赣州火车站被铁路警察拦下，其老家国保发协查通知，刘律师在警察局要求给说法，从昨天下午到现在联系不上刘律师。手机开着无人接听<br>关注有良心和影响力的刘律师，多年被变相剥夺工作权利，申请复议、起诉都无人答复。长期被监控、跟踪，行动不自由 https://t.co/1HqFiSZrMz<br><br><img style="" src="https://pbs.twimg.com/media/FqLnQVAWYAIAwpg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 15: [2023-03-02 21:29:34+08:00 推文](https://twitter.com/realcaixia/status/1631285622659858440)
 
 推荐百灵果节目：前小粉红是如何觉醒的。<br>我认同前粉红的观点：1，清晰认知大陆教育形成的思维方式与日本、欧美思维方式的不同，努力改变自己，形成新的思维方式。方法是尽量阅读外语报道资讯；<br>2，坚持独立思考。<br>3，走出极权体制茧房，了解中国社会各阶层的真实生活状态…… https://youtu.be/DnTgCFh5hbU
+
+### 16: [2023-03-02 21:55:27+08:00 推文](https://twitter.com/realcaixia/status/1631292134631301120)
+
+Re 我们这一代努力推进民主宪政的人都在步入老年阶段，推进中国民主转型，需要更多大陆中青年接棒继续奋斗<br>这期节目直观展示年轻人是如何思考、如何谈论政治的。<br>从大陆前粉红与台湾同龄人对政治话题的交流中，能看到台湾年轻人思维的开放性，而大陆思维最明显特点之一是封闭、追求思想一致、排斥多元信息 https://t.co/FnwqTYwGJ0<br><img style="" src="https://pbs.twimg.com/media/FqODjBHWcAE_PtH?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FqODjBAWAA0PDu5?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
