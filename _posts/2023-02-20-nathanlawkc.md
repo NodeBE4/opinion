@@ -21,9 +21,9 @@ Author of Freedom, UK (https://t.co/2OFalKXJG1) and NA (https://t.co/mkF6N8U5d0)
 
 In the face of potentially offering weapons to Russia and worsening human rights situation, vowing to 'deepen' the bilateral relationships with China is irresponsible. It signals that human rights in China, and millions suffering from it, do not count when Xi gives you a carrot.
 
-### 2: [2023-02-23 03:19:18+08:00 推文](https://twitter.com/nathanlawkc/status/1628474529407291392)
+### 2: [2023-02-23 03:19:18+08:00 推文](https://twitter.com/nathanlawkc/status/1628474532813062145)
 
-1/Myanmar’s resistance against military dictatorship has been two years, and still continuing.<br>As of Jan 30, 2023, the military had killed 2,901, arrested 17,492 (282 children), and 13,719 remained in detention, according to Assistance Association for Political Prisoners (Burma).<br><img style="" src="https://pbs.twimg.com/media/Fpl_3PhXoAY4oxE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re 2/ In addition, 143 people have been sentenced to death since the 2021 military coup, and four of them have been executed. Of those arrested, 176 are journalists, and as many as 62 of them remain in prison or police custody.
 
 ### 3: [2023-02-23 03:19:19+08:00 推文](https://twitter.com/nathanlawkc/status/1628474535421812738)
 
@@ -39,7 +39,7 @@ It’s been a year since Russia invaded Ukraine in 2022.<br>These historic meeti
 
 ### 6: [2023-02-25 01:25:31+08:00 推文](https://twitter.com/nathanlawkc/status/1629170673959546882)
 
-//As logic, this is circular; and as politics, it is tyrannical. If I can claim that Canadians are Americans because they speak the same language, or because we share a common history, that would strike us as an idiotic reason to order an invasion. // https://twitter.com/TimothyDSnyder/status/1629133248184868867<div class="rsshub-quote"><br><br>Timothy Snyder: As Ukrainians make history, they remind us that we need history to understand them better, to understand this war better — and also understand ourselves better.<br>https://www.washingtonpost.com/opinions/2023/02/22/timothy-snyder-ukraine-russia-war-history/<br></div>
+//As logic, this is circular; and as politics, it is tyrannical. If I can claim that Canadians are Americans because they speak the same language, or because we share a common history, that would strike us as an idiotic reason to order an invasion. //<div class="rsshub-quote"><br><br>Timothy Snyder: As Ukrainians make history, they remind us that we need history to understand them better, to understand this war better — and also understand ourselves better.<br>https://www.washingtonpost.com/opinions/2023/02/22/timothy-snyder-ukraine-russia-war-history/<br></div>
 
 ### 7: [2023-02-26 23:43:57+08:00 推文](https://twitter.com/nathanlawkc/status/1629869887970586625)
 
