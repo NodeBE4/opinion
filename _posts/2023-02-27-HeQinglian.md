@@ -33,7 +33,7 @@ Re @uo7ZC09z6QEAOfd @shenliangqing2 基本如此。更大的问题是他们不�
 
 ### 5: [2023-02-27 02:42:32+08:00 推文](https://twitter.com/HeQinglian/status/1629914829090635781)
 
-最新Rasmussen Reports ，46% 的受访者认为乌战基本处于僵持状态，高于 12 月的 38%。19% 的受访者认为俄罗斯正在赢得乌战, 21%认为乌克兰获胜，低于 12 月份的 32%。有 14% 的人不确定谁赢。https://www.rasmussenreports.com/public_content/politics/biden_administration/ukraine_46_see_war_as_stalemate_after_a_year<br>经济学人这篇文章的结论太迟了。事实上多极世界已现雏形——一鲸落，万物生。<div class="rsshub-quote"><br><br>Ezio Mao☢: 《经济学人》：乌克兰的命运将成为西方在国际体系中地缘政治地位和影响力的重要决定因素。<br><br>冲突的结果在这件事上将是决定性的—如果基辅输了，那么西方对世界政治影响力的削弱将变得显而易见。在美国及其仆从国在中东遭遇失败之后，许多人开始怀疑西方的力量。 https://t.co/ccK0JAFV47<br><br><img style="" src="https://pbs.twimg.com/media/Fp3yp6XaYAE7GoK?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
+最新Rasmussen Reports ，46% 的受访者认为乌战基本处于僵持状态，高于 12 月的 38%。19% 的受访者认为俄罗斯正在赢得乌战, 21%认为乌克兰获胜，低于 12 月份的 32%。有 14% 的人不确定谁赢。https://www.rasmussenreports.com/public_content/politics/biden_administration/ukraine_46_see_war_as_stalemate_after_a_year<br>经济学人这篇文章的结论太迟了。事实上多极世界已现雏形——一鲸落，万物生。 https://twitter.com/KELMAND1/status/1629727091796357126<div class="rsshub-quote"><br><br>Ezio Mao☢: 《经济学人》：乌克兰的命运将成为西方在国际体系中地缘政治地位和影响力的重要决定因素。<br><br>冲突的结果在这件事上将是决定性的—如果基辅输了，那么西方对世界政治影响力的削弱将变得显而易见。在美国及其仆从国在中东遭遇失败之后，许多人开始怀疑西方的力量。 https://t.co/ccK0JAFV47<br><br><img style="" src="https://pbs.twimg.com/media/Fp3yp6XaYAE7GoK?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 6: [2023-02-27 22:19:01+08:00 推文](https://twitter.com/HeQinglian/status/1630210900849246209)
 
@@ -409,9 +409,21 @@ Re @Wpattern @Wu_Zhi 你这种人死了，也是垃圾。
 
 ### 99: [2023-03-02 05:28:57+08:00 推文](https://twitter.com/HeQinglian/status/1631043873211383808)
 
-这就得好好探究一下其中原因了。<div class="rsshub-quote"><br><br>《北美保守评论》: 📍美国的教会正在衰落之中，在美国每周平均有86座新教教堂关闭，那是一天12间，田纳西州纳什维尔的 LifeWay https://youtu.be/CZV08xO4MEU… https://twitter.com/i/web/status/1631042652983504896 https://t.co/BWbVfcuUvm<br><br><video src="https://video.twimg.com/amplify_video/1631042621119295488/vid/888x494/_UaVw5MUM8QwPV84.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1631042621119295488/img/EizSWMbuB5JgrcTZ.jpg"></video></div>
+这就得好好探究一下其中原因了。 https://twitter.com/NAConservative9/status/1631042652983504896<div class="rsshub-quote"><br><br>《北美保守评论》: 📍美国的教会正在衰落之中，在美国每周平均有86座新教教堂关闭，那是一天12间，田纳西州纳什维尔的 LifeWay https://youtu.be/CZV08xO4MEU… https://twitter.com/i/web/status/1631042652983504896 https://t.co/BWbVfcuUvm<br><br><video src="https://video.twimg.com/amplify_video/1631042621119295488/vid/888x494/_UaVw5MUM8QwPV84.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1631042621119295488/img/EizSWMbuB5JgrcTZ.jpg"></video></div>
 
 ### 100: [2023-03-02 06:02:06+08:00 推文](https://twitter.com/HeQinglian/status/1631052216680235008)
 
 Re @richard20211212 我刚才重新看了这个推，前面数量很小，突然进入【2022年中国跨境电商销售额约12.2万亿人民币】，应该与疫情期间购物方式剧烈改变有关，本人都有不少网购。<br>由此想到过去一些测度中国进出口贸易状态的方式得改改了，比如中国出口的港口集装箱的空置率，不能作重要参考指标了，电商的出口应该是分散的
+
+### 101: [2023-03-02 08:09:49+08:00 推文](https://twitter.com/HeQinglian/status/1631084358923689991)
+
+Re @richard20211212 时移势易，宏观经济学的三大传统指标是全球化之前的指标体系，早就不足以分析经济形势的变化。必须加进PMI这一唯一的经济前导数据及物流方式<br>我这几天计算的结果，是相对保守的。如果考虑欧盟产品与东盟的中间产品的联系再考虑欧盟出口至美国的产品结构，欧美对中国的经济依赖，贸易逆差只是一个方面。
+
+### 102: [2023-03-02 08:10:28+08:00 推文](https://twitter.com/HeQinglian/status/1631084520471396356)
+
+Re @richard20211212 许多是在美国境内收费。
+
+### 103: [2023-03-02 08:54:34+08:00 推文](https://twitter.com/HeQinglian/status/1631095619472302083)
+
+Re @yaa_tokyo @KELMAND1 好吧，你将原始出处找来。
 
