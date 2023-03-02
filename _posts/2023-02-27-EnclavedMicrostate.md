@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-03-02
+date: 2023-03-03
 from: https://old.reddit.com/r/AskHistorians/comments/11d4udq/why_dont_medievalearly_modern_china_and_maybe/
 layout: post
 tags:
@@ -62,4 +62,14 @@ My moral condemnation isn't reserved for anyone who may be playing the game with
 I'd like to tack on to what was written by /u/iwaka with a paragraph from an ultimately half-formed answer that I never got round to finishing before they wrote theirs (which in any event gets into a lot of things that hadn't even sprung to mind for me):
 
 To just highlight a few differences of vocabulary here: The Classical verb for 'to want', 欲 (*yu4* in Mandarin, *juk6* in Cantonese), is *incredibly* rare in vernacular usage in Mandarin and Cantonese, outside of idiomatic phrases; it does, however, persist in some other languages such as Hakka and Hokkien. In fact, you're far more likely to see it in Japanese, in noun form as 欲 *yoku* (desire, want) or in adjective form *hoshii* 欲しい (desired, wanted). Mandarin and Cantonese speakers today would be far more likely to use 要 *yao4*/*jiu3*. The Classical verb 'to say', 曰 (*yue1*/*jyut6*), is *entirely* literary. Some Sinitic languages such as Cantonese instead use 話 (*wa6*), while Mandarin uses 說 (*shuo1*); both also use 講 (*jiang3*/*gong2*) as well (there are dialectical variations in terms of which Mandarin use 說, 講, or both; ditto for 話 and 講 in Cantonese varieties.)
+
+### 1131: [Which defensive weapons (AA artillery, howitzers etc) did the Japanese use to defend Iwo Jima and Okinawa in WW2?](https://old.reddit.com/r/AskHistorians/comments/11g9qbc/which_defensive_weapons_aa_artillery_howitzers/), submitted on 2023-03-03 02:18:07+08:00.
+
+----- __1131.1__ -----2023-03-03 03:49:26+08:00:
+
+**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
+
+Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
+
+Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
