@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-03-01
+date: 2023-03-02
 from: https://old.reddit.com/r/AskHistorians/comments/11d4udq/why_dont_medievalearly_modern_china_and_maybe/
 layout: post
 tags:
@@ -54,4 +54,12 @@ So in other words, the fact that the game has *already* been used to fund anti-t
 I don't think this is the counter-argument you think it is, though, because I think you very much *could*, even *should*, make that argument for Nintendo too, on that basis. In any event, in that particular comment at least, I wasn't even suggesting that there should be a boycott (although I do, in fact, believe so); I was simply stating that the chain of causality does in fact exist.
 
 My moral condemnation isn't reserved for anyone who may be playing the game without awareness of the nature of the issue: I condemn their actions, but I can accept that they may have no ill intent at the point of purchase. Nevertheless, it is my opinion that people should be informed of the causes that the game's beneficiaries promote, and I *do* take umbrage with anyone a) unwilling to engage with that in good faith, and/or b) who will go ahead with promoting the game despite knowing about those issues that have already been enumerated. But ultimately, my moral condemnation is reserved primarily for JK Rowling and the developers of the game.
+
+### 1130: [Due to written Chinese being based off symbols that don’t change much over time instead of rapidly evolving pronunciations, would a modern Chinese high schooler would be able to more or less read a Chinese text written as far back as 150 BC?](https://old.reddit.com/r/AskHistorians/comments/11fde2i/due_to_written_chinese_being_based_off_symbols/), submitted on 2023-03-02 03:14:00+08:00.
+
+----- __1130.1__ -----2023-03-02 16:45:35+08:00:
+
+I'd like to tack on to what was written by /u/iwaka with a paragraph from an ultimately half-formed answer that I never got round to finishing before they wrote theirs (which in any event gets into a lot of things that hadn't even sprung to mind for me):
+
+To just highlight a few differences of vocabulary here: The Classical verb for 'to want', 欲 (*yu4* in Mandarin, *juk6* in Cantonese), is *incredibly* rare in vernacular usage in Mandarin and Cantonese, outside of idiomatic phrases; it does, however, persist in some other languages such as Hakka and Hokkien. In fact, you're far more likely to see it in Japanese, in noun form as 欲 *yoku* (desire, want) or in adjective form *hoshii* 欲しい (desired, wanted). Mandarin and Cantonese speakers today would be far more likely to use 要 *yao4*/*jiu3*. The Classical verb 'to say', 曰 (*yue1*/*jyut6*), is *entirely* literary. Some Sinitic languages such as Cantonese instead use 話 (*wa6*), while Mandarin uses 說 (*shuo1*); both also use 講 (*jiang3*/*gong2*) as well (there are dialectical variations in terms of which Mandarin use 說, 講, or both; ditto for 話 and 講 in Cantonese varieties.)
 
