@@ -304,3 +304,51 @@ The authors concluded that the findings raised concerns about the potential for 
 
 Rejecting science because you don't know anything about it is absurd.
 
+----- __491.6__ -----2023-03-03 17:22:28+08:00:
+
+> 1) The FBI does not have jurisdiction over international labs. 
+
+Basically true. 
+
+> 2) Even if they had jurisdiction, they were not allowed to collect information at the scene in Wuhan. All information they had was from other sources because the CCP refused to let American government auditors or investigators in. 
+
+Correct. 
+
+> 3) A forensics lab is not useful without active samples. 
+
+Forensics don't matter here.  Active samples don't matter here.  What matters is a sequenced sample of the SARS-CoV-2 virus and what can be determined from that information.  
+
+This is not a forensic analysis. 
+
+> Instead, the OP could've argued that the FBI could've interviewed virologists, evo biologists, etc, but chose to highlight the lab side of things that wouldn't be useful. Therefore what the OP argued for was speculation from the wrong group and amounted to armchair speculation by the FBI.
+
+They should have just sent a sample to Jonas Salk Institute, the University of North Carolina or somewhere equipped to sequence and analyze it.
+
+----- __491.7__ -----2023-03-03 17:33:19+08:00:
+
+> The lab leak theory is possible, but not probable, and the reason it was dismissed early on was because it didn't track with the vast majority of the data at the time showcasing a separate track of very common animal-human vectors already in progress at the wet market.
+
+That is the argument the Chinese government made, which everyone took at their word, because the alleged data supporting this proposition was never released to the world.  If it even exists.  Which is questionable. 
+
+> Corona viruses in bats don't need human interference to evolve dangerous or deadly traits. 
+
+Correct. 
+
+> Shellenberger has no experience in the field of virology or epidemiology and isn't a useful person to even acknowledge when talking about this topic. 
+
+This is a weak, logically fallacious argument. 
+
+The epidemiological "data" provides absolutely no support to the claim that COVID-19 did not emerge from the WIV.  
+
+Frankly, this isn't even a question within the toolkit of an epidemiologist to answer. 
+
+A virologist might have undertaken the gain of function research which created the COVID-19 virus, but they're not in a position to draw inferences concerning its evolutionary history from its genetic information.  That's a little bit different from virology. 
+
+> I should know, I'm experienced in clinical research (including site audits), my sister's a virologist now working on Covid, and my mother's an epidemiologist. We're not talking out of our asses when we all agree the OP's article is a puff piece with no merit on the topic except to further confusion in the lay public.
+
+Experts can have opinions, but their opinions need to be relevant and credible.  
+
+Your family can tell the world how they think the virus spread.  But none of you are in a position to determine where it came from.  The data you would need to make such claims simply was never collected by the Chinese government.
+
+But even if it was collected, it likely would be wrong anyway.
+

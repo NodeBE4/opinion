@@ -201,7 +201,7 @@ Re @washearg 除了美国还有些家底，其余的国家，就算了吧。
 
 ### 47: [2023-02-21 23:05:51+08:00 推文](https://twitter.com/HeQinglian/status/1628048359180181507)
 
-Re @Lucs24659702 很多乌鸡血们，包括那位说自己“曾经是农民、永远是农民”的“瞧瞧桥”老妹子在内，不相信乌克兰的第10次征兵令，这是原推，信不信由他们，懂乌语的请好心一点翻译给她听，让她再也不要在见识上“永远是农民”。<div class="rsshub-quote"><br><br>绫波: 乌克兰泽连斯基发起第10次征兵令，打算征召100万名士兵。<br><br>征兵令中规定，成年男性65岁以上，85岁以下必须参军。<br><br><img style="" src="https://pbs.twimg.com/media/FpYOaBgaYAAL-9z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT He Qinglian<br>Re @Lucs24659702 很多乌鸡血们，包括那位说自己“曾经是农民、永远是农民”的“瞧瞧桥”老妹子在内，不相信乌克兰的第10次征兵令，这是原推，信不信由他们，懂乌语的请好心一点翻译给她听，让她再也不要在见识上“永远是农民”。<div class="rsshub-quote"><br><br>绫波: 乌克兰泽连斯基发起第10次征兵令，打算征召100万名士兵。<br><br>征兵令中规定，成年男性65岁以上，85岁以下必须参军。<br><br><img style="" src="https://pbs.twimg.com/media/FpYOaBgaYAAL-9z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 48: [2023-02-21 23:08:41+08:00 推文](https://twitter.com/HeQinglian/status/1628049071679188993)
 
@@ -461,7 +461,7 @@ Re @inno_dai @evaqiao2022 北溪管道是中国炸的？你有消息来源？�
 
 ### 112: [2023-02-23 06:31:23+08:00 推文](https://twitter.com/HeQinglian/status/1628522871348682756)
 
-最有趣的莫过于这句：“俄罗斯和中国的关系正在按计划发展”。<br>也就是说，过去一年多以来美欧全力指责的俄中结盟，完全不受影响。只是不知这“计划”形成于何时，内容也只能靠猜测。<div class="rsshub-quote"><br><br>Ezio Mao☢: 俄罗斯总统会见中共中央外事工作委员会办公室主任王毅<br><br>▪️俄罗斯联邦感谢中国的共同努力，现在世界国际关系很紧张；<br>▪️俄罗斯联邦与中国的合作对于稳定国际局势非常重要；<br>▪️莫斯科和北京正在落实会见中国国家主席的计划，这将推动双边关系的发展；<br>▪️俄罗斯和中国的关系正在按计划发展， https://t.co/57cA4ycrT4<br><br><video src="https://video.twimg.com/ext_tw_video/1628374269154701312/pu/vid/800x448/kE3g2eDzTxEstm-2.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1628374269154701312/pu/img/4nNO4r2754-Cxt8C.jpg"></video></div>
+最有趣的莫过于这句：“俄罗斯和中国的关系正在按计划发展”。<br>也就是说，过去一年多以来美欧全力指责的俄中结盟，完全不受影响。只是不知这“计划”形成于何时，内容也只能靠猜测。 https://twitter.com/KELMAND1/status/1628374309403246593<div class="rsshub-quote"><br><br>Ezio Mao☢: 俄罗斯总统会见中共中央外事工作委员会办公室主任王毅<br><br>▪️俄罗斯联邦感谢中国的共同努力，现在世界国际关系很紧张；<br>▪️俄罗斯联邦与中国的合作对于稳定国际局势非常重要；<br>▪️莫斯科和北京正在落实会见中国国家主席的计划，这将推动双边关系的发展；<br>▪️俄罗斯和中国的关系正在按计划发展， https://t.co/57cA4ycrT4<br><br><video src="https://video.twimg.com/ext_tw_video/1628374269154701312/pu/vid/800x448/kE3g2eDzTxEstm-2.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1628374269154701312/pu/img/4nNO4r2754-Cxt8C.jpg"></video></div>
 
 ### 113: [2023-02-23 06:33:42+08:00 推文](https://twitter.com/HeQinglian/status/1628523455216844800)
 
@@ -505,7 +505,7 @@ Re @Wu_Zhi @nuosu001 @JianglinLi @seadognw 你德倒真应该向欧洲各国介�
 
 ### 123: [2023-02-23 09:56:22+08:00 推文](https://twitter.com/Isabel_3299/status/1628574455482970112)
 
-RT Isabel👑💎WW<br>自古同性恋哪个文化都有，但是当把这种只占1%不到的人的特殊需求当政治正确打压99%属于正常人的权利就另当别论。<br><br>你同情他们个体的遭遇可以理解，但让所有人都同情这也是强人所难。<div class="rsshub-quote"><br><br>一号女嘉宾: @Isabel_3299 可是中国也有LGBTQ群体啊，中国那么歧视LGBTQ但是即便在完全没有西方文化侵蚀的农村，也有变性人的。<br><br>这不是左逼捏造的东西，你可能不喜欢别人变性，但是这个东西确实是人家的真实生理需求。<br><br>你要是否认这个群体，他们就形婚，生娃，假装正常。基因还能延续呢。<br>人家自己绝后，对所有人都好。<br></div>
+RT Isabel👑💎WW<br>自古同性恋哪个文化都有，但是当把这种只占1%不到的人的特殊需求当政治正确打压99%属于正常人的权利就另当别论。<br><br>你同情他们个体的遭遇可以理解，但让所有人都同情这也是强人所难。 https://twitter.com/8964xjpfucku/status/1628567901723672585<div class="rsshub-quote"><br><br>一号女嘉宾: @Isabel_3299 可是中国也有LGBTQ群体啊，中国那么歧视LGBTQ但是即便在完全没有西方文化侵蚀的农村，也有变性人的。<br><br>这不是左逼捏造的东西，你可能不喜欢别人变性，但是这个东西确实是人家的真实生理需求。<br><br>你要是否认这个群体，他们就形婚，生娃，假装正常。基因还能延续呢。<br>人家自己绝后，对所有人都好。<br></div>
 
 ### 124: [2023-02-23 10:07:43+08:00 推文](https://twitter.com/HeQinglian/status/1628577311002951680)
 
@@ -737,7 +737,7 @@ Re @pandatress1 俄罗斯的制造业经理人采购指数够牛的，大概在5
 
 ### 181: [2023-02-24 23:43:55+08:00 推文](https://twitter.com/HeQinglian/status/1629145105016709120)
 
-多极化，美国彩虹文化就带着欧洲一道玩吧。 https://twitter.com/zt33268778/status/1628961825579577345<div class="rsshub-quote"><br><br>zt: 什么是“普世价值”，如果中共成了世界老大，普世价值就是永远坚持党的领导；如果墓撕陵当了老大，普世价值就是女人都要蒙面；如果白左成了老大，那么就什么都没有了，普世价值将湮没在LGBTQ的彩虹屁里，人类文明都要消亡。看起来前两者好歹也能算是个文明，后者就是文明的敌人。<br></div>
+多极化，美国彩虹文化就带着欧洲一道玩吧。<div class="rsshub-quote"><br><br>zt: 什么是“普世价值”，如果中共成了世界老大，普世价值就是永远坚持党的领导；如果墓撕陵当了老大，普世价值就是女人都要蒙面；如果白左成了老大，那么就什么都没有了，普世价值将湮没在LGBTQ的彩虹屁里，人类文明都要消亡。看起来前两者好歹也能算是个文明，后者就是文明的敌人。<br></div>
 
 ### 182: [2023-02-24 23:45:24+08:00 推文](https://twitter.com/HeQinglian/status/1629145475805749249)
 
@@ -805,7 +805,7 @@ Re @KELMAND1 拜登政府能够撑到2023年年底就差不多了，要竞选了
 
 ### 198: [2023-02-25 02:44:20+08:00 推文](https://twitter.com/HeQinglian/status/1629190506809896963)
 
-不算是很疯。今天看到VOA一条消息：美国陆军军官表示，对中国解放军有绝对优势——前两天VOA引美海军军官话说中国海空军力发展很快，美国似无绝对优势。<br>这意思是美中两国陆军将在一块陆地上相逢。我一直在想，这块陆地在哪？台湾肯定不合适，除了美国打到中国，或中国到美。<div class="rsshub-quote"><br><br>Ezio Mao☢: 下面是疯话环节:<br><br>“如果乌克兰输了，俄罗斯联邦将向北约国家开战，然后美国将不得不派兵参战”——泽连斯基 https://t.co/osIFUbqJVO<br><br><img style="" src="https://pbs.twimg.com/media/Fpv5ealaQAAQ6yT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+不算是很疯。今天看到VOA一条消息：美国陆军军官表示，对中国解放军有绝对优势——前两天VOA引美海军军官话说中国海空军力发展很快，美国似无绝对优势。<br>这意思是美中两国陆军将在一块陆地上相逢。我一直在想，这块陆地在哪？台湾肯定不合适，除了美国打到中国，或中国到美。 https://twitter.com/KELMAND1/status/1629169997074534400<div class="rsshub-quote"><br><br>Ezio Mao☢: 下面是疯话环节:<br><br>“如果乌克兰输了，俄罗斯联邦将向北约国家开战，然后美国将不得不派兵参战”——泽连斯基 https://twitter.com/KELMAND1/status/1629166174562062337 https://t.co/osIFUbqJVO<br><br><img style="" src="https://pbs.twimg.com/media/Fpv5ealaQAAQ6yT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 199: [2023-02-25 02:50:15+08:00 推文](https://twitter.com/HeQinglian/status/1629191994990858241)
 
