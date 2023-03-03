@@ -33,7 +33,7 @@ Re @uo7ZC09z6QEAOfd @shenliangqing2 基本如此。更大的问题是他们不�
 
 ### 5: [2023-02-27 02:42:32+08:00 推文](https://twitter.com/HeQinglian/status/1629914829090635781)
 
-最新Rasmussen Reports ，46% 的受访者认为乌战基本处于僵持状态，高于 12 月的 38%。19% 的受访者认为俄罗斯正在赢得乌战, 21%认为乌克兰获胜，低于 12 月份的 32%。有 14% 的人不确定谁赢。https://www.rasmussenreports.com/public_content/politics/biden_administration/ukraine_46_see_war_as_stalemate_after_a_year<br>经济学人这篇文章的结论太迟了。事实上多极世界已现雏形——一鲸落，万物生。<div class="rsshub-quote"><br><br>Ezio Mao☢: 《经济学人》：乌克兰的命运将成为西方在国际体系中地缘政治地位和影响力的重要决定因素。<br><br>冲突的结果在这件事上将是决定性的—如果基辅输了，那么西方对世界政治影响力的削弱将变得显而易见。在美国及其仆从国在中东遭遇失败之后，许多人开始怀疑西方的力量。 https://t.co/ccK0JAFV47<br><br><img style="" src="https://pbs.twimg.com/media/Fp3yp6XaYAE7GoK?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
+最新Rasmussen Reports ，46% 的受访者认为乌战基本处于僵持状态，高于 12 月的 38%。19% 的受访者认为俄罗斯正在赢得乌战, 21%认为乌克兰获胜，低于 12 月份的 32%。有 14% 的人不确定谁赢。https://www.rasmussenreports.com/public_content/politics/biden_administration/ukraine_46_see_war_as_stalemate_after_a_year<br>经济学人这篇文章的结论太迟了。事实上多极世界已现雏形——一鲸落，万物生。 https://twitter.com/KELMAND1/status/1629727091796357126<div class="rsshub-quote"><br><br>Ezio Mao☢: 《经济学人》：乌克兰的命运将成为西方在国际体系中地缘政治地位和影响力的重要决定因素。<br><br>冲突的结果在这件事上将是决定性的—如果基辅输了，那么西方对世界政治影响力的削弱将变得显而易见。在美国及其仆从国在中东遭遇失败之后，许多人开始怀疑西方的力量。 https://t.co/ccK0JAFV47<br><br><img style="" src="https://pbs.twimg.com/media/Fp3yp6XaYAE7GoK?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 6: [2023-02-27 22:19:01+08:00 推文](https://twitter.com/HeQinglian/status/1630210900849246209)
 
@@ -77,7 +77,7 @@ Re @qihang19211 我未使用中国居民负债金额这个概念。<br>文中说
 
 ### 16: [2023-02-28 05:28:48+08:00 推文](https://twitter.com/HeQinglian/status/1630319059936899072)
 
-一战爆发后，列宁写了数篇文章，《革命的社会民主党在欧洲大战中的任务》（即“关于战争的提纲”），并以此为基础写了《战争和俄国社会民主党》。这两篇文献确定了这场战争的性质：资产阶级、帝国主义、王朝战争的性质，是非正义的。列宁提出“变帝国主义战争为国内战争”的口号，反沙俄的内战是正义的。<div class="rsshub-quote"><br><br>He Qinglian: @zhuxiuyuan 你独独忘记了《明斯克协议》，现在默克尔都承认当初签订时并未打算遵守，只是希望赢得时间壮大乌克兰的军事实力。<br>建议你学学美国智库的地缘政治理论，从布热津斯基开始，否则这辈子都只会列宁的战争正义-非正义论。<br></div>
+一战爆发后，列宁写了数篇文章，《革命的社会民主党在欧洲大战中的任务》（即“关于战争的提纲”），并以此为基础写了《战争和俄国社会民主党》。这两篇文献确定了这场战争的性质：资产阶级、帝国主义、王朝战争的性质，是非正义的。列宁提出“变帝国主义战争为国内战争”的口号，反沙俄的内战是正义的。 https://twitter.com/HeQinglian/status/1630225930181328896<div class="rsshub-quote"><br><br>He Qinglian: @zhuxiuyuan 你独独忘记了《明斯克协议》，现在默克尔都承认当初签订时并未打算遵守，只是希望赢得时间壮大乌克兰的军事实力。<br>建议你学学美国智库的地缘政治理论，从布热津斯基开始，否则这辈子都只会列宁的战争正义-非正义论。<br></div>
 
 ### 17: [2023-02-28 05:32:44+08:00 推文](https://twitter.com/HeQinglian/status/1630320048488214529)
 
@@ -273,7 +273,7 @@ Re @shenliangqing2 这在2020年时，推上某维律代表民主党与NGO通知
 
 ### 65: [2023-03-01 08:34:13+08:00 推文](https://twitter.com/HeQinglian/status/1630728109057101824)
 
-NATO Expansion: What Gorbachev Heard<br>https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early <br>共计30个文件，就是备忘录。当然，不是中文的，自己慢慢看。<br>这是我第三次推送给你，去年劝你了解情况时一次，都附了尊推号，<br>@zhuxiuyuan<br>今天上午推送，你连打开都不肯。 https://twitter.com/zhuxiuyuan/status/1630723092942036993<div class="rsshub-quote"><br><br>竺修远律师: @Nobody197575 @HeQinglian 没有条约、备忘录等书面协议。<br></div>
+NATO Expansion: What Gorbachev Heard<br>https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early <br>共计30个文件，就是备忘录。当然，不是中文的，自己慢慢看。<br>这是我第三次推送给你，去年劝你了解情况时一次，都附了尊推号，<br>@zhuxiuyuan<br>今天上午推送，你连打开都不肯。<div class="rsshub-quote"><br><br>竺修远律师: @Nobody197575 @HeQinglian 没有条约、备忘录等书面协议。<br></div>
 
 ### 66: [2023-03-01 08:59:24+08:00 推文](https://twitter.com/HeQinglian/status/1630734448818806785)
 
@@ -361,7 +361,7 @@ Re @dinglili7 BLM会很不高兴。
 
 ### 87: [2023-03-02 01:45:23+08:00 推文](https://twitter.com/HeQinglian/status/1630987612650450947)
 
-全球经济-政治版图之变：中美关系是杠杆<br>https://www.rfa.org/mandarin/pinglun/heqinglian/hql-03012023111612.html<br>中国2022年获得的8776亿美元顺差，8019亿来自于欧美。从2023年影响中美关系的六大变量来看，美国仍居于优势地位，能否发挥优势，一取决于美国国内经济政治状态，二取决于他国在新的多极世界中追随谁；三取决于美国的外交手段是否高明。
+RT He Qinglian<br>全球经济-政治版图之变：中美关系是杠杆<br>https://www.rfa.org/mandarin/pinglun/heqinglian/hql-03012023111612.html<br>中国2022年获得的8776亿美元顺差，8019亿来自于欧美。从2023年影响中美关系的六大变量来看，美国仍居于优势地位，能否发挥优势，一取决于美国国内经济政治状态，二取决于他国在新的多极世界中追随谁；三取决于美国的外交手段是否高明。
 
 ### 88: [2023-03-02 01:52:16+08:00 推文](https://twitter.com/HeQinglian/status/1630989342985338880)
 
@@ -513,7 +513,7 @@ Re @JianglinLi @kanjianweilai @shenliangqing2 @Isabel_3299 行至水穷处，坐
 
 ### 125: [2023-03-03 01:12:14+08:00 推文](https://twitter.com/HeQinglian/status/1631341656623529984)
 
-三个主要原因导致了罗马帝国的崩溃。一，帝国变得过大，一个单一的中心已难以对其进行管治。分成东西两半，又破坏了其权力垄断性。二，帝国长期的狂妄自大造成了文化上的享乐主义，精英的腐败导致社会的全面腐败。三，持续的通货膨胀破坏这一体制的那种维持自身又无需作出社会牺牲的能力。<div class="rsshub-quote"><br><br>He Qinglian: @shenliangqing2 @Isabel_3299 共和党最后只能先内部决战一场，说起来悲哀，美国国运悬于此一线，如果运气好，缓和几年，也许有机会。<br>但反正不会再是布热津斯基当年写《大棋局》时那种操盘一切的气势了，最多就是个棋手。<br>雅典的僭主政治+罗马帝国晚期的荒淫-身份政治。也许最后能够成就一部《新罗马帝国衰亡史》。<br></div>
+三个主要原因导致了罗马帝国的崩溃。一，帝国变得过大，一个单一的中心已难以对其进行管治。分成东西两半，又破坏了其权力垄断性。二，帝国长期的狂妄自大造成了文化上的享乐主义，精英的腐败导致社会的全面腐败。三，持续的通货膨胀破坏这一体制的那种维持自身又无需作出社会牺牲的能力。 https://twitter.com/HeQinglian/status/1631290944552071171<div class="rsshub-quote"><br><br>He Qinglian: @shenliangqing2 @Isabel_3299 共和党最后只能先内部决战一场，说起来悲哀，美国国运悬于此一线，如果运气好，缓和几年，也许有机会。<br>但反正不会再是布热津斯基当年写《大棋局》时那种操盘一切的气势了，最多就是个棋手。<br>雅典的僭主政治+罗马帝国晚期的荒淫-身份政治。也许最后能够成就一部《新罗马帝国衰亡史》。<br></div>
 
 ### 126: [2023-03-03 01:16:03+08:00 推文](https://twitter.com/HeQinglian/status/1631342619069431809)
 
@@ -530,4 +530,44 @@ Re @Isabel_3299 @shenliangqing2 差不多。
 ### 129: [2023-03-03 05:06:48+08:00 推文](https://twitter.com/HeQinglian/status/1631400688210124804)
 
 Re @mafeife52494712 @eGUAbe2V7j26GHw 有些了解，也有茶具（现小茶台已经破损了），但现在简单化，就我自己喝点。得新茶不易，主要喝台湾乌龙了。大陆的茶，目前是包装华美，茶之味，远不如我当年在大陆逢产新茶时，在茶店里亲自试尝后买的好。绿茶尤其如此。<br>近年流行普洱，实不知那茶有什么好喝。不如印度大吉岭红茶。
+
+### 130: [2023-03-03 05:10:48+08:00 推文](https://twitter.com/HeQinglian/status/1631401695430209536)
+
+看了各国企业破产数据，只能说，重组全球产业链多年未成，一场战争打破原有格局，企业破产只是第一步。<br>欧洲尤其是德国受影响最大，其余的算是次级影响。 https://twitter.com/KELMAND1/status/1631314256825303040<div class="rsshub-quote"><br><br>Ezio Mao☢: 欧盟企业的破产申请在 2022 年第四季度大幅增加，达到 2015 年开始收集数据以来的历史新高。 https://t.co/WuMDuIbKPz<br><br><img style="" src="https://pbs.twimg.com/media/FqOXq2QacAMad-D?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 131: [2023-03-03 05:39:37+08:00 推文](https://twitter.com/HeQinglian/status/1631408946496905244)
+
+Re @eGUAbe2V7j26GHw @mafeife52494712 我觉得乌龙系列当中，金萱系列很好。<br>你那茶台可惜不临窗，如果临窗，用一张竹帘，宛然一小茶室，工作之余，品茗听乐（江南丝竹类），一天烦累尽释。
+
+### 132: [2023-03-03 05:50:34+08:00 推文](https://twitter.com/HeQinglian/status/1631411701454184451)
+
+Re @eGUAbe2V7j26GHw @mafeife52494712 买两个木制窗框，与茶台表面接近之色，挂在墙上，做为装饰，也有不错的效果。苏州的太多精致，风格或者不合。但徽式的应该可以。
+
+### 133: [2023-03-03 07:10:51+08:00 推文](https://twitter.com/HeQinglian/status/1631431904397238277)
+
+Re @eGUAbe2V7j26GHw @mafeife52494712 如果有书画界朋友，送的标上尊名的书法条屏，装点上也很合适。<br>买来的太俗。
+
+### 134: [2023-03-03 07:14:02+08:00 推文](https://twitter.com/HeQinglian/status/1631432706344009729)
+
+Re @kbclindy @Trumpwon008 @Isabel_3299 我只与聪明、理性并愿意思考的人交流，即使立场不同。这种交流非常有益。交流的目的不在于劝服别人与自己持同样立场，而在于让自己拓宽视野，因为个人的视阈总是有限的。<br>纯粹的粉，尤其是只有愚蠢的口舌之恶类型，最好别理。
+
+### 135: [2023-03-03 07:15:29+08:00 推文](https://twitter.com/HeQinglian/status/1631433071026208769)
+
+Re @Lucs24659702 真是有趣，超乎想象之外。
+
+### 136: [2023-03-03 07:17:26+08:00 推文](https://twitter.com/HeQinglian/status/1631433562141409280)
+
+Re @eGUAbe2V7j26GHw @mafeife52494712 🤣🤣<br>你喜欢就好，毕竟是自家天地。
+
+### 137: [2023-03-03 07:22:41+08:00 推文](https://twitter.com/HeQinglian/status/1631434882839724037)
+
+这是重申美国欧亚地缘政治战略的要点，当时美国提出欧亚大战略之时，是全球化刚结束的1990年代中期。中国那时连经济起飞都没起步。<br>如今美国、中国国力大变，美国重提旧事，只是重温往时旧梦，告诉中国，别忘记不久之前你还穷得很。 https://twitter.com/franz_X_T/status/1631246830964215808<div class="rsshub-quote"><br><br>franz: “中国需要接受美国是亚洲的领导者”<br><br>刚看到这个新闻，我以为是假的😓，于是跑去搜索了一下，结果居然是真事儿。。<br><br>其实这种话仔细品一品，能品出说的人内心的不自信。但又好面儿，结果就跟电影里的桥段似的，跪在地上死乞白赖求中国让中国认他做大哥。<br><br>真的，大人，时代变了。 https://t.co/275epFFNcq<br><br><img style="" src="https://pbs.twimg.com/media/FqNaWL5aMAE3qna?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 138: [2023-03-03 07:26:53+08:00 推文](https://twitter.com/HeQinglian/status/1631435940848627712)
+
+欲知今日事，需问过来人。<br>欧亚地缘政治，美国太多智库著述，米尔斯海默曾有过推测，中国GDP到某个段位，就会出现这种情况。其实中国行动之时，GDP总量比他讲了大了不少。<br>我改天找出原文。网络时代最大的特点就是忽视前贤智慧。 https://twitter.com/Nobody197575/status/1631323211345563648<div class="rsshub-quote"><br><br>热血汉奸吴三桂: 黄左最气愤的就是俄罗斯和支共苟合，殊不知支共，俄罗斯才是真正的同床异梦，抱团取暖，彼此需求，俄罗斯只是表面上的文章，骨子里下手一点不客气，n次炮击大支渔民就是明证，美帝对古巴渔民都没有那么狠，更别提对大英渔民了，大支和美帝看起来吵吵嚷嚷，他们才是万年一条心的亲爹亲儿子关系 https://twitter.com/zengjieming/status/1631319343177891840<br></div>
+
+### 139: [2023-03-03 09:17:47+08:00 推文](https://twitter.com/HeQinglian/status/1631463848774434816)
+
+Re @woaijinpinmei 普世价值并未包括接受谁做领导者。<br>但当时的美国正如日中天，其软实力确有让他国人民自动追随的吸引力。<br>如今美国的硬实力还在，但以LGBTQI+BLM的进步主义文化价值观并无当年的普世价值的正当性。
 
