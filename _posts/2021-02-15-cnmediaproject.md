@@ -10,7 +10,7 @@ tags:
 title: 'Twitter @China Media Project: 2021-02-15~2021-02-21'
 ---
 
-The China Media Project (中国传媒研究计划) is an independent think
+The CMP is an independent research project studying the Chinese media landscape within the PRC and globally, as well as the CCP's media and political discourse. 
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}

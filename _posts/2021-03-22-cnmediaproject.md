@@ -10,7 +10,7 @@ tags:
 title: 'Twitter @China Media Project: 2021-03-22~2021-03-28'
 ---
 
-The China Media Project (中国传媒研究计划) is an independent think
+The CMP is an independent research project studying the Chinese media landscape within the PRC and globally, as well as the CCP's media and political discourse. 
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}
@@ -97,5 +97,5 @@ RT Susan Finder<br>Injecting socialist core values into court judgments <a 
 
 ### 21: [2021-03-26 20:41:03+08:00 推文](https://twitter.com/ulywang/status/1375427578719133702)
 
-RT Wang Feng 王丰<br>Whoa.<br><br>CGTN: China reminded the North Atlantic Treaty Organization (NATO) that it still owes blood debt over Chinese journalists killed in the 1999 NATO bombing of the Chinese embassy in Belgrade, Chinese Foreign Ministry Spokesperson Hua Chunying said on Friday.<br> <a href="https://news.cgtn.com/news/2021-03-26/China-reminds-NATO-it-still-owes-blood-debt-YWQp4r8SsM/index.html" target="_blank" rel="noopener noreferrer">https://news.cgtn.com/news/2021-03-26/China-reminds-NATO-it-still-owes-blood-debt-YWQp4r8SsM/index.html</a>
+RT 王丰 Wang Feng<br>Whoa.<br><br>CGTN: China reminded the North Atlantic Treaty Organization (NATO) that it still owes blood debt over Chinese journalists killed in the 1999 NATO bombing of the Chinese embassy in Belgrade, Chinese Foreign Ministry Spokesperson Hua Chunying said on Friday.<br> <a href="https://news.cgtn.com/news/2021-03-26/China-reminds-NATO-it-still-owes-blood-debt-YWQp4r8SsM/index.html" target="_blank" rel="noopener noreferrer">https://news.cgtn.com/news/2021-03-26/China-reminds-NATO-it-still-owes-blood-debt-YWQp4r8SsM/index.html</a>
 

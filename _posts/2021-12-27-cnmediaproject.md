@@ -10,7 +10,7 @@ tags:
 title: 'Twitter @China Media Project: 2021-12-27~2022-01-02'
 ---
 
-The China Media Project (中国传媒研究计划) is an independent think
+The CMP is an independent research project studying the Chinese media landscape within the PRC and globally, as well as the CCP's media and political discourse. 
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}
@@ -37,7 +37,7 @@ RT Ryan Ho Kilpatrick 何松濤<br>.@StandNewsHK announces it is ceasing opera
 
 ### 6: [2021-12-29 17:26:32+08:00 推文](https://twitter.com/rhokilpatrick/status/1476122451574595587)
 
-RT Ryan Ho Kilpatrick 何松濤<br>How fitting and tragic that @StandNewsHK’s last story before the announcement of their closure was this video on “forbidden words”—the things we can no longer say and the platforms we’ve lost to say them.<br><br>Watch here until their YouTube channel goes dark: <a href="https://youtu.be/CtsRbo_C9l4" target="_blank" rel="noopener noreferrer">https://youtu.be/CtsRbo_C9l4</a><br><img style="" src="https://pbs.twimg.com/media/FHw9i8GUYAE80Q7?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHw9i8EUYAQcuoH?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Ryan Ho Kilpatrick 何松濤<br>How fitting and tragic that @StandNewsHK’s last story before the announcement of their closure was this video on “forbidden words”—the things we can no longer say and the platforms we’ve lost to say them.<br><br>Watch here until their YouTube channel goes dark: <a href="https://youtu.be/CtsRbo_C9l4" target="_blank" rel="noopener noreferrer">https://youtu.be/CtsRbo_C9l4</a><br><img style src="https://pbs.twimg.com/media/FHw9i8GUYAE80Q7?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHw9i8EUYAQcuoH?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2021-12-29 17:52:48+08:00 推文](https://twitter.com/cnmediaproject/status/1476129063953891329)
 

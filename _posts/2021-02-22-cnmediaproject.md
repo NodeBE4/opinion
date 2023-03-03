@@ -10,7 +10,7 @@ tags:
 title: 'Twitter @China Media Project: 2021-02-22~2021-02-28'
 ---
 
-The China Media Project (中国传媒研究计划) is an independent think
+The CMP is an independent research project studying the Chinese media landscape within the PRC and globally, as well as the CCP's media and political discourse. 
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}
@@ -25,7 +25,7 @@ RT Ferdinand Schaff<br>All This Talk of Independence <a href="https://chinam
 
 ### 3: [2021-02-23 00:36:03+08:00 推文](https://twitter.com/lingli_vienna/status/1363890305645350915)
 
-RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Great work by David Bandurski, Qian Gang and their teams. @cnmediaproject <a href="https://twitter.com/niubi/status/1363880031345336330" target="_blank" rel="noopener noreferrer">https://twitter.com/niubi/status/1363880031345336330</a>
+RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Great work by David Bandurski, Qian Gang and their teams. @cnmediaproject<br><br>Bill Bishop: And very happy to announce that “In 2021, Sinocism and the CMP will also cooperate on monthly reports for Sinocism subscribers looking at leading trends in Chinese official discourse.”<br> <a href="https://twitter.com/niubi/status/1363867112180232200" target="_blank" rel="noopener noreferrer">https://twitter.com/niubi/status/1363867112180232200</a>
 
 ### 4: [2021-02-23 01:35:31+08:00 推文](https://twitter.com/Chri5tianGoebel/status/1363905271320489993)
 

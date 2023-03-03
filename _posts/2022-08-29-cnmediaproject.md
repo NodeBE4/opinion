@@ -10,7 +10,7 @@ tags:
 title: 'Twitter @China Media Project: 2022-08-29~2022-09-04'
 ---
 
-The China Media Project (中国传媒研究计划) is an independent think
+The CMP is an independent research project studying the Chinese media landscape within the PRC and globally, as well as the CCP's media and political discourse. 
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}
@@ -49,7 +49,7 @@ Re More about this trend in our 2021 article, "Xi Jinping, Headline Columnist."�
 
 ### 9: [2022-09-01 10:26:07+08:00 推文](https://twitter.com/cnmediaproject/status/1565164065282215936)
 
-Indeed. "Great struggle" (伟大斗争), complex and daunting (艰巨).<br><br>Ho-fung Hung: that speech is important. it ends with the utmost priority of struggle, struggle, and struggle. struggle is the key word<br> <a href="https://twitter.com/cnmediaproject/status/1565130260001456128" target="_blank" rel="noopener noreferrer">https://twitter.com/cnmediaproject/status/1565130260001456128</a>
+Indeed. "Great struggle" (伟大斗争), complex and daunting (艰巨).<br><br>Ho-fung Hung: that speech is important. it ends with the utmost priority of struggle, struggle, and struggle. struggle is the key word<br>
 
 ### 10: [2022-09-01 14:44:35+08:00 推文](https://twitter.com/cnmediaproject/status/1565229111022604288)
 
