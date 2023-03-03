@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2023-03-01
+date: 2023-03-02
 from: https://old.reddit.com/r/CoronavirusIllinois/comments/11cvj9l/cochrane_review_the_most_rigorous_and_extensive/
 layout: post
 tags:
@@ -221,4 +221,86 @@ Here is why your assumptions are wrong:
 4. "Fully engaged" is a bullshit term that incompetent people use, when they want someone to fail but want to appear like they're encouraging someone to become successful.  If you see that on a performance review, it's time to look for a new job because no matter the degree of your effort someone has it out for you.
 
 It is beyond obvious many commenters here simply have not had the experience of dealing with people like this kid's professor.
+
+### 491: [Michael Shellenberger: Dismissing COVID lab leak theory highlights U.S. government disinformation](https://old.reddit.com/r/Disinfo/comments/11fprh8/michael_shellenberger_dismissing_covid_lab_leak/), submitted on 2023-03-02 10:10:42+08:00.
+
+----- __491.1__ -----2023-03-03 13:46:20+08:00:
+
+> The FBI report
+
+The analysis that matters here is less forensic than genomic.  Specifically, genomic sequencing.  
+
+If a virus was subjected to artificial selection pressures for either transmissibility or virulence, that could be inferred from its genomic sequence.  By analyzing the genetic makeup of different viral strains and identifying patterns of mutation, recombination, and selection, the inferences can be drawn about the virus's evolutionary history (including the degree of similarity and dissimilarity with track records of known pathogens, in nature). 
+
+The mutation rate of a virus can vary greatly depending on its genetic makeup. RNA viruses, for example, tend to have higher mutation rates than DNA viruses due to the error-prone nature of RNA replication. By analyzing the types and frequency of mutations in a virus's genome, researchers can estimate its mutation rate and use this information to infer its evolutionary history --- potentially even the point at which a coronavirus that occurred in nature was deliberately enhanced.  
+
+For example, phylogenetic analysis is a method used to reconstruct the evolutionary relationships between different organisms based on their genetic similarities and differences. By comparing the genomic sequences of different strains or isolates of a virus, researchers can construct a phylogenetic tree that illustrates the evolutionary history of the virus.
+
+Also, the genomic structure of a virus can provide information about the selection pressures that it has faced over time.  To illustrate, if a particular gene or protein has undergone numerous mutations, this may indicate that the virus has been under strong selective pressure to evolve in response to changes in its host environment.  In some cases, inferences can even be drawn about that host environment.  
+
+If a virus is under strong selection pressure, it may evolve more rapidly than a virus that is not under such pressure. Researchers can estimate the evolutionary rate of a virus by comparing the genetic sequences of different strains or isolates, and this information can be used to infer the strength of selection pressures acting on the virus.
+
+One might also look for non-synonymous mutations.  Nonsynonymous mutations are changes to the genetic code that result in an amino acid substitution in the protein encoded by a gene. These types of mutations can alter the function of a protein, and can be indicative of selection pressures acting on the virus.  If a virus that normally infects one species is found to have nonsynonymous mutations in genes that are involved in host recognition, this may indicate that the virus is adapting to a new host species.
+
+Suppose you were trying to enhance transmissibility.   You've got three ways to do it, basically: increased infectivity, replication and transmission.  
+
+RNA viruses can be modified to increase their infectivity, or the ability to enter and infect host cells. This can be achieved by introducing mutations in viral genes that are involved in host recognition and entry. For example, the influenza virus hemagglutinin (HA) protein is responsible for binding to host cells and initiating infection. By modifying the HA protein, researchers can increase the affinity of the virus for host cells, thereby enhancing its infectivity.
+
+RNA viruses can also be modified to enhance their replication, or their ability to produce more virus particles within host cells. This can be achieved by introducing mutations in viral genes that are involved in replication or by introducing additional viral genes that promote replication. For example, the insertion of the SARS-CoV-2 spike protein in other coronaviruses can increase their replication and infectivity.
+
+RNA viruses can be modified to improve their transmission, or the ability to spread from one host to another. This can be achieved by modifying viral genes that are involved in transmission, such as those that affect viral shedding, stability in the environment, or host range. For example, modifying the M protein of the influenza virus can increase its stability in the environment, thereby enhancing its transmission.
+
+On the other hand, suppose you were trying to enhance virulence.  
+
+RNA viruses can be modified to introduce pathogenicity factors, which are molecules or proteins that contribute to the ability of the virus to cause disease. For example, the influenza virus can be modified to introduce the NS1 protein, which helps the virus evade host immune responses and enhances its virulence.
+
+RNA viruses can also be modified to enhance their ability to infect and cause disease in new host species. This can be achieved by introducing mutations in viral genes that are involved in host range or by adapting the virus to grow in new host cells. For example, the SARS-CoV-2 virus, which is thought to have originated in bats, has been shown to be highly adapted to humans, with mutations that enable it to bind more effectively to human host cells and evade human immune responses.
+
+Further, RNA viruses can be modified to increase their resistance to antiviral treatments, such as drugs or vaccines. This can be achieved by introducing mutations in viral genes that are targeted by these treatments or by introducing additional viral genes that promote resistance. For example, the hepatitis C virus can be modified to introduce mutations that confer resistance to antiviral drugs.
+
+None of this is speculation.  It's the story of a virus's evolutionary history, told through the structure of its genetic material.
+
+----- __491.2__ -----2023-03-03 13:48:05+08:00:
+
+> Forensics from 3000 miles away
+
+Your statement is incoherent nonsense.  I am removing it.
+
+----- __491.3__ -----2023-03-03 14:08:50+08:00:
+
+> Peter Daszak
+
+Will have some explaining to do when the time is right.
+
+----- __491.4__ -----2023-03-03 14:11:30+08:00:
+
+The Chinese government and Anthony Fauci made contemporaneous claims about where COVID-19 originated.
+
+They argued it came from some unknown cave in the Chinese provinces.
+
+And maybe it did. At some point.
+
+But somehow, what was in the cave found its way to Wuhan.
+
+The virus accomplished this journey of thousands of miles without infecting a single person on its way there.
+
+Once in Wuhan, the virus from the cave had gained some interesting functions relating to transmissibility and virulence.
+
+Coincidentally enough, one of the three labs on earth that makes a virus like COVID gain those functions is within a few miles of the pandemic's epicenter.
+
+Hardly a coincidence.
+
+I am not saying China weaponized COVID, because I don't think they did (and I don't think the evidence supports any such claims). However, there is no doubt in my mind that a virus like COVID-19 could never have come about in nature. Viruses simply do not evolve like that.
+
+For example, a highly influential paper in this field was published in 2015 in the journal Nature Medicine, titled "A SARS-like cluster of circulating bat coronaviruses shows potential for human emergence" by a team of researchers led by Zheng-Li Shi at the Wuhan Institute of Virology.
+
+This paper described the discovery of a new type of coronavirus, named SHC014-CoV, which was found in horseshoe bats in China and was similar to the SARS-CoV virus that caused the 2003 SARS outbreak. The researchers conducted gain-of-function experiments with the virus in which they modified its spike protein to see if it could infect human cells. The modified virus was able to infect human lung cells and replicated more efficiently than the original virus.
+
+The authors concluded that the findings raised concerns about the potential for the virus to jump from bats to humans and cause a new outbreak similar to SARS. The publication of this paper has been cited in discussions about the origins of SARS-CoV-2, the virus that causes COVID-19, as it originated in bats and has a spike protein that is highly similar to that of SHC014-CoV.
+
+----- __491.5__ -----2023-03-03 14:16:33+08:00:
+
+> those concerned with ethics will be more comfortable pointing towards blameless causes (zoonotic) than causes implying blame (anything human). This is a good response and should be encouraged, particularly in non-scientific spaces (that's you, me, the government, and the press).
+
+Rejecting science because you don't know anything about it is absurd.
 
