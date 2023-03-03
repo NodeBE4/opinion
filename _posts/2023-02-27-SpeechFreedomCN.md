@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2023-03-02
+date: 2023-03-03
 from: https://twitter.com/SpeechFreedomCN/status/1630576080963682307
 layout: post
 tags:
@@ -30,4 +30,12 @@ Re https://twitter.com/speechfreedomcn/status/1369137284679790592?s=46&amp;t=4dG
 ### 4: [2023-03-02 19:53:15+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1631261382908706821)
 
 Zhejiang man Xiao detained for 10 days for saying in a WeChat group chat that police don't care about thieves and scammers, but only scooter drivers, and referring to them as dogs and robbers. https://t.co/y0vvKXVDt4<br><img style="" src="https://pbs.twimg.com/media/FqNnUumXgAE1CUL?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FqNnWUZXoAE05nL?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2023-03-03 20:44:48+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1631636743005798403)
+
+广西来宾市女子何某连，因在被交警处罚后在朋友圈发文抱怨，并称交警为“狗仔”，被认定为侮辱交警并被拘留3日。 https://t.co/E7XOpwTijC<br><img style="" src="https://pbs.twimg.com/media/FqS8sDEXgAETZ17?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2023-03-03 20:45:30+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1631636919930040327)
+
+Guangxi woman He detained for 3 days for referring to police as paparazzi in her WeChat Moments post. https://t.co/RP7ViK3exh<br><img style="" src="https://pbs.twimg.com/media/FqS8__BX0AAL6Py?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
