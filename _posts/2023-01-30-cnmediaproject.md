@@ -25,5 +25,5 @@ RT Carl Minzner<br>Re (2) @cnmediaproject did a nice analysis of  "全过程�
 
 ### 3: [2023-02-04 21:18:34+08:00 推文](https://twitter.com/chenchenzh/status/1621860768315543553)
 
-RT Chenchen Zhang 🤦🏻‍♀️<br>白紙運動被捕者：她們是誰，經歷了什麼？｜大陸｜深度｜端傳媒 Initium Media https://theinitium.com/article/20230203-mainland-white-paper-movement-arrest/
+RT Chenchen Zhang 🤦🏻‍♀️<br>白紙運動被捕者：她們是誰，經歷了什麼？｜大陸｜深度｜端傳媒 Initium Media <a href="https://theinitium.com/article/20230203-mainland-white-paper-movement-arrest/" target="_blank" rel="noopener noreferrer">https://theinitium.com/article/20230203-mainland-white-paper-movement-arrest/</a>
 

@@ -361,7 +361,7 @@ Re @dinglili7 BLM会很不高兴。
 
 ### 87: [2023-03-02 01:45:23+08:00 推文](https://twitter.com/HeQinglian/status/1630987612650450947)
 
-RT He Qinglian<br>全球经济-政治版图之变：中美关系是杠杆<br>https://www.rfa.org/mandarin/pinglun/heqinglian/hql-03012023111612.html<br>中国2022年获得的8776亿美元顺差，8019亿来自于欧美。从2023年影响中美关系的六大变量来看，美国仍居于优势地位，能否发挥优势，一取决于美国国内经济政治状态，二取决于他国在新的多极世界中追随谁；三取决于美国的外交手段是否高明。
+全球经济-政治版图之变：中美关系是杠杆<br>https://www.rfa.org/mandarin/pinglun/heqinglian/hql-03012023111612.html<br>中国2022年获得的8776亿美元顺差，8019亿来自于欧美。从2023年影响中美关系的六大变量来看，美国仍居于优势地位，能否发挥优势，一取决于美国国内经济政治状态，二取决于他国在新的多极世界中追随谁；三取决于美国的外交手段是否高明。
 
 ### 88: [2023-03-02 01:52:16+08:00 推文](https://twitter.com/HeQinglian/status/1630989342985338880)
 
@@ -533,7 +533,7 @@ Re @mafeife52494712 @eGUAbe2V7j26GHw 有些了解，也有茶具（现小茶台�
 
 ### 130: [2023-03-03 05:10:48+08:00 推文](https://twitter.com/HeQinglian/status/1631401695430209536)
 
-看了各国企业破产数据，只能说，重组全球产业链多年未成，一场战争打破原有格局，企业破产只是第一步。<br>欧洲尤其是德国受影响最大，其余的算是次级影响。<div class="rsshub-quote"><br><br>Ezio Mao☢: 欧盟企业的破产申请在 2022 年第四季度大幅增加，达到 2015 年开始收集数据以来的历史新高。 https://t.co/WuMDuIbKPz<br><br><img style="" src="https://pbs.twimg.com/media/FqOXq2QacAMad-D?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+看了各国企业破产数据，只能说，重组全球产业链多年未成，一场战争打破原有格局，企业破产只是第一步。<br>欧洲尤其是德国受影响最大，其余的算是次级影响。 https://twitter.com/KELMAND1/status/1631314256825303040<div class="rsshub-quote"><br><br>Ezio Mao☢: 欧盟企业的破产申请在 2022 年第四季度大幅增加，达到 2015 年开始收集数据以来的历史新高。 https://t.co/WuMDuIbKPz<br><br><img style="" src="https://pbs.twimg.com/media/FqOXq2QacAMad-D?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 131: [2023-03-03 05:39:37+08:00 推文](https://twitter.com/HeQinglian/status/1631408946496905244)
 
@@ -565,7 +565,7 @@ Re @eGUAbe2V7j26GHw @mafeife52494712 🤣🤣<br>你喜欢就好，毕竟是自�
 
 ### 138: [2023-03-03 07:26:53+08:00 推文](https://twitter.com/HeQinglian/status/1631435940848627712)
 
-欲知今日事，需问过来人。<br>欧亚地缘政治，美国太多智库著述，米尔斯海默曾有过推测，中国GDP到某个段位，就会出现这种情况。其实中国行动之时，GDP总量比他讲了大了不少。<br>我改天找出原文。网络时代最大的特点就是忽视前贤智慧。 https://twitter.com/Nobody197575/status/1631323211345563648<div class="rsshub-quote"><br><br>热血汉奸吴三桂: 黄左最气愤的就是俄罗斯和支共苟合，殊不知支共，俄罗斯才是真正的同床异梦，抱团取暖，彼此需求，俄罗斯只是表面上的文章，骨子里下手一点不客气，n次炮击大支渔民就是明证，美帝对古巴渔民都没有那么狠，更别提对大英渔民了，大支和美帝看起来吵吵嚷嚷，他们才是万年一条心的亲爹亲儿子关系 https://twitter.com/zengjieming/status/1631319343177891840<br></div>
+欲知今日事，需问过来人。<br>欧亚地缘政治，美国太多智库著述，米尔斯海默曾有过推测，中国GDP到某个段位，就会出现这种情况。其实中国行动之时，GDP总量比他讲了大了不少。<br>我改天找出原文。网络时代最大的特点就是忽视前贤智慧。<div class="rsshub-quote"><br><br>热血汉奸吴三桂: 黄左最气愤的就是俄罗斯和支共苟合，殊不知支共，俄罗斯才是真正的同床异梦，抱团取暖，彼此需求，俄罗斯只是表面上的文章，骨子里下手一点不客气，n次炮击大支渔民就是明证，美帝对古巴渔民都没有那么狠，更别提对大英渔民了，大支和美帝看起来吵吵嚷嚷，他们才是万年一条心的亲爹亲儿子关系<br></div>
 
 ### 139: [2023-03-03 09:17:47+08:00 推文](https://twitter.com/HeQinglian/status/1631463848774434816)
 
