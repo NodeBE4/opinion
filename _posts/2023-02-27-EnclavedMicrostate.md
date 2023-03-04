@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-03-03
+date: 2023-03-04
 from: https://old.reddit.com/r/AskHistorians/comments/11d4udq/why_dont_medievalearly_modern_china_and_maybe/
 layout: post
 tags:
@@ -94,4 +94,10 @@ His later figures are also worth remarking on, I feel. For 763 he finds a figure
 I'm sure someone with a better grasp of academic German can elucidate on the footnote for 760, but Balazs does note that, if his figures can be extrapolated to include the half not under rebel rule, then that would still constitute a considerable population loss in the empire as a whole, with the number of families having halved even within the assessed territory.
 
 That is, however, a big if, and I would think that were he to have gone into greater depth, then the apparent increase in individuals per family (from about 5.5-6.0 to 8.78) might suggest that the decline in actual population was not as severe as the decline in taxpaying households. I would also be interested to know *which* prefectures stopped being counted, as An Lushan's forces primarily operated in what would have been the empire's metropolitan heartlands in the north Chinese plain. It's entirely conceivable that the fact that it was relatively densely-populated regions that fell off the administrative map also served to exacerbate the effect in the statistics.
+
+### 1134: [The Current Russian-Ukranian War's coverage in the US seems to be somewhat lacking in depth and importance in the cultural zeitgeist. Looking back, were the First and Second World Wars prior to the US's involvement also portrayed in a somewhat cursory manner?](https://old.reddit.com/r/AskHistorians/comments/11hu986/the_current_russianukranian_wars_coverage_in_the/), submitted on 2023-03-04 16:38:01+08:00.
+
+----- __1134.1__ -----2023-03-04 16:56:00+08:00:
+
+This submission has been removed because it involves current events.  To keep from discussion of politics, we have a [20-year rule](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events) here.  You may want to try /r/ask_politics, /r/NeutralPolitics, or another current-events focused sub. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
