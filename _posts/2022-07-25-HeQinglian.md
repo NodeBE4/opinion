@@ -217,7 +217,7 @@ Re @shenliangqing2 美国现在最大的问题是忘记了自身的辉煌是宪�
 
 ### 51: [2022-07-27 22:16:03+08:00 推文](https://twitter.com/HeQinglian/status/1552296764446834689)
 
-由于民主党的努力，美国LGBT人口快接近10%（不包插QI，前一向古川有疑问，给过链接），猴痘应运而生，WHO、法国已经证明此病在男同及与他们有性关系的人群，敬请拜登政府与福奇对症下药，最多扩大至LGBT人群。
+由于民主党的努力，美国LGBT人口快接近10%（不包插QI，前一向古川有疑问，给过链接），猴痘应运而生，WHO、法国已经证明此病在男同及与他们有性关系的人群，敬请拜登政府与福奇对症下药，最多扩大至LGBT人群。<br><br>华尔街日报中文网: 美国联邦数据显示，美国已经报告了3,400多例确诊或疑似猴痘病例，成为自这个国际关注的突发公共卫生事件发生以来已知感染病例最多的国家。<br> <a href="https://on.wsj.com/3JfATo7" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3JfATo7</a>
 
 ### 52: [2022-07-27 22:22:48+08:00 推文](https://twitter.com/HeQinglian/status/1552298464578572288)
 
@@ -305,7 +305,7 @@ Re @xxj2040 年龄这么大，生个病又不是难事。上次是covid-19阳性
 
 ### 73: [2022-07-28 10:34:15+08:00 推文](https://twitter.com/HeQinglian/status/1552482537762693121)
 
-三大美国跨国公司购买了 1700 万公顷乌克兰农业用地<br>对这条消息，不少推主表示怀疑，此为原始出处。 <a href="https://www.australiannationalreview.com/lifestyle/three-large-american-multinationals-bought-17-million-hectares-of-ukrainian-agricultural-land/" target="_blank" rel="noopener noreferrer">https://www.australiannationalreview.com/lifestyle/three-large-american-multinationals-bought-17-million-hectares-of-ukrainian-agricultural-land/</a>
+三大美国跨国公司购买了 1700 万公顷乌克兰农业用地<br>对这条消息，不少推主表示怀疑，此为原始出处。<br><br>晚風: 還剩一半了，波瀾心動嗎？<br><br><img style="" src="https://pbs.twimg.com/media/FYq8LctaQAAg6yz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 74: [2022-07-28 10:37:11+08:00 推文](https://twitter.com/HeQinglian/status/1552483274462748672)
 
@@ -681,7 +681,7 @@ Re @zhixiangziyou @triplebai 羊肉冬瓜汤？<br>羊肉是温补食物，冬�
 
 ### 167: [2022-07-31 03:46:34+08:00 推文](https://twitter.com/HeQinglian/status/1553467102958424065)
 
-尽管知道文化快餐的年代，这种严肃的社会病溯源文章不会有多少人读，但我还是认真推荐。<br>文化马克思主义正在毁掉西方，只是美国有BLM这种暴马加文马存在，毁的速度特别快。
+尽管知道文化快餐的年代，这种严肃的社会病溯源文章不会有多少人读，但我还是认真推荐。<br>文化马克思主义正在毁掉西方，只是美国有BLM这种暴马加文马存在，毁的速度特别快。<br><br>戴维（英国观察）: 解滨：文化马克思主义正在毁掉美国<br> <a href="https://groups.google.com/g/2ncn/c/DIVTQSFiM6o" target="_blank" rel="noopener noreferrer">https://groups.google.com/g/2ncn/c/DIVTQSFiM6o</a>
 
 ### 168: [2022-07-31 04:05:52+08:00 推文](https://twitter.com/HeQinglian/status/1553471960604200960)
 
