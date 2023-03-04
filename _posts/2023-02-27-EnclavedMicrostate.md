@@ -79,3 +79,19 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 Wait, another one!?
 
+### 1133: [The two major rebellions of the Tang Dynasty were the An Lushan and Huang Chao rebellions. One resulted in the end of the Tang Golden Age, while the other resulted in the near-destruction of the Tang, China's aristocracy and foreign merchants. Why is it the former seems to be more well-known online?](https://old.reddit.com/r/AskHistorians/comments/11h1z6v/the_two_major_rebellions_of_the_tang_dynasty_were/), submitted on 2023-03-03 22:21:36+08:00.
+
+----- __1133.1__ -----2023-03-04 09:01:51+08:00:
+
+> If someone has institutional access
+
+Institutional access, you say? [Don't mind if I do...](https://imgur.com/a/ZsjVCjF)
+
+I'll let people who actually understand demography do any interesting analysis that may be done, but I can confirm that Durand is correct when he says that Balazs noted that the number of prefectures counted was halved in the 760 census. In his notes column, the 734 to 754 censuses are remarked as covering between 315 and 362 prefectures depending on the year, whereas the 760 covers a mere 169 prefectures – worthy of an exclamation mark! 
+
+His later figures are also worth remarking on, I feel. For 763 he finds a figure of 9 million families – an *increase* from before the rebellion – which he explicitly highlights as a contemporary estimate, with yet another exclamation mark! Evidently the later sources still suggest a considerable decline in at least reported families, which only recovered to just shy of 5 million by the mid-9th century, but as you note, it's difficult to suggest that this reflects *deaths* rather than administrative disintegration.
+
+I'm sure someone with a better grasp of academic German can elucidate on the footnote for 760, but Balazs does note that, if his figures can be extrapolated to include the half not under rebel rule, then that would still constitute a considerable population loss in the empire as a whole, with the number of families having halved even within the assessed territory.
+
+That is, however, a big if, and I would think that were he to have gone into greater depth, then the apparent increase in individuals per family (from about 5.5-6.0 to 8.78) might suggest that the decline in actual population was not as severe as the decline in taxpaying households. I would also be interested to know *which* prefectures stopped being counted, as An Lushan's forces primarily operated in what would have been the empire's metropolitan heartlands in the north Chinese plain. It's entirely conceivable that the fact that it was relatively densely-populated regions that fell off the administrative map also served to exacerbate the effect in the statistics.
+

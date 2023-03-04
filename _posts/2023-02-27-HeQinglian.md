@@ -77,7 +77,7 @@ Re @qihang19211 我未使用中国居民负债金额这个概念。<br>文中说
 
 ### 16: [2023-02-28 05:28:48+08:00 推文](https://twitter.com/HeQinglian/status/1630319059936899072)
 
-一战爆发后，列宁写了数篇文章，《革命的社会民主党在欧洲大战中的任务》（即“关于战争的提纲”），并以此为基础写了《战争和俄国社会民主党》。这两篇文献确定了这场战争的性质：资产阶级、帝国主义、王朝战争的性质，是非正义的。列宁提出“变帝国主义战争为国内战争”的口号，反沙俄的内战是正义的。<div class="rsshub-quote"><br><br>He Qinglian: @zhuxiuyuan 你独独忘记了《明斯克协议》，现在默克尔都承认当初签订时并未打算遵守，只是希望赢得时间壮大乌克兰的军事实力。<br>建议你学学美国智库的地缘政治理论，从布热津斯基开始，否则这辈子都只会列宁的战争正义-非正义论。<br></div>
+一战爆发后，列宁写了数篇文章，《革命的社会民主党在欧洲大战中的任务》（即“关于战争的提纲”），并以此为基础写了《战争和俄国社会民主党》。这两篇文献确定了这场战争的性质：资产阶级、帝国主义、王朝战争的性质，是非正义的。列宁提出“变帝国主义战争为国内战争”的口号，反沙俄的内战是正义的。 https://twitter.com/HeQinglian/status/1630225930181328896<div class="rsshub-quote"><br><br>He Qinglian: @zhuxiuyuan 你独独忘记了《明斯克协议》，现在默克尔都承认当初签订时并未打算遵守，只是希望赢得时间壮大乌克兰的军事实力。<br>建议你学学美国智库的地缘政治理论，从布热津斯基开始，否则这辈子都只会列宁的战争正义-非正义论。<br></div>
 
 ### 17: [2023-02-28 05:32:44+08:00 推文](https://twitter.com/HeQinglian/status/1630320048488214529)
 
@@ -409,7 +409,7 @@ Re @Wpattern @Wu_Zhi 你这种人死了，也是垃圾。
 
 ### 99: [2023-03-02 05:28:57+08:00 推文](https://twitter.com/HeQinglian/status/1631043873211383808)
 
-这就得好好探究一下其中原因了。<div class="rsshub-quote"><br><br>《北美保守评论》: 📍美国的教会正在衰落之中，在美国每周平均有86座新教教堂关闭，那是一天12间，田纳西州纳什维尔的 LifeWay https://youtu.be/CZV08xO4MEU… https://twitter.com/i/web/status/1631042652983504896 https://t.co/BWbVfcuUvm<br><br><video src="https://video.twimg.com/amplify_video/1631042621119295488/vid/888x494/_UaVw5MUM8QwPV84.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1631042621119295488/img/EizSWMbuB5JgrcTZ.jpg"></video></div>
+这就得好好探究一下其中原因了。 https://twitter.com/NAConservative9/status/1631042652983504896<div class="rsshub-quote"><br><br>《北美保守评论》: 📍美国的教会正在衰落之中，在美国每周平均有86座新教教堂关闭，那是一天12间，田纳西州纳什维尔的 LifeWay https://youtu.be/CZV08xO4MEU… https://twitter.com/i/web/status/1631042652983504896 https://t.co/BWbVfcuUvm<br><br><video src="https://video.twimg.com/amplify_video/1631042621119295488/vid/888x494/_UaVw5MUM8QwPV84.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1631042621119295488/img/EizSWMbuB5JgrcTZ.jpg"></video></div>
 
 ### 100: [2023-03-02 06:02:06+08:00 推文](https://twitter.com/HeQinglian/status/1631052216680235008)
 
@@ -561,7 +561,7 @@ Re @eGUAbe2V7j26GHw @mafeife52494712 🤣🤣<br>你喜欢就好，毕竟是自�
 
 ### 137: [2023-03-03 07:22:41+08:00 推文](https://twitter.com/HeQinglian/status/1631434882839724037)
 
-这是重申美国欧亚地缘政治战略的要点，当时美国提出欧亚大战略之时，是全球化刚结束的1990年代中期。中国那时连经济起飞都没起步。<br>如今美国、中国国力大变，美国重提旧事，只是重温往时旧梦，告诉中国，别忘记不久之前你还穷得很。 https://twitter.com/franz_X_T/status/1631246830964215808<div class="rsshub-quote"><br><br>franz: “中国需要接受美国是亚洲的领导者”<br><br>刚看到这个新闻，我以为是假的😓，于是跑去搜索了一下，结果居然是真事儿。。<br><br>其实这种话仔细品一品，能品出说的人内心的不自信。但又好面儿，结果就跟电影里的桥段似的，跪在地上死乞白赖求中国让中国认他做大哥。<br><br>真的，大人，时代变了。 https://t.co/275epFFNcq<br><br><img style="" src="https://pbs.twimg.com/media/FqNaWL5aMAE3qna?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+这是重申美国欧亚地缘政治战略的要点，当时美国提出欧亚大战略之时，是全球化刚结束的1990年代中期。中国那时连经济起飞都没起步。<br>如今美国、中国国力大变，美国重提旧事，只是重温往时旧梦，告诉中国，别忘记不久之前你还穷得很。<div class="rsshub-quote"><br><br>franz: “中国需要接受美国是亚洲的领导者”<br><br>刚看到这个新闻，我以为是假的😓，于是跑去搜索了一下，结果居然是真事儿。。<br><br>其实这种话仔细品一品，能品出说的人内心的不自信。但又好面儿，结果就跟电影里的桥段似的，跪在地上死乞白赖求中国让中国认他做大哥。<br><br>真的，大人，时代变了。 https://t.co/275epFFNcq<br><br><img style="" src="https://pbs.twimg.com/media/FqNaWL5aMAE3qna?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 138: [2023-03-03 07:26:53+08:00 推文](https://twitter.com/HeQinglian/status/1631435940848627712)
 
@@ -606,4 +606,40 @@ Re @Lucs24659702 美国大麻合法化时应该规定：美国人只能抽美国
 ### 148: [2023-03-04 06:03:03+08:00 推文](https://twitter.com/HeQinglian/status/1631777229339258881)
 
 Re @ericji2006 @Lucs24659702 你高看了美国大麻产业及支持的政客们。<br>大麻合法化本就是无道之举——让国民合法吸毒怎样都不是“有道”。<br>原来估计本国将因此增收数百亿元的大麻产业，最后便宜了中国与墨西哥，连“术”都极为不精。
+
+### 149: [2023-03-04 06:54:10+08:00 推文](https://twitter.com/HeQinglian/status/1631790095387836417)
+
+Re @ericji2006 @Lucs24659702 如果你连讽刺都看不出，就自作多情去正义吧。
+
+### 150: [2023-03-04 08:47:44+08:00 推文](https://twitter.com/HeQinglian/status/1631818673777147904)
+
+Re @shenliangqing2 ？
+
+### 151: [2023-03-04 09:00:14+08:00 推文](https://twitter.com/HeQinglian/status/1631821820499308545)
+
+Re @Wu_Zhi @shenliangqing2 记得这事儿发生好几起了。
+
+### 152: [2023-03-04 09:01:19+08:00 推文](https://twitter.com/HeQinglian/status/1631822094353743872)
+
+Re @NAConservative9 拜登政府所有的阁员大爱无疆。
+
+### 153: [2023-03-04 09:10:50+08:00 推文](https://twitter.com/HeQinglian/status/1631824487262953475)
+
+昨天承诺将米尔斯·海默与布热津斯基讨论中国崛起之后会不会挑战美国的讨论找出来：<br>巨人间的冲突（Clash of the Titans）<br>https://carnegieendowment.org/2005/01/01/clash-of-titans-pub-16538<br>背景是：2003年博鳌亚洲论坛、美国布鲁金斯学会、东亚区域合作与中美关系高层研讨会等国际会议上，由郑必坚率先提出的中国和平崛起理论引发关注。
+
+### 154: [2023-03-04 09:13:02+08:00 推文](https://twitter.com/HeQinglian/status/1631825042366406656)
+
+Re 布热津斯基：<br>今天，在东亚，中国正在崛起——到目前为止还是和平地崛起。民族主义是一股重要的力量，而且对外部问题——特别是台湾问题——中国国内存在着严重的不满。但是，冲突并非不可避免，中国领导者并不想在军事上挑战美国，他们关注的重点依然是经济发展，以及赢得别国对其大国地位的承认。
+
+### 155: [2023-03-04 09:15:20+08:00 推文](https://twitter.com/HeQinglian/status/1631825619167084546)
+
+Re 米尔斯海默认为中国不可能和平崛起。<br>“如果中国以此后几年内，继续大力发展经济并壮大国力（GDP），美国和中国可能会在安全领域发生激烈的对抗，甚至会发生战争。……美国无法容忍与其差不多对手出现。”他认为美国必须设法遏制中国，最终把中国削弱到与美国无法抗衡，不再有能力控制亚洲为止。
+
+### 156: [2023-03-04 09:20:35+08:00 推文](https://twitter.com/HeQinglian/status/1631826943350824960)
+
+Re 米尔斯海默认为，美国和中国之间很可能会进入一场激烈的防务竞争，并极有可能发展为战争。中国的绝大多数邻国，包括印日韩，新加坡，俄罗斯和越南，都可能加入美国的阵营以胁制中国的势力。<br>他发表这番言论是2005 年，中国GDP总量为2.3 万亿美元；预测会发生争端的2020年，中国GDP为14.69 万亿美元。
+
+### 157: [2023-03-04 09:23:49+08:00 推文](https://twitter.com/HeQinglian/status/1631827754579640321)
+
+Re 大师们的预测不会精准到毫厘不差，现在回望，欧亚局势一如布热津斯基所给定的框架；中美关系一如米尔斯海默预测，他没料想到的是中俄如今成了盟友。美国华府现在对华政策的思路与米尔斯海默接近。
 
