@@ -396,3 +396,7 @@ https://www.vogue.fr/vogue-hommes/fashion/diaporama/flashback-bruce-webers-1990s
 
 So basically [the guys in this ad from more than 20 years ago, from Abercrombie & Fitch](https://www.youtube.com/watch?v=IiKf8qCv5Y4&ab_channel=canuckcam).
 
+----- __493.6__ -----2023-03-05 06:43:01+08:00:
+
+There were a lot of problems with old A&F, but I miss the good old days.
+
