@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2023-03-04
+date: 2023-03-05
 from: https://old.reddit.com/r/CoronavirusIllinois/comments/11cvj9l/cochrane_review_the_most_rigorous_and_extensive/
 layout: post
 tags:
@@ -365,4 +365,34 @@ Read a sampling of the first few pages of Google search results, including a Rol
 I am creeped out by him.  
 
 I don't pretend to know everything he's up to, but I think I know enough to know he's up to no good.
+
+### 493: [What does “all american” mean in a gay context?](https://old.reddit.com/r/askgaybros/comments/11i9o0s/what_does_all_american_mean_in_a_gay_context/), submitted on 2023-03-05 02:47:40+08:00.
+
+----- __493.1__ -----2023-03-05 04:46:54+08:00:
+
+> White athletic jocks.
+
+With little body hair, slightly sweaty, wearing tight clothing and lightly tanned.
+
+----- __493.2__ -----2023-03-05 04:47:36+08:00:
+
+> Abercrombie and Fitch
+
+Maybe from 1994-2007.
+
+Edit: 1994 to 2007, not 2004.
+
+----- __493.3__ -----2023-03-05 04:49:23+08:00:
+
+One of the lacrosse players I went to high school with wound up getting a job modeling for them.  He was straight af.  Sadly.
+
+----- __493.4__ -----2023-03-05 04:52:25+08:00:
+
+I edited to 1994.  I forgot about this somehow:
+
+https://www.vogue.fr/vogue-hommes/fashion/diaporama/flashback-bruce-webers-1990s-campaigns-for-abercrombie-fitch/36436
+
+----- __493.5__ -----2023-03-05 05:05:47+08:00:
+
+So basically [the guys in this ad from more than 20 years ago, from Abercrombie & Fitch](https://www.youtube.com/watch?v=IiKf8qCv5Y4&ab_channel=canuckcam).
 
