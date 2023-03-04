@@ -33,7 +33,7 @@ Re @uo7ZC09z6QEAOfd @shenliangqing2 基本如此。更大的问题是他们不�
 
 ### 5: [2023-02-27 02:42:32+08:00 推文](https://twitter.com/HeQinglian/status/1629914829090635781)
 
-最新Rasmussen Reports ，46% 的受访者认为乌战基本处于僵持状态，高于 12 月的 38%。19% 的受访者认为俄罗斯正在赢得乌战, 21%认为乌克兰获胜，低于 12 月份的 32%。有 14% 的人不确定谁赢。https://www.rasmussenreports.com/public_content/politics/biden_administration/ukraine_46_see_war_as_stalemate_after_a_year<br>经济学人这篇文章的结论太迟了。事实上多极世界已现雏形——一鲸落，万物生。 https://twitter.com/KELMAND1/status/1629727091796357126<div class="rsshub-quote"><br><br>Ezio Mao☢: 《经济学人》：乌克兰的命运将成为西方在国际体系中地缘政治地位和影响力的重要决定因素。<br><br>冲突的结果在这件事上将是决定性的—如果基辅输了，那么西方对世界政治影响力的削弱将变得显而易见。在美国及其仆从国在中东遭遇失败之后，许多人开始怀疑西方的力量。 https://t.co/ccK0JAFV47<br><br><img style="" src="https://pbs.twimg.com/media/Fp3yp6XaYAE7GoK?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
+最新Rasmussen Reports ，46% 的受访者认为乌战基本处于僵持状态，高于 12 月的 38%。19% 的受访者认为俄罗斯正在赢得乌战, 21%认为乌克兰获胜，低于 12 月份的 32%。有 14% 的人不确定谁赢。https://www.rasmussenreports.com/public_content/politics/biden_administration/ukraine_46_see_war_as_stalemate_after_a_year<br>经济学人这篇文章的结论太迟了。事实上多极世界已现雏形——一鲸落，万物生。<div class="rsshub-quote"><br><br>Ezio Mao☢: 《经济学人》：乌克兰的命运将成为西方在国际体系中地缘政治地位和影响力的重要决定因素。<br><br>冲突的结果在这件事上将是决定性的—如果基辅输了，那么西方对世界政治影响力的削弱将变得显而易见。在美国及其仆从国在中东遭遇失败之后，许多人开始怀疑西方的力量。 https://t.co/ccK0JAFV47<br><br><img style="" src="https://pbs.twimg.com/media/Fp3yp6XaYAE7GoK?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 6: [2023-02-27 22:19:01+08:00 推文](https://twitter.com/HeQinglian/status/1630210900849246209)
 
@@ -77,7 +77,7 @@ Re @qihang19211 我未使用中国居民负债金额这个概念。<br>文中说
 
 ### 16: [2023-02-28 05:28:48+08:00 推文](https://twitter.com/HeQinglian/status/1630319059936899072)
 
-一战爆发后，列宁写了数篇文章，《革命的社会民主党在欧洲大战中的任务》（即“关于战争的提纲”），并以此为基础写了《战争和俄国社会民主党》。这两篇文献确定了这场战争的性质：资产阶级、帝国主义、王朝战争的性质，是非正义的。列宁提出“变帝国主义战争为国内战争”的口号，反沙俄的内战是正义的。 https://twitter.com/HeQinglian/status/1630225930181328896<div class="rsshub-quote"><br><br>He Qinglian: @zhuxiuyuan 你独独忘记了《明斯克协议》，现在默克尔都承认当初签订时并未打算遵守，只是希望赢得时间壮大乌克兰的军事实力。<br>建议你学学美国智库的地缘政治理论，从布热津斯基开始，否则这辈子都只会列宁的战争正义-非正义论。<br></div>
+一战爆发后，列宁写了数篇文章，《革命的社会民主党在欧洲大战中的任务》（即“关于战争的提纲”），并以此为基础写了《战争和俄国社会民主党》。这两篇文献确定了这场战争的性质：资产阶级、帝国主义、王朝战争的性质，是非正义的。列宁提出“变帝国主义战争为国内战争”的口号，反沙俄的内战是正义的。<div class="rsshub-quote"><br><br>He Qinglian: @zhuxiuyuan 你独独忘记了《明斯克协议》，现在默克尔都承认当初签订时并未打算遵守，只是希望赢得时间壮大乌克兰的军事实力。<br>建议你学学美国智库的地缘政治理论，从布热津斯基开始，否则这辈子都只会列宁的战争正义-非正义论。<br></div>
 
 ### 17: [2023-02-28 05:32:44+08:00 推文](https://twitter.com/HeQinglian/status/1630320048488214529)
 
@@ -273,7 +273,7 @@ Re @shenliangqing2 这在2020年时，推上某维律代表民主党与NGO通知
 
 ### 65: [2023-03-01 08:34:13+08:00 推文](https://twitter.com/HeQinglian/status/1630728109057101824)
 
-NATO Expansion: What Gorbachev Heard<br>https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early <br>共计30个文件，就是备忘录。当然，不是中文的，自己慢慢看。<br>这是我第三次推送给你，去年劝你了解情况时一次，都附了尊推号，<br>@zhuxiuyuan<br>今天上午推送，你连打开都不肯。<div class="rsshub-quote"><br><br>竺修远律师: @Nobody197575 @HeQinglian 没有条约、备忘录等书面协议。<br></div>
+NATO Expansion: What Gorbachev Heard<br>https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early <br>共计30个文件，就是备忘录。当然，不是中文的，自己慢慢看。<br>这是我第三次推送给你，去年劝你了解情况时一次，都附了尊推号，<br>@zhuxiuyuan<br>今天上午推送，你连打开都不肯。 https://twitter.com/zhuxiuyuan/status/1630723092942036993<div class="rsshub-quote"><br><br>竺修远律师: @Nobody197575 @HeQinglian 没有条约、备忘录等书面协议。<br></div>
 
 ### 66: [2023-03-01 08:59:24+08:00 推文](https://twitter.com/HeQinglian/status/1630734448818806785)
 
@@ -409,7 +409,7 @@ Re @Wpattern @Wu_Zhi 你这种人死了，也是垃圾。
 
 ### 99: [2023-03-02 05:28:57+08:00 推文](https://twitter.com/HeQinglian/status/1631043873211383808)
 
-这就得好好探究一下其中原因了。 https://twitter.com/NAConservative9/status/1631042652983504896<div class="rsshub-quote"><br><br>《北美保守评论》: 📍美国的教会正在衰落之中，在美国每周平均有86座新教教堂关闭，那是一天12间，田纳西州纳什维尔的 LifeWay https://youtu.be/CZV08xO4MEU… https://twitter.com/i/web/status/1631042652983504896 https://t.co/BWbVfcuUvm<br><br><video src="https://video.twimg.com/amplify_video/1631042621119295488/vid/888x494/_UaVw5MUM8QwPV84.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1631042621119295488/img/EizSWMbuB5JgrcTZ.jpg"></video></div>
+这就得好好探究一下其中原因了。<div class="rsshub-quote"><br><br>《北美保守评论》: 📍美国的教会正在衰落之中，在美国每周平均有86座新教教堂关闭，那是一天12间，田纳西州纳什维尔的 LifeWay https://youtu.be/CZV08xO4MEU… https://twitter.com/i/web/status/1631042652983504896 https://t.co/BWbVfcuUvm<br><br><video src="https://video.twimg.com/amplify_video/1631042621119295488/vid/888x494/_UaVw5MUM8QwPV84.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1631042621119295488/img/EizSWMbuB5JgrcTZ.jpg"></video></div>
 
 ### 100: [2023-03-02 06:02:06+08:00 推文](https://twitter.com/HeQinglian/status/1631052216680235008)
 
@@ -565,7 +565,7 @@ Re @eGUAbe2V7j26GHw @mafeife52494712 🤣🤣<br>你喜欢就好，毕竟是自�
 
 ### 138: [2023-03-03 07:26:53+08:00 推文](https://twitter.com/HeQinglian/status/1631435940848627712)
 
-欲知今日事，需问过来人。<br>欧亚地缘政治，美国太多智库著述，米尔斯海默曾有过推测，中国GDP到某个段位，就会出现这种情况。其实中国行动之时，GDP总量比他讲了大了不少。<br>我改天找出原文。网络时代最大的特点就是忽视前贤智慧。 https://twitter.com/Nobody197575/status/1631323211345563648<div class="rsshub-quote"><br><br>热血汉奸吴三桂: 黄左最气愤的就是俄罗斯和支共苟合，殊不知支共，俄罗斯才是真正的同床异梦，抱团取暖，彼此需求，俄罗斯只是表面上的文章，骨子里下手一点不客气，n次炮击大支渔民就是明证，美帝对古巴渔民都没有那么狠，更别提对大英渔民了，大支和美帝看起来吵吵嚷嚷，他们才是万年一条心的亲爹亲儿子关系 https://twitter.com/zengjieming/status/1631319343177891840<br></div>
+欲知今日事，需问过来人。<br>欧亚地缘政治，美国太多智库著述，米尔斯海默曾有过推测，中国GDP到某个段位，就会出现这种情况。其实中国行动之时，GDP总量比他讲了大了不少。<br>我改天找出原文。网络时代最大的特点就是忽视前贤智慧。<div class="rsshub-quote"><br><br>热血汉奸吴三桂: 黄左最气愤的就是俄罗斯和支共苟合，殊不知支共，俄罗斯才是真正的同床异梦，抱团取暖，彼此需求，俄罗斯只是表面上的文章，骨子里下手一点不客气，n次炮击大支渔民就是明证，美帝对古巴渔民都没有那么狠，更别提对大英渔民了，大支和美帝看起来吵吵嚷嚷，他们才是万年一条心的亲爹亲儿子关系<br></div>
 
 ### 139: [2023-03-03 09:17:47+08:00 推文](https://twitter.com/HeQinglian/status/1631463848774434816)
 
@@ -654,4 +654,12 @@ Re @JianglinLi 奥巴马在第二任期时略带讥讽地对批评者说过一�
 ### 160: [2023-03-04 21:32:06+08:00 推文](https://twitter.com/HeQinglian/status/1632011032544661504)
 
 Re @shenliangqing2 你就当成真旅游好了。
+
+### 161: [2023-03-04 22:16:31+08:00 推文](https://twitter.com/HeQinglian/status/1632022212801712129)
+
+去年4月，我写文章引用CATO：无效、不道德、政治便利：美国对经济制裁的过度依赖以及如何应对<br>https://www.cato.org/policy-analysis/ineffective-immoral-politically-convenient-americas-overreliance-economic-sanctions<br>作者在研究过美国制裁两打以上国家的样本后，总结说：“最好的研究表明，制裁不仅会造成巨大的经济损失并最终造成生命损失，而且即使按照政策制定者设定的标准，制裁也会失败。” https://twitter.com/KELMAND1/status/1632015096011685889<div class="rsshub-quote"><br><br>Ezio Mao☢: 彭博社：俄罗斯成功绕过欧盟和 G7 制裁，购买制造武器所需的微芯片<br><br>该机构表示，俄罗斯在该电子领域的进口已基本恢复到 2020 年的水平。先进的芯片是通过土耳其、阿拉伯联合酋长国和哈萨克斯坦采购的。<br><br>这还只是官方白手套，世界上还有一种东西叫黑市……通过禁运就想让人买不到这是幼稚的想法😂 https://t.co/WmSGnsG1Dk<br><br><img style="" src="https://pbs.twimg.com/media/FqYVFDpaAAAY8Co?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 162: [2023-03-04 22:22:36+08:00 推文](https://twitter.com/HeQinglian/status/1632023742564933640)
+
+去年有记者（英文媒体）来问我这问题，说这是中共阴谋。<br>我说，别太过份了。大麻合法化，这是拜登民主党的“国策”，难道他们是按中共指令做的？大麻成为美国的人民战争，完全是民主党多年挑起的。至于中国人、中国生产大麻趁机牟利，那也是苍蝇不钻无缝的蛋。 https://twitter.com/bu3bu4/status/1631861384001785859<div class="rsshub-quote"><br><br>burn: @HeQinglian @Lucs24659702 中国公民在美国最大的县生产的，不算本土大麻吗？😂<br></div>
 
