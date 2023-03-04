@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2023-03-02
+date: 2023-03-04
 from: https://old.reddit.com/r/CoronavirusIllinois/comments/11cvj9l/cochrane_review_the_most_rigorous_and_extensive/
 layout: post
 tags:
@@ -351,4 +351,18 @@ Experts can have opinions, but their opinions need to be relevant and credible.
 Your family can tell the world how they think the virus spread.  But none of you are in a position to determine where it came from.  The data you would need to make such claims simply was never collected by the Chinese government.
 
 But even if it was collected, it likely would be wrong anyway.
+
+### 492: [Am I the only one creeped out by Jeffrey Marsh?](https://old.reddit.com/r/askgaybros/comments/11i0dz5/am_i_the_only_one_creeped_out_by_jeffrey_marsh/), submitted on 2023-03-04 22:25:50+08:00.
+
+----- __492.1__ -----2023-03-05 04:23:54+08:00:
+
+Didn't know who this person was, before clicking on this thread.
+
+Google'd him.  
+
+Read a sampling of the first few pages of Google search results, including a Rolling Stone article.
+
+I am creeped out by him.  
+
+I don't pretend to know everything he's up to, but I think I know enough to know he's up to no good.
 
