@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2023-03-04
+date: 2023-03-05
 from: https://twitter.com/rhokilpatrick/status/1630782916480634880
 layout: post
 tags:
@@ -26,4 +26,8 @@ Personal gain or national glory: what is the goal of education? <br><br>Viral fo
 ### 3: [2023-03-04 15:23:02+08:00 推文](https://twitter.com/cnmediaproject/status/1631918156565614592)
 
 Expect "Chinese-style Modernization" (中国式现代化) to be a major theme at this year's National People's Congress. It led the official Xinwen Lianbo broadcast last night. We offer history and context in our latest CMP Dictionary entry. https://chinamediaproject.org/the_ccp_dictionary/chinese-style-modernization/
+
+### 4: [2023-03-05 07:57:05+08:00 推文](https://twitter.com/lizzlaw_/status/1632168315618484225)
+
+RT Elizabeth Law 思敏<br>Re This is the first Two Sessions since the end of China’s zero-Covid policy, which officials had used to restrict access to meetings since 2020. But the number of China-based foreign journos approved to enter key sessions is still severely limited. I counted just over 20 today https://t.co/I4XzfjIrkX<br><img style="" src="https://pbs.twimg.com/media/FqagbCCWIAAiKMj?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

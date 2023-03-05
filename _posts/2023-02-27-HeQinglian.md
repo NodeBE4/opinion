@@ -77,7 +77,7 @@ Re @qihang19211 我未使用中国居民负债金额这个概念。<br>文中说
 
 ### 16: [2023-02-28 05:28:48+08:00 推文](https://twitter.com/HeQinglian/status/1630319059936899072)
 
-一战爆发后，列宁写了数篇文章，《革命的社会民主党在欧洲大战中的任务》（即“关于战争的提纲”），并以此为基础写了《战争和俄国社会民主党》。这两篇文献确定了这场战争的性质：资产阶级、帝国主义、王朝战争的性质，是非正义的。列宁提出“变帝国主义战争为国内战争”的口号，反沙俄的内战是正义的。<div class="rsshub-quote"><br><br>He Qinglian: @zhuxiuyuan 你独独忘记了《明斯克协议》，现在默克尔都承认当初签订时并未打算遵守，只是希望赢得时间壮大乌克兰的军事实力。<br>建议你学学美国智库的地缘政治理论，从布热津斯基开始，否则这辈子都只会列宁的战争正义-非正义论。<br></div>
+一战爆发后，列宁写了数篇文章，《革命的社会民主党在欧洲大战中的任务》（即“关于战争的提纲”），并以此为基础写了《战争和俄国社会民主党》。这两篇文献确定了这场战争的性质：资产阶级、帝国主义、王朝战争的性质，是非正义的。列宁提出“变帝国主义战争为国内战争”的口号，反沙俄的内战是正义的。 https://twitter.com/HeQinglian/status/1630225930181328896<div class="rsshub-quote"><br><br>He Qinglian: @zhuxiuyuan 你独独忘记了《明斯克协议》，现在默克尔都承认当初签订时并未打算遵守，只是希望赢得时间壮大乌克兰的军事实力。<br>建议你学学美国智库的地缘政治理论，从布热津斯基开始，否则这辈子都只会列宁的战争正义-非正义论。<br></div>
 
 ### 17: [2023-02-28 05:32:44+08:00 推文](https://twitter.com/HeQinglian/status/1630320048488214529)
 
@@ -273,7 +273,7 @@ Re @shenliangqing2 这在2020年时，推上某维律代表民主党与NGO通知
 
 ### 65: [2023-03-01 08:34:13+08:00 推文](https://twitter.com/HeQinglian/status/1630728109057101824)
 
-NATO Expansion: What Gorbachev Heard<br>https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early <br>共计30个文件，就是备忘录。当然，不是中文的，自己慢慢看。<br>这是我第三次推送给你，去年劝你了解情况时一次，都附了尊推号，<br>@zhuxiuyuan<br>今天上午推送，你连打开都不肯。<div class="rsshub-quote"><br><br>竺修远律师: @Nobody197575 @HeQinglian 没有条约、备忘录等书面协议。<br></div>
+NATO Expansion: What Gorbachev Heard<br>https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early <br>共计30个文件，就是备忘录。当然，不是中文的，自己慢慢看。<br>这是我第三次推送给你，去年劝你了解情况时一次，都附了尊推号，<br>@zhuxiuyuan<br>今天上午推送，你连打开都不肯。 https://twitter.com/zhuxiuyuan/status/1630723092942036993<div class="rsshub-quote"><br><br>竺修远律师: @Nobody197575 @HeQinglian 没有条约、备忘录等书面协议。<br></div>
 
 ### 66: [2023-03-01 08:59:24+08:00 推文](https://twitter.com/HeQinglian/status/1630734448818806785)
 
@@ -361,7 +361,7 @@ Re @dinglili7 BLM会很不高兴。
 
 ### 87: [2023-03-02 01:45:23+08:00 推文](https://twitter.com/HeQinglian/status/1630987612650450947)
 
-RT He Qinglian<br>全球经济-政治版图之变：中美关系是杠杆<br>https://www.rfa.org/mandarin/pinglun/heqinglian/hql-03012023111612.html<br>中国2022年获得的8776亿美元顺差，8019亿来自于欧美。从2023年影响中美关系的六大变量来看，美国仍居于优势地位，能否发挥优势，一取决于美国国内经济政治状态，二取决于他国在新的多极世界中追随谁；三取决于美国的外交手段是否高明。
+全球经济-政治版图之变：中美关系是杠杆<br>https://www.rfa.org/mandarin/pinglun/heqinglian/hql-03012023111612.html<br>中国2022年获得的8776亿美元顺差，8019亿来自于欧美。从2023年影响中美关系的六大变量来看，美国仍居于优势地位，能否发挥优势，一取决于美国国内经济政治状态，二取决于他国在新的多极世界中追随谁；三取决于美国的外交手段是否高明。
 
 ### 88: [2023-03-02 01:52:16+08:00 推文](https://twitter.com/HeQinglian/status/1630989342985338880)
 
@@ -409,7 +409,7 @@ Re @Wpattern @Wu_Zhi 你这种人死了，也是垃圾。
 
 ### 99: [2023-03-02 05:28:57+08:00 推文](https://twitter.com/HeQinglian/status/1631043873211383808)
 
-这就得好好探究一下其中原因了。<div class="rsshub-quote"><br><br>《北美保守评论》: 📍美国的教会正在衰落之中，在美国每周平均有86座新教教堂关闭，那是一天12间，田纳西州纳什维尔的 LifeWay https://youtu.be/CZV08xO4MEU… https://twitter.com/i/web/status/1631042652983504896 https://t.co/BWbVfcuUvm<br><br><video src="https://video.twimg.com/amplify_video/1631042621119295488/vid/888x494/_UaVw5MUM8QwPV84.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1631042621119295488/img/EizSWMbuB5JgrcTZ.jpg"></video></div>
+这就得好好探究一下其中原因了。 https://twitter.com/NAConservative9/status/1631042652983504896<div class="rsshub-quote"><br><br>《北美保守评论》: 📍美国的教会正在衰落之中，在美国每周平均有86座新教教堂关闭，那是一天12间，田纳西州纳什维尔的 LifeWay https://youtu.be/CZV08xO4MEU… https://twitter.com/i/web/status/1631042652983504896 https://t.co/BWbVfcuUvm<br><br><video src="https://video.twimg.com/amplify_video/1631042621119295488/vid/888x494/_UaVw5MUM8QwPV84.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1631042621119295488/img/EizSWMbuB5JgrcTZ.jpg"></video></div>
 
 ### 100: [2023-03-02 06:02:06+08:00 推文](https://twitter.com/HeQinglian/status/1631052216680235008)
 
@@ -533,7 +533,7 @@ Re @mafeife52494712 @eGUAbe2V7j26GHw 有些了解，也有茶具（现小茶台�
 
 ### 130: [2023-03-03 05:10:48+08:00 推文](https://twitter.com/HeQinglian/status/1631401695430209536)
 
-看了各国企业破产数据，只能说，重组全球产业链多年未成，一场战争打破原有格局，企业破产只是第一步。<br>欧洲尤其是德国受影响最大，其余的算是次级影响。<div class="rsshub-quote"><br><br>Ezio Mao☢: 欧盟企业的破产申请在 2022 年第四季度大幅增加，达到 2015 年开始收集数据以来的历史新高。 https://t.co/WuMDuIbKPz<br><br><img style="" src="https://pbs.twimg.com/media/FqOXq2QacAMad-D?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+看了各国企业破产数据，只能说，重组全球产业链多年未成，一场战争打破原有格局，企业破产只是第一步。<br>欧洲尤其是德国受影响最大，其余的算是次级影响。 https://twitter.com/KELMAND1/status/1631314256825303040<div class="rsshub-quote"><br><br>Ezio Mao☢: 欧盟企业的破产申请在 2022 年第四季度大幅增加，达到 2015 年开始收集数据以来的历史新高。 https://t.co/WuMDuIbKPz<br><br><img style="" src="https://pbs.twimg.com/media/FqOXq2QacAMad-D?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 131: [2023-03-03 05:39:37+08:00 推文](https://twitter.com/HeQinglian/status/1631408946496905244)
 
@@ -657,11 +657,11 @@ Re @shenliangqing2 你就当成真旅游好了。
 
 ### 161: [2023-03-04 22:16:31+08:00 推文](https://twitter.com/HeQinglian/status/1632022212801712129)
 
-去年4月，我写文章引用CATO：无效、不道德、政治便利：美国对经济制裁的过度依赖以及如何应对<br>https://www.cato.org/policy-analysis/ineffective-immoral-politically-convenient-americas-overreliance-economic-sanctions<br>作者在研究过美国制裁两打以上国家的样本后，总结说：“最好的研究表明，制裁不仅会造成巨大的经济损失并最终造成生命损失，而且即使按照政策制定者设定的标准，制裁也会失败。”<div class="rsshub-quote"><br><br>Ezio Mao☢: 彭博社：俄罗斯成功绕过欧盟和 G7 制裁，购买制造武器所需的微芯片<br><br>该机构表示，俄罗斯在该电子领域的进口已基本恢复到 2020 年的水平。先进的芯片是通过土耳其、阿拉伯联合酋长国和哈萨克斯坦采购的。<br><br>这还只是官方白手套，世界上还有一种东西叫黑市……通过禁运就想让人买不到这是幼稚的想法😂 https://t.co/WmSGnsG1Dk<br><br><img style="" src="https://pbs.twimg.com/media/FqYVFDpaAAAY8Co?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+去年4月，我写文章引用CATO：无效、不道德、政治便利：美国对经济制裁的过度依赖以及如何应对<br>https://www.cato.org/policy-analysis/ineffective-immoral-politically-convenient-americas-overreliance-economic-sanctions<br>作者在研究过美国制裁两打以上国家的样本后，总结说：“最好的研究表明，制裁不仅会造成巨大的经济损失并最终造成生命损失，而且即使按照政策制定者设定的标准，制裁也会失败。” https://twitter.com/KELMAND1/status/1632015096011685889<div class="rsshub-quote"><br><br>Ezio Mao☢: 彭博社：俄罗斯成功绕过欧盟和 G7 制裁，购买制造武器所需的微芯片<br><br>该机构表示，俄罗斯在该电子领域的进口已基本恢复到 2020 年的水平。先进的芯片是通过土耳其、阿拉伯联合酋长国和哈萨克斯坦采购的。<br><br>这还只是官方白手套，世界上还有一种东西叫黑市……通过禁运就想让人买不到这是幼稚的想法😂 https://t.co/WmSGnsG1Dk<br><br><img style="" src="https://pbs.twimg.com/media/FqYVFDpaAAAY8Co?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 162: [2023-03-04 22:22:36+08:00 推文](https://twitter.com/HeQinglian/status/1632023742564933640)
 
-去年有记者（英文媒体）来问我这问题，说这是中共阴谋。<br>我说，别太过份了。大麻合法化，这是拜登民主党的“国策”，难道他们是按中共指令做的？大麻成为美国的人民战争，完全是民主党多年挑起的。至于中国人、中国生产大麻趁机牟利，那也是苍蝇不钻无缝的蛋。 https://twitter.com/bu3bu4/status/1631861384001785859<div class="rsshub-quote"><br><br>burn: @HeQinglian @Lucs24659702 中国公民在美国最大的县生产的，不算本土大麻吗？😂<br></div>
+去年有记者（英文媒体）来问我这问题，说这是中共阴谋。<br>我说，别太过份了。大麻合法化，这是拜登民主党的“国策”，难道他们是按中共指令做的？大麻成为美国的人民战争，完全是民主党多年挑起的。至于中国人、中国生产大麻趁机牟利，那也是苍蝇不钻无缝的蛋。<div class="rsshub-quote"><br><br>burn: @HeQinglian @Lucs24659702 中国公民在美国最大的县生产的，不算本土大麻吗？😂<br></div>
 
 ### 163: [2023-03-05 08:55:16+08:00 推文](https://twitter.com/HeQinglian/status/1632182956776206338)
 
@@ -670,4 +670,8 @@ Re @Wu_Zhi 这位作者（哥大教授）的结论就是如此，说是制造了
 ### 164: [2023-03-05 08:58:33+08:00 推文](https://twitter.com/HeQinglian/status/1632183784010395648)
 
 Re @chang36997001 治毒用重典吧。美国自己这样做，也不要再通过外交途径去救在他国贩毒的美国毒贩。
+
+### 165: [2023-03-05 10:47:55+08:00 推文](https://twitter.com/HeQinglian/status/1632211308287238144)
+
+这事与毛文革时“三结合”配置干部异曲同工：革委会必须按工农兵出身配置干部，是否专业不在考虑之列。 https://twitter.com/JianglinLi/status/1631840855030988804<div class="rsshub-quote"><br><br>李江琳: 拜登提名的美国联邦航空管理局局长候选人对航空政策测试成绩：零蛋。---不过政治很正确。 https://twitter.com/TheChiefNerd/status/1631655344115007490<br></div>
 
