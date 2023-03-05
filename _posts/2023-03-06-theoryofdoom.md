@@ -47,3 +47,21 @@ It is clear in the data: when trans became trendy, lots of kids started to think
 
 It's very dark and very unpopular to talk about.
 
+----- __495.5__ -----2023-03-06 06:02:33+08:00:
+
+> I don't need a certain family member telling me there's some other, "better" version of him (esp. as her version of better seems less likely. Maybe I am a transphobe, but it does not seem more likely to me that a trans woman will find a long term longing relationship than a gay man--and unlike this certain relative of mine, I don't think there is anything inherently disgusting or "violent"--her word not mine--about sex between two men. Also, why is anyone talking to me about he 11 year olds potential future sex life?). And I sure as hell don't need him hearing any of that. Because as far I am concerned, he's perfect.
+
+You are not a transphobe.  That certain family member of yours seems to be out of touch with reality.  
+
+Let your son be your son, and keep the people who want to remake him into something they'd like him to be out of his life.
+
+I seriously recommend you keep that certain family member of yours OUT of your son's life.
+
+Everything about that individual's involvement here makes my skin crawl.
+
+### 496: [Saw my boyfriend on Sniffies, how do I tell him I'm fine with it](https://old.reddit.com/r/askgaybros/comments/11j4xrx/saw_my_boyfriend_on_sniffies_how_do_i_tell_him_im/), submitted on 2023-03-06 01:51:58+08:00.
+
+----- __496.1__ -----2023-03-06 06:04:04+08:00:
+
+I am sorry for asking a question everyone here seems to know the answer to . . . but what is "Sniffies"?
+
