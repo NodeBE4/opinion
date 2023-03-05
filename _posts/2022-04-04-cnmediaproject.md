@@ -85,7 +85,7 @@ Prominent play in official Chinese media lately to the phrase "seeking progress 
 
 ### 18: [2022-04-06 13:15:22+08:00 推文](https://twitter.com/niccijsmith/status/1511573256062439427)
 
-RT Nicola Smith<br>Remember when locked down citizens in Wuhan chanted from their windows &amp; balconies to help each other in 2020? Here we have Shanghai in 2022..👇<br><br>Alice Su: As seen on Weibo: Shanghai residents go to their balconies to sing &amp; protest lack of supplies. A drone appears: “Please comply w covid restrictions. Control your soul’s desire for freedom. Do not open the window or sing.”<br><br><video src="https://video.twimg.com/ext_tw_video/1511558805997645828/pu/vid/540x960/OVLxe_dyshml00vn.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1511558805997645828/pu/img/mx9eylEl0JVhlkBN.jpg"></video> <a href="https://m.weibo.cn/status/4755028135383701" target="_blank" rel="noopener noreferrer">https://m.weibo.cn/status/4755028135383701</a>
+RT Nicola Smith<br>Remember when locked down citizens in Wuhan chanted from their windows &amp; balconies to help each other in 2020? Here we have Shanghai in 2022..👇
 
 ### 19: [2022-04-06 13:15:37+08:00 推文](https://twitter.com/cnmediaproject/status/1511573319036071938)
 
@@ -121,7 +121,7 @@ Re 1979: "Today, the situation requires all peace-loving countries and peoples t
 
 ### 27: [2022-04-06 17:05:30+08:00 推文](https://twitter.com/AlexDukalskis/status/1511631170253070337)
 
-RT Alex Dukalskis<br>"Control your soul’s desire for freedom" perhaps unintentionally says a lot about contemporary 🇨🇳.<br><br>Alice Su: As seen on Weibo: Shanghai residents go to their balconies to sing &amp; protest lack of supplies. A drone appears: “Please comply w covid restrictions. Control your soul’s desire for freedom. Do not open the window or sing.”<br><br><video src="https://video.twimg.com/ext_tw_video/1511558805997645828/pu/vid/540x960/OVLxe_dyshml00vn.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1511558805997645828/pu/img/mx9eylEl0JVhlkBN.jpg"></video> <a href="https://m.weibo.cn/status/4755028135383701" target="_blank" rel="noopener noreferrer">https://m.weibo.cn/status/4755028135383701</a>
+RT Alex Dukalskis<br>"Control your soul’s desire for freedom" perhaps unintentionally says a lot about contemporary 🇨🇳.
 
 ### 28: [2022-04-06 19:24:16+08:00 推文](https://twitter.com/OxDemTech/status/1511666092812345348)
 

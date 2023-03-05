@@ -400,3 +400,19 @@ So basically [the guys in this ad from more than 20 years ago, from Abercrombie 
 
 There were a lot of problems with old A&F, but I miss the good old days.
 
+----- __493.7__ -----2023-03-06 01:57:47+08:00:
+
+> Remember the book they used to put out at the begining of the year aka soft porn ? Ahh 8th grade.
+
+The A&F Quarterly?
+
+### 494: [Why do people with children often get angry when they find out you don’t want any?](https://old.reddit.com/r/TooAfraidToAsk/comments/11isxtn/why_do_people_with_children_often_get_angry_when/), submitted on 2023-03-05 17:33:21+08:00.
+
+----- __494.1__ -----2023-03-06 02:12:40+08:00:
+
+Not all people with kids get angry when they find out you don't want any.  
+
+But some people do, because they feel like the difference between your priorities and theirs undermines the validity of their life choices.
+
+This reflects latent insecurity.
+
