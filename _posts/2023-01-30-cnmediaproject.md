@@ -21,7 +21,7 @@ Turning a blind eye to the clear problems stemming from the sudden dismantling o
 
 ### 2: [2023-02-03 22:02:24+08:00 推文](https://twitter.com/CarlMinzner/status/1621509412862017538)
 
-RT Carl Minzner<br>Re (2) @cnmediaproject did a nice analysis of  "全过程人民民主" (whole process democracy) back in 2021. <a href="https://chinamediaproject.org/the_ccp_dictionary/whole-process-democracy/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/whole-process-democracy/</a>
+RT Carl Minzner<br>Re (2) @cnmediaproject did a nice analysis of  "全过程人民民主" (whole process democracy) back in 2021.<br>https://chinamediaproject.org/the_ccp_dictionary/whole-process-democracy/
 
 ### 3: [2023-02-04 21:18:34+08:00 推文](https://twitter.com/chenchenzh/status/1621860768315543553)
 
