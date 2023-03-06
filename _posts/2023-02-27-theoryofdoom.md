@@ -416,3 +416,13 @@ But some people do, because they feel like the difference between your prioritie
 
 This reflects latent insecurity.
 
+### 495: [What’s your type?](https://old.reddit.com/r/askgaybros/comments/11j0aa0/whats_your_type/), submitted on 2023-03-05 23:52:01+08:00.
+
+----- __495.1__ -----2023-03-06 12:09:25+08:00:
+
+12 pt font ftw.
+
+----- __495.2__ -----2023-03-06 12:11:29+08:00:
+
+Lanky twinky blonde boys [with fluffy hair](https://www.youtube.com/shorts/BDYmO7Ojqmk) and sweet personalities.
+

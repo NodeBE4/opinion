@@ -121,5 +121,5 @@ Re 分享菁英论坛节目，听对中国局势更多角度的分析，这对�
 
 ### 27: [2023-02-12 06:51:49+08:00 推文](https://twitter.com/realcaixia/status/1624541745903190016)
 
-这才是中国人自己的生活。这歌有意思。<div class="rsshub-quote"><br><br>ZHANGDONG: 😃😃<br></div>
+这才是中国人自己的生活。这歌有意思。<div class="rsshub-quote"><br><br>ZHANGDONG: 😃😃<br> <a href="https://twitter.com/ltshijie/status/1623331832962883585" target="_blank" rel="noopener noreferrer">https://twitter.com/ltshijie/status/1623331832962883585</a></div>
 

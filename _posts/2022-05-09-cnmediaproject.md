@@ -157,7 +157,7 @@ Re When XJP reaches the section summing up the history of the CCP, he neatly out
 
 ### 36: [2022-05-14 16:13:00+08:00 推文](https://twitter.com/niccijsmith/status/1525388695720714240)
 
-RT Nicola Smith<br>The definition of futility
+RT Nicola Smith<br>The definition of futility<br><br>Arnauld Miguet: Only in #China #airport #Covid19 @francetvchine<br><br><video src="https://video.twimg.com/ext_tw_video/1525337709320892416/pu/vid/264x480/Lb0UOqjF-QuXFw4H.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1525337709320892416/pu/img/hYm9G7RK4H1LY8Bx.jpg"></video>
 
 ### 37: [2022-05-15 08:29:36+08:00 推文](https://twitter.com/cnmediaproject/status/1525634465279938560)
 
@@ -173,5 +173,5 @@ RT William Yang<br>Important story from @hkfp: "The list of closed platforms a
 
 ### 40: [2022-05-15 18:44:54+08:00 推文](https://twitter.com/puzhiqiang/status/1525789313195053056)
 
-RT 浦志强<br>胡德华人好，风趣幽默一针见血。2014年2月在《炎黄春秋》团拜会上，他的讲话反响很好，但让有心人不舒服。我记得他说，他没啥学问，没咋读书，他妹妹那拨儿就更完了，文革开始才十二三岁，学校课不上了，也没书可读。我们边听边乐边鼓掌。后来我出事了，请他当社长的《炎黄春秋》，最终还是被抢了。
+RT 浦志强<br>胡德华人好，风趣幽默一针见血。2014年2月在《炎黄春秋》团拜会上，他的讲话反响很好，但让有心人不舒服。我记得他说，他没啥学问，没咋读书，他妹妹那拨儿就更完了，文革开始才十二三岁，学校课不上了，也没书可读。我们边听边乐边鼓掌。后来我出事了，请他当社长的《炎黄春秋》，最终还是被抢了。<br><br>【批判邪惡⇔捍衛真理】: 胡耀邦儿子谈胡耀邦与邓小平的区别：<br>邓小平是为党，胡耀邦是为民。现在，习近平也是为党！<br><br><video src="https://video.twimg.com/ext_tw_video/1525531028546195457/pu/vid/432x240/2TGDc2WrDPOcM6Hl.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1525531028546195457/pu/img/zWN45tjSECCIoL_d.jpg"></video>
 
