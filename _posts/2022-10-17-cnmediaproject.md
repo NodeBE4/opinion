@@ -213,7 +213,7 @@ How Xi Jinping's address on Sunday was not a "work report" — and other misunde
 
 ### 50: [2022-10-18 23:40:23+08:00 推文](https://twitter.com/cnmediaproject/status/1582396180163887105)
 
-Good to know. Next up is the keyword fallacy -- words like 开放 that many crunch into data at their peril. The charts are proliferating.<br><br>Holly Snape: 👏👏👏 This is awesome. Clear and concise, it corrects the key common misunderstandings.<br> <a href="https://twitter.com/cnmediaproject/status/1582367120549376001" target="_blank" rel="noopener noreferrer">https://twitter.com/cnmediaproject/status/1582367120549376001</a>
+Good to know. Next up is the keyword fallacy -- words like 开放 that many crunch into data at their peril. The charts are proliferating.<br><br>Holly Snape: 👏👏👏 This is awesome. Clear and concise, it corrects the key common misunderstandings.<br>
 
 ### 51: [2022-10-18 23:42:02+08:00 推文](https://twitter.com/cnmediaproject/status/1582396595701968897)
 
@@ -289,7 +289,7 @@ Re @BeatriceGallel1 That's right. We wrote about that here: <a href="https://c
 
 ### 69: [2022-10-22 03:26:45+08:00 推文](https://twitter.com/niubi/status/1583540310948204544)
 
-RT Bill Bishop<br>An Quanzhong owns the Parc hotel, which he will likely be forced to forfeit now. Guy clearly a flight risk, bail likely will be denied.<br><img style="" src="https://pbs.twimg.com/media/FfndhIpXgBAm2l3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><br>Bill Bishop: The indictment is fascinating. Some highlights. FBI should put mob investigators on these cases<br><br><img style="" src="https://pbs.twimg.com/media/FfncwyHXgAoEFsY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfncwyAXgBQZa_B?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfncwyBXgAUU2ow?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfncwyiagAEuYJU?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/niubi/status/1583527512868409344" target="_blank" rel="noopener noreferrer">https://twitter.com/niubi/status/1583527512868409344</a>
+RT Bill Bishop<br>An Quanzhong owns the Parc hotel, which he will likely be forced to forfeit now. Guy clearly a flight risk, bail likely will be denied.<br><img style="" src="https://pbs.twimg.com/media/FfndhIpXgBAm2l3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><br>Bill Bishop: The indictment is fascinating. Some highlights. FBI should put mob investigators on these cases<br><br><img style="" src="https://pbs.twimg.com/media/FfncwyHXgAoEFsY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfncwyAXgBQZa_B?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfncwyBXgAUU2ow?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfncwyiagAEuYJU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 70: [2022-10-22 06:48:45+08:00 推文](https://twitter.com/cnmediaproject/status/1583591146466340864)
 
