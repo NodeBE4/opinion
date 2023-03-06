@@ -105,7 +105,7 @@ Re 中共秘书侍候领导十分周到，20年前我曾经参加过中组部一
 
 ### 23: [2022-05-20 22:03:57+08:00 推文](https://twitter.com/realcaixia/status/1527651342239600640)
 
-對中共統治體制和體制運作的機制需要深入研究。這無論是從社會學政治學理論角度看，還是從維護全世界自由民主和平看，都是極為重大而緊迫的課題。<br><br>韩连潮: 【哈德逊中国中心】恭贺哈德逊中国中心成立，恭贺余茂春博士主持新成立的哈德逊中国中心工作，相信在他和蓬佩奥国务卿领导下，中心一定会出一系列重要研究成果，为美国决策者提供急需的意见和策略。<br>Hudson Institute Launches New China Center - by Hudson Institute<br> <a href="https://www.hudson.org/research/17833-hudson-institute-launches-new-china-center" target="_blank" rel="noopener noreferrer">https://www.hudson.org/research/17833-hudson-institute-launches-new-china-center</a>
+對中共統治體制和體制運作的機制需要深入研究。這無論是從社會學政治學理論角度看，還是從維護全世界自由民主和平看，都是極為重大而緊迫的課題。
 
 ### 24: [2022-05-21 06:17:37+08:00 推文](https://twitter.com/realcaixia/status/1527775579025686529)
 
