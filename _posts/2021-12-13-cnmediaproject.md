@@ -41,7 +41,7 @@ RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>How does the people’s congress system realiz
 
 ### 7: [2021-12-14 15:52:38+08:00 推文](https://twitter.com/cnmediaproject/status/1470663005452996609)
 
-The "real results" reading of China's political system would be far more compelling if the CCP did not have a vast and expanding propaganda system to manufacture them.<br><img style src="https://pbs.twimg.com/media/FGjYNW3UcAUXmaL?format=jpg&name=orig" referrerpolicy="no-referrer">
+The "real results" reading of China's political system would be far more compelling if the CCP did not have a vast and expanding propaganda system to manufacture them.<br><img style="" src="https://pbs.twimg.com/media/FGjYNW3UcAUXmaL?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2021-12-14 17:07:40+08:00 推文](https://twitter.com/MIC_Journal/status/1470681885978218509)
 
@@ -113,7 +113,7 @@ Re @emilyjodell It certainly does look that way.
 
 ### 25: [2021-12-16 13:54:06+08:00 推文](https://twitter.com/cnmediaproject/status/1471357948480073728)
 
-This is perhaps one of Hu's last spin jobs -- depicting his own departure from the Global Times as a "retirement."<br><img style="" src="https://pbs.twimg.com/media/FGtQOh5VUAAHh-e?format=jpg&name=orig" referrerpolicy="no-referrer">
+This is perhaps one of Hu's last spin jobs -- depicting his own departure from the Global Times as a "retirement."<br><img style src="https://pbs.twimg.com/media/FGtQOh5VUAAHh-e?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 26: [2021-12-16 13:55:18+08:00 推文](https://twitter.com/cnmediaproject/status/1471358253871562752)
 
@@ -121,7 +121,7 @@ Re Serious question: How long before he posts the same news to Twitter?
 
 ### 27: [2021-12-16 15:17:20+08:00 推文](https://twitter.com/cnmediaproject/status/1471378897703157760)
 
-Our report on the "retirement" of Hu Xijin as editor-in-chief of the Global Times, with some notes on his possible replacements. <a href="https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/</a><br><img style src="https://pbs.twimg.com/media/FGtjR5zVcAYHjIK?format=jpg&name=orig" referrerpolicy="no-referrer">
+Our report on the "retirement" of Hu Xijin as editor-in-chief of the Global Times, with some notes on his possible replacements. <a href="https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/</a><br><img style="" src="https://pbs.twimg.com/media/FGtjR5zVcAYHjIK?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 28: [2021-12-16 16:32:34+08:00 推文](https://twitter.com/vshih2/status/1471397830212218884)
 
@@ -141,11 +141,11 @@ A must-read post by CMP's Stella Chen on the history (and current practice) of "
 
 ### 32: [2021-12-17 09:34:35+08:00 推文](https://twitter.com/cnmediaproject/status/1471655029144981505)
 
-In our dictionary entry on "ideol. and pol. education" (思政), this example stands out: a university biology textbook instructing teachers to related a study of DNA to the concept of "red genes" and gratitude to the mother country. <a href="https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/</a><br><img style="" src="https://pbs.twimg.com/media/FGxebRZaIAEfOTo?format=jpg&name=orig" referrerpolicy="no-referrer">
+In our dictionary entry on "ideol. and pol. education" (思政), this example stands out: a university biology textbook instructing teachers to related a study of DNA to the concept of "red genes" and gratitude to the mother country. <a href="https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/</a><br><img style src="https://pbs.twimg.com/media/FGxebRZaIAEfOTo?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 33: [2021-12-17 09:36:29+08:00 推文](https://twitter.com/cnmediaproject/status/1471655508486811652)
 
-Re "Red Genes" (红色基因) is another term in our growing CMP Dictionary. <a href="https://chinamediaproject.org/the_ccp_dictionary/red-genes/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/red-genes/</a><br><img style src="https://pbs.twimg.com/media/FGxe4E2aMAEucKz?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re "Red Genes" (红色基因) is another term in our growing CMP Dictionary. <a href="https://chinamediaproject.org/the_ccp_dictionary/red-genes/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/red-genes/</a><br><img style="" src="https://pbs.twimg.com/media/FGxe4E2aMAEucKz?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 34: [2021-12-17 09:37:42+08:00 推文](https://twitter.com/cnmediaproject/status/1471655811298791426)
 
@@ -157,11 +157,11 @@ Re Discussion of DNA, prokaryotic cells 等等 leads to: "At this point, teacher
 
 ### 36: [2021-12-17 09:45:09+08:00 推文](https://twitter.com/cnmediaproject/status/1471657685795835904)
 
-Re Here is a whole group of texts designed to teach teachers in HOW TO work "ideological and political education" into their subjects -- from college English to economics to business management to geography, biology and medicine.<br><img style src="https://pbs.twimg.com/media/FGxg255aMAARDAL?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Here is a whole group of texts designed to teach teachers in HOW TO work "ideological and political education" into their subjects -- from college English to economics to business management to geography, biology and medicine.<br><img style="" src="https://pbs.twimg.com/media/FGxg255aMAARDAL?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 37: [2021-12-17 11:08:06+08:00 推文](https://twitter.com/cnmediaproject/status/1471678563963502595)
 
-Judging from our per-article site statistics, schadenfreude over Hu Xijin's "retirement" is a super-incentive for readers. Seriously, though, do take the time for good analysis, like our dictionary entry on the infiltration of CCP politics into education. <a href="https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/</a><br><img style src="https://pbs.twimg.com/media/FGxz2H0aIAYIgIA?format=jpg&name=orig" referrerpolicy="no-referrer">
+Judging from our per-article site statistics, schadenfreude over Hu Xijin's "retirement" is a super-incentive for readers. Seriously, though, do take the time for good analysis, like our dictionary entry on the infiltration of CCP politics into education. <a href="https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/</a><br><img style="" src="https://pbs.twimg.com/media/FGxz2H0aIAYIgIA?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 38: [2021-12-17 11:17:41+08:00 推文](https://twitter.com/suelinwong/status/1471680973347901442)
 
