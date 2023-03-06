@@ -59,6 +59,10 @@ I seriously recommend you keep that certain family member of yours OUT of your s
 
 Everything about that individual's involvement here makes my skin crawl.
 
+----- __495.6__ -----2023-03-06 10:27:01+08:00:
+
+Upvoting this good advice.
+
 ### 496: [Is it discoverable to use someone's blood to murder someone's own self?](https://old.reddit.com/r/crime/comments/11j0wag/is_it_discoverable_to_use_someones_blood_to/), submitted on 2023-03-06 00:16:01+08:00.
 
 ----- __496.1__ -----2023-03-06 09:34:08+08:00:
