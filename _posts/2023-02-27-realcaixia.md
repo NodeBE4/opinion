@@ -29,11 +29,11 @@ Re https://t.co/kaatc091nt<br><img style="" src="https://pbs.twimg.com/media/Fp6
 
 ### 4: [2023-03-01 09:53:47+08:00 推文](https://twitter.com/realcaixia/status/1630748134484897792)
 
-他的这首歌我很喜欢。每个人都会有恐惧，我们如果正视并战胜内心的恐惧感，我们看未来就有希望，而不会让失望乃至绝望压倒自己，从而使自己绽放出更多的生命活力和生命的光彩。<div class="rsshub-quote"><br><br>Grey: 在路上有點累，但我想堅持寫歌，也讓我自己鼓舞起來，面對恐懼。 https://t.co/kTNoBdyVMt<br><br><video src="https://video.twimg.com/ext_tw_video/1630414454654468096/pu/vid/720x1280/IIcC1OPmY2QDS2KF.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1630414454654468096/pu/img/tN8acFv2gl1nP0CB.jpg"></video></div>
+他的这首歌我很喜欢。每个人都会有恐惧，我们如果正视并战胜内心的恐惧感，我们看未来就有希望，而不会让失望乃至绝望压倒自己，从而使自己绽放出更多的生命活力和生命的光彩。 https://twitter.com/geleilaoshi/status/1630414862349217796<div class="rsshub-quote"><br><br>Grey: 在路上有點累，但我想堅持寫歌，也讓我自己鼓舞起來，面對恐懼。 https://t.co/kTNoBdyVMt<br><br><video src="https://video.twimg.com/ext_tw_video/1630414454654468096/pu/vid/720x1280/IIcC1OPmY2QDS2KF.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1630414454654468096/pu/img/tN8acFv2gl1nP0CB.jpg"></video></div>
 
 ### 5: [2023-03-01 10:36:57+08:00 推文](https://twitter.com/realcaixia/status/1630758997128011779)
 
-致敬姚先生！十年被迫害，老 先生依然气质高雅，凛凛正气。充分显示老先生十年坚持风骨气节，保持尊严，挺立于天地之间！ https://twitter.com/newcenturybaopu/status/1630548083632402439<div class="rsshub-quote"><br><br>Bao Pu 鮑樸: 在大陸冤獄10年的香港「晨鐘出版社」出版人姚文田先生（右二）2023年2月27日終於「刑滿」出獄。左三是姚夫人。 https://t.co/V3ksmrcO59<br><br><img style="" src="https://pbs.twimg.com/media/FqDeAo6aIAAW5TO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+致敬姚先生！十年被迫害，老 先生依然气质高雅，凛凛正气。充分显示老先生十年坚持风骨气节，保持尊严，挺立于天地之间！ https://twitter.com/NewCenturyBaopu/status/1630548083632402439<div class="rsshub-quote"><br><br>Bao Pu 鮑樸: 在大陸冤獄10年的香港「晨鐘出版社」出版人姚文田先生（右二）2023年2月27日終於「刑滿」出獄。左三是姚夫人。 https://t.co/V3ksmrcO59<br><br><img style="" src="https://pbs.twimg.com/media/FqDeAo6aIAAW5TO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 6: [2023-03-01 11:18:53+08:00 推文](https://twitter.com/realcaixia/status/1630769550923841539)
 
@@ -49,7 +49,7 @@ Re https://t.co/z96hhSQ4Y2<br><img style="" src="https://pbs.twimg.com/media/FqG
 
 ### 9: [2023-03-02 01:42:31+08:00 推文](https://twitter.com/realcaixia/status/1630986890898989056)
 
-我同意韩先生的看法。我细读了两遍刘亚洲先生的文章，我很认同这篇文章，尽管我并不完全认同刘亚洲将军其他的观点。<br>习近平担心控制不了军队，以年龄为由迫使刘晓江、刘源、刘亚洲退役。<br>三位上将中，刘亚洲很有独立思想和很强的表达能力。习为了能全部控制军队，以莫须有罪名置刘亚洲死地。<div class="rsshub-quote"><br><br>韩连潮: 社會只存在著一個思想，那就是君主的思想。只存在著一個聲音，那就是君主的聲音。在一個國家，某種思想一旦成為「惟一」，而且「法定」，這個民族就休想再有什麼想像力和靈性了<br>--刘亚洲：甲申年再祭<br>刘亚洲看透了中国帝王人治社会本质，他的观点直接威胁习近平独裁，习要用莫须有罪名置他于死地。 https://t.co/UwY6fJHXud<br><br><img style="" src="https://pbs.twimg.com/media/FqBEhZzWAAEqj0b?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+我同意韩先生的看法。我细读了两遍刘亚洲先生的文章，我很认同这篇文章，尽管我并不完全认同刘亚洲将军其他的观点。<br>习近平担心控制不了军队，以年龄为由迫使刘晓江、刘源、刘亚洲退役。<br>三位上将中，刘亚洲很有独立思想和很强的表达能力。习为了能全部控制军队，以莫须有罪名置刘亚洲死地。 https://twitter.com/lianchaohan/status/1630378407853735936<div class="rsshub-quote"><br><br>韩连潮: 社會只存在著一個思想，那就是君主的思想。只存在著一個聲音，那就是君主的聲音。在一個國家，某種思想一旦成為「惟一」，而且「法定」，這個民族就休想再有什麼想像力和靈性了<br>--刘亚洲：甲申年再祭<br>刘亚洲看透了中国帝王人治社会本质，他的观点直接威胁习近平独裁，习要用莫须有罪名置他于死地。 https://t.co/UwY6fJHXud<br><br><img style="" src="https://pbs.twimg.com/media/FqBEhZzWAAEqj0b?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 10: [2023-03-02 02:07:03+08:00 推文](https://twitter.com/realcaixia/status/1630993063345782784)
 
@@ -81,7 +81,7 @@ Re 我们这一代努力推进民主宪政的人都在步入老年阶段，推�
 
 ### 17: [2023-03-03 02:32:05+08:00 推文](https://twitter.com/realcaixia/status/1631361749705187346)
 
-特别推荐：议报发布胡平先生文章。<br>读完文章，让我获得三点认识：1，新冠病毒是人工合成的，绝不是自然界出现的；2，科学无国界，全球合作推进科学研究本是正常现象，但出现的人为后果必须要有责任承担方。3，追查新冠病毒疫情源头关系到全人类福祉，中共国阻止追查是反科学并极不负责的态度。 https://twitter.com/yibaochina/status/1631308860504920067<div class="rsshub-quote"><br><br>《议报》: 胡平 | 新冠病毒是人工合成的吗？https://yibaochina.com/?p=249665 即使证明了新冠病毒是出自自然界，那不等于就排除了实验室泄漏这种可能性。但是如果证明了新冠病毒是人工合成的，那么就只能是从实验室泄漏的，因为大自然没有这种病毒，只有实验室里才有。<br></div>
+特别推荐：议报发布胡平先生文章。<br>读完文章，让我获得三点认识：1，新冠病毒是人工合成的，绝不是自然界出现的；2，科学无国界，全球合作推进科学研究本是正常现象，但出现的人为后果必须要有责任承担方。3，追查新冠病毒疫情源头关系到全人类福祉，中共国阻止追查是反科学并极不负责的态度。<div class="rsshub-quote"><br><br>《议报》: 胡平 | 新冠病毒是人工合成的吗？https://yibaochina.com/?p=249665 即使证明了新冠病毒是出自自然界，那不等于就排除了实验室泄漏这种可能性。但是如果证明了新冠病毒是人工合成的，那么就只能是从实验室泄漏的，因为大自然没有这种病毒，只有实验室里才有。<br></div>
 
 ### 18: [2023-03-03 02:48:52+08:00 推文](https://twitter.com/realcaixia/status/1631365975705542669)
 
