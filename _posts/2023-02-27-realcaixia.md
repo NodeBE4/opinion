@@ -89,7 +89,7 @@ Re 科学研究无国界，恰恰需要多国合作。前美苏冷战时期，�
 
 ### 19: [2023-03-03 04:22:32+08:00 推文](https://twitter.com/realcaixia/status/1631389547576836096)
 
-极权统治反人道反人伦。 https://twitter.com/ipkmedia/status/1631324322919862273<div class="rsshub-quote"><br><br>光傳媒官推 官網 https://www.ipkmedia.com: 【关注胡佳·反对强制离京式迫害】<br><br>中共每年两会扰民伤财，强制许多民主人士离京是惯例。八十岁高瑜先生已经被迫离京<br>胡佳父母是中国少有的右派夫妻，历经磨难，其母亲已经去世，父亲病危，<br>呼吁停止被迫离京这种侵权和迫害<br><br>胡佳：强制离京避两会成惯例 不堪忍受无法为病危老父送终 <br>来自voachinese<br></div>
+极权统治反人道反人伦。 https://twitter.com/Ipkmedia/status/1631324322919862273<div class="rsshub-quote"><br><br>光傳媒官推 官網 https://www.ipkmedia.com: 【关注胡佳·反对强制离京式迫害】<br><br>中共每年两会扰民伤财，强制许多民主人士离京是惯例。八十岁高瑜先生已经被迫离京<br>胡佳父母是中国少有的右派夫妻，历经磨难，其母亲已经去世，父亲病危，<br>呼吁停止被迫离京这种侵权和迫害<br><br>胡佳：强制离京避两会成惯例 不堪忍受无法为病危老父送终 <br>来自voachinese<br></div>
 
 ### 20: [2023-03-03 08:42:05+08:00 推文](https://twitter.com/realcaixia/status/1631454867175931905)
 
