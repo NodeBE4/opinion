@@ -25,7 +25,7 @@ RT Vincent Brussee<br>With news that 🇳🇱 is set to ban TikTok from work p
 
 ### 3: [2023-02-16 10:31:00+08:00 推文](https://twitter.com/JChengWSJ/status/1626046455919316993)
 
-RT Jonathan Cheng<br>WaPo: The U.S. tracked the Chinese balloon as it lifted off from Hainan on a flight path that would have taken it over Guam. But the craft took a surprise northern turn, say U.S. officials who now think China didn’t intend to penetrate the U.S. heartland.<br>https://wapo.st/3YRC2sK
+RT Jonathan Cheng<br>WaPo: The U.S. tracked the Chinese balloon as it lifted off from Hainan on a flight path that would have taken it over Guam. But the craft took a surprise northern turn, say U.S. officials who now think China didn’t intend to penetrate the U.S. heartland. <a href="https://wapo.st/3YRC2sK" target="_blank" rel="noopener noreferrer">https://wapo.st/3YRC2sK</a>
 
 ### 4: [2023-02-16 12:15:13+08:00 推文](https://twitter.com/cnmediaproject/status/1626072682684121088)
 
@@ -37,5 +37,5 @@ In our latest piece for "Going Global," we take an in-depth look at the China In
 
 ### 6: [2023-02-17 15:08:06+08:00 推文](https://twitter.com/cnmediaproject/status/1626478579994497024)
 
-Re "Despite its clear and direct association with the Central Propaganda Department, CICC has presented itself globally as a media group ready to do business."<br><img style="" src="https://pbs.twimg.com/media/FpJponxagAEau8-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re "Despite its clear and direct association with the Central Propaganda Department, CICC has presented itself globally as a media group ready to do business." https://t.co/tzF3kwfkIr<br><img style="" src="https://pbs.twimg.com/media/FpJponxagAEau8-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
