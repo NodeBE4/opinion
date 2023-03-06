@@ -409,7 +409,7 @@ Re 曾有推友认为我讲40国联军是段子，真不是，就是美国讲过
 
 ### 99: [2022-07-14 08:47:17+08:00 推文](https://twitter.com/HeQinglian/status/1547382189557440513)
 
-这句话……，<br>是念稿子还是拜登即兴发挥？白宫发言人能否解释一下？以释天下之疑。<br><br>Newsmax: President Biden, after touching down in Israel on Wednesday, mistakenly said we must keep alive the "honor of the Holocaust," instead of the "horror of the Holocaust." <br><br>Biden also mispronounced the name of the Jerusalem Holocaust museum Yad Vashem.<br><br><video src="https://video.twimg.com/ext_tw_video/1547351417999872001/pu/vid/720x720/sVbxqwFXpVticfYH.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1547351417999872001/pu/img/wNf8BYThTWYdtlcd.jpg"></video> <a href="https://bit.ly/3Ru2PZ7" target="_blank" rel="noopener noreferrer">https://bit.ly/3Ru2PZ7</a>
+这句话……，<br>是念稿子还是拜登即兴发挥？白宫发言人能否解释一下？以释天下之疑。
 
 ### 100: [2022-07-14 10:21:19+08:00 推文](https://twitter.com/HeQinglian/status/1547405851232796672)
 
@@ -697,7 +697,7 @@ Re @JianglinLi 我们这下了一场雨，一英寸不到。但是喷灌系统�
 
 ### 171: [2022-07-17 21:56:27+08:00 推文](https://twitter.com/HeQinglian/status/1548667952366485504)
 
-我可没觉得当初BBC不知道这消息。<br>此时报，我也不觉得是该台想恢复媒体追求事实。<br><br>BBC News 中文: 2020年，据称属于乔·拜登之子亨特·拜登的笔记本电脑内容曝光，内容涉及以权谋私指称以及亨特的私生活细节。直至今日，“硬盘门”风波依然涟漪未息。亨特·拜登电脑事件真相到底是什么?<br> <a href="https://bbc.in/3ci3FrO" target="_blank" rel="noopener noreferrer">https://bbc.in/3ci3FrO</a>
+我可没觉得当初BBC不知道这消息。<br>此时报，我也不觉得是该台想恢复媒体追求事实。
 
 ### 172: [2022-07-17 22:04:40+08:00 推文](https://twitter.com/HeQinglian/status/1548670019877437441)
 

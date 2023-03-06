@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2023-03-06
+date: 2023-03-07
 from: https://twitter.com/realcaixia/status/1632471204849405952
 layout: post
 tags:
@@ -37,7 +37,7 @@ Re @XIAOMIEHM 曾经有一本书《为什么美国没有社会主义？》1995�
 
 ### 6: [2023-03-06 11:33:51+08:00 推文](https://twitter.com/realcaixia/status/1632585253507452930)
 
-海外华人许多人不知道这个被习欣赏、在一次全国文艺工作座谈会上，习点名发言的周小平何许人也？何以有“臭咸带鱼”这个绰号？我查了一下维基百科，给推友们提供些资料。<div class="rsshub-quote"><br><br>荣剑: 这时代如他所愿，臭咸带鱼翻身了！ https://t.co/1UxwASuckm<br><br><img style="" src="https://pbs.twimg.com/media/Fqfc14bWIAE_DIA?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+海外华人许多人不知道这个被习欣赏、在一次全国文艺工作座谈会上，习点名发言的周小平何许人也？何以有“臭咸带鱼”这个绰号？我查了一下维基百科，给推友们提供些资料。 https://twitter.com/rongjian1957/status/1632516295613710336<div class="rsshub-quote"><br><br>荣剑: 这时代如他所愿，臭咸带鱼翻身了！ https://t.co/1UxwASuckm<br><br><img style="" src="https://pbs.twimg.com/media/Fqfc14bWIAE_DIA?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 7: [2023-03-06 11:35:28+08:00 推文](https://twitter.com/realcaixia/status/1632585660799545345)
 
@@ -58,4 +58,16 @@ Re @shusheng0 讀書人怎麼反而犯糊塗呢？去醫院是第一選擇！專
 ### 11: [2023-03-06 15:55:02+08:00 推文](https://twitter.com/realcaixia/status/1632650984122925056)
 
 Re 维基百科所写本人硕博入学这段，有3点错误：1，1992年报考硕士研究生，必须本人报名，苏州党校无权推荐，更不免考。本人参加了全国统一考卷统一考试；2，中央党校没有硕博连读，必须报考博士研究生并考试，以分数定录取；3，本人1998年获博士学位，毕业留校工作，绝不是2000年毕业。维基百科明显错误。
+
+### 12: [2023-03-07 00:16:44+08:00 推文](https://twitter.com/realcaixia/status/1632777243293532160)
+
+凡不能忘記的都要記歷史帳。將1949後每個整人的政治運動、給中國人帶來巨大劫難後果的獨裁決策一一記下來。我們這輩人要講給現在的年輕人聽，現在的年輕人要講給後來的人聽。我們要留下一切承載歷史記憶苦難浩劫的文字，圖片，收集統計資料和各種圖片、小說、回憶錄、論著，一切藝術作品⋯⋯，上史書！ https://twitter.com/iforchina/status/1632742063820161024<div class="rsshub-quote"><br><br>公民力量: 如同成功抹去六四天安门屠杀的历史记忆，中共正在抹去人民对“新冠清零”的记忆；退休老人因巨大社保缺口将面临再就业；中国出口的新亮点-东盟。议报英文每周中国热议。 https://twitter.com/yibao_en/status/1632740697303400451<br></div>
+
+### 13: [2023-03-07 00:19:24+08:00 推文](https://twitter.com/realcaixia/status/1632777911710416897)
+
+完全同意胡平先生的意見。 https://twitter.com/huping1/status/1632762450956132354<div class="rsshub-quote"><br><br>Hu Ping胡平: 大多数上海人都知道张文宏在说什么，反对张文宏的人也知道张文宏在说什么。如果你到现在还看不懂张文宏在说什么，认为他在游走取巧，那只能是你的理解别人的能力太低了。 https://twitter.com/WeiyuanOttawa/status/1632760682050355201<br></div>
+
+### 14: [2023-03-07 00:26:49+08:00 推文](https://twitter.com/realcaixia/status/1632779780012785664)
+
+這些人難道就不明白所謂統一，就是把自己送給習黑幫團伙當奴隸嗎？你問過你兒子孫子的意願嗎？你這是引狼入室，禍害2000多萬台灣人。你若想「統一」，不妨先把你自己統一過去，到大陸居住生活，成為大陸居民。去實地生活感受「統一」的日子。 https://twitter.com/__inty__/status/1632769585178107905<div class="rsshub-quote"><br><br>Inty: 台湾境内的【统一义勇军】等着中国解放他们，希望被中国统一https://t.co/sF4fw2QEsD https://twitter.com/i/web/status/1632769585178107905 https://t.co/L1kDrLU1RU<br><br><img style="" src="https://pbs.twimg.com/media/FqjDOqDagAAAAbf?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
