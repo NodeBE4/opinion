@@ -109,7 +109,7 @@ Re @guidepeter2004 我不太清楚怎么能买到书，想了解多一些李锐�
 
 ### 24: [2022-07-31 18:47:49+08:00 推文](https://twitter.com/realcaixia/status/1553693913738887169)
 
-非常了不起的大翻译运动！非常优秀的年轻人！
+非常了不起的大翻译运动！非常优秀的年轻人！<br><br>The Great Translation Movement 大翻译运动官方推号: <br><br><img style="" src="https://pbs.twimg.com/media/FY6wB18VsAMh5VY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FY6xPaxUIAAuqRD?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FY6xQeXUcAAlEQ9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 25: [2022-07-31 20:00:44+08:00 推文](https://twitter.com/realcaixia/status/1553712261545529344)
 
