@@ -105,3 +105,11 @@ One semester I offered an incentive: If (at the time of each test) you had one o
 
 Those were the highest performing classes I held.
 
+----- __502.2__ -----2023-03-07 11:04:25+08:00:
+
+I think that's a good policy.  It also simplifies how much work I had to do in grading exams I didn't want to grade.
+
+This was at a time when students actually took exams on paper.  
+
+I understand the world has changed since then.
+
