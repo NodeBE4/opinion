@@ -49,7 +49,7 @@ Re More about this trend in our 2021 article, "Xi Jinping, Headline Columnist."�
 
 ### 9: [2022-09-01 10:26:07+08:00 推文](https://twitter.com/cnmediaproject/status/1565164065282215936)
 
-Indeed. "Great struggle" (伟大斗争), complex and daunting (艰巨).<br><br>Ho-fung Hung: that speech is important. it ends with the utmost priority of struggle, struggle, and struggle. struggle is the key word<br> <a href="https://twitter.com/cnmediaproject/status/1565130260001456128" target="_blank" rel="noopener noreferrer">https://twitter.com/cnmediaproject/status/1565130260001456128</a>
+Indeed. "Great struggle" (伟大斗争), complex and daunting (艰巨).<br><br>Ho-fung Hung: that speech is important. it ends with the utmost priority of struggle, struggle, and struggle. struggle is the key word<br>
 
 ### 10: [2022-09-01 14:44:35+08:00 推文](https://twitter.com/cnmediaproject/status/1565229111022604288)
 
