@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2023-03-06
+date: 2023-03-07
 from: https://twitter.com/cnmediaproject/status/1632573545762160640
 layout: post
 tags:
@@ -46,4 +46,32 @@ A whopping 21 articles use the phrase "Chinese-style Modernization" today in the
 ### 8: [2023-03-06 12:02:01+08:00 推文](https://twitter.com/cnmediaproject/status/1632592345320538114)
 
 Another CCP buzzword of the day: "Whole-process Democracy" (全过程民主). Read up in the CMP Dictionary: https://chinamediaproject.org/the_ccp_dictionary/whole-process-democracy/
+
+### 9: [2023-03-07 08:11:31+08:00 推文](https://twitter.com/cnmediaproject/status/1632896726460936192)
+
+Today in phrase-spotting at the NPC. The People's Daily again gives prominent play to the notion of "high-quality development" (高质量发展), seen in the top headline with "healthy development of the private economy."  The emphasis: reassuring both public and private business. https://t.co/sj3KR0Dl3d<br><img style="" src="https://pbs.twimg.com/media/Fqk1rhmaUAAFUte?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 10: [2023-03-07 08:24:46+08:00 推文](https://twitter.com/cnmediaproject/status/1632900059405901824)
+
+Re In this headline article, two more phrases pop out. We have the "Two Unshakeables" (两个毫不动摇) and the "Three Unchangeables" (三个没有变). The first appeared in the 2012 political report, and the second at the NPC in 2016. Both deal with public/private economy support. https://t.co/iwaeujVNDz<br><img style="" src="https://pbs.twimg.com/media/Fqk3V-VaYAABvXu?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 11: [2023-03-07 08:28:36+08:00 推文](https://twitter.com/cnmediaproject/status/1632901023995170819)
+
+Re The "Two Unshakeables" (两个毫不动摇) are about the concerted development of the public sector economy on the one hand, and the private sector economy on the other — the idea being that BOTH are the key to strong economic development in China. https://t.co/0x5IS5gTqr<br><img style="" src="https://pbs.twimg.com/media/Fqk60OiaMAAdAkJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 12: [2023-03-07 08:41:43+08:00 推文](https://twitter.com/cnmediaproject/status/1632904324392292352)
+
+Re The "Three Unchangeables" (or "Three Steadfasts") affirms that 1. the "status" (地位) of the private sector in China's economic development is unchanged, 2. the "unwavering policy" of supporting it is unchanged, and 3. the commitment to a sound private sector env. is unchanged. https://t.co/4Pwam16OQp<br><img style="" src="https://pbs.twimg.com/media/Fqk9x8naIAAyr1M?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 13: [2023-03-07 08:48:50+08:00 推文](https://twitter.com/cnmediaproject/status/1632906114160525312)
+
+Re These reflect unease in China's private sector about the leadership's economic development and governance priorities in recent years. There have been continued questions about whether Xi intends to push ahead with market reforms or pull them back. https://www.bnnbloomberg.ca/china-s-talk-of-two-unwaverings-reveals-private-sector-fears-1.1158460
+
+### 14: [2023-03-07 08:53:54+08:00 推文](https://twitter.com/cnmediaproject/status/1632907391590363136)
+
+Re In November 2018, Xi met with entrepreneurs in a bid to calm nerves. And in an interview shortly after, Baidu CEO Robin Li addressed the issue — namedropping both of the above-mentioned CCP catchphrases. CMP's translation is here: https://chinamediaproject.org/2018/11/23/robin-li-on-ai-and-the-private-sector/ https://t.co/Db75sjIhBa<br><img style="" src="https://pbs.twimg.com/media/FqlAnD6aUAAJyuh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 15: [2023-03-07 08:56:13+08:00 推文](https://twitter.com/cnmediaproject/status/1632907974846066689)
+
+Re Another related term in the official press today: "streamlining services" (放管服). This is about cutting down on red tape to make things easier for business. Read up on the term in the CMP Dictionary: https://chinamediaproject.org/the_ccp_dictionary/streamlining-services/
 

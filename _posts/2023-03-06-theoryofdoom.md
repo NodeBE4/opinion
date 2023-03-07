@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2023-03-06
+date: 2023-03-07
 from: https://old.reddit.com/r/askgaybros/comments/11j0tpx/mom_looking_for_advice/
 layout: post
 tags:
@@ -82,4 +82,26 @@ I am sorry for asking a question everyone here seems to know the answer to . . .
 ----- __499.1__ -----2023-03-06 09:31:30+08:00:
 
 One of the best crime stories ever told.
+
+### 500: [What’s a modern day poison people willingly ingest?](https://old.reddit.com/r/AskReddit/comments/11k1cwd/whats_a_modern_day_poison_people_willingly_ingest/), submitted on 2023-03-06 23:09:25+08:00.
+
+----- __500.1__ -----2023-03-07 09:30:53+08:00:
+
+Vape pens.
+
+### 501: [I find 'coming out as nonbinary' or transition stories cringey and sexist, rather than wholesome.](https://old.reddit.com/r/askgaybros/comments/11k8ll8/i_find_coming_out_as_nonbinary_or_transition/), submitted on 2023-03-07 02:20:03+08:00.
+
+----- __501.1__ -----2023-03-07 09:28:40+08:00:
+
+I agree.  Hetereosexual (often white) women engage in the act of "coming out as non-binary" to ride that woke wave.  
+
+This behavior is nothing more than thinly veiled narcissism.
+
+### 502: [Just got excused from my midterm](https://old.reddit.com/r/college/comments/11kbqgu/just_got_excused_from_my_midterm/), submitted on 2023-03-07 03:46:42+08:00.
+
+----- __502.1__ -----2023-03-07 09:19:14+08:00:
+
+One semester I offered an incentive: If (at the time of each test) you had one of the five highest averages in the class, you did not have to take the midterm or the final.  I just gave those students full credit.
+
+Those were the highest performing classes I held.
 
