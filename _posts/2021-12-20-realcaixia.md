@@ -25,7 +25,7 @@ title: 'Twitter @蔡霞: 2021-12-20~2021-12-26'
 
 ### 3: [2021-12-21 01:10:47+08:00 推文](https://twitter.com/realcaixia/status/1472977794254589952)
 
-请大家帮忙转发，仅仅只是说几句话，李田田老师就遭此劫难！谁人无母亲？谁人不为人子？把身为孕妇的李田田老师强制关进精神病院，她的孩子还没出生就被极权专政迫害摧残，这样的事令人发指！<br><br>悉尼閑人: 轉<br><br><img style src="https://pbs.twimg.com/media/FHCRx-_UUAM6rl_?format=jpg&name=orig" referrerpolicy="no-referrer">
+请大家帮忙转发，仅仅只是说几句话，李田田老师就遭此劫难！谁人无母亲？谁人不为人子？把身为孕妇的李田田老师强制关进精神病院，她的孩子还没出生就被极权专政迫害摧残，这样的事令人发指！<br><br>悉尼閑人: 轉<br><br><img style="" src="https://pbs.twimg.com/media/FHCRx-_UUAM6rl_?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-12-21 22:43:38+08:00 推文](https://twitter.com/realcaixia/status/1473303149129646097)
 
@@ -89,11 +89,11 @@ Re @JIEDU4 看来你是个假基督徒！
 
 ### 19: [2021-12-25 08:09:46+08:00 推文](https://twitter.com/realcaixia/status/1474532784853200896)
 
-如果这个消息是可靠的话。感恩上帝，平安夜送来的最好的消息。希望所有善良的人都能一生平安。<br><br>靜心: 李田田最新消息。<br><br><img style src="https://pbs.twimg.com/media/FHYLZt3XsAAu3Wo?format=jpg&name=orig" referrerpolicy="no-referrer">
+如果这个消息是可靠的话。感恩上帝，平安夜送来的最好的消息。希望所有善良的人都能一生平安。<br><br>靜心: 李田田最新消息。<br><br><img style="" src="https://pbs.twimg.com/media/FHYLZt3XsAAu3Wo?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 20: [2021-12-25 10:51:09+08:00 推文](https://twitter.com/realcaixia/status/1474573401775816710)
 
-感謝謝阳律师。<br><img style="" src="https://pbs.twimg.com/media/FHa8sV-XsAAvAJg?format=jpg&name=orig" referrerpolicy="no-referrer">
+感謝謝阳律师。<br><img style src="https://pbs.twimg.com/media/FHa8sV-XsAAvAJg?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 21: [2021-12-25 20:27:29+08:00 推文](https://twitter.com/realcaixia/status/1474718440720150528)
 
@@ -133,15 +133,15 @@ Re 有跟帖说林郑坐的也是雕龙椅。对，全图显示所有参与者�
 
 ### 30: [2021-12-25 23:41:27+08:00 推文](https://twitter.com/realcaixia/status/1474767250523623427)
 
-记得吴淦是零口供。<br><br>王荔蕻: #聖誕快樂 <br>今天2021年12月25日 #屠夫吳淦 因不能無視他人的苦難，面對惡行轉過頭去，並以藝術的形式表達對受迫害者的支持，被以「顛覆罪」惡判八年。數失去自由的日子到今天——吳淦已扛過2410天。#距離自由還有511天 #FreeWuGan<br><br><img style src="https://pbs.twimg.com/media/FHafABYUYAYSXk-?format=jpg&name=orig" referrerpolicy="no-referrer">
+记得吴淦是零口供。<br><br>王荔蕻: #聖誕快樂 <br>今天2021年12月25日 #屠夫吳淦 因不能無視他人的苦難，面對惡行轉過頭去，並以藝術的形式表達對受迫害者的支持，被以「顛覆罪」惡判八年。數失去自由的日子到今天——吳淦已扛過2410天。#距離自由還有511天 #FreeWuGan<br><br><img style="" src="https://pbs.twimg.com/media/FHafABYUYAYSXk-?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 31: [2021-12-26 00:12:16+08:00 推文](https://twitter.com/realcaixia/status/1474775009465970697)
 
-Re 请看这张全图。参会的人坐的椅子与习近平是一样的吗？如果还要睁眼说瞎话，不是装瞎就是蠢坏兼备。<br><img style src="https://pbs.twimg.com/media/FHd0DeRWQA0ASgu?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re 请看这张全图。参会的人坐的椅子与习近平是一样的吗？如果还要睁眼说瞎话，不是装瞎就是蠢坏兼备。<br><img style="" src="https://pbs.twimg.com/media/FHd0DeRWQA0ASgu?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 32: [2021-12-26 00:19:25+08:00 推文](https://twitter.com/realcaixia/status/1474776807601811459)
 
-前三句很有名，体制内流传甚广，唯冰心老人一问，丝毫没有听说。“无士则亡”！而今一语成谶！<br><br>高伐林: 转贴——<br><br><img style="" src="https://pbs.twimg.com/media/FHaQXV_XsAUUmZx?format=jpg&name=orig" referrerpolicy="no-referrer">
+前三句很有名，体制内流传甚广，唯冰心老人一问，丝毫没有听说。“无士则亡”！而今一语成谶！<br><br>高伐林: 转贴——<br><br><img style src="https://pbs.twimg.com/media/FHaQXV_XsAUUmZx?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 33: [2021-12-26 01:24:29+08:00 推文](https://twitter.com/realcaixia/status/1474793179966853123)
 
