@@ -135,3 +135,11 @@ Re @at8341 @eGUAbe2V7j26GHw 以后是这样，仿照挪威，妻子生孩子，�
 
 Re @xu_qq @Fumitoku_T @eGUAbe2V7j26GHw 她支持所有的左派主张（包括同性婚与CRT、气候变化的环保先锋），就是对变性女不认同，对变性男没说过什么。<br>也就是说，她99%都政治正确，就1%不正确，所以被打倒了。她觉得委屈，说的就是这点。
 
+### 31: [2023-03-07 10:46:38+08:00 推文](https://twitter.com/HeQinglian/status/1632935760964796419)
+
+Re @worldpeople2019 @KarenWenLin 这有点误解，美国保守派与左派各占40%左右，青年人将AOC当作草根逆袭，是榜样。
+
+### 32: [2023-03-07 11:08:01+08:00 推文](https://twitter.com/HeQinglian/status/1632941140130365441)
+
+Re @languagebb @Ipkmedia 建议你看看骄傲月大游行。<br>凡看过的正常人没人认为正常，这不是生活中的lgbtqi+。事实上，物以类聚。
+
