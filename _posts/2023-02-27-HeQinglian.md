@@ -273,7 +273,7 @@ Re @shenliangqing2 这在2020年时，推上某维律代表民主党与NGO通知
 
 ### 65: [2023-03-01 08:34:13+08:00 推文](https://twitter.com/HeQinglian/status/1630728109057101824)
 
-NATO Expansion: What Gorbachev Heard<br>https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early <br>共计30个文件，就是备忘录。当然，不是中文的，自己慢慢看。<br>这是我第三次推送给你，去年劝你了解情况时一次，都附了尊推号，<br>@zhuxiuyuan<br>今天上午推送，你连打开都不肯。 https://twitter.com/zhuxiuyuan/status/1630723092942036993<div class="rsshub-quote"><br><br>竺修远律师: @Nobody197575 @HeQinglian 没有条约、备忘录等书面协议。<br></div>
+NATO Expansion: What Gorbachev Heard<br>https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early <br>共计30个文件，就是备忘录。当然，不是中文的，自己慢慢看。<br>这是我第三次推送给你，去年劝你了解情况时一次，都附了尊推号，<br>@zhuxiuyuan<br>今天上午推送，你连打开都不肯。<div class="rsshub-quote"><br><br>竺修远律师: @Nobody197575 @HeQinglian 没有条约、备忘录等书面协议。<br></div>
 
 ### 66: [2023-03-01 08:59:24+08:00 推文](https://twitter.com/HeQinglian/status/1630734448818806785)
 
@@ -409,7 +409,7 @@ Re @Wpattern @Wu_Zhi 你这种人死了，也是垃圾。
 
 ### 99: [2023-03-02 05:28:57+08:00 推文](https://twitter.com/HeQinglian/status/1631043873211383808)
 
-这就得好好探究一下其中原因了。<div class="rsshub-quote"><br><br>《北美保守评论》: 📍美国的教会正在衰落之中，在美国每周平均有86座新教教堂关闭，那是一天12间，田纳西州纳什维尔的 LifeWay https://youtu.be/CZV08xO4MEU… https://twitter.com/i/web/status/1631042652983504896 https://t.co/BWbVfcuUvm<br><br><video src="https://video.twimg.com/amplify_video/1631042621119295488/vid/888x494/_UaVw5MUM8QwPV84.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1631042621119295488/img/EizSWMbuB5JgrcTZ.jpg"></video></div>
+这就得好好探究一下其中原因了。 https://twitter.com/NAConservative9/status/1631042652983504896<div class="rsshub-quote"><br><br>《北美保守评论》: 📍美国的教会正在衰落之中，在美国每周平均有86座新教教堂关闭，那是一天12间，田纳西州纳什维尔的 LifeWay https://youtu.be/CZV08xO4MEU… https://twitter.com/i/web/status/1631042652983504896 https://t.co/BWbVfcuUvm<br><br><video src="https://video.twimg.com/amplify_video/1631042621119295488/vid/888x494/_UaVw5MUM8QwPV84.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1631042621119295488/img/EizSWMbuB5JgrcTZ.jpg"></video></div>
 
 ### 100: [2023-03-02 06:02:06+08:00 推文](https://twitter.com/HeQinglian/status/1631052216680235008)
 
@@ -513,7 +513,7 @@ Re @JianglinLi @kanjianweilai @shenliangqing2 @Isabel_3299 行至水穷处，坐
 
 ### 125: [2023-03-03 01:12:14+08:00 推文](https://twitter.com/HeQinglian/status/1631341656623529984)
 
-三个主要原因导致了罗马帝国的崩溃。一，帝国变得过大，一个单一的中心已难以对其进行管治。分成东西两半，又破坏了其权力垄断性。二，帝国长期的狂妄自大造成了文化上的享乐主义，精英的腐败导致社会的全面腐败。三，持续的通货膨胀破坏这一体制的那种维持自身又无需作出社会牺牲的能力。 https://twitter.com/HeQinglian/status/1631290944552071171<div class="rsshub-quote"><br><br>He Qinglian: @shenliangqing2 @Isabel_3299 共和党最后只能先内部决战一场，说起来悲哀，美国国运悬于此一线，如果运气好，缓和几年，也许有机会。<br>但反正不会再是布热津斯基当年写《大棋局》时那种操盘一切的气势了，最多就是个棋手。<br>雅典的僭主政治+罗马帝国晚期的荒淫-身份政治。也许最后能够成就一部《新罗马帝国衰亡史》。<br></div>
+三个主要原因导致了罗马帝国的崩溃。一，帝国变得过大，一个单一的中心已难以对其进行管治。分成东西两半，又破坏了其权力垄断性。二，帝国长期的狂妄自大造成了文化上的享乐主义，精英的腐败导致社会的全面腐败。三，持续的通货膨胀破坏这一体制的那种维持自身又无需作出社会牺牲的能力。<div class="rsshub-quote"><br><br>He Qinglian: @shenliangqing2 @Isabel_3299 共和党最后只能先内部决战一场，说起来悲哀，美国国运悬于此一线，如果运气好，缓和几年，也许有机会。<br>但反正不会再是布热津斯基当年写《大棋局》时那种操盘一切的气势了，最多就是个棋手。<br>雅典的僭主政治+罗马帝国晚期的荒淫-身份政治。也许最后能够成就一部《新罗马帝国衰亡史》。<br></div>
 
 ### 126: [2023-03-03 01:16:03+08:00 推文](https://twitter.com/HeQinglian/status/1631342619069431809)
 
@@ -561,7 +561,7 @@ Re @eGUAbe2V7j26GHw @mafeife52494712 🤣🤣<br>你喜欢就好，毕竟是自�
 
 ### 137: [2023-03-03 07:22:41+08:00 推文](https://twitter.com/HeQinglian/status/1631434882839724037)
 
-这是重申美国欧亚地缘政治战略的要点，当时美国提出欧亚大战略之时，是全球化刚结束的1990年代中期。中国那时连经济起飞都没起步。<br>如今美国、中国国力大变，美国重提旧事，只是重温往时旧梦，告诉中国，别忘记不久之前你还穷得很。 https://twitter.com/franz_X_T/status/1631246830964215808<div class="rsshub-quote"><br><br>franz: “中国需要接受美国是亚洲的领导者”<br><br>刚看到这个新闻，我以为是假的😓，于是跑去搜索了一下，结果居然是真事儿。。<br><br>其实这种话仔细品一品，能品出说的人内心的不自信。但又好面儿，结果就跟电影里的桥段似的，跪在地上死乞白赖求中国让中国认他做大哥。<br><br>真的，大人，时代变了。 https://t.co/275epFFNcq<br><br><img style="" src="https://pbs.twimg.com/media/FqNaWL5aMAE3qna?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+这是重申美国欧亚地缘政治战略的要点，当时美国提出欧亚大战略之时，是全球化刚结束的1990年代中期。中国那时连经济起飞都没起步。<br>如今美国、中国国力大变，美国重提旧事，只是重温往时旧梦，告诉中国，别忘记不久之前你还穷得很。<div class="rsshub-quote"><br><br>franz: “中国需要接受美国是亚洲的领导者”<br><br>刚看到这个新闻，我以为是假的😓，于是跑去搜索了一下，结果居然是真事儿。。<br><br>其实这种话仔细品一品，能品出说的人内心的不自信。但又好面儿，结果就跟电影里的桥段似的，跪在地上死乞白赖求中国让中国认他做大哥。<br><br>真的，大人，时代变了。 https://t.co/275epFFNcq<br><br><img style="" src="https://pbs.twimg.com/media/FqNaWL5aMAE3qna?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 138: [2023-03-03 07:26:53+08:00 推文](https://twitter.com/HeQinglian/status/1631435940848627712)
 
