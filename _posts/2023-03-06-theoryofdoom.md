@@ -113,3 +113,9 @@ This was at a time when students actually took exams on paper.
 
 I understand the world has changed since then.
 
+### 503: [Why Scientists Got the Covid Lab Leak Wrong](https://old.reddit.com/r/Disinfo/comments/11kzcj6/why_scientists_got_the_covid_lab_leak_wrong/), submitted on 2023-03-07 21:28:04+08:00.
+
+----- __503.1__ -----2023-03-07 21:28:35+08:00:
+
+[NO PAYWALL](https://archive.is/LdMkm)
+
