@@ -65,7 +65,7 @@ title: 'Twitter @蔡霞: 2022-06-20~2022-06-26'
 
 ### 13: [2022-06-24 05:15:50+08:00 推文](https://twitter.com/realcaixia/status/1540081219471392769)
 
-全世界众目睽睽之下，中共当局迫害中国正义人士。这笔帐记着，中国宪政民主之时，习近平、习的酷吏打手将会向米洛舍维奇一样被押上人权法庭接受审判。
+全世界众目睽睽之下，中共当局迫害中国正义人士。这笔帐记着，中国宪政民主之时，习近平、习的酷吏打手将会向米洛舍维奇一样被押上人权法庭接受审判。<br><br>BBC News 中文: 许志永是中国知名的法律学者，推动中国公民运动的领军人。丁家喜曾是航空工程师，后来转任律师，曾与许志永等人发起 “新公民运动”。<br><br>他们二人涉嫌“颠覆国家政权罪”的案件，将分别于22日和24日在山东一家法院不公开开庭审理。<br> <a href="https://bbc.in/3QB7FmN" target="_blank" rel="noopener noreferrer">https://bbc.in/3QB7FmN</a>
 
 ### 14: [2022-06-24 05:27:38+08:00 推文](https://twitter.com/realcaixia/status/1540084187755122688)
 
@@ -97,7 +97,7 @@ Re 人以群分物以类聚，价值观相同，追求一致的人迟早聚到�
 
 ### 21: [2022-06-26 02:35:37+08:00 推文](https://twitter.com/realcaixia/status/1540765676217982978)
 
-习为世界发展指明方向？！跟着习近平走就是走绝路。
+习为世界发展指明方向？！跟着习近平走就是走绝路。<br><br>Winnie Pooh: 清华小学直博博士为全球发展指明了方向<br><br><img style="" src="https://pbs.twimg.com/media/FWGY2FzVUAAkaZ0?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWGY3ZtUAAAOLZ8?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWGY49BVUAAozyl?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 22: [2022-06-26 06:16:34+08:00 推文](https://twitter.com/realcaixia/status/1540821277321175043)
 
