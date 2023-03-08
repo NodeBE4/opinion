@@ -159,3 +159,15 @@ Re @languagebb @Vince6610 @Ipkmedia 你当真是左棍习性，喜欢代世界�
 
 Re @KELMAND1 对这事，只能说这种充满不实消息的信息战，在蒙蔽世人的时候也欺骗了本阵营的人。
 
+### 37: [2023-03-08 09:28:51+08:00 推文](https://twitter.com/HeQinglian/status/1633278573489401856)
+
+WSJ：<br>习近平的终极目标：一个为中美冲突做好准备的中国（去年的文章今天重发，为配合下面这篇文章）<br>https://cn.wsj.com/articles/%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%9C%80%E7%BB%88%E7%9B%AE%E6%A0%87-%E4%B8%BA%E4%B8%AD%E7%BE%8E%E5%86%B2%E7%AA%81%E5%81%9A%E5%A5%BD%E5%87%86%E5%A4%87-11666006507?tesla=y<br>美国尚未做好迎接大国冲突时代的准备<br>美国军方自2018年以来已经转而重点关注中国和俄罗斯，但在生产武器和制定新的战争方略方面仍面临挑战。<br>https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%B0%9A%E6%9C%AA%E5%81%9A%E5%A5%BD%E8%BF%8E%E6%8E%A5%E5%A4%A7%E5%9B%BD%E5%86%B2%E7%AA%81%E6%97%B6%E4%BB%A3%E7%9A%84%E5%87%86%E5%A4%87-ec8b4fb8
+
+### 38: [2023-03-08 09:32:28+08:00 推文](https://twitter.com/HeQinglian/status/1633279482462126081)
+
+Re 各位推友，拜登今天仍然说对华政策没变。<br>拜粉可以说这是为了麻痹中国的说法。<br>我想，拜登要同时对付俄中两国还有点费劲，因此WSJ同版登载日韩友好为对付野心勃勃的中国。
+
+### 39: [2023-03-08 09:41:16+08:00 推文](https://twitter.com/HeQinglian/status/1633281700389109760)
+
+这事，德国人信了就行。毕竟，需要美国这位盟友兼大哥，北溪事件的真相是什么不重要，德国人愿意相信什么最重要。<br>ZELT这篇报道，属于德国人正想打瞌睡，立刻有人送上枕头之类。<div class="rsshub-quote"><br><br>绫波: 🇩🇪德国《ZELT》：<br><br>ZEIT确定了据称用于秘密行动的船只是从波兰一家公司租来的游艇显然是两名乌克兰人所有。是由一个五男一女六人小组执行的。一名船长两名潜水员两名潜水助理和一名医生将炸药运到犯罪现场并放置在那里。肇事者的国籍不清楚，袭击者使用专业伪造的护照除其他外还被用来租船 https://t.co/Zt5vzwjWDA<br><br><img style="" src="https://pbs.twimg.com/media/Fqp7QFraMAEUsSV?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
