@@ -529,7 +529,7 @@ Re @liuximing2022 @zhengchu 假定拜登政府再干一任，民主党接着再�
 
 ### 129: [2023-01-27 23:03:59+08:00 推文](https://twitter.com/HeQinglian/status/1618988194275692549)
 
-昨天我这篇《数据说话：中-美欧经济脱钩并非现实》<br>引来了解滨先生的这条诛心的指责。花了一下午时间与他讨论，这是推上普遍情况，相关讨论推文见三处，集中的在这一处。<br>希望年轻推友们从中领悟一些东西，路还长，认识世界是改造世界并建设的第一步。蒙着眼睛是走不下去的。 <a href="https://rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html" target="_blank" rel="noopener noreferrer">https://rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html</a>
+昨天我这篇《数据说话：中-美欧经济脱钩并非现实》<br>引来了解滨先生的这条诛心的指责。花了一下午时间与他讨论，这是推上普遍情况，相关讨论推文见三处，集中的在这一处。<br>希望年轻推友们从中领悟一些东西，路还长，认识世界是改造世界并建设的第一步。蒙着眼睛是走不下去的。 <a href="https://rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html" target="_blank" rel="noopener noreferrer">https://rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html</a> <a href="https://twitter.com/bxieus/status/1618715162609070081" target="_blank" rel="noopener noreferrer">https://twitter.com/bxieus/status/1618715162609070081</a>
 
 ### 130: [2023-01-27 23:08:13+08:00 推文](https://twitter.com/HeQinglian/status/1618989257519144960)
 
