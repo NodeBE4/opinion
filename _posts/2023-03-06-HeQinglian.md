@@ -169,5 +169,45 @@ Re 各位推友，拜登今天仍然说对华政策没变。<br>拜粉可以说�
 
 ### 39: [2023-03-08 09:41:16+08:00 推文](https://twitter.com/HeQinglian/status/1633281700389109760)
 
-这事，德国人信了就行。毕竟，需要美国这位盟友兼大哥，北溪事件的真相是什么不重要，德国人愿意相信什么最重要。<br>ZELT这篇报道，属于德国人正想打瞌睡，立刻有人送上枕头之类。<div class="rsshub-quote"><br><br>绫波: 🇩🇪德国《ZELT》：<br><br>ZEIT确定了据称用于秘密行动的船只是从波兰一家公司租来的游艇显然是两名乌克兰人所有。是由一个五男一女六人小组执行的。一名船长两名潜水员两名潜水助理和一名医生将炸药运到犯罪现场并放置在那里。肇事者的国籍不清楚，袭击者使用专业伪造的护照除其他外还被用来租船 https://t.co/Zt5vzwjWDA<br><br><img style="" src="https://pbs.twimg.com/media/Fqp7QFraMAEUsSV?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+这事，德国人信了就行。毕竟，需要美国这位盟友兼大哥，北溪事件的真相是什么不重要，德国人愿意相信什么最重要。<br>ZELT这篇报道，属于德国人正想打瞌睡，立刻有人送上枕头之类。 https://twitter.com/dinglili7/status/1633253353756172288<div class="rsshub-quote"><br><br>绫波: 🇩🇪德国《ZELT》：<br><br>ZEIT确定了据称用于秘密行动的船只是从波兰一家公司租来的游艇显然是两名乌克兰人所有。是由一个五男一女六人小组执行的。一名船长两名潜水员两名潜水助理和一名医生将炸药运到犯罪现场并放置在那里。肇事者的国籍不清楚，袭击者使用专业伪造的护照除其他外还被用来租船 https://t.co/Zt5vzwjWDA<br><br><img style="" src="https://pbs.twimg.com/media/Fqp7QFraMAEUsSV?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 40: [2023-03-08 18:57:26+08:00 推文](https://twitter.com/fading_you1/status/1633421661679628289)
+
+RT 天降伟人包由检<br>美国左派的意识形态输出，目的就是用政治正确阉割全世界不同国家的社会伦理，从而实现对传统价值的颠覆来“砸烂旧世界”，进而用左派意识形态重构一个大一统的“天下大同”新世界。<br><br>所以，此时此刻，反美才是最高的自由价值。 https://twitter.com/initiumnews/status/1633005939686248449<div class="rsshub-quote"><br><br>端傳媒 Initium Media: 【在女浴場遇「跨性別」感到恐懼？日本演員橋本愛為爭議言論道歉】 對於「跨性別女性」使用女性洗浴設施和公共廁所的相關問題，日本演員橋本愛本月5日於其IG story中發表評論，提議「最好根據身體的性別來區分」。有網民批評其言論涉嫌「歧視LGBT+」。隨後6日，橋本愛隨後再發布story就此番言論道歉。 https://t.co/7fytbI0Uev<br><br><img style="" src="https://pbs.twimg.com/media/FqmZ1a1aMAAXvoS?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 41: [2023-03-08 22:30:03+08:00 推文](https://twitter.com/HeQinglian/status/1633475168176619520)
+
+Re @fading_you1 日本传统价值终于守不住了。
+
+### 42: [2023-03-08 22:34:27+08:00 推文](https://twitter.com/HeQinglian/status/1633476276693475330)
+
+Re @dinglili7 昨天你说得对，这枕头正在加工制造，让德国人觉得舒适并在舒适中入眠。
+
+### 43: [2023-03-08 22:36:36+08:00 推文](https://twitter.com/HeQinglian/status/1633476819243479040)
+
+Re @eGUAbe2V7j26GHw 世纪之交去过，但不是这番模样。
+
+### 44: [2023-03-08 22:39:27+08:00 推文](https://twitter.com/HeQinglian/status/1633477533915045893)
+
+Re @Lucs24659702 纽约民主党选民：亦予心之所善兮，虽零元购频发、铁轨冤魂常有其犹未悔。
+
+### 45: [2023-03-08 22:44:06+08:00 推文](https://twitter.com/HeQinglian/status/1633478704037756930)
+
+Re @KELMAND1 瑞士忘记了它的银行业之所以兴盛，就在于世纪之交以前，它的银行是只谁也撬不开的财富保险箱。
+
+### 46: [2023-03-08 22:48:35+08:00 推文](https://twitter.com/HeQinglian/status/1633479831236009986)
+
+51%美国人认为保护台湾比美中友好更重要。文<br>内说的是强硬立场。<br>《经济学人》与民意调查机构“舆观”（YouGov）调查结果显示，认为美国“采取强硬立场，让中国不以武力犯台”比“美中维持良好关系”更为重要的人，比例为51%比24%。<br>如果问题换成“不惜出动军队保卫台湾”估计结果不同<br>https://rfi.my/9Dr9.T
+
+### 47: [2023-03-08 22:50:09+08:00 推文](https://twitter.com/HeQinglian/status/1633480228147195906)
+
+Re @JianglinLi @yanyan420827 如今连桥本爱评价一句变性女进入女浴场不合适都得道歉，安倍死亡真相的追查就省省吧。
+
+### 48: [2023-03-08 22:51:34+08:00 推文](https://twitter.com/HeQinglian/status/1633480583132205056)
+
+Re @KELMAND1 已经多次了，但以前是北非中东四国下台的独裁者与半独裁者，算做了一半。这次是做足全套工夫。
+
+### 49: [2023-03-08 23:59:39+08:00 推文](https://twitter.com/HeQinglian/status/1633497716683620354)
+
+Re @JianglinLi @fading_you1 就算明白，也很少有人敢于说出最后一句。
 
