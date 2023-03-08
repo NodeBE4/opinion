@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2023-03-08
+date: 2023-03-09
 from: https://twitter.com/nathanlawkc/status/1632442510239727619
 layout: post
 tags:
@@ -32,4 +32,8 @@ Re It's not difficult to understand -- the potential war on Taiwan is at the cru
 ### 4: [2023-03-08 19:57:35+08:00 推文](https://twitter.com/nathanlawkc/status/1633436798830493704)
 
 Re @peterfrankopan @BlackwellEdin Congradutaions Peter! Amazing works indded.
+
+### 5: [2023-03-09 02:47:28+08:00 推文](https://twitter.com/nathanlawkc/status/1633539952133693464)
+
+Hollywood is a gold-digging industry, and has been trying to please CCP. Actors like Richard Gere got canceled for criticizing China's aggression in Tibet. They self-censor yet claim to represent equality and liberty.<br>They should act to show their values.<br>https://www.vice.com/en/article/n7ejeq/donnie-yen-oscars-petition-hong-kong-protests
 
