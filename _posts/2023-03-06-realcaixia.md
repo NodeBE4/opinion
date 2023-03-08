@@ -25,7 +25,7 @@ Re 嘉宾谈她祖父受迫害、父亲遭歧视，在屈辱中挣扎活着，�
 
 ### 3: [2023-03-06 05:59:25+08:00 推文](https://twitter.com/realcaixia/status/1632501091844907008)
 
-中共邪恶超出美国人想象。以前我给美国朋友讲述中共国里的邪恶，不少朋友笑而不应，他们以为我太偏激。<br>武汉病毒祸害全世界；俄侵乌战争中的中共虚伪拙劣表演；追查疫情源头中的中共撒谎与阻拦；中共间谍气球、军事威胁台湾……，现在美国人正走出他们因善良（不包括资本利益驱动）而发生的认知偏差。 https://twitter.com/ipkmedia/status/1632231041069875201<div class="rsshub-quote"><br><br>光傳媒官推 官網 https://www.ipkmedia.com: 这样的现身说法更能让美国人切身感受到中共的管制，投资中国没有保障，<br>这对美国的投资者和华尔街来说敲响了在投资中国的警钟<br>同时资本汇出受限也说明中共的外汇紧张程度<br><br>中国经济繁荣世界工厂的时代一去不复返了 https://twitter.com/RFA_Chinese/status/1632077434441875456<br></div>
+中共邪恶超出美国人想象。以前我给美国朋友讲述中共国里的邪恶，不少朋友笑而不应，他们以为我太偏激。<br>武汉病毒祸害全世界；俄侵乌战争中的中共虚伪拙劣表演；追查疫情源头中的中共撒谎与阻拦；中共间谍气球、军事威胁台湾……，现在美国人正走出他们因善良（不包括资本利益驱动）而发生的认知偏差。<div class="rsshub-quote"><br><br>光傳媒官推 官網 https://www.ipkmedia.com: 这样的现身说法更能让美国人切身感受到中共的管制，投资中国没有保障，<br>这对美国的投资者和华尔街来说敲响了在投资中国的警钟<br>同时资本汇出受限也说明中共的外汇紧张程度<br><br>中国经济繁荣世界工厂的时代一去不复返了<br></div>
 
 ### 4: [2023-03-06 10:10:33+08:00 推文](https://twitter.com/realcaixia/status/1632564291135234048)
 
@@ -37,7 +37,7 @@ Re @XIAOMIEHM 曾经有一本书《为什么美国没有社会主义？》1995�
 
 ### 6: [2023-03-06 11:33:51+08:00 推文](https://twitter.com/realcaixia/status/1632585253507452930)
 
-海外华人许多人不知道这个被习欣赏、在一次全国文艺工作座谈会上，习点名发言的周小平何许人也？何以有“臭咸带鱼”这个绰号？我查了一下维基百科，给推友们提供些资料。 https://twitter.com/rongjian1957/status/1632516295613710336<div class="rsshub-quote"><br><br>荣剑: 这时代如他所愿，臭咸带鱼翻身了！ https://t.co/1UxwASuckm<br><br><img style="" src="https://pbs.twimg.com/media/Fqfc14bWIAE_DIA?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+海外华人许多人不知道这个被习欣赏、在一次全国文艺工作座谈会上，习点名发言的周小平何许人也？何以有“臭咸带鱼”这个绰号？我查了一下维基百科，给推友们提供些资料。<div class="rsshub-quote"><br><br>荣剑: 这时代如他所愿，臭咸带鱼翻身了！ https://t.co/1UxwASuckm<br><br><img style="" src="https://pbs.twimg.com/media/Fqfc14bWIAE_DIA?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 7: [2023-03-06 11:35:28+08:00 推文](https://twitter.com/realcaixia/status/1632585660799545345)
 
@@ -61,15 +61,15 @@ Re 维基百科所写本人硕博入学这段，有3点错误：1，1992年报�
 
 ### 12: [2023-03-07 00:16:44+08:00 推文](https://twitter.com/realcaixia/status/1632777243293532160)
 
-凡不能忘記的都要記歷史帳。將1949後每個整人的政治運動、給中國人帶來巨大劫難後果的獨裁決策一一記下來。我們這輩人要講給現在的年輕人聽，現在的年輕人要講給後來的人聽。我們要留下一切承載歷史記憶苦難浩劫的文字，圖片，收集統計資料和各種圖片、小說、回憶錄、論著，一切藝術作品⋯⋯，上史書！<div class="rsshub-quote"><br><br>公民力量: 如同成功抹去六四天安门屠杀的历史记忆，中共正在抹去人民对“新冠清零”的记忆；退休老人因巨大社保缺口将面临再就业；中国出口的新亮点-东盟。议报英文每周中国热议。<br></div>
+凡不能忘記的都要記歷史帳。將1949後每個整人的政治運動、給中國人帶來巨大劫難後果的獨裁決策一一記下來。我們這輩人要講給現在的年輕人聽，現在的年輕人要講給後來的人聽。我們要留下一切承載歷史記憶苦難浩劫的文字，圖片，收集統計資料和各種圖片、小說、回憶錄、論著，一切藝術作品⋯⋯，上史書！ https://twitter.com/iforchina/status/1632742063820161024<div class="rsshub-quote"><br><br>公民力量: 如同成功抹去六四天安门屠杀的历史记忆，中共正在抹去人民对“新冠清零”的记忆；退休老人因巨大社保缺口将面临再就业；中国出口的新亮点-东盟。议报英文每周中国热议。 https://twitter.com/yibao_en/status/1632740697303400451<br></div>
 
 ### 13: [2023-03-07 00:19:24+08:00 推文](https://twitter.com/realcaixia/status/1632777911710416897)
 
-完全同意胡平先生的意見。 https://twitter.com/HuPing1/status/1632762450956132354<div class="rsshub-quote"><br><br>Hu Ping胡平: 大多数上海人都知道张文宏在说什么，反对张文宏的人也知道张文宏在说什么。如果你到现在还看不懂张文宏在说什么，认为他在游走取巧，那只能是你的理解别人的能力太低了。 https://twitter.com/WeiyuanOttawa/status/1632760682050355201<br></div>
+完全同意胡平先生的意見。<div class="rsshub-quote"><br><br>Hu Ping胡平: 大多数上海人都知道张文宏在说什么，反对张文宏的人也知道张文宏在说什么。如果你到现在还看不懂张文宏在说什么，认为他在游走取巧，那只能是你的理解别人的能力太低了。<br></div>
 
 ### 14: [2023-03-07 00:26:49+08:00 推文](https://twitter.com/realcaixia/status/1632779780012785664)
 
-這些人難道就不明白所謂統一，就是把自己送給習黑幫團伙當奴隸嗎？你問過你兒子孫子的意願嗎？你這是引狼入室，禍害2000多萬台灣人。你若想「統一」，不妨先把你自己統一過去，到大陸居住生活，成為大陸居民。去實地生活感受「統一」的日子。 https://twitter.com/__Inty__/status/1632769585178107905<div class="rsshub-quote"><br><br>Inty: 台湾境内的【统一义勇军】等着中国解放他们，希望被中国统一https://t.co/sF4fw2QEsD https://twitter.com/i/web/status/1632769585178107905 https://t.co/L1kDrLU1RU<br><br><img style="" src="https://pbs.twimg.com/media/FqjDOqDagAAAAbf?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+這些人難道就不明白所謂統一，就是把自己送給習黑幫團伙當奴隸嗎？你問過你兒子孫子的意願嗎？你這是引狼入室，禍害2000多萬台灣人。你若想「統一」，不妨先把你自己統一過去，到大陸居住生活，成為大陸居民。去實地生活感受「統一」的日子。 https://twitter.com/__inty__/status/1632769585178107905<div class="rsshub-quote"><br><br>Inty: 台湾境内的【统一义勇军】等着中国解放他们，希望被中国统一https://t.co/sF4fw2QEsD https://twitter.com/i/web/status/1632769585178107905 https://t.co/L1kDrLU1RU<br><br><img style="" src="https://pbs.twimg.com/media/FqjDOqDagAAAAbf?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 15: [2023-03-07 09:27:56+08:00 推文](https://twitter.com/realcaixia/status/1632915956220698625)
 
@@ -81,7 +81,7 @@ Re LT視界的分析我基本認同。另有一疑問是：如果習黨國真的
 
 ### 17: [2023-03-07 09:59:52+08:00 推文](https://twitter.com/realcaixia/status/1632923991857037312)
 
-高手在民間！👍 https://twitter.com/xingzhe2021/status/1632916954792054785<div class="rsshub-quote"><br><br>墻國荒誕字: @realcaixia 李中堂说“人在干，天在看！”又惹皇帝生气了…<br>https://twitter.com/xingzhe2021/status/1632826140896141313?t=hEqitvJLPIrS847a6mFxVw&amp;s=19<br></div>
+高手在民間！👍<div class="rsshub-quote"><br><br>墻國荒誕字: @realcaixia 李中堂说“人在干，天在看！”又惹皇帝生气了…<br>https://twitter.com/xingzhe2021/status/1632826140896141313?t=hEqitvJLPIrS847a6mFxVw&amp;s=19<br></div>
 
 ### 18: [2023-03-08 00:59:30+08:00 推文](https://twitter.com/realcaixia/status/1633150391469899776)
 
@@ -105,7 +105,7 @@ Re @wuzuolai 習構建宏大理論理論體系，「中國模式」「人類命�
 
 ### 23: [2023-03-08 07:14:34+08:00 推文](https://twitter.com/realcaixia/status/1633244781114687489)
 
-我和蔡慎坤老師的看法一樣。因為國際輿論和社會反響太大，沒膽量赤裸裸地將中國變成暴力統治下的習黨國，只好偃旗息鼓。但絕不可能以後就「放下屠刀 立地成佛」。替習棒伙放風的媒體，信譽度一定受到損失。這給媒體是個警告，如果不想損害自己的信譽的話，請遠離習黨國，不必為習棒伙大外宣所用。 https://twitter.com/cskun1989/status/1633136660404912131<div class="rsshub-quote"><br><br>蔡慎坤: 机构改革方案没有出台成立中央内务委员会的信息，如此重大的改革方案肯定不适合拿到人大讨论，此前透过港媒放风可能也是试探，发现社会各界包括国际舆论反响太大，只好暂时按兵不动，待时机成熟再行操作，实际上现在中央完全掌控了国务院，改变公安部和国安部归属没有必要，换了人就达到了控制的目的。<br></div>
+我和蔡慎坤老師的看法一樣。因為國際輿論和社會反響太大，沒膽量赤裸裸地將中國變成暴力統治下的習黨國，只好偃旗息鼓。但絕不可能以後就「放下屠刀 立地成佛」。替習棒伙放風的媒體，信譽度一定受到損失。這給媒體是個警告，如果不想損害自己的信譽的話，請遠離習黨國，不必為習棒伙大外宣所用。<div class="rsshub-quote"><br><br>蔡慎坤: 机构改革方案没有出台成立中央内务委员会的信息，如此重大的改革方案肯定不适合拿到人大讨论，此前透过港媒放风可能也是试探，发现社会各界包括国际舆论反响太大，只好暂时按兵不动，待时机成熟再行操作，实际上现在中央完全掌控了国务院，改变公安部和国安部归属没有必要，换了人就达到了控制的目的。<br></div>
 
 ### 24: [2023-03-09 02:50:38+08:00 推文](https://twitter.com/realcaixia/status/1633540748451934209)
 
@@ -114,4 +114,8 @@ Re @wuzuolai 習構建宏大理論理論體系，「中國模式」「人類命�
 ### 25: [2023-03-09 02:59:34+08:00 推文](https://twitter.com/realcaixia/status/1633542996162646016)
 
 祝大炮生日快乐。🌹🎂🌹<br>挥斥方遒山河在 ，拓马长枪定乾坤。🌹👍👍👍🌹<br>生日快乐，一定要坚持到胜利的那一天✊💪🤝🌹🌹🌹<br>今天也是任志強先生生日，上面這三條祝賀短語都來自他的朋友、戰友、發小們。<br>特轉推牆裡網友們的祝賀生日短語！ https://t.co/qvfNP0YqKM<br><img style="" src="https://pbs.twimg.com/media/FquCsLNagAYRTi1?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FquCsdAaEAAqC2C?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 26: [2023-03-09 04:54:31+08:00 推文](https://twitter.com/realcaixia/status/1633571924604485632)
+
+習黨國在瑞典權威的全球179個國家與地區民主發展程度的排名為倒數為第八名，直接打臉習黨國？屬於專制封閉國家。<br>習近平吹噓的「全過程民主」根本得不到世界各國的認可，相反「創造」了令世界不齒的笑話。 https://twitter.com/hkokbore/status/1632814356147609602<div class="rsshub-quote"><br><br>Ilshat H. Kokbore 伊利夏提: 朝鲜、厄立特里亚和阿富汗排名垫底。其中，美国排名第23位，较去年有所下跌；日本、韩国和台湾分别排第27名、28名和30名，也是亚洲……然而，香港在港版国安法实施后，民主程度已跌至封闭专制地区行列，排名第139位。中国则排名倒数第8，位列缅甸、沙特阿拉伯和白俄罗斯之后。 https://www.rfa.org/mandarin/Xinwen/5-03052023105746.html<br></div>
 

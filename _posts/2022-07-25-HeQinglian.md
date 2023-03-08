@@ -89,7 +89,7 @@ Re @shenliangqing2 你忘记本月底拜习视频会是熄火会、和好努力�
 
 ### 19: [2022-07-25 21:44:58+08:00 推文](https://twitter.com/HeQinglian/status/1551564164006612992)
 
-与台、中轮流建交，早就成了小国的生存之道，废一次、兴一次，就是几十亿美元的进帐，三年来一次吧。
+与台、中轮流建交，早就成了小国的生存之道，废一次、兴一次，就是几十亿美元的进帐，三年来一次吧。<br><br>美国之音莉雅: 所罗门群岛议会外委会主席、反对党议员凯尼洛里(Peter Kenilorea Jr.)7月25日在议会反对党领导人办公室接受我们的专访时说，如果反对派在下次的选举中获胜组阁的话，第一件事就是废除所中安全协议。至于是否会重新与台湾建交，他说，有这种可能性但这是一个更长的程序，而且涉及到国际方面的议题。<br><br><img style="" src="https://pbs.twimg.com/media/FYgt5y4akAER6xJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FYgt7S4akAEUEWl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 20: [2022-07-25 21:47:07+08:00 推文](https://twitter.com/HeQinglian/status/1551564705423970304)
 
