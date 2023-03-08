@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2022-05-23~2022-05-29'
 
 ### 4: [2022-05-23 06:11:00+08:00 推文](https://twitter.com/realcaixia/status/1528498689857052673)
 
-这是我推下的一个推友跟帖。他发出了自己的声音。在中共极权高压下，这需要巨大的勇气。特别转推推荐。
+这是我推下的一个推友跟帖。他发出了自己的声音。在中共极权高压下，这需要巨大的勇气。特别转推推荐。<br><br>NewLife: @realcaixia 加油💪我們支持上海獨立‼️我們支持中國人獨立‼️奪回本應屬於我們的權力‼️加油💪<br> <a href="https://twitter.com/newlife62675967/status/1524463179778207745?s=21&amp;t=do5AVW58Lu0wBNv34KVEiQ" target="_blank" rel="noopener noreferrer">https://twitter.com/newlife62675967/status/1524463179778207745?s=21&amp;t=do5AVW58Lu0wBNv34KVEiQ</a>
 
 ### 5: [2022-05-23 06:18:14+08:00 推文](https://twitter.com/realcaixia/status/1528500511195836416)
 
@@ -45,15 +45,15 @@ Re 请看市民这封给公安机关人员的公开信。信的一开始就说�
 
 ### 8: [2022-05-23 21:42:51+08:00 推文](https://twitter.com/realcaixia/status/1528733199098122242)
 
-荣剑老师的推文，文字平和，思想深刻，眼光锐利，意味深长。<br><br>荣剑: 这大概就是文明的分野，没有经过清朝的人，也不必说遗憾，清和后清有什么区别吗？区别或许就是帖子中所说的疯狂的删帖取代了文字狱——当然，有人肯定会说，现在因言获罪还少吗？面对这样的质疑，我无言以答。<br><br><img style="" src="https://pbs.twimg.com/media/FTXKTPGVIAEGNN3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+荣剑老师的推文，文字平和，思想深刻，眼光锐利，意味深长。
 
 ### 9: [2022-05-23 23:38:02+08:00 推文](https://twitter.com/realcaixia/status/1528762185098440708)
 
-清零封城搞到天怒人怨，胡锡进着急投谏保经济，是为保党国不翻船。以往网民骂胡“叼盘”他一概不反应：现在一说他关心经济，胡就怕了。说明什么？至少两点：1、中共国里无人有安全，人人皆可为阶下囚；2，清零与经济、保党国与保习上帝，内在利益是冲突的。习坑民也坑党国，天怒人怨党内不满或许合流。<br><br>《议报》: 郑荣南：除了胡锡进，没人关心经济了<br> <a href="https://yibaochina.com/?p=246616" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246616</a>
+清零封城搞到天怒人怨，胡锡进着急投谏保经济，是为保党国不翻船。以往网民骂胡“叼盘”他一概不反应：现在一说他关心经济，胡就怕了。说明什么？至少两点：1、中共国里无人有安全，人人皆可为阶下囚；2，清零与经济、保党国与保习上帝，内在利益是冲突的。习坑民也坑党国，天怒人怨党内不满或许合流。
 
 ### 10: [2022-05-23 23:40:12+08:00 推文](https://twitter.com/realcaixia/status/1528762731532255232)
 
-转推。<br><br>freechina1974✊✊✊: @yibaochina<br> <a href="https://twitter.com/freechina1974/status/1528557498462248960?s=21&amp;t=kwRmGJicCRE8XU9yKlKAMw" target="_blank" rel="noopener noreferrer">https://twitter.com/freechina1974/status/1528557498462248960?s=21&amp;t=kwRmGJicCRE8XU9yKlKAMw</a>
+转推。
 
 ### 11: [2022-05-24 01:01:49+08:00 推文](https://twitter.com/realcaixia/status/1528783270774808576)
 
@@ -89,11 +89,11 @@ Re @wang6332558 @xizhutou2020 @yjpc007 @YouTube 就是啊，相煎何太急！�
 
 ### 19: [2022-05-24 21:44:40+08:00 推文](https://twitter.com/realcaixia/status/1529096043987607552)
 
-这便是信念与信心的宣示。
+这便是信念与信心的宣示。<br><br>ZHANGDONG: 每年五月的第三个星期四是乌克兰的刺绣衫节，富有民族特色的刺绣衫象征着乌克兰民族团结和民族认同，它把乌克兰人民凝聚在一起。今天泽伦斯基总统用刺绣衫替换下了军绿T-恤衫，精神焕发，流露出乌克兰必胜信心。<br>欧盟女主席今天也亮出刺绣时装秀，表示在困难时期，与乌克兰人民一起共度时艰。<br><br><video src="https://video.twimg.com/ext_tw_video/1527359586797178888/pu/vid/848x480/sHK-f3ykZ1EM8_wr.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1527359586797178888/pu/img/NJdcjf_nGE0__CSv.jpg"></video> <a href="https://twitter.com/vonderleyen/status/1527317182623150080" target="_blank" rel="noopener noreferrer">https://twitter.com/vonderleyen/status/1527317182623150080</a>
 
 ### 20: [2022-05-24 21:52:40+08:00 推文](https://twitter.com/realcaixia/status/1529098058063089666)
 
-香港媒体当时记录的真实场面。中国一切热爱自由、争取自由的人，当永远记住6.4，并传告子孙后代。
+香港媒体当时记录的真实场面。中国一切热爱自由、争取自由的人，当永远记住6.4，并传告子孙后代。<br><br>🥜食花生🍻飲啤酒🤥吹吹水🤣: @realcaixia HK #TVB recorded the footage of the #8964 massacre that year, and the sound of gunfire was endless.<br><br>Many young people in China have never heard of June 4th. <br>Take a good look at it, keep it well, spread it widely, and remember it forever.<br>@un<br> #wuforget64<br><br><video src="https://video.twimg.com/ext_tw_video/1527617002948284417/pu/vid/932x720/X-xmm6o3emBHQB7f.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1527617002948284417/pu/img/MT4j0ivG0Wp8T9I0.jpg"></video>
 
 ### 21: [2022-05-25 12:00:44+08:00 推文](https://twitter.com/realcaixia/status/1529311480008560640)
 
@@ -113,7 +113,7 @@ Re @fishsalt8 说得好！不改变思维方式不可能真具有自由民主观
 
 ### 25: [2022-05-25 20:52:42+08:00 推文](https://twitter.com/realcaixia/status/1529445354650886146)
 
-陈全国这些话做实自己就是屠夫，陈说已经授权了，即屠杀维族人是北京最高层下令了。
+陈全国这些话做实自己就是屠夫，陈说已经授权了，即屠杀维族人是北京最高层下令了。<br><br>韩连潮: 【格杀勿论令】陈全国5.28讲话：<br>“你像我们的17、8岁的孩子，20多岁的孩子，一参加暴恐团伙就击毙，这些人，不也是受蒙蔽的受害人吗？”<br>“...否则参加暴恐就击毙了，参加培训班还可以转化，转化之后还能生活..."<br>"...跑几步把他击毙了，你像这些你跑了就击毙没什么问题的，早都授权了。"<br><br><img style="" src="https://pbs.twimg.com/media/FTmeAw5XEAMRMs1?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 26: [2022-05-25 20:55:34+08:00 推文](https://twitter.com/realcaixia/status/1529446076134064132)
 
@@ -125,7 +125,7 @@ Re @fishsalt8 说得好！不改变思维方式不可能真具有自由民主观
 
 ### 28: [2022-05-26 02:17:21+08:00 推文](https://twitter.com/realcaixia/status/1529527052629528581)
 
-封城清零封到老鼠饿死在面店里。<br><br>吴文行wenxingwu: 上海因疫情店面关闭，老鼠被活活饿死！饥荒达到高水准！<br><br><img style="" src="https://pbs.twimg.com/media/FTlbvqPVsAAZA3s?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+封城清零封到老鼠饿死在面店里。
 
 ### 29: [2022-05-26 22:53:06+08:00 推文](https://twitter.com/realcaixia/status/1529838039152922625)
 
@@ -213,7 +213,7 @@ Re 我不会个别回答任何问题，只是推荐网友获取更多视角和�
 
 ### 50: [2022-05-28 23:22:30+08:00 推文](https://twitter.com/realcaixia/status/1530570213896466436)
 
-推特导语写得好！陕西日报这标题首先违反中共党章。<br>中共党章说：“党除了工人阶级和最广大人民群众的利益，没有自己的特殊利益。党在任何时候都把群众利益放在第一位…”（党章原话照抄）。尽管中共一直拿这话欺骗民众，毕竟还要披着这块羊皮，陕西日报赤裸裸地扔掉羊皮，等于自爆党黑本质，自揭老底。<br><br>蔡慎坤: 过去还习惯遮遮掩掩，现在完全撕下了遮羞布，过去还说说为人民服务，人民利益高于一切，把人民利益放在第一位！现在完全变换了面孔，公开的叫嚣是邀功请赏还是另有所图？一份党报变得如此狰狞，背后必定有人图谋不轨，意欲通过这种方式来取宠！<br><br><img style="" src="https://pbs.twimg.com/media/FTxCpdKUYAIzdqg?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+推特导语写得好！陕西日报这标题首先违反中共党章。<br>中共党章说：“党除了工人阶级和最广大人民群众的利益，没有自己的特殊利益。党在任何时候都把群众利益放在第一位…”（党章原话照抄）。尽管中共一直拿这话欺骗民众，毕竟还要披着这块羊皮，陕西日报赤裸裸地扔掉羊皮，等于自爆党黑本质，自揭老底。
 
 ### 51: [2022-05-28 23:45:22+08:00 推文](https://twitter.com/realcaixia/status/1530575970780041216)
 
