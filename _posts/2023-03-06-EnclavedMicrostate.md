@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-03-07
+date: 2023-03-08
 from: https://old.reddit.com/r/AskHistorians/comments/11kqjck/the_role_of_us_parties_in_the_formation_of_the/
 layout: post
 tags:
@@ -22,4 +22,14 @@ Hi there - unfortunately we have had to remove your question, because [/r/AskHis
 If you have indeed asked a homework question, you should consider resubmitting a question more focused on finding resources and seeking clarification on confusing issues: tell us what you've researched so far, what resources you've consulted, and what you've learned, and we are more likely to approve your question. Please see this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/) thread for more information on what makes for the kind of homework question we'd approve. Additionally, if you're not sure where to start in terms of finding and understanding sources in general, we have a six-part series, "[Finding and Understanding Sources](https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources)", which has a wealth of information that may be useful for finding and understanding information for your essay. Finally, other subreddits are likely to be more suitable for help with homework - try looking for help at /r/HomeworkHelp. 
 
 Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
+
+### 1136: [Would Soviet citizens in 1945 have been aware of Japanese internment camps in the United States?](https://old.reddit.com/r/AskHistorians/comments/11lo76c/would_soviet_citizens_in_1945_have_been_aware_of/), submitted on 2023-03-08 14:05:58+08:00.
+
+----- __1136.1__ -----2023-03-08 19:39:38+08:00:
+
+Hi there - we're happy to approve your question related to your creative project, and we are happy for people to answer. However, we should warn you that many flairs have become reluctant to answer questions for aspiring novelists and the like, based on past experience: some people working on creative projects have a tendency to try to pump historians for trivia while ignoring the bigger points they were making, while others have a tendency to argue with historians when the historical reality does not line up with what's needed for a particular scene or characterization. Please respect the answers of people who have generously given you their time, even if it's not always what you want to hear. 
+
+Additionally, as amazing as our flair panel is, we should also point out that /r/AskHistorians is not a professional historical consultation service. If you're asking a question here because you need vital research for a future commercial product such as a historical novel, you may be better off engaging a historical consultant at a fair hourly rate to answer these questions for you. We don't know what the going rate for consultancy work would be in your locality, but it may be worth looking into that if you have in-depth or highly plot-reliant questions for this project. Some /r/AskHistorians flairs could be receptive to working as a consultant in this way. However, if you wish for a flair here to do this work for you, you will need to organize this with them yourselves.
+
+For more general advice about doing research to inform a creative project, please check out [our Monday Methods post on the subject](https://www.reddit.com/r/AskHistorians/comments/k8o4rv/monday_methods_researching_for_fiction/).
 

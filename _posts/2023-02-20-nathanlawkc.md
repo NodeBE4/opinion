@@ -39,7 +39,7 @@ It’s been a year since Russia invaded Ukraine in 2022.<br>These historic meeti
 
 ### 6: [2023-02-25 01:25:31+08:00 推文](https://twitter.com/nathanlawkc/status/1629170673959546882)
 
-//As logic, this is circular; and as politics, it is tyrannical. If I can claim that Canadians are Americans because they speak the same language, or because we share a common history, that would strike us as an idiotic reason to order an invasion. //<div class="rsshub-quote"><br><br>Timothy Snyder: As Ukrainians make history, they remind us that we need history to understand them better, to understand this war better — and also understand ourselves better.<br>https://www.washingtonpost.com/opinions/2023/02/22/timothy-snyder-ukraine-russia-war-history/<br></div>
+//As logic, this is circular; and as politics, it is tyrannical. If I can claim that Canadians are Americans because they speak the same language, or because we share a common history, that would strike us as an idiotic reason to order an invasion. // https://twitter.com/TimothyDSnyder/status/1629133248184868867<div class="rsshub-quote"><br><br>Timothy Snyder: As Ukrainians make history, they remind us that we need history to understand them better, to understand this war better — and also understand ourselves better.<br>https://www.washingtonpost.com/opinions/2023/02/22/timothy-snyder-ukraine-russia-war-history/<br></div>
 
 ### 7: [2023-02-26 23:43:57+08:00 推文](https://twitter.com/nathanlawkc/status/1629869887970586625)
 

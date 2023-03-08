@@ -25,3 +25,11 @@ The best way to facilitate social cohesion and harmony between groups is to incr
 
 So rare that Xi speaks in these terms, even in a more private setting with party media. <br>The CCP's getting more aggressive in 3rd term of Xi.<br><br>Chinese leader blames Washington-led ‘containment, encirclement and suppression’ for severe challenges at home https://www.wsj.com/articles/chinas-xi-jinping-takes-rare-direct-aim-at-u-s-in-speech-5d8fde1a
 
+### 3: [2023-03-08 19:07:03+08:00 推文](https://twitter.com/nathanlawkc/status/1633424080777912320)
+
+Re It's not difficult to understand -- the potential war on Taiwan is at the crux of Xi's narrative about the revival of the race. They need to lay a firmer ground to support the narratives.<br>Even though the Ukraine war diminishes the possibility, CCP has to be seen as preparing war.
+
+### 4: [2023-03-08 19:57:35+08:00 推文](https://twitter.com/nathanlawkc/status/1633436798830493704)
+
+Re @peterfrankopan @BlackwellEdin Congradutaions Peter! Amazing works indded.
+
