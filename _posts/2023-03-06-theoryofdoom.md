@@ -119,3 +119,15 @@ I understand the world has changed since then.
 
 [NO PAYWALL](https://archive.is/LdMkm)
 
+----- __503.2__ -----2023-03-08 11:43:48+08:00:
+
+> Do you think someone was bringing bats 800 miles to a wet market in Wuhan?
+
+Not to the wet market.  But to something right beside the wet market?  Maybe.
+
+----- __503.3__ -----2023-03-08 11:45:15+08:00:
+
+What are your baseline presumptions, here? 
+
+That the wet market conspiracy is true, until proven otherwise?
+
