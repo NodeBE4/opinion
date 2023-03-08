@@ -273,7 +273,7 @@ Re @shenliangqing2 这在2020年时，推上某维律代表民主党与NGO通知
 
 ### 65: [2023-03-01 08:34:13+08:00 推文](https://twitter.com/HeQinglian/status/1630728109057101824)
 
-NATO Expansion: What Gorbachev Heard<br>https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early <br>共计30个文件，就是备忘录。当然，不是中文的，自己慢慢看。<br>这是我第三次推送给你，去年劝你了解情况时一次，都附了尊推号，<br>@zhuxiuyuan<br>今天上午推送，你连打开都不肯。<div class="rsshub-quote"><br><br>竺修远律师: @Nobody197575 @HeQinglian 没有条约、备忘录等书面协议。<br></div>
+NATO Expansion: What Gorbachev Heard<br>https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early <br>共计30个文件，就是备忘录。当然，不是中文的，自己慢慢看。<br>这是我第三次推送给你，去年劝你了解情况时一次，都附了尊推号，<br>@zhuxiuyuan<br>今天上午推送，你连打开都不肯。 https://twitter.com/zhuxiuyuan/status/1630723092942036993<div class="rsshub-quote"><br><br>竺修远律师: @Nobody197575 @HeQinglian 没有条约、备忘录等书面协议。<br></div>
 
 ### 66: [2023-03-01 08:59:24+08:00 推文](https://twitter.com/HeQinglian/status/1630734448818806785)
 
@@ -409,7 +409,7 @@ Re @Wpattern @Wu_Zhi 你这种人死了，也是垃圾。
 
 ### 99: [2023-03-02 05:28:57+08:00 推文](https://twitter.com/HeQinglian/status/1631043873211383808)
 
-这就得好好探究一下其中原因了。 https://twitter.com/NAConservative9/status/1631042652983504896<div class="rsshub-quote"><br><br>《北美保守评论》: 📍美国的教会正在衰落之中，在美国每周平均有86座新教教堂关闭，那是一天12间，田纳西州纳什维尔的 LifeWay https://youtu.be/CZV08xO4MEU… https://twitter.com/i/web/status/1631042652983504896 https://t.co/BWbVfcuUvm<br><br><video src="https://video.twimg.com/amplify_video/1631042621119295488/vid/888x494/_UaVw5MUM8QwPV84.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1631042621119295488/img/EizSWMbuB5JgrcTZ.jpg"></video></div>
+这就得好好探究一下其中原因了。<div class="rsshub-quote"><br><br>《北美保守评论》: 📍美国的教会正在衰落之中，在美国每周平均有86座新教教堂关闭，那是一天12间，田纳西州纳什维尔的 LifeWay https://youtu.be/CZV08xO4MEU… https://twitter.com/i/web/status/1631042652983504896 https://t.co/BWbVfcuUvm<br><br><video src="https://video.twimg.com/amplify_video/1631042621119295488/vid/888x494/_UaVw5MUM8QwPV84.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1631042621119295488/img/EizSWMbuB5JgrcTZ.jpg"></video></div>
 
 ### 100: [2023-03-02 06:02:06+08:00 推文](https://twitter.com/HeQinglian/status/1631052216680235008)
 
@@ -565,7 +565,7 @@ Re @eGUAbe2V7j26GHw @mafeife52494712 🤣🤣<br>你喜欢就好，毕竟是自�
 
 ### 138: [2023-03-03 07:26:53+08:00 推文](https://twitter.com/HeQinglian/status/1631435940848627712)
 
-欲知今日事，需问过来人。<br>欧亚地缘政治，美国太多智库著述，米尔斯海默曾有过推测，中国GDP到某个段位，就会出现这种情况。其实中国行动之时，GDP总量比他讲了大了不少。<br>我改天找出原文。网络时代最大的特点就是忽视前贤智慧。 https://twitter.com/Nobody197575/status/1631323211345563648<div class="rsshub-quote"><br><br>热血汉奸吴三桂: 黄左最气愤的就是俄罗斯和支共苟合，殊不知支共，俄罗斯才是真正的同床异梦，抱团取暖，彼此需求，俄罗斯只是表面上的文章，骨子里下手一点不客气，n次炮击大支渔民就是明证，美帝对古巴渔民都没有那么狠，更别提对大英渔民了，大支和美帝看起来吵吵嚷嚷，他们才是万年一条心的亲爹亲儿子关系 https://twitter.com/zengjieming/status/1631319343177891840<br></div>
+欲知今日事，需问过来人。<br>欧亚地缘政治，美国太多智库著述，米尔斯海默曾有过推测，中国GDP到某个段位，就会出现这种情况。其实中国行动之时，GDP总量比他讲了大了不少。<br>我改天找出原文。网络时代最大的特点就是忽视前贤智慧。<div class="rsshub-quote"><br><br>热血汉奸吴三桂: 黄左最气愤的就是俄罗斯和支共苟合，殊不知支共，俄罗斯才是真正的同床异梦，抱团取暖，彼此需求，俄罗斯只是表面上的文章，骨子里下手一点不客气，n次炮击大支渔民就是明证，美帝对古巴渔民都没有那么狠，更别提对大英渔民了，大支和美帝看起来吵吵嚷嚷，他们才是万年一条心的亲爹亲儿子关系<br></div>
 
 ### 139: [2023-03-03 09:17:47+08:00 推文](https://twitter.com/HeQinglian/status/1631463848774434816)
 
