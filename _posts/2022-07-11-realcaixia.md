@@ -21,11 +21,11 @@ title: 'Twitter @蔡霞: 2022-07-11~2022-07-17'
 
 ### 2: [2022-07-13 21:22:03+08:00 推文](https://twitter.com/realcaixia/status/1547209743848165377)
 
-纪念刘晓波。他本该在诺贝尔奖颁奖典礼现场，然而由于中共极权统治的残酷迫害，颁奖典礼现场只有那把缺位的空椅子。从此，刘晓波—六·四屠杀事件—空椅子，成了追求自由民主的中国人心中永远的痛。我们纪念刘晓波，我们继续朝着刘晓波为之献出生命的目标前行。<br><br>自由亚洲电台: 【刘晓波逝世五周年 友人台北祭悼】<br>【刘晓波:中国必须有一个道义巨人无私牺牲】<br><br>13日是诺贝尔和平奖得主刘晓波逝世五周年。許多友人在台北以诗歌音乐舞蹈和演讲，悼念刘晓波。<br><br>流亡作家 #廖亦武 认为，刘晓波最重要的一句话是“中国没有道义巨人”。<br><br>#刘晓波<br>#李明哲<br>#矢板明夫<br>#中国没有道义巨人<br><br><video src="https://video.twimg.com/ext_tw_video/1547182384252010496/pu/vid/720x720/mcaCz7kODqDkw2y-.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1547182384252010496/pu/img/g_xZMsl74FPN_yst.jpg"></video>
+纪念刘晓波。他本该在诺贝尔奖颁奖典礼现场，然而由于中共极权统治的残酷迫害，颁奖典礼现场只有那把缺位的空椅子。从此，刘晓波—六·四屠杀事件—空椅子，成了追求自由民主的中国人心中永远的痛。我们纪念刘晓波，我们继续朝着刘晓波为之献出生命的目标前行。
 
 ### 3: [2022-07-14 03:39:34+08:00 推文](https://twitter.com/realcaixia/status/1547304749938130944)
 
-纪念刘晓波。我作为后来者会继续往前走，宪政民主是中国政治走向现代文明必须实现的首要目标。<br><br>ZHANGDONG: 五年前的今天他走了，在北欧留下了一把空椅和未竟的事业。<br><br><img style="" src="https://pbs.twimg.com/media/FXkHj9VX0AA-gJt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FXkHkSPWIAMDhWI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+纪念刘晓波。我作为后来者会继续往前走，宪政民主是中国政治走向现代文明必须实现的首要目标。
 
 ### 4: [2022-07-14 09:52:58+08:00 推文](https://twitter.com/realcaixia/status/1547398719150211073)
 
@@ -41,7 +41,7 @@ Re 中国著名作家胡发云先生的文章—索尔维格之歌的故事：�
 
 ### 7: [2022-07-15 00:56:12+08:00 推文](https://twitter.com/realcaixia/status/1547626026435375104)
 
-荣剑的著作哪本都是精品，阅读荣剑的大作，既是思想盛宴又是文字美的艺术享受。我是在1989年6·4运动前后读到荣剑的文章的，如醍醐灌顶，从此后我就成了荣剑的铁杆粉丝。期待Amazon上能买到荣剑的这本纸质书。<br><br>荣剑: 再次推广！<br> <a href="https://twitter.com/ArtNext/status/1446509334087847947" target="_blank" rel="noopener noreferrer">https://twitter.com/ArtNext/status/1446509334087847947</a>
+荣剑的著作哪本都是精品，阅读荣剑的大作，既是思想盛宴又是文字美的艺术享受。我是在1989年6·4运动前后读到荣剑的文章的，如醍醐灌顶，从此后我就成了荣剑的铁杆粉丝。期待Amazon上能买到荣剑的这本纸质书。
 
 ### 8: [2022-07-15 05:45:33+08:00 推文](https://twitter.com/realcaixia/status/1547698840366567429)
 

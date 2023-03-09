@@ -37,3 +37,7 @@ Re @peterfrankopan @BlackwellEdin Congradutaions Peter! Amazing works indded.
 
 Hollywood is a gold-digging industry, and has been trying to please CCP. Actors like Richard Gere got canceled for criticizing China's aggression in Tibet. They self-censor yet claim to represent equality and liberty.<br>They should act to show their values.<br>https://www.vice.com/en/article/n7ejeq/donnie-yen-oscars-petition-hong-kong-protests
 
+### 6: [2023-03-09 20:01:10+08:00 推文](https://twitter.com/nathanlawkc/status/1633800087389208577)
+
+On the next day of intl’ women’s day, Tang, wife of Lee, both were labor union veterans in Hong Kong, was arrested outside of the prison where her husband is jailed. <br>She left in 2021 because warnings of her safety emerged. But she went back, for now we’re not sure why. https://t.co/83jYXK0sCR<br><img style="" src="https://pbs.twimg.com/media/FqxsAvrXwAE7fzI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
