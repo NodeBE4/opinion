@@ -37,7 +37,7 @@ Re @XIAOMIEHM 曾经有一本书《为什么美国没有社会主义？》1995�
 
 ### 6: [2023-03-06 11:33:51+08:00 推文](https://twitter.com/realcaixia/status/1632585253507452930)
 
-海外华人许多人不知道这个被习欣赏、在一次全国文艺工作座谈会上，习点名发言的周小平何许人也？何以有“臭咸带鱼”这个绰号？我查了一下维基百科，给推友们提供些资料。 https://twitter.com/rongjian1957/status/1632516295613710336<div class="rsshub-quote"><br><br>荣剑: 这时代如他所愿，臭咸带鱼翻身了！ https://t.co/1UxwASuckm<br><br><img style="" src="https://pbs.twimg.com/media/Fqfc14bWIAE_DIA?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+海外华人许多人不知道这个被习欣赏、在一次全国文艺工作座谈会上，习点名发言的周小平何许人也？何以有“臭咸带鱼”这个绰号？我查了一下维基百科，给推友们提供些资料。<div class="rsshub-quote"><br><br>荣剑: 这时代如他所愿，臭咸带鱼翻身了！ https://t.co/1UxwASuckm<br><br><img style="" src="https://pbs.twimg.com/media/Fqfc14bWIAE_DIA?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 7: [2023-03-06 11:35:28+08:00 推文](https://twitter.com/realcaixia/status/1632585660799545345)
 
@@ -69,7 +69,7 @@ Re 维基百科所写本人硕博入学这段，有3点错误：1，1992年报�
 
 ### 14: [2023-03-07 00:26:49+08:00 推文](https://twitter.com/realcaixia/status/1632779780012785664)
 
-這些人難道就不明白所謂統一，就是把自己送給習黑幫團伙當奴隸嗎？你問過你兒子孫子的意願嗎？你這是引狼入室，禍害2000多萬台灣人。你若想「統一」，不妨先把你自己統一過去，到大陸居住生活，成為大陸居民。去實地生活感受「統一」的日子。 https://twitter.com/__inty__/status/1632769585178107905<div class="rsshub-quote"><br><br>Inty: 台湾境内的【统一义勇军】等着中国解放他们，希望被中国统一https://t.co/sF4fw2QEsD https://twitter.com/i/web/status/1632769585178107905 https://t.co/L1kDrLU1RU<br><br><img style="" src="https://pbs.twimg.com/media/FqjDOqDagAAAAbf?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+這些人難道就不明白所謂統一，就是把自己送給習黑幫團伙當奴隸嗎？你問過你兒子孫子的意願嗎？你這是引狼入室，禍害2000多萬台灣人。你若想「統一」，不妨先把你自己統一過去，到大陸居住生活，成為大陸居民。去實地生活感受「統一」的日子。<div class="rsshub-quote"><br><br>Inty: 台湾境内的【统一义勇军】等着中国解放他们，希望被中国统一https://t.co/sF4fw2QEsD https://twitter.com/i/web/status/1632769585178107905 https://t.co/L1kDrLU1RU<br><br><img style="" src="https://pbs.twimg.com/media/FqjDOqDagAAAAbf?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 15: [2023-03-07 09:27:56+08:00 推文](https://twitter.com/realcaixia/status/1632915956220698625)
 
@@ -81,11 +81,11 @@ Re LT視界的分析我基本認同。另有一疑問是：如果習黨國真的
 
 ### 17: [2023-03-07 09:59:52+08:00 推文](https://twitter.com/realcaixia/status/1632923991857037312)
 
-高手在民間！👍 https://twitter.com/xingzhe2021/status/1632916954792054785<div class="rsshub-quote"><br><br>墻國荒誕字: @realcaixia 李中堂说“人在干，天在看！”又惹皇帝生气了…<br>https://twitter.com/xingzhe2021/status/1632826140896141313?t=hEqitvJLPIrS847a6mFxVw&amp;s=19<br></div>
+高手在民間！👍<div class="rsshub-quote"><br><br>墻國荒誕字: @realcaixia 李中堂说“人在干，天在看！”又惹皇帝生气了…<br>https://twitter.com/xingzhe2021/status/1632826140896141313?t=hEqitvJLPIrS847a6mFxVw&amp;s=19<br></div>
 
 ### 18: [2023-03-08 00:59:30+08:00 推文](https://twitter.com/realcaixia/status/1633150391469899776)
 
-特務國家，1984老大哥國家。<br>在習黨國生活的所有人，都沒有人格尊嚴。在大數據監控探頭下，每個人的外表都是裸體動物；在大數據語音監控下，每個人都可能言不由衷。說話的人，要麼臣服於奴隸身份；要麼臣服於奴才地位；要挺身做自由人的，要麼在監獄要麼成啞巴。 https://twitter.com/ganchengw/status/1632937853033299968<div class="rsshub-quote"><br><br>Gancheng Wang: 比尔·盖兹有没有责任帮助中国人民打破防火墙？… https://twitter.com/i/web/status/1632937853033299968 https://t.co/vHsoBEXKqO<br><br><img style="" src="https://pbs.twimg.com/media/FqlbseTWcAEpnxH?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FqlbseUWYAIvuFO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FqlbseXWAAELsUt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+特務國家，1984老大哥國家。<br>在習黨國生活的所有人，都沒有人格尊嚴。在大數據監控探頭下，每個人的外表都是裸體動物；在大數據語音監控下，每個人都可能言不由衷。說話的人，要麼臣服於奴隸身份；要麼臣服於奴才地位；要挺身做自由人的，要麼在監獄要麼成啞巴。<div class="rsshub-quote"><br><br>Gancheng Wang: 比尔·盖兹有没有责任帮助中国人民打破防火墙？… https://twitter.com/i/web/status/1632937853033299968 https://t.co/vHsoBEXKqO<br><br><img style="" src="https://pbs.twimg.com/media/FqlbseTWcAEpnxH?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FqlbseUWYAIvuFO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FqlbseXWAAELsUt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 19: [2023-03-08 01:30:20+08:00 推文](https://twitter.com/realcaixia/status/1633158151347527682)
 
@@ -101,11 +101,11 @@ Re @wuzuolai 習構建宏大理論理論體系，「中國模式」「人類命�
 
 ### 22: [2023-03-08 07:02:13+08:00 推文](https://twitter.com/realcaixia/status/1633241672573403137)
 
-英雄永生！<br>有的人活著，其實已經死了，不過一行屍走肉而己。有的人死了，但他永遠活著！活在歷史上，活在全民族的心中！這位烏克蘭英雄活在全世界善良正直的人心中！<div class="rsshub-quote"><br><br>王小山（こやま キング）: 此刻，我点了根烟，祭奠一下英雄<br></div>
+英雄永生！<br>有的人活著，其實已經死了，不過一行屍走肉而己。有的人死了，但他永遠活著！活在歷史上，活在全民族的心中！這位烏克蘭英雄活在全世界善良正直的人心中！ https://twitter.com/wangxiaoshan/status/1633168785187418113<div class="rsshub-quote"><br><br>王小山（こやま キング）: 此刻，我点了根烟，祭奠一下英雄 https://twitter.com/henry20092021/status/1633167344334774272<br></div>
 
 ### 23: [2023-03-08 07:14:34+08:00 推文](https://twitter.com/realcaixia/status/1633244781114687489)
 
-我和蔡慎坤老師的看法一樣。因為國際輿論和社會反響太大，沒膽量赤裸裸地將中國變成暴力統治下的習黨國，只好偃旗息鼓。但絕不可能以後就「放下屠刀 立地成佛」。替習棒伙放風的媒體，信譽度一定受到損失。這給媒體是個警告，如果不想損害自己的信譽的話，請遠離習黨國，不必為習棒伙大外宣所用。<div class="rsshub-quote"><br><br>蔡慎坤: 机构改革方案没有出台成立中央内务委员会的信息，如此重大的改革方案肯定不适合拿到人大讨论，此前透过港媒放风可能也是试探，发现社会各界包括国际舆论反响太大，只好暂时按兵不动，待时机成熟再行操作，实际上现在中央完全掌控了国务院，改变公安部和国安部归属没有必要，换了人就达到了控制的目的。<br></div>
+我和蔡慎坤老師的看法一樣。因為國際輿論和社會反響太大，沒膽量赤裸裸地將中國變成暴力統治下的習黨國，只好偃旗息鼓。但絕不可能以後就「放下屠刀 立地成佛」。替習棒伙放風的媒體，信譽度一定受到損失。這給媒體是個警告，如果不想損害自己的信譽的話，請遠離習黨國，不必為習棒伙大外宣所用。 https://twitter.com/cskun1989/status/1633136660404912131<div class="rsshub-quote"><br><br>蔡慎坤: 机构改革方案没有出台成立中央内务委员会的信息，如此重大的改革方案肯定不适合拿到人大讨论，此前透过港媒放风可能也是试探，发现社会各界包括国际舆论反响太大，只好暂时按兵不动，待时机成熟再行操作，实际上现在中央完全掌控了国务院，改变公安部和国安部归属没有必要，换了人就达到了控制的目的。<br></div>
 
 ### 24: [2023-03-09 02:50:38+08:00 推文](https://twitter.com/realcaixia/status/1633540748451934209)
 
@@ -117,11 +117,11 @@ Re @wuzuolai 習構建宏大理論理論體系，「中國模式」「人類命�
 
 ### 26: [2023-03-09 04:54:31+08:00 推文](https://twitter.com/realcaixia/status/1633571924604485632)
 
-習黨國在瑞典權威的全球179個國家與地區民主發展程度的排名為倒數為第八名，直接打臉習黨國？屬於專制封閉國家。<br>習近平吹噓的「全過程民主」根本得不到世界各國的認可，相反「創造」了令世界不齒的笑話。 https://twitter.com/hkokbore/status/1632814356147609602<div class="rsshub-quote"><br><br>Ilshat H. Kokbore 伊利夏提: 朝鲜、厄立特里亚和阿富汗排名垫底。其中，美国排名第23位，较去年有所下跌；日本、韩国和台湾分别排第27名、28名和30名，也是亚洲……然而，香港在港版国安法实施后，民主程度已跌至封闭专制地区行列，排名第139位。中国则排名倒数第8，位列缅甸、沙特阿拉伯和白俄罗斯之后。 https://www.rfa.org/mandarin/Xinwen/5-03052023105746.html<br></div>
+習黨國在瑞典權威的全球179個國家與地區民主發展程度的排名為倒數為第八名，直接打臉習黨國？屬於專制封閉國家。<br>習近平吹噓的「全過程民主」根本得不到世界各國的認可，相反「創造」了令世界不齒的笑話。 https://twitter.com/HKokbore/status/1632814356147609602<div class="rsshub-quote"><br><br>Ilshat H. Kokbore 伊利夏提: 朝鲜、厄立特里亚和阿富汗排名垫底。其中，美国排名第23位，较去年有所下跌；日本、韩国和台湾分别排第27名、28名和30名，也是亚洲……然而，香港在港版国安法实施后，民主程度已跌至封闭专制地区行列，排名第139位。中国则排名倒数第8，位列缅甸、沙特阿拉伯和白俄罗斯之后。 https://www.rfa.org/mandarin/Xinwen/5-03052023105746.html<br></div>
 
 ### 27: [2023-03-09 06:01:40+08:00 推文](https://twitter.com/realcaixia/status/1633588820284432385)
 
-格魯吉亞人起來反抗俄羅斯的侵略和欺壓！普京必定戰敗！普京是戰爭罪犯。 https://twitter.com/zhangdong_sch/status/1633546227978518529<div class="rsshub-quote"><br><br>ZHANGDONG: “我们是欧洲！”<br>格鲁吉亚人不堪继续忍受俄罗斯欺压，决意加入欧盟。这震撼的场面让普京情何以堪。 https://twitter.com/visegrad24/status/1633483624950505473<br></div>
+格魯吉亞人起來反抗俄羅斯的侵略和欺壓！普京必定戰敗！普京是戰爭罪犯。<div class="rsshub-quote"><br><br>ZHANGDONG: “我们是欧洲！”<br>格鲁吉亚人不堪继续忍受俄罗斯欺压，决意加入欧盟。这震撼的场面让普京情何以堪。<br></div>
 
 ### 28: [2023-03-09 06:06:08+08:00 推文](https://twitter.com/realcaixia/status/1633589945356140545)
 
@@ -137,11 +137,11 @@ Re https://t.co/mziOaeOB1S<br><img style="" src="https://pbs.twimg.com/media/Fqu
 
 ### 31: [2023-03-09 06:45:30+08:00 推文](https://twitter.com/realcaixia/status/1633599853833125889)
 
-俄羅斯在2008年侵略格魯吉亞，搶奪南奧塞梯地區，爆發力5天激烈戰爭，好像是格魯吉亞平民死亡近200人，格魯吉亞軍隊也傷亡了幾百人。格魯吉亞民眾反對俄羅斯就可以理解了。美國有部戰爭片就是根據五天戰爭中的真人真事而寫成劇本拍出電影大片的。那個電影簡介情節都要11分鐘多，沒法發到推特上來。 https://twitter.com/realcaixia/status/1633598165600579584<div class="rsshub-quote"><br><br>蔡霞: https://t.co/mziOaeOB1S<br><br><img style="" src="https://pbs.twimg.com/media/Fqu03ylaMAI8jud?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+俄羅斯在2008年侵略格魯吉亞，搶奪南奧塞梯地區，爆發力5天激烈戰爭，好像是格魯吉亞平民死亡近200人，格魯吉亞軍隊也傷亡了幾百人。格魯吉亞民眾反對俄羅斯就可以理解了。美國有部戰爭片就是根據五天戰爭中的真人真事而寫成劇本拍出電影大片的。那個電影簡介情節都要11分鐘多，沒法發到推特上來。<div class="rsshub-quote"><br><br>蔡霞: https://t.co/mziOaeOB1S<br><br><img style="" src="https://pbs.twimg.com/media/Fqu03ylaMAI8jud?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 32: [2023-03-09 06:57:26+08:00 推文](https://twitter.com/realcaixia/status/1633602856673755136)
 
-高校學生不僅知識陳舊視野狹窄，而且個人品質下滑。<br>中國科大一學生因應付學業對老師苦心教育不滿，於是幾個學生一起給老師設陷阱，結果老師被學校停課聽候處理。<br>學生學壞，是習黨國制度環境惡劣，誘導激發人性惡。中國教育完蛋、大學生完蛋了，沒了思想活力，哪來的原創性創造發明？！<div class="rsshub-quote"><br><br>李承鹏（真正的大眼哥）: 南航老师说“你们用的手机，电脑，相机都是欧美发明的”“数学物理的成果全部来自西方，马克思主义也来自西方”这些扫盲班实话，就被学生举报并在黑板上写了“乏走狗”字样。老师已被处理。<br>现在大学洗脑太强大，以至于学生们甘当人矿。<br>所以，无论你读的是清华北大或任何985、211大学，终归是中国矿业大学。<br></div>
+高校學生不僅知識陳舊視野狹窄，而且個人品質下滑。<br>中國科大一學生因應付學業對老師苦心教育不滿，於是幾個學生一起給老師設陷阱，結果老師被學校停課聽候處理。<br>學生學壞，是習黨國制度環境惡劣，誘導激發人性惡。中國教育完蛋、大學生完蛋了，沒了思想活力，哪來的原創性創造發明？！ https://twitter.com/dayangelcp/status/1633595817759240192<div class="rsshub-quote"><br><br>李承鹏（真正的大眼哥）: 南航老师说“你们用的手机，电脑，相机都是欧美发明的”“数学物理的成果全部来自西方，马克思主义也来自西方”这些扫盲班实话，就被学生举报并在黑板上写了“乏走狗”字样。老师已被处理。<br>现在大学洗脑太强大，以至于学生们甘当人矿。<br>所以，无论你读的是清华北大或任何985、211大学，终归是中国矿业大学。<br></div>
 
 ### 33: [2023-03-09 09:48:30+08:00 推文](https://twitter.com/realcaixia/status/1633645904745091072)
 
@@ -162,4 +162,8 @@ Re @yuchangtalk 送蛋糕的人与任先生是发小，一起长大的个人友�
 ### 37: [2023-03-10 03:35:57+08:00 推文](https://twitter.com/realcaixia/status/1633914538927202304)
 
 Re @hermitcrab1949 @liujunning 这是任志强先生公益劳动时的照片。<br>阿拉善SEE生态协会，是2004年成立的全国第一个企业家公益组织—保护生态环境。他们在阿拉善盟种植小米，任先生主持这一项目，小米品牌“任小米”。图片是任先生在包装任小米劳动时的场面。<br>阿拉善SEE生态协会，做收割小米时节的亲子旅游，父母带孩子参加收割活动。
+
+### 38: [2023-03-10 05:54:42+08:00 推文](https://twitter.com/realcaixia/status/1633949455673352193)
+
+很惨！不忍卒睹。 https://twitter.com/ganchengw/status/1633863255184531456<div class="rsshub-quote"><br><br>Gancheng Wang: 曾经的打工天堂东莞，已经开始有人饿死街头。产业链转移，大规模失业，那六个亿月入不到千元的人，将有多少人行将陷入饥荒？百岁老人马相伯经历了近代转型，付出毕生心血，做出过重要贡献，最著名的就是创建复旦大学，在1939年抗日战争最艰难的时候走完人生道路，他回顾一生留下这些话：“我就是一条狗… https://twitter.com/i/web/status/1633863255184531456 https://t.co/OnbhmnlRPI<br><br><img style="" src="https://pbs.twimg.com/media/Fqyl-DXWIAAo3mA?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
