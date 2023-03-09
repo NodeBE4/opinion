@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2023-03-07
+date: 2023-03-08
 from: https://old.reddit.com/r/askgaybros/comments/11j0tpx/mom_looking_for_advice/
 layout: post
 tags:
@@ -130,4 +130,14 @@ Not to the wet market.  But to something right beside the wet market?  Maybe.
 What are your baseline presumptions, here? 
 
 That the wet market conspiracy is true, until proven otherwise?
+
+### 504: [College Difficulty](https://old.reddit.com/r/college/comments/11lzv8k/college_difficulty/), submitted on 2023-03-08 23:53:59+08:00.
+
+----- __504.1__ -----2023-03-09 12:39:41+08:00:
+
+Depends on what your major is.  It also depends on whether you like what you're studying. 
+
+Numerical methods was very hard, for example.
+
+Game theory was challenging, but engaging.  I wound up teaching a graduate course related to this, focused on modeling and strategic behavior.
 
