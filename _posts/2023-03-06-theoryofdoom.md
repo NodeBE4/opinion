@@ -139,5 +139,7 @@ Depends on what your major is.  It also depends on whether you like what you're 
 
 Numerical methods was very hard, for example.
 
-Game theory was challenging, but engaging.  I wound up teaching a graduate course related to this, focused on modeling and strategic behavior.
+Most of my science-focused courses were not hard (physical chemistry being the exception).  They just involved a lot of memorization.  
+
+Then there were bullshit classes I could not bring myself to care about.  The subject material was not hard.  What was hard was staying awake.
 
