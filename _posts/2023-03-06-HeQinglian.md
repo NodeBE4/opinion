@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-03-09
+date: 2023-03-10
 from: https://twitter.com/HeQinglian/status/1632498870813966343
 layout: post
 tags:
@@ -169,11 +169,11 @@ Re 各位推友，拜登今天仍然说对华政策没变。<br>拜粉可以说�
 
 ### 39: [2023-03-08 09:41:16+08:00 推文](https://twitter.com/HeQinglian/status/1633281700389109760)
 
-这事，德国人信了就行。毕竟，需要美国这位盟友兼大哥，北溪事件的真相是什么不重要，德国人愿意相信什么最重要。<br>ZELT这篇报道，属于德国人正想打瞌睡，立刻有人送上枕头之类。<div class="rsshub-quote"><br><br>绫波: 🇩🇪德国《ZELT》：<br><br>ZEIT确定了据称用于秘密行动的船只是从波兰一家公司租来的游艇显然是两名乌克兰人所有。是由一个五男一女六人小组执行的。一名船长两名潜水员两名潜水助理和一名医生将炸药运到犯罪现场并放置在那里。肇事者的国籍不清楚，袭击者使用专业伪造的护照除其他外还被用来租船 https://t.co/Zt5vzwjWDA<br><br><img style="" src="https://pbs.twimg.com/media/Fqp7QFraMAEUsSV?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+这事，德国人信了就行。毕竟，需要美国这位盟友兼大哥，北溪事件的真相是什么不重要，德国人愿意相信什么最重要。<br>ZELT这篇报道，属于德国人正想打瞌睡，立刻有人送上枕头之类。 https://twitter.com/dinglili7/status/1633253353756172288<div class="rsshub-quote"><br><br>绫波: 🇩🇪德国《ZELT》：<br><br>ZEIT确定了据称用于秘密行动的船只是从波兰一家公司租来的游艇显然是两名乌克兰人所有。是由一个五男一女六人小组执行的。一名船长两名潜水员两名潜水助理和一名医生将炸药运到犯罪现场并放置在那里。肇事者的国籍不清楚，袭击者使用专业伪造的护照除其他外还被用来租船 https://t.co/Zt5vzwjWDA<br><br><img style="" src="https://pbs.twimg.com/media/Fqp7QFraMAEUsSV?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 40: [2023-03-08 18:57:26+08:00 推文](https://twitter.com/fading_you1/status/1633421661679628289)
 
-RT 天降伟人包由检<br>美国左派的意识形态输出，目的就是用政治正确阉割全世界不同国家的社会伦理，从而实现对传统价值的颠覆来“砸烂旧世界”，进而用左派意识形态重构一个大一统的“天下大同”新世界。<br><br>所以，此时此刻，反美才是最高的自由价值。<div class="rsshub-quote"><br><br>端傳媒 Initium Media: 【在女浴場遇「跨性別」感到恐懼？日本演員橋本愛為爭議言論道歉】 對於「跨性別女性」使用女性洗浴設施和公共廁所的相關問題，日本演員橋本愛本月5日於其IG story中發表評論，提議「最好根據身體的性別來區分」。有網民批評其言論涉嫌「歧視LGBT+」。隨後6日，橋本愛隨後再發布story就此番言論道歉。 https://t.co/7fytbI0Uev<br><br><img style="" src="https://pbs.twimg.com/media/FqmZ1a1aMAAXvoS?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT 天降伟人包由检<br>美国左派的意识形态输出，目的就是用政治正确阉割全世界不同国家的社会伦理，从而实现对传统价值的颠覆来“砸烂旧世界”，进而用左派意识形态重构一个大一统的“天下大同”新世界。<br><br>所以，此时此刻，反美才是最高的自由价值。 https://twitter.com/initiumnews/status/1633005939686248449<div class="rsshub-quote"><br><br>端傳媒 Initium Media: 【在女浴場遇「跨性別」感到恐懼？日本演員橋本愛為爭議言論道歉】 對於「跨性別女性」使用女性洗浴設施和公共廁所的相關問題，日本演員橋本愛本月5日於其IG story中發表評論，提議「最好根據身體的性別來區分」。有網民批評其言論涉嫌「歧視LGBT+」。隨後6日，橋本愛隨後再發布story就此番言論道歉。 https://t.co/7fytbI0Uev<br><br><img style="" src="https://pbs.twimg.com/media/FqmZ1a1aMAAXvoS?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 41: [2023-03-08 22:30:03+08:00 推文](https://twitter.com/HeQinglian/status/1633475168176619520)
 
@@ -246,4 +246,60 @@ Re @dinglili7 再发展下去，同性恋是民主的标配了。
 ### 58: [2023-03-09 10:30:41+08:00 推文](https://twitter.com/HeQinglian/status/1633656520788287490)
 
 Re @juzijianbing @dinglili7 巴西曾选了个巴西川普，刚下台。这位竞选时就说了，要使男孩象男孩，女孩象女孩，反对lgbtqi+。这位当了两任。
+
+### 59: [2023-03-09 22:32:45+08:00 推文](https://twitter.com/HeQinglian/status/1633838235603591169)
+
+Re @Wu_Zhi @KELMAND1 纵观人类战争史，总是向国际社会哭诉敌人的凶残并求得媒体一边倒地谴责，这是俄乌战争以来的新战术——或曰信息战战略。<br>中国军事学之父孙子强调“兵者，凶也，非危不战”，“兵者，国之大事，死生之地，存亡之道，不可不察也”。<br>西方军事学之父克劳塞维茨也强调战争中要最大限度地杀伤敌人并保存己方实力。
+
+### 60: [2023-03-09 22:35:28+08:00 推文](https://twitter.com/HeQinglian/status/1633838920936099840)
+
+这应该是一折戏的开头，估计是战争援助落幕前的一折。是否有重建援助，得看表现——美方权贵集团也有需要，参考阿富汗帐本。 https://twitter.com/KELMAND1/status/1633754495917363201<div class="rsshub-quote"><br><br>Ezio Mao☢: 乌克兰外交部长声称基辅没有参与破坏“北溪”<br><br>乌克兰外交部长德米特里库列巴在周四接受意大利报纸《共和国报》采访时表示：“我的政府与此无关。我认为没有证据的文章是有害的，因为它们会给人留下乌克兰对此负有责任的印象。我们正在等待调查结果。” https://twitter.com/KELMAND1/status/1633137260886654976 https://t.co/2VkgjGsLf6<br><br><img style="" src="https://pbs.twimg.com/media/FqxDCpBacAAtJDB?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 61: [2023-03-09 22:50:11+08:00 推文](https://twitter.com/JianglinLi/status/1633842624946933760)
+
+RT 李江琳<br>丁一夫：《睡眠、梦和死亡过程》出版感言 http://bloodundersnow.blogspot.com/2023/03/blog-post_9.html
+
+### 62: [2023-03-09 22:52:16+08:00 推文](https://twitter.com/HeQinglian/status/1633843150077972481)
+
+Re @JasonWa65249659 不同意。<br>1、美方自川普以来，宣布结束对外颜色革命；拜登上任两年多以来，一直强调对华外交不谋求改变中国政治制度，不触犯中共的核心利益；<br>2、中方早就将美国颜色革命的工具——NGO（除lgbtqi+与环保）清理干净。<br>目前是中国要求亚太区域霸权、美国试图捍卫自己全球霸权并扼制中国亚太霸权的竞争。
+
+### 63: [2023-03-09 23:13:00+08:00 推文](https://twitter.com/HeQinglian/status/1633848365057294340)
+
+Re @chinayvan 🙏<br>谢谢。<br>俄乌战争牵涉到人类文明走向问题，对大多数中国人来说，确实很难理解。<br>多数人不了解美国这几年名存实亡，正在用LGBTQI进步价值观取代普世价值；也不了解俄罗斯不是苏联，更不了解中国存亡与亚太地缘政治有关。<br>将俄等同于苏联，将进步主义美国等同于传统宪政美国，是认识俄乌战争的死结。
+
+### 64: [2023-03-09 23:28:39+08:00 推文](https://twitter.com/HeQinglian/status/1633852305496784896)
+
+Re @chinayvan 好好休息一段。年龄渐大，还是想法子在国内做点什么吧。
+
+### 65: [2023-03-09 23:39:15+08:00 推文](https://twitter.com/HeQinglian/status/1633854972528930816)
+
+Re @chinayvan 在国内职业转型，这种年龄，得借助人脉。否则真是很难。<br>北京现在就是考虑生存问题，努力将出口重心与资源供应转移到不受美国影响与控制的区域内，但非洲已经余地不大。
+
+### 66: [2023-03-09 23:43:51+08:00 推文](https://twitter.com/HeQinglian/status/1633856130412855297)
+
+Re @Lucs24659702 话说，民主党的票仓是无（无产者、穷人）知（教育界媒体业及公务员系统）少（少数族、性少数群体、青少年）女。<br>这些群体要活得好，还得依靠有创造价值能力（科技产业、实体制造业为主）的群体工作纳税。<br>这个关系，民主党左派完全不提，让票仓们以为政府创造价值。
+
+### 67: [2023-03-09 23:59:59+08:00 推文](https://twitter.com/HeQinglian/status/1633860188686917632)
+
+Re @richard20211212 @chinayvan 0.8美元我都不会要，挂在家里会大煞风景。
+
+### 68: [2023-03-10 00:02:50+08:00 推文](https://twitter.com/HeQinglian/status/1633860906928209925)
+
+Re @duijiudangge13 @chinayvan 如果细心，会发现他与我看法其实不同，现在好多了。<br>其实，俄乌战争一起，我只能发表 一些预测终局的文章：世界多极必将形成，资源国在战争中具备的优势。<br>回想半世学术生涯，如今这段才是最无处发表言论之时。
+
+### 69: [2023-03-10 00:07:08+08:00 推文](https://twitter.com/HeQinglian/status/1633861990245629952)
+
+Re @Lucs24659702 美联储可动用的政策工具不多，无非就是加息减息。印钞的问题，得财政部说了算——中国网友别将中国央行与财政部的功能等同于美国，两码事，反着来可能更好理解。
+
+### 70: [2023-03-10 00:08:48+08:00 推文](https://twitter.com/HeQinglian/status/1633862410267402245)
+
+Re @shenliangqing2 这地方用来拍电视剧作场景地，我已经“游”过了。
+
+### 71: [2023-03-10 00:32:08+08:00 推文](https://twitter.com/HeQinglian/status/1633868280103424003)
+
+Re @Lucs24659702 事件一开始，我就认定是美版国会大厦纵火案，而且指出本届美国保守派人民的不幸：六四获得全世界支持，他们得来的是世界范围内的指责。
+
+### 72: [2023-03-10 00:33:15+08:00 推文](https://twitter.com/HeQinglian/status/1633868560828080128)
+
+Re @lily_lama99 @Lucs24659702 你如果熟悉奥巴马们奉若神明的“现代货币理论”，就不会这样想了。这理论的要点是：美元全世界通用，印钞不受限制。
 
