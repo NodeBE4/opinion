@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2023-03-08
+date: 2023-03-09
 from: https://old.reddit.com/r/askgaybros/comments/11j0tpx/mom_looking_for_advice/
 layout: post
 tags:
@@ -142,4 +142,10 @@ Numerical methods was very hard, for example.
 Most of my science-focused courses were not hard (physical chemistry being the exception).  They just involved a lot of memorization.  
 
 Then there were bullshit classes I could not bring myself to care about.  The subject material was not hard.  What was hard was staying awake.
+
+### 505: [My boyfriends confession has me confused.](https://old.reddit.com/r/askgaybros/comments/11mf5r8/my_boyfriends_confession_has_me_confused/), submitted on 2023-03-09 09:46:27+08:00.
+
+----- __505.1__ -----2023-03-09 21:49:59+08:00:
+
+Your boyfriend is probably a little bit more into guys than he's letting on.  Tough spot for you to be in.
 
