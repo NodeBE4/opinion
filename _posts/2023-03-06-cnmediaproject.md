@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2023-03-07
+date: 2023-03-09
 from: https://twitter.com/cnmediaproject/status/1632573545762160640
 layout: post
 tags:
@@ -74,4 +74,8 @@ Re In November 2018, Xi met with entrepreneurs in a bid to calm nerves. And in a
 ### 15: [2023-03-07 08:56:13+08:00 推文](https://twitter.com/cnmediaproject/status/1632907974846066689)
 
 Re Another related term in the official press today: "streamlining services" (放管服). This is about cutting down on red tape to make things easier for business. Read up on the term in the CMP Dictionary: https://chinamediaproject.org/the_ccp_dictionary/streamlining-services/
+
+### 16: [2023-03-09 17:35:47+08:00 推文](https://twitter.com/cnmediaproject/status/1633763501113217026)
+
+When China dramatically reversed its "zero Covid" policy, experts who had backed it for years changed their tunes overnight.<br><br>The before-and-after contrasts beg the question: How can health experts be trusted when politics leads their science by the nose?<br><br>https://chinamediaproject.org/2023/03/09/framing-chinas-health-experts/
 
