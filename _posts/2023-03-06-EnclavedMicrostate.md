@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-03-08
+date: 2023-03-09
 from: https://old.reddit.com/r/AskHistorians/comments/11kqjck/the_role_of_us_parties_in_the_formation_of_the/
 layout: post
 tags:
@@ -32,4 +32,10 @@ Hi there - we're happy to approve your question related to your creative project
 Additionally, as amazing as our flair panel is, we should also point out that /r/AskHistorians is not a professional historical consultation service. If you're asking a question here because you need vital research for a future commercial product such as a historical novel, you may be better off engaging a historical consultant at a fair hourly rate to answer these questions for you. We don't know what the going rate for consultancy work would be in your locality, but it may be worth looking into that if you have in-depth or highly plot-reliant questions for this project. Some /r/AskHistorians flairs could be receptive to working as a consultant in this way. However, if you wish for a flair here to do this work for you, you will need to organize this with them yourselves.
 
 For more general advice about doing research to inform a creative project, please check out [our Monday Methods post on the subject](https://www.reddit.com/r/AskHistorians/comments/k8o4rv/monday_methods_researching_for_fiction/).
+
+### 1137: [Why does South Korean Christianity seem to produce so many missionaries?](https://old.reddit.com/r/AskHistorians/comments/11me9q0/why_does_south_korean_christianity_seem_to/), submitted on 2023-03-09 09:07:08+08:00.
+
+----- __1137.1__ -----2023-03-09 10:14:28+08:00:
+
+This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
