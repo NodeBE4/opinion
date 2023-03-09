@@ -243,3 +243,7 @@ Re @Wu_Zhi 从那以后就不看了。
 
 Re @dinglili7 再发展下去，同性恋是民主的标配了。
 
+### 58: [2023-03-09 10:30:41+08:00 推文](https://twitter.com/HeQinglian/status/1633656520788287490)
+
+Re @juzijianbing @dinglili7 巴西曾选了个巴西川普，刚下台。这位竞选时就说了，要使男孩象男孩，女孩象女孩，反对lgbtqi+。这位当了两任。
+
