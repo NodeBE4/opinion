@@ -89,7 +89,7 @@ Re @guchuan81 这本书让我认识到美国保守派为何如此不堪一击。
 
 ### 19: [2022-06-13 10:48:13+08:00 推文](https://twitter.com/HeQinglian/status/1536178598679302146)
 
-美国前总统川普说：如果是我，中国不会赢；<br>美国现总统拜登说：全是川普的错，外加普京的错。没有这些错，我那重建美丽新世界的计划真的很美丽。
+美国前总统川普说：如果是我，中国不会赢；<br>美国现总统拜登说：全是川普的错，外加普京的错。没有这些错，我那重建美丽新世界的计划真的很美丽。<br><br>Ezio Mao☢: 美中贸易战谁是输家？显而易见，美国在4年的贸易战之后取得了数个历史记录，不得不说美国赢麻了：<br><br>- 最近四十年最严重的通胀<br>- 历史新纪录30.5万亿美元的债务总量<br>- 有史以来第一次无计可施的货币政策<br><br>随着美国内部矛盾的加剧，我们要反思，反思什么再说吧...先反思着吧<br> <a href="https://twitter.com/VOAChinese/status/1533538538444103681?s=20&amp;t=NTQrdXyt0wqHO6IO2SMkEA" target="_blank" rel="noopener noreferrer">https://twitter.com/VOAChinese/status/1533538538444103681?s=20&amp;t=NTQrdXyt0wqHO6IO2SMkEA</a>
 
 ### 20: [2022-06-13 20:33:31+08:00 推文](https://twitter.com/HeQinglian/status/1536325896201818114)
 
@@ -325,7 +325,7 @@ Re @JianglinLi @nypost 戈培尔家的嫡传后裔。
 
 ### 78: [2022-06-17 10:09:04+08:00 推文](https://twitter.com/HeQinglian/status/1537618296819818496)
 
-听起来，中台开战，也会是信息战先行模式。<br>西方媒体一直说，外宣上，中国比俄罗斯笨拙。这次俄信息战完败，中国可能败得更惨？<br>中文世界的一半肯定是中国大胜，其他语种肯定是台湾一方碾压中国。<br>到时观众戏码肯定是：逼人站队表态支持、谣言满天飞。
+听起来，中台开战，也会是信息战先行模式。<br>西方媒体一直说，外宣上，中国比俄罗斯笨拙。这次俄信息战完败，中国可能败得更惨？<br>中文世界的一半肯定是中国大胜，其他语种肯定是台湾一方碾压中国。<br>到时观众戏码肯定是：逼人站队表态支持、谣言满天飞。<br><br>白月玲珑🇨🇳: 随着中国国防科技水平的不断提升，如今中国成功造出全球最小导弹，士兵一次可以背很多枚导弹，直接将士兵武装成超级战士，它就是国产QN202微型导弹，射程2公里黄瓜大小，狙击手见了头皮发麻。<br><br><img style="" src="https://pbs.twimg.com/media/FVXRZSyaUAAJVpi?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVXRZS1aAAAfOge?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVXRZSzaAAE-rPP?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 79: [2022-06-17 10:19:37+08:00 推文](https://twitter.com/HeQinglian/status/1537620951373840390)
 
@@ -349,7 +349,7 @@ Re @tankand300 那你高看了我。我是异类，你没见过我写这段生�
 
 ### 84: [2022-06-17 21:08:25+08:00 推文](https://twitter.com/HeQinglian/status/1537784230855462913)
 
-这主意不错，撒币（傻B)比赛。鼓励一带一路的国家两边通吃，一女二嫁，白天张家吃饭，晚上李家睡眠。<br>美国债务将以一年10多万亿的速度增长，通胀速度将与金元券相比。<br>当年冷战时期，里根用军备竞赛拖垮苏联；今天美中新冷战，拜登用基础设施建设竞赛消耗中国。<br>拜登与美国民主党手段实在是高。
+这主意不错，撒币（傻B)比赛。鼓励一带一路的国家两边通吃，一女二嫁，白天张家吃饭，晚上李家睡眠。<br>美国债务将以一年10多万亿的速度增长，通胀速度将与金元券相比。<br>当年冷战时期，里根用军备竞赛拖垮苏联；今天美中新冷战，拜登用基础设施建设竞赛消耗中国。<br>拜登与美国民主党手段实在是高。<br><br>联合早报 Lianhe Zaobao: 美国国家安全顾问沙利文说，美国总统拜登将发起一项全球基础设施倡议，以对抗中国在全球，特别是印太地区的野心。<br> <a href="https://www.zaobao.com.sg/realtime/world/story20220617-1283915" target="_blank" rel="noopener noreferrer">https://www.zaobao.com.sg/realtime/world/story20220617-1283915</a>
 
 ### 85: [2022-06-17 21:11:10+08:00 推文](https://twitter.com/HeQinglian/status/1537784919358849029)
 
