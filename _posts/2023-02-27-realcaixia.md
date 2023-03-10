@@ -33,7 +33,7 @@ Re https://t.co/kaatc091nt<br><img style="" src="https://pbs.twimg.com/media/Fp6
 
 ### 5: [2023-03-01 10:36:57+08:00 推文](https://twitter.com/realcaixia/status/1630758997128011779)
 
-致敬姚先生！十年被迫害，老 先生依然气质高雅，凛凛正气。充分显示老先生十年坚持风骨气节，保持尊严，挺立于天地之间！ https://twitter.com/NewCenturyBaopu/status/1630548083632402439<div class="rsshub-quote"><br><br>Bao Pu 鮑樸: 在大陸冤獄10年的香港「晨鐘出版社」出版人姚文田先生（右二）2023年2月27日終於「刑滿」出獄。左三是姚夫人。 https://t.co/V3ksmrcO59<br><br><img style="" src="https://pbs.twimg.com/media/FqDeAo6aIAAW5TO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+致敬姚先生！十年被迫害，老 先生依然气质高雅，凛凛正气。充分显示老先生十年坚持风骨气节，保持尊严，挺立于天地之间！<div class="rsshub-quote"><br><br>Bao Pu 鮑樸: 在大陸冤獄10年的香港「晨鐘出版社」出版人姚文田先生（右二）2023年2月27日終於「刑滿」出獄。左三是姚夫人。 https://t.co/V3ksmrcO59<br><br><img style="" src="https://pbs.twimg.com/media/FqDeAo6aIAAW5TO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 6: [2023-03-01 11:18:53+08:00 推文](https://twitter.com/realcaixia/status/1630769550923841539)
 
@@ -53,7 +53,7 @@ Re https://t.co/z96hhSQ4Y2<br><img style="" src="https://pbs.twimg.com/media/FqG
 
 ### 10: [2023-03-02 02:07:03+08:00 推文](https://twitter.com/realcaixia/status/1630993063345782784)
 
-这场讨论有些深度，但还是有相当的局限性。当然，所有的会议在有限的时间里，都只能讨论有限的问题。<br>相比较而言，与其说提出的问题具有一些深度，莫不如说会议打开了思考问题更开阔的思想空间，并具有将问题引向深处的学术潜力。<br>几位讲者在自由发言时段中的回复性发言，涵义丰富而更深，值得接续讨论 https://twitter.com/chinatransition/status/1630627933286027264<div class="rsshub-quote"><br><br>中国民主转型研究所: 习近平最近提出所谓＂中国式现代化＂。如何看待中国的现代化？现代化理论是否适用于中国？所谓＂中国模式＂是否走到了尽头？以＂中国式现代化＂对抗民主化是否会成功？<br>为此我们举行了＂反现代化的现代化＂研讨会，感谢与会欧美、华人专家精彩发言，欢迎观看以下全程视频 https://m.youtube.com/watch?v=dXZOitJ-JXY&amp;t=3360s<br></div>
+这场讨论有些深度，但还是有相当的局限性。当然，所有的会议在有限的时间里，都只能讨论有限的问题。<br>相比较而言，与其说提出的问题具有一些深度，莫不如说会议打开了思考问题更开阔的思想空间，并具有将问题引向深处的学术潜力。<br>几位讲者在自由发言时段中的回复性发言，涵义丰富而更深，值得接续讨论<div class="rsshub-quote"><br><br>中国民主转型研究所: 习近平最近提出所谓＂中国式现代化＂。如何看待中国的现代化？现代化理论是否适用于中国？所谓＂中国模式＂是否走到了尽头？以＂中国式现代化＂对抗民主化是否会成功？<br>为此我们举行了＂反现代化的现代化＂研讨会，感谢与会欧美、华人专家精彩发言，欢迎观看以下全程视频 https://m.youtube.com/watch?v=dXZOitJ-JXY&amp;t=3360s<br></div>
 
 ### 11: [2023-03-02 09:37:10+08:00 推文](https://twitter.com/realcaixia/status/1631106341614895105)
 
@@ -81,7 +81,7 @@ Re 我们这一代努力推进民主宪政的人都在步入老年阶段，推�
 
 ### 17: [2023-03-03 02:32:05+08:00 推文](https://twitter.com/realcaixia/status/1631361749705187346)
 
-特别推荐：议报发布胡平先生文章。<br>读完文章，让我获得三点认识：1，新冠病毒是人工合成的，绝不是自然界出现的；2，科学无国界，全球合作推进科学研究本是正常现象，但出现的人为后果必须要有责任承担方。3，追查新冠病毒疫情源头关系到全人类福祉，中共国阻止追查是反科学并极不负责的态度。<div class="rsshub-quote"><br><br>《议报》: 胡平 | 新冠病毒是人工合成的吗？https://yibaochina.com/?p=249665 即使证明了新冠病毒是出自自然界，那不等于就排除了实验室泄漏这种可能性。但是如果证明了新冠病毒是人工合成的，那么就只能是从实验室泄漏的，因为大自然没有这种病毒，只有实验室里才有。<br></div>
+特别推荐：议报发布胡平先生文章。<br>读完文章，让我获得三点认识：1，新冠病毒是人工合成的，绝不是自然界出现的；2，科学无国界，全球合作推进科学研究本是正常现象，但出现的人为后果必须要有责任承担方。3，追查新冠病毒疫情源头关系到全人类福祉，中共国阻止追查是反科学并极不负责的态度。 https://twitter.com/yibaochina/status/1631308860504920067<div class="rsshub-quote"><br><br>《议报》: 胡平 | 新冠病毒是人工合成的吗？https://yibaochina.com/?p=249665 即使证明了新冠病毒是出自自然界，那不等于就排除了实验室泄漏这种可能性。但是如果证明了新冠病毒是人工合成的，那么就只能是从实验室泄漏的，因为大自然没有这种病毒，只有实验室里才有。<br></div>
 
 ### 18: [2023-03-03 02:48:52+08:00 推文](https://twitter.com/realcaixia/status/1631365975705542669)
 
