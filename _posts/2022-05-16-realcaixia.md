@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2022-05-16~2022-05-22'
 
 ### 4: [2022-05-17 06:24:50+08:00 推文](https://twitter.com/realcaixia/status/1526327844862930945)
 
-特别推荐。强力推荐。欢迎所有朋友都来下载。<br><br>韩连潮: 【翻墙APP】#议报 在 @GreatFireChina 的帮助下完善了翻墙APP。下载安装后不仅可以阅读 #议报 内容，而且可以遨游自由网络。下载链接如下：<br><br><img style="" src="https://pbs.twimg.com/media/FSzcoJzXwAAY9uh?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://yibaochina.com/?page_id=245397" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?page_id=245397</a>
+特别推荐。强力推荐。欢迎所有朋友都来下载。
 
 ### 5: [2022-05-17 20:16:39+08:00 推文](https://twitter.com/realcaixia/status/1526537175604641792)
 
@@ -81,7 +81,7 @@ Re 中共秘书侍候领导十分周到，20年前我曾经参加过中组部一
 
 ### 17: [2022-05-19 20:16:57+08:00 推文](https://twitter.com/realcaixia/status/1527262026896232450)
 
-真是一山容不得两虎，宁可习自己一条道走到黑，把9500万弄到翻船、把14亿打入地狱，也不许李伸手收拾烂摊子。是蠢到家还是坏到底？
+真是一山容不得两虎，宁可习自己一条道走到黑，把9500万弄到翻船、把14亿打入地狱，也不许李伸手收拾烂摊子。是蠢到家还是坏到底？ <a href="https://twitter.com/rongjian1957/status/1526927075138887681" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1526927075138887681</a>
 
 ### 18: [2022-05-19 20:23:58+08:00 推文](https://twitter.com/realcaixia/status/1527263792677134338)
 
@@ -105,7 +105,7 @@ Re 中共秘书侍候领导十分周到，20年前我曾经参加过中组部一
 
 ### 23: [2022-05-20 22:03:57+08:00 推文](https://twitter.com/realcaixia/status/1527651342239600640)
 
-對中共統治體制和體制運作的機制需要深入研究。這無論是從社會學政治學理論角度看，還是從維護全世界自由民主和平看，都是極為重大而緊迫的課題。<br><br>韩连潮: 【哈德逊中国中心】恭贺哈德逊中国中心成立，恭贺余茂春博士主持新成立的哈德逊中国中心工作，相信在他和蓬佩奥国务卿领导下，中心一定会出一系列重要研究成果，为美国决策者提供急需的意见和策略。<br>Hudson Institute Launches New China Center - by Hudson Institute<br> <a href="https://www.hudson.org/research/17833-hudson-institute-launches-new-china-center" target="_blank" rel="noopener noreferrer">https://www.hudson.org/research/17833-hudson-institute-launches-new-china-center</a>
+對中共統治體制和體制運作的機制需要深入研究。這無論是從社會學政治學理論角度看，還是從維護全世界自由民主和平看，都是極為重大而緊迫的課題。
 
 ### 24: [2022-05-21 06:17:37+08:00 推文](https://twitter.com/realcaixia/status/1527775579025686529)
 

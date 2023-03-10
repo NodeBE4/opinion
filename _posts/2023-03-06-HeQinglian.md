@@ -173,7 +173,7 @@ Re 各位推友，拜登今天仍然说对华政策没变。<br>拜粉可以说�
 
 ### 40: [2023-03-08 18:57:26+08:00 推文](https://twitter.com/fading_you1/status/1633421661679628289)
 
-RT 天降伟人包由检<br>美国左派的意识形态输出，目的就是用政治正确阉割全世界不同国家的社会伦理，从而实现对传统价值的颠覆来“砸烂旧世界”，进而用左派意识形态重构一个大一统的“天下大同”新世界。<br><br>所以，此时此刻，反美才是最高的自由价值。 https://twitter.com/initiumnews/status/1633005939686248449<div class="rsshub-quote"><br><br>端傳媒 Initium Media: 【在女浴場遇「跨性別」感到恐懼？日本演員橋本愛為爭議言論道歉】 對於「跨性別女性」使用女性洗浴設施和公共廁所的相關問題，日本演員橋本愛本月5日於其IG story中發表評論，提議「最好根據身體的性別來區分」。有網民批評其言論涉嫌「歧視LGBT+」。隨後6日，橋本愛隨後再發布story就此番言論道歉。 https://t.co/7fytbI0Uev<br><br><img style="" src="https://pbs.twimg.com/media/FqmZ1a1aMAAXvoS?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT 天降伟人包由检<br>美国左派的意识形态输出，目的就是用政治正确阉割全世界不同国家的社会伦理，从而实现对传统价值的颠覆来“砸烂旧世界”，进而用左派意识形态重构一个大一统的“天下大同”新世界。<br><br>所以，此时此刻，反美才是最高的自由价值。<div class="rsshub-quote"><br><br>端傳媒 Initium Media: 【在女浴場遇「跨性別」感到恐懼？日本演員橋本愛為爭議言論道歉】 對於「跨性別女性」使用女性洗浴設施和公共廁所的相關問題，日本演員橋本愛本月5日於其IG story中發表評論，提議「最好根據身體的性別來區分」。有網民批評其言論涉嫌「歧視LGBT+」。隨後6日，橋本愛隨後再發布story就此番言論道歉。 https://t.co/7fytbI0Uev<br><br><img style="" src="https://pbs.twimg.com/media/FqmZ1a1aMAAXvoS?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 41: [2023-03-08 22:30:03+08:00 推文](https://twitter.com/HeQinglian/status/1633475168176619520)
 
@@ -253,7 +253,7 @@ Re @Wu_Zhi @KELMAND1 纵观人类战争史，总是向国际社会哭诉敌人�
 
 ### 60: [2023-03-09 22:35:28+08:00 推文](https://twitter.com/HeQinglian/status/1633838920936099840)
 
-这应该是一折戏的开头，估计是战争援助落幕前的一折。是否有重建援助，得看表现——美方权贵集团也有需要，参考阿富汗帐本。<div class="rsshub-quote"><br><br>Ezio Mao☢: 乌克兰外交部长声称基辅没有参与破坏“北溪”<br><br>乌克兰外交部长德米特里库列巴在周四接受意大利报纸《共和国报》采访时表示：“我的政府与此无关。我认为没有证据的文章是有害的，因为它们会给人留下乌克兰对此负有责任的印象。我们正在等待调查结果。” https://t.co/2VkgjGsLf6<br><br><img style="" src="https://pbs.twimg.com/media/FqxDCpBacAAtJDB?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
+这应该是一折戏的开头，估计是战争援助落幕前的一折。是否有重建援助，得看表现——美方权贵集团也有需要，参考阿富汗帐本。 https://twitter.com/KELMAND1/status/1633754495917363201<div class="rsshub-quote"><br><br>Ezio Mao☢: 乌克兰外交部长声称基辅没有参与破坏“北溪”<br><br>乌克兰外交部长德米特里库列巴在周四接受意大利报纸《共和国报》采访时表示：“我的政府与此无关。我认为没有证据的文章是有害的，因为它们会给人留下乌克兰对此负有责任的印象。我们正在等待调查结果。” https://twitter.com/KELMAND1/status/1633137260886654976 https://t.co/2VkgjGsLf6<br><br><img style="" src="https://pbs.twimg.com/media/FqxDCpBacAAtJDB?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 61: [2023-03-09 22:50:11+08:00 推文](https://twitter.com/JianglinLi/status/1633842624946933760)
 
@@ -318,4 +318,48 @@ Re @Wu_Zhi @KELMAND1 问题是：战争就是战争，不是别的。换一种�
 ### 76: [2023-03-10 02:23:44+08:00 推文](https://twitter.com/HeQinglian/status/1633896364919717888)
 
 Re @JianglinLi @Lucs24659702 至今醒悟无几人。
+
+### 77: [2023-03-10 08:37:23+08:00 推文](https://twitter.com/HeQinglian/status/1633990395959943170)
+
+Re @Akira_knight_re @chinayvan 《大棋局》里谈得非常清楚：必须遏制俄罗斯，让俄失去乌克兰，从此成为一个非欧洲国家，周边全是带有敌意的国家（原加盟共和国）。为此，要与中国成为盟友或者建立合作关系。<br>今天的俄乌战争，俄罗斯面临的问题，其实在1990年代苏联崩溃以后就注定了。俄罗斯包括普京在内，都曾希望西方接纳俄罗斯。
+
+### 78: [2023-03-10 08:44:03+08:00 推文](https://twitter.com/HeQinglian/status/1633992074797232130)
+
+Re @TianyuB @Lucs24659702 我对川普最大的意见就是那时他也曾短暂地称之为暴乱，死活也不肯为那位死去的女空军军官说一句话——出于害怕。<br>他号召支持者去时，除了展示自己的号召力（与Rally展示差不多）之外，没意识到将会可能成为陷阱。直到他卸任之后一个多月，他才意识到必须为Jan.6参加者说话。
+
+### 79: [2023-03-10 08:48:12+08:00 推文](https://twitter.com/HeQinglian/status/1633993121510965253)
+
+Re @MaxDongh @Wu_Zhi @KELMAND1 那是师出要有名，夫子曰：“必也正名乎，名不正则言不顺，言不顺则事不成”。<br>但不会以败为胜，明明力有不支，却说游刃有余。
+
+### 80: [2023-03-10 08:52:28+08:00 推文](https://twitter.com/HeQinglian/status/1633994194665578496)
+
+Re @fading_you1 前天偶然打开一部粤语电影看了两分钟，内容挺港式八卦，但突然觉得非常亲切——想想都觉得自己有点可笑，我在深圳时，何尝看过这类电影？看的都是9：30美国大片。
+
+### 81: [2023-03-10 08:53:18+08:00 推文](https://twitter.com/HeQinglian/status/1633994401671151616)
+
+Re @Lucs24659702 @TianyuB 看人论事，关键处最要紧。
+
+### 82: [2023-03-10 08:58:54+08:00 推文](https://twitter.com/HeQinglian/status/1633995810621779976)
+
+Re @Wu_Zhi @MaxDongh @KELMAND1 皆因有美国支持。美国军事力量与美国军队天下无敌的神话，除了美国军队内部有危机感的人之外，基本都相信。<br>再则，很多人没想到一句话：兵熊熊一个，将熊熊一窝。美国三军总司令现在是什么成色？
+
+### 83: [2023-03-10 09:06:37+08:00 推文](https://twitter.com/HeQinglian/status/1633997755948384256)
+
+Re @Isabel_3299 我们那个时代的人都喜欢看高仓健的电影。<br>1999年我去日本访问时，住的旅馆对面有个艺术界的活动，我回旅馆时正好看见高仓健带几个人，抬着一个大花篮进去，然后又看到张艺谋（这是第二次见到真人），我好奇心不强，根本没关心这是啥活动。第二天从那经过时，还看到许多花篮，张艺谋的摆在最外边。
+
+### 84: [2023-03-10 09:09:46+08:00 推文](https://twitter.com/HeQinglian/status/1633998546801160193)
+
+Re @eGUAbe2V7j26GHw @JianglinLi 瑞典那地方因为有个文学奖天下闻名，有点名的作家都欲得之而后快，评委们都被捧得不知东西南北了，也因此小国有超级大国情怀，颇爱指点世人迷津。
+
+### 85: [2023-03-10 09:15:18+08:00 推文](https://twitter.com/HeQinglian/status/1633999940446724101)
+
+Re @karma76680727 @Wu_Zhi @KELMAND1 CATO这篇名文我都介绍过好几次了，自己去查吧.<br>Washington Will Fight Russia to the Last Ukrainian<br>CATO在美国智库中的地位，也自己去查，印象会深刻一些。<br>从俄乌战争以来，我的认识深化了不少。许多人还停留在2022年3月。
+
+### 86: [2023-03-10 09:39:22+08:00 推文](https://twitter.com/HeQinglian/status/1634005995323047936)
+
+Re @Wu_Zhi @karma76680727 @KELMAND1 不用费劲与这种永远处于2022年3月认知水平的人谈什么了。我准备拉黑。
+
+### 87: [2023-03-10 09:53:50+08:00 推文](https://twitter.com/HeQinglian/status/1634009636792680448)
+
+Re @fading_you1 倒也不全是。毕竟在粤地生活了13年整，喜欢那里的美食、相对轻松的人际氛围。别地多是“你之所得就是我之所失”，广东则是“有钱大家赚，你好我也好”。<br>懂了广东话之后，也挺喜欢其生动有趣。我在的那段时期，香港影星台上群唱黄霑的“笑傲江湖曲”，看得我直笑。
 
