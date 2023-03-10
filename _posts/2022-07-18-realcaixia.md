@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2022-07-18~2022-07-24'
 
 ### 1: [2022-07-18 09:34:51+08:00 推文](https://twitter.com/realcaixia/status/1548843710527508481)
 
-我曾是中央党校代表团成员之一访问朝鲜。一天参观朝鲜劳动党中央党校，教室墙上有几个大挂幅，上面写满了朝鲜文。我们团的一个鲜族教授，大声翻译那些朝鲜文。原来这是培训官员如何“管理党员和民众”的要点，其中之一就是实行五户连坐制。一人被控谋反，五家人连坐判同罪。看来，中国朝鲜化正在进行时。<br><br>一剑飘尘 007: 习近平时代，中共倒退到“连坐”制度，还有人说“谁上都一样”！不要说八十年代胡赵时期，就是江胡时代，也不至于如此明目张胆连坐孩子吧？习下是方向，谁上都更强<br><br><img style="" src="https://pbs.twimg.com/media/FX6IDYbUcAEuEYE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+我曾是中央党校代表团成员之一访问朝鲜。一天参观朝鲜劳动党中央党校，教室墙上有几个大挂幅，上面写满了朝鲜文。我们团的一个鲜族教授，大声翻译那些朝鲜文。原来这是培训官员如何“管理党员和民众”的要点，其中之一就是实行五户连坐制。一人被控谋反，五家人连坐判同罪。看来，中国朝鲜化正在进行时。
 
 ### 2: [2022-07-19 08:41:33+08:00 推文](https://twitter.com/realcaixia/status/1549192684144934912)
 
@@ -57,7 +57,7 @@ Re <br><video src="https://video.twimg.com/ext_tw_video/1549418664331460610/pu/v
 
 ### 11: [2022-07-20 00:11:36+08:00 推文](https://twitter.com/realcaixia/status/1549426740623187975)
 
-王缉思教授对中共高层很有影响力。近年来中共战狼外交遭世界普遍反感，中共在国际上处境孤立，正在遭文明世界抛弃。王教授的发言或许是中共外交策略有所改变的征兆：收敛战狼嘴脸，遮掩中共军事威胁台湾、破坏国际秩序、危害他国国家安全的种种恶行，继续打利益牌鼓吹增进往来。王教授学问为党国效力
+王缉思教授对中共高层很有影响力。近年来中共战狼外交遭世界普遍反感，中共在国际上处境孤立，正在遭文明世界抛弃。王教授的发言或许是中共外交策略有所改变的征兆：收敛战狼嘴脸，遮掩中共军事威胁台湾、破坏国际秩序、危害他国国家安全的种种恶行，继续打利益牌鼓吹增进往来。王教授学问为党国效力<br><br>韩连潮: 【谁想把中美拉入战火】王缉思最近的发言是猪八戒倒打一耙，混淆是非，比战狼危害更大。他说中共高官无攻台时间表，事实是98年江泽民就提出时间表，习也提过，还用地动山摇来威胁；目前和平统一的“和平”二字都已删掉，天天军机扰台，拿下台湾成为民族复兴主要任务，一直叫嚣战争的是党国，而不是美国。<br><br><img style="" src="https://pbs.twimg.com/media/FYBsGTHXoAIQ4dF?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2022-07-20 00:18:32+08:00 推文](https://twitter.com/realcaixia/status/1549428485936058368)
 
@@ -93,11 +93,11 @@ Re @wongkim728 你有什么根据说某人刻意造谣呢？这需要拿出事�
 
 ### 20: [2022-07-21 01:14:43+08:00 推文](https://twitter.com/realcaixia/status/1549805012095848450)
 
-中共對自己幹的罪惡一清二楚，他們害怕人們的紀念，他們千方百計地想要扼殺人們的記憶。這和它們年年妄圖扼殺人們對6.4天安門廣場死難者的紀念一樣。<br><br>HAO.: @realcaixia 墙内现状。<br><br><img style="" src="https://pbs.twimg.com/media/FYH_7mNXgAYXpU9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+中共對自己幹的罪惡一清二楚，他們害怕人們的紀念，他們千方百計地想要扼殺人們的記憶。這和它們年年妄圖扼殺人們對6.4天安門廣場死難者的紀念一樣。
 
 ### 21: [2022-07-21 01:48:51+08:00 推文](https://twitter.com/realcaixia/status/1549813602693140480)
 
-对许多打工人来说，清零政策的后续影响仅仅只是厄运的开始。中共国一向有各种歧视，不合情理不合法，但那是权力意志的产物，独裁权力扼着人们的生活和命运<br><br>《议报》: 真叫卢俊: “我躲在虹桥的卫生间，不知道去哪。”<br> <a href="https://yibaochina.com/?p=247198" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247198</a>
+对许多打工人来说，清零政策的后续影响仅仅只是厄运的开始。中共国一向有各种歧视，不合情理不合法，但那是权力意志的产物，独裁权力扼着人们的生活和命运
 
 ### 22: [2022-07-21 06:26:29+08:00 推文](https://twitter.com/realcaixia/status/1549883471451111424)
 
@@ -137,11 +137,11 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FYObfD5XgAMmgmH?format=jpg
 
 ### 31: [2022-07-22 23:11:57+08:00 推文](https://twitter.com/realcaixia/status/1550498892197896192)
 
-沉默啊沉默，不在沉默中死亡，就在沉默中爆发。中共极权统治集团做好死无葬身之地的准备了吗？<br><br>高伐林: 中国网信办《互联网用户账号管理规定》自8月1日起生效，互联网用户注册须填写真实职业，将揭露IP地址；过去网民用错别字、谐音或相近文字、数字和符号打擦边球传布“敏感”信息，规避审查，现在都遭明文禁止；严格管控数据跨国流通，对最重要学术平台“知网”启动网络安全审查。<br> <a href="https://www.voachinese.com/a/china-launches-security-review-on-cnki-the-country-s-leading-academic-research-database-0722222/6666367.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/china-launches-security-review-on-cnki-the-country-s-leading-academic-research-database-0722222/6666367.html</a>
+沉默啊沉默，不在沉默中死亡，就在沉默中爆发。中共极权统治集团做好死无葬身之地的准备了吗？
 
 ### 32: [2022-07-23 02:53:08+08:00 推文](https://twitter.com/realcaixia/status/1550554556538490883)
 
-相信越来越多的人会像这位世界小姐一样，勇敢地站出来。<br><br>婉清: 加拿大世界小姐選美皇后，因为这些演讲，父親被國安請“喝茶”！<br>  <br>为勇敢揭露中共的美女点赞👍💐！<br><br><video src="https://video.twimg.com/ext_tw_video/1549889783664484352/pu/vid/720x720/lcWu_0qUAC8OtlZg.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1549889783664484352/pu/img/HFTuhs044upF7xQ4.jpg"></video>
+相信越来越多的人会像这位世界小姐一样，勇敢地站出来。
 
 ### 33: [2022-07-24 21:00:09+08:00 推文](https://twitter.com/realcaixia/status/1551190497888182274)
 
