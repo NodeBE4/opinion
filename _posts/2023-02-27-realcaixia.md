@@ -57,7 +57,7 @@ Re https://t.co/z96hhSQ4Y2<br><img style="" src="https://pbs.twimg.com/media/FqG
 
 ### 11: [2023-03-02 09:37:10+08:00 推文](https://twitter.com/realcaixia/status/1631106341614895105)
 
-任志强先生会被很多人记住，会被历史记住。任志强先生是中共体制内反对中共政权极权专制统治的良知者与大勇者的代表。任志强也是红二代中反对极权统治，真心推进宪政、推动中国走向自由民主的代表性人物。<div class="rsshub-quote"><br><br>正視歷史▪️傳播真相🇺🇸: 好像都沒人記得他了☹️☹️☹️<br><br>他本可以對這個黑暗的社會視而不見，安享晚年，可他卻選擇了在嚴冬裡為我們抱薪而被判18年，他在為10億韭菜坐牢，他不該被遺忘。<br><br>完整版鏈接：<br>https://youtu.be/47z7QlWHlWc<br><br>#任志強 #任大炮 我們的社會責任是把面前的墻推倒，建立我們的民主制度。 https://t.co/jnSNRDX3XO<br><br><video src="https://video.twimg.com/ext_tw_video/1630751216077615104/pu/vid/640x360/8-3iWtulZ6UPAFzj.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1630751216077615104/pu/img/ytgT7FRvdsi-G1mk.jpg"></video></div>
+任志强先生会被很多人记住，会被历史记住。任志强先生是中共体制内反对中共政权极权专制统治的良知者与大勇者的代表。任志强也是红二代中反对极权统治，真心推进宪政、推动中国走向自由民主的代表性人物。 https://twitter.com/543dom_/status/1630753827392565249<div class="rsshub-quote"><br><br>正視歷史▪️傳播真相🇺🇸: 好像都沒人記得他了☹️☹️☹️<br><br>他本可以對這個黑暗的社會視而不見，安享晚年，可他卻選擇了在嚴冬裡為我們抱薪而被判18年，他在為10億韭菜坐牢，他不該被遺忘。<br><br>完整版鏈接：<br>https://youtu.be/47z7QlWHlWc<br><br>#任志強 #任大炮 我們的社會責任是把面前的墻推倒，建立我們的民主制度。 https://t.co/jnSNRDX3XO<br><br><video src="https://video.twimg.com/ext_tw_video/1630751216077615104/pu/vid/640x360/8-3iWtulZ6UPAFzj.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1630751216077615104/pu/img/ytgT7FRvdsi-G1mk.jpg"></video></div>
 
 ### 12: [2023-03-02 10:04:19+08:00 推文](https://twitter.com/realcaixia/status/1631113172701659142)
 
@@ -69,7 +69,7 @@ Re https://t.co/z96hhSQ4Y2<br><img style="" src="https://pbs.twimg.com/media/FqG
 
 ### 14: [2023-03-02 13:26:02+08:00 推文](https://twitter.com/realcaixia/status/1631163934077239298)
 
-30年来中国有许多律师为维护人权而遭受各种迫害。在推进中国政治转型的过程中，总有很多人权律师和做真相调查的记者们，就像韩国转型中一样，站在抗争最前沿的是律师和记者。<br>关注刘晓原律师，让更多的朋友知道他的处境他的遭遇，就是保护和支持刘晓原律师。 https://twitter.com/ipkmedia/status/1631120289370177537<div class="rsshub-quote"><br><br>光傳媒官推 官網 https://www.ipkmedia.com: 【关注刘晓原律师】<br><br>刘晓原律师三月一号要来珠海在赣州火车站被铁路警察拦下，其老家国保发协查通知，刘律师在警察局要求给说法，从昨天下午到现在联系不上刘律师。手机开着无人接听<br>关注有良心和影响力的刘律师，多年被变相剥夺工作权利，申请复议、起诉都无人答复。长期被监控、跟踪，行动不自由 https://t.co/1HqFiSZrMz<br><br><img style="" src="https://pbs.twimg.com/media/FqLnQVAWYAIAwpg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+30年来中国有许多律师为维护人权而遭受各种迫害。在推进中国政治转型的过程中，总有很多人权律师和做真相调查的记者们，就像韩国转型中一样，站在抗争最前沿的是律师和记者。<br>关注刘晓原律师，让更多的朋友知道他的处境他的遭遇，就是保护和支持刘晓原律师。<div class="rsshub-quote"><br><br>光傳媒官推 官網 https://www.ipkmedia.com: 【关注刘晓原律师】<br><br>刘晓原律师三月一号要来珠海在赣州火车站被铁路警察拦下，其老家国保发协查通知，刘律师在警察局要求给说法，从昨天下午到现在联系不上刘律师。手机开着无人接听<br>关注有良心和影响力的刘律师，多年被变相剥夺工作权利，申请复议、起诉都无人答复。长期被监控、跟踪，行动不自由 https://t.co/1HqFiSZrMz<br><br><img style="" src="https://pbs.twimg.com/media/FqLnQVAWYAIAwpg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 15: [2023-03-02 21:29:34+08:00 推文](https://twitter.com/realcaixia/status/1631285622659858440)
 
@@ -81,7 +81,7 @@ Re 我们这一代努力推进民主宪政的人都在步入老年阶段，推�
 
 ### 17: [2023-03-03 02:32:05+08:00 推文](https://twitter.com/realcaixia/status/1631361749705187346)
 
-特别推荐：议报发布胡平先生文章。<br>读完文章，让我获得三点认识：1，新冠病毒是人工合成的，绝不是自然界出现的；2，科学无国界，全球合作推进科学研究本是正常现象，但出现的人为后果必须要有责任承担方。3，追查新冠病毒疫情源头关系到全人类福祉，中共国阻止追查是反科学并极不负责的态度。<div class="rsshub-quote"><br><br>《议报》: 胡平 | 新冠病毒是人工合成的吗？https://yibaochina.com/?p=249665 即使证明了新冠病毒是出自自然界，那不等于就排除了实验室泄漏这种可能性。但是如果证明了新冠病毒是人工合成的，那么就只能是从实验室泄漏的，因为大自然没有这种病毒，只有实验室里才有。<br></div>
+特别推荐：议报发布胡平先生文章。<br>读完文章，让我获得三点认识：1，新冠病毒是人工合成的，绝不是自然界出现的；2，科学无国界，全球合作推进科学研究本是正常现象，但出现的人为后果必须要有责任承担方。3，追查新冠病毒疫情源头关系到全人类福祉，中共国阻止追查是反科学并极不负责的态度。 https://twitter.com/yibaochina/status/1631308860504920067<div class="rsshub-quote"><br><br>《议报》: 胡平 | 新冠病毒是人工合成的吗？https://yibaochina.com/?p=249665 即使证明了新冠病毒是出自自然界，那不等于就排除了实验室泄漏这种可能性。但是如果证明了新冠病毒是人工合成的，那么就只能是从实验室泄漏的，因为大自然没有这种病毒，只有实验室里才有。<br></div>
 
 ### 18: [2023-03-03 02:48:52+08:00 推文](https://twitter.com/realcaixia/status/1631365975705542669)
 
