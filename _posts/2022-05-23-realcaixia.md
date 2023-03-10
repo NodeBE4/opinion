@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2022-05-23~2022-05-29'
 
 ### 2: [2022-05-23 03:41:29+08:00 推文](https://twitter.com/realcaixia/status/1528461062135087104)
 
-六四将近，当局要加强防控。借口就是“防疫”。全世界都知道Omicron传染性强但重症率死亡率都极低。全世界都在恢复正常开放，但中共国偏要封校封城。全世界都知道中共国假装防疫，中共当局也知道全世界都知道他们在假装，他们依然要把假装进行到底。这个“到底”是经济社会崩溃还是当局崩溃？且拭目以待。<br><br>新闻调查: 怕北大学生聚众闹事，开始疏散学生了！<br><br><img style="" src="https://pbs.twimg.com/media/FTXOw4IUcAAUMcD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+六四将近，当局要加强防控。借口就是“防疫”。全世界都知道Omicron传染性强但重症率死亡率都极低。全世界都在恢复正常开放，但中共国偏要封校封城。全世界都知道中共国假装防疫，中共当局也知道全世界都知道他们在假装，他们依然要把假装进行到底。这个“到底”是经济社会崩溃还是当局崩溃？且拭目以待。
 
 ### 3: [2022-05-23 05:38:34+08:00 推文](https://twitter.com/realcaixia/status/1528490529268240385)
 
@@ -53,11 +53,11 @@ Re 请看市民这封给公安机关人员的公开信。信的一开始就说�
 
 ### 10: [2022-05-23 23:40:12+08:00 推文](https://twitter.com/realcaixia/status/1528762731532255232)
 
-转推。
+转推。<br><br>freechina1974✊✊✊: @yibaochina<br> <a href="https://twitter.com/freechina1974/status/1528557498462248960?s=21&amp;t=kwRmGJicCRE8XU9yKlKAMw" target="_blank" rel="noopener noreferrer">https://twitter.com/freechina1974/status/1528557498462248960?s=21&amp;t=kwRmGJicCRE8XU9yKlKAMw</a>
 
 ### 11: [2022-05-24 01:01:49+08:00 推文](https://twitter.com/realcaixia/status/1528783270774808576)
 
-权利不是等来求来的，必须是经过抗争，自己争来的。大家一起站出来，对侵犯权利的恶行勇敢说不！<br>专制统治以恐吓制造人们的畏惧心理，只要大家都不怕他们，他们的统治基石就开始摇晃撼动了。<br><br>戴姐: @im1266 @ZhouFengSuo 徐汇区汇贤居从昨晚和居委理论到今天中午全员解封👍模子！原来解封也得靠自己争取  。<br><br><video src="https://video.twimg.com/ext_tw_video/1528737541704552449/pu/vid/720x1280/Y7Bg_OgO6T8dVfxI.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1528737541704552449/pu/img/xNTCf6aq4txc2gCY.jpg"></video>
+权利不是等来求来的，必须是经过抗争，自己争来的。大家一起站出来，对侵犯权利的恶行勇敢说不！<br>专制统治以恐吓制造人们的畏惧心理，只要大家都不怕他们，他们的统治基石就开始摇晃撼动了。
 
 ### 12: [2022-05-24 02:23:49+08:00 推文](https://twitter.com/realcaixia/status/1528803906666614785)
 
@@ -77,7 +77,7 @@ Re @wang6332558 @xizhutou2020 @yjpc007 @YouTube 就是啊，相煎何太急！�
 
 ### 16: [2022-05-24 20:16:27+08:00 推文](https://twitter.com/realcaixia/status/1529073840462057472)
 
-转发好友推特，并借用推文，我将“解放”改为“自由”二字。<br>自救自治委员会成员已经行动起来，几个小区已先行获得自由，当有更多小区获得自由，我们就能逐步产生自由街道、行政区，最后自由全上海!<br>自由靠我们自己争取！请参与进来争取自由，在本小区内找到8个以上朋友，成立群组，纵深拓展，赢得主动权!
+转发好友推特，并借用推文，我将“解放”改为“自由”二字。<br>自救自治委员会成员已经行动起来，几个小区已先行获得自由，当有更多小区获得自由，我们就能逐步产生自由街道、行政区，最后自由全上海!<br>自由靠我们自己争取！请参与进来争取自由，在本小区内找到8个以上朋友，成立群组，纵深拓展，赢得主动权!<br><br>liqun chen（陈立群）: 上海同胞们:我们不要畏惧、退缩，我们维护自身权益、拯救上海，合法合规，合情合理!<br>自救自治委员会成员已经行动起来，先行解放几个小区。当有更多小区得到解放，我们就能逐步解放街道、行政区，最后解放全上海!<br>请参与进来争取自由，在本小区内找到8个以上朋友，成立群组，纵深拓展，赢得主动权!<br><br><video src="https://video.twimg.com/ext_tw_video/1529014988366663682/pu/vid/640x360/7n_EN97joLbXmejo.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1529014988366663682/pu/img/OwuWacBwiJe3vRi-.jpg"></video>
 
 ### 17: [2022-05-24 21:18:20+08:00 推文](https://twitter.com/realcaixia/status/1529089414449741825)
 
@@ -117,15 +117,15 @@ Re @fishsalt8 说得好！不改变思维方式不可能真具有自由民主观
 
 ### 26: [2022-05-25 20:55:34+08:00 推文](https://twitter.com/realcaixia/status/1529446076134064132)
 
-💔
+💔<br><br>韩连潮: 看到这张照片仍无动于衷的，我不知道他们是什么！<br><br><img style="" src="https://pbs.twimg.com/media/FTmkwgvXsAASlep?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 27: [2022-05-26 02:13:17+08:00 推文](https://twitter.com/realcaixia/status/1529526030536708096)
 
-索罗斯是位目光极为锐利的智者。早在2019年，索罗斯就指出中共国利用高科技，正在威胁世界和平和人类文明。<br>后来索罗斯几次发表文章，提醒与告诫自由民主国家要高度警惕习近平掌控下的中国。他对中共极权政权的清醒认识，甚至超过美国的一些热衷于中美engagement policy 的政治家们。<br><br>韩连潮: 【索罗斯如是说】索罗斯昨在世界经济论坛上发表演讲，称俄入侵乌克兰可能是第三次世界大战的开始，威胁到人类文明；中俄利用高科技构成了对世界的最大威胁。但他也指这两个专制政权都开始出现裂痕 -- 普京入侵乌克兰被世界孤立，习近平抗疫失误引发人民不满。<br><br><img style="" src="https://pbs.twimg.com/media/FTmnuiaWIAAIgnI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+索罗斯是位目光极为锐利的智者。早在2019年，索罗斯就指出中共国利用高科技，正在威胁世界和平和人类文明。<br>后来索罗斯几次发表文章，提醒与告诫自由民主国家要高度警惕习近平掌控下的中国。他对中共极权政权的清醒认识，甚至超过美国的一些热衷于中美engagement policy 的政治家们。
 
 ### 28: [2022-05-26 02:17:21+08:00 推文](https://twitter.com/realcaixia/status/1529527052629528581)
 
-封城清零封到老鼠饿死在面店里。
+封城清零封到老鼠饿死在面店里。<br><br>吴文行wenxingwu: 上海因疫情店面关闭，老鼠被活活饿死！饥荒达到高水准！<br><br><img style="" src="https://pbs.twimg.com/media/FTlbvqPVsAAZA3s?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 29: [2022-05-26 22:53:06+08:00 推文](https://twitter.com/realcaixia/status/1529838039152922625)
 
@@ -189,7 +189,7 @@ Re 对于我来说，死亡威胁吓不倒我，中共网军在我的推下已�
 
 ### 44: [2022-05-28 09:03:04+08:00 推文](https://twitter.com/realcaixia/status/1530353930034728963)
 
-#议报发布的“呼吁公开信”，特别推荐。<br>中国著名的异见者人权律师高智晟和老教授孙文广先生，被中共警察带走后，至今音信全无，他们的人身境遇令人十分担心。趁着联合国人权高级专员巴彻莱特为了解新疆的人权真相而去中国，全球华人朋友联合签名，呼吁巴彻莱特关注高智晟和孙文广，关注中国的人权真相。
+#议报发布的“呼吁公开信”，特别推荐。<br>中国著名的异见者人权律师高智晟和老教授孙文广先生，被中共警察带走后，至今音信全无，他们的人身境遇令人十分担心。趁着联合国人权高级专员巴彻莱特为了解新疆的人权真相而去中国，全球华人朋友联合签名，呼吁巴彻莱特关注高智晟和孙文广，关注中国的人权真相。<br><br>《议报》: 陈光诚等：呼吁联合国人权高级专员巴彻莱特询问高智晟、孙文广下落<br> <a href="https://yibaochina.com/?p=246674" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246674</a>
 
 ### 45: [2022-05-28 09:19:47+08:00 推文](https://twitter.com/realcaixia/status/1530358139018674178)
 

@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2021-12-06~2021-12-12'
 
 ### 4: [2021-12-08 00:36:57+08:00 推文](https://twitter.com/realcaixia/status/1468258238642728968)
 
-这是政府违法，无执法权的商业性公司居然行使政府法律职权，这个政府本身就是违法，必须追究当地政府的法律责任。中共国地面上有多少这样的政府公然雇佣所谓的公司行使法律职权，这类公司是如何拿到这类权力的，需要彻查。政府公然官匪一体！<br><br>鲁  难: <br><br><img style="" src="https://pbs.twimg.com/media/FF-yd43XMAc1FOd?format=jpg&name=orig" referrerpolicy="no-referrer">
+这是政府违法，无执法权的商业性公司居然行使政府法律职权，这个政府本身就是违法，必须追究当地政府的法律责任。中共国地面上有多少这样的政府公然雇佣所谓的公司行使法律职权，这类公司是如何拿到这类权力的，需要彻查。政府公然官匪一体！<br><br>鲁  难: <br><br><img style src="https://pbs.twimg.com/media/FF-yd43XMAc1FOd?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2021-12-08 03:24:15+08:00 推文](https://twitter.com/realcaixia/status/1468300339531194368)
 
@@ -37,7 +37,7 @@ Re @mark89066384 @lunanweiyi 末日疯狂。上帝要让他灭亡，必先使其
 
 ### 6: [2021-12-08 13:04:38+08:00 推文](https://twitter.com/realcaixia/status/1468446399981395971)
 
-精彩至极！<br><br>日常現象: 人民日报发微博称一图起底美国民主七大假象，网民评论大翻车。<br><br><img style src="https://pbs.twimg.com/media/FF8I2v-UcAIuKIc?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FF8I2v9VkAUSFF5?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FF8I2u_UYAQer9q?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FF8I2v-VQAYOIaN?format=jpg&name=orig" referrerpolicy="no-referrer">
+精彩至极！<br><br>日常現象: 人民日报发微博称一图起底美国民主七大假象，网民评论大翻车。<br><br><img style="" src="https://pbs.twimg.com/media/FF8I2v-UcAIuKIc?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FF8I2v9VkAUSFF5?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FF8I2u_UYAQer9q?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FF8I2v-VQAYOIaN?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2021-12-09 00:09:43+08:00 推文](https://twitter.com/realcaixia/status/1468613773569277963)
 
@@ -53,7 +53,7 @@ Re @jiang_xicheng @luoye_figtree 说得好！👍🌹
 
 ### 10: [2021-12-09 09:55:21+08:00 推文](https://twitter.com/realcaixia/status/1468761149701251080)
 
-德国新政府将以何种政策态度对待中共政权，大陆人很关注。毕竟德国是最发达国家之一，毕竟德意志民族曾经历过纳粹法西斯统治的苦难；毕竟东德又经历共产极权残暴统治近半个世纪；毕竟两德人民推倒柏林墙重新统一。德国人民反对极权统治争取自由民主的经验对大陆民众会有很多启示。<br><br>ZHANGDONG: 德国新政府今天闪亮登场。新总理朔尔茨是上届默克尔政府的副总理兼财政部长，声称将会延续默克尔政策。绿党双主席之一贝尔伯克成为德国首位女性外长，富有挑战性，预计将会让东方战狼狂吠不止。<br><br><img style src="https://pbs.twimg.com/media/FGG9ByyXoAc7WTm?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/ZhangDong_SCH/status/1468662072368152576/photo/1" target="_blank" rel="noopener noreferrer">https://twitter.com/ZhangDong_SCH/status/1468662072368152576/photo/1</a>
+德国新政府将以何种政策态度对待中共政权，大陆人很关注。毕竟德国是最发达国家之一，毕竟德意志民族曾经历过纳粹法西斯统治的苦难；毕竟东德又经历共产极权残暴统治近半个世纪；毕竟两德人民推倒柏林墙重新统一。德国人民反对极权统治争取自由民主的经验对大陆民众会有很多启示。<br><br>ZHANGDONG: 德国新政府今天闪亮登场。新总理朔尔茨是上届默克尔政府的副总理兼财政部长，声称将会延续默克尔政策。绿党双主席之一贝尔伯克成为德国首位女性外长，富有挑战性，预计将会让东方战狼狂吠不止。<br><br><img style="" src="https://pbs.twimg.com/media/FGG9ByyXoAc7WTm?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/ZhangDong_SCH/status/1468662072368152576/photo/1" target="_blank" rel="noopener noreferrer">https://twitter.com/ZhangDong_SCH/status/1468662072368152576/photo/1</a>
 
 ### 11: [2021-12-09 09:57:27+08:00 推文](https://twitter.com/realcaixia/status/1468761680972759042)
 
