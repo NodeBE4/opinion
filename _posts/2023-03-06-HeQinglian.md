@@ -173,7 +173,7 @@ Re 各位推友，拜登今天仍然说对华政策没变。<br>拜粉可以说�
 
 ### 40: [2023-03-08 18:57:26+08:00 推文](https://twitter.com/fading_you1/status/1633421661679628289)
 
-RT 天降伟人包由检<br>美国左派的意识形态输出，目的就是用政治正确阉割全世界不同国家的社会伦理，从而实现对传统价值的颠覆来“砸烂旧世界”，进而用左派意识形态重构一个大一统的“天下大同”新世界。<br><br>所以，此时此刻，反美才是最高的自由价值。<div class="rsshub-quote"><br><br>端傳媒 Initium Media: 【在女浴場遇「跨性別」感到恐懼？日本演員橋本愛為爭議言論道歉】 對於「跨性別女性」使用女性洗浴設施和公共廁所的相關問題，日本演員橋本愛本月5日於其IG story中發表評論，提議「最好根據身體的性別來區分」。有網民批評其言論涉嫌「歧視LGBT+」。隨後6日，橋本愛隨後再發布story就此番言論道歉。 https://t.co/7fytbI0Uev<br><br><img style="" src="https://pbs.twimg.com/media/FqmZ1a1aMAAXvoS?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT 天降伟人包由检<br>美国左派的意识形态输出，目的就是用政治正确阉割全世界不同国家的社会伦理，从而实现对传统价值的颠覆来“砸烂旧世界”，进而用左派意识形态重构一个大一统的“天下大同”新世界。<br><br>所以，此时此刻，反美才是最高的自由价值。 https://twitter.com/initiumnews/status/1633005939686248449<div class="rsshub-quote"><br><br>端傳媒 Initium Media: 【在女浴場遇「跨性別」感到恐懼？日本演員橋本愛為爭議言論道歉】 對於「跨性別女性」使用女性洗浴設施和公共廁所的相關問題，日本演員橋本愛本月5日於其IG story中發表評論，提議「最好根據身體的性別來區分」。有網民批評其言論涉嫌「歧視LGBT+」。隨後6日，橋本愛隨後再發布story就此番言論道歉。 https://t.co/7fytbI0Uev<br><br><img style="" src="https://pbs.twimg.com/media/FqmZ1a1aMAAXvoS?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 41: [2023-03-08 22:30:03+08:00 推文](https://twitter.com/HeQinglian/status/1633475168176619520)
 
@@ -374,4 +374,16 @@ Re 代拟白宫回答：<br>1、中东那地，从二战后接手大英帝国遗
 ### 90: [2023-03-11 09:02:43+08:00 推文](https://twitter.com/HeQinglian/status/1634359161008844800)
 
 Re @Wu_Zhi 最大的成就是将美国冷战结束之后，历届总统都奉行的国策——避免中俄伊等结盟终结，短短两年内有些成就，可谓骄人。
+
+### 91: [2023-03-11 21:29:11+08:00 推文](https://twitter.com/HeQinglian/status/1634547014741491713)
+
+Re @tiger20boy22 @Isabel_3299 你这一说，我想起来了，似乎横幅上有“协力”之说，根本没去想是谁与谁协力。
+
+### 92: [2023-03-11 21:31:55+08:00 推文](https://twitter.com/HeQinglian/status/1634547702003298304)
+
+Re @CoffeeBallad 刘本来就是垃圾，你原来是垃圾中的垃圾。
+
+### 93: [2023-03-11 21:39:16+08:00 推文](https://twitter.com/HeQinglian/status/1634549551502598144)
+
+这帖有趣，需要回答：<br>挺川至少是正常人，有正常家庭，不吸毒，不乱伦，不腐败，人家夫人不会70岁的学16岁小姑娘打扮。<br>挺拜的人，且不论lgb，主要喜欢Trans（特喜欢诱导未成年人变性），鼓励全民吸大麻甚至吸毒，还特别喜欢BLM零元购，通货膨胀，将弗洛伊德当英雄。<br>这已经是正常人类与反人类的区别。 https://twitter.com/David02366662/status/1634478540216479747<div class="rsshub-quote"><br><br>David: @HeQinglian 您伉俪夫妇是挺川黑拜专业户哈，是什么原因让你们如此无脑？<br></div>
 
