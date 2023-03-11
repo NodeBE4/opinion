@@ -169,7 +169,7 @@ Re 各位推友，拜登今天仍然说对华政策没变。<br>拜粉可以说�
 
 ### 39: [2023-03-08 09:41:16+08:00 推文](https://twitter.com/HeQinglian/status/1633281700389109760)
 
-这事，德国人信了就行。毕竟，需要美国这位盟友兼大哥，北溪事件的真相是什么不重要，德国人愿意相信什么最重要。<br>ZELT这篇报道，属于德国人正想打瞌睡，立刻有人送上枕头之类。 https://twitter.com/dinglili7/status/1633253353756172288<div class="rsshub-quote"><br><br>绫波: 🇩🇪德国《ZELT》：<br><br>ZEIT确定了据称用于秘密行动的船只是从波兰一家公司租来的游艇显然是两名乌克兰人所有。是由一个五男一女六人小组执行的。一名船长两名潜水员两名潜水助理和一名医生将炸药运到犯罪现场并放置在那里。肇事者的国籍不清楚，袭击者使用专业伪造的护照除其他外还被用来租船 https://t.co/Zt5vzwjWDA<br><br><img style="" src="https://pbs.twimg.com/media/Fqp7QFraMAEUsSV?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+这事，德国人信了就行。毕竟，需要美国这位盟友兼大哥，北溪事件的真相是什么不重要，德国人愿意相信什么最重要。<br>ZELT这篇报道，属于德国人正想打瞌睡，立刻有人送上枕头之类。<div class="rsshub-quote"><br><br>绫波: 🇩🇪德国《ZELT》：<br><br>ZEIT确定了据称用于秘密行动的船只是从波兰一家公司租来的游艇显然是两名乌克兰人所有。是由一个五男一女六人小组执行的。一名船长两名潜水员两名潜水助理和一名医生将炸药运到犯罪现场并放置在那里。肇事者的国籍不清楚，袭击者使用专业伪造的护照除其他外还被用来租船 https://t.co/Zt5vzwjWDA<br><br><img style="" src="https://pbs.twimg.com/media/Fqp7QFraMAEUsSV?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 40: [2023-03-08 18:57:26+08:00 推文](https://twitter.com/fading_you1/status/1633421661679628289)
 
@@ -253,7 +253,7 @@ Re @Wu_Zhi @KELMAND1 纵观人类战争史，总是向国际社会哭诉敌人�
 
 ### 60: [2023-03-09 22:35:28+08:00 推文](https://twitter.com/HeQinglian/status/1633838920936099840)
 
-这应该是一折戏的开头，估计是战争援助落幕前的一折。是否有重建援助，得看表现——美方权贵集团也有需要，参考阿富汗帐本。<div class="rsshub-quote"><br><br>Ezio Mao☢: 乌克兰外交部长声称基辅没有参与破坏“北溪”<br><br>乌克兰外交部长德米特里库列巴在周四接受意大利报纸《共和国报》采访时表示：“我的政府与此无关。我认为没有证据的文章是有害的，因为它们会给人留下乌克兰对此负有责任的印象。我们正在等待调查结果。” https://t.co/2VkgjGsLf6<br><br><img style="" src="https://pbs.twimg.com/media/FqxDCpBacAAtJDB?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
+这应该是一折戏的开头，估计是战争援助落幕前的一折。是否有重建援助，得看表现——美方权贵集团也有需要，参考阿富汗帐本。 https://twitter.com/KELMAND1/status/1633754495917363201<div class="rsshub-quote"><br><br>Ezio Mao☢: 乌克兰外交部长声称基辅没有参与破坏“北溪”<br><br>乌克兰外交部长德米特里库列巴在周四接受意大利报纸《共和国报》采访时表示：“我的政府与此无关。我认为没有证据的文章是有害的，因为它们会给人留下乌克兰对此负有责任的印象。我们正在等待调查结果。” https://twitter.com/KELMAND1/status/1633137260886654976 https://t.co/2VkgjGsLf6<br><br><img style="" src="https://pbs.twimg.com/media/FqxDCpBacAAtJDB?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 61: [2023-03-09 22:50:11+08:00 推文](https://twitter.com/JianglinLi/status/1633842624946933760)
 
@@ -478,4 +478,32 @@ Re @JJH_Chi @JianglinLi 至今觉得他读卡尔·波普，如同福山曾是亨
 ### 116: [2023-03-12 06:38:26+08:00 推文](https://twitter.com/HeQinglian/status/1634685238021353475)
 
 Re @JJH_Chi 我从不做这些人类社会上下五千年、纵横数万里的文化研究。<br>我有我的研究方式。<br>如果你很少看我的推文，当然不知道。如果你经常看，自己也研究，应该猜得出我在研究什么。
+
+### 117: [2023-03-12 06:42:26+08:00 推文](https://twitter.com/HeQinglian/status/1634686246340509697)
+
+Re @JianglinLi @JJH_Chi 现在的人基本不会读书，也不会翻阅大量资料。<br>否则，不至于连奥巴马静悄悄的革命（Obama sounds a quiet revolution)包括哪些重要内容都不知道。<br>美国建国以来，从未有哪位总统能够如此深刻地改变美国，连威尔逊都没做到这程度。
+
+### 118: [2023-03-12 06:44:37+08:00 推文](https://twitter.com/HeQinglian/status/1634686794800197632)
+
+Re @franktianxie 今后不知怎么圆。<br>出行人数少，是疫情期间，收入减少等各种原因。
+
+### 119: [2023-03-12 06:45:35+08:00 推文](https://twitter.com/HeQinglian/status/1634687037671342080)
+
+Re @CharlieVictor62 @Wu_Zhi 万事皆有代价。
+
+### 120: [2023-03-12 06:51:53+08:00 推文](https://twitter.com/HeQinglian/status/1634688621365149696)
+
+Re @JianglinLi @Wu_Zhi 有点想法供两位分享。<br>当初川普要美国伟大，在UN退群，欧盟理解成美国独行，一片哀嚎。当时我心里想：一个军费问题，欧盟自己争点气站起来岂不是更好？<br>经过乌战后，方才明白，不止是军费依赖。二战之后全方位依赖美国太久，要想独立，那是撕开血肉之痛。如同藤，长得再粗大，也得有树可依傍才能爬高
+
+### 121: [2023-03-12 06:54:29+08:00 推文](https://twitter.com/HeQinglian/status/1634689277169639424)
+
+Re @JJH_Chi @JianglinLi 2020年写过一些文章，谈过BLM等的起源、美国颜色革命的基础。现在写了，没发表（无处发表）
+
+### 122: [2023-03-12 07:05:51+08:00 推文](https://twitter.com/HeQinglian/status/1634692137567518720)
+
+Re @JianglinLi @Wu_Zhi 接上：<br>欧盟已经将自己活成了藤，攀缘至树顶，向世界展示：你看我站得多高。<br>树未倒，藤照样神气；树如果不想让藤攀缘了（有的树会分泌液体，让藤枯死），藤就知道不对了。<br>习近平希望欧盟有独立的外交政策，是他想多了，至少不太知道藤没法独立。<br>澳大利亚虽然相对独立，但如今紧跟LGBTQI+,半步也不落
+
+### 123: [2023-03-12 07:07:43+08:00 推文](https://twitter.com/HeQinglian/status/1634692607929470976)
+
+Re @JJH_Chi @JianglinLi 早就不做视频，费力费神又短命。不是只对你，是对所有的媒体。<br>但还是谢谢你。
 
