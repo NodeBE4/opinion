@@ -253,7 +253,7 @@ Re @Wu_Zhi @KELMAND1 纵观人类战争史，总是向国际社会哭诉敌人�
 
 ### 60: [2023-03-09 22:35:28+08:00 推文](https://twitter.com/HeQinglian/status/1633838920936099840)
 
-这应该是一折戏的开头，估计是战争援助落幕前的一折。是否有重建援助，得看表现——美方权贵集团也有需要，参考阿富汗帐本。 https://twitter.com/KELMAND1/status/1633754495917363201<div class="rsshub-quote"><br><br>Ezio Mao☢: 乌克兰外交部长声称基辅没有参与破坏“北溪”<br><br>乌克兰外交部长德米特里库列巴在周四接受意大利报纸《共和国报》采访时表示：“我的政府与此无关。我认为没有证据的文章是有害的，因为它们会给人留下乌克兰对此负有责任的印象。我们正在等待调查结果。” https://twitter.com/KELMAND1/status/1633137260886654976 https://t.co/2VkgjGsLf6<br><br><img style="" src="https://pbs.twimg.com/media/FqxDCpBacAAtJDB?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
+这应该是一折戏的开头，估计是战争援助落幕前的一折。是否有重建援助，得看表现——美方权贵集团也有需要，参考阿富汗帐本。<div class="rsshub-quote"><br><br>Ezio Mao☢: 乌克兰外交部长声称基辅没有参与破坏“北溪”<br><br>乌克兰外交部长德米特里库列巴在周四接受意大利报纸《共和国报》采访时表示：“我的政府与此无关。我认为没有证据的文章是有害的，因为它们会给人留下乌克兰对此负有责任的印象。我们正在等待调查结果。” https://t.co/2VkgjGsLf6<br><br><img style="" src="https://pbs.twimg.com/media/FqxDCpBacAAtJDB?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 61: [2023-03-09 22:50:11+08:00 推文](https://twitter.com/JianglinLi/status/1633842624946933760)
 
@@ -470,4 +470,12 @@ Re @JJH_Chi 你怎知我没搞清？我在书斋里做的事情，需要通知�
 ### 114: [2023-03-12 04:37:27+08:00 推文](https://twitter.com/HeQinglian/status/1634654792394964994)
 
 Re @Wu_Zhi 这事儿想想就明白了。<br>西摩·赫什的文章发表于2月6日，挪威、德国都应该在几天后才看到。如果文章涉及自己的不是事实，为何等一个月美宣部几大媒体发表亲乌克兰组织炸了北溪才出来说。<br>只能说需要统一重塑“记忆”。
+
+### 115: [2023-03-12 06:36:32+08:00 推文](https://twitter.com/HeQinglian/status/1634684761699434497)
+
+Re @JJH_Chi @JianglinLi 至今觉得他读卡尔·波普，如同福山曾是亨廷顿学生一样，都走到了老师的反面。<br>无法超越，就证明对方是错的，心理学有过这样的案例。<br>仅供参考。<br>我现在没有空做视频，索罗斯的事业，在他百年后，估计难以为继，有如拜登是奥巴马一位非常笨蠢的继承者一样。<br>但奥巴马年轻，有时间折腾世界。
+
+### 116: [2023-03-12 06:38:26+08:00 推文](https://twitter.com/HeQinglian/status/1634685238021353475)
+
+Re @JJH_Chi 我从不做这些人类社会上下五千年、纵横数万里的文化研究。<br>我有我的研究方式。<br>如果你很少看我的推文，当然不知道。如果你经常看，自己也研究，应该猜得出我在研究什么。
 
