@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-03-04
+date: 2023-03-05
 from: https://old.reddit.com/r/AskHistorians/comments/11d4udq/why_dont_medievalearly_modern_china_and_maybe/
 layout: post
 tags:
@@ -100,4 +100,10 @@ That is, however, a big if, and I would think that were he to have gone into gre
 ----- __1134.1__ -----2023-03-04 16:56:00+08:00:
 
 This submission has been removed because it involves current events.  To keep from discussion of politics, we have a [20-year rule](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events) here.  You may want to try /r/ask_politics, /r/NeutralPolitics, or another current-events focused sub. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
+
+### 1135: [[Hobby Scuffles] Week of March 6, 2023](https://old.reddit.com/r/HobbyDrama/comments/11iz558/hobby_scuffles_week_of_march_6_2023/), submitted on 2023-03-05 23:02:10+08:00.
+
+----- __1135.1__ -----2023-03-11 20:49:44+08:00:
+
+Wait, I thought this was news weeks ago...
 
