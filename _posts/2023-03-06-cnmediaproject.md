@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2023-03-09
+date: 2023-03-11
 from: https://twitter.com/cnmediaproject/status/1632573545762160640
 layout: post
 tags:
@@ -78,4 +78,8 @@ Re Another related term in the official press today: "streamlining services" (�
 ### 16: [2023-03-09 17:35:47+08:00 推文](https://twitter.com/cnmediaproject/status/1633763501113217026)
 
 When China dramatically reversed its "zero Covid" policy, experts who had backed it for years changed their tunes overnight.<br><br>The before-and-after contrasts beg the question: How can health experts be trusted when politics leads their science by the nose?<br><br>https://chinamediaproject.org/2023/03/09/framing-chinas-health-experts/
+
+### 17: [2023-03-11 13:02:31+08:00 推文](https://twitter.com/cnmediaproject/status/1634419508931874817)
+
+For those who missed it, our look at how China's exploitation of science and scientific expertise to make the political case for policies has led to poor decision-making and undermined public trust in experts. https://chinamediaproject.org/2023/03/09/framing-chinas-health-experts/
 
