@@ -45,5 +45,5 @@ RT Emily Feng 冯哲芸<br>A publishing editor. An accountant and rock music f
 
 ### 8: [2023-01-12 05:44:02+08:00 推文](https://twitter.com/EmilyZFeng/status/1613290662237032479)
 
-RT Emily Feng 冯哲芸<br>Re One anecdote that has left me shaken: this woman on this @derspiegel cover was also arrested. She found herself at the vigil by accident: "I drink every weekend, but the police didn't believe that I was just drinking there. They think I am the organizer." https://www.spiegel.de/spiegel/print/index-2022-49.html
+RT Emily Feng 冯哲芸<br>Re One anecdote that has left me shaken: this woman on this @derspiegel cover was also arrested. She found herself at the vigil by accident: "I drink every weekend, but the police didn't believe that I was just drinking there. They think I am the organizer." <a href="https://www.spiegel.de/spiegel/print/index-2022-49.html" target="_blank" rel="noopener noreferrer">https://www.spiegel.de/spiegel/print/index-2022-49.html</a>
 
