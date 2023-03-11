@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-03-10
+date: 2023-03-11
 from: https://twitter.com/HeQinglian/status/1632498870813966343
 layout: post
 tags:
@@ -362,4 +362,16 @@ Re @Wu_Zhi @karma76680727 @KELMAND1 不用费劲与这种永远处于2022年3月
 ### 87: [2023-03-10 09:53:50+08:00 推文](https://twitter.com/HeQinglian/status/1634009636792680448)
 
 Re @fading_you1 倒也不全是。毕竟在粤地生活了13年整，喜欢那里的美食、相对轻松的人际氛围。别地多是“你之所得就是我之所失”，广东则是“有钱大家赚，你好我也好”。<br>懂了广东话之后，也挺喜欢其生动有趣。我在的那段时期，香港影星台上群唱黄霑的“笑傲江湖曲”，看得我直笑。
+
+### 88: [2023-03-11 08:45:56+08:00 推文](https://twitter.com/HeQinglian/status/1634354938493927425)
+
+拜登政府的外交成就：<br>1、将沙特推向了中国——中沙伊三方联合声明，沙伊达成一份协议，包括同意恢复双方外交关系<br>2、炸了北溪管道，在西摩·赫什的调查报道出来后，弄了个亲乌克兰的小组顶缸，连本国人都不相信<br>3、玩中国军援俄的自答题，中国准备等同于美国向台湾提供武器。https://egyptindependent.com/chinas-foreign-minister-equates-possible-supply-of-weapons-to-russia-with-us-military-support-for-taiwan/
+
+### 89: [2023-03-11 08:58:53+08:00 推文](https://twitter.com/HeQinglian/status/1634358194121195521)
+
+Re 代拟白宫回答：<br>1、中东那地，从二战后接手大英帝国遗产之后，折腾了70多年，保障了欧洲之灯。如今大重置，那地儿绝对不接受LGBTQI，要它何用？<br>2、没说是乌克兰，已经算客气了，想必最后也不敢不认帐，多给点封口费就是。<br>3、我向台湾提供武器是捍卫民主，你向俄罗斯提供武器是支持侵略——不管用再说。
+
+### 90: [2023-03-11 09:02:43+08:00 推文](https://twitter.com/HeQinglian/status/1634359161008844800)
+
+Re @Wu_Zhi 最大的成就是将美国冷战结束之后，历届总统都奉行的国策——避免中俄伊等结盟终结，短短两年内有些成就，可谓骄人。
 
