@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-03-11
+date: 2023-03-12
 from: https://twitter.com/HeQinglian/status/1632498870813966343
 layout: post
 tags:
@@ -414,4 +414,36 @@ Re @dinglili7 基督徒们还是清理门户是正经，我是不入这门了。
 ### 100: [2023-03-11 21:55:32+08:00 推文](https://twitter.com/HeQinglian/status/1634553648146464771)
 
 Re @dinglili7 北约一直在监测波罗的海，那段时间，北约可能放假休息，否则就是知情不报。😉<br>这事还是查到北约那里去。
+
+### 101: [2023-03-12 01:48:11+08:00 推文](https://twitter.com/HeQinglian/status/1634612196721192963)
+
+Re @sophyzhang2003 你信就行，多看几次，保准更信。
+
+### 102: [2023-03-12 01:48:52+08:00 推文](https://twitter.com/HeQinglian/status/1634612367924289541)
+
+Re @KongStahlwille 有点外交部味道。
+
+### 103: [2023-03-12 01:51:10+08:00 推文](https://twitter.com/HeQinglian/status/1634612947220672512)
+
+Re @rodneyzeng RINO肯定不支持。你是RINO？
+
+### 104: [2023-03-12 01:54:03+08:00 推文](https://twitter.com/HeQinglian/status/1634613669223964674)
+
+Re @Message_fromdf 支持拜登没问题，同类相聚。自家不是犯罪堕落分子，哪里有那么多共情？我知道家有吸毒子女的家长都与他共情。<br>但偷票，召唤死人投票、拿钱购买、包括购买重刑犯的票，有问题吧？
+
+### 105: [2023-03-12 01:56:47+08:00 推文](https://twitter.com/HeQinglian/status/1634614360566906887)
+
+Re @JJH_Chi 你先告诉我，你喜欢我推文中列的拜登支持者品性么？<br>这事没什么好含糊，也不是挣流量的问题，是人类往正常方向还是不正常方向走的问题。
+
+### 106: [2023-03-12 02:03:17+08:00 推文](https://twitter.com/HeQinglian/status/1634615996454428673)
+
+我给拜登支个招：<br>美国一直在说有外星人，CIA都有系统的情报。<br>如今就说经过CIA调查验证，是外星人炸了北溪。再弄出一块残片，说地球上没有国家能够制造这种炸弹。<br>反正拜粉、乌粉，以及由川粉转身为拜粉的全会相信。<div class="rsshub-quote"><br><br>绫波: 普利策奖得主赫什“北溪”爆料一个月后<br><br>《纽约时报》援引匿名美官员宣称有情报显示“亲乌团体”可能是“北溪”爆炸背后真凶<br><br>赫什意见：乌克兰有能力布设地雷但没有可用的潜水减压舱，执行任务者必须既是潜水高手又是C4塑胶炸药专家，他们要确保炸药放合适位置来摧毁管道得花费数周或数月在波罗的海反复练习 https://t.co/VFkyWlRfIX<br><br><img style="" src="https://pbs.twimg.com/media/Fq6cxTTaIAITkdi?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 107: [2023-03-12 02:09:48+08:00 推文](https://twitter.com/HeQinglian/status/1634617636733460481)
+
+Re @Wu_Zhi 刚才我这里有位前川粉来贴丹麦的胡说八道。<br>他忘记丹麦此前的态度是什么：我们知道是谁，但我们不说。
+
+### 108: [2023-03-12 02:18:00+08:00 推文](https://twitter.com/HeQinglian/status/1634619698435293185)
+
+Re @dinglili7 费那劲干吗，直接说是外星人穿上隐形衣炸毁得了，干净利落，外星人也不会通过某途径向人类社会的媒体透露，说受冤枉了，北溪不是他炸的。
 
