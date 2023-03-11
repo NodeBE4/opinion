@@ -25,7 +25,7 @@ Re Former human rights lawyer Qin Yongpei to appear in court on Friday to face I
 
 ### 3: [2021-12-30 11:45:27+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1476399003822612484)
 
-四川省蓬溪县女子魏某，因在朋友圈发文称交警为“灾舅子“并用”哎哟卧槽“评论交警执法，被认定为侮辱交警并被拘留5日。<br><img style="" src="https://pbs.twimg.com/media/FH04bW2XIAEHPNr?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH04hlvXoAMw1mQ?format=png&name=orig" referrerpolicy="no-referrer">
+四川省蓬溪县女子魏某，因在朋友圈发文称交警为“灾舅子“并用”哎哟卧槽“评论交警执法，被认定为侮辱交警并被拘留5日。<br><img style src="https://pbs.twimg.com/media/FH04bW2XIAEHPNr?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH04hlvXoAMw1mQ?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-12-30 11:47:40+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1476399563720343552)
 
@@ -41,7 +41,7 @@ Anhui man He detained for 3 days for saying in WeChat Moment that he got bitten 
 
 ### 7: [2022-01-01 11:21:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1477117626044358660)
 
-Happy new year! And a friendly reminder that two years ago today, 8 people in China's Wuhan city were arrested & punished by police for making up a "rumor" that an Unknown Pneumonia occurred in the city.<br><img style="" src="https://pbs.twimg.com/media/FH-HuNrXwAEyKse?format=jpg&name=orig" referrerpolicy="no-referrer">
+Happy new year! And a friendly reminder that two years ago today, 8 people in China's Wuhan city were arrested & punished by police for making up a "rumor" that an Unknown Pneumonia occurred in the city.<br><img style src="https://pbs.twimg.com/media/FH-HuNrXwAEyKse?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2022-01-01 12:50:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1477140023657086976)
 

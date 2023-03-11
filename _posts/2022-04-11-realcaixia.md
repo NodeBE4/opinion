@@ -33,7 +33,7 @@ Re 多个跟帖说现在这长冷兵器已经充分普及了。反过来想，�
 
 ### 5: [2022-04-11 04:11:43+08:00 推文](https://twitter.com/realcaixia/status/1513248381908398081)
 
-看看，习是知道这些用来对付谁的。
+看看，习是知道这些用来对付谁的。<br><br>熊二快跑: @realcaixia 习主席在基层视察维稳利器。<br><br><img style="" src="https://pbs.twimg.com/media/FQAMXf1XsAY8iCx?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2022-04-11 11:18:09+08:00 推文](https://twitter.com/realcaixia/status/1513355696099581955)
 
@@ -41,7 +41,7 @@ Re 多个跟帖说现在这长冷兵器已经充分普及了。反过来想，�
 
 ### 7: [2022-04-11 11:29:22+08:00 推文](https://twitter.com/realcaixia/status/1513358520623591426)
 
-太好了！台湾民选政府才是中国人的真正民主政府，期望看到有更多的国家和台湾建立正式邦交关系。台湾是中国人推动大陆向宪政民主政治转型的榜样。
+太好了！台湾民选政府才是中国人的真正民主政府，期望看到有更多的国家和台湾建立正式邦交关系。台湾是中国人推动大陆向宪政民主政治转型的榜样。<br><br>Dr. Bo 🇺🇸🇹🇼🇭🇰: 台灣外交部歡迎瑞典國會和歐洲議會代表訪問台灣。這是歷史上首次歐洲立法機構代表訪問台灣。<br> <a href="https://twitter.com/MOFA_Taiwan/status/1513121067090743301" target="_blank" rel="noopener noreferrer">https://twitter.com/MOFA_Taiwan/status/1513121067090743301</a>
 
 ### 8: [2022-04-11 11:45:34+08:00 推文](https://twitter.com/realcaixia/status/1513362596484714499)
 
@@ -81,15 +81,15 @@ Re @wsddasfgd @yibaochina 是的，这个问题还没有最终解决，我们正
 
 ### 17: [2022-04-12 21:31:38+08:00 推文](https://twitter.com/realcaixia/status/1513872470633234442)
 
-这种揪人心肺的半夜乞求声实在令人心碎。所有的妈妈都经历过孩子发高烧的时候，所有的妈妈都能切身感受这位妈妈带泪的乞求。<br>21世纪的国际大都会上海啊！缺医少药救命难的事已经不是孤例了！这种害人命要人命的清零，这种支撑和保护害人命要人命的极权体制正在制造一起又一起的人间惨剧。<br><br>鲁  难: 当父母的很多都经历过小孩子夜晚发烧的艰难时刻。<br>不过我们有机会给孩子吃退烧药，或者到医院急诊来应对。<br>凌晨两点半，上海被封禁的这位妈妈挨家挨户敲门乞求退烧药，是她孩子的唯一希望了。<br>生活远比剧本更扣人心弦。<br>这深夜里的一幕，这撕心裂肺的哀求声，不应该被历史忘记。<br><br><video src="https://video.twimg.com/ext_tw_video/1513716452951568384/pu/vid/1186x720/h4l41LC8pExUIFGi.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1513716452951568384/pu/img/QcgvAOkI6RTyxKTr.jpg"></video>
+这种揪人心肺的半夜乞求声实在令人心碎。所有的妈妈都经历过孩子发高烧的时候，所有的妈妈都能切身感受这位妈妈带泪的乞求。<br>21世纪的国际大都会上海啊！缺医少药救命难的事已经不是孤例了！这种害人命要人命的清零，这种支撑和保护害人命要人命的极权体制正在制造一起又一起的人间惨剧。
 
 ### 18: [2022-04-12 21:33:31+08:00 推文](https://twitter.com/realcaixia/status/1513872948087640067)
 
-一党专政遍地是灾！一人独裁全民遭殃！
+一党专政遍地是灾！一人独裁全民遭殃！<br><br>Chenchen Zhang 🤦🏻‍♀️: what's it like to be quarantined in uni dorms in Changchun...<br>stuck in a 6-person room for a month, only able to take a shower once, can only go to the water distribution room and public bathroom (no toilet or water tap in the dorm), where one must use one designated stall<br><br><img style="" src="https://pbs.twimg.com/media/FQH9AppXoAE7J9z?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 19: [2022-04-14 05:02:18+08:00 推文](https://twitter.com/realcaixia/status/1514348274844672003)
 
-人间惨剧，令人心碎。
+人间惨剧，令人心碎。<br><br>鲁  难: 上海市虹口区卫健委信息中心主任钱文雄在办公室自尽。<br>稍后，其患癌症多时的妻子也随他而去。虽不能同年同月同日生，但是做到了同年同月同日死。<br>有爱，有勇气。<br>而活在上海，也需要勇气。<br><br><img style="" src="https://pbs.twimg.com/media/FQPX9VzXIAseQAl?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FQPX9VxWQAsiZkb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FQPX9VzXoBEzcJl?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FQPX9VyWYAghA25?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 20: [2022-04-14 08:23:40+08:00 推文](https://twitter.com/realcaixia/status/1514398948286517248)
 
@@ -109,7 +109,7 @@ Re @tomsemibio 你是中共网军造出来的无耻卑鄙的机器幽灵。
 
 ### 24: [2022-04-14 09:12:53+08:00 推文](https://twitter.com/realcaixia/status/1514411333755625472)
 
-杨继绳老师写的《墓碑》记录了中共毛时期三年大饥荒饿死几千万人的惨绝人寰的真实历史。<br><br>新闻调查: 所有上海人应该看看！ 全世界人应该看看！（中英文字幕）<br><br><video src="https://video.twimg.com/amplify_video/1513602577723756561/vid/640x480/M-3rK9xOW3VquvwH.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1513602577723756561/img/Qd1DThIG19Sd999h.jpg"></video>
+杨继绳老师写的《墓碑》记录了中共毛时期三年大饥荒饿死几千万人的惨绝人寰的真实历史。
 
 ### 25: [2022-04-14 20:49:09+08:00 推文](https://twitter.com/realcaixia/status/1514586555490476036)
 
@@ -137,7 +137,7 @@ Re 孙大午对官府绝不行贿，依靠自己和村民勤劳努力办企业�
 
 ### 31: [2022-04-15 02:29:12+08:00 推文](https://twitter.com/realcaixia/status/1514672132105592835)
 
-请看这篇推友发布的上海非正常逝去生命的一些信息。有网友提议：希望这份名单可以成为一份开放协作文档，请大家添上身边逝者的故事。<br>虽然很残酷很令人痛心，但为的是让大家看到这不仅只是数字，而是一个个真实的人，曾经鲜活的生命。每一个逝去的生命都让数个家庭数位亲友瞬时跌入无尽痛苦深渊……
+请看这篇推友发布的上海非正常逝去生命的一些信息。有网友提议：希望这份名单可以成为一份开放协作文档，请大家添上身边逝者的故事。<br>虽然很残酷很令人痛心，但为的是让大家看到这不仅只是数字，而是一个个真实的人，曾经鲜活的生命。每一个逝去的生命都让数个家庭数位亲友瞬时跌入无尽痛苦深渊……<br><br>Ying Li: @liuhong @ZhouFengSuo<br> <a href="https://twitter.com/suxinpl/status/1514584550239875074" target="_blank" rel="noopener noreferrer">https://twitter.com/suxinpl/status/1514584550239875074</a>
 
 ### 32: [2022-04-15 02:47:44+08:00 推文](https://twitter.com/realcaixia/status/1514676798964989953)
 
@@ -149,11 +149,11 @@ Re @tsui_c2019 请看这篇推友发布的上海非正常逝去生命的一些�
 
 ### 34: [2022-04-15 20:04:58+08:00 推文](https://twitter.com/realcaixia/status/1514937825963171851)
 
-强力推荐：
+强力推荐：<br><br>新闻调查: 上海rapper，彻底火了<br><br><video src="https://video.twimg.com/ext_tw_video/1514626941583872006/pu/vid/886x532/dZz1AwhG8HqmU2JY.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1514626941583872006/pu/img/eADl3LSyE0LuHKCr.jpg"></video>
 
 ### 35: [2022-04-15 20:54:52+08:00 推文](https://twitter.com/realcaixia/status/1514950385416376323)
 
-2021年“7.20”郑州市民遭遇的灭顶洪水与现在全球关注的上海人道灾难具有同一性：都是人祸！<br><br>自郑州灭顶洪水发生后，水利专家王维洛先生一直在追查真相，追查洪水滔天的由来。<br>#特别推荐议报发布王先生系列文章（七），文章详细而充分地论证了郑州洪水的直接原因是水库无预警泄洪造成的。敬请阅读并传播<br><br>《议报》: 王维洛: 郑州水灾真相难以掩盖（七）<br> <a href="https://yibaochina.com/?p=245968" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245968</a>
+2021年“7.20”郑州市民遭遇的灭顶洪水与现在全球关注的上海人道灾难具有同一性：都是人祸！<br><br>自郑州灭顶洪水发生后，水利专家王维洛先生一直在追查真相，追查洪水滔天的由来。<br>#特别推荐议报发布王先生系列文章（七），文章详细而充分地论证了郑州洪水的直接原因是水库无预警泄洪造成的。敬请阅读并传播
 
 ### 36: [2022-04-15 22:19:35+08:00 推文](https://twitter.com/realcaixia/status/1514971703604125697)
 
@@ -161,11 +161,11 @@ Re @lizaixi5 感谢各位网友的支持关注和给我的帮助。我们一起�
 
 ### 37: [2022-04-16 03:34:21+08:00 推文](https://twitter.com/realcaixia/status/1515050916776398862)
 
-好消息！<br><br>韩连潮: 美国国防部一位高级官员周五证实，周四在火灾中受损的俄罗斯导弹巡洋舰被两枚海王星导弹击中并最终沉没，<br>俄方可能有人员伤亡。<br><br><img style="" src="https://pbs.twimg.com/media/FQaIbWnXwAEuhI5?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+好消息！
 
 ### 38: [2022-04-16 03:49:25+08:00 推文](https://twitter.com/realcaixia/status/1515054708292931586)
 
-怀念胡耀邦，他是中共党内的良心。
+怀念胡耀邦，他是中共党内的良心。<br><br>浦志强: 33年前的今天，胡耀邦去世。<br><br><img style="" src="https://pbs.twimg.com/media/FQXf_iGUcAUtfMI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 39: [2022-04-16 10:35:29+08:00 推文](https://twitter.com/realcaixia/status/1515156899708121088)
 
@@ -233,7 +233,7 @@ Re @lianchaohan 这个名单中应该加上“支持恐怖主义的国家：中�
 
 ### 55: [2022-04-17 10:40:30+08:00 推文](https://twitter.com/realcaixia/status/1515520547970506752)
 
-#议报发布：《普通人的声音》推荐。<br><br>当大陆在高压恐怖下，记者学者文化人不得不自我阉割自我审查时，普通人的个体写作就显得尤为重要尤为珍贵。普通人拿起笔真实地再现个体的遭遇。他们值得我们高度尊重，因为他们的勇气、诚实、担当！比如上海高中生、上海逝者名单接龙的一个个普通市民、陈顺平家人<br><br>《议报》: 褚朝新：新闻实战｜普通人的声音<br> <a href="https://yibaochina.com/?p=246029" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246029</a>
+#议报发布：《普通人的声音》推荐。<br><br>当大陆在高压恐怖下，记者学者文化人不得不自我阉割自我审查时，普通人的个体写作就显得尤为重要尤为珍贵。普通人拿起笔真实地再现个体的遭遇。他们值得我们高度尊重，因为他们的勇气、诚实、担当！比如上海高中生、上海逝者名单接龙的一个个普通市民、陈顺平家人
 
 ### 56: [2022-04-17 11:10:49+08:00 推文](https://twitter.com/realcaixia/status/1515528177287766018)
 
@@ -249,7 +249,7 @@ Re @lianchaohan 这个名单中应该加上“支持恐怖主义的国家：中�
 
 ### 59: [2022-04-17 20:23:20+08:00 推文](https://twitter.com/realcaixia/status/1515667223892807685)
 
-上海逝者名单，前天晚上接龙续写逝者数是116，昨天下午是121，今早接龙续写数已经是132。这是不完全统计。每个数字都是一个人，一个生命，他们中许多人本不该这样走完人生的路程，他们的生命本不会在这时划上句号。一个生命逝去，多少人痛彻心肺💔<br>名单还在接龙中
+上海逝者名单，前天晚上接龙续写逝者数是116，昨天下午是121，今早接龙续写数已经是132。这是不完全统计。每个数字都是一个人，一个生命，他们中许多人本不该这样走完人生的路程，他们的生命本不会在这时划上句号。一个生命逝去，多少人痛彻心肺💔<br>名单还在接龙中<br><br>韩连潮: 病毒毒不死人，制度杀人！<br>关注上海逝者名单接力链接：<br><br><img style="" src="https://pbs.twimg.com/media/FQd40VAXwAcNXMG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN" target="_blank" rel="noopener noreferrer">https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN</a>
 
 ### 60: [2022-04-17 22:14:21+08:00 推文](https://twitter.com/realcaixia/status/1515695161497509888)
 

@@ -107,3 +107,7 @@ This submission has been removed because it involves current events.  To keep fr
 
 Wait, I thought this was news weeks ago...
 
+----- __1135.2__ -----2023-03-11 23:43:48+08:00:
+
+No, I was thinking of [this](https://www.reddit.com/r/HobbyDrama/comments/11iz558/hobby_scuffles_week_of_march_6_2023/jbt2cdc/) as mentioned by /u/NervousLemon6670
+
