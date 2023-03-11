@@ -169,7 +169,7 @@ Re 各位推友，拜登今天仍然说对华政策没变。<br>拜粉可以说�
 
 ### 39: [2023-03-08 09:41:16+08:00 推文](https://twitter.com/HeQinglian/status/1633281700389109760)
 
-这事，德国人信了就行。毕竟，需要美国这位盟友兼大哥，北溪事件的真相是什么不重要，德国人愿意相信什么最重要。<br>ZELT这篇报道，属于德国人正想打瞌睡，立刻有人送上枕头之类。 https://twitter.com/dinglili7/status/1633253353756172288<div class="rsshub-quote"><br><br>绫波: 🇩🇪德国《ZELT》：<br><br>ZEIT确定了据称用于秘密行动的船只是从波兰一家公司租来的游艇显然是两名乌克兰人所有。是由一个五男一女六人小组执行的。一名船长两名潜水员两名潜水助理和一名医生将炸药运到犯罪现场并放置在那里。肇事者的国籍不清楚，袭击者使用专业伪造的护照除其他外还被用来租船 https://t.co/Zt5vzwjWDA<br><br><img style="" src="https://pbs.twimg.com/media/Fqp7QFraMAEUsSV?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+这事，德国人信了就行。毕竟，需要美国这位盟友兼大哥，北溪事件的真相是什么不重要，德国人愿意相信什么最重要。<br>ZELT这篇报道，属于德国人正想打瞌睡，立刻有人送上枕头之类。<div class="rsshub-quote"><br><br>绫波: 🇩🇪德国《ZELT》：<br><br>ZEIT确定了据称用于秘密行动的船只是从波兰一家公司租来的游艇显然是两名乌克兰人所有。是由一个五男一女六人小组执行的。一名船长两名潜水员两名潜水助理和一名医生将炸药运到犯罪现场并放置在那里。肇事者的国籍不清楚，袭击者使用专业伪造的护照除其他外还被用来租船 https://t.co/Zt5vzwjWDA<br><br><img style="" src="https://pbs.twimg.com/media/Fqp7QFraMAEUsSV?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 40: [2023-03-08 18:57:26+08:00 推文](https://twitter.com/fading_you1/status/1633421661679628289)
 
@@ -377,7 +377,7 @@ Re @Wu_Zhi 最大的成就是将美国冷战结束之后，历届总统都奉行
 
 ### 91: [2023-03-11 11:01:39+08:00 推文](https://twitter.com/JianglinLi/status/1634389092266831872)
 
-RT 李江琳<br>老妖婆的“1月6日调查委员会”竟然根本没看那些录像！这不是赤裸裸的政治迫害嘛！😡😡😡 https://twitter.com/TomFitton/status/1634355413905727488<div class="rsshub-quote"><br><br>Tom Fitton: WHAT?! Top Democrat On Pelosi rump J6 Committee: We Actually Didn’t Review Any Of The Surveillance Video https://thefederalist.com/2023/03/09/top-democrat-on-j6-committee-we-actually-didnt-review-any-of-the-surveillance-video/<br></div>
+RT 李江琳<br>老妖婆的“1月6日调查委员会”竟然根本没看那些录像！这不是赤裸裸的政治迫害嘛！😡😡😡<div class="rsshub-quote"><br><br>Tom Fitton: WHAT?! Top Democrat On Pelosi rump J6 Committee: We Actually Didn’t Review Any Of The Surveillance Video https://thefederalist.com/2023/03/09/top-democrat-on-j6-committee-we-actually-didnt-review-any-of-the-surveillance-video/<br></div>
 
 ### 92: [2023-03-11 21:29:11+08:00 推文](https://twitter.com/HeQinglian/status/1634547014741491713)
 
@@ -437,7 +437,7 @@ Re @JJH_Chi 你先告诉我，你喜欢我推文中列的拜登支持者品性�
 
 ### 106: [2023-03-12 02:03:17+08:00 推文](https://twitter.com/HeQinglian/status/1634615996454428673)
 
-我给拜登支个招：<br>美国一直在说有外星人，CIA都有系统的情报。<br>如今就说经过CIA调查验证，是外星人炸了北溪。再弄出一块残片，说地球上没有国家能够制造这种炸弹。<br>反正拜粉、乌粉，以及由川粉转身为拜粉的全会相信。<div class="rsshub-quote"><br><br>绫波: 普利策奖得主赫什“北溪”爆料一个月后<br><br>《纽约时报》援引匿名美官员宣称有情报显示“亲乌团体”可能是“北溪”爆炸背后真凶<br><br>赫什意见：乌克兰有能力布设地雷但没有可用的潜水减压舱，执行任务者必须既是潜水高手又是C4塑胶炸药专家，他们要确保炸药放合适位置来摧毁管道得花费数周或数月在波罗的海反复练习 https://t.co/VFkyWlRfIX<br><br><img style="" src="https://pbs.twimg.com/media/Fq6cxTTaIAITkdi?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+我给拜登支个招：<br>美国一直在说有外星人，CIA都有系统的情报。<br>如今就说经过CIA调查验证，是外星人炸了北溪。再弄出一块残片，说地球上没有国家能够制造这种炸弹。<br>反正拜粉、乌粉，以及由川粉转身为拜粉的全会相信。 https://twitter.com/dinglili7/status/1634416110593540097<div class="rsshub-quote"><br><br>绫波: 普利策奖得主赫什“北溪”爆料一个月后<br><br>《纽约时报》援引匿名美官员宣称有情报显示“亲乌团体”可能是“北溪”爆炸背后真凶<br><br>赫什意见：乌克兰有能力布设地雷但没有可用的潜水减压舱，执行任务者必须既是潜水高手又是C4塑胶炸药专家，他们要确保炸药放合适位置来摧毁管道得花费数周或数月在波罗的海反复练习 https://t.co/VFkyWlRfIX<br><br><img style="" src="https://pbs.twimg.com/media/Fq6cxTTaIAITkdi?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 107: [2023-03-12 02:09:48+08:00 推文](https://twitter.com/HeQinglian/status/1634617636733460481)
 
@@ -446,4 +446,28 @@ Re @Wu_Zhi 刚才我这里有位前川粉来贴丹麦的胡说八道。<br>他�
 ### 108: [2023-03-12 02:18:00+08:00 推文](https://twitter.com/HeQinglian/status/1634619698435293185)
 
 Re @dinglili7 费那劲干吗，直接说是外星人穿上隐形衣炸毁得了，干净利落，外星人也不会通过某途径向人类社会的媒体透露，说受冤枉了，北溪不是他炸的。
+
+### 109: [2023-03-12 04:17:45+08:00 推文](https://twitter.com/HeQinglian/status/1634649833767141377)
+
+Re @Message_fromdf 我批评中共的时候，你可能还戴着口水涎子。
+
+### 110: [2023-03-12 04:19:56+08:00 推文](https://twitter.com/HeQinglian/status/1634650384579940353)
+
+Re @Lucs24659702 硅谷这样下去都有点危险。
+
+### 111: [2023-03-12 04:21:04+08:00 推文](https://twitter.com/HeQinglian/status/1634650668404289537)
+
+Re @franktianxie 这有什么好同情的。<br>不是还有许多为了流量，专业造谣的。
+
+### 112: [2023-03-12 04:24:34+08:00 推文](https://twitter.com/HeQinglian/status/1634651548440485888)
+
+Re @shenliangqing2 从这位女士2020年说“covid-19是上帝送给左派的礼物开始”，她就开始在左疯的路上一路狂奔。现在息影后，这样才能保持热度。<br>https://thehill.com/homenews/media/520039-jane-fonda-calls-covid-19-gods-gift-to-the-left/
+
+### 113: [2023-03-12 04:25:44+08:00 推文](https://twitter.com/HeQinglian/status/1634651841551007744)
+
+Re @JJH_Chi 你怎知我没搞清？我在书斋里做的事情，需要通知你？<br>你这种帖子，不招怼才怪
+
+### 114: [2023-03-12 04:37:27+08:00 推文](https://twitter.com/HeQinglian/status/1634654792394964994)
+
+Re @Wu_Zhi 这事儿想想就明白了。<br>西摩·赫什的文章发表于2月6日，挪威、德国都应该在几天后才看到。如果文章涉及自己的不是事实，为何等一个月美宣部几大媒体发表亲乌克兰组织炸了北溪才出来说。<br>只能说需要统一重塑“记忆”。
 
