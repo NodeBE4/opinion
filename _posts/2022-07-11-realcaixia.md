@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2022-07-11~2022-07-17'
 
 ### 4: [2022-07-14 09:52:58+08:00 推文](https://twitter.com/realcaixia/status/1547398719150211073)
 
-纪念刘晓波，我们拒绝遗忘。每年今日就犹如每年的六·四一样：<br>纪念为所有争取自由民主而献出生命的英魂，他们的精神感召与激励着更多的人加入为此而奋斗的行列。相信无论前路如何艰难，无论需要多长的时间，未来的中国终将走向宪政民主。
+纪念刘晓波，我们拒绝遗忘。每年今日就犹如每年的六·四一样：<br>纪念为所有争取自由民主而献出生命的英魂，他们的精神感召与激励着更多的人加入为此而奋斗的行列。相信无论前路如何艰难，无论需要多长的时间，未来的中国终将走向宪政民主。<br><br>胡发云 hufayun: 胡發雲：索爾維格之歌的故事 <br>怀念小波。<br> <a href="https://youtu.be/rEI8vbana4c" target="_blank" rel="noopener noreferrer">https://youtu.be/rEI8vbana4c</a>
 
 ### 5: [2022-07-14 09:58:48+08:00 推文](https://twitter.com/realcaixia/status/1547400187169181697)
 
@@ -45,7 +45,7 @@ Re 中国著名作家胡发云先生的文章—索尔维格之歌的故事：�
 
 ### 8: [2022-07-15 05:45:33+08:00 推文](https://twitter.com/realcaixia/status/1547698840366567429)
 
-他们正在穷尽一切手段控制民众。清零如果坚持不下去就换种说法、换个花样，把社会控制到瘫，以保习近平二十大继续掌控权力。<br><br>ZHANGDONG: 暴政治国、钳制国民言论行动自由到了无以复加地步！上海欲在全社会层面普查疑似神经病，这是要把大上海变成神经病院吗？政府恐惧国民到如此地步也是这厉害国的执政特点了。口口声声的自信呢？<br><br><img style="" src="https://pbs.twimg.com/media/FXncdhWWQAA6J-M?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+他们正在穷尽一切手段控制民众。清零如果坚持不下去就换种说法、换个花样，把社会控制到瘫，以保习近平二十大继续掌控权力。
 
 ### 9: [2022-07-15 23:04:23+08:00 推文](https://twitter.com/realcaixia/status/1547960272320544774)
 
@@ -57,7 +57,7 @@ Re @gaoyu200812 原先是有规则的，新闻联播前25分钟是国内报道�
 
 ### 11: [2022-07-15 23:51:21+08:00 推文](https://twitter.com/realcaixia/status/1547972093869928455)
 
-这段视频在国内微信群流传，看来问题出在政府部门。如果这个银行方人员说的是真相的话，那么银行应该“出门右转找政府”，政府耍赖的话，那么银行该去法院状告政府房管局，追究政府有关部门的法律责任。
+这段视频在国内微信群流传，看来问题出在政府部门。如果这个银行方人员说的是真相的话，那么银行应该“出门右转找政府”，政府耍赖的话，那么银行该去法院状告政府房管局，追究政府有关部门的法律责任。<br><br>变态辣椒RebelPepper: 銀行：冤有頭債有主，出門右轉找**<br><br><video src="https://video.twimg.com/ext_tw_video/1547624996008128512/pu/vid/368x640/-OWCK0CSkllCtYy4.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1547624996008128512/pu/img/-8JbfZBg5Jj65jAg.jpg"></video>
 
 ### 12: [2022-07-16 00:35:14+08:00 推文](https://twitter.com/realcaixia/status/1547983137363283974)
 
@@ -65,5 +65,5 @@ Re @gaoyu200812 原先是有规则的，新闻联播前25分钟是国内报道�
 
 ### 13: [2022-07-16 23:53:07+08:00 推文](https://twitter.com/realcaixia/status/1548334925681635332)
 
-一方面，这个事件的滑稽可笑表明，中共以及五毛粉红们的以言论罪，完全不讲逻辑、无可理喻，充满邪恶。另一方面，中共与习不是宣称有强大的五个自信吗？自信到了以捕风捉影、邪念妄想症来坑人整人的地步。
+一方面，这个事件的滑稽可笑表明，中共以及五毛粉红们的以言论罪，完全不讲逻辑、无可理喻，充满邪恶。另一方面，中共与习不是宣称有强大的五个自信吗？自信到了以捕风捉影、邪念妄想症来坑人整人的地步。<br><br>荣剑: 一起舆情事故就这么发生了，人家说的是知了，挡不住别人联想丰富。<br><br><img style="" src="https://pbs.twimg.com/media/FXwQrhGUYAQyUJu?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FXwQsQCUUAcb9es?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FXwQtR6UYAMQMov?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FXwQt_WUcAADxuN?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
