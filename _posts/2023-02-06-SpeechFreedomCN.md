@@ -29,5 +29,5 @@ Man surnamed Chen from Jiangsu detained for 2 days for saying in a WeChat Moment
 
 ### 4: [2023-02-08 19:11:02+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1623278225643249669)
 
-Anhui woman Zheng detained for 3 days for her WeChat Moments post that accused local police of being a “pervert” that “talked indecently inappropriate”. Police claimed her remarks insulted them and were due to an earlier quarrel in the police station.<br> https://t.co/bWS3tOrbFX<br><video src="https://video.twimg.com/ext_tw_video/1623276640359907328/pu/vid/544x960/iHhA4TQ4Cy0J3PJW.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1623276640359907328/pu/img/Efk84PewVddWzqtv.jpg"></video>
+Anhui woman Zheng detained for 3 days for her WeChat Moments post that accused local police of being a “pervert” that “talked indecently inappropriate”. Police claimed her remarks insulted them and were due to an earlier quarrel in the police station.<br><video src="https://video.twimg.com/ext_tw_video/1623276640359907328/pu/vid/544x960/iHhA4TQ4Cy0J3PJW.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1623276640359907328/pu/img/Efk84PewVddWzqtv.jpg"></video>
 
