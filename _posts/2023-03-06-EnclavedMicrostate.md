@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-03-10
+date: 2023-03-12
 from: https://old.reddit.com/r/AskHistorians/comments/11kqjck/the_role_of_us_parties_in_the_formation_of_the/
 layout: post
 tags:
@@ -46,4 +46,10 @@ This submission has been removed because it violates our ['20-Year Rule'](http:/
 > mostly people from very rich families.
 
 What's interesting is that this reputation has persisted. At present, around 70% of Oxford's annual intake are from state schools, with acceptance rates for both state and independent schools at around 20% (and actually slightly more generous to state schools). This is still a disproportionate figure given that 90% of UK secondary school students are at state schools, but speaking from experience the affluent toffs aren't a particularly visible group these days.
+
+### 1140: [Gent is wrongly labeled as Kortrijk](https://old.reddit.com/r/victoria3/comments/11pg31z/gent_is_wrongly_labeled_as_kortrijk/), submitted on 2023-03-12 22:40:50+08:00.
+
+----- __1140.1__ -----2023-03-13 01:19:12+08:00:
+
+To be fair, it's because there's a maximum of one treaty port per province, and Portugal already has Macau. What's really bizarre is that the city of Ili is not in the province of Ili.
 
