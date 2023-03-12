@@ -225,7 +225,7 @@ Re @qqiaoqiao @Lucs24659702 你在推上找出三个以上比我更严谨的吧�
 
 ### 53: [2023-02-21 23:26:50+08:00 推文](https://twitter.com/HeQinglian/status/1628053641792786432)
 
-话说得这么直白，乌鸡血们又要来喷洒正义的热血了。<div class="rsshub-quote"><br><br>Isabel👑💎WW: 我再说一遍，挺俄需要更高门槛，因为需要对历史和现实重新认知，<br><br>挺乌不需要任何头脑，只需要情怀，而且这种情怀还是几十年人家灌输给你的。<br> <a href="https://twitter.com/123450terry/status/1627877464344231936" target="_blank" rel="noopener noreferrer">https://twitter.com/123450terry/status/1627877464344231936</a></div>
+话说得这么直白，乌鸡血们又要来喷洒正义的热血了。<div class="rsshub-quote"><br><br>Isabel👑💎WW: 我再说一遍，挺俄需要更高门槛，因为需要对历史和现实重新认知，<br><br>挺乌不需要任何头脑，只需要情怀，而且这种情怀还是几十年人家灌输给你的。<br></div>
 
 ### 54: [2023-02-21 23:31:02+08:00 推文](https://twitter.com/HeQinglian/status/1628054698199552002)
 
@@ -461,7 +461,7 @@ Re @inno_dai @evaqiao2022 北溪管道是中国炸的？你有消息来源？�
 
 ### 112: [2023-02-23 06:31:23+08:00 推文](https://twitter.com/HeQinglian/status/1628522871348682756)
 
-最有趣的莫过于这句：“俄罗斯和中国的关系正在按计划发展”。<br>也就是说，过去一年多以来美欧全力指责的俄中结盟，完全不受影响。只是不知这“计划”形成于何时，内容也只能靠猜测。<div class="rsshub-quote"><br><br>Ezio Mao☢: 俄罗斯总统会见中共中央外事工作委员会办公室主任王毅<br><br>▪️俄罗斯联邦感谢中国的共同努力，现在世界国际关系很紧张；<br>▪️俄罗斯联邦与中国的合作对于稳定国际局势非常重要；<br>▪️莫斯科和北京正在落实会见中国国家主席的计划，这将推动双边关系的发展；<br>▪️俄罗斯和中国的关系正在按计划发展， https://t.co/57cA4ycrT4<br><br><video src="https://video.twimg.com/ext_tw_video/1628374269154701312/pu/vid/800x448/kE3g2eDzTxEstm-2.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1628374269154701312/pu/img/4nNO4r2754-Cxt8C.jpg"></video></div>
+最有趣的莫过于这句：“俄罗斯和中国的关系正在按计划发展”。<br>也就是说，过去一年多以来美欧全力指责的俄中结盟，完全不受影响。只是不知这“计划”形成于何时，内容也只能靠猜测。 https://twitter.com/KELMAND1/status/1628374309403246593<div class="rsshub-quote"><br><br>Ezio Mao☢: 俄罗斯总统会见中共中央外事工作委员会办公室主任王毅<br><br>▪️俄罗斯联邦感谢中国的共同努力，现在世界国际关系很紧张；<br>▪️俄罗斯联邦与中国的合作对于稳定国际局势非常重要；<br>▪️莫斯科和北京正在落实会见中国国家主席的计划，这将推动双边关系的发展；<br>▪️俄罗斯和中国的关系正在按计划发展， https://t.co/57cA4ycrT4<br><br><video src="https://video.twimg.com/ext_tw_video/1628374269154701312/pu/vid/800x448/kE3g2eDzTxEstm-2.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1628374269154701312/pu/img/4nNO4r2754-Cxt8C.jpg"></video></div>
 
 ### 113: [2023-02-23 06:33:42+08:00 推文](https://twitter.com/HeQinglian/status/1628523455216844800)
 
@@ -553,7 +553,7 @@ Re @Lucs24659702 她的血统最多八分之一黑，应该是赔付多于所得
 
 ### 135: [2023-02-24 01:29:22+08:00 推文](https://twitter.com/HeQinglian/status/1628809253329813506)
 
-乌克兰外长称收到了中国的和平计划，正在研究。如果不接受，明说。但弄成这个局面，恐怕双方也没有会谈了。<br>https://twitter.com/KELMAND1/status/1628017107740000257<div class="rsshub-quote"><br><br>RFI 華語 - 法國國際廣播電台: 澤連斯基稱不知道有一個中國的烏克蘭戰爭和平計畫 希望與中國對話 https://rfi.my/9Bd8.t https://t.co/fJHWDsJeA4<br><br><img style="" src="https://pbs.twimg.com/media/Fpqft7WaEAAM6vh?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+乌克兰外长称收到了中国的和平计划，正在研究。如果不接受，明说。但弄成这个局面，恐怕双方也没有会谈了。<br>https://twitter.com/KELMAND1/status/1628017107740000257 https://twitter.com/RFI_TradCn/status/1628789830036623361<div class="rsshub-quote"><br><br>RFI 華語 - 法國國際廣播電台: 澤連斯基稱不知道有一個中國的烏克蘭戰爭和平計畫 希望與中國對話 https://rfi.my/9Bd8.t https://t.co/fJHWDsJeA4<br><br><img style="" src="https://pbs.twimg.com/media/Fpqft7WaEAAM6vh?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 136: [2023-02-24 01:31:31+08:00 推文](https://twitter.com/HeQinglian/status/1628809795158286338)
 
@@ -645,7 +645,7 @@ Re @Vince6610 近五年，美国已从中国第一大贸易伙伴，成为中国
 
 ### 158: [2023-02-24 06:46:38+08:00 推文](https://twitter.com/HeQinglian/status/1628889095509344256)
 
-俄乌战争以来，很多事美国没办好的原因，尤其是对俄制裁失败，主要是没弄清楚一点：<br>自2010年以来，全球化分工体系已经成为生产国、消费国与资源国，三类国家是互相依赖的互补关系。<br>美国是世界最大消费国，世界贸易顺差的主要来源；中国是生产国；俄罗斯是资源国，德国既是生产国（高端）又是消费国。<div class="rsshub-quote"><br><br>天降伟人包由检: 民主党机关报也觉得让俄罗斯内部推翻普京不那么现实，然后一直以来不知道哪根筋搭错了，总是特别希望包总来劝普京停手。这真挺有趣。我要是包总，肯定跟老美说“行啊，那总得有点好处吧……” https://t.co/Ma8VwyTLkX<br><br><img style="" src="https://pbs.twimg.com/media/FprvbLEWcAE-LQE?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLAWIAEkp__?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLAXgAI4e7z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLEXgAUvSha?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+俄乌战争以来，很多事美国没办好的原因，尤其是对俄制裁失败，主要是没弄清楚一点：<br>自2010年以来，全球化分工体系已经成为生产国、消费国与资源国，三类国家是互相依赖的互补关系。<br>美国是世界最大消费国，世界贸易顺差的主要来源；中国是生产国；俄罗斯是资源国，德国既是生产国（高端）又是消费国。 https://twitter.com/fading_you1/status/1628877470769246208<div class="rsshub-quote"><br><br>天降伟人包由检: 民主党机关报也觉得让俄罗斯内部推翻普京不那么现实，然后一直以来不知道哪根筋搭错了，总是特别希望包总来劝普京停手。这真挺有趣。我要是包总，肯定跟老美说“行啊，那总得有点好处吧……” https://t.co/Ma8VwyTLkX<br><br><img style="" src="https://pbs.twimg.com/media/FprvbLEWcAE-LQE?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLAWIAEkp__?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLAXgAI4e7z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLEXgAUvSha?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 159: [2023-02-24 07:05:36+08:00 推文](https://twitter.com/HeQinglian/status/1628893868212072448)
 
@@ -805,7 +805,7 @@ Re @KELMAND1 拜登政府能够撑到2023年年底就差不多了，要竞选了
 
 ### 198: [2023-02-25 02:44:20+08:00 推文](https://twitter.com/HeQinglian/status/1629190506809896963)
 
-不算是很疯。今天看到VOA一条消息：美国陆军军官表示，对中国解放军有绝对优势——前两天VOA引美海军军官话说中国海空军力发展很快，美国似无绝对优势。<br>这意思是美中两国陆军将在一块陆地上相逢。我一直在想，这块陆地在哪？台湾肯定不合适，除了美国打到中国，或中国到美。<div class="rsshub-quote"><br><br>Ezio Mao☢: 下面是疯话环节:<br><br>“如果乌克兰输了，俄罗斯联邦将向北约国家开战，然后美国将不得不派兵参战”——泽连斯基 https://t.co/osIFUbqJVO<br><br><img style="" src="https://pbs.twimg.com/media/Fpv5ealaQAAQ6yT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+不算是很疯。今天看到VOA一条消息：美国陆军军官表示，对中国解放军有绝对优势——前两天VOA引美海军军官话说中国海空军力发展很快，美国似无绝对优势。<br>这意思是美中两国陆军将在一块陆地上相逢。我一直在想，这块陆地在哪？台湾肯定不合适，除了美国打到中国，或中国到美。 https://twitter.com/KELMAND1/status/1629169997074534400<div class="rsshub-quote"><br><br>Ezio Mao☢: 下面是疯话环节:<br><br>“如果乌克兰输了，俄罗斯联邦将向北约国家开战，然后美国将不得不派兵参战”——泽连斯基 https://twitter.com/KELMAND1/status/1629166174562062337 https://t.co/osIFUbqJVO<br><br><img style="" src="https://pbs.twimg.com/media/Fpv5ealaQAAQ6yT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 199: [2023-02-25 02:50:15+08:00 推文](https://twitter.com/HeQinglian/status/1629191994990858241)
 
