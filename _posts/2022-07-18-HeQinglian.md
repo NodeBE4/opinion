@@ -265,7 +265,7 @@ Re @shenliangqing2 你错过了美国历史上最重要的转折点，我算经�
 
 ### 63: [2022-07-20 23:09:44+08:00 推文](https://twitter.com/HeQinglian/status/1549773556812288000)
 
-希拉里准备参加2024年大选，以阻止川普。<br>感想：美国政治现在越来越好玩且让人难脱滑稽感。<br>1、当年民主党未准备全面使用多米尼机器，虽然主媒一边倒支持希拉里，纽时还为总统先生克林顿男士想官称，但希拉里还是失败了。<br>2、如果要用多米尼与邮寄选票，民主党的极左哪里会让她出征？
+希拉里准备参加2024年大选，以阻止川普。<br>感想：美国政治现在越来越好玩且让人难脱滑稽感。<br>1、当年民主党未准备全面使用多米尼机器，虽然主媒一边倒支持希拉里，纽时还为总统先生克林顿男士想官称，但希拉里还是失败了。<br>2、如果要用多米尼与邮寄选票，民主党的极左哪里会让她出征？<br><br>Newsmax: Hillary Clinton will run again for president in 2024 to stop Donald Trump, says Dick Morris:<br><br><img style="" src="https://pbs.twimg.com/media/FYFXKrSVEAAJkg5?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3uYQaUe" target="_blank" rel="noopener noreferrer">https://bit.ly/3uYQaUe</a>
 
 ### 64: [2022-07-20 23:11:51+08:00 推文](https://twitter.com/HeQinglian/status/1549774090059259907)
 
@@ -481,7 +481,7 @@ RT 北明BeiMing<br>美國前駐蘇大使：蓄意促成的烏克蘭危機<br>
 
 ### 117: [2022-07-22 20:31:52+08:00 推文](https://twitter.com/HeQinglian/status/1550458605211631618)
 
-战争虽然还未结束，但欧盟却注定是最大的失败者。三个短板充分暴露：<br>能源上，对俄罗斯的依赖度太高；<br>市场上，对中国的依赖度太高；<br>军事上，对美国的依赖度太高。<br>和平年代，三大依赖能够维持，欧洲繁荣；发生一场局部战争，短板立显。<br>欧盟的危机刚开始。<br><br>北明BeiMing: 美國前駐蘇大使：蓄意促成的烏克蘭危機<br><br>編者按：文章雖發表在戰爭爆發前，卻準確地預測和分析了戰爭的必然性以及導致戰爭的諸多因素，特別對美國長期以來針對俄羅斯的外交政策進行了深刻而犀利的反思，並透露出一些重大的珍貴史實，值得一讀。<br> <a href="http://taiwanus.net/news/news/2022/202207201549431364.htm" target="_blank" rel="noopener noreferrer">http://taiwanus.net/news/news/2022/202207201549431364.htm</a>
+战争虽然还未结束，但欧盟却注定是最大的失败者。三个短板充分暴露：<br>能源上，对俄罗斯的依赖度太高；<br>市场上，对中国的依赖度太高；<br>军事上，对美国的依赖度太高。<br>和平年代，三大依赖能够维持，欧洲繁荣；发生一场局部战争，短板立显。<br>欧盟的危机刚开始。
 
 ### 118: [2022-07-22 20:34:18+08:00 推文](https://twitter.com/HeQinglian/status/1550459216875458562)
 
@@ -769,7 +769,7 @@ Re @fading_you1 恭喜你。推特上几百万中文用户，你排在如此靠�
 
 ### 189: [2022-07-24 20:22:21+08:00 推文](https://twitter.com/HeQinglian/status/1551180986469285888)
 
-这事我说句公道话。<br>瓜田李下之嫌，普京虽然又老又病又面临政变之忧，可能还是知道。<br>如果他派了，作用不大，西方媒体与一干乌鸡血会不会说他趁机让火势蔓延？<br>如果他派了，会不会说他让俄军伪装成消防员，趁机占领意西领土？<br>感谢这条消息，我得知俄罗斯过去还干过助邻灭火这好事（也许别有用心）。😉
+这事我说句公道话。<br>瓜田李下之嫌，普京虽然又老又病又面临政变之忧，可能还是知道。<br>如果他派了，作用不大，西方媒体与一干乌鸡血会不会说他趁机让火势蔓延？<br>如果他派了，会不会说他让俄军伪装成消防员，趁机占领意西领土？<br>感谢这条消息，我得知俄罗斯过去还干过助邻灭火这好事（也许别有用心）。😉<br><br>绫波: 意大利和西班牙指责俄罗斯在意西两个国的森林火灾局面中无所作为。<br><br>今年，俄罗斯紧急救援部并没有派出消防机帮助他们应对森林火灾。<br><br><img style="" src="https://pbs.twimg.com/media/FYXmfQhUsAAOgAh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 190: [2022-07-24 20:25:48+08:00 推文](https://twitter.com/HeQinglian/status/1551181855545860100)
 
@@ -801,5 +801,5 @@ Re @realJackLaw @KELMAND1 @ZedongWinine @LetsBeatRabbits 正好相反。
 
 ### 197: [2022-07-24 23:35:41+08:00 推文](https://twitter.com/HeQinglian/status/1551229642526318592)
 
-米利将军那个通风报信电话的事情，大家应该都还记得。<br>现在则称昔日密友“最危险”，前后判若云泥。<br>最近这两年，他与中共之间发生了什么事情？让他从“友好过度”变成绝情过度？难道到绝情谷中扎满了一身情花刺？
+米利将军那个通风报信电话的事情，大家应该都还记得。<br>现在则称昔日密友“最危险”，前后判若云泥。<br>最近这两年，他与中共之间发生了什么事情？让他从“友好过度”变成绝情过度？难道到绝情谷中扎满了一身情花刺？<br><br>RFI 華語 - 法國國際廣播電台: 米利將軍：中國更具侵略性 對美國及盟友很危險<br><br><img style="" src="https://pbs.twimg.com/media/FYcPrOoUEAEWRZF?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8bk1.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8bk1.t</a>
 
