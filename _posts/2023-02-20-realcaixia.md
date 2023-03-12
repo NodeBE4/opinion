@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2023-02-20~2023-02-26'
 
 ### 1: [2023-02-20 01:32:52+08:00 推文](https://twitter.com/realcaixia/status/1627360581853528064)
 
-普京侵略乌克兰，送上战场上死了的都是普京的炮灰，普京自己不出一滴血。<br>习武统台湾将送上战场的军人与后备人员，相当于现在普京的炮灰，习的炮灰是18岁—60岁的人。对家庭来说，他们是家的顶梁柱；对民族传续而言，他们是中坚力量。为满足普习野心而自毁民族中坚，普习都是民族的罪人。<div class="rsshub-quote"><br><br>華潤萬家: 《兲朝🇨🇳预备役法》2023年3月1日开始实施，未雨绸缪，承平日久必有战事的历史规律加上国际形势变化，不得不提前布局。如果发生大战各级武装力量上战场顺序：<br>首批，现役陆海空各部队；<br>次批，武装警察部队；<br>三批，预备役和退役军人；<br>四批，18-60岁的普通人；<br>最后一批，人民警察等公务员队伍。<br><br><video src="https://video.twimg.com/ext_tw_video/1627274543260930049/pu/vid/720x720/MJ6EdYbFPVhu2rbm.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1627274543260930049/pu/img/CP8f1fRCKCHlVKEa.jpg"></video></div>
+普京侵略乌克兰，送上战场上死了的都是普京的炮灰，普京自己不出一滴血。<br>习武统台湾将送上战场的军人与后备人员，相当于现在普京的炮灰，习的炮灰是18岁—60岁的人。对家庭来说，他们是家的顶梁柱；对民族传续而言，他们是中坚力量。为满足普习野心而自毁民族中坚，普习都是民族的罪人。<div class="rsshub-quote"><br><br>華潤萬家: 《兲朝🇨🇳预备役法》2023年3月1日开始实施，未雨绸缪，承平日久必有战事的历史规律加上国际形势变化，不得不提前布局。如果发生大战各级武装力量上战场顺序：<br>首批，现役陆海空各部队；<br>次批，武装警察部队；<br>三批，预备役和退役军人；<br>四批，18-60岁的普通人；<br>最后一批，人民警察等公务员队伍。 https://t.co/lGy5mfmEEU<br><br><video src="https://video.twimg.com/ext_tw_video/1627274543260930049/pu/vid/720x720/MJ6EdYbFPVhu2rbm.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1627274543260930049/pu/img/CP8f1fRCKCHlVKEa.jpg"></video></div>
 
 ### 2: [2023-02-20 01:48:02+08:00 推文](https://twitter.com/realcaixia/status/1627364397743230976)
 
@@ -25,11 +25,11 @@ title: 'Twitter @蔡霞: 2023-02-20~2023-02-26'
 
 ### 3: [2023-02-20 08:33:23+08:00 推文](https://twitter.com/realcaixia/status/1627466410715906048)
 
-习吹中国式现代化创造人类文明新形态：<br>贫富悬殊，中共国占世界前五位；<br>经济：⬇️面窥一斑而见全貌；<br>政治：习共党深陷塔西陀陷阱，   民众从白纸—烟花—白发革命…<br>法治：铁链女、唐山四女、胡鑫宇，公检法合演“胡芦僧判葫芦案”<br>生态：土地、江海河流、空气，无不带毒； <a href="https://m.youtube.com/watch?v=E-h3swakL_A" target="_blank" rel="noopener noreferrer">https://m.youtube.com/watch?v=E-h3swakL_A</a>
+习吹中国式现代化创造人类文明新形态：<br>贫富悬殊，中共国占世界前五位；<br>经济：⬇️面窥一斑而见全貌；<br>政治：习共党深陷塔西陀陷阱，   民众从白纸—烟花—白发革命…<br>法治：铁链女、唐山四女、胡鑫宇，公检法合演“胡芦僧判葫芦案”<br>生态：土地、江海河流、空气，无不带毒；<br><br> https://m.youtube.com/watch?v=E-h3swakL_A
 
 ### 4: [2023-02-20 08:55:12+08:00 推文](https://twitter.com/realcaixia/status/1627471898752987137)
 
-Re 教育、文化、科技创新😭<br><br>消费：各地裁员滚滚，收入维持不了生活，谁敢消费？企业倒闭、商店关门，市场半瘫，恶性循环。<br><br>国际关系：信誉扫地，空前孤立，交好国尽为恐怖国家：俄罗斯、北朝鲜、伊朗…<br><br>瘟疫与战争：源头尽在中共等恐怖国…<br><br>中国式现代化究竟是人类文明新新形态还是人类劫难新记录？！<br><img style="" src="https://pbs.twimg.com/media/FpXxEBtaMAAVtQs?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpXxEBtacAITan3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re 教育、文化、科技创新😭<br><br>消费：各地裁员滚滚，收入维持不了生活，谁敢消费？企业倒闭、商店关门，市场半瘫，恶性循环。<br><br>国际关系：信誉扫地，空前孤立，交好国尽为恐怖国家：俄罗斯、北朝鲜、伊朗…<br><br>瘟疫与战争：源头尽在中共等恐怖国…<br><br>中国式现代化究竟是人类文明新新形态还是人类劫难新记录？！ https://t.co/KSGxX2oyHL<br><img style="" src="https://pbs.twimg.com/media/FpXxEBtaMAAVtQs?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpXxEBtacAITan3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2023-02-21 07:31:18+08:00 推文](https://twitter.com/realcaixia/status/1627813171519168513)
 
@@ -37,7 +37,7 @@ Re @reallijiakun 中庸是不走极端。
 
 ### 6: [2023-02-21 08:07:20+08:00 推文](https://twitter.com/realcaixia/status/1627822241848377344)
 
-这个央视播音员真和习近平文化水平一般“高”吗？同样小学毕业、初中还正经读过？简直是自取其辱，无耻到不惜自黑自污来迎合统治者习近平、民间义和团吗？<br>这个年纪至少还得活三四十年吧？嘴里能说出这样无知无耻不要脸的话，等习和中共倒台，他如何面对观众听众，如何面对他的儿女和孙辈？！这人名字？<div class="rsshub-quote"><br><br>李老师不是你老师: 成本17美分的百元美钞应该价值多少美元？<br><br><video src="https://video.twimg.com/ext_tw_video/1627815198353489922/pu/vid/592x1280/o4Qe1hZ0_TbejyFL.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1627815198353489922/pu/img/2xqiv6z_hbNcS0gu.jpg"></video></div>
+这个央视播音员真和习近平文化水平一般“高”吗？同样小学毕业、初中还正经读过？简直是自取其辱，无耻到不惜自黑自污来迎合统治者习近平、民间义和团吗？<br>这个年纪至少还得活三四十年吧？嘴里能说出这样无知无耻不要脸的话，等习和中共倒台，他如何面对观众听众，如何面对他的儿女和孙辈？！这人名字？<div class="rsshub-quote"><br><br>李老师不是你老师: 成本17美分的百元美钞应该价值多少美元？ https://t.co/Vj4BM5oRxM<br><br><video src="https://video.twimg.com/ext_tw_video/1627815198353489922/pu/vid/592x1280/o4Qe1hZ0_TbejyFL.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1627815198353489922/pu/img/2xqiv6z_hbNcS0gu.jpg"></video></div>
 
 ### 7: [2023-02-21 11:44:14+08:00 推文](https://twitter.com/realcaixia/status/1627876827011096576)
 
@@ -49,7 +49,7 @@ Re @reallijiakun 中庸是不走极端。
 
 ### 9: [2023-02-22 05:43:44+08:00 推文](https://twitter.com/realcaixia/status/1628148492396003328)
 
-特别推荐：长沙一个NGO组织创始人程渊，一直在从事维护权利平等活动，尤其对底层民众。他在他被监禁的3年半被剥夺合法权利，被判罪，被强制劳动等，他始终不屈服。<br>他的妻子施明磊同样非常了不起，勇敢站出来公开揭露中共黑监狱的种种黑内幕。请关注和支持程渊和施明磊。 https://youtu.be/9PGPK5eHnaQ
+特别推荐：长沙一个NGO组织创始人程渊，一直在从事维护权利平等活动，尤其对底层民众。他在他被监禁的3年半被剥夺合法权利，被判罪，被强制劳动等，他始终不屈服。<br>他的妻子施明磊同样非常了不起，勇敢站出来公开揭露中共黑监狱的种种黑内幕。请关注和支持程渊和施明磊。 <a href="https://youtu.be/9PGPK5eHnaQ" target="_blank" rel="noopener noreferrer">https://youtu.be/9PGPK5eHnaQ</a>
 
 ### 10: [2023-02-22 05:53:43+08:00 推文](https://twitter.com/realcaixia/status/1628151001617412103)
 
@@ -65,11 +65,11 @@ Re https://t.co/ByuG6ocezr<br><img style="" src="https://pbs.twimg.com/media/Fph
 
 ### 13: [2023-02-22 06:35:45+08:00 推文](https://twitter.com/realcaixia/status/1628161581233078274)
 
-别说中国没一个孩子想，连成人都不敢想也不想想。<div class="rsshub-quote"><br><br>李隽🇦🇺: 听听这个少年说他为什么要上学，为什么学习知识。中国有一个孩子这样想吗？<br><br><video src="https://video.twimg.com/ext_tw_video/1627617293026070528/pu/vid/592x1280/-gK6VxJG6LBYZCW3.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1627617293026070528/pu/img/TfEwb2TZd83-BPZ1.jpg"></video></div>
+别说中国没一个孩子想，连成人都不敢想也不想想。<div class="rsshub-quote"><br><br>李隽🇦🇺: 听听这个少年说他为什么要上学，为什么学习知识。中国有一个孩子这样想吗？ https://t.co/MNz2NNWQqB<br><br><video src="https://video.twimg.com/ext_tw_video/1627617293026070528/pu/vid/592x1280/-gK6VxJG6LBYZCW3.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1627617293026070528/pu/img/TfEwb2TZd83-BPZ1.jpg"></video></div>
 
 ### 14: [2023-02-22 08:15:55+08:00 推文](https://twitter.com/realcaixia/status/1628186790698917888)
 
-推荐这期岳戈节目。习召开20大政治局会议，放风再一次国家机构“改革”，实质是反动。习权欲熏心与绝对控制狂。<br>李强总理未坐定即被收权，李强或弱过李克强；二中全会机构改革规模大，中共教授怒批：哪还有党政分开！要求检讨三年疫控，哪位“民主党派”人士胆子如... https://youtu.be/gYwbKDW5Tr8 来自YouTube
+推荐这期岳戈节目。习召开20大政治局会议，放风再一次国家机构“改革”，实质是反动。习权欲熏心与绝对控制狂。<br>李强总理未坐定即被收权，李强或弱过李克强；二中全会机构改革规模大，中共教授怒批：哪还有党政分开！要求检讨三年疫控，哪位“民主党派”人士胆子如... <a href="https://youtu.be/gYwbKDW5Tr8" target="_blank" rel="noopener noreferrer">https://youtu.be/gYwbKDW5Tr8</a>
 
 ### 15: [2023-02-22 08:29:55+08:00 推文](https://twitter.com/realcaixia/status/1628190312098107394)
 
@@ -77,15 +77,15 @@ Re https://t.co/TNult4X23E<br><img style="" src="https://pbs.twimg.com/media/Fph
 
 ### 16: [2023-02-23 13:42:30+08:00 推文](https://twitter.com/realcaixia/status/1628631362818256898)
 
-泪目……，面对王藏和王丽这样的义士，所有语言都是苍白无力的。唯愿保护好自己，保护好身体，看他们垮台。<div class="rsshub-quote"><br><br>王丽（王藏妻子）: 王藏关押996天，今下午第一次会见到。<br>王藏十分消瘦，皮肤黝黑，感觉很憔悴。我心里非常难过心疼。<br>我两年半的刑期，他非常内疚自责。我说“我无怨无悔，我愿意”。<br>他收到了朋友寄的明信片，让我感谢朋友们！<br>特别感谢昆明的朋友一路陪同和热情款待！<br>感谢所有关心支持的朋友们，祝大家安康快乐！ https://t.co/8vfoyQjhhF<br><br><img style="" src="https://pbs.twimg.com/media/FpkAH8naYAAl4fv?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+泪目……，面对王藏和王丽这样的义士，所有语言都是苍白无力的。唯愿保护好自己，保护好身体，看他们垮台。 https://twitter.com/0530wlq/status/1628332885710376961<div class="rsshub-quote"><br><br>王丽（王藏妻子）: 王藏关押996天，今下午第一次会见到。<br>王藏十分消瘦，皮肤黝黑，感觉很憔悴。我心里非常难过心疼。<br>我两年半的刑期，他非常内疚自责。我说“我无怨无悔，我愿意”。<br>他收到了朋友寄的明信片，让我感谢朋友们！<br>特别感谢昆明的朋友一路陪同和热情款待！<br>感谢所有关心支持的朋友们，祝大家安康快乐！ https://t.co/8vfoyQjhhF<br><br><img style="" src="https://pbs.twimg.com/media/FpkAH8naYAAl4fv?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 17: [2023-02-24 04:06:26+08:00 推文](https://twitter.com/realcaixia/status/1628848780039831552)
 
-这样的遭遇未来还会发生。只要是“中国式”、“中国模式”、“中国特色”无论说得多么天花乱坠，实质是一个：华丽包装的背后是“12亿人都是习奴党奴”。当他们经济好时，他们吃肉，习奴党奴喝残羹剩汤；当他们经济不好时，他们对习奴党奴敲骨吸髓。何止河南村镇银行的储户如此，最近的“医保改革”更如此。 https://twitter.com/officialsevil/status/1628189546574667777<div class="rsshub-quote"><br><br>河南污名化储户侵占存款🇺🇦杨功迅，杨佳: @realcaixia 请同胞们帮转发下河南村镇银行悲惨储户，家破人亡了 https://twitter.com/stephan65022719/status/1626920132877459458<br></div>
+这样的遭遇未来还会发生。只要是“中国式”、“中国模式”、“中国特色”无论说得多么天花乱坠，实质是一个：华丽包装的背后是“12亿人都是习奴党奴”。当他们经济好时，他们吃肉，习奴党奴喝残羹剩汤；当他们经济不好时，他们对习奴党奴敲骨吸髓。何止河南村镇银行的储户如此，最近的“医保改革”更如此。<div class="rsshub-quote"><br><br>河南污名化储户侵占存款🇺🇦杨功迅，杨佳: @realcaixia 请同胞们帮转发下河南村镇银行悲惨储户，家破人亡了<br></div>
 
 ### 18: [2023-02-24 04:37:53+08:00 推文](https://twitter.com/realcaixia/status/1628856695278698496)
 
-说得好！莫斯科普京要恢复沙俄帝国的版图；北京习要把习国扩张成习天下，一带一路只是习的扩张序曲，一些非洲国家的人讲汉语唱红歌是习天下“中国梦”的一部分。 https://twitter.com/zhangdong_sch/status/1628790016921960451<div class="rsshub-quote"><br><br>ZHANGDONG: 2月24日乌俄战争爆发一周年之际，柏林勃兰登堡将有两个针锋相对的抗议集会，一方是支持乌克兰反抗俄普帝入侵战争，另一方是劝降求和出卖乌克兰。<br>很多劝降派被虚伪和平迷惑，殊不知普京胃口不止要吞并乌克兰一国，他是要恢复大俄沙皇帝国版图，前苏维埃加盟国都是他锅里的肉。普帝得逞，世界不得安宁。 https://twitter.com/LjudmylaMelnyk/status/1628469934681477121 https://t.co/DhkDSoVSRw<br><br><img style="" src="https://pbs.twimg.com/media/Fpqf4zyWcAAAypB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+说得好！莫斯科普京要恢复沙俄帝国的版图；北京习要把习国扩张成习天下，一带一路只是习的扩张序曲，一些非洲国家的人讲汉语唱红歌是习天下“中国梦”的一部分。<div class="rsshub-quote"><br><br>ZHANGDONG: 2月24日乌俄战争爆发一周年之际，柏林勃兰登堡将有两个针锋相对的抗议集会，一方是支持乌克兰反抗俄普帝入侵战争，另一方是劝降求和出卖乌克兰。<br>很多劝降派被虚伪和平迷惑，殊不知普京胃口不止要吞并乌克兰一国，他是要恢复大俄沙皇帝国版图，前苏维埃加盟国都是他锅里的肉。普帝得逞，世界不得安宁。 https://t.co/DhkDSoVSRw<br><br><img style="" src="https://pbs.twimg.com/media/Fpqf4zyWcAAAypB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 19: [2023-02-24 04:41:57+08:00 推文](https://twitter.com/realcaixia/status/1628857717413797888)
 
@@ -97,7 +97,7 @@ Re https://t.co/TNult4X23E<br><img style="" src="https://pbs.twimg.com/media/Fph
 
 ### 21: [2023-02-24 09:21:17+08:00 推文](https://twitter.com/realcaixia/status/1628928016884846596)
 
-中共把中国民间研究ChatGPT的几位年轻科学家抓进了无锡看守所，发文不允许在中国运用ChatGPT。因为ChatGPT搜集网上所有相关资料，搞不好就把外面的言论观点思想传给墙里人了。这样拒斥现代科学创新、拒斥现代文明，真像晚期满清朝廷。如此，中共国还想与发达国家特别是美国，竞争高科技创新能力吗？<div class="rsshub-quote"><br><br>陈小平: 与中国有关芯片盗窃案最近很多：最新是南韩三星电子7名前员工被判刑，此前，阿斯麦证实中国雇员盗窃，此外，还有台湾出生的美国华人教授石怡驰非法出口军用芯片入狱63个月，美国华人何朝辉因试图从美国加州向中国走私抗辐射微芯片判入狱三年。<br><br>为了搞到芯片，有关单位这些年使出了洪荒力。<br></div>
+中共把中国民间研究ChatGPT的几位年轻科学家抓进了无锡看守所，发文不允许在中国运用ChatGPT。因为ChatGPT搜集网上所有相关资料，搞不好就把外面的言论观点思想传给墙里人了。这样拒斥现代科学创新、拒斥现代文明，真像晚期满清朝廷。如此，中共国还想与发达国家特别是美国，竞争高科技创新能力吗？ https://twitter.com/xchen156/status/1628434801962242054<div class="rsshub-quote"><br><br>陈小平: 与中国有关芯片盗窃案最近很多：最新是南韩三星电子7名前员工被判刑，此前，阿斯麦证实中国雇员盗窃，此外，还有台湾出生的美国华人教授石怡驰非法出口军用芯片入狱63个月，美国华人何朝辉因试图从美国加州向中国走私抗辐射微芯片判入狱三年。<br><br>为了搞到芯片，有关单位这些年使出了洪荒力。<br></div>
 
 ### 22: [2023-02-24 10:47:14+08:00 推文](https://twitter.com/realcaixia/status/1628949643903262721)
 
@@ -141,7 +141,7 @@ Re @jinping12847710 @JeremyCherish 到上面这个Jeremy Cherish的推特上查�
 
 ### 32: [2023-02-24 23:24:07+08:00 推文](https://twitter.com/realcaixia/status/1629140119679631361)
 
-一针见血，直接说透问题根本。他们就怕与台湾比，一比较，中共大陆政权就立马原型毕露！台湾是民主自由文明，大陆是专制极权野蛮。“用脚投票”这一定律早就表明了人心所向，请看北京美国驻华使馆外每天排队的长龙阵势；请看2022香港民众大批离港，大量资金撤离大陆和香港。人走、钱走，习共人心尽失。 https://twitter.com/muyang909/status/1626490877139906564<div class="rsshub-quote"><br><br>mu yang: 有道理嗎？ https://t.co/V98NljpiIx<br><br><img style="" src="https://pbs.twimg.com/media/FpJ01UDXwAAY3hT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+一针见血，直接说透问题根本。他们就怕与台湾比，一比较，中共大陆政权就立马原型毕露！台湾是民主自由文明，大陆是专制极权野蛮。“用脚投票”这一定律早就表明了人心所向，请看北京美国驻华使馆外每天排队的长龙阵势；请看2022香港民众大批离港，大量资金撤离大陆和香港。人走、钱走，习共人心尽失。<div class="rsshub-quote"><br><br>mu yang: 有道理嗎？ https://t.co/V98NljpiIx<br><br><img style="" src="https://pbs.twimg.com/media/FpJ01UDXwAAY3hT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 33: [2023-02-25 02:14:23+08:00 推文](https://twitter.com/realcaixia/status/1629182968089436163)
 
@@ -177,7 +177,7 @@ Re @GanchengW 我去北朝鲜一周，又去韩国一周，还到了三八线最
 
 ### 41: [2023-02-26 04:38:20+08:00 推文](https://twitter.com/realcaixia/status/1629581584876675074)
 
-曾经大名鼎鼎的大企业现在都倒闭了！大企业如此，中小微企业更是可想而知了。那些不顾事实，依旧谎言夹着吹牛的粉红五毛中共网军黑幽灵，多么无耻、蠢恶。看看这些视频吧！我相信越来越多的粉红五毛自己的日子也每况愈下，除非你们把无耻蠢恶下三滥➕野蛮上推特、充当习帝国的网络暴力打手职业化！<div class="rsshub-quote"><br><br>反对独裁专治政权: 比亞迪廢了首家汕尾工廠倒閉2萬人失業，廣州LG工廠緊急撤離中國3萬人無工可打，聯想倒閉破產2萬人失業。 https://t.co/6vaG5wQunv<br><br><video src="https://video.twimg.com/ext_tw_video/1629524877345718272/pu/vid/856x480/xsVYbvn2xrIDsFrp.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1629524877345718272/pu/img/ycNF9Ibwbm7Fosw8.jpg"></video></div>
+曾经大名鼎鼎的大企业现在都倒闭了！大企业如此，中小微企业更是可想而知了。那些不顾事实，依旧谎言夹着吹牛的粉红五毛中共网军黑幽灵，多么无耻、蠢恶。看看这些视频吧！我相信越来越多的粉红五毛自己的日子也每况愈下，除非你们把无耻蠢恶下三滥➕野蛮上推特、充当习帝国的网络暴力打手职业化！ https://twitter.com/ffl0071/status/1629528093651238912<div class="rsshub-quote"><br><br>反对独裁专治政权: 比亞迪廢了首家汕尾工廠倒閉2萬人失業，廣州LG工廠緊急撤離中國3萬人無工可打，聯想倒閉破產2萬人失業。 https://t.co/6vaG5wQunv<br><br><video src="https://video.twimg.com/ext_tw_video/1629524877345718272/pu/vid/856x480/xsVYbvn2xrIDsFrp.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1629524877345718272/pu/img/ycNF9Ibwbm7Fosw8.jpg"></video></div>
 
 ### 42: [2023-02-26 10:45:29+08:00 推文](https://twitter.com/realcaixia/status/1629673978943148032)
 
