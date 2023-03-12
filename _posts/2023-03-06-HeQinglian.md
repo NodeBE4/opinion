@@ -377,7 +377,7 @@ Re @Wu_Zhi 最大的成就是将美国冷战结束之后，历届总统都奉行
 
 ### 91: [2023-03-11 11:01:39+08:00 推文](https://twitter.com/JianglinLi/status/1634389092266831872)
 
-RT 李江琳<br>老妖婆的“1月6日调查委员会”竟然根本没看那些录像！这不是赤裸裸的政治迫害嘛！😡😡😡 https://twitter.com/TomFitton/status/1634355413905727488<div class="rsshub-quote"><br><br>Tom Fitton: WHAT?! Top Democrat On Pelosi rump J6 Committee: We Actually Didn’t Review Any Of The Surveillance Video https://thefederalist.com/2023/03/09/top-democrat-on-j6-committee-we-actually-didnt-review-any-of-the-surveillance-video/<br></div>
+RT 李江琳<br>老妖婆的“1月6日调查委员会”竟然根本没看那些录像！这不是赤裸裸的政治迫害嘛！😡😡😡<div class="rsshub-quote"><br><br>Tom Fitton: WHAT?! Top Democrat On Pelosi rump J6 Committee: We Actually Didn’t Review Any Of The Surveillance Video https://thefederalist.com/2023/03/09/top-democrat-on-j6-committee-we-actually-didnt-review-any-of-the-surveillance-video/<br></div>
 
 ### 92: [2023-03-11 11:56:01+08:00 推文](https://twitter.com/JianglinLi/status/1634402773767782400)
 
@@ -550,4 +550,40 @@ Re @Elizabe47883246 这事儿分两说。<br>中国赴德投资，多是国企�
 ### 134: [2023-03-12 09:29:34+08:00 推文](https://twitter.com/HeQinglian/status/1634728303864029184)
 
 Re @juzijianbing 不行啊，那时布局都没开始，不就是福特基金会与索罗斯基金会进去了么？总得有工具做杠杆吧？
+
+### 135: [2023-03-12 10:33:39+08:00 推文](https://twitter.com/HeQinglian/status/1634744432011407361)
+
+Re @eGUAbe2V7j26GHw 话说，绿色能源不就是美欧构建一种子虚乌有的资源，要全世界为之买单？<br>去年这战争有个没想到的结果，迫使德国“洗绿”（Green Washing），将原来划为非清洁能源的煤炭、核能、木柴全都再度纳入绿能，从此中国也基本是绿能了——不能说德国用的是民主煤炭，是绿能；中国用的是专制煤炭，是非绿能。
+
+### 136: [2023-03-12 10:35:31+08:00 推文](https://twitter.com/HeQinglian/status/1634744901974761472)
+
+Re @eGUAbe2V7j26GHw @renfanzi 过几天消息会放尽，我查查。
+
+### 137: [2023-03-12 10:38:10+08:00 推文](https://twitter.com/HeQinglian/status/1634745567761907713)
+
+Re @cLb0SW7bwSU6y6p 啊？我说了“如果”，是假设，还没说呢。不过，如果膨胀下去，说如果中国给俄提供武器，后果很严重——经济制裁就包括这，说不定就带出来了。<br>这叫食髓知味，反正已经没收过一国的了，多个国家也无所谓。
+
+### 138: [2023-03-12 10:40:55+08:00 推文](https://twitter.com/HeQinglian/status/1634746262896484352)
+
+Re @shenliangqing2 这房子看起来清爽。<br>我很喜欢江南的马头墙、青瓦白墙。
+
+### 139: [2023-03-12 10:45:53+08:00 推文](https://twitter.com/HeQinglian/status/1634747510404120576)
+
+Re @_xiaohan 费城挺奇葩，一出版社出版了一本社会主义数学教材，前言说数学是种族主义工具；一女作家出版一本抢劫有理论。我都介绍过。<br>前一本只见过书讯，在别处见过说1+1≠，可以等于3、4与任意一个数字。后一本当时美媒疯捧，说是将被剥夺的财富抢回来，颇有马克思的“剥夺剥夺者”风范。
+
+### 140: [2023-03-12 10:49:58+08:00 推文](https://twitter.com/HeQinglian/status/1634748540927762432)
+
+Re @dinglili7 愿他们的队伍以每年占人口1%的速度扩大。愿民主党一半都成阉人，成为阉党。<br>如果要后悔变性博同情，先得忏悔自己曾经父母、家人、社会带来负面影响。
+
+### 141: [2023-03-12 10:57:20+08:00 推文](https://twitter.com/HeQinglian/status/1634750394050936832)
+
+Re @eGUAbe2V7j26GHw 这是人家的心头之痛，因无人买单，所以另起名目成立了气候补偿新基金。<br>原来想的是：俄罗斯、澳大利亚是资源出口大国，交一笔；中国、巴西、印度是资源消耗大国，交一笔，不就什么都有了。<br>如今俄罗斯掀翻了桌子，澳大利亚又那么进步，暂且算了。中国是风电太阳能板出口大国，不敢掀桌子，那就叫牌了。
+
+### 142: [2023-03-12 11:10:17+08:00 推文](https://twitter.com/HeQinglian/status/1634753652224151553)
+
+Re @eGUAbe2V7j26GHw 话说这事儿，原来还是以民主、专制阵营来划分，免收印度、巴西等国的碳税，孤立中国，不交就不带中国玩儿，也许好办些。<br>但开弓没有回头箭，如今再改口不好办。好比北溪管道，一开头就40个国家几大语种齐上阵，说是俄罗斯炸的，如今就成了定局，也不至于委屈乌克兰。<br>这世界，越来越好玩。
+
+### 143: [2023-03-12 11:16:07+08:00 推文](https://twitter.com/HeQinglian/status/1634755118678646785)
+
+美国地缘战略的十字路口：“中国威胁”VS“和平崛起” https://www.upmedia.mg/news_info.php?Type=2&amp;SerialNo=167620<br>美国两大地缘战略大师米塞斯·海默与布热津斯基分属屠龙派（中国威胁论）与拥抱熊猫派。在联中联俄上，两人各胜一场、负一场。米氏胜在对中国的判断，输在对俄的判断。布氏胜在欧亚大棋局的设置与判断，输在对中国的预期。
 
