@@ -23,3 +23,7 @@ https://youtu.be/tccypSKLryU
 
 Re @a4_dao @qiaoxinxin88 我同意这位网友的意见。
 
+### 3: [2023-03-13 03:41:17+08:00 推文](https://twitter.com/realcaixia/status/1635003044655173634)
+
+我同意这位推友的意见，希望更多的人共同合作，一起努力。 https://twitter.com/a4_dao/status/1634974285491224576<div class="rsshub-quote"><br><br>A4DAO: 说“拆墙”是当前民运中最高优先级的发力点不为过，因为1.直接关系言论自由。2.可以秒级取证。而汤伟雄又让大家看到了“联署”这一有力武器，希望民运的领袖级人物都来关注 #拆墙行动  #EndGFW，贡献智力和其它资源。<br>https://chng.it/NyPKTcdr<br></div>
+
