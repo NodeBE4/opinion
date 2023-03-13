@@ -53,3 +53,7 @@ What's interesting is that this reputation has persisted. At present, around 70%
 
 To be fair, it's because there's a maximum of one treaty port per province, and Portugal already has Macau. What's really bizarre is that the city of Ili is not in the province of Ili.
 
+----- __1140.2__ -----2023-03-13 16:00:03+08:00:
+
+It's because what the game calls Treaty Ports and what Treaty ports *actually* were are just not even remotely close to the same, and there is no way of fixing that without fundamentally reworking the system.
+
