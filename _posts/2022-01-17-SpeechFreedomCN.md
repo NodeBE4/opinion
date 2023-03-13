@@ -17,7 +17,7 @@ title: 'Twitter @中国文字狱事件盘点: 2022-01-17~2022-01-23'
 
 ### 1: [2022-01-17 21:28:26+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1483068699603091459)
 
-山西太原媒体人胡新成，因长期帮助访民和推行全民免费医疗（通过网络呼吁和收集签名提交请愿等方式），于去年12月失联。近日其律师通过其家人确认其已被捕，罪名为宣扬恐怖主义罪。<br><img style="" src="https://pbs.twimg.com/media/FJTqd0UXoAYfKQb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FJTqgQfWUAkzEZu?format=png&amp;name=orig" referrerpolicy="no-referrer">
+山西太原媒体人胡新成，因长期帮助访民和推行全民免费医疗（通过网络呼吁和收集签名提交请愿等方式），于去年12月失联。近日其律师通过其家人确认其已被捕，罪名为宣扬恐怖主义罪。<br><img style="" src="https://pbs.twimg.com/media/FJTqd0UXoAYfKQb?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FJTqgQfWUAkzEZu?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2022-01-17 21:32:54+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1483069823315845120)
 
@@ -29,11 +29,11 @@ Re 人权律师谢阳，自上月到湖南永顺县声援被精神病的李田�
 
 ### 4: [2022-01-18 21:08:46+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1483426136684126216)
 
-Re Human rights lawyer Xie Yang (@xieyang911), who was found guilty of inciting subversion of state regime in 2017, arrested again recently on the same charge, shortly after he publicly protested against the government amid teacher Li Tiantian being locked up in a mental asylum.<br><img style="" src="https://pbs.twimg.com/media/FJYvXA3XIAMoJVp?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FJYvZEqXwAQHhJX?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FJYv1GcXsAQkDLi?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re Human rights lawyer Xie Yang (@xieyang911), who was found guilty of inciting subversion of state regime in 2017, arrested again recently on the same charge, shortly after he publicly protested against the government amid teacher Li Tiantian being locked up in a mental asylum.<br><img style="" src="https://pbs.twimg.com/media/FJYvXA3XIAMoJVp?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FJYvZEqXwAQHhJX?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FJYv1GcXsAQkDLi?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2022-01-19 20:02:04+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1483771738039197698)
 
-陕西咸阳男子李某，因在微信群内散布“谣言”称“打完疫苗不能立刻做核酸，否则就是阳性”，被当地警方罚款500元，警方称其“谣言”严重影响了疫苗接种工作。然而，广东疾控发布消息称，打完疫苗立刻做核酸确实可能导致检测出假阳性。事件引发议论后，咸阳警方已经删除了该案件通告，不确定是否已撤销处罚。<br><img style src="https://pbs.twimg.com/media/FJdpigXWYAML7SS?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FJdpoXuWQAQVGKl?format=jpg&name=orig" referrerpolicy="no-referrer">
+陕西咸阳男子李某，因在微信群内散布“谣言”称“打完疫苗不能立刻做核酸，否则就是阳性”，被当地警方罚款500元，警方称其“谣言”严重影响了疫苗接种工作。然而，广东疾控发布消息称，打完疫苗立刻做核酸确实可能导致检测出假阳性。事件引发议论后，咸阳警方已经删除了该案件通告，不确定是否已撤销处罚。<br><img style="" src="https://pbs.twimg.com/media/FJdpigXWYAML7SS?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FJdpoXuWQAQVGKl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2022-01-19 20:05:52+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1483772694034370562)
 

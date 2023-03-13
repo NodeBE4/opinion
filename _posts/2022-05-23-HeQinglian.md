@@ -281,7 +281,7 @@ Re 中国对拜登此番发言很生气，又不能认真。人家美国会说�
 
 ### 67: [2022-05-25 21:54:50+08:00 推文](https://twitter.com/HeQinglian/status/1529460988411527168)
 
-索罗斯应该将“我们的文明”外延说清楚。<br>索罗斯的文明就是LGBTQI+大麻（包括毒品）+BLM（Antifa）+移民无疆界（人口大置换）+绿色+疫苗护照+社会主义+取消文化。<br>这文明，留给索罗斯家族与极左派好好享受。美国正常人群不需要。
+索罗斯应该将“我们的文明”外延说清楚。<br>索罗斯的文明就是LGBTQI+大麻（包括毒品）+BLM（Antifa）+移民无疆界（人口大置换）+绿色+疫苗护照+社会主义+取消文化。<br>这文明，留给索罗斯家族与极左派好好享受。美国正常人群不需要。<br><br>jiang shangrong: ‼️‼️索罗斯‼️‼️<br><br>乔治·索罗斯在世界经济论坛的晚宴上在一篇论文中呼吁“击败普京以拯救我们的文明”<br><br>“我们的文明可能无法在这场（全球军事冲突）中幸存下来。保持它的最好，也许是唯一的方法就是尽快击败普京。”<br><br>‼️终于看懂普京在和谁作战了！<br><br><img style="" src="https://pbs.twimg.com/media/FTldD40WYAA5HMw?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://t.me/JShangrong" target="_blank" rel="noopener noreferrer">https://t.me/JShangrong</a>
 
 ### 68: [2022-05-25 22:33:29+08:00 推文](https://twitter.com/HeQinglian/status/1529470716026015745)
 

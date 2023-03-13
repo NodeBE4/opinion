@@ -119,6 +119,28 @@ This is a big problem with prescription drugs.
 
 Yes, including mods.  Or former mods, as in this case.
 
+----- __484.11__ -----2023-03-13 14:24:26+08:00:
+
+The update is primarily addressed at the people whose comments were removed, which is worthwhile and I'm glad you linked it.  
+
+According to the update: 
+
+> It would be accurate to say that the review examined whether interventions to promote mask wearing help to slow the spread of respiratory viruses, and that the results were inconclusive. Given the limitations in the primary evidence, the review is not able to address the question of whether mask-wearing itself reduces people's risk of contracting or spreading respiratory viruses. 
+
+Such a finding would require *clear* trends in the data.  But clear trends are not found in the data related to all of the mask research, which is why the results were "inconclusive."  In plain english, inconclusive results mean  that *neither surgical masks nor N95 masks have been shown* to make a difference in reducing the spread of Covid-19 and other respiratory illnesses.
+
+Many people do not understand what a Cochrane Review is.  And above all, what a Cochrane Review is *not*.   
+
+When scientists want to know something, they either do their own test or look at tests other scientists did before. Scientific research is when scientists do their own study to answer a specific question. It's like when you do an experiment in science class to see what happens when you mix different chemicals.
+
+Meta-analysis is a bit different. It's when researchers take information from many different studies and put it all together to get a bigger picture. It's like if you wanted to know which school had the best sports team, instead of just looking at one game, you would look at all the games they played throughout the whole season to get a better idea.
+
+A Cochrane Review is a type of meta-analysis. A Cochrane Review *is not* a type of publication that reports the results of first-hand research (research conducted by the authors themselves).  A Cochrane Review is, as the name suggests, a *review* of the research that is published.
+
+The key problem with most of the comments here is simple: they incorrectly concluded that this was just another piece of research that could be weighed on equal grounds, with every other preprint that ostensibly found either surgical masks or N95 masks made some kind of a measurable difference in reducing the spread of COVID-19 (or other respiratory illnesses.  
+
+But that is not the case, either.  Science does not begin from the presumption that something is true, when there is no evidence for it (as the review plainly states).  The vacuous claims of public officials who should know better are no substitute for evidence, even if they may deceive a terrified and gullible public.
+
 ### 485: [No tops are allowed in the fitting room](https://old.reddit.com/r/SuddenlyGay/comments/11dkawl/no_tops_are_allowed_in_the_fitting_room/), submitted on 2023-02-28 03:23:05+08:00.
 
 ----- __485.1__ -----2023-02-28 13:36:56+08:00:

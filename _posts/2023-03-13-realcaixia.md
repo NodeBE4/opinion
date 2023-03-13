@@ -51,3 +51,15 @@ Re LT视界今天说的最后一个问题，猛一听出乎意料，他一解释
 
 Re 也确有人被提拔习接见后，出来私下对人说“那一刻，恨不得跪下来磕头的心都有。”
 
+### 10: [2023-03-13 11:07:13+08:00 推文](https://twitter.com/realcaixia/status/1635115266979004425)
+
+又是一期十分精彩的访谈。 https://twitter.com/liyuan6/status/1634849836624400386<div class="rsshub-quote"><br><br>Li Yuan: 有力量的艺术和表达是要有态度的，在一个不允许批判、讽刺、戏谑的国家，想自由表达的艺术家或者沉默，或者被迫害，或者只有离开。<br>非常感谢 @hehuangcomedy @badiucao @geleilaoshi 做客不明白播客，分享他们在墙国之外的遭遇和感受。 https://twitter.com/bumingbaipod/status/1634822015063412736<br></div>
+
+### 11: [2023-03-13 12:22:24+08:00 推文](https://twitter.com/realcaixia/status/1635134189048832001)
+
+习皇登基，这个经典视频必须重温！有多少明智的人通过他14年前的讲话，看穿了包子里的腊肉馅！ - YouTube https://m.youtube.com/shorts/1SWnHQ7UHJc
+
+### 12: [2023-03-13 13:13:52+08:00 推文](https://twitter.com/realcaixia/status/1635147141265096704)
+
+Re @yebingvoa 哀悼老先生！
+
