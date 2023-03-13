@@ -37,7 +37,7 @@ Re @DZhe1984 @Isabel_3299 左派一向玩名实脱离伎俩，当一个名词好
 
 ### 6: [2023-03-13 03:46:28+08:00 推文](https://twitter.com/HeQinglian/status/1635004348504887296)
 
-就我而言，是支持川普的政治主张与相关政策，以及这种主张与政策对传统生活方式的守护。挺拜的人也同样如此，是支持拜登政治主张与政策对美国传统生活方式的颠覆。<br>我相信多数挺川的都如此。<br>你的留言证明你的水平。 https://twitter.com/akakak474747/status/1634986969536270338<div class="rsshub-quote"><br><br>老枪: @HeQinglian 挺拜的都认为拜是有缺陷的，挺川的都认为川是完美的。<br></div>
+就我而言，是支持川普的政治主张与相关政策，以及这种主张与政策对传统生活方式的守护。挺拜的人也同样如此，是支持拜登政治主张与政策对美国传统生活方式的颠覆。<br>我相信多数挺川的都如此。<br>你的留言证明你的水平。<div class="rsshub-quote"><br><br>老枪: @HeQinglian 挺拜的都认为拜是有缺陷的，挺川的都认为川是完美的。<br></div>
 
 ### 7: [2023-03-13 03:50:15+08:00 推文](https://twitter.com/HeQinglian/status/1635005299668160512)
 
@@ -98,4 +98,44 @@ Re @zhixiangziyou @mingshi_chen 那是后来出现的一种解释。
 ### 21: [2023-03-13 10:00:40+08:00 推文](https://twitter.com/HeQinglian/status/1635098519597109249)
 
 Re @W1Keah 你真是见识少了，推上就有不少，我不点名了。<br>有说拜登是伟大总统的，还有连带赞他夫人如何了不得，有个博士学位的；更有赞美他有教养的。
+
+### 22: [2023-03-13 10:09:34+08:00 推文](https://twitter.com/HeQinglian/status/1635100760987025409)
+
+Re @dinglili7 “泽连斯基为了提高自己的评级并增加金融资本”，这话用投行业话语说，不那么刺耳。<br>如果用大白话，那就是：“为了提高个人的国际声望并增加私人资产”——法国漫画界被查理周刊事件折腾苦了，学会曲里拐弯说话了。<br>泽粉们应该去包围动画网站抗议。😅
+
+### 23: [2023-03-13 10:12:35+08:00 推文](https://twitter.com/HeQinglian/status/1635101518419628032)
+
+Re @zhixiangziyou @mingshi_chen 既然是得白化病，那就让黄左也白化，不，黑化吧。你消息多，找个合用的法子，要不真让人担心他们哪天将自己的支人黄皮肤撕下来，你的惊叹号不够用了。
+
+### 24: [2023-03-13 10:24:03+08:00 推文](https://twitter.com/HeQinglian/status/1635104406147571713)
+
+The National Center for Health Statistics ：<br>2021 年，美国有超过 106,000 人死于药物过量，包括非法药物和处方阿片类药物。 涉及美沙酮以外的合成阿片类药物（主要是芬太尼）的死亡人数继续上升，2021 年报告的药物过量死亡人数为 70,601 人。<br>https://nida.nih.gov/research-topics/trends-statistics/overdose-death-rates
+
+### 25: [2023-03-13 10:26:30+08:00 推文](https://twitter.com/HeQinglian/status/1635105021837860865)
+
+Re @zhixiangziyou @mingshi_chen 那是2020年波洛希身披非洲黑人的“沙丽”（不知叫啥名），率领全体左派民主党议员在国会下跪，以及BLM零元购不受惩罚的社会效应。
+
+### 26: [2023-03-13 10:27:24+08:00 推文](https://twitter.com/HeQinglian/status/1635105249437585413)
+
+Re @zhixiangziyou @mingshi_chen 那好办，涂点鞋油就行。
+
+### 27: [2023-03-13 10:34:03+08:00 推文](https://twitter.com/HeQinglian/status/1635106919219367936)
+
+Re @zhixiangziyou 本来想同情一下一心向往社会主义的英国人（据说35岁以下有60%以上），但突然想起美国现状，觉得很快也要让别人同情了，因此，我决定先同情我自己。<br>今天看了大量关于大麻死亡、危害的报告。
+
+### 28: [2023-03-13 10:36:10+08:00 推文](https://twitter.com/HeQinglian/status/1635107452902572032)
+
+Re @PaulRVLife 想起了曾经神话般存在的美军，军队也在忙Woke。
+
+### 29: [2023-03-13 10:38:43+08:00 推文](https://twitter.com/HeQinglian/status/1635108095167975424)
+
+Re @Isabel_3299 这还要你来说啊，岂不闻“少不入川”之说。
+
+### 30: [2023-03-13 10:40:28+08:00 推文](https://twitter.com/HeQinglian/status/1635108535918026755)
+
+Re @wang_xh @dinglili7 台湾的事情，由台湾人民决定，总统由他们选。
+
+### 31: [2023-03-13 11:25:28+08:00 推文](https://twitter.com/HeQinglian/status/1635119859758694401)
+
+Re @KELMAND1 一直担心（或盼望）金融风险这只“灰犀牛”将中国踩得稀巴烂，结果美国的先来了。
 
