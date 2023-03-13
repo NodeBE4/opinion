@@ -17,7 +17,7 @@ The CMP is an independent research project studying the Chinese media landscape 
 
 ### 1: [2021-12-20 06:13:17+08:00 推文](https://twitter.com/lingli_vienna/status/1472691531605811202)
 
-RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>8 knowledge points that one shall make when teaching in China to shield oneself from being reported to the authority by students:<br><img style="" src="https://pbs.twimg.com/media/FHANIm9XsAkQ8or?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>8 knowledge points that one shall make when teaching in China to shield oneself from being reported to the authority by students:<br><img style src="https://pbs.twimg.com/media/FHANIm9XsAkQ8or?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2021-12-20 12:15:49+08:00 推文](https://twitter.com/cnmediaproject/status/1472782768145047556)
 
@@ -37,7 +37,7 @@ Updated content restrictions for short video platforms released last week add a 
 
 ### 6: [2021-12-20 16:12:13+08:00 推文](https://twitter.com/yangfulei/status/1472842260513447938)
 
-RT Fredrik Fällman 杨富雷<br>Absurd, but fascinating for studying propaganda language.<br><br>China Media Project: Updated content restrictions for short video platforms released last week add a few familiar new political priorities to the 2019 list -- including respect for the CCP's new resolution on history and Xi Jinping's claim on the soul of 21st century Marxism.<br><br><img style src="https://pbs.twimg.com/media/FHCF6rdaAAAVn0q?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://chinamediaproject.org/2021/12/20/a-short-take-on-chinas-short-video-rules/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/20/a-short-take-on-chinas-short-video-rules/</a>
+RT Fredrik Fällman 杨富雷<br>Absurd, but fascinating for studying propaganda language.<br><br>China Media Project: Updated content restrictions for short video platforms released last week add a few familiar new political priorities to the 2019 list -- including respect for the CCP's new resolution on history and Xi Jinping's claim on the soul of 21st century Marxism.<br><br><img style="" src="https://pbs.twimg.com/media/FHCF6rdaAAAVn0q?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://chinamediaproject.org/2021/12/20/a-short-take-on-chinas-short-video-rules/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/20/a-short-take-on-chinas-short-video-rules/</a>
 
 ### 7: [2021-12-20 16:58:16+08:00 推文](https://twitter.com/ZichenWanghere/status/1472853847999926273)
 
@@ -49,7 +49,7 @@ RT Muyi Xiao<br>We found documents where Chinese police lay out their efforts 
 
 ### 9: [2021-12-20 22:42:27+08:00 推文](https://twitter.com/cnmediaproject/status/1472940467180679169)
 
-Updated content restrictions for short video platforms in China add a few political priorities to the old 2019 list -- including respect for the CCP's new resolution on history and not criticizing Xi Jinping's claim on the soul of 21st century Marxism. <a href="https://bit.ly/3qcEk5R" target="_blank" rel="noopener noreferrer">https://bit.ly/3qcEk5R</a><br><img style src="https://pbs.twimg.com/media/FHDvizfaAAMHbys?format=jpg&name=orig" referrerpolicy="no-referrer">
+Updated content restrictions for short video platforms in China add a few political priorities to the old 2019 list -- including respect for the CCP's new resolution on history and not criticizing Xi Jinping's claim on the soul of 21st century Marxism. <a href="https://bit.ly/3qcEk5R" target="_blank" rel="noopener noreferrer">https://bit.ly/3qcEk5R</a><br><img style="" src="https://pbs.twimg.com/media/FHDvizfaAAMHbys?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 10: [2021-12-20 22:43:54+08:00 推文](https://twitter.com/cnmediaproject/status/1472940829346271233)
 
@@ -65,7 +65,7 @@ RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Everyone needs to learn Party history.<br><br>
 
 ### 13: [2021-12-21 08:26:57+08:00 推文](https://twitter.com/cnmediaproject/status/1473087558108463106)
 
-Re @mikeygow @lingli_vienna And of course there's that dumpling shop.<br><img style="" src="https://pbs.twimg.com/media/FHF1TSqaAAEi6ES?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re @mikeygow @lingli_vienna And of course there's that dumpling shop.<br><img style src="https://pbs.twimg.com/media/FHF1TSqaAAEi6ES?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 14: [2021-12-21 12:16:51+08:00 推文](https://twitter.com/adriennecarter/status/1473145414308483074)
 
@@ -85,7 +85,7 @@ RT Bill Bishop<br>Shen haixiong, vice minister of propaganda and head of CMG, 
 
 ### 18: [2021-12-25 16:36:20+08:00 推文](https://twitter.com/yangliuxh/status/1474660269221502982)
 
-RT Yang Liu<br>Ma Xingrui replaces Chen Quanguo as Xinjiang chief<br><img style src="https://pbs.twimg.com/media/FHcLsdeVIAYQZpT?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Yang Liu<br>Ma Xingrui replaces Chen Quanguo as Xinjiang chief<br><img style="" src="https://pbs.twimg.com/media/FHcLsdeVIAYQZpT?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 19: [2021-12-26 20:19:00+08:00 推文](https://twitter.com/PM_Thornton/status/1475078690933460994)
 
