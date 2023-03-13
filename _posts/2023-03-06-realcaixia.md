@@ -37,7 +37,7 @@ Re @XIAOMIEHM 曾经有一本书《为什么美国没有社会主义？》1995�
 
 ### 6: [2023-03-06 11:33:51+08:00 推文](https://twitter.com/realcaixia/status/1632585253507452930)
 
-海外华人许多人不知道这个被习欣赏、在一次全国文艺工作座谈会上，习点名发言的周小平何许人也？何以有“臭咸带鱼”这个绰号？我查了一下维基百科，给推友们提供些资料。<div class="rsshub-quote"><br><br>荣剑: 这时代如他所愿，臭咸带鱼翻身了！ https://t.co/1UxwASuckm<br><br><img style="" src="https://pbs.twimg.com/media/Fqfc14bWIAE_DIA?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+海外华人许多人不知道这个被习欣赏、在一次全国文艺工作座谈会上，习点名发言的周小平何许人也？何以有“臭咸带鱼”这个绰号？我查了一下维基百科，给推友们提供些资料。 https://twitter.com/rongjian1957/status/1632516295613710336<div class="rsshub-quote"><br><br>荣剑: 这时代如他所愿，臭咸带鱼翻身了！ https://t.co/1UxwASuckm<br><br><img style="" src="https://pbs.twimg.com/media/Fqfc14bWIAE_DIA?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 7: [2023-03-06 11:35:28+08:00 推文](https://twitter.com/realcaixia/status/1632585660799545345)
 
@@ -81,11 +81,11 @@ Re LT視界的分析我基本認同。另有一疑問是：如果習黨國真的
 
 ### 17: [2023-03-07 09:59:52+08:00 推文](https://twitter.com/realcaixia/status/1632923991857037312)
 
-高手在民間！👍<div class="rsshub-quote"><br><br>墻國荒誕字: @realcaixia 李中堂说“人在干，天在看！”又惹皇帝生气了…<br>https://twitter.com/xingzhe2021/status/1632826140896141313?t=hEqitvJLPIrS847a6mFxVw&amp;s=19<br></div>
+高手在民間！👍 https://twitter.com/xingzhe2021/status/1632916954792054785<div class="rsshub-quote"><br><br>墻國荒誕字: @realcaixia 李中堂说“人在干，天在看！”又惹皇帝生气了…<br>https://twitter.com/xingzhe2021/status/1632826140896141313?t=hEqitvJLPIrS847a6mFxVw&amp;s=19<br></div>
 
 ### 18: [2023-03-08 00:59:30+08:00 推文](https://twitter.com/realcaixia/status/1633150391469899776)
 
-特務國家，1984老大哥國家。<br>在習黨國生活的所有人，都沒有人格尊嚴。在大數據監控探頭下，每個人的外表都是裸體動物；在大數據語音監控下，每個人都可能言不由衷。說話的人，要麼臣服於奴隸身份；要麼臣服於奴才地位；要挺身做自由人的，要麼在監獄要麼成啞巴。 https://twitter.com/GanchengW/status/1632937853033299968<div class="rsshub-quote"><br><br>Gancheng Wang: 比尔·盖兹有没有责任帮助中国人民打破防火墙？… https://twitter.com/i/web/status/1632937853033299968 https://t.co/vHsoBEXKqO<br><br><img style="" src="https://pbs.twimg.com/media/FqlbseTWcAEpnxH?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FqlbseUWYAIvuFO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FqlbseXWAAELsUt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+特務國家，1984老大哥國家。<br>在習黨國生活的所有人，都沒有人格尊嚴。在大數據監控探頭下，每個人的外表都是裸體動物；在大數據語音監控下，每個人都可能言不由衷。說話的人，要麼臣服於奴隸身份；要麼臣服於奴才地位；要挺身做自由人的，要麼在監獄要麼成啞巴。 https://twitter.com/ganchengw/status/1632937853033299968<div class="rsshub-quote"><br><br>Gancheng Wang: 比尔·盖兹有没有责任帮助中国人民打破防火墙？… https://twitter.com/i/web/status/1632937853033299968 https://t.co/vHsoBEXKqO<br><br><img style="" src="https://pbs.twimg.com/media/FqlbseTWcAEpnxH?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FqlbseUWYAIvuFO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FqlbseXWAAELsUt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 19: [2023-03-08 01:30:20+08:00 推文](https://twitter.com/realcaixia/status/1633158151347527682)
 
@@ -97,11 +97,11 @@ Re @wuzuolai 習構建宏大理論理論體系，「中國模式」「人類命�
 
 ### 21: [2023-03-08 03:33:13+08:00 推文](https://twitter.com/realcaixia/status/1633189077754482689)
 
-特推轉：請耐心阅读。<div class="rsshub-quote"><br><br>Luo Shengchun丁家喜律师妻子: https://t.co/0pr9Snuj27<br><br><img style="" src="https://pbs.twimg.com/media/Fqlb5BxXgAUbUEG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fqlb5BxXwAIPDIl?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fqlb5BxXoAIjoDD?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fqlb5ByXgAMhEyg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+特推轉：請耐心阅读。 https://twitter.com/luoshch/status/1632937380863770631<div class="rsshub-quote"><br><br>Luo Shengchun丁家喜律师妻子: https://t.co/0pr9Snuj27<br><br><img style="" src="https://pbs.twimg.com/media/Fqlb5BxXgAUbUEG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fqlb5BxXwAIPDIl?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fqlb5BxXoAIjoDD?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fqlb5ByXgAMhEyg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 22: [2023-03-08 07:02:13+08:00 推文](https://twitter.com/realcaixia/status/1633241672573403137)
 
-英雄永生！<br>有的人活著，其實已經死了，不過一行屍走肉而己。有的人死了，但他永遠活著！活在歷史上，活在全民族的心中！這位烏克蘭英雄活在全世界善良正直的人心中！<div class="rsshub-quote"><br><br>王小山（こやま キング）: 此刻，我点了根烟，祭奠一下英雄<br></div>
+英雄永生！<br>有的人活著，其實已經死了，不過一行屍走肉而己。有的人死了，但他永遠活著！活在歷史上，活在全民族的心中！這位烏克蘭英雄活在全世界善良正直的人心中！ https://twitter.com/wangxiaoshan/status/1633168785187418113<div class="rsshub-quote"><br><br>王小山（こやま キング）: 此刻，我点了根烟，祭奠一下英雄 https://twitter.com/henry20092021/status/1633167344334774272<br></div>
 
 ### 23: [2023-03-08 07:14:34+08:00 推文](https://twitter.com/realcaixia/status/1633244781114687489)
 
@@ -121,7 +121,7 @@ Re @wuzuolai 習構建宏大理論理論體系，「中國模式」「人類命�
 
 ### 27: [2023-03-09 06:01:40+08:00 推文](https://twitter.com/realcaixia/status/1633588820284432385)
 
-格魯吉亞人起來反抗俄羅斯的侵略和欺壓！普京必定戰敗！普京是戰爭罪犯。 https://twitter.com/zhangdong_sch/status/1633546227978518529<div class="rsshub-quote"><br><br>ZHANGDONG: “我们是欧洲！”<br>格鲁吉亚人不堪继续忍受俄罗斯欺压，决意加入欧盟。这震撼的场面让普京情何以堪。 https://twitter.com/visegrad24/status/1633483624950505473<br></div>
+格魯吉亞人起來反抗俄羅斯的侵略和欺壓！普京必定戰敗！普京是戰爭罪犯。<div class="rsshub-quote"><br><br>ZHANGDONG: “我们是欧洲！”<br>格鲁吉亚人不堪继续忍受俄罗斯欺压，决意加入欧盟。这震撼的场面让普京情何以堪。<br></div>
 
 ### 28: [2023-03-09 06:06:08+08:00 推文](https://twitter.com/realcaixia/status/1633589945356140545)
 
@@ -141,11 +141,11 @@ Re https://t.co/mziOaeOB1S<br><img style="" src="https://pbs.twimg.com/media/Fqu
 
 ### 32: [2023-03-09 06:57:26+08:00 推文](https://twitter.com/realcaixia/status/1633602856673755136)
 
-高校學生不僅知識陳舊視野狹窄，而且個人品質下滑。<br>中國科大一學生因應付學業對老師苦心教育不滿，於是幾個學生一起給老師設陷阱，結果老師被學校停課聽候處理。<br>學生學壞，是習黨國制度環境惡劣，誘導激發人性惡。中國教育完蛋、大學生完蛋了，沒了思想活力，哪來的原創性創造發明？！ https://twitter.com/dayangelcp/status/1633595817759240192<div class="rsshub-quote"><br><br>李承鹏（真正的大眼哥）: 南航老师说“你们用的手机，电脑，相机都是欧美发明的”“数学物理的成果全部来自西方，马克思主义也来自西方”这些扫盲班实话，就被学生举报并在黑板上写了“乏走狗”字样。老师已被处理。<br>现在大学洗脑太强大，以至于学生们甘当人矿。<br>所以，无论你读的是清华北大或任何985、211大学，终归是中国矿业大学。<br></div>
+高校學生不僅知識陳舊視野狹窄，而且個人品質下滑。<br>中國科大一學生因應付學業對老師苦心教育不滿，於是幾個學生一起給老師設陷阱，結果老師被學校停課聽候處理。<br>學生學壞，是習黨國制度環境惡劣，誘導激發人性惡。中國教育完蛋、大學生完蛋了，沒了思想活力，哪來的原創性創造發明？！<div class="rsshub-quote"><br><br>李承鹏（真正的大眼哥）: 南航老师说“你们用的手机，电脑，相机都是欧美发明的”“数学物理的成果全部来自西方，马克思主义也来自西方”这些扫盲班实话，就被学生举报并在黑板上写了“乏走狗”字样。老师已被处理。<br>现在大学洗脑太强大，以至于学生们甘当人矿。<br>所以，无论你读的是清华北大或任何985、211大学，终归是中国矿业大学。<br></div>
 
 ### 33: [2023-03-09 09:48:30+08:00 推文](https://twitter.com/realcaixia/status/1633645904745091072)
 
-我這個年紀的人是完整經歷過文革的，事隔半個多世紀後，文革再現，毛發動文革十年浩劫，幾百上千萬人被迫害致死，被家破人亡，中國瀕臨經濟崩潰絕境，直到毛死，才翻轉局勢；習上台已經禍害了中國人十年，後面還要禍害中國人多少年？！<div class="rsshub-quote"><br><br>赵兰健: ［乌合之众：精神洗脑 群氓效应］<br>［文革复燃：各地开始 革命运动］ https://t.co/4jaSXlpU1l<br><br><video src="https://video.twimg.com/ext_tw_video/1633555793151680516/pu/vid/368x640/irg3BOPTaio6oFmg.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1633555793151680516/pu/img/UU1-RY-o7TmMMnUU.jpg"></video></div>
+我這個年紀的人是完整經歷過文革的，事隔半個多世紀後，文革再現，毛發動文革十年浩劫，幾百上千萬人被迫害致死，被家破人亡，中國瀕臨經濟崩潰絕境，直到毛死，才翻轉局勢；習上台已經禍害了中國人十年，後面還要禍害中國人多少年？！ https://twitter.com/uyunistar/status/1633555859031687174<div class="rsshub-quote"><br><br>赵兰健: ［乌合之众：精神洗脑 群氓效应］<br>［文革复燃：各地开始 革命运动］ https://t.co/4jaSXlpU1l<br><br><video src="https://video.twimg.com/ext_tw_video/1633555793151680516/pu/vid/368x640/irg3BOPTaio6oFmg.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1633555793151680516/pu/img/UU1-RY-o7TmMMnUU.jpg"></video></div>
 
 ### 34: [2023-03-09 11:12:48+08:00 推文](https://twitter.com/realcaixia/status/1633667123607404547)
 
@@ -169,15 +169,15 @@ Re @hermitcrab1949 @liujunning 这是任志强先生公益劳动时的照片。<
 
 ### 39: [2023-03-10 07:55:50+08:00 推文](https://twitter.com/realcaixia/status/1633979940554280960)
 
-好心痛！改革开放成了记忆，年轻人正当施展才华时却成饿殍。这年轻人的父母爷爷奶奶辈，若有妻儿的话，上下几代人如何经得起这样的噩耗？<br>中国的溃败局面，直接原因是习一尊致命愚蠢决策及其疯狂战狼、极端清零等所致，根本上是中共极权制度支撑、纵容习一尊及其战狼作恶所致。劫难何时是尽头……？<div class="rsshub-quote"><br><br>Nini艾番妮🇺🇸🇭🇰ChinaNews海外华人新闻在线: #富士康  深圳富士康来了很多印度人，正在拆卸8条生产线，计划投资7亿美元移去印度。全盛时期富士康曾在中国提供150万名就业机会。昔日打工天堂东莞，已经开始有人饿死街头。产业链转移大规模失业，那六个亿月入不到千元的人，将有多少人行将陷入饥荒？ https://youtu.be/q1e_hsgzdjM 完整版来自 @YouTube https://twitter.com/i/web/status/1633936704250974208 https://t.co/RNcLZ341m9<br><br><img style="" src="https://pbs.twimg.com/media/FqzosDnaYAEIkQf?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+好心痛！改革开放成了记忆，年轻人正当施展才华时却成饿殍。这年轻人的父母爷爷奶奶辈，若有妻儿的话，上下几代人如何经得起这样的噩耗？<br>中国的溃败局面，直接原因是习一尊致命愚蠢决策及其疯狂战狼、极端清零等所致，根本上是中共极权制度支撑、纵容习一尊及其战狼作恶所致。劫难何时是尽头……？ https://twitter.com/usabelair2021/status/1633936704250974208<div class="rsshub-quote"><br><br>Nini艾番妮🇺🇸🇭🇰ChinaNews海外华人新闻在线: #富士康  深圳富士康来了很多印度人，正在拆卸8条生产线，计划投资7亿美元移去印度。全盛时期富士康曾在中国提供150万名就业机会。昔日打工天堂东莞，已经开始有人饿死街头。产业链转移大规模失业，那六个亿月入不到千元的人，将有多少人行将陷入饥荒？ https://youtu.be/q1e_hsgzdjM 完整版来自 @YouTube https://twitter.com/i/web/status/1633936704250974208 https://t.co/RNcLZ341m9<br><br><img style="" src="https://pbs.twimg.com/media/FqzosDnaYAEIkQf?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 40: [2023-03-10 09:33:00+08:00 推文](https://twitter.com/realcaixia/status/1634004394130968576)
 
-李克强是中共党内推进改革力量的代表。很多人明白只有坚持改革开放才有出路。<br>经改必须政改，政改触动中共根本利益，党内有巨大阻力竭力阻止改革。习上台后利用极权制度之恶并放大恶，清洗党内赞同和力推改革的官员，其手段极为凶狠残忍并阴毒，这种环境下李难以作为，但李坚持了底线。应赞李。 https://twitter.com/lianchaohan/status/1633997910546210818<div class="rsshub-quote"><br><br>韩连潮: 【君子斗不过小人】看到李克强凄凉退幕不禁为他感到悲哀，无论其功过，李的学识、能力、为人、操守要超过习近平不知凡几；读法律本科时，他就翻译了《法律的正当程序》，说明他憧憬过在中国建立法治社会；未来尽管他享受正国级待遇，但却要受严厉监控、无人身自由。我的感慨是：党国的官不做也罢。 https://t.co/O0NvlVcCAu<br><br><img style="" src="https://pbs.twimg.com/media/Fq0bmSNXwAAbrem?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+李克强是中共党内推进改革力量的代表。很多人明白只有坚持改革开放才有出路。<br>经改必须政改，政改触动中共根本利益，党内有巨大阻力竭力阻止改革。习上台后利用极权制度之恶并放大恶，清洗党内赞同和力推改革的官员，其手段极为凶狠残忍并阴毒，这种环境下李难以作为，但李坚持了底线。应赞李。<div class="rsshub-quote"><br><br>韩连潮: 【君子斗不过小人】看到李克强凄凉退幕不禁为他感到悲哀，无论其功过，李的学识、能力、为人、操守要超过习近平不知凡几；读法律本科时，他就翻译了《法律的正当程序》，说明他憧憬过在中国建立法治社会；未来尽管他享受正国级待遇，但却要受严厉监控、无人身自由。我的感慨是：党国的官不做也罢。 https://t.co/O0NvlVcCAu<br><br><img style="" src="https://pbs.twimg.com/media/Fq0bmSNXwAAbrem?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 41: [2023-03-10 09:38:06+08:00 推文](https://twitter.com/realcaixia/status/1634005675327229953)
 
-习党国罪孽深重！<div class="rsshub-quote"><br><br>Jane Wang 王剑虹 #FreeZhangZhan: 胡老先生安息🙏求生命的主安慰悲痛中的胡佳🙏<br>https://twitter.com/weiquanwang/status/1633857748164284423<br></div>
+习党国罪孽深重！ https://twitter.com/changchengwai/status/1633931917161578500<div class="rsshub-quote"><br><br>Jane Wang 王剑虹 #FreeZhangZhan: 胡老先生安息🙏求生命的主安慰悲痛中的胡佳🙏<br>https://twitter.com/weiquanwang/status/1633857748164284423<br></div>
 
 ### 42: [2023-03-10 10:11:14+08:00 推文](https://twitter.com/realcaixia/status/1634014016652869635)
 
@@ -189,7 +189,7 @@ Re @ANONYMITY0129 @wuzuolai 知道习2007年17大后当中央党校校长，一�
 
 ### 44: [2023-03-11 00:09:35+08:00 推文](https://twitter.com/realcaixia/status/1634224993096835072)
 
-习复辟帝制预示未来中国血雨腥风。<br>不仅是习继续肆无忌惮地清洗党内人；而且意味着习帝朝和习“党”自绝后路。<br>2010年国内自由民主学者和党内改革力量讨论“改革与革命赛跑”，呼吁推进改革。<br>而今改革早已死亡，习帝朝及习“党”未来或许只有硬着陆。中国人将陷入又一场浩劫。“兴，百姓苦，亡，百姓苦！”<div class="rsshub-quote"><br><br>韩连潮: 【登基闹剧】习近平亲自导演的复辟帝制的闹剧终于开幕了，看到他被所谓人民代表2952人全票选为元首，想到一百年前袁世凯的国民代表1993人全票通过请其称帝的闹剧。我倒希望习是袁，因为洪宪帝龙椅只坐了83天，但我担心庆丰帝或将是90年前的希特勒，不把中国人折腾死，不把世界搞乱，他不会罢手。 https://t.co/4ONpFCZ2AF<br><br><img style="" src="https://pbs.twimg.com/media/Fq2_RHJXoAEFd7y?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+习复辟帝制预示未来中国血雨腥风。<br>不仅是习继续肆无忌惮地清洗党内人；而且意味着习帝朝和习“党”自绝后路。<br>2010年国内自由民主学者和党内改革力量讨论“改革与革命赛跑”，呼吁推进改革。<br>而今改革早已死亡，习帝朝及习“党”未来或许只有硬着陆。中国人将陷入又一场浩劫。“兴，百姓苦，亡，百姓苦！” https://twitter.com/lianchaohan/status/1634172591849058306<div class="rsshub-quote"><br><br>韩连潮: 【登基闹剧】习近平亲自导演的复辟帝制的闹剧终于开幕了，看到他被所谓人民代表2952人全票选为元首，想到一百年前袁世凯的国民代表1993人全票通过请其称帝的闹剧。我倒希望习是袁，因为洪宪帝龙椅只坐了83天，但我担心庆丰帝或将是90年前的希特勒，不把中国人折腾死，不把世界搞乱，他不会罢手。 https://t.co/4ONpFCZ2AF<br><br><img style="" src="https://pbs.twimg.com/media/Fq2_RHJXoAEFd7y?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 45: [2023-03-11 03:12:27+08:00 推文](https://twitter.com/realcaixia/status/1634271011150651392)
 
@@ -197,11 +197,11 @@ Re @xchen156 你以为是宪法法律汇编。我想要么是虚标法治的空�
 
 ### 46: [2023-03-11 05:56:05+08:00 推文](https://twitter.com/realcaixia/status/1634312194660909057)
 
-这是个很好的提议！特别转发，希望有更多的網友簽名。🌹<div class="rsshub-quote"><br><br>乔鑫鑫 Xinxin Qiao: 【全球亿万人签名拆除中共互联网愚民墙的公开信】<br><br>中共每年耗费400亿元的互联网防火墙，封禁了Google等全球31万个网站，该愚民墙犯下联合国的反人类罪，经百万人签名把墙事国际化，则将全面挑战中共政权。从2023年，让我们告别三五人游击战的战术，升级到发动14亿人大反攻的战略！<br>#EndGFW #拆墙运动 https://t.co/HdO8PjfNmh<br><br><img style="" src="https://pbs.twimg.com/media/Fq3NIhhaYAUpM96?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
+这是个很好的提议！特别转发，希望有更多的網友簽名。🌹 https://twitter.com/qiaoxinxin88/status/1634190727675772929<div class="rsshub-quote"><br><br>乔鑫鑫 Xinxin Qiao: 【全球亿万人签名拆除中共互联网愚民墙的公开信】<br><br>中共每年耗费400亿元的互联网防火墙，封禁了Google等全球31万个网站，该愚民墙犯下联合国的反人类罪，经百万人签名把墙事国际化，则将全面挑战中共政权。从2023年，让我们告别三五人游击战的战术，升级到发动14亿人大反攻的战略！<br>#EndGFW #拆墙运动 https://t.co/HdO8PjfNmh<br><br><img style="" src="https://pbs.twimg.com/media/Fq3NIhhaYAUpM96?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 47: [2023-03-11 08:52:23+08:00 推文](https://twitter.com/realcaixia/status/1634356560800677888)
 
-推薦這個線上會議實況音頻節目。華人新移民的心理健康確實是個很現實的問題，是很多人都會遇到的。開這樣的會是很好的開頭，這可能需要更多的長時間的努力。 https://twitter.com/liqunchen/status/1634007678119821312<div class="rsshub-quote"><br><br>liqun chen（陈立群）: https://twitter.com/i/spaces/1BRKjZWndLLKw<br></div>
+推薦這個線上會議實況音頻節目。華人新移民的心理健康確實是個很現實的問題，是很多人都會遇到的。開這樣的會是很好的開頭，這可能需要更多的長時間的努力。<div class="rsshub-quote"><br><br>liqun chen（陈立群）: https://twitter.com/i/spaces/1BRKjZWndLLKw<br></div>
 
 ### 48: [2023-03-11 09:42:18+08:00 推文](https://twitter.com/realcaixia/status/1634369120509771778)
 
@@ -209,11 +209,11 @@ Re @xchen156 你以为是宪法法律汇编。我想要么是虚标法治的空�
 
 ### 49: [2023-03-11 11:32:03+08:00 推文](https://twitter.com/realcaixia/status/1634396742610489344)
 
-爭取先請中文網站刊登支持，同時再尋找英文網站等發布。<div class="rsshub-quote"><br><br>乔鑫鑫 Xinxin Qiao: 【拆墙运动请愿页面被Change网站删了】<br><br>我前两天就预感到有可能会出现这风险，毕竟一个普通的商业公司平台，不愿去背负巨大的派系纠纷和政治压力。但拆墙的事肯定不能停，还有什么替代性方案么？波罗的海3个小国，1989年曾动员了200万人手拉手结成675公里人链抗议苏联非法入侵 。<br>#EndGFW #拆墙运动 https://t.co/IWMZFX09xb<br><br><img style="" src="https://pbs.twimg.com/media/Fq4I23caAAEceWv?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
+爭取先請中文網站刊登支持，同時再尋找英文網站等發布。 https://twitter.com/qiaoxinxin88/status/1634254764828663808<div class="rsshub-quote"><br><br>乔鑫鑫 Xinxin Qiao: 【拆墙运动请愿页面被Change网站删了】<br><br>我前两天就预感到有可能会出现这风险，毕竟一个普通的商业公司平台，不愿去背负巨大的派系纠纷和政治压力。但拆墙的事肯定不能停，还有什么替代性方案么？波罗的海3个小国，1989年曾动员了200万人手拉手结成675公里人链抗议苏联非法入侵 。<br>#EndGFW #拆墙运动 https://t.co/IWMZFX09xb<br><br><img style="" src="https://pbs.twimg.com/media/Fq4I23caAAEceWv?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 50: [2023-03-11 23:10:58+08:00 推文](https://twitter.com/realcaixia/status/1634572629041614852)
 
-推倒習共互聯網防火牆，不僅是爭取14億人獲取信息自由、言論自由的基本權利，而且是揭露習共謊言洗腦，由民眾獨立思考、獨立做出判斷的基本前提和必須條件。<br>一旦推倒防火牆，就能釋放中國內部的民間活力，海內外和中國體制內外致力於自由民主的所有力量就能聯合起來，推進憲政民主。 https://twitter.com/qiaoxinxin88/status/1634451107908042752<div class="rsshub-quote"><br><br>乔鑫鑫 Xinxin Qiao: 中共互联网愚民墙反人类罪可分秒内完成定罪证据<br><br>中国民运有各议题要人支持，比如少数民族、性少数派、女权、强拆维权等，但属于特定地域，调查取证也有难度。愚民墙将14亿人与66亿人隔离的大罪，80亿人都能感知并同情，却此前少有华人提及。只要推到国际法庭，法官不进中国，也能分秒内就完成取证！ https://t.co/3iPwIM0m1Y<br><br><img style="" src="https://pbs.twimg.com/media/Fq68B9RagAIqQ2d?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+推倒習共互聯網防火牆，不僅是爭取14億人獲取信息自由、言論自由的基本權利，而且是揭露習共謊言洗腦，由民眾獨立思考、獨立做出判斷的基本前提和必須條件。<br>一旦推倒防火牆，就能釋放中國內部的民間活力，海內外和中國體制內外致力於自由民主的所有力量就能聯合起來，推進憲政民主。<div class="rsshub-quote"><br><br>乔鑫鑫 Xinxin Qiao: 中共互联网愚民墙反人类罪可分秒内完成定罪证据<br><br>中国民运有各议题要人支持，比如少数民族、性少数派、女权、强拆维权等，但属于特定地域，调查取证也有难度。愚民墙将14亿人与66亿人隔离的大罪，80亿人都能感知并同情，却此前少有华人提及。只要推到国际法庭，法官不进中国，也能分秒内就完成取证！ https://t.co/3iPwIM0m1Y<br><br><img style="" src="https://pbs.twimg.com/media/Fq68B9RagAIqQ2d?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 51: [2023-03-11 23:26:50+08:00 推文](https://twitter.com/realcaixia/status/1634576623034044416)
 
@@ -237,5 +237,5 @@ Re @wongkim728 相信易鋼劉昆是背後頂著「槍」，想退休躺平沒�
 
 ### 56: [2023-03-12 23:33:10+08:00 推文](https://twitter.com/realcaixia/status/1634940605808926720)
 
-淚目。 https://twitter.com/nrlxr9cwfh7hput/status/1634741167912017921<div class="rsshub-quote"><br><br>牛腾宇母亲: 今天是牛腾宇的生日<br>他失去自由已1280天了<br>我彻夜难眠<br>借着黑暗中的一缕光<br>噙着泪水<br>把儿子画出来<br>望着他的眼睛<br>思念如丝般缠绕着全身<br>什么时候<br>才能破茧成蝶<br>在天空自由的飞翔 https://t.co/xwE0FmEN2i<br><br><img style="" src="https://pbs.twimg.com/media/Fq_EaJraAAEXf6a?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+淚目。<div class="rsshub-quote"><br><br>牛腾宇母亲: 今天是牛腾宇的生日<br>他失去自由已1280天了<br>我彻夜难眠<br>借着黑暗中的一缕光<br>噙着泪水<br>把儿子画出来<br>望着他的眼睛<br>思念如丝般缠绕着全身<br>什么时候<br>才能破茧成蝶<br>在天空自由的飞翔 https://t.co/xwE0FmEN2i<br><br><img style="" src="https://pbs.twimg.com/media/Fq_EaJraAAEXf6a?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
