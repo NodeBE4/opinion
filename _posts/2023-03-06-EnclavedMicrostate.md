@@ -57,3 +57,15 @@ To be fair, it's because there's a maximum of one treaty port per province, and 
 
 It's because what the game calls Treaty Ports and what Treaty ports *actually* were are just not even remotely close to the same, and there is no way of fixing that without fundamentally reworking the system.
 
+### 1141: [[Hobby Scuffles] Week of March 13, 2023](https://old.reddit.com/r/HobbyDrama/comments/11pgko2/hobby_scuffles_week_of_march_13_2023/), submitted on 2023-03-12 23:01:49+08:00.
+
+----- __1141.1__ -----2023-03-13 16:48:32+08:00:
+
+> RWBY is actually good, it's overhated and thanks to all that hate, a lot of misinformation has been spread around it
+
+Preach
+
+----- __1141.2__ -----2023-03-13 17:20:35+08:00:
+
+This was actually the weekend before, but I missed the last HHW subthread – I finally ran my [Shimonoseki 1864 participation game](https://imgur.com/a/ONooukw) at my club's annual show last week, and somehow my photo made the front page of the local newspaper!
+
