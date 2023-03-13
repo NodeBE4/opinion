@@ -111,3 +111,9 @@ Wait, I thought this was news weeks ago...
 
 No, I was thinking of [this](https://www.reddit.com/r/HobbyDrama/comments/11iz558/hobby_scuffles_week_of_march_6_2023/jbt2cdc/) as mentioned by /u/NervousLemon6670
 
+----- __1135.3__ -----2023-03-13 21:10:01+08:00:
+
+So, on the FallenShadow (aka Shondo) point, someone was pointing out that it's *really rich* for her to be complaining about 'Twitter freaks' given her past vagueposting about a certain corporate VTuber...
+
+>!More specifically, FallenShadow was a friend of LemonLeaf, both ASMR creators; the latter of whom started streaming as a VTuber in May 2020. In the summer of 2021, when Hololive English's second generation, Council, was debuting, FallenShadow did several vagueposts on both Twitter and Discord alleging betrayal by one or more close friends. LemonLeaf had recently announced a hiatus, and then on 23 August, Hololive debuted Ceres Fauna, who had a suspiciously LemonLeaf-esque voice. FallenShadow never explicitly said that her posts had been about LemonLeaf/Fauna, but given her own indie VTuber debut around the same time, many have assumed she was bitter about not getting the Hololive audition.!< However, at least publicly the two have appeared to be on good terms, with appearances in chat on each other's streams; as such some have said the counter-criticism isn't particularly warranted.
+
