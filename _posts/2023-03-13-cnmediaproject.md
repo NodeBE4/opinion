@@ -19,3 +19,7 @@ The CMP is an independent research project studying the Chinese media landscape 
 
 The phrase "Seeking Progress in Stability" (稳中求进), which encompasses the idea China must proceed cautiously with economic development given persistent domestic and global uncertainties, has been big at the NPC. Learn more in the CMP Dictionary: https://chinamediaproject.org/the_ccp_dictionary/seeking-progress-in-stability/
 
+### 2: [2023-03-13 12:32:30+08:00 推文](https://twitter.com/cnmediaproject/status/1635136729085779968)
+
+CMP is pleased to be involved in the DECODING CHINA DICTIONARY, a guide to understanding the official Chinese meaning of key terms in international relations and diplomacy. The latest edition has now been released! <br>https://decodingchina.eu/
+
