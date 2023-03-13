@@ -81,7 +81,7 @@ In the latest move against influencers, the CAC announced yesterday it had shut 
 
 ### 17: [2021-12-16 11:07:49+08:00 推文](https://twitter.com/cnmediaproject/status/1471316101632262144)
 
-Re CMP looks a bit more closely at the language in the CAC notice. One point is that the mandate of "guidance," once the resp. of traditional media gatekeepers, is now the responsibility of ALL. See Bandurski's 2017 analysis on the "hive" approach. <a href="https://bit.ly/3GSVIn7" target="_blank" rel="noopener noreferrer">https://bit.ly/3GSVIn7</a><br><img style="" src="https://pbs.twimg.com/media/FGsqL6uVkAEsAQB?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re CMP looks a bit more closely at the language in the CAC notice. One point is that the mandate of "guidance," once the resp. of traditional media gatekeepers, is now the responsibility of ALL. See Bandurski's 2017 analysis on the "hive" approach. <a href="https://bit.ly/3GSVIn7" target="_blank" rel="noopener noreferrer">https://bit.ly/3GSVIn7</a><br><img style src="https://pbs.twimg.com/media/FGsqL6uVkAEsAQB?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2021-12-16 11:09:12+08:00 推文](https://twitter.com/cnmediaproject/status/1471316452531904512)
 
@@ -133,7 +133,7 @@ RT Hu Xijin 胡锡进<br>I have retired and my new role is Global Times specia
 
 ### 30: [2021-12-17 08:07:39+08:00 推文](https://twitter.com/DemesDavid/status/1471633150808068097)
 
-RT David Demes 戴達衛<br>Re @cnmediaproject<br><br>David Demes 戴達衛: In his English-language tweet, Hu Xijin omits a key details from his original Weibo-post: That he will "continue to do my best for the party's news and public opinion work". So when he’s talking about "both sides", he’s actually referring to his work as a CCP mouthpiece.<br><br><img style src="https://pbs.twimg.com/media/FGvTchRUUA853IO?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/HuXijin_GT/status/1471488933192433664" target="_blank" rel="noopener noreferrer">https://twitter.com/HuXijin_GT/status/1471488933192433664</a>
+RT David Demes 戴達衛<br>Re @cnmediaproject<br><br>David Demes 戴達衛: In his English-language tweet, Hu Xijin omits a key details from his original Weibo-post: That he will "continue to do my best for the party's news and public opinion work". So when he’s talking about "both sides", he’s actually referring to his work as a CCP mouthpiece.<br><br><img style="" src="https://pbs.twimg.com/media/FGvTchRUUA853IO?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/HuXijin_GT/status/1471488933192433664" target="_blank" rel="noopener noreferrer">https://twitter.com/HuXijin_GT/status/1471488933192433664</a>
 
 ### 31: [2021-12-17 08:31:32+08:00 推文](https://twitter.com/cnmediaproject/status/1471639162776584193)
 
@@ -153,7 +153,7 @@ Re Here is a page from the textbook, now deleted from WeChat.<br><img style src=
 
 ### 35: [2021-12-17 09:42:30+08:00 推文](https://twitter.com/cnmediaproject/status/1471657021661663238)
 
-Re Discussion of DNA, prokaryotic cells 等等 leads to: "At this point, teachers can associate this with the red heritage passed between generations of communists who inherit ‘red genes.'"<br><img style="" src="https://pbs.twimg.com/media/FGxgQXRaQAIFkT_?format=png&name=orig" referrerpolicy="no-referrer">
+Re Discussion of DNA, prokaryotic cells 等等 leads to: "At this point, teachers can associate this with the red heritage passed between generations of communists who inherit ‘red genes.'"<br><img style src="https://pbs.twimg.com/media/FGxgQXRaQAIFkT_?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 36: [2021-12-17 09:45:09+08:00 推文](https://twitter.com/cnmediaproject/status/1471657685795835904)
 

@@ -409,7 +409,7 @@ Re @Wpattern @Wu_Zhi 你这种人死了，也是垃圾。
 
 ### 99: [2023-03-02 05:28:57+08:00 推文](https://twitter.com/HeQinglian/status/1631043873211383808)
 
-这就得好好探究一下其中原因了。<div class="rsshub-quote"><br><br>《北美保守评论》: 📍美国的教会正在衰落之中，在美国每周平均有86座新教教堂关闭，那是一天12间，田纳西州纳什维尔的 LifeWay https://youtu.be/CZV08xO4MEU… https://twitter.com/i/web/status/1631042652983504896 https://t.co/BWbVfcuUvm<br><br><video src="https://video.twimg.com/amplify_video/1631042621119295488/vid/888x494/_UaVw5MUM8QwPV84.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1631042621119295488/img/EizSWMbuB5JgrcTZ.jpg"></video></div>
+这就得好好探究一下其中原因了。 https://twitter.com/NAConservative9/status/1631042652983504896<div class="rsshub-quote"><br><br>《北美保守评论》: 📍美国的教会正在衰落之中，在美国每周平均有86座新教教堂关闭，那是一天12间，田纳西州纳什维尔的 LifeWay https://youtu.be/CZV08xO4MEU… https://twitter.com/i/web/status/1631042652983504896 https://t.co/BWbVfcuUvm<br><br><video src="https://video.twimg.com/amplify_video/1631042621119295488/vid/888x494/_UaVw5MUM8QwPV84.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1631042621119295488/img/EizSWMbuB5JgrcTZ.jpg"></video></div>
 
 ### 100: [2023-03-02 06:02:06+08:00 推文](https://twitter.com/HeQinglian/status/1631052216680235008)
 
@@ -513,7 +513,7 @@ Re @JianglinLi @kanjianweilai @shenliangqing2 @Isabel_3299 行至水穷处，坐
 
 ### 125: [2023-03-03 01:12:14+08:00 推文](https://twitter.com/HeQinglian/status/1631341656623529984)
 
-三个主要原因导致了罗马帝国的崩溃。一，帝国变得过大，一个单一的中心已难以对其进行管治。分成东西两半，又破坏了其权力垄断性。二，帝国长期的狂妄自大造成了文化上的享乐主义，精英的腐败导致社会的全面腐败。三，持续的通货膨胀破坏这一体制的那种维持自身又无需作出社会牺牲的能力。<div class="rsshub-quote"><br><br>He Qinglian: @shenliangqing2 @Isabel_3299 共和党最后只能先内部决战一场，说起来悲哀，美国国运悬于此一线，如果运气好，缓和几年，也许有机会。<br>但反正不会再是布热津斯基当年写《大棋局》时那种操盘一切的气势了，最多就是个棋手。<br>雅典的僭主政治+罗马帝国晚期的荒淫-身份政治。也许最后能够成就一部《新罗马帝国衰亡史》。<br></div>
+三个主要原因导致了罗马帝国的崩溃。一，帝国变得过大，一个单一的中心已难以对其进行管治。分成东西两半，又破坏了其权力垄断性。二，帝国长期的狂妄自大造成了文化上的享乐主义，精英的腐败导致社会的全面腐败。三，持续的通货膨胀破坏这一体制的那种维持自身又无需作出社会牺牲的能力。 https://twitter.com/HeQinglian/status/1631290944552071171<div class="rsshub-quote"><br><br>He Qinglian: @shenliangqing2 @Isabel_3299 共和党最后只能先内部决战一场，说起来悲哀，美国国运悬于此一线，如果运气好，缓和几年，也许有机会。<br>但反正不会再是布热津斯基当年写《大棋局》时那种操盘一切的气势了，最多就是个棋手。<br>雅典的僭主政治+罗马帝国晚期的荒淫-身份政治。也许最后能够成就一部《新罗马帝国衰亡史》。<br></div>
 
 ### 126: [2023-03-03 01:16:03+08:00 推文](https://twitter.com/HeQinglian/status/1631342619069431809)
 
@@ -533,7 +533,7 @@ Re @mafeife52494712 @eGUAbe2V7j26GHw 有些了解，也有茶具（现小茶台�
 
 ### 130: [2023-03-03 05:10:48+08:00 推文](https://twitter.com/HeQinglian/status/1631401695430209536)
 
-看了各国企业破产数据，只能说，重组全球产业链多年未成，一场战争打破原有格局，企业破产只是第一步。<br>欧洲尤其是德国受影响最大，其余的算是次级影响。 https://twitter.com/KELMAND1/status/1631314256825303040<div class="rsshub-quote"><br><br>Ezio Mao☢: 欧盟企业的破产申请在 2022 年第四季度大幅增加，达到 2015 年开始收集数据以来的历史新高。 https://t.co/WuMDuIbKPz<br><br><img style="" src="https://pbs.twimg.com/media/FqOXq2QacAMad-D?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+看了各国企业破产数据，只能说，重组全球产业链多年未成，一场战争打破原有格局，企业破产只是第一步。<br>欧洲尤其是德国受影响最大，其余的算是次级影响。<div class="rsshub-quote"><br><br>Ezio Mao☢: 欧盟企业的破产申请在 2022 年第四季度大幅增加，达到 2015 年开始收集数据以来的历史新高。 https://t.co/WuMDuIbKPz<br><br><img style="" src="https://pbs.twimg.com/media/FqOXq2QacAMad-D?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 131: [2023-03-03 05:39:37+08:00 推文](https://twitter.com/HeQinglian/status/1631408946496905244)
 
@@ -565,7 +565,7 @@ Re @eGUAbe2V7j26GHw @mafeife52494712 🤣🤣<br>你喜欢就好，毕竟是自�
 
 ### 138: [2023-03-03 07:26:53+08:00 推文](https://twitter.com/HeQinglian/status/1631435940848627712)
 
-欲知今日事，需问过来人。<br>欧亚地缘政治，美国太多智库著述，米尔斯海默曾有过推测，中国GDP到某个段位，就会出现这种情况。其实中国行动之时，GDP总量比他讲了大了不少。<br>我改天找出原文。网络时代最大的特点就是忽视前贤智慧。 https://twitter.com/Nobody197575/status/1631323211345563648<div class="rsshub-quote"><br><br>热血汉奸吴三桂: 黄左最气愤的就是俄罗斯和支共苟合，殊不知支共，俄罗斯才是真正的同床异梦，抱团取暖，彼此需求，俄罗斯只是表面上的文章，骨子里下手一点不客气，n次炮击大支渔民就是明证，美帝对古巴渔民都没有那么狠，更别提对大英渔民了，大支和美帝看起来吵吵嚷嚷，他们才是万年一条心的亲爹亲儿子关系 https://twitter.com/zengjieming/status/1631319343177891840<br></div>
+欲知今日事，需问过来人。<br>欧亚地缘政治，美国太多智库著述，米尔斯海默曾有过推测，中国GDP到某个段位，就会出现这种情况。其实中国行动之时，GDP总量比他讲了大了不少。<br>我改天找出原文。网络时代最大的特点就是忽视前贤智慧。<div class="rsshub-quote"><br><br>热血汉奸吴三桂: 黄左最气愤的就是俄罗斯和支共苟合，殊不知支共，俄罗斯才是真正的同床异梦，抱团取暖，彼此需求，俄罗斯只是表面上的文章，骨子里下手一点不客气，n次炮击大支渔民就是明证，美帝对古巴渔民都没有那么狠，更别提对大英渔民了，大支和美帝看起来吵吵嚷嚷，他们才是万年一条心的亲爹亲儿子关系<br></div>
 
 ### 139: [2023-03-03 09:17:47+08:00 推文](https://twitter.com/HeQinglian/status/1631463848774434816)
 
@@ -661,7 +661,7 @@ Re @shenliangqing2 你就当成真旅游好了。
 
 ### 162: [2023-03-04 22:22:36+08:00 推文](https://twitter.com/HeQinglian/status/1632023742564933640)
 
-去年有记者（英文媒体）来问我这问题，说这是中共阴谋。<br>我说，别太过份了。大麻合法化，这是拜登民主党的“国策”，难道他们是按中共指令做的？大麻成为美国的人民战争，完全是民主党多年挑起的。至于中国人、中国生产大麻趁机牟利，那也是苍蝇不钻无缝的蛋。 https://twitter.com/bu3bu4/status/1631861384001785859<div class="rsshub-quote"><br><br>burn: @HeQinglian @Lucs24659702 中国公民在美国最大的县生产的，不算本土大麻吗？😂<br></div>
+去年有记者（英文媒体）来问我这问题，说这是中共阴谋。<br>我说，别太过份了。大麻合法化，这是拜登民主党的“国策”，难道他们是按中共指令做的？大麻成为美国的人民战争，完全是民主党多年挑起的。至于中国人、中国生产大麻趁机牟利，那也是苍蝇不钻无缝的蛋。<div class="rsshub-quote"><br><br>burn: @HeQinglian @Lucs24659702 中国公民在美国最大的县生产的，不算本土大麻吗？😂<br></div>
 
 ### 163: [2023-03-05 08:55:16+08:00 推文](https://twitter.com/HeQinglian/status/1632182956776206338)
 
