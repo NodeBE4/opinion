@@ -493,7 +493,7 @@ Re @JianglinLi @Wu_Zhi @nuosu001 @seadognw 我在四川的同学有位同事在�
 
 ### 120: [2023-02-23 09:16:39+08:00 推文](https://twitter.com/HeQinglian/status/1628564461182132225)
 
-赫什文章指出：2022年2月7日在白宫，拜登告诉来访的德国总理肖尔茨，俄如果进攻乌克兰，北溪管道将不复存在。肖尔茨表示将与美国站在一起。会面结束的当晚，拜登公布了对北溪管道的打算。<br>我真的很好奇，肖尔茨需不需要对德国人解释这一点？<div class="rsshub-quote"><br><br>DW 中文- 德国之声: 美国知名记者赫什网络发文爆料称这一破坏袭击是美国所为，让各种猜测沸腾。而参与调查的国家，包括德国的相关机构未公开任何与调查进展有关的信息。对媒体的询问，也多半讳莫如深。#北溪爆炸事件  https://p.dw.com/p/4Npqu<br></div>
+赫什文章指出：2022年2月7日在白宫，拜登告诉来访的德国总理肖尔茨，俄如果进攻乌克兰，北溪管道将不复存在。肖尔茨表示将与美国站在一起。会面结束的当晚，拜登公布了对北溪管道的打算。<br>我真的很好奇，肖尔茨需不需要对德国人解释这一点？ https://twitter.com/dw_chinese/status/1628404745214763012<div class="rsshub-quote"><br><br>DW 中文- 德国之声: 美国知名记者赫什网络发文爆料称这一破坏袭击是美国所为，让各种猜测沸腾。而参与调查的国家，包括德国的相关机构未公开任何与调查进展有关的信息。对媒体的询问，也多半讳莫如深。#北溪爆炸事件  https://p.dw.com/p/4Npqu<br></div>
 
 ### 121: [2023-02-23 09:20:44+08:00 推文](https://twitter.com/HeQinglian/status/1628565488153382913)
 
@@ -645,7 +645,7 @@ Re @Vince6610 近五年，美国已从中国第一大贸易伙伴，成为中国
 
 ### 158: [2023-02-24 06:46:38+08:00 推文](https://twitter.com/HeQinglian/status/1628889095509344256)
 
-俄乌战争以来，很多事美国没办好的原因，尤其是对俄制裁失败，主要是没弄清楚一点：<br>自2010年以来，全球化分工体系已经成为生产国、消费国与资源国，三类国家是互相依赖的互补关系。<br>美国是世界最大消费国，世界贸易顺差的主要来源；中国是生产国；俄罗斯是资源国，德国既是生产国（高端）又是消费国。 https://twitter.com/fading_you1/status/1628877470769246208<div class="rsshub-quote"><br><br>天降伟人包由检: 民主党机关报也觉得让俄罗斯内部推翻普京不那么现实，然后一直以来不知道哪根筋搭错了，总是特别希望包总来劝普京停手。这真挺有趣。我要是包总，肯定跟老美说“行啊，那总得有点好处吧……” https://t.co/Ma8VwyTLkX<br><br><img style="" src="https://pbs.twimg.com/media/FprvbLEWcAE-LQE?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLAWIAEkp__?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLAXgAI4e7z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLEXgAUvSha?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+俄乌战争以来，很多事美国没办好的原因，尤其是对俄制裁失败，主要是没弄清楚一点：<br>自2010年以来，全球化分工体系已经成为生产国、消费国与资源国，三类国家是互相依赖的互补关系。<br>美国是世界最大消费国，世界贸易顺差的主要来源；中国是生产国；俄罗斯是资源国，德国既是生产国（高端）又是消费国。<div class="rsshub-quote"><br><br>天降伟人包由检: 民主党机关报也觉得让俄罗斯内部推翻普京不那么现实，然后一直以来不知道哪根筋搭错了，总是特别希望包总来劝普京停手。这真挺有趣。我要是包总，肯定跟老美说“行啊，那总得有点好处吧……” https://t.co/Ma8VwyTLkX<br><br><img style="" src="https://pbs.twimg.com/media/FprvbLEWcAE-LQE?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLAWIAEkp__?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLAXgAI4e7z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLEXgAUvSha?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 159: [2023-02-24 07:05:36+08:00 推文](https://twitter.com/HeQinglian/status/1628893868212072448)
 
@@ -661,7 +661,7 @@ Re @3223_408 是今年吧？什么叫高增长？我不太看预期增长，只�
 
 ### 162: [2023-02-24 08:52:09+08:00 推文](https://twitter.com/HeQinglian/status/1628920683483787264)
 
-今年前两个月，浙江许多大家电生产企业订单都出现了快速增长。“今年前两个月，返单的单量已经比去年同期增长了20%以上。”<br>对你，可能我得从ABC教起：数据比较有环比、月比、季度比。你能分辨出是什么比？<br>对你这种人，值得我花心思吗？<br>还是喊口号对你较合适。<div class="rsshub-quote"><br><br>UniversalValuesMatter: @HeQinglian 比起什么时候上升？😂 佩服佩服，教授水平真高👍<br></div>
+今年前两个月，浙江许多大家电生产企业订单都出现了快速增长。“今年前两个月，返单的单量已经比去年同期增长了20%以上。”<br>对你，可能我得从ABC教起：数据比较有环比、月比、季度比。你能分辨出是什么比？<br>对你这种人，值得我花心思吗？<br>还是喊口号对你较合适。 https://twitter.com/KittieInDream/status/1628905393824092160<div class="rsshub-quote"><br><br>UniversalValuesMatter: @HeQinglian 比起什么时候上升？😂 佩服佩服，教授水平真高👍<br></div>
 
 ### 163: [2023-02-24 08:56:25+08:00 推文](https://twitter.com/HeQinglian/status/1628921758215507968)
 
