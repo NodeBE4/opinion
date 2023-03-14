@@ -61,6 +61,10 @@ It's because what the game calls Treaty Ports and what Treaty ports *actually* w
 
 Ah, so all of them?
 
+----- __1140.4__ -----2023-03-15 01:18:14+08:00:
+
+Okay to explain the joke, because Treaty Ports do *not* actually do what Treaty Ports did historically, all of them are, by my definition, ahistorical.
+
 ### 1141: [[Hobby Scuffles] Week of March 13, 2023](https://old.reddit.com/r/HobbyDrama/comments/11pgko2/hobby_scuffles_week_of_march_13_2023/), submitted on 2023-03-12 23:01:49+08:00.
 
 ----- __1141.1__ -----2023-03-13 16:48:32+08:00:
