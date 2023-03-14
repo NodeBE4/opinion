@@ -29,7 +29,7 @@ Re @_HicRhodus 所有人佩服奥巴马以前的美国宪政文明，是佩服�
 
 ### 4: [2023-03-13 03:38:35+08:00 推文](https://twitter.com/HeQinglian/status/1635002366494908418)
 
-留言中有位“老枪”，非得将挺川与挺拜当作挺个人，这种见识太差劲了。<br>其实就我而言，是支持川普的政治主张与相关政策，以及这种主张与政策对传统生活方式的守护。挺拜的人也同样如此，是支持拜登政治主张与政策对美国传统生活方式的颠覆。<br>我相信多数挺川的都如此。 https://twitter.com/HeQinglian/status/1634910100367511558<div class="rsshub-quote"><br><br>He Qinglian: 今天看到华拜粉在某处留言，说学问大挺川，说明学问让人糊涂。<br>在媒体一片声黑化川普及其政策时，挺川不仅需要起码的知识与常识，还需要思考。不比挺拜与民主党，只需要认同移民无国界与福利，学几句人道口号，会举拳头就行了。<br></div>
+留言中有位“老枪”，非得将挺川与挺拜当作挺个人，这种见识太差劲了。<br>其实就我而言，是支持川普的政治主张与相关政策，以及这种主张与政策对传统生活方式的守护。挺拜的人也同样如此，是支持拜登政治主张与政策对美国传统生活方式的颠覆。<br>我相信多数挺川的都如此。<div class="rsshub-quote"><br><br>He Qinglian: 今天看到华拜粉在某处留言，说学问大挺川，说明学问让人糊涂。<br>在媒体一片声黑化川普及其政策时，挺川不仅需要起码的知识与常识，还需要思考。不比挺拜与民主党，只需要认同移民无国界与福利，学几句人道口号，会举拳头就行了。<br></div>
 
 ### 5: [2023-03-13 03:44:13+08:00 推文](https://twitter.com/HeQinglian/status/1635003784526196739)
 
@@ -37,7 +37,7 @@ Re @DZhe1984 @Isabel_3299 左派一向玩名实脱离伎俩，当一个名词好
 
 ### 6: [2023-03-13 03:46:28+08:00 推文](https://twitter.com/HeQinglian/status/1635004348504887296)
 
-就我而言，是支持川普的政治主张与相关政策，以及这种主张与政策对传统生活方式的守护。挺拜的人也同样如此，是支持拜登政治主张与政策对美国传统生活方式的颠覆。<br>我相信多数挺川的都如此。<br>你的留言证明你的水平。<div class="rsshub-quote"><br><br>老枪: @HeQinglian 挺拜的都认为拜是有缺陷的，挺川的都认为川是完美的。<br></div>
+就我而言，是支持川普的政治主张与相关政策，以及这种主张与政策对传统生活方式的守护。挺拜的人也同样如此，是支持拜登政治主张与政策对美国传统生活方式的颠覆。<br>我相信多数挺川的都如此。<br>你的留言证明你的水平。 https://twitter.com/akakak474747/status/1634986969536270338<div class="rsshub-quote"><br><br>老枪: @HeQinglian 挺拜的都认为拜是有缺陷的，挺川的都认为川是完美的。<br></div>
 
 ### 7: [2023-03-13 03:50:15+08:00 推文](https://twitter.com/HeQinglian/status/1635005299668160512)
 
@@ -193,7 +193,7 @@ Re @vivivippp1 有条消息，说内部人在破产前24小时提取存款。
 
 ### 45: [2023-03-13 22:42:06+08:00 推文](https://twitter.com/HeQinglian/status/1635290139399458817)
 
-‘Get woke, go broke’ https://www.businesstoday.in/silicon-valley-bank/story/get-woke-go-broke-silicon-valley-banks-top-woman-executive-lgbtq-activist-gets-targeted-for-lenders-failure-373067-2023-03-12<br>到现在为止，如果还不认识以下事实，只能说是无感：欧洲尤其是绿色先锋德国洗绿，欧盟碳税不能收了，另起名目收取气候补偿基金，这一事实标志绿能破产。<br>大重置将随着2024美国选举拜登政府下台而结束——除了这个集团比2020更疯狂地盗票。<div class="rsshub-quote"><br><br>Vince66: @HeQinglian 谢谢总结分享.  除了woke 这个银行的操作风险高<br></div>
+‘Get woke, go broke’ https://www.businesstoday.in/silicon-valley-bank/story/get-woke-go-broke-silicon-valley-banks-top-woman-executive-lgbtq-activist-gets-targeted-for-lenders-failure-373067-2023-03-12<br>到现在为止，如果还不认识以下事实，只能说是无感：欧洲尤其是绿色先锋德国洗绿，欧盟碳税不能收了，另起名目收取气候补偿基金，这一事实标志绿能破产。<br>大重置将随着2024美国选举拜登政府下台而结束——除了这个集团比2020更疯狂地盗票。 https://twitter.com/Vince6610/status/1635259128812810240<div class="rsshub-quote"><br><br>Vince66: @HeQinglian 谢谢总结分享.  除了woke 这个银行的操作风险高<br></div>
 
 ### 46: [2023-03-13 22:43:23+08:00 推文](https://twitter.com/HeQinglian/status/1635290465041027077)
 
@@ -321,7 +321,7 @@ Re @ivan4131 @qihang19211 看来我的学术经历你一无所知。比你好一
 
 ### 77: [2023-03-14 04:28:03+08:00 推文](https://twitter.com/HeQinglian/status/1635377202526314503)
 
-Re @qihang19211 还有一赢，我干脆说了，拜粉躺地上打滚吧。<br>中国从没象现在这样对待任何一位白宫主人，就连被美媒污名化到无以复加的川普，北京也还算讲外交礼仪。<br>从拜登上台开始至今，各种外交场合，基本都是中方趾高气扬，美方则是舆论上批倒中方，会见时摆出一副“求求你，跪下吧”，每求一次，中方的头向上扬一分。
+RT He Qinglian<br>Re @qihang19211 还有一赢，我干脆说了，拜粉躺地上打滚吧。<br>中国从没象现在这样对待任何一位白宫主人，就连被美媒污名化到无以复加的川普，北京也还算讲外交礼仪。<br>从拜登上台开始至今，各种外交场合，基本都是中方趾高气扬，美方则是舆论上批倒中方，会见时摆出一副“求求你，跪下吧”，每求一次，中方的头向上扬一分。
 
 ### 78: [2023-03-14 04:52:32+08:00 推文](https://twitter.com/HeQinglian/status/1635383362935476224)
 
@@ -354,4 +354,20 @@ Re @Taft0402 说的是谁，下次说清楚一点，对得起律师职业。
 ### 85: [2023-03-14 08:42:44+08:00 推文](https://twitter.com/HeQinglian/status/1635441296989888526)
 
 Re @KELMAND1 @feli0meow 如果发现这些银行与变性诊所及资助变性手术费有关，一定记得发推，我就想看看，这些从事Woke业务的银行有多能作。😅😅<br>我正在等美国记者深挖这些银行的“Woke”业务。
+
+### 86: [2023-03-14 09:22:19+08:00 推文](https://twitter.com/Lucs24659702/status/1635451255505195009)
+
+RT Lucs<br>宾夕法尼亚州民主党代表在三名女性令人震惊的性骚扰指控后辞职<br><br>在三名妇女指责他不恰当地触摸他们后，宾夕法尼亚州众议院的一名民主党议员即将下台。<br><br>代表费城西南部特拉华县的州众议员Mike Zabel宣布，他的辞职将于周四生效。这一决定是在性行为不端的指控堆积如山后做出的 https://www.westernjournal.com/pennsylvania-dem-rep-resigns-alarming-sexual-harassment-allegations-three-women/
+
+### 87: [2023-03-14 09:49:55+08:00 推文](https://twitter.com/HeQinglian/status/1635458203210186754)
+
+Re @mingshi_chen 许多小银行成立就被当作钱袋。新州民主党州长成立一家银行，我是决不与这银行有半点瓜葛。
+
+### 88: [2023-03-14 09:57:42+08:00 推文](https://twitter.com/HeQinglian/status/1635460162197639168)
+
+Re @JianglinLi @PrezXi 如果自带饭辙，那当然可以。需要赏饭可能就只能遥遥成为“慕道友”了。
+
+### 89: [2023-03-14 10:20:02+08:00 推文](https://twitter.com/HeQinglian/status/1635465781973532673)
+
+军火供应，风景这边独好：<br>美国仍居国防出口国榜首，其在全球武器出口中的份额从过去5年内的33%上升至40%。<br>但作为世界第二大武器供应国的俄罗斯，其份额则从22%下降至16%。<br>世界第三大供应国法国在全球武器贸易中获得了更大的份额，从2018年的7.1%增至2022年的11%。https://chinese.aljazeera.net/news/military/2023/3/13/%E6%96%AF%E5%BE%B7%E5%93%A5%E5%B0%94%E6%91%A9%E5%9B%BD%E9%99%85%E5%92%8C%E5%B9%B3%E7%A0%94%E7%A9%B6%E6%89%80%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%90%E4%B8%BA%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%89%E5%A4%A7
 
