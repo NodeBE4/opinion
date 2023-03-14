@@ -57,6 +57,10 @@ To be fair, it's because there's a maximum of one treaty port per province, and 
 
 It's because what the game calls Treaty Ports and what Treaty ports *actually* were are just not even remotely close to the same, and there is no way of fixing that without fundamentally reworking the system.
 
+----- __1140.3__ -----2023-03-14 21:41:11+08:00:
+
+Ah, so all of them?
+
 ### 1141: [[Hobby Scuffles] Week of March 13, 2023](https://old.reddit.com/r/HobbyDrama/comments/11pgko2/hobby_scuffles_week_of_march_13_2023/), submitted on 2023-03-12 23:01:49+08:00.
 
 ----- __1141.1__ -----2023-03-13 16:48:32+08:00:
