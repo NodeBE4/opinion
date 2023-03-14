@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-03-14
+date: 2023-03-15
 from: https://twitter.com/HeQinglian/status/1634970256207929346
 layout: post
 tags:
@@ -17,7 +17,7 @@ title: 'Twitter @He Qinglian: 2023-03-13~2023-03-19'
 
 ### 1: [2023-03-13 01:31:00+08:00 推文](https://twitter.com/HeQinglian/status/1634970256207929346)
 
-英国法律史学家梅因最著名的一段话：<br>“迄今为止，人类历史上所有的进步（不是美国现在这“进步”），就是从身份到契约的转变”。<br>契约思想是西方文化的根基：<br>圣经：上帝与人立约；<br>民主政治：宪政法治就是契约政治的体现。选举政治就是人民委托治理政治，契约就是履行竞选承诺；<br>市场经济：信用基于契约 https://twitter.com/Wu_Zhi/status/1634942635956903937<div class="rsshub-quote"><br><br>zhix: @HeQinglian @JianglinLi 身份政治理论，其逻辑推理的结果最终就会导致种族隔离，现在在实践上还应验了。因此，身份政治理论是垃圾思想，逻辑上的种种矛盾，将会对现实的人类社会造成极大危害，对人类文明来说有害无益。<br></div>
+英国法律史学家梅因最著名的一段话：<br>“迄今为止，人类历史上所有的进步（不是美国现在这“进步”），就是从身份到契约的转变”。<br>契约思想是西方文化的根基：<br>圣经：上帝与人立约；<br>民主政治：宪政法治就是契约政治的体现。选举政治就是人民委托治理政治，契约就是履行竞选承诺；<br>市场经济：信用基于契约<div class="rsshub-quote"><br><br>zhix: @HeQinglian @JianglinLi 身份政治理论，其逻辑推理的结果最终就会导致种族隔离，现在在实践上还应验了。因此，身份政治理论是垃圾思想，逻辑上的种种矛盾，将会对现实的人类社会造成极大危害，对人类文明来说有害无益。<br></div>
 
 ### 2: [2023-03-13 01:34:20+08:00 推文](https://twitter.com/HeQinglian/status/1634971098956824577)
 
@@ -77,7 +77,7 @@ Re @mingshi_chen 这些人与当初那个歌星杰克逊一样，恨自己是黑
 
 ### 16: [2023-03-13 07:55:31+08:00 推文](https://twitter.com/HeQinglian/status/1635067025419825152)
 
-任何人都解决不了。<br>左右均占40%，其中极左28%。决定美国命运的是中间那20%的人，病久了，任何保守派当政，都只能慢慢来，第一任期稳住大盘，发展经济，在州层面扼制极左的胡闹；争取第二任期，再办其中部分事情。<div class="rsshub-quote"><br><br>麻辣空间: 问几个川普2024的常规问题<br>1、他能解决黑命贵吗？<br>2、他能解决安提法吗？<br>3、他能解决华盛顿罪恶政权吗？<br>4、他能解决变态彩旗吗？<br>5、他能解决FBI和CIA吗？<br>6、他能解决军方吗？<br>7、他能解决制造业吗？<br>8、他能解决左媒吗？<br>9、他能解决司法吗？<br>10、他能解决长生不死吗？… https://twitter.com/i/web/status/1635006257378607111<br></div>
+任何人都解决不了。<br>左右均占40%，其中极左28%。决定美国命运的是中间那20%的人，病久了，任何保守派当政，都只能慢慢来，第一任期稳住大盘，发展经济，在州层面扼制极左的胡闹；争取第二任期，再办其中部分事情。 https://twitter.com/wto518/status/1635006257378607111<div class="rsshub-quote"><br><br>麻辣空间: 问几个川普2024的常规问题<br>1、他能解决黑命贵吗？<br>2、他能解决安提法吗？<br>3、他能解决华盛顿罪恶政权吗？<br>4、他能解决变态彩旗吗？<br>5、他能解决FBI和CIA吗？<br>6、他能解决军方吗？<br>7、他能解决制造业吗？<br>8、他能解决左媒吗？<br>9、他能解决司法吗？<br>10、他能解决长生不死吗？… https://twitter.com/i/web/status/1635006257378607111<br></div>
 
 ### 17: [2023-03-13 08:18:47+08:00 推文](https://twitter.com/HeQinglian/status/1635072880055820288)
 
@@ -193,7 +193,7 @@ Re @vivivippp1 有条消息，说内部人在破产前24小时提取存款。
 
 ### 45: [2023-03-13 22:42:06+08:00 推文](https://twitter.com/HeQinglian/status/1635290139399458817)
 
-‘Get woke, go broke’ https://www.businesstoday.in/silicon-valley-bank/story/get-woke-go-broke-silicon-valley-banks-top-woman-executive-lgbtq-activist-gets-targeted-for-lenders-failure-373067-2023-03-12<br>到现在为止，如果还不认识以下事实，只能说是无感：欧洲尤其是绿色先锋德国洗绿，欧盟碳税不能收了，另起名目收取气候补偿基金，这一事实标志绿能破产。<br>大重置将随着2024美国选举拜登政府下台而结束——除了这个集团比2020更疯狂地盗票。 https://twitter.com/Vince6610/status/1635259128812810240<div class="rsshub-quote"><br><br>Vince66: @HeQinglian 谢谢总结分享.  除了woke 这个银行的操作风险高<br></div>
+‘Get woke, go broke’ https://www.businesstoday.in/silicon-valley-bank/story/get-woke-go-broke-silicon-valley-banks-top-woman-executive-lgbtq-activist-gets-targeted-for-lenders-failure-373067-2023-03-12<br>到现在为止，如果还不认识以下事实，只能说是无感：欧洲尤其是绿色先锋德国洗绿，欧盟碳税不能收了，另起名目收取气候补偿基金，这一事实标志绿能破产。<br>大重置将随着2024美国选举拜登政府下台而结束——除了这个集团比2020更疯狂地盗票。<div class="rsshub-quote"><br><br>Vince66: @HeQinglian 谢谢总结分享.  除了woke 这个银行的操作风险高<br></div>
 
 ### 46: [2023-03-13 22:43:23+08:00 推文](https://twitter.com/HeQinglian/status/1635290465041027077)
 
@@ -402,4 +402,36 @@ Re @HH82661575 有啊，现阶段，美国所有的一切都代表正义，你�
 ### 97: [2023-03-14 22:19:27+08:00 推文](https://twitter.com/HeQinglian/status/1635646826761138177)
 
 Re @_SolomonKing_ 你这样想，有利于你身心健康，如你所愿。😅😅
+
+### 98: [2023-03-15 01:48:59+08:00 推文](https://twitter.com/HeQinglian/status/1635699558746390530)
+
+Re @DesmondKreig 因素还有贸易、政治、国家间互相投资。<br>这都是数据说话，请翻查我的推特。我写过文章。
+
+### 99: [2023-03-15 01:52:10+08:00 推文](https://twitter.com/HeQinglian/status/1635700362433757186)
+
+Re @YdhelenYdhelen2 【中国和美国，分别代表了和平与战争，世界会做出明智选择。】<br>现在进入多极世界，各自表述。国家在哪一极，就认为哪一国代表了和平。西方认为美国代表了和平。
+
+### 100: [2023-03-15 01:57:09+08:00 推文](https://twitter.com/HeQinglian/status/1635701613749731341)
+
+Re @kimhomeloan 所以，银行现在破产，全是川普的错？😅<br>话说，银行选择购买大量巨额低息长期巨额国债、投资气候科技、经营管理人才重政治正确的身份（有色、LGBTQI+，将普及这些代替经营管理，川普没立法让他们这样做吧？<br>有时候清醒一点，对得起自己——比如你这推，害不了我。
+
+### 101: [2023-03-15 02:03:04+08:00 推文](https://twitter.com/HeQinglian/status/1635703104581652481)
+
+Re @fading_you1 就如今这样，还在继续做欧洲中心论的梦想。
+
+### 102: [2023-03-15 02:09:17+08:00 推文](https://twitter.com/HeQinglian/status/1635704668327145472)
+
+Re @DesmondKreig https://www.rfa.org/mandarin/pinglun/heqinglian<br>近期的在这里，至少2月以来有三四篇。如果还想要看，你再来函。
+
+### 103: [2023-03-15 02:12:48+08:00 推文](https://twitter.com/HeQinglian/status/1635705552369078272)
+
+Re @JianglinLi @HH82661575 你不说，我差点忘记了。<br>2020年与2021年，洛杉矶都有华裔想搭零元购的便车，跟在贵族后面捞了一把，后来都被抓且判刑，贵族没啥事。<br>估计如果要提这点“平等”，法官想的是：凭你也配？做的是法槌一敲，严词斥责。
+
+### 104: [2023-03-15 02:13:48+08:00 推文](https://twitter.com/HeQinglian/status/1635705806732533760)
+
+Re @frankwangus Dream。
+
+### 105: [2023-03-15 04:16:25+08:00 推文](https://twitter.com/HeQinglian/status/1635736664281677850)
+
+Re @JohnChe68058637 @JianglinLi @HH82661575 法官这比较公平，根据录相找到这些人的时候，搜出来的物品估价都超过了1000美元。
 
