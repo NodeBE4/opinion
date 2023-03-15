@@ -29,7 +29,7 @@ Re @a4_dao @qiaoxinxin88 我同意这位网友的意见。
 
 ### 4: [2023-03-13 07:16:05+08:00 推文](https://twitter.com/realcaixia/status/1635057100387938307)
 
-我也很喜欢不明白博客，每期节目都很有价值。<div class="rsshub-quote"><br><br>Grey: 这个节目是很好的内容，值得仔细得听。想先听我讲的部分的朋友们可以先从1:00 （一个小时）开始听。<br></div>
+我也很喜欢不明白博客，每期节目都很有价值。 https://twitter.com/geleilaoshi/status/1634853753672331264<div class="rsshub-quote"><br><br>Grey: 这个节目是很好的内容，值得仔细得听。想先听我讲的部分的朋友们可以先从1:00 （一个小时）开始听。 https://twitter.com/bumingbaipod/status/1634822015063412736<br></div>
 
 ### 5: [2023-03-13 08:13:49+08:00 推文](https://twitter.com/realcaixia/status/1635071629456982017)
 
