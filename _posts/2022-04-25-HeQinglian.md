@@ -221,7 +221,7 @@ Re @TONY19891989 @FightForJiuCai 还以为真理在手，加上仇恨在胸，�
 
 ### 52: [2022-04-28 03:28:55+08:00 推文](https://twitter.com/HeQinglian/status/1519398205733093378)
 
-突发新闻：<br>意大利能源巨头埃尼集团将在 Gazprombank 开设卢布账户。<br>问：这是G7集团成员，欧盟怎么办？
+突发新闻：<br>意大利能源巨头埃尼集团将在 Gazprombank 开设卢布账户。<br>问：这是G7集团成员，欧盟怎么办？<br><br>The Spectator Index: BREAKING: Italian energy giant Eni set to open rubles accounts with Gazprombank<br>
 
 ### 53: [2022-04-28 03:34:11+08:00 推文](https://twitter.com/HeQinglian/status/1519399528176271360)
 
@@ -337,7 +337,7 @@ Re @JianglinLi @wDYMdxKfYqByh1E @Wu_Zhi @moyehnyy @david_david1968 比烂，没�
 
 ### 81: [2022-04-28 20:46:50+08:00 推文](https://twitter.com/HeQinglian/status/1519659404144037888)
 
-你这道理可以用于左派政治：<br>为什么福利与不当政治赔偿会受不劳而获者欢迎？<br>因为这些人不需要努力向上，只需要声称自己是受压迫（或者祖上受压迫）的弱势群体，社会欠了他们的就行。<br>这些人的代表口号由BLM大纽约地区负责人2020年5月在电视上公开提出：“如果不给我们所需要的，我们就毁了这个世界”。
+你这道理可以用于左派政治：<br>为什么福利与不当政治赔偿会受不劳而获者欢迎？<br>因为这些人不需要努力向上，只需要声称自己是受压迫（或者祖上受压迫）的弱势群体，社会欠了他们的就行。<br>这些人的代表口号由BLM大纽约地区负责人2020年5月在电视上公开提出：“如果不给我们所需要的，我们就毁了这个世界”。<br><br>seadog: 转锁推网友：为什么很多女人会长期反复被男人骗？<br>因为他们的要求，只有骗子才能满足，正常人满足不了<br>
 
 ### 82: [2022-04-28 20:51:17+08:00 推文](https://twitter.com/HeQinglian/status/1519660524375580672)
 
@@ -517,7 +517,7 @@ Re @Lucs24659702 拜登美国价值观的体现，正准备推向全世界。
 
 ### 126: [2022-05-01 20:52:12+08:00 推文](https://twitter.com/HeQinglian/status/1520747918399094784)
 
-Re 拜登美国价值观的体现，正准备推向全世界。<br><br>Lucs: 宾州一所学校的老师为学生举办了一个变装秀，作为LGBT俱乐部的活动一部分。据报告他们没有通知学生父母，Hempfield学区今早确认老师在休假中。<br>该视频是变装活动的一部分。<br><br><video src="https://video.twimg.com/ext_tw_video/1520615927766667265/pu/vid/720x1264/s5cbGltHLiEDHIfy.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1520615927766667265/pu/img/TdCjSRU-zJNzFP8q.jpg"></video>
+Re 拜登美国价值观的体现，正准备推向全世界。 <a href="https://twitter.com/Lucs24659702/status/1520615972125560832" target="_blank" rel="noopener noreferrer">https://twitter.com/Lucs24659702/status/1520615972125560832</a>
 
 ### 127: [2022-05-01 20:54:52+08:00 推文](https://twitter.com/HeQinglian/status/1520748589139517440)
 
