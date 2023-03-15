@@ -37,11 +37,11 @@ RT Tom Kellogg<br>Re This film should be placed right beside works like @Anne_
 
 ### 6: [2022-01-11 16:20:35+08:00 推文](https://twitter.com/cnmediaproject/status/1480816899495964672)
 
-The former director and editor-in-chief of the China Youth Daily newspaper,Xu Zhuqing, passed away in Beijing on January 5 from lung cancer. He led the paper through what many now see as its golden age in the intellectual ferment of the 1980s. <a href="https://chinamediaproject.org/2022/01/11/remembering-xu-zhuqing/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/11/remembering-xu-zhuqing/</a><br><img style="" src="https://pbs.twimg.com/media/FIzq5C0aUAE_JG2?format=jpg&name=orig" referrerpolicy="no-referrer">
+The former director and editor-in-chief of the China Youth Daily newspaper,Xu Zhuqing, passed away in Beijing on January 5 from lung cancer. He led the paper through what many now see as its golden age in the intellectual ferment of the 1980s. <a href="https://chinamediaproject.org/2022/01/11/remembering-xu-zhuqing/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/11/remembering-xu-zhuqing/</a><br><img style src="https://pbs.twimg.com/media/FIzq5C0aUAE_JG2?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2022-01-11 19:04:40+08:00 推文](https://twitter.com/SPCmonitor/status/1480858190346878977)
 
-RT Susan Finder<br>Before 扫黑 there was 扫黄！<br><img style="" src="https://pbs.twimg.com/media/FI0QVTjaIAMvWl0?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Susan Finder<br>Before 扫黑 there was 扫黄！<br><img style src="https://pbs.twimg.com/media/FI0QVTjaIAMvWl0?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2022-01-11 23:13:18+08:00 推文](https://twitter.com/JunMai_Beijing/status/1480920761166663681)
 
@@ -73,7 +73,7 @@ Re On writing: "Many people ... misinterpret the true sense of suffering... Suff
 
 ### 15: [2022-01-13 17:14:34+08:00 推文](https://twitter.com/ABPevzner/status/1481555258648276992)
 
-RT Alexander B. Pevzner 裴則男<br>Interesting- #10 on the list is 反垄断 #antitrust or anti-#monopoly, and the entry highlights recent actions against #China #technology firms, establishment of anti-#monopoly bureau under market regulator #SAMR.<br><br>China Media Project: The Cyberspace Administration of China has released its list of top keywords for 2021. These are children only a controlling parent could love. Topping the list: "Celebrating the 100th anniversary of the CCP."<br><br><img style="" src="https://pbs.twimg.com/media/FI9mOVSaUAMd8hH?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://chinamediaproject.org/2022/01/13/a-listicle-for-cyber-control/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/13/a-listicle-for-cyber-control/</a>
+RT Alexander B. Pevzner 裴則男<br>Interesting- #10 on the list is 反垄断 #antitrust or anti-#monopoly, and the entry highlights recent actions against #China #technology firms, establishment of anti-#monopoly bureau under market regulator #SAMR.<br><br>China Media Project: The Cyberspace Administration of China has released its list of top keywords for 2021. These are children only a controlling parent could love. Topping the list: "Celebrating the 100th anniversary of the CCP."<br><br><img style src="https://pbs.twimg.com/media/FI9mOVSaUAMd8hH?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://chinamediaproject.org/2022/01/13/a-listicle-for-cyber-control/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/13/a-listicle-for-cyber-control/</a>
 
 ### 16: [2022-01-13 20:41:15+08:00 推文](https://twitter.com/Lingling_Wei/status/1481607273076117505)
 

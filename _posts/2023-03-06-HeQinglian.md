@@ -169,7 +169,7 @@ Re 各位推友，拜登今天仍然说对华政策没变。<br>拜粉可以说�
 
 ### 39: [2023-03-08 09:41:16+08:00 推文](https://twitter.com/HeQinglian/status/1633281700389109760)
 
-这事，德国人信了就行。毕竟，需要美国这位盟友兼大哥，北溪事件的真相是什么不重要，德国人愿意相信什么最重要。<br>ZELT这篇报道，属于德国人正想打瞌睡，立刻有人送上枕头之类。<div class="rsshub-quote"><br><br>绫波: 🇩🇪德国《ZELT》：<br><br>ZEIT确定了据称用于秘密行动的船只是从波兰一家公司租来的游艇显然是两名乌克兰人所有。是由一个五男一女六人小组执行的。一名船长两名潜水员两名潜水助理和一名医生将炸药运到犯罪现场并放置在那里。肇事者的国籍不清楚，袭击者使用专业伪造的护照除其他外还被用来租船 https://t.co/Zt5vzwjWDA<br><br><img style="" src="https://pbs.twimg.com/media/Fqp7QFraMAEUsSV?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+这事，德国人信了就行。毕竟，需要美国这位盟友兼大哥，北溪事件的真相是什么不重要，德国人愿意相信什么最重要。<br>ZELT这篇报道，属于德国人正想打瞌睡，立刻有人送上枕头之类。 https://twitter.com/dinglili7/status/1633253353756172288<div class="rsshub-quote"><br><br>绫波: 🇩🇪德国《ZELT》：<br><br>ZEIT确定了据称用于秘密行动的船只是从波兰一家公司租来的游艇显然是两名乌克兰人所有。是由一个五男一女六人小组执行的。一名船长两名潜水员两名潜水助理和一名医生将炸药运到犯罪现场并放置在那里。肇事者的国籍不清楚，袭击者使用专业伪造的护照除其他外还被用来租船 https://t.co/Zt5vzwjWDA<br><br><img style="" src="https://pbs.twimg.com/media/Fqp7QFraMAEUsSV?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 40: [2023-03-08 18:57:26+08:00 推文](https://twitter.com/fading_you1/status/1633421661679628289)
 
@@ -381,7 +381,7 @@ RT 李江琳<br>老妖婆的“1月6日调查委员会”竟然根本没看那
 
 ### 92: [2023-03-11 11:56:01+08:00 推文](https://twitter.com/JianglinLi/status/1634402773767782400)
 
-RT 李江琳<br>这篇向共和党支持者和保守派道歉的公开信值得一读： https://twitter.com/JackPosobiec/status/1634357506687356930<div class="rsshub-quote"><br><br>No Bailouts Poso 🚫💰: NAOMI WOLF: Dear conservatives, I'm sorry I believed so many media lies<br><br>https://humanevents.com/2023/03/10/naomi-wolf-dear-conservatives-im-sorry-i-believed-so-many-media-lies?utm_campaign=64483<br></div>
+RT 李江琳<br>这篇向共和党支持者和保守派道歉的公开信值得一读：<div class="rsshub-quote"><br><br>No Bailouts Poso 🚫💰: NAOMI WOLF: Dear conservatives, I'm sorry I believed so many media lies<br><br>https://humanevents.com/2023/03/10/naomi-wolf-dear-conservatives-im-sorry-i-believed-so-many-media-lies?utm_campaign=64483<br></div>
 
 ### 93: [2023-03-11 21:29:11+08:00 推文](https://twitter.com/HeQinglian/status/1634547014741491713)
 
@@ -441,7 +441,7 @@ Re @JJH_Chi 你先告诉我，你喜欢我推文中列的拜登支持者品性�
 
 ### 107: [2023-03-12 02:03:17+08:00 推文](https://twitter.com/HeQinglian/status/1634615996454428673)
 
-我给拜登支个招：<br>美国一直在说有外星人，CIA都有系统的情报。<br>如今就说经过CIA调查验证，是外星人炸了北溪。再弄出一块残片，说地球上没有国家能够制造这种炸弹。<br>反正拜粉、乌粉，以及由川粉转身为拜粉的全会相信。 https://twitter.com/dinglili7/status/1634416110593540097<div class="rsshub-quote"><br><br>绫波: 普利策奖得主赫什“北溪”爆料一个月后<br><br>《纽约时报》援引匿名美官员宣称有情报显示“亲乌团体”可能是“北溪”爆炸背后真凶<br><br>赫什意见：乌克兰有能力布设地雷但没有可用的潜水减压舱，执行任务者必须既是潜水高手又是C4塑胶炸药专家，他们要确保炸药放合适位置来摧毁管道得花费数周或数月在波罗的海反复练习 https://t.co/VFkyWlRfIX<br><br><img style="" src="https://pbs.twimg.com/media/Fq6cxTTaIAITkdi?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+我给拜登支个招：<br>美国一直在说有外星人，CIA都有系统的情报。<br>如今就说经过CIA调查验证，是外星人炸了北溪。再弄出一块残片，说地球上没有国家能够制造这种炸弹。<br>反正拜粉、乌粉，以及由川粉转身为拜粉的全会相信。<div class="rsshub-quote"><br><br>绫波: 普利策奖得主赫什“北溪”爆料一个月后<br><br>《纽约时报》援引匿名美官员宣称有情报显示“亲乌团体”可能是“北溪”爆炸背后真凶<br><br>赫什意见：乌克兰有能力布设地雷但没有可用的潜水减压舱，执行任务者必须既是潜水高手又是C4塑胶炸药专家，他们要确保炸药放合适位置来摧毁管道得花费数周或数月在波罗的海反复练习 https://t.co/VFkyWlRfIX<br><br><img style="" src="https://pbs.twimg.com/media/Fq6cxTTaIAITkdi?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 108: [2023-03-12 02:09:48+08:00 推文](https://twitter.com/HeQinglian/status/1634617636733460481)
 
