@@ -29,7 +29,7 @@ Re @a4_dao @qiaoxinxin88 我同意这位网友的意见。
 
 ### 4: [2023-03-13 07:16:05+08:00 推文](https://twitter.com/realcaixia/status/1635057100387938307)
 
-我也很喜欢不明白博客，每期节目都很有价值。 https://twitter.com/geleilaoshi/status/1634853753672331264<div class="rsshub-quote"><br><br>Grey: 这个节目是很好的内容，值得仔细得听。想先听我讲的部分的朋友们可以先从1:00 （一个小时）开始听。 https://twitter.com/bumingbaipod/status/1634822015063412736<br></div>
+我也很喜欢不明白博客，每期节目都很有价值。<div class="rsshub-quote"><br><br>Grey: 这个节目是很好的内容，值得仔细得听。想先听我讲的部分的朋友们可以先从1:00 （一个小时）开始听。<br></div>
 
 ### 5: [2023-03-13 08:13:49+08:00 推文](https://twitter.com/realcaixia/status/1635071629456982017)
 
@@ -85,7 +85,7 @@ Re @TDTCCP @keke201707 並且黨國特色！
 
 ### 18: [2023-03-14 10:44:26+08:00 推文](https://twitter.com/realcaixia/status/1635471921788911617)
 
-民间高手在！<div class="rsshub-quote"><br><br>墻國荒誕字（墙国荒诞字）: 《憤怒的皇帝》系列搞笑劇:<br>第22集: 《不吉利的登基日》 https://t.co/otZYDB03y9<br><br><video src="https://video.twimg.com/ext_tw_video/1634360906707501056/pu/vid/1280x720/RkvkF3_rAelooV7T.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1634360906707501056/pu/img/9YxWuxJl7UZ7eP-F.jpg"></video></div>
+民间高手在！ https://twitter.com/xingzhe2021/status/1634361062974693377<div class="rsshub-quote"><br><br>墻國荒誕字（墙国荒诞字）: 《憤怒的皇帝》系列搞笑劇:<br>第22集: 《不吉利的登基日》 https://t.co/otZYDB03y9<br><br><video src="https://video.twimg.com/ext_tw_video/1634360906707501056/pu/vid/1280x720/RkvkF3_rAelooV7T.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1634360906707501056/pu/img/9YxWuxJl7UZ7eP-F.jpg"></video></div>
 
 ### 19: [2023-03-15 00:50:11+08:00 推文](https://twitter.com/realcaixia/status/1635684760680034304)
 
@@ -97,5 +97,5 @@ Re @TDTCCP @keke201707 並且黨國特色！
 
 ### 21: [2023-03-15 13:23:21+08:00 推文](https://twitter.com/realcaixia/status/1635874304582664193)
 
-深切哀悼杜光先生！<br>杜光1940年代参加中共，1958年被打成右派，1980年才平反昭雪。他1987年参与组建中国政治改革研究会，6.4后被解散。以后杜光写了大量文章谈宪政民主，从没屈服过当局压力。学校部门找我谈话时说“别像杜光那样…”。“什么样？”“他应是副部级养老待遇，被降为副局级待遇。”老先生千古！<div class="rsshub-quote"><br><br>Bao Pu 鮑樸: 原中央黨校理論研究室副主任杜光先生，於2023年3月13日在北京仙逝，享年96歲。 https://t.co/x8hK4V74QO<br><br><img style="" src="https://pbs.twimg.com/media/FrOurp7agAADiav?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+深切哀悼杜光先生！<br>杜光1940年代参加中共，1958年被打成右派，1980年才平反昭雪。他1987年参与组建中国政治改革研究会，6.4后被解散。以后杜光写了大量文章谈宪政民主，从没屈服过当局压力。学校部门找我谈话时说“别像杜光那样…”。“什么样？”“他应是副部级养老待遇，被降为副局级待遇。”老先生千古！ https://twitter.com/newcenturybaopu/status/1635843263264595968<div class="rsshub-quote"><br><br>Bao Pu 鮑樸: 原中央黨校理論研究室副主任杜光先生，於2023年3月13日在北京仙逝，享年96歲。 https://t.co/x8hK4V74QO<br><br><img style="" src="https://pbs.twimg.com/media/FrOurp7agAADiav?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
