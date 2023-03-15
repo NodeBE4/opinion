@@ -29,9 +29,9 @@ Re 2. I posted this article on 27th April in Chinese, quoting many news articles
 
 Re 4. He was part of the British Chinese Project founded by Christine Lee. The MI5 released an unprecedented warning, alleging Lee acted covertly with the United Front Work Department of the CCP, and is "judged to be involved in political interference activities in the UK“.
 
-### 4: [2022-05-03 21:33:49+08:00 推文](https://twitter.com/nathanlawkc/status/1521483168188141571)
+### 4: [2022-05-03 21:33:49+08:00 推文](https://twitter.com/nathanlawkc/status/1521483166116163586)
 
-Re 7. I believe I am utilizing publicly available resources to make these allegations in the interest of the public. Alex, as an elected councilor and candidate running for office in Sutton Wylde Green ward, should respond to these questions to reassure the public and the voters.
+Re 6. He hosted an event in 2018 and invited Christine Lee. He was photographed with Christine Lee when meeting other politicians. <a href="https://www.thetimes.co.uk/article/conservatives-received-donation-from-suspected-chinese-agent-christine-lee-xqdlxqd7j?fbclid=IwAR1VIOUIivnz-KZylWS8md8i7u5P5sq5CA1dn5Xj2hNpMAaJ1_78TEOGsRw" target="_blank" rel="noopener noreferrer">https://www.thetimes.co.uk/article/conservatives-received-donation-from-suspected-chinese-agent-christine-lee-xqdlxqd7j?fbclid=IwAR1VIOUIivnz-KZylWS8md8i7u5P5sq5CA1dn5Xj2hNpMAaJ1_78TEOGsRw</a>
 
 ### 5: [2022-05-03 21:33:50+08:00 推文](https://twitter.com/nathanlawkc/status/1521483170465685504)
 
