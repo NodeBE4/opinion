@@ -33,7 +33,7 @@ Re Human rights lawyer Xie Yang (@xieyang911), who was found guilty of inciting 
 
 ### 5: [2022-01-19 20:02:04+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1483771738039197698)
 
-陕西咸阳男子李某，因在微信群内散布“谣言”称“打完疫苗不能立刻做核酸，否则就是阳性”，被当地警方罚款500元，警方称其“谣言”严重影响了疫苗接种工作。然而，广东疾控发布消息称，打完疫苗立刻做核酸确实可能导致检测出假阳性。事件引发议论后，咸阳警方已经删除了该案件通告，不确定是否已撤销处罚。<br><img style src="https://pbs.twimg.com/media/FJdpigXWYAML7SS?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FJdpoXuWQAQVGKl?format=jpg&name=orig" referrerpolicy="no-referrer">
+陕西咸阳男子李某，因在微信群内散布“谣言”称“打完疫苗不能立刻做核酸，否则就是阳性”，被当地警方罚款500元，警方称其“谣言”严重影响了疫苗接种工作。然而，广东疾控发布消息称，打完疫苗立刻做核酸确实可能导致检测出假阳性。事件引发议论后，咸阳警方已经删除了该案件通告，不确定是否已撤销处罚。<br><img style="" src="https://pbs.twimg.com/media/FJdpigXWYAML7SS?format=png&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FJdpoXuWQAQVGKl?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2022-01-19 20:05:52+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1483772694034370562)
 

@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2023-03-15
+date: 2023-03-16
 from: https://twitter.com/realcaixia/status/1634998141098524672
 layout: post
 tags:
@@ -25,11 +25,11 @@ Re @a4_dao @qiaoxinxin88 我同意这位网友的意见。
 
 ### 3: [2023-03-13 03:41:17+08:00 推文](https://twitter.com/realcaixia/status/1635003044655173634)
 
-我同意这位推友的意见，希望更多的人共同合作，一起努力。 https://twitter.com/a4_dao/status/1634974285491224576<div class="rsshub-quote"><br><br>A4DAO: 说“拆墙”是当前民运中最高优先级的发力点不为过，因为1.直接关系言论自由。2.可以秒级取证。而汤伟雄又让大家看到了“联署”这一有力武器，希望民运的领袖级人物都来关注 #拆墙行动  #EndGFW，贡献智力和其它资源。<br>https://chng.it/NyPKTcdr<br></div>
+我同意这位推友的意见，希望更多的人共同合作，一起努力。<div class="rsshub-quote"><br><br>A4DAO: 说“拆墙”是当前民运中最高优先级的发力点不为过，因为1.直接关系言论自由。2.可以秒级取证。而汤伟雄又让大家看到了“联署”这一有力武器，希望民运的领袖级人物都来关注 #拆墙行动  #EndGFW，贡献智力和其它资源。<br>https://chng.it/NyPKTcdr<br></div>
 
 ### 4: [2023-03-13 07:16:05+08:00 推文](https://twitter.com/realcaixia/status/1635057100387938307)
 
-我也很喜欢不明白博客，每期节目都很有价值。<div class="rsshub-quote"><br><br>Grey: 这个节目是很好的内容，值得仔细得听。想先听我讲的部分的朋友们可以先从1:00 （一个小时）开始听。<br></div>
+我也很喜欢不明白博客，每期节目都很有价值。 https://twitter.com/geleilaoshi/status/1634853753672331264<div class="rsshub-quote"><br><br>Grey: 这个节目是很好的内容，值得仔细得听。想先听我讲的部分的朋友们可以先从1:00 （一个小时）开始听。 https://twitter.com/bumingbaipod/status/1634822015063412736<br></div>
 
 ### 5: [2023-03-13 08:13:49+08:00 推文](https://twitter.com/realcaixia/status/1635071629456982017)
 
@@ -53,7 +53,7 @@ Re 也确有人被提拔习接见后，出来私下对人说“那一刻，恨�
 
 ### 10: [2023-03-13 11:07:13+08:00 推文](https://twitter.com/realcaixia/status/1635115266979004425)
 
-又是一期十分精彩的访谈。 https://twitter.com/liyuan6/status/1634849836624400386<div class="rsshub-quote"><br><br>Li Yuan: 有力量的艺术和表达是要有态度的，在一个不允许批判、讽刺、戏谑的国家，想自由表达的艺术家或者沉默，或者被迫害，或者只有离开。<br>非常感谢 @hehuangcomedy @badiucao @geleilaoshi 做客不明白播客，分享他们在墙国之外的遭遇和感受。 https://twitter.com/bumingbaipod/status/1634822015063412736<br></div>
+又是一期十分精彩的访谈。<div class="rsshub-quote"><br><br>Li Yuan: 有力量的艺术和表达是要有态度的，在一个不允许批判、讽刺、戏谑的国家，想自由表达的艺术家或者沉默，或者被迫害，或者只有离开。<br>非常感谢 @hehuangcomedy @badiucao @geleilaoshi 做客不明白播客，分享他们在墙国之外的遭遇和感受。<br></div>
 
 ### 11: [2023-03-13 12:22:24+08:00 推文](https://twitter.com/realcaixia/status/1635134189048832001)
 
@@ -102,4 +102,12 @@ Re @TDTCCP @keke201707 並且黨國特色！
 ### 22: [2023-03-15 23:08:45+08:00 推文](https://twitter.com/realcaixia/status/1636021623219421184)
 
 習當局一貫反人性反文明。張思之老先生去世告別儀式絕不允許非親屬參加，現在最後告別蔣彥永先生依舊不准朋友參加，還不准公開遺體告別儀式，不准接受公眾哀悼送花籃，送花圈輓聯要經單位審查；不准接受媒體採訪。習當局槍在手、錢在手、刀在手，還什麼都怕，怕說2952、怕說袁二、怕祖墳破風水⋯⋯ https://t.co/l9kxKzMMFL<br><img style="" src="https://pbs.twimg.com/media/FrRQ_hlacAECoT1?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 23: [2023-03-16 01:48:00+08:00 推文](https://twitter.com/realcaixia/status/1636061701966815234)
+
+推友說得太好了！蔣彥永醫生是唯一把2003年SARS、2019年至今的COVID-19 、1989年6.4凝集於一身的歷史性人物。<br>若中國有先賢祠，蔣彥永、李銳、何方、李洪林、杜光、李普、胡績偉、王若望、王若水、王元化、劉冰雁，方勵之等前輩必定在列。<br>而袁世凱、毛澤東、袁二世等必定被釘在中國歷史恥辱柱上。 https://twitter.com/uyunistar/status/1635848341891448834<div class="rsshub-quote"><br><br>赵兰健: ［蒋彦永：中华民族骄傲史诗符号］<br>蒋彦永医生是唯一能把2003年非典、新冠疫情、六四事件三件重要历史凝结在一起的全球关注焦点人物。他的超小型告别仪式正在戒备森严下举办。很多亲人、战友、同事都未被允许参加。自从2019年他被关起来后到现在，基本完全噤声，亲友全被威胁和限制。 https://t.co/aJjn9Gk1Tp<br><br><img style="" src="https://pbs.twimg.com/media/FrOzZcpXgAA-DbB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 24: [2023-03-16 02:37:17+08:00 推文](https://twitter.com/realcaixia/status/1636074101642240000)
+
+Re @roverguo 可以討論。袁世凱稱帝無論如何是恥辱，他不像英國女王那樣成為一個民族的象徵，君主立憲後，女王超越世俗社會的左右紛爭而被全英國民眾接受認可。<br>袁世凱在推翻帝制後再上台稱帝，當時的各地起來聲討反對。袁世凱稱帝與英國至今有王室是不同性質的兩回事。
 
