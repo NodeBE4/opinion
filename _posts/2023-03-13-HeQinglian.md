@@ -37,7 +37,7 @@ Re @DZhe1984 @Isabel_3299 左派一向玩名实脱离伎俩，当一个名词好
 
 ### 6: [2023-03-13 03:46:28+08:00 推文](https://twitter.com/HeQinglian/status/1635004348504887296)
 
-就我而言，是支持川普的政治主张与相关政策，以及这种主张与政策对传统生活方式的守护。挺拜的人也同样如此，是支持拜登政治主张与政策对美国传统生活方式的颠覆。<br>我相信多数挺川的都如此。<br>你的留言证明你的水平。<div class="rsshub-quote"><br><br>老枪: @HeQinglian 挺拜的都认为拜是有缺陷的，挺川的都认为川是完美的。<br></div>
+就我而言，是支持川普的政治主张与相关政策，以及这种主张与政策对传统生活方式的守护。挺拜的人也同样如此，是支持拜登政治主张与政策对美国传统生活方式的颠覆。<br>我相信多数挺川的都如此。<br>你的留言证明你的水平。 https://twitter.com/akakak474747/status/1634986969536270338<div class="rsshub-quote"><br><br>老枪: @HeQinglian 挺拜的都认为拜是有缺陷的，挺川的都认为川是完美的。<br></div>
 
 ### 7: [2023-03-13 03:50:15+08:00 推文](https://twitter.com/HeQinglian/status/1635005299668160512)
 
@@ -281,7 +281,7 @@ Re @BA17B8BB9 完全不是一回事。<br>俄乌战争是近30年前美国定出
 
 ### 67: [2023-03-14 03:51:39+08:00 推文](https://twitter.com/HeQinglian/status/1635368039830130688)
 
-Re @qihang19211 简单讲：<br>1、能源格局洗牌，中调整到有利位置，此后俄是中国的最大供家；<br>2、BRICKS势力扩张，原来一直想弄的内部支付系统这次轻易成了（去美元化，人民币国际化）；<br>3、和平12条饱受西方批评，说中国没有资格调停和平。中方立刻表演沙伊建立外交关系、中沙伊联盟。泽连斯基终于求来了与习通电话的机会
+RT He Qinglian<br>Re @qihang19211 简单讲：<br>1、能源格局洗牌，中调整到有利位置，此后俄是中国的最大供家；<br>2、BRICKS势力扩张，原来一直想弄的内部支付系统这次轻易成了（去美元化，人民币国际化）；<br>3、和平12条饱受西方批评，说中国没有资格调停和平。中方立刻表演沙伊建立外交关系、中沙伊联盟。泽连斯基终于求来了与习通电话的机会
 
 ### 68: [2023-03-14 03:52:23+08:00 推文](https://twitter.com/HeQinglian/status/1635368227072270338)
 
@@ -373,7 +373,7 @@ Re @JianglinLi @PrezXi 如果自带饭辙，那当然可以。需要赏饭可能
 
 ### 90: [2023-03-14 10:49:55+08:00 推文](https://twitter.com/shenliangqing2/status/1635473304093097985)
 
-RT 沈良庆二世<br>痴呆政府主导下的西方国家地缘政治：外交战略“既要…也要”第六病室辩证法<div class="rsshub-quote"><br><br>联合早报 Lianhe Zaobao: 英国在更新版的外交政策框架中，将中国视为对世界秩序构成“划时代的挑战”，但它也表明，倾向于与北京增进合作与理解，并指英国的安全取决于乌克兰战争的结果。 https://www.zaobao.com.sg/realtime/world/story20230314-1372356<br></div>
+RT 沈良庆二世<br>痴呆政府主导下的西方国家地缘政治：外交战略“既要…也要”第六病室辩证法 https://twitter.com/zaobaosg/status/1635437821245763588<div class="rsshub-quote"><br><br>联合早报 Lianhe Zaobao: 英国在更新版的外交政策框架中，将中国视为对世界秩序构成“划时代的挑战”，但它也表明，倾向于与北京增进合作与理解，并指英国的安全取决于乌克兰战争的结果。 https://www.zaobao.com.sg/realtime/world/story20230314-1372356<br></div>
 
 ### 91: [2023-03-14 22:01:26+08:00 推文](https://twitter.com/HeQinglian/status/1635642293825699850)
 
@@ -581,11 +581,11 @@ Re @O43DGSy2NA4BdKf 好，如此甚好。法事做完了，请通知一声。�
 
 ### 142: [2023-03-16 01:11:48+08:00 推文](https://twitter.com/HeQinglian/status/1636052591699189763)
 
-每逢谈大麻有害时，就有些推主来我这谈大麻的好处，以及烟酒的坏处。<br>这种蠢货的思路是：不管什么有害东西，总得沾一样，数害相权取其轻（这轻是想出来的）。<br>坚决不同情。 https://twitter.com/KELMAND1/status/1635895141151158273<div class="rsshub-quote"><br><br>Ezio Mao☢: 《纽约邮报》讲述了一个美国新的不幸 - 年轻人正在大量吸入“笑气”，这已经成为一种新的毒瘾。<br><br>你认为应该怪谁？当然不是美国，不是社会氛围，不是智力水平或者道德教育。好吧，你猜对了，对吧？没错，就是中国。<br><br>为什么？因为吸完发到网上，叫whiptok（Whippit+TikTok）😅<br><br>https://nypost.com/2023/03/14/inside-gen-zs-hippy-crack-epidemic-bigger-risk-than-cocaine/<br></div>
+每逢谈大麻有害时，就有些推主来我这谈大麻的好处，以及烟酒的坏处。<br>这种蠢货的思路是：不管什么有害东西，总得沾一样，数害相权取其轻（这轻是想出来的）。<br>坚决不同情。<div class="rsshub-quote"><br><br>Ezio Mao☢: 《纽约邮报》讲述了一个美国新的不幸 - 年轻人正在大量吸入“笑气”，这已经成为一种新的毒瘾。<br><br>你认为应该怪谁？当然不是美国，不是社会氛围，不是智力水平或者道德教育。好吧，你猜对了，对吧？没错，就是中国。<br><br>为什么？因为吸完发到网上，叫whiptok（Whippit+TikTok）😅<br><br>https://nypost.com/2023/03/14/inside-gen-zs-hippy-crack-epidemic-bigger-risk-than-cocaine/<br></div>
 
 ### 143: [2023-03-16 03:58:53+08:00 推文](https://twitter.com/HeQinglian/status/1636094638594441216)
 
-民主党当政，掠财明目张胆。<br>比如白宫决定全额赔付SVB储户开了个危险的先例，因为联邦储蓄保险的赔付从来都有上限。<br>纽约邮报等因此去挖这家银行的背景，硅谷银行的 12 位董事当中，有人是奥克拜三位总统与舒默的超级捐款人，有位是奥前官员，还有一位是波洛西邻居——纳帕谷葡萄园的主人。<br>储户都有谁？ https://twitter.com/Lucs24659702/status/1636061969538244623<div class="rsshub-quote"><br><br>Lucs: 民主党国会议员的慈善机构在开曼群岛拥有超过3000万美元<br><br>代表Daniel Goldman（纽约州民主党）的非营利组织Richard W.据福克斯新闻报道，高盛家庭基金会报告称，在开曼群岛组织了价值超过3200万美元的投资。<br> https://www.oann.com/newsroom/democrat-congressmans-charity-has-more-than-30-million-in-cayman-islands/<br></div>
+民主党当政，掠财明目张胆。<br>比如白宫决定全额赔付SVB储户开了个危险的先例，因为联邦储蓄保险的赔付从来都有上限。<br>纽约邮报等因此去挖这家银行的背景，硅谷银行的 12 位董事当中，有人是奥克拜三位总统与舒默的超级捐款人，有位是奥前官员，还有一位是波洛西邻居——纳帕谷葡萄园的主人。<br>储户都有谁？<div class="rsshub-quote"><br><br>Lucs: 民主党国会议员的慈善机构在开曼群岛拥有超过3000万美元<br><br>代表Daniel Goldman（纽约州民主党）的非营利组织Richard W.据福克斯新闻报道，高盛家庭基金会报告称，在开曼群岛组织了价值超过3200万美元的投资。<br> https://www.oann.com/newsroom/democrat-congressmans-charity-has-more-than-30-million-in-cayman-islands/<br></div>
 
 ### 144: [2023-03-16 04:09:15+08:00 推文](https://twitter.com/HeQinglian/status/1636097246390255617)
 
@@ -630,4 +630,40 @@ Re @JianglinLi @arfred_1979 @fading_you1 旧金山每位黑人获赔500万美元
 ### 154: [2023-03-16 08:47:12+08:00 推文](https://twitter.com/HeQinglian/status/1636167193246281729)
 
 Re @SSK2024 他要表达的，正是主流媒体要表达的。
+
+### 155: [2023-03-16 21:10:56+08:00 推文](https://twitter.com/fading_you1/status/1636354363802230784)
+
+RT 天降伟人包由检<br>郭员外当年成立推特党，几多丑类大捧臭脚，头顶破锅一口跳忠字舞。我当时有感而发，做了腊肉体沁园春一首，今日看来，还是不禁哑然失笑 https://twitter.com/fading_you1/status/894958256350568448<div class="rsshub-quote"><br><br>天降伟人包由检: 推特新党，沐猴而冠，好生热闹。望郭门内外，几多草莽；油管上下，大呼小叫。坑蒙拐骗，说学逗唱，蚂蚱欲把龙门跳。须录音，看原形毕露，两面三刀。<br>员外许多美钞，引无数泼皮竞折腰。惜建民洪宽，首鼠两端；雾婷猴王，徐娘半老。最是风骚，宝胜牧师，耶稣教训忘底儿掉。俱往矣，数下流人物，独尊柏桥 https://twitter.com/fufuji97/status/894946055522885632<br></div>
+
+### 156: [2023-03-16 21:22:43+08:00 推文](https://twitter.com/HeQinglian/status/1636357327971393537)
+
+Re @fading_you1 @JianglinLi @arfred_1979 用途自然由拿到的贵族们自由支配。<br>我其实在想一个问题：这八个标准，应该是按照旧金山某贵族国会议员家的条件定制的，完全符合标准的，加州可能不超过一万人。
+
+### 157: [2023-03-16 21:28:40+08:00 推文](https://twitter.com/HeQinglian/status/1636358824754925574)
+
+2008年至今美国已关闭银行537家。<br>美国有一套明确的银行退出机制，该国银行业现行的监管体系是双轨制，由联邦政府或州政府对各银行机构(包括在美运作的各类外国银行机构)实施监管。<br>FDIC在银行破产处置中享有高度“自由”，形成了一套完善的银行破产机制。<br>这次的破例是白宫干预， 赔偿无上限。 https://twitter.com/9bwzqf80f4NkkJV/status/1636263069268561921<div class="rsshub-quote"><br><br>张一: @HeQinglian 如果民主党违规救助该银行，共和党的议员应该反对，但是现在的两大党好像“打成一片”，共同对付川普和支持者。美国的政坛好像很陈旧了，川普给美国的政坛输入新血液，让老政客们有点危机感，如果川普不回到白宫，美国的国会和白宫与一个党控制也没有区别。<br></div>
+
+### 158: [2023-03-16 21:33:59+08:00 推文](https://twitter.com/HeQinglian/status/1636360162884608000)
+
+Re @Tepezano161 自然是先找接盘侠购买，追债之类。FDIC从1930年代成立至今天，2008年后扩权，钱不用愁。<br>这事与国会没啥关系。<br>硅谷银行成立于1980年代，Woke之前，彻底改组过一次。加州州政府有充分权力介入。
+
+### 159: [2023-03-16 21:37:58+08:00 推文](https://twitter.com/HeQinglian/status/1636361165310754818)
+
+Re @fading_you1 “黄绢幼妇，外孙齑臼”——绝妙好词。👍👍
+
+### 160: [2023-03-16 21:39:54+08:00 推文](https://twitter.com/HeQinglian/status/1636361652168794112)
+
+人从65岁开始，一定要坚定断舍离之意，开始处理身后事。 https://twitter.com/FanrongY/status/1636148028057833472<div class="rsshub-quote"><br><br>Feebe: 生前珍惜的东西<br>身后在别人眼中<br>却成了垃圾 https://t.co/OMHgEcahJm<br><br><img style="" src="https://pbs.twimg.com/media/FrTD9UxXoAE8g_5?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 161: [2023-03-16 21:51:13+08:00 推文](https://twitter.com/HeQinglian/status/1636364500558290944)
+
+摩根大通：美联储紧急贷款计划将提供2万亿美元流动性<br>点评：这事让我想起中国寓言，夹板治驼背。<br>美国国债这驼背这几年很严重，拜登政府所赐。<br>然后走路都很困难，于是加息，银行资金抽走——上夹板将驼背踩直；<br>流动性枯竭，导致本来就因Woke政治化经营的硅谷银行等破产——于是又开始吃药，为驼峰养肉。
+
+### 162: [2023-03-16 21:59:25+08:00 推文](https://twitter.com/HeQinglian/status/1636366563346456576)
+
+Re @yeyuhandu 别做梦了。我这里没这类适合寒门中学的书，连老师也不看。<br>数年前已经处理了2000多本。
+
+### 163: [2023-03-16 22:30:10+08:00 推文](https://twitter.com/HeQinglian/status/1636374302848331778)
+
+美国对华战略判断对世界的影响<br>https://www.sbs.com.au/language/chinese/zh-hans/article/the-impact-of-us-strategic-assessment-on-china-on-the-world/swuva70zs<br>3月上旬，中美两国领导人习近平与拜登过了一招，先后就两国关系发表了非正式讲话，引出了一个两国媒体都一直不愿意挑明的话题：两国为将要发生的冲突是否做好了准备？
 
