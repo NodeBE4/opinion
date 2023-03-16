@@ -21,7 +21,7 @@ RT Mike Chinoy<br>My new book on the history of American journalists in China,
 
 ### 2: [2023-01-17 11:26:57+08:00 推文](https://twitter.com/yunjulietzhou/status/1615188899717910528)
 
-RT Yun Zhou<br>This is a sea change (while buried at the end): China’s National Bureau of Statistics has put out an official report of population shrinkage—not just slowed growth—but actual decline.<br><img style="" src="https://pbs.twimg.com/media/FmpNko-XEAELiZF?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FmpNko9XoAUUKtF?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT Yun Zhou<br>This is a sea change (while buried at the end): China’s National Bureau of Statistics has put out an official report of population shrinkage—not just slowed growth—but actual decline. https://t.co/Q0kBZX4ASi<br><img style="" src="https://pbs.twimg.com/media/FmpNko-XEAELiZF?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FmpNko9XoAUUKtF?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2023-01-19 05:32:01+08:00 推文](https://twitter.com/EmilyZFeng/status/1615824356508147723)
 
@@ -29,7 +29,7 @@ RT Emily Feng 冯哲芸<br>This is the best piece I've seen on the rural Covid
 
 ### 4: [2023-01-19 11:35:35+08:00 推文](https://twitter.com/cnmediaproject/status/1615915850187567106)
 
-In CMP's latest "Going Global" column, David Bandurski studies the recent report card on global propaganda efforts published in the People's Daily. https://chinamediaproject.org/2023/01/19/chinese-propaganda-coming-to-a-local-paper-near-you/
+In CMP's latest "Going Global" column, David Bandurski studies the recent report card on global propaganda efforts published in the People's Daily. <a href="https://chinamediaproject.org/2023/01/19/chinese-propaganda-coming-to-a-local-paper-near-you/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2023/01/19/chinese-propaganda-coming-to-a-local-paper-near-you/</a>
 
 ### 5: [2023-01-19 11:37:36+08:00 推文](https://twitter.com/cnmediaproject/status/1615916359116017667)
 
