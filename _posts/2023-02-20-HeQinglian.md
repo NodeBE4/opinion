@@ -201,7 +201,7 @@ Re @washearg 除了美国还有些家底，其余的国家，就算了吧。
 
 ### 47: [2023-02-21 23:05:51+08:00 推文](https://twitter.com/HeQinglian/status/1628048359180181507)
 
-RT He Qinglian<br>Re @Lucs24659702 很多乌鸡血们，包括那位说自己“曾经是农民、永远是农民”的“瞧瞧桥”老妹子在内，不相信乌克兰的第10次征兵令，这是原推，信不信由他们，懂乌语的请好心一点翻译给她听，让她再也不要在见识上“永远是农民”。<div class="rsshub-quote"><br><br>绫波: 乌克兰泽连斯基发起第10次征兵令，打算征召100万名士兵。<br><br>征兵令中规定，成年男性65岁以上，85岁以下必须参军。<br><br><img style="" src="https://pbs.twimg.com/media/FpYOaBgaYAAL-9z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+Re @Lucs24659702 很多乌鸡血们，包括那位说自己“曾经是农民、永远是农民”的“瞧瞧桥”老妹子在内，不相信乌克兰的第10次征兵令，这是原推，信不信由他们，懂乌语的请好心一点翻译给她听，让她再也不要在见识上“永远是农民”。<div class="rsshub-quote"><br><br>绫波: 乌克兰泽连斯基发起第10次征兵令，打算征召100万名士兵。<br><br>征兵令中规定，成年男性65岁以上，85岁以下必须参军。<br><br><img style="" src="https://pbs.twimg.com/media/FpYOaBgaYAAL-9z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 48: [2023-02-21 23:08:41+08:00 推文](https://twitter.com/HeQinglian/status/1628049071679188993)
 
@@ -225,7 +225,7 @@ Re @qqiaoqiao @Lucs24659702 你在推上找出三个以上比我更严谨的吧�
 
 ### 53: [2023-02-21 23:26:50+08:00 推文](https://twitter.com/HeQinglian/status/1628053641792786432)
 
-话说得这么直白，乌鸡血们又要来喷洒正义的热血了。<div class="rsshub-quote"><br><br>Isabel👑💎WW: 我再说一遍，挺俄需要更高门槛，因为需要对历史和现实重新认知，<br><br>挺乌不需要任何头脑，只需要情怀，而且这种情怀还是几十年人家灌输给你的。<br> <a href="https://twitter.com/123450terry/status/1627877464344231936" target="_blank" rel="noopener noreferrer">https://twitter.com/123450terry/status/1627877464344231936</a></div>
+话说得这么直白，乌鸡血们又要来喷洒正义的热血了。<div class="rsshub-quote"><br><br>Isabel👑💎WW: 我再说一遍，挺俄需要更高门槛，因为需要对历史和现实重新认知，<br><br>挺乌不需要任何头脑，只需要情怀，而且这种情怀还是几十年人家灌输给你的。<br></div>
 
 ### 54: [2023-02-21 23:31:02+08:00 推文](https://twitter.com/HeQinglian/status/1628054698199552002)
 
@@ -645,7 +645,7 @@ Re @Vince6610 近五年，美国已从中国第一大贸易伙伴，成为中国
 
 ### 158: [2023-02-24 06:46:38+08:00 推文](https://twitter.com/HeQinglian/status/1628889095509344256)
 
-俄乌战争以来，很多事美国没办好的原因，尤其是对俄制裁失败，主要是没弄清楚一点：<br>自2010年以来，全球化分工体系已经成为生产国、消费国与资源国，三类国家是互相依赖的互补关系。<br>美国是世界最大消费国，世界贸易顺差的主要来源；中国是生产国；俄罗斯是资源国，德国既是生产国（高端）又是消费国。<div class="rsshub-quote"><br><br>天降伟人包由检: 民主党机关报也觉得让俄罗斯内部推翻普京不那么现实，然后一直以来不知道哪根筋搭错了，总是特别希望包总来劝普京停手。这真挺有趣。我要是包总，肯定跟老美说“行啊，那总得有点好处吧……” https://t.co/Ma8VwyTLkX<br><br><img style="" src="https://pbs.twimg.com/media/FprvbLEWcAE-LQE?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLAWIAEkp__?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLAXgAI4e7z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLEXgAUvSha?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+俄乌战争以来，很多事美国没办好的原因，尤其是对俄制裁失败，主要是没弄清楚一点：<br>自2010年以来，全球化分工体系已经成为生产国、消费国与资源国，三类国家是互相依赖的互补关系。<br>美国是世界最大消费国，世界贸易顺差的主要来源；中国是生产国；俄罗斯是资源国，德国既是生产国（高端）又是消费国。 https://twitter.com/fading_you1/status/1628877470769246208<div class="rsshub-quote"><br><br>天降伟人包由检: 民主党机关报也觉得让俄罗斯内部推翻普京不那么现实，然后一直以来不知道哪根筋搭错了，总是特别希望包总来劝普京停手。这真挺有趣。我要是包总，肯定跟老美说“行啊，那总得有点好处吧……” https://t.co/Ma8VwyTLkX<br><br><img style="" src="https://pbs.twimg.com/media/FprvbLEWcAE-LQE?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLAWIAEkp__?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLAXgAI4e7z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLEXgAUvSha?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 159: [2023-02-24 07:05:36+08:00 推文](https://twitter.com/HeQinglian/status/1628893868212072448)
 
@@ -661,7 +661,7 @@ Re @3223_408 是今年吧？什么叫高增长？我不太看预期增长，只�
 
 ### 162: [2023-02-24 08:52:09+08:00 推文](https://twitter.com/HeQinglian/status/1628920683483787264)
 
-今年前两个月，浙江许多大家电生产企业订单都出现了快速增长。“今年前两个月，返单的单量已经比去年同期增长了20%以上。”<br>对你，可能我得从ABC教起：数据比较有环比、月比、季度比。你能分辨出是什么比？<br>对你这种人，值得我花心思吗？<br>还是喊口号对你较合适。<div class="rsshub-quote"><br><br>UniversalValuesMatter: @HeQinglian 比起什么时候上升？😂 佩服佩服，教授水平真高👍<br></div>
+今年前两个月，浙江许多大家电生产企业订单都出现了快速增长。“今年前两个月，返单的单量已经比去年同期增长了20%以上。”<br>对你，可能我得从ABC教起：数据比较有环比、月比、季度比。你能分辨出是什么比？<br>对你这种人，值得我花心思吗？<br>还是喊口号对你较合适。 https://twitter.com/KittieInDream/status/1628905393824092160<div class="rsshub-quote"><br><br>UniversalValuesMatter: @HeQinglian 比起什么时候上升？😂 佩服佩服，教授水平真高👍<br></div>
 
 ### 163: [2023-02-24 08:56:25+08:00 推文](https://twitter.com/HeQinglian/status/1628921758215507968)
 
