@@ -193,7 +193,7 @@ Re @vivivippp1 有条消息，说内部人在破产前24小时提取存款。
 
 ### 45: [2023-03-13 22:42:06+08:00 推文](https://twitter.com/HeQinglian/status/1635290139399458817)
 
-‘Get woke, go broke’ https://www.businesstoday.in/silicon-valley-bank/story/get-woke-go-broke-silicon-valley-banks-top-woman-executive-lgbtq-activist-gets-targeted-for-lenders-failure-373067-2023-03-12<br>到现在为止，如果还不认识以下事实，只能说是无感：欧洲尤其是绿色先锋德国洗绿，欧盟碳税不能收了，另起名目收取气候补偿基金，这一事实标志绿能破产。<br>大重置将随着2024美国选举拜登政府下台而结束——除了这个集团比2020更疯狂地盗票。 https://twitter.com/Vince6610/status/1635259128812810240<div class="rsshub-quote"><br><br>Vince66: @HeQinglian 谢谢总结分享.  除了woke 这个银行的操作风险高<br></div>
+‘Get woke, go broke’ https://www.businesstoday.in/silicon-valley-bank/story/get-woke-go-broke-silicon-valley-banks-top-woman-executive-lgbtq-activist-gets-targeted-for-lenders-failure-373067-2023-03-12<br>到现在为止，如果还不认识以下事实，只能说是无感：欧洲尤其是绿色先锋德国洗绿，欧盟碳税不能收了，另起名目收取气候补偿基金，这一事实标志绿能破产。<br>大重置将随着2024美国选举拜登政府下台而结束——除了这个集团比2020更疯狂地盗票。<div class="rsshub-quote"><br><br>Vince66: @HeQinglian 谢谢总结分享.  除了woke 这个银行的操作风险高<br></div>
 
 ### 46: [2023-03-13 22:43:23+08:00 推文](https://twitter.com/HeQinglian/status/1635290465041027077)
 
@@ -581,11 +581,11 @@ Re @O43DGSy2NA4BdKf 好，如此甚好。法事做完了，请通知一声。�
 
 ### 142: [2023-03-16 01:11:48+08:00 推文](https://twitter.com/HeQinglian/status/1636052591699189763)
 
-每逢谈大麻有害时，就有些推主来我这谈大麻的好处，以及烟酒的坏处。<br>这种蠢货的思路是：不管什么有害东西，总得沾一样，数害相权取其轻（这轻是想出来的）。<br>坚决不同情。<div class="rsshub-quote"><br><br>Ezio Mao☢: 《纽约邮报》讲述了一个美国新的不幸 - 年轻人正在大量吸入“笑气”，这已经成为一种新的毒瘾。<br><br>你认为应该怪谁？当然不是美国，不是社会氛围，不是智力水平或者道德教育。好吧，你猜对了，对吧？没错，就是中国。<br><br>为什么？因为吸完发到网上，叫whiptok（Whippit+TikTok）😅<br><br>https://nypost.com/2023/03/14/inside-gen-zs-hippy-crack-epidemic-bigger-risk-than-cocaine/<br></div>
+每逢谈大麻有害时，就有些推主来我这谈大麻的好处，以及烟酒的坏处。<br>这种蠢货的思路是：不管什么有害东西，总得沾一样，数害相权取其轻（这轻是想出来的）。<br>坚决不同情。 https://twitter.com/KELMAND1/status/1635895141151158273<div class="rsshub-quote"><br><br>Ezio Mao☢: 《纽约邮报》讲述了一个美国新的不幸 - 年轻人正在大量吸入“笑气”，这已经成为一种新的毒瘾。<br><br>你认为应该怪谁？当然不是美国，不是社会氛围，不是智力水平或者道德教育。好吧，你猜对了，对吧？没错，就是中国。<br><br>为什么？因为吸完发到网上，叫whiptok（Whippit+TikTok）😅<br><br>https://nypost.com/2023/03/14/inside-gen-zs-hippy-crack-epidemic-bigger-risk-than-cocaine/<br></div>
 
 ### 143: [2023-03-16 03:58:53+08:00 推文](https://twitter.com/HeQinglian/status/1636094638594441216)
 
-民主党当政，掠财明目张胆。<br>比如白宫决定全额赔付SVB储户开了个危险的先例，因为联邦储蓄保险的赔付从来都有上限。<br>纽约邮报等因此去挖这家银行的背景，硅谷银行的 12 位董事当中，有人是奥克拜三位总统与舒默的超级捐款人，有位是奥前官员，还有一位是波洛西邻居——纳帕谷葡萄园的主人。<br>储户都有谁？<div class="rsshub-quote"><br><br>Lucs: 民主党国会议员的慈善机构在开曼群岛拥有超过3000万美元<br><br>代表Daniel Goldman（纽约州民主党）的非营利组织Richard W.据福克斯新闻报道，高盛家庭基金会报告称，在开曼群岛组织了价值超过3200万美元的投资。<br> https://www.oann.com/newsroom/democrat-congressmans-charity-has-more-than-30-million-in-cayman-islands/<br></div>
+民主党当政，掠财明目张胆。<br>比如白宫决定全额赔付SVB储户开了个危险的先例，因为联邦储蓄保险的赔付从来都有上限。<br>纽约邮报等因此去挖这家银行的背景，硅谷银行的 12 位董事当中，有人是奥克拜三位总统与舒默的超级捐款人，有位是奥前官员，还有一位是波洛西邻居——纳帕谷葡萄园的主人。<br>储户都有谁？ https://twitter.com/Lucs24659702/status/1636061969538244623<div class="rsshub-quote"><br><br>Lucs: 民主党国会议员的慈善机构在开曼群岛拥有超过3000万美元<br><br>代表Daniel Goldman（纽约州民主党）的非营利组织Richard W.据福克斯新闻报道，高盛家庭基金会报告称，在开曼群岛组织了价值超过3200万美元的投资。<br> https://www.oann.com/newsroom/democrat-congressmans-charity-has-more-than-30-million-in-cayman-islands/<br></div>
 
 ### 144: [2023-03-16 04:09:15+08:00 推文](https://twitter.com/HeQinglian/status/1636097246390255617)
 
@@ -625,7 +625,7 @@ Re @wto518 郭文贵竟然成了“民运”的三大支派之一？
 
 ### 153: [2023-03-16 08:42:16+08:00 推文](https://twitter.com/HeQinglian/status/1636165954563461121)
 
-RT He Qinglian<br>Re @JianglinLi @arfred_1979 @fading_you1 旧金山每位黑人获赔500万美元：<br>申请人须年满18岁并证明自己符合八项额外标准中的两项：1940-96年出生或移民旧金山，本人或直系亲属曾在“失败的毒品战争”期间被监禁，祖先是1865年前被奴役者……<br>https://nypost.com/2023/01/16/sf-reparations-panel-proposes-5m-lump-sum-payment-to-eligible-residents/<br>如果SVB未倒闭，应该是经营这项业务的首选。
+Re @JianglinLi @arfred_1979 @fading_you1 旧金山每位黑人获赔500万美元：<br>申请人须年满18岁并证明自己符合八项额外标准中的两项：1940-96年出生或移民旧金山，本人或直系亲属曾在“失败的毒品战争”期间被监禁，祖先是1865年前被奴役者……<br>https://nypost.com/2023/01/16/sf-reparations-panel-proposes-5m-lump-sum-payment-to-eligible-residents/<br>如果SVB未倒闭，应该是经营这项业务的首选。
 
 ### 154: [2023-03-16 08:47:12+08:00 推文](https://twitter.com/HeQinglian/status/1636167193246281729)
 
@@ -666,4 +666,64 @@ Re @yeyuhandu 别做梦了。我这里没这类适合寒门中学的书，连老
 ### 163: [2023-03-16 22:30:10+08:00 推文](https://twitter.com/HeQinglian/status/1636374302848331778)
 
 美国对华战略判断对世界的影响<br>https://www.sbs.com.au/language/chinese/zh-hans/article/the-impact-of-us-strategic-assessment-on-china-on-the-world/swuva70zs<br>3月上旬，中美两国领导人习近平与拜登过了一招，先后就两国关系发表了非正式讲话，引出了一个两国媒体都一直不愿意挑明的话题：两国为将要发生的冲突是否做好了准备？
+
+### 164: [2023-03-16 22:47:37+08:00 推文](https://twitter.com/HeQinglian/status/1636378693965877249)
+
+Re 拜登政府刚刚自夸的没有通胀——经济界说的是近三个月维持平稳，这一下又得往上窜。<br>上个月拜登削减食物券，票仓们满意了么？部分票仓用食物券换大麻的路给阻断了。
+
+### 165: [2023-03-16 22:58:51+08:00 推文](https://twitter.com/HeQinglian/status/1636381520314392576)
+
+Re @shenliangqing2 如果能够重塑集体记忆，多好。<br>可惜Twitter老板不是他们。
+
+### 166: [2023-03-16 23:04:14+08:00 推文](https://twitter.com/HeQinglian/status/1636382873510096898)
+
+Re @fading_you1 美国的Woke，伟大领袖伟大的党只要他们上了道，剩下的就是他们自我折腾<br>比如变性的人只要走上这条道，剩余的岁月无论发生什么，自家承受。最多是发表一篇文章：我后悔了，不该受骗<br>可怜的是他们的爹娘家人，成天要为他们的医药费与各种社会后遗症操心。<br>SVB的董事们不太幸运，因为众议院不再是D党掌槌
+
+### 167: [2023-03-16 23:09:14+08:00 推文](https://twitter.com/HeQinglian/status/1636384131335729154)
+
+Re @BeiLihong @SSK2024 铺天盖地，给美联储紧急贷款计划将提供2万亿美元流动性提供了“民意基础”——刚宣布。<br>如果你在美国，等着通胀再窜升吧。
+
+### 168: [2023-03-16 23:10:24+08:00 推文](https://twitter.com/HeQinglian/status/1636384425322881024)
+
+Re @xgsw2012 旧书要看什么类别了。
+
+### 169: [2023-03-16 23:22:09+08:00 推文](https://twitter.com/HeQinglian/status/1636387385167712256)
+
+Re @CharlieVictor62 @fading_you1 @JianglinLi @arfred_1979 1940年至1996年出生或移民于旧金山，并住满13年的，看起来容易，其实不多。<br>再附加曾在政府反毒品战争中受害的（吸毒者一般不长寿），或者祖先是黑奴（至少美国副总统不合格，因其父亲是贩奴者）。
+
+### 170: [2023-03-16 23:24:17+08:00 推文](https://twitter.com/HeQinglian/status/1636387919773696004)
+
+Re @Isabel_3299 这宝都能成为你朋友？
+
+### 171: [2023-03-16 23:26:45+08:00 推文](https://twitter.com/HeQinglian/status/1636388542669795331)
+
+Re @fading_you1 @JianglinLi @arfred_1979 突然想起，白面不能一包接一包抽，电影中不是经常有人过量吸食，口吐白沫倒地不治的吸毒者么？可能一个月花五万吸食后，人就挂了。那补偿金不是一次性给，后面的，美国政府就省了。
+
+### 172: [2023-03-16 23:30:22+08:00 推文](https://twitter.com/HeQinglian/status/1636389452162682881)
+
+Re @JianglinLi @fading_you1 @arfred_1979 我注意到一现象：贵族吸毒者有一半是全家吸。再加上LGBTQI+等觉醒行为，后代可能只有三分之一有，不过，一位单亲妈妈可以生上四五个，总体生育率不变。
+
+### 173: [2023-03-16 23:31:01+08:00 推文](https://twitter.com/HeQinglian/status/1636389616600354821)
+
+Re @Isabel_3299 郭女人……，算了吧。
+
+### 174: [2023-03-16 23:32:51+08:00 推文](https://twitter.com/HeQinglian/status/1636390075650162688)
+
+Re @Isabel_3299 知道，我全给拉黑了，包括一位不那么疯的，后来我看她毫无悔意，也拉黑了。
+
+### 175: [2023-03-16 23:39:19+08:00 推文](https://twitter.com/HeQinglian/status/1636391704021422080)
+
+Re @wakeup_arrow 没收财产之后，如果刑期过重，送回中国。<br>美国每个犯人一天要花纳税人280美元。这是六七年前的数据，近几年通胀，应该更贵。
+
+### 176: [2023-03-16 23:41:04+08:00 推文](https://twitter.com/HeQinglian/status/1636392142426783745)
+
+Re @JianglinLi @fading_you1 @arfred_1979 反正就是他们吃饱了没事干，自我折腾的事儿。
+
+### 177: [2023-03-16 23:45:21+08:00 推文](https://twitter.com/HeQinglian/status/1636393220450967553)
+
+Re @shenliangqing2 他与Woke活成一个笑话，这是很快就要被验证的事实。<br>可惜了陪他们进地狱的大好美国，一大批退休者将因他的这几年永远改变人生。
+
+### 178: [2023-03-16 23:46:43+08:00 推文](https://twitter.com/HeQinglian/status/1636393566002987008)
+
+Re @Isabel_3299 不说了。我认为，这些女人是毒药原料。一个个中年女郭粉荷尔蒙太过旺盛，当真是羞耻心也不要了。
 
