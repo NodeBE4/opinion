@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-03-15
+date: 2023-03-16
 from: https://old.reddit.com/r/AskHistorians/comments/11ptb1u/scientology_has_a_number_of_secret_doctrines/
 layout: post
 tags:
@@ -46,4 +46,12 @@ The picture becomes further complicated, however, when we consider that these ar
 So even if you did want to draw a clean genealogy, you don't really get one: the Taiping-era *Yongying* didn't uniformly transform into the New Army, which did not uniformly transition into the warlord armies. Moreover, as suggested earlier, these were not armies of comparable nature. It is easy to overlook that the *Yongying* armies were commanded by civilian officials given temporary extraordinary powers to maintain and command military forces, not by professional career officers as the New Army was. It is true that the heterogeneous army of 1911 ultimately broke apart in no small part thanks to the ability of charismatic individuals to consolidate control over their own portions, but they were originally, at their core, regional armies, maintained at provincial discretion and at provincial expense, along central directives. The rise of charismatic warlords was a bug rather than a feature. By contrast, the *Yongying* forces were fundamentally built around their charismatic leaders, and their regional character was somewhat more coincidental. Li Hongzhang's Huai Army, named for Anhui, spent most of its existence headquartered in Zhili because its commander had gone there; Zeng Guofan's Xiang Army, named for Hunan, ultimately recruited beyond its ostensible core province, even if it never outright shook its provincial reputation. The resemblances between the *Yongying* and the New Army, then, were largely superficial, and as has been said, the warlord armies were not simple successors of a fragmenting New Army.
 
 With that I think it is safe to say that Taiping-era military decentralisation really *didn't* lead to the Warlord Era. We can draw a chronological and causative chain, of course, but it is not one of a linear trajectory. The New Army *replaced* (well, mostly replaced) the Taiping-era militias in response to their failures, and had substantial organisational differences. The warlords did not receive the New Army wholesale, but drew on what troops they could, where they could. Two substantial points of rupture separate the Taiping from the warlords, both representing significant changes in direction.
+
+### 1144: [The Fastest possible Japanese Restoration!](https://old.reddit.com/r/victoria3/comments/11s2e3d/the_fastest_possible_japanese_restoration/), submitted on 2023-03-16 01:02:39+08:00.
+
+----- __1144.1__ -----2023-03-16 19:07:15+08:00:
+
+> At the time Japan was under a policy called Sakoku, literally translates to locked country.
+
+Nope. *Sakoku* was a term retroactively applied by opponents of the Shogunate to decry its apparent short-sightedness. Japan certainly did a lot to economically insulate itself, but it was not without interest in world affairs; hyper-protectionism rather than outright isolationism might be the best way of describing it.
 
