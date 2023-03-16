@@ -385,7 +385,7 @@ Re @Northpoleyyy 这些国家这些年是不是活得太顺了？居然丧失了
 
 ### 93: [2022-04-07 08:25:13+08:00 推文](https://twitter.com/HeQinglian/status/1511862624765587461)
 
-德国的混乱于此文可见：<br>1、快速的天然气禁运会给德意奥匈牙利等国带来巨大压力，明智的做法是，停止来自俄罗斯的煤炭进口。成员国可以很好的应对对俄罗斯煤炭的放弃。<br>2、德国驱逐了40名俄外交官是愚蠢的。外交确保对话，否则就只有武器能说话了。<br>3、真正的敌人是中国。<br><br>RFI 华语 - 法国国际广播电台: 德国物流业面临破产潮<br><br><img style="" src="https://pbs.twimg.com/media/FPszIJFVIAA9HNM?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8Jc1.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8Jc1.t</a>
+德国的混乱于此文可见：<br>1、快速的天然气禁运会给德意奥匈牙利等国带来巨大压力，明智的做法是，停止来自俄罗斯的煤炭进口。成员国可以很好的应对对俄罗斯煤炭的放弃。<br>2、德国驱逐了40名俄外交官是愚蠢的。外交确保对话，否则就只有武器能说话了。<br>3、真正的敌人是中国。
 
 ### 94: [2022-04-07 08:27:20+08:00 推文](https://twitter.com/HeQinglian/status/1511863159694450694)
 
@@ -773,7 +773,7 @@ Re @jeki50806373 仇俄可以理解。但天天指责中共撒谎的那群人热
 
 ### 190: [2022-04-08 22:12:01+08:00 推文](https://twitter.com/HeQinglian/status/1512433084335013902)
 
-农业大国的好消息。<br>左派一定要记住自家老祖宗、全球主义的中坚萨米尔·阿明的中心-边缘论：受压迫的是资源国与农业国，掠夺者是工业国（即老牌资本主义国家）<br>现在是受压迫者要翻身<br>不过，阿明实在没想到几个不好归类的国家：美、加、澳，它们既是资本主义掠夺者，又是资源农业兼具。<br>赶紧修改理论吧。<br><br>RFI 華語 - 法國國際廣播電台: 世界糧農組織指全球食品價格創歷史新高<br><br><img style="" src="https://pbs.twimg.com/media/FP066qPVEAIwYtI?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8JuC.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8JuC.t</a>
+农业大国的好消息。<br>左派一定要记住自家老祖宗、全球主义的中坚萨米尔·阿明的中心-边缘论：受压迫的是资源国与农业国，掠夺者是工业国（即老牌资本主义国家）<br>现在是受压迫者要翻身<br>不过，阿明实在没想到几个不好归类的国家：美、加、澳，它们既是资本主义掠夺者，又是资源农业兼具。<br>赶紧修改理论吧。
 
 ### 191: [2022-04-08 22:16:37+08:00 推文](https://twitter.com/HeQinglian/status/1512434241950343171)
 
@@ -1169,7 +1169,7 @@ BFM电视台网站公布的一项民调显示，马克龙的支持率再下降�
 
 ### 289: [2022-04-10 12:46:06+08:00 推文](https://twitter.com/HeQinglian/status/1513015443845521411)
 
-也许中文推特圈觉得勒庞当选的消息不咋的，但美国政治网站却如此反应：<br>白宫吓坏了  普京的下一个重大胜利可能是在巴黎<br><br>如果俄罗斯的辩护者马琳·勒庞赢得法国大选，华盛顿担心她可能会瓦解西方的北约联盟。<br>😂😂<br><br>He Qinglian: BFM电视台网站公布的一项民调显示，马克龙的支持率再下降两个百分点，来到26%，勒庞则是上升两个百分点至25%。<br><br>猜想：小马一定痛悔，没有及时引进无需验证选民身份的多米尼投票机，不知现在立法规定邮寄选票（选举日过后20天来都算数）是否来得及。<br> <a href="https://cn.reuters.com/article/france-presidential-election-0408-fri-idCNKCS2M1040" target="_blank" rel="noopener noreferrer">https://cn.reuters.com/article/france-presidential-election-0408-fri-idCNKCS2M1040</a>
+也许中文推特圈觉得勒庞当选的消息不咋的，但美国政治网站却如此反应：<br>白宫吓坏了  普京的下一个重大胜利可能是在巴黎<br><br>如果俄罗斯的辩护者马琳·勒庞赢得法国大选，华盛顿担心她可能会瓦解西方的北约联盟。<br>😂😂 <a href="https://www.politico.com/news/2022/04/08/white-house-putin-paris-00024054" target="_blank" rel="noopener noreferrer">https://www.politico.com/news/2022/04/08/white-house-putin-paris-00024054</a>
 
 ### 290: [2022-04-10 12:49:23+08:00 推文](https://twitter.com/HeQinglian/status/1513016270383423488)
 
@@ -1205,7 +1205,7 @@ Re @Wu_Zhi 自己相信就好，不是好多人都说美乌共享信息战非常
 
 ### 298: [2022-04-10 21:58:14+08:00 推文](https://twitter.com/HeQinglian/status/1513154388877062150)
 
-Re @telte99 @Colosseo77 因为我比你看得远。<br>第一层次：俄罗斯侵略乌克兰——你属于这个层次，大多数，70%；<br>第二层次：两国的历史恩怨，乌克兰本身的问题——25%；<br>第三层次：全球化失败后的大重置，拜登治下的美国是理想模式。<br>因此，你离我这远点，你还差得太远。就是左派思维，不同意见就是投共。
+RT He Qinglian<br>Re @telte99 @Colosseo77 因为我比你看得远。<br>第一层次：俄罗斯侵略乌克兰——你属于这个层次，大多数，70%；<br>第二层次：两国的历史恩怨，乌克兰本身的问题——25%；<br>第三层次：全球化失败后的大重置，拜登治下的美国是理想模式。<br>因此，你离我这远点，你还差得太远。就是左派思维，不同意见就是投共。
 
 ### 299: [2022-04-10 22:01:33+08:00 推文](https://twitter.com/HeQinglian/status/1513155223539306496)
 
