@@ -29,9 +29,9 @@ Re 3. Hong Kong was meant to be a safe haven and refuge. Generations of Chinese 
 
 Re 5. Most of us who repel and resist are not innately anti-CCP. I grew up cheering for the achievement of China and its great Olympic campaign in 2008. It was how they stripped away our freedoms, and the brutalities to its people that propelled us to do so. To dissent is a reaction
 
-### 4: [2022-08-15 20:37:34+08:00 推文](https://twitter.com/nathanlawkc/status/1559157351499894785)
+### 4: [2022-08-15 20:37:34+08:00 推文](https://twitter.com/nathanlawkc/status/1559157349813833728)
 
-Re 9. I've hosted more than 10 book talks in the UK, and the reactions have been phenomenal. Many readers from Hong Kong who relocated came and told me they cried as they read the book. It resonated with so many of our fellows and showed the traumas in their hearts.
+Re 8. This book is more than myself -- it carries a mission to spread HK people's brave fight against the dictator Xi. I hope it can be read by more and garner more support for our democratic movement. It's the vocation that I committed to throughout my life.
 
 ### 5: [2022-08-15 20:37:36+08:00 推文](https://twitter.com/nathanlawkc/status/1559157358810611713)
 
