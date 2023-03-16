@@ -37,7 +37,7 @@ Re @qianjinghua @SixthTone Sorry, just wondering how this links to China Media P
 
 ### 6: [2023-03-15 05:51:14+08:00 推文](https://twitter.com/MaryGao/status/1635760523617751041)
 
-RT Mary Gallagher<br>Funny (but not funny haha) that this Ohio bill bans cooperation with China, but then also requires that syllabi and lectures are vettable so that the state gov't can police academic speech. Which is very similar to what the CCP does to syllabi in China. 🤔 Another own goal.<div class="rsshub-quote"><br><br>Benjamin McKean: the bill not only requires “schools to publish online syllabuses for all their classes” and specifies they be “searchable by keywords or phrases,” it says syllabi must include “a general description…of each lecture” and “Biographical information on the instructor”<br></div>
+RT Mary Gallagher<br>Funny (but not funny haha) that this Ohio bill bans cooperation with China, but then also requires that syllabi and lectures are vettable so that the state gov't can police academic speech. Which is very similar to what the CCP does to syllabi in China. 🤔 Another own goal. https://twitter.com/BLMcKean/status/1635738548086120448<div class="rsshub-quote"><br><br>Benjamin McKean: the bill not only requires “schools to publish online syllabuses for all their classes” and specifies they be “searchable by keywords or phrases,” it says syllabi must include “a general description…of each lecture” and “Biographical information on the instructor” https://twitter.com/jbalmert/status/1635735700036354049<br></div>
 
 ### 7: [2023-03-15 06:59:37+08:00 推文](https://twitter.com/cnmediaproject/status/1635777733702864896)
 
@@ -46,4 +46,8 @@ Re @qianjinghua @SixthTone @thechinaproj No, this is true. It's unfortunate that
 ### 8: [2023-03-16 16:16:09+08:00 推文](https://twitter.com/cnmediaproject/status/1636280177356587008)
 
 Is a "newspaper" that spends far more on advertising than reporting and is funded almost entirely by a government's "Foreign Propaganda" group still a newspaper?<br><br>We dive into China Daily's latest FARA filings to find out what business they are really in.<br><br>https://chinamediaproject.org/2023/03/16/the-ins-and-outs-of-the-china-daily-usa/
+
+### 9: [2023-03-16 16:28:20+08:00 推文](https://twitter.com/melissakchan/status/1636283241601679363)
+
+RT Melissa Chan<br>Interesting look at China Daily's finances — further putting into question whether staffers there are journalists. This type of challenge concerning state media has also been discussed by ex-CPJ head @JoelSimonSays. From @rhokilpatrick at @cnmediaproject: https://chinamediaproject.org/2023/03/16/the-ins-and-outs-of-the-china-daily-usa/
 
