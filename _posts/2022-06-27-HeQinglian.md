@@ -145,7 +145,7 @@ Re @david_david1968 用大炮对准吧。我记得阿利托大法官曾有个发
 
 ### 33: [2022-06-28 08:21:24+08:00 推文](https://twitter.com/HeQinglian/status/1541577471098855426)
 
-你们还没看到这条：<br>冬天没气可用怎么办？东欧国家强硬表态：我们将焚烧所有东西取暖<br>环保理念梦碎一地。 <a href="https://www.euractiv.com/section/energy/news/czech-ambassador-we-will-burn-anything-we-can-to-keep-our-people-warm-this-winter/" target="_blank" rel="noopener noreferrer">https://www.euractiv.com/section/energy/news/czech-ambassador-we-will-burn-anything-we-can-to-keep-our-people-warm-this-winter/</a>
+你们还没看到这条：<br>冬天没气可用怎么办？东欧国家强硬表态：我们将焚烧所有东西取暖<br>环保理念梦碎一地。<br><br>zhix: @JianglinLi @zhixiangziyou @HeQinglian 自断后路的玩家，越玩越把自己整得越惨，<br>他们还笑得那样灿烂。<br>
 
 ### 34: [2022-06-28 08:35:55+08:00 推文](https://twitter.com/HeQinglian/status/1541581122429140992)
 
@@ -265,7 +265,7 @@ Re @chuangnanzoubei 烧木柴，除了美国之外，大头也是俄罗斯供。
 
 ### 63: [2022-06-30 02:18:16+08:00 推文](https://twitter.com/RealBeiMing/status/1542210860172582915)
 
-RT 北明BeiMing<br>白宮命名“變性人日”，克宮命名“家庭、愛與忠誠日”。<br><br>想起另一個類似的歷史事件：當年毛澤東在大陸發動“文化大革命運動”，蔣中正針鋒相對在台灣掀起了“中國文化復興運動”。<br><br>Lucs: 普京刚刚宣布 7 月 8 日为家庭、爱和忠诚日…我们的白宫宣布为变性人日。🤦🏻‍♀️<br><br><img style="" src="https://pbs.twimg.com/media/FWb_1q7VsAAlO76?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT 北明BeiMing<br>白宮命名“變性人日”，克宮命名“家庭、愛與忠誠日”。<br><br>想起另一個類似的歷史事件：當年毛澤東在大陸發動“文化大革命運動”，蔣中正針鋒相對在台灣掀起了“中國文化復興運動”。
 
 ### 64: [2022-06-30 03:38:27+08:00 推文](https://twitter.com/HeQinglian/status/1542231038730158083)
 
@@ -305,7 +305,7 @@ Re @Wu_Zhi @JianglinLi @RealBeiMing @ngexp @david_david1968 去之前，李显�
 
 ### 73: [2022-06-30 20:22:02+08:00 推文](https://twitter.com/HeQinglian/status/1542483599534039042)
 
-译：西方将在数年内失去俄罗斯能源市场。<br>再比对：德总理萧兹：不排除出席G20峰会 即使普京在场 <br>还有没在这条消息中出现的话：欧洲国家都不会破坏G20.<br>竞猜：西方政府首脑出席G20，是为了普京入场时集体退场羞辱他，还是别有目的？ <a href="https://rfi.my/8XK6.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8XK6.T</a>
+译：西方将在数年内失去俄罗斯能源市场。<br>再比对：德总理萧兹：不排除出席G20峰会 即使普京在场 <br>还有没在这条消息中出现的话：欧洲国家都不会破坏G20.<br>竞猜：西方政府首脑出席G20，是为了普京入场时集体退场羞辱他，还是别有目的？<br><br>🅰pocalypsis 🅰pocalypseos 🇷🇺 🇨🇳 🅉: “The energy market of the West will be lost for Russia for several years. The processes are irreversible. For Europe, these are questions of pure politics, insane and reckless, but such are modern realities.” — Spydell 🧵<br>
 
 ### 74: [2022-06-30 20:47:44+08:00 推文](https://twitter.com/HeQinglian/status/1542490064806101001)
 
@@ -489,7 +489,7 @@ Re 补充：昨天有推友来我推下留言，称拜登支持北约，让北�
 
 ### 119: [2022-07-01 21:55:26+08:00 推文](https://twitter.com/JianglinLi/status/1542869490169483267)
 
-RT 李江琳<br>1986年的预测：到2020年弗罗里达将会由于气候变化而消失。😂😂😂
+RT 李江琳<br>1986年的预测：到2020年弗罗里达将会由于气候变化而消失。😂😂😂<br><br>C.J. Wilson: H/T to @JunkScience for posting this- an EPA Hot Take from 1986 saying that Florida would be wiped out in 2020 due to climate change.  Important to understand that anyone can come up with a scary scenario if their job depends on it. History ends up debunking most doomsday ideas.<br><br><img style="" src="https://pbs.twimg.com/media/FWldVp-UcAAh-Nx?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 120: [2022-07-01 21:56:02+08:00 推文](https://twitter.com/HeQinglian/status/1542869642754097154)
 
@@ -725,7 +725,7 @@ Re @RealBeiMing 好莱坞有一类鬼怪片，里面的鬼怪就是这样打扮�
 
 ### 178: [2022-07-03 19:37:17+08:00 推文](https://twitter.com/HeQinglian/status/1543559502095683587)
 
-拉斯穆森近日调查，还有42%支持拜登，图中这类人、经常洗劫商店的BLM与骄傲日裸体游行的人，加上75%以上的青年大学生，以及95%以上的NGO，就是拜登民主党的社会基础。这个社会基础培育多年，很难短期内消失。<br><br>Clown World ™ 🤡: <br><br><video src="https://video.twimg.com/ext_tw_video/1542979457585074177/pu/vid/606x1080/eFgmNpIyLY-U1PRy.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1542979457585074177/pu/img/K9J_B57yzYVK0C4n.jpg"></video>
+拉斯穆森近日调查，还有42%支持拜登，图中这类人、经常洗劫商店的BLM与骄傲日裸体游行的人，加上75%以上的青年大学生，以及95%以上的NGO，就是拜登民主党的社会基础。这个社会基础培育多年，很难短期内消失。 <a href="https://twitter.com/zt33268778/status/1543262704902848513" target="_blank" rel="noopener noreferrer">https://twitter.com/zt33268778/status/1543262704902848513</a>
 
 ### 179: [2022-07-03 19:44:02+08:00 推文](https://twitter.com/HeQinglian/status/1543561198909759488)
 
