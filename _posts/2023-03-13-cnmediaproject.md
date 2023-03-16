@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2023-03-15
+date: 2023-03-16
 from: https://twitter.com/cnmediaproject/status/1635107272534953985
 layout: post
 tags:
@@ -29,7 +29,7 @@ Re @tomgrundy CMP is just one partner in a talented group of dedicated researche
 
 ### 4: [2023-03-14 19:55:11+08:00 推文](https://twitter.com/tomgrundy/status/1635610521499238407)
 
-RT Tom Grundy<br>In a busy week for the Nat Sec. police, the long arm of the law is reaching for private bookshelves...<br><br>The two men, aged 38 and 50, were reportedly in possession of children’s books about sheep and wolves that were found to be 'seditious' during a high-profile trial last year.<div class="rsshub-quote"><br><br>Hong Kong Free Press HKFP: Hong Kong national security police arrest 2 men over allegedly possessing seditious publications <br><br>🔗 https://hongkongfp.com/2023/03/14/hong-kong-national-security-police-arrest-2-men-over-allegedly-possessing-seditious-publications https://t.co/AbqO1zhBYQ<br><br><img style="" src="https://pbs.twimg.com/media/FrJef3XWwAE_rCt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT Tom Grundy<br>In a busy week for the Nat Sec. police, the long arm of the law is reaching for private bookshelves...<br><br>The two men, aged 38 and 50, were reportedly in possession of children’s books about sheep and wolves that were found to be 'seditious' during a high-profile trial last year. https://twitter.com/hkfp/status/1635473519285878786<div class="rsshub-quote"><br><br>Hong Kong Free Press HKFP: Hong Kong national security police arrest 2 men over allegedly possessing seditious publications <br><br>🔗 https://hongkongfp.com/2023/03/14/hong-kong-national-security-police-arrest-2-men-over-allegedly-possessing-seditious-publications https://t.co/AbqO1zhBYQ<br><br><img style="" src="https://pbs.twimg.com/media/FrJef3XWwAE_rCt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 5: [2023-03-14 22:24:12+08:00 推文](https://twitter.com/cnmediaproject/status/1635648024331563009)
 
@@ -37,9 +37,13 @@ Re @qianjinghua @SixthTone Sorry, just wondering how this links to China Media P
 
 ### 6: [2023-03-15 05:51:14+08:00 推文](https://twitter.com/MaryGao/status/1635760523617751041)
 
-RT Mary Gallagher<br>Funny (but not funny haha) that this Ohio bill bans cooperation with China, but then also requires that syllabi and lectures are vettable so that the state gov't can police academic speech. Which is very similar to what the CCP does to syllabi in China. 🤔 Another own goal. https://twitter.com/BLMcKean/status/1635738548086120448<div class="rsshub-quote"><br><br>Benjamin McKean: the bill not only requires “schools to publish online syllabuses for all their classes” and specifies they be “searchable by keywords or phrases,” it says syllabi must include “a general description…of each lecture” and “Biographical information on the instructor” https://twitter.com/jbalmert/status/1635735700036354049<br></div>
+RT Mary Gallagher<br>Funny (but not funny haha) that this Ohio bill bans cooperation with China, but then also requires that syllabi and lectures are vettable so that the state gov't can police academic speech. Which is very similar to what the CCP does to syllabi in China. 🤔 Another own goal.<div class="rsshub-quote"><br><br>Benjamin McKean: the bill not only requires “schools to publish online syllabuses for all their classes” and specifies they be “searchable by keywords or phrases,” it says syllabi must include “a general description…of each lecture” and “Biographical information on the instructor”<br></div>
 
 ### 7: [2023-03-15 06:59:37+08:00 推文](https://twitter.com/cnmediaproject/status/1635777733702864896)
 
 Re @qianjinghua @SixthTone @thechinaproj No, this is true. It's unfortunate that while we have almost a 20-year history, this was not considered in whatever professional branding exercise happened there.
+
+### 8: [2023-03-16 16:16:09+08:00 推文](https://twitter.com/cnmediaproject/status/1636280177356587008)
+
+Is a "newspaper" that spends far more on advertising than reporting and is funded almost entirely by a government's "Foreign Propaganda" group still a newspaper?<br><br>We dive into China Daily's latest FARA filings to find out what business they are really in.<br><br>https://chinamediaproject.org/2023/03/16/the-ins-and-outs-of-the-china-daily-usa/
 
