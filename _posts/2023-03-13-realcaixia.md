@@ -53,7 +53,7 @@ Re 也确有人被提拔习接见后，出来私下对人说“那一刻，恨�
 
 ### 10: [2023-03-13 11:07:13+08:00 推文](https://twitter.com/realcaixia/status/1635115266979004425)
 
-又是一期十分精彩的访谈。<div class="rsshub-quote"><br><br>Li Yuan: 有力量的艺术和表达是要有态度的，在一个不允许批判、讽刺、戏谑的国家，想自由表达的艺术家或者沉默，或者被迫害，或者只有离开。<br>非常感谢 @hehuangcomedy @badiucao @geleilaoshi 做客不明白播客，分享他们在墙国之外的遭遇和感受。<br></div>
+又是一期十分精彩的访谈。 https://twitter.com/liyuan6/status/1634849836624400386<div class="rsshub-quote"><br><br>Li Yuan: 有力量的艺术和表达是要有态度的，在一个不允许批判、讽刺、戏谑的国家，想自由表达的艺术家或者沉默，或者被迫害，或者只有离开。<br>非常感谢 @hehuangcomedy @badiucao @geleilaoshi 做客不明白播客，分享他们在墙国之外的遭遇和感受。 https://twitter.com/bumingbaipod/status/1634822015063412736<br></div>
 
 ### 11: [2023-03-13 12:22:24+08:00 推文](https://twitter.com/realcaixia/status/1635134189048832001)
 
@@ -85,7 +85,7 @@ Re @TDTCCP @keke201707 並且黨國特色！
 
 ### 18: [2023-03-14 10:44:26+08:00 推文](https://twitter.com/realcaixia/status/1635471921788911617)
 
-民间高手在！<div class="rsshub-quote"><br><br>墻國荒誕字（墙国荒诞字）: 《憤怒的皇帝》系列搞笑劇:<br>第22集: 《不吉利的登基日》 https://t.co/otZYDB03y9<br><br><video src="https://video.twimg.com/ext_tw_video/1634360906707501056/pu/vid/1280x720/RkvkF3_rAelooV7T.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1634360906707501056/pu/img/9YxWuxJl7UZ7eP-F.jpg"></video></div>
+民间高手在！ https://twitter.com/xingzhe2021/status/1634361062974693377<div class="rsshub-quote"><br><br>墻國荒誕字（墙国荒诞字）: 《憤怒的皇帝》系列搞笑劇:<br>第22集: 《不吉利的登基日》 https://t.co/otZYDB03y9<br><br><video src="https://video.twimg.com/ext_tw_video/1634360906707501056/pu/vid/1280x720/RkvkF3_rAelooV7T.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1634360906707501056/pu/img/9YxWuxJl7UZ7eP-F.jpg"></video></div>
 
 ### 19: [2023-03-15 00:50:11+08:00 推文](https://twitter.com/realcaixia/status/1635684760680034304)
 
