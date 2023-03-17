@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2023-03-16
+date: 2023-03-17
 from: https://twitter.com/cnmediaproject/status/1635107272534953985
 layout: post
 tags:
@@ -29,7 +29,7 @@ Re @tomgrundy CMP is just one partner in a talented group of dedicated researche
 
 ### 4: [2023-03-14 19:55:11+08:00 推文](https://twitter.com/tomgrundy/status/1635610521499238407)
 
-RT Tom Grundy<br>In a busy week for the Nat Sec. police, the long arm of the law is reaching for private bookshelves...<br><br>The two men, aged 38 and 50, were reportedly in possession of children’s books about sheep and wolves that were found to be 'seditious' during a high-profile trial last year. https://twitter.com/hkfp/status/1635473519285878786<div class="rsshub-quote"><br><br>Hong Kong Free Press HKFP: Hong Kong national security police arrest 2 men over allegedly possessing seditious publications <br><br>🔗 https://hongkongfp.com/2023/03/14/hong-kong-national-security-police-arrest-2-men-over-allegedly-possessing-seditious-publications https://t.co/AbqO1zhBYQ<br><br><img style="" src="https://pbs.twimg.com/media/FrJef3XWwAE_rCt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT Tom Grundy<br>In a busy week for the Nat Sec. police, the long arm of the law is reaching for private bookshelves...<br><br>The two men, aged 38 and 50, were reportedly in possession of children’s books about sheep and wolves that were found to be 'seditious' during a high-profile trial last year.<div class="rsshub-quote"><br><br>Hong Kong Free Press HKFP: Hong Kong national security police arrest 2 men over allegedly possessing seditious publications <br><br>🔗 https://hongkongfp.com/2023/03/14/hong-kong-national-security-police-arrest-2-men-over-allegedly-possessing-seditious-publications https://t.co/AbqO1zhBYQ<br><br><img style="" src="https://pbs.twimg.com/media/FrJef3XWwAE_rCt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 5: [2023-03-14 22:24:12+08:00 推文](https://twitter.com/cnmediaproject/status/1635648024331563009)
 
@@ -54,4 +54,8 @@ RT Melissa Chan<br>Interesting look at China Daily's finances — further putt
 ### 10: [2023-03-16 22:33:19+08:00 推文](https://twitter.com/cnmediaproject/status/1636375092631597057)
 
 Re @rhokilpatrick explores the most recent FARA filings for China Daily in the US, and raises those basic questions crucial always to bear in mind: who is behind this "newspaper," and what is it really all about?  https://chinamediaproject.org/2023/03/16/the-ins-and-outs-of-the-china-daily-usa/
+
+### 11: [2023-03-17 10:39:01+08:00 推文](https://twitter.com/cnmediaproject/status/1636557723071565824)
+
+China Daily USA makes no profit, spends little on reporting, and outsources printing to major American newspapers in the markets where editions are distributed. @rhokilpatrick dives into the latest figures reported to the US gov.  https://chinamediaproject.org/2023/03/16/the-ins-and-outs-of-the-china-daily-usa/
 
