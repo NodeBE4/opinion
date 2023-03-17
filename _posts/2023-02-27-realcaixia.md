@@ -29,7 +29,7 @@ Re https://t.co/kaatc091nt<br><img style="" src="https://pbs.twimg.com/media/Fp6
 
 ### 4: [2023-03-01 09:53:47+08:00 推文](https://twitter.com/realcaixia/status/1630748134484897792)
 
-他的这首歌我很喜欢。每个人都会有恐惧，我们如果正视并战胜内心的恐惧感，我们看未来就有希望，而不会让失望乃至绝望压倒自己，从而使自己绽放出更多的生命活力和生命的光彩。<div class="rsshub-quote"><br><br>Grey: 在路上有點累，但我想堅持寫歌，也讓我自己鼓舞起來，面對恐懼。 https://t.co/kTNoBdyVMt<br><br><video src="https://video.twimg.com/ext_tw_video/1630414454654468096/pu/vid/720x1280/IIcC1OPmY2QDS2KF.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1630414454654468096/pu/img/tN8acFv2gl1nP0CB.jpg"></video></div>
+他的这首歌我很喜欢。每个人都会有恐惧，我们如果正视并战胜内心的恐惧感，我们看未来就有希望，而不会让失望乃至绝望压倒自己，从而使自己绽放出更多的生命活力和生命的光彩。 https://twitter.com/geleilaoshi/status/1630414862349217796<div class="rsshub-quote"><br><br>Grey: 在路上有點累，但我想堅持寫歌，也讓我自己鼓舞起來，面對恐懼。 https://t.co/kTNoBdyVMt<br><br><video src="https://video.twimg.com/ext_tw_video/1630414454654468096/pu/vid/720x1280/IIcC1OPmY2QDS2KF.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1630414454654468096/pu/img/tN8acFv2gl1nP0CB.jpg"></video></div>
 
 ### 5: [2023-03-01 10:36:57+08:00 推文](https://twitter.com/realcaixia/status/1630758997128011779)
 
@@ -69,7 +69,7 @@ Re https://t.co/z96hhSQ4Y2<br><img style="" src="https://pbs.twimg.com/media/FqG
 
 ### 14: [2023-03-02 13:26:02+08:00 推文](https://twitter.com/realcaixia/status/1631163934077239298)
 
-30年来中国有许多律师为维护人权而遭受各种迫害。在推进中国政治转型的过程中，总有很多人权律师和做真相调查的记者们，就像韩国转型中一样，站在抗争最前沿的是律师和记者。<br>关注刘晓原律师，让更多的朋友知道他的处境他的遭遇，就是保护和支持刘晓原律师。 https://twitter.com/ipkmedia/status/1631120289370177537<div class="rsshub-quote"><br><br>光傳媒官推 官網 https://www.ipkmedia.com: 【关注刘晓原律师】<br><br>刘晓原律师三月一号要来珠海在赣州火车站被铁路警察拦下，其老家国保发协查通知，刘律师在警察局要求给说法，从昨天下午到现在联系不上刘律师。手机开着无人接听<br>关注有良心和影响力的刘律师，多年被变相剥夺工作权利，申请复议、起诉都无人答复。长期被监控、跟踪，行动不自由 https://t.co/1HqFiSZrMz<br><br><img style="" src="https://pbs.twimg.com/media/FqLnQVAWYAIAwpg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+30年来中国有许多律师为维护人权而遭受各种迫害。在推进中国政治转型的过程中，总有很多人权律师和做真相调查的记者们，就像韩国转型中一样，站在抗争最前沿的是律师和记者。<br>关注刘晓原律师，让更多的朋友知道他的处境他的遭遇，就是保护和支持刘晓原律师。<div class="rsshub-quote"><br><br>光傳媒官推 官網 https://www.ipkmedia.com: 【关注刘晓原律师】<br><br>刘晓原律师三月一号要来珠海在赣州火车站被铁路警察拦下，其老家国保发协查通知，刘律师在警察局要求给说法，从昨天下午到现在联系不上刘律师。手机开着无人接听<br>关注有良心和影响力的刘律师，多年被变相剥夺工作权利，申请复议、起诉都无人答复。长期被监控、跟踪，行动不自由 https://t.co/1HqFiSZrMz<br><br><img style="" src="https://pbs.twimg.com/media/FqLnQVAWYAIAwpg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 15: [2023-03-02 21:29:34+08:00 推文](https://twitter.com/realcaixia/status/1631285622659858440)
 

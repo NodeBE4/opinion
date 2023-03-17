@@ -225,7 +225,7 @@ Re @qqiaoqiao @Lucs24659702 你在推上找出三个以上比我更严谨的吧�
 
 ### 53: [2023-02-21 23:26:50+08:00 推文](https://twitter.com/HeQinglian/status/1628053641792786432)
 
-话说得这么直白，乌鸡血们又要来喷洒正义的热血了。<div class="rsshub-quote"><br><br>Isabel👑💎WW: 我再说一遍，挺俄需要更高门槛，因为需要对历史和现实重新认知，<br><br>挺乌不需要任何头脑，只需要情怀，而且这种情怀还是几十年人家灌输给你的。<br></div>
+话说得这么直白，乌鸡血们又要来喷洒正义的热血了。<div class="rsshub-quote"><br><br>Isabel👑💎WW: 我再说一遍，挺俄需要更高门槛，因为需要对历史和现实重新认知，<br><br>挺乌不需要任何头脑，只需要情怀，而且这种情怀还是几十年人家灌输给你的。<br> <a href="https://twitter.com/123450terry/status/1627877464344231936" target="_blank" rel="noopener noreferrer">https://twitter.com/123450terry/status/1627877464344231936</a></div>
 
 ### 54: [2023-02-21 23:31:02+08:00 推文](https://twitter.com/HeQinglian/status/1628054698199552002)
 
@@ -681,7 +681,7 @@ Re @eGUAbe2V7j26GHw 去年，德国去工业化，倒闭大批企业；法国、
 
 ### 167: [2023-02-24 09:11:57+08:00 推文](https://twitter.com/HeQinglian/status/1628925667579420672)
 
-【前外交部長王毅最近升任中共中央政治局局長】<br>请问推友，中国什么时候设立了这个职位——中共中央政治局局长？
+【前外交部長王毅最近升任中共中央政治局局長】<br>请问推友，中国什么时候设立了这个职位——中共中央政治局局长？ https://twitter.com/QQzk_prs/status/1628568255311888384
 
 ### 168: [2023-02-24 09:14:53+08:00 推文](https://twitter.com/HeQinglian/status/1628926404371927040)
 
@@ -805,7 +805,7 @@ Re @KELMAND1 拜登政府能够撑到2023年年底就差不多了，要竞选了
 
 ### 198: [2023-02-25 02:44:20+08:00 推文](https://twitter.com/HeQinglian/status/1629190506809896963)
 
-不算是很疯。今天看到VOA一条消息：美国陆军军官表示，对中国解放军有绝对优势——前两天VOA引美海军军官话说中国海空军力发展很快，美国似无绝对优势。<br>这意思是美中两国陆军将在一块陆地上相逢。我一直在想，这块陆地在哪？台湾肯定不合适，除了美国打到中国，或中国到美。 https://twitter.com/KELMAND1/status/1629169997074534400<div class="rsshub-quote"><br><br>Ezio Mao☢: 下面是疯话环节:<br><br>“如果乌克兰输了，俄罗斯联邦将向北约国家开战，然后美国将不得不派兵参战”——泽连斯基 https://twitter.com/KELMAND1/status/1629166174562062337 https://t.co/osIFUbqJVO<br><br><img style="" src="https://pbs.twimg.com/media/Fpv5ealaQAAQ6yT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+不算是很疯。今天看到VOA一条消息：美国陆军军官表示，对中国解放军有绝对优势——前两天VOA引美海军军官话说中国海空军力发展很快，美国似无绝对优势。<br>这意思是美中两国陆军将在一块陆地上相逢。我一直在想，这块陆地在哪？台湾肯定不合适，除了美国打到中国，或中国到美。<div class="rsshub-quote"><br><br>Ezio Mao☢: 下面是疯话环节:<br><br>“如果乌克兰输了，俄罗斯联邦将向北约国家开战，然后美国将不得不派兵参战”——泽连斯基 https://t.co/osIFUbqJVO<br><br><img style="" src="https://pbs.twimg.com/media/Fpv5ealaQAAQ6yT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 199: [2023-02-25 02:50:15+08:00 推文](https://twitter.com/HeQinglian/status/1629191994990858241)
 
@@ -1165,7 +1165,7 @@ RT Richard<br>Re @kiu49570071 @HeQinglian 时间，地点，人物都有，你
 
 ### 288: [2023-02-26 22:14:03+08:00 推文](https://twitter.com/HeQinglian/status/1629847262649040897)
 
-历史重温：<br>几乎同时段，江泽民在高层内部会议上提出：吸取六四一代过于政治化的教训，放开社会娱乐管制，将年轻一代的注意力吸引到非政治化领域，减少对政治话题的关注——此后养成的中国70、80生代，多数是“娱乐至死”、不关心政治，与六四一代精神完全不同。<br>不清楚江是否从“奶头乐理论”获得灵感。<div class="rsshub-quote"><br><br>He Qinglian: 这些来自各国的社会顶层精英，纷纷表达了对未来世界的担忧。<br>他们认为，随着高科技的进步与发展，机器将取代人力，整个社会只需要10%左右的人创造性地工作，还有30%的人从事各种社会服务业，多数会成为奶瓶阶层，这会引起社会矛盾的大爆发。<br>布热津斯基在会上提出了他的解决方案——著名的“奶头乐理论”<br></div>
+历史重温：<br>几乎同时段，江泽民在高层内部会议上提出：吸取六四一代过于政治化的教训，放开社会娱乐管制，将年轻一代的注意力吸引到非政治化领域，减少对政治话题的关注——此后养成的中国70、80生代，多数是“娱乐至死”、不关心政治，与六四一代精神完全不同。<br>不清楚江是否从“奶头乐理论”获得灵感。 https://twitter.com/HeQinglian/status/1629684014809325571<div class="rsshub-quote"><br><br>He Qinglian: 这些来自各国的社会顶层精英，纷纷表达了对未来世界的担忧。<br>他们认为，随着高科技的进步与发展，机器将取代人力，整个社会只需要10%左右的人创造性地工作，还有30%的人从事各种社会服务业，多数会成为奶瓶阶层，这会引起社会矛盾的大爆发。<br>布热津斯基在会上提出了他的解决方案——著名的“奶头乐理论”<br></div>
 
 ### 289: [2023-02-26 22:19:32+08:00 推文](https://twitter.com/HeQinglian/status/1629848642612781056)
 
