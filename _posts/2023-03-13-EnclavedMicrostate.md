@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-03-16
+date: 2023-03-17
 from: https://old.reddit.com/r/AskHistorians/comments/11ptb1u/scientology_has_a_number_of_secret_doctrines/
 layout: post
 tags:
@@ -68,4 +68,16 @@ What happened with the New Army reforms was an attempt to rationalise the increa
 > At the time Japan was under a policy called Sakoku, literally translates to locked country.
 
 Nope. *Sakoku* was a term retroactively applied by opponents of the Shogunate to decry its apparent short-sightedness. Japan certainly did a lot to economically insulate itself, but it was not without interest in world affairs; hyper-protectionism rather than outright isolationism might be the best way of describing it.
+
+### 1145: [What do you historians think of the tartaria mud flood theory?](https://old.reddit.com/r/AskHistorians/comments/11tcyqt/what_do_you_historians_think_of_the_tartaria_mud/), submitted on 2023-03-17 09:18:23+08:00.
+
+----- __1145.1__ -----2023-03-17 13:08:12+08:00:
+
+So, the answers to your questions are not wholly straightforward; I would recommend the linked podcast episode and the text post as starting points. 
+
+To give a bit of a summary here: As noted in the linked posts, the modern Tartaria conspiracy is a composite of two discursive framed: a textual one based on historical manuscript and print media such as books and maps, which attempts to pinpoint a historical Tartaria in space and time; and a material one based on buildings, which assert a Tartarian origin to various architectural styles. The text-based framing originates with the New Chronology of Russian nationalist pseudohistorian Anatoly Fomenko, while the building-based framing originates with the 'Cultural Layer' mudflood conspiracy theory. In a sense, then, the origins of both are relatively old: Fomenko was mainly active in Russia in the early 1990s, culminating in the book *Novaia Khronologia* in 1995 but his theories were made available to the English-speaking world after the publication of the four-volume *History: Fiction or Science?* in 2002. Mudfloods/Cultural Layer originally cohered around the forum stolenhistory.org, which appears to have come online by May 2017; the subreddit r CulturalLayer would be set up in September.
+
+These two would combine into the Tartaria conspiracy we all know and love today by late 2018. There's evidence from early in the year of Russian-speaking members of the CulturalLayer subreddit encountering Fomenko's Tartaria theory on the Russian web, and in April the founder of StolenHistory, KorbenDallas, posted a thread discussing the Tartaria theory on the forum. This would culminate in the r Tartaria subreddit being founded in December as the primary repository of Tartaria-related posts, at least for the immediate future. Where it has gone since then is somewhat beyond me at this point, as I genuinely haven't kept a close eye on things in years.
+
+To be honest, while it's funny, it is also very, very niche, and I can understand how one could miss it quite easily. While there are ostensibly 25,000 subscribers to the Tartaria subreddit, Reddit subscribers are pretty meaningless anyway, and the subreddit is increasingly moribund anyway. There are a few people around who have come across it – and I know some in real life – but it's not that high up on the internet pseudohistory iceberg, at least not yet.
 
