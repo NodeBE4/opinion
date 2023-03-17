@@ -17,7 +17,7 @@ title: 'Twitter @He Qinglian: 2023-03-13~2023-03-19'
 
 ### 1: [2023-03-13 01:31:00+08:00 推文](https://twitter.com/HeQinglian/status/1634970256207929346)
 
-英国法律史学家梅因最著名的一段话：<br>“迄今为止，人类历史上所有的进步（不是美国现在这“进步”），就是从身份到契约的转变”。<br>契约思想是西方文化的根基：<br>圣经：上帝与人立约；<br>民主政治：宪政法治就是契约政治的体现。选举政治就是人民委托治理政治，契约就是履行竞选承诺；<br>市场经济：信用基于契约<div class="rsshub-quote"><br><br>zhix: @HeQinglian @JianglinLi 身份政治理论，其逻辑推理的结果最终就会导致种族隔离，现在在实践上还应验了。因此，身份政治理论是垃圾思想，逻辑上的种种矛盾，将会对现实的人类社会造成极大危害，对人类文明来说有害无益。<br></div>
+英国法律史学家梅因最著名的一段话：<br>“迄今为止，人类历史上所有的进步（不是美国现在这“进步”），就是从身份到契约的转变”。<br>契约思想是西方文化的根基：<br>圣经：上帝与人立约；<br>民主政治：宪政法治就是契约政治的体现。选举政治就是人民委托治理政治，契约就是履行竞选承诺；<br>市场经济：信用基于契约 https://twitter.com/Wu_Zhi/status/1634942635956903937<div class="rsshub-quote"><br><br>zhix: @HeQinglian @JianglinLi 身份政治理论，其逻辑推理的结果最终就会导致种族隔离，现在在实践上还应验了。因此，身份政治理论是垃圾思想，逻辑上的种种矛盾，将会对现实的人类社会造成极大危害，对人类文明来说有害无益。<br></div>
 
 ### 2: [2023-03-13 01:34:20+08:00 推文](https://twitter.com/HeQinglian/status/1634971098956824577)
 
@@ -77,7 +77,7 @@ Re @mingshi_chen 这些人与当初那个歌星杰克逊一样，恨自己是黑
 
 ### 16: [2023-03-13 07:55:31+08:00 推文](https://twitter.com/HeQinglian/status/1635067025419825152)
 
-任何人都解决不了。<br>左右均占40%，其中极左28%。决定美国命运的是中间那20%的人，病久了，任何保守派当政，都只能慢慢来，第一任期稳住大盘，发展经济，在州层面扼制极左的胡闹；争取第二任期，再办其中部分事情。<div class="rsshub-quote"><br><br>麻辣空间: 问几个川普2024的常规问题<br>1、他能解决黑命贵吗？<br>2、他能解决安提法吗？<br>3、他能解决华盛顿罪恶政权吗？<br>4、他能解决变态彩旗吗？<br>5、他能解决FBI和CIA吗？<br>6、他能解决军方吗？<br>7、他能解决制造业吗？<br>8、他能解决左媒吗？<br>9、他能解决司法吗？<br>10、他能解决长生不死吗？… https://twitter.com/i/web/status/1635006257378607111<br></div>
+任何人都解决不了。<br>左右均占40%，其中极左28%。决定美国命运的是中间那20%的人，病久了，任何保守派当政，都只能慢慢来，第一任期稳住大盘，发展经济，在州层面扼制极左的胡闹；争取第二任期，再办其中部分事情。 https://twitter.com/wto518/status/1635006257378607111<div class="rsshub-quote"><br><br>麻辣空间: 问几个川普2024的常规问题<br>1、他能解决黑命贵吗？<br>2、他能解决安提法吗？<br>3、他能解决华盛顿罪恶政权吗？<br>4、他能解决变态彩旗吗？<br>5、他能解决FBI和CIA吗？<br>6、他能解决军方吗？<br>7、他能解决制造业吗？<br>8、他能解决左媒吗？<br>9、他能解决司法吗？<br>10、他能解决长生不死吗？… https://twitter.com/i/web/status/1635006257378607111<br></div>
 
 ### 17: [2023-03-13 08:18:47+08:00 推文](https://twitter.com/HeQinglian/status/1635072880055820288)
 
@@ -585,7 +585,7 @@ Re @O43DGSy2NA4BdKf 好，如此甚好。法事做完了，请通知一声。�
 
 ### 143: [2023-03-16 03:58:53+08:00 推文](https://twitter.com/HeQinglian/status/1636094638594441216)
 
-民主党当政，掠财明目张胆。<br>比如白宫决定全额赔付SVB储户开了个危险的先例，因为联邦储蓄保险的赔付从来都有上限。<br>纽约邮报等因此去挖这家银行的背景，硅谷银行的 12 位董事当中，有人是奥克拜三位总统与舒默的超级捐款人，有位是奥前官员，还有一位是波洛西邻居——纳帕谷葡萄园的主人。<br>储户都有谁？ https://twitter.com/Lucs24659702/status/1636061969538244623<div class="rsshub-quote"><br><br>Lucs: 民主党国会议员的慈善机构在开曼群岛拥有超过3000万美元<br><br>代表Daniel Goldman（纽约州民主党）的非营利组织Richard W.据福克斯新闻报道，高盛家庭基金会报告称，在开曼群岛组织了价值超过3200万美元的投资。<br> https://www.oann.com/newsroom/democrat-congressmans-charity-has-more-than-30-million-in-cayman-islands/<br></div>
+民主党当政，掠财明目张胆。<br>比如白宫决定全额赔付SVB储户开了个危险的先例，因为联邦储蓄保险的赔付从来都有上限。<br>纽约邮报等因此去挖这家银行的背景，硅谷银行的 12 位董事当中，有人是奥克拜三位总统与舒默的超级捐款人，有位是奥前官员，还有一位是波洛西邻居——纳帕谷葡萄园的主人。<br>储户都有谁？<div class="rsshub-quote"><br><br>Lucs: 民主党国会议员的慈善机构在开曼群岛拥有超过3000万美元<br><br>代表Daniel Goldman（纽约州民主党）的非营利组织Richard W.据福克斯新闻报道，高盛家庭基金会报告称，在开曼群岛组织了价值超过3200万美元的投资。<br> https://www.oann.com/newsroom/democrat-congressmans-charity-has-more-than-30-million-in-cayman-islands/<br></div>
 
 ### 144: [2023-03-16 04:09:15+08:00 推文](https://twitter.com/HeQinglian/status/1636097246390255617)
 
@@ -625,7 +625,7 @@ Re @wto518 郭文贵竟然成了“民运”的三大支派之一？
 
 ### 153: [2023-03-16 08:42:16+08:00 推文](https://twitter.com/HeQinglian/status/1636165954563461121)
 
-Re @JianglinLi @arfred_1979 @fading_you1 旧金山每位黑人获赔500万美元：<br>申请人须年满18岁并证明自己符合八项额外标准中的两项：1940-96年出生或移民旧金山，本人或直系亲属曾在“失败的毒品战争”期间被监禁，祖先是1865年前被奴役者……<br>https://nypost.com/2023/01/16/sf-reparations-panel-proposes-5m-lump-sum-payment-to-eligible-residents/<br>如果SVB未倒闭，应该是经营这项业务的首选。
+RT He Qinglian<br>Re @JianglinLi @arfred_1979 @fading_you1 旧金山每位黑人获赔500万美元：<br>申请人须年满18岁并证明自己符合八项额外标准中的两项：1940-96年出生或移民旧金山，本人或直系亲属曾在“失败的毒品战争”期间被监禁，祖先是1865年前被奴役者……<br>https://nypost.com/2023/01/16/sf-reparations-panel-proposes-5m-lump-sum-payment-to-eligible-residents/<br>如果SVB未倒闭，应该是经营这项业务的首选。
 
 ### 154: [2023-03-16 08:47:12+08:00 推文](https://twitter.com/HeQinglian/status/1636167193246281729)
 
@@ -633,7 +633,7 @@ Re @SSK2024 他要表达的，正是主流媒体要表达的。
 
 ### 155: [2023-03-16 09:03:50+08:00 推文](https://twitter.com/zhixiangziyou/status/1636171379736182784)
 
-RT L JM🇺🇸<br>1/ THREAD 🚨 #TwitterFiles<br><br>@elonmusk将 CISA 审查网络抨击为“宣传平台”。<br><br>这个由国土安全部支持的审查联盟使用了 120 名分析师来审查数百万关于选举和 covid-19 的社交媒体帖子。 https://twitter.com/kanekoathegreat/status/1608231209875963904<div class="rsshub-quote"><br><br>kanekoa.substack.com: 1/ THREAD🚨 #TwitterFiles<br><br>@elonmusk slams CISA censorship network as 'propaganda platform.'<br><br>This DHS-backed censorship consortium used 120 analysts to censor millions of social media posts on elections and covid-19.<br><br>https://kanekoa.substack.com/p/elon-musk-slams-cisa-censorship-network<br></div>
+RT L JM🇺🇸<br>1/ THREAD 🚨 #TwitterFiles<br><br>@elonmusk将 CISA 审查网络抨击为“宣传平台”。<br><br>这个由国土安全部支持的审查联盟使用了 120 名分析师来审查数百万关于选举和 covid-19 的社交媒体帖子。<div class="rsshub-quote"><br><br>kanekoa.substack.com: 1/ THREAD🚨 #TwitterFiles<br><br>@elonmusk slams CISA censorship network as 'propaganda platform.'<br><br>This DHS-backed censorship consortium used 120 analysts to censor millions of social media posts on elections and covid-19.<br><br>https://kanekoa.substack.com/p/elon-musk-slams-cisa-censorship-network<br></div>
 
 ### 156: [2023-03-16 10:52:46+08:00 推文](https://twitter.com/shenliangqing2/status/1636198795330609152)
 
