@@ -69,9 +69,23 @@ What happened with the New Army reforms was an attempt to rationalise the increa
 
 Nope. *Sakoku* was a term retroactively applied by opponents of the Shogunate to decry its apparent short-sightedness. Japan certainly did a lot to economically insulate itself, but it was not without interest in world affairs; hyper-protectionism rather than outright isolationism might be the best way of describing it.
 
-### 1145: [What do you historians think of the tartaria mud flood theory?](https://old.reddit.com/r/AskHistorians/comments/11tcyqt/what_do_you_historians_think_of_the_tartaria_mud/), submitted on 2023-03-17 09:18:23+08:00.
+### 1145: [Why do we today consider China “absorbed” foreign invaders (Mongol, Manchu), but Rome “fell” (Lombard, Moslem)?](https://old.reddit.com/r/AskHistorians/comments/11t452e/why_do_we_today_consider_china_absorbed_foreign/), submitted on 2023-03-17 03:44:19+08:00.
 
------ __1145.1__ -----2023-03-17 13:08:12+08:00:
+----- __1145.1__ -----2023-03-18 00:13:34+08:00:
+
+Thanks for the tag! I still agree with what I wrote then, and I would also add in these answers of mine going into the problems of asserting Chinese state continuity:
+
+https://www.reddit.com/r/AskHistorians/comments/wc8uwr/why_has_china_repeatedly_reunified_and_splintered/iic6g70/
+
+https://www.reddit.com/r/AskHistorians/comments/tcppnt/was_there_ever_a_hui_or_tibetan_dynasty/i0qlr3v/
+
+https://www.reddit.com/r/AskHistorians/comments/yjjw2u/why_were_the_manchus_assimilated_into_the_han/iuol7yk/
+
+https://www.reddit.com/r/AskHistorians/comments/pm35v6/why_is_the_qing_dynasty_not_considered_chinese_by/hceyn5m/
+
+### 1146: [What do you historians think of the tartaria mud flood theory?](https://old.reddit.com/r/AskHistorians/comments/11tcyqt/what_do_you_historians_think_of_the_tartaria_mud/), submitted on 2023-03-17 09:18:23+08:00.
+
+----- __1146.1__ -----2023-03-17 13:08:12+08:00:
 
 So, the answers to your questions are not wholly straightforward; I would recommend the linked podcast episode and the text post as starting points. 
 

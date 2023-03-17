@@ -17,7 +17,7 @@ title: 'Twitter @He Qinglian: 2023-03-13~2023-03-19'
 
 ### 1: [2023-03-13 01:31:00+08:00 推文](https://twitter.com/HeQinglian/status/1634970256207929346)
 
-英国法律史学家梅因最著名的一段话：<br>“迄今为止，人类历史上所有的进步（不是美国现在这“进步”），就是从身份到契约的转变”。<br>契约思想是西方文化的根基：<br>圣经：上帝与人立约；<br>民主政治：宪政法治就是契约政治的体现。选举政治就是人民委托治理政治，契约就是履行竞选承诺；<br>市场经济：信用基于契约 https://twitter.com/Wu_Zhi/status/1634942635956903937<div class="rsshub-quote"><br><br>zhix: @HeQinglian @JianglinLi 身份政治理论，其逻辑推理的结果最终就会导致种族隔离，现在在实践上还应验了。因此，身份政治理论是垃圾思想，逻辑上的种种矛盾，将会对现实的人类社会造成极大危害，对人类文明来说有害无益。<br></div>
+英国法律史学家梅因最著名的一段话：<br>“迄今为止，人类历史上所有的进步（不是美国现在这“进步”），就是从身份到契约的转变”。<br>契约思想是西方文化的根基：<br>圣经：上帝与人立约；<br>民主政治：宪政法治就是契约政治的体现。选举政治就是人民委托治理政治，契约就是履行竞选承诺；<br>市场经济：信用基于契约<div class="rsshub-quote"><br><br>zhix: @HeQinglian @JianglinLi 身份政治理论，其逻辑推理的结果最终就会导致种族隔离，现在在实践上还应验了。因此，身份政治理论是垃圾思想，逻辑上的种种矛盾，将会对现实的人类社会造成极大危害，对人类文明来说有害无益。<br></div>
 
 ### 2: [2023-03-13 01:34:20+08:00 推文](https://twitter.com/HeQinglian/status/1634971098956824577)
 
@@ -373,7 +373,7 @@ Re @JianglinLi @PrezXi 如果自带饭辙，那当然可以。需要赏饭可能
 
 ### 90: [2023-03-14 10:49:55+08:00 推文](https://twitter.com/shenliangqing2/status/1635473304093097985)
 
-RT 沈良庆二世<br>痴呆政府主导下的西方国家地缘政治：外交战略“既要…也要”第六病室辩证法<div class="rsshub-quote"><br><br>联合早报 Lianhe Zaobao: 英国在更新版的外交政策框架中，将中国视为对世界秩序构成“划时代的挑战”，但它也表明，倾向于与北京增进合作与理解，并指英国的安全取决于乌克兰战争的结果。 https://www.zaobao.com.sg/realtime/world/story20230314-1372356<br></div>
+RT 沈良庆二世<br>痴呆政府主导下的西方国家地缘政治：外交战略“既要…也要”第六病室辩证法 https://twitter.com/zaobaosg/status/1635437821245763588<div class="rsshub-quote"><br><br>联合早报 Lianhe Zaobao: 英国在更新版的外交政策框架中，将中国视为对世界秩序构成“划时代的挑战”，但它也表明，倾向于与北京增进合作与理解，并指英国的安全取决于乌克兰战争的结果。 https://www.zaobao.com.sg/realtime/world/story20230314-1372356<br></div>
 
 ### 91: [2023-03-14 22:01:26+08:00 推文](https://twitter.com/HeQinglian/status/1635642293825699850)
 
@@ -533,7 +533,7 @@ Re @silenceserver @HH82661575 你将我看成了泥塑。<br>我先生脾气比�
 
 ### 130: [2023-03-15 22:11:29+08:00 推文](https://twitter.com/HeQinglian/status/1636007210835906560)
 
-与雷曼时刻相比有个根本的差别。<br>2008年是做金融产品——两房贷款出了问题。这次是Woke式经营出了问题。<br>有个行当叫做“企业诊断”（管理咨询）起源于美国，就是定期或不定期对企业管理状况、经营状况和财务状况进行全面分析。用这套方式诊断SVB，从企业经营理念、方向、管理目标、管理层专业素质，癌症。 https://twitter.com/bbcchinese/status/1635974418991071233<div class="rsshub-quote"><br><br>BBC News 中文: 雷曼倒，股市崩，金融海啸，席卷全球。15年前这一幕，至今还出现在金融人士的噩梦中。硅谷银行倒闭，让不少人联想起“雷曼事件”。那么，硅谷银行倒闭是否是第二个“雷曼事件”？ https://t.co/T3YwGUBELh<br><br><video src="https://video.twimg.com/amplify_video/1635963777064599553/vid/1080x1920/9eYqrBVlbN-Tq-qs.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/media/FrQmDyXX0AAPBPS?format=jpg&amp;name=orig"></video></div>
+与雷曼时刻相比有个根本的差别。<br>2008年是做金融产品——两房贷款出了问题。这次是Woke式经营出了问题。<br>有个行当叫做“企业诊断”（管理咨询）起源于美国，就是定期或不定期对企业管理状况、经营状况和财务状况进行全面分析。用这套方式诊断SVB，从企业经营理念、方向、管理目标、管理层专业素质，癌症。<div class="rsshub-quote"><br><br>BBC News 中文: 雷曼倒，股市崩，金融海啸，席卷全球。15年前这一幕，至今还出现在金融人士的噩梦中。硅谷银行倒闭，让不少人联想起“雷曼事件”。那么，硅谷银行倒闭是否是第二个“雷曼事件”？ https://t.co/T3YwGUBELh<br><br><video src="https://video.twimg.com/amplify_video/1635963777064599553/vid/1080x1920/9eYqrBVlbN-Tq-qs.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/media/FrQmDyXX0AAPBPS?format=jpg&amp;name=orig"></video></div>
 
 ### 131: [2023-03-15 22:14:40+08:00 推文](https://twitter.com/HeQinglian/status/1636008014422368256)
 
@@ -585,7 +585,7 @@ Re @O43DGSy2NA4BdKf 好，如此甚好。法事做完了，请通知一声。�
 
 ### 143: [2023-03-16 03:58:53+08:00 推文](https://twitter.com/HeQinglian/status/1636094638594441216)
 
-民主党当政，掠财明目张胆。<br>比如白宫决定全额赔付SVB储户开了个危险的先例，因为联邦储蓄保险的赔付从来都有上限。<br>纽约邮报等因此去挖这家银行的背景，硅谷银行的 12 位董事当中，有人是奥克拜三位总统与舒默的超级捐款人，有位是奥前官员，还有一位是波洛西邻居——纳帕谷葡萄园的主人。<br>储户都有谁？<div class="rsshub-quote"><br><br>Lucs: 民主党国会议员的慈善机构在开曼群岛拥有超过3000万美元<br><br>代表Daniel Goldman（纽约州民主党）的非营利组织Richard W.据福克斯新闻报道，高盛家庭基金会报告称，在开曼群岛组织了价值超过3200万美元的投资。<br> https://www.oann.com/newsroom/democrat-congressmans-charity-has-more-than-30-million-in-cayman-islands/<br></div>
+民主党当政，掠财明目张胆。<br>比如白宫决定全额赔付SVB储户开了个危险的先例，因为联邦储蓄保险的赔付从来都有上限。<br>纽约邮报等因此去挖这家银行的背景，硅谷银行的 12 位董事当中，有人是奥克拜三位总统与舒默的超级捐款人，有位是奥前官员，还有一位是波洛西邻居——纳帕谷葡萄园的主人。<br>储户都有谁？ https://twitter.com/Lucs24659702/status/1636061969538244623<div class="rsshub-quote"><br><br>Lucs: 民主党国会议员的慈善机构在开曼群岛拥有超过3000万美元<br><br>代表Daniel Goldman（纽约州民主党）的非营利组织Richard W.据福克斯新闻报道，高盛家庭基金会报告称，在开曼群岛组织了价值超过3200万美元的投资。<br> https://www.oann.com/newsroom/democrat-congressmans-charity-has-more-than-30-million-in-cayman-islands/<br></div>
 
 ### 144: [2023-03-16 04:09:15+08:00 推文](https://twitter.com/HeQinglian/status/1636097246390255617)
 
@@ -881,7 +881,7 @@ Re @aptx48693734 瑞信已经折腾了十多年，从全球一家最优金融机
 
 ### 217: [2023-03-17 21:08:48+08:00 推文](https://twitter.com/HeQinglian/status/1636716214054449152)
 
-你说的是真实情况。<br>我这几天查资料，发现欧洲早就这样玩，但全民觉得正常。美国还没烂透，这次硅谷的Woke化经营被挖出来当事情说，至少纽约邮报、Fox等愿意说，CNN、纽时、华邮则挑美联储加息来说，非说成是普遍性的。<br>Got Woke，Go Broke，不烂到底，那一半喜欢Woke的美国左派国民不会醒的。 https://twitter.com/hustzhuch/status/1636579388069126144<div class="rsshub-quote"><br><br>hustzhuch: @HeQinglian 欧美很多公司都搞这个鬼，他妈的还不能说。迟早完蛋<br></div>
+你说的是真实情况。<br>我这几天查资料，发现欧洲早就这样玩，但全民觉得正常。美国还没烂透，这次硅谷的Woke化经营被挖出来当事情说，至少纽约邮报、Fox等愿意说，CNN、纽时、华邮则挑美联储加息来说，非说成是普遍性的。<br>Got Woke，Go Broke，不烂到底，那一半喜欢Woke的美国左派国民不会醒的。<div class="rsshub-quote"><br><br>hustzhuch: @HeQinglian 欧美很多公司都搞这个鬼，他妈的还不能说。迟早完蛋<br></div>
 
 ### 218: [2023-03-17 21:19:05+08:00 推文](https://twitter.com/HeQinglian/status/1636718800954376192)
 
@@ -913,7 +913,7 @@ Re @zhixiangziyou 纽约民主党选民应该承受这结果——你们受连�
 
 ### 225: [2023-03-17 21:40:15+08:00 推文](https://twitter.com/HeQinglian/status/1636724128399994883)
 
-1、同意第一句。<br>2、民运不用他撕裂，他也没破坏美国民主（至少他没操纵选举），他的存在只是将所有的恶给引出来了，让所有参与表演者尽情展示。<br>3、整个戏剧是闹剧与拙劣马戏，没有半点悲剧的庄严感。 https://twitter.com/ZJ20672066/status/1636557486508462080<div class="rsshub-quote"><br><br>张杰: 郭文贵是中国权贵资本所长出的恶之花。他最大罪恶是撕裂民运和破坏美国民主。他本可以利用他的资金与民运联合对抗中共，但他一直在与中共勾兑，并对众多民运人士进行迫害。郭的爆料基本都是虚假的。郭在美国竞选中制造谣言。郭的官商勾结、不折手段和欺诈的中国商人特征，最终使他成为一个悲剧性人物。<br></div>
+1、同意第一句。<br>2、民运不用他撕裂，他也没破坏美国民主（至少他没操纵选举），他的存在只是将所有的恶给引出来了，让所有参与表演者尽情展示。<br>3、整个戏剧是闹剧与拙劣马戏，没有半点悲剧的庄严感。<div class="rsshub-quote"><br><br>张杰: 郭文贵是中国权贵资本所长出的恶之花。他最大罪恶是撕裂民运和破坏美国民主。他本可以利用他的资金与民运联合对抗中共，但他一直在与中共勾兑，并对众多民运人士进行迫害。郭的爆料基本都是虚假的。郭在美国竞选中制造谣言。郭的官商勾结、不折手段和欺诈的中国商人特征，最终使他成为一个悲剧性人物。<br></div>
 
 ### 226: [2023-03-17 21:47:55+08:00 推文](https://twitter.com/HeQinglian/status/1636726057511297024)
 
