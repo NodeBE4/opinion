@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2022-05-16~2022-05-22'
 
 ### 1: [2022-05-16 00:34:39+08:00 推文](https://twitter.com/realcaixia/status/1525877328219209728)
 
-看到女性在国家事务中发挥越来越大的作用，很自豪。<br>“我们的身体不过是我们灵魂的外衣，是他与她之间唯一的区别，<br>至于灵魂，是一样好的，<br>是的，在许多女性身体中的灵魂也同样伟大。”<br>——索菲亚.布伦纳 写于1719年<br><br>韩连潮: 【巾帼英雄】芬兰和瑞典拟放弃分别实施了70多年和200年的中立，加入北约。不是安全受到来自普京的极大威胁，她们不会轻易更改这项国策。这两位国家领导敢作敢为，是真正的巾帼英雄。<br><br><img style="" src="https://pbs.twimg.com/media/FSzkJhOXwAE0o1H?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+看到女性在国家事务中发挥越来越大的作用，很自豪。<br>“我们的身体不过是我们灵魂的外衣，是他与她之间唯一的区别，<br>至于灵魂，是一样好的，<br>是的，在许多女性身体中的灵魂也同样伟大。”<br>——索菲亚.布伦纳 写于1719年
 
 ### 2: [2022-05-16 01:31:00+08:00 推文](https://twitter.com/realcaixia/status/1525891510989889536)
 
@@ -37,11 +37,11 @@ title: 'Twitter @蔡霞: 2022-05-16~2022-05-22'
 
 ### 6: [2022-05-18 07:48:15+08:00 推文](https://twitter.com/realcaixia/status/1526711223609434112)
 
-一个模版专供抄作业。<br><br>鲁难-: <br><br><img style="" src="https://pbs.twimg.com/media/FS8CeMoWAAEGC3O?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FS8CeMsXEAAmkXe?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+一个模版专供抄作业。
 
 ### 7: [2022-05-18 07:49:51+08:00 推文](https://twitter.com/realcaixia/status/1526711628372246528)
 
-一个模版专供抄作业（二）
+一个模版专供抄作业（二）<br><br>鲁难-: 大爷，改一改数字很难吗？非要一分钟也不差………<br><br><img style="" src="https://pbs.twimg.com/media/FS8CaycWIAE4vIt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FS8CaydXoAAwFdm?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FS8CayfX0AAqtNs?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FS8CaybWIAEgXZW?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2022-05-18 08:55:45+08:00 推文](https://twitter.com/realcaixia/status/1526728213061410817)
 
@@ -105,7 +105,7 @@ Re 中共秘书侍候领导十分周到，20年前我曾经参加过中组部一
 
 ### 23: [2022-05-20 22:03:57+08:00 推文](https://twitter.com/realcaixia/status/1527651342239600640)
 
-對中共統治體制和體制運作的機制需要深入研究。這無論是從社會學政治學理論角度看，還是從維護全世界自由民主和平看，都是極為重大而緊迫的課題。
+對中共統治體制和體制運作的機制需要深入研究。這無論是從社會學政治學理論角度看，還是從維護全世界自由民主和平看，都是極為重大而緊迫的課題。<br><br>韩连潮: 【哈德逊中国中心】恭贺哈德逊中国中心成立，恭贺余茂春博士主持新成立的哈德逊中国中心工作，相信在他和蓬佩奥国务卿领导下，中心一定会出一系列重要研究成果，为美国决策者提供急需的意见和策略。<br>Hudson Institute Launches New China Center - by Hudson Institute<br> <a href="https://www.hudson.org/research/17833-hudson-institute-launches-new-china-center" target="_blank" rel="noopener noreferrer">https://www.hudson.org/research/17833-hudson-institute-launches-new-china-center</a>
 
 ### 24: [2022-05-21 06:17:37+08:00 推文](https://twitter.com/realcaixia/status/1527775579025686529)
 
