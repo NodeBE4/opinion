@@ -201,7 +201,7 @@ Re @washearg 除了美国还有些家底，其余的国家，就算了吧。
 
 ### 47: [2023-02-21 23:05:51+08:00 推文](https://twitter.com/HeQinglian/status/1628048359180181507)
 
-Re @Lucs24659702 很多乌鸡血们，包括那位说自己“曾经是农民、永远是农民”的“瞧瞧桥”老妹子在内，不相信乌克兰的第10次征兵令，这是原推，信不信由他们，懂乌语的请好心一点翻译给她听，让她再也不要在见识上“永远是农民”。<div class="rsshub-quote"><br><br>绫波: 乌克兰泽连斯基发起第10次征兵令，打算征召100万名士兵。<br><br>征兵令中规定，成年男性65岁以上，85岁以下必须参军。<br><br><img style="" src="https://pbs.twimg.com/media/FpYOaBgaYAAL-9z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT He Qinglian<br>Re @Lucs24659702 很多乌鸡血们，包括那位说自己“曾经是农民、永远是农民”的“瞧瞧桥”老妹子在内，不相信乌克兰的第10次征兵令，这是原推，信不信由他们，懂乌语的请好心一点翻译给她听，让她再也不要在见识上“永远是农民”。<div class="rsshub-quote"><br><br>绫波: 乌克兰泽连斯基发起第10次征兵令，打算征召100万名士兵。<br><br>征兵令中规定，成年男性65岁以上，85岁以下必须参军。<br><br><img style="" src="https://pbs.twimg.com/media/FpYOaBgaYAAL-9z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 48: [2023-02-21 23:08:41+08:00 推文](https://twitter.com/HeQinglian/status/1628049071679188993)
 
@@ -441,7 +441,7 @@ Re @FightForJiuCai 乌克兰人好歹有形式上的民主啊。<br>如果如乌
 
 ### 107: [2023-02-23 04:37:55+08:00 推文](https://twitter.com/HeQinglian/status/1628494315533000717)
 
-Re @shenliangqing2 建议与这一起参看。再加上骄傲月、零元购、裸体大游 行，就是左派们梦寐以求的进步主义NWO.<div class="rsshub-quote"><br><br>低级黑小明: 来看一下美国版的“操你妈逼”<br><br>现在的lgbt小屁孩一个二个都没有人样了，觉得只要别人把自己性别说错或者不承认自己的性别就要操你妈逼。<br><br><video src="https://video.twimg.com/amplify_video/1628179434556751872/vid/720x1280/ES33umab5NJKiUDD.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1628179434556751872/img/wfYMeOGe0leEv67A.jpg"></video></div>
+Re @shenliangqing2 建议与这一起参看。再加上骄傲月、零元购、裸体大游 行，就是左派们梦寐以求的进步主义NWO. https://twitter.com/djhxiaoming/status/1628179486452891648<div class="rsshub-quote"><br><br>低级黑小明: 来看一下美国版的“操你妈逼”<br><br>现在的lgbt小屁孩一个二个都没有人样了，觉得只要别人把自己性别说错或者不承认自己的性别就要操你妈逼。 https://t.co/xWwdJ4goYi<br><br><video src="https://video.twimg.com/amplify_video/1628179434556751872/vid/720x1280/ES33umab5NJKiUDD.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1628179434556751872/img/wfYMeOGe0leEv67A.jpg"></video></div>
 
 ### 108: [2023-02-23 04:41:44+08:00 推文](https://twitter.com/HeQinglian/status/1628495274657153026)
 
@@ -461,7 +461,7 @@ Re @inno_dai @evaqiao2022 北溪管道是中国炸的？你有消息来源？�
 
 ### 112: [2023-02-23 06:31:23+08:00 推文](https://twitter.com/HeQinglian/status/1628522871348682756)
 
-最有趣的莫过于这句：“俄罗斯和中国的关系正在按计划发展”。<br>也就是说，过去一年多以来美欧全力指责的俄中结盟，完全不受影响。只是不知这“计划”形成于何时，内容也只能靠猜测。<div class="rsshub-quote"><br><br>Ezio Mao☢: 俄罗斯总统会见中共中央外事工作委员会办公室主任王毅<br><br>▪️俄罗斯联邦感谢中国的共同努力，现在世界国际关系很紧张；<br>▪️俄罗斯联邦与中国的合作对于稳定国际局势非常重要；<br>▪️莫斯科和北京正在落实会见中国国家主席的计划，这将推动双边关系的发展；<br>▪️俄罗斯和中国的关系正在按计划发展， https://t.co/57cA4ycrT4<br><br><video src="https://video.twimg.com/ext_tw_video/1628374269154701312/pu/vid/800x448/kE3g2eDzTxEstm-2.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1628374269154701312/pu/img/4nNO4r2754-Cxt8C.jpg"></video></div>
+最有趣的莫过于这句：“俄罗斯和中国的关系正在按计划发展”。<br>也就是说，过去一年多以来美欧全力指责的俄中结盟，完全不受影响。只是不知这“计划”形成于何时，内容也只能靠猜测。 https://twitter.com/KELMAND1/status/1628374309403246593<div class="rsshub-quote"><br><br>Ezio Mao☢: 俄罗斯总统会见中共中央外事工作委员会办公室主任王毅<br><br>▪️俄罗斯联邦感谢中国的共同努力，现在世界国际关系很紧张；<br>▪️俄罗斯联邦与中国的合作对于稳定国际局势非常重要；<br>▪️莫斯科和北京正在落实会见中国国家主席的计划，这将推动双边关系的发展；<br>▪️俄罗斯和中国的关系正在按计划发展， https://t.co/57cA4ycrT4<br><br><video src="https://video.twimg.com/ext_tw_video/1628374269154701312/pu/vid/800x448/kE3g2eDzTxEstm-2.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1628374269154701312/pu/img/4nNO4r2754-Cxt8C.jpg"></video></div>
 
 ### 113: [2023-02-23 06:33:42+08:00 推文](https://twitter.com/HeQinglian/status/1628523455216844800)
 
@@ -493,7 +493,7 @@ Re @JianglinLi @Wu_Zhi @nuosu001 @seadognw 我在四川的同学有位同事在�
 
 ### 120: [2023-02-23 09:16:39+08:00 推文](https://twitter.com/HeQinglian/status/1628564461182132225)
 
-赫什文章指出：2022年2月7日在白宫，拜登告诉来访的德国总理肖尔茨，俄如果进攻乌克兰，北溪管道将不复存在。肖尔茨表示将与美国站在一起。会面结束的当晚，拜登公布了对北溪管道的打算。<br>我真的很好奇，肖尔茨需不需要对德国人解释这一点？ https://twitter.com/dw_chinese/status/1628404745214763012<div class="rsshub-quote"><br><br>DW 中文- 德国之声: 美国知名记者赫什网络发文爆料称这一破坏袭击是美国所为，让各种猜测沸腾。而参与调查的国家，包括德国的相关机构未公开任何与调查进展有关的信息。对媒体的询问，也多半讳莫如深。#北溪爆炸事件  https://p.dw.com/p/4Npqu<br></div>
+赫什文章指出：2022年2月7日在白宫，拜登告诉来访的德国总理肖尔茨，俄如果进攻乌克兰，北溪管道将不复存在。肖尔茨表示将与美国站在一起。会面结束的当晚，拜登公布了对北溪管道的打算。<br>我真的很好奇，肖尔茨需不需要对德国人解释这一点？<div class="rsshub-quote"><br><br>DW 中文- 德国之声: 美国知名记者赫什网络发文爆料称这一破坏袭击是美国所为，让各种猜测沸腾。而参与调查的国家，包括德国的相关机构未公开任何与调查进展有关的信息。对媒体的询问，也多半讳莫如深。#北溪爆炸事件  https://p.dw.com/p/4Npqu<br></div>
 
 ### 121: [2023-02-23 09:20:44+08:00 推文](https://twitter.com/HeQinglian/status/1628565488153382913)
 
@@ -505,7 +505,7 @@ Re @Wu_Zhi @nuosu001 @JianglinLi @seadognw 你德倒真应该向欧洲各国介�
 
 ### 123: [2023-02-23 09:56:22+08:00 推文](https://twitter.com/Isabel_3299/status/1628574455482970112)
 
-RT Isabel👑💎WW<br>自古同性恋哪个文化都有，但是当把这种只占1%不到的人的特殊需求当政治正确打压99%属于正常人的权利就另当别论。<br><br>你同情他们个体的遭遇可以理解，但让所有人都同情这也是强人所难。 https://twitter.com/8964xjpfucku/status/1628567901723672585<div class="rsshub-quote"><br><br>一号女嘉宾: @Isabel_3299 可是中国也有LGBTQ群体啊，中国那么歧视LGBTQ但是即便在完全没有西方文化侵蚀的农村，也有变性人的。<br><br>这不是左逼捏造的东西，你可能不喜欢别人变性，但是这个东西确实是人家的真实生理需求。<br><br>你要是否认这个群体，他们就形婚，生娃，假装正常。基因还能延续呢。<br>人家自己绝后，对所有人都好。<br></div>
+RT Isabel👑💎WW<br>自古同性恋哪个文化都有，但是当把这种只占1%不到的人的特殊需求当政治正确打压99%属于正常人的权利就另当别论。<br><br>你同情他们个体的遭遇可以理解，但让所有人都同情这也是强人所难。<div class="rsshub-quote"><br><br>一号女嘉宾: @Isabel_3299 可是中国也有LGBTQ群体啊，中国那么歧视LGBTQ但是即便在完全没有西方文化侵蚀的农村，也有变性人的。<br><br>这不是左逼捏造的东西，你可能不喜欢别人变性，但是这个东西确实是人家的真实生理需求。<br><br>你要是否认这个群体，他们就形婚，生娃，假装正常。基因还能延续呢。<br>人家自己绝后，对所有人都好。<br></div>
 
 ### 124: [2023-02-23 10:07:43+08:00 推文](https://twitter.com/HeQinglian/status/1628577311002951680)
 
@@ -1165,7 +1165,7 @@ RT Richard<br>Re @kiu49570071 @HeQinglian 时间，地点，人物都有，你
 
 ### 288: [2023-02-26 22:14:03+08:00 推文](https://twitter.com/HeQinglian/status/1629847262649040897)
 
-历史重温：<br>几乎同时段，江泽民在高层内部会议上提出：吸取六四一代过于政治化的教训，放开社会娱乐管制，将年轻一代的注意力吸引到非政治化领域，减少对政治话题的关注——此后养成的中国70、80生代，多数是“娱乐至死”、不关心政治，与六四一代精神完全不同。<br>不清楚江是否从“奶头乐理论”获得灵感。<div class="rsshub-quote"><br><br>He Qinglian: 这些来自各国的社会顶层精英，纷纷表达了对未来世界的担忧。<br>他们认为，随着高科技的进步与发展，机器将取代人力，整个社会只需要10%左右的人创造性地工作，还有30%的人从事各种社会服务业，多数会成为奶瓶阶层，这会引起社会矛盾的大爆发。<br>布热津斯基在会上提出了他的解决方案——著名的“奶头乐理论”<br></div>
+历史重温：<br>几乎同时段，江泽民在高层内部会议上提出：吸取六四一代过于政治化的教训，放开社会娱乐管制，将年轻一代的注意力吸引到非政治化领域，减少对政治话题的关注——此后养成的中国70、80生代，多数是“娱乐至死”、不关心政治，与六四一代精神完全不同。<br>不清楚江是否从“奶头乐理论”获得灵感。 https://twitter.com/HeQinglian/status/1629684014809325571<div class="rsshub-quote"><br><br>He Qinglian: 这些来自各国的社会顶层精英，纷纷表达了对未来世界的担忧。<br>他们认为，随着高科技的进步与发展，机器将取代人力，整个社会只需要10%左右的人创造性地工作，还有30%的人从事各种社会服务业，多数会成为奶瓶阶层，这会引起社会矛盾的大爆发。<br>布热津斯基在会上提出了他的解决方案——著名的“奶头乐理论”<br></div>
 
 ### 289: [2023-02-26 22:19:32+08:00 推文](https://twitter.com/HeQinglian/status/1629848642612781056)
 
