@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-03-18
+date: 2023-03-19
 from: https://twitter.com/HeQinglian/status/1634970256207929346
 layout: post
 tags:
@@ -29,7 +29,7 @@ Re @_HicRhodus 所有人佩服奥巴马以前的美国宪政文明，是佩服�
 
 ### 4: [2023-03-13 03:38:35+08:00 推文](https://twitter.com/HeQinglian/status/1635002366494908418)
 
-留言中有位“老枪”，非得将挺川与挺拜当作挺个人，这种见识太差劲了。<br>其实就我而言，是支持川普的政治主张与相关政策，以及这种主张与政策对传统生活方式的守护。挺拜的人也同样如此，是支持拜登政治主张与政策对美国传统生活方式的颠覆。<br>我相信多数挺川的都如此。 https://twitter.com/HeQinglian/status/1634910100367511558<div class="rsshub-quote"><br><br>He Qinglian: 今天看到华拜粉在某处留言，说学问大挺川，说明学问让人糊涂。<br>在媒体一片声黑化川普及其政策时，挺川不仅需要起码的知识与常识，还需要思考。不比挺拜与民主党，只需要认同移民无国界与福利，学几句人道口号，会举拳头就行了。<br></div>
+留言中有位“老枪”，非得将挺川与挺拜当作挺个人，这种见识太差劲了。<br>其实就我而言，是支持川普的政治主张与相关政策，以及这种主张与政策对传统生活方式的守护。挺拜的人也同样如此，是支持拜登政治主张与政策对美国传统生活方式的颠覆。<br>我相信多数挺川的都如此。<div class="rsshub-quote"><br><br>He Qinglian: 今天看到华拜粉在某处留言，说学问大挺川，说明学问让人糊涂。<br>在媒体一片声黑化川普及其政策时，挺川不仅需要起码的知识与常识，还需要思考。不比挺拜与民主党，只需要认同移民无国界与福利，学几句人道口号，会举拳头就行了。<br></div>
 
 ### 5: [2023-03-13 03:44:13+08:00 推文](https://twitter.com/HeQinglian/status/1635003784526196739)
 
@@ -321,7 +321,7 @@ Re @ivan4131 @qihang19211 看来我的学术经历你一无所知。比你好一
 
 ### 77: [2023-03-14 04:28:03+08:00 推文](https://twitter.com/HeQinglian/status/1635377202526314503)
 
-Re @qihang19211 还有一赢，我干脆说了，拜粉躺地上打滚吧。<br>中国从没象现在这样对待任何一位白宫主人，就连被美媒污名化到无以复加的川普，北京也还算讲外交礼仪。<br>从拜登上台开始至今，各种外交场合，基本都是中方趾高气扬，美方则是舆论上批倒中方，会见时摆出一副“求求你，跪下吧”，每求一次，中方的头向上扬一分。
+RT He Qinglian<br>Re @qihang19211 还有一赢，我干脆说了，拜粉躺地上打滚吧。<br>中国从没象现在这样对待任何一位白宫主人，就连被美媒污名化到无以复加的川普，北京也还算讲外交礼仪。<br>从拜登上台开始至今，各种外交场合，基本都是中方趾高气扬，美方则是舆论上批倒中方，会见时摆出一副“求求你，跪下吧”，每求一次，中方的头向上扬一分。
 
 ### 78: [2023-03-14 04:52:32+08:00 推文](https://twitter.com/HeQinglian/status/1635383362935476224)
 
@@ -473,7 +473,7 @@ Re @franktianxie 如果你认为，和平12条事先没与俄罗斯沟通过，�
 
 ### 115: [2023-03-15 06:58:44+08:00 推文](https://twitter.com/HeQinglian/status/1635777509152157732)
 
-2008年世界金融危机由美国开始，波及欧洲。美国几个月后就站起来了，欧洲继续衰退。<br>这次金融危机如果将美国击倒，美国是大重置的抓手。除了拜登政府完全臣服于WEF，很难想象两者如何处理这矛盾。 https://twitter.com/Lala_Deesky/status/1635760766635655169<div class="rsshub-quote"><br><br>Lala Dee 台北的天空🦋💫✨🦋💫✨: 世界經濟論壇內部人士承認矽谷銀行崩潰是一個“偉大的重置騙局”<br><br> 一位世界經濟論壇內部人士被抓到吹噓說，矽谷銀行的崩潰是一個精心策劃的陰謀，計劃完美——這次崩潰將對銀行業產生多米諾骨牌效應，導致全球金融崩潰。 https://t.co/DeKbhWhg5e<br><br><img style="" src="https://pbs.twimg.com/media/FrNjvlYWYAAzwch?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+2008年世界金融危机由美国开始，波及欧洲。美国几个月后就站起来了，欧洲继续衰退。<br>这次金融危机如果将美国击倒，美国是大重置的抓手。除了拜登政府完全臣服于WEF，很难想象两者如何处理这矛盾。<div class="rsshub-quote"><br><br>Lala Dee 台北的天空🦋💫✨🦋💫✨: 世界經濟論壇內部人士承認矽谷銀行崩潰是一個“偉大的重置騙局”<br><br> 一位世界經濟論壇內部人士被抓到吹噓說，矽谷銀行的崩潰是一個精心策劃的陰謀，計劃完美——這次崩潰將對銀行業產生多米諾骨牌效應，導致全球金融崩潰。 https://t.co/DeKbhWhg5e<br><br><img style="" src="https://pbs.twimg.com/media/FrNjvlYWYAAzwch?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 116: [2023-03-15 07:33:38+08:00 推文](https://twitter.com/HeQinglian/status/1635786292481912833)
 
@@ -625,7 +625,7 @@ Re @wto518 郭文贵竟然成了“民运”的三大支派之一？
 
 ### 153: [2023-03-16 08:42:16+08:00 推文](https://twitter.com/HeQinglian/status/1636165954563461121)
 
-Re @JianglinLi @arfred_1979 @fading_you1 旧金山每位黑人获赔500万美元：<br>申请人须年满18岁并证明自己符合八项额外标准中的两项：1940-96年出生或移民旧金山，本人或直系亲属曾在“失败的毒品战争”期间被监禁，祖先是1865年前被奴役者……<br>https://nypost.com/2023/01/16/sf-reparations-panel-proposes-5m-lump-sum-payment-to-eligible-residents/<br>如果SVB未倒闭，应该是经营这项业务的首选。
+RT He Qinglian<br>Re @JianglinLi @arfred_1979 @fading_you1 旧金山每位黑人获赔500万美元：<br>申请人须年满18岁并证明自己符合八项额外标准中的两项：1940-96年出生或移民旧金山，本人或直系亲属曾在“失败的毒品战争”期间被监禁，祖先是1865年前被奴役者……<br>https://nypost.com/2023/01/16/sf-reparations-panel-proposes-5m-lump-sum-payment-to-eligible-residents/<br>如果SVB未倒闭，应该是经营这项业务的首选。
 
 ### 154: [2023-03-16 08:47:12+08:00 推文](https://twitter.com/HeQinglian/status/1636167193246281729)
 
@@ -881,7 +881,7 @@ Re @aptx48693734 瑞信已经折腾了十多年，从全球一家最优金融机
 
 ### 217: [2023-03-17 21:08:48+08:00 推文](https://twitter.com/HeQinglian/status/1636716214054449152)
 
-你说的是真实情况。<br>我这几天查资料，发现欧洲早就这样玩，但全民觉得正常。美国还没烂透，这次硅谷的Woke化经营被挖出来当事情说，至少纽约邮报、Fox等愿意说，CNN、纽时、华邮则挑美联储加息来说，非说成是普遍性的。<br>Got Woke，Go Broke，不烂到底，那一半喜欢Woke的美国左派国民不会醒的。<div class="rsshub-quote"><br><br>hustzhuch: @HeQinglian 欧美很多公司都搞这个鬼，他妈的还不能说。迟早完蛋<br></div>
+你说的是真实情况。<br>我这几天查资料，发现欧洲早就这样玩，但全民觉得正常。美国还没烂透，这次硅谷的Woke化经营被挖出来当事情说，至少纽约邮报、Fox等愿意说，CNN、纽时、华邮则挑美联储加息来说，非说成是普遍性的。<br>Got Woke，Go Broke，不烂到底，那一半喜欢Woke的美国左派国民不会醒的。 https://twitter.com/hustzhuch/status/1636579388069126144<div class="rsshub-quote"><br><br>hustzhuch: @HeQinglian 欧美很多公司都搞这个鬼，他妈的还不能说。迟早完蛋<br></div>
 
 ### 218: [2023-03-17 21:19:05+08:00 推文](https://twitter.com/HeQinglian/status/1636718800954376192)
 
@@ -990,4 +990,36 @@ Re @mingshi_chen @lianghuiwang2 你忘记一件最大的事情，这是SWIFT系�
 ### 244: [2023-03-18 21:13:57+08:00 推文](https://twitter.com/HeQinglian/status/1637079897716715521)
 
 Re @JianglinLi 这位记者忘记树个特大横幅：<br>本台支持BLM、lgbtqi+、支持吸大麻、毒品轻罪化、999元及以下抢劫不算犯罪，支持黑人赔偿、CNN永远是你们自己人。<br>再附上一张该台集体下跪的照片。该台定制500份，停车时拿出来插上。
+
+### 245: [2023-03-19 00:31:38+08:00 推文](https://twitter.com/Wu_Zhi/status/1637129644326498307)
+
+RT zhix<br>说白了，西方现在定义谁是民主国家，全靠此国家的领导人是不是掌握在美国霸权手里的傀儡，是不是服从美国的领导，跟当地选举政治制度实在没啥关系。😅 https://twitter.com/dinglili7/status/1636946863843840000<div class="rsshub-quote"><br><br>绫波: 杜金：<br><br>西方犯下两个根本性、逻辑性错误。 <br>首先它认为西方民主世界是文明而俄罗斯不是。西方自以为拥有定义其他国家和民族如何运作的权利同時他们确信自己是地球上唯一的文明模式。<br><br>亲俄派的斗争有许多重要原因，其中最重要的莫过于让西方承认其他文明和模式的存在，並放弃其本质上的全球主义言论 https://t.co/ZDK5MFuik5<br><br><img style="" src="https://pbs.twimg.com/media/FreaMh-aYAATdyO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 246: [2023-03-19 04:05:14+08:00 推文](https://twitter.com/HeQinglian/status/1637183400334245889)
+
+Re @HarryYCShen 1、媒体列出好几家，我推特有出处；暂时没列上FDIC而已。<br>2、这叫错误太多？吹毛求疵。
+
+### 247: [2023-03-19 04:10:53+08:00 推文](https://twitter.com/HeQinglian/status/1637184820005543936)
+
+Re @HarryYCShen 你先说自己指出错误太多了，是言语夸张，我就立刻去找给你。
+
+### 248: [2023-03-19 04:16:11+08:00 推文](https://twitter.com/HeQinglian/status/1637186154490388481)
+
+Re @HarryYCShen 不用多说，先反求诸己，因为一个你认为的“错误”，就说错误太多，无非是想否定这文章，心思不好。<br>只要你承认自己言语夸张，不用你承认喜欢吹毛求疵，我立刻找给你。<br>这是最后一推。
+
+### 249: [2023-03-19 04:17:19+08:00 推文](https://twitter.com/HeQinglian/status/1637186438633603072)
+
+Re @HarryYCShen 确实，这是摩根数据，但白宫也没出来辟谣，我引用了，你怎么办？说这是不严谨吗？
+
+### 250: [2023-03-19 04:17:57+08:00 推文](https://twitter.com/HeQinglian/status/1637186599703248896)
+
+Re @Isabel_3299 你们都在参与这种争斗，上当了。
+
+### 251: [2023-03-19 04:33:59+08:00 推文](https://twitter.com/HeQinglian/status/1637190634082639872)
+
+Re @JianglinLi 这种文革红卫兵小报，当时真的很受欢迎。<br>有些东西，应该是中央文革给了翻阅中央档案馆的权利，否则那么年轻的红卫兵，是不知道这些事情的。
+
+### 252: [2023-03-19 04:37:45+08:00 推文](https://twitter.com/HeQinglian/status/1637191584667283456)
+
+Re @Wu_Zhi @KELMAND1 这事，与西方知识分子讨论，有人不承认，说身份政治要看怎么定义，也就是说，他们不承认按种族、性别等定义是身份政治，只有阶级是身份政治。
 
