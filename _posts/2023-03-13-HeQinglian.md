@@ -29,7 +29,7 @@ Re @_HicRhodus 所有人佩服奥巴马以前的美国宪政文明，是佩服�
 
 ### 4: [2023-03-13 03:38:35+08:00 推文](https://twitter.com/HeQinglian/status/1635002366494908418)
 
-留言中有位“老枪”，非得将挺川与挺拜当作挺个人，这种见识太差劲了。<br>其实就我而言，是支持川普的政治主张与相关政策，以及这种主张与政策对传统生活方式的守护。挺拜的人也同样如此，是支持拜登政治主张与政策对美国传统生活方式的颠覆。<br>我相信多数挺川的都如此。<div class="rsshub-quote"><br><br>He Qinglian: 今天看到华拜粉在某处留言，说学问大挺川，说明学问让人糊涂。<br>在媒体一片声黑化川普及其政策时，挺川不仅需要起码的知识与常识，还需要思考。不比挺拜与民主党，只需要认同移民无国界与福利，学几句人道口号，会举拳头就行了。<br></div>
+留言中有位“老枪”，非得将挺川与挺拜当作挺个人，这种见识太差劲了。<br>其实就我而言，是支持川普的政治主张与相关政策，以及这种主张与政策对传统生活方式的守护。挺拜的人也同样如此，是支持拜登政治主张与政策对美国传统生活方式的颠覆。<br>我相信多数挺川的都如此。 https://twitter.com/HeQinglian/status/1634910100367511558<div class="rsshub-quote"><br><br>He Qinglian: 今天看到华拜粉在某处留言，说学问大挺川，说明学问让人糊涂。<br>在媒体一片声黑化川普及其政策时，挺川不仅需要起码的知识与常识，还需要思考。不比挺拜与民主党，只需要认同移民无国界与福利，学几句人道口号，会举拳头就行了。<br></div>
 
 ### 5: [2023-03-13 03:44:13+08:00 推文](https://twitter.com/HeQinglian/status/1635003784526196739)
 
@@ -321,7 +321,7 @@ Re @ivan4131 @qihang19211 看来我的学术经历你一无所知。比你好一
 
 ### 77: [2023-03-14 04:28:03+08:00 推文](https://twitter.com/HeQinglian/status/1635377202526314503)
 
-RT He Qinglian<br>Re @qihang19211 还有一赢，我干脆说了，拜粉躺地上打滚吧。<br>中国从没象现在这样对待任何一位白宫主人，就连被美媒污名化到无以复加的川普，北京也还算讲外交礼仪。<br>从拜登上台开始至今，各种外交场合，基本都是中方趾高气扬，美方则是舆论上批倒中方，会见时摆出一副“求求你，跪下吧”，每求一次，中方的头向上扬一分。
+Re @qihang19211 还有一赢，我干脆说了，拜粉躺地上打滚吧。<br>中国从没象现在这样对待任何一位白宫主人，就连被美媒污名化到无以复加的川普，北京也还算讲外交礼仪。<br>从拜登上台开始至今，各种外交场合，基本都是中方趾高气扬，美方则是舆论上批倒中方，会见时摆出一副“求求你，跪下吧”，每求一次，中方的头向上扬一分。
 
 ### 78: [2023-03-14 04:52:32+08:00 推文](https://twitter.com/HeQinglian/status/1635383362935476224)
 
@@ -473,7 +473,7 @@ Re @franktianxie 如果你认为，和平12条事先没与俄罗斯沟通过，�
 
 ### 115: [2023-03-15 06:58:44+08:00 推文](https://twitter.com/HeQinglian/status/1635777509152157732)
 
-2008年世界金融危机由美国开始，波及欧洲。美国几个月后就站起来了，欧洲继续衰退。<br>这次金融危机如果将美国击倒，美国是大重置的抓手。除了拜登政府完全臣服于WEF，很难想象两者如何处理这矛盾。<div class="rsshub-quote"><br><br>Lala Dee 台北的天空🦋💫✨🦋💫✨: 世界經濟論壇內部人士承認矽谷銀行崩潰是一個“偉大的重置騙局”<br><br> 一位世界經濟論壇內部人士被抓到吹噓說，矽谷銀行的崩潰是一個精心策劃的陰謀，計劃完美——這次崩潰將對銀行業產生多米諾骨牌效應，導致全球金融崩潰。 https://t.co/DeKbhWhg5e<br><br><img style="" src="https://pbs.twimg.com/media/FrNjvlYWYAAzwch?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+2008年世界金融危机由美国开始，波及欧洲。美国几个月后就站起来了，欧洲继续衰退。<br>这次金融危机如果将美国击倒，美国是大重置的抓手。除了拜登政府完全臣服于WEF，很难想象两者如何处理这矛盾。 https://twitter.com/Lala_Deesky/status/1635760766635655169<div class="rsshub-quote"><br><br>Lala Dee 台北的天空🦋💫✨🦋💫✨: 世界經濟論壇內部人士承認矽谷銀行崩潰是一個“偉大的重置騙局”<br><br> 一位世界經濟論壇內部人士被抓到吹噓說，矽谷銀行的崩潰是一個精心策劃的陰謀，計劃完美——這次崩潰將對銀行業產生多米諾骨牌效應，導致全球金融崩潰。 https://t.co/DeKbhWhg5e<br><br><img style="" src="https://pbs.twimg.com/media/FrNjvlYWYAAzwch?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 116: [2023-03-15 07:33:38+08:00 推文](https://twitter.com/HeQinglian/status/1635786292481912833)
 
@@ -533,7 +533,7 @@ Re @silenceserver @HH82661575 你将我看成了泥塑。<br>我先生脾气比�
 
 ### 130: [2023-03-15 22:11:29+08:00 推文](https://twitter.com/HeQinglian/status/1636007210835906560)
 
-与雷曼时刻相比有个根本的差别。<br>2008年是做金融产品——两房贷款出了问题。这次是Woke式经营出了问题。<br>有个行当叫做“企业诊断”（管理咨询）起源于美国，就是定期或不定期对企业管理状况、经营状况和财务状况进行全面分析。用这套方式诊断SVB，从企业经营理念、方向、管理目标、管理层专业素质，癌症。<div class="rsshub-quote"><br><br>BBC News 中文: 雷曼倒，股市崩，金融海啸，席卷全球。15年前这一幕，至今还出现在金融人士的噩梦中。硅谷银行倒闭，让不少人联想起“雷曼事件”。那么，硅谷银行倒闭是否是第二个“雷曼事件”？ https://t.co/T3YwGUBELh<br><br><video src="https://video.twimg.com/amplify_video/1635963777064599553/vid/1080x1920/9eYqrBVlbN-Tq-qs.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/media/FrQmDyXX0AAPBPS?format=jpg&amp;name=orig"></video></div>
+与雷曼时刻相比有个根本的差别。<br>2008年是做金融产品——两房贷款出了问题。这次是Woke式经营出了问题。<br>有个行当叫做“企业诊断”（管理咨询）起源于美国，就是定期或不定期对企业管理状况、经营状况和财务状况进行全面分析。用这套方式诊断SVB，从企业经营理念、方向、管理目标、管理层专业素质，癌症。 https://twitter.com/bbcchinese/status/1635974418991071233<div class="rsshub-quote"><br><br>BBC News 中文: 雷曼倒，股市崩，金融海啸，席卷全球。15年前这一幕，至今还出现在金融人士的噩梦中。硅谷银行倒闭，让不少人联想起“雷曼事件”。那么，硅谷银行倒闭是否是第二个“雷曼事件”？ https://t.co/T3YwGUBELh<br><br><video src="https://video.twimg.com/amplify_video/1635963777064599553/vid/1080x1920/9eYqrBVlbN-Tq-qs.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/media/FrQmDyXX0AAPBPS?format=jpg&amp;name=orig"></video></div>
 
 ### 131: [2023-03-15 22:14:40+08:00 推文](https://twitter.com/HeQinglian/status/1636008014422368256)
 
@@ -585,7 +585,7 @@ Re @O43DGSy2NA4BdKf 好，如此甚好。法事做完了，请通知一声。�
 
 ### 143: [2023-03-16 03:58:53+08:00 推文](https://twitter.com/HeQinglian/status/1636094638594441216)
 
-民主党当政，掠财明目张胆。<br>比如白宫决定全额赔付SVB储户开了个危险的先例，因为联邦储蓄保险的赔付从来都有上限。<br>纽约邮报等因此去挖这家银行的背景，硅谷银行的 12 位董事当中，有人是奥克拜三位总统与舒默的超级捐款人，有位是奥前官员，还有一位是波洛西邻居——纳帕谷葡萄园的主人。<br>储户都有谁？<div class="rsshub-quote"><br><br>Lucs: 民主党国会议员的慈善机构在开曼群岛拥有超过3000万美元<br><br>代表Daniel Goldman（纽约州民主党）的非营利组织Richard W.据福克斯新闻报道，高盛家庭基金会报告称，在开曼群岛组织了价值超过3200万美元的投资。<br> https://www.oann.com/newsroom/democrat-congressmans-charity-has-more-than-30-million-in-cayman-islands/<br></div>
+民主党当政，掠财明目张胆。<br>比如白宫决定全额赔付SVB储户开了个危险的先例，因为联邦储蓄保险的赔付从来都有上限。<br>纽约邮报等因此去挖这家银行的背景，硅谷银行的 12 位董事当中，有人是奥克拜三位总统与舒默的超级捐款人，有位是奥前官员，还有一位是波洛西邻居——纳帕谷葡萄园的主人。<br>储户都有谁？ https://twitter.com/Lucs24659702/status/1636061969538244623<div class="rsshub-quote"><br><br>Lucs: 民主党国会议员的慈善机构在开曼群岛拥有超过3000万美元<br><br>代表Daniel Goldman（纽约州民主党）的非营利组织Richard W.据福克斯新闻报道，高盛家庭基金会报告称，在开曼群岛组织了价值超过3200万美元的投资。<br> https://www.oann.com/newsroom/democrat-congressmans-charity-has-more-than-30-million-in-cayman-islands/<br></div>
 
 ### 144: [2023-03-16 04:09:15+08:00 推文](https://twitter.com/HeQinglian/status/1636097246390255617)
 
@@ -625,7 +625,7 @@ Re @wto518 郭文贵竟然成了“民运”的三大支派之一？
 
 ### 153: [2023-03-16 08:42:16+08:00 推文](https://twitter.com/HeQinglian/status/1636165954563461121)
 
-RT He Qinglian<br>Re @JianglinLi @arfred_1979 @fading_you1 旧金山每位黑人获赔500万美元：<br>申请人须年满18岁并证明自己符合八项额外标准中的两项：1940-96年出生或移民旧金山，本人或直系亲属曾在“失败的毒品战争”期间被监禁，祖先是1865年前被奴役者……<br>https://nypost.com/2023/01/16/sf-reparations-panel-proposes-5m-lump-sum-payment-to-eligible-residents/<br>如果SVB未倒闭，应该是经营这项业务的首选。
+Re @JianglinLi @arfred_1979 @fading_you1 旧金山每位黑人获赔500万美元：<br>申请人须年满18岁并证明自己符合八项额外标准中的两项：1940-96年出生或移民旧金山，本人或直系亲属曾在“失败的毒品战争”期间被监禁，祖先是1865年前被奴役者……<br>https://nypost.com/2023/01/16/sf-reparations-panel-proposes-5m-lump-sum-payment-to-eligible-residents/<br>如果SVB未倒闭，应该是经营这项业务的首选。
 
 ### 154: [2023-03-16 08:47:12+08:00 推文](https://twitter.com/HeQinglian/status/1636167193246281729)
 
