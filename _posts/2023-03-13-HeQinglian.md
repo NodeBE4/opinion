@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-03-17
+date: 2023-03-18
 from: https://twitter.com/HeQinglian/status/1634970256207929346
 layout: post
 tags:
@@ -193,7 +193,7 @@ Re @vivivippp1 有条消息，说内部人在破产前24小时提取存款。
 
 ### 45: [2023-03-13 22:42:06+08:00 推文](https://twitter.com/HeQinglian/status/1635290139399458817)
 
-‘Get woke, go broke’ https://www.businesstoday.in/silicon-valley-bank/story/get-woke-go-broke-silicon-valley-banks-top-woman-executive-lgbtq-activist-gets-targeted-for-lenders-failure-373067-2023-03-12<br>到现在为止，如果还不认识以下事实，只能说是无感：欧洲尤其是绿色先锋德国洗绿，欧盟碳税不能收了，另起名目收取气候补偿基金，这一事实标志绿能破产。<br>大重置将随着2024美国选举拜登政府下台而结束——除了这个集团比2020更疯狂地盗票。 https://twitter.com/Vince6610/status/1635259128812810240<div class="rsshub-quote"><br><br>Vince66: @HeQinglian 谢谢总结分享.  除了woke 这个银行的操作风险高<br></div>
+‘Get woke, go broke’ https://www.businesstoday.in/silicon-valley-bank/story/get-woke-go-broke-silicon-valley-banks-top-woman-executive-lgbtq-activist-gets-targeted-for-lenders-failure-373067-2023-03-12<br>到现在为止，如果还不认识以下事实，只能说是无感：欧洲尤其是绿色先锋德国洗绿，欧盟碳税不能收了，另起名目收取气候补偿基金，这一事实标志绿能破产。<br>大重置将随着2024美国选举拜登政府下台而结束——除了这个集团比2020更疯狂地盗票。<div class="rsshub-quote"><br><br>Vince66: @HeQinglian 谢谢总结分享.  除了woke 这个银行的操作风险高<br></div>
 
 ### 46: [2023-03-13 22:43:23+08:00 推文](https://twitter.com/HeQinglian/status/1635290465041027077)
 
@@ -321,7 +321,7 @@ Re @ivan4131 @qihang19211 看来我的学术经历你一无所知。比你好一
 
 ### 77: [2023-03-14 04:28:03+08:00 推文](https://twitter.com/HeQinglian/status/1635377202526314503)
 
-RT He Qinglian<br>Re @qihang19211 还有一赢，我干脆说了，拜粉躺地上打滚吧。<br>中国从没象现在这样对待任何一位白宫主人，就连被美媒污名化到无以复加的川普，北京也还算讲外交礼仪。<br>从拜登上台开始至今，各种外交场合，基本都是中方趾高气扬，美方则是舆论上批倒中方，会见时摆出一副“求求你，跪下吧”，每求一次，中方的头向上扬一分。
+Re @qihang19211 还有一赢，我干脆说了，拜粉躺地上打滚吧。<br>中国从没象现在这样对待任何一位白宫主人，就连被美媒污名化到无以复加的川普，北京也还算讲外交礼仪。<br>从拜登上台开始至今，各种外交场合，基本都是中方趾高气扬，美方则是舆论上批倒中方，会见时摆出一副“求求你，跪下吧”，每求一次，中方的头向上扬一分。
 
 ### 78: [2023-03-14 04:52:32+08:00 推文](https://twitter.com/HeQinglian/status/1635383362935476224)
 
@@ -373,7 +373,7 @@ Re @JianglinLi @PrezXi 如果自带饭辙，那当然可以。需要赏饭可能
 
 ### 90: [2023-03-14 10:49:55+08:00 推文](https://twitter.com/shenliangqing2/status/1635473304093097985)
 
-RT 沈良庆二世<br>痴呆政府主导下的西方国家地缘政治：外交战略“既要…也要”第六病室辩证法 https://twitter.com/zaobaosg/status/1635437821245763588<div class="rsshub-quote"><br><br>联合早报 Lianhe Zaobao: 英国在更新版的外交政策框架中，将中国视为对世界秩序构成“划时代的挑战”，但它也表明，倾向于与北京增进合作与理解，并指英国的安全取决于乌克兰战争的结果。 https://www.zaobao.com.sg/realtime/world/story20230314-1372356<br></div>
+RT 沈良庆二世<br>痴呆政府主导下的西方国家地缘政治：外交战略“既要…也要”第六病室辩证法<div class="rsshub-quote"><br><br>联合早报 Lianhe Zaobao: 英国在更新版的外交政策框架中，将中国视为对世界秩序构成“划时代的挑战”，但它也表明，倾向于与北京增进合作与理解，并指英国的安全取决于乌克兰战争的结果。 https://www.zaobao.com.sg/realtime/world/story20230314-1372356<br></div>
 
 ### 91: [2023-03-14 22:01:26+08:00 推文](https://twitter.com/HeQinglian/status/1635642293825699850)
 
@@ -473,7 +473,7 @@ Re @franktianxie 如果你认为，和平12条事先没与俄罗斯沟通过，�
 
 ### 115: [2023-03-15 06:58:44+08:00 推文](https://twitter.com/HeQinglian/status/1635777509152157732)
 
-2008年世界金融危机由美国开始，波及欧洲。美国几个月后就站起来了，欧洲继续衰退。<br>这次金融危机如果将美国击倒，美国是大重置的抓手。除了拜登政府完全臣服于WEF，很难想象两者如何处理这矛盾。 https://twitter.com/Lala_Deesky/status/1635760766635655169<div class="rsshub-quote"><br><br>Lala Dee 台北的天空🦋💫✨🦋💫✨: 世界經濟論壇內部人士承認矽谷銀行崩潰是一個“偉大的重置騙局”<br><br> 一位世界經濟論壇內部人士被抓到吹噓說，矽谷銀行的崩潰是一個精心策劃的陰謀，計劃完美——這次崩潰將對銀行業產生多米諾骨牌效應，導致全球金融崩潰。 https://t.co/DeKbhWhg5e<br><br><img style="" src="https://pbs.twimg.com/media/FrNjvlYWYAAzwch?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+2008年世界金融危机由美国开始，波及欧洲。美国几个月后就站起来了，欧洲继续衰退。<br>这次金融危机如果将美国击倒，美国是大重置的抓手。除了拜登政府完全臣服于WEF，很难想象两者如何处理这矛盾。<div class="rsshub-quote"><br><br>Lala Dee 台北的天空🦋💫✨🦋💫✨: 世界經濟論壇內部人士承認矽谷銀行崩潰是一個“偉大的重置騙局”<br><br> 一位世界經濟論壇內部人士被抓到吹噓說，矽谷銀行的崩潰是一個精心策劃的陰謀，計劃完美——這次崩潰將對銀行業產生多米諾骨牌效應，導致全球金融崩潰。 https://t.co/DeKbhWhg5e<br><br><img style="" src="https://pbs.twimg.com/media/FrNjvlYWYAAzwch?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 116: [2023-03-15 07:33:38+08:00 推文](https://twitter.com/HeQinglian/status/1635786292481912833)
 
@@ -533,7 +533,7 @@ Re @silenceserver @HH82661575 你将我看成了泥塑。<br>我先生脾气比�
 
 ### 130: [2023-03-15 22:11:29+08:00 推文](https://twitter.com/HeQinglian/status/1636007210835906560)
 
-与雷曼时刻相比有个根本的差别。<br>2008年是做金融产品——两房贷款出了问题。这次是Woke式经营出了问题。<br>有个行当叫做“企业诊断”（管理咨询）起源于美国，就是定期或不定期对企业管理状况、经营状况和财务状况进行全面分析。用这套方式诊断SVB，从企业经营理念、方向、管理目标、管理层专业素质，癌症。<div class="rsshub-quote"><br><br>BBC News 中文: 雷曼倒，股市崩，金融海啸，席卷全球。15年前这一幕，至今还出现在金融人士的噩梦中。硅谷银行倒闭，让不少人联想起“雷曼事件”。那么，硅谷银行倒闭是否是第二个“雷曼事件”？ https://t.co/T3YwGUBELh<br><br><video src="https://video.twimg.com/amplify_video/1635963777064599553/vid/1080x1920/9eYqrBVlbN-Tq-qs.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/media/FrQmDyXX0AAPBPS?format=jpg&amp;name=orig"></video></div>
+与雷曼时刻相比有个根本的差别。<br>2008年是做金融产品——两房贷款出了问题。这次是Woke式经营出了问题。<br>有个行当叫做“企业诊断”（管理咨询）起源于美国，就是定期或不定期对企业管理状况、经营状况和财务状况进行全面分析。用这套方式诊断SVB，从企业经营理念、方向、管理目标、管理层专业素质，癌症。 https://twitter.com/bbcchinese/status/1635974418991071233<div class="rsshub-quote"><br><br>BBC News 中文: 雷曼倒，股市崩，金融海啸，席卷全球。15年前这一幕，至今还出现在金融人士的噩梦中。硅谷银行倒闭，让不少人联想起“雷曼事件”。那么，硅谷银行倒闭是否是第二个“雷曼事件”？ https://t.co/T3YwGUBELh<br><br><video src="https://video.twimg.com/amplify_video/1635963777064599553/vid/1080x1920/9eYqrBVlbN-Tq-qs.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/media/FrQmDyXX0AAPBPS?format=jpg&amp;name=orig"></video></div>
 
 ### 131: [2023-03-15 22:14:40+08:00 推文](https://twitter.com/HeQinglian/status/1636008014422368256)
 
@@ -625,7 +625,7 @@ Re @wto518 郭文贵竟然成了“民运”的三大支派之一？
 
 ### 153: [2023-03-16 08:42:16+08:00 推文](https://twitter.com/HeQinglian/status/1636165954563461121)
 
-RT He Qinglian<br>Re @JianglinLi @arfred_1979 @fading_you1 旧金山每位黑人获赔500万美元：<br>申请人须年满18岁并证明自己符合八项额外标准中的两项：1940-96年出生或移民旧金山，本人或直系亲属曾在“失败的毒品战争”期间被监禁，祖先是1865年前被奴役者……<br>https://nypost.com/2023/01/16/sf-reparations-panel-proposes-5m-lump-sum-payment-to-eligible-residents/<br>如果SVB未倒闭，应该是经营这项业务的首选。
+Re @JianglinLi @arfred_1979 @fading_you1 旧金山每位黑人获赔500万美元：<br>申请人须年满18岁并证明自己符合八项额外标准中的两项：1940-96年出生或移民旧金山，本人或直系亲属曾在“失败的毒品战争”期间被监禁，祖先是1865年前被奴役者……<br>https://nypost.com/2023/01/16/sf-reparations-panel-proposes-5m-lump-sum-payment-to-eligible-residents/<br>如果SVB未倒闭，应该是经营这项业务的首选。
 
 ### 154: [2023-03-16 08:47:12+08:00 推文](https://twitter.com/HeQinglian/status/1636167193246281729)
 
@@ -633,7 +633,7 @@ Re @SSK2024 他要表达的，正是主流媒体要表达的。
 
 ### 155: [2023-03-16 09:03:50+08:00 推文](https://twitter.com/zhixiangziyou/status/1636171379736182784)
 
-RT L JM🇺🇸<br>1/ THREAD 🚨 #TwitterFiles<br><br>@elonmusk将 CISA 审查网络抨击为“宣传平台”。<br><br>这个由国土安全部支持的审查联盟使用了 120 名分析师来审查数百万关于选举和 covid-19 的社交媒体帖子。<div class="rsshub-quote"><br><br>kanekoa.substack.com: 1/ THREAD🚨 #TwitterFiles<br><br>@elonmusk slams CISA censorship network as 'propaganda platform.'<br><br>This DHS-backed censorship consortium used 120 analysts to censor millions of social media posts on elections and covid-19.<br><br>https://kanekoa.substack.com/p/elon-musk-slams-cisa-censorship-network<br></div>
+RT L JM🇺🇸<br>1/ THREAD 🚨 #TwitterFiles<br><br>@elonmusk将 CISA 审查网络抨击为“宣传平台”。<br><br>这个由国土安全部支持的审查联盟使用了 120 名分析师来审查数百万关于选举和 covid-19 的社交媒体帖子。 https://twitter.com/kanekoathegreat/status/1608231209875963904<div class="rsshub-quote"><br><br>kanekoa.substack.com: 1/ THREAD🚨 #TwitterFiles<br><br>@elonmusk slams CISA censorship network as 'propaganda platform.'<br><br>This DHS-backed censorship consortium used 120 analysts to censor millions of social media posts on elections and covid-19.<br><br>https://kanekoa.substack.com/p/elon-musk-slams-cisa-censorship-network<br></div>
 
 ### 156: [2023-03-16 10:52:46+08:00 推文](https://twitter.com/shenliangqing2/status/1636198795330609152)
 
@@ -922,4 +922,56 @@ Re @Wu_Zhi 我说的是：<br>西方主流媒体不要求本国金融机构专�
 ### 227: [2023-03-17 22:01:51+08:00 推文](https://twitter.com/HeQinglian/status/1636729561835503617)
 
 Re @zhixiangziyou 要象长岛，有人挺身而出，组织选民，筹集资金，看好投票箱。
+
+### 228: [2023-03-18 07:47:18+08:00 推文](https://twitter.com/HeQinglian/status/1636876895819112450)
+
+Re @mingshi_chen @lianghuiwang2 不能说完全没人看到，有人看到了，但不能在主流媒体上发言，只能在博客或者非主流媒体上发言。
+
+### 229: [2023-03-18 07:51:29+08:00 推文](https://twitter.com/HeQinglian/status/1636877947960270849)
+
+Re @Grace32490878 @ElaineYuMuMu 这事，我主张公平竞争，披上征袍也名正言顺，不是人家让的，是选民意志。<br>如果民调没严重做假，我相信川普会在第一轮竞争后胜出。<br>他与支持者真的应该接受公平竞争。
+
+### 230: [2023-03-18 07:54:28+08:00 推文](https://twitter.com/HeQinglian/status/1636878699239817216)
+
+Re @QpPXk7zhSk7VOm3 @wqr0805 工人阶级天生左倾，但奥巴马之后到现阶段美国制造业工人例外。<br>因为天生左倾，奥巴马第二次当选，美国工人许多还是在工会的要求下支持奥巴马。直到2016年才改变态度。
+
+### 231: [2023-03-18 07:57:42+08:00 推文](https://twitter.com/HeQinglian/status/1636879514813825024)
+
+Re @sharph31 @Tepezano161 应该已经差不多了。今年政府是想刺激，但如果居然还有人买，那是不看大势，盲人瞎马。
+
+### 232: [2023-03-18 07:58:28+08:00 推文](https://twitter.com/HeQinglian/status/1636879708548743169)
+
+Re @Vince6610 @Tepezano161 谢谢。因为有些话，说到八成就够了，画虎不需要画骨。
+
+### 233: [2023-03-18 08:04:03+08:00 推文](https://twitter.com/HeQinglian/status/1636881111983718400)
+
+Re @zhixiangziyou 这个他赢不了，因为当时维修店老板都是按法律要求做的——除了美国法律为拜登绕道，这事我也不敢说不会出现。
+
+### 234: [2023-03-18 08:06:43+08:00 推文](https://twitter.com/HeQinglian/status/1636881782061649923)
+
+Re @mingshi_chen @lianghuiwang2 有空查一下两个数据，应该出来了。<br>一是人民币在国际结算中的百分比（年度比、同比）；<br>二是人民币与各国互换货币增加多少（其实就是储备货币，过去一直没达到IMF额度下限）。<br>我这两天事多，借尊驾之后。
+
+### 235: [2023-03-18 08:11:36+08:00 推文](https://twitter.com/HeQinglian/status/1636883012586467328)
+
+Re @xchen156 金融财政口的四位大员全部超龄留任。
+
+### 236: [2023-03-18 08:13:01+08:00 推文](https://twitter.com/HeQinglian/status/1636883367693041670)
+
+Re @almunia2012 @romagnori @ElaineYuMuMu 这是我很看好他的一点，实干能力。
+
+### 237: [2023-03-18 08:17:01+08:00 推文](https://twitter.com/HeQinglian/status/1636884374577725441)
+
+Re @mingshi_chen @lianghuiwang2 美元弱化的标记，就是在国际结算体系中占比逐年下降。<br>这方面，美元下降一个点，人民币上升一个点，就是非常了不起的扩张——在推上久了，很多人动辄就上亿，没上十个点就觉得不行。<br>美国金融体系的优点（与中国相比较），我哪天写篇文章。民主党政府就算象拜登这样胡折腾，老本还有得好几年吃。
+
+### 238: [2023-03-18 08:18:02+08:00 推文](https://twitter.com/HeQinglian/status/1636884629629161478)
+
+Re @zhixiangziyou 该州法律，送店修理品三个月不拿，就归店主所有。
+
+### 239: [2023-03-18 08:26:58+08:00 推文](https://twitter.com/HeQinglian/status/1636886878837243905)
+
+Re @xchen156 我看所谓专业，习近平主要考虑金融财经口，其他的所谓抓经济、招商引资这类，他自己全都干过，明白大概是怎么回事。<br>易纲、刘昆这两位留任，可能得等到新的干才出来后才会离职。<br>注意周小川在三任总书记任上都干下来了，最后平安落地，真不容易——就因不容易，所以得咬牙坚持。
+
+### 240: [2023-03-18 08:28:27+08:00 推文](https://twitter.com/HeQinglian/status/1636887250855141377)
+
+Re @mingshi_chen @lianghuiwang2 这事，数据说话。现在国际货币三级体系，人民币还在第三级，与英镑、日元在同一级别，弱于英镑，现在强于日元。
 
