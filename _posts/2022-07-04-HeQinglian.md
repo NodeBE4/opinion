@@ -33,7 +33,7 @@ Re @whisperCDX @cskun1989 15-20年前，我接触的台湾学界与文化界都�
 
 ### 5: [2022-07-04 09:46:00+08:00 推文](https://twitter.com/HeQinglian/status/1543773087661015041)
 
-7月1日路透发布英文消息：《美国官方消息：中国没有为俄罗斯在乌克兰的战争提供物质支持》，拜登政府一名高官在告诉路透，美商务部黑名单是针对企业，不是针对政府。<br><br>G7表态在前。由此可见，胡萝卜+大棒并用，美对华政策仍然处在战略摇摆状态，依据是中国经济前景不明朗。 <a href="https://www.reuters.com/world/china-not-giving-material-support-russias-war-ukraine-us-official-2022-07-01/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/china-not-giving-material-support-russias-war-ukraine-us-official-2022-07-01/</a>
+7月1日路透发布英文消息：《美国官方消息：中国没有为俄罗斯在乌克兰的战争提供物质支持》，拜登政府一名高官在告诉路透，美商务部黑名单是针对企业，不是针对政府。<br><br>G7表态在前。由此可见，胡萝卜+大棒并用，美对华政策仍然处在战略摇摆状态，依据是中国经济前景不明朗。<br><br>华尔街日报中文网: #本周热读 美国及其在欧洲和亚洲的主要盟友正联合起来对抗中国，它们都将中国视为安全挑战，而且中方在乌克兰战争中对俄罗斯的支持更是令人不安。欧洲国家曾倾向于将中国视为一个经济机会，但最近对中国的强硬姿态显示出反感。<br> <a href="https://on.wsj.com/3NyRX9d" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3NyRX9d</a>
 
 ### 6: [2022-07-04 09:48:32+08:00 推文](https://twitter.com/HeQinglian/status/1543773724310224897)
 
@@ -157,7 +157,7 @@ Re @HettyJ008 @JianglinLi Mark了，买包试试。不知有无季节限制？
 
 ### 36: [2022-07-05 04:15:58+08:00 推文](https://twitter.com/HeQinglian/status/1544052420363403265)
 
-中国用2500亿美元订购了近 300 架空客喷气式飞机，是这家欧洲飞机制造商有史以来最大的单日交易之一，这块石头丢下去，波音的反应来了，该公司发言人称：<br>“令人失望的是，地缘政治差异继续限制美国飞机出口，对中国的销售历来支持数以万计的美国工作岗位。”<br><br>He Qinglian: 关于中国斥资2500亿，购买近300架空客，不得不说几句：这是对拜登的双重打击。<br>1、在川普之前的空客与波音之争，空客已经败下阵来，因质量问题；<br>2、这时购买有战略考量：一是帮欧盟（德法）一把，让欧盟与美国的中国战略保持距离；二是给拜登难堪，波音肯定对此有极大意见，减少对拜登民主党的捐款。<br>
+中国用2500亿美元订购了近 300 架空客喷气式飞机，是这家欧洲飞机制造商有史以来最大的单日交易之一，这块石头丢下去，波音的反应来了，该公司发言人称：<br>“令人失望的是，地缘政治差异继续限制美国飞机出口，对中国的销售历来支持数以万计的美国工作岗位。” <a href="https://www.bloomberg.com/news/articles/2022-07-04/boeing-rues-us-china-trade-war-as-airbus-wins-37-billion-deal#:~:text=A%20giant%20aviation%20deal%20from,worth%20at%20least%20%2437%20billion" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2022-07-04/boeing-rues-us-china-trade-war-as-airbus-wins-37-billion-deal#:~:text=A%20giant%20aviation%20deal%20from,worth%20at%20least%20%2437%20billion</a>
 
 ### 37: [2022-07-05 04:16:49+08:00 推文](https://twitter.com/HeQinglian/status/1544052632603557890)
 
@@ -225,7 +225,7 @@ Re @franktianxie 我觉得，俄乌战争以来经济神话破灭得最彻底的
 
 ### 53: [2022-07-05 22:44:19+08:00 推文](https://twitter.com/HeQinglian/status/1544331343492009985)
 
-中国的节令是公历8月8日（或7日）立秋，西方的秋天大概也在8月，难怪乌克兰总理昨天说要在8月取得第一场可观的胜利（以前的胜利不可观？），白宫官员传拜登要在8月终战。<br>还是有始有终地好。不过，北约收获了新成员国，反俄力量壮大了。
+中国的节令是公历8月8日（或7日）立秋，西方的秋天大概也在8月，难怪乌克兰总理昨天说要在8月取得第一场可观的胜利（以前的胜利不可观？），白宫官员传拜登要在8月终战。<br>还是有始有终地好。不过，北约收获了新成员国，反俄力量壮大了。<br><br>Ezio Mao☢: 如果基辅在秋天之前不扭转局势，西方将开始削减援助。<br><br>《每日电讯报》参考其自己的消息来源对此进行了报道。<br><br>该出版物报道，西方集体逐渐得出结论，支持乌克兰毫无意义。<br><br><img style="" src="https://pbs.twimg.com/media/FW6P6l-UEAAAyPr?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 54: [2022-07-05 22:58:18+08:00 推文](https://twitter.com/HeQinglian/status/1544334862919811076)
 
@@ -257,7 +257,7 @@ Re @suisam007 @KELMAND1 推上风光，喊口号表态，代表政治正确。�
 
 ### 61: [2022-07-06 03:22:14+08:00 推文](https://twitter.com/HeQinglian/status/1544401284064854018)
 
-美国对华外交的战略判断<br><br>美国对华的外交战略判断从来就不是政治为主，确定对华外交的战略判断是中国经济繁荣与否，对美国有利与否。拜登政府上任伊始，明言不干涉中国的政治制度。促成拜登结束战略摇摆期的因素都已浮现，耶伦与刘鹤通话是预热，习拜已经预约近期通话。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html</a>
+RT He Qinglian<br>美国对华外交的战略判断<br><br>美国对华的外交战略判断从来就不是政治为主，确定对华外交的战略判断是中国经济繁荣与否，对美国有利与否。拜登政府上任伊始，明言不干涉中国的政治制度。促成拜登结束战略摇摆期的因素都已浮现，耶伦与刘鹤通话是预热，习拜已经预约近期通话。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html</a>
 
 ### 62: [2022-07-06 03:24:50+08:00 推文](https://twitter.com/HeQinglian/status/1544401939013799936)
 
@@ -305,7 +305,7 @@ Re @comeonjustchill 对于俄罗斯，我觉得是随机调整。当初启动Swi
 
 ### 73: [2022-07-06 21:42:19+08:00 推文](https://twitter.com/HeQinglian/status/1544678131100958726)
 
-拜登、南希们等左派领导的美国。<br>福利供养出来的“美国新贵族”，Liberal World Order。<br>拜粉们喜欢么？
+拜登、南希们等左派领导的美国。<br>福利供养出来的“美国新贵族”，Liberal World Order。<br>拜粉们喜欢么？<br><br>🍃 Ɣ 🍃: When you run out of chicken nuggets..<br><br><video src="https://video.twimg.com/ext_tw_video/1544317716408016900/pu/vid/576x720/DGc1bjXJDE5uyidy.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1544317716408016900/pu/img/8-dE9FO405azD8zE.jpg"></video>
 
 ### 74: [2022-07-06 21:43:33+08:00 推文](https://twitter.com/HeQinglian/status/1544678441764769793)
 
@@ -329,7 +329,7 @@ Re @owenusa 快了，还差五公里，普京也差点被抓，只差那么一�
 
 ### 79: [2022-07-06 22:22:49+08:00 推文](https://twitter.com/HeQinglian/status/1544688323779764224)
 
-明白了。<br>那年，美国民主党在选前推出一个“红色幻影”的说法，并拟定了78天政变计划（给过AIXOS的链接）。<br>中国也做好了准备。<br>基于同一个原因：知道多米尼投票机将大显神威（2019年1月、2020年1月全美选举委员会听证会上专家均提及此机器来自中国，有两大问题）。<br>一切尽在不言中。<br><br>Ezio Mao☢: 这是老共两年前（2020年7月）提出来的，当时很多人还非常惊诧，其实就是提前布局，论下大棋，真的不是针对谁...啧啧啧<br><br><img style="" src="https://pbs.twimg.com/media/FW8rR_GaMAAYuy4?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+明白了。<br>那年，美国民主党在选前推出一个“红色幻影”的说法，并拟定了78天政变计划（给过AIXOS的链接）。<br>中国也做好了准备。<br>基于同一个原因：知道多米尼投票机将大显神威（2019年1月、2020年1月全美选举委员会听证会上专家均提及此机器来自中国，有两大问题）。<br>一切尽在不言中。
 
 ### 80: [2022-07-06 22:23:34+08:00 推文](https://twitter.com/HeQinglian/status/1544688512577986560)
 
@@ -749,7 +749,7 @@ Re @RealBeiMing @Tianshuihanyan 人家从嘲讽里听出了不服从。😉<br>�
 
 ### 184: [2022-07-10 21:35:57+08:00 推文](https://twitter.com/HeQinglian/status/1546126078086987777)
 
-日本警方严重失职（至少破除了东京警视厅神话），导致安倍被害。<br>目前，全世界专业、业余侦探全部出动，要找出安倍被害的深黑背景。<br>我坐等结果。😅<br><br>纽约时报中文网: #讣告 在寻求修宪的过程中，安倍惹怒了日本20世纪军国主义的两个受害者——中国与韩国。他还否认“二战”期间日军曾强迫亚洲女性做慰安妇，并着手修改教科书，讲述了批评人士所谓的日本战时历史的粉饰版本。<br> <a href="https://nyti.ms/3NRB6i3" target="_blank" rel="noopener noreferrer">https://nyti.ms/3NRB6i3</a>
+日本警方严重失职（至少破除了东京警视厅神话），导致安倍被害。<br>目前，全世界专业、业余侦探全部出动，要找出安倍被害的深黑背景。<br>我坐等结果。😅
 
 ### 185: [2022-07-10 21:43:46+08:00 推文](https://twitter.com/HeQinglian/status/1546128045798555648)
 
