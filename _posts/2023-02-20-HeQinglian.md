@@ -201,7 +201,7 @@ Re @washearg 除了美国还有些家底，其余的国家，就算了吧。
 
 ### 47: [2023-02-21 23:05:51+08:00 推文](https://twitter.com/HeQinglian/status/1628048359180181507)
 
-Re @Lucs24659702 很多乌鸡血们，包括那位说自己“曾经是农民、永远是农民”的“瞧瞧桥”老妹子在内，不相信乌克兰的第10次征兵令，这是原推，信不信由他们，懂乌语的请好心一点翻译给她听，让她再也不要在见识上“永远是农民”。<div class="rsshub-quote"><br><br>绫波: 乌克兰泽连斯基发起第10次征兵令，打算征召100万名士兵。<br><br>征兵令中规定，成年男性65岁以上，85岁以下必须参军。<br><br><img style="" src="https://pbs.twimg.com/media/FpYOaBgaYAAL-9z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT He Qinglian<br>Re @Lucs24659702 很多乌鸡血们，包括那位说自己“曾经是农民、永远是农民”的“瞧瞧桥”老妹子在内，不相信乌克兰的第10次征兵令，这是原推，信不信由他们，懂乌语的请好心一点翻译给她听，让她再也不要在见识上“永远是农民”。<div class="rsshub-quote"><br><br>绫波: 乌克兰泽连斯基发起第10次征兵令，打算征召100万名士兵。<br><br>征兵令中规定，成年男性65岁以上，85岁以下必须参军。<br><br><img style="" src="https://pbs.twimg.com/media/FpYOaBgaYAAL-9z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 48: [2023-02-21 23:08:41+08:00 推文](https://twitter.com/HeQinglian/status/1628049071679188993)
 
@@ -553,7 +553,7 @@ Re @Lucs24659702 她的血统最多八分之一黑，应该是赔付多于所得
 
 ### 135: [2023-02-24 01:29:22+08:00 推文](https://twitter.com/HeQinglian/status/1628809253329813506)
 
-乌克兰外长称收到了中国的和平计划，正在研究。如果不接受，明说。但弄成这个局面，恐怕双方也没有会谈了。<br>https://twitter.com/KELMAND1/status/1628017107740000257 https://twitter.com/RFI_TradCn/status/1628789830036623361<div class="rsshub-quote"><br><br>RFI 華語 - 法國國際廣播電台: 澤連斯基稱不知道有一個中國的烏克蘭戰爭和平計畫 希望與中國對話 https://rfi.my/9Bd8.t https://t.co/fJHWDsJeA4<br><br><img style="" src="https://pbs.twimg.com/media/Fpqft7WaEAAM6vh?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+乌克兰外长称收到了中国的和平计划，正在研究。如果不接受，明说。但弄成这个局面，恐怕双方也没有会谈了。<br>https://twitter.com/KELMAND1/status/1628017107740000257<div class="rsshub-quote"><br><br>RFI 華語 - 法國國際廣播電台: 澤連斯基稱不知道有一個中國的烏克蘭戰爭和平計畫 希望與中國對話 https://rfi.my/9Bd8.t https://t.co/fJHWDsJeA4<br><br><img style="" src="https://pbs.twimg.com/media/Fpqft7WaEAAM6vh?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 136: [2023-02-24 01:31:31+08:00 推文](https://twitter.com/HeQinglian/status/1628809795158286338)
 
@@ -661,7 +661,7 @@ Re @3223_408 是今年吧？什么叫高增长？我不太看预期增长，只�
 
 ### 162: [2023-02-24 08:52:09+08:00 推文](https://twitter.com/HeQinglian/status/1628920683483787264)
 
-今年前两个月，浙江许多大家电生产企业订单都出现了快速增长。“今年前两个月，返单的单量已经比去年同期增长了20%以上。”<br>对你，可能我得从ABC教起：数据比较有环比、月比、季度比。你能分辨出是什么比？<br>对你这种人，值得我花心思吗？<br>还是喊口号对你较合适。 https://twitter.com/KittieInDream/status/1628905393824092160<div class="rsshub-quote"><br><br>UniversalValuesMatter: @HeQinglian 比起什么时候上升？😂 佩服佩服，教授水平真高👍<br></div>
+今年前两个月，浙江许多大家电生产企业订单都出现了快速增长。“今年前两个月，返单的单量已经比去年同期增长了20%以上。”<br>对你，可能我得从ABC教起：数据比较有环比、月比、季度比。你能分辨出是什么比？<br>对你这种人，值得我花心思吗？<br>还是喊口号对你较合适。<div class="rsshub-quote"><br><br>UniversalValuesMatter: @HeQinglian 比起什么时候上升？😂 佩服佩服，教授水平真高👍<br></div>
 
 ### 163: [2023-02-24 08:56:25+08:00 推文](https://twitter.com/HeQinglian/status/1628921758215507968)
 
