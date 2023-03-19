@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-03-17
+date: 2023-03-19
 from: https://old.reddit.com/r/AskHistorians/comments/11ptb1u/scientology_has_a_number_of_secret_doctrines/
 layout: post
 tags:
@@ -104,4 +104,14 @@ To give a bit of a summary here: As noted in the linked posts, the modern Tartar
 These two would combine into the Tartaria conspiracy we all know and love today by late 2018. There's evidence from early in the year of Russian-speaking members of the CulturalLayer subreddit encountering Fomenko's Tartaria theory on the Russian web, and in April the founder of StolenHistory, KorbenDallas, posted a thread discussing the Tartaria theory on the forum. This would culminate in the r Tartaria subreddit being founded in December as the primary repository of Tartaria-related posts, at least for the immediate future. Where it has gone since then is somewhat beyond me at this point, as I genuinely haven't kept a close eye on things in years.
 
 To be honest, while it's funny, it is also very, very niche, and I can understand how one could miss it quite easily. While there are ostensibly 25,000 subscribers to the Tartaria subreddit, Reddit subscriber numbers are pretty meaningless, and the subreddit is increasingly moribund anyway. There are a few people around who have come across it – and I know some in real life – but it's not that high up on the internet pseudohistory iceberg, at least not yet.
+
+### 1147: [[Hobby Scuffles] Week of March 20, 2023](https://old.reddit.com/r/HobbyDrama/comments/11vnlzo/hobby_scuffles_week_of_march_20_2023/), submitted on 2023-03-19 23:01:45+08:00.
+
+----- __1147.1__ -----2023-03-20 02:48:01+08:00:
+
+Your mention of it made me go and check, and for some reason the creator of the most famous My Inner Life reading, manwithoutabody/Mutant Museum, seems to have purged their old account, then... migrated to a new one? This is particularly unfortunate for My Inner Life's TVTropes page, which refers heavily to that particular reading.
+
+----- __1147.2__ -----2023-03-20 03:17:06+08:00:
+
+That would explain a lot.
 
