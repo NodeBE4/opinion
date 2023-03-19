@@ -79,6 +79,10 @@ It's popular in the sense of being intended for a general rather than a narrowly
 
 I would consider it to be popular history written by an academic, yes. My benchmark is not to do with provenance but rather to do with intended audience: generally speaking, a narrative history published via a trade press is going to be intended to be both affordable and approachable to the general public in a way that an analytical history via an academic press will not.
 
+----- __1074.4__ -----2023-03-20 02:22:22+08:00:
+
+It hasn't been as overtly impactful, but it still is a very good read based on what seems to be a justified reading of considerable primary evidence. I think the key caveat it's worth remembering that it is not a history of the Opium War itself, but rather about Sino-British relations.
+
 ### 1075: [Miku Magical Mirai - Weekly Discussion Thread, Jan 23rd, 2023](https://old.reddit.com/r/VirtualYoutubers/comments/10je17q/miku_magical_mirai_weekly_discussion_thread_jan/), submitted on 2023-01-23 22:41:52+08:00.
 
 ----- __1075.1__ -----2023-01-25 07:01:51+08:00:
