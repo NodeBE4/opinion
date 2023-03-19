@@ -41,9 +41,9 @@ RT Yian Lee 李易安<br>My first contribution for the Reporter (報導者): a
 
 ### 7: [2023-01-12 05:36:21+08:00 推文](https://twitter.com/EmilyZFeng/status/1613288729472389121)
 
-RT Emily Feng 冯哲芸<br>A publishing editor. An accountant and rock music fan. Young journalists. A techno fan who happened to be at a bar near the Liangma River when protestors held a peaceful vigil against Zero Covid on November 27. Now they - almost all women- are arrested. <br>https://www.npr.org/2023/01/11/1148251868/china-covid-lockdown-protests-arrests
+RT Emily Feng 冯哲芸<br>A publishing editor. An accountant and rock music fan. Young journalists. A techno fan who happened to be at a bar near the Liangma River when protestors held a peaceful vigil against Zero Covid on November 27. Now they - almost all women- are arrested. <a href="https://www.npr.org/2023/01/11/1148251868/china-covid-lockdown-protests-arrests" target="_blank" rel="noopener noreferrer">https://www.npr.org/2023/01/11/1148251868/china-covid-lockdown-protests-arrests</a>
 
 ### 8: [2023-01-12 05:44:02+08:00 推文](https://twitter.com/EmilyZFeng/status/1613290662237032479)
 
-RT Emily Feng 冯哲芸<br>Re One anecdote that has left me shaken: this woman on this @derspiegel cover was also arrested. She found herself at the vigil by accident: "I drink every weekend, but the police didn't believe that I was just drinking there. They think I am the organizer." <a href="https://www.spiegel.de/spiegel/print/index-2022-49.html" target="_blank" rel="noopener noreferrer">https://www.spiegel.de/spiegel/print/index-2022-49.html</a>
+RT Emily Feng 冯哲芸<br>Re One anecdote that has left me shaken: this woman on this @derspiegel cover was also arrested. She found herself at the vigil by accident: "I drink every weekend, but the police didn't believe that I was just drinking there. They think I am the organizer." https://www.spiegel.de/spiegel/print/index-2022-49.html
 
