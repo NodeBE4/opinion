@@ -37,7 +37,7 @@ Re @DZhe1984 @Isabel_3299 左派一向玩名实脱离伎俩，当一个名词好
 
 ### 6: [2023-03-13 03:46:28+08:00 推文](https://twitter.com/HeQinglian/status/1635004348504887296)
 
-就我而言，是支持川普的政治主张与相关政策，以及这种主张与政策对传统生活方式的守护。挺拜的人也同样如此，是支持拜登政治主张与政策对美国传统生活方式的颠覆。<br>我相信多数挺川的都如此。<br>你的留言证明你的水平。 https://twitter.com/akakak474747/status/1634986969536270338<div class="rsshub-quote"><br><br>老枪: @HeQinglian 挺拜的都认为拜是有缺陷的，挺川的都认为川是完美的。<br></div>
+就我而言，是支持川普的政治主张与相关政策，以及这种主张与政策对传统生活方式的守护。挺拜的人也同样如此，是支持拜登政治主张与政策对美国传统生活方式的颠覆。<br>我相信多数挺川的都如此。<br>你的留言证明你的水平。<div class="rsshub-quote"><br><br>老枪: @HeQinglian 挺拜的都认为拜是有缺陷的，挺川的都认为川是完美的。<br></div>
 
 ### 7: [2023-03-13 03:50:15+08:00 推文](https://twitter.com/HeQinglian/status/1635005299668160512)
 
@@ -77,7 +77,7 @@ Re @mingshi_chen 这些人与当初那个歌星杰克逊一样，恨自己是黑
 
 ### 16: [2023-03-13 07:55:31+08:00 推文](https://twitter.com/HeQinglian/status/1635067025419825152)
 
-任何人都解决不了。<br>左右均占40%，其中极左28%。决定美国命运的是中间那20%的人，病久了，任何保守派当政，都只能慢慢来，第一任期稳住大盘，发展经济，在州层面扼制极左的胡闹；争取第二任期，再办其中部分事情。<div class="rsshub-quote"><br><br>麻辣空间: 问几个川普2024的常规问题<br>1、他能解决黑命贵吗？<br>2、他能解决安提法吗？<br>3、他能解决华盛顿罪恶政权吗？<br>4、他能解决变态彩旗吗？<br>5、他能解决FBI和CIA吗？<br>6、他能解决军方吗？<br>7、他能解决制造业吗？<br>8、他能解决左媒吗？<br>9、他能解决司法吗？<br>10、他能解决长生不死吗？… https://twitter.com/i/web/status/1635006257378607111<br></div>
+任何人都解决不了。<br>左右均占40%，其中极左28%。决定美国命运的是中间那20%的人，病久了，任何保守派当政，都只能慢慢来，第一任期稳住大盘，发展经济，在州层面扼制极左的胡闹；争取第二任期，再办其中部分事情。 https://twitter.com/wto518/status/1635006257378607111<div class="rsshub-quote"><br><br>麻辣空间: 问几个川普2024的常规问题<br>1、他能解决黑命贵吗？<br>2、他能解决安提法吗？<br>3、他能解决华盛顿罪恶政权吗？<br>4、他能解决变态彩旗吗？<br>5、他能解决FBI和CIA吗？<br>6、他能解决军方吗？<br>7、他能解决制造业吗？<br>8、他能解决左媒吗？<br>9、他能解决司法吗？<br>10、他能解决长生不死吗？… https://twitter.com/i/web/status/1635006257378607111<br></div>
 
 ### 17: [2023-03-13 08:18:47+08:00 推文](https://twitter.com/HeQinglian/status/1635072880055820288)
 
@@ -473,7 +473,7 @@ Re @franktianxie 如果你认为，和平12条事先没与俄罗斯沟通过，�
 
 ### 115: [2023-03-15 06:58:44+08:00 推文](https://twitter.com/HeQinglian/status/1635777509152157732)
 
-2008年世界金融危机由美国开始，波及欧洲。美国几个月后就站起来了，欧洲继续衰退。<br>这次金融危机如果将美国击倒，美国是大重置的抓手。除了拜登政府完全臣服于WEF，很难想象两者如何处理这矛盾。<div class="rsshub-quote"><br><br>Lala Dee 台北的天空🦋💫✨🦋💫✨: 世界經濟論壇內部人士承認矽谷銀行崩潰是一個“偉大的重置騙局”<br><br> 一位世界經濟論壇內部人士被抓到吹噓說，矽谷銀行的崩潰是一個精心策劃的陰謀，計劃完美——這次崩潰將對銀行業產生多米諾骨牌效應，導致全球金融崩潰。 https://t.co/DeKbhWhg5e<br><br><img style="" src="https://pbs.twimg.com/media/FrNjvlYWYAAzwch?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+2008年世界金融危机由美国开始，波及欧洲。美国几个月后就站起来了，欧洲继续衰退。<br>这次金融危机如果将美国击倒，美国是大重置的抓手。除了拜登政府完全臣服于WEF，很难想象两者如何处理这矛盾。 https://twitter.com/Lala_Deesky/status/1635760766635655169<div class="rsshub-quote"><br><br>Lala Dee 台北的天空🦋💫✨🦋💫✨: 世界經濟論壇內部人士承認矽谷銀行崩潰是一個“偉大的重置騙局”<br><br> 一位世界經濟論壇內部人士被抓到吹噓說，矽谷銀行的崩潰是一個精心策劃的陰謀，計劃完美——這次崩潰將對銀行業產生多米諾骨牌效應，導致全球金融崩潰。 https://t.co/DeKbhWhg5e<br><br><img style="" src="https://pbs.twimg.com/media/FrNjvlYWYAAzwch?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 116: [2023-03-15 07:33:38+08:00 推文](https://twitter.com/HeQinglian/status/1635786292481912833)
 
@@ -533,7 +533,7 @@ Re @silenceserver @HH82661575 你将我看成了泥塑。<br>我先生脾气比�
 
 ### 130: [2023-03-15 22:11:29+08:00 推文](https://twitter.com/HeQinglian/status/1636007210835906560)
 
-与雷曼时刻相比有个根本的差别。<br>2008年是做金融产品——两房贷款出了问题。这次是Woke式经营出了问题。<br>有个行当叫做“企业诊断”（管理咨询）起源于美国，就是定期或不定期对企业管理状况、经营状况和财务状况进行全面分析。用这套方式诊断SVB，从企业经营理念、方向、管理目标、管理层专业素质，癌症。 https://twitter.com/bbcchinese/status/1635974418991071233<div class="rsshub-quote"><br><br>BBC News 中文: 雷曼倒，股市崩，金融海啸，席卷全球。15年前这一幕，至今还出现在金融人士的噩梦中。硅谷银行倒闭，让不少人联想起“雷曼事件”。那么，硅谷银行倒闭是否是第二个“雷曼事件”？ https://t.co/T3YwGUBELh<br><br><video src="https://video.twimg.com/amplify_video/1635963777064599553/vid/1080x1920/9eYqrBVlbN-Tq-qs.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/media/FrQmDyXX0AAPBPS?format=jpg&amp;name=orig"></video></div>
+与雷曼时刻相比有个根本的差别。<br>2008年是做金融产品——两房贷款出了问题。这次是Woke式经营出了问题。<br>有个行当叫做“企业诊断”（管理咨询）起源于美国，就是定期或不定期对企业管理状况、经营状况和财务状况进行全面分析。用这套方式诊断SVB，从企业经营理念、方向、管理目标、管理层专业素质，癌症。<div class="rsshub-quote"><br><br>BBC News 中文: 雷曼倒，股市崩，金融海啸，席卷全球。15年前这一幕，至今还出现在金融人士的噩梦中。硅谷银行倒闭，让不少人联想起“雷曼事件”。那么，硅谷银行倒闭是否是第二个“雷曼事件”？ https://t.co/T3YwGUBELh<br><br><video src="https://video.twimg.com/amplify_video/1635963777064599553/vid/1080x1920/9eYqrBVlbN-Tq-qs.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/media/FrQmDyXX0AAPBPS?format=jpg&amp;name=orig"></video></div>
 
 ### 131: [2023-03-15 22:14:40+08:00 推文](https://twitter.com/HeQinglian/status/1636008014422368256)
 
@@ -581,11 +581,11 @@ Re @O43DGSy2NA4BdKf 好，如此甚好。法事做完了，请通知一声。�
 
 ### 142: [2023-03-16 01:11:48+08:00 推文](https://twitter.com/HeQinglian/status/1636052591699189763)
 
-每逢谈大麻有害时，就有些推主来我这谈大麻的好处，以及烟酒的坏处。<br>这种蠢货的思路是：不管什么有害东西，总得沾一样，数害相权取其轻（这轻是想出来的）。<br>坚决不同情。<div class="rsshub-quote"><br><br>Ezio Mao☢: 《纽约邮报》讲述了一个美国新的不幸 - 年轻人正在大量吸入“笑气”，这已经成为一种新的毒瘾。<br><br>你认为应该怪谁？当然不是美国，不是社会氛围，不是智力水平或者道德教育。好吧，你猜对了，对吧？没错，就是中国。<br><br>为什么？因为吸完发到网上，叫whiptok（Whippit+TikTok）😅<br><br>https://nypost.com/2023/03/14/inside-gen-zs-hippy-crack-epidemic-bigger-risk-than-cocaine/<br></div>
+每逢谈大麻有害时，就有些推主来我这谈大麻的好处，以及烟酒的坏处。<br>这种蠢货的思路是：不管什么有害东西，总得沾一样，数害相权取其轻（这轻是想出来的）。<br>坚决不同情。 https://twitter.com/KELMAND1/status/1635895141151158273<div class="rsshub-quote"><br><br>Ezio Mao☢: 《纽约邮报》讲述了一个美国新的不幸 - 年轻人正在大量吸入“笑气”，这已经成为一种新的毒瘾。<br><br>你认为应该怪谁？当然不是美国，不是社会氛围，不是智力水平或者道德教育。好吧，你猜对了，对吧？没错，就是中国。<br><br>为什么？因为吸完发到网上，叫whiptok（Whippit+TikTok）😅<br><br>https://nypost.com/2023/03/14/inside-gen-zs-hippy-crack-epidemic-bigger-risk-than-cocaine/<br></div>
 
 ### 143: [2023-03-16 03:58:53+08:00 推文](https://twitter.com/HeQinglian/status/1636094638594441216)
 
-民主党当政，掠财明目张胆。<br>比如白宫决定全额赔付SVB储户开了个危险的先例，因为联邦储蓄保险的赔付从来都有上限。<br>纽约邮报等因此去挖这家银行的背景，硅谷银行的 12 位董事当中，有人是奥克拜三位总统与舒默的超级捐款人，有位是奥前官员，还有一位是波洛西邻居——纳帕谷葡萄园的主人。<br>储户都有谁？<div class="rsshub-quote"><br><br>Lucs: 民主党国会议员的慈善机构在开曼群岛拥有超过3000万美元<br><br>代表Daniel Goldman（纽约州民主党）的非营利组织Richard W.据福克斯新闻报道，高盛家庭基金会报告称，在开曼群岛组织了价值超过3200万美元的投资。<br> https://www.oann.com/newsroom/democrat-congressmans-charity-has-more-than-30-million-in-cayman-islands/<br></div>
+民主党当政，掠财明目张胆。<br>比如白宫决定全额赔付SVB储户开了个危险的先例，因为联邦储蓄保险的赔付从来都有上限。<br>纽约邮报等因此去挖这家银行的背景，硅谷银行的 12 位董事当中，有人是奥克拜三位总统与舒默的超级捐款人，有位是奥前官员，还有一位是波洛西邻居——纳帕谷葡萄园的主人。<br>储户都有谁？ https://twitter.com/Lucs24659702/status/1636061969538244623<div class="rsshub-quote"><br><br>Lucs: 民主党国会议员的慈善机构在开曼群岛拥有超过3000万美元<br><br>代表Daniel Goldman（纽约州民主党）的非营利组织Richard W.据福克斯新闻报道，高盛家庭基金会报告称，在开曼群岛组织了价值超过3200万美元的投资。<br> https://www.oann.com/newsroom/democrat-congressmans-charity-has-more-than-30-million-in-cayman-islands/<br></div>
 
 ### 144: [2023-03-16 04:09:15+08:00 推文](https://twitter.com/HeQinglian/status/1636097246390255617)
 
@@ -625,7 +625,7 @@ Re @wto518 郭文贵竟然成了“民运”的三大支派之一？
 
 ### 153: [2023-03-16 08:42:16+08:00 推文](https://twitter.com/HeQinglian/status/1636165954563461121)
 
-Re @JianglinLi @arfred_1979 @fading_you1 旧金山每位黑人获赔500万美元：<br>申请人须年满18岁并证明自己符合八项额外标准中的两项：1940-96年出生或移民旧金山，本人或直系亲属曾在“失败的毒品战争”期间被监禁，祖先是1865年前被奴役者……<br>https://nypost.com/2023/01/16/sf-reparations-panel-proposes-5m-lump-sum-payment-to-eligible-residents/<br>如果SVB未倒闭，应该是经营这项业务的首选。
+RT He Qinglian<br>Re @JianglinLi @arfred_1979 @fading_you1 旧金山每位黑人获赔500万美元：<br>申请人须年满18岁并证明自己符合八项额外标准中的两项：1940-96年出生或移民旧金山，本人或直系亲属曾在“失败的毒品战争”期间被监禁，祖先是1865年前被奴役者……<br>https://nypost.com/2023/01/16/sf-reparations-panel-proposes-5m-lump-sum-payment-to-eligible-residents/<br>如果SVB未倒闭，应该是经营这项业务的首选。
 
 ### 154: [2023-03-16 08:47:12+08:00 推文](https://twitter.com/HeQinglian/status/1636167193246281729)
 
@@ -633,7 +633,7 @@ Re @SSK2024 他要表达的，正是主流媒体要表达的。
 
 ### 155: [2023-03-16 09:03:50+08:00 推文](https://twitter.com/zhixiangziyou/status/1636171379736182784)
 
-RT L JM🇺🇸<br>1/ THREAD 🚨 #TwitterFiles<br><br>@elonmusk将 CISA 审查网络抨击为“宣传平台”。<br><br>这个由国土安全部支持的审查联盟使用了 120 名分析师来审查数百万关于选举和 covid-19 的社交媒体帖子。<div class="rsshub-quote"><br><br>kanekoa.substack.com: 1/ THREAD🚨 #TwitterFiles<br><br>@elonmusk slams CISA censorship network as 'propaganda platform.'<br><br>This DHS-backed censorship consortium used 120 analysts to censor millions of social media posts on elections and covid-19.<br><br>https://kanekoa.substack.com/p/elon-musk-slams-cisa-censorship-network<br></div>
+RT L JM🇺🇸<br>1/ THREAD 🚨 #TwitterFiles<br><br>@elonmusk将 CISA 审查网络抨击为“宣传平台”。<br><br>这个由国土安全部支持的审查联盟使用了 120 名分析师来审查数百万关于选举和 covid-19 的社交媒体帖子。 https://twitter.com/kanekoathegreat/status/1608231209875963904<div class="rsshub-quote"><br><br>kanekoa.substack.com: 1/ THREAD🚨 #TwitterFiles<br><br>@elonmusk slams CISA censorship network as 'propaganda platform.'<br><br>This DHS-backed censorship consortium used 120 analysts to censor millions of social media posts on elections and covid-19.<br><br>https://kanekoa.substack.com/p/elon-musk-slams-cisa-censorship-network<br></div>
 
 ### 156: [2023-03-16 10:52:46+08:00 推文](https://twitter.com/shenliangqing2/status/1636198795330609152)
 
@@ -813,7 +813,7 @@ Re @shenliangqing2 他当年在挺郭兴奋期也曾发表一段攻击我的视�
 
 ### 200: [2023-03-17 02:06:04+08:00 推文](https://twitter.com/zhixiangziyou/status/1636428635354611744)
 
-RT L JM🇺🇸<br>爆炸性报告：银行记录显示罗伯·沃克是拜登家族的同伙，他利用他的公司从一家中国能源公司向哈莉·拜登、詹姆斯·拜登、亨特·拜登和另一个“不知名的拜登”转账。<div class="rsshub-quote"><br><br>Chuck Callesto: BREAKING REPORT: Bank records emerge identifying Rob Walker, A BIDEN FAMILY ASSOCIATE used his company to transfer money FROM A CHINESE ENERGY COMPANY to Hallie Biden, James Biden, Hunter Biden, and another “unknown Biden.”<br></div>
+RT L JM🇺🇸<br>爆炸性报告：银行记录显示罗伯·沃克是拜登家族的同伙，他利用他的公司从一家中国能源公司向哈莉·拜登、詹姆斯·拜登、亨特·拜登和另一个“不知名的拜登”转账。 https://twitter.com/chuckcallesto/status/1636424667689889793<div class="rsshub-quote"><br><br>Chuck Callesto: BREAKING REPORT: Bank records emerge identifying Rob Walker, A BIDEN FAMILY ASSOCIATE used his company to transfer money FROM A CHINESE ENERGY COMPANY to Hallie Biden, James Biden, Hunter Biden, and another “unknown Biden.”<br></div>
 
 ### 201: [2023-03-17 02:06:17+08:00 推文](https://twitter.com/HeQinglian/status/1636428690824339457)
 
@@ -985,7 +985,7 @@ Re @mingshi_chen @lianghuiwang2 你忘记一件最大的事情，这是SWIFT系�
 
 ### 243: [2023-03-18 21:10:24+08:00 推文](https://twitter.com/HeQinglian/status/1637079002262142979)
 
-美國2023金融爆雷第一家──矽谷銀行病理診斷<br>https://www.upmedia.mg/news_info.php?Type=2&amp;SerialNo=168181<br>美主媒一致强调硅谷银行困境的普遍性（美联储加息），想掩盖这家银行破产的特殊性：将Woke事业当作经营主打<br>本文对该行做企业诊断：该董事会及经营管理人员构成，经营方向、服务目标均服务于拜登政府的Woke政治，指出其必败之由
+RT He Qinglian<br>美國2023金融爆雷第一家──矽谷銀行病理診斷<br>https://www.upmedia.mg/news_info.php?Type=2&amp;SerialNo=168181<br>美主媒一致强调硅谷银行困境的普遍性（美联储加息），想掩盖这家银行破产的特殊性：将Woke事业当作经营主打<br>本文对该行做企业诊断：该董事会及经营管理人员构成，经营方向、服务目标均服务于拜登政府的Woke政治，指出其必败之由
 
 ### 244: [2023-03-18 21:13:57+08:00 推文](https://twitter.com/HeQinglian/status/1637079897716715521)
 
@@ -993,7 +993,7 @@ Re @JianglinLi 这位记者忘记树个特大横幅：<br>本台支持BLM、lgbt
 
 ### 245: [2023-03-19 00:31:38+08:00 推文](https://twitter.com/Wu_Zhi/status/1637129644326498307)
 
-RT zhix<br>说白了，西方现在定义谁是民主国家，全靠此国家的领导人是不是掌握在美国霸权手里的傀儡，是不是服从美国的领导，跟当地选举政治制度实在没啥关系。😅 https://twitter.com/dinglili7/status/1636946863843840000<div class="rsshub-quote"><br><br>绫波: 杜金：<br><br>西方犯下两个根本性、逻辑性错误。 <br>首先它认为西方民主世界是文明而俄罗斯不是。西方自以为拥有定义其他国家和民族如何运作的权利同時他们确信自己是地球上唯一的文明模式。<br><br>亲俄派的斗争有许多重要原因，其中最重要的莫过于让西方承认其他文明和模式的存在，並放弃其本质上的全球主义言论 https://t.co/ZDK5MFuik5<br><br><img style="" src="https://pbs.twimg.com/media/FreaMh-aYAATdyO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT zhix<br>说白了，西方现在定义谁是民主国家，全靠此国家的领导人是不是掌握在美国霸权手里的傀儡，是不是服从美国的领导，跟当地选举政治制度实在没啥关系。😅<div class="rsshub-quote"><br><br>绫波: 杜金：<br><br>西方犯下两个根本性、逻辑性错误。 <br>首先它认为西方民主世界是文明而俄罗斯不是。西方自以为拥有定义其他国家和民族如何运作的权利同時他们确信自己是地球上唯一的文明模式。<br><br>亲俄派的斗争有许多重要原因，其中最重要的莫过于让西方承认其他文明和模式的存在，並放弃其本质上的全球主义言论 https://t.co/ZDK5MFuik5<br><br><img style="" src="https://pbs.twimg.com/media/FreaMh-aYAATdyO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 246: [2023-03-19 01:40:46+08:00 推文](https://twitter.com/NAConservative9/status/1637147044530798597)
 
@@ -1123,71 +1123,75 @@ RT zhix<br>Re @JianglinLi @HeQinglian @KELMAND1 玩阶级身份，明显比玩
 
 Re @Wu_Zhi @JianglinLi @KELMAND1 确实如此。已经回到原始部落时期的身份制了。
 
-### 278: [2023-03-19 21:58:19+08:00 推文](https://twitter.com/HeQinglian/status/1637453447787159552)
+### 278: [2023-03-19 11:59:15+08:00 推文](https://twitter.com/dinglili7/status/1637302689645355015)
+
+RT 绫波<br>佛州刚刚通过法案禁止18岁以下的儿童变性，引起撒旦教的抵抗，居然说这是在对变性人进行种族灭绝，会遭报应的。<br>甚至还有一个智障说他2岁的时候就因为想变性但不能试变而图自杀。<br>美国21岁才能喝酒，但18岁就可参军上战场杀人，但婴儿就可以变性。 https://t.co/1ImboXC9tn<br><img style="" src="https://pbs.twimg.com/media/FrjeDrBagAEOsGI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 279: [2023-03-19 21:58:19+08:00 推文](https://twitter.com/HeQinglian/status/1637453447787159552)
 
 Re @Woods06968013 @Lucs24659702 虽然你非常恶意，我还是告诉你：<br>我来时是2001年，美国变坏是奥巴马第二任期内（第一任他的Quiet Revolution刚开始），自己算算。<br>美国变坏，与我一毛钱关系都没有，我来后工作、纳税，你们热爱的民主党主张我从来不热爱。<br>希望你10分钟内不说Sorry，就自动离开，我这里不留恶草。
 
-### 279: [2023-03-19 22:05:47+08:00 推文](https://twitter.com/HeQinglian/status/1637455327774875650)
+### 280: [2023-03-19 22:05:47+08:00 推文](https://twitter.com/HeQinglian/status/1637455327774875650)
 
 Re @jianling_maher 你年轻，有所不知，1968年巴黎红五月、美国反越战、日本赤军运动，偶像中毛泽东是最大的，还有切格瓦拉、胡志明等。很多人因崇拜毛，要跟随毛干世界革命，因此学习中文。<br>就是因为想玩没玩彻底，所以留下遗祸。
 
-### 280: [2023-03-19 22:08:33+08:00 推文](https://twitter.com/HeQinglian/status/1637456023274364933)
+### 281: [2023-03-19 22:08:33+08:00 推文](https://twitter.com/HeQinglian/status/1637456023274364933)
 
 Re @washearg 嬉皮士是1960年代，1968年后就慢慢变成优皮士了，第三代女权也开始回归家庭了。<br>中美建交时，中国对西方两眼一抹黑，只看到无比强大的物质财富。
 
-### 281: [2023-03-19 22:17:54+08:00 推文](https://twitter.com/HeQinglian/status/1637458379206455296)
+### 282: [2023-03-19 22:17:54+08:00 推文](https://twitter.com/HeQinglian/status/1637458379206455296)
 
 Re @Wu_Zhi @JianglinLi @KELMAND1 第二代可以。<br>在芝加哥那地儿，对黑人的身份有黑的成色多少的判断，越多越“贵”。这在新近的电视连续剧里有反应。
 
-### 282: [2023-03-19 22:21:55+08:00 推文](https://twitter.com/HeQinglian/status/1637459387768774657)
+### 283: [2023-03-19 22:21:55+08:00 推文](https://twitter.com/HeQinglian/status/1637459387768774657)
 
 Re @yyffnn1963 @KELMAND1 那是因为你只看到这些。跟的人不对。
 
-### 283: [2023-03-19 22:23:41+08:00 推文](https://twitter.com/HeQinglian/status/1637459832016863232)
+### 284: [2023-03-19 22:23:41+08:00 推文](https://twitter.com/HeQinglian/status/1637459832016863232)
 
 Re @JianglinLi @Wu_Zhi @KELMAND1 不会。因为到现在为止，一大半黑人都混血，尤其是那些受教育高点有点位置的，他们不能自己打倒自己，但会确定一个血统纯度的等级。<br>看着他们闹，有点象马戏团。
 
-### 284: [2023-03-19 22:25:12+08:00 推文](https://twitter.com/HeQinglian/status/1637460214763888643)
+### 285: [2023-03-19 22:25:12+08:00 推文](https://twitter.com/HeQinglian/status/1637460214763888643)
 
 Re @somuchcomunevil @Lucs24659702 最好不是图片，是视频，有声音的那种。<br>道理我就不说了，想必你也明白。
 
-### 285: [2023-03-19 22:25:56+08:00 推文](https://twitter.com/HeQinglian/status/1637460401645297667)
+### 286: [2023-03-19 22:25:56+08:00 推文](https://twitter.com/HeQinglian/status/1637460401645297667)
 
 Re @JianglinLi @shenliangqing2 @Wu_Zhi @KELMAND1 她儿子是16分之一，因为她是八分之一。
 
-### 286: [2023-03-19 22:33:50+08:00 推文](https://twitter.com/HeQinglian/status/1637462386192916488)
+### 287: [2023-03-19 22:33:50+08:00 推文](https://twitter.com/HeQinglian/status/1637462386192916488)
 
 Re @shenliangqing2 最近人们在回顾郭推革时期旧事，我写过一篇长文以记其事。如今就不提了。<br>这是一场底层人士无法参政产生的“权力幻觉”盛宴，有如1644年李闯王进京。李闯政权存在42天，这场中国革命预演的盛宴持续时间长多了。<br>唯一的差别是砍头剥皮杀全家只能在网络上叫嚣，如果付之实践，估计你我都会被专政。
 
-### 287: [2023-03-19 22:36:29+08:00 推文](https://twitter.com/HeQinglian/status/1637463052990795777)
+### 288: [2023-03-19 22:36:29+08:00 推文](https://twitter.com/HeQinglian/status/1637463052990795777)
 
 Re @shenliangqing2 比崇祯末年有些行省好，没有预征40年田税。<br>一句话，美国民主党选民与作弊集团活该。天堂日子过腻了，非得体会一下通往地狱之路。
 
-### 288: [2023-03-19 22:37:38+08:00 推文](https://twitter.com/HeQinglian/status/1637463343232344066)
+### 289: [2023-03-19 22:37:38+08:00 推文](https://twitter.com/HeQinglian/status/1637463343232344066)
 
 Re @shenliangqing2 @JianglinLi @Wu_Zhi @KELMAND1 那位印第安公主，印第安血统不到百分之一，不也是印第安公主么？🤣
 
-### 289: [2023-03-19 22:52:31+08:00 推文](https://twitter.com/HeQinglian/status/1637467090805194755)
+### 290: [2023-03-19 22:52:31+08:00 推文](https://twitter.com/HeQinglian/status/1637467090805194755)
 
 Re @shenliangqing2 你是个好学敏于思之人，看看我这篇，我也是最近几年才 逐渐弄清楚来龙去脉的。<br>美国两代进步主义运动：从行政国家到深层政府<br>http://heqinglian.net/2022/06/19/from-administrative-state-to-deep-state/
 
-### 290: [2023-03-19 23:35:45+08:00 推文](https://twitter.com/HeQinglian/status/1637477971442249728)
+### 291: [2023-03-19 23:35:45+08:00 推文](https://twitter.com/HeQinglian/status/1637477971442249728)
 
 Re @jojowheel 按尊驾见解，Woke方向是对的，任何专业都不需要。文革方向也是对的，那也是外行领导内行。
 
-### 291: [2023-03-19 23:40:50+08:00 推文](https://twitter.com/HeQinglian/status/1637479248909725699)
+### 292: [2023-03-19 23:40:50+08:00 推文](https://twitter.com/HeQinglian/status/1637479248909725699)
 
-看了下面的回帖，一半是否定民主制度，希望暴力革命的。<br>美国算是半暴力——利用BLM与Antifa在摇摆州进行暴力活动与威胁 ，在选举中心全场紧逼（《时代周刊》引用“捍卫民主”机构的策略用语），加上司法偏袒与不作为，操纵选举获取政权，引发大家如此想也算情理中事。<br>人类社会进入转折点。<div class="rsshub-quote"><br><br>He Qinglian: 将马克龙选下去就是，为什么要斩首？选了他，就是将这届权力委托给他了，要他下去，也应该按民主程序，哪怕弹劾、倒阁都行。<br>以民主共和自我标高，却偏要回到当年大革命时代。<br></div>
+看了下面的回帖，一半是否定民主制度，希望暴力革命的。<br>美国算是半暴力——利用BLM与Antifa在摇摆州进行暴力活动与威胁 ，在选举中心全场紧逼（《时代周刊》引用“捍卫民主”机构的策略用语），加上司法偏袒与不作为，操纵选举获取政权，引发大家如此想也算情理中事。<br>人类社会进入转折点。 https://twitter.com/HeQinglian/status/1637204948780810242<div class="rsshub-quote"><br><br>He Qinglian: 将马克龙选下去就是，为什么要斩首？选了他，就是将这届权力委托给他了，要他下去，也应该按民主程序，哪怕弹劾、倒阁都行。<br>以民主共和自我标高，却偏要回到当年大革命时代。 https://twitter.com/KELMAND1/status/1636935219369631744<br></div>
 
-### 292: [2023-03-19 23:43:02+08:00 推文](https://twitter.com/HeQinglian/status/1637479802222305282)
+### 293: [2023-03-19 23:43:02+08:00 推文](https://twitter.com/HeQinglian/status/1637479802222305282)
 
 Re @mingshi_chen @washearg 无处可逃。我对儿子说了，他觉得哪里好，适合移民就去哪里。<br>他告诉我，美国富人现在不少选择拉美国家——这世界太疯狂了。富人玩左玩残美国，到最后去他们瞧不起的拉美。
 
-### 293: [2023-03-19 23:47:52+08:00 推文](https://twitter.com/HeQinglian/status/1637481019732377600)
+### 294: [2023-03-19 23:47:52+08:00 推文](https://twitter.com/HeQinglian/status/1637481019732377600)
 
 Re @Rainding45 性猫在美国都抓不住老鼠，好好的硅谷银行被觉醒文化折腾成破产，在中国更抓不住。
 
-### 294: [2023-03-19 23:50:15+08:00 推文](https://twitter.com/HeQinglian/status/1637481620092403719)
+### 295: [2023-03-19 23:50:15+08:00 推文](https://twitter.com/HeQinglian/status/1637481620092403719)
 
 Re @gvkJVjo3J0BIJod 中国的毛，你再研究，也不是什么好东西。这事，你没经过文革及毛时代，挨饿受穷，动辄当反革命枪毙，没轮上你，没见过，你不会醒的。<br>如果中国要回到毛时代，我也不觉得奇怪。
 
