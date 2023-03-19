@@ -441,7 +441,7 @@ Re @FightForJiuCai 乌克兰人好歹有形式上的民主啊。<br>如果如乌
 
 ### 107: [2023-02-23 04:37:55+08:00 推文](https://twitter.com/HeQinglian/status/1628494315533000717)
 
-Re @shenliangqing2 建议与这一起参看。再加上骄傲月、零元购、裸体大游 行，就是左派们梦寐以求的进步主义NWO. https://twitter.com/djhxiaoming/status/1628179486452891648<div class="rsshub-quote"><br><br>低级黑小明: 来看一下美国版的“操你妈逼”<br><br>现在的lgbt小屁孩一个二个都没有人样了，觉得只要别人把自己性别说错或者不承认自己的性别就要操你妈逼。 https://t.co/xWwdJ4goYi<br><br><video src="https://video.twimg.com/amplify_video/1628179434556751872/vid/720x1280/ES33umab5NJKiUDD.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1628179434556751872/img/wfYMeOGe0leEv67A.jpg"></video></div>
+Re @shenliangqing2 建议与这一起参看。再加上骄傲月、零元购、裸体大游 行，就是左派们梦寐以求的进步主义NWO.<div class="rsshub-quote"><br><br>低级黑小明: 来看一下美国版的“操你妈逼”<br><br>现在的lgbt小屁孩一个二个都没有人样了，觉得只要别人把自己性别说错或者不承认自己的性别就要操你妈逼。<br><br><video src="https://video.twimg.com/amplify_video/1628179434556751872/vid/720x1280/ES33umab5NJKiUDD.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1628179434556751872/img/wfYMeOGe0leEv67A.jpg"></video></div>
 
 ### 108: [2023-02-23 04:41:44+08:00 推文](https://twitter.com/HeQinglian/status/1628495274657153026)
 
@@ -461,7 +461,7 @@ Re @inno_dai @evaqiao2022 北溪管道是中国炸的？你有消息来源？�
 
 ### 112: [2023-02-23 06:31:23+08:00 推文](https://twitter.com/HeQinglian/status/1628522871348682756)
 
-最有趣的莫过于这句：“俄罗斯和中国的关系正在按计划发展”。<br>也就是说，过去一年多以来美欧全力指责的俄中结盟，完全不受影响。只是不知这“计划”形成于何时，内容也只能靠猜测。<div class="rsshub-quote"><br><br>Ezio Mao☢: 俄罗斯总统会见中共中央外事工作委员会办公室主任王毅<br><br>▪️俄罗斯联邦感谢中国的共同努力，现在世界国际关系很紧张；<br>▪️俄罗斯联邦与中国的合作对于稳定国际局势非常重要；<br>▪️莫斯科和北京正在落实会见中国国家主席的计划，这将推动双边关系的发展；<br>▪️俄罗斯和中国的关系正在按计划发展， https://t.co/57cA4ycrT4<br><br><video src="https://video.twimg.com/ext_tw_video/1628374269154701312/pu/vid/800x448/kE3g2eDzTxEstm-2.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1628374269154701312/pu/img/4nNO4r2754-Cxt8C.jpg"></video></div>
+最有趣的莫过于这句：“俄罗斯和中国的关系正在按计划发展”。<br>也就是说，过去一年多以来美欧全力指责的俄中结盟，完全不受影响。只是不知这“计划”形成于何时，内容也只能靠猜测。 https://twitter.com/KELMAND1/status/1628374309403246593<div class="rsshub-quote"><br><br>Ezio Mao☢: 俄罗斯总统会见中共中央外事工作委员会办公室主任王毅<br><br>▪️俄罗斯联邦感谢中国的共同努力，现在世界国际关系很紧张；<br>▪️俄罗斯联邦与中国的合作对于稳定国际局势非常重要；<br>▪️莫斯科和北京正在落实会见中国国家主席的计划，这将推动双边关系的发展；<br>▪️俄罗斯和中国的关系正在按计划发展， https://t.co/57cA4ycrT4<br><br><video src="https://video.twimg.com/ext_tw_video/1628374269154701312/pu/vid/800x448/kE3g2eDzTxEstm-2.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1628374269154701312/pu/img/4nNO4r2754-Cxt8C.jpg"></video></div>
 
 ### 113: [2023-02-23 06:33:42+08:00 推文](https://twitter.com/HeQinglian/status/1628523455216844800)
 
@@ -681,7 +681,7 @@ Re @eGUAbe2V7j26GHw 去年，德国去工业化，倒闭大批企业；法国、
 
 ### 167: [2023-02-24 09:11:57+08:00 推文](https://twitter.com/HeQinglian/status/1628925667579420672)
 
-【前外交部長王毅最近升任中共中央政治局局長】<br>请问推友，中国什么时候设立了这个职位——中共中央政治局局长？ https://twitter.com/QQzk_prs/status/1628568255311888384
+【前外交部長王毅最近升任中共中央政治局局長】<br>请问推友，中国什么时候设立了这个职位——中共中央政治局局长？
 
 ### 168: [2023-02-24 09:14:53+08:00 推文](https://twitter.com/HeQinglian/status/1628926404371927040)
 
@@ -805,7 +805,7 @@ Re @KELMAND1 拜登政府能够撑到2023年年底就差不多了，要竞选了
 
 ### 198: [2023-02-25 02:44:20+08:00 推文](https://twitter.com/HeQinglian/status/1629190506809896963)
 
-不算是很疯。今天看到VOA一条消息：美国陆军军官表示，对中国解放军有绝对优势——前两天VOA引美海军军官话说中国海空军力发展很快，美国似无绝对优势。<br>这意思是美中两国陆军将在一块陆地上相逢。我一直在想，这块陆地在哪？台湾肯定不合适，除了美国打到中国，或中国到美。 https://twitter.com/KELMAND1/status/1629169997074534400<div class="rsshub-quote"><br><br>Ezio Mao☢: 下面是疯话环节:<br><br>“如果乌克兰输了，俄罗斯联邦将向北约国家开战，然后美国将不得不派兵参战”——泽连斯基 https://twitter.com/KELMAND1/status/1629166174562062337 https://t.co/osIFUbqJVO<br><br><img style="" src="https://pbs.twimg.com/media/Fpv5ealaQAAQ6yT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+不算是很疯。今天看到VOA一条消息：美国陆军军官表示，对中国解放军有绝对优势——前两天VOA引美海军军官话说中国海空军力发展很快，美国似无绝对优势。<br>这意思是美中两国陆军将在一块陆地上相逢。我一直在想，这块陆地在哪？台湾肯定不合适，除了美国打到中国，或中国到美。<div class="rsshub-quote"><br><br>Ezio Mao☢: 下面是疯话环节:<br><br>“如果乌克兰输了，俄罗斯联邦将向北约国家开战，然后美国将不得不派兵参战”——泽连斯基 https://t.co/osIFUbqJVO<br><br><img style="" src="https://pbs.twimg.com/media/Fpv5ealaQAAQ6yT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 199: [2023-02-25 02:50:15+08:00 推文](https://twitter.com/HeQinglian/status/1629191994990858241)
 
