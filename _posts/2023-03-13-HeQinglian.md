@@ -17,7 +17,7 @@ title: 'Twitter @He Qinglian: 2023-03-13~2023-03-19'
 
 ### 1: [2023-03-13 01:31:00+08:00 推文](https://twitter.com/HeQinglian/status/1634970256207929346)
 
-英国法律史学家梅因最著名的一段话：<br>“迄今为止，人类历史上所有的进步（不是美国现在这“进步”），就是从身份到契约的转变”。<br>契约思想是西方文化的根基：<br>圣经：上帝与人立约；<br>民主政治：宪政法治就是契约政治的体现。选举政治就是人民委托治理政治，契约就是履行竞选承诺；<br>市场经济：信用基于契约<div class="rsshub-quote"><br><br>zhix: @HeQinglian @JianglinLi 身份政治理论，其逻辑推理的结果最终就会导致种族隔离，现在在实践上还应验了。因此，身份政治理论是垃圾思想，逻辑上的种种矛盾，将会对现实的人类社会造成极大危害，对人类文明来说有害无益。<br></div>
+英国法律史学家梅因最著名的一段话：<br>“迄今为止，人类历史上所有的进步（不是美国现在这“进步”），就是从身份到契约的转变”。<br>契约思想是西方文化的根基：<br>圣经：上帝与人立约；<br>民主政治：宪政法治就是契约政治的体现。选举政治就是人民委托治理政治，契约就是履行竞选承诺；<br>市场经济：信用基于契约 https://twitter.com/Wu_Zhi/status/1634942635956903937<div class="rsshub-quote"><br><br>zhix: @HeQinglian @JianglinLi 身份政治理论，其逻辑推理的结果最终就会导致种族隔离，现在在实践上还应验了。因此，身份政治理论是垃圾思想，逻辑上的种种矛盾，将会对现实的人类社会造成极大危害，对人类文明来说有害无益。<br></div>
 
 ### 2: [2023-03-13 01:34:20+08:00 推文](https://twitter.com/HeQinglian/status/1634971098956824577)
 
@@ -29,7 +29,7 @@ Re @_HicRhodus 所有人佩服奥巴马以前的美国宪政文明，是佩服�
 
 ### 4: [2023-03-13 03:38:35+08:00 推文](https://twitter.com/HeQinglian/status/1635002366494908418)
 
-留言中有位“老枪”，非得将挺川与挺拜当作挺个人，这种见识太差劲了。<br>其实就我而言，是支持川普的政治主张与相关政策，以及这种主张与政策对传统生活方式的守护。挺拜的人也同样如此，是支持拜登政治主张与政策对美国传统生活方式的颠覆。<br>我相信多数挺川的都如此。<div class="rsshub-quote"><br><br>He Qinglian: 今天看到华拜粉在某处留言，说学问大挺川，说明学问让人糊涂。<br>在媒体一片声黑化川普及其政策时，挺川不仅需要起码的知识与常识，还需要思考。不比挺拜与民主党，只需要认同移民无国界与福利，学几句人道口号，会举拳头就行了。<br></div>
+留言中有位“老枪”，非得将挺川与挺拜当作挺个人，这种见识太差劲了。<br>其实就我而言，是支持川普的政治主张与相关政策，以及这种主张与政策对传统生活方式的守护。挺拜的人也同样如此，是支持拜登政治主张与政策对美国传统生活方式的颠覆。<br>我相信多数挺川的都如此。 https://twitter.com/HeQinglian/status/1634910100367511558<div class="rsshub-quote"><br><br>He Qinglian: 今天看到华拜粉在某处留言，说学问大挺川，说明学问让人糊涂。<br>在媒体一片声黑化川普及其政策时，挺川不仅需要起码的知识与常识，还需要思考。不比挺拜与民主党，只需要认同移民无国界与福利，学几句人道口号，会举拳头就行了。<br></div>
 
 ### 5: [2023-03-13 03:44:13+08:00 推文](https://twitter.com/HeQinglian/status/1635003784526196739)
 
@@ -37,7 +37,7 @@ Re @DZhe1984 @Isabel_3299 左派一向玩名实脱离伎俩，当一个名词好
 
 ### 6: [2023-03-13 03:46:28+08:00 推文](https://twitter.com/HeQinglian/status/1635004348504887296)
 
-就我而言，是支持川普的政治主张与相关政策，以及这种主张与政策对传统生活方式的守护。挺拜的人也同样如此，是支持拜登政治主张与政策对美国传统生活方式的颠覆。<br>我相信多数挺川的都如此。<br>你的留言证明你的水平。 https://twitter.com/akakak474747/status/1634986969536270338<div class="rsshub-quote"><br><br>老枪: @HeQinglian 挺拜的都认为拜是有缺陷的，挺川的都认为川是完美的。<br></div>
+就我而言，是支持川普的政治主张与相关政策，以及这种主张与政策对传统生活方式的守护。挺拜的人也同样如此，是支持拜登政治主张与政策对美国传统生活方式的颠覆。<br>我相信多数挺川的都如此。<br>你的留言证明你的水平。<div class="rsshub-quote"><br><br>老枪: @HeQinglian 挺拜的都认为拜是有缺陷的，挺川的都认为川是完美的。<br></div>
 
 ### 7: [2023-03-13 03:50:15+08:00 推文](https://twitter.com/HeQinglian/status/1635005299668160512)
 
@@ -77,7 +77,7 @@ Re @mingshi_chen 这些人与当初那个歌星杰克逊一样，恨自己是黑
 
 ### 16: [2023-03-13 07:55:31+08:00 推文](https://twitter.com/HeQinglian/status/1635067025419825152)
 
-任何人都解决不了。<br>左右均占40%，其中极左28%。决定美国命运的是中间那20%的人，病久了，任何保守派当政，都只能慢慢来，第一任期稳住大盘，发展经济，在州层面扼制极左的胡闹；争取第二任期，再办其中部分事情。<div class="rsshub-quote"><br><br>麻辣空间: 问几个川普2024的常规问题<br>1、他能解决黑命贵吗？<br>2、他能解决安提法吗？<br>3、他能解决华盛顿罪恶政权吗？<br>4、他能解决变态彩旗吗？<br>5、他能解决FBI和CIA吗？<br>6、他能解决军方吗？<br>7、他能解决制造业吗？<br>8、他能解决左媒吗？<br>9、他能解决司法吗？<br>10、他能解决长生不死吗？… https://twitter.com/i/web/status/1635006257378607111<br></div>
+任何人都解决不了。<br>左右均占40%，其中极左28%。决定美国命运的是中间那20%的人，病久了，任何保守派当政，都只能慢慢来，第一任期稳住大盘，发展经济，在州层面扼制极左的胡闹；争取第二任期，再办其中部分事情。 https://twitter.com/wto518/status/1635006257378607111<div class="rsshub-quote"><br><br>麻辣空间: 问几个川普2024的常规问题<br>1、他能解决黑命贵吗？<br>2、他能解决安提法吗？<br>3、他能解决华盛顿罪恶政权吗？<br>4、他能解决变态彩旗吗？<br>5、他能解决FBI和CIA吗？<br>6、他能解决军方吗？<br>7、他能解决制造业吗？<br>8、他能解决左媒吗？<br>9、他能解决司法吗？<br>10、他能解决长生不死吗？… https://twitter.com/i/web/status/1635006257378607111<br></div>
 
 ### 17: [2023-03-13 08:18:47+08:00 推文](https://twitter.com/HeQinglian/status/1635072880055820288)
 
@@ -373,7 +373,7 @@ Re @JianglinLi @PrezXi 如果自带饭辙，那当然可以。需要赏饭可能
 
 ### 90: [2023-03-14 10:49:55+08:00 推文](https://twitter.com/shenliangqing2/status/1635473304093097985)
 
-RT 沈良庆二世<br>痴呆政府主导下的西方国家地缘政治：外交战略“既要…也要”第六病室辩证法<div class="rsshub-quote"><br><br>联合早报 Lianhe Zaobao: 英国在更新版的外交政策框架中，将中国视为对世界秩序构成“划时代的挑战”，但它也表明，倾向于与北京增进合作与理解，并指英国的安全取决于乌克兰战争的结果。 https://www.zaobao.com.sg/realtime/world/story20230314-1372356<br></div>
+RT 沈良庆二世<br>痴呆政府主导下的西方国家地缘政治：外交战略“既要…也要”第六病室辩证法 https://twitter.com/zaobaosg/status/1635437821245763588<div class="rsshub-quote"><br><br>联合早报 Lianhe Zaobao: 英国在更新版的外交政策框架中，将中国视为对世界秩序构成“划时代的挑战”，但它也表明，倾向于与北京增进合作与理解，并指英国的安全取决于乌克兰战争的结果。 https://www.zaobao.com.sg/realtime/world/story20230314-1372356<br></div>
 
 ### 91: [2023-03-14 22:01:26+08:00 推文](https://twitter.com/HeQinglian/status/1635642293825699850)
 
@@ -489,7 +489,7 @@ Re @Gerald87816828 还有大麻专业。<br>当然，如果你家愿意资助这
 
 ### 119: [2023-03-15 08:16:59+08:00 推文](https://twitter.com/HeQinglian/status/1635797202185379842)
 
-SVB是 BLM的主要捐助者。该组织是一个治理高度可疑的慈善组织，被可靠地指控腐败分配资金。<br>据克莱蒙特研究所称，记录显示硅谷银行已向BLM及相关团体认捐约 7400 万美元。<br>消费者研究执行董事威尔希尔德说，SVB 的失败“再次表明 SVB 专注于Woke而不是保护客户的存款。” <br>2023 <br>https://trendingpoliticsnews.com/svb-blm-knab/ https://twitter.com/kylenabecker/status/1635775478832275456<div class="rsshub-quote"><br><br>Kyle Becker: This just in: 'Woke' bank getting Biden bailout was a bigtime donor to Black Lives Matter.<br>https://open.substack.com/pub/thekylebecker/p/silicon-valley-bank-getting-a-biden?r=16zqp&amp;utm_campaign=post&amp;utm_medium=web<br></div>
+SVB是 BLM的主要捐助者。该组织是一个治理高度可疑的慈善组织，被可靠地指控腐败分配资金。<br>据克莱蒙特研究所称，记录显示硅谷银行已向BLM及相关团体认捐约 7400 万美元。<br>消费者研究执行董事威尔希尔德说，SVB 的失败“再次表明 SVB 专注于Woke而不是保护客户的存款。” <br>2023 <br>https://trendingpoliticsnews.com/svb-blm-knab/<div class="rsshub-quote"><br><br>Kyle Becker: This just in: 'Woke' bank getting Biden bailout was a bigtime donor to Black Lives Matter.<br>https://open.substack.com/pub/thekylebecker/p/silicon-valley-bank-getting-a-biden?r=16zqp&amp;utm_campaign=post&amp;utm_medium=web<br></div>
 
 ### 120: [2023-03-15 08:18:46+08:00 推文](https://twitter.com/HeQinglian/status/1635797650170859521)
 
@@ -585,7 +585,7 @@ Re @O43DGSy2NA4BdKf 好，如此甚好。法事做完了，请通知一声。�
 
 ### 143: [2023-03-16 03:58:53+08:00 推文](https://twitter.com/HeQinglian/status/1636094638594441216)
 
-民主党当政，掠财明目张胆。<br>比如白宫决定全额赔付SVB储户开了个危险的先例，因为联邦储蓄保险的赔付从来都有上限。<br>纽约邮报等因此去挖这家银行的背景，硅谷银行的 12 位董事当中，有人是奥克拜三位总统与舒默的超级捐款人，有位是奥前官员，还有一位是波洛西邻居——纳帕谷葡萄园的主人。<br>储户都有谁？<div class="rsshub-quote"><br><br>Lucs: 民主党国会议员的慈善机构在开曼群岛拥有超过3000万美元<br><br>代表Daniel Goldman（纽约州民主党）的非营利组织Richard W.据福克斯新闻报道，高盛家庭基金会报告称，在开曼群岛组织了价值超过3200万美元的投资。<br> https://www.oann.com/newsroom/democrat-congressmans-charity-has-more-than-30-million-in-cayman-islands/<br></div>
+民主党当政，掠财明目张胆。<br>比如白宫决定全额赔付SVB储户开了个危险的先例，因为联邦储蓄保险的赔付从来都有上限。<br>纽约邮报等因此去挖这家银行的背景，硅谷银行的 12 位董事当中，有人是奥克拜三位总统与舒默的超级捐款人，有位是奥前官员，还有一位是波洛西邻居——纳帕谷葡萄园的主人。<br>储户都有谁？ https://twitter.com/Lucs24659702/status/1636061969538244623<div class="rsshub-quote"><br><br>Lucs: 民主党国会议员的慈善机构在开曼群岛拥有超过3000万美元<br><br>代表Daniel Goldman（纽约州民主党）的非营利组织Richard W.据福克斯新闻报道，高盛家庭基金会报告称，在开曼群岛组织了价值超过3200万美元的投资。<br> https://www.oann.com/newsroom/democrat-congressmans-charity-has-more-than-30-million-in-cayman-islands/<br></div>
 
 ### 144: [2023-03-16 04:09:15+08:00 推文](https://twitter.com/HeQinglian/status/1636097246390255617)
 
@@ -625,7 +625,7 @@ Re @wto518 郭文贵竟然成了“民运”的三大支派之一？
 
 ### 153: [2023-03-16 08:42:16+08:00 推文](https://twitter.com/HeQinglian/status/1636165954563461121)
 
-Re @JianglinLi @arfred_1979 @fading_you1 旧金山每位黑人获赔500万美元：<br>申请人须年满18岁并证明自己符合八项额外标准中的两项：1940-96年出生或移民旧金山，本人或直系亲属曾在“失败的毒品战争”期间被监禁，祖先是1865年前被奴役者……<br>https://nypost.com/2023/01/16/sf-reparations-panel-proposes-5m-lump-sum-payment-to-eligible-residents/<br>如果SVB未倒闭，应该是经营这项业务的首选。
+RT He Qinglian<br>Re @JianglinLi @arfred_1979 @fading_you1 旧金山每位黑人获赔500万美元：<br>申请人须年满18岁并证明自己符合八项额外标准中的两项：1940-96年出生或移民旧金山，本人或直系亲属曾在“失败的毒品战争”期间被监禁，祖先是1865年前被奴役者……<br>https://nypost.com/2023/01/16/sf-reparations-panel-proposes-5m-lump-sum-payment-to-eligible-residents/<br>如果SVB未倒闭，应该是经营这项业务的首选。
 
 ### 154: [2023-03-16 08:47:12+08:00 推文](https://twitter.com/HeQinglian/status/1636167193246281729)
 
