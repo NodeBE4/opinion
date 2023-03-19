@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2023-03-17
+date: 2023-03-18
 from: https://twitter.com/cnmediaproject/status/1635107272534953985
 layout: post
 tags:
@@ -58,4 +58,8 @@ Re @rhokilpatrick explores the most recent FARA filings for China Daily in the U
 ### 11: [2023-03-17 10:39:01+08:00 推文](https://twitter.com/cnmediaproject/status/1636557723071565824)
 
 China Daily USA makes no profit, spends little on reporting, and outsources printing to major American newspapers in the markets where editions are distributed. @rhokilpatrick dives into the latest figures reported to the US gov.  https://chinamediaproject.org/2023/03/16/the-ins-and-outs-of-the-china-daily-usa/
+
+### 12: [2023-03-18 19:34:20+08:00 推文](https://twitter.com/RebeccaYFeng/status/1637054827598602240)
+
+RT Rebecca Feng<br>In this story, @jingyanghk and I try to show who Fan Bao--a star Chinese banker and architect of the deals that created some of China’s most dominant technology companies--is as a person and what his sudden disappearance has left behind. https://www.wsj.com/articles/chinas-m-a-star-told-his-employees-to-be-boldthen-he-disappeared-2d94976a?st=nwgg1fcfb9gwl6y via @WSJ
 
