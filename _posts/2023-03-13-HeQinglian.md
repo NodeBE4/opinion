@@ -29,7 +29,7 @@ Re @_HicRhodus 所有人佩服奥巴马以前的美国宪政文明，是佩服�
 
 ### 4: [2023-03-13 03:38:35+08:00 推文](https://twitter.com/HeQinglian/status/1635002366494908418)
 
-留言中有位“老枪”，非得将挺川与挺拜当作挺个人，这种见识太差劲了。<br>其实就我而言，是支持川普的政治主张与相关政策，以及这种主张与政策对传统生活方式的守护。挺拜的人也同样如此，是支持拜登政治主张与政策对美国传统生活方式的颠覆。<br>我相信多数挺川的都如此。 https://twitter.com/HeQinglian/status/1634910100367511558<div class="rsshub-quote"><br><br>He Qinglian: 今天看到华拜粉在某处留言，说学问大挺川，说明学问让人糊涂。<br>在媒体一片声黑化川普及其政策时，挺川不仅需要起码的知识与常识，还需要思考。不比挺拜与民主党，只需要认同移民无国界与福利，学几句人道口号，会举拳头就行了。<br></div>
+留言中有位“老枪”，非得将挺川与挺拜当作挺个人，这种见识太差劲了。<br>其实就我而言，是支持川普的政治主张与相关政策，以及这种主张与政策对传统生活方式的守护。挺拜的人也同样如此，是支持拜登政治主张与政策对美国传统生活方式的颠覆。<br>我相信多数挺川的都如此。<div class="rsshub-quote"><br><br>He Qinglian: 今天看到华拜粉在某处留言，说学问大挺川，说明学问让人糊涂。<br>在媒体一片声黑化川普及其政策时，挺川不仅需要起码的知识与常识，还需要思考。不比挺拜与民主党，只需要认同移民无国界与福利，学几句人道口号，会举拳头就行了。<br></div>
 
 ### 5: [2023-03-13 03:44:13+08:00 推文](https://twitter.com/HeQinglian/status/1635003784526196739)
 
@@ -193,7 +193,7 @@ Re @vivivippp1 有条消息，说内部人在破产前24小时提取存款。
 
 ### 45: [2023-03-13 22:42:06+08:00 推文](https://twitter.com/HeQinglian/status/1635290139399458817)
 
-‘Get woke, go broke’ https://www.businesstoday.in/silicon-valley-bank/story/get-woke-go-broke-silicon-valley-banks-top-woman-executive-lgbtq-activist-gets-targeted-for-lenders-failure-373067-2023-03-12<br>到现在为止，如果还不认识以下事实，只能说是无感：欧洲尤其是绿色先锋德国洗绿，欧盟碳税不能收了，另起名目收取气候补偿基金，这一事实标志绿能破产。<br>大重置将随着2024美国选举拜登政府下台而结束——除了这个集团比2020更疯狂地盗票。<div class="rsshub-quote"><br><br>Vince66: @HeQinglian 谢谢总结分享.  除了woke 这个银行的操作风险高<br></div>
+‘Get woke, go broke’ https://www.businesstoday.in/silicon-valley-bank/story/get-woke-go-broke-silicon-valley-banks-top-woman-executive-lgbtq-activist-gets-targeted-for-lenders-failure-373067-2023-03-12<br>到现在为止，如果还不认识以下事实，只能说是无感：欧洲尤其是绿色先锋德国洗绿，欧盟碳税不能收了，另起名目收取气候补偿基金，这一事实标志绿能破产。<br>大重置将随着2024美国选举拜登政府下台而结束——除了这个集团比2020更疯狂地盗票。 https://twitter.com/Vince6610/status/1635259128812810240<div class="rsshub-quote"><br><br>Vince66: @HeQinglian 谢谢总结分享.  除了woke 这个银行的操作风险高<br></div>
 
 ### 46: [2023-03-13 22:43:23+08:00 推文](https://twitter.com/HeQinglian/status/1635290465041027077)
 
@@ -321,7 +321,7 @@ Re @ivan4131 @qihang19211 看来我的学术经历你一无所知。比你好一
 
 ### 77: [2023-03-14 04:28:03+08:00 推文](https://twitter.com/HeQinglian/status/1635377202526314503)
 
-RT He Qinglian<br>Re @qihang19211 还有一赢，我干脆说了，拜粉躺地上打滚吧。<br>中国从没象现在这样对待任何一位白宫主人，就连被美媒污名化到无以复加的川普，北京也还算讲外交礼仪。<br>从拜登上台开始至今，各种外交场合，基本都是中方趾高气扬，美方则是舆论上批倒中方，会见时摆出一副“求求你，跪下吧”，每求一次，中方的头向上扬一分。
+Re @qihang19211 还有一赢，我干脆说了，拜粉躺地上打滚吧。<br>中国从没象现在这样对待任何一位白宫主人，就连被美媒污名化到无以复加的川普，北京也还算讲外交礼仪。<br>从拜登上台开始至今，各种外交场合，基本都是中方趾高气扬，美方则是舆论上批倒中方，会见时摆出一副“求求你，跪下吧”，每求一次，中方的头向上扬一分。
 
 ### 78: [2023-03-14 04:52:32+08:00 推文](https://twitter.com/HeQinglian/status/1635383362935476224)
 
@@ -581,11 +581,11 @@ Re @O43DGSy2NA4BdKf 好，如此甚好。法事做完了，请通知一声。�
 
 ### 142: [2023-03-16 01:11:48+08:00 推文](https://twitter.com/HeQinglian/status/1636052591699189763)
 
-每逢谈大麻有害时，就有些推主来我这谈大麻的好处，以及烟酒的坏处。<br>这种蠢货的思路是：不管什么有害东西，总得沾一样，数害相权取其轻（这轻是想出来的）。<br>坚决不同情。 https://twitter.com/KELMAND1/status/1635895141151158273<div class="rsshub-quote"><br><br>Ezio Mao☢: 《纽约邮报》讲述了一个美国新的不幸 - 年轻人正在大量吸入“笑气”，这已经成为一种新的毒瘾。<br><br>你认为应该怪谁？当然不是美国，不是社会氛围，不是智力水平或者道德教育。好吧，你猜对了，对吧？没错，就是中国。<br><br>为什么？因为吸完发到网上，叫whiptok（Whippit+TikTok）😅<br><br>https://nypost.com/2023/03/14/inside-gen-zs-hippy-crack-epidemic-bigger-risk-than-cocaine/<br></div>
+每逢谈大麻有害时，就有些推主来我这谈大麻的好处，以及烟酒的坏处。<br>这种蠢货的思路是：不管什么有害东西，总得沾一样，数害相权取其轻（这轻是想出来的）。<br>坚决不同情。<div class="rsshub-quote"><br><br>Ezio Mao☢: 《纽约邮报》讲述了一个美国新的不幸 - 年轻人正在大量吸入“笑气”，这已经成为一种新的毒瘾。<br><br>你认为应该怪谁？当然不是美国，不是社会氛围，不是智力水平或者道德教育。好吧，你猜对了，对吧？没错，就是中国。<br><br>为什么？因为吸完发到网上，叫whiptok（Whippit+TikTok）😅<br><br>https://nypost.com/2023/03/14/inside-gen-zs-hippy-crack-epidemic-bigger-risk-than-cocaine/<br></div>
 
 ### 143: [2023-03-16 03:58:53+08:00 推文](https://twitter.com/HeQinglian/status/1636094638594441216)
 
-民主党当政，掠财明目张胆。<br>比如白宫决定全额赔付SVB储户开了个危险的先例，因为联邦储蓄保险的赔付从来都有上限。<br>纽约邮报等因此去挖这家银行的背景，硅谷银行的 12 位董事当中，有人是奥克拜三位总统与舒默的超级捐款人，有位是奥前官员，还有一位是波洛西邻居——纳帕谷葡萄园的主人。<br>储户都有谁？<div class="rsshub-quote"><br><br>Lucs: 民主党国会议员的慈善机构在开曼群岛拥有超过3000万美元<br><br>代表Daniel Goldman（纽约州民主党）的非营利组织Richard W.据福克斯新闻报道，高盛家庭基金会报告称，在开曼群岛组织了价值超过3200万美元的投资。<br> https://www.oann.com/newsroom/democrat-congressmans-charity-has-more-than-30-million-in-cayman-islands/<br></div>
+民主党当政，掠财明目张胆。<br>比如白宫决定全额赔付SVB储户开了个危险的先例，因为联邦储蓄保险的赔付从来都有上限。<br>纽约邮报等因此去挖这家银行的背景，硅谷银行的 12 位董事当中，有人是奥克拜三位总统与舒默的超级捐款人，有位是奥前官员，还有一位是波洛西邻居——纳帕谷葡萄园的主人。<br>储户都有谁？ https://twitter.com/Lucs24659702/status/1636061969538244623<div class="rsshub-quote"><br><br>Lucs: 民主党国会议员的慈善机构在开曼群岛拥有超过3000万美元<br><br>代表Daniel Goldman（纽约州民主党）的非营利组织Richard W.据福克斯新闻报道，高盛家庭基金会报告称，在开曼群岛组织了价值超过3200万美元的投资。<br> https://www.oann.com/newsroom/democrat-congressmans-charity-has-more-than-30-million-in-cayman-islands/<br></div>
 
 ### 144: [2023-03-16 04:09:15+08:00 推文](https://twitter.com/HeQinglian/status/1636097246390255617)
 
@@ -813,7 +813,7 @@ Re @shenliangqing2 他当年在挺郭兴奋期也曾发表一段攻击我的视�
 
 ### 200: [2023-03-17 02:06:04+08:00 推文](https://twitter.com/zhixiangziyou/status/1636428635354611744)
 
-RT L JM🇺🇸<br>爆炸性报告：银行记录显示罗伯·沃克是拜登家族的同伙，他利用他的公司从一家中国能源公司向哈莉·拜登、詹姆斯·拜登、亨特·拜登和另一个“不知名的拜登”转账。 https://twitter.com/chuckcallesto/status/1636424667689889793<div class="rsshub-quote"><br><br>Chuck Callesto: BREAKING REPORT: Bank records emerge identifying Rob Walker, A BIDEN FAMILY ASSOCIATE used his company to transfer money FROM A CHINESE ENERGY COMPANY to Hallie Biden, James Biden, Hunter Biden, and another “unknown Biden.”<br></div>
+RT L JM🇺🇸<br>爆炸性报告：银行记录显示罗伯·沃克是拜登家族的同伙，他利用他的公司从一家中国能源公司向哈莉·拜登、詹姆斯·拜登、亨特·拜登和另一个“不知名的拜登”转账。<div class="rsshub-quote"><br><br>Chuck Callesto: BREAKING REPORT: Bank records emerge identifying Rob Walker, A BIDEN FAMILY ASSOCIATE used his company to transfer money FROM A CHINESE ENERGY COMPANY to Hallie Biden, James Biden, Hunter Biden, and another “unknown Biden.”<br></div>
 
 ### 201: [2023-03-17 02:06:17+08:00 推文](https://twitter.com/HeQinglian/status/1636428690824339457)
 
@@ -881,7 +881,7 @@ Re @aptx48693734 瑞信已经折腾了十多年，从全球一家最优金融机
 
 ### 217: [2023-03-17 21:08:48+08:00 推文](https://twitter.com/HeQinglian/status/1636716214054449152)
 
-你说的是真实情况。<br>我这几天查资料，发现欧洲早就这样玩，但全民觉得正常。美国还没烂透，这次硅谷的Woke化经营被挖出来当事情说，至少纽约邮报、Fox等愿意说，CNN、纽时、华邮则挑美联储加息来说，非说成是普遍性的。<br>Got Woke，Go Broke，不烂到底，那一半喜欢Woke的美国左派国民不会醒的。 https://twitter.com/hustzhuch/status/1636579388069126144<div class="rsshub-quote"><br><br>hustzhuch: @HeQinglian 欧美很多公司都搞这个鬼，他妈的还不能说。迟早完蛋<br></div>
+你说的是真实情况。<br>我这几天查资料，发现欧洲早就这样玩，但全民觉得正常。美国还没烂透，这次硅谷的Woke化经营被挖出来当事情说，至少纽约邮报、Fox等愿意说，CNN、纽时、华邮则挑美联储加息来说，非说成是普遍性的。<br>Got Woke，Go Broke，不烂到底，那一半喜欢Woke的美国左派国民不会醒的。<div class="rsshub-quote"><br><br>hustzhuch: @HeQinglian 欧美很多公司都搞这个鬼，他妈的还不能说。迟早完蛋<br></div>
 
 ### 218: [2023-03-17 21:19:05+08:00 推文](https://twitter.com/HeQinglian/status/1636718800954376192)
 
@@ -913,7 +913,7 @@ Re @zhixiangziyou 纽约民主党选民应该承受这结果——你们受连�
 
 ### 225: [2023-03-17 21:40:15+08:00 推文](https://twitter.com/HeQinglian/status/1636724128399994883)
 
-1、同意第一句。<br>2、民运不用他撕裂，他也没破坏美国民主（至少他没操纵选举），他的存在只是将所有的恶给引出来了，让所有参与表演者尽情展示。<br>3、整个戏剧是闹剧与拙劣马戏，没有半点悲剧的庄严感。<div class="rsshub-quote"><br><br>张杰: 郭文贵是中国权贵资本所长出的恶之花。他最大罪恶是撕裂民运和破坏美国民主。他本可以利用他的资金与民运联合对抗中共，但他一直在与中共勾兑，并对众多民运人士进行迫害。郭的爆料基本都是虚假的。郭在美国竞选中制造谣言。郭的官商勾结、不折手段和欺诈的中国商人特征，最终使他成为一个悲剧性人物。<br></div>
+1、同意第一句。<br>2、民运不用他撕裂，他也没破坏美国民主（至少他没操纵选举），他的存在只是将所有的恶给引出来了，让所有参与表演者尽情展示。<br>3、整个戏剧是闹剧与拙劣马戏，没有半点悲剧的庄严感。 https://twitter.com/ZJ20672066/status/1636557486508462080<div class="rsshub-quote"><br><br>张杰: 郭文贵是中国权贵资本所长出的恶之花。他最大罪恶是撕裂民运和破坏美国民主。他本可以利用他的资金与民运联合对抗中共，但他一直在与中共勾兑，并对众多民运人士进行迫害。郭的爆料基本都是虚假的。郭在美国竞选中制造谣言。郭的官商勾结、不折手段和欺诈的中国商人特征，最终使他成为一个悲剧性人物。<br></div>
 
 ### 226: [2023-03-17 21:47:55+08:00 推文](https://twitter.com/HeQinglian/status/1636726057511297024)
 
@@ -995,87 +995,123 @@ Re @JianglinLi 这位记者忘记树个特大横幅：<br>本台支持BLM、lgbt
 
 RT zhix<br>说白了，西方现在定义谁是民主国家，全靠此国家的领导人是不是掌握在美国霸权手里的傀儡，是不是服从美国的领导，跟当地选举政治制度实在没啥关系。😅 https://twitter.com/dinglili7/status/1636946863843840000<div class="rsshub-quote"><br><br>绫波: 杜金：<br><br>西方犯下两个根本性、逻辑性错误。 <br>首先它认为西方民主世界是文明而俄罗斯不是。西方自以为拥有定义其他国家和民族如何运作的权利同時他们确信自己是地球上唯一的文明模式。<br><br>亲俄派的斗争有许多重要原因，其中最重要的莫过于让西方承认其他文明和模式的存在，並放弃其本质上的全球主义言论 https://t.co/ZDK5MFuik5<br><br><img style="" src="https://pbs.twimg.com/media/FreaMh-aYAATdyO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
-### 246: [2023-03-19 04:05:14+08:00 推文](https://twitter.com/HeQinglian/status/1637183400334245889)
+### 246: [2023-03-19 01:40:46+08:00 推文](https://twitter.com/NAConservative9/status/1637147044530798597)
+
+RT 《北美保守评论》<br>《共产主义乌龟和共产主义兔子》<br>https://nacr.info/WordPress/index.php/2023/03/18/the-communist-tortoise-and-the-communist-hare/<br>在乌龟和兔子的赛跑中，列宁和波尔布特是兔子。然而，现代马克思主义者已经认识到，乌龟，在比赛中采取 “缓慢而稳定”… https://twitter.com/i/web/status/1637147044530798597 https://t.co/1ZDzSMIfhZ<br><img style="" src="https://pbs.twimg.com/media/FrhQCpiWwAM5Pq1?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 247: [2023-03-19 04:05:14+08:00 推文](https://twitter.com/HeQinglian/status/1637183400334245889)
 
 Re @HarryYCShen 1、媒体列出好几家，我推特有出处；暂时没列上FDIC而已。<br>2、这叫错误太多？吹毛求疵。
 
-### 247: [2023-03-19 04:10:53+08:00 推文](https://twitter.com/HeQinglian/status/1637184820005543936)
+### 248: [2023-03-19 04:10:53+08:00 推文](https://twitter.com/HeQinglian/status/1637184820005543936)
 
 Re @HarryYCShen 你先说自己指出错误太多了，是言语夸张，我就立刻去找给你。
 
-### 248: [2023-03-19 04:16:11+08:00 推文](https://twitter.com/HeQinglian/status/1637186154490388481)
+### 249: [2023-03-19 04:16:11+08:00 推文](https://twitter.com/HeQinglian/status/1637186154490388481)
 
 Re @HarryYCShen 不用多说，先反求诸己，因为一个你认为的“错误”，就说错误太多，无非是想否定这文章，心思不好。<br>只要你承认自己言语夸张，不用你承认喜欢吹毛求疵，我立刻找给你。<br>这是最后一推。
 
-### 249: [2023-03-19 04:17:19+08:00 推文](https://twitter.com/HeQinglian/status/1637186438633603072)
+### 250: [2023-03-19 04:17:19+08:00 推文](https://twitter.com/HeQinglian/status/1637186438633603072)
 
 Re @HarryYCShen 确实，这是摩根数据，但白宫也没出来辟谣，我引用了，你怎么办？说这是不严谨吗？
 
-### 250: [2023-03-19 04:17:57+08:00 推文](https://twitter.com/HeQinglian/status/1637186599703248896)
+### 251: [2023-03-19 04:17:57+08:00 推文](https://twitter.com/HeQinglian/status/1637186599703248896)
 
 Re @Isabel_3299 你们都在参与这种争斗，上当了。
 
-### 251: [2023-03-19 04:33:59+08:00 推文](https://twitter.com/HeQinglian/status/1637190634082639872)
+### 252: [2023-03-19 04:33:59+08:00 推文](https://twitter.com/HeQinglian/status/1637190634082639872)
 
 Re @JianglinLi 这种文革红卫兵小报，当时真的很受欢迎。<br>有些东西，应该是中央文革给了翻阅中央档案馆的权利，否则那么年轻的红卫兵，是不知道这些事情的。
 
-### 252: [2023-03-19 04:37:45+08:00 推文](https://twitter.com/HeQinglian/status/1637191584667283456)
+### 253: [2023-03-19 04:37:45+08:00 推文](https://twitter.com/HeQinglian/status/1637191584667283456)
 
 Re @Wu_Zhi @KELMAND1 这事，与西方知识分子讨论，有人不承认，说身份政治要看怎么定义，也就是说，他们不承认按种族、性别等定义是身份政治，只有阶级是身份政治。
 
-### 253: [2023-03-19 04:40:46+08:00 推文](https://twitter.com/HeQinglian/status/1637192339817988097)
+### 254: [2023-03-19 04:40:46+08:00 推文](https://twitter.com/HeQinglian/status/1637192339817988097)
 
 Re @Isabel_3299 你们痛恨民主党破坏民主程序，为什么德桑蒂斯要参选，你们想方设法要剥夺他这权利？任何共和党人符合法律资格，都有这权利。<br>对于彭斯们，你们不批评，只因他们没威胁到川普。<br>在党内初选上，川普与其他人拥有同等权利。这我对你讲过若干次了。
 
-### 254: [2023-03-19 04:44:02+08:00 推文](https://twitter.com/HeQinglian/status/1637193165437382660)
+### 255: [2023-03-19 04:44:02+08:00 推文](https://twitter.com/HeQinglian/status/1637193165437382660)
 
 Re @mingshi_chen @lianghuiwang2 你跑题了。<br>这只是说明交易两国愿意接受这种方式，但并不证明SWIFT被世界抛弃了。<br>昨天我讲那么多，就是告诉你，在SWIFT系统里，人民币能够扩张一个点，就是大胜利。<br>去年美元在国际结算系统里占比跌破40%，欧元上升，美国已经非常紧张了。
 
-### 255: [2023-03-19 04:47:07+08:00 推文](https://twitter.com/HeQinglian/status/1637193940406247425)
+### 256: [2023-03-19 04:47:07+08:00 推文](https://twitter.com/HeQinglian/status/1637193940406247425)
 
 Re @Isabel_3299 背后有推手是另一回事。在美国，选举是门专业活儿，2020年全国总工会主席助理组织的捍卫民主同盟，就是一个有组织的推手活儿，90%以上的活儿，全是在法律边缘游走。<br>停止计票这事，是仗着没有检察官敢起诉。<br>川普支持者应该去做组织化工作，欢迎德参选。<br>有信心何必害怕。
 
-### 256: [2023-03-19 04:48:06+08:00 推文](https://twitter.com/HeQinglian/status/1637194185290776576)
+### 257: [2023-03-19 04:48:06+08:00 推文](https://twitter.com/HeQinglian/status/1637194185290776576)
 
 Re @eGUAbe2V7j26GHw 这位推友分析，就是这意思。https://twitter.com/FangYiDuan1/status/1637081172902830080<div class="rsshub-quote"><br><br>Fang Yi Duan: @HeQinglian 按美国政府对硅谷银行的操作，会鼓励更多的资金、企业投入到woke事业中：赢了，自己赚；输了，白宫代表韭菜买单。完全零风险嘛！<br></div>
 
-### 257: [2023-03-19 04:54:36+08:00 推文](https://twitter.com/HeQinglian/status/1637195825129435138)
+### 258: [2023-03-19 04:54:36+08:00 推文](https://twitter.com/HeQinglian/status/1637195825129435138)
 
 Re @Isabel_3299 内里是害怕。<br>其实，本来有法子好好解决。<br>如果川普大方地欢迎德桑同时竞选，并称赞他的好处，效果会更好。德桑未必会因此退选，但敌意会少很多。<br>只是如果能这样做，就不是川普了。
 
-### 258: [2023-03-19 05:05:56+08:00 推文](https://twitter.com/HeQinglian/status/1637198675679100929)
+### 259: [2023-03-19 05:05:56+08:00 推文](https://twitter.com/HeQinglian/status/1637198675679100929)
 
 Re @Isabel_3299 Up to you.<br>美国现在已经进入是非颠倒、黑白混淆的阶段。要争，得有能力，得有方略。<br>保守派多年失去了学校教育系统、媒体、研究机构，早就将政治正确定义权拱手相让，2016年连支持川普都不敢公开，2020年证明，选举人才、组织力量、资金支持全在那边。<br>现在的当务之急是如何积聚力量，而不是内讧。
 
-### 259: [2023-03-19 05:09:13+08:00 推文](https://twitter.com/HeQinglian/status/1637199501256433665)
+### 260: [2023-03-19 05:09:13+08:00 推文](https://twitter.com/HeQinglian/status/1637199501256433665)
 
 Re @Isabel_3299 为什么明知被玩弄还要上套，不能辟开旁门见月明？
 
-### 260: [2023-03-19 05:12:10+08:00 推文](https://twitter.com/HeQinglian/status/1637200243493052417)
+### 261: [2023-03-19 05:12:10+08:00 推文](https://twitter.com/HeQinglian/status/1637200243493052417)
 
 Re @mingshi_chen @lianghuiwang2 你看来对美国的金融霸权不太了解。<br>1、世界三大评级系统掌握在美国手里，这叫资产定价权；<br>2、美元现在还是世界货币；<br>3、SWIFT系统的钥匙由美国掌握；<br>4、美国债券仍然是世界青睐的优质品（尽管在下降）；<br>算了，我去写文章去了。
 
-### 261: [2023-03-19 05:13:33+08:00 推文](https://twitter.com/HeQinglian/status/1637200591754612740)
+### 262: [2023-03-19 05:13:33+08:00 推文](https://twitter.com/HeQinglian/status/1637200591754612740)
 
 Re @Isabel_3299 这有什么好说的？当年茶党被整得奄奄一息，就是共和党建制派与民主党内外合力。<br>左派政党哪一个不是活得好好的？
 
-### 262: [2023-03-19 05:27:29+08:00 推文](https://twitter.com/HeQinglian/status/1637204096380817408)
+### 263: [2023-03-19 05:27:29+08:00 推文](https://twitter.com/HeQinglian/status/1637204096380817408)
 
-以规模性指标为例，中国最好的金融机构资产规模只相当于美国60%左右——与两国按可比价格计算的GDP差距相同，而最弱的金融衍生品规模不到美国的1%。这就决定了两国金融体系结构完全不同，中国一直以银行为主导（因为无法大规模发债），而美国则以资本市场为主导，国债规模接近32万亿美元。<br>此为霸权所在<div class="rsshub-quote"><br><br>明实：没法眼佛眼但有真眼: @HeQinglian @lianghuiwang2 去吧，我继续臆想。<br>近几周有美债3000亿已经被抵押到FED换美元现金了……<br>比烂的时代，不用着急，败灯们会折腾的。<br></div>
+以规模性指标为例，中国最好的金融机构资产规模只相当于美国60%左右——与两国按可比价格计算的GDP差距相同，而最弱的金融衍生品规模不到美国的1%。这就决定了两国金融体系结构完全不同，中国一直以银行为主导（因为无法大规模发债），而美国则以资本市场为主导，国债规模接近32万亿美元。<br>此为霸权所在 https://twitter.com/mingshi_chen/status/1637201503306895363<div class="rsshub-quote"><br><br>明实：没法眼佛眼但有真眼: @HeQinglian @lianghuiwang2 去吧，我继续臆想。<br>近几周有美债3000亿已经被抵押到FED换美元现金了……<br>比烂的时代，不用着急，败灯们会折腾的。<br></div>
 
-### 263: [2023-03-19 05:30:52+08:00 推文](https://twitter.com/HeQinglian/status/1637204948780810242)
+### 264: [2023-03-19 05:30:52+08:00 推文](https://twitter.com/HeQinglian/status/1637204948780810242)
 
-将马克龙选下去就是，为什么要斩首？选了他，就是将这届权力委托给他了，要他下去，也应该按民主程序，哪怕弹劾、倒阁都行。<br>以民主共和自我标高，却偏要回到当年大革命时代。<div class="rsshub-quote"><br><br>Ezio Mao☢: “我们斩首了路易十六，我们也可以斩首马克龙！”法国人非常坚决。<br><br>祝法国人民万事如意。我希望欧洲其他国家的人民效仿法国人的榜样。 https://t.co/QmmjWqiQox<br><br><video src="https://video.twimg.com/ext_tw_video/1636935193335574528/pu/vid/640x352/Am0dBW5jnaRv1PW_.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1636935193335574528/pu/img/U3ldBFt5xkqOxcmV.jpg"></video></div>
+将马克龙选下去就是，为什么要斩首？选了他，就是将这届权力委托给他了，要他下去，也应该按民主程序，哪怕弹劾、倒阁都行。<br>以民主共和自我标高，却偏要回到当年大革命时代。 https://twitter.com/KELMAND1/status/1636935219369631744<div class="rsshub-quote"><br><br>Ezio Mao☢: “我们斩首了路易十六，我们也可以斩首马克龙！”法国人非常坚决。<br><br>祝法国人民万事如意。我希望欧洲其他国家的人民效仿法国人的榜样。 https://twitter.com/KELMAND1/status/1636718538688966656 https://t.co/QmmjWqiQox<br><br><video src="https://video.twimg.com/ext_tw_video/1636935193335574528/pu/vid/640x352/Am0dBW5jnaRv1PW_.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1636935193335574528/pu/img/U3ldBFt5xkqOxcmV.jpg"></video></div>
 
-### 264: [2023-03-19 05:48:01+08:00 推文](https://twitter.com/HeQinglian/status/1637209267655655424)
+### 265: [2023-03-19 05:48:01+08:00 推文](https://twitter.com/HeQinglian/status/1637209267655655424)
 
 Re @mingshi_chen 这我绝对相信。<br>拜登不相信，总觉得可以无限印钞、无限发债。<br>美联储主席鲍威尔是专业人士，他相信有极限，到任时曾想辞职，被两党参议员慰留，就是希望他能够勒住缰绳。<br>耶伦有时相信，几个月前说要辞职，现在又与拜登趋同了。
 
-### 265: [2023-03-19 05:55:28+08:00 推文](https://twitter.com/HeQinglian/status/1637211142727630854)
+### 266: [2023-03-19 05:55:28+08:00 推文](https://twitter.com/HeQinglian/status/1637211142727630854)
 
 Re @mingshi_chen 说明：到任，是指去年任期到期。<br>欢迎推友指正不足与错谬。<br>我多次发现：推特交流，有人技巧不足，语言侵略性太强，交流方式有缺陷。好好的事情楞搅成大家不愉快。<br>但有人不是技巧问题，是用心问题。
 
-### 266: [2023-03-19 06:11:12+08:00 推文](https://twitter.com/HeQinglian/status/1637215101693378560)
+### 267: [2023-03-19 06:11:12+08:00 推文](https://twitter.com/HeQinglian/status/1637215101693378560)
 
 Re @mingshi_chen 川普执政，四年内，前三年控制国债规模相当成功，就增加了两千亿左右；第四年遇上covid-19，也只比奥巴马时期的国债规模增长2万亿左右。<br>美国的衰败不是来自金融本身，主要是Woke事业，这事业很花钱。
+
+### 268: [2023-03-19 08:10:53+08:00 推文](https://twitter.com/HeQinglian/status/1637245217332928516)
+
+Re 为何在全球范围内，大规模抗议活动越来越难以成功？<br>根据哈佛大学研究人员管理的一组数据集，与上世纪30年代以来的任何时候相比，此类运动在今天都更有可能失败。<br>https://cn.nytimes.com/world/20221011/iran-protests-haiti-russia-china/#:~:text=%E6%A0%B9%E6%8D%AE%E5%93%88%E4%BD%9B%E5%A4%A7%E5%AD%A6%E7%A0%94%E7%A9%B6%E4%BA%BA%E5%91%98%E7%AE%A1%E7%90%86%E7%9A%84%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E9%9B%86%EF%BC%8C%E4%B8%8E%E8%87%B3%E5%B0%91%E8%87%AA%E4%B8%8A%E4%B8%96%E7%BA%AA30%E5%B9%B4%E4%BB%A3%E4%BB%A5%E6%9D%A5%E7%9A%84%E4%BB%BB%E4%BD%95%E5%85%B6%E4%BB%96%E6%97%B6%E5%80%99%E7%9B%B8%E6%AF%94%EF%BC%8C%E6%AD%A4%E7%B1%BB%E8%BF%90%E5%8A%A8%E5%9C%A8%E4%BB%8A%E5%A4%A9%E9%83%BD%E6%9B%B4%E6%9C%89%E5%8F%AF%E8%83%BD%E5%A4%B1%E8%B4%A5%E3%80%82<br>之所以迟迟没推荐，是因为这一研究与去民主化研究一样，照例只研究半民主国家，其实现阶段民主国家也一样。
+
+### 269: [2023-03-19 08:14:24+08:00 推文](https://twitter.com/HeQinglian/status/1637246104449196033)
+
+Re @Wu_Zhi @JianglinLi @leoxiang14 无非是城市小姐们要接近大自然，去摆拍一下，显示自己的田园情怀。
+
+### 270: [2023-03-19 08:17:09+08:00 推文](https://twitter.com/HeQinglian/status/1637246795708334088)
+
+Re @Lucs24659702 如果发生在中国，一定乌泱泱一片骂声，指责旁观者没有良心、冷漠；指责司机放纵犯罪；指责政府那是当然。<br>现在发生在美国，这些指责者多数认为，美国依然是灯塔。
+
+### 271: [2023-03-19 08:26:30+08:00 推文](https://twitter.com/Lucs24659702/status/1637249150650830848)
+
+RT Lucs<br>Re @HeQinglian 这世界之所以丑陋，是因为很多人失去了公正之心。其实视频中凌霸的人倒是次要的了，通过自己看待事件所选择的角度能回转看清自己更重要。
+
+### 272: [2023-03-19 08:27:35+08:00 推文](https://twitter.com/HeQinglian/status/1637249422076649473)
+
+美国曾是犯罪经济学发源地（贝克因此获诺奖）——现在一切都与犯罪经济学要义“加大犯罪成本以减少犯罪”背道而驰。<br>美国曾是企业诊断的发源地，我学了一些基本知识，佩服之极。没想到如今企业管理要义被Woke全部抛弃。<br>美国以法治与秩序睥睨天下，曾是中国依法治国的领路人，现在法治与秩序正在渐渐瓦解。
+
+### 273: [2023-03-19 08:28:30+08:00 推文](https://twitter.com/HeQinglian/status/1637249652394270722)
+
+Re @Lucs24659702 👍👍
+
+### 274: [2023-03-19 08:46:21+08:00 推文](https://twitter.com/HeQinglian/status/1637254145903140864)
+
+Re @KELMAND1 可笑的就是现在一些评论者经常说：<br>简中圈的文字不值得看；俄罗斯的就算了。<br>在他们眼中，英文主流媒体就算是戈培尔画风，充满谎言，也是真理。<br>我特意说一声，今后凡遇这类人，一律拉黑，留下他们是祸害，遗污之源。
+
+### 275: [2023-03-19 08:50:00+08:00 推文](https://twitter.com/HeQinglian/status/1637255064837406720)
+
+Re 如果当初中国改革开放时，美国是如今这种Woke文化，派来的官员是Trans、双性人、展示的是骄傲月文化、BLM零元购、新身份政治（种族、性别尤其是变性为上），不知邓小平等人是否会象当年一样心悦诚服地要开放改革？
 
