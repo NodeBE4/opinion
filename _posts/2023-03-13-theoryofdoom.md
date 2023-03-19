@@ -53,3 +53,13 @@ And otherwise, you've got every right to disregard what I said.  Your life is yo
 
 Of course.  And I would be a complete hypocrite if I said otherwise.
 
+----- __510.3__ -----2023-03-19 10:18:17+08:00:
+
+People feel like I'm being preachy and they resent it.  Which, fair enough.
+
+### 511: [Foo Fighters ft. Shane Hawkins Perform "My Hero"](https://old.reddit.com/r/rockmusicstuff/comments/11v91po/foo_fighters_ft_shane_hawkins_perform_my_hero/), submitted on 2023-03-19 10:44:02+08:00.
+
+----- __511.1__ -----2023-03-19 10:47:03+08:00:
+
+I love this kid.  I love his passion.  His enthusiasm.  His commitment to being the best drummer that he can be.
+
