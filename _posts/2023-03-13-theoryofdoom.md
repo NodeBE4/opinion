@@ -57,9 +57,31 @@ Of course.  And I would be a complete hypocrite if I said otherwise.
 
 People feel like I'm being preachy and they resent it.  Which, fair enough.
 
-### 511: [Foo Fighters ft. Shane Hawkins Perform "My Hero"](https://old.reddit.com/r/rockmusicstuff/comments/11v91po/foo_fighters_ft_shane_hawkins_perform_my_hero/), submitted on 2023-03-19 10:44:02+08:00.
+### 511: [Tinder date told me I was "too dark" for him and I'm unsure of what to do?](https://old.reddit.com/r/askgaybros/comments/11v34b5/tinder_date_told_me_i_was_too_dark_for_him_and_im/), submitted on 2023-03-19 06:36:54+08:00.
 
------ __511.1__ -----2023-03-19 10:47:03+08:00:
+----- __511.1__ -----2023-03-19 11:21:14+08:00:
+
+What does "too dark" mean?  Your skin is no darker than mine.  
+
+What a nutter.  Be proud of who you are.
+
+----- __511.2__ -----2023-03-19 11:27:25+08:00:
+
+> my ethnicity (Arab)
+
+It is so weird to hear someone describe an Arabic guy as "too dark."  Too dark for what?  Totally irrational.
+
+There is nothing wrong with having darker skin.  You are not even dark skinned.  
+
+Your skin is no darker than mine.  And I am not even Arabic (although people assume I am, all the time).
+
+----- __511.3__ -----2023-03-19 11:28:35+08:00:
+
+This is the correct answer.
+
+### 512: [Foo Fighters ft. Shane Hawkins Perform "My Hero"](https://old.reddit.com/r/rockmusicstuff/comments/11v91po/foo_fighters_ft_shane_hawkins_perform_my_hero/), submitted on 2023-03-19 10:44:02+08:00.
+
+----- __512.1__ -----2023-03-19 10:47:03+08:00:
 
 I love this kid.  I love his passion.  His enthusiasm.  His commitment to being the best drummer that he can be.
 
