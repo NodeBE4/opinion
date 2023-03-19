@@ -69,7 +69,7 @@ Re @Tianshuihanyan 激将法。不是一起去，他去，希望在那见到南�
 
 ### 14: [2022-07-25 21:20:04+08:00 推文](https://twitter.com/HeQinglian/status/1551557899209654273)
 
-RT He Qinglian<br>Re @JianglinLi @9527joshua @KELMAND1 @ZedongWinine @LetsBeatRabbits 马克思主义在东、西方回归，各有套路。<br>中国的年轻一代信的马经，就是马克思主义哲学（唯物辨证法）、剩余价值理论做主干的政经学、暴革说。<br>西方年轻人则是新马那套，高福利、人性的解放——进步主义，包括LGBTQI、消解男女组成的婚姻家庭，实行性多元化。<br>不知“两马会师”是何情景？正邪决斗还是相容？
+Re @JianglinLi @9527joshua @KELMAND1 @ZedongWinine @LetsBeatRabbits 马克思主义在东、西方回归，各有套路。<br>中国的年轻一代信的马经，就是马克思主义哲学（唯物辨证法）、剩余价值理论做主干的政经学、暴革说。<br>西方年轻人则是新马那套，高福利、人性的解放——进步主义，包括LGBTQI、消解男女组成的婚姻家庭，实行性多元化。<br>不知“两马会师”是何情景？正邪决斗还是相容？
 
 ### 15: [2022-07-25 21:27:08+08:00 推文](https://twitter.com/HeQinglian/status/1551559679628697600)
 
@@ -165,7 +165,7 @@ Re @CrabNJ @badpeop19875194 @KELMAND1 推上当真是藏龙卧虎，什么人才
 
 ### 38: [2022-07-26 10:03:42+08:00 推文](https://twitter.com/HeQinglian/status/1551750072462893056)
 
-纵观所有的颜色革命，包括美欧最推崇的“诺贝尔和平奖得主领导模式”南非与缅甸，其实都未竟全功，问题多多。<br>只有美国民主党阵营精心策划的2020年美国大选，将积20余年颜色革命的全套功夫用于本国，非常成功地夺取了政权，开始改造社会与大众思想大业。
+纵观所有的颜色革命，包括美欧最推崇的“诺贝尔和平奖得主领导模式”南非与缅甸，其实都未竟全功，问题多多。<br>只有美国民主党阵营精心策划的2020年美国大选，将积20余年颜色革命的全套功夫用于本国，非常成功地夺取了政权，开始改造社会与大众思想大业。<br><br>曹長青: 美国中情局长伍尔西曾在电视上承认，美国干预他国选举。白宫顾问博尔顿对CNN说，他谋划多国政变。克里米亚事件就起源奥巴马政府支持乌克兰街头暴力推翻民选总统的“政变”，导致俄国不再调解克里米亚，结果那里人民公投回归俄国；该事件是奥巴马反俄、干预乌内政结果；拜登更煽动乌反俄，是战争导火索。<br>
 
 ### 39: [2022-07-26 10:05:03+08:00 推文](https://twitter.com/HeQinglian/status/1551750413778665472)
 
@@ -265,7 +265,7 @@ Re @shenliangqing2 @OfcIQOD2XkWhsKt @JianglinLi 台湾30岁以下青年一代，
 
 ### 63: [2022-07-28 03:46:23+08:00 推文](https://twitter.com/HeQinglian/status/1552379895698923520)
 
-完全不用担心。<br>不是早就有美国智库预测，“华盛顿希望与俄罗斯战斗至最后一个乌克兰人”么？<br>“有民乃有土，有土乃有国”，当最后一个乌克兰人倒下之后，那土地属于谁，国家叫什么名称，已经没有原住民关注了。<br><br>RedSteelWorker: @KELMAND1 @feli0meow 乌克兰惨了！竟然开始卖地！根据澳媒消息，乌克兰已经卖给美国三大企业1700万公顷农业土地，这大概已经占到了乌克兰国土面积的60万平方公里的28.3%了。<br>
+完全不用担心。<br>不是早就有美国智库预测，“华盛顿希望与俄罗斯战斗至最后一个乌克兰人”么？<br>“有民乃有土，有土乃有国”，当最后一个乌克兰人倒下之后，那土地属于谁，国家叫什么名称，已经没有原住民关注了。
 
 ### 64: [2022-07-28 03:52:43+08:00 推文](https://twitter.com/HeQinglian/status/1552381490763370502)
 
@@ -305,7 +305,7 @@ Re @xxj2040 年龄这么大，生个病又不是难事。上次是covid-19阳性
 
 ### 73: [2022-07-28 10:34:15+08:00 推文](https://twitter.com/HeQinglian/status/1552482537762693121)
 
-三大美国跨国公司购买了 1700 万公顷乌克兰农业用地<br>对这条消息，不少推主表示怀疑，此为原始出处。 <a href="https://www.australiannationalreview.com/lifestyle/three-large-american-multinationals-bought-17-million-hectares-of-ukrainian-agricultural-land/" target="_blank" rel="noopener noreferrer">https://www.australiannationalreview.com/lifestyle/three-large-american-multinationals-bought-17-million-hectares-of-ukrainian-agricultural-land/</a>
+三大美国跨国公司购买了 1700 万公顷乌克兰农业用地<br>对这条消息，不少推主表示怀疑，此为原始出处。<br><br>晚風: 還剩一半了，波瀾心動嗎？<br><br><img style="" src="https://pbs.twimg.com/media/FYq8LctaQAAg6yz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 74: [2022-07-28 10:37:11+08:00 推文](https://twitter.com/HeQinglian/status/1552483274462748672)
 
@@ -577,7 +577,7 @@ Re @shenliangqing2 @FranzMendelsso1 @RealBeiMing 美国演变至今，有个过�
 
 ### 141: [2022-07-30 04:16:09+08:00 推文](https://twitter.com/HeQinglian/status/1553112163069399041)
 
-看了法广这条的留言与Quote后，我去看了一眼：<br>“俄總統新聞秘書佩斯科夫當天告訴媒體稱，克里姆林宮同意中國領導人習近平的觀點（不要“玩火”）”。<br>拉夫羅夫在回答有關台灣周邊局勢和佩洛西可能計畫訪問台灣的問題時說：“我們只有一個中國的立場沒有改變”。<br>发表评论却连内容都不看。<br><br>RFI 華語 - 法國國際廣播電台: 拉夫羅夫：俄羅斯希望不會出現使台灣周邊局勢惡化的挑釁行為<br><br><img style="" src="https://pbs.twimg.com/media/FY12eHWUUAAWFwq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8caD.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8caD.t</a>
+看了法广这条的留言与Quote后，我去看了一眼：<br>“俄總統新聞秘書佩斯科夫當天告訴媒體稱，克里姆林宮同意中國領導人習近平的觀點（不要“玩火”）”。<br>拉夫羅夫在回答有關台灣周邊局勢和佩洛西可能計畫訪問台灣的問題時說：“我們只有一個中國的立場沒有改變”。<br>发表评论却连内容都不看。
 
 ### 142: [2022-07-30 04:42:17+08:00 推文](https://twitter.com/HeQinglian/status/1553118738119069696)
 
@@ -733,7 +733,7 @@ Re @riverkiosk 又来了，是不是最近乌战实际战况让你心情不愉�
 
 ### 180: [2022-07-31 10:33:17+08:00 推文](https://twitter.com/HeQinglian/status/1553569459113181184)
 
-这篇文章建议大家花五分钟，有趣之处在于德国专家与美国专家立场不同。<br>德国专家认为是“伤敌八百，自损一千”——因为专家本人也身受能源短缺之痛，与普通人有同理心<br>耶鲁专家在美国，除了油价飚升与通胀之外，并无德国人能源短缺之痛，因此主张继续制裁。德国自损两千都与其无关。<br>——立场决定研究结果😂<br><br>DW 中文- 德国之声: 对俄制裁，是俄罗斯蒙受重创、金融市场的前景堪称“全球最差”？还是西方“伤敌八百、自损一千”？<br> <a href="https://p.dw.com/p/4Erre" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4Erre</a>
+这篇文章建议大家花五分钟，有趣之处在于德国专家与美国专家立场不同。<br>德国专家认为是“伤敌八百，自损一千”——因为专家本人也身受能源短缺之痛，与普通人有同理心<br>耶鲁专家在美国，除了油价飚升与通胀之外，并无德国人能源短缺之痛，因此主张继续制裁。德国自损两千都与其无关。<br>——立场决定研究结果😂
 
 ### 181: [2022-07-31 20:48:35+08:00 推文](https://twitter.com/HeQinglian/status/1553724302461210624)
 
