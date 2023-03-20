@@ -87,3 +87,11 @@ Re @shenliangqing2 现有的国际司法体系，都是二战之后美国主导�
 
 Re @gvkJVjo3J0BIJod 自己经历与家人经历，差别太大。<br>实话实说，对毛这位中国农民之子，再有这样的人来中国当领袖，那中国有如进入拜登当美国总统；改革开放之后有段时期是开明专制，中国能够进入那种状态，就算是中国能够达到的最高境界了。<br>郭推革就是今后中国革命的预演，区别与毛革命只差一点：文盲少多了，牛金星多点
 
+### 19: [2023-03-21 01:37:45+08:00 推文](https://twitter.com/HeQinglian/status/1637871060551884822)
+
+Re @mitolyu @Vince6610 @zhixiangziyou 明白了。不知她对简方达欢呼covid-19是上帝送给美国左派的礼物、WEF创始人克劳斯•施瓦布欢呼covid-19是大重置最好的时机能否接受。
+
+### 20: [2023-03-21 01:51:55+08:00 推文](https://twitter.com/HeQinglian/status/1637874624951099397)
+
+2022年4月，拜登和他的政府发布了两份下属机构的文件，旨在支持和鼓励男孩和女孩进行化学和手术阉割，一份来自Office of Population Affairs，题为Gender-Affirming Care and Young People；另一份是Gender-Affirming Care is Trauma-Informed Care。 https://www.drjamesdobson.org/articles/bidens-radicalized-transgender-agenda-takes-full-aim-at-your-children<div class="rsshub-quote"><br><br>二大爷: 实在忍不住，我来给大家起底一下有些华人群体，欺负大家不懂英文，肆意在“儿童变性”这个话题上造谣的手段。图一是我所在的加州的州长纽森签署的法案。它正确的翻译是“纽森签署法案，使加州成为跨性别青年和家庭的避难所”。也就是说，这个法案的本意是保护那些“跨性别的青年和家庭”免受歧视。但在某些华… https://twitter.com/i/web/status/1637672806799507456 https://t.co/2JTeRQ9mCK<br><br><img style="" src="https://pbs.twimg.com/media/FrorHhMaQAE1o07?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrosNYDaUAEeB-Y?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrouZt6akAAVdwc?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
