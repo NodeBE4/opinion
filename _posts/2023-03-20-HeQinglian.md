@@ -55,3 +55,7 @@ Re 暂时逃过了又一次雷曼时刻。
 
 Re @somuchcomunevil @Lucs24659702 我们崇拜的不是美国的法治与秩序吗？这是Law &amp; Order ？
 
+### 11: [2023-03-20 10:42:22+08:00 推文](https://twitter.com/HeQinglian/status/1637645729970749440)
+
+Re @zhixiangziyou 投身Woke并支持其在一切领域包括金融商业领域内占优先地位，是要付出代价的。
+
