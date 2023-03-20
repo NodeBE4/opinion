@@ -113,7 +113,7 @@ Re @JianglinLi 看美国的事情需要记忆力极好，往前记忆至少需�
 
 ### 25: [2023-01-24 06:04:32+08:00 推文](https://twitter.com/HeQinglian/status/1617644479233789959)
 
-关于控枪与反对控枪的争议，其实多想想就会明白其中道理。<br>反对控枪的多是红州，农业州。去过那里的人都知道，地广人稀很远没有邻居，一到晚上，每家就象旷野中的独居者，无论是对付野兽还是不期而至的抢劫者，枪是唯一可依靠的。<br>这些事情，城市人尤其是中国的城市人弄不明白。幸亏美国各州还有自治权<div class="rsshub-quote"><br><br>古川（Gu Chuan): 这样划分也不完全，滕彪不是号称维权律师吗？<br> <a href="https://twitter.com/baiyong1965/status/1617601666186117121" target="_blank" rel="noopener noreferrer">https://twitter.com/baiyong1965/status/1617601666186117121</a></div>
+关于控枪与反对控枪的争议，其实多想想就会明白其中道理。<br>反对控枪的多是红州，农业州。去过那里的人都知道，地广人稀很远没有邻居，一到晚上，每家就象旷野中的独居者，无论是对付野兽还是不期而至的抢劫者，枪是唯一可依靠的。<br>这些事情，城市人尤其是中国的城市人弄不明白。幸亏美国各州还有自治权<div class="rsshub-quote"><br><br>古川（Gu Chuan): 这样划分也不完全，滕彪不是号称维权律师吗？<br></div>
 
 ### 26: [2023-01-24 06:08:48+08:00 推文](https://twitter.com/HeQinglian/status/1617645552619114496)
 
@@ -305,7 +305,7 @@ Re @Lucs24659702 终于意识到选择性抽检，有违美国的司法公平。
 
 ### 73: [2023-01-27 02:07:18+08:00 推文](https://twitter.com/HeQinglian/status/1618671938653790209)
 
-数据说话：中-美欧经济脱钩并非现实<br>2022年西方舆论表达要与中国脱钩、以及猜测习近平想与美国脱钩成了主流。被视为“习近平信使”的刘鹤出席2023达沃斯年会，让与会者欢呼中国回归全球化。<br>本文用中国及美欧自身数据表明，中国脱离全球化现在终于回归，其实是个彻底的虚假命题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html</a>
+RT He Qinglian<br>数据说话：中-美欧经济脱钩并非现实<br>2022年西方舆论表达要与中国脱钩、以及猜测习近平想与美国脱钩成了主流。被视为“习近平信使”的刘鹤出席2023达沃斯年会，让与会者欢呼中国回归全球化。<br>本文用中国及美欧自身数据表明，中国脱离全球化现在终于回归，其实是个彻底的虚假命题 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html</a>
 
 ### 74: [2023-01-27 02:36:25+08:00 推文](https://twitter.com/zhixiangziyou/status/1618679268707536896)
 
@@ -529,7 +529,7 @@ Re @liuximing2022 @zhengchu 假定拜登政府再干一任，民主党接着再�
 
 ### 129: [2023-01-27 23:03:59+08:00 推文](https://twitter.com/HeQinglian/status/1618988194275692549)
 
-昨天我这篇《数据说话：中-美欧经济脱钩并非现实》<br>引来了解滨先生的这条诛心的指责。花了一下午时间与他讨论，这是推上普遍情况，相关讨论推文见三处，集中的在这一处。<br>希望年轻推友们从中领悟一些东西，路还长，认识世界是改造世界并建设的第一步。蒙着眼睛是走不下去的。 <a href="https://rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html" target="_blank" rel="noopener noreferrer">https://rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html</a> <a href="https://twitter.com/bxieus/status/1618715162609070081" target="_blank" rel="noopener noreferrer">https://twitter.com/bxieus/status/1618715162609070081</a>
+昨天我这篇《数据说话：中-美欧经济脱钩并非现实》<br>引来了解滨先生的这条诛心的指责。花了一下午时间与他讨论，这是推上普遍情况，相关讨论推文见三处，集中的在这一处。<br>希望年轻推友们从中领悟一些东西，路还长，认识世界是改造世界并建设的第一步。蒙着眼睛是走不下去的。 <a href="https://rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html" target="_blank" rel="noopener noreferrer">https://rfa.org/mandarin/pinglun/heqinglian/hql-01262023112111.html</a>
 
 ### 130: [2023-01-27 23:08:13+08:00 推文](https://twitter.com/HeQinglian/status/1618989257519144960)
 
