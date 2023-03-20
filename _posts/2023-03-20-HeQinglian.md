@@ -63,3 +63,15 @@ Re @zhixiangziyou 投身Woke并支持其在一切领域包括金融商业领域�
 
 Re @Wazy1988bW @KELMAND1 别以为美国还能撑多少年。按拜登与民主党Woke败国这速度，目前已经32万亿国债，国民亦被通胀掠夺，老本糟蹋尽之后，支撑得多久是个问题。
 
+### 13: [2023-03-20 21:33:33+08:00 推文](https://twitter.com/HeQinglian/status/1637809604271693825)
+
+美国自拜登上台后，攒足劲要与中国在非洲竞争，专门拨款成立机构；法国说要重回非洲（原来有不少殖民地），如今成了这局面。<br>拜粉们可以说非洲国家太Low，但在联合国，非联拥有56张选票。打群架时用得着。 https://twitter.com/Kanthan2030/status/1637726914386468864<div class="rsshub-quote"><br><br>S.L. Kanthan: 40 African countries are in Moscow today!! The conference is called “Russia-Africa in a Multipolar World.” <br><br>The Global South is ignoring Washington DC and its endless wars. There are bigger fish to fry.<br><br>The leaders of developing nations can now sense a new world of… https://twitter.com/i/web/status/1637726914386468864 https://t.co/Of9vVM3PjJ<br><br><img style="" src="https://pbs.twimg.com/media/Frpf8b7aYAIp3A_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 14: [2023-03-20 21:37:45+08:00 推文](https://twitter.com/HeQinglian/status/1637810660510781441)
+
+Re @tonylaodie1 @shenliangqing2 我不关心这些我无法证明的事情，只关心它在推特上所起的实际作用。
+
+### 15: [2023-03-20 21:41:39+08:00 推文](https://twitter.com/HeQinglian/status/1637811641868775427)
+
+Re @TDXY 实质上是这样，但会折腾一些名目出来包装一下。<br>瑞士银行是该国央行。
+
