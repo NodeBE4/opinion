@@ -105,7 +105,7 @@ Re 分享菁英论坛节目，听对中国局势更多角度的分析，这对�
 
 ### 23: [2023-02-12 06:27:52+08:00 推文](https://twitter.com/realcaixia/status/1624535719606906880)
 
-赞同文章作者的基本看法。<div class="rsshub-quote"><br><br>楊建利 Jianli (Doc) Yang: 我在《The Diplomat外交家》杂志上撰文说明，对王沪宁的任用透露了习近平针对台湾的一个思路，虽然他意识到和平统一已变得很渺茫，但为了师出有名，他需要王推出新的统一台湾的理论，取代老的失去效力的“一国两制”，由此对台施加压力。新理论将是对台统战的指导，也是“大棒加胡萝卜”的新种胡萝卜。<br> <a href="https://twitter.com/yangjianli001/status/1622993400667549700" target="_blank" rel="noopener noreferrer">https://twitter.com/yangjianli001/status/1622993400667549700</a></div>
+赞同文章作者的基本看法。<div class="rsshub-quote"><br><br>楊建利 Jianli (Doc) Yang: 我在《The Diplomat外交家》杂志上撰文说明，对王沪宁的任用透露了习近平针对台湾的一个思路，虽然他意识到和平统一已变得很渺茫，但为了师出有名，他需要王推出新的统一台湾的理论，取代老的失去效力的“一国两制”，由此对台施加压力。新理论将是对台统战的指导，也是“大棒加胡萝卜”的新种胡萝卜。<br></div>
 
 ### 24: [2023-02-12 06:37:01+08:00 推文](https://twitter.com/realcaixia/status/1624538022208507905)
 
@@ -121,5 +121,5 @@ Re 分享菁英论坛节目，听对中国局势更多角度的分析，这对�
 
 ### 27: [2023-02-12 06:51:49+08:00 推文](https://twitter.com/realcaixia/status/1624541745903190016)
 
-这才是中国人自己的生活。这歌有意思。<div class="rsshub-quote"><br><br>ZHANGDONG: 😃😃<br></div>
+这才是中国人自己的生活。这歌有意思。<div class="rsshub-quote"><br><br>ZHANGDONG: 😃😃<br> <a href="https://twitter.com/ltshijie/status/1623331832962883585" target="_blank" rel="noopener noreferrer">https://twitter.com/ltshijie/status/1623331832962883585</a></div>
 
