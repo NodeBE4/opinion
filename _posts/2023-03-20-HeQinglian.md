@@ -63,39 +63,43 @@ Re @zhixiangziyou 投身Woke并支持其在一切领域包括金融商业领域�
 
 Re @Wazy1988bW @KELMAND1 别以为美国还能撑多少年。按拜登与民主党Woke败国这速度，目前已经32万亿国债，国民亦被通胀掠夺，老本糟蹋尽之后，支撑得多久是个问题。
 
-### 13: [2023-03-20 21:33:33+08:00 推文](https://twitter.com/HeQinglian/status/1637809604271693825)
+### 13: [2023-03-20 12:21:56+08:00 推文](https://twitter.com/zhixiangziyou/status/1637670785887117313)
+
+RT L JM🇺🇸<br>在美国曾有一段时间，检察官和司法部拒绝针对前总统。他们知道这会损害共和国。他们表现得很谨慎。现在，民主党人去论坛狩猎，发明新颖的法律理论，并将我们的法庭武器化，就像第三世界的地狱一样。可耻。<div class="rsshub-quote"><br><br>Charlie Kirk: There was a time in America where prosecutors and the DOJ refused to target ex-Presidents. They knew it would damage the republic. They showed prudence. Now, Dems go forum hunting, invent novel legal theories, and weaponize our courts like some 3rd world hellhole.  Disgraceful.<br></div>
+
+### 14: [2023-03-20 21:33:33+08:00 推文](https://twitter.com/HeQinglian/status/1637809604271693825)
 
 美国自拜登上台后，攒足劲要与中国在非洲竞争，专门拨款成立机构；法国说要重回非洲（原来有不少殖民地），如今成了这局面。<br>拜粉们可以说非洲国家太Low，但在联合国，非联拥有56张选票。打群架时用得着。<div class="rsshub-quote"><br><br>S.L. Kanthan: 40 African countries are in Moscow today!! The conference is called “Russia-Africa in a Multipolar World.” <br><br>The Global South is ignoring Washington DC and its endless wars. There are bigger fish to fry.<br><br>The leaders of developing nations can now sense a new world of… https://twitter.com/i/web/status/1637726914386468864 https://t.co/Of9vVM3PjJ<br><br><img style="" src="https://pbs.twimg.com/media/Frpf8b7aYAIp3A_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
-### 14: [2023-03-20 21:37:45+08:00 推文](https://twitter.com/HeQinglian/status/1637810660510781441)
+### 15: [2023-03-20 21:37:45+08:00 推文](https://twitter.com/HeQinglian/status/1637810660510781441)
 
 Re @tonylaodie1 @shenliangqing2 我不关心这些我无法证明的事情，只关心它在推特上所起的实际作用。
 
-### 15: [2023-03-20 21:41:39+08:00 推文](https://twitter.com/HeQinglian/status/1637811641868775427)
+### 16: [2023-03-20 21:41:39+08:00 推文](https://twitter.com/HeQinglian/status/1637811641868775427)
 
 Re @TDXY 实质上是这样，但会折腾一些名目出来包装一下。<br>瑞士银行是该国央行。
 
-### 16: [2023-03-21 00:10:50+08:00 推文](https://twitter.com/HeQinglian/status/1637849186539274240)
+### 17: [2023-03-21 00:10:50+08:00 推文](https://twitter.com/HeQinglian/status/1637849186539274240)
 
 Re @Vince6610 @zhixiangziyou 不会是在Woke事业中失去的吧？愿闻其详。
 
-### 17: [2023-03-21 00:13:59+08:00 推文](https://twitter.com/HeQinglian/status/1637849979703140353)
+### 18: [2023-03-21 00:13:59+08:00 推文](https://twitter.com/HeQinglian/status/1637849979703140353)
 
 Re @shenliangqing2 现有的国际司法体系，都是二战之后美国主导建立的。
 
-### 18: [2023-03-21 00:17:58+08:00 推文](https://twitter.com/HeQinglian/status/1637850979927302146)
+### 19: [2023-03-21 00:17:58+08:00 推文](https://twitter.com/HeQinglian/status/1637850979927302146)
 
 Re @gvkJVjo3J0BIJod 自己经历与家人经历，差别太大。<br>实话实说，对毛这位中国农民之子，再有这样的人来中国当领袖，那中国有如进入拜登当美国总统；改革开放之后有段时期是开明专制，中国能够进入那种状态，就算是中国能够达到的最高境界了。<br>郭推革就是今后中国革命的预演，区别与毛革命只差一点：文盲少多了，牛金星多点
 
-### 19: [2023-03-21 01:37:45+08:00 推文](https://twitter.com/HeQinglian/status/1637871060551884822)
+### 20: [2023-03-21 01:37:45+08:00 推文](https://twitter.com/HeQinglian/status/1637871060551884822)
 
 Re @mitolyu @Vince6610 @zhixiangziyou 明白了。不知她对简方达欢呼covid-19是上帝送给美国左派的礼物、WEF创始人克劳斯•施瓦布欢呼covid-19是大重置最好的时机能否接受。
 
-### 20: [2023-03-21 01:51:55+08:00 推文](https://twitter.com/HeQinglian/status/1637874624951099397)
+### 21: [2023-03-21 01:51:55+08:00 推文](https://twitter.com/HeQinglian/status/1637874624951099397)
 
 2022年4月，拜登和他的政府发布了两份下属机构的文件，旨在支持和鼓励男孩和女孩进行化学和手术阉割，一份来自Office of Population Affairs，题为Gender-Affirming Care and Young People；另一份是Gender-Affirming Care is Trauma-Informed Care。 https://www.drjamesdobson.org/articles/bidens-radicalized-transgender-agenda-takes-full-aim-at-your-children<div class="rsshub-quote"><br><br>二大爷: 实在忍不住，我来给大家起底一下有些华人群体，欺负大家不懂英文，肆意在“儿童变性”这个话题上造谣的手段。图一是我所在的加州的州长纽森签署的法案。它正确的翻译是“纽森签署法案，使加州成为跨性别青年和家庭的避难所”。也就是说，这个法案的本意是保护那些“跨性别的青年和家庭”免受歧视。但在某些华… https://twitter.com/i/web/status/1637672806799507456 https://t.co/2JTeRQ9mCK<br><br><img style="" src="https://pbs.twimg.com/media/FrorHhMaQAE1o07?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrosNYDaUAEeB-Y?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrouZt6akAAVdwc?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
-### 21: [2023-03-21 03:14:24+08:00 推文](https://twitter.com/HeQinglian/status/1637895384541417472)
+### 22: [2023-03-21 03:14:24+08:00 推文](https://twitter.com/HeQinglian/status/1637895384541417472)
 
 Re @JianglinLi 我花了四个月时间，已经将这个我最有恶心感的性多元化运动-变性-废除一男一女组成的传统家庭（用群婚取代）的来龙去脉全部理清楚了，两章内容共150多条注解，全是英文的。<br>我现在只是不能再在推上多泡了，时间太紧。
 
