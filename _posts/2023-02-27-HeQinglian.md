@@ -33,7 +33,7 @@ Re @uo7ZC09z6QEAOfd @shenliangqing2 基本如此。更大的问题是他们不�
 
 ### 5: [2023-02-27 02:42:32+08:00 推文](https://twitter.com/HeQinglian/status/1629914829090635781)
 
-最新Rasmussen Reports ，46% 的受访者认为乌战基本处于僵持状态，高于 12 月的 38%。19% 的受访者认为俄罗斯正在赢得乌战, 21%认为乌克兰获胜，低于 12 月份的 32%。有 14% 的人不确定谁赢。https://www.rasmussenreports.com/public_content/politics/biden_administration/ukraine_46_see_war_as_stalemate_after_a_year<br>经济学人这篇文章的结论太迟了。事实上多极世界已现雏形——一鲸落，万物生。 https://twitter.com/KELMAND1/status/1629727091796357126<div class="rsshub-quote"><br><br>Ezio Mao☢: 《经济学人》：乌克兰的命运将成为西方在国际体系中地缘政治地位和影响力的重要决定因素。<br><br>冲突的结果在这件事上将是决定性的—如果基辅输了，那么西方对世界政治影响力的削弱将变得显而易见。在美国及其仆从国在中东遭遇失败之后，许多人开始怀疑西方的力量。 https://t.co/ccK0JAFV47<br><br><img style="" src="https://pbs.twimg.com/media/Fp3yp6XaYAE7GoK?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
+最新Rasmussen Reports ，46% 的受访者认为乌战基本处于僵持状态，高于 12 月的 38%。19% 的受访者认为俄罗斯正在赢得乌战, 21%认为乌克兰获胜，低于 12 月份的 32%。有 14% 的人不确定谁赢。https://www.rasmussenreports.com/public_content/politics/biden_administration/ukraine_46_see_war_as_stalemate_after_a_year<br>经济学人这篇文章的结论太迟了。事实上多极世界已现雏形——一鲸落，万物生。<div class="rsshub-quote"><br><br>Ezio Mao☢: 《经济学人》：乌克兰的命运将成为西方在国际体系中地缘政治地位和影响力的重要决定因素。<br><br>冲突的结果在这件事上将是决定性的—如果基辅输了，那么西方对世界政治影响力的削弱将变得显而易见。在美国及其仆从国在中东遭遇失败之后，许多人开始怀疑西方的力量。 https://t.co/ccK0JAFV47<br><br><img style="" src="https://pbs.twimg.com/media/Fp3yp6XaYAE7GoK?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 6: [2023-02-27 22:19:01+08:00 推文](https://twitter.com/HeQinglian/status/1630210900849246209)
 
@@ -77,7 +77,7 @@ Re @qihang19211 我未使用中国居民负债金额这个概念。<br>文中说
 
 ### 16: [2023-02-28 05:28:48+08:00 推文](https://twitter.com/HeQinglian/status/1630319059936899072)
 
-一战爆发后，列宁写了数篇文章，《革命的社会民主党在欧洲大战中的任务》（即“关于战争的提纲”），并以此为基础写了《战争和俄国社会民主党》。这两篇文献确定了这场战争的性质：资产阶级、帝国主义、王朝战争的性质，是非正义的。列宁提出“变帝国主义战争为国内战争”的口号，反沙俄的内战是正义的。<div class="rsshub-quote"><br><br>He Qinglian: @zhuxiuyuan 你独独忘记了《明斯克协议》，现在默克尔都承认当初签订时并未打算遵守，只是希望赢得时间壮大乌克兰的军事实力。<br>建议你学学美国智库的地缘政治理论，从布热津斯基开始，否则这辈子都只会列宁的战争正义-非正义论。<br></div>
+一战爆发后，列宁写了数篇文章，《革命的社会民主党在欧洲大战中的任务》（即“关于战争的提纲”），并以此为基础写了《战争和俄国社会民主党》。这两篇文献确定了这场战争的性质：资产阶级、帝国主义、王朝战争的性质，是非正义的。列宁提出“变帝国主义战争为国内战争”的口号，反沙俄的内战是正义的。 https://twitter.com/HeQinglian/status/1630225930181328896<div class="rsshub-quote"><br><br>He Qinglian: @zhuxiuyuan 你独独忘记了《明斯克协议》，现在默克尔都承认当初签订时并未打算遵守，只是希望赢得时间壮大乌克兰的军事实力。<br>建议你学学美国智库的地缘政治理论，从布热津斯基开始，否则这辈子都只会列宁的战争正义-非正义论。<br></div>
 
 ### 17: [2023-02-28 05:32:44+08:00 推文](https://twitter.com/HeQinglian/status/1630320048488214529)
 
@@ -361,7 +361,7 @@ Re @dinglili7 BLM会很不高兴。
 
 ### 87: [2023-03-02 01:45:23+08:00 推文](https://twitter.com/HeQinglian/status/1630987612650450947)
 
-全球经济-政治版图之变：中美关系是杠杆<br>https://www.rfa.org/mandarin/pinglun/heqinglian/hql-03012023111612.html<br>中国2022年获得的8776亿美元顺差，8019亿来自于欧美。从2023年影响中美关系的六大变量来看，美国仍居于优势地位，能否发挥优势，一取决于美国国内经济政治状态，二取决于他国在新的多极世界中追随谁；三取决于美国的外交手段是否高明。
+RT He Qinglian<br>全球经济-政治版图之变：中美关系是杠杆<br>https://www.rfa.org/mandarin/pinglun/heqinglian/hql-03012023111612.html<br>中国2022年获得的8776亿美元顺差，8019亿来自于欧美。从2023年影响中美关系的六大变量来看，美国仍居于优势地位，能否发挥优势，一取决于美国国内经济政治状态，二取决于他国在新的多极世界中追随谁；三取决于美国的外交手段是否高明。
 
 ### 88: [2023-03-02 01:52:16+08:00 推文](https://twitter.com/HeQinglian/status/1630989342985338880)
 
@@ -657,7 +657,7 @@ Re @shenliangqing2 你就当成真旅游好了。
 
 ### 161: [2023-03-04 22:16:31+08:00 推文](https://twitter.com/HeQinglian/status/1632022212801712129)
 
-去年4月，我写文章引用CATO：无效、不道德、政治便利：美国对经济制裁的过度依赖以及如何应对<br>https://www.cato.org/policy-analysis/ineffective-immoral-politically-convenient-americas-overreliance-economic-sanctions<br>作者在研究过美国制裁两打以上国家的样本后，总结说：“最好的研究表明，制裁不仅会造成巨大的经济损失并最终造成生命损失，而且即使按照政策制定者设定的标准，制裁也会失败。” https://twitter.com/KELMAND1/status/1632015096011685889<div class="rsshub-quote"><br><br>Ezio Mao☢: 彭博社：俄罗斯成功绕过欧盟和 G7 制裁，购买制造武器所需的微芯片<br><br>该机构表示，俄罗斯在该电子领域的进口已基本恢复到 2020 年的水平。先进的芯片是通过土耳其、阿拉伯联合酋长国和哈萨克斯坦采购的。<br><br>这还只是官方白手套，世界上还有一种东西叫黑市……通过禁运就想让人买不到这是幼稚的想法😂 https://t.co/WmSGnsG1Dk<br><br><img style="" src="https://pbs.twimg.com/media/FqYVFDpaAAAY8Co?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+去年4月，我写文章引用CATO：无效、不道德、政治便利：美国对经济制裁的过度依赖以及如何应对<br>https://www.cato.org/policy-analysis/ineffective-immoral-politically-convenient-americas-overreliance-economic-sanctions<br>作者在研究过美国制裁两打以上国家的样本后，总结说：“最好的研究表明，制裁不仅会造成巨大的经济损失并最终造成生命损失，而且即使按照政策制定者设定的标准，制裁也会失败。”<div class="rsshub-quote"><br><br>Ezio Mao☢: 彭博社：俄罗斯成功绕过欧盟和 G7 制裁，购买制造武器所需的微芯片<br><br>该机构表示，俄罗斯在该电子领域的进口已基本恢复到 2020 年的水平。先进的芯片是通过土耳其、阿拉伯联合酋长国和哈萨克斯坦采购的。<br><br>这还只是官方白手套，世界上还有一种东西叫黑市……通过禁运就想让人买不到这是幼稚的想法😂 https://t.co/WmSGnsG1Dk<br><br><img style="" src="https://pbs.twimg.com/media/FqYVFDpaAAAY8Co?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 162: [2023-03-04 22:22:36+08:00 推文](https://twitter.com/HeQinglian/status/1632023742564933640)
 

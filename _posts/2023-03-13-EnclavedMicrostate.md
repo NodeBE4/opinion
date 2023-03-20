@@ -115,3 +115,7 @@ Your mention of it made me go and check, and for some reason the creator of the 
 
 That would explain a lot.
 
+----- __1147.3__ -----2023-03-20 11:31:42+08:00:
+
+Might also post this as a non-drama comment, but this weekend saw Hololive's 4th Fes and Expo happen, which was very fun as last year, helped immensely by the fact that Japan no longer bans cheering at concerts and so for those of us viewing on stream, we finally had some audience reactions. I couldn't catch most of Day 1's concert live and haven't got round to the VOD yet, but I watched Day 2 (which in any event had most of the members I wanted to watch) and I had a really good time of it!
+
