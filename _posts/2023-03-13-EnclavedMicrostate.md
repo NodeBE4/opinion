@@ -119,3 +119,9 @@ That would explain a lot.
 
 Might also post this as a non-drama comment, but this weekend saw Hololive's 4th Fes and Expo happen, which was very fun as last year, helped immensely by the fact that Japan no longer bans cheering at concerts and so for those of us viewing on stream, we finally had some audience reactions. I couldn't catch most of Day 1's concert live and haven't got round to the VOD yet, but I watched Day 2 (which in any event had most of the members I wanted to watch) and I had a really good time of it!
 
+----- __1147.4__ -----2023-03-20 19:34:24+08:00:
+
+Yeah, for a good while audience vocalising at concerts was banned to limit COVID transmission. There's quite a fun case of that in action [described in this writeup](https://www.reddit.com/r/HobbyDrama/comments/z8cx1u/japanese_idols_the_evolution_of_romantic_ukare/).
+
+Elaborating a little internally, Hololive's case, there'd already been some rulebreaking back in August when Mori Calliope did her first live concert and the 'no cheering' rule kinda went out the window by the last third or so; the ban was officially lifted by the time Suisei did her second concert back in late January, and the audience energy was *really* strong there, even on the stream.
+
