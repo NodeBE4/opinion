@@ -17,11 +17,11 @@ title: 'Twitter @蔡霞: 2023-03-20~2023-03-26'
 
 ### 1: [2023-03-20 03:23:04+08:00 推文](https://twitter.com/realcaixia/status/1637535174052446208)
 
-高瑜大姐多多保重。杜光老先生唱“茶馆小调”我也在场，印象很深。我是后知后觉，我当时只理解q歌词的字面意思。<br>现在想来鲍彤、杜光、蒋彦永等老一代，1940年代是他们青春岁月，他们反抗蒋国民党政府禁言；到了耄耋之年，他们反抗习与中共禁言，老先生唱这歌，实质是总结了他们的一生。令人感慨万千！ https://twitter.com/gaoyu200812/status/1637381346401349638<div class="rsshub-quote"><br><br>高瑜: 2022年張思之、蔣宗曹、鮑彤三位先生相繼去世，我都被站崗，都被阻止參加告別式，禁止送花圈。送別鮑老那天，國保竟然來了十個人，還從派出所叫來十個片警，揚言要拘捕我兒子，讓我再一次嘗試專政鐵拳。今年兩會被旅遊中，蔣彥永、杜光先生又相繼去世，我更被禁言，我的痛苦像再一次經歷了六四，那年 https://t.co/sbzNfWuIA5<br><br><img style="" src="https://pbs.twimg.com/media/FrkUWYuaUAAWjYp?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrkVO_zaEAA4PPL?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrkXT2waYAcvzw7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+高瑜大姐多多保重。杜光老先生唱“茶馆小调”我也在场，印象很深。我是后知后觉，我当时只理解q歌词的字面意思。<br>现在想来鲍彤、杜光、蒋彦永等老一代，1940年代是他们青春岁月，他们反抗蒋国民党政府禁言；到了耄耋之年，他们反抗习与中共禁言，老先生唱这歌，实质是总结了他们的一生。令人感慨万千！<div class="rsshub-quote"><br><br>高瑜: 2022年張思之、蔣宗曹、鮑彤三位先生相繼去世，我都被站崗，都被阻止參加告別式，禁止送花圈。送別鮑老那天，國保竟然來了十個人，還從派出所叫來十個片警，揚言要拘捕我兒子，讓我再一次嘗試專政鐵拳。今年兩會被旅遊中，蔣彥永、杜光先生又相繼去世，我更被禁言，我的痛苦像再一次經歷了六四，那年 https://t.co/sbzNfWuIA5<br><br><img style="" src="https://pbs.twimg.com/media/FrkUWYuaUAAWjYp?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrkVO_zaEAA4PPL?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrkXT2waYAcvzw7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 2: [2023-03-20 04:37:09+08:00 推文](https://twitter.com/realcaixia/status/1637553819340120065)
 
-中共在1949以后的统治模式不脱4个字:专制掠夺。“掠夺”私人财产，一直没停止过。<br>王先生⬇️文章揭露中共对环境资源的“掠夺”式开采带来的恶果：破坏自然环境，不仅危害中国人而且将危害全球人类未来的生存。<br>中共掠夺式的开采利用资源，已经使中国空气、水、土地、食品严重污染，癌症发病率死亡率高于全球<div class="rsshub-quote"><br><br>《议报》: 王维洛 | 西藏高原生态环境恶化加剧 https://yibaochina.com/?p=249761 未来中国冰川面积的减少，将是一个持续加速的过程。西藏流亡政府在2015年在巴黎气候大会之前，提出的到2050年西藏三分之二的冰川可能因气候变迁而消失的预测，将会提前出现。那是习近平的第二个一百年，山河破碎的第二个一百年。<br></div>
+中共在1949以后的统治模式不脱4个字:专制掠夺。“掠夺”私人财产，一直没停止过。<br>王先生⬇️文章揭露中共对环境资源的“掠夺”式开采带来的恶果：破坏自然环境，不仅危害中国人而且将危害全球人类未来的生存。<br>中共掠夺式的开采利用资源，已经使中国空气、水、土地、食品严重污染，癌症发病率死亡率高于全球 https://twitter.com/yibaochina/status/1636474477088317446<div class="rsshub-quote"><br><br>《议报》: 王维洛 | 西藏高原生态环境恶化加剧 https://yibaochina.com/?p=249761 未来中国冰川面积的减少，将是一个持续加速的过程。西藏流亡政府在2015年在巴黎气候大会之前，提出的到2050年西藏三分之二的冰川可能因气候变迁而消失的预测，将会提前出现。那是习近平的第二个一百年，山河破碎的第二个一百年。<br></div>
 
 ### 3: [2023-03-20 04:55:24+08:00 推文](https://twitter.com/realcaixia/status/1637558411717144577)
 
