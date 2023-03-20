@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2023-03-20~2023-03-26'
 
 ### 2: [2023-03-20 04:37:09+08:00 推文](https://twitter.com/realcaixia/status/1637553819340120065)
 
-中共在1949以后的统治模式不脱4个字:专制掠夺。“掠夺”私人财产，一直没停止过。<br>王先生⬇️文章揭露中共对环境资源的“掠夺”式开采带来的恶果：破坏自然环境，不仅危害中国人而且将危害全球人类未来的生存。<br>中共掠夺式的开采利用资源，已经使中国空气、水、土地、食品严重污染，癌症发病率死亡率高于全球 https://twitter.com/yibaochina/status/1636474477088317446<div class="rsshub-quote"><br><br>《议报》: 王维洛 | 西藏高原生态环境恶化加剧 https://yibaochina.com/?p=249761 未来中国冰川面积的减少，将是一个持续加速的过程。西藏流亡政府在2015年在巴黎气候大会之前，提出的到2050年西藏三分之二的冰川可能因气候变迁而消失的预测，将会提前出现。那是习近平的第二个一百年，山河破碎的第二个一百年。<br></div>
+中共在1949以后的统治模式不脱4个字:专制掠夺。“掠夺”私人财产，一直没停止过。<br>王先生⬇️文章揭露中共对环境资源的“掠夺”式开采带来的恶果：破坏自然环境，不仅危害中国人而且将危害全球人类未来的生存。<br>中共掠夺式的开采利用资源，已经使中国空气、水、土地、食品严重污染，癌症发病率死亡率高于全球<div class="rsshub-quote"><br><br>《议报》: 王维洛 | 西藏高原生态环境恶化加剧 https://yibaochina.com/?p=249761 未来中国冰川面积的减少，将是一个持续加速的过程。西藏流亡政府在2015年在巴黎气候大会之前，提出的到2050年西藏三分之二的冰川可能因气候变迁而消失的预测，将会提前出现。那是习近平的第二个一百年，山河破碎的第二个一百年。<br></div>
 
 ### 3: [2023-03-20 04:55:24+08:00 推文](https://twitter.com/realcaixia/status/1637558411717144577)
 
@@ -33,13 +33,21 @@ Re 举中国2020年癌症发病数和死亡数为证：中国新发癌症人数�
 
 ### 5: [2023-03-20 05:21:59+08:00 推文](https://twitter.com/realcaixia/status/1637565100554059776)
 
-说得好！“吃着乌克兰人用生命换来的粮食，不存感念反而支持普京侵略乌克兰，良心何在？”<div class="rsshub-quote"><br><br>ZHANGDONG: 这是联合国组织今年一月发布的乌克兰粮食出口数据。从图表中可见中国是乌克兰农粮作物第二大进口国。大陆挺俄反乌的中国人请扪心自问，你们吃着乌克兰人用生命换来的粮食，不存感念反而支持普京侵略乌克兰，良心何在？中国欠乌克兰一个公道！中国政府必须立即停止支持普京战犯！顺应世界潮流者得人心。 https://t.co/giHhuaNh6G<br><br><img style="" src="https://pbs.twimg.com/media/FrlaH-HXwAERSCZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+说得好！“吃着乌克兰人用生命换来的粮食，不存感念反而支持普京侵略乌克兰，良心何在？” https://twitter.com/zhangdong_sch/status/1637439035873406976<div class="rsshub-quote"><br><br>ZHANGDONG: 这是联合国组织今年一月发布的乌克兰粮食出口数据。从图表中可见中国是乌克兰农粮作物第二大进口国。大陆挺俄反乌的中国人请扪心自问，你们吃着乌克兰人用生命换来的粮食，不存感念反而支持普京侵略乌克兰，良心何在？中国欠乌克兰一个公道！中国政府必须立即停止支持普京战犯！顺应世界潮流者得人心。 https://t.co/giHhuaNh6G<br><br><img style="" src="https://pbs.twimg.com/media/FrlaH-HXwAERSCZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 6: [2023-03-20 05:35:39+08:00 推文](https://twitter.com/realcaixia/status/1637568542647390208)
 
-说得好！中共国所有问题的根源都在于政治，在于中共党，在于这党统治国家的制度和党内的权力结构与组织机制。习上台后，这些问题不仅没有解决还加上一条：党魁独裁，无法无天无底线。<div class="rsshub-quote"><br><br>荣剑: 稍有常识的人，都看出大国问题的实质:消费不振，投资不力，信心不足，预期不好，究其终极原因，都是政治问题。中国经济学，不是政治经济学，其实就是政治学，只有政治，没有经济。 https://t.co/TcDQD4D1ji<br><br><img style="" src="https://pbs.twimg.com/media/Fri3zP3XgAAzdMq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fri30NqXwAIMQbg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+说得好！中共国所有问题的根源都在于政治，在于中共党，在于这党统治国家的制度和党内的权力结构与组织机制。习上台后，这些问题不仅没有解决还加上一条：党魁独裁，无法无天无底线。 https://twitter.com/rongjian1957/status/1637260587792052226<div class="rsshub-quote"><br><br>荣剑: 稍有常识的人，都看出大国问题的实质:消费不振，投资不力，信心不足，预期不好，究其终极原因，都是政治问题。中国经济学，不是政治经济学，其实就是政治学，只有政治，没有经济。 https://t.co/TcDQD4D1ji<br><br><img style="" src="https://pbs.twimg.com/media/Fri3zP3XgAAzdMq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fri30NqXwAIMQbg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 7: [2023-03-20 06:13:42+08:00 推文](https://twitter.com/realcaixia/status/1637578118721576962)
 
-确有其事，按中共党内习惯说法就是：选举出了问题”或“出了事故”，后来就改成声、市、县委书记兼任人大常委会主任，直接控制选举。 https://twitter.com/22homopoliticus/status/1637381324087369728<div class="rsshub-quote"><br><br>Ignatius Lee 🚁🌋☭⃠: 一九九三年，中国浙江和贵州两省意外出现了“民选省长”意外当选的 #选举事故。当时中国名义上推行差额选举：由中组部提名指定候选人，搭配一名“陪跑”候选人；按惯例“陪跑”候选人是不可以当选的。但在这两起 #民主事故 中，两名“陪跑省长”意外当选，令中央大为不快，此后“差额选举”就被视为洪水猛兽。<br></div>
+确有其事，按中共党内习惯说法就是：选举出了问题”或“出了事故”，后来就改成声、市、县委书记兼任人大常委会主任，直接控制选举。<div class="rsshub-quote"><br><br>Ignatius Lee 🚁🌋☭⃠: 一九九三年，中国浙江和贵州两省意外出现了“民选省长”意外当选的 #选举事故。当时中国名义上推行差额选举：由中组部提名指定候选人，搭配一名“陪跑”候选人；按惯例“陪跑”候选人是不可以当选的。但在这两起 #民主事故 中，两名“陪跑省长”意外当选，令中央大为不快，此后“差额选举”就被视为洪水猛兽。<br></div>
+
+### 8: [2023-03-20 15:46:23+08:00 推文](https://twitter.com/realcaixia/status/1637722239041667073)
+
+请读⬇️面文章。文章指出1949年以来，中共国上下没有人真正尊重科学。没有独立思想 自由精神是不可能有原始性发明创造的，只有靠偷窃和仿照搞弯道超车。 https://yibaochina.com/?p=249797
+
+### 9: [2023-03-20 16:00:50+08:00 推文](https://twitter.com/realcaixia/status/1637725872466583553)
+
+莫言写得好！ https://twitter.com/truthmedia_2/status/1625248357399810048<div class="rsshub-quote"><br><br>真相傳媒備用號: 莫言在他的新书《晚熟的人》写道：本性善良的人都晚熟，他们是被劣人催熟的。当别人聪明伶俐时，他们又傻又呆。当别人权衡利弊时，他们一片真诚。当别人心机用尽时，他们灵魂开窍。虽然开窍了，但内心还是会保持善良和赤诚，他们不断寻找同类，最后却变成了最孤独那一个…… https://t.co/slWYfUdOt3<br><br><video src="https://video.twimg.com/ext_tw_video/1625248261140512768/pu/vid/640x360/0YkOOKGG4a4V4Z7c.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1625248261140512768/pu/img/m7wBhXw_pvL5A_aW.jpg"></video></div>
 
