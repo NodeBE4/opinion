@@ -23,7 +23,7 @@ In the face of potentially offering weapons to Russia and worsening human rights
 
 ### 2: [2023-02-23 03:19:18+08:00 推文](https://twitter.com/nathanlawkc/status/1628474529407291392)
 
-1/Myanmar’s resistance against military dictatorship has been two years, and still continuing.<br>As of Jan 30, 2023, the military had killed 2,901, arrested 17,492 (282 children), and 13,719 remained in detention, according to Assistance Association for Political Prisoners (Burma). https://t.co/lFqOyM46f5<br><img style="" src="https://pbs.twimg.com/media/Fpl_3PhXoAY4oxE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+1/Myanmar’s resistance against military dictatorship has been two years, and still continuing.<br>As of Jan 30, 2023, the military had killed 2,901, arrested 17,492 (282 children), and 13,719 remained in detention, according to Assistance Association for Political Prisoners (Burma).<br><img style="" src="https://pbs.twimg.com/media/Fpl_3PhXoAY4oxE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2023-02-23 03:19:19+08:00 推文](https://twitter.com/nathanlawkc/status/1628474535421812738)
 
@@ -31,7 +31,7 @@ Re 3/ According to ISP-Myanmar, at least 38,568 houses and buildings have been b
 
 ### 4: [2023-02-23 03:19:20+08:00 推文](https://twitter.com/nathanlawkc/status/1628474537842036738)
 
-Re 4/ Two years of conflict has destroyed the country. Rising prices, and other hardship have created a serious humanitarian crisis. They need help.<br>We should continue to follow &amp; support the people of Myanmar, and their fight against military dictatorship.<br>#WhatsHappeninglnMyanmar<br><img style="" src="https://pbs.twimg.com/media/FpmAvLvXwAABvdz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re 4/ Two years of conflict has destroyed the country. Rising prices, and other hardship have created a serious humanitarian crisis. They need help.<br>We should continue to follow &amp; support the people of Myanmar, and their fight against military dictatorship.<br>#WhatsHappeninglnMyanmar https://t.co/9Kxj9p5kUA<br><img style="" src="https://pbs.twimg.com/media/FpmAvLvXwAABvdz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2023-02-24 08:23:37+08:00 推文](https://twitter.com/nathanlawkc/status/1628913502206275584)
 

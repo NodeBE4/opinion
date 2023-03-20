@@ -125,3 +125,7 @@ Yeah, for a good while audience vocalising at concerts was banned to limit COVID
 
 Elaborating a little internally, Hololive's case, there'd already been some rulebreaking back in August when Mori Calliope did her first live concert and the 'no cheering' rule kinda went out the window by the last third or so; the ban was officially lifted by the time Suisei did her second concert back in late January, and the audience energy was *really* strong there, even on the stream.
 
+----- __1147.5__ -----2023-03-20 21:33:10+08:00:
+
+Oh right sorry for the confusion – yeah it was a temporary COVID thing, not a longstanding practice.
+
