@@ -19,3 +19,7 @@ title: EnclavedMicrostate在2023-03-20~2023-03-26的言论
 
 I'm sceptical that Pekora is less well known than Fubuki at this point.
 
+----- __1148.2__ -----2023-03-20 13:54:12+08:00:
+
+A meta phor what?
+
