@@ -29,15 +29,15 @@ Re 举中国2020年癌症发病数和死亡数为证：中国新发癌症人数�
 
 ### 4: [2023-03-20 05:10:08+08:00 推文](https://twitter.com/realcaixia/status/1637562118663999488)
 
-真是开心一刻！😄！👍！<div class="rsshub-quote"><br><br>墻國荒誕字（墙国荒诞字）: 《憤怒的皇帝》系列搞笑劇:<br>第24集: 《進退兩難》<br>皇帝即將訪問俄羅斯，海牙國際刑事法庭突發普京逮捕令，讓皇帝措手不及，進退兩難… https://t.co/S5loYnc2iu<br><br><video src="https://video.twimg.com/ext_tw_video/1637491218421624832/pu/vid/1280x720/5b3vTTBC5ec08GrT.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1637491218421624832/pu/img/TsAI6sWtcCnFK8r9.jpg"></video></div>
+真是开心一刻！😄！👍！ https://twitter.com/xingzhe2021/status/1637491595405557764<div class="rsshub-quote"><br><br>墻國荒誕字（墙国荒诞字）: 《憤怒的皇帝》系列搞笑劇:<br>第24集: 《進退兩難》<br>皇帝即將訪問俄羅斯，海牙國際刑事法庭突發普京逮捕令，讓皇帝措手不及，進退兩難… https://t.co/S5loYnc2iu<br><br><video src="https://video.twimg.com/ext_tw_video/1637491218421624832/pu/vid/1280x720/5b3vTTBC5ec08GrT.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1637491218421624832/pu/img/TsAI6sWtcCnFK8r9.jpg"></video></div>
 
 ### 5: [2023-03-20 05:21:59+08:00 推文](https://twitter.com/realcaixia/status/1637565100554059776)
 
-说得好！“吃着乌克兰人用生命换来的粮食，不存感念反而支持普京侵略乌克兰，良心何在？”<div class="rsshub-quote"><br><br>ZHANGDONG: 这是联合国组织今年一月发布的乌克兰粮食出口数据。从图表中可见中国是乌克兰农粮作物第二大进口国。大陆挺俄反乌的中国人请扪心自问，你们吃着乌克兰人用生命换来的粮食，不存感念反而支持普京侵略乌克兰，良心何在？中国欠乌克兰一个公道！中国政府必须立即停止支持普京战犯！顺应世界潮流者得人心。 https://t.co/giHhuaNh6G<br><br><img style="" src="https://pbs.twimg.com/media/FrlaH-HXwAERSCZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+说得好！“吃着乌克兰人用生命换来的粮食，不存感念反而支持普京侵略乌克兰，良心何在？” https://twitter.com/zhangdong_sch/status/1637439035873406976<div class="rsshub-quote"><br><br>ZHANGDONG: 这是联合国组织今年一月发布的乌克兰粮食出口数据。从图表中可见中国是乌克兰农粮作物第二大进口国。大陆挺俄反乌的中国人请扪心自问，你们吃着乌克兰人用生命换来的粮食，不存感念反而支持普京侵略乌克兰，良心何在？中国欠乌克兰一个公道！中国政府必须立即停止支持普京战犯！顺应世界潮流者得人心。 https://t.co/giHhuaNh6G<br><br><img style="" src="https://pbs.twimg.com/media/FrlaH-HXwAERSCZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 6: [2023-03-20 05:35:39+08:00 推文](https://twitter.com/realcaixia/status/1637568542647390208)
 
-说得好！中共国所有问题的根源都在于政治，在于中共党，在于这党统治国家的制度和党内的权力结构与组织机制。习上台后，这些问题不仅没有解决还加上一条：党魁独裁，无法无天无底线。<div class="rsshub-quote"><br><br>荣剑: 稍有常识的人，都看出大国问题的实质:消费不振，投资不力，信心不足，预期不好，究其终极原因，都是政治问题。中国经济学，不是政治经济学，其实就是政治学，只有政治，没有经济。 https://t.co/TcDQD4D1ji<br><br><img style="" src="https://pbs.twimg.com/media/Fri3zP3XgAAzdMq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fri30NqXwAIMQbg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+说得好！中共国所有问题的根源都在于政治，在于中共党，在于这党统治国家的制度和党内的权力结构与组织机制。习上台后，这些问题不仅没有解决还加上一条：党魁独裁，无法无天无底线。 https://twitter.com/rongjian1957/status/1637260587792052226<div class="rsshub-quote"><br><br>荣剑: 稍有常识的人，都看出大国问题的实质:消费不振，投资不力，信心不足，预期不好，究其终极原因，都是政治问题。中国经济学，不是政治经济学，其实就是政治学，只有政治，没有经济。 https://t.co/TcDQD4D1ji<br><br><img style="" src="https://pbs.twimg.com/media/Fri3zP3XgAAzdMq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fri30NqXwAIMQbg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 7: [2023-03-20 06:13:42+08:00 推文](https://twitter.com/realcaixia/status/1637578118721576962)
 
@@ -49,5 +49,5 @@ Re 举中国2020年癌症发病数和死亡数为证：中国新发癌症人数�
 
 ### 9: [2023-03-20 16:00:50+08:00 推文](https://twitter.com/realcaixia/status/1637725872466583553)
 
-莫言写得好！<div class="rsshub-quote"><br><br>真相傳媒備用號: 莫言在他的新书《晚熟的人》写道：本性善良的人都晚熟，他们是被劣人催熟的。当别人聪明伶俐时，他们又傻又呆。当别人权衡利弊时，他们一片真诚。当别人心机用尽时，他们灵魂开窍。虽然开窍了，但内心还是会保持善良和赤诚，他们不断寻找同类，最后却变成了最孤独那一个…… https://t.co/slWYfUdOt3<br><br><video src="https://video.twimg.com/ext_tw_video/1625248261140512768/pu/vid/640x360/0YkOOKGG4a4V4Z7c.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1625248261140512768/pu/img/m7wBhXw_pvL5A_aW.jpg"></video></div>
+莫言写得好！ https://twitter.com/truthmedia_2/status/1625248357399810048<div class="rsshub-quote"><br><br>真相傳媒備用號: 莫言在他的新书《晚熟的人》写道：本性善良的人都晚熟，他们是被劣人催熟的。当别人聪明伶俐时，他们又傻又呆。当别人权衡利弊时，他们一片真诚。当别人心机用尽时，他们灵魂开窍。虽然开窍了，但内心还是会保持善良和赤诚，他们不断寻找同类，最后却变成了最孤独那一个…… https://t.co/slWYfUdOt3<br><br><video src="https://video.twimg.com/ext_tw_video/1625248261140512768/pu/vid/640x360/0YkOOKGG4a4V4Z7c.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1625248261140512768/pu/img/m7wBhXw_pvL5A_aW.jpg"></video></div>
 

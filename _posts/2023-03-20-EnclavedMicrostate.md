@@ -23,3 +23,5 @@ I'm sceptical that Pekora is less well known than Fubuki at this point.
 
 A meta phor what?
 
+EDIT: Not a lot of Garth Marenghi fans here, I take it...
+

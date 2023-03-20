@@ -121,7 +121,7 @@ Might also post this as a non-drama comment, but this weekend saw Hololive's 4th
 
 ----- __1147.4__ -----2023-03-20 19:34:24+08:00:
 
-Yeah, for a good while audience vocalising at concerts was banned to limit COVID transmission. There's quite a fun case of that in action [described in this writeup](https://www.reddit.com/r/HobbyDrama/comments/z8cx1u/japanese_idols_the_evolution_of_romantic_ukare/).
+Yeah, for a good while audience vocalising at concerts was banned to limit COVID transmission. There's quite a fun case of that in action, and creative circumvention thereof, [described in this writeup](https://www.reddit.com/r/HobbyDrama/comments/z8cx1u/japanese_idols_the_evolution_of_romantic_ukare/).
 
 Elaborating a little internally, Hololive's case, there'd already been some rulebreaking back in August when Mori Calliope did her first live concert and the 'no cheering' rule kinda went out the window by the last third or so; the ban was officially lifted by the time Suisei did her second concert back in late January, and the audience energy was *really* strong there, even on the stream.
 
