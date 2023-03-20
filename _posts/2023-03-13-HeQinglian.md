@@ -17,7 +17,7 @@ title: 'Twitter @He Qinglian: 2023-03-13~2023-03-19'
 
 ### 1: [2023-03-13 01:31:00+08:00 推文](https://twitter.com/HeQinglian/status/1634970256207929346)
 
-英国法律史学家梅因最著名的一段话：<br>“迄今为止，人类历史上所有的进步（不是美国现在这“进步”），就是从身份到契约的转变”。<br>契约思想是西方文化的根基：<br>圣经：上帝与人立约；<br>民主政治：宪政法治就是契约政治的体现。选举政治就是人民委托治理政治，契约就是履行竞选承诺；<br>市场经济：信用基于契约 https://twitter.com/Wu_Zhi/status/1634942635956903937<div class="rsshub-quote"><br><br>zhix: @HeQinglian @JianglinLi 身份政治理论，其逻辑推理的结果最终就会导致种族隔离，现在在实践上还应验了。因此，身份政治理论是垃圾思想，逻辑上的种种矛盾，将会对现实的人类社会造成极大危害，对人类文明来说有害无益。<br></div>
+英国法律史学家梅因最著名的一段话：<br>“迄今为止，人类历史上所有的进步（不是美国现在这“进步”），就是从身份到契约的转变”。<br>契约思想是西方文化的根基：<br>圣经：上帝与人立约；<br>民主政治：宪政法治就是契约政治的体现。选举政治就是人民委托治理政治，契约就是履行竞选承诺；<br>市场经济：信用基于契约<div class="rsshub-quote"><br><br>zhix: @HeQinglian @JianglinLi 身份政治理论，其逻辑推理的结果最终就会导致种族隔离，现在在实践上还应验了。因此，身份政治理论是垃圾思想，逻辑上的种种矛盾，将会对现实的人类社会造成极大危害，对人类文明来说有害无益。<br></div>
 
 ### 2: [2023-03-13 01:34:20+08:00 推文](https://twitter.com/HeQinglian/status/1634971098956824577)
 
@@ -29,7 +29,7 @@ Re @_HicRhodus 所有人佩服奥巴马以前的美国宪政文明，是佩服�
 
 ### 4: [2023-03-13 03:38:35+08:00 推文](https://twitter.com/HeQinglian/status/1635002366494908418)
 
-留言中有位“老枪”，非得将挺川与挺拜当作挺个人，这种见识太差劲了。<br>其实就我而言，是支持川普的政治主张与相关政策，以及这种主张与政策对传统生活方式的守护。挺拜的人也同样如此，是支持拜登政治主张与政策对美国传统生活方式的颠覆。<br>我相信多数挺川的都如此。 https://twitter.com/HeQinglian/status/1634910100367511558<div class="rsshub-quote"><br><br>He Qinglian: 今天看到华拜粉在某处留言，说学问大挺川，说明学问让人糊涂。<br>在媒体一片声黑化川普及其政策时，挺川不仅需要起码的知识与常识，还需要思考。不比挺拜与民主党，只需要认同移民无国界与福利，学几句人道口号，会举拳头就行了。<br></div>
+留言中有位“老枪”，非得将挺川与挺拜当作挺个人，这种见识太差劲了。<br>其实就我而言，是支持川普的政治主张与相关政策，以及这种主张与政策对传统生活方式的守护。挺拜的人也同样如此，是支持拜登政治主张与政策对美国传统生活方式的颠覆。<br>我相信多数挺川的都如此。<div class="rsshub-quote"><br><br>He Qinglian: 今天看到华拜粉在某处留言，说学问大挺川，说明学问让人糊涂。<br>在媒体一片声黑化川普及其政策时，挺川不仅需要起码的知识与常识，还需要思考。不比挺拜与民主党，只需要认同移民无国界与福利，学几句人道口号，会举拳头就行了。<br></div>
 
 ### 5: [2023-03-13 03:44:13+08:00 推文](https://twitter.com/HeQinglian/status/1635003784526196739)
 
@@ -77,7 +77,7 @@ Re @mingshi_chen 这些人与当初那个歌星杰克逊一样，恨自己是黑
 
 ### 16: [2023-03-13 07:55:31+08:00 推文](https://twitter.com/HeQinglian/status/1635067025419825152)
 
-任何人都解决不了。<br>左右均占40%，其中极左28%。决定美国命运的是中间那20%的人，病久了，任何保守派当政，都只能慢慢来，第一任期稳住大盘，发展经济，在州层面扼制极左的胡闹；争取第二任期，再办其中部分事情。 https://twitter.com/wto518/status/1635006257378607111<div class="rsshub-quote"><br><br>麻辣空间: 问几个川普2024的常规问题<br>1、他能解决黑命贵吗？<br>2、他能解决安提法吗？<br>3、他能解决华盛顿罪恶政权吗？<br>4、他能解决变态彩旗吗？<br>5、他能解决FBI和CIA吗？<br>6、他能解决军方吗？<br>7、他能解决制造业吗？<br>8、他能解决左媒吗？<br>9、他能解决司法吗？<br>10、他能解决长生不死吗？… https://twitter.com/i/web/status/1635006257378607111<br></div>
+任何人都解决不了。<br>左右均占40%，其中极左28%。决定美国命运的是中间那20%的人，病久了，任何保守派当政，都只能慢慢来，第一任期稳住大盘，发展经济，在州层面扼制极左的胡闹；争取第二任期，再办其中部分事情。<div class="rsshub-quote"><br><br>麻辣空间: 问几个川普2024的常规问题<br>1、他能解决黑命贵吗？<br>2、他能解决安提法吗？<br>3、他能解决华盛顿罪恶政权吗？<br>4、他能解决变态彩旗吗？<br>5、他能解决FBI和CIA吗？<br>6、他能解决军方吗？<br>7、他能解决制造业吗？<br>8、他能解决左媒吗？<br>9、他能解决司法吗？<br>10、他能解决长生不死吗？… https://twitter.com/i/web/status/1635006257378607111<br></div>
 
 ### 17: [2023-03-13 08:18:47+08:00 推文](https://twitter.com/HeQinglian/status/1635072880055820288)
 
@@ -281,7 +281,7 @@ Re @BA17B8BB9 完全不是一回事。<br>俄乌战争是近30年前美国定出
 
 ### 67: [2023-03-14 03:51:39+08:00 推文](https://twitter.com/HeQinglian/status/1635368039830130688)
 
-Re @qihang19211 简单讲：<br>1、能源格局洗牌，中调整到有利位置，此后俄是中国的最大供家；<br>2、BRICKS势力扩张，原来一直想弄的内部支付系统这次轻易成了（去美元化，人民币国际化）；<br>3、和平12条饱受西方批评，说中国没有资格调停和平。中方立刻表演沙伊建立外交关系、中沙伊联盟。泽连斯基终于求来了与习通电话的机会
+RT He Qinglian<br>Re @qihang19211 简单讲：<br>1、能源格局洗牌，中调整到有利位置，此后俄是中国的最大供家；<br>2、BRICKS势力扩张，原来一直想弄的内部支付系统这次轻易成了（去美元化，人民币国际化）；<br>3、和平12条饱受西方批评，说中国没有资格调停和平。中方立刻表演沙伊建立外交关系、中沙伊联盟。泽连斯基终于求来了与习通电话的机会
 
 ### 68: [2023-03-14 03:52:23+08:00 推文](https://twitter.com/HeQinglian/status/1635368227072270338)
 
@@ -321,7 +321,7 @@ Re @ivan4131 @qihang19211 看来我的学术经历你一无所知。比你好一
 
 ### 77: [2023-03-14 04:28:03+08:00 推文](https://twitter.com/HeQinglian/status/1635377202526314503)
 
-RT He Qinglian<br>Re @qihang19211 还有一赢，我干脆说了，拜粉躺地上打滚吧。<br>中国从没象现在这样对待任何一位白宫主人，就连被美媒污名化到无以复加的川普，北京也还算讲外交礼仪。<br>从拜登上台开始至今，各种外交场合，基本都是中方趾高气扬，美方则是舆论上批倒中方，会见时摆出一副“求求你，跪下吧”，每求一次，中方的头向上扬一分。
+Re @qihang19211 还有一赢，我干脆说了，拜粉躺地上打滚吧。<br>中国从没象现在这样对待任何一位白宫主人，就连被美媒污名化到无以复加的川普，北京也还算讲外交礼仪。<br>从拜登上台开始至今，各种外交场合，基本都是中方趾高气扬，美方则是舆论上批倒中方，会见时摆出一副“求求你，跪下吧”，每求一次，中方的头向上扬一分。
 
 ### 78: [2023-03-14 04:52:32+08:00 推文](https://twitter.com/HeQinglian/status/1635383362935476224)
 
@@ -473,7 +473,7 @@ Re @franktianxie 如果你认为，和平12条事先没与俄罗斯沟通过，�
 
 ### 115: [2023-03-15 06:58:44+08:00 推文](https://twitter.com/HeQinglian/status/1635777509152157732)
 
-2008年世界金融危机由美国开始，波及欧洲。美国几个月后就站起来了，欧洲继续衰退。<br>这次金融危机如果将美国击倒，美国是大重置的抓手。除了拜登政府完全臣服于WEF，很难想象两者如何处理这矛盾。<div class="rsshub-quote"><br><br>Lala Dee 台北的天空🦋💫✨🦋💫✨: 世界經濟論壇內部人士承認矽谷銀行崩潰是一個“偉大的重置騙局”<br><br> 一位世界經濟論壇內部人士被抓到吹噓說，矽谷銀行的崩潰是一個精心策劃的陰謀，計劃完美——這次崩潰將對銀行業產生多米諾骨牌效應，導致全球金融崩潰。 https://t.co/DeKbhWhg5e<br><br><img style="" src="https://pbs.twimg.com/media/FrNjvlYWYAAzwch?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+2008年世界金融危机由美国开始，波及欧洲。美国几个月后就站起来了，欧洲继续衰退。<br>这次金融危机如果将美国击倒，美国是大重置的抓手。除了拜登政府完全臣服于WEF，很难想象两者如何处理这矛盾。 https://twitter.com/Lala_Deesky/status/1635760766635655169<div class="rsshub-quote"><br><br>Lala Dee 台北的天空🦋💫✨🦋💫✨: 世界經濟論壇內部人士承認矽谷銀行崩潰是一個“偉大的重置騙局”<br><br> 一位世界經濟論壇內部人士被抓到吹噓說，矽谷銀行的崩潰是一個精心策劃的陰謀，計劃完美——這次崩潰將對銀行業產生多米諾骨牌效應，導致全球金融崩潰。 https://t.co/DeKbhWhg5e<br><br><img style="" src="https://pbs.twimg.com/media/FrNjvlYWYAAzwch?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 116: [2023-03-15 07:33:38+08:00 推文](https://twitter.com/HeQinglian/status/1635786292481912833)
 
@@ -581,11 +581,11 @@ Re @O43DGSy2NA4BdKf 好，如此甚好。法事做完了，请通知一声。�
 
 ### 142: [2023-03-16 01:11:48+08:00 推文](https://twitter.com/HeQinglian/status/1636052591699189763)
 
-每逢谈大麻有害时，就有些推主来我这谈大麻的好处，以及烟酒的坏处。<br>这种蠢货的思路是：不管什么有害东西，总得沾一样，数害相权取其轻（这轻是想出来的）。<br>坚决不同情。 https://twitter.com/KELMAND1/status/1635895141151158273<div class="rsshub-quote"><br><br>Ezio Mao☢: 《纽约邮报》讲述了一个美国新的不幸 - 年轻人正在大量吸入“笑气”，这已经成为一种新的毒瘾。<br><br>你认为应该怪谁？当然不是美国，不是社会氛围，不是智力水平或者道德教育。好吧，你猜对了，对吧？没错，就是中国。<br><br>为什么？因为吸完发到网上，叫whiptok（Whippit+TikTok）😅<br><br>https://nypost.com/2023/03/14/inside-gen-zs-hippy-crack-epidemic-bigger-risk-than-cocaine/<br></div>
+每逢谈大麻有害时，就有些推主来我这谈大麻的好处，以及烟酒的坏处。<br>这种蠢货的思路是：不管什么有害东西，总得沾一样，数害相权取其轻（这轻是想出来的）。<br>坚决不同情。<div class="rsshub-quote"><br><br>Ezio Mao☢: 《纽约邮报》讲述了一个美国新的不幸 - 年轻人正在大量吸入“笑气”，这已经成为一种新的毒瘾。<br><br>你认为应该怪谁？当然不是美国，不是社会氛围，不是智力水平或者道德教育。好吧，你猜对了，对吧？没错，就是中国。<br><br>为什么？因为吸完发到网上，叫whiptok（Whippit+TikTok）😅<br><br>https://nypost.com/2023/03/14/inside-gen-zs-hippy-crack-epidemic-bigger-risk-than-cocaine/<br></div>
 
 ### 143: [2023-03-16 03:58:53+08:00 推文](https://twitter.com/HeQinglian/status/1636094638594441216)
 
-民主党当政，掠财明目张胆。<br>比如白宫决定全额赔付SVB储户开了个危险的先例，因为联邦储蓄保险的赔付从来都有上限。<br>纽约邮报等因此去挖这家银行的背景，硅谷银行的 12 位董事当中，有人是奥克拜三位总统与舒默的超级捐款人，有位是奥前官员，还有一位是波洛西邻居——纳帕谷葡萄园的主人。<br>储户都有谁？ https://twitter.com/Lucs24659702/status/1636061969538244623<div class="rsshub-quote"><br><br>Lucs: 民主党国会议员的慈善机构在开曼群岛拥有超过3000万美元<br><br>代表Daniel Goldman（纽约州民主党）的非营利组织Richard W.据福克斯新闻报道，高盛家庭基金会报告称，在开曼群岛组织了价值超过3200万美元的投资。<br> https://www.oann.com/newsroom/democrat-congressmans-charity-has-more-than-30-million-in-cayman-islands/<br></div>
+民主党当政，掠财明目张胆。<br>比如白宫决定全额赔付SVB储户开了个危险的先例，因为联邦储蓄保险的赔付从来都有上限。<br>纽约邮报等因此去挖这家银行的背景，硅谷银行的 12 位董事当中，有人是奥克拜三位总统与舒默的超级捐款人，有位是奥前官员，还有一位是波洛西邻居——纳帕谷葡萄园的主人。<br>储户都有谁？<div class="rsshub-quote"><br><br>Lucs: 民主党国会议员的慈善机构在开曼群岛拥有超过3000万美元<br><br>代表Daniel Goldman（纽约州民主党）的非营利组织Richard W.据福克斯新闻报道，高盛家庭基金会报告称，在开曼群岛组织了价值超过3200万美元的投资。<br> https://www.oann.com/newsroom/democrat-congressmans-charity-has-more-than-30-million-in-cayman-islands/<br></div>
 
 ### 144: [2023-03-16 04:09:15+08:00 推文](https://twitter.com/HeQinglian/status/1636097246390255617)
 
@@ -625,7 +625,7 @@ Re @wto518 郭文贵竟然成了“民运”的三大支派之一？
 
 ### 153: [2023-03-16 08:42:16+08:00 推文](https://twitter.com/HeQinglian/status/1636165954563461121)
 
-RT He Qinglian<br>Re @JianglinLi @arfred_1979 @fading_you1 旧金山每位黑人获赔500万美元：<br>申请人须年满18岁并证明自己符合八项额外标准中的两项：1940-96年出生或移民旧金山，本人或直系亲属曾在“失败的毒品战争”期间被监禁，祖先是1865年前被奴役者……<br>https://nypost.com/2023/01/16/sf-reparations-panel-proposes-5m-lump-sum-payment-to-eligible-residents/<br>如果SVB未倒闭，应该是经营这项业务的首选。
+Re @JianglinLi @arfred_1979 @fading_you1 旧金山每位黑人获赔500万美元：<br>申请人须年满18岁并证明自己符合八项额外标准中的两项：1940-96年出生或移民旧金山，本人或直系亲属曾在“失败的毒品战争”期间被监禁，祖先是1865年前被奴役者……<br>https://nypost.com/2023/01/16/sf-reparations-panel-proposes-5m-lump-sum-payment-to-eligible-residents/<br>如果SVB未倒闭，应该是经营这项业务的首选。
 
 ### 154: [2023-03-16 08:47:12+08:00 推文](https://twitter.com/HeQinglian/status/1636167193246281729)
 
@@ -633,7 +633,7 @@ Re @SSK2024 他要表达的，正是主流媒体要表达的。
 
 ### 155: [2023-03-16 09:03:50+08:00 推文](https://twitter.com/zhixiangziyou/status/1636171379736182784)
 
-RT L JM🇺🇸<br>1/ THREAD 🚨 #TwitterFiles<br><br>@elonmusk将 CISA 审查网络抨击为“宣传平台”。<br><br>这个由国土安全部支持的审查联盟使用了 120 名分析师来审查数百万关于选举和 covid-19 的社交媒体帖子。<div class="rsshub-quote"><br><br>kanekoa.substack.com: 1/ THREAD🚨 #TwitterFiles<br><br>@elonmusk slams CISA censorship network as 'propaganda platform.'<br><br>This DHS-backed censorship consortium used 120 analysts to censor millions of social media posts on elections and covid-19.<br><br>https://kanekoa.substack.com/p/elon-musk-slams-cisa-censorship-network<br></div>
+RT L JM🇺🇸<br>1/ THREAD 🚨 #TwitterFiles<br><br>@elonmusk将 CISA 审查网络抨击为“宣传平台”。<br><br>这个由国土安全部支持的审查联盟使用了 120 名分析师来审查数百万关于选举和 covid-19 的社交媒体帖子。 https://twitter.com/kanekoathegreat/status/1608231209875963904<div class="rsshub-quote"><br><br>kanekoa.substack.com: 1/ THREAD🚨 #TwitterFiles<br><br>@elonmusk slams CISA censorship network as 'propaganda platform.'<br><br>This DHS-backed censorship consortium used 120 analysts to censor millions of social media posts on elections and covid-19.<br><br>https://kanekoa.substack.com/p/elon-musk-slams-cisa-censorship-network<br></div>
 
 ### 156: [2023-03-16 10:52:46+08:00 推文](https://twitter.com/shenliangqing2/status/1636198795330609152)
 
@@ -881,7 +881,7 @@ Re @aptx48693734 瑞信已经折腾了十多年，从全球一家最优金融机
 
 ### 217: [2023-03-17 21:08:48+08:00 推文](https://twitter.com/HeQinglian/status/1636716214054449152)
 
-你说的是真实情况。<br>我这几天查资料，发现欧洲早就这样玩，但全民觉得正常。美国还没烂透，这次硅谷的Woke化经营被挖出来当事情说，至少纽约邮报、Fox等愿意说，CNN、纽时、华邮则挑美联储加息来说，非说成是普遍性的。<br>Got Woke，Go Broke，不烂到底，那一半喜欢Woke的美国左派国民不会醒的。 https://twitter.com/hustzhuch/status/1636579388069126144<div class="rsshub-quote"><br><br>hustzhuch: @HeQinglian 欧美很多公司都搞这个鬼，他妈的还不能说。迟早完蛋<br></div>
+你说的是真实情况。<br>我这几天查资料，发现欧洲早就这样玩，但全民觉得正常。美国还没烂透，这次硅谷的Woke化经营被挖出来当事情说，至少纽约邮报、Fox等愿意说，CNN、纽时、华邮则挑美联储加息来说，非说成是普遍性的。<br>Got Woke，Go Broke，不烂到底，那一半喜欢Woke的美国左派国民不会醒的。<div class="rsshub-quote"><br><br>hustzhuch: @HeQinglian 欧美很多公司都搞这个鬼，他妈的还不能说。迟早完蛋<br></div>
 
 ### 218: [2023-03-17 21:19:05+08:00 推文](https://twitter.com/HeQinglian/status/1636718800954376192)
 
@@ -913,7 +913,7 @@ Re @zhixiangziyou 纽约民主党选民应该承受这结果——你们受连�
 
 ### 225: [2023-03-17 21:40:15+08:00 推文](https://twitter.com/HeQinglian/status/1636724128399994883)
 
-1、同意第一句。<br>2、民运不用他撕裂，他也没破坏美国民主（至少他没操纵选举），他的存在只是将所有的恶给引出来了，让所有参与表演者尽情展示。<br>3、整个戏剧是闹剧与拙劣马戏，没有半点悲剧的庄严感。 https://twitter.com/ZJ20672066/status/1636557486508462080<div class="rsshub-quote"><br><br>张杰: 郭文贵是中国权贵资本所长出的恶之花。他最大罪恶是撕裂民运和破坏美国民主。他本可以利用他的资金与民运联合对抗中共，但他一直在与中共勾兑，并对众多民运人士进行迫害。郭的爆料基本都是虚假的。郭在美国竞选中制造谣言。郭的官商勾结、不折手段和欺诈的中国商人特征，最终使他成为一个悲剧性人物。<br></div>
+1、同意第一句。<br>2、民运不用他撕裂，他也没破坏美国民主（至少他没操纵选举），他的存在只是将所有的恶给引出来了，让所有参与表演者尽情展示。<br>3、整个戏剧是闹剧与拙劣马戏，没有半点悲剧的庄严感。<div class="rsshub-quote"><br><br>张杰: 郭文贵是中国权贵资本所长出的恶之花。他最大罪恶是撕裂民运和破坏美国民主。他本可以利用他的资金与民运联合对抗中共，但他一直在与中共勾兑，并对众多民运人士进行迫害。郭的爆料基本都是虚假的。郭在美国竞选中制造谣言。郭的官商勾结、不折手段和欺诈的中国商人特征，最终使他成为一个悲剧性人物。<br></div>
 
 ### 226: [2023-03-17 21:47:55+08:00 推文](https://twitter.com/HeQinglian/status/1636726057511297024)
 
@@ -993,7 +993,7 @@ Re @JianglinLi 这位记者忘记树个特大横幅：<br>本台支持BLM、lgbt
 
 ### 245: [2023-03-19 00:31:38+08:00 推文](https://twitter.com/Wu_Zhi/status/1637129644326498307)
 
-RT zhix<br>说白了，西方现在定义谁是民主国家，全靠此国家的领导人是不是掌握在美国霸权手里的傀儡，是不是服从美国的领导，跟当地选举政治制度实在没啥关系。😅 https://twitter.com/dinglili7/status/1636946863843840000<div class="rsshub-quote"><br><br>绫波: 杜金：<br><br>西方犯下两个根本性、逻辑性错误。 <br>首先它认为西方民主世界是文明而俄罗斯不是。西方自以为拥有定义其他国家和民族如何运作的权利同時他们确信自己是地球上唯一的文明模式。<br><br>亲俄派的斗争有许多重要原因，其中最重要的莫过于让西方承认其他文明和模式的存在，並放弃其本质上的全球主义言论 https://t.co/ZDK5MFuik5<br><br><img style="" src="https://pbs.twimg.com/media/FreaMh-aYAATdyO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT zhix<br>说白了，西方现在定义谁是民主国家，全靠此国家的领导人是不是掌握在美国霸权手里的傀儡，是不是服从美国的领导，跟当地选举政治制度实在没啥关系。😅<div class="rsshub-quote"><br><br>绫波: 杜金：<br><br>西方犯下两个根本性、逻辑性错误。 <br>首先它认为西方民主世界是文明而俄罗斯不是。西方自以为拥有定义其他国家和民族如何运作的权利同時他们确信自己是地球上唯一的文明模式。<br><br>亲俄派的斗争有许多重要原因，其中最重要的莫过于让西方承认其他文明和模式的存在，並放弃其本质上的全球主义言论 https://t.co/ZDK5MFuik5<br><br><img style="" src="https://pbs.twimg.com/media/FreaMh-aYAATdyO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 246: [2023-03-19 01:40:46+08:00 推文](https://twitter.com/NAConservative9/status/1637147044530798597)
 
@@ -1065,11 +1065,11 @@ Re @Isabel_3299 这有什么好说的？当年茶党被整得奄奄一息，就�
 
 ### 263: [2023-03-19 05:27:29+08:00 推文](https://twitter.com/HeQinglian/status/1637204096380817408)
 
-以规模性指标为例，中国最好的金融机构资产规模只相当于美国60%左右——与两国按可比价格计算的GDP差距相同，而最弱的金融衍生品规模不到美国的1%。这就决定了两国金融体系结构完全不同，中国一直以银行为主导（因为无法大规模发债），而美国则以资本市场为主导，国债规模接近32万亿美元。<br>此为霸权所在<div class="rsshub-quote"><br><br>明实：没法眼佛眼但有真眼: @HeQinglian @lianghuiwang2 去吧，我继续臆想。<br>近几周有美债3000亿已经被抵押到FED换美元现金了……<br>比烂的时代，不用着急，败灯们会折腾的。<br></div>
+以规模性指标为例，中国最好的金融机构资产规模只相当于美国60%左右——与两国按可比价格计算的GDP差距相同，而最弱的金融衍生品规模不到美国的1%。这就决定了两国金融体系结构完全不同，中国一直以银行为主导（因为无法大规模发债），而美国则以资本市场为主导，国债规模接近32万亿美元。<br>此为霸权所在 https://twitter.com/mingshi_chen/status/1637201503306895363<div class="rsshub-quote"><br><br>明实：没法眼佛眼但有真眼: @HeQinglian @lianghuiwang2 去吧，我继续臆想。<br>近几周有美债3000亿已经被抵押到FED换美元现金了……<br>比烂的时代，不用着急，败灯们会折腾的。<br></div>
 
 ### 264: [2023-03-19 05:30:52+08:00 推文](https://twitter.com/HeQinglian/status/1637204948780810242)
 
-将马克龙选下去就是，为什么要斩首？选了他，就是将这届权力委托给他了，要他下去，也应该按民主程序，哪怕弹劾、倒阁都行。<br>以民主共和自我标高，却偏要回到当年大革命时代。 https://twitter.com/KELMAND1/status/1636935219369631744<div class="rsshub-quote"><br><br>Ezio Mao☢: “我们斩首了路易十六，我们也可以斩首马克龙！”法国人非常坚决。<br><br>祝法国人民万事如意。我希望欧洲其他国家的人民效仿法国人的榜样。 https://twitter.com/KELMAND1/status/1636718538688966656 https://t.co/QmmjWqiQox<br><br><video src="https://video.twimg.com/ext_tw_video/1636935193335574528/pu/vid/640x352/Am0dBW5jnaRv1PW_.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1636935193335574528/pu/img/U3ldBFt5xkqOxcmV.jpg"></video></div>
+将马克龙选下去就是，为什么要斩首？选了他，就是将这届权力委托给他了，要他下去，也应该按民主程序，哪怕弹劾、倒阁都行。<br>以民主共和自我标高，却偏要回到当年大革命时代。<div class="rsshub-quote"><br><br>Ezio Mao☢: “我们斩首了路易十六，我们也可以斩首马克龙！”法国人非常坚决。<br><br>祝法国人民万事如意。我希望欧洲其他国家的人民效仿法国人的榜样。 https://t.co/QmmjWqiQox<br><br><video src="https://video.twimg.com/ext_tw_video/1636935193335574528/pu/vid/640x352/Am0dBW5jnaRv1PW_.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1636935193335574528/pu/img/U3ldBFt5xkqOxcmV.jpg"></video></div>
 
 ### 265: [2023-03-19 05:48:01+08:00 推文](https://twitter.com/HeQinglian/status/1637209267655655424)
 

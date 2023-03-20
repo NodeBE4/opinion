@@ -73,7 +73,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Ffb6tbZWIAQrHYw?format=jpg
 
 ### 15: [2022-10-19 21:53:50+08:00 推文](https://twitter.com/realcaixia/status/1582731752791232512)
 
-英文版议报的推特跟进了英国曼城事件。请看：<br><br>YiBao English《議報》英文: Peaceful protest should be a fundamental right in everywhere. Shame on Chinese "Wolf Warrior Diplomacy"!<br>
+英文版议报的推特跟进了英国曼城事件。请看：<br><br>YiBao English《議報》英文: Peaceful protest should be a fundamental right in everywhere. Shame on Chinese "Wolf Warrior Diplomacy"!<br> <a href="https://twitter.com/JamesCleverly/status/1582410222735196160" target="_blank" rel="noopener noreferrer">https://twitter.com/JamesCleverly/status/1582410222735196160</a>
 
 ### 16: [2022-10-21 21:23:27+08:00 推文](https://twitter.com/realcaixia/status/1583448884675678208)
 
