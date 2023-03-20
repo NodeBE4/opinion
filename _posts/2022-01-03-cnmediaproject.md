@@ -17,11 +17,11 @@ The CMP is an independent research project studying the Chinese media landscape 
 
 ### 1: [2022-01-04 01:10:10+08:00 推文](https://twitter.com/ChinaLawTransl8/status/1478051069242523658)
 
-RT China Law Translate<br>Happy New Year.<br><br>The Paywall on CLT (<br><br>Thank you all for your support. <a href="http://chinalawtranslate.com/" target="_blank" rel="noopener noreferrer">http://chinalawtranslate.com</a><br><img style src="https://pbs.twimg.com/media/FIMWbykXsAUO2fo?format=png&name=orig" referrerpolicy="no-referrer">
+RT China Law Translate<br>Happy New Year.<br><br>The Paywall on CLT (<br><br>Thank you all for your support. <a href="http://chinalawtranslate.com/" target="_blank" rel="noopener noreferrer">http://chinalawtranslate.com</a><br><img style="" src="https://pbs.twimg.com/media/FIMWbykXsAUO2fo?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2022-01-05 21:22:42+08:00 推文](https://twitter.com/niubi/status/1478718600244563969)
 
-RT Bill Bishop<br>why has @twitter suspended the account of Xi Jinping looking at things?<br><br>Peter M. Drucker: I’m in shock.<br><br><img style="" src="https://pbs.twimg.com/media/FIVt8rBVUAAqlcu?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Bill Bishop<br>why has @twitter suspended the account of Xi Jinping looking at things?<br><br>Peter M. Drucker: I’m in shock.<br><br><img style src="https://pbs.twimg.com/media/FIVt8rBVUAAqlcu?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2022-01-06 15:00:45+08:00 推文](https://twitter.com/cnmediaproject/status/1478984869737017345)
 
@@ -49,7 +49,7 @@ Re Key question: When are social media accounts personal? And when are they bein
 
 ### 9: [2022-01-08 09:56:39+08:00 推文](https://twitter.com/cnmediaproject/status/1479633113131421696)
 
-Re In at least six cases, Internet Archive’s Wayback Machine shows Chinese state media journalists removing their employers from their social media bios over the past 2 years, perhaps trying to avoid the "China state-affiliated media" label -- and enabling them to advertise.<br><img style="" src="https://pbs.twimg.com/media/FIi2ZejaQAEi4hP?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re In at least six cases, Internet Archive’s Wayback Machine shows Chinese state media journalists removing their employers from their social media bios over the past 2 years, perhaps trying to avoid the "China state-affiliated media" label -- and enabling them to advertise.<br><img style src="https://pbs.twimg.com/media/FIi2ZejaQAEi4hP?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 10: [2022-01-08 10:49:38+08:00 推文](https://twitter.com/caixin/status/1479646447729479685)
 
