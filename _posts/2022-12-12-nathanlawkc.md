@@ -29,17 +29,17 @@ Re 4/<br>With the messiness of the end of strict control, Chinese nationals are 
 
 Re 5/<br>This is nothing like how we expected a relaxation of COVID measures – people going out and spending more, the economy's engine restarting… If a gradual process of relaxing the measures had been in place, things would have been much better.
 
-### 4: [2022-12-15 20:47:18+08:00 推文](https://twitter.com/nathanlawkc/status/1603371119284715522)
+### 4: [2022-12-15 20:47:18+08:00 推文](https://twitter.com/nathanlawkc/status/1603371117653147650)
 
-Re 8/<br>The change of narrative towards the pandemic is also shocking. We must understand the public discussion climate in China – when the Party has made a line on one thing, only supporting speeches are available.
+Re 7/<br>The lack of flexibility in policy implementation when the lower tier officials have to follow every word of the top without questioning, haphazard ways of changing policies, and more unpredictable moves… all manifest in this episode of sudden change.
 
 ### 5: [2022-12-15 20:47:19+08:00 推文](https://twitter.com/nathanlawkc/status/1603371123055411201)
 
 Re 10/<br>And the stigmatization of "living with COVID" also bounces back to themselves. State media had been portraying this idea as a foreign state conspiracy to overthrow the Party and put them at risk. They now have a hard time convincing people that we're going to be ok.
 
-### 6: [2022-12-15 20:47:20+08:00 推文](https://twitter.com/nathanlawkc/status/1603371124817121286)
+### 6: [2022-12-15 20:47:20+08:00 推文](https://twitter.com/nathanlawkc/status/1603371126645788673)
 
-Re 11/<br>Plus, no mRNA vaccines for ordinary Chinese made it worse. We know it's more effective in combating the pandemic. But China refuses to adopt foreign-invented ones; instead, they want to make their own but fail to do so. They gambled people's lives and they lost.
+Re 12/<br>The current crisis shows the weakness of a dictatorial regime, at the expense of people's lives. Stop glorifying the CCP regime &amp; its model because you don't understand how it works, or want to attack the "West" in general. Checks &amp; balances, and division of power matters.
 
 ### 7: [2022-12-15 21:04:55+08:00 推文](https://twitter.com/nathanlawkc/status/1603375552215277568)
 
