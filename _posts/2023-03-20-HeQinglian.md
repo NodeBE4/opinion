@@ -97,9 +97,29 @@ Re @mitolyu @Vince6610 @zhixiangziyou 明白了。不知她对简方达欢呼cov
 
 ### 21: [2023-03-21 01:51:55+08:00 推文](https://twitter.com/HeQinglian/status/1637874624951099397)
 
-2022年4月，拜登和他的政府发布了两份下属机构的文件，旨在支持和鼓励男孩和女孩进行化学和手术阉割，一份来自Office of Population Affairs，题为Gender-Affirming Care and Young People；另一份是Gender-Affirming Care is Trauma-Informed Care。 https://www.drjamesdobson.org/articles/bidens-radicalized-transgender-agenda-takes-full-aim-at-your-children<div class="rsshub-quote"><br><br>二大爷: 实在忍不住，我来给大家起底一下有些华人群体，欺负大家不懂英文，肆意在“儿童变性”这个话题上造谣的手段。图一是我所在的加州的州长纽森签署的法案。它正确的翻译是“纽森签署法案，使加州成为跨性别青年和家庭的避难所”。也就是说，这个法案的本意是保护那些“跨性别的青年和家庭”免受歧视。但在某些华… https://twitter.com/i/web/status/1637672806799507456 https://t.co/2JTeRQ9mCK<br><br><img style="" src="https://pbs.twimg.com/media/FrorHhMaQAE1o07?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrosNYDaUAEeB-Y?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrouZt6akAAVdwc?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+2022年4月，拜登和他的政府发布了两份下属机构的文件，旨在支持和鼓励男孩和女孩进行化学和手术阉割，一份来自Office of Population Affairs，题为Gender-Affirming Care and Young People；另一份是Gender-Affirming Care is Trauma-Informed Care。 https://www.drjamesdobson.org/articles/bidens-radicalized-transgender-agenda-takes-full-aim-at-your-children https://twitter.com/tankman2002/status/1637672806799507456<div class="rsshub-quote"><br><br>二大爷: 实在忍不住，我来给大家起底一下有些华人群体，欺负大家不懂英文，肆意在“儿童变性”这个话题上造谣的手段。图一是我所在的加州的州长纽森签署的法案。它正确的翻译是“纽森签署法案，使加州成为跨性别青年和家庭的避难所”。也就是说，这个法案的本意是保护那些“跨性别的青年和家庭”免受歧视。但在某些华… https://twitter.com/i/web/status/1637672806799507456 https://t.co/2JTeRQ9mCK<br><br><img style="" src="https://pbs.twimg.com/media/FrorHhMaQAE1o07?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrosNYDaUAEeB-Y?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrouZt6akAAVdwc?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 22: [2023-03-21 03:14:24+08:00 推文](https://twitter.com/HeQinglian/status/1637895384541417472)
 
 Re @JianglinLi 我花了四个月时间，已经将这个我最有恶心感的性多元化运动-变性-废除一男一女组成的传统家庭（用群婚取代）的来龙去脉全部理清楚了，两章内容共150多条注解，全是英文的。<br>我现在只是不能再在推上多泡了，时间太紧。
+
+### 23: [2023-03-21 07:32:45+08:00 推文](https://twitter.com/HeQinglian/status/1637960399663316996)
+
+Re @vfWyrSS7ru7UKYq @andreaxu1969 @JianglinLi 文章里面有资料链接，你能说那两个机构不是美国政府下属的吗？https://opa.hhs.gov/sites/default/files/2022-03/gender-affirming-care-young-people-march-2022.pdf<br>https://www.nctsn.org/sites/default/files/resources/fact-sheet/gender-affirming-care-is-trauma-informed-care.pdf<br>一个人能够拥护拜登领导的民主党，做了的事不敢承认，坏到家了——不，是又蠢又坏。
+
+### 24: [2023-03-21 08:01:44+08:00 推文](https://twitter.com/HeQinglian/status/1637967693302181888)
+
+Re @mitolyu @gvkJVjo3J0BIJod 我那时才十岁。
+
+### 25: [2023-03-21 08:12:33+08:00 推文](https://twitter.com/HeQinglian/status/1637970414532980736)
+
+从2012年开始，加州成为儿童LGBTQ教育的实验场<br>1、United Nations Educational, Scientific and Cultural Organization Education sector responses to homophobic bullying (chi), ISBN :978-92-3-001185-7, Year of publication :2012, 2013 https://unesdoc.unesco.org/ark:/48223/pf0000216493_chi <br>2、https://sd11.senate.ca.gov/news/20220803-senator-wiener%E2%80%99s-bill-provide-refuge-trans-kids-and-their-families-passes-final ) https://twitter.com/HeQinglian/status/1637874624951099397<div class="rsshub-quote"><br><br>He Qinglian: 2022年4月，拜登和他的政府发布了两份下属机构的文件，旨在支持和鼓励男孩和女孩进行化学和手术阉割，一份来自Office of Population Affairs，题为Gender-Affirming Care and Young People；另一份是Gender-Affirming Care is Trauma-Informed Care。 https://www.drjamesdobson.org/articles/bidens-radicalized-transgender-agenda-takes-full-aim-at-your-children https://twitter.com/tankman2002/status/1637672806799507456<br></div>
+
+### 26: [2023-03-21 08:13:12+08:00 推文](https://twitter.com/HeQinglian/status/1637970579100778501)
+
+Re @JianglinLi @vfWyrSS7ru7UKYq @andreaxu1969 我是为了给其他推友资料链接。
+
+### 27: [2023-03-21 09:24:57+08:00 推文](https://twitter.com/HeQinglian/status/1637988634182799362)
+
+Re @KELMAND1 @82WztfvhHqZz0Ub 万事有因果。<br>股东放任瑞银多年来不务正业，将lgbtqi+当作银行主业，并以lgbtqi &amp; Ally 项目负责人Bunce（跨性别者）因经营这些获奖而自豪，有今天，乃果报。<br>他们原来将瑞银转型为同志俱乐部，更合适。
 
