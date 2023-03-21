@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-03-20
+date: 2023-03-21
 from: https://old.reddit.com/r/Hololive/comments/11w3p4r/is_crazy_that_hololive_is_the_only_vtuber_agency/
 layout: post
 tags:
@@ -46,4 +46,10 @@ As ever, the winter was not good campaigning season, hence there being no real a
 I'm not entirely sure that's the case, albeit going purely off what numbers I can glean from Totman, where adding together absolutely everything I can't see more than about 7000 men involved – and that's assuming relatively generous numbers for the uncountables. While the Bakufu theoretically had some 7000 regular troops (6000 in 12 regular battalions, plus the two battalions of Denshūtai/sappei), from what I can gather, only four to six of the battalions, plus the Denshūtai, were actually involved in the fighting.
 
 EDIT: I probably ought to clarify that what I mean here are the numbers *at the battle itself*, rather than the total size of the expeditionary force.
+
+### 1150: [What is an ancient Greek city-state that would be able to be on par with Athens and Sparta if a few changes were made in their history?](https://old.reddit.com/r/AskHistorians/comments/11x66di/what_is_an_ancient_greek_citystate_that_would_be/), submitted on 2023-03-21 12:00:41+08:00.
+
+----- __1150.1__ -----2023-03-21 14:37:38+08:00:
+
+Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
