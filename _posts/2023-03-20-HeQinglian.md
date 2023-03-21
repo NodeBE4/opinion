@@ -69,7 +69,7 @@ RT L JM🇺🇸<br>在美国曾有一段时间，检察官和司法部拒绝�
 
 ### 14: [2023-03-20 21:33:33+08:00 推文](https://twitter.com/HeQinglian/status/1637809604271693825)
 
-美国自拜登上台后，攒足劲要与中国在非洲竞争，专门拨款成立机构；法国说要重回非洲（原来有不少殖民地），如今成了这局面。<br>拜粉们可以说非洲国家太Low，但在联合国，非联拥有56张选票。打群架时用得着。 https://twitter.com/Kanthan2030/status/1637726914386468864<div class="rsshub-quote"><br><br>S.L. Kanthan: 40 African countries are in Moscow today!! The conference is called “Russia-Africa in a Multipolar World.” <br><br>The Global South is ignoring Washington DC and its endless wars. There are bigger fish to fry.<br><br>The leaders of developing nations can now sense a new world of… https://twitter.com/i/web/status/1637726914386468864 https://t.co/Of9vVM3PjJ<br><br><img style="" src="https://pbs.twimg.com/media/Frpf8b7aYAIp3A_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+美国自拜登上台后，攒足劲要与中国在非洲竞争，专门拨款成立机构；法国说要重回非洲（原来有不少殖民地），如今成了这局面。<br>拜粉们可以说非洲国家太Low，但在联合国，非联拥有56张选票。打群架时用得着。<div class="rsshub-quote"><br><br>S.L. Kanthan: 40 African countries are in Moscow today!! The conference is called “Russia-Africa in a Multipolar World.” <br><br>The Global South is ignoring Washington DC and its endless wars. There are bigger fish to fry.<br><br>The leaders of developing nations can now sense a new world of… https://twitter.com/i/web/status/1637726914386468864 https://t.co/Of9vVM3PjJ<br><br><img style="" src="https://pbs.twimg.com/media/Frpf8b7aYAIp3A_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 15: [2023-03-20 21:37:45+08:00 推文](https://twitter.com/HeQinglian/status/1637810660510781441)
 
@@ -122,4 +122,12 @@ Re @JianglinLi @vfWyrSS7ru7UKYq @andreaxu1969 我是为了给其他推友资料�
 ### 27: [2023-03-21 09:24:57+08:00 推文](https://twitter.com/HeQinglian/status/1637988634182799362)
 
 Re @KELMAND1 @82WztfvhHqZz0Ub 万事有因果。<br>股东放任瑞银多年来不务正业，将lgbtqi+当作银行主业，并以lgbtqi &amp; Ally 项目负责人Bunce（跨性别者）因经营这些获奖而自豪，有今天，乃果报。<br>他们原来将瑞银转型为同志俱乐部，更合适。
+
+### 28: [2023-03-21 10:21:35+08:00 推文](https://twitter.com/HeQinglian/status/1638002886029238272)
+
+Re @Wu_Zhi 这故事，与当年朱镕基任总理期间，河南等省粮仓无粮，有的用谷糠稻草充实粮囤，有的干脆放火烧粮仓一样。
+
+### 29: [2023-03-21 10:44:16+08:00 推文](https://twitter.com/HeQinglian/status/1638008596846739458)
+
+习普会，媒体报道比会面更热闹：<br>法广：习普“非正式”单独会谈，华盛顿呼吁世界“不要上当受骗” <br>DW：中俄心思各异？国际媒体如何看习普会 <br>VOA：美国国务卿布林肯就普习会发表看法<br>早报：习普会：中俄愿支持彼此核心利益<br>新唐人：习普会正式登场中美俄隔空角力
 
