@@ -173,7 +173,7 @@ Re 各位推友，拜登今天仍然说对华政策没变。<br>拜粉可以说�
 
 ### 40: [2023-03-08 18:57:26+08:00 推文](https://twitter.com/fading_you1/status/1633421661679628289)
 
-RT 天降伟人包由检<br>美国左派的意识形态输出，目的就是用政治正确阉割全世界不同国家的社会伦理，从而实现对传统价值的颠覆来“砸烂旧世界”，进而用左派意识形态重构一个大一统的“天下大同”新世界。<br><br>所以，此时此刻，反美才是最高的自由价值。 https://twitter.com/initiumnews/status/1633005939686248449<div class="rsshub-quote"><br><br>端傳媒 Initium Media: 【在女浴場遇「跨性別」感到恐懼？日本演員橋本愛為爭議言論道歉】 對於「跨性別女性」使用女性洗浴設施和公共廁所的相關問題，日本演員橋本愛本月5日於其IG story中發表評論，提議「最好根據身體的性別來區分」。有網民批評其言論涉嫌「歧視LGBT+」。隨後6日，橋本愛隨後再發布story就此番言論道歉。 https://t.co/7fytbI0Uev<br><br><img style="" src="https://pbs.twimg.com/media/FqmZ1a1aMAAXvoS?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT 天降伟人包由检<br>美国左派的意识形态输出，目的就是用政治正确阉割全世界不同国家的社会伦理，从而实现对传统价值的颠覆来“砸烂旧世界”，进而用左派意识形态重构一个大一统的“天下大同”新世界。<br><br>所以，此时此刻，反美才是最高的自由价值。<div class="rsshub-quote"><br><br>端傳媒 Initium Media: 【在女浴場遇「跨性別」感到恐懼？日本演員橋本愛為爭議言論道歉】 對於「跨性別女性」使用女性洗浴設施和公共廁所的相關問題，日本演員橋本愛本月5日於其IG story中發表評論，提議「最好根據身體的性別來區分」。有網民批評其言論涉嫌「歧視LGBT+」。隨後6日，橋本愛隨後再發布story就此番言論道歉。 https://t.co/7fytbI0Uev<br><br><img style="" src="https://pbs.twimg.com/media/FqmZ1a1aMAAXvoS?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 41: [2023-03-08 22:30:03+08:00 推文](https://twitter.com/HeQinglian/status/1633475168176619520)
 
@@ -253,7 +253,7 @@ Re @Wu_Zhi @KELMAND1 纵观人类战争史，总是向国际社会哭诉敌人�
 
 ### 60: [2023-03-09 22:35:28+08:00 推文](https://twitter.com/HeQinglian/status/1633838920936099840)
 
-这应该是一折戏的开头，估计是战争援助落幕前的一折。是否有重建援助，得看表现——美方权贵集团也有需要，参考阿富汗帐本。 https://twitter.com/KELMAND1/status/1633754495917363201<div class="rsshub-quote"><br><br>Ezio Mao☢: 乌克兰外交部长声称基辅没有参与破坏“北溪”<br><br>乌克兰外交部长德米特里库列巴在周四接受意大利报纸《共和国报》采访时表示：“我的政府与此无关。我认为没有证据的文章是有害的，因为它们会给人留下乌克兰对此负有责任的印象。我们正在等待调查结果。” https://twitter.com/KELMAND1/status/1633137260886654976 https://t.co/2VkgjGsLf6<br><br><img style="" src="https://pbs.twimg.com/media/FqxDCpBacAAtJDB?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
+这应该是一折戏的开头，估计是战争援助落幕前的一折。是否有重建援助，得看表现——美方权贵集团也有需要，参考阿富汗帐本。<div class="rsshub-quote"><br><br>Ezio Mao☢: 乌克兰外交部长声称基辅没有参与破坏“北溪”<br><br>乌克兰外交部长德米特里库列巴在周四接受意大利报纸《共和国报》采访时表示：“我的政府与此无关。我认为没有证据的文章是有害的，因为它们会给人留下乌克兰对此负有责任的印象。我们正在等待调查结果。” https://t.co/2VkgjGsLf6<br><br><img style="" src="https://pbs.twimg.com/media/FqxDCpBacAAtJDB?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 61: [2023-03-09 22:50:11+08:00 推文](https://twitter.com/JianglinLi/status/1633842624946933760)
 
@@ -393,7 +393,7 @@ Re @CoffeeBallad 刘本来就是垃圾，你原来是垃圾中的垃圾。
 
 ### 95: [2023-03-11 21:39:16+08:00 推文](https://twitter.com/HeQinglian/status/1634549551502598144)
 
-这帖有趣，需要回答：<br>挺川至少是正常人，有正常家庭，不吸毒，不乱伦，不腐败，人家夫人不会70岁的学16岁小姑娘打扮。<br>挺拜的人，且不论lgb，主要喜欢Trans（特喜欢诱导未成年人变性），鼓励全民吸大麻甚至吸毒，还特别喜欢BLM零元购，通货膨胀，将弗洛伊德当英雄。<br>这已经是正常人类与反人类的区别。 https://twitter.com/David02366662/status/1634478540216479747<div class="rsshub-quote"><br><br>David: @HeQinglian 您伉俪夫妇是挺川黑拜专业户哈，是什么原因让你们如此无脑？<br></div>
+这帖有趣，需要回答：<br>挺川至少是正常人，有正常家庭，不吸毒，不乱伦，不腐败，人家夫人不会70岁的学16岁小姑娘打扮。<br>挺拜的人，且不论lgb，主要喜欢Trans（特喜欢诱导未成年人变性），鼓励全民吸大麻甚至吸毒，还特别喜欢BLM零元购，通货膨胀，将弗洛伊德当英雄。<br>这已经是正常人类与反人类的区别。<div class="rsshub-quote"><br><br>David: @HeQinglian 您伉俪夫妇是挺川黑拜专业户哈，是什么原因让你们如此无脑？<br></div>
 
 ### 96: [2023-03-11 21:44:20+08:00 推文](https://twitter.com/HeQinglian/status/1634550826977882113)
 
@@ -441,7 +441,7 @@ Re @JJH_Chi 你先告诉我，你喜欢我推文中列的拜登支持者品性�
 
 ### 107: [2023-03-12 02:03:17+08:00 推文](https://twitter.com/HeQinglian/status/1634615996454428673)
 
-我给拜登支个招：<br>美国一直在说有外星人，CIA都有系统的情报。<br>如今就说经过CIA调查验证，是外星人炸了北溪。再弄出一块残片，说地球上没有国家能够制造这种炸弹。<br>反正拜粉、乌粉，以及由川粉转身为拜粉的全会相信。<div class="rsshub-quote"><br><br>绫波: 普利策奖得主赫什“北溪”爆料一个月后<br><br>《纽约时报》援引匿名美官员宣称有情报显示“亲乌团体”可能是“北溪”爆炸背后真凶<br><br>赫什意见：乌克兰有能力布设地雷但没有可用的潜水减压舱，执行任务者必须既是潜水高手又是C4塑胶炸药专家，他们要确保炸药放合适位置来摧毁管道得花费数周或数月在波罗的海反复练习 https://t.co/VFkyWlRfIX<br><br><img style="" src="https://pbs.twimg.com/media/Fq6cxTTaIAITkdi?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+我给拜登支个招：<br>美国一直在说有外星人，CIA都有系统的情报。<br>如今就说经过CIA调查验证，是外星人炸了北溪。再弄出一块残片，说地球上没有国家能够制造这种炸弹。<br>反正拜粉、乌粉，以及由川粉转身为拜粉的全会相信。 https://twitter.com/dinglili7/status/1634416110593540097<div class="rsshub-quote"><br><br>绫波: 普利策奖得主赫什“北溪”爆料一个月后<br><br>《纽约时报》援引匿名美官员宣称有情报显示“亲乌团体”可能是“北溪”爆炸背后真凶<br><br>赫什意见：乌克兰有能力布设地雷但没有可用的潜水减压舱，执行任务者必须既是潜水高手又是C4塑胶炸药专家，他们要确保炸药放合适位置来摧毁管道得花费数周或数月在波罗的海反复练习 https://t.co/VFkyWlRfIX<br><br><img style="" src="https://pbs.twimg.com/media/Fq6cxTTaIAITkdi?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 108: [2023-03-12 02:09:48+08:00 推文](https://twitter.com/HeQinglian/status/1634617636733460481)
 
