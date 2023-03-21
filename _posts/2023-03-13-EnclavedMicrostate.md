@@ -129,3 +129,11 @@ Elaborating a little internally, Hololive's case, there'd already been some rule
 
 Oh right sorry for the confusion – yeah it was a temporary COVID thing, not a longstanding practice.
 
+----- __1147.6__ -----2023-03-22 04:32:24+08:00:
+
+I've gone back and forth between 'meh' and 'I genuinely like it' for Discovery, but I will absolutely concede that it has a considerable degree of premise whiplash. To some extent I think it's fundamentally because the show's function was to try and reboot the Trek franchise for the modern era, and so it kind of needed to do a lot to test the waters. So you have S1 as something intentionally a bit iconoclastic, S2 as something a little more callback-y, and S3 as something just completely different. What things worked and to what extent is very YMMV, but I feel like that was both intentional and unavoidable.
+
+----- __1147.7__ -----2023-03-22 04:33:54+08:00:
+
+FWIW I don't really like the current season, even if I agree that some of the 'guff' of S1-2 did deserve to be stripped out. It's competently executed but in service of a story that to me seems utterly superfluous.
+
