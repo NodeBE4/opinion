@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2023-03-21
+date: 2023-03-22
 from: https://twitter.com/realcaixia/status/1637535174052446208
 layout: post
 tags:
@@ -29,19 +29,19 @@ Re 举中国2020年癌症发病数和死亡数为证：中国新发癌症人数�
 
 ### 4: [2023-03-20 05:10:08+08:00 推文](https://twitter.com/realcaixia/status/1637562118663999488)
 
-真是开心一刻！😄！👍！ https://twitter.com/xingzhe2021/status/1637491595405557764<div class="rsshub-quote"><br><br>墻國荒誕字（墙国荒诞字）: 《憤怒的皇帝》系列搞笑劇:<br>第24集: 《進退兩難》<br>皇帝即將訪問俄羅斯，海牙國際刑事法庭突發普京逮捕令，讓皇帝措手不及，進退兩難… https://t.co/S5loYnc2iu<br><br><video src="https://video.twimg.com/ext_tw_video/1637491218421624832/pu/vid/1280x720/5b3vTTBC5ec08GrT.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1637491218421624832/pu/img/TsAI6sWtcCnFK8r9.jpg"></video></div>
+真是开心一刻！😄！👍！<div class="rsshub-quote"><br><br>墻國荒誕字（墙国荒诞字）: 《憤怒的皇帝》系列搞笑劇:<br>第24集: 《進退兩難》<br>皇帝即將訪問俄羅斯，海牙國際刑事法庭突發普京逮捕令，讓皇帝措手不及，進退兩難… https://t.co/S5loYnc2iu<br><br><video src="https://video.twimg.com/ext_tw_video/1637491218421624832/pu/vid/1280x720/5b3vTTBC5ec08GrT.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1637491218421624832/pu/img/TsAI6sWtcCnFK8r9.jpg"></video></div>
 
 ### 5: [2023-03-20 05:21:59+08:00 推文](https://twitter.com/realcaixia/status/1637565100554059776)
 
-说得好！“吃着乌克兰人用生命换来的粮食，不存感念反而支持普京侵略乌克兰，良心何在？”<div class="rsshub-quote"><br><br>ZHANGDONG: 这是联合国组织今年一月发布的乌克兰粮食出口数据。从图表中可见中国是乌克兰农粮作物第二大进口国。大陆挺俄反乌的中国人请扪心自问，你们吃着乌克兰人用生命换来的粮食，不存感念反而支持普京侵略乌克兰，良心何在？中国欠乌克兰一个公道！中国政府必须立即停止支持普京战犯！顺应世界潮流者得人心。 https://t.co/giHhuaNh6G<br><br><img style="" src="https://pbs.twimg.com/media/FrlaH-HXwAERSCZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+说得好！“吃着乌克兰人用生命换来的粮食，不存感念反而支持普京侵略乌克兰，良心何在？” https://twitter.com/zhangdong_sch/status/1637439035873406976<div class="rsshub-quote"><br><br>ZHANGDONG: 这是联合国组织今年一月发布的乌克兰粮食出口数据。从图表中可见中国是乌克兰农粮作物第二大进口国。大陆挺俄反乌的中国人请扪心自问，你们吃着乌克兰人用生命换来的粮食，不存感念反而支持普京侵略乌克兰，良心何在？中国欠乌克兰一个公道！中国政府必须立即停止支持普京战犯！顺应世界潮流者得人心。 https://t.co/giHhuaNh6G<br><br><img style="" src="https://pbs.twimg.com/media/FrlaH-HXwAERSCZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 6: [2023-03-20 05:35:39+08:00 推文](https://twitter.com/realcaixia/status/1637568542647390208)
 
-说得好！中共国所有问题的根源都在于政治，在于中共党，在于这党统治国家的制度和党内的权力结构与组织机制。习上台后，这些问题不仅没有解决还加上一条：党魁独裁，无法无天无底线。<div class="rsshub-quote"><br><br>荣剑: 稍有常识的人，都看出大国问题的实质:消费不振，投资不力，信心不足，预期不好，究其终极原因，都是政治问题。中国经济学，不是政治经济学，其实就是政治学，只有政治，没有经济。 https://t.co/TcDQD4D1ji<br><br><img style="" src="https://pbs.twimg.com/media/Fri3zP3XgAAzdMq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fri30NqXwAIMQbg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+说得好！中共国所有问题的根源都在于政治，在于中共党，在于这党统治国家的制度和党内的权力结构与组织机制。习上台后，这些问题不仅没有解决还加上一条：党魁独裁，无法无天无底线。 https://twitter.com/rongjian1957/status/1637260587792052226<div class="rsshub-quote"><br><br>荣剑: 稍有常识的人，都看出大国问题的实质:消费不振，投资不力，信心不足，预期不好，究其终极原因，都是政治问题。中国经济学，不是政治经济学，其实就是政治学，只有政治，没有经济。 https://t.co/TcDQD4D1ji<br><br><img style="" src="https://pbs.twimg.com/media/Fri3zP3XgAAzdMq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fri30NqXwAIMQbg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 7: [2023-03-20 06:13:42+08:00 推文](https://twitter.com/realcaixia/status/1637578118721576962)
 
-确有其事，按中共党内习惯说法就是：选举出了问题”或“出了事故”，后来就改成声、市、县委书记兼任人大常委会主任，直接控制选举。<div class="rsshub-quote"><br><br>Ignatius Lee 🚁🌋☭⃠: 一九九三年，中国浙江和贵州两省意外出现了“民选省长”意外当选的 #选举事故。当时中国名义上推行差额选举：由中组部提名指定候选人，搭配一名“陪跑”候选人；按惯例“陪跑”候选人是不可以当选的。但在这两起 #民主事故 中，两名“陪跑省长”意外当选，令中央大为不快，此后“差额选举”就被视为洪水猛兽。<br></div>
+确有其事，按中共党内习惯说法就是：选举出了问题”或“出了事故”，后来就改成声、市、县委书记兼任人大常委会主任，直接控制选举。 https://twitter.com/22homopoliticus/status/1637381324087369728<div class="rsshub-quote"><br><br>Ignatius Lee 🚁🌋☭⃠: 一九九三年，中国浙江和贵州两省意外出现了“民选省长”意外当选的 #选举事故。当时中国名义上推行差额选举：由中组部提名指定候选人，搭配一名“陪跑”候选人；按惯例“陪跑”候选人是不可以当选的。但在这两起 #民主事故 中，两名“陪跑省长”意外当选，令中央大为不快，此后“差额选举”就被视为洪水猛兽。<br></div>
 
 ### 8: [2023-03-20 15:46:23+08:00 推文](https://twitter.com/realcaixia/status/1637722239041667073)
 
@@ -49,15 +49,15 @@ Re 举中国2020年癌症发病数和死亡数为证：中国新发癌症人数�
 
 ### 9: [2023-03-20 16:00:50+08:00 推文](https://twitter.com/realcaixia/status/1637725872466583553)
 
-莫言写得好！<div class="rsshub-quote"><br><br>真相傳媒備用號: 莫言在他的新书《晚熟的人》写道：本性善良的人都晚熟，他们是被劣人催熟的。当别人聪明伶俐时，他们又傻又呆。当别人权衡利弊时，他们一片真诚。当别人心机用尽时，他们灵魂开窍。虽然开窍了，但内心还是会保持善良和赤诚，他们不断寻找同类，最后却变成了最孤独那一个…… https://t.co/slWYfUdOt3<br><br><video src="https://video.twimg.com/ext_tw_video/1625248261140512768/pu/vid/640x360/0YkOOKGG4a4V4Z7c.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1625248261140512768/pu/img/m7wBhXw_pvL5A_aW.jpg"></video></div>
+莫言写得好！ https://twitter.com/truthmedia_2/status/1625248357399810048<div class="rsshub-quote"><br><br>真相傳媒備用號: 莫言在他的新书《晚熟的人》写道：本性善良的人都晚熟，他们是被劣人催熟的。当别人聪明伶俐时，他们又傻又呆。当别人权衡利弊时，他们一片真诚。当别人心机用尽时，他们灵魂开窍。虽然开窍了，但内心还是会保持善良和赤诚，他们不断寻找同类，最后却变成了最孤独那一个…… https://t.co/slWYfUdOt3<br><br><video src="https://video.twimg.com/ext_tw_video/1625248261140512768/pu/vid/640x360/0YkOOKGG4a4V4Z7c.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1625248261140512768/pu/img/m7wBhXw_pvL5A_aW.jpg"></video></div>
 
 ### 10: [2023-03-20 23:33:40+08:00 推文](https://twitter.com/realcaixia/status/1637839832113377281)
 
-高瑜大姐推文说现在新华社的参考消息没人要了。想起在中央党校学习的官员，晚饭后围着人工湖散步。7点了人行步道上依旧三三两两谈天说笑，有次我问一官员：都7点了，怎么还散步呢？官员说：新闻联播没看头，看7点20分以后的。7点20以后的是新闻联播国际新闻时段。那是2007年以后开始的现象。<div class="rsshub-quote"><br><br>高瑜: 唐老弟說的是今年的事兒嗎？80年代《參考消息》火成什麼樣？現在白送沒人要，怨誰呢？他幾天前發帖講蔣彥永醫生向他學攝影，很有意思。<br></div>
+高瑜大姐推文说现在新华社的参考消息没人要了。想起在中央党校学习的官员，晚饭后围着人工湖散步。7点了人行步道上依旧三三两两谈天说笑，有次我问一官员：都7点了，怎么还散步呢？官员说：新闻联播没看头，看7点20分以后的。7点20以后的是新闻联播国际新闻时段。那是2007年以后开始的现象。 https://twitter.com/gaoyu200812/status/1637749372887916544<div class="rsshub-quote"><br><br>高瑜: 唐老弟說的是今年的事兒嗎？80年代《參考消息》火成什麼樣？現在白送沒人要，怨誰呢？他幾天前發帖講蔣彥永醫生向他學攝影，很有意思。 https://twitter.com/1NO0F20S05zEM51/status/1637736209899192320<br></div>
 
 ### 11: [2023-03-20 23:50:28+08:00 推文](https://twitter.com/realcaixia/status/1637844061930528768)
 
-十年功夫败光了30多年积累的财富，不够挥霍撒币了，就抢。从强抢民企的私人财产到抢老人的医保费到抢储户的存款……<div class="rsshub-quote"><br><br>蔡慎坤: 留任的财政部长刘昆最近喊话要做好长期过苦日子的准备，看来这话不是说着玩的，1-2月全国消费税降18.4%，个税降4%，增值税降21.6%，关税降27%，城建税降10.5%，车辆税降32.8%，印花税降31.3%，证券印花税降61.7%，土地增值税降22.4%，房产税降22.9%，土地出让金降29%，环保税降11.1%。这日子怎么过？<br></div>
+十年功夫败光了30多年积累的财富，不够挥霍撒币了，就抢。从强抢民企的私人财产到抢老人的医保费到抢储户的存款…… https://twitter.com/cskun1989/status/1637678280466923520<div class="rsshub-quote"><br><br>蔡慎坤: 留任的财政部长刘昆最近喊话要做好长期过苦日子的准备，看来这话不是说着玩的，1-2月全国消费税降18.4%，个税降4%，增值税降21.6%，关税降27%，城建税降10.5%，车辆税降32.8%，印花税降31.3%，证券印花税降61.7%，土地增值税降22.4%，房产税降22.9%，土地出让金降29%，环保税降11.1%。这日子怎么过？<br></div>
 
 ### 12: [2023-03-21 00:56:42+08:00 推文](https://twitter.com/realcaixia/status/1637860729947824135)
 
@@ -65,7 +65,7 @@ Re 举中国2020年癌症发病数和死亡数为证：中国新发癌症人数�
 
 ### 13: [2023-03-21 01:20:01+08:00 推文](https://twitter.com/realcaixia/status/1637866597091278848)
 
-笑蜀这篇文章有深度思考。深刻不等于也不应该等于极端化。<div class="rsshub-quote"><br><br>《议报》: 笑蜀 | 警惕深刻 https://yibaochina.com/?p=249755 看似深刻的推理被现实撞得粉碎，这说明了一个问题，即深刻本身在某种程度上与现实的对立、深刻本身在某种程度上的破产。国人往往崇拜理论上的深刻，殊不知，很多所谓的深刻很容易沦为理论上的极化，最典型的就是马教的决定论。<br></div>
+笑蜀这篇文章有深度思考。深刻不等于也不应该等于极端化。 https://twitter.com/yibaochina/status/1635859554775777280<div class="rsshub-quote"><br><br>《议报》: 笑蜀 | 警惕深刻 https://yibaochina.com/?p=249755 看似深刻的推理被现实撞得粉碎，这说明了一个问题，即深刻本身在某种程度上与现实的对立、深刻本身在某种程度上的破产。国人往往崇拜理论上的深刻，殊不知，很多所谓的深刻很容易沦为理论上的极化，最典型的就是马教的决定论。<br></div>
 
 ### 14: [2023-03-21 22:10:16+08:00 推文](https://twitter.com/realcaixia/status/1638181231191003136)
 
@@ -73,7 +73,7 @@ Re 举中国2020年癌症发病数和死亡数为证：中国新发癌症人数�
 
 ### 15: [2023-03-21 22:15:09+08:00 推文](https://twitter.com/realcaixia/status/1638182460851888130)
 
-秘密拘押已成常态，任何一个人走在路上都可能瞬间消失。电影“秋菊打官司”里有这个场面，不理解的可以去找那部电影看看。 https://twitter.com/zt9i7ye015ljzg0/status/1638037384557391874<div class="rsshub-quote"><br><br>尚寶軍: 編程隨想似乎有下落了 https://t.co/DhDsik8cAu<br><br><img style="" src="https://pbs.twimg.com/media/Frt6UIbaIAAngyZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+秘密拘押已成常态，任何一个人走在路上都可能瞬间消失。电影“秋菊打官司”里有这个场面，不理解的可以去找那部电影看看。<div class="rsshub-quote"><br><br>尚寶軍: 編程隨想似乎有下落了 https://t.co/DhDsik8cAu<br><br><img style="" src="https://pbs.twimg.com/media/Frt6UIbaIAAngyZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 16: [2023-03-21 22:20:16+08:00 推文](https://twitter.com/realcaixia/status/1638183750180933632)
 
@@ -82,4 +82,20 @@ Re @ChanrichAmy 祝一切顺利安好！相信现代医学水平！上帝与您�
 ### 17: [2023-03-21 22:50:25+08:00 推文](https://twitter.com/realcaixia/status/1638191336334688256)
 
 Re @USABelAir2021 这是最近几天的公主坟吗？街上的行人呢？
+
+### 18: [2023-03-22 06:48:36+08:00 推文](https://twitter.com/realcaixia/status/1638311674766565377)
+
+Re @USABelAir2021 我对公主坟那一带很熟。城乡大厦、华懋中心这两个商贸大楼连通着，再往西地铁两站，还有一个商业大厦。东边是京西宾馆和军博、世纪坛。公主坟高架路是西三环车流量最大的地区，每天早晚高峰在那里上高架路或盘下去进入东西长安街都是要提前并道到出口，一不小心不是错过出口就是剐蹭。那里太熟了啊。
+
+### 19: [2023-03-22 06:57:42+08:00 推文](https://twitter.com/realcaixia/status/1638313967616442370)
+
+Re @USABelAir2021 我以为是最近的公主坟照片，不由得心里一紧，难道又是新一波武汉新冠病毒疫情扩散了吗？听您说是去年的，心里宽了许多。疫情中无论是绝对清零还是躺平式放开，北京死了多少人啊，至今官方都没个准数。这三年深深的伤痛刻在每个在北京生活过的人心里。相信每个人都有或家人或亲友或邻里或同事或故旧去世
+
+### 20: [2023-03-22 07:34:38+08:00 推文](https://twitter.com/realcaixia/status/1638323260814397440)
+
+專訪程曉農｜兩會前夕話財政（上）：醫保社保改革背後是深度地方財政危機；銀行成了政府取款機，誰來兜底？｜03/02/2023 #方菲時間 - YouTube https://m.youtube.com/watch?v=Antw25clRTs
+
+### 21: [2023-03-22 07:35:07+08:00 推文](https://twitter.com/realcaixia/status/1638323383246159873)
+
+專訪程曉農｜兩會前夕話財政（下）：地方財政危機背後，百姓存款危矣；中共有一終極招數對付金融危機，暴露本色 ｜03/04/2023 #方菲時間 - YouTube https://m.youtube.com/watch?v=MtNHBXYw7I4
 
