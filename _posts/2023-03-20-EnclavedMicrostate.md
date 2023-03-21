@@ -47,6 +47,10 @@ I'm not entirely sure that's the case, albeit going purely off what numbers I ca
 
 EDIT: I probably ought to clarify that what I mean here are the numbers *at the battle itself*, rather than the total size of the expeditionary force.
 
+----- __1149.3__ -----2023-03-21 15:18:10+08:00:
+
+Thanks! This certainly complicates the numbers I'd got from Totman, and would suggest potentially a much larger force *overall* (as in, originally assembled at Ōsaka) than the 15k he suggested, assuming that what Noguchi means by a 'regiment' is equivalent to what Totman means by a 'battalion', and that the six regiments/battalions engaged represented only half of the twelve total in the army writ large.
+
 ### 1150: [What is an ancient Greek city-state that would be able to be on par with Athens and Sparta if a few changes were made in their history?](https://old.reddit.com/r/AskHistorians/comments/11x66di/what_is_an_ancient_greek_citystate_that_would_be/), submitted on 2023-03-21 12:00:41+08:00.
 
 ----- __1150.1__ -----2023-03-21 14:37:38+08:00:
