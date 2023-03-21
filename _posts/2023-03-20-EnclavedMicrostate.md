@@ -41,3 +41,9 @@ Because, to pivot to that topic, we could honestly say it's surprising the Boshi
 
 As ever, the winter was not good campaigning season, hence there being no real attempt to land at Hokkaido in force until the following spring. But in many ways, the war *could* have ended in April 1868. Indeed, we could probably surmise that, for Tokugawa Yoshinobu, it *should* have done. But the persistence of some Tokugawa loyalists like Enomoto Takeaki or the *shōgitai* guerrillas, plus the rather tactless behaviour of SatChō envoys to the northern domains, helped keep the war going for months past the resolution of the original crisis over the continued status of the Tokugawa clan and its holdings.
 
+----- __1149.2__ -----2023-03-21 13:08:08+08:00:
+
+I'm not entirely sure that's the case, albeit going purely off what numbers I can glean from Totman, where adding together absolutely everything I can't see more than about 7000 men involved – and that's assuming relatively generous numbers for the uncountables. While the Bakufu theoretically had some 7000 regular troops (6000 in 12 regular battalions, plus the two battalions of Denshūtai/sappei), from what I can gather, only four to six of the battalions, plus the Denshūtai, were actually involved in the fighting.
+
+EDIT: I probably ought to clarify that what I mean here are the numbers *at the battle itself*, rather than the total size of the expeditionary force.
+
