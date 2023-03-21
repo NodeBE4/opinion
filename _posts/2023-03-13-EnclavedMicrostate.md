@@ -137,3 +137,7 @@ I've gone back and forth between 'meh' and 'I genuinely like it' for Discovery, 
 
 FWIW I don't really like the current season, even if I agree that some of the 'guff' of S1-2 did deserve to be stripped out. It's competently executed but in service of a story that to me seems utterly superfluous.
 
+----- __1147.8__ -----2023-03-22 05:46:59+08:00:
+
+Didn't help that they fired (I think) S2's showrunners partway in, citing abusive behaviour, making S3 the first season which had the same showrunners from conception to execution.
+
