@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-03-21
+date: 2023-03-22
 from: https://twitter.com/HeQinglian/status/1637511912056315905
 layout: post
 tags:
@@ -65,7 +65,7 @@ Re @Wazy1988bW @KELMAND1 别以为美国还能撑多少年。按拜登与民主�
 
 ### 13: [2023-03-20 12:21:56+08:00 推文](https://twitter.com/zhixiangziyou/status/1637670785887117313)
 
-RT L JM🇺🇸<br>在美国曾有一段时间，检察官和司法部拒绝针对前总统。他们知道这会损害共和国。他们表现得很谨慎。现在，民主党人去论坛狩猎，发明新颖的法律理论，并将我们的法庭武器化，就像第三世界的地狱一样。可耻。 https://twitter.com/charliekirk11/status/1637607766314618881<div class="rsshub-quote"><br><br>Charlie Kirk: There was a time in America where prosecutors and the DOJ refused to target ex-Presidents. They knew it would damage the republic. They showed prudence. Now, Dems go forum hunting, invent novel legal theories, and weaponize our courts like some 3rd world hellhole.  Disgraceful.<br></div>
+RT L JM🇺🇸<br>在美国曾有一段时间，检察官和司法部拒绝针对前总统。他们知道这会损害共和国。他们表现得很谨慎。现在，民主党人去论坛狩猎，发明新颖的法律理论，并将我们的法庭武器化，就像第三世界的地狱一样。可耻。<div class="rsshub-quote"><br><br>Charlie Kirk: There was a time in America where prosecutors and the DOJ refused to target ex-Presidents. They knew it would damage the republic. They showed prudence. Now, Dems go forum hunting, invent novel legal theories, and weaponize our courts like some 3rd world hellhole.  Disgraceful.<br></div>
 
 ### 14: [2023-03-20 21:33:33+08:00 推文](https://twitter.com/HeQinglian/status/1637809604271693825)
 
@@ -97,7 +97,7 @@ Re @mitolyu @Vince6610 @zhixiangziyou 明白了。不知她对简方达欢呼cov
 
 ### 21: [2023-03-21 01:51:55+08:00 推文](https://twitter.com/HeQinglian/status/1637874624951099397)
 
-2022年4月，拜登和他的政府发布了两份下属机构的文件，旨在支持和鼓励男孩和女孩进行化学和手术阉割，一份来自Office of Population Affairs，题为Gender-Affirming Care and Young People；另一份是Gender-Affirming Care is Trauma-Informed Care。 https://www.drjamesdobson.org/articles/bidens-radicalized-transgender-agenda-takes-full-aim-at-your-children
+2022年4月，拜登和他的政府发布了两份下属机构的文件，旨在支持和鼓励男孩和女孩进行化学和手术阉割，一份来自Office of Population Affairs，题为Gender-Affirming Care and Young People；另一份是Gender-Affirming Care is Trauma-Informed Care。 https://www.drjamesdobson.org/articles/bidens-radicalized-transgender-agenda-takes-full-aim-at-your-children https://twitter.com/tankman2002/status/1637672806799507456<div class="rsshub-quote"><br><br>二大爷: 实在忍不住，我来给大家起底一下有些华人群体，欺负大家不懂英文，肆意在“儿童变性”这个话题上造谣的手段。图一是我所在的加州的州长纽森签署的法案。它正确的翻译是“纽森签署法案，使加州成为跨性别青年和家庭的避难所”。也就是说，这个法案的本意是保护那些“跨性别的青年和家庭”免受歧视。但在某些华… https://twitter.com/i/web/status/1637672806799507456 https://t.co/2JTeRQ9mCK<br><br><img style="" src="https://pbs.twimg.com/media/FrorHhMaQAE1o07?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrosNYDaUAEeB-Y?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrouZt6akAAVdwc?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 22: [2023-03-21 03:14:24+08:00 推文](https://twitter.com/HeQinglian/status/1637895384541417472)
 
@@ -150,4 +150,12 @@ Re @luosifeng @JianglinLi 这些人连大外宣是啥都不懂，抓了个名词
 ### 34: [2023-03-21 21:51:35+08:00 推文](https://twitter.com/HeQinglian/status/1638176530038935559)
 
 Re @KELMAND1 @82WztfvhHqZz0Ub 纠正：是瑞信，The Credit Suisse。这次瑞信要破产，瑞士政府为了避免更大的危机，让瑞银（Union Bank of Switzerland）出资30亿瑞郎收购瑞信，为3月17日（周五）市值的四折，政府兜底部分损失。<br>一家管理资产规模超1.1万亿美元的银行就这样结束了166年寿命。全世界GDP超1万亿美元的国家仅17个。
+
+### 35: [2023-03-21 22:14:05+08:00 推文](https://twitter.com/JianglinLi/status/1638182192009412610)
+
+RT 李江琳<br>拜登的银行记录。这可真是鸡犬升天。 https://twitter.com/GOPoversight/status/1637840708726816779<div class="rsshub-quote"><br><br>Oversight Committee: 🤥🤥🤥🤥<br> <br>We’ve got the bank records. https://twitter.com/FoxNews/status/1637111635797061633 https://t.co/yDYPcOxKYW<br><br><img style="" src="https://pbs.twimg.com/media/FrrHOJQXsAEhtZy?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 36: [2023-03-22 03:38:21+08:00 推文](https://twitter.com/HeQinglian/status/1638263799399477249)
+
+四处漏风的中国金融为何至今表面安然https://www.rfa.org/mandarin/pinglun/heqinglian/hql-03212023104651.html<br>中国金融市场不同于成熟市场，数据获得方式及可信度不一样，完全凭金融高官的专业经验外加行政手段控制。防金融风险常抓不懈。<br>中国金融风险主要聚集在房市，2022年以来八轮经济调控的阀门装在这个市场上，通过房企倒闭缓解金融危机。
 

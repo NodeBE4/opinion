@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2021-12-06~2021-12-12'
 
 ### 1: [2021-12-06 01:30:25+08:00 推文](https://twitter.com/realcaixia/status/1467546917089468420)
 
-权力任性，企业难办，民众受苦。<br><br>天下新闻-精华版: 中山大学教授曝光中国限电真实原因<br> <a href="https://twitter.com/LQ0068/status/1466612591468462082/video/1" target="_blank" rel="noopener noreferrer">https://twitter.com/LQ0068/status/1466612591468462082/video/1</a>
+权力任性，企业难办，民众受苦。<br><br>天下新闻-精华版: 中山大学教授曝光中国限电真实原因<br><br><video src="https://video.twimg.com/ext_tw_video/1466612372982882316/pu/vid/720x760/LT465FCn3TSE3xry.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1466612372982882316/pu/img/tH4fdpriuw65M4OD.jpg"></video>
 
 ### 2: [2021-12-07 07:13:05+08:00 推文](https://twitter.com/realcaixia/status/1467995540814237710)
 
@@ -37,11 +37,11 @@ Re @mark89066384 @lunanweiyi 末日疯狂。上帝要让他灭亡，必先使其
 
 ### 6: [2021-12-08 13:04:38+08:00 推文](https://twitter.com/realcaixia/status/1468446399981395971)
 
-精彩至极！<br><br>日常現象: 人民日报发微博称一图起底美国民主七大假象，网民评论大翻车。<br><br><img style src="https://pbs.twimg.com/media/FF8I2v-UcAIuKIc?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FF8I2v9VkAUSFF5?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FF8I2u_UYAQer9q?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FF8I2v-VQAYOIaN?format=jpg&name=orig" referrerpolicy="no-referrer">
+精彩至极！<br><br>日常現象: 人民日报发微博称一图起底美国民主七大假象，网民评论大翻车。<br><br><img style="" src="https://pbs.twimg.com/media/FF8I2v-UcAIuKIc?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FF8I2v9VkAUSFF5?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FF8I2u_UYAQer9q?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FF8I2v-VQAYOIaN?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2021-12-09 00:09:43+08:00 推文](https://twitter.com/realcaixia/status/1468613773569277963)
 
-很朴实的三个字道尽人格尊严，致敬老人家！<br><br>鲁  难: 视频被封，我们暂时听不到卖蔗翁的声音。但是，我们都同意：不原谅！<br><br><img style="" src="https://pbs.twimg.com/media/FGGHthjXEBID_0V?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGGHthnX0AQJrw4?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGGHthlXMAMtmBJ?format=jpg&name=orig" referrerpolicy="no-referrer">
+很朴实的三个字道尽人格尊严，致敬老人家！<br><br>鲁  难: 视频被封，我们暂时听不到卖蔗翁的声音。但是，我们都同意：不原谅！<br><br><img style src="https://pbs.twimg.com/media/FGGHthjXEBID_0V?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGGHthnX0AQJrw4?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGGHthlXMAMtmBJ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2021-12-09 01:39:11+08:00 推文](https://twitter.com/realcaixia/status/1468636286114320390)
 
@@ -57,7 +57,7 @@ Re @jiang_xicheng @luoye_figtree 说得好！👍🌹
 
 ### 11: [2021-12-09 09:57:27+08:00 推文](https://twitter.com/realcaixia/status/1468761680972759042)
 
-丁家喜律师的夫人罗胜春女士很了不起！<br><br>Luo Shengchun丁家喜律师妻子: #世界人权日到来之际DC行 （2）会上我以许志永和丁家喜案为例讲述了中共当局对中国公民运动的打压，讲述了标榜已实现全程民主的厉害国如何害怕其公民有自己的声音和态度。讲述厉害国公民如何因言论、聚会，及倡导践行宪法赋予公民的权利被失踪，被酷刑，被指控颠覆的故事，呼吁无罪释放许志永丁家喜！<br><br><img style="" src="https://pbs.twimg.com/media/FGD3YaMX0AA7Tlq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGD3Yf2WYAAA6M1?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGD3YflX0AMPZAN?format=jpg&name=orig" referrerpolicy="no-referrer">
+丁家喜律师的夫人罗胜春女士很了不起！<br><br>Luo Shengchun丁家喜律师妻子: #世界人权日到来之际DC行 （2）会上我以许志永和丁家喜案为例讲述了中共当局对中国公民运动的打压，讲述了标榜已实现全程民主的厉害国如何害怕其公民有自己的声音和态度。讲述厉害国公民如何因言论、聚会，及倡导践行宪法赋予公民的权利被失踪，被酷刑，被指控颠覆的故事，呼吁无罪释放许志永丁家喜！<br><br><img style src="https://pbs.twimg.com/media/FGD3YaMX0AA7Tlq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGD3Yf2WYAAA6M1?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGD3YflX0AMPZAN?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2021-12-09 10:10:37+08:00 推文](https://twitter.com/realcaixia/status/1468764994670145539)
 
@@ -97,7 +97,7 @@ Re 美国举行民主“峰会”。那意思是执政党和政府首脑是人�
 
 ### 21: [2021-12-11 01:33:14+08:00 推文](https://twitter.com/realcaixia/status/1469359564613165058)
 
-完全同意。<br><br>韩连潮: 【写在人权日的话】今天是世界人权日，我呼吁中共当局释放张展、伊力哈木、曹三强、陈杰人等知名和不知名的良心犯。要中共尊重人权无疑是与虎谋皮，改善人权必须改变政权。对抗极权、打击贪腐与改善人权要采取实质行动：没收中共贪官在美的数万亿美元资产，用于促进中国人权项目，实现中国的民主转型。<br><br><img style="" src="https://pbs.twimg.com/media/FGP56LGWUAUwNQ2?format=jpg&name=orig" referrerpolicy="no-referrer">
+完全同意。<br><br>韩连潮: 【写在人权日的话】今天是世界人权日，我呼吁中共当局释放张展、伊力哈木、曹三强、陈杰人等知名和不知名的良心犯。要中共尊重人权无疑是与虎谋皮，改善人权必须改变政权。对抗极权、打击贪腐与改善人权要采取实质行动：没收中共贪官在美的数万亿美元资产，用于促进中国人权项目，实现中国的民主转型。<br><br><img style src="https://pbs.twimg.com/media/FGP56LGWUAUwNQ2?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 22: [2021-12-11 08:48:02+08:00 推文](https://twitter.com/realcaixia/status/1469468987784409099)
 
