@@ -121,7 +121,7 @@ Re @farmdirect8 很好理解。<br>左派自己喜好大麻与其他毒品，这
 
 ### 27: [2022-06-28 03:24:49+08:00 推文](https://twitter.com/JianglinLi/status/1541502832704196614)
 
-RT 李江琳<br>Re @HeQinglian @RealBeiMing @ngexp @Wu_Zhi @david_david1968 最高法院又作出一個令某些人跳脚的裁決。👇🤣
+RT 李江琳<br>Re @HeQinglian @RealBeiMing @ngexp @Wu_Zhi @david_david1968 最高法院又作出一個令某些人跳脚的裁決。👇🤣<br><br>Newsmax: BREAKING: The U.S. Supreme Court on Monday backed a Christian public high school football coach who was disciplined for leading prayers on the field after games.<br><br><img style="" src="https://pbs.twimg.com/media/FWQ9yshUcAAoBn3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3xTWbCB" target="_blank" rel="noopener noreferrer">https://bit.ly/3xTWbCB</a>
 
 ### 28: [2022-06-28 04:49:17+08:00 推文](https://twitter.com/HeQinglian/status/1541524088094605312)
 
@@ -265,7 +265,7 @@ Re @chuangnanzoubei 烧木柴，除了美国之外，大头也是俄罗斯供。
 
 ### 63: [2022-06-30 02:18:16+08:00 推文](https://twitter.com/RealBeiMing/status/1542210860172582915)
 
-RT 北明BeiMing<br>白宮命名“變性人日”，克宮命名“家庭、愛與忠誠日”。<br><br>想起另一個類似的歷史事件：當年毛澤東在大陸發動“文化大革命運動”，蔣中正針鋒相對在台灣掀起了“中國文化復興運動”。
+RT 北明BeiMing<br>白宮命名“變性人日”，克宮命名“家庭、愛與忠誠日”。<br><br>想起另一個類似的歷史事件：當年毛澤東在大陸發動“文化大革命運動”，蔣中正針鋒相對在台灣掀起了“中國文化復興運動”。<br><br>Lucs: 普京刚刚宣布 7 月 8 日为家庭、爱和忠诚日…我们的白宫宣布为变性人日。🤦🏻‍♀️<br><br><img style="" src="https://pbs.twimg.com/media/FWb_1q7VsAAlO76?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 64: [2022-06-30 03:38:27+08:00 推文](https://twitter.com/HeQinglian/status/1542231038730158083)
 
@@ -689,11 +689,11 @@ Re @fanggexu @JianglinLi @david_david1968 @Wu_Zhi 我完全不耽心2035年的�
 
 ### 169: [2022-07-03 03:25:03+08:00 推文](https://twitter.com/HeQinglian/status/1543314830785904642)
 
-BRICKS在俄乌战后启动内部结算系统，五国贸易不再用美元结算，可以用五国货币结算，印度、中国都增加对俄能源天然气的购买，不知这算不算“实质性援助”？
+BRICKS在俄乌战后启动内部结算系统，五国贸易不再用美元结算，可以用五国货币结算，印度、中国都增加对俄能源天然气的购买，不知这算不算“实质性援助”？<br><br>美国之音中文网: 白宫再次表示，尚未发现中国为俄罗斯提供实质性援助<br> <a href="http://dlvr.it/STBcg9" target="_blank" rel="noopener noreferrer">http://dlvr.it/STBcg9</a>
 
 ### 170: [2022-07-03 03:46:49+08:00 推文](https://twitter.com/HeQinglian/status/1543320305912905729)
 
-如果泽连斯基真说了这话，说明他知道乌克兰现在、过去在西方的安全架构中的位置“不体面”。从这点来说，他有自知之明，比如3月28日接受《经济学人》采访时很明确地挑明自己在打代理人战争。
+如果泽连斯基真说了这话，说明他知道乌克兰现在、过去在西方的安全架构中的位置“不体面”。从这点来说，他有自知之明，比如3月28日接受《经济学人》采访时很明确地挑明自己在打代理人战争。<br><br>绫波: 乌克兰总统泽连斯基：待与俄罗斯的冲突结束后，乌克兰必须在西方安全架构中有一个“体面的位置”，而不是充当北约和俄罗斯之间的“灰色地带”。<br><br><img style="" src="https://pbs.twimg.com/media/FWpVYJnWIAEsu70?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 171: [2022-07-03 04:33:29+08:00 推文](https://twitter.com/HeQinglian/status/1543332051557941249)
 
