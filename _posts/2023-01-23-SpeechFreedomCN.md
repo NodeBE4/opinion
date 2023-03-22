@@ -21,5 +21,5 @@ title: 'Twitter @中国文字狱事件盘点: 2023-01-23~2023-01-29'
 
 ### 2: [2023-01-25 19:46:10+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1618213636207710210)
 
-Hunan man Tang administratively detained for posting a video on Douyin that "insulted the government's law enforcement action and therefore smeared the government".<br><img style="" src="https://pbs.twimg.com/media/FnUMa9vXwAAlT4h?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Hunan man Tang administratively detained for posting a video on Douyin that "insulted the government's law enforcement action and therefore smeared the government". https://t.co/2q4BiggaD4<br><img style="" src="https://pbs.twimg.com/media/FnUMa9vXwAAlT4h?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

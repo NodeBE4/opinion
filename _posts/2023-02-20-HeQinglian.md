@@ -201,7 +201,7 @@ Re @washearg 除了美国还有些家底，其余的国家，就算了吧。
 
 ### 47: [2023-02-21 23:05:51+08:00 推文](https://twitter.com/HeQinglian/status/1628048359180181507)
 
-Re @Lucs24659702 很多乌鸡血们，包括那位说自己“曾经是农民、永远是农民”的“瞧瞧桥”老妹子在内，不相信乌克兰的第10次征兵令，这是原推，信不信由他们，懂乌语的请好心一点翻译给她听，让她再也不要在见识上“永远是农民”。<div class="rsshub-quote"><br><br>绫波: 乌克兰泽连斯基发起第10次征兵令，打算征召100万名士兵。<br><br>征兵令中规定，成年男性65岁以上，85岁以下必须参军。<br><br><img style="" src="https://pbs.twimg.com/media/FpYOaBgaYAAL-9z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT He Qinglian<br>Re @Lucs24659702 很多乌鸡血们，包括那位说自己“曾经是农民、永远是农民”的“瞧瞧桥”老妹子在内，不相信乌克兰的第10次征兵令，这是原推，信不信由他们，懂乌语的请好心一点翻译给她听，让她再也不要在见识上“永远是农民”。<div class="rsshub-quote"><br><br>绫波: 乌克兰泽连斯基发起第10次征兵令，打算征召100万名士兵。<br><br>征兵令中规定，成年男性65岁以上，85岁以下必须参军。<br><br><img style="" src="https://pbs.twimg.com/media/FpYOaBgaYAAL-9z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 48: [2023-02-21 23:08:41+08:00 推文](https://twitter.com/HeQinglian/status/1628049071679188993)
 
@@ -441,7 +441,7 @@ Re @FightForJiuCai 乌克兰人好歹有形式上的民主啊。<br>如果如乌
 
 ### 107: [2023-02-23 04:37:55+08:00 推文](https://twitter.com/HeQinglian/status/1628494315533000717)
 
-Re @shenliangqing2 建议与这一起参看。再加上骄傲月、零元购、裸体大游 行，就是左派们梦寐以求的进步主义NWO.<div class="rsshub-quote"><br><br>低级黑小明: 来看一下美国版的“操你妈逼”<br><br>现在的lgbt小屁孩一个二个都没有人样了，觉得只要别人把自己性别说错或者不承认自己的性别就要操你妈逼。<br><br><video src="https://video.twimg.com/amplify_video/1628179434556751872/vid/720x1280/ES33umab5NJKiUDD.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1628179434556751872/img/wfYMeOGe0leEv67A.jpg"></video></div>
+Re @shenliangqing2 建议与这一起参看。再加上骄傲月、零元购、裸体大游 行，就是左派们梦寐以求的进步主义NWO. https://twitter.com/djhxiaoming/status/1628179486452891648<div class="rsshub-quote"><br><br>低级黑小明: 来看一下美国版的“操你妈逼”<br><br>现在的lgbt小屁孩一个二个都没有人样了，觉得只要别人把自己性别说错或者不承认自己的性别就要操你妈逼。 https://t.co/xWwdJ4goYi<br><br><video src="https://video.twimg.com/amplify_video/1628179434556751872/vid/720x1280/ES33umab5NJKiUDD.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1628179434556751872/img/wfYMeOGe0leEv67A.jpg"></video></div>
 
 ### 108: [2023-02-23 04:41:44+08:00 推文](https://twitter.com/HeQinglian/status/1628495274657153026)
 
@@ -553,7 +553,7 @@ Re @Lucs24659702 她的血统最多八分之一黑，应该是赔付多于所得
 
 ### 135: [2023-02-24 01:29:22+08:00 推文](https://twitter.com/HeQinglian/status/1628809253329813506)
 
-乌克兰外长称收到了中国的和平计划，正在研究。如果不接受，明说。但弄成这个局面，恐怕双方也没有会谈了。<br>https://twitter.com/KELMAND1/status/1628017107740000257<div class="rsshub-quote"><br><br>RFI 華語 - 法國國際廣播電台: 澤連斯基稱不知道有一個中國的烏克蘭戰爭和平計畫 希望與中國對話 https://rfi.my/9Bd8.t https://t.co/fJHWDsJeA4<br><br><img style="" src="https://pbs.twimg.com/media/Fpqft7WaEAAM6vh?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+乌克兰外长称收到了中国的和平计划，正在研究。如果不接受，明说。但弄成这个局面，恐怕双方也没有会谈了。<br>https://twitter.com/KELMAND1/status/1628017107740000257 https://twitter.com/RFI_TradCn/status/1628789830036623361<div class="rsshub-quote"><br><br>RFI 華語 - 法國國際廣播電台: 澤連斯基稱不知道有一個中國的烏克蘭戰爭和平計畫 希望與中國對話 https://rfi.my/9Bd8.t https://t.co/fJHWDsJeA4<br><br><img style="" src="https://pbs.twimg.com/media/Fpqft7WaEAAM6vh?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 136: [2023-02-24 01:31:31+08:00 推文](https://twitter.com/HeQinglian/status/1628809795158286338)
 
@@ -681,7 +681,7 @@ Re @eGUAbe2V7j26GHw 去年，德国去工业化，倒闭大批企业；法国、
 
 ### 167: [2023-02-24 09:11:57+08:00 推文](https://twitter.com/HeQinglian/status/1628925667579420672)
 
-【前外交部長王毅最近升任中共中央政治局局長】<br>请问推友，中国什么时候设立了这个职位——中共中央政治局局长？ https://twitter.com/QQzk_prs/status/1628568255311888384
+【前外交部長王毅最近升任中共中央政治局局長】<br>请问推友，中国什么时候设立了这个职位——中共中央政治局局长？
 
 ### 168: [2023-02-24 09:14:53+08:00 推文](https://twitter.com/HeQinglian/status/1628926404371927040)
 
@@ -737,7 +737,7 @@ Re @pandatress1 俄罗斯的制造业经理人采购指数够牛的，大概在5
 
 ### 181: [2023-02-24 23:43:55+08:00 推文](https://twitter.com/HeQinglian/status/1629145105016709120)
 
-多极化，美国彩虹文化就带着欧洲一道玩吧。 https://twitter.com/zt33268778/status/1628961825579577345<div class="rsshub-quote"><br><br>zt: 什么是“普世价值”，如果中共成了世界老大，普世价值就是永远坚持党的领导；如果墓撕陵当了老大，普世价值就是女人都要蒙面；如果白左成了老大，那么就什么都没有了，普世价值将湮没在LGBTQ的彩虹屁里，人类文明都要消亡。看起来前两者好歹也能算是个文明，后者就是文明的敌人。<br></div>
+多极化，美国彩虹文化就带着欧洲一道玩吧。<div class="rsshub-quote"><br><br>zt: 什么是“普世价值”，如果中共成了世界老大，普世价值就是永远坚持党的领导；如果墓撕陵当了老大，普世价值就是女人都要蒙面；如果白左成了老大，那么就什么都没有了，普世价值将湮没在LGBTQ的彩虹屁里，人类文明都要消亡。看起来前两者好歹也能算是个文明，后者就是文明的敌人。<br></div>
 
 ### 182: [2023-02-24 23:45:24+08:00 推文](https://twitter.com/HeQinglian/status/1629145475805749249)
 
@@ -1165,7 +1165,7 @@ RT Richard<br>Re @kiu49570071 @HeQinglian 时间，地点，人物都有，你
 
 ### 288: [2023-02-26 22:14:03+08:00 推文](https://twitter.com/HeQinglian/status/1629847262649040897)
 
-历史重温：<br>几乎同时段，江泽民在高层内部会议上提出：吸取六四一代过于政治化的教训，放开社会娱乐管制，将年轻一代的注意力吸引到非政治化领域，减少对政治话题的关注——此后养成的中国70、80生代，多数是“娱乐至死”、不关心政治，与六四一代精神完全不同。<br>不清楚江是否从“奶头乐理论”获得灵感。<div class="rsshub-quote"><br><br>He Qinglian: 这些来自各国的社会顶层精英，纷纷表达了对未来世界的担忧。<br>他们认为，随着高科技的进步与发展，机器将取代人力，整个社会只需要10%左右的人创造性地工作，还有30%的人从事各种社会服务业，多数会成为奶瓶阶层，这会引起社会矛盾的大爆发。<br>布热津斯基在会上提出了他的解决方案——著名的“奶头乐理论”<br></div>
+历史重温：<br>几乎同时段，江泽民在高层内部会议上提出：吸取六四一代过于政治化的教训，放开社会娱乐管制，将年轻一代的注意力吸引到非政治化领域，减少对政治话题的关注——此后养成的中国70、80生代，多数是“娱乐至死”、不关心政治，与六四一代精神完全不同。<br>不清楚江是否从“奶头乐理论”获得灵感。 https://twitter.com/HeQinglian/status/1629684014809325571<div class="rsshub-quote"><br><br>He Qinglian: 这些来自各国的社会顶层精英，纷纷表达了对未来世界的担忧。<br>他们认为，随着高科技的进步与发展，机器将取代人力，整个社会只需要10%左右的人创造性地工作，还有30%的人从事各种社会服务业，多数会成为奶瓶阶层，这会引起社会矛盾的大爆发。<br>布热津斯基在会上提出了他的解决方案——著名的“奶头乐理论”<br></div>
 
 ### 289: [2023-02-26 22:19:32+08:00 推文](https://twitter.com/HeQinglian/status/1629848642612781056)
 

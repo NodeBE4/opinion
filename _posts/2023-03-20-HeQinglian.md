@@ -113,7 +113,7 @@ Re @mitolyu @gvkJVjo3J0BIJod 我那时才十岁。
 
 ### 25: [2023-03-21 08:12:33+08:00 推文](https://twitter.com/HeQinglian/status/1637970414532980736)
 
-从2012年开始，加州成为儿童LGBTQ教育的实验场<br>1、United Nations Educational, Scientific and Cultural Organization Education sector responses to homophobic bullying (chi), ISBN :978-92-3-001185-7, Year of publication :2012, 2013 https://unesdoc.unesco.org/ark:/48223/pf0000216493_chi <br>2、https://sd11.senate.ca.gov/news/20220803-senator-wiener%E2%80%99s-bill-provide-refuge-trans-kids-and-their-families-passes-final ) https://twitter.com/HeQinglian/status/1637874624951099397<div class="rsshub-quote"><br><br>He Qinglian: 2022年4月，拜登和他的政府发布了两份下属机构的文件，旨在支持和鼓励男孩和女孩进行化学和手术阉割，一份来自Office of Population Affairs，题为Gender-Affirming Care and Young People；另一份是Gender-Affirming Care is Trauma-Informed Care。 https://www.drjamesdobson.org/articles/bidens-radicalized-transgender-agenda-takes-full-aim-at-your-children https://twitter.com/tankman2002/status/1637672806799507456<br></div>
+从2012年开始，加州成为儿童LGBTQ教育的实验场<br>1、United Nations Educational, Scientific and Cultural Organization Education sector responses to homophobic bullying (chi), ISBN :978-92-3-001185-7, Year of publication :2012, 2013 https://unesdoc.unesco.org/ark:/48223/pf0000216493_chi <br>2、https://sd11.senate.ca.gov/news/20220803-senator-wiener%E2%80%99s-bill-provide-refuge-trans-kids-and-their-families-passes-final )<div class="rsshub-quote"><br><br>He Qinglian: 2022年4月，拜登和他的政府发布了两份下属机构的文件，旨在支持和鼓励男孩和女孩进行化学和手术阉割，一份来自Office of Population Affairs，题为Gender-Affirming Care and Young People；另一份是Gender-Affirming Care is Trauma-Informed Care。 https://www.drjamesdobson.org/articles/bidens-radicalized-transgender-agenda-takes-full-aim-at-your-children<br></div>
 
 ### 26: [2023-03-21 08:13:12+08:00 推文](https://twitter.com/HeQinglian/status/1637970579100778501)
 
@@ -153,7 +153,7 @@ Re @KELMAND1 @82WztfvhHqZz0Ub 纠正：是瑞信，The Credit Suisse。这次瑞
 
 ### 35: [2023-03-21 22:14:05+08:00 推文](https://twitter.com/JianglinLi/status/1638182192009412610)
 
-RT 李江琳<br>拜登的银行记录。这可真是鸡犬升天。<div class="rsshub-quote"><br><br>Oversight Committee: 🤥🤥🤥🤥<br> <br>We’ve got the bank records. https://t.co/yDYPcOxKYW<br><br><img style="" src="https://pbs.twimg.com/media/FrrHOJQXsAEhtZy?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT 李江琳<br>拜登的银行记录。这可真是鸡犬升天。 https://twitter.com/GOPoversight/status/1637840708726816779<div class="rsshub-quote"><br><br>Oversight Committee: 🤥🤥🤥🤥<br> <br>We’ve got the bank records. https://twitter.com/FoxNews/status/1637111635797061633 https://t.co/yDYPcOxKYW<br><br><img style="" src="https://pbs.twimg.com/media/FrrHOJQXsAEhtZy?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 36: [2023-03-22 03:38:21+08:00 推文](https://twitter.com/HeQinglian/status/1638263799399477249)
 
@@ -161,9 +161,21 @@ RT 李江琳<br>拜登的银行记录。这可真是鸡犬升天。<div class=
 
 ### 37: [2023-03-22 08:00:27+08:00 推文](https://twitter.com/HeQinglian/status/1638329758134984704)
 
-美国国务院发言人约翰·柯比：“LGBQI+的权利是美国的外交政策核心”。<div class="rsshub-quote"><br><br>Daily Wire: Kirby: "LGBTQ+ rights...are a core part of our foreign policy." <br>https://t.co/qfdXTr52B9<br><br><video src="https://video.twimg.com/ext_tw_video/1638265285164650508/pu/vid/720x406/XirVONbtsrH17VI7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1638265285164650508/pu/img/S1NR7Qa4_SPM3nDP.jpg"></video></div>
+美国国务院发言人约翰·柯比：“LGBQI+的权利是美国的外交政策核心”。 https://twitter.com/realDailyWire/status/1638267335634046978<div class="rsshub-quote"><br><br>Daily Wire: Kirby: "LGBTQ+ rights...are a core part of our foreign policy." <br>https://t.co/qfdXTr52B9<br><br><video src="https://video.twimg.com/ext_tw_video/1638265285164650508/pu/vid/720x406/XirVONbtsrH17VI7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1638265285164650508/pu/img/S1NR7Qa4_SPM3nDP.jpg"></video></div>
 
 ### 38: [2023-03-22 08:05:48+08:00 推文](https://twitter.com/HeQinglian/status/1638331101759299585)
 
 Re @zhixiangziyou 等于公开抢劫，劫完后破产，由关系密切白宫买单。用的是纳税人的血汗钱。
+
+### 39: [2023-03-22 09:58:14+08:00 推文](https://twitter.com/HeQinglian/status/1638359396861313025)
+
+Re @shijianxingzou 核心有多个？这真是独到的解释。<br>拜登上任第一天签发的20多道总统令，好几条涉及这，但并未宣布这是核心，只是政府的重要工作。成为核心，是去年的事情，参考布林肯去年4月26日的宣言。
+
+### 40: [2023-03-22 10:01:17+08:00 推文](https://twitter.com/HeQinglian/status/1638360165584977923)
+
+Re @shenliangqing2 买国债？中国正在减持。俄罗斯购买的美国国债目前还在空中悬着呢。
+
+### 41: [2023-03-22 10:21:45+08:00 推文](https://twitter.com/HeQinglian/status/1638365316949393410)
+
+Re @shenliangqing2 中俄贸易去年高达1900亿美元，都是两国用本币结算；还有好些中东国家包括南非，现在都接受人民币做为贸易结算货币。<br>美国作为结算货币，占比为39%，比 欧元只高3个点不到。这场战争将俄罗斯踢出SWIFT，受损的不是被制裁的俄罗斯，是美国，美元地位在下降。
 
