@@ -27,11 +27,11 @@ I am very honored to announce that I am invited by @POTUS to deliver a remark in
 
 ### 3: [2021-12-07 07:05:35+08:00 推文](https://twitter.com/nathanlawkc/status/1467993653415235585)
 
-From a student protest leader, the youngest elected legislator in Hong Kong, to a political prisoner and exiled activist … these all happened in my 20s. <br><br>And this is the story I want to share. <br><br>#Freedom is available in the US & Canada on 7th Dec. <a href="http://bit.ly/Freedom-Book" target="_blank" rel="noopener noreferrer">http://bit.ly/Freedom-Book</a><br><img style="" src="https://pbs.twimg.com/media/FF9b4lGXwBEW-Fa?format=jpg&name=orig" referrerpolicy="no-referrer">
+From a student protest leader, the youngest elected legislator in Hong Kong, to a political prisoner and exiled activist … these all happened in my 20s. <br><br>And this is the story I want to share. <br><br>#Freedom is available in the US & Canada on 7th Dec. <a href="http://bit.ly/Freedom-Book" target="_blank" rel="noopener noreferrer">http://bit.ly/Freedom-Book</a><br><img style src="https://pbs.twimg.com/media/FF9b4lGXwBEW-Fa?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-12-07 07:57:01+08:00 推文](https://twitter.com/nathanlawkc/status/1468006595804209154)
 
-Been pushing a diplomatic boycott for so long -- now finally we've got some results. <br>Now, the other democratic countries should do the same.<br>#NoBeijing2022<br><br>Joey Siu 邵嵐 #freehk: Now that the U.S. officially announced a diplomatic boycott of 2022 Beijing Winter Olympics, time for 🇨🇦🇦🇺🇩🇪🇫🇷🇯🇵 and other countries to act too.<br><br>#NoBeijing2022<br><br><img style="" src="https://pbs.twimg.com/media/FF8dWgPXMAQ8L2u?format=jpg&name=orig" referrerpolicy="no-referrer">
+Been pushing a diplomatic boycott for so long -- now finally we've got some results. <br>Now, the other democratic countries should do the same.<br>#NoBeijing2022<br><br>Joey Siu 邵嵐 #freehk: Now that the U.S. officially announced a diplomatic boycott of 2022 Beijing Winter Olympics, time for 🇨🇦🇦🇺🇩🇪🇫🇷🇯🇵 and other countries to act too.<br><br>#NoBeijing2022<br><br><img style src="https://pbs.twimg.com/media/FF8dWgPXMAQ8L2u?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2021-12-07 22:23:05+08:00 推文](https://twitter.com/nathanlawkc/status/1468224547950407696)
 
@@ -39,11 +39,11 @@ Media should stop directly quoting the Chinese govt's self-claim of "another ver
 
 ### 6: [2021-12-08 04:12:24+08:00 推文](https://twitter.com/nathanlawkc/status/1468312456451788806)
 
-See you all at @ColbyCollege with @GoldfarbCenter tonight.<br><br>Live stream for tonight's event at 7PM ET: <br>But I would love to see students attend in person!<br><br>(P.S.: This is one of the best event posters I've seen. The designer is talented.) <a href="https://www.colby.edu/livestream/" target="_blank" rel="noopener noreferrer">https://www.colby.edu/livestream/</a><br><img style src="https://pbs.twimg.com/media/FGB6_ycWQAIsgPi?format=jpg&name=orig" referrerpolicy="no-referrer">
+See you all at @ColbyCollege with @GoldfarbCenter tonight.<br><br>Live stream for tonight's event at 7PM ET: <br>But I would love to see students attend in person!<br><br>(P.S.: This is one of the best event posters I've seen. The designer is talented.) <a href="https://www.colby.edu/livestream/" target="_blank" rel="noopener noreferrer">https://www.colby.edu/livestream/</a><br><img style="" src="https://pbs.twimg.com/media/FGB6_ycWQAIsgPi?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2021-12-08 04:37:04+08:00 推文](https://twitter.com/nathanlawkc/status/1468318663669387269)
 
-I was again named by the HK govt top officials, including SS Chris Tang and Commissioner of Police, that my remark in #SummitForDemocracy violates the NSL and now am a “Class A wanted criminal.”<br>Campaigning for human rights is “secession” and “subversion” by Beijing’s definition.<br><img style="" src="https://pbs.twimg.com/media/FGCDT52X0AAhxda?format=jpg&name=orig" referrerpolicy="no-referrer">
+I was again named by the HK govt top officials, including SS Chris Tang and Commissioner of Police, that my remark in #SummitForDemocracy violates the NSL and now am a “Class A wanted criminal.”<br>Campaigning for human rights is “secession” and “subversion” by Beijing’s definition.<br><img style src="https://pbs.twimg.com/media/FGCDT52X0AAhxda?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2021-12-08 21:48:54+08:00 推文](https://twitter.com/nathanlawkc/status/1468578335244656640)
 
@@ -55,7 +55,7 @@ I was again named by the HK govt top officials, including SS Chris Tang and Comm
 
 ### 10: [2021-12-10 01:35:47+08:00 推文](https://twitter.com/nathanlawkc/status/1468997819595952148)
 
-3 things Mr Hu needs to do:<br>1. Improve his Photoshop skills<br>2. Learn the definition of democracy <br>3. Get a closer grip on reality<br>So low.<br><img style="" src="https://pbs.twimg.com/media/FGLtuwgWUAYqoaC?format=jpg&name=orig" referrerpolicy="no-referrer">
+3 things Mr Hu needs to do:<br>1. Improve his Photoshop skills<br>2. Learn the definition of democracy <br>3. Get a closer grip on reality<br>So low.<br><img style src="https://pbs.twimg.com/media/FGLtuwgWUAYqoaC?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 11: [2021-12-10 05:24:53+08:00 推文](https://twitter.com/nathanlawkc/status/1469055475677282305)
 
@@ -75,7 +75,7 @@ Thanks @nprscottsimon for having me on NPR’s morning program.<br><br>Scott Sim
 
 ### 15: [2021-12-11 22:57:55+08:00 推文](https://twitter.com/nathanlawkc/status/1469682865197793281)
 
-Friends in #NA:<br>“#Freedom” is out now. Reflecting on my #SummitforDemocracy remark, it's surely a timely read.<br>The story of Hong Kong is narrated through my life. It is a touching, warm, and insightful touch on why we should protect freedom and democracy. <a href="http://bit.ly/Freedom-Book" target="_blank" rel="noopener noreferrer">http://bit.ly/Freedom-Book</a><br><img style src="https://pbs.twimg.com/media/FGVcAqzXwAQUAsF?format=jpg&name=orig" referrerpolicy="no-referrer">
+Friends in #NA:<br>“#Freedom” is out now. Reflecting on my #SummitforDemocracy remark, it's surely a timely read.<br>The story of Hong Kong is narrated through my life. It is a touching, warm, and insightful touch on why we should protect freedom and democracy. <a href="http://bit.ly/Freedom-Book" target="_blank" rel="noopener noreferrer">http://bit.ly/Freedom-Book</a><br><img style="" src="https://pbs.twimg.com/media/FGVcAqzXwAQUAsF?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 16: [2021-12-12 04:32:00+08:00 推文](https://twitter.com/nathanlawkc/status/1469766940432510977)
 
