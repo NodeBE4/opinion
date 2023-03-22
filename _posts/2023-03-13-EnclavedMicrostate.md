@@ -141,3 +141,9 @@ FWIW I don't really like the current season, even if I agree that some of the 'g
 
 Didn't help that they fired (I think) S2's showrunners partway in, citing abusive behaviour, making S3 the first season which had the same showrunners from conception to execution.
 
+----- __1147.9__ -----2023-03-22 08:57:02+08:00:
+
+> the UK punk scene at the time was associated with anarchism
+
+Yeah but the Sex Pistols in particular were more nihilistic than anarchistic – indeed, 'Anarchy in the UK' was written as a mockery of anarchists. Crass or The Clash would stand out as actual anarchist or at least anarchist-leaning groups with some degree of actual idealism involved.
+

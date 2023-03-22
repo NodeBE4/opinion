@@ -159,3 +159,11 @@ RT 李江琳<br>拜登的银行记录。这可真是鸡犬升天。<div class=
 
 四处漏风的中国金融为何至今表面安然https://www.rfa.org/mandarin/pinglun/heqinglian/hql-03212023104651.html<br>中国金融市场不同于成熟市场，数据获得方式及可信度不一样，完全凭金融高官的专业经验外加行政手段控制。防金融风险常抓不懈。<br>中国金融风险主要聚集在房市，2022年以来八轮经济调控的阀门装在这个市场上，通过房企倒闭缓解金融危机。
 
+### 37: [2023-03-22 08:00:27+08:00 推文](https://twitter.com/HeQinglian/status/1638329758134984704)
+
+美国国务院发言人约翰·柯比：“LGBQI+的权利是美国的外交政策核心”。<div class="rsshub-quote"><br><br>Daily Wire: Kirby: "LGBTQ+ rights...are a core part of our foreign policy." <br>https://t.co/qfdXTr52B9<br><br><video src="https://video.twimg.com/ext_tw_video/1638265285164650508/pu/vid/720x406/XirVONbtsrH17VI7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1638265285164650508/pu/img/S1NR7Qa4_SPM3nDP.jpg"></video></div>
+
+### 38: [2023-03-22 08:05:48+08:00 推文](https://twitter.com/HeQinglian/status/1638331101759299585)
+
+Re @zhixiangziyou 等于公开抢劫，劫完后破产，由关系密切白宫买单。用的是纳税人的血汗钱。
+
