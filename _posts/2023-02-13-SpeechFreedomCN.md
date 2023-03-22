@@ -29,7 +29,7 @@ Man from Jiangxi surnamed Zeng detained for three days for his WeChat Moment pos
 
 ### 4: [2023-02-15 20:28:32+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1625834442940899331)
 
-Unnamed Chinese netizen detained for 10 days for posting info on Twitter and Facebook critical of the Chinese Communist Party, including revealing local police's crackdown on freedom of speech.<br><img style="" src="https://pbs.twimg.com/media/FpAffuEWAAE3iCc?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpAfijoWcAYSuVJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Unnamed Chinese netizen detained for 10 days for posting info on Twitter and Facebook critical of the Chinese Communist Party, including revealing local police's crackdown on freedom of speech. https://t.co/0wGu3biUuA<br><img style="" src="https://pbs.twimg.com/media/FpAffuEWAAE3iCc?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpAfijoWcAYSuVJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2023-02-18 19:26:30+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1626905997305434114)
 
