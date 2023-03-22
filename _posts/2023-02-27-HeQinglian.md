@@ -77,7 +77,7 @@ Re @qihang19211 我未使用中国居民负债金额这个概念。<br>文中说
 
 ### 16: [2023-02-28 05:28:48+08:00 推文](https://twitter.com/HeQinglian/status/1630319059936899072)
 
-一战爆发后，列宁写了数篇文章，《革命的社会民主党在欧洲大战中的任务》（即“关于战争的提纲”），并以此为基础写了《战争和俄国社会民主党》。这两篇文献确定了这场战争的性质：资产阶级、帝国主义、王朝战争的性质，是非正义的。列宁提出“变帝国主义战争为国内战争”的口号，反沙俄的内战是正义的。 https://twitter.com/HeQinglian/status/1630225930181328896<div class="rsshub-quote"><br><br>He Qinglian: @zhuxiuyuan 你独独忘记了《明斯克协议》，现在默克尔都承认当初签订时并未打算遵守，只是希望赢得时间壮大乌克兰的军事实力。<br>建议你学学美国智库的地缘政治理论，从布热津斯基开始，否则这辈子都只会列宁的战争正义-非正义论。<br></div>
+一战爆发后，列宁写了数篇文章，《革命的社会民主党在欧洲大战中的任务》（即“关于战争的提纲”），并以此为基础写了《战争和俄国社会民主党》。这两篇文献确定了这场战争的性质：资产阶级、帝国主义、王朝战争的性质，是非正义的。列宁提出“变帝国主义战争为国内战争”的口号，反沙俄的内战是正义的。<div class="rsshub-quote"><br><br>He Qinglian: @zhuxiuyuan 你独独忘记了《明斯克协议》，现在默克尔都承认当初签订时并未打算遵守，只是希望赢得时间壮大乌克兰的军事实力。<br>建议你学学美国智库的地缘政治理论，从布热津斯基开始，否则这辈子都只会列宁的战争正义-非正义论。<br></div>
 
 ### 17: [2023-02-28 05:32:44+08:00 推文](https://twitter.com/HeQinglian/status/1630320048488214529)
 
@@ -561,7 +561,7 @@ Re @eGUAbe2V7j26GHw @mafeife52494712 🤣🤣<br>你喜欢就好，毕竟是自�
 
 ### 137: [2023-03-03 07:22:41+08:00 推文](https://twitter.com/HeQinglian/status/1631434882839724037)
 
-这是重申美国欧亚地缘政治战略的要点，当时美国提出欧亚大战略之时，是全球化刚结束的1990年代中期。中国那时连经济起飞都没起步。<br>如今美国、中国国力大变，美国重提旧事，只是重温往时旧梦，告诉中国，别忘记不久之前你还穷得很。 https://twitter.com/franz_X_T/status/1631246830964215808<div class="rsshub-quote"><br><br>franz: “中国需要接受美国是亚洲的领导者”<br><br>刚看到这个新闻，我以为是假的😓，于是跑去搜索了一下，结果居然是真事儿。。<br><br>其实这种话仔细品一品，能品出说的人内心的不自信。但又好面儿，结果就跟电影里的桥段似的，跪在地上死乞白赖求中国让中国认他做大哥。<br><br>真的，大人，时代变了。 https://t.co/275epFFNcq<br><br><img style="" src="https://pbs.twimg.com/media/FqNaWL5aMAE3qna?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+这是重申美国欧亚地缘政治战略的要点，当时美国提出欧亚大战略之时，是全球化刚结束的1990年代中期。中国那时连经济起飞都没起步。<br>如今美国、中国国力大变，美国重提旧事，只是重温往时旧梦，告诉中国，别忘记不久之前你还穷得很。<div class="rsshub-quote"><br><br>franz: “中国需要接受美国是亚洲的领导者”<br><br>刚看到这个新闻，我以为是假的😓，于是跑去搜索了一下，结果居然是真事儿。。<br><br>其实这种话仔细品一品，能品出说的人内心的不自信。但又好面儿，结果就跟电影里的桥段似的，跪在地上死乞白赖求中国让中国认他做大哥。<br><br>真的，大人，时代变了。 https://t.co/275epFFNcq<br><br><img style="" src="https://pbs.twimg.com/media/FqNaWL5aMAE3qna?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 138: [2023-03-03 07:26:53+08:00 推文](https://twitter.com/HeQinglian/status/1631435940848627712)
 
@@ -657,11 +657,11 @@ Re @shenliangqing2 你就当成真旅游好了。
 
 ### 161: [2023-03-04 22:16:31+08:00 推文](https://twitter.com/HeQinglian/status/1632022212801712129)
 
-去年4月，我写文章引用CATO：无效、不道德、政治便利：美国对经济制裁的过度依赖以及如何应对<br>https://www.cato.org/policy-analysis/ineffective-immoral-politically-convenient-americas-overreliance-economic-sanctions<br>作者在研究过美国制裁两打以上国家的样本后，总结说：“最好的研究表明，制裁不仅会造成巨大的经济损失并最终造成生命损失，而且即使按照政策制定者设定的标准，制裁也会失败。” https://twitter.com/KELMAND1/status/1632015096011685889<div class="rsshub-quote"><br><br>Ezio Mao☢: 彭博社：俄罗斯成功绕过欧盟和 G7 制裁，购买制造武器所需的微芯片<br><br>该机构表示，俄罗斯在该电子领域的进口已基本恢复到 2020 年的水平。先进的芯片是通过土耳其、阿拉伯联合酋长国和哈萨克斯坦采购的。<br><br>这还只是官方白手套，世界上还有一种东西叫黑市……通过禁运就想让人买不到这是幼稚的想法😂 https://t.co/WmSGnsG1Dk<br><br><img style="" src="https://pbs.twimg.com/media/FqYVFDpaAAAY8Co?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+去年4月，我写文章引用CATO：无效、不道德、政治便利：美国对经济制裁的过度依赖以及如何应对<br>https://www.cato.org/policy-analysis/ineffective-immoral-politically-convenient-americas-overreliance-economic-sanctions<br>作者在研究过美国制裁两打以上国家的样本后，总结说：“最好的研究表明，制裁不仅会造成巨大的经济损失并最终造成生命损失，而且即使按照政策制定者设定的标准，制裁也会失败。”<div class="rsshub-quote"><br><br>Ezio Mao☢: 彭博社：俄罗斯成功绕过欧盟和 G7 制裁，购买制造武器所需的微芯片<br><br>该机构表示，俄罗斯在该电子领域的进口已基本恢复到 2020 年的水平。先进的芯片是通过土耳其、阿拉伯联合酋长国和哈萨克斯坦采购的。<br><br>这还只是官方白手套，世界上还有一种东西叫黑市……通过禁运就想让人买不到这是幼稚的想法😂 https://t.co/WmSGnsG1Dk<br><br><img style="" src="https://pbs.twimg.com/media/FqYVFDpaAAAY8Co?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 162: [2023-03-04 22:22:36+08:00 推文](https://twitter.com/HeQinglian/status/1632023742564933640)
 
-去年有记者（英文媒体）来问我这问题，说这是中共阴谋。<br>我说，别太过份了。大麻合法化，这是拜登民主党的“国策”，难道他们是按中共指令做的？大麻成为美国的人民战争，完全是民主党多年挑起的。至于中国人、中国生产大麻趁机牟利，那也是苍蝇不钻无缝的蛋。 https://twitter.com/bu3bu4/status/1631861384001785859<div class="rsshub-quote"><br><br>burn: @HeQinglian @Lucs24659702 中国公民在美国最大的县生产的，不算本土大麻吗？😂<br></div>
+去年有记者（英文媒体）来问我这问题，说这是中共阴谋。<br>我说，别太过份了。大麻合法化，这是拜登民主党的“国策”，难道他们是按中共指令做的？大麻成为美国的人民战争，完全是民主党多年挑起的。至于中国人、中国生产大麻趁机牟利，那也是苍蝇不钻无缝的蛋。<div class="rsshub-quote"><br><br>burn: @HeQinglian @Lucs24659702 中国公民在美国最大的县生产的，不算本土大麻吗？😂<br></div>
 
 ### 163: [2023-03-05 08:55:16+08:00 推文](https://twitter.com/HeQinglian/status/1632182956776206338)
 

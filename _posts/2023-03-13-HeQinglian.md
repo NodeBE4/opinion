@@ -77,7 +77,7 @@ Re @mingshi_chen 这些人与当初那个歌星杰克逊一样，恨自己是黑
 
 ### 16: [2023-03-13 07:55:31+08:00 推文](https://twitter.com/HeQinglian/status/1635067025419825152)
 
-任何人都解决不了。<br>左右均占40%，其中极左28%。决定美国命运的是中间那20%的人，病久了，任何保守派当政，都只能慢慢来，第一任期稳住大盘，发展经济，在州层面扼制极左的胡闹；争取第二任期，再办其中部分事情。 https://twitter.com/wto518/status/1635006257378607111<div class="rsshub-quote"><br><br>麻辣空间: 问几个川普2024的常规问题<br>1、他能解决黑命贵吗？<br>2、他能解决安提法吗？<br>3、他能解决华盛顿罪恶政权吗？<br>4、他能解决变态彩旗吗？<br>5、他能解决FBI和CIA吗？<br>6、他能解决军方吗？<br>7、他能解决制造业吗？<br>8、他能解决左媒吗？<br>9、他能解决司法吗？<br>10、他能解决长生不死吗？… https://twitter.com/i/web/status/1635006257378607111<br></div>
+任何人都解决不了。<br>左右均占40%，其中极左28%。决定美国命运的是中间那20%的人，病久了，任何保守派当政，都只能慢慢来，第一任期稳住大盘，发展经济，在州层面扼制极左的胡闹；争取第二任期，再办其中部分事情。<div class="rsshub-quote"><br><br>麻辣空间: 问几个川普2024的常规问题<br>1、他能解决黑命贵吗？<br>2、他能解决安提法吗？<br>3、他能解决华盛顿罪恶政权吗？<br>4、他能解决变态彩旗吗？<br>5、他能解决FBI和CIA吗？<br>6、他能解决军方吗？<br>7、他能解决制造业吗？<br>8、他能解决左媒吗？<br>9、他能解决司法吗？<br>10、他能解决长生不死吗？… https://twitter.com/i/web/status/1635006257378607111<br></div>
 
 ### 17: [2023-03-13 08:18:47+08:00 推文](https://twitter.com/HeQinglian/status/1635072880055820288)
 
@@ -193,7 +193,7 @@ Re @vivivippp1 有条消息，说内部人在破产前24小时提取存款。
 
 ### 45: [2023-03-13 22:42:06+08:00 推文](https://twitter.com/HeQinglian/status/1635290139399458817)
 
-‘Get woke, go broke’ https://www.businesstoday.in/silicon-valley-bank/story/get-woke-go-broke-silicon-valley-banks-top-woman-executive-lgbtq-activist-gets-targeted-for-lenders-failure-373067-2023-03-12<br>到现在为止，如果还不认识以下事实，只能说是无感：欧洲尤其是绿色先锋德国洗绿，欧盟碳税不能收了，另起名目收取气候补偿基金，这一事实标志绿能破产。<br>大重置将随着2024美国选举拜登政府下台而结束——除了这个集团比2020更疯狂地盗票。<div class="rsshub-quote"><br><br>Vince66: @HeQinglian 谢谢总结分享.  除了woke 这个银行的操作风险高<br></div>
+‘Get woke, go broke’ https://www.businesstoday.in/silicon-valley-bank/story/get-woke-go-broke-silicon-valley-banks-top-woman-executive-lgbtq-activist-gets-targeted-for-lenders-failure-373067-2023-03-12<br>到现在为止，如果还不认识以下事实，只能说是无感：欧洲尤其是绿色先锋德国洗绿，欧盟碳税不能收了，另起名目收取气候补偿基金，这一事实标志绿能破产。<br>大重置将随着2024美国选举拜登政府下台而结束——除了这个集团比2020更疯狂地盗票。 https://twitter.com/Vince6610/status/1635259128812810240<div class="rsshub-quote"><br><br>Vince66: @HeQinglian 谢谢总结分享.  除了woke 这个银行的操作风险高<br></div>
 
 ### 46: [2023-03-13 22:43:23+08:00 推文](https://twitter.com/HeQinglian/status/1635290465041027077)
 
@@ -373,7 +373,7 @@ Re @JianglinLi @PrezXi 如果自带饭辙，那当然可以。需要赏饭可能
 
 ### 90: [2023-03-14 10:49:55+08:00 推文](https://twitter.com/shenliangqing2/status/1635473304093097985)
 
-RT 沈良庆二世<br>痴呆政府主导下的西方国家地缘政治：外交战略“既要…也要”第六病室辩证法<div class="rsshub-quote"><br><br>联合早报 Lianhe Zaobao: 英国在更新版的外交政策框架中，将中国视为对世界秩序构成“划时代的挑战”，但它也表明，倾向于与北京增进合作与理解，并指英国的安全取决于乌克兰战争的结果。 https://www.zaobao.com.sg/realtime/world/story20230314-1372356<br></div>
+RT 沈良庆二世<br>痴呆政府主导下的西方国家地缘政治：外交战略“既要…也要”第六病室辩证法 https://twitter.com/zaobaosg/status/1635437821245763588<div class="rsshub-quote"><br><br>联合早报 Lianhe Zaobao: 英国在更新版的外交政策框架中，将中国视为对世界秩序构成“划时代的挑战”，但它也表明，倾向于与北京增进合作与理解，并指英国的安全取决于乌克兰战争的结果。 https://www.zaobao.com.sg/realtime/world/story20230314-1372356<br></div>
 
 ### 91: [2023-03-14 22:01:26+08:00 推文](https://twitter.com/HeQinglian/status/1635642293825699850)
 
@@ -489,7 +489,7 @@ Re @Gerald87816828 还有大麻专业。<br>当然，如果你家愿意资助这
 
 ### 119: [2023-03-15 08:16:59+08:00 推文](https://twitter.com/HeQinglian/status/1635797202185379842)
 
-SVB是 BLM的主要捐助者。该组织是一个治理高度可疑的慈善组织，被可靠地指控腐败分配资金。<br>据克莱蒙特研究所称，记录显示硅谷银行已向BLM及相关团体认捐约 7400 万美元。<br>消费者研究执行董事威尔希尔德说，SVB 的失败“再次表明 SVB 专注于Woke而不是保护客户的存款。” <br>2023 <br>https://trendingpoliticsnews.com/svb-blm-knab/<div class="rsshub-quote"><br><br>Kyle Becker: This just in: 'Woke' bank getting Biden bailout was a bigtime donor to Black Lives Matter.<br>https://open.substack.com/pub/thekylebecker/p/silicon-valley-bank-getting-a-biden?r=16zqp&amp;utm_campaign=post&amp;utm_medium=web<br></div>
+SVB是 BLM的主要捐助者。该组织是一个治理高度可疑的慈善组织，被可靠地指控腐败分配资金。<br>据克莱蒙特研究所称，记录显示硅谷银行已向BLM及相关团体认捐约 7400 万美元。<br>消费者研究执行董事威尔希尔德说，SVB 的失败“再次表明 SVB 专注于Woke而不是保护客户的存款。” <br>2023 <br>https://trendingpoliticsnews.com/svb-blm-knab/ https://twitter.com/kylenabecker/status/1635775478832275456<div class="rsshub-quote"><br><br>Kyle Becker: This just in: 'Woke' bank getting Biden bailout was a bigtime donor to Black Lives Matter.<br>https://open.substack.com/pub/thekylebecker/p/silicon-valley-bank-getting-a-biden?r=16zqp&amp;utm_campaign=post&amp;utm_medium=web<br></div>
 
 ### 120: [2023-03-15 08:18:46+08:00 推文](https://twitter.com/HeQinglian/status/1635797650170859521)
 
@@ -813,7 +813,7 @@ Re @shenliangqing2 他当年在挺郭兴奋期也曾发表一段攻击我的视�
 
 ### 200: [2023-03-17 02:06:04+08:00 推文](https://twitter.com/zhixiangziyou/status/1636428635354611744)
 
-RT L JM🇺🇸<br>爆炸性报告：银行记录显示罗伯·沃克是拜登家族的同伙，他利用他的公司从一家中国能源公司向哈莉·拜登、詹姆斯·拜登、亨特·拜登和另一个“不知名的拜登”转账。<div class="rsshub-quote"><br><br>Chuck Callesto: BREAKING REPORT: Bank records emerge identifying Rob Walker, A BIDEN FAMILY ASSOCIATE used his company to transfer money FROM A CHINESE ENERGY COMPANY to Hallie Biden, James Biden, Hunter Biden, and another “unknown Biden.”<br></div>
+RT L JM🇺🇸<br>爆炸性报告：银行记录显示罗伯·沃克是拜登家族的同伙，他利用他的公司从一家中国能源公司向哈莉·拜登、詹姆斯·拜登、亨特·拜登和另一个“不知名的拜登”转账。 https://twitter.com/chuckcallesto/status/1636424667689889793<div class="rsshub-quote"><br><br>Chuck Callesto: BREAKING REPORT: Bank records emerge identifying Rob Walker, A BIDEN FAMILY ASSOCIATE used his company to transfer money FROM A CHINESE ENERGY COMPANY to Hallie Biden, James Biden, Hunter Biden, and another “unknown Biden.”<br></div>
 
 ### 201: [2023-03-17 02:06:17+08:00 推文](https://twitter.com/HeQinglian/status/1636428690824339457)
 
@@ -985,7 +985,7 @@ Re @mingshi_chen @lianghuiwang2 你忘记一件最大的事情，这是SWIFT系�
 
 ### 243: [2023-03-18 21:10:24+08:00 推文](https://twitter.com/HeQinglian/status/1637079002262142979)
 
-美國2023金融爆雷第一家──矽谷銀行病理診斷<br>https://www.upmedia.mg/news_info.php?Type=2&amp;SerialNo=168181<br>美主媒一致强调硅谷银行困境的普遍性（美联储加息），想掩盖这家银行破产的特殊性：将Woke事业当作经营主打<br>本文对该行做企业诊断：该董事会及经营管理人员构成，经营方向、服务目标均服务于拜登政府的Woke政治，指出其必败之由
+RT He Qinglian<br>美國2023金融爆雷第一家──矽谷銀行病理診斷<br>https://www.upmedia.mg/news_info.php?Type=2&amp;SerialNo=168181<br>美主媒一致强调硅谷银行困境的普遍性（美联储加息），想掩盖这家银行破产的特殊性：将Woke事业当作经营主打<br>本文对该行做企业诊断：该董事会及经营管理人员构成，经营方向、服务目标均服务于拜登政府的Woke政治，指出其必败之由
 
 ### 244: [2023-03-18 21:13:57+08:00 推文](https://twitter.com/HeQinglian/status/1637079897716715521)
 
