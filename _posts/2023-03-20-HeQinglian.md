@@ -153,7 +153,7 @@ Re @KELMAND1 @82WztfvhHqZz0Ub 纠正：是瑞信，The Credit Suisse。这次瑞
 
 ### 35: [2023-03-21 22:14:05+08:00 推文](https://twitter.com/JianglinLi/status/1638182192009412610)
 
-RT 李江琳<br>拜登的银行记录。这可真是鸡犬升天。<div class="rsshub-quote"><br><br>Oversight Committee: 🤥🤥🤥🤥<br> <br>We’ve got the bank records. https://t.co/yDYPcOxKYW<br><br><img style="" src="https://pbs.twimg.com/media/FrrHOJQXsAEhtZy?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT 李江琳<br>拜登的银行记录。这可真是鸡犬升天。 https://twitter.com/GOPoversight/status/1637840708726816779<div class="rsshub-quote"><br><br>Oversight Committee: 🤥🤥🤥🤥<br> <br>We’ve got the bank records. https://twitter.com/FoxNews/status/1637111635797061633 https://t.co/yDYPcOxKYW<br><br><img style="" src="https://pbs.twimg.com/media/FrrHOJQXsAEhtZy?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 36: [2023-03-22 03:38:21+08:00 推文](https://twitter.com/HeQinglian/status/1638263799399477249)
 
@@ -161,7 +161,7 @@ RT 李江琳<br>拜登的银行记录。这可真是鸡犬升天。<div class=
 
 ### 37: [2023-03-22 08:00:27+08:00 推文](https://twitter.com/HeQinglian/status/1638329758134984704)
 
-美国国务院发言人约翰·柯比：“LGBQI+的权利是美国的外交政策核心”。 https://twitter.com/realDailyWire/status/1638267335634046978<div class="rsshub-quote"><br><br>Daily Wire: Kirby: "LGBTQ+ rights...are a core part of our foreign policy." <br>https://t.co/qfdXTr52B9<br><br><video src="https://video.twimg.com/ext_tw_video/1638265285164650508/pu/vid/720x406/XirVONbtsrH17VI7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1638265285164650508/pu/img/S1NR7Qa4_SPM3nDP.jpg"></video></div>
+美国国务院发言人约翰·柯比：“LGBQI+的权利是美国的外交政策核心”。<div class="rsshub-quote"><br><br>Daily Wire: Kirby: "LGBTQ+ rights...are a core part of our foreign policy." <br>https://t.co/qfdXTr52B9<br><br><video src="https://video.twimg.com/ext_tw_video/1638265285164650508/pu/vid/720x406/XirVONbtsrH17VI7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1638265285164650508/pu/img/S1NR7Qa4_SPM3nDP.jpg"></video></div>
 
 ### 38: [2023-03-22 08:05:48+08:00 推文](https://twitter.com/HeQinglian/status/1638331101759299585)
 
@@ -178,4 +178,20 @@ Re @shenliangqing2 买国债？中国正在减持。俄罗斯购买的美国国�
 ### 41: [2023-03-22 10:21:45+08:00 推文](https://twitter.com/HeQinglian/status/1638365316949393410)
 
 Re @shenliangqing2 中俄贸易去年高达1900亿美元，都是两国用本币结算；还有好些中东国家包括南非，现在都接受人民币做为贸易结算货币。<br>美国作为结算货币，占比为39%，比 欧元只高3个点不到。这场战争将俄罗斯踢出SWIFT，受损的不是被制裁的俄罗斯，是美国，美元地位在下降。
+
+### 42: [2023-03-22 22:18:34+08:00 推文](https://twitter.com/HeQinglian/status/1638545708004384768)
+
+Re @fading_you1 中小学教师无非肤色，是CRT理论与lgbtqi+的积极推行者。如果说CRT给白人挖好坟墓，他们都是挖坟者。<br>除了铁锈地带少数利益受损者之外，白女多偏左。前年劳登县那位被心理变性黑男性侵的白人女生，父母均是民主党铁粉，父亲在事发后反抗被抓有所悔悟，母亲还在彰显大爱无疆，要求不要判那位惯犯刑罪。
+
+### 43: [2023-03-22 22:44:49+08:00 推文](https://twitter.com/HeQinglian/status/1638552314033184769)
+
+Re @fading_you1 这件事情带来维州一个转折点，多亏一位当地60多位的华裔女。她在这事件上的发言，因她的少数族地位，为许多敢怒不敢言的白人家长增加了勇气，后来被请至各地发言。该州州长选举翻红，在学校废除变性运动，有她一份功劳——这事我听一位朋友告知，华文媒体都不太讲这事。
+
+### 44: [2023-03-22 22:46:12+08:00 推文](https://twitter.com/HeQinglian/status/1638552663380959232)
+
+Re @wutiandashi 放心，美国人的数学还没中国人好，你讲的那些优势，是想象的。
+
+### 45: [2023-03-22 23:08:06+08:00 推文](https://twitter.com/HeQinglian/status/1638558175182872577)
+
+Re @JianglinLi @fading_you1 @XVanFleet 已Fo.谢谢。
 
