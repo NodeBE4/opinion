@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2023-03-22
+date: 2023-03-23
 from: https://twitter.com/SpeechFreedomCN/status/1638527953335119873
 layout: post
 tags:
@@ -26,4 +26,8 @@ Ruan Xiaohuan, more commonly by his blog name “Program Think”, a legend for 
 ### 3: [2023-03-22 23:07:55+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1638558128852676608)
 
 Re Correction: “more commonly known”
+
+### 4: [2023-03-23 02:14:13+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1638605010756837384)
+
+Re @XLY341 @GFWfrog @programthink 你所谓的常识是一个根本不存在的说法，我过去发的案例里，很多当事人被判刑之后，他们的言论一直都在，没有被删除。<br>是否删除要看办案警察的心情，没有统一规定。
 
