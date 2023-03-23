@@ -97,7 +97,7 @@ Re @lunanweiyi 我们不能忘记李文亮医生。如果不是极权当局剥�
 
 ### 21: [2022-02-13 01:00:31+08:00 推文](https://twitter.com/realcaixia/status/1492544153892364293)
 
-不忍卒睹，但必须要转推！要让更多的人知道发生在中共国的骇人罪恶。<br><br>极权统治集团迫害政治异见人士、迫害信访民众，他们的监视器极为好用，他们不惜投入巨大的财政资金、巨大的人力物力；但他们对公开发生的暴力犯罪事件却视而不见。他们就是罪犯的同伙，他们就是罪犯。 <a href="https://twitter.com/tangfu1/status/1492349669548118016" target="_blank" rel="noopener noreferrer">https://twitter.com/tangfu1/status/1492349669548118016</a>
+不忍卒睹，但必须要转推！要让更多的人知道发生在中共国的骇人罪恶。<br><br>极权统治集团迫害政治异见人士、迫害信访民众，他们的监视器极为好用，他们不惜投入巨大的财政资金、巨大的人力物力；但他们对公开发生的暴力犯罪事件却视而不见。他们就是罪犯的同伙，他们就是罪犯。 <a href="https://twitter.com/Tangfu1/status/1492349669548118016" target="_blank" rel="noopener noreferrer">https://twitter.com/Tangfu1/status/1492349669548118016</a>
 
 ### 22: [2022-02-13 03:45:34+08:00 推文](https://twitter.com/realcaixia/status/1492585692995670020)
 
