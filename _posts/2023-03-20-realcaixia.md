@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2023-03-20~2023-03-26'
 
 ### 1: [2023-03-20 03:23:04+08:00 推文](https://twitter.com/realcaixia/status/1637535174052446208)
 
-高瑜大姐多多保重。杜光老先生唱“茶馆小调”我也在场，印象很深。我是后知后觉，我当时只理解q歌词的字面意思。<br>现在想来鲍彤、杜光、蒋彦永等老一代，1940年代是他们青春岁月，他们反抗蒋国民党政府禁言；到了耄耋之年，他们反抗习与中共禁言，老先生唱这歌，实质是总结了他们的一生。令人感慨万千！<div class="rsshub-quote"><br><br>高瑜: 2022年張思之、蔣宗曹、鮑彤三位先生相繼去世，我都被站崗，都被阻止參加告別式，禁止送花圈。送別鮑老那天，國保竟然來了十個人，還從派出所叫來十個片警，揚言要拘捕我兒子，讓我再一次嘗試專政鐵拳。今年兩會被旅遊中，蔣彥永、杜光先生又相繼去世，我更被禁言，我的痛苦像再一次經歷了六四，那年 https://t.co/sbzNfWuIA5<br><br><img style="" src="https://pbs.twimg.com/media/FrkUWYuaUAAWjYp?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrkVO_zaEAA4PPL?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrkXT2waYAcvzw7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+高瑜大姐多多保重。杜光老先生唱“茶馆小调”我也在场，印象很深。我是后知后觉，我当时只理解q歌词的字面意思。<br>现在想来鲍彤、杜光、蒋彦永等老一代，1940年代是他们青春岁月，他们反抗蒋国民党政府禁言；到了耄耋之年，他们反抗习与中共禁言，老先生唱这歌，实质是总结了他们的一生。令人感慨万千！ https://twitter.com/gaoyu200812/status/1637381346401349638<div class="rsshub-quote"><br><br>高瑜: 2022年張思之、蔣宗曹、鮑彤三位先生相繼去世，我都被站崗，都被阻止參加告別式，禁止送花圈。送別鮑老那天，國保竟然來了十個人，還從派出所叫來十個片警，揚言要拘捕我兒子，讓我再一次嘗試專政鐵拳。今年兩會被旅遊中，蔣彥永、杜光先生又相繼去世，我更被禁言，我的痛苦像再一次經歷了六四，那年 https://t.co/sbzNfWuIA5<br><br><img style="" src="https://pbs.twimg.com/media/FrkUWYuaUAAWjYp?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrkVO_zaEAA4PPL?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrkXT2waYAcvzw7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 2: [2023-03-20 04:37:09+08:00 推文](https://twitter.com/realcaixia/status/1637553819340120065)
 
@@ -29,19 +29,19 @@ Re 举中国2020年癌症发病数和死亡数为证：中国新发癌症人数�
 
 ### 4: [2023-03-20 05:10:08+08:00 推文](https://twitter.com/realcaixia/status/1637562118663999488)
 
-真是开心一刻！😄！👍！<div class="rsshub-quote"><br><br>墻國荒誕字（墙国荒诞字）: 《憤怒的皇帝》系列搞笑劇:<br>第24集: 《進退兩難》<br>皇帝即將訪問俄羅斯，海牙國際刑事法庭突發普京逮捕令，讓皇帝措手不及，進退兩難… https://t.co/S5loYnc2iu<br><br><video src="https://video.twimg.com/ext_tw_video/1637491218421624832/pu/vid/1280x720/5b3vTTBC5ec08GrT.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1637491218421624832/pu/img/TsAI6sWtcCnFK8r9.jpg"></video></div>
+真是开心一刻！😄！👍！ https://twitter.com/xingzhe2021/status/1637491595405557764<div class="rsshub-quote"><br><br>墻國荒誕字（墙国荒诞字）: 《憤怒的皇帝》系列搞笑劇:<br>第24集: 《進退兩難》<br>皇帝即將訪問俄羅斯，海牙國際刑事法庭突發普京逮捕令，讓皇帝措手不及，進退兩難… https://t.co/S5loYnc2iu<br><br><video src="https://video.twimg.com/ext_tw_video/1637491218421624832/pu/vid/1280x720/5b3vTTBC5ec08GrT.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1637491218421624832/pu/img/TsAI6sWtcCnFK8r9.jpg"></video></div>
 
 ### 5: [2023-03-20 05:21:59+08:00 推文](https://twitter.com/realcaixia/status/1637565100554059776)
 
-说得好！“吃着乌克兰人用生命换来的粮食，不存感念反而支持普京侵略乌克兰，良心何在？”<div class="rsshub-quote"><br><br>ZHANGDONG: 这是联合国组织今年一月发布的乌克兰粮食出口数据。从图表中可见中国是乌克兰农粮作物第二大进口国。大陆挺俄反乌的中国人请扪心自问，你们吃着乌克兰人用生命换来的粮食，不存感念反而支持普京侵略乌克兰，良心何在？中国欠乌克兰一个公道！中国政府必须立即停止支持普京战犯！顺应世界潮流者得人心。 https://t.co/giHhuaNh6G<br><br><img style="" src="https://pbs.twimg.com/media/FrlaH-HXwAERSCZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+说得好！“吃着乌克兰人用生命换来的粮食，不存感念反而支持普京侵略乌克兰，良心何在？” https://twitter.com/zhangdong_sch/status/1637439035873406976<div class="rsshub-quote"><br><br>ZHANGDONG: 这是联合国组织今年一月发布的乌克兰粮食出口数据。从图表中可见中国是乌克兰农粮作物第二大进口国。大陆挺俄反乌的中国人请扪心自问，你们吃着乌克兰人用生命换来的粮食，不存感念反而支持普京侵略乌克兰，良心何在？中国欠乌克兰一个公道！中国政府必须立即停止支持普京战犯！顺应世界潮流者得人心。 https://t.co/giHhuaNh6G<br><br><img style="" src="https://pbs.twimg.com/media/FrlaH-HXwAERSCZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 6: [2023-03-20 05:35:39+08:00 推文](https://twitter.com/realcaixia/status/1637568542647390208)
 
-说得好！中共国所有问题的根源都在于政治，在于中共党，在于这党统治国家的制度和党内的权力结构与组织机制。习上台后，这些问题不仅没有解决还加上一条：党魁独裁，无法无天无底线。<div class="rsshub-quote"><br><br>荣剑: 稍有常识的人，都看出大国问题的实质:消费不振，投资不力，信心不足，预期不好，究其终极原因，都是政治问题。中国经济学，不是政治经济学，其实就是政治学，只有政治，没有经济。 https://t.co/TcDQD4D1ji<br><br><img style="" src="https://pbs.twimg.com/media/Fri3zP3XgAAzdMq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fri30NqXwAIMQbg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+说得好！中共国所有问题的根源都在于政治，在于中共党，在于这党统治国家的制度和党内的权力结构与组织机制。习上台后，这些问题不仅没有解决还加上一条：党魁独裁，无法无天无底线。 https://twitter.com/rongjian1957/status/1637260587792052226<div class="rsshub-quote"><br><br>荣剑: 稍有常识的人，都看出大国问题的实质:消费不振，投资不力，信心不足，预期不好，究其终极原因，都是政治问题。中国经济学，不是政治经济学，其实就是政治学，只有政治，没有经济。 https://t.co/TcDQD4D1ji<br><br><img style="" src="https://pbs.twimg.com/media/Fri3zP3XgAAzdMq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fri30NqXwAIMQbg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 7: [2023-03-20 06:13:42+08:00 推文](https://twitter.com/realcaixia/status/1637578118721576962)
 
-确有其事，按中共党内习惯说法就是：选举出了问题”或“出了事故”，后来就改成声、市、县委书记兼任人大常委会主任，直接控制选举。<div class="rsshub-quote"><br><br>Ignatius Lee 🚁🌋☭⃠: 一九九三年，中国浙江和贵州两省意外出现了“民选省长”意外当选的 #选举事故。当时中国名义上推行差额选举：由中组部提名指定候选人，搭配一名“陪跑”候选人；按惯例“陪跑”候选人是不可以当选的。但在这两起 #民主事故 中，两名“陪跑省长”意外当选，令中央大为不快，此后“差额选举”就被视为洪水猛兽。<br></div>
+确有其事，按中共党内习惯说法就是：选举出了问题”或“出了事故”，后来就改成声、市、县委书记兼任人大常委会主任，直接控制选举。 https://twitter.com/22homopoliticus/status/1637381324087369728<div class="rsshub-quote"><br><br>Ignatius Lee 🚁🌋☭⃠: 一九九三年，中国浙江和贵州两省意外出现了“民选省长”意外当选的 #选举事故。当时中国名义上推行差额选举：由中组部提名指定候选人，搭配一名“陪跑”候选人；按惯例“陪跑”候选人是不可以当选的。但在这两起 #民主事故 中，两名“陪跑省长”意外当选，令中央大为不快，此后“差额选举”就被视为洪水猛兽。<br></div>
 
 ### 8: [2023-03-20 15:46:23+08:00 推文](https://twitter.com/realcaixia/status/1637722239041667073)
 
@@ -53,7 +53,7 @@ Re 举中国2020年癌症发病数和死亡数为证：中国新发癌症人数�
 
 ### 10: [2023-03-20 23:33:40+08:00 推文](https://twitter.com/realcaixia/status/1637839832113377281)
 
-高瑜大姐推文说现在新华社的参考消息没人要了。想起在中央党校学习的官员，晚饭后围着人工湖散步。7点了人行步道上依旧三三两两谈天说笑，有次我问一官员：都7点了，怎么还散步呢？官员说：新闻联播没看头，看7点20分以后的。7点20以后的是新闻联播国际新闻时段。那是2007年以后开始的现象。<div class="rsshub-quote"><br><br>高瑜: 唐老弟說的是今年的事兒嗎？80年代《參考消息》火成什麼樣？現在白送沒人要，怨誰呢？他幾天前發帖講蔣彥永醫生向他學攝影，很有意思。<br></div>
+高瑜大姐推文说现在新华社的参考消息没人要了。想起在中央党校学习的官员，晚饭后围着人工湖散步。7点了人行步道上依旧三三两两谈天说笑，有次我问一官员：都7点了，怎么还散步呢？官员说：新闻联播没看头，看7点20分以后的。7点20以后的是新闻联播国际新闻时段。那是2007年以后开始的现象。 https://twitter.com/gaoyu200812/status/1637749372887916544<div class="rsshub-quote"><br><br>高瑜: 唐老弟說的是今年的事兒嗎？80年代《參考消息》火成什麼樣？現在白送沒人要，怨誰呢？他幾天前發帖講蔣彥永醫生向他學攝影，很有意思。 https://twitter.com/1NO0F20S05zEM51/status/1637736209899192320<br></div>
 
 ### 11: [2023-03-20 23:50:28+08:00 推文](https://twitter.com/realcaixia/status/1637844061930528768)
 
@@ -69,11 +69,11 @@ Re 举中国2020年癌症发病数和死亡数为证：中国新发癌症人数�
 
 ### 14: [2023-03-21 22:10:16+08:00 推文](https://twitter.com/realcaixia/status/1638181231191003136)
 
-还用说吗？天天吹嘘“东升西降”，从“建设人类命运共同体”到给世界“提供人类文明新形态”，具有“制度优势”的习朝中国，三年疫情给国人发过一分钱生活补贴费吗？何论派飞机接回国人。 https://twitter.com/dayangelcp/status/1637959260662542336<div class="rsshub-quote"><br><br>李承鹏（真正的大眼哥）: 昨天晚餐听陈天庸夫人“马耳他的鱼儿”讲了一个真实故事：<br>疫情爆发后，马耳他这小国无法承载，由该国政府出资包机运返各国游客（游客也出一点小费用）。各国政府均迅速配合，开放关口。<br>只有一个国家拒绝接回自己的国民，且没有给出任何回复。<br>有的人只好在迪拜机场住了几个月。<br>你猜这是哪个国家。… https://twitter.com/i/web/status/1637959260662542336<br></div>
+还用说吗？天天吹嘘“东升西降”，从“建设人类命运共同体”到给世界“提供人类文明新形态”，具有“制度优势”的习朝中国，三年疫情给国人发过一分钱生活补贴费吗？何论派飞机接回国人。<div class="rsshub-quote"><br><br>李承鹏（真正的大眼哥）: 昨天晚餐听陈天庸夫人“马耳他的鱼儿”讲了一个真实故事：<br>疫情爆发后，马耳他这小国无法承载，由该国政府出资包机运返各国游客（游客也出一点小费用）。各国政府均迅速配合，开放关口。<br>只有一个国家拒绝接回自己的国民，且没有给出任何回复。<br>有的人只好在迪拜机场住了几个月。<br>你猜这是哪个国家。… https://twitter.com/i/web/status/1637959260662542336<br></div>
 
 ### 15: [2023-03-21 22:15:09+08:00 推文](https://twitter.com/realcaixia/status/1638182460851888130)
 
-秘密拘押已成常态，任何一个人走在路上都可能瞬间消失。电影“秋菊打官司”里有这个场面，不理解的可以去找那部电影看看。<div class="rsshub-quote"><br><br>尚寶軍: 編程隨想似乎有下落了 https://t.co/DhDsik8cAu<br><br><img style="" src="https://pbs.twimg.com/media/Frt6UIbaIAAngyZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+秘密拘押已成常态，任何一个人走在路上都可能瞬间消失。电影“秋菊打官司”里有这个场面，不理解的可以去找那部电影看看。 https://twitter.com/zt9i7ye015ljzg0/status/1638037384557391874<div class="rsshub-quote"><br><br>尚寶軍: 編程隨想似乎有下落了 https://t.co/DhDsik8cAu<br><br><img style="" src="https://pbs.twimg.com/media/Frt6UIbaIAAngyZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 16: [2023-03-21 22:20:16+08:00 推文](https://twitter.com/realcaixia/status/1638183750180933632)
 
@@ -109,7 +109,7 @@ Re 拖到今天才转发芳菲和程晓农老师的访谈上下集。这期访�
 
 ### 24: [2023-03-23 04:45:24+08:00 推文](https://twitter.com/realcaixia/status/1638643060774158336)
 
-窗帘拉开了还能再拉上，同样一国历史进一步退两步也成现实。<br>曾以为改革开放拥抱现代文明了，就会一直往前走，现实却并非如此。2014年行走伊朗，硬生生的看到拥抱了现代文明还会再退到神权时期；回头看中国，曾经走出了帝制拥抱共和，1949后再退回帝国皇权——；1978开了国门，2012以后习朝要半关半开。 https://twitter.com/XIAOMIEHM/status/1638284397341298695<div class="rsshub-quote"><br><br>罗翔: 邪恶组织专门拉开窗帘再拉上窗帘，反复如此循环！😂😂😂😂😂😄！<br>这位教授的讲课方式令人叫绝，但这个故事更触动我的是:窗帘拉开了还能再拉上…… https://t.co/7WyDuTF3ev<br><br><img style="" src="https://pbs.twimg.com/media/Frxa-QkXoAAhaf4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+窗帘拉开了还能再拉上，同样一国历史进一步退两步也成现实。<br>曾以为改革开放拥抱现代文明了，就会一直往前走，现实却并非如此。2014年行走伊朗，硬生生的看到拥抱了现代文明还会再退到神权时期；回头看中国，曾经走出了帝制拥抱共和，1949后再退回帝国皇权——；1978开了国门，2012以后习朝要半关半开。 https://twitter.com/xiaomiehm/status/1638284397341298695<div class="rsshub-quote"><br><br>罗翔: 邪恶组织专门拉开窗帘再拉上窗帘，反复如此循环！😂😂😂😂😂😄！<br>这位教授的讲课方式令人叫绝，但这个故事更触动我的是:窗帘拉开了还能再拉上…… https://t.co/7WyDuTF3ev<br><br><img style="" src="https://pbs.twimg.com/media/Frxa-QkXoAAhaf4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 25: [2023-03-23 11:23:02+08:00 推文](https://twitter.com/realcaixia/status/1638743126352486401)
 
@@ -121,15 +121,15 @@ Re @ChanrichAmy 手术成功了！真是很暖心的好消息🌹🌹。祝贺�
 
 ### 27: [2023-03-23 11:32:45+08:00 推文](https://twitter.com/realcaixia/status/1638745572256669700)
 
-华人网友可能用拼多多的多，需要高度重视个人信息安全。 https://twitter.com/yibao_en/status/1638559959108419590<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 拼多多app有病毒嫌疑，被谷歌禁止！<br><br>TikTok next?! And wechat?!<br><br>https://www.cbsnews.com/news/pinduoduo-google-play-suspension-malware-chinese-shopping-app-tiktok/?ftag=CNM-00-10aac3a<br></div>
+华人网友可能用拼多多的多，需要高度重视个人信息安全。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 拼多多app有病毒嫌疑，被谷歌禁止！<br><br>TikTok next?! And wechat?!<br><br>https://www.cbsnews.com/news/pinduoduo-google-play-suspension-malware-chinese-shopping-app-tiktok/?ftag=CNM-00-10aac3a<br></div>
 
 ### 28: [2023-03-23 11:39:15+08:00 推文](https://twitter.com/realcaixia/status/1638747209612300289)
 
-中共国就怕真相，就怕信息自由流动。一个毫不讲外交基本道德规范的政权，他们只会破坏世界秩序，破坏世界和平。 https://twitter.com/usa_china_talk/status/1638457380273881088<div class="rsshub-quote"><br><br>美国驻华使领馆 US MissionCN: 昨天，中华人民共和国的审查者对我们关于布林肯国务卿发布2022年度人权报告的微信和微博内容采取措施，限制网民的互动和知晓。如布林肯国务卿所说：“本报告的目的不是说教或羞辱……” https://twitter.com/USA_China_Talk/status/1638457166670561281<br></div>
+中共国就怕真相，就怕信息自由流动。一个毫不讲外交基本道德规范的政权，他们只会破坏世界秩序，破坏世界和平。<div class="rsshub-quote"><br><br>美国驻华使领馆 US MissionCN: 昨天，中华人民共和国的审查者对我们关于布林肯国务卿发布2022年度人权报告的微信和微博内容采取措施，限制网民的互动和知晓。如布林肯国务卿所说：“本报告的目的不是说教或羞辱……”<br></div>
 
 ### 29: [2023-03-23 11:47:45+08:00 推文](https://twitter.com/realcaixia/status/1638749346283008002)
 
-岸田文雄有政治家的胆略和气魄。<div class="rsshub-quote"><br><br>WeiXin Art: 日本首相岸田文雄周二突访乌克兰首都基辅。这是自俄入侵乌克兰以来，日本领导人首次访问乌克兰。岸田文雄在访问印度后飞往波兰，随后乘火车前往基辅。他前往被指发生俄军屠杀平民惨案的布查镇悼念遇难者。随后他与乌克兰总统泽连斯基举行了会谈。<br><br>配图：iPad绘画 https://t.co/X55xxqEQln<br><br><img style="" src="https://pbs.twimg.com/media/Fr00hIwXgAAkSiS?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+岸田文雄有政治家的胆略和气魄。 https://twitter.com/weixinart/status/1638523587828109312<div class="rsshub-quote"><br><br>WeiXin Art: 日本首相岸田文雄周二突访乌克兰首都基辅。这是自俄入侵乌克兰以来，日本领导人首次访问乌克兰。岸田文雄在访问印度后飞往波兰，随后乘火车前往基辅。他前往被指发生俄军屠杀平民惨案的布查镇悼念遇难者。随后他与乌克兰总统泽连斯基举行了会谈。<br><br>配图：iPad绘画 https://t.co/X55xxqEQln<br><br><img style="" src="https://pbs.twimg.com/media/Fr00hIwXgAAkSiS?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 30: [2023-03-24 01:34:26+08:00 推文](https://twitter.com/realcaixia/status/1638957390677549060)
 
@@ -138,4 +138,8 @@ Re @ChanrichAmy 手术成功了！真是很暖心的好消息🌹🌹。祝贺�
 ### 31: [2023-03-24 01:55:35+08:00 推文](https://twitter.com/realcaixia/status/1638962710967644169)
 
 支持童屹女士！拆掉中共互联网防火墙—中共阻碍信息自由流通的互联网柏林墙—这是改善中国人权状况、推进宪政民主的基础。 https://twitter.com/endgfw2/status/1638591903712317440<div class="rsshub-quote"><br><br>EndGFW Official 拆墙运动公号2: 【如何快速改善中国？拆墙排第1】<br><br>童逸近期给美国国会开出的改善中国民主2大招，包括了拆除互联网防火墙、资助记者律师。她指出，中共最怕本国人民，如果中国人能自由上网，那就易知社会真相，而真相本身就自带强大力量，能打破中共几十年来打造的谎言世界，促成反对派力量的联合。#EndGFW #拆墙运动 https://t.co/mdS6VjWOBZ<br><br><video src="https://video.twimg.com/ext_tw_video/1638588314310836224/pu/vid/644x360/Wki49V9XXLHeMoBP.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1638588314310836224/pu/img/N6d7apNOm4MYdQJz.jpg"></video></div>
+
+### 32: [2023-03-24 03:23:16+08:00 推文](https://twitter.com/realcaixia/status/1638984777377239042)
+
+一个小粉红被专政铁拳砸醒了。警察抓他，非要给他按个“罪名”，以强词夺理说抓他“合理合法”。他从此就有了“污点记录”，这会影响到他的一生生活和前途。<br>希望更多的年轻人醒悟过来。在一个无法治，无公开透明，无言论自由，无人权保障的国度里，今天发生在别人身上的事，说不定明天就发生在你身上。 https://twitter.com/tgtm_official/status/1637997459854221312<div class="rsshub-quote"><br><br>The Great Translation Movement 大翻译运动官方推号: A 22 years old boy who live in Shanghai  taken away by the police due to some unreasonable charges<br><br>#大翻译运动<br>#TheGreatTranslationMovement <br>#大翻譯運動 https://t.co/HpOJEaKq42<br><br><img style="" src="https://pbs.twimg.com/media/FrtNwvTXsAAKVlb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrtNwvNX0AECNiV?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 

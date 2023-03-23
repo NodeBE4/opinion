@@ -377,7 +377,7 @@ Re @Wu_Zhi 最大的成就是将美国冷战结束之后，历届总统都奉行
 
 ### 91: [2023-03-11 11:01:39+08:00 推文](https://twitter.com/JianglinLi/status/1634389092266831872)
 
-RT 李江琳<br>老妖婆的“1月6日调查委员会”竟然根本没看那些录像！这不是赤裸裸的政治迫害嘛！😡😡😡<div class="rsshub-quote"><br><br>Tom Fitton: WHAT?! Top Democrat On Pelosi rump J6 Committee: We Actually Didn’t Review Any Of The Surveillance Video https://thefederalist.com/2023/03/09/top-democrat-on-j6-committee-we-actually-didnt-review-any-of-the-surveillance-video/<br></div>
+RT 李江琳<br>老妖婆的“1月6日调查委员会”竟然根本没看那些录像！这不是赤裸裸的政治迫害嘛！😡😡😡 https://twitter.com/TomFitton/status/1634355413905727488<div class="rsshub-quote"><br><br>Tom Fitton: WHAT?! Top Democrat On Pelosi rump J6 Committee: We Actually Didn’t Review Any Of The Surveillance Video https://thefederalist.com/2023/03/09/top-democrat-on-j6-committee-we-actually-didnt-review-any-of-the-surveillance-video/<br></div>
 
 ### 92: [2023-03-11 11:56:01+08:00 推文](https://twitter.com/JianglinLi/status/1634402773767782400)
 
