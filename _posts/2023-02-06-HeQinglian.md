@@ -233,7 +233,7 @@ Re @runrunalong 先打招呼，让其停下来。😅告诉澳政府：上次中
 
 ### 55: [2023-02-07 23:10:24+08:00 推文](https://twitter.com/HeQinglian/status/1622976073733402624)
 
-Re @JianglinLi 拜登想挣回两次面子：<br>一是打气球——虽然迟了几天，但几天前就做了决定，况且川普时期气球来过三回（无时间、地点与纪录，说来了就来了），全世界五大洲都遇到中国气球舰队，就我拜登敢打。<br>二是敢给中国政府划道道，不许援俄，不能反美国制裁，否则你看着办。<br>内里：求求你，赶紧让布林肯去北京。
+RT He Qinglian<br>Re @JianglinLi 拜登想挣回两次面子：<br>一是打气球——虽然迟了几天，但几天前就做了决定，况且川普时期气球来过三回（无时间、地点与纪录，说来了就来了），全世界五大洲都遇到中国气球舰队，就我拜登敢打。<br>二是敢给中国政府划道道，不许援俄，不能反美国制裁，否则你看着办。<br>内里：求求你，赶紧让布林肯去北京。
 
 ### 56: [2023-02-07 23:17:23+08:00 推文](https://twitter.com/HeQinglian/status/1622977832128245763)
 
@@ -457,7 +457,7 @@ Re @NAConservative9 话说，这本来就是左派希望追求多年、不惜在
 
 ### 111: [2023-02-09 04:33:29+08:00 推文](https://twitter.com/HeQinglian/status/1623419769557852161)
 
-共和党的教养还是强出不少，对比波洛希撕毁川普的国情咨文。据说出身富人之家，行为堪比AOC那街区长大之人。<div class="rsshub-quote"><br><br>东七区无面者FacelessMen: 感受一下美国两党现在的撕裂程度，拜登在前面放，后面只有哈里斯假装鼓掌示意，麦卡锡根本听都不带听的回去就发twitter骂拜登。<br><br><video src="https://video.twimg.com/ext_tw_video/1623162272066703360/pu/vid/1280x720/jZZ2BGghh-PT-zeH.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1623162272066703360/pu/img/nht24CLiapyHdh2k.jpg"></video> <a href="https://twitter.com/harry_shosta/status/1623160605506166784" target="_blank" rel="noopener noreferrer">https://twitter.com/harry_shosta/status/1623160605506166784</a></div>
+共和党的教养还是强出不少，对比波洛希撕毁川普的国情咨文。据说出身富人之家，行为堪比AOC那街区长大之人。<div class="rsshub-quote"><br><br>东七区无面者FacelessMen: 感受一下美国两党现在的撕裂程度，拜登在前面放，后面只有哈里斯假装鼓掌示意，麦卡锡根本听都不带听的回去就发twitter骂拜登。<br><br><video src="https://video.twimg.com/ext_tw_video/1623162272066703360/pu/vid/1280x720/jZZ2BGghh-PT-zeH.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1623162272066703360/pu/img/nht24CLiapyHdh2k.jpg"></video></div>
 
 ### 112: [2023-02-09 04:53:21+08:00 推文](https://twitter.com/HeQinglian/status/1623424771504447488)
 
