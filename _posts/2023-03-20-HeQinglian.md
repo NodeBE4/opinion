@@ -153,7 +153,7 @@ Re @KELMAND1 @82WztfvhHqZz0Ub 纠正：是瑞信，The Credit Suisse。这次瑞
 
 ### 35: [2023-03-21 22:14:05+08:00 推文](https://twitter.com/JianglinLi/status/1638182192009412610)
 
-RT 李江琳<br>拜登的银行记录。这可真是鸡犬升天。<div class="rsshub-quote"><br><br>Oversight Committee: 🤥🤥🤥🤥<br> <br>We’ve got the bank records. https://t.co/yDYPcOxKYW<br><br><img style="" src="https://pbs.twimg.com/media/FrrHOJQXsAEhtZy?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT 李江琳<br>拜登的银行记录。这可真是鸡犬升天。 https://twitter.com/GOPoversight/status/1637840708726816779<div class="rsshub-quote"><br><br>Oversight Committee: 🤥🤥🤥🤥<br> <br>We’ve got the bank records. https://twitter.com/FoxNews/status/1637111635797061633 https://t.co/yDYPcOxKYW<br><br><img style="" src="https://pbs.twimg.com/media/FrrHOJQXsAEhtZy?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 36: [2023-03-22 03:38:21+08:00 推文](https://twitter.com/HeQinglian/status/1638263799399477249)
 
@@ -214,4 +214,12 @@ Re @Wu_Zhi @VOAChinese 男女之别与辨识男女，从古到今不是问题，
 ### 50: [2023-03-23 09:25:43+08:00 推文](https://twitter.com/HeQinglian/status/1638713603976212480)
 
 Re @evaqiao2022 你越用越荒唐，美国这些只是脸上长了大痦子么？可能你到现在都不愿意承认灯塔国早就坍塌这事实，不说了。<br>你自便。
+
+### 51: [2023-03-23 23:19:40+08:00 推文](https://twitter.com/HeQinglian/status/1638923473811566604)
+
+Re @Vince6610 @JianglinLi @fading_you1 @XVanFleet @aaronsibarium Just follow him. Thanks.
+
+### 52: [2023-03-23 23:22:06+08:00 推文](https://twitter.com/HeQinglian/status/1638924087970918400)
+
+Re @xchen156 @shangbaojun19 编程随想的文章很不错，是位非常认真思考并写作的知识人。这种有理有据的文章远比骂大街的有杀伤力，也许这就是当局如此对待他的原因。<br>希望他早日恢复自由。
 
