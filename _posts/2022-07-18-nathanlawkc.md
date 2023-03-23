@@ -27,7 +27,7 @@ Dictators form alliance and aid each other. <br><br>Chinese exports to Russia of
 
 ### 3: [2022-07-21 20:35:43+08:00 推文](https://twitter.com/nathanlawkc/status/1550097187903791104)
 
-It’s crucial for Hong Kong activists to continue to speak up against PRC’s human rights abuses and stay connected to the world.<br><br>Glad to join the discussion with @KenRoth and @wang_maya to talk about the most pressing issues.
+It’s crucial for Hong Kong activists to continue to speak up against PRC’s human rights abuses and stay connected to the world.<br><br>Glad to join the discussion with @KenRoth and @wang_maya to talk about the most pressing issues.<br><br>Human Rights Watch: Join us Thursday for a conversation on human rights in China and Hong Kong. Are the human rights abuses in China unique? What direction is the world —and China — going?&nbsp;With @KenRoth, @wang_maya, and @nathanlawkc:<br> <a href="https://twitter.com/i/spaces/1OdKrBzRkQeKX" target="_blank" rel="noopener noreferrer">https://twitter.com/i/spaces/1OdKrBzRkQeKX</a>
 
 ### 4: [2022-07-22 04:59:01+08:00 推文](https://twitter.com/nathanlawkc/status/1550223846539763716)
 

@@ -147,3 +147,35 @@ Didn't help that they fired (I think) S2's showrunners partway in, citing abusiv
 
 Yeah but the Sex Pistols in particular were more nihilistic than anarchistic – indeed, 'Anarchy in the UK' was written as a mockery of anarchists. Crass or The Clash would stand out as actual anarchist or at least anarchist-leaning groups with some degree of actual idealism involved.
 
+----- __1147.10__ -----2023-03-23 16:29:43+08:00:
+
+The fourth Hololive Fest (HoloFes for short) took place over the weekend, which was good fun. That said, the only parts I was able to catch live were the last few songs of the Day 1 concert and then the whole of Day 2; I have yet to get through the Day 1 VOD, haven't yet watched the Holo*27 concert, and I've also not been as up to speed on the Expo as I was last year. But that's due to a mix of business and jetlag for the most part. Now, this year's HoloFes was drama-free and everyone agreed it was great – Hololive Indonesia and English's respective second generations got to debut, everyone got themed outfits, [Hakos Baelz absolutely slew](https://twitter.com/hakosbaelz/status/1637442026240360448), we had a [MoRyS duet](https://twitter.com/Marcus_Meneses_/status/1637421054028140544), [Haachama made a chair](https://twitter.com/kanauru/status/1636982012916428802), it was all fun.
+
+Which is why *instead*, I want to talk about *last year's* HoloFes, on 19-20 March 2022. Because just over three weeks before, Hololive had terminated a member for the first time since May 2018. The full details of that incident have been adeptly narrated by /u/_dk in [this post](https://www.reddit.com/r/HobbyDrama/comments/yzkffy/virtual_youtubers_identities_in_discord_the/), but reasons of space precluded the inclusion of this particular element of the fallout.
+
+As was noted at the time, firing Rushia so close to 3rd Fes implied that the issues – whatever they may have been – were too serious to even temporarily elide, and for that reason, mild uncertainty hung over how the agency was going to deal with a last-minute lineup reduction so close to their flagship event. They themselves acknowledged that not everything could be changed in time, but that which could be changed generally was. Most obviously, Rushia was cut from the second day's concert, which meant her solo was out, but the decision also had the collateral effect of also taking out her duet with Gen 2's Nakiri Ayame – an especially unfortunate circumstance because Ayame had been dipping in and out of hiatus for over a year at that point, and 3rd Fes would have been one of her biggest appearances in an agency-wide event in a good while.
+
+Merch would be a particular headache, as some were not as easily withdrawn as others. [Badges](https://cdn.shopify.com/s/files/1/0525/9585/1443/files/K1K03d1Ddd372wKn.jpg?v=1647581661) and [keychains](https://cdn.shopify.com/s/files/1/0525/9585/1443/files/bswiEwmxC9R48Dvp.jpg?v=1647581661) were relatively straightforward, but by that stage it was evidently too late to remove her from the [playing card set](https://cdn.suruga-ya.jp/database/pics_light/game/607177388.jpg) (she's there as the 5 of diamonds); when it came to Hololive's collab with TCG Weiß Schwarz, whose owner Bushiroad sponsored 3rd Fes, [already-printed sets and booster packs](https://cdn.shopify.com/s/files/1/0550/5774/4071/products/HOLPBproductpage_e6d5a992-52c7-42de-b1d2-547e6873bcd0_533x.png?v=1662601075) were obviously not going to see Rushia excised last minute, although I understand that new runs since the firing have excluded her.
+
+The Expo area also saw a change or two – the 2022 Expo featured a [costume lineup](https://www.youtube.com/watch?v=KQqafcQIwdM) where they had commissioned RL versions of the members' outfits to put on mannequins, and Rushia's rather obviously wasn't there. But perhaps the more notable excision was in the [HoloJP group photo](https://preview.redd.it/z1w4i3bih9o81.jpg?width=1024&auto=webp&v=enabled&s=7befe28af76e073a6d0136dc34eafeff666b699a), based on [a render that had been done when Kiryu Coco graduated (retired) the previous July](https://i.imgur.com/8msO7fL.jpg). What's especially interesting is that not only did they remove Rushia, they also modified it to have Noel and Flare holding hands to fill the space in a bit, which I'm sure also gratified a lot of shippers. On the other hand, some items are supposed to have still featured Rushia, though at this stage I've not been able to easily track down what in particular.
+
+And finally, the excisions extended to the advertising, where, on the poster outside the venue, there was a noticeable gap in the full cast lineup, thanks to the removal of Himemori Luna.
+
+Yes, you heard me right. They removed someone completely different.
+
+[*And they kept Rushia.*](https://preview.redd.it/luna-got-accidently-erased-on-the-poster-for-the-expo-at-v0-b3p6lxpx9ko81.jpg?auto=webp&s=7ab487f446fe6303a42bff33d703c3db764f8c6e)
+
+This, er, did not go over too well. [The subreddit thread](https://www.reddit.com/r/Hololive/comments/tio7sq/luna_got_accidently_erased_on_the_poster_for_the/) had a mix of humorous ribbing and some deserved annoyance, but later on fellow Gen 4 member Tokoyami Towa [would publicly call out the incident](https://www.youtube.com/watch?v=TbOEo7nR26k). Nevertheless, there was general acknowledgement that the mistake was an easy one to make for someone who was simply contracted to do it: For one, Luna was third from left in the front row and Rushia third from right, which means if the directions weren't fully clear (stage right, or right from the perspective of the characters?) then the mistake might have come about that way. Alternatively, it was the similarity of the names – the official Anglicisations of Rushia and Luna don't seem to be that similar, but in kana they'd be るしあ *ru-si-a* and ルーナ *ru-u-na*, and if hiragana and katakana had somehow been mixed up, or the names were rendered directly into Romaji, then that could also have contributed.
+
+But there is a bit of a happy ending here – in penance, some of the promotional material for the concert Blu-Ray would [feature Luna exclusively](https://nlab.itmedia.co.jp/nl/articles/2210/13/news182.html).
+
+So ends my lay.
+
+----- __1147.11__ -----2023-03-23 16:32:47+08:00:
+
+I look at some of the 20mm minis I painted years ago, and while I continue to be impressed by some of my freehand work, I do think that being willing to do washes and shading – even in limited degrees – has helped my figures 'pop' visually for relatively minimal extra time. That said, my current major project is 28mm (for reasons of figure availability rather than any inherent attachment to the scale), so it's comparing apples to oranges to an extent – things that are acceptable at 20mm simply don't look that nice when scaled up some 50%.
+
+----- __1147.12__ -----2023-03-23 16:33:07+08:00:
+
+That has to be a fetish thing, right?
+
