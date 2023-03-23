@@ -33,7 +33,7 @@ Re @LalaGuang @lianchaohan 说得很好，很直接！所有热爱自由民主�
 
 ### 5: [2022-06-01 23:08:35+08:00 推文](https://twitter.com/realcaixia/status/1532016262750011392)
 
-在当代中国人痛史的地理标记上，我希望人们像记住夹边沟一样记住苗溪。不仅如此，而且，所有现在我们尚不知其名的劳改集中营，都应该由幸存者重新标记出来，构成一部苦难记忆的地图志。书写个人痛史，是重铸民族记忆的重要工程，它需要更多幸存者的参与。——艾晓明
+在当代中国人痛史的地理标记上，我希望人们像记住夹边沟一样记住苗溪。不仅如此，而且，所有现在我们尚不知其名的劳改集中营，都应该由幸存者重新标记出来，构成一部苦难记忆的地图志。书写个人痛史，是重铸民族记忆的重要工程，它需要更多幸存者的参与。——艾晓明<br><br>《议报》: 艾晓明: 通往苗溪之路——牛立华回忆录《梦断苗溪》代序<br> <a href="https://yibaochina.com/?p=246695" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246695</a>
 
 ### 6: [2022-06-01 23:27:21+08:00 推文](https://twitter.com/realcaixia/status/1532020986077450241)
 
@@ -49,7 +49,7 @@ Re 1、规避这个规定而继续大权独揽的路径是：中共党内另设�
 
 ### 9: [2022-06-02 23:11:45+08:00 推文](https://twitter.com/realcaixia/status/1532379450226225152)
 
-记住六.四！
+记住六.四！<br><br>周锋锁 Fengsuo Zhou: 江林的经历，是近年来最重要的八九六四新证词。这件保存了三十三年的血衣，见证了她在六四屠杀中生死之交的抉择，也带出了当年军队内部反对戒严的历史事实。<br>她和张胜一家被戒严部队暴力殴打到致命程度，张胜儿子手指打断被捕。<br>张胜是总参作战部战役局局长，父亲张爱萍领衔七上将公开反对军队武力进城<br> <a href="https://twitter.com/voachinese/status/1531494177195712512" target="_blank" rel="noopener noreferrer">https://twitter.com/voachinese/status/1531494177195712512</a>
 
 ### 10: [2022-06-03 20:28:55+08:00 推文](https://twitter.com/realcaixia/status/1532700857816457216)
 
@@ -85,7 +85,7 @@ Re 1、规避这个规定而继续大权独揽的路径是：中共党内另设�
 
 ### 18: [2022-06-05 03:37:36+08:00 推文](https://twitter.com/realcaixia/status/1533171126125436930)
 
-昨晚我在现场。
+昨晚我在现场。<br><br>Joey Siu 邵嵐🌻☘️: The Chinese Communist regime can ban vigils at Victoria’s Park but they cannot stop the candlelight from turning into sparks that ignite change around the world.🕯<br><br>#June4th #TiananmenSquareMassacre<br><br><img style="" src="https://pbs.twimg.com/media/FUYHMKvXwAATT_s?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 19: [2022-06-05 07:02:47+08:00 推文](https://twitter.com/realcaixia/status/1533222763439304704)
 
