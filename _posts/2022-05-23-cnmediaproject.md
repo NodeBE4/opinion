@@ -117,7 +117,7 @@ RT Shiqi Ma<br>Delighted to share our work (with @jessicacweiss) in the Journa
 
 ### 26: [2022-05-25 17:51:01+08:00 推文](https://twitter.com/ulywang/status/1529399632501293057)
 
-RT 王丰 Wang Feng<br>Meeting minutes, including a detailed &amp; intense report by Premier Li Keqiang, are spreading like wildfire in wechat groups right now.
+RT 王丰 Wang Feng<br>Meeting minutes, including a detailed &amp; intense report by Premier Li Keqiang, are spreading like wildfire in wechat groups right now.<br><br>Zichen Wang: not officially reported yet but by all unofficial accounts China is holding a nationwide meeting on the economy where central, provincial, municipal, and county govt officials are attending by video link, which is quite rare and underscores Beijing's recognition &amp; determination<br>
 
 ### 27: [2022-05-25 18:05:20+08:00 推文](https://twitter.com/cnmediaproject/status/1529403234858979329)
 
@@ -185,7 +185,7 @@ RT Jun Mai<br>Re 2. The exc @cnmediaproject did a very detailed analysis of th
 
 ### 43: [2022-05-27 17:56:41+08:00 推文](https://twitter.com/LiYuan6/status/1530125833276620801)
 
-RT Li Yuan<br>This is a weekly Chinese podcast I launched with a few journalist friends. We would like to bring fascinating and uncensored conversations to the Chinese audience. Please subscribe!<br><br>不明白播客: 由几位在独立媒体工作的新闻记者共同发起、袁莉@LiYuan6 主持的《不明白播客》今天正式上线了! 第一期播客我们和作家慕容雪村@hawking197428 讨论了他如何在万分恐惧之中写出《禁城: 武汉传来的声音》一书，以及他如何处理很多中国知识分子面对的出版和母语写作困境。<br>官网:<br> <a href="https://www.bumingbai.net/2022/05/ep-001-murong-xuecun/" target="_blank" rel="noopener noreferrer">https://www.bumingbai.net/2022/05/ep-001-murong-xuecun/</a>
+RT Li Yuan<br>This is a weekly Chinese podcast I launched with a few journalist friends. We would like to bring fascinating and uncensored conversations to the Chinese audience. Please subscribe!
 
 ### 44: [2022-05-27 18:13:14+08:00 推文](https://twitter.com/joshchin/status/1530129995909443584)
 
