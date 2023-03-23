@@ -183,3 +183,7 @@ That has to be a fetish thing, right?
 
 I'm surprised I forgot that one given that I saw that thread too – I upvoted some comments there.
 
+----- __1147.14__ -----2023-03-23 19:54:49+08:00:
+
+I recall Headhunter Productions, a PNGTuber who used to do short-form bad movie reviews and now mostly does D&D, was hacked a while back. I also recall there was a terrain-building channel along the lines of 'No Game Without Terrain' (or maybe that was the name of its series) that has since been lost to the void because it was hacked a couple of years after they ceased uploading. It's something that comes in waves and usually affects smaller channels.
+
