@@ -65,7 +65,7 @@ Re @Wazy1988bW @KELMAND1 别以为美国还能撑多少年。按拜登与民主�
 
 ### 13: [2023-03-20 12:21:56+08:00 推文](https://twitter.com/zhixiangziyou/status/1637670785887117313)
 
-RT L JM🇺🇸<br>在美国曾有一段时间，检察官和司法部拒绝针对前总统。他们知道这会损害共和国。他们表现得很谨慎。现在，民主党人去论坛狩猎，发明新颖的法律理论，并将我们的法庭武器化，就像第三世界的地狱一样。可耻。<div class="rsshub-quote"><br><br>Charlie Kirk: There was a time in America where prosecutors and the DOJ refused to target ex-Presidents. They knew it would damage the republic. They showed prudence. Now, Dems go forum hunting, invent novel legal theories, and weaponize our courts like some 3rd world hellhole.  Disgraceful.<br></div>
+RT L JM🇺🇸<br>在美国曾有一段时间，检察官和司法部拒绝针对前总统。他们知道这会损害共和国。他们表现得很谨慎。现在，民主党人去论坛狩猎，发明新颖的法律理论，并将我们的法庭武器化，就像第三世界的地狱一样。可耻。 https://twitter.com/charliekirk11/status/1637607766314618881<div class="rsshub-quote"><br><br>Charlie Kirk: There was a time in America where prosecutors and the DOJ refused to target ex-Presidents. They knew it would damage the republic. They showed prudence. Now, Dems go forum hunting, invent novel legal theories, and weaponize our courts like some 3rd world hellhole.  Disgraceful.<br></div>
 
 ### 14: [2023-03-20 21:33:33+08:00 推文](https://twitter.com/HeQinglian/status/1637809604271693825)
 
@@ -153,7 +153,7 @@ Re @KELMAND1 @82WztfvhHqZz0Ub 纠正：是瑞信，The Credit Suisse。这次瑞
 
 ### 35: [2023-03-21 22:14:05+08:00 推文](https://twitter.com/JianglinLi/status/1638182192009412610)
 
-RT 李江琳<br>拜登的银行记录。这可真是鸡犬升天。 https://twitter.com/GOPoversight/status/1637840708726816779<div class="rsshub-quote"><br><br>Oversight Committee: 🤥🤥🤥🤥<br> <br>We’ve got the bank records. https://twitter.com/FoxNews/status/1637111635797061633 https://t.co/yDYPcOxKYW<br><br><img style="" src="https://pbs.twimg.com/media/FrrHOJQXsAEhtZy?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT 李江琳<br>拜登的银行记录。这可真是鸡犬升天。<div class="rsshub-quote"><br><br>Oversight Committee: 🤥🤥🤥🤥<br> <br>We’ve got the bank records. https://t.co/yDYPcOxKYW<br><br><img style="" src="https://pbs.twimg.com/media/FrrHOJQXsAEhtZy?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 36: [2023-03-22 03:38:21+08:00 推文](https://twitter.com/HeQinglian/status/1638263799399477249)
 
@@ -161,7 +161,7 @@ RT 李江琳<br>拜登的银行记录。这可真是鸡犬升天。 https://tw
 
 ### 37: [2023-03-22 08:00:27+08:00 推文](https://twitter.com/HeQinglian/status/1638329758134984704)
 
-美国国务院发言人约翰·柯比：“LGBQI+的权利是美国的外交政策核心”。 https://twitter.com/realDailyWire/status/1638267335634046978<div class="rsshub-quote"><br><br>Daily Wire: Kirby: "LGBTQ+ rights...are a core part of our foreign policy." <br>https://t.co/qfdXTr52B9<br><br><video src="https://video.twimg.com/ext_tw_video/1638265285164650508/pu/vid/720x406/XirVONbtsrH17VI7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1638265285164650508/pu/img/S1NR7Qa4_SPM3nDP.jpg"></video></div>
+美国国务院发言人约翰·柯比：“LGBQI+的权利是美国的外交政策核心”。<div class="rsshub-quote"><br><br>Daily Wire: Kirby: "LGBTQ+ rights...are a core part of our foreign policy." <br>https://t.co/qfdXTr52B9<br><br><video src="https://video.twimg.com/ext_tw_video/1638265285164650508/pu/vid/720x406/XirVONbtsrH17VI7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1638265285164650508/pu/img/S1NR7Qa4_SPM3nDP.jpg"></video></div>
 
 ### 38: [2023-03-22 08:05:48+08:00 推文](https://twitter.com/HeQinglian/status/1638331101759299585)
 
@@ -198,4 +198,20 @@ Re @JianglinLi @fading_you1 @XVanFleet 已Fo.谢谢。
 ### 46: [2023-03-23 02:17:21+08:00 推文](https://twitter.com/HeQinglian/status/1638605802289111068)
 
 Re @evaqiao2022 你如果认为只是“口不择言”，只能表示遗憾。<br>拜登、布林肯都先后多次表达；柯比当发言人历史悠久，原来是国防部，现在在国务院。
+
+### 47: [2023-03-23 09:17:23+08:00 推文](https://twitter.com/HeQinglian/status/1638711507151142912)
+
+Re @evaqiao2022 【美国无法白璧无瑕】——白璧无瑕，😇😇😇
+
+### 48: [2023-03-23 09:20:33+08:00 推文](https://twitter.com/HeQinglian/status/1638712304257703936)
+
+Re @evaqiao2022 你别忙，我是笑，你用词越来越有趣了。美国恐怕从来不是白壁，当然，从来没有哪个国家是。
+
+### 49: [2023-03-23 09:23:39+08:00 推文](https://twitter.com/HeQinglian/status/1638713081562816514)
+
+Re @Wu_Zhi @VOAChinese 男女之别与辨识男女，从古到今不是问题，拜登与美国左派让其成了问题。
+
+### 50: [2023-03-23 09:25:43+08:00 推文](https://twitter.com/HeQinglian/status/1638713603976212480)
+
+Re @evaqiao2022 你越用越荒唐，美国这些只是脸上长了大痦子么？可能你到现在都不愿意承认灯塔国早就坍塌这事实，不说了。<br>你自便。
 
