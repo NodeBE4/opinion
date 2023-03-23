@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2023-03-23
+date: 2023-03-24
 from: https://twitter.com/nathanlawkc/status/1637759262913970177
 layout: post
 tags:
@@ -28,4 +28,8 @@ It is the first confirmation that China is sending rifles and body armor to Russ
 ### 3: [2023-03-23 00:41:34+08:00 推文](https://twitter.com/nathanlawkc/status/1638581696709763092)
 
 Arts should be liberating and showing humanity's resilience.<br>That's why we have @HKFF_UK , a festival organized by Hongkongers, to show films about things that we care -- Myanmar protest, Taiwan's past trauma, struggles of Hongkongers. Come join us.<br>http://hkff.uk https://t.co/87B1ARl0hx<br><img style="" src="https://pbs.twimg.com/media/Fr1otcxWAAE7ik6?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fr1oxBEXoAMXYHl?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fr1pIHNXgAEGhIw?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fr1pImPXwAA3Lxm?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 4: [2023-03-24 05:17:43+08:00 推文](https://twitter.com/nathanlawkc/status/1639013580577095680)
+
+Salute @patrickamadon https://twitter.com/patrickamadon/status/1638933562706755584<div class="rsshub-quote"><br><br>Patrick Amadon: ✊🌏<br><br>https://apnews.com/article/hong-kong-art-censorship-no-rioters-amadon-956803ea3b5daf5c6ad8b68c55245c25<br></div>
 

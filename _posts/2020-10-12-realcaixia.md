@@ -37,7 +37,7 @@ Re 2、中共国党库国库不分，纳税人既要供养政府系统还要供�
 
 ### 6: [2020-10-13 08:04:41+08:00 推文](https://twitter.com/realcaixia/status/1315805620411469824)
 
-<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  🔁 3，中共强化极权统治的一个重要标志就是警察头子提升官职级别，周永康当中央政治局常委、中央政法委书记期间，省公安厅长级别提高半级兼任副省长，自此以后，各级公安机构照此办理，都提高半级兼政法委书记、兼副市长进常委会。现在此做法一直延伸到社会最基层—乡镇街道。<hr><small>10/13/2020, 8:04:41 AM</small>
+Re 3，中共强化极权统治的一个重要标志就是警察头子提升官职级别，周永康当中央政治局常委、中央政法委书记期间，省公安厅长级别提高半级兼任副省长，自此以后，各级公安机构照此办理，都提高半级兼政法委书记、兼副市长进常委会。现在此做法一直延伸到社会最基层—乡镇街道。
 
 ### 7: [2020-10-13 08:05:29+08:00 推文](https://twitter.com/realcaixia/status/1315805822493097985)
 
@@ -45,15 +45,15 @@ Re 2、中共国党库国库不分，纳税人既要供养政府系统还要供�
 
 ### 8: [2020-10-13 10:02:38+08:00 推文](https://twitter.com/realcaixia/status/1315835304234946562)
 
-<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  🔁 @zfb468590 谢谢您看的仔细。<hr><small>10/13/2020, 10:02:38 AM</small>
+Re @zfb468590 谢谢您看的仔细。
 
 ### 9: [2020-10-13 10:15:50+08:00 推文](https://twitter.com/realcaixia/status/1315838628216688640)
 
-<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  🔁 辅警纳入政府事业单位编制。<br clear="both"><div style="clear: both"></div><a href="https://pbs.twimg.com/media/EkLMQeAX0Acryt7?format=jpg&name=orig"><img hspace="4" vspace="8" src="https://pbs.twimg.com/media/EkLMQeAX0Acryt7?format=jpg&name=orig" referrerpolicy="no-referrer"></a><hr><small>10/13/2020, 10:15:50 AM</small>
+Re 辅警纳入政府事业单位编制。 <br><img src="https://pbs.twimg.com/media/EkLMQeAX0Acryt7?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 10: [2020-10-13 22:28:45+08:00 推文](https://twitter.com/realcaixia/status/1316023071715684358)
 
-看到一推友贴出资先生的讲座短视频，特转发。感谢这位推友在我的推下留言中贴出这么好的视频。 <br><br>🇹🇼ROC洪希疆 ㄇㄧㄣˊ ㄍㄨㄛˊ ㄖㄣˊ ㄐㄧㄚ ㄗㄞˋ ㄊㄞˊ ㄨㄢ: @realcaixia <br><br><video src="https://video.twimg.com/ext_tw_video/1315874364764479490/pu/vid/720x720/k-HPEd-_43-nnh51.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1315874364764479490/pu/img/vNJU8NMQLK02WmdI.jpg" style="width: 100%"></video>
+<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  看到一推友贴出资先生的讲座短视频，特转发。感谢这位推友在我的推下留言中贴出这么好的视频。<br clear="both"><div style="clear: both"></div><blockquote><a href="https://twitter.com/mars36449"><img align="left" src="https://pbs.twimg.com/profile_images/1313033311623671809/Bkh2tJCo_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>🇹🇼ROC洪希疆 ㄇㄧㄣˊ ㄍㄨㄛˊ ㄖㄣˊ ㄐㄧㄚ ㄗㄞˋ ㄊㄞˊ ㄨㄢ</strong></a>:  @realcaixia<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/ext_tw_video/1315874364764479490/pu/vid/720x720/k-HPEd-_43-nnh51.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1315874364764479490/pu/img/vNJU8NMQLK02WmdI.jpg" style="width: 100%"></video><br><small>Source: <a href="https://twitter.com/mars36449/status/1315874412223098887" target="_blank" rel="noopener noreferrer">https://twitter.com/mars36449/status/1315874412223098887</a></small><br><small>10/13/2020, 12:38:02 PM</small><br clear="both"><div style="clear: both"></div></blockquote><hr><small>10/13/2020, 10:28:45 PM</small>
 
 ### 11: [2020-10-14 08:37:45+08:00 推文](https://twitter.com/realcaixia/status/1316176330992611328)
 
