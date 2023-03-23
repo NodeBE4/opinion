@@ -179,3 +179,7 @@ I look at some of the 20mm minis I painted years ago, and while I continue to be
 
 That has to be a fetish thing, right?
 
+----- __1147.13__ -----2023-03-23 19:33:17+08:00:
+
+I'm surprised I forgot that one given that I saw that thread too – I upvoted some comments there.
+
