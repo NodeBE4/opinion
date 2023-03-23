@@ -269,7 +269,7 @@ Re @franktianxie @dajiyuan 最近认知战影响很大，梦想现在越来越�
 
 ### 64: [2022-05-20 08:09:08+08:00 推文](https://twitter.com/HeQinglian/status/1527441254446948368)
 
-如果可能，今后选议员，一定需要这些人有过挣工资养活自己的经历，否则都不知道钱是需要辛苦工作。<br>才写完，想起AOC做酒吧服务生时，也需要辛苦工作。但现在根本不知道“谁知盘中餐，粒粒皆辛苦”，全是小拜登那号以父之名挣钱、敞开手花钱的主儿。
+如果可能，今后选议员，一定需要这些人有过挣工资养活自己的经历，否则都不知道钱是需要辛苦工作。<br>才写完，想起AOC做酒吧服务生时，也需要辛苦工作。但现在根本不知道“谁知盘中餐，粒粒皆辛苦”，全是小拜登那号以父之名挣钱、敞开手花钱的主儿。<br><br>The Hill: Thursday, the Senate blocked $48 billion aid package for restaurants and other small businesses.<br><br><video src="https://video.twimg.com/amplify_video/1527422746413645824/vid/1280x720/6woAhhNPx20kERzk.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1527422746413645824/img/j-O9AhQ_PhBxDqrS.jpg"></video> <a href="http://hill.cm/ELVsWwr" target="_blank" rel="noopener noreferrer">http://hill.cm/ELVsWwr</a>
 
 ### 65: [2022-05-20 08:13:51+08:00 推文](https://twitter.com/HeQinglian/status/1527442443716673536)
 
