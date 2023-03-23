@@ -73,9 +73,15 @@ Alternatively, if you are not a student and are not doing homework, we have remo
 
 Similarly, the idea that there's one particular song where she's giving 90%... as in her work-life balance swaps to 90:10 for *that specific song*?!
 
-### 1153: [What were the consequences on the Italian sociopolitical situation of Victor Emmanuel III of Italy leaving Rome after the Armistice of Cassibile?](https://old.reddit.com/r/AskHistorians/comments/11zd2t9/what_were_the_consequences_on_the_italian/), submitted on 2023-03-23 15:55:32+08:00.
+### 1153: [What does this tattoo mean?](https://old.reddit.com/r/ChineseTranslation/comments/11za6pb/what_does_this_tattoo_mean/), submitted on 2023-03-23 13:33:45+08:00.
 
------ __1153.1__ -----2023-03-23 16:40:20+08:00:
+----- __1153.1__ -----2023-03-23 21:28:06+08:00:
+
+While the character 樂 appears in various music-related compounds, on its own it typically just means 'happiness'.
+
+### 1154: [What were the consequences on the Italian sociopolitical situation of Victor Emmanuel III of Italy leaving Rome after the Armistice of Cassibile?](https://old.reddit.com/r/AskHistorians/comments/11zd2t9/what_were_the_consequences_on_the_italian/), submitted on 2023-03-23 15:55:32+08:00.
+
+----- __1154.1__ -----2023-03-23 16:40:20+08:00:
 
 Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
 
