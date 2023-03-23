@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2021-12-06~2021-12-12'
 
 ### 4: [2021-12-08 00:36:57+08:00 推文](https://twitter.com/realcaixia/status/1468258238642728968)
 
-这是政府违法，无执法权的商业性公司居然行使政府法律职权，这个政府本身就是违法，必须追究当地政府的法律责任。中共国地面上有多少这样的政府公然雇佣所谓的公司行使法律职权，这类公司是如何拿到这类权力的，需要彻查。政府公然官匪一体！<br><br>鲁  难: <br><br><img style src="https://pbs.twimg.com/media/FF-yd43XMAc1FOd?format=jpg&name=orig" referrerpolicy="no-referrer">
+这是政府违法，无执法权的商业性公司居然行使政府法律职权，这个政府本身就是违法，必须追究当地政府的法律责任。中共国地面上有多少这样的政府公然雇佣所谓的公司行使法律职权，这类公司是如何拿到这类权力的，需要彻查。政府公然官匪一体！<br><br>鲁  难: <br><br><img style="" src="https://pbs.twimg.com/media/FF-yd43XMAc1FOd?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2021-12-08 03:24:15+08:00 推文](https://twitter.com/realcaixia/status/1468300339531194368)
 
@@ -53,15 +53,15 @@ Re @jiang_xicheng @luoye_figtree 说得好！👍🌹
 
 ### 10: [2021-12-09 09:55:21+08:00 推文](https://twitter.com/realcaixia/status/1468761149701251080)
 
-德国新政府将以何种政策态度对待中共政权，大陆人很关注。毕竟德国是最发达国家之一，毕竟德意志民族曾经历过纳粹法西斯统治的苦难；毕竟东德又经历共产极权残暴统治近半个世纪；毕竟两德人民推倒柏林墙重新统一。德国人民反对极权统治争取自由民主的经验对大陆民众会有很多启示。<br><br>ZHANGDONG: 德国新政府今天闪亮登场。新总理朔尔茨是上届默克尔政府的副总理兼财政部长，声称将会延续默克尔政策。绿党双主席之一贝尔伯克成为德国首位女性外长，富有挑战性，预计将会让东方战狼狂吠不止。<br><br><img style="" src="https://pbs.twimg.com/media/FGG9ByyXoAc7WTm?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/ZhangDong_SCH/status/1468662072368152576/photo/1" target="_blank" rel="noopener noreferrer">https://twitter.com/ZhangDong_SCH/status/1468662072368152576/photo/1</a>
+德国新政府将以何种政策态度对待中共政权，大陆人很关注。毕竟德国是最发达国家之一，毕竟德意志民族曾经历过纳粹法西斯统治的苦难；毕竟东德又经历共产极权残暴统治近半个世纪；毕竟两德人民推倒柏林墙重新统一。德国人民反对极权统治争取自由民主的经验对大陆民众会有很多启示。<br><br>ZHANGDONG: 德国新政府今天闪亮登场。新总理朔尔茨是上届默克尔政府的副总理兼财政部长，声称将会延续默克尔政策。绿党双主席之一贝尔伯克成为德国首位女性外长，富有挑战性，预计将会让东方战狼狂吠不止。<br><br><img style src="https://pbs.twimg.com/media/FGG9ByyXoAc7WTm?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/ZhangDong_SCH/status/1468662072368152576/photo/1" target="_blank" rel="noopener noreferrer">https://twitter.com/ZhangDong_SCH/status/1468662072368152576/photo/1</a>
 
 ### 11: [2021-12-09 09:57:27+08:00 推文](https://twitter.com/realcaixia/status/1468761680972759042)
 
-丁家喜律师的夫人罗胜春女士很了不起！<br><br>Luo Shengchun丁家喜律师妻子: #世界人权日到来之际DC行 （2）会上我以许志永和丁家喜案为例讲述了中共当局对中国公民运动的打压，讲述了标榜已实现全程民主的厉害国如何害怕其公民有自己的声音和态度。讲述厉害国公民如何因言论、聚会，及倡导践行宪法赋予公民的权利被失踪，被酷刑，被指控颠覆的故事，呼吁无罪释放许志永丁家喜！<br><br><img style src="https://pbs.twimg.com/media/FGD3YaMX0AA7Tlq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGD3Yf2WYAAA6M1?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGD3YflX0AMPZAN?format=jpg&name=orig" referrerpolicy="no-referrer">
+丁家喜律师的夫人罗胜春女士很了不起！<br><br>Luo Shengchun丁家喜律师妻子: #世界人权日到来之际DC行 （2）会上我以许志永和丁家喜案为例讲述了中共当局对中国公民运动的打压，讲述了标榜已实现全程民主的厉害国如何害怕其公民有自己的声音和态度。讲述厉害国公民如何因言论、聚会，及倡导践行宪法赋予公民的权利被失踪，被酷刑，被指控颠覆的故事，呼吁无罪释放许志永丁家喜！<br><br><img style="" src="https://pbs.twimg.com/media/FGD3YaMX0AA7Tlq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGD3Yf2WYAAA6M1?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGD3YflX0AMPZAN?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2021-12-09 10:10:37+08:00 推文](https://twitter.com/realcaixia/status/1468764994670145539)
 
-21世纪了，中共国妖孽倍出，不知中共当局以为今夕是何年？<br><br>刘晓原: 如今这个年代了，竟然还在搞“一人犯罪、株连全家”，又谈何法治精神？<br>但就是在古代，除了谋反、叛逆罪，一般的涉财产犯罪，也不会株连家人，更不会给他的家庭挂上囚牌，仅是罪犯额头刻个“囚”字。<br><br><img style="" src="https://pbs.twimg.com/media/FGDdO0jUcAQBbYk?format=jpg&name=orig" referrerpolicy="no-referrer">
+21世纪了，中共国妖孽倍出，不知中共当局以为今夕是何年？<br><br>刘晓原: 如今这个年代了，竟然还在搞“一人犯罪、株连全家”，又谈何法治精神？<br>但就是在古代，除了谋反、叛逆罪，一般的涉财产犯罪，也不会株连家人，更不会给他的家庭挂上囚牌，仅是罪犯额头刻个“囚”字。<br><br><img style src="https://pbs.twimg.com/media/FGDdO0jUcAQBbYk?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 13: [2021-12-09 12:53:30+08:00 推文](https://twitter.com/realcaixia/status/1468805982830706689)
 
@@ -97,7 +97,7 @@ Re 美国举行民主“峰会”。那意思是执政党和政府首脑是人�
 
 ### 21: [2021-12-11 01:33:14+08:00 推文](https://twitter.com/realcaixia/status/1469359564613165058)
 
-完全同意。<br><br>韩连潮: 【写在人权日的话】今天是世界人权日，我呼吁中共当局释放张展、伊力哈木、曹三强、陈杰人等知名和不知名的良心犯。要中共尊重人权无疑是与虎谋皮，改善人权必须改变政权。对抗极权、打击贪腐与改善人权要采取实质行动：没收中共贪官在美的数万亿美元资产，用于促进中国人权项目，实现中国的民主转型。<br><br><img style="" src="https://pbs.twimg.com/media/FGP56LGWUAUwNQ2?format=jpg&name=orig" referrerpolicy="no-referrer">
+完全同意。<br><br>韩连潮: 【写在人权日的话】今天是世界人权日，我呼吁中共当局释放张展、伊力哈木、曹三强、陈杰人等知名和不知名的良心犯。要中共尊重人权无疑是与虎谋皮，改善人权必须改变政权。对抗极权、打击贪腐与改善人权要采取实质行动：没收中共贪官在美的数万亿美元资产，用于促进中国人权项目，实现中国的民主转型。<br><br><img style src="https://pbs.twimg.com/media/FGP56LGWUAUwNQ2?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 22: [2021-12-11 08:48:02+08:00 推文](https://twitter.com/realcaixia/status/1469468987784409099)
 
@@ -109,7 +109,7 @@ Re 美国举行民主“峰会”。那意思是执政党和政府首脑是人�
 
 ### 24: [2021-12-11 09:15:42+08:00 推文](https://twitter.com/realcaixia/status/1469475948978397186)
 
-文革时大学停课了，红色斗争精神也就只能进小学中学课本。现在红色斗争精神的官名“红色基因”正式进入大学教材、登上大学讲堂，还和DNA直接挂钩，真是毛二世时代的中国特色创新——新妖辈出。<br><br>荣剑: 范忠信老师：原来以为“红色基因〞仅仅是一种社会文化上的比喻，是红色斗争精神的代名词。没想到，现在居然正式进了生物学科课程，居然正式与DNA联系起来了。真让人目瞪狗呆。什么叫高级黑？这就是。马上让你联想到古时金枝玉叶、天潢贵胄、龙子龙孙。<br><br><img style src="https://pbs.twimg.com/media/FGQMjc8VgAE9R1p?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGQMkE7VUAEj62H?format=jpg&name=orig" referrerpolicy="no-referrer">
+文革时大学停课了，红色斗争精神也就只能进小学中学课本。现在红色斗争精神的官名“红色基因”正式进入大学教材、登上大学讲堂，还和DNA直接挂钩，真是毛二世时代的中国特色创新——新妖辈出。<br><br>荣剑: 范忠信老师：原来以为“红色基因〞仅仅是一种社会文化上的比喻，是红色斗争精神的代名词。没想到，现在居然正式进了生物学科课程，居然正式与DNA联系起来了。真让人目瞪狗呆。什么叫高级黑？这就是。马上让你联想到古时金枝玉叶、天潢贵胄、龙子龙孙。<br><br><img style="" src="https://pbs.twimg.com/media/FGQMjc8VgAE9R1p?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGQMkE7VUAEj62H?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 25: [2021-12-11 09:48:01+08:00 推文](https://twitter.com/realcaixia/status/1469484082933518340)
 
