@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-03-24
+date: 2023-03-25
 from: https://twitter.com/HeQinglian/status/1637511912056315905
 layout: post
 tags:
@@ -69,7 +69,7 @@ RT L JM🇺🇸<br>在美国曾有一段时间，检察官和司法部拒绝�
 
 ### 14: [2023-03-20 21:33:33+08:00 推文](https://twitter.com/HeQinglian/status/1637809604271693825)
 
-美国自拜登上台后，攒足劲要与中国在非洲竞争，专门拨款成立机构；法国说要重回非洲（原来有不少殖民地），如今成了这局面。<br>拜粉们可以说非洲国家太Low，但在联合国，非联拥有56张选票。打群架时用得着。<div class="rsshub-quote"><br><br>S.L. Kanthan: 40 African countries are in Moscow today!! The conference is called “Russia-Africa in a Multipolar World.” <br><br>The Global South is ignoring Washington DC and its endless wars. There are bigger fish to fry.<br><br>The leaders of developing nations can now sense a new world of… https://twitter.com/i/web/status/1637726914386468864 https://t.co/Of9vVM3PjJ<br><br><img style="" src="https://pbs.twimg.com/media/Frpf8b7aYAIp3A_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+美国自拜登上台后，攒足劲要与中国在非洲竞争，专门拨款成立机构；法国说要重回非洲（原来有不少殖民地），如今成了这局面。<br>拜粉们可以说非洲国家太Low，但在联合国，非联拥有56张选票。打群架时用得着。 https://twitter.com/Kanthan2030/status/1637726914386468864<div class="rsshub-quote"><br><br>S.L. Kanthan: 40 African countries are in Moscow today!! The conference is called “Russia-Africa in a Multipolar World.” <br><br>The Global South is ignoring Washington DC and its endless wars. There are bigger fish to fry.<br><br>The leaders of developing nations can now sense a new world of… https://twitter.com/i/web/status/1637726914386468864 https://t.co/Of9vVM3PjJ<br><br><img style="" src="https://pbs.twimg.com/media/Frpf8b7aYAIp3A_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 15: [2023-03-20 21:37:45+08:00 推文](https://twitter.com/HeQinglian/status/1637810660510781441)
 
@@ -97,7 +97,7 @@ Re @mitolyu @Vince6610 @zhixiangziyou 明白了。不知她对简方达欢呼cov
 
 ### 21: [2023-03-21 01:51:55+08:00 推文](https://twitter.com/HeQinglian/status/1637874624951099397)
 
-2022年4月，拜登和他的政府发布了两份下属机构的文件，旨在支持和鼓励男孩和女孩进行化学和手术阉割，一份来自Office of Population Affairs，题为Gender-Affirming Care and Young People；另一份是Gender-Affirming Care is Trauma-Informed Care。 https://www.drjamesdobson.org/articles/bidens-radicalized-transgender-agenda-takes-full-aim-at-your-children https://twitter.com/tankman2002/status/1637672806799507456<div class="rsshub-quote"><br><br>二大爷: 实在忍不住，我来给大家起底一下有些华人群体，欺负大家不懂英文，肆意在“儿童变性”这个话题上造谣的手段。图一是我所在的加州的州长纽森签署的法案。它正确的翻译是“纽森签署法案，使加州成为跨性别青年和家庭的避难所”。也就是说，这个法案的本意是保护那些“跨性别的青年和家庭”免受歧视。但在某些华… https://twitter.com/i/web/status/1637672806799507456 https://t.co/2JTeRQ9mCK<br><br><img style="" src="https://pbs.twimg.com/media/FrorHhMaQAE1o07?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrosNYDaUAEeB-Y?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrouZt6akAAVdwc?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+2022年4月，拜登和他的政府发布了两份下属机构的文件，旨在支持和鼓励男孩和女孩进行化学和手术阉割，一份来自Office of Population Affairs，题为Gender-Affirming Care and Young People；另一份是Gender-Affirming Care is Trauma-Informed Care。 https://www.drjamesdobson.org/articles/bidens-radicalized-transgender-agenda-takes-full-aim-at-your-children<div class="rsshub-quote"><br><br>二大爷: 实在忍不住，我来给大家起底一下有些华人群体，欺负大家不懂英文，肆意在“儿童变性”这个话题上造谣的手段。图一是我所在的加州的州长纽森签署的法案。它正确的翻译是“纽森签署法案，使加州成为跨性别青年和家庭的避难所”。也就是说，这个法案的本意是保护那些“跨性别的青年和家庭”免受歧视。但在某些华… https://twitter.com/i/web/status/1637672806799507456 https://t.co/2JTeRQ9mCK<br><br><img style="" src="https://pbs.twimg.com/media/FrorHhMaQAE1o07?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrosNYDaUAEeB-Y?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrouZt6akAAVdwc?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 22: [2023-03-21 03:14:24+08:00 推文](https://twitter.com/HeQinglian/status/1637895384541417472)
 
@@ -266,4 +266,8 @@ Re @zhixiangziyou 这与中国处理向习近平画象泼墨的那位湖南女�
 ### 63: [2023-03-24 22:06:32+08:00 推文](https://twitter.com/HeQinglian/status/1639267457792655364)
 
 Re @Wu_Zhi @JianglinLi @david_david1968 @HongfuDing 最近据德国知识分子亲口告知：德国现在已经很少很少有移民抢劫恐怖袭击。经她调查核实，这并非舆论被控制的结果。<br>尽管我不相信，但人家是德国人。
+
+### 64: [2023-03-25 01:23:40+08:00 推文](https://twitter.com/HeQinglian/status/1639317065130557461)
+
+Re @Wu_Zhi 西班牙下半年是欧盟轮值主席，人家正想发挥主席的作用。<br>另外，荷兰那位首相大人，公开表示盼望习近平尽快给泽连斯基打电话，进入和谈。<br>为什么要习近平主动打？估计是泽想联系，没用，联系不上。得等习近平觉得时机到了，否则还是个谈不成。
 

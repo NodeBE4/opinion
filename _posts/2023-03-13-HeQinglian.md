@@ -881,7 +881,7 @@ Re @aptx48693734 瑞信已经折腾了十多年，从全球一家最优金融机
 
 ### 217: [2023-03-17 21:08:48+08:00 推文](https://twitter.com/HeQinglian/status/1636716214054449152)
 
-你说的是真实情况。<br>我这几天查资料，发现欧洲早就这样玩，但全民觉得正常。美国还没烂透，这次硅谷的Woke化经营被挖出来当事情说，至少纽约邮报、Fox等愿意说，CNN、纽时、华邮则挑美联储加息来说，非说成是普遍性的。<br>Got Woke，Go Broke，不烂到底，那一半喜欢Woke的美国左派国民不会醒的。<div class="rsshub-quote"><br><br>hustzhuch: @HeQinglian 欧美很多公司都搞这个鬼，他妈的还不能说。迟早完蛋<br></div>
+你说的是真实情况。<br>我这几天查资料，发现欧洲早就这样玩，但全民觉得正常。美国还没烂透，这次硅谷的Woke化经营被挖出来当事情说，至少纽约邮报、Fox等愿意说，CNN、纽时、华邮则挑美联储加息来说，非说成是普遍性的。<br>Got Woke，Go Broke，不烂到底，那一半喜欢Woke的美国左派国民不会醒的。 https://twitter.com/hustzhuch/status/1636579388069126144<div class="rsshub-quote"><br><br>hustzhuch: @HeQinglian 欧美很多公司都搞这个鬼，他妈的还不能说。迟早完蛋<br></div>
 
 ### 218: [2023-03-17 21:19:05+08:00 推文](https://twitter.com/HeQinglian/status/1636718800954376192)
 
@@ -1065,11 +1065,11 @@ Re @Isabel_3299 这有什么好说的？当年茶党被整得奄奄一息，就�
 
 ### 263: [2023-03-19 05:27:29+08:00 推文](https://twitter.com/HeQinglian/status/1637204096380817408)
 
-以规模性指标为例，中国最好的金融机构资产规模只相当于美国60%左右——与两国按可比价格计算的GDP差距相同，而最弱的金融衍生品规模不到美国的1%。这就决定了两国金融体系结构完全不同，中国一直以银行为主导（因为无法大规模发债），而美国则以资本市场为主导，国债规模接近32万亿美元。<br>此为霸权所在<div class="rsshub-quote"><br><br>明实：没法眼佛眼但有真眼: @HeQinglian @lianghuiwang2 去吧，我继续臆想。<br>近几周有美债3000亿已经被抵押到FED换美元现金了……<br>比烂的时代，不用着急，败灯们会折腾的。<br></div>
+以规模性指标为例，中国最好的金融机构资产规模只相当于美国60%左右——与两国按可比价格计算的GDP差距相同，而最弱的金融衍生品规模不到美国的1%。这就决定了两国金融体系结构完全不同，中国一直以银行为主导（因为无法大规模发债），而美国则以资本市场为主导，国债规模接近32万亿美元。<br>此为霸权所在 https://twitter.com/mingshi_chen/status/1637201503306895363<div class="rsshub-quote"><br><br>明实：没法眼佛眼但有真眼: @HeQinglian @lianghuiwang2 去吧，我继续臆想。<br>近几周有美债3000亿已经被抵押到FED换美元现金了……<br>比烂的时代，不用着急，败灯们会折腾的。<br></div>
 
 ### 264: [2023-03-19 05:30:52+08:00 推文](https://twitter.com/HeQinglian/status/1637204948780810242)
 
-将马克龙选下去就是，为什么要斩首？选了他，就是将这届权力委托给他了，要他下去，也应该按民主程序，哪怕弹劾、倒阁都行。<br>以民主共和自我标高，却偏要回到当年大革命时代。<div class="rsshub-quote"><br><br>Ezio Mao☢: “我们斩首了路易十六，我们也可以斩首马克龙！”法国人非常坚决。<br><br>祝法国人民万事如意。我希望欧洲其他国家的人民效仿法国人的榜样。 https://t.co/QmmjWqiQox<br><br><video src="https://video.twimg.com/ext_tw_video/1636935193335574528/pu/vid/640x352/Am0dBW5jnaRv1PW_.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1636935193335574528/pu/img/U3ldBFt5xkqOxcmV.jpg"></video></div>
+将马克龙选下去就是，为什么要斩首？选了他，就是将这届权力委托给他了，要他下去，也应该按民主程序，哪怕弹劾、倒阁都行。<br>以民主共和自我标高，却偏要回到当年大革命时代。 https://twitter.com/KELMAND1/status/1636935219369631744<div class="rsshub-quote"><br><br>Ezio Mao☢: “我们斩首了路易十六，我们也可以斩首马克龙！”法国人非常坚决。<br><br>祝法国人民万事如意。我希望欧洲其他国家的人民效仿法国人的榜样。 https://twitter.com/KELMAND1/status/1636718538688966656 https://t.co/QmmjWqiQox<br><br><video src="https://video.twimg.com/ext_tw_video/1636935193335574528/pu/vid/640x352/Am0dBW5jnaRv1PW_.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1636935193335574528/pu/img/U3ldBFt5xkqOxcmV.jpg"></video></div>
 
 ### 265: [2023-03-19 05:48:01+08:00 推文](https://twitter.com/HeQinglian/status/1637209267655655424)
 
