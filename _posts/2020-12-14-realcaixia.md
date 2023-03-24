@@ -77,7 +77,7 @@ Re @James50056336 🌹🙏
 
 ### 16: [2020-12-17 23:09:01+08:00 推文](https://twitter.com/realcaixia/status/1339588415348592645)
 
-昨晚推了一个关于中国停电限电的推，感叹民生艰辛。今天再看有关消息，发现中共国停电是不止浙江、湖南、江西，还有安徽省、陕西省、湖北省等多个省市。<br>高压恐怖统治下民间无法正常表达意见，于是“反话正说”。<br>习统治下的中共国这么搞下去，经济、社会将如何？各种可能性都有。<br><img style="" src="https://pbs.twimg.com/media/EpcsiMLUUAA5iOz?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/EpcsikmVoAIiVj1?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/EpcsjGlVgAIUmpZ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/EpcsjnzVEAA8Lix?format=jpg&name=orig" referrerpolicy="no-referrer">
+昨晚推了一个关于中国停电限电的推，感叹民生艰辛。今天再看有关消息，发现中共国停电是不止浙江、湖南、江西，还有安徽省、陕西省、湖北省等多个省市。<br>高压恐怖统治下民间无法正常表达意见，于是“反话正说”。<br>习统治下的中共国这么搞下去，经济、社会将如何？各种可能性都有。<br><img style src="https://pbs.twimg.com/media/EpcsiMLUUAA5iOz?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EpcsikmVoAIiVj1?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EpcsjGlVgAIUmpZ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EpcsjnzVEAA8Lix?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 17: [2020-12-17 23:20:59+08:00 推文](https://twitter.com/realcaixia/status/1339591429425823744)
 
