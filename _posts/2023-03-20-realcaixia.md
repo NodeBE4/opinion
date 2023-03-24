@@ -17,11 +17,11 @@ title: 'Twitter @蔡霞: 2023-03-20~2023-03-26'
 
 ### 1: [2023-03-20 03:23:04+08:00 推文](https://twitter.com/realcaixia/status/1637535174052446208)
 
-高瑜大姐多多保重。杜光老先生唱“茶馆小调”我也在场，印象很深。我是后知后觉，我当时只理解q歌词的字面意思。<br>现在想来鲍彤、杜光、蒋彦永等老一代，1940年代是他们青春岁月，他们反抗蒋国民党政府禁言；到了耄耋之年，他们反抗习与中共禁言，老先生唱这歌，实质是总结了他们的一生。令人感慨万千！ https://twitter.com/gaoyu200812/status/1637381346401349638<div class="rsshub-quote"><br><br>高瑜: 2022年張思之、蔣宗曹、鮑彤三位先生相繼去世，我都被站崗，都被阻止參加告別式，禁止送花圈。送別鮑老那天，國保竟然來了十個人，還從派出所叫來十個片警，揚言要拘捕我兒子，讓我再一次嘗試專政鐵拳。今年兩會被旅遊中，蔣彥永、杜光先生又相繼去世，我更被禁言，我的痛苦像再一次經歷了六四，那年 https://t.co/sbzNfWuIA5<br><br><img style="" src="https://pbs.twimg.com/media/FrkUWYuaUAAWjYp?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrkVO_zaEAA4PPL?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrkXT2waYAcvzw7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+高瑜大姐多多保重。杜光老先生唱“茶馆小调”我也在场，印象很深。我是后知后觉，我当时只理解q歌词的字面意思。<br>现在想来鲍彤、杜光、蒋彦永等老一代，1940年代是他们青春岁月，他们反抗蒋国民党政府禁言；到了耄耋之年，他们反抗习与中共禁言，老先生唱这歌，实质是总结了他们的一生。令人感慨万千！<div class="rsshub-quote"><br><br>高瑜: 2022年張思之、蔣宗曹、鮑彤三位先生相繼去世，我都被站崗，都被阻止參加告別式，禁止送花圈。送別鮑老那天，國保竟然來了十個人，還從派出所叫來十個片警，揚言要拘捕我兒子，讓我再一次嘗試專政鐵拳。今年兩會被旅遊中，蔣彥永、杜光先生又相繼去世，我更被禁言，我的痛苦像再一次經歷了六四，那年 https://t.co/sbzNfWuIA5<br><br><img style="" src="https://pbs.twimg.com/media/FrkUWYuaUAAWjYp?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrkVO_zaEAA4PPL?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrkXT2waYAcvzw7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 2: [2023-03-20 04:37:09+08:00 推文](https://twitter.com/realcaixia/status/1637553819340120065)
 
-中共在1949以后的统治模式不脱4个字:专制掠夺。“掠夺”私人财产，一直没停止过。<br>王先生⬇️文章揭露中共对环境资源的“掠夺”式开采带来的恶果：破坏自然环境，不仅危害中国人而且将危害全球人类未来的生存。<br>中共掠夺式的开采利用资源，已经使中国空气、水、土地、食品严重污染，癌症发病率死亡率高于全球 https://twitter.com/yibaochina/status/1636474477088317446<div class="rsshub-quote"><br><br>《议报》: 王维洛 | 西藏高原生态环境恶化加剧 https://yibaochina.com/?p=249761 未来中国冰川面积的减少，将是一个持续加速的过程。西藏流亡政府在2015年在巴黎气候大会之前，提出的到2050年西藏三分之二的冰川可能因气候变迁而消失的预测，将会提前出现。那是习近平的第二个一百年，山河破碎的第二个一百年。<br></div>
+中共在1949以后的统治模式不脱4个字:专制掠夺。“掠夺”私人财产，一直没停止过。<br>王先生⬇️文章揭露中共对环境资源的“掠夺”式开采带来的恶果：破坏自然环境，不仅危害中国人而且将危害全球人类未来的生存。<br>中共掠夺式的开采利用资源，已经使中国空气、水、土地、食品严重污染，癌症发病率死亡率高于全球<div class="rsshub-quote"><br><br>《议报》: 王维洛 | 西藏高原生态环境恶化加剧 https://yibaochina.com/?p=249761 未来中国冰川面积的减少，将是一个持续加速的过程。西藏流亡政府在2015年在巴黎气候大会之前，提出的到2050年西藏三分之二的冰川可能因气候变迁而消失的预测，将会提前出现。那是习近平的第二个一百年，山河破碎的第二个一百年。<br></div>
 
 ### 3: [2023-03-20 04:55:24+08:00 推文](https://twitter.com/realcaixia/status/1637558411717144577)
 
@@ -49,11 +49,11 @@ Re 举中国2020年癌症发病数和死亡数为证：中国新发癌症人数�
 
 ### 9: [2023-03-20 16:00:50+08:00 推文](https://twitter.com/realcaixia/status/1637725872466583553)
 
-莫言写得好！ https://twitter.com/truthmedia_2/status/1625248357399810048<div class="rsshub-quote"><br><br>真相傳媒備用號: 莫言在他的新书《晚熟的人》写道：本性善良的人都晚熟，他们是被劣人催熟的。当别人聪明伶俐时，他们又傻又呆。当别人权衡利弊时，他们一片真诚。当别人心机用尽时，他们灵魂开窍。虽然开窍了，但内心还是会保持善良和赤诚，他们不断寻找同类，最后却变成了最孤独那一个…… https://t.co/slWYfUdOt3<br><br><video src="https://video.twimg.com/ext_tw_video/1625248261140512768/pu/vid/640x360/0YkOOKGG4a4V4Z7c.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1625248261140512768/pu/img/m7wBhXw_pvL5A_aW.jpg"></video></div>
+莫言写得好！<div class="rsshub-quote"><br><br>真相傳媒備用號: 莫言在他的新书《晚熟的人》写道：本性善良的人都晚熟，他们是被劣人催熟的。当别人聪明伶俐时，他们又傻又呆。当别人权衡利弊时，他们一片真诚。当别人心机用尽时，他们灵魂开窍。虽然开窍了，但内心还是会保持善良和赤诚，他们不断寻找同类，最后却变成了最孤独那一个…… https://t.co/slWYfUdOt3<br><br><video src="https://video.twimg.com/ext_tw_video/1625248261140512768/pu/vid/640x360/0YkOOKGG4a4V4Z7c.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1625248261140512768/pu/img/m7wBhXw_pvL5A_aW.jpg"></video></div>
 
 ### 10: [2023-03-20 23:33:40+08:00 推文](https://twitter.com/realcaixia/status/1637839832113377281)
 
-高瑜大姐推文说现在新华社的参考消息没人要了。想起在中央党校学习的官员，晚饭后围着人工湖散步。7点了人行步道上依旧三三两两谈天说笑，有次我问一官员：都7点了，怎么还散步呢？官员说：新闻联播没看头，看7点20分以后的。7点20以后的是新闻联播国际新闻时段。那是2007年以后开始的现象。<div class="rsshub-quote"><br><br>高瑜: 唐老弟說的是今年的事兒嗎？80年代《參考消息》火成什麼樣？現在白送沒人要，怨誰呢？他幾天前發帖講蔣彥永醫生向他學攝影，很有意思。<br></div>
+高瑜大姐推文说现在新华社的参考消息没人要了。想起在中央党校学习的官员，晚饭后围着人工湖散步。7点了人行步道上依旧三三两两谈天说笑，有次我问一官员：都7点了，怎么还散步呢？官员说：新闻联播没看头，看7点20分以后的。7点20以后的是新闻联播国际新闻时段。那是2007年以后开始的现象。 https://twitter.com/gaoyu200812/status/1637749372887916544<div class="rsshub-quote"><br><br>高瑜: 唐老弟說的是今年的事兒嗎？80年代《參考消息》火成什麼樣？現在白送沒人要，怨誰呢？他幾天前發帖講蔣彥永醫生向他學攝影，很有意思。 https://twitter.com/1NO0F20S05zEM51/status/1637736209899192320<br></div>
 
 ### 11: [2023-03-20 23:50:28+08:00 推文](https://twitter.com/realcaixia/status/1637844061930528768)
 
@@ -61,15 +61,15 @@ Re 举中国2020年癌症发病数和死亡数为证：中国新发癌症人数�
 
 ### 12: [2023-03-21 00:56:42+08:00 推文](https://twitter.com/realcaixia/status/1637860729947824135)
 
-我很同意这个观点。在自由民主国家，寻找一份工作，有了收入支撑自己的生活，在此基础上努力为促进祖国实现宪政民主做好自己该做的能做的事。如不能解决好自己的生计，依靠各种捐助款生活的人，即便想为自由民主而努力也是走不远的。<div class="rsshub-quote"><br><br>一剑飘尘 007: 昨天见到一个我们同一个时代的哥们，非常成功的生意人，非常支持民主运动。从这个哥们身上，验证了我一直劝导民主圈年轻人的话：追求民主和发家致富不矛盾！追求民主是理念，现实生活也要做好。只有自己事业成功的，追求民主才真正是出于初心。不要把自己现实生活中的失败，都归结为专制制度。<br></div>
+我很同意这个观点。在自由民主国家，寻找一份工作，有了收入支撑自己的生活，在此基础上努力为促进祖国实现宪政民主做好自己该做的能做的事。如不能解决好自己的生计，依靠各种捐助款生活的人，即便想为自由民主而努力也是走不远的。 https://twitter.com/yjpc007/status/1637846481947471875<div class="rsshub-quote"><br><br>一剑飘尘 007: 昨天见到一个我们同一个时代的哥们，非常成功的生意人，非常支持民主运动。从这个哥们身上，验证了我一直劝导民主圈年轻人的话：追求民主和发家致富不矛盾！追求民主是理念，现实生活也要做好。只有自己事业成功的，追求民主才真正是出于初心。不要把自己现实生活中的失败，都归结为专制制度。<br></div>
 
 ### 13: [2023-03-21 01:20:01+08:00 推文](https://twitter.com/realcaixia/status/1637866597091278848)
 
-笑蜀这篇文章有深度思考。深刻不等于也不应该等于极端化。<div class="rsshub-quote"><br><br>《议报》: 笑蜀 | 警惕深刻 https://yibaochina.com/?p=249755 看似深刻的推理被现实撞得粉碎，这说明了一个问题，即深刻本身在某种程度上与现实的对立、深刻本身在某种程度上的破产。国人往往崇拜理论上的深刻，殊不知，很多所谓的深刻很容易沦为理论上的极化，最典型的就是马教的决定论。<br></div>
+笑蜀这篇文章有深度思考。深刻不等于也不应该等于极端化。 https://twitter.com/yibaochina/status/1635859554775777280<div class="rsshub-quote"><br><br>《议报》: 笑蜀 | 警惕深刻 https://yibaochina.com/?p=249755 看似深刻的推理被现实撞得粉碎，这说明了一个问题，即深刻本身在某种程度上与现实的对立、深刻本身在某种程度上的破产。国人往往崇拜理论上的深刻，殊不知，很多所谓的深刻很容易沦为理论上的极化，最典型的就是马教的决定论。<br></div>
 
 ### 14: [2023-03-21 22:10:16+08:00 推文](https://twitter.com/realcaixia/status/1638181231191003136)
 
-还用说吗？天天吹嘘“东升西降”，从“建设人类命运共同体”到给世界“提供人类文明新形态”，具有“制度优势”的习朝中国，三年疫情给国人发过一分钱生活补贴费吗？何论派飞机接回国人。<div class="rsshub-quote"><br><br>李承鹏（真正的大眼哥）: 昨天晚餐听陈天庸夫人“马耳他的鱼儿”讲了一个真实故事：<br>疫情爆发后，马耳他这小国无法承载，由该国政府出资包机运返各国游客（游客也出一点小费用）。各国政府均迅速配合，开放关口。<br>只有一个国家拒绝接回自己的国民，且没有给出任何回复。<br>有的人只好在迪拜机场住了几个月。<br>你猜这是哪个国家。… https://twitter.com/i/web/status/1637959260662542336<br></div>
+还用说吗？天天吹嘘“东升西降”，从“建设人类命运共同体”到给世界“提供人类文明新形态”，具有“制度优势”的习朝中国，三年疫情给国人发过一分钱生活补贴费吗？何论派飞机接回国人。 https://twitter.com/dayangelcp/status/1637959260662542336<div class="rsshub-quote"><br><br>李承鹏（真正的大眼哥）: 昨天晚餐听陈天庸夫人“马耳他的鱼儿”讲了一个真实故事：<br>疫情爆发后，马耳他这小国无法承载，由该国政府出资包机运返各国游客（游客也出一点小费用）。各国政府均迅速配合，开放关口。<br>只有一个国家拒绝接回自己的国民，且没有给出任何回复。<br>有的人只好在迪拜机场住了几个月。<br>你猜这是哪个国家。… https://twitter.com/i/web/status/1637959260662542336<br></div>
 
 ### 15: [2023-03-21 22:15:09+08:00 推文](https://twitter.com/realcaixia/status/1638182460851888130)
 
@@ -109,7 +109,7 @@ Re 拖到今天才转发芳菲和程晓农老师的访谈上下集。这期访�
 
 ### 24: [2023-03-23 04:45:24+08:00 推文](https://twitter.com/realcaixia/status/1638643060774158336)
 
-窗帘拉开了还能再拉上，同样一国历史进一步退两步也成现实。<br>曾以为改革开放拥抱现代文明了，就会一直往前走，现实却并非如此。2014年行走伊朗，硬生生的看到拥抱了现代文明还会再退到神权时期；回头看中国，曾经走出了帝制拥抱共和，1949后再退回帝国皇权——；1978开了国门，2012以后习朝要半关半开。 https://twitter.com/xiaomiehm/status/1638284397341298695<div class="rsshub-quote"><br><br>罗翔: 邪恶组织专门拉开窗帘再拉上窗帘，反复如此循环！😂😂😂😂😂😄！<br>这位教授的讲课方式令人叫绝，但这个故事更触动我的是:窗帘拉开了还能再拉上…… https://t.co/7WyDuTF3ev<br><br><img style="" src="https://pbs.twimg.com/media/Frxa-QkXoAAhaf4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+窗帘拉开了还能再拉上，同样一国历史进一步退两步也成现实。<br>曾以为改革开放拥抱现代文明了，就会一直往前走，现实却并非如此。2014年行走伊朗，硬生生的看到拥抱了现代文明还会再退到神权时期；回头看中国，曾经走出了帝制拥抱共和，1949后再退回帝国皇权——；1978开了国门，2012以后习朝要半关半开。 https://twitter.com/XIAOMIEHM/status/1638284397341298695<div class="rsshub-quote"><br><br>罗翔: 邪恶组织专门拉开窗帘再拉上窗帘，反复如此循环！😂😂😂😂😂😄！<br>这位教授的讲课方式令人叫绝，但这个故事更触动我的是:窗帘拉开了还能再拉上…… https://t.co/7WyDuTF3ev<br><br><img style="" src="https://pbs.twimg.com/media/Frxa-QkXoAAhaf4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 25: [2023-03-23 11:23:02+08:00 推文](https://twitter.com/realcaixia/status/1638743126352486401)
 
@@ -121,11 +121,11 @@ Re @ChanrichAmy 手术成功了！真是很暖心的好消息🌹🌹。祝贺�
 
 ### 27: [2023-03-23 11:32:45+08:00 推文](https://twitter.com/realcaixia/status/1638745572256669700)
 
-华人网友可能用拼多多的多，需要高度重视个人信息安全。 https://twitter.com/yibao_en/status/1638559959108419590<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 拼多多app有病毒嫌疑，被谷歌禁止！<br><br>TikTok next?! And wechat?!<br><br>https://www.cbsnews.com/news/pinduoduo-google-play-suspension-malware-chinese-shopping-app-tiktok/?ftag=CNM-00-10aac3a<br></div>
+华人网友可能用拼多多的多，需要高度重视个人信息安全。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 拼多多app有病毒嫌疑，被谷歌禁止！<br><br>TikTok next?! And wechat?!<br><br>https://www.cbsnews.com/news/pinduoduo-google-play-suspension-malware-chinese-shopping-app-tiktok/?ftag=CNM-00-10aac3a<br></div>
 
 ### 28: [2023-03-23 11:39:15+08:00 推文](https://twitter.com/realcaixia/status/1638747209612300289)
 
-中共国就怕真相，就怕信息自由流动。一个毫不讲外交基本道德规范的政权，他们只会破坏世界秩序，破坏世界和平。 https://twitter.com/usa_china_talk/status/1638457380273881088<div class="rsshub-quote"><br><br>美国驻华使领馆 US MissionCN: 昨天，中华人民共和国的审查者对我们关于布林肯国务卿发布2022年度人权报告的微信和微博内容采取措施，限制网民的互动和知晓。如布林肯国务卿所说：“本报告的目的不是说教或羞辱……” https://twitter.com/USA_China_Talk/status/1638457166670561281<br></div>
+中共国就怕真相，就怕信息自由流动。一个毫不讲外交基本道德规范的政权，他们只会破坏世界秩序，破坏世界和平。<div class="rsshub-quote"><br><br>美国驻华使领馆 US MissionCN: 昨天，中华人民共和国的审查者对我们关于布林肯国务卿发布2022年度人权报告的微信和微博内容采取措施，限制网民的互动和知晓。如布林肯国务卿所说：“本报告的目的不是说教或羞辱……”<br></div>
 
 ### 29: [2023-03-23 11:47:45+08:00 推文](https://twitter.com/realcaixia/status/1638749346283008002)
 
@@ -137,11 +137,11 @@ Re @ChanrichAmy 手术成功了！真是很暖心的好消息🌹🌹。祝贺�
 
 ### 31: [2023-03-24 01:55:35+08:00 推文](https://twitter.com/realcaixia/status/1638962710967644169)
 
-支持童屹女士！拆掉中共互联网防火墙—中共阻碍信息自由流通的互联网柏林墙—这是改善中国人权状况、推进宪政民主的基础。<div class="rsshub-quote"><br><br>EndGFW Official 拆墙运动公号2: 【如何快速改善中国？拆墙排第1】<br><br>童逸近期给美国国会开出的改善中国民主2大招，包括了拆除互联网防火墙、资助记者律师。她指出，中共最怕本国人民，如果中国人能自由上网，那就易知社会真相，而真相本身就自带强大力量，能打破中共几十年来打造的谎言世界，促成反对派力量的联合。#EndGFW #拆墙运动 https://t.co/mdS6VjWOBZ<br><br><video src="https://video.twimg.com/ext_tw_video/1638588314310836224/pu/vid/644x360/Wki49V9XXLHeMoBP.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1638588314310836224/pu/img/N6d7apNOm4MYdQJz.jpg"></video></div>
+支持童屹女士！拆掉中共互联网防火墙—中共阻碍信息自由流通的互联网柏林墙—这是改善中国人权状况、推进宪政民主的基础。 https://twitter.com/endgfw2/status/1638591903712317440<div class="rsshub-quote"><br><br>EndGFW Official 拆墙运动公号2: 【如何快速改善中国？拆墙排第1】<br><br>童逸近期给美国国会开出的改善中国民主2大招，包括了拆除互联网防火墙、资助记者律师。她指出，中共最怕本国人民，如果中国人能自由上网，那就易知社会真相，而真相本身就自带强大力量，能打破中共几十年来打造的谎言世界，促成反对派力量的联合。#EndGFW #拆墙运动 https://t.co/mdS6VjWOBZ<br><br><video src="https://video.twimg.com/ext_tw_video/1638588314310836224/pu/vid/644x360/Wki49V9XXLHeMoBP.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1638588314310836224/pu/img/N6d7apNOm4MYdQJz.jpg"></video></div>
 
 ### 32: [2023-03-24 03:23:16+08:00 推文](https://twitter.com/realcaixia/status/1638984777377239042)
 
-一个小粉红被专政铁拳砸醒了。警察抓他，非要给他按个“罪名”，以强词夺理说抓他“合理合法”。他从此就有了“污点记录”，这会影响到他的一生生活和前途。<br>希望更多的年轻人醒悟过来。在一个无法治，无公开透明，无言论自由，无人权保障的国度里，今天发生在别人身上的事，说不定明天就发生在你身上。 https://twitter.com/tgtm_official/status/1637997459854221312
+一个小粉红被专政铁拳砸醒了。警察抓他，非要给他按个“罪名”，以强词夺理说抓他“合理合法”。他从此就有了“污点记录”，这会影响到他的一生生活和前途。<br>希望更多的年轻人醒悟过来。在一个无法治，无公开透明，无言论自由，无人权保障的国度里，今天发生在别人身上的事，说不定明天就发生在你身上。 https://twitter.com/tgtm_official/status/1637997459854221312<div class="rsshub-quote"><br><br>The Great Translation Movement 大翻译运动官方推号: A 22 years old boy who live in Shanghai  taken away by the police due to some unreasonable charges<br><br>#大翻译运动<br>#TheGreatTranslationMovement <br>#大翻譯運動 https://t.co/HpOJEaKq42<br><br><img style="" src="https://pbs.twimg.com/media/FrtNwvTXsAAKVlb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrtNwvNX0AECNiV?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 33: [2023-03-24 08:10:05+08:00 推文](https://twitter.com/realcaixia/status/1639056958576791554)
 
