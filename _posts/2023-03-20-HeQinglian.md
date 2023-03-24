@@ -69,7 +69,7 @@ RT L JM🇺🇸<br>在美国曾有一段时间，检察官和司法部拒绝�
 
 ### 14: [2023-03-20 21:33:33+08:00 推文](https://twitter.com/HeQinglian/status/1637809604271693825)
 
-美国自拜登上台后，攒足劲要与中国在非洲竞争，专门拨款成立机构；法国说要重回非洲（原来有不少殖民地），如今成了这局面。<br>拜粉们可以说非洲国家太Low，但在联合国，非联拥有56张选票。打群架时用得着。 https://twitter.com/Kanthan2030/status/1637726914386468864<div class="rsshub-quote"><br><br>S.L. Kanthan: 40 African countries are in Moscow today!! The conference is called “Russia-Africa in a Multipolar World.” <br><br>The Global South is ignoring Washington DC and its endless wars. There are bigger fish to fry.<br><br>The leaders of developing nations can now sense a new world of… https://twitter.com/i/web/status/1637726914386468864 https://t.co/Of9vVM3PjJ<br><br><img style="" src="https://pbs.twimg.com/media/Frpf8b7aYAIp3A_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+美国自拜登上台后，攒足劲要与中国在非洲竞争，专门拨款成立机构；法国说要重回非洲（原来有不少殖民地），如今成了这局面。<br>拜粉们可以说非洲国家太Low，但在联合国，非联拥有56张选票。打群架时用得着。<div class="rsshub-quote"><br><br>S.L. Kanthan: 40 African countries are in Moscow today!! The conference is called “Russia-Africa in a Multipolar World.” <br><br>The Global South is ignoring Washington DC and its endless wars. There are bigger fish to fry.<br><br>The leaders of developing nations can now sense a new world of… https://twitter.com/i/web/status/1637726914386468864 https://t.co/Of9vVM3PjJ<br><br><img style="" src="https://pbs.twimg.com/media/Frpf8b7aYAIp3A_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 15: [2023-03-20 21:37:45+08:00 推文](https://twitter.com/HeQinglian/status/1637810660510781441)
 
@@ -97,7 +97,7 @@ Re @mitolyu @Vince6610 @zhixiangziyou 明白了。不知她对简方达欢呼cov
 
 ### 21: [2023-03-21 01:51:55+08:00 推文](https://twitter.com/HeQinglian/status/1637874624951099397)
 
-2022年4月，拜登和他的政府发布了两份下属机构的文件，旨在支持和鼓励男孩和女孩进行化学和手术阉割，一份来自Office of Population Affairs，题为Gender-Affirming Care and Young People；另一份是Gender-Affirming Care is Trauma-Informed Care。 https://www.drjamesdobson.org/articles/bidens-radicalized-transgender-agenda-takes-full-aim-at-your-children https://twitter.com/tankman2002/status/1637672806799507456<div class="rsshub-quote"><br><br>二大爷: 实在忍不住，我来给大家起底一下有些华人群体，欺负大家不懂英文，肆意在“儿童变性”这个话题上造谣的手段。图一是我所在的加州的州长纽森签署的法案。它正确的翻译是“纽森签署法案，使加州成为跨性别青年和家庭的避难所”。也就是说，这个法案的本意是保护那些“跨性别的青年和家庭”免受歧视。但在某些华… https://twitter.com/i/web/status/1637672806799507456 https://t.co/2JTeRQ9mCK<br><br><img style="" src="https://pbs.twimg.com/media/FrorHhMaQAE1o07?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrosNYDaUAEeB-Y?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrouZt6akAAVdwc?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+2022年4月，拜登和他的政府发布了两份下属机构的文件，旨在支持和鼓励男孩和女孩进行化学和手术阉割，一份来自Office of Population Affairs，题为Gender-Affirming Care and Young People；另一份是Gender-Affirming Care is Trauma-Informed Care。 https://www.drjamesdobson.org/articles/bidens-radicalized-transgender-agenda-takes-full-aim-at-your-children<div class="rsshub-quote"><br><br>二大爷: 实在忍不住，我来给大家起底一下有些华人群体，欺负大家不懂英文，肆意在“儿童变性”这个话题上造谣的手段。图一是我所在的加州的州长纽森签署的法案。它正确的翻译是“纽森签署法案，使加州成为跨性别青年和家庭的避难所”。也就是说，这个法案的本意是保护那些“跨性别的青年和家庭”免受歧视。但在某些华… https://twitter.com/i/web/status/1637672806799507456 https://t.co/2JTeRQ9mCK<br><br><img style="" src="https://pbs.twimg.com/media/FrorHhMaQAE1o07?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrosNYDaUAEeB-Y?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrouZt6akAAVdwc?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 22: [2023-03-21 03:14:24+08:00 推文](https://twitter.com/HeQinglian/status/1637895384541417472)
 
@@ -113,7 +113,7 @@ Re @mitolyu @gvkJVjo3J0BIJod 我那时才十岁。
 
 ### 25: [2023-03-21 08:12:33+08:00 推文](https://twitter.com/HeQinglian/status/1637970414532980736)
 
-从2012年开始，加州成为儿童LGBTQ教育的实验场<br>1、United Nations Educational, Scientific and Cultural Organization Education sector responses to homophobic bullying (chi), ISBN :978-92-3-001185-7, Year of publication :2012, 2013 https://unesdoc.unesco.org/ark:/48223/pf0000216493_chi <br>2、https://sd11.senate.ca.gov/news/20220803-senator-wiener%E2%80%99s-bill-provide-refuge-trans-kids-and-their-families-passes-final )<div class="rsshub-quote"><br><br>He Qinglian: 2022年4月，拜登和他的政府发布了两份下属机构的文件，旨在支持和鼓励男孩和女孩进行化学和手术阉割，一份来自Office of Population Affairs，题为Gender-Affirming Care and Young People；另一份是Gender-Affirming Care is Trauma-Informed Care。 https://www.drjamesdobson.org/articles/bidens-radicalized-transgender-agenda-takes-full-aim-at-your-children<br></div>
+从2012年开始，加州成为儿童LGBTQ教育的实验场<br>1、United Nations Educational, Scientific and Cultural Organization Education sector responses to homophobic bullying (chi), ISBN :978-92-3-001185-7, Year of publication :2012, 2013 https://unesdoc.unesco.org/ark:/48223/pf0000216493_chi <br>2、https://sd11.senate.ca.gov/news/20220803-senator-wiener%E2%80%99s-bill-provide-refuge-trans-kids-and-their-families-passes-final ) https://twitter.com/HeQinglian/status/1637874624951099397<div class="rsshub-quote"><br><br>He Qinglian: 2022年4月，拜登和他的政府发布了两份下属机构的文件，旨在支持和鼓励男孩和女孩进行化学和手术阉割，一份来自Office of Population Affairs，题为Gender-Affirming Care and Young People；另一份是Gender-Affirming Care is Trauma-Informed Care。 https://www.drjamesdobson.org/articles/bidens-radicalized-transgender-agenda-takes-full-aim-at-your-children https://twitter.com/tankman2002/status/1637672806799507456<br></div>
 
 ### 26: [2023-03-21 08:13:12+08:00 推文](https://twitter.com/HeQinglian/status/1637970579100778501)
 
@@ -242,4 +242,28 @@ Re @guo05490876 还真是与中国太监制造流程一毛钱关系也没有，�
 ### 57: [2023-03-24 10:36:30+08:00 推文](https://twitter.com/HeQinglian/status/1639093803138289665)
 
 今天法广的报道，表示编采人员从云端里落到地面上了：《大西洋》杂志：中东地区格局重新洗牌 北京赢得一局<br>匈牙利：如果普京入境，匈牙利不想把普京送到国际刑事法庭<br>习近平和普京共享反西方言论，欧洲的困境复杂化<br>旅游：法国盼望中国游客大批返回<br>但还有媒体正驾着五彩祥云，完全不知道今夕何夕。
+
+### 58: [2023-03-24 12:24:09+08:00 推文](https://twitter.com/CDTChinese/status/1639120894869250049)
+
+RT 中国数字时代<br>Re https://chinadigitaltimes.net/chinese/675225.html
+
+### 59: [2023-03-24 21:25:55+08:00 推文](https://twitter.com/HeQinglian/status/1639257236177551361)
+
+Re @YdhelenYdhelen2 日韩和解不是主要的，美国主要是国内问题。
+
+### 60: [2023-03-24 21:36:39+08:00 推文](https://twitter.com/HeQinglian/status/1639259937833381890)
+
+Re @eGUAbe2V7j26GHw 🤣🤣，确实。
+
+### 61: [2023-03-24 21:52:28+08:00 推文](https://twitter.com/HeQinglian/status/1639263916319547392)
+
+Re @Wu_Zhi 我本来也很同情女运动员，但后来发现，一是她们根本不太反抗，只有少数人嘀咕几句；二是她们非常左，查看一下2020年视频，争先向BLM下跪的就有她们。<br>还得等她们自己醒悟之后，争取权利才有内生驱动力。
+
+### 62: [2023-03-24 21:54:22+08:00 推文](https://twitter.com/HeQinglian/status/1639264395036446725)
+
+Re @zhixiangziyou 这与中国处理向习近平画象泼墨的那位湖南女子，本质相同。
+
+### 63: [2023-03-24 22:06:32+08:00 推文](https://twitter.com/HeQinglian/status/1639267457792655364)
+
+Re @Wu_Zhi @JianglinLi @david_david1968 @HongfuDing 最近据德国知识分子亲口告知：德国现在已经很少很少有移民抢劫恐怖袭击。经她调查核实，这并非舆论被控制的结果。<br>尽管我不相信，但人家是德国人。
 
