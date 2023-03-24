@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-03-23
+date: 2023-03-24
 from: https://twitter.com/HeQinglian/status/1637511912056315905
 layout: post
 tags:
@@ -65,7 +65,7 @@ Re @Wazy1988bW @KELMAND1 别以为美国还能撑多少年。按拜登与民主�
 
 ### 13: [2023-03-20 12:21:56+08:00 推文](https://twitter.com/zhixiangziyou/status/1637670785887117313)
 
-RT L JM🇺🇸<br>在美国曾有一段时间，检察官和司法部拒绝针对前总统。他们知道这会损害共和国。他们表现得很谨慎。现在，民主党人去论坛狩猎，发明新颖的法律理论，并将我们的法庭武器化，就像第三世界的地狱一样。可耻。 https://twitter.com/charliekirk11/status/1637607766314618881<div class="rsshub-quote"><br><br>Charlie Kirk: There was a time in America where prosecutors and the DOJ refused to target ex-Presidents. They knew it would damage the republic. They showed prudence. Now, Dems go forum hunting, invent novel legal theories, and weaponize our courts like some 3rd world hellhole.  Disgraceful.<br></div>
+RT L JM🇺🇸<br>在美国曾有一段时间，检察官和司法部拒绝针对前总统。他们知道这会损害共和国。他们表现得很谨慎。现在，民主党人去论坛狩猎，发明新颖的法律理论，并将我们的法庭武器化，就像第三世界的地狱一样。可耻。<div class="rsshub-quote"><br><br>Charlie Kirk: There was a time in America where prosecutors and the DOJ refused to target ex-Presidents. They knew it would damage the republic. They showed prudence. Now, Dems go forum hunting, invent novel legal theories, and weaponize our courts like some 3rd world hellhole.  Disgraceful.<br></div>
 
 ### 14: [2023-03-20 21:33:33+08:00 推文](https://twitter.com/HeQinglian/status/1637809604271693825)
 
@@ -97,7 +97,7 @@ Re @mitolyu @Vince6610 @zhixiangziyou 明白了。不知她对简方达欢呼cov
 
 ### 21: [2023-03-21 01:51:55+08:00 推文](https://twitter.com/HeQinglian/status/1637874624951099397)
 
-2022年4月，拜登和他的政府发布了两份下属机构的文件，旨在支持和鼓励男孩和女孩进行化学和手术阉割，一份来自Office of Population Affairs，题为Gender-Affirming Care and Young People；另一份是Gender-Affirming Care is Trauma-Informed Care。 https://www.drjamesdobson.org/articles/bidens-radicalized-transgender-agenda-takes-full-aim-at-your-children https://twitter.com/tankman2002/status/1637672806799507456<div class="rsshub-quote"><br><br>二大爷: 实在忍不住，我来给大家起底一下有些华人群体，欺负大家不懂英文，肆意在“儿童变性”这个话题上造谣的手段。图一是我所在的加州的州长纽森签署的法案。它正确的翻译是“纽森签署法案，使加州成为跨性别青年和家庭的避难所”。也就是说，这个法案的本意是保护那些“跨性别的青年和家庭”免受歧视。但在某些华… https://twitter.com/i/web/status/1637672806799507456 https://t.co/2JTeRQ9mCK<br><br><img style="" src="https://pbs.twimg.com/media/FrorHhMaQAE1o07?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrosNYDaUAEeB-Y?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrouZt6akAAVdwc?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+2022年4月，拜登和他的政府发布了两份下属机构的文件，旨在支持和鼓励男孩和女孩进行化学和手术阉割，一份来自Office of Population Affairs，题为Gender-Affirming Care and Young People；另一份是Gender-Affirming Care is Trauma-Informed Care。 https://www.drjamesdobson.org/articles/bidens-radicalized-transgender-agenda-takes-full-aim-at-your-children
 
 ### 22: [2023-03-21 03:14:24+08:00 推文](https://twitter.com/HeQinglian/status/1637895384541417472)
 
@@ -161,7 +161,7 @@ RT 李江琳<br>拜登的银行记录。这可真是鸡犬升天。<div class=
 
 ### 37: [2023-03-22 08:00:27+08:00 推文](https://twitter.com/HeQinglian/status/1638329758134984704)
 
-美国国务院发言人约翰·柯比：“LGBQI+的权利是美国的外交政策核心”。<div class="rsshub-quote"><br><br>Daily Wire: Kirby: "LGBTQ+ rights...are a core part of our foreign policy." <br>https://t.co/qfdXTr52B9<br><br><video src="https://video.twimg.com/ext_tw_video/1638265285164650508/pu/vid/720x406/XirVONbtsrH17VI7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1638265285164650508/pu/img/S1NR7Qa4_SPM3nDP.jpg"></video></div>
+美国国务院发言人约翰·柯比：“LGBQI+的权利是美国的外交政策核心”。 https://twitter.com/realDailyWire/status/1638267335634046978<div class="rsshub-quote"><br><br>Daily Wire: Kirby: "LGBTQ+ rights...are a core part of our foreign policy." <br>https://t.co/qfdXTr52B9<br><br><video src="https://video.twimg.com/ext_tw_video/1638265285164650508/pu/vid/720x406/XirVONbtsrH17VI7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1638265285164650508/pu/img/S1NR7Qa4_SPM3nDP.jpg"></video></div>
 
 ### 38: [2023-03-22 08:05:48+08:00 推文](https://twitter.com/HeQinglian/status/1638331101759299585)
 
@@ -222,4 +222,12 @@ Re @Vince6610 @JianglinLi @fading_you1 @XVanFleet @aaronsibarium Just follow him
 ### 52: [2023-03-23 23:22:06+08:00 推文](https://twitter.com/HeQinglian/status/1638924087970918400)
 
 Re @xchen156 @shangbaojun19 编程随想的文章很不错，是位非常认真思考并写作的知识人。这种有理有据的文章远比骂大街的有杀伤力，也许这就是当局如此对待他的原因。<br>希望他早日恢复自由。
+
+### 53: [2023-03-24 08:30:47+08:00 推文](https://twitter.com/HeQinglian/status/1639062167302426624)
+
+Re @eGUAbe2V7j26GHw 马克龙没拔头筹？前一向刚说了要去，可能是国内抗议活动越闹越红火，说要他下台，警察说支持抗议者，没心思去了。
+
+### 54: [2023-03-24 08:40:54+08:00 推文](https://twitter.com/HeQinglian/status/1639064713471438850)
+
+Re @KELMAND1 近几年瑞信全球化主管忙于Woke，不务正业，得的奖几乎都与这有关，亏损数千亿（据说4500亿，但瑞信不承认），这次破产前曾联络沙特，要他们出资金援救，被拒绝了。<br>全球化的第一要义是资本流动，资本流动的基础是安全。一旦资本流动不再安全，全球化将受到极大削弱。
 

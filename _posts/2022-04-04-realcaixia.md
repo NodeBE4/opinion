@@ -145,7 +145,7 @@ Re @CCPoffice 我从部队回到地方定居苏州，后来父母养老都在苏
 
 ### 33: [2022-04-05 09:12:06+08:00 推文](https://twitter.com/realcaixia/status/1511149645745078272)
 
-看看方舱医院什么情况吧。<br><br>鲁  难: 上海南汇的方舱隔离点，被隔离的人需要自己动手抢物资才有铺盖的被褥和食品、饮水。一位只抢到了一箱水的女士呼吁大家转发视频，引起有关管理者的注意，帮她度过难关。<br><br><video src="https://video.twimg.com/ext_tw_video/1510861373391187968/pu/vid/1280x720/t9BMw7Swwn17E-Kb.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1510861373391187968/pu/img/ltrdDy_tQXc5GvYf.jpg"></video>
+看看方舱医院什么情况吧。
 
 ### 34: [2022-04-05 09:13:15+08:00 推文](https://twitter.com/realcaixia/status/1511149935181406209)
 
@@ -169,7 +169,7 @@ RT @Jam79922967: 枪口下的抗疫，世界独此一国。用枪击毙新冠病
 
 ### 39: [2022-04-05 09:43:50+08:00 推文](https://twitter.com/realcaixia/status/1511157635411857408)
 
-义士义举令人感佩，话语令人暖心。
+义士义举令人感佩，话语令人暖心。<br><br>杨佩昌: 收到太多溢美之词，受之有愧。其实留学德国这事不难，不过举手之劳而已（留学中介别骂）。只要语言过关、符合留学资格（Hochschulzugangberechtigung）都不难办。<br>小孙这事难在如何让德国大学相信，他被开除并非行为不端，只是言论表达惹的祸。这需要一个德国高校信任的人来说明，正巧我就是这个人。<br>
 
 ### 40: [2022-04-05 09:45:35+08:00 推文](https://twitter.com/realcaixia/status/1511158075381665792)
 
@@ -205,7 +205,7 @@ RT @ZhangDong_SCH: （基辅）6岁的男孩站在自家院子里妈妈的坟墓
 
 ### 48: [2022-04-06 22:04:11+08:00 推文](https://twitter.com/realcaixia/status/1511706335016099840)
 
-议报网站最近2月发布了一些重磅文章，近日连遭攻击。这最大可能就是中共网军黑色幽灵干的卑鄙龌龊行径。我们在组织技术力量紧急处置中，请网友理解。
+议报网站最近2月发布了一些重磅文章，近日连遭攻击。这最大可能就是中共网军黑色幽灵干的卑鄙龌龊行径。我们在组织技术力量紧急处置中，请网友理解。<br><br>楊建利 Yang Jianli: #议报 以及 #公民力量 所属其他网站遭到黑客攻击，感染严重病毒，公民力量团队在紧急清理修复中，我们决心“清零”，绝不与病毒共存。望大家理解和支持。<br> <a href="https://twitter.com/yibaochina/status/1511520166600916998" target="_blank" rel="noopener noreferrer">https://twitter.com/yibaochina/status/1511520166600916998</a>
 
 ### 49: [2022-04-06 22:18:44+08:00 推文](https://twitter.com/realcaixia/status/1511709999923408899)
 
@@ -237,7 +237,7 @@ RT @peichang_yang: 布查惨案发生后，俄乌之间已经失去了谈判基�
 
 ### 56: [2022-04-06 22:41:34+08:00 推文](https://twitter.com/realcaixia/status/1511715744635133956)
 
-活生生的“不解决问题，解决提出问题的人”的真实情况。这位上海阿姨因为找干部请求解决问题，结果被人模狗样的打手警察凶恶威胁，被胁迫到派出所去。不知这位上海阿姨进到派出所将会遭遇到什么？令人担心。有网友知道后来的情况吗？苛政猛于虎。上海这些天成了人间炼狱。
+活生生的“不解决问题，解决提出问题的人”的真实情况。这位上海阿姨因为找干部请求解决问题，结果被人模狗样的打手警察凶恶威胁，被胁迫到派出所去。不知这位上海阿姨进到派出所将会遭遇到什么？令人担心。有网友知道后来的情况吗？苛政猛于虎。上海这些天成了人间炼狱。<br><br>Jacky: 传说中的恶警,大概率最后上海军管.(第一部分)<br><br><video src="https://video.twimg.com/ext_tw_video/1511310669228175361/pu/vid/368x640/bc944MQo8OKnMOXp.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1511310669228175361/pu/img/LsmYTb4C8T1Fvcg0.jpg"></video>
 
 ### 57: [2022-04-06 22:42:41+08:00 推文](https://twitter.com/realcaixia/status/1511716025758326790)
 
@@ -245,7 +245,7 @@ RT @BigRmbusd: 要求解封的声音越来越大<br><video src="https://video.tw
 
 ### 58: [2022-04-07 00:12:27+08:00 推文](https://twitter.com/realcaixia/status/1511738616048926720)
 
-今日金句。<br><br>kevin cheng: @maomao113 @ayase_hazuki @lg19901213 即使民间自救，也不会这样<br><br><img style="" src="https://pbs.twimg.com/media/FPqulGqVcAMr0P8?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+今日金句。
 
 ### 59: [2022-04-07 03:02:12+08:00 推文](https://twitter.com/realcaixia/status/1511781334380945412)
 
@@ -269,7 +269,7 @@ RT @BigRmbusd: 要求解封的声音越来越大<br><video src="https://video.tw
 
 ### 64: [2022-04-09 22:04:41+08:00 推文](https://twitter.com/realcaixia/status/1512793625066979339)
 
-清零祸国殃民，祸首在海里吃喝不愁。21世纪，国际大都会，上海高楼大厦里，将有饿死冤魂。
+清零祸国殃民，祸首在海里吃喝不愁。21世纪，国际大都会，上海高楼大厦里，将有饿死冤魂。<br><br>大耳朵猫妹: 就一个字，惨<br><br><img style="" src="https://pbs.twimg.com/media/FP0sATZX0AwJPI7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP0sATpWUAMVMr_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP0sAU8XwAQ--Zh?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP0sAVJXwAQP4-q?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 65: [2022-04-09 22:34:47+08:00 推文](https://twitter.com/realcaixia/status/1512801200147628033)
 

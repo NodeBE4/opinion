@@ -913,7 +913,7 @@ Re @zhixiangziyou 纽约民主党选民应该承受这结果——你们受连�
 
 ### 225: [2023-03-17 21:40:15+08:00 推文](https://twitter.com/HeQinglian/status/1636724128399994883)
 
-1、同意第一句。<br>2、民运不用他撕裂，他也没破坏美国民主（至少他没操纵选举），他的存在只是将所有的恶给引出来了，让所有参与表演者尽情展示。<br>3、整个戏剧是闹剧与拙劣马戏，没有半点悲剧的庄严感。<div class="rsshub-quote"><br><br>张杰: 郭文贵是中国权贵资本所长出的恶之花。他最大罪恶是撕裂民运和破坏美国民主。他本可以利用他的资金与民运联合对抗中共，但他一直在与中共勾兑，并对众多民运人士进行迫害。郭的爆料基本都是虚假的。郭在美国竞选中制造谣言。郭的官商勾结、不折手段和欺诈的中国商人特征，最终使他成为一个悲剧性人物。<br></div>
+1、同意第一句。<br>2、民运不用他撕裂，他也没破坏美国民主（至少他没操纵选举），他的存在只是将所有的恶给引出来了，让所有参与表演者尽情展示。<br>3、整个戏剧是闹剧与拙劣马戏，没有半点悲剧的庄严感。 https://twitter.com/ZJ20672066/status/1636557486508462080<div class="rsshub-quote"><br><br>张杰: 郭文贵是中国权贵资本所长出的恶之花。他最大罪恶是撕裂民运和破坏美国民主。他本可以利用他的资金与民运联合对抗中共，但他一直在与中共勾兑，并对众多民运人士进行迫害。郭的爆料基本都是虚假的。郭在美国竞选中制造谣言。郭的官商勾结、不折手段和欺诈的中国商人特征，最终使他成为一个悲剧性人物。<br></div>
 
 ### 226: [2023-03-17 21:47:55+08:00 推文](https://twitter.com/HeQinglian/status/1636726057511297024)
 
@@ -993,7 +993,7 @@ Re @JianglinLi 这位记者忘记树个特大横幅：<br>本台支持BLM、lgbt
 
 ### 245: [2023-03-19 00:31:38+08:00 推文](https://twitter.com/Wu_Zhi/status/1637129644326498307)
 
-RT zhix<br>说白了，西方现在定义谁是民主国家，全靠此国家的领导人是不是掌握在美国霸权手里的傀儡，是不是服从美国的领导，跟当地选举政治制度实在没啥关系。😅 https://twitter.com/dinglili7/status/1636946863843840000<div class="rsshub-quote"><br><br>绫波: 杜金：<br><br>西方犯下两个根本性、逻辑性错误。 <br>首先它认为西方民主世界是文明而俄罗斯不是。西方自以为拥有定义其他国家和民族如何运作的权利同時他们确信自己是地球上唯一的文明模式。<br><br>亲俄派的斗争有许多重要原因，其中最重要的莫过于让西方承认其他文明和模式的存在，並放弃其本质上的全球主义言论 https://t.co/ZDK5MFuik5<br><br><img style="" src="https://pbs.twimg.com/media/FreaMh-aYAATdyO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT zhix<br>说白了，西方现在定义谁是民主国家，全靠此国家的领导人是不是掌握在美国霸权手里的傀儡，是不是服从美国的领导，跟当地选举政治制度实在没啥关系。😅<div class="rsshub-quote"><br><br>绫波: 杜金：<br><br>西方犯下两个根本性、逻辑性错误。 <br>首先它认为西方民主世界是文明而俄罗斯不是。西方自以为拥有定义其他国家和民族如何运作的权利同時他们确信自己是地球上唯一的文明模式。<br><br>亲俄派的斗争有许多重要原因，其中最重要的莫过于让西方承认其他文明和模式的存在，並放弃其本质上的全球主义言论 https://t.co/ZDK5MFuik5<br><br><img style="" src="https://pbs.twimg.com/media/FreaMh-aYAATdyO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 246: [2023-03-19 01:40:46+08:00 推文](https://twitter.com/NAConservative9/status/1637147044530798597)
 
@@ -1069,7 +1069,7 @@ Re @Isabel_3299 这有什么好说的？当年茶党被整得奄奄一息，就�
 
 ### 264: [2023-03-19 05:30:52+08:00 推文](https://twitter.com/HeQinglian/status/1637204948780810242)
 
-将马克龙选下去就是，为什么要斩首？选了他，就是将这届权力委托给他了，要他下去，也应该按民主程序，哪怕弹劾、倒阁都行。<br>以民主共和自我标高，却偏要回到当年大革命时代。 https://twitter.com/KELMAND1/status/1636935219369631744<div class="rsshub-quote"><br><br>Ezio Mao☢: “我们斩首了路易十六，我们也可以斩首马克龙！”法国人非常坚决。<br><br>祝法国人民万事如意。我希望欧洲其他国家的人民效仿法国人的榜样。 https://twitter.com/KELMAND1/status/1636718538688966656 https://t.co/QmmjWqiQox<br><br><video src="https://video.twimg.com/ext_tw_video/1636935193335574528/pu/vid/640x352/Am0dBW5jnaRv1PW_.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1636935193335574528/pu/img/U3ldBFt5xkqOxcmV.jpg"></video></div>
+将马克龙选下去就是，为什么要斩首？选了他，就是将这届权力委托给他了，要他下去，也应该按民主程序，哪怕弹劾、倒阁都行。<br>以民主共和自我标高，却偏要回到当年大革命时代。<div class="rsshub-quote"><br><br>Ezio Mao☢: “我们斩首了路易十六，我们也可以斩首马克龙！”法国人非常坚决。<br><br>祝法国人民万事如意。我希望欧洲其他国家的人民效仿法国人的榜样。 https://t.co/QmmjWqiQox<br><br><video src="https://video.twimg.com/ext_tw_video/1636935193335574528/pu/vid/640x352/Am0dBW5jnaRv1PW_.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1636935193335574528/pu/img/U3ldBFt5xkqOxcmV.jpg"></video></div>
 
 ### 265: [2023-03-19 05:48:01+08:00 推文](https://twitter.com/HeQinglian/status/1637209267655655424)
 
@@ -1181,7 +1181,7 @@ Re @jojowheel 按尊驾见解，Woke方向是对的，任何专业都不需要�
 
 ### 292: [2023-03-19 23:40:50+08:00 推文](https://twitter.com/HeQinglian/status/1637479248909725699)
 
-看了下面的回帖，一半是否定民主制度，希望暴力革命的。<br>美国算是半暴力——利用BLM与Antifa在摇摆州进行暴力活动与威胁 ，在选举中心全场紧逼（《时代周刊》引用“捍卫民主”机构的策略用语），加上司法偏袒与不作为，操纵选举获取政权，引发大家如此想也算情理中事。<br>人类社会进入转折点。 https://twitter.com/HeQinglian/status/1637204948780810242<div class="rsshub-quote"><br><br>He Qinglian: 将马克龙选下去就是，为什么要斩首？选了他，就是将这届权力委托给他了，要他下去，也应该按民主程序，哪怕弹劾、倒阁都行。<br>以民主共和自我标高，却偏要回到当年大革命时代。 https://twitter.com/KELMAND1/status/1636935219369631744<br></div>
+看了下面的回帖，一半是否定民主制度，希望暴力革命的。<br>美国算是半暴力——利用BLM与Antifa在摇摆州进行暴力活动与威胁 ，在选举中心全场紧逼（《时代周刊》引用“捍卫民主”机构的策略用语），加上司法偏袒与不作为，操纵选举获取政权，引发大家如此想也算情理中事。<br>人类社会进入转折点。<div class="rsshub-quote"><br><br>He Qinglian: 将马克龙选下去就是，为什么要斩首？选了他，就是将这届权力委托给他了，要他下去，也应该按民主程序，哪怕弹劾、倒阁都行。<br>以民主共和自我标高，却偏要回到当年大革命时代。<br></div>
 
 ### 293: [2023-03-19 23:43:02+08:00 推文](https://twitter.com/HeQinglian/status/1637479802222305282)
 
