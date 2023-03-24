@@ -51,15 +51,21 @@ EDIT: I probably ought to clarify that what I mean here are the numbers *at the 
 
 Thanks! This certainly complicates the numbers I'd got from Totman, and would suggest potentially a much larger force *overall* (as in, originally assembled at Ōsaka) than the 15k he suggested, assuming that what Noguchi means by a 'regiment' is equivalent to what Totman means by a 'battalion', and that the six regiments/battalions engaged represented only half of the twelve total in the army writ large.
 
-### 1150: [What is an ancient Greek city-state that would be able to be on par with Athens and Sparta if a few changes were made in their history?](https://old.reddit.com/r/AskHistorians/comments/11x66di/what_is_an_ancient_greek_citystate_that_would_be/), submitted on 2023-03-21 12:00:41+08:00.
+### 1150: [Artificial Artistry Assessment - Weekly Discussion Thread, March 20th, 2022 (Y'all VTubers should chip in on this too)](https://old.reddit.com/r/VirtualYoutubers/comments/11wqajq/artificial_artistry_assessment_weekly_discussion/), submitted on 2023-03-21 02:05:48+08:00.
 
------ __1150.1__ -----2023-03-21 14:37:38+08:00:
+----- __1150.1__ -----2023-03-24 18:08:32+08:00:
+
+Virtual Idols/VIdols seems to fit here; I've seen it used as a label by a number of groups like the Chinese one that had the firing and earnings controversy last year whose name escapes me.
+
+### 1151: [What is an ancient Greek city-state that would be able to be on par with Athens and Sparta if a few changes were made in their history?](https://old.reddit.com/r/AskHistorians/comments/11x66di/what_is_an_ancient_greek_citystate_that_would_be/), submitted on 2023-03-21 12:00:41+08:00.
+
+----- __1151.1__ -----2023-03-21 14:37:38+08:00:
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
-### 1151: [What were the key factors that led to the rise of the Mongol Empire, and how did their military tactics and conquests impact the societies they conquered?](https://old.reddit.com/r/AskHistorians/comments/11y2zpt/what_were_the_key_factors_that_led_to_the_rise_of/), submitted on 2023-03-22 09:56:31+08:00.
+### 1152: [What were the key factors that led to the rise of the Mongol Empire, and how did their military tactics and conquests impact the societies they conquered?](https://old.reddit.com/r/AskHistorians/comments/11y2zpt/what_were_the_key_factors_that_led_to_the_rise_of/), submitted on 2023-03-22 09:56:31+08:00.
 
------ __1151.1__ -----2023-03-22 10:11:22+08:00:
+----- __1152.1__ -----2023-03-22 10:11:22+08:00:
 
 Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
 
@@ -67,9 +73,9 @@ If you have indeed asked a homework question, you should consider resubmitting a
 
 Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
 
-### 1152: [[meta] How would you feel if Wikipedia cited your answer from this sub?](https://old.reddit.com/r/AskHistorians/comments/11ykq9c/meta_how_would_you_feel_if_wikipedia_cited_your/), submitted on 2023-03-22 22:27:35+08:00.
+### 1153: [[meta] How would you feel if Wikipedia cited your answer from this sub?](https://old.reddit.com/r/AskHistorians/comments/11ykq9c/meta_how_would_you_feel_if_wikipedia_cited_your/), submitted on 2023-03-22 22:27:35+08:00.
 
------ __1152.1__ -----2023-03-24 04:35:31+08:00:
+----- __1153.1__ -----2023-03-24 04:35:31+08:00:
 
 I think what you've suggested aligns mostly with what I think. Kevin's accounts weren't posting premium answers, so the only way to earn money was being partnered for revenue from questions, and from what I can tell, only a portion of the questions Kevin and his accounts responded to were posted by his sockpuppets. At least a few were from real users. Maybe this was a plausible deniability scheme, but either way, Kevin's approach was distinctly non-profit-maximising.
 
@@ -91,21 +97,21 @@ I think the most unfortunate element of all this is that Quora's UI is not very 
 
 As an edited-in coda, I have to admit I get vague twinges of Tommy Tallarico from this, or at least hbomberbuy's famous takedown recently. But that's a more modern issue and not entirely analogous.
 
-### 1153: [[Broadway] Sara Porkalob vs 1776: is it okay to only put 75% into your job, or should you be running at 100% all the time? And what does any of this have to do with etiquette, toxicity, and racism anyway?](https://old.reddit.com/r/HobbyDrama/comments/11yyjmw/broadway_sara_porkalob_vs_1776_is_it_okay_to_only/), submitted on 2023-03-23 06:08:24+08:00.
+### 1154: [[Broadway] Sara Porkalob vs 1776: is it okay to only put 75% into your job, or should you be running at 100% all the time? And what does any of this have to do with etiquette, toxicity, and racism anyway?](https://old.reddit.com/r/HobbyDrama/comments/11yyjmw/broadway_sara_porkalob_vs_1776_is_it_okay_to_only/), submitted on 2023-03-23 06:08:24+08:00.
 
------ __1153.1__ -----2023-03-23 13:58:32+08:00:
+----- __1154.1__ -----2023-03-23 13:58:32+08:00:
 
 Similarly, the idea that there's one particular song where she's giving 90%... as in her work-life balance swaps to 90:10 for *that specific song*?!
 
-### 1154: [What does this tattoo mean?](https://old.reddit.com/r/ChineseTranslation/comments/11za6pb/what_does_this_tattoo_mean/), submitted on 2023-03-23 13:33:45+08:00.
+### 1155: [What does this tattoo mean?](https://old.reddit.com/r/ChineseTranslation/comments/11za6pb/what_does_this_tattoo_mean/), submitted on 2023-03-23 13:33:45+08:00.
 
------ __1154.1__ -----2023-03-23 21:28:06+08:00:
+----- __1155.1__ -----2023-03-23 21:28:06+08:00:
 
 While the character 樂 appears in various music-related compounds, on its own it typically just means 'happiness'.
 
-### 1155: [What were the consequences on the Italian sociopolitical situation of Victor Emmanuel III of Italy leaving Rome after the Armistice of Cassibile?](https://old.reddit.com/r/AskHistorians/comments/11zd2t9/what_were_the_consequences_on_the_italian/), submitted on 2023-03-23 15:55:32+08:00.
+### 1156: [What were the consequences on the Italian sociopolitical situation of Victor Emmanuel III of Italy leaving Rome after the Armistice of Cassibile?](https://old.reddit.com/r/AskHistorians/comments/11zd2t9/what_were_the_consequences_on_the_italian/), submitted on 2023-03-23 15:55:32+08:00.
 
------ __1155.1__ -----2023-03-23 16:40:20+08:00:
+----- __1156.1__ -----2023-03-23 16:40:20+08:00:
 
 Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
 
