@@ -145,7 +145,7 @@ Re @CCPoffice 我从部队回到地方定居苏州，后来父母养老都在苏
 
 ### 33: [2022-04-05 09:12:06+08:00 推文](https://twitter.com/realcaixia/status/1511149645745078272)
 
-看看方舱医院什么情况吧。
+看看方舱医院什么情况吧。<br><br>鲁  难: 上海南汇的方舱隔离点，被隔离的人需要自己动手抢物资才有铺盖的被褥和食品、饮水。一位只抢到了一箱水的女士呼吁大家转发视频，引起有关管理者的注意，帮她度过难关。<br><br><video src="https://video.twimg.com/ext_tw_video/1510861373391187968/pu/vid/1280x720/t9BMw7Swwn17E-Kb.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1510861373391187968/pu/img/ltrdDy_tQXc5GvYf.jpg"></video>
 
 ### 34: [2022-04-05 09:13:15+08:00 推文](https://twitter.com/realcaixia/status/1511149935181406209)
 
@@ -157,7 +157,7 @@ RT @chenqiushi404: 央视永远不会报道这个中国弗洛伊德
 
 ### 36: [2022-04-05 09:23:59+08:00 推文](https://twitter.com/realcaixia/status/1511152639093977092)
 
-海外的同胞都在努力援助孙健同学，请热心推友帮忙转推，让更多的人看到得道多助。<br><br>杨佩昌: 对这么勇敢的孩子，不能让他的前途耽误了。我也可以帮他去德国留学，完成他的学业。<br>不用学德语，英语就行，希望他看到后和我私信联系。<br>多说一句，我以前负责德国国家奖学金项目，能够帮到他。<br><br><img style="" src="https://pbs.twimg.com/media/FPfR2qxWYAMkyWU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+海外的同胞都在努力援助孙健同学，请热心推友帮忙转推，让更多的人看到得道多助。
 
 ### 37: [2022-04-05 09:24:36+08:00 推文](https://twitter.com/realcaixia/status/1511152795361161224)
 
@@ -165,7 +165,7 @@ RT @Jam79922967: 枪口下的抗疫，世界独此一国。用枪击毙新冠病
 
 ### 38: [2022-04-05 09:26:15+08:00 推文](https://twitter.com/realcaixia/status/1511153210832130053)
 
-好悲壮！
+好悲壮！<br><br>ZHANGDONG: 现在马里乌波尔只剩下亚述营武装坚守残城。<br>
 
 ### 39: [2022-04-05 09:43:50+08:00 推文](https://twitter.com/realcaixia/status/1511157635411857408)
 
@@ -245,7 +245,7 @@ RT @BigRmbusd: 要求解封的声音越来越大<br><video src="https://video.tw
 
 ### 58: [2022-04-07 00:12:27+08:00 推文](https://twitter.com/realcaixia/status/1511738616048926720)
 
-今日金句。
+今日金句。<br><br>kevin cheng: @maomao113 @ayase_hazuki @lg19901213 即使民间自救，也不会这样<br><br><img style="" src="https://pbs.twimg.com/media/FPqulGqVcAMr0P8?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 59: [2022-04-07 03:02:12+08:00 推文](https://twitter.com/realcaixia/status/1511781334380945412)
 
@@ -253,11 +253,11 @@ RT @BigRmbusd: 要求解封的声音越来越大<br><video src="https://video.tw
 
 ### 60: [2022-04-07 20:09:30+08:00 推文](https://twitter.com/realcaixia/status/1512039862626656257)
 
-中共军队號稱“人民子弟兵”，8964向人民开枪。64以後，進京的27军向北京市民辯解說他們沒有開槍，開槍的是38軍，說明那時軍人心中還有負罪感。随着中国政治从改革开放转向封闭倒退反动，民众与极权统治矛盾的尖锐化，中共军警殘越来越暴兇惡地對待民眾、这类侵害人權的暴力犯罪行為，屡屡发生处处可见。<br><br>新闻/真话: 宁波一个捡破烂的老头，被狠狠的踩在一块木板下，目光呆滞，他一定在怀疑自己穿越了，遇到皇军了<br><br><img style="" src="https://pbs.twimg.com/media/FPvG935aIAIbxT6?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+中共军队號稱“人民子弟兵”，8964向人民开枪。64以後，進京的27军向北京市民辯解說他們沒有開槍，開槍的是38軍，說明那時軍人心中還有負罪感。随着中国政治从改革开放转向封闭倒退反动，民众与极权统治矛盾的尖锐化，中共军警殘越来越暴兇惡地對待民眾、这类侵害人權的暴力犯罪行為，屡屡发生处处可见。
 
 ### 61: [2022-04-08 20:27:47+08:00 推文](https://twitter.com/realcaixia/status/1512406852948181003)
 
-泽连斯基要求改变联合国常任理事国的席位规则，事关全球正义与和平。常任理事国一票否决制确实到了必须改革的关键时刻了。
+泽连斯基要求改变联合国常任理事国的席位规则，事关全球正义与和平。常任理事国一票否决制确实到了必须改革的关键时刻了。<br><br>stupidwz: 泽连斯基或将改写联合国，成为本世纪最伟大的政客和总统！<br>1/2 泽连斯基向联合国安理会发表演说：布查大屠杀与伊斯兰国的屠杀相比，唯一不同点是它是由联合国常任理事国制造的。俄的存在使联合国无法做出制止战争犯罪的决定，联合国必须进行常任理事国一票否决权改革，否则，联合国宪章已变成一纸空文<br>
 
 ### 62: [2022-04-08 20:35:48+08:00 推文](https://twitter.com/realcaixia/status/1512408868734881793)
 
@@ -281,7 +281,7 @@ RT @BigRmbusd: 要求解封的声音越来越大<br><video src="https://video.tw
 
 ### 67: [2022-04-09 23:25:32+08:00 推文](https://twitter.com/realcaixia/status/1512813972965273600)
 
-习当局推行上海市清零封城：<br>独裁强权意志+计划控制思维+政府行政包揽+顺民臣民文化=人祸：大规模次生人道灾难<br><br>Murong Xuecun慕容雪村: 《上海人為什么會飢餓》，完整版<br><br><img style="" src="https://pbs.twimg.com/media/FP4ZNLDaQAUJgEE?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP4ZNLOakAAVEEq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP4ZNLJaQAElLPN?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+习当局推行上海市清零封城：<br>独裁强权意志+计划控制思维+政府行政包揽+顺民臣民文化=人祸：大规模次生人道灾难
 
 ### 68: [2022-04-09 23:28:27+08:00 推文](https://twitter.com/realcaixia/status/1512814706800660480)
 
@@ -305,5 +305,5 @@ Re @HenryCh34283099 @EdwinHChiang 就是我上面这个Edwin Chiang 的什么李
 
 ### 73: [2022-04-10 05:03:09+08:00 推文](https://twitter.com/realcaixia/status/1512898936020873220)
 
-萧瀚教授是有学识有境界的正义者。他对中共极权制度的揭露批判，对宪政民主政治的坚定信念，使他许多年来被剥夺教学上课的权利，但他始终没有后退过半步！十多年前我们一起在一共6人参加的晚餐上见面聊天。他低调，沉静，坚毅，令人敬佩。
+萧瀚教授是有学识有境界的正义者。他对中共极权制度的揭露批判，对宪政民主政治的坚定信念，使他许多年来被剥夺教学上课的权利，但他始终没有后退过半步！十多年前我们一起在一共6人参加的晚餐上见面聊天。他低调，沉静，坚毅，令人敬佩。<br><br>Nini艾番妮USA- Fata morgana🇺🇸🇭🇰🎗️✋👍: #上海疫情 一手资料，中国政法大学法学院副教授萧瀚不要命了，开天窗，痛骂习近平，此文随后被秒删。<br><br><img style="" src="https://pbs.twimg.com/media/FPzy988VUAIxWnO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPzy988VcAAHKTj?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPzy987VsAIwISb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPzy988VUAg7Ok-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

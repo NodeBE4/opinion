@@ -21,7 +21,7 @@ Last month, Nanchang Aviation University announced that it had launched a new ce
 
 ### 2: [2023-01-25 15:29:26+08:00 推文](https://twitter.com/cnmediaproject/status/1618149027497005057)
 
-Really great rundown from CDT of Chinese state narratives around the Belt and Road Initiative and how they sometimes are — and often very much aren't — working. https://chinadigitaltimes.net/2023/01/one-decade-on-the-bri-and-its-media-backers-struggle-to-tell-chinas-story-well/
+Really great rundown from CDT of Chinese state narratives around the Belt and Road Initiative and how they sometimes are — and often very much aren't — working. <a href="https://chinadigitaltimes.net/2023/01/one-decade-on-the-bri-and-its-media-backers-struggle-to-tell-chinas-story-well/" target="_blank" rel="noopener noreferrer">https://chinadigitaltimes.net/2023/01/one-decade-on-the-bri-and-its-media-backers-struggle-to-tell-chinas-story-well/</a>
 
 ### 3: [2023-01-26 03:12:50+08:00 推文](https://twitter.com/Lingling_Wei/status/1618326041659068417)
 

@@ -17,11 +17,11 @@ title: 'Twitter @蔡霞: 2023-03-20~2023-03-26'
 
 ### 1: [2023-03-20 03:23:04+08:00 推文](https://twitter.com/realcaixia/status/1637535174052446208)
 
-高瑜大姐多多保重。杜光老先生唱“茶馆小调”我也在场，印象很深。我是后知后觉，我当时只理解q歌词的字面意思。<br>现在想来鲍彤、杜光、蒋彦永等老一代，1940年代是他们青春岁月，他们反抗蒋国民党政府禁言；到了耄耋之年，他们反抗习与中共禁言，老先生唱这歌，实质是总结了他们的一生。令人感慨万千！ https://twitter.com/gaoyu200812/status/1637381346401349638<div class="rsshub-quote"><br><br>高瑜: 2022年張思之、蔣宗曹、鮑彤三位先生相繼去世，我都被站崗，都被阻止參加告別式，禁止送花圈。送別鮑老那天，國保竟然來了十個人，還從派出所叫來十個片警，揚言要拘捕我兒子，讓我再一次嘗試專政鐵拳。今年兩會被旅遊中，蔣彥永、杜光先生又相繼去世，我更被禁言，我的痛苦像再一次經歷了六四，那年 https://t.co/sbzNfWuIA5<br><br><img style="" src="https://pbs.twimg.com/media/FrkUWYuaUAAWjYp?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrkVO_zaEAA4PPL?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrkXT2waYAcvzw7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+高瑜大姐多多保重。杜光老先生唱“茶馆小调”我也在场，印象很深。我是后知后觉，我当时只理解q歌词的字面意思。<br>现在想来鲍彤、杜光、蒋彦永等老一代，1940年代是他们青春岁月，他们反抗蒋国民党政府禁言；到了耄耋之年，他们反抗习与中共禁言，老先生唱这歌，实质是总结了他们的一生。令人感慨万千！<div class="rsshub-quote"><br><br>高瑜: 2022年張思之、蔣宗曹、鮑彤三位先生相繼去世，我都被站崗，都被阻止參加告別式，禁止送花圈。送別鮑老那天，國保竟然來了十個人，還從派出所叫來十個片警，揚言要拘捕我兒子，讓我再一次嘗試專政鐵拳。今年兩會被旅遊中，蔣彥永、杜光先生又相繼去世，我更被禁言，我的痛苦像再一次經歷了六四，那年 https://t.co/sbzNfWuIA5<br><br><img style="" src="https://pbs.twimg.com/media/FrkUWYuaUAAWjYp?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrkVO_zaEAA4PPL?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrkXT2waYAcvzw7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 2: [2023-03-20 04:37:09+08:00 推文](https://twitter.com/realcaixia/status/1637553819340120065)
 
-中共在1949以后的统治模式不脱4个字:专制掠夺。“掠夺”私人财产，一直没停止过。<br>王先生⬇️文章揭露中共对环境资源的“掠夺”式开采带来的恶果：破坏自然环境，不仅危害中国人而且将危害全球人类未来的生存。<br>中共掠夺式的开采利用资源，已经使中国空气、水、土地、食品严重污染，癌症发病率死亡率高于全球 https://twitter.com/yibaochina/status/1636474477088317446<div class="rsshub-quote"><br><br>《议报》: 王维洛 | 西藏高原生态环境恶化加剧 https://yibaochina.com/?p=249761 未来中国冰川面积的减少，将是一个持续加速的过程。西藏流亡政府在2015年在巴黎气候大会之前，提出的到2050年西藏三分之二的冰川可能因气候变迁而消失的预测，将会提前出现。那是习近平的第二个一百年，山河破碎的第二个一百年。<br></div>
+中共在1949以后的统治模式不脱4个字:专制掠夺。“掠夺”私人财产，一直没停止过。<br>王先生⬇️文章揭露中共对环境资源的“掠夺”式开采带来的恶果：破坏自然环境，不仅危害中国人而且将危害全球人类未来的生存。<br>中共掠夺式的开采利用资源，已经使中国空气、水、土地、食品严重污染，癌症发病率死亡率高于全球<div class="rsshub-quote"><br><br>《议报》: 王维洛 | 西藏高原生态环境恶化加剧 https://yibaochina.com/?p=249761 未来中国冰川面积的减少，将是一个持续加速的过程。西藏流亡政府在2015年在巴黎气候大会之前，提出的到2050年西藏三分之二的冰川可能因气候变迁而消失的预测，将会提前出现。那是习近平的第二个一百年，山河破碎的第二个一百年。<br></div>
 
 ### 3: [2023-03-20 04:55:24+08:00 推文](https://twitter.com/realcaixia/status/1637558411717144577)
 
@@ -29,7 +29,7 @@ Re 举中国2020年癌症发病数和死亡数为证：中国新发癌症人数�
 
 ### 4: [2023-03-20 05:10:08+08:00 推文](https://twitter.com/realcaixia/status/1637562118663999488)
 
-真是开心一刻！😄！👍！<div class="rsshub-quote"><br><br>墻國荒誕字（墙国荒诞字）: 《憤怒的皇帝》系列搞笑劇:<br>第24集: 《進退兩難》<br>皇帝即將訪問俄羅斯，海牙國際刑事法庭突發普京逮捕令，讓皇帝措手不及，進退兩難… https://t.co/S5loYnc2iu<br><br><video src="https://video.twimg.com/ext_tw_video/1637491218421624832/pu/vid/1280x720/5b3vTTBC5ec08GrT.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1637491218421624832/pu/img/TsAI6sWtcCnFK8r9.jpg"></video></div>
+真是开心一刻！😄！👍！ https://twitter.com/xingzhe2021/status/1637491595405557764<div class="rsshub-quote"><br><br>墻國荒誕字（墙国荒诞字）: 《憤怒的皇帝》系列搞笑劇:<br>第24集: 《進退兩難》<br>皇帝即將訪問俄羅斯，海牙國際刑事法庭突發普京逮捕令，讓皇帝措手不及，進退兩難… https://t.co/S5loYnc2iu<br><br><video src="https://video.twimg.com/ext_tw_video/1637491218421624832/pu/vid/1280x720/5b3vTTBC5ec08GrT.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1637491218421624832/pu/img/TsAI6sWtcCnFK8r9.jpg"></video></div>
 
 ### 5: [2023-03-20 05:21:59+08:00 推文](https://twitter.com/realcaixia/status/1637565100554059776)
 
@@ -37,11 +37,11 @@ Re 举中国2020年癌症发病数和死亡数为证：中国新发癌症人数�
 
 ### 6: [2023-03-20 05:35:39+08:00 推文](https://twitter.com/realcaixia/status/1637568542647390208)
 
-说得好！中共国所有问题的根源都在于政治，在于中共党，在于这党统治国家的制度和党内的权力结构与组织机制。习上台后，这些问题不仅没有解决还加上一条：党魁独裁，无法无天无底线。 https://twitter.com/rongjian1957/status/1637260587792052226<div class="rsshub-quote"><br><br>荣剑: 稍有常识的人，都看出大国问题的实质:消费不振，投资不力，信心不足，预期不好，究其终极原因，都是政治问题。中国经济学，不是政治经济学，其实就是政治学，只有政治，没有经济。 https://t.co/TcDQD4D1ji<br><br><img style="" src="https://pbs.twimg.com/media/Fri3zP3XgAAzdMq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fri30NqXwAIMQbg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+说得好！中共国所有问题的根源都在于政治，在于中共党，在于这党统治国家的制度和党内的权力结构与组织机制。习上台后，这些问题不仅没有解决还加上一条：党魁独裁，无法无天无底线。<div class="rsshub-quote"><br><br>荣剑: 稍有常识的人，都看出大国问题的实质:消费不振，投资不力，信心不足，预期不好，究其终极原因，都是政治问题。中国经济学，不是政治经济学，其实就是政治学，只有政治，没有经济。 https://t.co/TcDQD4D1ji<br><br><img style="" src="https://pbs.twimg.com/media/Fri3zP3XgAAzdMq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fri30NqXwAIMQbg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 7: [2023-03-20 06:13:42+08:00 推文](https://twitter.com/realcaixia/status/1637578118721576962)
 
-确有其事，按中共党内习惯说法就是：选举出了问题”或“出了事故”，后来就改成声、市、县委书记兼任人大常委会主任，直接控制选举。 https://twitter.com/22homopoliticus/status/1637381324087369728<div class="rsshub-quote"><br><br>Ignatius Lee 🚁🌋☭⃠: 一九九三年，中国浙江和贵州两省意外出现了“民选省长”意外当选的 #选举事故。当时中国名义上推行差额选举：由中组部提名指定候选人，搭配一名“陪跑”候选人；按惯例“陪跑”候选人是不可以当选的。但在这两起 #民主事故 中，两名“陪跑省长”意外当选，令中央大为不快，此后“差额选举”就被视为洪水猛兽。<br></div>
+确有其事，按中共党内习惯说法就是：选举出了问题”或“出了事故”，后来就改成声、市、县委书记兼任人大常委会主任，直接控制选举。<div class="rsshub-quote"><br><br>Ignatius Lee 🚁🌋☭⃠: 一九九三年，中国浙江和贵州两省意外出现了“民选省长”意外当选的 #选举事故。当时中国名义上推行差额选举：由中组部提名指定候选人，搭配一名“陪跑”候选人；按惯例“陪跑”候选人是不可以当选的。但在这两起 #民主事故 中，两名“陪跑省长”意外当选，令中央大为不快，此后“差额选举”就被视为洪水猛兽。<br></div>
 
 ### 8: [2023-03-20 15:46:23+08:00 推文](https://twitter.com/realcaixia/status/1637722239041667073)
 
@@ -61,11 +61,11 @@ Re 举中国2020年癌症发病数和死亡数为证：中国新发癌症人数�
 
 ### 12: [2023-03-21 00:56:42+08:00 推文](https://twitter.com/realcaixia/status/1637860729947824135)
 
-我很同意这个观点。在自由民主国家，寻找一份工作，有了收入支撑自己的生活，在此基础上努力为促进祖国实现宪政民主做好自己该做的能做的事。如不能解决好自己的生计，依靠各种捐助款生活的人，即便想为自由民主而努力也是走不远的。<div class="rsshub-quote"><br><br>一剑飘尘 007: 昨天见到一个我们同一个时代的哥们，非常成功的生意人，非常支持民主运动。从这个哥们身上，验证了我一直劝导民主圈年轻人的话：追求民主和发家致富不矛盾！追求民主是理念，现实生活也要做好。只有自己事业成功的，追求民主才真正是出于初心。不要把自己现实生活中的失败，都归结为专制制度。<br></div>
+我很同意这个观点。在自由民主国家，寻找一份工作，有了收入支撑自己的生活，在此基础上努力为促进祖国实现宪政民主做好自己该做的能做的事。如不能解决好自己的生计，依靠各种捐助款生活的人，即便想为自由民主而努力也是走不远的。 https://twitter.com/yjpc007/status/1637846481947471875<div class="rsshub-quote"><br><br>一剑飘尘 007: 昨天见到一个我们同一个时代的哥们，非常成功的生意人，非常支持民主运动。从这个哥们身上，验证了我一直劝导民主圈年轻人的话：追求民主和发家致富不矛盾！追求民主是理念，现实生活也要做好。只有自己事业成功的，追求民主才真正是出于初心。不要把自己现实生活中的失败，都归结为专制制度。<br></div>
 
 ### 13: [2023-03-21 01:20:01+08:00 推文](https://twitter.com/realcaixia/status/1637866597091278848)
 
-笑蜀这篇文章有深度思考。深刻不等于也不应该等于极端化。<div class="rsshub-quote"><br><br>《议报》: 笑蜀 | 警惕深刻 https://yibaochina.com/?p=249755 看似深刻的推理被现实撞得粉碎，这说明了一个问题，即深刻本身在某种程度上与现实的对立、深刻本身在某种程度上的破产。国人往往崇拜理论上的深刻，殊不知，很多所谓的深刻很容易沦为理论上的极化，最典型的就是马教的决定论。<br></div>
+笑蜀这篇文章有深度思考。深刻不等于也不应该等于极端化。 https://twitter.com/yibaochina/status/1635859554775777280<div class="rsshub-quote"><br><br>《议报》: 笑蜀 | 警惕深刻 https://yibaochina.com/?p=249755 看似深刻的推理被现实撞得粉碎，这说明了一个问题，即深刻本身在某种程度上与现实的对立、深刻本身在某种程度上的破产。国人往往崇拜理论上的深刻，殊不知，很多所谓的深刻很容易沦为理论上的极化，最典型的就是马教的决定论。<br></div>
 
 ### 14: [2023-03-21 22:10:16+08:00 推文](https://twitter.com/realcaixia/status/1638181231191003136)
 
@@ -109,7 +109,7 @@ Re 拖到今天才转发芳菲和程晓农老师的访谈上下集。这期访�
 
 ### 24: [2023-03-23 04:45:24+08:00 推文](https://twitter.com/realcaixia/status/1638643060774158336)
 
-窗帘拉开了还能再拉上，同样一国历史进一步退两步也成现实。<br>曾以为改革开放拥抱现代文明了，就会一直往前走，现实却并非如此。2014年行走伊朗，硬生生的看到拥抱了现代文明还会再退到神权时期；回头看中国，曾经走出了帝制拥抱共和，1949后再退回帝国皇权——；1978开了国门，2012以后习朝要半关半开。<div class="rsshub-quote"><br><br>罗翔: 邪恶组织专门拉开窗帘再拉上窗帘，反复如此循环！😂😂😂😂😂😄！<br>这位教授的讲课方式令人叫绝，但这个故事更触动我的是:窗帘拉开了还能再拉上…… https://t.co/7WyDuTF3ev<br><br><img style="" src="https://pbs.twimg.com/media/Frxa-QkXoAAhaf4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+窗帘拉开了还能再拉上，同样一国历史进一步退两步也成现实。<br>曾以为改革开放拥抱现代文明了，就会一直往前走，现实却并非如此。2014年行走伊朗，硬生生的看到拥抱了现代文明还会再退到神权时期；回头看中国，曾经走出了帝制拥抱共和，1949后再退回帝国皇权——；1978开了国门，2012以后习朝要半关半开。 https://twitter.com/XIAOMIEHM/status/1638284397341298695<div class="rsshub-quote"><br><br>罗翔: 邪恶组织专门拉开窗帘再拉上窗帘，反复如此循环！😂😂😂😂😂😄！<br>这位教授的讲课方式令人叫绝，但这个故事更触动我的是:窗帘拉开了还能再拉上…… https://t.co/7WyDuTF3ev<br><br><img style="" src="https://pbs.twimg.com/media/Frxa-QkXoAAhaf4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 25: [2023-03-23 11:23:02+08:00 推文](https://twitter.com/realcaixia/status/1638743126352486401)
 
@@ -117,7 +117,7 @@ Re @ChanrichAmy 手术成功了！真是很暖心的好消息🌹🌹。祝贺�
 
 ### 26: [2023-03-23 11:30:17+08:00 推文](https://twitter.com/realcaixia/status/1638744949821956099)
 
-邹幸彤香港青年的人格典范。<div class="rsshub-quote"><br><br>《议报》: 邹幸彤 | 法庭陈词 https://yibaochina.com/?p=249820 当人民在权力面前变得愈来愈透明，但权力却在人民面前变得愈来愈不透明的时候，人民就不再是国家的主人，而是国家的奴隶。而“国家安全”亦只会成为掩饰这种奴役的借口。<br></div>
+邹幸彤香港青年的人格典范。 https://twitter.com/yibaochina/status/1638672411393392640<div class="rsshub-quote"><br><br>《议报》: 邹幸彤 | 法庭陈词 https://yibaochina.com/?p=249820 当人民在权力面前变得愈来愈透明，但权力却在人民面前变得愈来愈不透明的时候，人民就不再是国家的主人，而是国家的奴隶。而“国家安全”亦只会成为掩饰这种奴役的借口。<br></div>
 
 ### 27: [2023-03-23 11:32:45+08:00 推文](https://twitter.com/realcaixia/status/1638745572256669700)
 
@@ -125,7 +125,7 @@ Re @ChanrichAmy 手术成功了！真是很暖心的好消息🌹🌹。祝贺�
 
 ### 28: [2023-03-23 11:39:15+08:00 推文](https://twitter.com/realcaixia/status/1638747209612300289)
 
-中共国就怕真相，就怕信息自由流动。一个毫不讲外交基本道德规范的政权，他们只会破坏世界秩序，破坏世界和平。 https://twitter.com/usa_china_talk/status/1638457380273881088<div class="rsshub-quote"><br><br>美国驻华使领馆 US MissionCN: 昨天，中华人民共和国的审查者对我们关于布林肯国务卿发布2022年度人权报告的微信和微博内容采取措施，限制网民的互动和知晓。如布林肯国务卿所说：“本报告的目的不是说教或羞辱……” https://twitter.com/USA_China_Talk/status/1638457166670561281<br></div>
+中共国就怕真相，就怕信息自由流动。一个毫不讲外交基本道德规范的政权，他们只会破坏世界秩序，破坏世界和平。<div class="rsshub-quote"><br><br>美国驻华使领馆 US MissionCN: 昨天，中华人民共和国的审查者对我们关于布林肯国务卿发布2022年度人权报告的微信和微博内容采取措施，限制网民的互动和知晓。如布林肯国务卿所说：“本报告的目的不是说教或羞辱……”<br></div>
 
 ### 29: [2023-03-23 11:47:45+08:00 推文](https://twitter.com/realcaixia/status/1638749346283008002)
 
