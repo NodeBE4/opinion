@@ -29,7 +29,7 @@ Re @a4_dao @qiaoxinxin88 我同意这位网友的意见。
 
 ### 4: [2023-03-13 07:16:05+08:00 推文](https://twitter.com/realcaixia/status/1635057100387938307)
 
-我也很喜欢不明白博客，每期节目都很有价值。 https://twitter.com/geleilaoshi/status/1634853753672331264<div class="rsshub-quote"><br><br>Grey: 这个节目是很好的内容，值得仔细得听。想先听我讲的部分的朋友们可以先从1:00 （一个小时）开始听。 https://twitter.com/bumingbaipod/status/1634822015063412736<br></div>
+我也很喜欢不明白博客，每期节目都很有价值。<div class="rsshub-quote"><br><br>Grey: 这个节目是很好的内容，值得仔细得听。想先听我讲的部分的朋友们可以先从1:00 （一个小时）开始听。<br></div>
 
 ### 5: [2023-03-13 08:13:49+08:00 推文](https://twitter.com/realcaixia/status/1635071629456982017)
 
@@ -105,7 +105,7 @@ Re @TDTCCP @keke201707 並且黨國特色！
 
 ### 23: [2023-03-16 01:48:00+08:00 推文](https://twitter.com/realcaixia/status/1636061701966815234)
 
-推友說得太好了！蔣彥永醫生是唯一把2003年SARS、2019年至今的COVID-19 、1989年6.4凝集於一身的歷史性人物。<br>若中國有先賢祠，蔣彥永、李銳、何方、李洪林、杜光、李普、胡績偉、王若望、王若水、王元化、劉冰雁，方勵之等前輩必定在列。<br>而袁世凱、毛澤東、袁二世等必定被釘在中國歷史恥辱柱上。 https://twitter.com/uyunistar/status/1635848341891448834<div class="rsshub-quote"><br><br>赵兰健: ［蒋彦永：中华民族骄傲史诗符号］<br>蒋彦永医生是唯一能把2003年非典、新冠疫情、六四事件三件重要历史凝结在一起的全球关注焦点人物。他的超小型告别仪式正在戒备森严下举办。很多亲人、战友、同事都未被允许参加。自从2019年他被关起来后到现在，基本完全噤声，亲友全被威胁和限制。 https://t.co/aJjn9Gk1Tp<br><br><img style="" src="https://pbs.twimg.com/media/FrOzZcpXgAA-DbB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+推友說得太好了！蔣彥永醫生是唯一把2003年SARS、2019年至今的COVID-19 、1989年6.4凝集於一身的歷史性人物。<br>若中國有先賢祠，蔣彥永、李銳、何方、李洪林、杜光、李普、胡績偉、王若望、王若水、王元化、劉冰雁，方勵之等前輩必定在列。<br>而袁世凱、毛澤東、袁二世等必定被釘在中國歷史恥辱柱上。<div class="rsshub-quote"><br><br>赵兰健: ［蒋彦永：中华民族骄傲史诗符号］<br>蒋彦永医生是唯一能把2003年非典、新冠疫情、六四事件三件重要历史凝结在一起的全球关注焦点人物。他的超小型告别仪式正在戒备森严下举办。很多亲人、战友、同事都未被允许参加。自从2019年他被关起来后到现在，基本完全噤声，亲友全被威胁和限制。 https://t.co/aJjn9Gk1Tp<br><br><img style="" src="https://pbs.twimg.com/media/FrOzZcpXgAA-DbB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 24: [2023-03-16 02:37:17+08:00 推文](https://twitter.com/realcaixia/status/1636074101642240000)
 
@@ -117,11 +117,11 @@ Re @zechengyu1 @Perfectionalism @HongLong2022 李书磊的简历这份大致是�
 
 ### 26: [2023-03-18 03:18:16+08:00 推文](https://twitter.com/realcaixia/status/1636809191707770880)
 
-大好事！这个战争罪犯必须得到法律制裁。 https://twitter.com/voachinese/status/1636780200175480833<div class="rsshub-quote"><br><br>美国之音中文网: 国际刑事法院对俄罗斯总统普京发出逮捕令，习近平下周与普京会谈 http://dlvr.it/Sl3Yl9<br></div>
+大好事！这个战争罪犯必须得到法律制裁。<div class="rsshub-quote"><br><br>美国之音中文网: 国际刑事法院对俄罗斯总统普京发出逮捕令，习近平下周与普京会谈 http://dlvr.it/Sl3Yl9<br></div>
 
 ### 27: [2023-03-18 03:23:42+08:00 推文](https://twitter.com/realcaixia/status/1636810560879706112)
 
-普京为了个人野心，将俄罗斯人和乌克兰人拖进战争血海中。国际海牙刑事法院对普京的逮捕令，可以警告世界上一切个人野心家战争狂，世界已经不允许任何人挑起毁灭人类文明的战争罪行！ https://twitter.com/zhangdong_sch/status/1636799372162654208<div class="rsshub-quote"><br><br>ZHANGDONG: 海牙国际刑事法院今天对普京发出逮捕令！<br>这下问题来了，习近平将于本月20号访俄拜会普京，拜访被国际法院通缉的战犯，史无前例！ https://www.icc-cpi.int/news/situation-ukraine-icc-judges-issue-arrest-warrants-against-vladimir-vladimirovich-putin-and<br></div>
+普京为了个人野心，将俄罗斯人和乌克兰人拖进战争血海中。国际海牙刑事法院对普京的逮捕令，可以警告世界上一切个人野心家战争狂，世界已经不允许任何人挑起毁灭人类文明的战争罪行！<div class="rsshub-quote"><br><br>ZHANGDONG: 海牙国际刑事法院今天对普京发出逮捕令！<br>这下问题来了，习近平将于本月20号访俄拜会普京，拜访被国际法院通缉的战犯，史无前例！ https://www.icc-cpi.int/news/situation-ukraine-icc-judges-issue-arrest-warrants-against-vladimir-vladimirovich-putin-and<br></div>
 
 ### 28: [2023-03-18 04:08:11+08:00 推文](https://twitter.com/realcaixia/status/1636821752046309376)
 
@@ -129,7 +129,7 @@ Re @ChrisLaw125 @Lewis57675410 @HongLong2022 李书磊出生于91年-93年曾任
 
 ### 29: [2023-03-18 10:08:21+08:00 推文](https://twitter.com/realcaixia/status/1636912392184508417)
 
-中共警察的野蛮残暴，在他们眼里中国民众如同动物。 https://twitter.com/lonelywarriorma/status/1636805414263349250<div class="rsshub-quote"><br><br>为自由而战-天山剑客: 中国警察用渔网捕人<br>就因为这女子用手机拍了他们做的恶<br><br> https://t.co/g9eTUrTGuP<br><br><video src="https://video.twimg.com/ext_tw_video/1636731478032920582/pu/vid/576x1018/SJooOoUDDCHeg-TX.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1636731478032920582/pu/img/nQnyaICFT50SVV-A.jpg"></video></div>
+中共警察的野蛮残暴，在他们眼里中国民众如同动物。<div class="rsshub-quote"><br><br>为自由而战-天山剑客: 中国警察用渔网捕人<br>就因为这女子用手机拍了他们做的恶<br><br> https://t.co/g9eTUrTGuP<br><br><video src="https://video.twimg.com/ext_tw_video/1636731478032920582/pu/vid/576x1018/SJooOoUDDCHeg-TX.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1636731478032920582/pu/img/nQnyaICFT50SVV-A.jpg"></video></div>
 
 ### 30: [2023-03-18 23:30:51+08:00 推文](https://twitter.com/realcaixia/status/1637114349130223616)
 
