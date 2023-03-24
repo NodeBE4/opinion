@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2023-03-24
+date: 2023-03-25
 from: https://twitter.com/realcaixia/status/1637535174052446208
 layout: post
 tags:
@@ -29,15 +29,15 @@ Re 举中国2020年癌症发病数和死亡数为证：中国新发癌症人数�
 
 ### 4: [2023-03-20 05:10:08+08:00 推文](https://twitter.com/realcaixia/status/1637562118663999488)
 
-真是开心一刻！😄！👍！ https://twitter.com/xingzhe2021/status/1637491595405557764<div class="rsshub-quote"><br><br>墻國荒誕字（墙国荒诞字）: 《憤怒的皇帝》系列搞笑劇:<br>第24集: 《進退兩難》<br>皇帝即將訪問俄羅斯，海牙國際刑事法庭突發普京逮捕令，讓皇帝措手不及，進退兩難… https://t.co/S5loYnc2iu<br><br><video src="https://video.twimg.com/ext_tw_video/1637491218421624832/pu/vid/1280x720/5b3vTTBC5ec08GrT.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1637491218421624832/pu/img/TsAI6sWtcCnFK8r9.jpg"></video></div>
+真是开心一刻！😄！👍！<div class="rsshub-quote"><br><br>墻國荒誕字（墙国荒诞字）: 《憤怒的皇帝》系列搞笑劇:<br>第24集: 《進退兩難》<br>皇帝即將訪問俄羅斯，海牙國際刑事法庭突發普京逮捕令，讓皇帝措手不及，進退兩難… https://t.co/S5loYnc2iu<br><br><video src="https://video.twimg.com/ext_tw_video/1637491218421624832/pu/vid/1280x720/5b3vTTBC5ec08GrT.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1637491218421624832/pu/img/TsAI6sWtcCnFK8r9.jpg"></video></div>
 
 ### 5: [2023-03-20 05:21:59+08:00 推文](https://twitter.com/realcaixia/status/1637565100554059776)
 
-说得好！“吃着乌克兰人用生命换来的粮食，不存感念反而支持普京侵略乌克兰，良心何在？” https://twitter.com/zhangdong_sch/status/1637439035873406976<div class="rsshub-quote"><br><br>ZHANGDONG: 这是联合国组织今年一月发布的乌克兰粮食出口数据。从图表中可见中国是乌克兰农粮作物第二大进口国。大陆挺俄反乌的中国人请扪心自问，你们吃着乌克兰人用生命换来的粮食，不存感念反而支持普京侵略乌克兰，良心何在？中国欠乌克兰一个公道！中国政府必须立即停止支持普京战犯！顺应世界潮流者得人心。 https://t.co/giHhuaNh6G<br><br><img style="" src="https://pbs.twimg.com/media/FrlaH-HXwAERSCZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+说得好！“吃着乌克兰人用生命换来的粮食，不存感念反而支持普京侵略乌克兰，良心何在？”<div class="rsshub-quote"><br><br>ZHANGDONG: 这是联合国组织今年一月发布的乌克兰粮食出口数据。从图表中可见中国是乌克兰农粮作物第二大进口国。大陆挺俄反乌的中国人请扪心自问，你们吃着乌克兰人用生命换来的粮食，不存感念反而支持普京侵略乌克兰，良心何在？中国欠乌克兰一个公道！中国政府必须立即停止支持普京战犯！顺应世界潮流者得人心。 https://t.co/giHhuaNh6G<br><br><img style="" src="https://pbs.twimg.com/media/FrlaH-HXwAERSCZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 6: [2023-03-20 05:35:39+08:00 推文](https://twitter.com/realcaixia/status/1637568542647390208)
 
-说得好！中共国所有问题的根源都在于政治，在于中共党，在于这党统治国家的制度和党内的权力结构与组织机制。习上台后，这些问题不仅没有解决还加上一条：党魁独裁，无法无天无底线。 https://twitter.com/rongjian1957/status/1637260587792052226<div class="rsshub-quote"><br><br>荣剑: 稍有常识的人，都看出大国问题的实质:消费不振，投资不力，信心不足，预期不好，究其终极原因，都是政治问题。中国经济学，不是政治经济学，其实就是政治学，只有政治，没有经济。 https://t.co/TcDQD4D1ji<br><br><img style="" src="https://pbs.twimg.com/media/Fri3zP3XgAAzdMq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fri30NqXwAIMQbg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+说得好！中共国所有问题的根源都在于政治，在于中共党，在于这党统治国家的制度和党内的权力结构与组织机制。习上台后，这些问题不仅没有解决还加上一条：党魁独裁，无法无天无底线。<div class="rsshub-quote"><br><br>荣剑: 稍有常识的人，都看出大国问题的实质:消费不振，投资不力，信心不足，预期不好，究其终极原因，都是政治问题。中国经济学，不是政治经济学，其实就是政治学，只有政治，没有经济。 https://t.co/TcDQD4D1ji<br><br><img style="" src="https://pbs.twimg.com/media/Fri3zP3XgAAzdMq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fri30NqXwAIMQbg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 7: [2023-03-20 06:13:42+08:00 推文](https://twitter.com/realcaixia/status/1637578118721576962)
 
@@ -49,15 +49,15 @@ Re 举中国2020年癌症发病数和死亡数为证：中国新发癌症人数�
 
 ### 9: [2023-03-20 16:00:50+08:00 推文](https://twitter.com/realcaixia/status/1637725872466583553)
 
-莫言写得好！<div class="rsshub-quote"><br><br>真相傳媒備用號: 莫言在他的新书《晚熟的人》写道：本性善良的人都晚熟，他们是被劣人催熟的。当别人聪明伶俐时，他们又傻又呆。当别人权衡利弊时，他们一片真诚。当别人心机用尽时，他们灵魂开窍。虽然开窍了，但内心还是会保持善良和赤诚，他们不断寻找同类，最后却变成了最孤独那一个…… https://t.co/slWYfUdOt3<br><br><video src="https://video.twimg.com/ext_tw_video/1625248261140512768/pu/vid/640x360/0YkOOKGG4a4V4Z7c.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1625248261140512768/pu/img/m7wBhXw_pvL5A_aW.jpg"></video></div>
+莫言写得好！ https://twitter.com/truthmedia_2/status/1625248357399810048<div class="rsshub-quote"><br><br>真相傳媒備用號: 莫言在他的新书《晚熟的人》写道：本性善良的人都晚熟，他们是被劣人催熟的。当别人聪明伶俐时，他们又傻又呆。当别人权衡利弊时，他们一片真诚。当别人心机用尽时，他们灵魂开窍。虽然开窍了，但内心还是会保持善良和赤诚，他们不断寻找同类，最后却变成了最孤独那一个…… https://t.co/slWYfUdOt3<br><br><video src="https://video.twimg.com/ext_tw_video/1625248261140512768/pu/vid/640x360/0YkOOKGG4a4V4Z7c.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1625248261140512768/pu/img/m7wBhXw_pvL5A_aW.jpg"></video></div>
 
 ### 10: [2023-03-20 23:33:40+08:00 推文](https://twitter.com/realcaixia/status/1637839832113377281)
 
-高瑜大姐推文说现在新华社的参考消息没人要了。想起在中央党校学习的官员，晚饭后围着人工湖散步。7点了人行步道上依旧三三两两谈天说笑，有次我问一官员：都7点了，怎么还散步呢？官员说：新闻联播没看头，看7点20分以后的。7点20以后的是新闻联播国际新闻时段。那是2007年以后开始的现象。 https://twitter.com/gaoyu200812/status/1637749372887916544<div class="rsshub-quote"><br><br>高瑜: 唐老弟說的是今年的事兒嗎？80年代《參考消息》火成什麼樣？現在白送沒人要，怨誰呢？他幾天前發帖講蔣彥永醫生向他學攝影，很有意思。 https://twitter.com/1NO0F20S05zEM51/status/1637736209899192320<br></div>
+高瑜大姐推文说现在新华社的参考消息没人要了。想起在中央党校学习的官员，晚饭后围着人工湖散步。7点了人行步道上依旧三三两两谈天说笑，有次我问一官员：都7点了，怎么还散步呢？官员说：新闻联播没看头，看7点20分以后的。7点20以后的是新闻联播国际新闻时段。那是2007年以后开始的现象。<div class="rsshub-quote"><br><br>高瑜: 唐老弟說的是今年的事兒嗎？80年代《參考消息》火成什麼樣？現在白送沒人要，怨誰呢？他幾天前發帖講蔣彥永醫生向他學攝影，很有意思。<br></div>
 
 ### 11: [2023-03-20 23:50:28+08:00 推文](https://twitter.com/realcaixia/status/1637844061930528768)
 
-十年功夫败光了30多年积累的财富，不够挥霍撒币了，就抢。从强抢民企的私人财产到抢老人的医保费到抢储户的存款……<div class="rsshub-quote"><br><br>蔡慎坤: 留任的财政部长刘昆最近喊话要做好长期过苦日子的准备，看来这话不是说着玩的，1-2月全国消费税降18.4%，个税降4%，增值税降21.6%，关税降27%，城建税降10.5%，车辆税降32.8%，印花税降31.3%，证券印花税降61.7%，土地增值税降22.4%，房产税降22.9%，土地出让金降29%，环保税降11.1%。这日子怎么过？<br></div>
+十年功夫败光了30多年积累的财富，不够挥霍撒币了，就抢。从强抢民企的私人财产到抢老人的医保费到抢储户的存款…… https://twitter.com/cskun1989/status/1637678280466923520<div class="rsshub-quote"><br><br>蔡慎坤: 留任的财政部长刘昆最近喊话要做好长期过苦日子的准备，看来这话不是说着玩的，1-2月全国消费税降18.4%，个税降4%，增值税降21.6%，关税降27%，城建税降10.5%，车辆税降32.8%，印花税降31.3%，证券印花税降61.7%，土地增值税降22.4%，房产税降22.9%，土地出让金降29%，环保税降11.1%。这日子怎么过？<br></div>
 
 ### 12: [2023-03-21 00:56:42+08:00 推文](https://twitter.com/realcaixia/status/1637860729947824135)
 
@@ -65,11 +65,11 @@ Re 举中国2020年癌症发病数和死亡数为证：中国新发癌症人数�
 
 ### 13: [2023-03-21 01:20:01+08:00 推文](https://twitter.com/realcaixia/status/1637866597091278848)
 
-笑蜀这篇文章有深度思考。深刻不等于也不应该等于极端化。 https://twitter.com/yibaochina/status/1635859554775777280<div class="rsshub-quote"><br><br>《议报》: 笑蜀 | 警惕深刻 https://yibaochina.com/?p=249755 看似深刻的推理被现实撞得粉碎，这说明了一个问题，即深刻本身在某种程度上与现实的对立、深刻本身在某种程度上的破产。国人往往崇拜理论上的深刻，殊不知，很多所谓的深刻很容易沦为理论上的极化，最典型的就是马教的决定论。<br></div>
+笑蜀这篇文章有深度思考。深刻不等于也不应该等于极端化。<div class="rsshub-quote"><br><br>《议报》: 笑蜀 | 警惕深刻 https://yibaochina.com/?p=249755 看似深刻的推理被现实撞得粉碎，这说明了一个问题，即深刻本身在某种程度上与现实的对立、深刻本身在某种程度上的破产。国人往往崇拜理论上的深刻，殊不知，很多所谓的深刻很容易沦为理论上的极化，最典型的就是马教的决定论。<br></div>
 
 ### 14: [2023-03-21 22:10:16+08:00 推文](https://twitter.com/realcaixia/status/1638181231191003136)
 
-还用说吗？天天吹嘘“东升西降”，从“建设人类命运共同体”到给世界“提供人类文明新形态”，具有“制度优势”的习朝中国，三年疫情给国人发过一分钱生活补贴费吗？何论派飞机接回国人。 https://twitter.com/dayangelcp/status/1637959260662542336<div class="rsshub-quote"><br><br>李承鹏（真正的大眼哥）: 昨天晚餐听陈天庸夫人“马耳他的鱼儿”讲了一个真实故事：<br>疫情爆发后，马耳他这小国无法承载，由该国政府出资包机运返各国游客（游客也出一点小费用）。各国政府均迅速配合，开放关口。<br>只有一个国家拒绝接回自己的国民，且没有给出任何回复。<br>有的人只好在迪拜机场住了几个月。<br>你猜这是哪个国家。… https://twitter.com/i/web/status/1637959260662542336<br></div>
+还用说吗？天天吹嘘“东升西降”，从“建设人类命运共同体”到给世界“提供人类文明新形态”，具有“制度优势”的习朝中国，三年疫情给国人发过一分钱生活补贴费吗？何论派飞机接回国人。<div class="rsshub-quote"><br><br>李承鹏（真正的大眼哥）: 昨天晚餐听陈天庸夫人“马耳他的鱼儿”讲了一个真实故事：<br>疫情爆发后，马耳他这小国无法承载，由该国政府出资包机运返各国游客（游客也出一点小费用）。各国政府均迅速配合，开放关口。<br>只有一个国家拒绝接回自己的国民，且没有给出任何回复。<br>有的人只好在迪拜机场住了几个月。<br>你猜这是哪个国家。… https://twitter.com/i/web/status/1637959260662542336<br></div>
 
 ### 15: [2023-03-21 22:15:09+08:00 推文](https://twitter.com/realcaixia/status/1638182460851888130)
 
@@ -117,15 +117,15 @@ Re @ChanrichAmy 手术成功了！真是很暖心的好消息🌹🌹。祝贺�
 
 ### 26: [2023-03-23 11:30:17+08:00 推文](https://twitter.com/realcaixia/status/1638744949821956099)
 
-邹幸彤香港青年的人格典范。<div class="rsshub-quote"><br><br>《议报》: 邹幸彤 | 法庭陈词 https://yibaochina.com/?p=249820 当人民在权力面前变得愈来愈透明，但权力却在人民面前变得愈来愈不透明的时候，人民就不再是国家的主人，而是国家的奴隶。而“国家安全”亦只会成为掩饰这种奴役的借口。<br></div>
+邹幸彤香港青年的人格典范。 https://twitter.com/yibaochina/status/1638672411393392640<div class="rsshub-quote"><br><br>《议报》: 邹幸彤 | 法庭陈词 https://yibaochina.com/?p=249820 当人民在权力面前变得愈来愈透明，但权力却在人民面前变得愈来愈不透明的时候，人民就不再是国家的主人，而是国家的奴隶。而“国家安全”亦只会成为掩饰这种奴役的借口。<br></div>
 
 ### 27: [2023-03-23 11:32:45+08:00 推文](https://twitter.com/realcaixia/status/1638745572256669700)
 
-华人网友可能用拼多多的多，需要高度重视个人信息安全。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 拼多多app有病毒嫌疑，被谷歌禁止！<br><br>TikTok next?! And wechat?!<br><br>https://www.cbsnews.com/news/pinduoduo-google-play-suspension-malware-chinese-shopping-app-tiktok/?ftag=CNM-00-10aac3a<br></div>
+华人网友可能用拼多多的多，需要高度重视个人信息安全。 https://twitter.com/yibao_en/status/1638559959108419590<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 拼多多app有病毒嫌疑，被谷歌禁止！<br><br>TikTok next?! And wechat?!<br><br>https://www.cbsnews.com/news/pinduoduo-google-play-suspension-malware-chinese-shopping-app-tiktok/?ftag=CNM-00-10aac3a<br></div>
 
 ### 28: [2023-03-23 11:39:15+08:00 推文](https://twitter.com/realcaixia/status/1638747209612300289)
 
-中共国就怕真相，就怕信息自由流动。一个毫不讲外交基本道德规范的政权，他们只会破坏世界秩序，破坏世界和平。<div class="rsshub-quote"><br><br>美国驻华使领馆 US MissionCN: 昨天，中华人民共和国的审查者对我们关于布林肯国务卿发布2022年度人权报告的微信和微博内容采取措施，限制网民的互动和知晓。如布林肯国务卿所说：“本报告的目的不是说教或羞辱……”<br></div>
+中共国就怕真相，就怕信息自由流动。一个毫不讲外交基本道德规范的政权，他们只会破坏世界秩序，破坏世界和平。 https://twitter.com/usa_china_talk/status/1638457380273881088<div class="rsshub-quote"><br><br>美国驻华使领馆 US MissionCN: 昨天，中华人民共和国的审查者对我们关于布林肯国务卿发布2022年度人权报告的微信和微博内容采取措施，限制网民的互动和知晓。如布林肯国务卿所说：“本报告的目的不是说教或羞辱……” https://twitter.com/USA_China_Talk/status/1638457166670561281<br></div>
 
 ### 29: [2023-03-23 11:47:45+08:00 推文](https://twitter.com/realcaixia/status/1638749346283008002)
 
@@ -133,11 +133,11 @@ Re @ChanrichAmy 手术成功了！真是很暖心的好消息🌹🌹。祝贺�
 
 ### 30: [2023-03-24 01:34:26+08:00 推文](https://twitter.com/realcaixia/status/1638957390677549060)
 
-拿镜中花水中月搞大忽悠已经蒙不住人了。看看台湾人的生活实实在在是啥样的，他们手里的选票实实在在地决定总统是谁，他们的护照实实在在地拿在自己手里，去世界旅游免签、落地签或电子签证入境的国家多达146个，完全涵盖欧美发达国家。再看看中国人过的是啥日子，有没有真选票，出境入境是啥样的 https://twitter.com/jason27873170/status/1638744130837700612<div class="rsshub-quote"><br><br>jason hu: https://t.co/JD42PRBxfB<br><br><img style="" src="https://pbs.twimg.com/media/Fr39GeJWYAAfsJg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+拿镜中花水中月搞大忽悠已经蒙不住人了。看看台湾人的生活实实在在是啥样的，他们手里的选票实实在在地决定总统是谁，他们的护照实实在在地拿在自己手里，去世界旅游免签、落地签或电子签证入境的国家多达146个，完全涵盖欧美发达国家。再看看中国人过的是啥日子，有没有真选票，出境入境是啥样的<div class="rsshub-quote"><br><br>jason hu: https://t.co/JD42PRBxfB<br><br><img style="" src="https://pbs.twimg.com/media/Fr39GeJWYAAfsJg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 31: [2023-03-24 01:55:35+08:00 推文](https://twitter.com/realcaixia/status/1638962710967644169)
 
-支持童屹女士！拆掉中共互联网防火墙—中共阻碍信息自由流通的互联网柏林墙—这是改善中国人权状况、推进宪政民主的基础。 https://twitter.com/endgfw2/status/1638591903712317440<div class="rsshub-quote"><br><br>EndGFW Official 拆墙运动公号2: 【如何快速改善中国？拆墙排第1】<br><br>童逸近期给美国国会开出的改善中国民主2大招，包括了拆除互联网防火墙、资助记者律师。她指出，中共最怕本国人民，如果中国人能自由上网，那就易知社会真相，而真相本身就自带强大力量，能打破中共几十年来打造的谎言世界，促成反对派力量的联合。#EndGFW #拆墙运动 https://t.co/mdS6VjWOBZ<br><br><video src="https://video.twimg.com/ext_tw_video/1638588314310836224/pu/vid/644x360/Wki49V9XXLHeMoBP.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1638588314310836224/pu/img/N6d7apNOm4MYdQJz.jpg"></video></div>
+支持童屹女士！拆掉中共互联网防火墙—中共阻碍信息自由流通的互联网柏林墙—这是改善中国人权状况、推进宪政民主的基础。<div class="rsshub-quote"><br><br>EndGFW Official 拆墙运动公号2: 【如何快速改善中国？拆墙排第1】<br><br>童逸近期给美国国会开出的改善中国民主2大招，包括了拆除互联网防火墙、资助记者律师。她指出，中共最怕本国人民，如果中国人能自由上网，那就易知社会真相，而真相本身就自带强大力量，能打破中共几十年来打造的谎言世界，促成反对派力量的联合。#EndGFW #拆墙运动 https://t.co/mdS6VjWOBZ<br><br><video src="https://video.twimg.com/ext_tw_video/1638588314310836224/pu/vid/644x360/Wki49V9XXLHeMoBP.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1638588314310836224/pu/img/N6d7apNOm4MYdQJz.jpg"></video></div>
 
 ### 32: [2023-03-24 03:23:16+08:00 推文](https://twitter.com/realcaixia/status/1638984777377239042)
 
@@ -154,4 +154,8 @@ Re https://t.co/qDaW1rI8QN<br><img style="" src="https://pbs.twimg.com/media/Fr8
 ### 35: [2023-03-24 08:20:24+08:00 推文](https://twitter.com/realcaixia/status/1639059554700001281)
 
 Re @zhaochangqing89 是胡石根长老。在京时就多次听说过他的名字。
+
+### 36: [2023-03-25 00:49:05+08:00 推文](https://twitter.com/realcaixia/status/1639308364965617669)
+
+推荐这位推文和目前为止的推特跟帖，跟帖的推友们和推主认真讨论习与国务院系统的关系。习近平帮伙20大灭中共成习“党”，两会灭中国国家体制成习朝。习朝军机处呼之欲出，蔡二掌柜领头。<div class="rsshub-quote"><br><br>洋同学的宏观笔记: 最新《国务院工作规则》总则中，<br>1、指导思想删去“马毛邓三科”，只留习思想，强调“党中央权威和集中统一领导”<br>2、总则中删去工作准则，另起到第三章，转而强调“旗帜鲜明讲政治”、“两个确立”、“两个维护”等…<br><br>上条推文的表述，有较强带节奏嫌疑，删了重发，下面附上全文，建议任何信息还是看下全文 https://t.co/REmftIs0Sc<br><br><img style="" src="https://pbs.twimg.com/media/Fr-LagLaYAA21eD?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
