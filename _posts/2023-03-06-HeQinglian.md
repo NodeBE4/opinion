@@ -173,7 +173,7 @@ Re 各位推友，拜登今天仍然说对华政策没变。<br>拜粉可以说�
 
 ### 40: [2023-03-08 18:57:26+08:00 推文](https://twitter.com/fading_you1/status/1633421661679628289)
 
-RT 天降伟人包由检<br>美国左派的意识形态输出，目的就是用政治正确阉割全世界不同国家的社会伦理，从而实现对传统价值的颠覆来“砸烂旧世界”，进而用左派意识形态重构一个大一统的“天下大同”新世界。<br><br>所以，此时此刻，反美才是最高的自由价值。 https://twitter.com/initiumnews/status/1633005939686248449<div class="rsshub-quote"><br><br>端傳媒 Initium Media: 【在女浴場遇「跨性別」感到恐懼？日本演員橋本愛為爭議言論道歉】 對於「跨性別女性」使用女性洗浴設施和公共廁所的相關問題，日本演員橋本愛本月5日於其IG story中發表評論，提議「最好根據身體的性別來區分」。有網民批評其言論涉嫌「歧視LGBT+」。隨後6日，橋本愛隨後再發布story就此番言論道歉。 https://t.co/7fytbI0Uev<br><br><img style="" src="https://pbs.twimg.com/media/FqmZ1a1aMAAXvoS?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT 天降伟人包由检<br>美国左派的意识形态输出，目的就是用政治正确阉割全世界不同国家的社会伦理，从而实现对传统价值的颠覆来“砸烂旧世界”，进而用左派意识形态重构一个大一统的“天下大同”新世界。<br><br>所以，此时此刻，反美才是最高的自由价值。<div class="rsshub-quote"><br><br>端傳媒 Initium Media: 【在女浴場遇「跨性別」感到恐懼？日本演員橋本愛為爭議言論道歉】 對於「跨性別女性」使用女性洗浴設施和公共廁所的相關問題，日本演員橋本愛本月5日於其IG story中發表評論，提議「最好根據身體的性別來區分」。有網民批評其言論涉嫌「歧視LGBT+」。隨後6日，橋本愛隨後再發布story就此番言論道歉。 https://t.co/7fytbI0Uev<br><br><img style="" src="https://pbs.twimg.com/media/FqmZ1a1aMAAXvoS?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 41: [2023-03-08 22:30:03+08:00 推文](https://twitter.com/HeQinglian/status/1633475168176619520)
 
@@ -377,11 +377,11 @@ Re @Wu_Zhi 最大的成就是将美国冷战结束之后，历届总统都奉行
 
 ### 91: [2023-03-11 11:01:39+08:00 推文](https://twitter.com/JianglinLi/status/1634389092266831872)
 
-RT 李江琳<br>老妖婆的“1月6日调查委员会”竟然根本没看那些录像！这不是赤裸裸的政治迫害嘛！😡😡😡<div class="rsshub-quote"><br><br>Tom Fitton: WHAT?! Top Democrat On Pelosi rump J6 Committee: We Actually Didn’t Review Any Of The Surveillance Video https://thefederalist.com/2023/03/09/top-democrat-on-j6-committee-we-actually-didnt-review-any-of-the-surveillance-video/<br></div>
+RT 李江琳<br>老妖婆的“1月6日调查委员会”竟然根本没看那些录像！这不是赤裸裸的政治迫害嘛！😡😡😡 https://twitter.com/TomFitton/status/1634355413905727488<div class="rsshub-quote"><br><br>Tom Fitton: WHAT?! Top Democrat On Pelosi rump J6 Committee: We Actually Didn’t Review Any Of The Surveillance Video https://thefederalist.com/2023/03/09/top-democrat-on-j6-committee-we-actually-didnt-review-any-of-the-surveillance-video/<br></div>
 
 ### 92: [2023-03-11 11:56:01+08:00 推文](https://twitter.com/JianglinLi/status/1634402773767782400)
 
-RT 李江琳<br>这篇向共和党支持者和保守派道歉的公开信值得一读： https://twitter.com/JackPosobiec/status/1634357506687356930<div class="rsshub-quote"><br><br>No Bailouts Poso 🚫💰: NAOMI WOLF: Dear conservatives, I'm sorry I believed so many media lies<br><br>https://humanevents.com/2023/03/10/naomi-wolf-dear-conservatives-im-sorry-i-believed-so-many-media-lies?utm_campaign=64483<br></div>
+RT 李江琳<br>这篇向共和党支持者和保守派道歉的公开信值得一读：<div class="rsshub-quote"><br><br>No Bailouts Poso 🚫💰: NAOMI WOLF: Dear conservatives, I'm sorry I believed so many media lies<br><br>https://humanevents.com/2023/03/10/naomi-wolf-dear-conservatives-im-sorry-i-believed-so-many-media-lies?utm_campaign=64483<br></div>
 
 ### 93: [2023-03-11 21:29:11+08:00 推文](https://twitter.com/HeQinglian/status/1634547014741491713)
 

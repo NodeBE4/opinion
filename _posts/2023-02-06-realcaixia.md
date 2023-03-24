@@ -69,7 +69,7 @@ Re LT视界这期节目，集中两个问题：1，美击落中共高空间谍�
 
 ### 14: [2023-02-10 03:29:03+08:00 推文](https://twitter.com/realcaixia/status/1623765944198909952)
 
-不仅是吹牛，而且是狂妄加野心。习既不直说与自由民主国家为敌，又大力推销中国模式，只能用吹牛和谎言为手段来蒙骗那些又想维持旧权力规则又想从中国捞到好处的某些发展中国家首脑。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 繼續吹牛😃<br> <a href="https://twitter.com/rudyakmarina/status/1623759148100866051" target="_blank" rel="noopener noreferrer">https://twitter.com/rudyakmarina/status/1623759148100866051</a></div>
+不仅是吹牛，而且是狂妄加野心。习既不直说与自由民主国家为敌，又大力推销中国模式，只能用吹牛和谎言为手段来蒙骗那些又想维持旧权力规则又想从中国捞到好处的某些发展中国家首脑。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 繼續吹牛😃<br> <a href="https://twitter.com/RudyakMarina/status/1623759148100866051" target="_blank" rel="noopener noreferrer">https://twitter.com/RudyakMarina/status/1623759148100866051</a></div>
 
 ### 15: [2023-02-11 03:37:14+08:00 推文](https://twitter.com/realcaixia/status/1624130388430884881)
 
@@ -105,7 +105,7 @@ Re 分享菁英论坛节目，听对中国局势更多角度的分析，这对�
 
 ### 23: [2023-02-12 06:27:52+08:00 推文](https://twitter.com/realcaixia/status/1624535719606906880)
 
-赞同文章作者的基本看法。<div class="rsshub-quote"><br><br>楊建利 Jianli (Doc) Yang: 我在《The Diplomat外交家》杂志上撰文说明，对王沪宁的任用透露了习近平针对台湾的一个思路，虽然他意识到和平统一已变得很渺茫，但为了师出有名，他需要王推出新的统一台湾的理论，取代老的失去效力的“一国两制”，由此对台施加压力。新理论将是对台统战的指导，也是“大棒加胡萝卜”的新种胡萝卜。<br></div>
+赞同文章作者的基本看法。<div class="rsshub-quote"><br><br>楊建利 Jianli (Doc) Yang: 我在《The Diplomat外交家》杂志上撰文说明，对王沪宁的任用透露了习近平针对台湾的一个思路，虽然他意识到和平统一已变得很渺茫，但为了师出有名，他需要王推出新的统一台湾的理论，取代老的失去效力的“一国两制”，由此对台施加压力。新理论将是对台统战的指导，也是“大棒加胡萝卜”的新种胡萝卜。<br> <a href="https://twitter.com/yangjianli001/status/1622993400667549700" target="_blank" rel="noopener noreferrer">https://twitter.com/yangjianli001/status/1622993400667549700</a></div>
 
 ### 24: [2023-02-12 06:37:01+08:00 推文](https://twitter.com/realcaixia/status/1624538022208507905)
 
