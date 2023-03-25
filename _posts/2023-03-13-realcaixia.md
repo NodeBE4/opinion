@@ -85,7 +85,7 @@ Re @TDTCCP @keke201707 並且黨國特色！
 
 ### 18: [2023-03-14 10:44:26+08:00 推文](https://twitter.com/realcaixia/status/1635471921788911617)
 
-民间高手在！ https://twitter.com/xingzhe2021/status/1634361062974693377<div class="rsshub-quote"><br><br>墻國荒誕字（墙国荒诞字）: 《憤怒的皇帝》系列搞笑劇:<br>第22集: 《不吉利的登基日》 https://t.co/otZYDB03y9<br><br><video src="https://video.twimg.com/ext_tw_video/1634360906707501056/pu/vid/1280x720/RkvkF3_rAelooV7T.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1634360906707501056/pu/img/9YxWuxJl7UZ7eP-F.jpg"></video></div>
+民间高手在！<div class="rsshub-quote"><br><br>墻國荒誕字（墙国荒诞字）: 《憤怒的皇帝》系列搞笑劇:<br>第22集: 《不吉利的登基日》 https://t.co/otZYDB03y9<br><br><video src="https://video.twimg.com/ext_tw_video/1634360906707501056/pu/vid/1280x720/RkvkF3_rAelooV7T.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1634360906707501056/pu/img/9YxWuxJl7UZ7eP-F.jpg"></video></div>
 
 ### 19: [2023-03-15 00:50:11+08:00 推文](https://twitter.com/realcaixia/status/1635684760680034304)
 
@@ -121,7 +121,7 @@ Re @zechengyu1 @Perfectionalism @HongLong2022 李书磊的简历这份大致是�
 
 ### 27: [2023-03-18 03:23:42+08:00 推文](https://twitter.com/realcaixia/status/1636810560879706112)
 
-普京为了个人野心，将俄罗斯人和乌克兰人拖进战争血海中。国际海牙刑事法院对普京的逮捕令，可以警告世界上一切个人野心家战争狂，世界已经不允许任何人挑起毁灭人类文明的战争罪行！ https://twitter.com/zhangdong_sch/status/1636799372162654208<div class="rsshub-quote"><br><br>ZHANGDONG: 海牙国际刑事法院今天对普京发出逮捕令！<br>这下问题来了，习近平将于本月20号访俄拜会普京，拜访被国际法院通缉的战犯，史无前例！ https://www.icc-cpi.int/news/situation-ukraine-icc-judges-issue-arrest-warrants-against-vladimir-vladimirovich-putin-and<br></div>
+普京为了个人野心，将俄罗斯人和乌克兰人拖进战争血海中。国际海牙刑事法院对普京的逮捕令，可以警告世界上一切个人野心家战争狂，世界已经不允许任何人挑起毁灭人类文明的战争罪行！<div class="rsshub-quote"><br><br>ZHANGDONG: 海牙国际刑事法院今天对普京发出逮捕令！<br>这下问题来了，习近平将于本月20号访俄拜会普京，拜访被国际法院通缉的战犯，史无前例！ https://www.icc-cpi.int/news/situation-ukraine-icc-judges-issue-arrest-warrants-against-vladimir-vladimirovich-putin-and<br></div>
 
 ### 28: [2023-03-18 04:08:11+08:00 推文](https://twitter.com/realcaixia/status/1636821752046309376)
 
@@ -129,7 +129,7 @@ Re @ChrisLaw125 @Lewis57675410 @HongLong2022 李书磊出生于91年-93年曾任
 
 ### 29: [2023-03-18 10:08:21+08:00 推文](https://twitter.com/realcaixia/status/1636912392184508417)
 
-中共警察的野蛮残暴，在他们眼里中国民众如同动物。<div class="rsshub-quote"><br><br>为自由而战-天山剑客: 中国警察用渔网捕人<br>就因为这女子用手机拍了他们做的恶<br><br> https://t.co/g9eTUrTGuP<br><br><video src="https://video.twimg.com/ext_tw_video/1636731478032920582/pu/vid/576x1018/SJooOoUDDCHeg-TX.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1636731478032920582/pu/img/nQnyaICFT50SVV-A.jpg"></video></div>
+中共警察的野蛮残暴，在他们眼里中国民众如同动物。 https://twitter.com/LonelyWarriorMa/status/1636805414263349250<div class="rsshub-quote"><br><br>为自由而战-天山剑客: 中国警察用渔网捕人<br>就因为这女子用手机拍了他们做的恶<br><br> https://t.co/g9eTUrTGuP<br><br><video src="https://video.twimg.com/ext_tw_video/1636731478032920582/pu/vid/576x1018/SJooOoUDDCHeg-TX.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1636731478032920582/pu/img/nQnyaICFT50SVV-A.jpg"></video></div>
 
 ### 30: [2023-03-18 23:30:51+08:00 推文](https://twitter.com/realcaixia/status/1637114349130223616)
 
@@ -141,7 +141,7 @@ Re https://t.co/W3MtHBLRDk<br><img style="" src="https://pbs.twimg.com/media/Frg
 
 ### 32: [2023-03-18 23:43:19+08:00 推文](https://twitter.com/realcaixia/status/1637117485509148673)
 
-這具有海外報警的意義和作用。習黨大規模殘酷施行殘暴統治超過此前任何一個中共黨領導人當政時期，是從2014年開始的，至今依舊在進行中。 https://twitter.com/lonelywarriorma/status/1636406692534685696<div class="rsshub-quote"><br><br>为自由而战-天山剑客: 紧急事件<br><br>新疆现在开始又大量抓捕少数民族，就在刚刚我家亲戚被秘密抓捕，45岁女被公安秘密抓捕。我朋友的爸爸被抓捕65岁，没有任何逮捕证，直接抓走了，我现在好愤怒，我X你M的共匪<br>在新疆的人要注意了，注意了<br>这几天新疆特别严格，共匪开始重新，手机要清空<br>重要的事说三遍，不要大意，不要大意<br></div>
+這具有海外報警的意義和作用。習黨大規模殘酷施行殘暴統治超過此前任何一個中共黨領導人當政時期，是從2014年開始的，至今依舊在進行中。<div class="rsshub-quote"><br><br>为自由而战-天山剑客: 紧急事件<br><br>新疆现在开始又大量抓捕少数民族，就在刚刚我家亲戚被秘密抓捕，45岁女被公安秘密抓捕。我朋友的爸爸被抓捕65岁，没有任何逮捕证，直接抓走了，我现在好愤怒，我X你M的共匪<br>在新疆的人要注意了，注意了<br>这几天新疆特别严格，共匪开始重新，手机要清空<br>重要的事说三遍，不要大意，不要大意<br></div>
 
 ### 33: [2023-03-19 08:24:14+08:00 推文](https://twitter.com/realcaixia/status/1637248578103148544)
 
