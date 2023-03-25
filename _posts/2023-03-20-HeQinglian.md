@@ -65,11 +65,11 @@ Re @Wazy1988bW @KELMAND1 别以为美国还能撑多少年。按拜登与民主�
 
 ### 13: [2023-03-20 12:21:56+08:00 推文](https://twitter.com/zhixiangziyou/status/1637670785887117313)
 
-RT L JM🇺🇸<br>在美国曾有一段时间，检察官和司法部拒绝针对前总统。他们知道这会损害共和国。他们表现得很谨慎。现在，民主党人去论坛狩猎，发明新颖的法律理论，并将我们的法庭武器化，就像第三世界的地狱一样。可耻。 https://twitter.com/charliekirk11/status/1637607766314618881<div class="rsshub-quote"><br><br>Charlie Kirk: There was a time in America where prosecutors and the DOJ refused to target ex-Presidents. They knew it would damage the republic. They showed prudence. Now, Dems go forum hunting, invent novel legal theories, and weaponize our courts like some 3rd world hellhole.  Disgraceful.<br></div>
+RT L JM🇺🇸<br>在美国曾有一段时间，检察官和司法部拒绝针对前总统。他们知道这会损害共和国。他们表现得很谨慎。现在，民主党人去论坛狩猎，发明新颖的法律理论，并将我们的法庭武器化，就像第三世界的地狱一样。可耻。<div class="rsshub-quote"><br><br>Charlie Kirk: There was a time in America where prosecutors and the DOJ refused to target ex-Presidents. They knew it would damage the republic. They showed prudence. Now, Dems go forum hunting, invent novel legal theories, and weaponize our courts like some 3rd world hellhole.  Disgraceful.<br></div>
 
 ### 14: [2023-03-20 21:33:33+08:00 推文](https://twitter.com/HeQinglian/status/1637809604271693825)
 
-美国自拜登上台后，攒足劲要与中国在非洲竞争，专门拨款成立机构；法国说要重回非洲（原来有不少殖民地），如今成了这局面。<br>拜粉们可以说非洲国家太Low，但在联合国，非联拥有56张选票。打群架时用得着。 https://twitter.com/Kanthan2030/status/1637726914386468864<div class="rsshub-quote"><br><br>S.L. Kanthan: 40 African countries are in Moscow today!! The conference is called “Russia-Africa in a Multipolar World.” <br><br>The Global South is ignoring Washington DC and its endless wars. There are bigger fish to fry.<br><br>The leaders of developing nations can now sense a new world of… https://twitter.com/i/web/status/1637726914386468864 https://t.co/Of9vVM3PjJ<br><br><img style="" src="https://pbs.twimg.com/media/Frpf8b7aYAIp3A_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+美国自拜登上台后，攒足劲要与中国在非洲竞争，专门拨款成立机构；法国说要重回非洲（原来有不少殖民地），如今成了这局面。<br>拜粉们可以说非洲国家太Low，但在联合国，非联拥有56张选票。打群架时用得着。<div class="rsshub-quote"><br><br>S.L. Kanthan: 40 African countries are in Moscow today!! The conference is called “Russia-Africa in a Multipolar World.” <br><br>The Global South is ignoring Washington DC and its endless wars. There are bigger fish to fry.<br><br>The leaders of developing nations can now sense a new world of… https://twitter.com/i/web/status/1637726914386468864 https://t.co/Of9vVM3PjJ<br><br><img style="" src="https://pbs.twimg.com/media/Frpf8b7aYAIp3A_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 15: [2023-03-20 21:37:45+08:00 推文](https://twitter.com/HeQinglian/status/1637810660510781441)
 
@@ -270,4 +270,16 @@ Re @Wu_Zhi @JianglinLi @david_david1968 @HongfuDing 最近据德国知识分子�
 ### 64: [2023-03-25 01:23:40+08:00 推文](https://twitter.com/HeQinglian/status/1639317065130557461)
 
 Re @Wu_Zhi 西班牙下半年是欧盟轮值主席，人家正想发挥主席的作用。<br>另外，荷兰那位首相大人，公开表示盼望习近平尽快给泽连斯基打电话，进入和谈。<br>为什么要习近平主动打？估计是泽想联系，没用，联系不上。得等习近平觉得时机到了，否则还是个谈不成。
+
+### 65: [2023-03-25 07:53:53+08:00 推文](https://twitter.com/HeQinglian/status/1639415266588196866)
+
+习普会传达的信息，美欧会前应猜到https://www.rfa.org/mandarin/pinglun/heqinglian/hql-03242023125009.html<br>习近平提出“俄乌和平建议”，不是希望美欧接受。在全球厌战之时，北京提出这一和平建议，其实是展现一种姿态，这姿态主要是秀给地球上的南方国家看，向世界发出信号，中国已具备军事和经济实力，可以开始塑造一个更符合其利益的世界。
+
+### 66: [2023-03-25 07:56:46+08:00 推文](https://twitter.com/HeQinglian/status/1639415994572480512)
+
+Re @JianglinLi @Wu_Zhi @david_david1968 @HongfuDing 小丑一个，粘着别人，指望有点热度。
+
+### 67: [2023-03-25 08:06:53+08:00 推文](https://twitter.com/HeQinglian/status/1639418539437113344)
+
+美国北约不赢就是输。理由：北约成员国经济总量占全球的约48%左右，俄GDP总量占全球不到2%；在全球军费开支方面，2021年，美国及北约盟国合计占全球军费开支的55%； 俄军费开支659亿美元，占全球军费总开支2万亿的3.3%。如果不能赢，美国的全球领导地位将形成极大的冲击力。https://www.rfa.org/mandarin/pinglun/heqinglian/hql-03242023125009.html<div class="rsshub-quote"><br><br>Ezio Mao☢: 许多美国高级军方和情报官员认为，乌克兰将无法再从当前的冲突中取得胜利。<br><br>“大部分乌克兰军队已经阵亡。在美国受训的最优秀的士兵要么阵亡，要么无法行动。没有人能抹杀乌克兰的英勇，但俄罗斯无论如何都有可能获胜，这要归功于压倒性的资源”Keith Kellogg中将表示。<br><br>https://www.americanthinker.com/blog/2023/03/it_slowly_dawns_on_the_west_that_ukraine_is_not_going_to_win.html<br></div>
 
