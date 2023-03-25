@@ -23,5 +23,5 @@ It's been almost half a year since @RishiSunak declared that he sees "Chinese Co
 
 ### 2: [2023-03-16 07:07:04+08:00 推文](https://twitter.com/nathanlawkc/status/1636141994593468416)
 
-So ridiculous.<div class="rsshub-quote"><br><br>Joey Siu 邵嵐🌻: Guess what — ⁦@BrownUniversity⁩ has invited the HKSAR’s former Chief Executive C.Y. Leung — who passionately campaigned for the CCP’s crackdown against Hong Kong’s human rights and genocide against Uyghurs to its 2023 #BrownChinaSummit. https://www.brownchinasummit.org/all-summits/2023<br></div>
+So ridiculous. https://twitter.com/jooeysiiu/status/1636049594684522496<div class="rsshub-quote"><br><br>Joey Siu 邵嵐🌻: Guess what — ⁦@BrownUniversity⁩ has invited the HKSAR’s former Chief Executive C.Y. Leung — who passionately campaigned for the CCP’s crackdown against Hong Kong’s human rights and genocide against Uyghurs to its 2023 #BrownChinaSummit. https://www.brownchinasummit.org/all-summits/2023<br></div>
 
