@@ -65,7 +65,7 @@ Re @Wazy1988bW @KELMAND1 别以为美国还能撑多少年。按拜登与民主�
 
 ### 13: [2023-03-20 12:21:56+08:00 推文](https://twitter.com/zhixiangziyou/status/1637670785887117313)
 
-RT L JM🇺🇸<br>在美国曾有一段时间，检察官和司法部拒绝针对前总统。他们知道这会损害共和国。他们表现得很谨慎。现在，民主党人去论坛狩猎，发明新颖的法律理论，并将我们的法庭武器化，就像第三世界的地狱一样。可耻。 https://twitter.com/charliekirk11/status/1637607766314618881<div class="rsshub-quote"><br><br>Charlie Kirk: There was a time in America where prosecutors and the DOJ refused to target ex-Presidents. They knew it would damage the republic. They showed prudence. Now, Dems go forum hunting, invent novel legal theories, and weaponize our courts like some 3rd world hellhole.  Disgraceful.<br></div>
+RT L JM🇺🇸<br>在美国曾有一段时间，检察官和司法部拒绝针对前总统。他们知道这会损害共和国。他们表现得很谨慎。现在，民主党人去论坛狩猎，发明新颖的法律理论，并将我们的法庭武器化，就像第三世界的地狱一样。可耻。<div class="rsshub-quote"><br><br>Charlie Kirk: There was a time in America where prosecutors and the DOJ refused to target ex-Presidents. They knew it would damage the republic. They showed prudence. Now, Dems go forum hunting, invent novel legal theories, and weaponize our courts like some 3rd world hellhole.  Disgraceful.<br></div>
 
 ### 14: [2023-03-20 21:33:33+08:00 推文](https://twitter.com/HeQinglian/status/1637809604271693825)
 
@@ -97,7 +97,7 @@ Re @mitolyu @Vince6610 @zhixiangziyou 明白了。不知她对简方达欢呼cov
 
 ### 21: [2023-03-21 01:51:55+08:00 推文](https://twitter.com/HeQinglian/status/1637874624951099397)
 
-2022年4月，拜登和他的政府发布了两份下属机构的文件，旨在支持和鼓励男孩和女孩进行化学和手术阉割，一份来自Office of Population Affairs，题为Gender-Affirming Care and Young People；另一份是Gender-Affirming Care is Trauma-Informed Care。 https://www.drjamesdobson.org/articles/bidens-radicalized-transgender-agenda-takes-full-aim-at-your-children<div class="rsshub-quote"><br><br>二大爷: 实在忍不住，我来给大家起底一下有些华人群体，欺负大家不懂英文，肆意在“儿童变性”这个话题上造谣的手段。图一是我所在的加州的州长纽森签署的法案。它正确的翻译是“纽森签署法案，使加州成为跨性别青年和家庭的避难所”。也就是说，这个法案的本意是保护那些“跨性别的青年和家庭”免受歧视。但在某些华… https://twitter.com/i/web/status/1637672806799507456 https://t.co/2JTeRQ9mCK<br><br><img style="" src="https://pbs.twimg.com/media/FrorHhMaQAE1o07?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrosNYDaUAEeB-Y?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrouZt6akAAVdwc?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+2022年4月，拜登和他的政府发布了两份下属机构的文件，旨在支持和鼓励男孩和女孩进行化学和手术阉割，一份来自Office of Population Affairs，题为Gender-Affirming Care and Young People；另一份是Gender-Affirming Care is Trauma-Informed Care。 https://www.drjamesdobson.org/articles/bidens-radicalized-transgender-agenda-takes-full-aim-at-your-children https://twitter.com/tankman2002/status/1637672806799507456<div class="rsshub-quote"><br><br>二大爷: 实在忍不住，我来给大家起底一下有些华人群体，欺负大家不懂英文，肆意在“儿童变性”这个话题上造谣的手段。图一是我所在的加州的州长纽森签署的法案。它正确的翻译是“纽森签署法案，使加州成为跨性别青年和家庭的避难所”。也就是说，这个法案的本意是保护那些“跨性别的青年和家庭”免受歧视。但在某些华… https://twitter.com/i/web/status/1637672806799507456 https://t.co/2JTeRQ9mCK<br><br><img style="" src="https://pbs.twimg.com/media/FrorHhMaQAE1o07?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrosNYDaUAEeB-Y?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrouZt6akAAVdwc?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 22: [2023-03-21 03:14:24+08:00 推文](https://twitter.com/HeQinglian/status/1637895384541417472)
 
@@ -153,7 +153,7 @@ Re @KELMAND1 @82WztfvhHqZz0Ub 纠正：是瑞信，The Credit Suisse。这次瑞
 
 ### 35: [2023-03-21 22:14:05+08:00 推文](https://twitter.com/JianglinLi/status/1638182192009412610)
 
-RT 李江琳<br>拜登的银行记录。这可真是鸡犬升天。<div class="rsshub-quote"><br><br>Oversight Committee: 🤥🤥🤥🤥<br> <br>We’ve got the bank records. https://t.co/yDYPcOxKYW<br><br><img style="" src="https://pbs.twimg.com/media/FrrHOJQXsAEhtZy?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT 李江琳<br>拜登的银行记录。这可真是鸡犬升天。 https://twitter.com/GOPoversight/status/1637840708726816779<div class="rsshub-quote"><br><br>Oversight Committee: 🤥🤥🤥🤥<br> <br>We’ve got the bank records. https://twitter.com/FoxNews/status/1637111635797061633 https://t.co/yDYPcOxKYW<br><br><img style="" src="https://pbs.twimg.com/media/FrrHOJQXsAEhtZy?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 36: [2023-03-22 03:38:21+08:00 推文](https://twitter.com/HeQinglian/status/1638263799399477249)
 
@@ -161,7 +161,7 @@ RT 李江琳<br>拜登的银行记录。这可真是鸡犬升天。<div class=
 
 ### 37: [2023-03-22 08:00:27+08:00 推文](https://twitter.com/HeQinglian/status/1638329758134984704)
 
-美国国务院发言人约翰·柯比：“LGBQI+的权利是美国的外交政策核心”。<div class="rsshub-quote"><br><br>Daily Wire: Kirby: "LGBTQ+ rights...are a core part of our foreign policy." <br>https://t.co/qfdXTr52B9<br><br><video src="https://video.twimg.com/ext_tw_video/1638265285164650508/pu/vid/720x406/XirVONbtsrH17VI7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1638265285164650508/pu/img/S1NR7Qa4_SPM3nDP.jpg"></video></div>
+美国国务院发言人约翰·柯比：“LGBQI+的权利是美国的外交政策核心”。 https://twitter.com/realDailyWire/status/1638267335634046978<div class="rsshub-quote"><br><br>Daily Wire: Kirby: "LGBTQ+ rights...are a core part of our foreign policy." <br>https://t.co/qfdXTr52B9<br><br><video src="https://video.twimg.com/ext_tw_video/1638265285164650508/pu/vid/720x406/XirVONbtsrH17VI7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1638265285164650508/pu/img/S1NR7Qa4_SPM3nDP.jpg"></video></div>
 
 ### 38: [2023-03-22 08:05:48+08:00 推文](https://twitter.com/HeQinglian/status/1638331101759299585)
 
@@ -249,7 +249,7 @@ RT 中国数字时代<br>Re https://chinadigitaltimes.net/chinese/675225.html
 
 ### 59: [2023-03-24 12:48:02+08:00 推文](https://twitter.com/zhixiangziyou/status/1639126903943737349)
 
-RT L JM🇺🇸<br>Gateway Pundit 报道了亚利桑那州参议院选举委员会的一项调查和介绍，该委员会估计 2022 年将有近 300,000 张选票无法通过签名验证标准。选票签名是证明选票是由真实选民投票的唯一方式。 https://twitter.com/dc_draino/status/1638751315294670848<div class="rsshub-quote"><br><br>DC_Draino: The Gateway Pundit reported on an investigation and presentation in the Arizona Senate Elections Committee, which estimated that nearly 300,000 ballots in 2022 would fail signature verification standards. Ballot signatures are the only way of proving that a ballot was cast by a… https://twitter.com/i/web/status/1638751315294670848<br></div>
+RT L JM🇺🇸<br>Gateway Pundit 报道了亚利桑那州参议院选举委员会的一项调查和介绍，该委员会估计 2022 年将有近 300,000 张选票无法通过签名验证标准。选票签名是证明选票是由真实选民投票的唯一方式。<div class="rsshub-quote"><br><br>DC_Draino: The Gateway Pundit reported on an investigation and presentation in the Arizona Senate Elections Committee, which estimated that nearly 300,000 ballots in 2022 would fail signature verification standards. Ballot signatures are the only way of proving that a ballot was cast by a… https://twitter.com/i/web/status/1638751315294670848<br></div>
 
 ### 60: [2023-03-24 21:25:55+08:00 推文](https://twitter.com/HeQinglian/status/1639257236177551361)
 
@@ -285,7 +285,7 @@ Re @JianglinLi @Wu_Zhi @david_david1968 @HongfuDing 小丑一个，粘着别人�
 
 ### 68: [2023-03-25 08:06:53+08:00 推文](https://twitter.com/HeQinglian/status/1639418539437113344)
 
-美国北约不赢就是输。理由：北约成员国经济总量占全球的约48%左右，俄GDP总量占全球不到2%；在全球军费开支方面，2021年，美国及北约盟国合计占全球军费开支的55%； 俄军费开支659亿美元，占全球军费总开支2万亿的3.3%。如果不能赢，美国的全球领导地位将形成极大的冲击力。https://www.rfa.org/mandarin/pinglun/heqinglian/hql-03242023125009.html https://twitter.com/KELMAND1/status/1639136603368202246<div class="rsshub-quote"><br><br>Ezio Mao☢: 许多美国高级军方和情报官员认为，乌克兰将无法再从当前的冲突中取得胜利。<br><br>“大部分乌克兰军队已经阵亡。在美国受训的最优秀的士兵要么阵亡，要么无法行动。没有人能抹杀乌克兰的英勇，但俄罗斯无论如何都有可能获胜，这要归功于压倒性的资源”Keith Kellogg中将表示。<br><br>https://www.americanthinker.com/blog/2023/03/it_slowly_dawns_on_the_west_that_ukraine_is_not_going_to_win.html<br></div>
+美国北约不赢就是输。理由：北约成员国经济总量占全球的约48%左右，俄GDP总量占全球不到2%；在全球军费开支方面，2021年，美国及北约盟国合计占全球军费开支的55%； 俄军费开支659亿美元，占全球军费总开支2万亿的3.3%。如果不能赢，美国的全球领导地位将形成极大的冲击力。https://www.rfa.org/mandarin/pinglun/heqinglian/hql-03242023125009.html<div class="rsshub-quote"><br><br>Ezio Mao☢: 许多美国高级军方和情报官员认为，乌克兰将无法再从当前的冲突中取得胜利。<br><br>“大部分乌克兰军队已经阵亡。在美国受训的最优秀的士兵要么阵亡，要么无法行动。没有人能抹杀乌克兰的英勇，但俄罗斯无论如何都有可能获胜，这要归功于压倒性的资源”Keith Kellogg中将表示。<br><br>https://www.americanthinker.com/blog/2023/03/it_slowly_dawns_on_the_west_that_ukraine_is_not_going_to_win.html<br></div>
 
 ### 69: [2023-03-25 09:24:21+08:00 推文](https://twitter.com/HeQinglian/status/1639438036810252288)
 
@@ -294,4 +294,24 @@ Re @Wu_Zhi 2009年在夏威夷APEC峰会上，中国外交部官员提出中国�
 ### 70: [2023-03-25 09:52:16+08:00 推文](https://twitter.com/HeQinglian/status/1639445061594148868)
 
 Re @Lucs24659702 俄乌战争没赢，内部分裂四起。
+
+### 71: [2023-03-25 21:28:43+08:00 推文](https://twitter.com/HeQinglian/status/1639620326836391936)
+
+Re @JieyangJay 北约近30国，有想打的，如波兰（政府与人民意见不一致）、波罗的海三国，有不想打的。<br>再打下去，就是能不能活下去的问题。<br>“不自由，勿宁死”——假想俄罗斯占领后的可怕前景是种动员方式，效果多大，试后就知。
+
+### 72: [2023-03-25 21:32:23+08:00 推文](https://twitter.com/HeQinglian/status/1639621251290243072)
+
+Re @kbclindy 这在战争开头最初半个月，我就写文章讲过，这是资源大国（全球范围内不算穷）与资源需求国之间的战争，时间不在后者这边。<br>更何况，西方对中国的盘算，始终带有侥幸心理：知道不会站到西方阵营，但以为可以吓阻。他们强化了俄中矛盾的一面，认为中国希望通过战争削弱俄罗斯。
+
+### 73: [2023-03-25 21:34:43+08:00 推文](https://twitter.com/HeQinglian/status/1639621836429295618)
+
+Re @seeyoua22819375 如果美国不领头，打不起来。<br>但是原东欧与中欧国家一直有恐俄症，地理越近，越恐惧。<br>俄罗斯与北约，其实是双方谁退让一步，谁就被吃。
+
+### 74: [2023-03-25 21:39:53+08:00 推文](https://twitter.com/HeQinglian/status/1639623137376567299)
+
+Re @Wu_Zhi 到2010年代，欧洲只剩下三优势：<br>1、德国在制造业顶端的技术优势；<br>2、英国未退欧前，金融中心优势；<br>3、西方国家的民主（道德）优势。<br>因此，德国于2013年开始，无中生有地缔造绿色能源话题，想利用巴黎气候协议的碳排放额度分配，让后发展国家交钱（当然会累及美澳这两西方资源大国），但美有话事权
+
+### 75: [2023-03-25 21:49:34+08:00 推文](https://twitter.com/HeQinglian/status/1639625575240171523)
+
+Re @Wu_Zhi 输血又不是现在或者从此之后。<br>西方启动SWIFT制裁之后，中俄联手迅速开启BRICKS内部支付系统，中国加大从俄罗斯购买便宜能源，那时就已经开始。<br>不少人一直忙于强调中国买能源不能解决俄罗斯的经济困难，末法子。2022年，俄军费897亿美元，只比2021年659亿增加200多亿，应该是库存用上了。
 
