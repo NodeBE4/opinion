@@ -33,7 +33,7 @@ An official commentary published yesterday in the CCP's official People’s Dail
 
 ### 5: [2023-01-09 18:10:52+08:00 推文](https://twitter.com/yilingliu95/status/1612391447453659136)
 
-RT Yi-Ling Liu<br>Update: It's my first day as the China Editor at @restofworld! Looking forward to working closely with @violazhouyi &amp; the ROW dream team to cover China's ever-shifting tech landscape! <a href="https://twitter.com/AnupKaphle/status/1559523568454713344" target="_blank" rel="noopener noreferrer">https://twitter.com/AnupKaphle/status/1559523568454713344</a>
+RT Yi-Ling Liu<br>Update: It's my first day as the China Editor at @restofworld! Looking forward to working closely with @violazhouyi &amp; the ROW dream team to cover China's ever-shifting tech landscape!<br><br>Anup Kaphle: ~ some very exciting hiring news ~<br><br>I'm elated to announce that Yi-Ling Liu (@yilingliu95) will join Rest of World as our China Editor, taking charge of our growing China coverage at the beginning of next year.<br>
 
 ### 6: [2023-01-10 15:17:07+08:00 推文](https://twitter.com/YianLee6/status/1612710111734267909)
 
@@ -45,5 +45,5 @@ RT Emily Feng 冯哲芸<br>A publishing editor. An accountant and rock music f
 
 ### 8: [2023-01-12 05:44:02+08:00 推文](https://twitter.com/EmilyZFeng/status/1613290662237032479)
 
-RT Emily Feng 冯哲芸<br>Re One anecdote that has left me shaken: this woman on this @derspiegel cover was also arrested. She found herself at the vigil by accident: "I drink every weekend, but the police didn't believe that I was just drinking there. They think I am the organizer." https://www.spiegel.de/spiegel/print/index-2022-49.html
+RT Emily Feng 冯哲芸<br>Re One anecdote that has left me shaken: this woman on this @derspiegel cover was also arrested. She found herself at the vigil by accident: "I drink every weekend, but the police didn't believe that I was just drinking there. They think I am the organizer." <a href="https://www.spiegel.de/spiegel/print/index-2022-49.html" target="_blank" rel="noopener noreferrer">https://www.spiegel.de/spiegel/print/index-2022-49.html</a>
 
