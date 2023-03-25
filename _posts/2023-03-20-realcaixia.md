@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2023-03-20~2023-03-26'
 
 ### 1: [2023-03-20 03:23:04+08:00 推文](https://twitter.com/realcaixia/status/1637535174052446208)
 
-高瑜大姐多多保重。杜光老先生唱“茶馆小调”我也在场，印象很深。我是后知后觉，我当时只理解q歌词的字面意思。<br>现在想来鲍彤、杜光、蒋彦永等老一代，1940年代是他们青春岁月，他们反抗蒋国民党政府禁言；到了耄耋之年，他们反抗习与中共禁言，老先生唱这歌，实质是总结了他们的一生。令人感慨万千！<div class="rsshub-quote"><br><br>高瑜: 2022年張思之、蔣宗曹、鮑彤三位先生相繼去世，我都被站崗，都被阻止參加告別式，禁止送花圈。送別鮑老那天，國保竟然來了十個人，還從派出所叫來十個片警，揚言要拘捕我兒子，讓我再一次嘗試專政鐵拳。今年兩會被旅遊中，蔣彥永、杜光先生又相繼去世，我更被禁言，我的痛苦像再一次經歷了六四，那年 https://t.co/sbzNfWuIA5<br><br><img style="" src="https://pbs.twimg.com/media/FrkUWYuaUAAWjYp?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrkVO_zaEAA4PPL?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrkXT2waYAcvzw7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+高瑜大姐多多保重。杜光老先生唱“茶馆小调”我也在场，印象很深。我是后知后觉，我当时只理解q歌词的字面意思。<br>现在想来鲍彤、杜光、蒋彦永等老一代，1940年代是他们青春岁月，他们反抗蒋国民党政府禁言；到了耄耋之年，他们反抗习与中共禁言，老先生唱这歌，实质是总结了他们的一生。令人感慨万千！ https://twitter.com/gaoyu200812/status/1637381346401349638<div class="rsshub-quote"><br><br>高瑜: 2022年張思之、蔣宗曹、鮑彤三位先生相繼去世，我都被站崗，都被阻止參加告別式，禁止送花圈。送別鮑老那天，國保竟然來了十個人，還從派出所叫來十個片警，揚言要拘捕我兒子，讓我再一次嘗試專政鐵拳。今年兩會被旅遊中，蔣彥永、杜光先生又相繼去世，我更被禁言，我的痛苦像再一次經歷了六四，那年 https://t.co/sbzNfWuIA5<br><br><img style="" src="https://pbs.twimg.com/media/FrkUWYuaUAAWjYp?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrkVO_zaEAA4PPL?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrkXT2waYAcvzw7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 2: [2023-03-20 04:37:09+08:00 推文](https://twitter.com/realcaixia/status/1637553819340120065)
 
@@ -33,15 +33,15 @@ Re 举中国2020年癌症发病数和死亡数为证：中国新发癌症人数�
 
 ### 5: [2023-03-20 05:21:59+08:00 推文](https://twitter.com/realcaixia/status/1637565100554059776)
 
-说得好！“吃着乌克兰人用生命换来的粮食，不存感念反而支持普京侵略乌克兰，良心何在？” https://twitter.com/zhangdong_sch/status/1637439035873406976<div class="rsshub-quote"><br><br>ZHANGDONG: 这是联合国组织今年一月发布的乌克兰粮食出口数据。从图表中可见中国是乌克兰农粮作物第二大进口国。大陆挺俄反乌的中国人请扪心自问，你们吃着乌克兰人用生命换来的粮食，不存感念反而支持普京侵略乌克兰，良心何在？中国欠乌克兰一个公道！中国政府必须立即停止支持普京战犯！顺应世界潮流者得人心。 https://t.co/giHhuaNh6G<br><br><img style="" src="https://pbs.twimg.com/media/FrlaH-HXwAERSCZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+说得好！“吃着乌克兰人用生命换来的粮食，不存感念反而支持普京侵略乌克兰，良心何在？”<div class="rsshub-quote"><br><br>ZHANGDONG: 这是联合国组织今年一月发布的乌克兰粮食出口数据。从图表中可见中国是乌克兰农粮作物第二大进口国。大陆挺俄反乌的中国人请扪心自问，你们吃着乌克兰人用生命换来的粮食，不存感念反而支持普京侵略乌克兰，良心何在？中国欠乌克兰一个公道！中国政府必须立即停止支持普京战犯！顺应世界潮流者得人心。 https://t.co/giHhuaNh6G<br><br><img style="" src="https://pbs.twimg.com/media/FrlaH-HXwAERSCZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 6: [2023-03-20 05:35:39+08:00 推文](https://twitter.com/realcaixia/status/1637568542647390208)
 
-说得好！中共国所有问题的根源都在于政治，在于中共党，在于这党统治国家的制度和党内的权力结构与组织机制。习上台后，这些问题不仅没有解决还加上一条：党魁独裁，无法无天无底线。 https://twitter.com/rongjian1957/status/1637260587792052226<div class="rsshub-quote"><br><br>荣剑: 稍有常识的人，都看出大国问题的实质:消费不振，投资不力，信心不足，预期不好，究其终极原因，都是政治问题。中国经济学，不是政治经济学，其实就是政治学，只有政治，没有经济。 https://t.co/TcDQD4D1ji<br><br><img style="" src="https://pbs.twimg.com/media/Fri3zP3XgAAzdMq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fri30NqXwAIMQbg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+说得好！中共国所有问题的根源都在于政治，在于中共党，在于这党统治国家的制度和党内的权力结构与组织机制。习上台后，这些问题不仅没有解决还加上一条：党魁独裁，无法无天无底线。<div class="rsshub-quote"><br><br>荣剑: 稍有常识的人，都看出大国问题的实质:消费不振，投资不力，信心不足，预期不好，究其终极原因，都是政治问题。中国经济学，不是政治经济学，其实就是政治学，只有政治，没有经济。 https://t.co/TcDQD4D1ji<br><br><img style="" src="https://pbs.twimg.com/media/Fri3zP3XgAAzdMq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fri30NqXwAIMQbg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 7: [2023-03-20 06:13:42+08:00 推文](https://twitter.com/realcaixia/status/1637578118721576962)
 
-确有其事，按中共党内习惯说法就是：选举出了问题”或“出了事故”，后来就改成声、市、县委书记兼任人大常委会主任，直接控制选举。<div class="rsshub-quote"><br><br>Ignatius Lee 🚁🌋☭⃠: 一九九三年，中国浙江和贵州两省意外出现了“民选省长”意外当选的 #选举事故。当时中国名义上推行差额选举：由中组部提名指定候选人，搭配一名“陪跑”候选人；按惯例“陪跑”候选人是不可以当选的。但在这两起 #民主事故 中，两名“陪跑省长”意外当选，令中央大为不快，此后“差额选举”就被视为洪水猛兽。<br></div>
+确有其事，按中共党内习惯说法就是：选举出了问题”或“出了事故”，后来就改成声、市、县委书记兼任人大常委会主任，直接控制选举。 https://twitter.com/22homopoliticus/status/1637381324087369728<div class="rsshub-quote"><br><br>Ignatius Lee 🚁🌋☭⃠: 一九九三年，中国浙江和贵州两省意外出现了“民选省长”意外当选的 #选举事故。当时中国名义上推行差额选举：由中组部提名指定候选人，搭配一名“陪跑”候选人；按惯例“陪跑”候选人是不可以当选的。但在这两起 #民主事故 中，两名“陪跑省长”意外当选，令中央大为不快，此后“差额选举”就被视为洪水猛兽。<br></div>
 
 ### 8: [2023-03-20 15:46:23+08:00 推文](https://twitter.com/realcaixia/status/1637722239041667073)
 
@@ -57,11 +57,11 @@ Re 举中国2020年癌症发病数和死亡数为证：中国新发癌症人数�
 
 ### 11: [2023-03-20 23:50:28+08:00 推文](https://twitter.com/realcaixia/status/1637844061930528768)
 
-十年功夫败光了30多年积累的财富，不够挥霍撒币了，就抢。从强抢民企的私人财产到抢老人的医保费到抢储户的存款…… https://twitter.com/cskun1989/status/1637678280466923520<div class="rsshub-quote"><br><br>蔡慎坤: 留任的财政部长刘昆最近喊话要做好长期过苦日子的准备，看来这话不是说着玩的，1-2月全国消费税降18.4%，个税降4%，增值税降21.6%，关税降27%，城建税降10.5%，车辆税降32.8%，印花税降31.3%，证券印花税降61.7%，土地增值税降22.4%，房产税降22.9%，土地出让金降29%，环保税降11.1%。这日子怎么过？<br></div>
+十年功夫败光了30多年积累的财富，不够挥霍撒币了，就抢。从强抢民企的私人财产到抢老人的医保费到抢储户的存款……<div class="rsshub-quote"><br><br>蔡慎坤: 留任的财政部长刘昆最近喊话要做好长期过苦日子的准备，看来这话不是说着玩的，1-2月全国消费税降18.4%，个税降4%，增值税降21.6%，关税降27%，城建税降10.5%，车辆税降32.8%，印花税降31.3%，证券印花税降61.7%，土地增值税降22.4%，房产税降22.9%，土地出让金降29%，环保税降11.1%。这日子怎么过？<br></div>
 
 ### 12: [2023-03-21 00:56:42+08:00 推文](https://twitter.com/realcaixia/status/1637860729947824135)
 
-我很同意这个观点。在自由民主国家，寻找一份工作，有了收入支撑自己的生活，在此基础上努力为促进祖国实现宪政民主做好自己该做的能做的事。如不能解决好自己的生计，依靠各种捐助款生活的人，即便想为自由民主而努力也是走不远的。<div class="rsshub-quote"><br><br>一剑飘尘 007: 昨天见到一个我们同一个时代的哥们，非常成功的生意人，非常支持民主运动。从这个哥们身上，验证了我一直劝导民主圈年轻人的话：追求民主和发家致富不矛盾！追求民主是理念，现实生活也要做好。只有自己事业成功的，追求民主才真正是出于初心。不要把自己现实生活中的失败，都归结为专制制度。<br></div>
+我很同意这个观点。在自由民主国家，寻找一份工作，有了收入支撑自己的生活，在此基础上努力为促进祖国实现宪政民主做好自己该做的能做的事。如不能解决好自己的生计，依靠各种捐助款生活的人，即便想为自由民主而努力也是走不远的。 https://twitter.com/yjpc007/status/1637846481947471875<div class="rsshub-quote"><br><br>一剑飘尘 007: 昨天见到一个我们同一个时代的哥们，非常成功的生意人，非常支持民主运动。从这个哥们身上，验证了我一直劝导民主圈年轻人的话：追求民主和发家致富不矛盾！追求民主是理念，现实生活也要做好。只有自己事业成功的，追求民主才真正是出于初心。不要把自己现实生活中的失败，都归结为专制制度。<br></div>
 
 ### 13: [2023-03-21 01:20:01+08:00 推文](https://twitter.com/realcaixia/status/1637866597091278848)
 
@@ -109,7 +109,7 @@ Re 拖到今天才转发芳菲和程晓农老师的访谈上下集。这期访�
 
 ### 24: [2023-03-23 04:45:24+08:00 推文](https://twitter.com/realcaixia/status/1638643060774158336)
 
-窗帘拉开了还能再拉上，同样一国历史进一步退两步也成现实。<br>曾以为改革开放拥抱现代文明了，就会一直往前走，现实却并非如此。2014年行走伊朗，硬生生的看到拥抱了现代文明还会再退到神权时期；回头看中国，曾经走出了帝制拥抱共和，1949后再退回帝国皇权——；1978开了国门，2012以后习朝要半关半开。 https://twitter.com/XIAOMIEHM/status/1638284397341298695<div class="rsshub-quote"><br><br>罗翔: 邪恶组织专门拉开窗帘再拉上窗帘，反复如此循环！😂😂😂😂😂😄！<br>这位教授的讲课方式令人叫绝，但这个故事更触动我的是:窗帘拉开了还能再拉上…… https://t.co/7WyDuTF3ev<br><br><img style="" src="https://pbs.twimg.com/media/Frxa-QkXoAAhaf4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+窗帘拉开了还能再拉上，同样一国历史进一步退两步也成现实。<br>曾以为改革开放拥抱现代文明了，就会一直往前走，现实却并非如此。2014年行走伊朗，硬生生的看到拥抱了现代文明还会再退到神权时期；回头看中国，曾经走出了帝制拥抱共和，1949后再退回帝国皇权——；1978开了国门，2012以后习朝要半关半开。<div class="rsshub-quote"><br><br>罗翔: 邪恶组织专门拉开窗帘再拉上窗帘，反复如此循环！😂😂😂😂😂😄！<br>这位教授的讲课方式令人叫绝，但这个故事更触动我的是:窗帘拉开了还能再拉上…… https://t.co/7WyDuTF3ev<br><br><img style="" src="https://pbs.twimg.com/media/Frxa-QkXoAAhaf4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 25: [2023-03-23 11:23:02+08:00 推文](https://twitter.com/realcaixia/status/1638743126352486401)
 
@@ -117,11 +117,11 @@ Re @ChanrichAmy 手术成功了！真是很暖心的好消息🌹🌹。祝贺�
 
 ### 26: [2023-03-23 11:30:17+08:00 推文](https://twitter.com/realcaixia/status/1638744949821956099)
 
-邹幸彤香港青年的人格典范。<div class="rsshub-quote"><br><br>《议报》: 邹幸彤 | 法庭陈词 https://yibaochina.com/?p=249820 当人民在权力面前变得愈来愈透明，但权力却在人民面前变得愈来愈不透明的时候，人民就不再是国家的主人，而是国家的奴隶。而“国家安全”亦只会成为掩饰这种奴役的借口。<br></div>
+邹幸彤香港青年的人格典范。 https://twitter.com/yibaochina/status/1638672411393392640<div class="rsshub-quote"><br><br>《议报》: 邹幸彤 | 法庭陈词 https://yibaochina.com/?p=249820 当人民在权力面前变得愈来愈透明，但权力却在人民面前变得愈来愈不透明的时候，人民就不再是国家的主人，而是国家的奴隶。而“国家安全”亦只会成为掩饰这种奴役的借口。<br></div>
 
 ### 27: [2023-03-23 11:32:45+08:00 推文](https://twitter.com/realcaixia/status/1638745572256669700)
 
-华人网友可能用拼多多的多，需要高度重视个人信息安全。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 拼多多app有病毒嫌疑，被谷歌禁止！<br><br>TikTok next?! And wechat?!<br><br>https://www.cbsnews.com/news/pinduoduo-google-play-suspension-malware-chinese-shopping-app-tiktok/?ftag=CNM-00-10aac3a<br></div>
+华人网友可能用拼多多的多，需要高度重视个人信息安全。 https://twitter.com/yibao_en/status/1638559959108419590<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 拼多多app有病毒嫌疑，被谷歌禁止！<br><br>TikTok next?! And wechat?!<br><br>https://www.cbsnews.com/news/pinduoduo-google-play-suspension-malware-chinese-shopping-app-tiktok/?ftag=CNM-00-10aac3a<br></div>
 
 ### 28: [2023-03-23 11:39:15+08:00 推文](https://twitter.com/realcaixia/status/1638747209612300289)
 
@@ -129,11 +129,11 @@ Re @ChanrichAmy 手术成功了！真是很暖心的好消息🌹🌹。祝贺�
 
 ### 29: [2023-03-23 11:47:45+08:00 推文](https://twitter.com/realcaixia/status/1638749346283008002)
 
-岸田文雄有政治家的胆略和气魄。<div class="rsshub-quote"><br><br>WeiXin Art: 日本首相岸田文雄周二突访乌克兰首都基辅。这是自俄入侵乌克兰以来，日本领导人首次访问乌克兰。岸田文雄在访问印度后飞往波兰，随后乘火车前往基辅。他前往被指发生俄军屠杀平民惨案的布查镇悼念遇难者。随后他与乌克兰总统泽连斯基举行了会谈。<br><br>配图：iPad绘画 https://t.co/X55xxqEQln<br><br><img style="" src="https://pbs.twimg.com/media/Fr00hIwXgAAkSiS?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+岸田文雄有政治家的胆略和气魄。 https://twitter.com/weixinart/status/1638523587828109312<div class="rsshub-quote"><br><br>WeiXin Art: 日本首相岸田文雄周二突访乌克兰首都基辅。这是自俄入侵乌克兰以来，日本领导人首次访问乌克兰。岸田文雄在访问印度后飞往波兰，随后乘火车前往基辅。他前往被指发生俄军屠杀平民惨案的布查镇悼念遇难者。随后他与乌克兰总统泽连斯基举行了会谈。<br><br>配图：iPad绘画 https://t.co/X55xxqEQln<br><br><img style="" src="https://pbs.twimg.com/media/Fr00hIwXgAAkSiS?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 30: [2023-03-24 01:34:26+08:00 推文](https://twitter.com/realcaixia/status/1638957390677549060)
 
-拿镜中花水中月搞大忽悠已经蒙不住人了。看看台湾人的生活实实在在是啥样的，他们手里的选票实实在在地决定总统是谁，他们的护照实实在在地拿在自己手里，去世界旅游免签、落地签或电子签证入境的国家多达146个，完全涵盖欧美发达国家。再看看中国人过的是啥日子，有没有真选票，出境入境是啥样的<div class="rsshub-quote"><br><br>jason hu: https://t.co/JD42PRBxfB<br><br><img style="" src="https://pbs.twimg.com/media/Fr39GeJWYAAfsJg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+拿镜中花水中月搞大忽悠已经蒙不住人了。看看台湾人的生活实实在在是啥样的，他们手里的选票实实在在地决定总统是谁，他们的护照实实在在地拿在自己手里，去世界旅游免签、落地签或电子签证入境的国家多达146个，完全涵盖欧美发达国家。再看看中国人过的是啥日子，有没有真选票，出境入境是啥样的 https://twitter.com/jason27873170/status/1638744130837700612<div class="rsshub-quote"><br><br>jason hu: https://t.co/JD42PRBxfB<br><br><img style="" src="https://pbs.twimg.com/media/Fr39GeJWYAAfsJg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 31: [2023-03-24 01:55:35+08:00 推文](https://twitter.com/realcaixia/status/1638962710967644169)
 
@@ -141,7 +141,7 @@ Re @ChanrichAmy 手术成功了！真是很暖心的好消息🌹🌹。祝贺�
 
 ### 32: [2023-03-24 03:23:16+08:00 推文](https://twitter.com/realcaixia/status/1638984777377239042)
 
-一个小粉红被专政铁拳砸醒了。警察抓他，非要给他按个“罪名”，以强词夺理说抓他“合理合法”。他从此就有了“污点记录”，这会影响到他的一生生活和前途。<br>希望更多的年轻人醒悟过来。在一个无法治，无公开透明，无言论自由，无人权保障的国度里，今天发生在别人身上的事，说不定明天就发生在你身上。 https://twitter.com/tgtm_official/status/1637997459854221312<div class="rsshub-quote"><br><br>The Great Translation Movement 大翻译运动官方推号: A 22 years old boy who live in Shanghai  taken away by the police due to some unreasonable charges<br><br>#大翻译运动<br>#TheGreatTranslationMovement <br>#大翻譯運動 https://t.co/HpOJEaKq42<br><br><img style="" src="https://pbs.twimg.com/media/FrtNwvTXsAAKVlb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrtNwvNX0AECNiV?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+一个小粉红被专政铁拳砸醒了。警察抓他，非要给他按个“罪名”，以强词夺理说抓他“合理合法”。他从此就有了“污点记录”，这会影响到他的一生生活和前途。<br>希望更多的年轻人醒悟过来。在一个无法治，无公开透明，无言论自由，无人权保障的国度里，今天发生在别人身上的事，说不定明天就发生在你身上。 https://twitter.com/tgtm_official/status/1637997459854221312
 
 ### 33: [2023-03-24 08:10:05+08:00 推文](https://twitter.com/realcaixia/status/1639056958576791554)
 
@@ -161,7 +161,7 @@ Re @zhaochangqing89 是胡石根长老。在京时就多次听说过他的名字
 
 ### 37: [2023-03-25 02:01:52+08:00 推文](https://twitter.com/realcaixia/status/1639326679343542273)
 
-列宁主义政党及以党领导一切（统治一切）为核心的极权国家，如何推倒极权制度实现政治转型，既是长时段的学术性话题，也是事关极权国家民众命运、事关全球秩序与世界和平的最重大的政治议题。<br>特别最近的普习会中习说“共同推动未有之百年大变局”，更使人们无法否认邪恶的“房间里的大象”。<br>特推荐一读<div class="rsshub-quote"><br><br>《议报》: 周舵 | 俄罗斯未竟的革命——读书报告之二十三 https://yibaochina.com/?p=249833 俄乌战争充分表明俄罗斯民主转型的失败，这对中国未来的现代化转型极具借鉴意义，所以我选这本《俄罗斯未竟的革命》（美国斯坦福大学教授M.麦克福尔著，上海人民出版社2014年出版）介绍给大家。<br></div>
+列宁主义政党及以党领导一切（统治一切）为核心的极权国家，如何推倒极权制度实现政治转型，既是长时段的学术性话题，也是事关极权国家民众命运、事关全球秩序与世界和平的最重大的政治议题。<br>特别最近的普习会中习说“共同推动未有之百年大变局”，更使人们无法否认邪恶的“房间里的大象”。<br>特推荐一读 https://twitter.com/yibaochina/status/1639320436193230862<div class="rsshub-quote"><br><br>《议报》: 周舵 | 俄罗斯未竟的革命——读书报告之二十三 https://yibaochina.com/?p=249833 俄乌战争充分表明俄罗斯民主转型的失败，这对中国未来的现代化转型极具借鉴意义，所以我选这本《俄罗斯未竟的革命》（美国斯坦福大学教授M.麦克福尔著，上海人民出版社2014年出版）介绍给大家。<br></div>
 
 ### 38: [2023-03-25 02:16:22+08:00 推文](https://twitter.com/realcaixia/status/1639330327750377485)
 
