@@ -37,7 +37,7 @@ title: 'Twitter @蔡霞: 2021-12-20~2021-12-26'
 
 ### 6: [2021-12-21 22:50:29+08:00 推文](https://twitter.com/realcaixia/status/1473304874343448582)
 
-每日一推。<br><br>施明磊 #释放长沙公益仨: #每日一推要求程渊吴葛健雄的家属探视权和律师会见权 （12月21日第12推）<br>湖南省司法厅范运田厅长，湖南两年花了3000多万建成的视频会见系统，为啥不能支持程渊、吴葛健雄的视频会见？<br><br>程渊、吴葛健雄被秘密转去监狱3个多月了，至今禁止家属探视。<br>节后，我们家属将申请信息公开，看看这系统的猫腻<br><br><img style="" src="https://pbs.twimg.com/media/FHEgLnAWYAIe0_k?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHEgLm9WYAwLoh_?format=jpg&name=orig" referrerpolicy="no-referrer">
+每日一推。<br><br>施明磊 #释放长沙公益仨: #每日一推要求程渊吴葛健雄的家属探视权和律师会见权 （12月21日第12推）<br>湖南省司法厅范运田厅长，湖南两年花了3000多万建成的视频会见系统，为啥不能支持程渊、吴葛健雄的视频会见？<br><br>程渊、吴葛健雄被秘密转去监狱3个多月了，至今禁止家属探视。<br>节后，我们家属将申请信息公开，看看这系统的猫腻<br><br><img style src="https://pbs.twimg.com/media/FHEgLnAWYAIe0_k?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHEgLm9WYAwLoh_?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2021-12-22 19:24:00+08:00 推文](https://twitter.com/realcaixia/status/1473615298032975873)
 
@@ -81,7 +81,7 @@ Re @JIEDU4 看来你是个假基督徒！
 
 ### 17: [2021-12-24 12:11:37+08:00 推文](https://twitter.com/realcaixia/status/1474231262449741828)
 
-什么都不用说，一目了然。<br><br>李其 Lizzi: 习李差异…<br><br><img style src="https://pbs.twimg.com/media/FHSIIWnXIAANdD5?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHSIIXkWQAg1hGm?format=jpg&name=orig" referrerpolicy="no-referrer">
+什么都不用说，一目了然。<br><br>李其 Lizzi: 习李差异…<br><br><img style="" src="https://pbs.twimg.com/media/FHSIIWnXIAANdD5?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHSIIXkWQAg1hGm?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2021-12-24 22:14:56+08:00 推文](https://twitter.com/realcaixia/status/1474383092206944271)
 
@@ -101,7 +101,7 @@ Re @JIEDU4 看来你是个假基督徒！
 
 ### 22: [2021-12-25 20:42:00+08:00 推文](https://twitter.com/realcaixia/status/1474722093417877509)
 
-2021年上海圣诞节节日布置。上海与北京显然不同调。<br>还记得1991年春节一过上海皇浦平文章横空出世震动北京嚒？<br><img style src="https://pbs.twimg.com/media/FHdD7NOWYAEj67X?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHdD7YdXoAcWCGw?format=jpg&name=orig" referrerpolicy="no-referrer">
+2021年上海圣诞节节日布置。上海与北京显然不同调。<br>还记得1991年春节一过上海皇浦平文章横空出世震动北京嚒？<br><img style="" src="https://pbs.twimg.com/media/FHdD7NOWYAEj67X?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHdD7YdXoAcWCGw?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 23: [2021-12-25 21:56:49+08:00 推文](https://twitter.com/realcaixia/status/1474740919501037570)
 
@@ -137,11 +137,11 @@ Re 有跟帖说林郑坐的也是雕龙椅。对，全图显示所有参与者�
 
 ### 31: [2021-12-26 00:12:16+08:00 推文](https://twitter.com/realcaixia/status/1474775009465970697)
 
-Re 请看这张全图。参会的人坐的椅子与习近平是一样的吗？如果还要睁眼说瞎话，不是装瞎就是蠢坏兼备。<br><img style src="https://pbs.twimg.com/media/FHd0DeRWQA0ASgu?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re 请看这张全图。参会的人坐的椅子与习近平是一样的吗？如果还要睁眼说瞎话，不是装瞎就是蠢坏兼备。<br><img style="" src="https://pbs.twimg.com/media/FHd0DeRWQA0ASgu?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 32: [2021-12-26 00:19:25+08:00 推文](https://twitter.com/realcaixia/status/1474776807601811459)
 
-前三句很有名，体制内流传甚广，唯冰心老人一问，丝毫没有听说。“无士则亡”！而今一语成谶！<br><br>高伐林: 转贴——<br><br><img style="" src="https://pbs.twimg.com/media/FHaQXV_XsAUUmZx?format=jpg&name=orig" referrerpolicy="no-referrer">
+前三句很有名，体制内流传甚广，唯冰心老人一问，丝毫没有听说。“无士则亡”！而今一语成谶！<br><br>高伐林: 转贴——<br><br><img style src="https://pbs.twimg.com/media/FHaQXV_XsAUUmZx?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 33: [2021-12-26 01:24:29+08:00 推文](https://twitter.com/realcaixia/status/1474793179966853123)
 
@@ -165,7 +165,7 @@ Re @LipingHuang7 低端人口這詞是習在一次會議上首說，隨後就被
 
 ### 38: [2021-12-26 09:43:57+08:00 推文](https://twitter.com/realcaixia/status/1474918875292749827)
 
-1991年12/25這一天，前蘇共解體，迄今30年。<br><br>大耳朵猫妹: 原来历史上的今天还这么有意义<br><br><img style="" src="https://pbs.twimg.com/media/FHdzpL-XsAYSgg2?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHdzpXYWQAMzRfV?format=jpg&name=orig" referrerpolicy="no-referrer">
+1991年12/25這一天，前蘇共解體，迄今30年。<br><br>大耳朵猫妹: 原来历史上的今天还这么有意义<br><br><img style src="https://pbs.twimg.com/media/FHdzpL-XsAYSgg2?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHdzpXYWQAMzRfV?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 39: [2021-12-26 22:32:03+08:00 推文](https://twitter.com/realcaixia/status/1475112175861653514)
 
