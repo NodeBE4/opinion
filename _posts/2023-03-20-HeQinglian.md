@@ -327,3 +327,15 @@ Re @Wu_Zhi @styraxemma 还以为自己知道得特别多，特别饶舌。<br>�
 
 Re @KELMAND1 近20年欧美教育Baby化，都是哄劝形式。这些人在这种环境中浸久了，连办外交也是Baby方式。一哄二吓三安慰（包括自我安慰：孩子都是这样的，长大懂事后就好了）。<br>中国走到今天，与“老师”很有关系。
 
+### 79: [2023-03-26 04:30:30+08:00 推文](https://twitter.com/HeQinglian/status/1639726471236272129)
+
+Re @rqliang @Lucs24659702 正在进行中，你看结果就是。
+
+### 80: [2023-03-26 04:36:58+08:00 推文](https://twitter.com/HeQinglian/status/1639728100358475778)
+
+Re @JianglinLi @zhixiangziyou 好象最后都是某个左派政党向他输诚，让他赢了。<br>说明左派知道他是一路人。<br>有部法国政治连续剧《幕后枭雄 》，非常直观地展现了法国大选中的各种玩法。<br>选票换席位，就是法国的玩法。德国是另一类。
+
+### 81: [2023-03-26 05:03:55+08:00 推文](https://twitter.com/HeQinglian/status/1639734883827302400)
+
+Daily  Mail独家：<br>理查德·巴伦斯将军警告说，俄罗斯构成的威胁不容忽视，英国需要普京提前 10 年发出通知，以便英国做好准备击退俄罗斯的入侵。<br>他说“在冷战时期，军队随时可以在几个小时内做好战斗准备。”现在英国军队情况严重恶化，苏纳克只准备再投入 50 亿英镑用于国防<br>https://www.dailymail.co.uk/news/article-11899089/Britain-need-10-years-notice-Putin-repel-Russian-invasion-warns-General.html
+
