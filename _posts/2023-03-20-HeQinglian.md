@@ -113,7 +113,7 @@ Re @mitolyu @gvkJVjo3J0BIJod 我那时才十岁。
 
 ### 25: [2023-03-21 08:12:33+08:00 推文](https://twitter.com/HeQinglian/status/1637970414532980736)
 
-从2012年开始，加州成为儿童LGBTQ教育的实验场<br>1、United Nations Educational, Scientific and Cultural Organization Education sector responses to homophobic bullying (chi), ISBN :978-92-3-001185-7, Year of publication :2012, 2013 https://unesdoc.unesco.org/ark:/48223/pf0000216493_chi <br>2、https://sd11.senate.ca.gov/news/20220803-senator-wiener%E2%80%99s-bill-provide-refuge-trans-kids-and-their-families-passes-final ) https://twitter.com/HeQinglian/status/1637874624951099397<div class="rsshub-quote"><br><br>He Qinglian: 2022年4月，拜登和他的政府发布了两份下属机构的文件，旨在支持和鼓励男孩和女孩进行化学和手术阉割，一份来自Office of Population Affairs，题为Gender-Affirming Care and Young People；另一份是Gender-Affirming Care is Trauma-Informed Care。 https://www.drjamesdobson.org/articles/bidens-radicalized-transgender-agenda-takes-full-aim-at-your-children https://twitter.com/tankman2002/status/1637672806799507456<br></div>
+从2012年开始，加州成为儿童LGBTQ教育的实验场<br>1、United Nations Educational, Scientific and Cultural Organization Education sector responses to homophobic bullying (chi), ISBN :978-92-3-001185-7, Year of publication :2012, 2013 https://unesdoc.unesco.org/ark:/48223/pf0000216493_chi <br>2、https://sd11.senate.ca.gov/news/20220803-senator-wiener%E2%80%99s-bill-provide-refuge-trans-kids-and-their-families-passes-final )<div class="rsshub-quote"><br><br>He Qinglian: 2022年4月，拜登和他的政府发布了两份下属机构的文件，旨在支持和鼓励男孩和女孩进行化学和手术阉割，一份来自Office of Population Affairs，题为Gender-Affirming Care and Young People；另一份是Gender-Affirming Care is Trauma-Informed Care。 https://www.drjamesdobson.org/articles/bidens-radicalized-transgender-agenda-takes-full-aim-at-your-children<br></div>
 
 ### 26: [2023-03-21 08:13:12+08:00 推文](https://twitter.com/HeQinglian/status/1637970579100778501)
 
@@ -153,7 +153,7 @@ Re @KELMAND1 @82WztfvhHqZz0Ub 纠正：是瑞信，The Credit Suisse。这次瑞
 
 ### 35: [2023-03-21 22:14:05+08:00 推文](https://twitter.com/JianglinLi/status/1638182192009412610)
 
-RT 李江琳<br>拜登的银行记录。这可真是鸡犬升天。 https://twitter.com/GOPoversight/status/1637840708726816779<div class="rsshub-quote"><br><br>Oversight Committee: 🤥🤥🤥🤥<br> <br>We’ve got the bank records. https://twitter.com/FoxNews/status/1637111635797061633 https://t.co/yDYPcOxKYW<br><br><img style="" src="https://pbs.twimg.com/media/FrrHOJQXsAEhtZy?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT 李江琳<br>拜登的银行记录。这可真是鸡犬升天。<div class="rsshub-quote"><br><br>Oversight Committee: 🤥🤥🤥🤥<br> <br>We’ve got the bank records. https://t.co/yDYPcOxKYW<br><br><img style="" src="https://pbs.twimg.com/media/FrrHOJQXsAEhtZy?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 36: [2023-03-22 03:38:21+08:00 推文](https://twitter.com/HeQinglian/status/1638263799399477249)
 

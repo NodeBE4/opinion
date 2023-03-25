@@ -77,7 +77,7 @@ Re @qihang19211 我未使用中国居民负债金额这个概念。<br>文中说
 
 ### 16: [2023-02-28 05:28:48+08:00 推文](https://twitter.com/HeQinglian/status/1630319059936899072)
 
-一战爆发后，列宁写了数篇文章，《革命的社会民主党在欧洲大战中的任务》（即“关于战争的提纲”），并以此为基础写了《战争和俄国社会民主党》。这两篇文献确定了这场战争的性质：资产阶级、帝国主义、王朝战争的性质，是非正义的。列宁提出“变帝国主义战争为国内战争”的口号，反沙俄的内战是正义的。 https://twitter.com/HeQinglian/status/1630225930181328896<div class="rsshub-quote"><br><br>He Qinglian: @zhuxiuyuan 你独独忘记了《明斯克协议》，现在默克尔都承认当初签订时并未打算遵守，只是希望赢得时间壮大乌克兰的军事实力。<br>建议你学学美国智库的地缘政治理论，从布热津斯基开始，否则这辈子都只会列宁的战争正义-非正义论。<br></div>
+一战爆发后，列宁写了数篇文章，《革命的社会民主党在欧洲大战中的任务》（即“关于战争的提纲”），并以此为基础写了《战争和俄国社会民主党》。这两篇文献确定了这场战争的性质：资产阶级、帝国主义、王朝战争的性质，是非正义的。列宁提出“变帝国主义战争为国内战争”的口号，反沙俄的内战是正义的。<div class="rsshub-quote"><br><br>He Qinglian: @zhuxiuyuan 你独独忘记了《明斯克协议》，现在默克尔都承认当初签订时并未打算遵守，只是希望赢得时间壮大乌克兰的军事实力。<br>建议你学学美国智库的地缘政治理论，从布热津斯基开始，否则这辈子都只会列宁的战争正义-非正义论。<br></div>
 
 ### 17: [2023-02-28 05:32:44+08:00 推文](https://twitter.com/HeQinglian/status/1630320048488214529)
 
@@ -273,7 +273,7 @@ Re @shenliangqing2 这在2020年时，推上某维律代表民主党与NGO通知
 
 ### 65: [2023-03-01 08:34:13+08:00 推文](https://twitter.com/HeQinglian/status/1630728109057101824)
 
-NATO Expansion: What Gorbachev Heard<br>https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early <br>共计30个文件，就是备忘录。当然，不是中文的，自己慢慢看。<br>这是我第三次推送给你，去年劝你了解情况时一次，都附了尊推号，<br>@zhuxiuyuan<br>今天上午推送，你连打开都不肯。<div class="rsshub-quote"><br><br>竺修远律师: @Nobody197575 @HeQinglian 没有条约、备忘录等书面协议。<br></div>
+NATO Expansion: What Gorbachev Heard<br>https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early <br>共计30个文件，就是备忘录。当然，不是中文的，自己慢慢看。<br>这是我第三次推送给你，去年劝你了解情况时一次，都附了尊推号，<br>@zhuxiuyuan<br>今天上午推送，你连打开都不肯。 https://twitter.com/zhuxiuyuan/status/1630723092942036993<div class="rsshub-quote"><br><br>竺修远律师: @Nobody197575 @HeQinglian 没有条约、备忘录等书面协议。<br></div>
 
 ### 66: [2023-03-01 08:59:24+08:00 推文](https://twitter.com/HeQinglian/status/1630734448818806785)
 
@@ -533,7 +533,7 @@ Re @mafeife52494712 @eGUAbe2V7j26GHw 有些了解，也有茶具（现小茶台�
 
 ### 130: [2023-03-03 05:10:48+08:00 推文](https://twitter.com/HeQinglian/status/1631401695430209536)
 
-看了各国企业破产数据，只能说，重组全球产业链多年未成，一场战争打破原有格局，企业破产只是第一步。<br>欧洲尤其是德国受影响最大，其余的算是次级影响。<div class="rsshub-quote"><br><br>Ezio Mao☢: 欧盟企业的破产申请在 2022 年第四季度大幅增加，达到 2015 年开始收集数据以来的历史新高。 https://t.co/WuMDuIbKPz<br><br><img style="" src="https://pbs.twimg.com/media/FqOXq2QacAMad-D?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+看了各国企业破产数据，只能说，重组全球产业链多年未成，一场战争打破原有格局，企业破产只是第一步。<br>欧洲尤其是德国受影响最大，其余的算是次级影响。 https://twitter.com/KELMAND1/status/1631314256825303040<div class="rsshub-quote"><br><br>Ezio Mao☢: 欧盟企业的破产申请在 2022 年第四季度大幅增加，达到 2015 年开始收集数据以来的历史新高。 https://t.co/WuMDuIbKPz<br><br><img style="" src="https://pbs.twimg.com/media/FqOXq2QacAMad-D?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 131: [2023-03-03 05:39:37+08:00 推文](https://twitter.com/HeQinglian/status/1631408946496905244)
 
@@ -561,11 +561,11 @@ Re @eGUAbe2V7j26GHw @mafeife52494712 🤣🤣<br>你喜欢就好，毕竟是自�
 
 ### 137: [2023-03-03 07:22:41+08:00 推文](https://twitter.com/HeQinglian/status/1631434882839724037)
 
-这是重申美国欧亚地缘政治战略的要点，当时美国提出欧亚大战略之时，是全球化刚结束的1990年代中期。中国那时连经济起飞都没起步。<br>如今美国、中国国力大变，美国重提旧事，只是重温往时旧梦，告诉中国，别忘记不久之前你还穷得很。<div class="rsshub-quote"><br><br>franz: “中国需要接受美国是亚洲的领导者”<br><br>刚看到这个新闻，我以为是假的😓，于是跑去搜索了一下，结果居然是真事儿。。<br><br>其实这种话仔细品一品，能品出说的人内心的不自信。但又好面儿，结果就跟电影里的桥段似的，跪在地上死乞白赖求中国让中国认他做大哥。<br><br>真的，大人，时代变了。 https://t.co/275epFFNcq<br><br><img style="" src="https://pbs.twimg.com/media/FqNaWL5aMAE3qna?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+这是重申美国欧亚地缘政治战略的要点，当时美国提出欧亚大战略之时，是全球化刚结束的1990年代中期。中国那时连经济起飞都没起步。<br>如今美国、中国国力大变，美国重提旧事，只是重温往时旧梦，告诉中国，别忘记不久之前你还穷得很。 https://twitter.com/franz_X_T/status/1631246830964215808<div class="rsshub-quote"><br><br>franz: “中国需要接受美国是亚洲的领导者”<br><br>刚看到这个新闻，我以为是假的😓，于是跑去搜索了一下，结果居然是真事儿。。<br><br>其实这种话仔细品一品，能品出说的人内心的不自信。但又好面儿，结果就跟电影里的桥段似的，跪在地上死乞白赖求中国让中国认他做大哥。<br><br>真的，大人，时代变了。 https://t.co/275epFFNcq<br><br><img style="" src="https://pbs.twimg.com/media/FqNaWL5aMAE3qna?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 138: [2023-03-03 07:26:53+08:00 推文](https://twitter.com/HeQinglian/status/1631435940848627712)
 
-欲知今日事，需问过来人。<br>欧亚地缘政治，美国太多智库著述，米尔斯海默曾有过推测，中国GDP到某个段位，就会出现这种情况。其实中国行动之时，GDP总量比他讲了大了不少。<br>我改天找出原文。网络时代最大的特点就是忽视前贤智慧。 https://twitter.com/Nobody197575/status/1631323211345563648<div class="rsshub-quote"><br><br>热血汉奸吴三桂: 黄左最气愤的就是俄罗斯和支共苟合，殊不知支共，俄罗斯才是真正的同床异梦，抱团取暖，彼此需求，俄罗斯只是表面上的文章，骨子里下手一点不客气，n次炮击大支渔民就是明证，美帝对古巴渔民都没有那么狠，更别提对大英渔民了，大支和美帝看起来吵吵嚷嚷，他们才是万年一条心的亲爹亲儿子关系 https://twitter.com/zengjieming/status/1631319343177891840<br></div>
+欲知今日事，需问过来人。<br>欧亚地缘政治，美国太多智库著述，米尔斯海默曾有过推测，中国GDP到某个段位，就会出现这种情况。其实中国行动之时，GDP总量比他讲了大了不少。<br>我改天找出原文。网络时代最大的特点就是忽视前贤智慧。<div class="rsshub-quote"><br><br>热血汉奸吴三桂: 黄左最气愤的就是俄罗斯和支共苟合，殊不知支共，俄罗斯才是真正的同床异梦，抱团取暖，彼此需求，俄罗斯只是表面上的文章，骨子里下手一点不客气，n次炮击大支渔民就是明证，美帝对古巴渔民都没有那么狠，更别提对大英渔民了，大支和美帝看起来吵吵嚷嚷，他们才是万年一条心的亲爹亲儿子关系<br></div>
 
 ### 139: [2023-03-03 09:17:47+08:00 推文](https://twitter.com/HeQinglian/status/1631463848774434816)
 

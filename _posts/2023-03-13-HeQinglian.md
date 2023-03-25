@@ -29,7 +29,7 @@ Re @_HicRhodus 所有人佩服奥巴马以前的美国宪政文明，是佩服�
 
 ### 4: [2023-03-13 03:38:35+08:00 推文](https://twitter.com/HeQinglian/status/1635002366494908418)
 
-留言中有位“老枪”，非得将挺川与挺拜当作挺个人，这种见识太差劲了。<br>其实就我而言，是支持川普的政治主张与相关政策，以及这种主张与政策对传统生活方式的守护。挺拜的人也同样如此，是支持拜登政治主张与政策对美国传统生活方式的颠覆。<br>我相信多数挺川的都如此。<div class="rsshub-quote"><br><br>He Qinglian: 今天看到华拜粉在某处留言，说学问大挺川，说明学问让人糊涂。<br>在媒体一片声黑化川普及其政策时，挺川不仅需要起码的知识与常识，还需要思考。不比挺拜与民主党，只需要认同移民无国界与福利，学几句人道口号，会举拳头就行了。<br></div>
+留言中有位“老枪”，非得将挺川与挺拜当作挺个人，这种见识太差劲了。<br>其实就我而言，是支持川普的政治主张与相关政策，以及这种主张与政策对传统生活方式的守护。挺拜的人也同样如此，是支持拜登政治主张与政策对美国传统生活方式的颠覆。<br>我相信多数挺川的都如此。 https://twitter.com/HeQinglian/status/1634910100367511558<div class="rsshub-quote"><br><br>He Qinglian: 今天看到华拜粉在某处留言，说学问大挺川，说明学问让人糊涂。<br>在媒体一片声黑化川普及其政策时，挺川不仅需要起码的知识与常识，还需要思考。不比挺拜与民主党，只需要认同移民无国界与福利，学几句人道口号，会举拳头就行了。<br></div>
 
 ### 5: [2023-03-13 03:44:13+08:00 推文](https://twitter.com/HeQinglian/status/1635003784526196739)
 
@@ -37,7 +37,7 @@ Re @DZhe1984 @Isabel_3299 左派一向玩名实脱离伎俩，当一个名词好
 
 ### 6: [2023-03-13 03:46:28+08:00 推文](https://twitter.com/HeQinglian/status/1635004348504887296)
 
-就我而言，是支持川普的政治主张与相关政策，以及这种主张与政策对传统生活方式的守护。挺拜的人也同样如此，是支持拜登政治主张与政策对美国传统生活方式的颠覆。<br>我相信多数挺川的都如此。<br>你的留言证明你的水平。<div class="rsshub-quote"><br><br>老枪: @HeQinglian 挺拜的都认为拜是有缺陷的，挺川的都认为川是完美的。<br></div>
+就我而言，是支持川普的政治主张与相关政策，以及这种主张与政策对传统生活方式的守护。挺拜的人也同样如此，是支持拜登政治主张与政策对美国传统生活方式的颠覆。<br>我相信多数挺川的都如此。<br>你的留言证明你的水平。 https://twitter.com/akakak474747/status/1634986969536270338<div class="rsshub-quote"><br><br>老枪: @HeQinglian 挺拜的都认为拜是有缺陷的，挺川的都认为川是完美的。<br></div>
 
 ### 7: [2023-03-13 03:50:15+08:00 推文](https://twitter.com/HeQinglian/status/1635005299668160512)
 
@@ -585,7 +585,7 @@ Re @O43DGSy2NA4BdKf 好，如此甚好。法事做完了，请通知一声。�
 
 ### 143: [2023-03-16 03:58:53+08:00 推文](https://twitter.com/HeQinglian/status/1636094638594441216)
 
-民主党当政，掠财明目张胆。<br>比如白宫决定全额赔付SVB储户开了个危险的先例，因为联邦储蓄保险的赔付从来都有上限。<br>纽约邮报等因此去挖这家银行的背景，硅谷银行的 12 位董事当中，有人是奥克拜三位总统与舒默的超级捐款人，有位是奥前官员，还有一位是波洛西邻居——纳帕谷葡萄园的主人。<br>储户都有谁？<div class="rsshub-quote"><br><br>Lucs: 民主党国会议员的慈善机构在开曼群岛拥有超过3000万美元<br><br>代表Daniel Goldman（纽约州民主党）的非营利组织Richard W.据福克斯新闻报道，高盛家庭基金会报告称，在开曼群岛组织了价值超过3200万美元的投资。<br> https://www.oann.com/newsroom/democrat-congressmans-charity-has-more-than-30-million-in-cayman-islands/<br></div>
+民主党当政，掠财明目张胆。<br>比如白宫决定全额赔付SVB储户开了个危险的先例，因为联邦储蓄保险的赔付从来都有上限。<br>纽约邮报等因此去挖这家银行的背景，硅谷银行的 12 位董事当中，有人是奥克拜三位总统与舒默的超级捐款人，有位是奥前官员，还有一位是波洛西邻居——纳帕谷葡萄园的主人。<br>储户都有谁？ https://twitter.com/Lucs24659702/status/1636061969538244623<div class="rsshub-quote"><br><br>Lucs: 民主党国会议员的慈善机构在开曼群岛拥有超过3000万美元<br><br>代表Daniel Goldman（纽约州民主党）的非营利组织Richard W.据福克斯新闻报道，高盛家庭基金会报告称，在开曼群岛组织了价值超过3200万美元的投资。<br> https://www.oann.com/newsroom/democrat-congressmans-charity-has-more-than-30-million-in-cayman-islands/<br></div>
 
 ### 144: [2023-03-16 04:09:15+08:00 推文](https://twitter.com/HeQinglian/status/1636097246390255617)
 
@@ -633,7 +633,7 @@ Re @SSK2024 他要表达的，正是主流媒体要表达的。
 
 ### 155: [2023-03-16 09:03:50+08:00 推文](https://twitter.com/zhixiangziyou/status/1636171379736182784)
 
-RT L JM🇺🇸<br>1/ THREAD 🚨 #TwitterFiles<br><br>@elonmusk将 CISA 审查网络抨击为“宣传平台”。<br><br>这个由国土安全部支持的审查联盟使用了 120 名分析师来审查数百万关于选举和 covid-19 的社交媒体帖子。<div class="rsshub-quote"><br><br>kanekoa.substack.com: 1/ THREAD🚨 #TwitterFiles<br><br>@elonmusk slams CISA censorship network as 'propaganda platform.'<br><br>This DHS-backed censorship consortium used 120 analysts to censor millions of social media posts on elections and covid-19.<br><br>https://kanekoa.substack.com/p/elon-musk-slams-cisa-censorship-network<br></div>
+RT L JM🇺🇸<br>1/ THREAD 🚨 #TwitterFiles<br><br>@elonmusk将 CISA 审查网络抨击为“宣传平台”。<br><br>这个由国土安全部支持的审查联盟使用了 120 名分析师来审查数百万关于选举和 covid-19 的社交媒体帖子。 https://twitter.com/kanekoathegreat/status/1608231209875963904<div class="rsshub-quote"><br><br>kanekoa.substack.com: 1/ THREAD🚨 #TwitterFiles<br><br>@elonmusk slams CISA censorship network as 'propaganda platform.'<br><br>This DHS-backed censorship consortium used 120 analysts to censor millions of social media posts on elections and covid-19.<br><br>https://kanekoa.substack.com/p/elon-musk-slams-cisa-censorship-network<br></div>
 
 ### 156: [2023-03-16 10:52:46+08:00 推文](https://twitter.com/shenliangqing2/status/1636198795330609152)
 
@@ -813,7 +813,7 @@ Re @shenliangqing2 他当年在挺郭兴奋期也曾发表一段攻击我的视�
 
 ### 200: [2023-03-17 02:06:04+08:00 推文](https://twitter.com/zhixiangziyou/status/1636428635354611744)
 
-RT L JM🇺🇸<br>爆炸性报告：银行记录显示罗伯·沃克是拜登家族的同伙，他利用他的公司从一家中国能源公司向哈莉·拜登、詹姆斯·拜登、亨特·拜登和另一个“不知名的拜登”转账。<div class="rsshub-quote"><br><br>Chuck Callesto: BREAKING REPORT: Bank records emerge identifying Rob Walker, A BIDEN FAMILY ASSOCIATE used his company to transfer money FROM A CHINESE ENERGY COMPANY to Hallie Biden, James Biden, Hunter Biden, and another “unknown Biden.”<br></div>
+RT L JM🇺🇸<br>爆炸性报告：银行记录显示罗伯·沃克是拜登家族的同伙，他利用他的公司从一家中国能源公司向哈莉·拜登、詹姆斯·拜登、亨特·拜登和另一个“不知名的拜登”转账。 https://twitter.com/chuckcallesto/status/1636424667689889793<div class="rsshub-quote"><br><br>Chuck Callesto: BREAKING REPORT: Bank records emerge identifying Rob Walker, A BIDEN FAMILY ASSOCIATE used his company to transfer money FROM A CHINESE ENERGY COMPANY to Hallie Biden, James Biden, Hunter Biden, and another “unknown Biden.”<br></div>
 
 ### 201: [2023-03-17 02:06:17+08:00 推文](https://twitter.com/HeQinglian/status/1636428690824339457)
 
