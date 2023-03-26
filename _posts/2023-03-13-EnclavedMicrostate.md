@@ -201,3 +201,9 @@ Huh, I completely missed The Discourse on that. RWBY pivoting from 'the plot is 
 
 Oddly, CR has comments for RWBY going back to 2013, so I don't know how recent that 4.5 rating is or if it's genuinely the cumulative average over a decade.
 
+----- __1147.18__ -----2023-03-26 11:00:55+08:00:
+
+So on the one hand, I do agree – there is nothing groundbreaking here, and the show's let's say slow-burn approach, short seasons, and long production lead times have not helped it in just falling behind of the rest of the web media scene.
+
+That said, I feel like The Discourse isn't so much 'this is a step forward for representation' as it is, 'it's really cathartic that it has finally happened.' (Or should I say cat-heart-ic given that Yang's logo is a heart and Blake is... er... look just ignore me okay)
+
