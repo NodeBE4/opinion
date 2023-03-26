@@ -169,7 +169,7 @@ Re 各位推友，拜登今天仍然说对华政策没变。<br>拜粉可以说�
 
 ### 39: [2023-03-08 09:41:16+08:00 推文](https://twitter.com/HeQinglian/status/1633281700389109760)
 
-这事，德国人信了就行。毕竟，需要美国这位盟友兼大哥，北溪事件的真相是什么不重要，德国人愿意相信什么最重要。<br>ZELT这篇报道，属于德国人正想打瞌睡，立刻有人送上枕头之类。<div class="rsshub-quote"><br><br>绫波: 🇩🇪德国《ZELT》：<br><br>ZEIT确定了据称用于秘密行动的船只是从波兰一家公司租来的游艇显然是两名乌克兰人所有。是由一个五男一女六人小组执行的。一名船长两名潜水员两名潜水助理和一名医生将炸药运到犯罪现场并放置在那里。肇事者的国籍不清楚，袭击者使用专业伪造的护照除其他外还被用来租船 https://t.co/Zt5vzwjWDA<br><br><img style="" src="https://pbs.twimg.com/media/Fqp7QFraMAEUsSV?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+这事，德国人信了就行。毕竟，需要美国这位盟友兼大哥，北溪事件的真相是什么不重要，德国人愿意相信什么最重要。<br>ZELT这篇报道，属于德国人正想打瞌睡，立刻有人送上枕头之类。 https://twitter.com/dinglili7/status/1633253353756172288<div class="rsshub-quote"><br><br>绫波: 🇩🇪德国《ZELT》：<br><br>ZEIT确定了据称用于秘密行动的船只是从波兰一家公司租来的游艇显然是两名乌克兰人所有。是由一个五男一女六人小组执行的。一名船长两名潜水员两名潜水助理和一名医生将炸药运到犯罪现场并放置在那里。肇事者的国籍不清楚，袭击者使用专业伪造的护照除其他外还被用来租船 https://t.co/Zt5vzwjWDA<br><br><img style="" src="https://pbs.twimg.com/media/Fqp7QFraMAEUsSV?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 40: [2023-03-08 18:57:26+08:00 推文](https://twitter.com/fading_you1/status/1633421661679628289)
 
@@ -393,7 +393,7 @@ Re @CoffeeBallad 刘本来就是垃圾，你原来是垃圾中的垃圾。
 
 ### 95: [2023-03-11 21:39:16+08:00 推文](https://twitter.com/HeQinglian/status/1634549551502598144)
 
-这帖有趣，需要回答：<br>挺川至少是正常人，有正常家庭，不吸毒，不乱伦，不腐败，人家夫人不会70岁的学16岁小姑娘打扮。<br>挺拜的人，且不论lgb，主要喜欢Trans（特喜欢诱导未成年人变性），鼓励全民吸大麻甚至吸毒，还特别喜欢BLM零元购，通货膨胀，将弗洛伊德当英雄。<br>这已经是正常人类与反人类的区别。<div class="rsshub-quote"><br><br>David: @HeQinglian 您伉俪夫妇是挺川黑拜专业户哈，是什么原因让你们如此无脑？<br></div>
+这帖有趣，需要回答：<br>挺川至少是正常人，有正常家庭，不吸毒，不乱伦，不腐败，人家夫人不会70岁的学16岁小姑娘打扮。<br>挺拜的人，且不论lgb，主要喜欢Trans（特喜欢诱导未成年人变性），鼓励全民吸大麻甚至吸毒，还特别喜欢BLM零元购，通货膨胀，将弗洛伊德当英雄。<br>这已经是正常人类与反人类的区别。 https://twitter.com/David02366662/status/1634478540216479747<div class="rsshub-quote"><br><br>David: @HeQinglian 您伉俪夫妇是挺川黑拜专业户哈，是什么原因让你们如此无脑？<br></div>
 
 ### 96: [2023-03-11 21:44:20+08:00 推文](https://twitter.com/HeQinglian/status/1634550826977882113)
 
