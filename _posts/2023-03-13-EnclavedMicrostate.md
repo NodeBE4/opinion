@@ -187,3 +187,17 @@ I'm surprised I forgot that one given that I saw that thread too – I upvoted s
 
 I recall Headhunter Productions, a PNGTuber who used to do short-form bad movie reviews and now mostly does D&D, was hacked a while back. I also recall there was a terrain-building channel along the lines of 'No Game Without Terrain' (or maybe that was the name of its series) that has since been lost to the void because it was hacked a couple of years after they ceased uploading. It's something that comes in waves and usually affects smaller channels.
 
+----- __1147.15__ -----2023-03-26 10:42:30+08:00:
+
+No spoilers, but I watched the episode and... I'm not crying you're crying.
+
+----- __1147.16__ -----2023-03-26 10:48:27+08:00:
+
+> bad animation
+
+Huh, I completely missed The Discourse on that. RWBY pivoting from 'the plot is there to give some tenuous backing to the fight scenes' to 'this is a worldbuilding-heavy show with a character focus and less fight stuff' between V3 and V4 is pretty well known, so I wasn't surprised about the writing-related comments on V8, which commits to the path set down from V4 onward. But I hadn't heard about animation issues.
+
+----- __1147.17__ -----2023-03-26 10:49:24+08:00:
+
+Oddly, CR has comments for RWBY going back to 2013, so I don't know how recent that 4.5 rating is or if it's genuinely the cumulative average over a decade.
+

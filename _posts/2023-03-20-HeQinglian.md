@@ -65,11 +65,11 @@ Re @Wazy1988bW @KELMAND1 别以为美国还能撑多少年。按拜登与民主�
 
 ### 13: [2023-03-20 12:21:56+08:00 推文](https://twitter.com/zhixiangziyou/status/1637670785887117313)
 
-RT L JM🇺🇸<br>在美国曾有一段时间，检察官和司法部拒绝针对前总统。他们知道这会损害共和国。他们表现得很谨慎。现在，民主党人去论坛狩猎，发明新颖的法律理论，并将我们的法庭武器化，就像第三世界的地狱一样。可耻。<div class="rsshub-quote"><br><br>Charlie Kirk: There was a time in America where prosecutors and the DOJ refused to target ex-Presidents. They knew it would damage the republic. They showed prudence. Now, Dems go forum hunting, invent novel legal theories, and weaponize our courts like some 3rd world hellhole.  Disgraceful.<br></div>
+RT L JM🇺🇸<br>在美国曾有一段时间，检察官和司法部拒绝针对前总统。他们知道这会损害共和国。他们表现得很谨慎。现在，民主党人去论坛狩猎，发明新颖的法律理论，并将我们的法庭武器化，就像第三世界的地狱一样。可耻。 https://twitter.com/charliekirk11/status/1637607766314618881<div class="rsshub-quote"><br><br>Charlie Kirk: There was a time in America where prosecutors and the DOJ refused to target ex-Presidents. They knew it would damage the republic. They showed prudence. Now, Dems go forum hunting, invent novel legal theories, and weaponize our courts like some 3rd world hellhole.  Disgraceful.<br></div>
 
 ### 14: [2023-03-20 21:33:33+08:00 推文](https://twitter.com/HeQinglian/status/1637809604271693825)
 
-美国自拜登上台后，攒足劲要与中国在非洲竞争，专门拨款成立机构；法国说要重回非洲（原来有不少殖民地），如今成了这局面。<br>拜粉们可以说非洲国家太Low，但在联合国，非联拥有56张选票。打群架时用得着。<div class="rsshub-quote"><br><br>S.L. Kanthan: 40 African countries are in Moscow today!! The conference is called “Russia-Africa in a Multipolar World.” <br><br>The Global South is ignoring Washington DC and its endless wars. There are bigger fish to fry.<br><br>The leaders of developing nations can now sense a new world of… https://twitter.com/i/web/status/1637726914386468864 https://t.co/Of9vVM3PjJ<br><br><img style="" src="https://pbs.twimg.com/media/Frpf8b7aYAIp3A_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+美国自拜登上台后，攒足劲要与中国在非洲竞争，专门拨款成立机构；法国说要重回非洲（原来有不少殖民地），如今成了这局面。<br>拜粉们可以说非洲国家太Low，但在联合国，非联拥有56张选票。打群架时用得着。 https://twitter.com/Kanthan2030/status/1637726914386468864<div class="rsshub-quote"><br><br>S.L. Kanthan: 40 African countries are in Moscow today!! The conference is called “Russia-Africa in a Multipolar World.” <br><br>The Global South is ignoring Washington DC and its endless wars. There are bigger fish to fry.<br><br>The leaders of developing nations can now sense a new world of… https://twitter.com/i/web/status/1637726914386468864 https://t.co/Of9vVM3PjJ<br><br><img style="" src="https://pbs.twimg.com/media/Frpf8b7aYAIp3A_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 15: [2023-03-20 21:37:45+08:00 推文](https://twitter.com/HeQinglian/status/1637810660510781441)
 
@@ -153,7 +153,7 @@ Re @KELMAND1 @82WztfvhHqZz0Ub 纠正：是瑞信，The Credit Suisse。这次瑞
 
 ### 35: [2023-03-21 22:14:05+08:00 推文](https://twitter.com/JianglinLi/status/1638182192009412610)
 
-RT 李江琳<br>拜登的银行记录。这可真是鸡犬升天。<div class="rsshub-quote"><br><br>Oversight Committee: 🤥🤥🤥🤥<br> <br>We’ve got the bank records. https://t.co/yDYPcOxKYW<br><br><img style="" src="https://pbs.twimg.com/media/FrrHOJQXsAEhtZy?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT 李江琳<br>拜登的银行记录。这可真是鸡犬升天。 https://twitter.com/GOPoversight/status/1637840708726816779<div class="rsshub-quote"><br><br>Oversight Committee: 🤥🤥🤥🤥<br> <br>We’ve got the bank records. https://twitter.com/FoxNews/status/1637111635797061633 https://t.co/yDYPcOxKYW<br><br><img style="" src="https://pbs.twimg.com/media/FrrHOJQXsAEhtZy?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 36: [2023-03-22 03:38:21+08:00 推文](https://twitter.com/HeQinglian/status/1638263799399477249)
 
@@ -161,7 +161,7 @@ RT 李江琳<br>拜登的银行记录。这可真是鸡犬升天。<div class=
 
 ### 37: [2023-03-22 08:00:27+08:00 推文](https://twitter.com/HeQinglian/status/1638329758134984704)
 
-美国国务院发言人约翰·柯比：“LGBQI+的权利是美国的外交政策核心”。 https://twitter.com/realDailyWire/status/1638267335634046978<div class="rsshub-quote"><br><br>Daily Wire: Kirby: "LGBTQ+ rights...are a core part of our foreign policy." <br>https://t.co/qfdXTr52B9<br><br><video src="https://video.twimg.com/ext_tw_video/1638265285164650508/pu/vid/720x406/XirVONbtsrH17VI7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1638265285164650508/pu/img/S1NR7Qa4_SPM3nDP.jpg"></video></div>
+美国国务院发言人约翰·柯比：“LGBQI+的权利是美国的外交政策核心”。<div class="rsshub-quote"><br><br>Daily Wire: Kirby: "LGBTQ+ rights...are a core part of our foreign policy." <br>https://t.co/qfdXTr52B9<br><br><video src="https://video.twimg.com/ext_tw_video/1638265285164650508/pu/vid/720x406/XirVONbtsrH17VI7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1638265285164650508/pu/img/S1NR7Qa4_SPM3nDP.jpg"></video></div>
 
 ### 38: [2023-03-22 08:05:48+08:00 推文](https://twitter.com/HeQinglian/status/1638331101759299585)
 
@@ -249,7 +249,7 @@ RT 中国数字时代<br>Re https://chinadigitaltimes.net/chinese/675225.html
 
 ### 59: [2023-03-24 12:48:02+08:00 推文](https://twitter.com/zhixiangziyou/status/1639126903943737349)
 
-RT L JM🇺🇸<br>Gateway Pundit 报道了亚利桑那州参议院选举委员会的一项调查和介绍，该委员会估计 2022 年将有近 300,000 张选票无法通过签名验证标准。选票签名是证明选票是由真实选民投票的唯一方式。<div class="rsshub-quote"><br><br>DC_Draino: The Gateway Pundit reported on an investigation and presentation in the Arizona Senate Elections Committee, which estimated that nearly 300,000 ballots in 2022 would fail signature verification standards. Ballot signatures are the only way of proving that a ballot was cast by a… https://twitter.com/i/web/status/1638751315294670848<br></div>
+RT L JM🇺🇸<br>Gateway Pundit 报道了亚利桑那州参议院选举委员会的一项调查和介绍，该委员会估计 2022 年将有近 300,000 张选票无法通过签名验证标准。选票签名是证明选票是由真实选民投票的唯一方式。 https://twitter.com/dc_draino/status/1638751315294670848<div class="rsshub-quote"><br><br>DC_Draino: The Gateway Pundit reported on an investigation and presentation in the Arizona Senate Elections Committee, which estimated that nearly 300,000 ballots in 2022 would fail signature verification standards. Ballot signatures are the only way of proving that a ballot was cast by a… https://twitter.com/i/web/status/1638751315294670848<br></div>
 
 ### 60: [2023-03-24 21:25:55+08:00 推文](https://twitter.com/HeQinglian/status/1639257236177551361)
 
@@ -338,4 +338,40 @@ Re @JianglinLi @zhixiangziyou 好象最后都是某个左派政党向他输诚�
 ### 81: [2023-03-26 05:03:55+08:00 推文](https://twitter.com/HeQinglian/status/1639734883827302400)
 
 Daily  Mail独家：<br>理查德·巴伦斯将军警告说，俄罗斯构成的威胁不容忽视，英国需要普京提前 10 年发出通知，以便英国做好准备击退俄罗斯的入侵。<br>他说“在冷战时期，军队随时可以在几个小时内做好战斗准备。”现在英国军队情况严重恶化，苏纳克只准备再投入 50 亿英镑用于国防<br>https://www.dailymail.co.uk/news/article-11899089/Britain-need-10-years-notice-Putin-repel-Russian-invasion-warns-General.html
+
+### 82: [2023-03-26 09:05:48+08:00 推文](https://twitter.com/HeQinglian/status/1639795754591047681)
+
+Re @shenliangqing2 @HuPing1 这事儿，要说起来，与异议界多少有点关系。<br>已经去世的陈子明当时为了让刘亚洲封神，还将我的《中国改革的得与失》挂上刘亚洲的名字在他的“建设与改造”上发表，国内一干异议人士齐夸有见识，深刻，是党内的改革明星。类似的事情还有好几起。<br>我让陈更正，人家宁可私底下央人解释，不肯更正。
+
+### 83: [2023-03-26 09:06:46+08:00 推文](https://twitter.com/HeQinglian/status/1639795996942123008)
+
+Re @dinglili7 爱尔兰太自作多情了，人家为什么要来你那里？
+
+### 84: [2023-03-26 09:07:39+08:00 推文](https://twitter.com/HeQinglian/status/1639796218845974531)
+
+Re @eGUAbe2V7j26GHw 大社会，小江湖。也是你做得好，才有如今这格局。
+
+### 85: [2023-03-26 09:11:05+08:00 推文](https://twitter.com/HeQinglian/status/1639797082826391552)
+
+Re @Lucs24659702 这样的彩虹庙会，去干啥？他们自个乐就行。
+
+### 86: [2023-03-26 09:14:25+08:00 推文](https://twitter.com/HeQinglian/status/1639797925046804481)
+
+Re @JianglinLi @dinglili7 表态也先想好，自己有多大份量。
+
+### 87: [2023-03-26 09:18:40+08:00 推文](https://twitter.com/HeQinglian/status/1639798993306648578)
+
+Re @firesporp @shenliangqing2 @HuPing1 陈子明在国内，不在海外。
+
+### 88: [2023-03-26 09:20:22+08:00 推文](https://twitter.com/HeQinglian/status/1639799418701373445)
+
+Re @JianglinLi @dinglili7 现在对中国已经开始齐齐变脸了，上个月冯德莱恩还大骂北京，现在要去访问了。<br>学习默克尔，先与政界会谈，私底下邀请几个异议人士见面，批评中国人权。
+
+### 89: [2023-03-26 09:21:07+08:00 推文](https://twitter.com/HeQinglian/status/1639799610313981952)
+
+Re @Steven30667765 @dinglili7 连这面子你也要为爱尔兰挣，值得吗？为拜登挣吧。
+
+### 90: [2023-03-26 09:23:51+08:00 推文](https://twitter.com/HeQinglian/status/1639800299006177280)
+
+中国挺俄阴影笼罩欧盟峰会<br>欧盟的领袖们近日将接踵前往中国，西班牙首相桑切斯首当其冲，法国总统马克龙随后，且有欧盟委员会主席冯德莱恩陪同，欧盟外交一号人物博雷利也表示很快动身，早已得到北京邀请的意大利总理梅洛尼也将择日前往。<br>https://rfi.my/9I7n.T <br>骂了一年，早知如此，省点劲多好。
 
