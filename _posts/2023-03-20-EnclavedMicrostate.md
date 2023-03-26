@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-03-25
+date: 2023-03-26
 from: https://old.reddit.com/r/Hololive/comments/11w3p4r/is_crazy_that_hololive_is_the_only_vtuber_agency/
 layout: post
 tags:
@@ -134,4 +134,24 @@ We have the chicken, but the eggs still ain't coming...
 > Ruby’s reaction to Crescent Rose is really telling, in a way it almost feels like the fact she didn’t have it gave her a convenient excuse for not fighting anymore but now she is faced with that burden again and she doesn’t know if she wants it back.
 
 Huh, that's a really interesting read, and it makes me curious what may or may not eventually come of it, especially in light of the scene last episode hinting that she may end up with Summer's weapon.
+
+### 1159: [What stopped the mongols from destroying a portion of the Great Wall of China, going round the Great Wall of China or climbing over the Great Wall of China?](https://old.reddit.com/r/AskHistorians/comments/122gyjv/what_stopped_the_mongols_from_destroying_a/), submitted on 2023-03-26 17:26:22+08:00.
+
+----- __1159.1__ -----2023-03-26 18:03:23+08:00:
+
+If you mean the Mongols as in specifically pre-Yuan, then what stopped them destroying or circumventing the Great Wall was that it [hadn't been built yet](https://www.reddit.com/r/AskHistorians/comments/e8g5a5/would_marco_polo_have_had_a_reason_to_not_mention/fack6to/). If you mean the period *after* the Great Wall had been built but *before* it was rendered useless because both sides of it were under the rule of the same empire, i.e. between about 1550 and 1644, then see [here](https://www.reddit.com/r/AskHistorians/comments/g5b4xr/why_didnt_mongols_huns_and_other_groups_ever_try/fo2ite8/).
+
+----- __1159.2__ -----2023-03-26 18:08:35+08:00:
+
+> It was continuously built from 300 BC until 1700 AD
+
+Again, no – several states, for separate reasons at separate times, built walls, sometimes but not always on the sites of prior walls. But that is not the same as a singular, continuous construction project, *especially* during long periods of nomadic rule in China when there was no reason to build walls between two parts of your own empire.
+
+----- __1159.3__ -----2023-03-26 18:11:49+08:00:
+
+Google, shockingly, is only as good as the people contributing to it, and the people contributing to the high-volume search results about the Great Wall are largely talking out of their arse. Arthur Waldron's *The Great Wall of China: From History to Myth* is what you need to read.
+
+----- __1159.4__ -----2023-03-26 18:17:41+08:00:
+
+Uh. Yes. Pretty much. Not to shit too much on UNESCO but countries have an interest in portraying places as national heritage for the sake of recognition, and China is no different. China's relationship between imperial and national history is something that can be [really](https://www.reddit.com/r/AskHistorians/comments/pa13hj/monday_methods_the_new_qing_turn_and_decentering/) [quite](https://www.reddit.com/r/AskHistorians/comments/nobb6r/say_hello_to_our_little_friends_introducing/gzz2i4t/) [fraught](https://www.reddit.com/r/AskHistorians/comments/z4himu/why_is_han_chinese_considered_a_single_ethnic/ixuq02x/), and attempting to depict grand civilisational continuities is part of that narrative construction.
 
