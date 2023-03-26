@@ -155,3 +155,7 @@ Google, shockingly, is only as good as the people contributing to it, and the pe
 
 Uh. Yes. Pretty much. Not to shit too much on UNESCO but countries have an interest in portraying places as national heritage for the sake of recognition, and China is no different. China's relationship between imperial and national history is something that can be [really](https://www.reddit.com/r/AskHistorians/comments/pa13hj/monday_methods_the_new_qing_turn_and_decentering/) [quite](https://www.reddit.com/r/AskHistorians/comments/nobb6r/say_hello_to_our_little_friends_introducing/gzz2i4t/) [fraught](https://www.reddit.com/r/AskHistorians/comments/z4himu/why_is_han_chinese_considered_a_single_ethnic/ixuq02x/), and attempting to depict grand civilisational continuities is part of that narrative construction.
 
+----- __1159.5__ -----2023-03-26 21:36:33+08:00:
+
+No. The term *changcheng* ('long walls') appears in a variety of contexts well into the Ming period that imply that the phrase was not understood as a proper noun specifically denoting a specific set of frontier defences, but rather as a term for any set of contiguous fortifications. The principal Ming phraseology was the 'nine Garrisons' (*jiuzhen*), which encompassed all of the military assets, mobile and static, that covered their steppe border.
+
