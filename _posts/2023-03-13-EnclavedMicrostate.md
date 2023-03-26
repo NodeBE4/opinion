@@ -211,3 +211,7 @@ That said, I feel like The Discourse isn't so much 'this is a step forward for r
 
 Even by Volume 8 I wasn't particularly involved in the FNDM anymore so the only people I was discussing it with were, like me, generally positive with some reservations, so I admit that at the time, I didn't see many criticisms of the writing myself either. It's just that I'm less surprised about writing critiques than I am about animation critiques.
 
+----- __1147.20__ -----2023-03-26 16:37:07+08:00:
+
+Oh sure, I'm definitely on board with the switch to Maya and the loss of Monty Oum leading to a notable decline/change in fight animation, I just don't recall there being a lot of uproar specific to Vol 8. But as noted I wasn't as FNDM-involved by that stage so point very much taken.
+
