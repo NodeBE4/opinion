@@ -361,7 +361,7 @@ Re @dinglili7 BLM会很不高兴。
 
 ### 87: [2023-03-02 01:45:23+08:00 推文](https://twitter.com/HeQinglian/status/1630987612650450947)
 
-RT He Qinglian<br>全球经济-政治版图之变：中美关系是杠杆<br>https://www.rfa.org/mandarin/pinglun/heqinglian/hql-03012023111612.html<br>中国2022年获得的8776亿美元顺差，8019亿来自于欧美。从2023年影响中美关系的六大变量来看，美国仍居于优势地位，能否发挥优势，一取决于美国国内经济政治状态，二取决于他国在新的多极世界中追随谁；三取决于美国的外交手段是否高明。
+全球经济-政治版图之变：中美关系是杠杆<br>https://www.rfa.org/mandarin/pinglun/heqinglian/hql-03012023111612.html<br>中国2022年获得的8776亿美元顺差，8019亿来自于欧美。从2023年影响中美关系的六大变量来看，美国仍居于优势地位，能否发挥优势，一取决于美国国内经济政治状态，二取决于他国在新的多极世界中追随谁；三取决于美国的外交手段是否高明。
 
 ### 88: [2023-03-02 01:52:16+08:00 推文](https://twitter.com/HeQinglian/status/1630989342985338880)
 
@@ -657,7 +657,7 @@ Re @shenliangqing2 你就当成真旅游好了。
 
 ### 161: [2023-03-04 22:16:31+08:00 推文](https://twitter.com/HeQinglian/status/1632022212801712129)
 
-去年4月，我写文章引用CATO：无效、不道德、政治便利：美国对经济制裁的过度依赖以及如何应对<br>https://www.cato.org/policy-analysis/ineffective-immoral-politically-convenient-americas-overreliance-economic-sanctions<br>作者在研究过美国制裁两打以上国家的样本后，总结说：“最好的研究表明，制裁不仅会造成巨大的经济损失并最终造成生命损失，而且即使按照政策制定者设定的标准，制裁也会失败。” https://twitter.com/KELMAND1/status/1632015096011685889<div class="rsshub-quote"><br><br>Ezio Mao☢: 彭博社：俄罗斯成功绕过欧盟和 G7 制裁，购买制造武器所需的微芯片<br><br>该机构表示，俄罗斯在该电子领域的进口已基本恢复到 2020 年的水平。先进的芯片是通过土耳其、阿拉伯联合酋长国和哈萨克斯坦采购的。<br><br>这还只是官方白手套，世界上还有一种东西叫黑市……通过禁运就想让人买不到这是幼稚的想法😂 https://t.co/WmSGnsG1Dk<br><br><img style="" src="https://pbs.twimg.com/media/FqYVFDpaAAAY8Co?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+去年4月，我写文章引用CATO：无效、不道德、政治便利：美国对经济制裁的过度依赖以及如何应对<br>https://www.cato.org/policy-analysis/ineffective-immoral-politically-convenient-americas-overreliance-economic-sanctions<br>作者在研究过美国制裁两打以上国家的样本后，总结说：“最好的研究表明，制裁不仅会造成巨大的经济损失并最终造成生命损失，而且即使按照政策制定者设定的标准，制裁也会失败。”<div class="rsshub-quote"><br><br>Ezio Mao☢: 彭博社：俄罗斯成功绕过欧盟和 G7 制裁，购买制造武器所需的微芯片<br><br>该机构表示，俄罗斯在该电子领域的进口已基本恢复到 2020 年的水平。先进的芯片是通过土耳其、阿拉伯联合酋长国和哈萨克斯坦采购的。<br><br>这还只是官方白手套，世界上还有一种东西叫黑市……通过禁运就想让人买不到这是幼稚的想法😂 https://t.co/WmSGnsG1Dk<br><br><img style="" src="https://pbs.twimg.com/media/FqYVFDpaAAAY8Co?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 162: [2023-03-04 22:22:36+08:00 推文](https://twitter.com/HeQinglian/status/1632023742564933640)
 

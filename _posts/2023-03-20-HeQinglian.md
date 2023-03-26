@@ -69,7 +69,7 @@ RT L JM🇺🇸<br>在美国曾有一段时间，检察官和司法部拒绝�
 
 ### 14: [2023-03-20 21:33:33+08:00 推文](https://twitter.com/HeQinglian/status/1637809604271693825)
 
-美国自拜登上台后，攒足劲要与中国在非洲竞争，专门拨款成立机构；法国说要重回非洲（原来有不少殖民地），如今成了这局面。<br>拜粉们可以说非洲国家太Low，但在联合国，非联拥有56张选票。打群架时用得着。<div class="rsshub-quote"><br><br>S.L. Kanthan: 40 African countries are in Moscow today!! The conference is called “Russia-Africa in a Multipolar World.” <br><br>The Global South is ignoring Washington DC and its endless wars. There are bigger fish to fry.<br><br>The leaders of developing nations can now sense a new world of… https://twitter.com/i/web/status/1637726914386468864 https://t.co/Of9vVM3PjJ<br><br><img style="" src="https://pbs.twimg.com/media/Frpf8b7aYAIp3A_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+美国自拜登上台后，攒足劲要与中国在非洲竞争，专门拨款成立机构；法国说要重回非洲（原来有不少殖民地），如今成了这局面。<br>拜粉们可以说非洲国家太Low，但在联合国，非联拥有56张选票。打群架时用得着。 https://twitter.com/Kanthan2030/status/1637726914386468864<div class="rsshub-quote"><br><br>S.L. Kanthan: 40 African countries are in Moscow today!! The conference is called “Russia-Africa in a Multipolar World.” <br><br>The Global South is ignoring Washington DC and its endless wars. There are bigger fish to fry.<br><br>The leaders of developing nations can now sense a new world of… https://twitter.com/i/web/status/1637726914386468864 https://t.co/Of9vVM3PjJ<br><br><img style="" src="https://pbs.twimg.com/media/Frpf8b7aYAIp3A_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 15: [2023-03-20 21:37:45+08:00 推文](https://twitter.com/HeQinglian/status/1637810660510781441)
 
@@ -97,7 +97,7 @@ Re @mitolyu @Vince6610 @zhixiangziyou 明白了。不知她对简方达欢呼cov
 
 ### 21: [2023-03-21 01:51:55+08:00 推文](https://twitter.com/HeQinglian/status/1637874624951099397)
 
-2022年4月，拜登和他的政府发布了两份下属机构的文件，旨在支持和鼓励男孩和女孩进行化学和手术阉割，一份来自Office of Population Affairs，题为Gender-Affirming Care and Young People；另一份是Gender-Affirming Care is Trauma-Informed Care。 https://www.drjamesdobson.org/articles/bidens-radicalized-transgender-agenda-takes-full-aim-at-your-children https://twitter.com/tankman2002/status/1637672806799507456<div class="rsshub-quote"><br><br>二大爷: 实在忍不住，我来给大家起底一下有些华人群体，欺负大家不懂英文，肆意在“儿童变性”这个话题上造谣的手段。图一是我所在的加州的州长纽森签署的法案。它正确的翻译是“纽森签署法案，使加州成为跨性别青年和家庭的避难所”。也就是说，这个法案的本意是保护那些“跨性别的青年和家庭”免受歧视。但在某些华… https://twitter.com/i/web/status/1637672806799507456 https://t.co/2JTeRQ9mCK<br><br><img style="" src="https://pbs.twimg.com/media/FrorHhMaQAE1o07?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrosNYDaUAEeB-Y?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrouZt6akAAVdwc?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+2022年4月，拜登和他的政府发布了两份下属机构的文件，旨在支持和鼓励男孩和女孩进行化学和手术阉割，一份来自Office of Population Affairs，题为Gender-Affirming Care and Young People；另一份是Gender-Affirming Care is Trauma-Informed Care。 https://www.drjamesdobson.org/articles/bidens-radicalized-transgender-agenda-takes-full-aim-at-your-children
 
 ### 22: [2023-03-21 03:14:24+08:00 推文](https://twitter.com/HeQinglian/status/1637895384541417472)
 
@@ -153,7 +153,7 @@ Re @KELMAND1 @82WztfvhHqZz0Ub 纠正：是瑞信，The Credit Suisse。这次瑞
 
 ### 35: [2023-03-21 22:14:05+08:00 推文](https://twitter.com/JianglinLi/status/1638182192009412610)
 
-RT 李江琳<br>拜登的银行记录。这可真是鸡犬升天。 https://twitter.com/GOPoversight/status/1637840708726816779<div class="rsshub-quote"><br><br>Oversight Committee: 🤥🤥🤥🤥<br> <br>We’ve got the bank records. https://twitter.com/FoxNews/status/1637111635797061633 https://t.co/yDYPcOxKYW<br><br><img style="" src="https://pbs.twimg.com/media/FrrHOJQXsAEhtZy?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT 李江琳<br>拜登的银行记录。这可真是鸡犬升天。<div class="rsshub-quote"><br><br>Oversight Committee: 🤥🤥🤥🤥<br> <br>We’ve got the bank records. https://t.co/yDYPcOxKYW<br><br><img style="" src="https://pbs.twimg.com/media/FrrHOJQXsAEhtZy?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 36: [2023-03-22 03:38:21+08:00 推文](https://twitter.com/HeQinglian/status/1638263799399477249)
 
@@ -161,7 +161,7 @@ RT 李江琳<br>拜登的银行记录。这可真是鸡犬升天。 https://tw
 
 ### 37: [2023-03-22 08:00:27+08:00 推文](https://twitter.com/HeQinglian/status/1638329758134984704)
 
-美国国务院发言人约翰·柯比：“LGBQI+的权利是美国的外交政策核心”。 https://twitter.com/realDailyWire/status/1638267335634046978<div class="rsshub-quote"><br><br>Daily Wire: Kirby: "LGBTQ+ rights...are a core part of our foreign policy." <br>https://t.co/qfdXTr52B9<br><br><video src="https://video.twimg.com/ext_tw_video/1638265285164650508/pu/vid/720x406/XirVONbtsrH17VI7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1638265285164650508/pu/img/S1NR7Qa4_SPM3nDP.jpg"></video></div>
+美国国务院发言人约翰·柯比：“LGBQI+的权利是美国的外交政策核心”。<div class="rsshub-quote"><br><br>Daily Wire: Kirby: "LGBTQ+ rights...are a core part of our foreign policy." <br>https://t.co/qfdXTr52B9<br><br><video src="https://video.twimg.com/ext_tw_video/1638265285164650508/pu/vid/720x406/XirVONbtsrH17VI7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1638265285164650508/pu/img/S1NR7Qa4_SPM3nDP.jpg"></video></div>
 
 ### 38: [2023-03-22 08:05:48+08:00 推文](https://twitter.com/HeQinglian/status/1638331101759299585)
 
@@ -249,7 +249,7 @@ RT 中国数字时代<br>Re https://chinadigitaltimes.net/chinese/675225.html
 
 ### 59: [2023-03-24 12:48:02+08:00 推文](https://twitter.com/zhixiangziyou/status/1639126903943737349)
 
-RT L JM🇺🇸<br>Gateway Pundit 报道了亚利桑那州参议院选举委员会的一项调查和介绍，该委员会估计 2022 年将有近 300,000 张选票无法通过签名验证标准。选票签名是证明选票是由真实选民投票的唯一方式。 https://twitter.com/dc_draino/status/1638751315294670848<div class="rsshub-quote"><br><br>DC_Draino: The Gateway Pundit reported on an investigation and presentation in the Arizona Senate Elections Committee, which estimated that nearly 300,000 ballots in 2022 would fail signature verification standards. Ballot signatures are the only way of proving that a ballot was cast by a… https://twitter.com/i/web/status/1638751315294670848<br></div>
+RT L JM🇺🇸<br>Gateway Pundit 报道了亚利桑那州参议院选举委员会的一项调查和介绍，该委员会估计 2022 年将有近 300,000 张选票无法通过签名验证标准。选票签名是证明选票是由真实选民投票的唯一方式。<div class="rsshub-quote"><br><br>DC_Draino: The Gateway Pundit reported on an investigation and presentation in the Arizona Senate Elections Committee, which estimated that nearly 300,000 ballots in 2022 would fail signature verification standards. Ballot signatures are the only way of proving that a ballot was cast by a… https://twitter.com/i/web/status/1638751315294670848<br></div>
 
 ### 60: [2023-03-24 21:25:55+08:00 推文](https://twitter.com/HeQinglian/status/1639257236177551361)
 
@@ -382,4 +382,40 @@ Re @shenliangqing2 鸡毛沾身，速速拂去为上。与古人相比，现代�
 ### 92: [2023-03-26 16:34:26+08:00 推文](https://twitter.com/HeQinglian/status/1639908657117687809)
 
 Re @kbclindy 清涟居 http://heqinglian.net/<br>输入关键词，俄乌战争，有多篇，你查看下面的发表日期就知道是何时何处首发的。
+
+### 93: [2023-03-26 17:45:47+08:00 推文](https://twitter.com/dinglili7/status/1639926612354535425)
+
+RT 绫波<br>特朗普在德克萨斯州的一次集会上：<br><br>他们在这里问我：<br><br>“长官，我们的主要威胁是谁？中国？俄罗斯？”<br><br>我说：“不，我们的主要威胁是来自美国政府的高级政客。米奇·麦康奈尔、南希·佩洛西、舒默、拜登、司法部。他们是我们国家的毒药。” https://t.co/KJfQrUBtTm<br><img style="" src="https://pbs.twimg.com/media/FsIwfQNaQAECM5Q?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 94: [2023-03-26 22:50:44+08:00 推文](https://twitter.com/HeQinglian/status/1640003356436361219)
+
+Re @Isabel_3299 这样子闹下去，共和党必输。<br>红楼梦里说的，百足之虫，死而不僵，必得自家内讧，那才能败家。
+
+### 95: [2023-03-26 22:55:15+08:00 推文](https://twitter.com/HeQinglian/status/1640004491238952962)
+
+Re @JianglinLi @TomMa07952688 放完了这贫铀弹，美国孟山都等数家公司买的那数千万顷良田不就成了弃地？
+
+### 96: [2023-03-26 23:10:26+08:00 推文](https://twitter.com/HeQinglian/status/1640008314451787776)
+
+Re @Isabel_3299 只怕是死而不生。<br>一鲸落，万物生。一年的俄乌战争打下来，还不明白机会不是在那里永远等着一个人，我也没办法。<br>不过，记住将来的结局有你们一份功劳就行。
+
+### 97: [2023-03-26 23:12:17+08:00 推文](https://twitter.com/HeQinglian/status/1640008777423257600)
+
+Re @JianglinLi @gordonbrown2006 @dinglili7 巴黎已经绿化了，至少有十几个街区如此。没多少年了。
+
+### 98: [2023-03-26 23:14:50+08:00 推文](https://twitter.com/HeQinglian/status/1640009422826094594)
+
+Re @gordonbrown2006 @JianglinLi @dinglili7 你最好让西方不要混为一谈。<br>也教育一下中南海，让习近平赶紧与俄划清界限。
+
+### 99: [2023-03-26 23:19:53+08:00 推文](https://twitter.com/HeQinglian/status/1640010690080432132)
+
+Re @Lucs24659702 如果一国外交失利威慑不灵，就应该先安静一段，认真分析局势，听听本国那些被排斥在白宫决策圈之外的智库的意见，重新制定战略。<br>拜登班子最近半年安静一点，少用嘴巴多用脑，暂且放下将lgbtqi+作为美国外交政策的核心，是美国之福，也是世界之福。<br>明年全力应付大选，失去（得到）政权就失去得到一切
+
+### 100: [2023-03-26 23:27:19+08:00 推文](https://twitter.com/HeQinglian/status/1640012561046282242)
+
+Re @JianglinLi @gordonbrown2006 @dinglili7 俄乌战争至今，不少人只会用愿望代替事实，包括一些年逾古稀之人。<br>在他们眼中，事实如何不重要，重要是的“应该如此，必须如此”——可惜，抓住撬动地球支点的只有少数人，傻瓜领导的国家越强大，犯的错越大。
+
+### 101: [2023-03-26 23:28:29+08:00 推文](https://twitter.com/HeQinglian/status/1640012854030942208)
+
+Re @Isabel_3299 你来的那天，就是郭粉与姨粉，后来变了。<br>变是好事。不再聊了，Up to you.
 
