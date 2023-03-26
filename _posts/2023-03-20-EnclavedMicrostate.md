@@ -159,3 +159,7 @@ Uh. Yes. Pretty much. Not to shit too much on UNESCO but countries have an inter
 
 No. The term *changcheng* ('long walls') appears in a variety of contexts well into the Ming period that imply that the phrase was not understood as a proper noun specifically denoting a specific set of frontier defences, but rather as a term for any set of contiguous fortifications. The principal Ming phraseology was the 'nine Garrisons' (*jiuzhen*), which encompassed all of the military assets, mobile and static, that covered their steppe border.
 
+----- __1159.6__ -----2023-03-27 06:27:04+08:00:
+
+I don't know why you decided just to assert the exact opposite of what my linked answers say without attempting to cite any sources, because no, *that is untrue*. We can be reasonably sure the Qin walls were maintained into the Han, but after that no new walls would be built until the Sui and those that did exist seem to have fallen into disrepair; the Sui walls again don't seem to have been maintained for very long either. The Ming walls were built from scratch, and often do not follow the course of the Qin or Sui walls at all. If you can provide *any* kind of evidence that there was a northern frontier wall that was meaningfully still in existence between the 11th and 15th centuries, then you'd better do so.
+
