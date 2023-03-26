@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-03-24
+date: 2023-03-25
 from: https://old.reddit.com/r/Hololive/comments/11w3p4r/is_crazy_that_hololive_is_the_only_vtuber_agency/
 layout: post
 tags:
@@ -126,4 +126,12 @@ Alternatively, if you are not a student and are not doing homework, we have remo
 We have the chicken, but the eggs still ain't coming...
 
 (Don't read too much into this, IDK what I mean either.)
+
+### 1158: [Official Discussion Thread - Volume 9, Episode 6: Confessions Within Cumulonimbus Clouds](https://old.reddit.com/r/RWBY/comments/121nky4/official_discussion_thread_volume_9_episode_6/), submitted on 2023-03-25 22:33:20+08:00.
+
+----- __1158.1__ -----2023-03-26 12:28:06+08:00:
+
+> Ruby’s reaction to Crescent Rose is really telling, in a way it almost feels like the fact she didn’t have it gave her a convenient excuse for not fighting anymore but now she is faced with that burden again and she doesn’t know if she wants it back.
+
+Huh, that's a really interesting read, and it makes me curious what may or may not eventually come of it, especially in light of the scene last episode hinting that she may end up with Summer's weapon.
 
