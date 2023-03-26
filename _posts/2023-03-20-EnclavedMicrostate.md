@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-03-23
+date: 2023-03-24
 from: https://old.reddit.com/r/Hololive/comments/11w3p4r/is_crazy_that_hololive_is_the_only_vtuber_agency/
 layout: post
 tags:
@@ -118,4 +118,12 @@ Hi there - unfortunately we have had to remove your question, because [/r/AskHis
 If you have indeed asked a homework question, you should consider resubmitting a question more focused on finding resources and seeking clarification on confusing issues: tell us what you've researched so far, what resources you've consulted, and what you've learned, and we are more likely to approve your question. Please see this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/) thread for more information on what makes for the kind of homework question we'd approve. Additionally, if you're not sure where to start in terms of finding and understanding sources in general, we have a six-part series, "[Finding and Understanding Sources](https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources)", which has a wealth of information that may be useful for finding and understanding information for your essay. Finally, other subreddits are likely to be more suitable for help with homework - try looking for help at /r/HomeworkHelp. 
 
 Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
+
+### 1157: [A little bit of insight from Kiara about the roughness of appearing in EU conventions, in the form of a Twitter thread](https://old.reddit.com/r/Hololive/comments/11zt7vm/a_little_bit_of_insight_from_kiara_about_the/), submitted on 2023-03-24 02:39:21+08:00.
+
+----- __1157.1__ -----2023-03-26 08:07:58+08:00:
+
+We have the chicken, but the eggs still ain't coming...
+
+(Don't read too much into this, IDK what I mean either.)
 
