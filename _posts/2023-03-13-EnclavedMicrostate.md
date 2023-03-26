@@ -207,3 +207,7 @@ So on the one hand, I do agree – there is nothing groundbreaking here, and the
 
 That said, I feel like The Discourse isn't so much 'this is a step forward for representation' as it is, 'it's really cathartic that it has finally happened.' (Or should I say cat-heart-ic given that Yang's logo is a heart and Blake is... er... look just ignore me okay)
 
+----- __1147.19__ -----2023-03-26 12:44:16+08:00:
+
+Even by Volume 8 I wasn't particularly involved in the FNDM anymore so the only people I was discussing it with were, like me, generally positive with some reservations, so I admit that at the time, I didn't see many criticisms of the writing myself either. It's just that I'm less surprised about writing critiques than I am about animation critiques.
+
