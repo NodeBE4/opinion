@@ -25,7 +25,7 @@ Re @a4_dao @qiaoxinxin88 我同意这位网友的意见。
 
 ### 3: [2023-03-13 03:41:17+08:00 推文](https://twitter.com/realcaixia/status/1635003044655173634)
 
-我同意这位推友的意见，希望更多的人共同合作，一起努力。 https://twitter.com/a4_dao/status/1634974285491224576<div class="rsshub-quote"><br><br>A4DAO: 说“拆墙”是当前民运中最高优先级的发力点不为过，因为1.直接关系言论自由。2.可以秒级取证。而汤伟雄又让大家看到了“联署”这一有力武器，希望民运的领袖级人物都来关注 #拆墙行动  #EndGFW，贡献智力和其它资源。<br>https://chng.it/NyPKTcdr<br></div>
+我同意这位推友的意见，希望更多的人共同合作，一起努力。<div class="rsshub-quote"><br><br>A4DAO: 说“拆墙”是当前民运中最高优先级的发力点不为过，因为1.直接关系言论自由。2.可以秒级取证。而汤伟雄又让大家看到了“联署”这一有力武器，希望民运的领袖级人物都来关注 #拆墙行动  #EndGFW，贡献智力和其它资源。<br>https://chng.it/NyPKTcdr<br></div>
 
 ### 4: [2023-03-13 07:16:05+08:00 推文](https://twitter.com/realcaixia/status/1635057100387938307)
 
@@ -85,11 +85,11 @@ Re @TDTCCP @keke201707 並且黨國特色！
 
 ### 18: [2023-03-14 10:44:26+08:00 推文](https://twitter.com/realcaixia/status/1635471921788911617)
 
-民间高手在！<div class="rsshub-quote"><br><br>墻國荒誕字（墙国荒诞字）: 《憤怒的皇帝》系列搞笑劇:<br>第22集: 《不吉利的登基日》 https://t.co/otZYDB03y9<br><br><video src="https://video.twimg.com/ext_tw_video/1634360906707501056/pu/vid/1280x720/RkvkF3_rAelooV7T.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1634360906707501056/pu/img/9YxWuxJl7UZ7eP-F.jpg"></video></div>
+民间高手在！ https://twitter.com/xingzhe2021/status/1634361062974693377<div class="rsshub-quote"><br><br>墻國荒誕字（墙国荒诞字）: 《憤怒的皇帝》系列搞笑劇:<br>第22集: 《不吉利的登基日》 https://t.co/otZYDB03y9<br><br><video src="https://video.twimg.com/ext_tw_video/1634360906707501056/pu/vid/1280x720/RkvkF3_rAelooV7T.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1634360906707501056/pu/img/9YxWuxJl7UZ7eP-F.jpg"></video></div>
 
 ### 19: [2023-03-15 00:50:11+08:00 推文](https://twitter.com/realcaixia/status/1635684760680034304)
 
-我和蔣彥永先生不很熟，一起吃飯過N次。老人家喜歡拿著ipad拍照片。有一回飯吃到一半，老人家興致勃勃地和鮑彤老，杜光老、楊繼繩先生、高瑜大姐一起欣賞他新拍的照片。那會兒老先生的「天真活潑」、孩子般童真笑容和一絲「小調皮」神情，給我的印象最深。「80後」的老人帶著童真，內心得有多乾淨！ https://twitter.com/baojianella/status/1635647968228573184<div class="rsshub-quote"><br><br>鲍简: 蒋彦永医生是个热心肠，朋友有病咨询，他总是全力以赴，丝毫不倚老卖老。2017年4月我家亲戚患病有片子需要找专家再确认一下。蒋医生与我约好在301医院门口见。我说去他家接他，他说他搭院里的班车到医院，我就没再坚持。等办完事，我说用车送他，蒋医生却又说他骑自行车来的，那年他已经85岁了。 https://t.co/vu5wRQ84rm<br><br><img style="" src="https://pbs.twimg.com/media/FrL9ITvaIAUNGPd?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrL9JP1aAAEtxy6?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+我和蔣彥永先生不很熟，一起吃飯過N次。老人家喜歡拿著ipad拍照片。有一回飯吃到一半，老人家興致勃勃地和鮑彤老，杜光老、楊繼繩先生、高瑜大姐一起欣賞他新拍的照片。那會兒老先生的「天真活潑」、孩子般童真笑容和一絲「小調皮」神情，給我的印象最深。「80後」的老人帶著童真，內心得有多乾淨！<div class="rsshub-quote"><br><br>鲍简: 蒋彦永医生是个热心肠，朋友有病咨询，他总是全力以赴，丝毫不倚老卖老。2017年4月我家亲戚患病有片子需要找专家再确认一下。蒋医生与我约好在301医院门口见。我说去他家接他，他说他搭院里的班车到医院，我就没再坚持。等办完事，我说用车送他，蒋医生却又说他骑自行车来的，那年他已经85岁了。 https://t.co/vu5wRQ84rm<br><br><img style="" src="https://pbs.twimg.com/media/FrL9ITvaIAUNGPd?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrL9JP1aAAEtxy6?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 20: [2023-03-15 01:38:37+08:00 推文](https://twitter.com/realcaixia/status/1635696949310664705)
 
@@ -105,7 +105,7 @@ Re @TDTCCP @keke201707 並且黨國特色！
 
 ### 23: [2023-03-16 01:48:00+08:00 推文](https://twitter.com/realcaixia/status/1636061701966815234)
 
-推友說得太好了！蔣彥永醫生是唯一把2003年SARS、2019年至今的COVID-19 、1989年6.4凝集於一身的歷史性人物。<br>若中國有先賢祠，蔣彥永、李銳、何方、李洪林、杜光、李普、胡績偉、王若望、王若水、王元化、劉冰雁，方勵之等前輩必定在列。<br>而袁世凱、毛澤東、袁二世等必定被釘在中國歷史恥辱柱上。 https://twitter.com/uyunistar/status/1635848341891448834<div class="rsshub-quote"><br><br>赵兰健: ［蒋彦永：中华民族骄傲史诗符号］<br>蒋彦永医生是唯一能把2003年非典、新冠疫情、六四事件三件重要历史凝结在一起的全球关注焦点人物。他的超小型告别仪式正在戒备森严下举办。很多亲人、战友、同事都未被允许参加。自从2019年他被关起来后到现在，基本完全噤声，亲友全被威胁和限制。 https://t.co/aJjn9Gk1Tp<br><br><img style="" src="https://pbs.twimg.com/media/FrOzZcpXgAA-DbB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+推友說得太好了！蔣彥永醫生是唯一把2003年SARS、2019年至今的COVID-19 、1989年6.4凝集於一身的歷史性人物。<br>若中國有先賢祠，蔣彥永、李銳、何方、李洪林、杜光、李普、胡績偉、王若望、王若水、王元化、劉冰雁，方勵之等前輩必定在列。<br>而袁世凱、毛澤東、袁二世等必定被釘在中國歷史恥辱柱上。<div class="rsshub-quote"><br><br>赵兰健: ［蒋彦永：中华民族骄傲史诗符号］<br>蒋彦永医生是唯一能把2003年非典、新冠疫情、六四事件三件重要历史凝结在一起的全球关注焦点人物。他的超小型告别仪式正在戒备森严下举办。很多亲人、战友、同事都未被允许参加。自从2019年他被关起来后到现在，基本完全噤声，亲友全被威胁和限制。 https://t.co/aJjn9Gk1Tp<br><br><img style="" src="https://pbs.twimg.com/media/FrOzZcpXgAA-DbB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 24: [2023-03-16 02:37:17+08:00 推文](https://twitter.com/realcaixia/status/1636074101642240000)
 
@@ -129,7 +129,7 @@ Re @ChrisLaw125 @Lewis57675410 @HongLong2022 李书磊出生于91年-93年曾任
 
 ### 29: [2023-03-18 10:08:21+08:00 推文](https://twitter.com/realcaixia/status/1636912392184508417)
 
-中共警察的野蛮残暴，在他们眼里中国民众如同动物。<div class="rsshub-quote"><br><br>为自由而战-天山剑客: 中国警察用渔网捕人<br>就因为这女子用手机拍了他们做的恶<br><br> https://t.co/g9eTUrTGuP<br><br><video src="https://video.twimg.com/ext_tw_video/1636731478032920582/pu/vid/576x1018/SJooOoUDDCHeg-TX.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1636731478032920582/pu/img/nQnyaICFT50SVV-A.jpg"></video></div>
+中共警察的野蛮残暴，在他们眼里中国民众如同动物。 https://twitter.com/lonelywarriorma/status/1636805414263349250<div class="rsshub-quote"><br><br>为自由而战-天山剑客: 中国警察用渔网捕人<br>就因为这女子用手机拍了他们做的恶<br><br> https://t.co/g9eTUrTGuP<br><br><video src="https://video.twimg.com/ext_tw_video/1636731478032920582/pu/vid/576x1018/SJooOoUDDCHeg-TX.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1636731478032920582/pu/img/nQnyaICFT50SVV-A.jpg"></video></div>
 
 ### 30: [2023-03-18 23:30:51+08:00 推文](https://twitter.com/realcaixia/status/1637114349130223616)
 
