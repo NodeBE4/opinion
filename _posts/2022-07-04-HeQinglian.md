@@ -157,7 +157,7 @@ Re @HettyJ008 @JianglinLi Mark了，买包试试。不知有无季节限制？
 
 ### 36: [2022-07-05 04:15:58+08:00 推文](https://twitter.com/HeQinglian/status/1544052420363403265)
 
-中国用2500亿美元订购了近 300 架空客喷气式飞机，是这家欧洲飞机制造商有史以来最大的单日交易之一，这块石头丢下去，波音的反应来了，该公司发言人称：<br>“令人失望的是，地缘政治差异继续限制美国飞机出口，对中国的销售历来支持数以万计的美国工作岗位。” <a href="https://www.bloomberg.com/news/articles/2022-07-04/boeing-rues-us-china-trade-war-as-airbus-wins-37-billion-deal#:~:text=A%20giant%20aviation%20deal%20from,worth%20at%20least%20%2437%20billion" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2022-07-04/boeing-rues-us-china-trade-war-as-airbus-wins-37-billion-deal#:~:text=A%20giant%20aviation%20deal%20from,worth%20at%20least%20%2437%20billion</a>
+中国用2500亿美元订购了近 300 架空客喷气式飞机，是这家欧洲飞机制造商有史以来最大的单日交易之一，这块石头丢下去，波音的反应来了，该公司发言人称：<br>“令人失望的是，地缘政治差异继续限制美国飞机出口，对中国的销售历来支持数以万计的美国工作岗位。”<br><br>He Qinglian: 关于中国斥资2500亿，购买近300架空客，不得不说几句：这是对拜登的双重打击。<br>1、在川普之前的空客与波音之争，空客已经败下阵来，因质量问题；<br>2、这时购买有战略考量：一是帮欧盟（德法）一把，让欧盟与美国的中国战略保持距离；二是给拜登难堪，波音肯定对此有极大意见，减少对拜登民主党的捐款。<br>
 
 ### 37: [2022-07-05 04:16:49+08:00 推文](https://twitter.com/HeQinglian/status/1544052632603557890)
 
