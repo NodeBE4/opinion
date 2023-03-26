@@ -29,7 +29,7 @@ RT Jonathan Cheng<br>WaPo: The U.S. tracked the Chinese balloon as it lifted o
 
 ### 4: [2023-02-16 12:15:13+08:00 推文](https://twitter.com/cnmediaproject/status/1626072682684121088)
 
-Earlier this week, the Ministry of Human Resources posted its 2023 call for the hiring of positions within the CCP’s Central Propaganda Department and its subsidiary departments. Your chance to help control the minds of billions? https://chinamediaproject.org/2023/02/16/chinas-propaganda-machine-is-calling/
+Earlier this week, the Ministry of Human Resources posted its 2023 call for the hiring of positions within the CCP’s Central Propaganda Department and its subsidiary departments. Your chance to help control the minds of billions? <a href="https://chinamediaproject.org/2023/02/16/chinas-propaganda-machine-is-calling/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2023/02/16/chinas-propaganda-machine-is-calling/</a>
 
 ### 5: [2023-02-17 15:07:37+08:00 推文](https://twitter.com/cnmediaproject/status/1626478457554350081)
 

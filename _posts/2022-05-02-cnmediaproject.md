@@ -49,7 +49,7 @@ RT Matthias Sander<br>On today's World Press Freedom Day, I would like to shar
 
 ### 9: [2022-05-03 19:59:54+08:00 推文](https://twitter.com/xinwenxiaojie/status/1521459533255786496)
 
-RT Yuen Chan<br>I wrote this piece before the latest @RSF_AsiaPacific report ranked Hong Kong 148th in the World Press Freedom Index. Things are dire.<br>But there are journalists still doing what they can every day. This World Press Freedom Day, I salute them!
+RT Yuen Chan<br>I wrote this piece before the latest @RSF_AsiaPacific report ranked Hong Kong 148th in the World Press Freedom Index. Things are dire.<br>But there are journalists still doing what they can every day. This World Press Freedom Day, I salute them!<br><br>Hong Kong Free Press HKFP: Press Freedom Day: As long as there are journalists in Hong Kong, there will be journalism<br><br><img style="" src="https://pbs.twimg.com/media/FRzGN7-X0Ac-TzF?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://hongkongfp.com/2022/05/03/press-freedom-day-as-long-as-there-are-journalists-in-hong-kong-there-will-be-journalism" target="_blank" rel="noopener noreferrer">https://hongkongfp.com/2022/05/03/press-freedom-day-as-long-as-there-are-journalists-in-hong-kong-there-will-be-journalism</a>
 
 ### 10: [2022-05-03 21:34:14+08:00 推文](https://twitter.com/CarlMinzner/status/1521483273825918980)
 

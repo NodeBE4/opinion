@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2023-03-24
+date: 2023-03-26
 from: https://twitter.com/cnmediaproject/status/1638440603670450176
 layout: post
 tags:
@@ -26,4 +26,8 @@ In our latest Going Global article, we look at how local press associations with
 ### 3: [2023-03-24 13:45:02+08:00 推文](https://twitter.com/cnmediaproject/status/1639141251911122945)
 
 As Xi Jinping's Moscow trip sent tremors across the world, back home censors were busy expunging a TV personality's call to retake the vast territories China lost to Russia in unequal treaties.<br><br>In an era of revanchism, the topic remains a revealing taboo.<br>https://chinamediaproject.org/2023/03/24/on-national-humiliation-dont-mention-the-russians/
+
+### 4: [2023-03-26 01:42:13+08:00 推文](https://twitter.com/niubi/status/1639684121331916801)
+
+RT Bill Bishop<br>China’s Political Discourse February 2023: A Balloon Comes to Symbolize High-Altitude Tensions; Chinese Modernization; TikTok https://open.substack.com/pub/sinocism/p/chinas-political-discourse-february2023?r=2e&amp;utm_campaign=post&amp;utm_medium=web The A free monthly review of PRC discourse I run in partnership with @cnmediaproject
 
