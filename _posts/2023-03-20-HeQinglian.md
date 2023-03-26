@@ -249,7 +249,7 @@ RT 中国数字时代<br>Re https://chinadigitaltimes.net/chinese/675225.html
 
 ### 59: [2023-03-24 12:48:02+08:00 推文](https://twitter.com/zhixiangziyou/status/1639126903943737349)
 
-RT L JM🇺🇸<br>Gateway Pundit 报道了亚利桑那州参议院选举委员会的一项调查和介绍，该委员会估计 2022 年将有近 300,000 张选票无法通过签名验证标准。选票签名是证明选票是由真实选民投票的唯一方式。<div class="rsshub-quote"><br><br>DC_Draino: The Gateway Pundit reported on an investigation and presentation in the Arizona Senate Elections Committee, which estimated that nearly 300,000 ballots in 2022 would fail signature verification standards. Ballot signatures are the only way of proving that a ballot was cast by a… https://twitter.com/i/web/status/1638751315294670848<br></div>
+RT L JM🇺🇸<br>Gateway Pundit 报道了亚利桑那州参议院选举委员会的一项调查和介绍，该委员会估计 2022 年将有近 300,000 张选票无法通过签名验证标准。选票签名是证明选票是由真实选民投票的唯一方式。 https://twitter.com/dc_draino/status/1638751315294670848<div class="rsshub-quote"><br><br>DC_Draino: The Gateway Pundit reported on an investigation and presentation in the Arizona Senate Elections Committee, which estimated that nearly 300,000 ballots in 2022 would fail signature verification standards. Ballot signatures are the only way of proving that a ballot was cast by a… https://twitter.com/i/web/status/1638751315294670848<br></div>
 
 ### 60: [2023-03-24 21:25:55+08:00 推文](https://twitter.com/HeQinglian/status/1639257236177551361)
 
