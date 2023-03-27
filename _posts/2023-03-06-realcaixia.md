@@ -37,7 +37,7 @@ Re @XIAOMIEHM 曾经有一本书《为什么美国没有社会主义？》1995�
 
 ### 6: [2023-03-06 11:33:51+08:00 推文](https://twitter.com/realcaixia/status/1632585253507452930)
 
-海外华人许多人不知道这个被习欣赏、在一次全国文艺工作座谈会上，习点名发言的周小平何许人也？何以有“臭咸带鱼”这个绰号？我查了一下维基百科，给推友们提供些资料。 https://twitter.com/rongjian1957/status/1632516295613710336<div class="rsshub-quote"><br><br>荣剑: 这时代如他所愿，臭咸带鱼翻身了！ https://t.co/1UxwASuckm<br><br><img style="" src="https://pbs.twimg.com/media/Fqfc14bWIAE_DIA?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+海外华人许多人不知道这个被习欣赏、在一次全国文艺工作座谈会上，习点名发言的周小平何许人也？何以有“臭咸带鱼”这个绰号？我查了一下维基百科，给推友们提供些资料。<div class="rsshub-quote"><br><br>荣剑: 这时代如他所愿，臭咸带鱼翻身了！ https://t.co/1UxwASuckm<br><br><img style="" src="https://pbs.twimg.com/media/Fqfc14bWIAE_DIA?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 7: [2023-03-06 11:35:28+08:00 推文](https://twitter.com/realcaixia/status/1632585660799545345)
 
@@ -85,7 +85,7 @@ Re LT視界的分析我基本認同。另有一疑問是：如果習黨國真的
 
 ### 18: [2023-03-08 00:59:30+08:00 推文](https://twitter.com/realcaixia/status/1633150391469899776)
 
-特務國家，1984老大哥國家。<br>在習黨國生活的所有人，都沒有人格尊嚴。在大數據監控探頭下，每個人的外表都是裸體動物；在大數據語音監控下，每個人都可能言不由衷。說話的人，要麼臣服於奴隸身份；要麼臣服於奴才地位；要挺身做自由人的，要麼在監獄要麼成啞巴。<div class="rsshub-quote"><br><br>Gancheng Wang: 比尔·盖兹有没有责任帮助中国人民打破防火墙？… https://twitter.com/i/web/status/1632937853033299968 https://t.co/vHsoBEXKqO<br><br><img style="" src="https://pbs.twimg.com/media/FqlbseTWcAEpnxH?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FqlbseUWYAIvuFO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FqlbseXWAAELsUt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+特務國家，1984老大哥國家。<br>在習黨國生活的所有人，都沒有人格尊嚴。在大數據監控探頭下，每個人的外表都是裸體動物；在大數據語音監控下，每個人都可能言不由衷。說話的人，要麼臣服於奴隸身份；要麼臣服於奴才地位；要挺身做自由人的，要麼在監獄要麼成啞巴。 https://twitter.com/ganchengw/status/1632937853033299968<div class="rsshub-quote"><br><br>Gancheng Wang: 比尔·盖兹有没有责任帮助中国人民打破防火墙？… https://twitter.com/i/web/status/1632937853033299968 https://t.co/vHsoBEXKqO<br><br><img style="" src="https://pbs.twimg.com/media/FqlbseTWcAEpnxH?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FqlbseUWYAIvuFO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FqlbseXWAAELsUt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 19: [2023-03-08 01:30:20+08:00 推文](https://twitter.com/realcaixia/status/1633158151347527682)
 
@@ -105,7 +105,7 @@ Re @wuzuolai 習構建宏大理論理論體系，「中國模式」「人類命�
 
 ### 23: [2023-03-08 07:14:34+08:00 推文](https://twitter.com/realcaixia/status/1633244781114687489)
 
-我和蔡慎坤老師的看法一樣。因為國際輿論和社會反響太大，沒膽量赤裸裸地將中國變成暴力統治下的習黨國，只好偃旗息鼓。但絕不可能以後就「放下屠刀 立地成佛」。替習棒伙放風的媒體，信譽度一定受到損失。這給媒體是個警告，如果不想損害自己的信譽的話，請遠離習黨國，不必為習棒伙大外宣所用。<div class="rsshub-quote"><br><br>蔡慎坤: 机构改革方案没有出台成立中央内务委员会的信息，如此重大的改革方案肯定不适合拿到人大讨论，此前透过港媒放风可能也是试探，发现社会各界包括国际舆论反响太大，只好暂时按兵不动，待时机成熟再行操作，实际上现在中央完全掌控了国务院，改变公安部和国安部归属没有必要，换了人就达到了控制的目的。<br></div>
+我和蔡慎坤老師的看法一樣。因為國際輿論和社會反響太大，沒膽量赤裸裸地將中國變成暴力統治下的習黨國，只好偃旗息鼓。但絕不可能以後就「放下屠刀 立地成佛」。替習棒伙放風的媒體，信譽度一定受到損失。這給媒體是個警告，如果不想損害自己的信譽的話，請遠離習黨國，不必為習棒伙大外宣所用。 https://twitter.com/cskun1989/status/1633136660404912131<div class="rsshub-quote"><br><br>蔡慎坤: 机构改革方案没有出台成立中央内务委员会的信息，如此重大的改革方案肯定不适合拿到人大讨论，此前透过港媒放风可能也是试探，发现社会各界包括国际舆论反响太大，只好暂时按兵不动，待时机成熟再行操作，实际上现在中央完全掌控了国务院，改变公安部和国安部归属没有必要，换了人就达到了控制的目的。<br></div>
 
 ### 24: [2023-03-09 02:50:38+08:00 推文](https://twitter.com/realcaixia/status/1633540748451934209)
 
@@ -117,7 +117,7 @@ Re @wuzuolai 習構建宏大理論理論體系，「中國模式」「人類命�
 
 ### 26: [2023-03-09 04:54:31+08:00 推文](https://twitter.com/realcaixia/status/1633571924604485632)
 
-習黨國在瑞典權威的全球179個國家與地區民主發展程度的排名為倒數為第八名，直接打臉習黨國？屬於專制封閉國家。<br>習近平吹噓的「全過程民主」根本得不到世界各國的認可，相反「創造」了令世界不齒的笑話。 https://twitter.com/hkokbore/status/1632814356147609602<div class="rsshub-quote"><br><br>Ilshat H. Kokbore 伊利夏提: 朝鲜、厄立特里亚和阿富汗排名垫底。其中，美国排名第23位，较去年有所下跌；日本、韩国和台湾分别排第27名、28名和30名，也是亚洲……然而，香港在港版国安法实施后，民主程度已跌至封闭专制地区行列，排名第139位。中国则排名倒数第8，位列缅甸、沙特阿拉伯和白俄罗斯之后。 https://www.rfa.org/mandarin/Xinwen/5-03052023105746.html<br></div>
+習黨國在瑞典權威的全球179個國家與地區民主發展程度的排名為倒數為第八名，直接打臉習黨國？屬於專制封閉國家。<br>習近平吹噓的「全過程民主」根本得不到世界各國的認可，相反「創造」了令世界不齒的笑話。 https://twitter.com/HKokbore/status/1632814356147609602<div class="rsshub-quote"><br><br>Ilshat H. Kokbore 伊利夏提: 朝鲜、厄立特里亚和阿富汗排名垫底。其中，美国排名第23位，较去年有所下跌；日本、韩国和台湾分别排第27名、28名和30名，也是亚洲……然而，香港在港版国安法实施后，民主程度已跌至封闭专制地区行列，排名第139位。中国则排名倒数第8，位列缅甸、沙特阿拉伯和白俄罗斯之后。 https://www.rfa.org/mandarin/Xinwen/5-03052023105746.html<br></div>
 
 ### 27: [2023-03-09 06:01:40+08:00 推文](https://twitter.com/realcaixia/status/1633588820284432385)
 
@@ -137,7 +137,7 @@ Re https://t.co/mziOaeOB1S<br><img style="" src="https://pbs.twimg.com/media/Fqu
 
 ### 31: [2023-03-09 06:45:30+08:00 推文](https://twitter.com/realcaixia/status/1633599853833125889)
 
-俄羅斯在2008年侵略格魯吉亞，搶奪南奧塞梯地區，爆發力5天激烈戰爭，好像是格魯吉亞平民死亡近200人，格魯吉亞軍隊也傷亡了幾百人。格魯吉亞民眾反對俄羅斯就可以理解了。美國有部戰爭片就是根據五天戰爭中的真人真事而寫成劇本拍出電影大片的。那個電影簡介情節都要11分鐘多，沒法發到推特上來。 https://twitter.com/realcaixia/status/1633598165600579584<div class="rsshub-quote"><br><br>蔡霞: https://t.co/mziOaeOB1S<br><br><img style="" src="https://pbs.twimg.com/media/Fqu03ylaMAI8jud?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+俄羅斯在2008年侵略格魯吉亞，搶奪南奧塞梯地區，爆發力5天激烈戰爭，好像是格魯吉亞平民死亡近200人，格魯吉亞軍隊也傷亡了幾百人。格魯吉亞民眾反對俄羅斯就可以理解了。美國有部戰爭片就是根據五天戰爭中的真人真事而寫成劇本拍出電影大片的。那個電影簡介情節都要11分鐘多，沒法發到推特上來。<div class="rsshub-quote"><br><br>蔡霞: https://t.co/mziOaeOB1S<br><br><img style="" src="https://pbs.twimg.com/media/Fqu03ylaMAI8jud?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 32: [2023-03-09 06:57:26+08:00 推文](https://twitter.com/realcaixia/status/1633602856673755136)
 
@@ -145,7 +145,7 @@ Re https://t.co/mziOaeOB1S<br><img style="" src="https://pbs.twimg.com/media/Fqu
 
 ### 33: [2023-03-09 09:48:30+08:00 推文](https://twitter.com/realcaixia/status/1633645904745091072)
 
-我這個年紀的人是完整經歷過文革的，事隔半個多世紀後，文革再現，毛發動文革十年浩劫，幾百上千萬人被迫害致死，被家破人亡，中國瀕臨經濟崩潰絕境，直到毛死，才翻轉局勢；習上台已經禍害了中國人十年，後面還要禍害中國人多少年？！ https://twitter.com/uyunistar/status/1633555859031687174<div class="rsshub-quote"><br><br>赵兰健: ［乌合之众：精神洗脑 群氓效应］<br>［文革复燃：各地开始 革命运动］ https://t.co/4jaSXlpU1l<br><br><video src="https://video.twimg.com/ext_tw_video/1633555793151680516/pu/vid/368x640/irg3BOPTaio6oFmg.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1633555793151680516/pu/img/UU1-RY-o7TmMMnUU.jpg"></video></div>
+我這個年紀的人是完整經歷過文革的，事隔半個多世紀後，文革再現，毛發動文革十年浩劫，幾百上千萬人被迫害致死，被家破人亡，中國瀕臨經濟崩潰絕境，直到毛死，才翻轉局勢；習上台已經禍害了中國人十年，後面還要禍害中國人多少年？！<div class="rsshub-quote"><br><br>赵兰健: ［乌合之众：精神洗脑 群氓效应］<br>［文革复燃：各地开始 革命运动］ https://t.co/4jaSXlpU1l<br><br><video src="https://video.twimg.com/ext_tw_video/1633555793151680516/pu/vid/368x640/irg3BOPTaio6oFmg.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1633555793151680516/pu/img/UU1-RY-o7TmMMnUU.jpg"></video></div>
 
 ### 34: [2023-03-09 11:12:48+08:00 推文](https://twitter.com/realcaixia/status/1633667123607404547)
 
@@ -169,15 +169,15 @@ Re @hermitcrab1949 @liujunning 这是任志强先生公益劳动时的照片。<
 
 ### 39: [2023-03-10 07:55:50+08:00 推文](https://twitter.com/realcaixia/status/1633979940554280960)
 
-好心痛！改革开放成了记忆，年轻人正当施展才华时却成饿殍。这年轻人的父母爷爷奶奶辈，若有妻儿的话，上下几代人如何经得起这样的噩耗？<br>中国的溃败局面，直接原因是习一尊致命愚蠢决策及其疯狂战狼、极端清零等所致，根本上是中共极权制度支撑、纵容习一尊及其战狼作恶所致。劫难何时是尽头……？ https://twitter.com/usabelair2021/status/1633936704250974208<div class="rsshub-quote"><br><br>Nini艾番妮🇺🇸🇭🇰ChinaNews海外华人新闻在线: #富士康  深圳富士康来了很多印度人，正在拆卸8条生产线，计划投资7亿美元移去印度。全盛时期富士康曾在中国提供150万名就业机会。昔日打工天堂东莞，已经开始有人饿死街头。产业链转移大规模失业，那六个亿月入不到千元的人，将有多少人行将陷入饥荒？ https://youtu.be/q1e_hsgzdjM 完整版来自 @YouTube https://twitter.com/i/web/status/1633936704250974208 https://t.co/RNcLZ341m9<br><br><img style="" src="https://pbs.twimg.com/media/FqzosDnaYAEIkQf?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+好心痛！改革开放成了记忆，年轻人正当施展才华时却成饿殍。这年轻人的父母爷爷奶奶辈，若有妻儿的话，上下几代人如何经得起这样的噩耗？<br>中国的溃败局面，直接原因是习一尊致命愚蠢决策及其疯狂战狼、极端清零等所致，根本上是中共极权制度支撑、纵容习一尊及其战狼作恶所致。劫难何时是尽头……？<div class="rsshub-quote"><br><br>Nini艾番妮🇺🇸🇭🇰ChinaNews海外华人新闻在线: #富士康  深圳富士康来了很多印度人，正在拆卸8条生产线，计划投资7亿美元移去印度。全盛时期富士康曾在中国提供150万名就业机会。昔日打工天堂东莞，已经开始有人饿死街头。产业链转移大规模失业，那六个亿月入不到千元的人，将有多少人行将陷入饥荒？ https://youtu.be/q1e_hsgzdjM 完整版来自 @YouTube https://twitter.com/i/web/status/1633936704250974208 https://t.co/RNcLZ341m9<br><br><img style="" src="https://pbs.twimg.com/media/FqzosDnaYAEIkQf?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 40: [2023-03-10 09:33:00+08:00 推文](https://twitter.com/realcaixia/status/1634004394130968576)
 
-李克强是中共党内推进改革力量的代表。很多人明白只有坚持改革开放才有出路。<br>经改必须政改，政改触动中共根本利益，党内有巨大阻力竭力阻止改革。习上台后利用极权制度之恶并放大恶，清洗党内赞同和力推改革的官员，其手段极为凶狠残忍并阴毒，这种环境下李难以作为，但李坚持了底线。应赞李。 https://twitter.com/lianchaohan/status/1633997910546210818<div class="rsshub-quote"><br><br>韩连潮: 【君子斗不过小人】看到李克强凄凉退幕不禁为他感到悲哀，无论其功过，李的学识、能力、为人、操守要超过习近平不知凡几；读法律本科时，他就翻译了《法律的正当程序》，说明他憧憬过在中国建立法治社会；未来尽管他享受正国级待遇，但却要受严厉监控、无人身自由。我的感慨是：党国的官不做也罢。 https://t.co/O0NvlVcCAu<br><br><img style="" src="https://pbs.twimg.com/media/Fq0bmSNXwAAbrem?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+李克强是中共党内推进改革力量的代表。很多人明白只有坚持改革开放才有出路。<br>经改必须政改，政改触动中共根本利益，党内有巨大阻力竭力阻止改革。习上台后利用极权制度之恶并放大恶，清洗党内赞同和力推改革的官员，其手段极为凶狠残忍并阴毒，这种环境下李难以作为，但李坚持了底线。应赞李。<div class="rsshub-quote"><br><br>韩连潮: 【君子斗不过小人】看到李克强凄凉退幕不禁为他感到悲哀，无论其功过，李的学识、能力、为人、操守要超过习近平不知凡几；读法律本科时，他就翻译了《法律的正当程序》，说明他憧憬过在中国建立法治社会；未来尽管他享受正国级待遇，但却要受严厉监控、无人身自由。我的感慨是：党国的官不做也罢。 https://t.co/O0NvlVcCAu<br><br><img style="" src="https://pbs.twimg.com/media/Fq0bmSNXwAAbrem?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 41: [2023-03-10 09:38:06+08:00 推文](https://twitter.com/realcaixia/status/1634005675327229953)
 
-习党国罪孽深重！<div class="rsshub-quote"><br><br>Jane Wang 王剑虹 #FreeZhangZhan: 胡老先生安息🙏求生命的主安慰悲痛中的胡佳🙏<br>https://twitter.com/weiquanwang/status/1633857748164284423<br></div>
+习党国罪孽深重！ https://twitter.com/changchengwai/status/1633931917161578500<div class="rsshub-quote"><br><br>Jane Wang 王剑虹 #FreeZhangZhan: 胡老先生安息🙏求生命的主安慰悲痛中的胡佳🙏<br>https://twitter.com/weiquanwang/status/1633857748164284423<br></div>
 
 ### 42: [2023-03-10 10:11:14+08:00 推文](https://twitter.com/realcaixia/status/1634014016652869635)
 
@@ -201,7 +201,7 @@ Re @xchen156 你以为是宪法法律汇编。我想要么是虚标法治的空�
 
 ### 47: [2023-03-11 08:52:23+08:00 推文](https://twitter.com/realcaixia/status/1634356560800677888)
 
-推薦這個線上會議實況音頻節目。華人新移民的心理健康確實是個很現實的問題，是很多人都會遇到的。開這樣的會是很好的開頭，這可能需要更多的長時間的努力。<div class="rsshub-quote"><br><br>liqun chen（陈立群）: https://twitter.com/i/spaces/1BRKjZWndLLKw<br></div>
+推薦這個線上會議實況音頻節目。華人新移民的心理健康確實是個很現實的問題，是很多人都會遇到的。開這樣的會是很好的開頭，這可能需要更多的長時間的努力。 https://twitter.com/liqunchen/status/1634007678119821312<div class="rsshub-quote"><br><br>liqun chen（陈立群）: https://twitter.com/i/spaces/1BRKjZWndLLKw<br></div>
 
 ### 48: [2023-03-11 09:42:18+08:00 推文](https://twitter.com/realcaixia/status/1634369120509771778)
 
@@ -237,5 +237,5 @@ Re @wongkim728 相信易鋼劉昆是背後頂著「槍」，想退休躺平沒�
 
 ### 56: [2023-03-12 23:33:10+08:00 推文](https://twitter.com/realcaixia/status/1634940605808926720)
 
-淚目。 https://twitter.com/nrlxr9cwfh7hput/status/1634741167912017921<div class="rsshub-quote"><br><br>牛腾宇母亲: 今天是牛腾宇的生日<br>他失去自由已1280天了<br>我彻夜难眠<br>借着黑暗中的一缕光<br>噙着泪水<br>把儿子画出来<br>望着他的眼睛<br>思念如丝般缠绕着全身<br>什么时候<br>才能破茧成蝶<br>在天空自由的飞翔 https://t.co/xwE0FmEN2i<br><br><img style="" src="https://pbs.twimg.com/media/Fq_EaJraAAEXf6a?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+淚目。<div class="rsshub-quote"><br><br>牛腾宇母亲: 今天是牛腾宇的生日<br>他失去自由已1280天了<br>我彻夜难眠<br>借着黑暗中的一缕光<br>噙着泪水<br>把儿子画出来<br>望着他的眼睛<br>思念如丝般缠绕着全身<br>什么时候<br>才能破茧成蝶<br>在天空自由的飞翔 https://t.co/xwE0FmEN2i<br><br><img style="" src="https://pbs.twimg.com/media/Fq_EaJraAAEXf6a?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 

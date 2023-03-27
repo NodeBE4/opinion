@@ -33,7 +33,7 @@ title: 'Twitter @蔡霞: 2022-04-18~2022-04-24'
 
 ### 5: [2022-04-18 08:02:39+08:00 推文](https://twitter.com/realcaixia/status/1515843212354727943)
 
-关洪导演说的是中国大陆当下正在反复证明的至理名言。
+关洪导演说的是中国大陆当下正在反复证明的至理名言。<br><br>贺江兵: 我的老友关洪导演说的完全正确，没有自由你会被饿死！😊<br><br><img style="" src="https://pbs.twimg.com/media/FQiEaLgVgAUal2H?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2022-04-18 08:23:05+08:00 推文](https://twitter.com/realcaixia/status/1515848354290356226)
 
@@ -61,7 +61,7 @@ Re 刘犯了大忌，这下真拍到了马脚上。“踔厉笃行”真乃“�
 
 ### 12: [2022-04-18 10:42:43+08:00 推文](https://twitter.com/realcaixia/status/1515883495498919938)
 
-上海逝者名单，前天晚上逝者数是116，昨天下午是121，今早是132；现在是143。这是不完全统计。刚才看到的逝者有因生计路绝而自杀，有早晨5点多出去偷买菜而掉河中溺水而亡。每个数字都是一个生命，他们中许多人本不该这样走完人生的路程，他们的生命本不会在这时划上句号。病毒毒不死人，清零杀人！
+上海逝者名单，前天晚上逝者数是116，昨天下午是121，今早是132；现在是143。这是不完全统计。刚才看到的逝者有因生计路绝而自杀，有早晨5点多出去偷买菜而掉河中溺水而亡。每个数字都是一个生命，他们中许多人本不该这样走完人生的路程，他们的生命本不会在这时划上句号。病毒毒不死人，清零杀人！<br><br>韩连潮: 病毒毒不死人，制度杀人！<br>关注上海逝者名单接力链接：<br><br><img style="" src="https://pbs.twimg.com/media/FQd40VAXwAcNXMG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN" target="_blank" rel="noopener noreferrer">https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN</a>
 
 ### 13: [2022-04-18 15:35:00+08:00 推文](https://twitter.com/realcaixia/status/1515957049401749507)
 
@@ -105,11 +105,11 @@ Re @yangjianli001 哈哈！
 
 ### 23: [2022-04-20 02:29:10+08:00 推文](https://twitter.com/realcaixia/status/1516484065544708098)
 
-上海逝者名单，上次转推计数143，现在163。实际逝去者远不止163人。接力第157是一位网友记述，他计数到在上海老人院运尸车拉走19位逝去的老人。从143到163，逝去者中还有自杀、急病无处救治、忠于职守的小区物业经理、保安，他们本不该离开人世的。细看每一个接力，令人撕心的痛！
+上海逝者名单，上次转推计数143，现在163。实际逝去者远不止163人。接力第157是一位网友记述，他计数到在上海老人院运尸车拉走19位逝去的老人。从143到163，逝去者中还有自杀、急病无处救治、忠于职守的小区物业经理、保安，他们本不该离开人世的。细看每一个接力，令人撕心的痛！<br><br>韩连潮: 病毒毒不死人，制度杀人！<br>关注上海逝者名单接力链接：<br><br><img style="" src="https://pbs.twimg.com/media/FQd40VAXwAcNXMG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN" target="_blank" rel="noopener noreferrer">https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN</a>
 
 ### 24: [2022-04-20 03:26:12+08:00 推文](https://twitter.com/realcaixia/status/1516498415617773572)
 
-💔😭
+💔😭<br><br>变态辣椒RebelPepper: 上海一保姆講述她照顧的一位老太太因為封城隔離無法及時照顧，被活活餓死，老太太死之前保姆最後一次有機會去看她的時候已經餓到在吃屎<br><br><video src="https://video.twimg.com/ext_tw_video/1516146424903258125/pu/vid/540x952/YX2YY61UDRAdheMV.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1516146424903258125/pu/img/D2eJR8-ro5daj1ha.jpg"></video>
 
 ### 25: [2022-04-20 03:32:53+08:00 推文](https://twitter.com/realcaixia/status/1516500100159258631)
 
@@ -129,11 +129,11 @@ Re 在这个视频下为中共洗地的，全都不是人！这些家伙丧尽�
 
 ### 29: [2022-04-21 07:33:21+08:00 推文](https://twitter.com/realcaixia/status/1516923001849085953)
 
-请听台湾大学生身处上海封城的亲身感受。<br><br>iPaul🇨🇦🇺🇦: 一位台湾交换生在上海复旦大学的感悟<br><br><video src="https://video.twimg.com/ext_tw_video/1516403115612082177/pu/vid/640x360/hJ_6ULeiUrwHBisC.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1516403115612082177/pu/img/OeLrtek3dlxf7UD-.jpg"></video>
+请听台湾大学生身处上海封城的亲身感受。
 
 ### 30: [2022-04-22 08:16:20+08:00 推文](https://twitter.com/realcaixia/status/1517296205520416769)
 
-这句话击碎剩余价值理论—马克思主义的理论基石。剩余价值理论是中共用以煽动仇富，1949年中共搞农村土改、搞城市工商业社会主义改造、抢劫私有财产的理由。中共用剩余价值理论制造了中国社会罪恶的掠夺文化。
+这句话击碎剩余价值理论—马克思主义的理论基石。剩余价值理论是中共用以煽动仇富，1949年中共搞农村土改、搞城市工商业社会主义改造、抢劫私有财产的理由。中共用剩余价值理论制造了中国社会罪恶的掠夺文化。<br><br>苗也: 剥削来自权力，而非资本<br>马斯克能说出这话，不愧是首富<br><br><img style="" src="https://pbs.twimg.com/media/FQr9_xOXMAQf9de?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 31: [2022-04-22 20:22:15+08:00 推文](https://twitter.com/realcaixia/status/1517478888280100865)
 
@@ -197,7 +197,7 @@ Re @caojitw 另一边脚看着是摆在椅子往下，这边脚是踩实了地�
 
 ### 46: [2022-04-24 01:53:59+08:00 推文](https://twitter.com/realcaixia/status/1517924761824808962)
 
-普大帝与习大帝大概同病相怜。感觉习大帝也有腿打晃的，只是掩盖得比普大帝高明。<br><br>💙NiKITa💛🇺🇦🇪🇺: 今日普丁，👀腿<br><br><video src="https://video.twimg.com/ext_tw_video/1517900449483005954/pu/vid/624x352/OO3ARYTE93ktNC5L.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1517900449483005954/pu/img/RfL1S1xH_OMPQrdM.jpg"></video>
+普大帝与习大帝大概同病相怜。感觉习大帝也有腿打晃的，只是掩盖得比普大帝高明。
 
 ### 47: [2022-04-24 22:29:10+08:00 推文](https://twitter.com/realcaixia/status/1518235606777704449)
 
@@ -205,5 +205,5 @@ Re @caojitw 另一边脚看着是摆在椅子往下，这边脚是踩实了地�
 
 ### 48: [2022-04-24 22:35:20+08:00 推文](https://twitter.com/realcaixia/status/1518237159370633216)
 
-这种抓人到了肆无忌惮，人身安全完全没有保障。这是一个国家将要脱序/失序的征兆。
+这种抓人到了肆无忌惮，人身安全完全没有保障。这是一个国家将要脱序/失序的征兆。<br><br>章立凡 Zhang Lifan: ＃转【实录：“像文革运动”（公安大白深夜抓人）】<br><br><img style="" src="https://pbs.twimg.com/media/FREbr4BUcAAg9SR?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FREbsemVgAE06ZN?format=png&amp;name=orig" referrerpolicy="no-referrer">
 

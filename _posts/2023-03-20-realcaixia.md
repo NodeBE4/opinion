@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2023-03-20~2023-03-26'
 
 ### 1: [2023-03-20 03:23:04+08:00 推文](https://twitter.com/realcaixia/status/1637535174052446208)
 
-高瑜大姐多多保重。杜光老先生唱“茶馆小调”我也在场，印象很深。我是后知后觉，我当时只理解q歌词的字面意思。<br>现在想来鲍彤、杜光、蒋彦永等老一代，1940年代是他们青春岁月，他们反抗蒋国民党政府禁言；到了耄耋之年，他们反抗习与中共禁言，老先生唱这歌，实质是总结了他们的一生。令人感慨万千！<div class="rsshub-quote"><br><br>高瑜: 2022年張思之、蔣宗曹、鮑彤三位先生相繼去世，我都被站崗，都被阻止參加告別式，禁止送花圈。送別鮑老那天，國保竟然來了十個人，還從派出所叫來十個片警，揚言要拘捕我兒子，讓我再一次嘗試專政鐵拳。今年兩會被旅遊中，蔣彥永、杜光先生又相繼去世，我更被禁言，我的痛苦像再一次經歷了六四，那年 https://t.co/sbzNfWuIA5<br><br><img style="" src="https://pbs.twimg.com/media/FrkUWYuaUAAWjYp?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrkVO_zaEAA4PPL?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrkXT2waYAcvzw7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+高瑜大姐多多保重。杜光老先生唱“茶馆小调”我也在场，印象很深。我是后知后觉，我当时只理解q歌词的字面意思。<br>现在想来鲍彤、杜光、蒋彦永等老一代，1940年代是他们青春岁月，他们反抗蒋国民党政府禁言；到了耄耋之年，他们反抗习与中共禁言，老先生唱这歌，实质是总结了他们的一生。令人感慨万千！ https://twitter.com/gaoyu200812/status/1637381346401349638<div class="rsshub-quote"><br><br>高瑜: 2022年張思之、蔣宗曹、鮑彤三位先生相繼去世，我都被站崗，都被阻止參加告別式，禁止送花圈。送別鮑老那天，國保竟然來了十個人，還從派出所叫來十個片警，揚言要拘捕我兒子，讓我再一次嘗試專政鐵拳。今年兩會被旅遊中，蔣彥永、杜光先生又相繼去世，我更被禁言，我的痛苦像再一次經歷了六四，那年 https://t.co/sbzNfWuIA5<br><br><img style="" src="https://pbs.twimg.com/media/FrkUWYuaUAAWjYp?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrkVO_zaEAA4PPL?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrkXT2waYAcvzw7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 2: [2023-03-20 04:37:09+08:00 推文](https://twitter.com/realcaixia/status/1637553819340120065)
 
@@ -49,11 +49,11 @@ Re 举中国2020年癌症发病数和死亡数为证：中国新发癌症人数�
 
 ### 9: [2023-03-20 16:00:50+08:00 推文](https://twitter.com/realcaixia/status/1637725872466583553)
 
-莫言写得好！ https://twitter.com/truthmedia_2/status/1625248357399810048<div class="rsshub-quote"><br><br>真相傳媒備用號: 莫言在他的新书《晚熟的人》写道：本性善良的人都晚熟，他们是被劣人催熟的。当别人聪明伶俐时，他们又傻又呆。当别人权衡利弊时，他们一片真诚。当别人心机用尽时，他们灵魂开窍。虽然开窍了，但内心还是会保持善良和赤诚，他们不断寻找同类，最后却变成了最孤独那一个…… https://t.co/slWYfUdOt3<br><br><video src="https://video.twimg.com/ext_tw_video/1625248261140512768/pu/vid/640x360/0YkOOKGG4a4V4Z7c.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1625248261140512768/pu/img/m7wBhXw_pvL5A_aW.jpg"></video></div>
+莫言写得好！<div class="rsshub-quote"><br><br>真相傳媒備用號: 莫言在他的新书《晚熟的人》写道：本性善良的人都晚熟，他们是被劣人催熟的。当别人聪明伶俐时，他们又傻又呆。当别人权衡利弊时，他们一片真诚。当别人心机用尽时，他们灵魂开窍。虽然开窍了，但内心还是会保持善良和赤诚，他们不断寻找同类，最后却变成了最孤独那一个…… https://t.co/slWYfUdOt3<br><br><video src="https://video.twimg.com/ext_tw_video/1625248261140512768/pu/vid/640x360/0YkOOKGG4a4V4Z7c.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1625248261140512768/pu/img/m7wBhXw_pvL5A_aW.jpg"></video></div>
 
 ### 10: [2023-03-20 23:33:40+08:00 推文](https://twitter.com/realcaixia/status/1637839832113377281)
 
-高瑜大姐推文说现在新华社的参考消息没人要了。想起在中央党校学习的官员，晚饭后围着人工湖散步。7点了人行步道上依旧三三两两谈天说笑，有次我问一官员：都7点了，怎么还散步呢？官员说：新闻联播没看头，看7点20分以后的。7点20以后的是新闻联播国际新闻时段。那是2007年以后开始的现象。<div class="rsshub-quote"><br><br>高瑜: 唐老弟說的是今年的事兒嗎？80年代《參考消息》火成什麼樣？現在白送沒人要，怨誰呢？他幾天前發帖講蔣彥永醫生向他學攝影，很有意思。<br></div>
+高瑜大姐推文说现在新华社的参考消息没人要了。想起在中央党校学习的官员，晚饭后围着人工湖散步。7点了人行步道上依旧三三两两谈天说笑，有次我问一官员：都7点了，怎么还散步呢？官员说：新闻联播没看头，看7点20分以后的。7点20以后的是新闻联播国际新闻时段。那是2007年以后开始的现象。 https://twitter.com/gaoyu200812/status/1637749372887916544<div class="rsshub-quote"><br><br>高瑜: 唐老弟說的是今年的事兒嗎？80年代《參考消息》火成什麼樣？現在白送沒人要，怨誰呢？他幾天前發帖講蔣彥永醫生向他學攝影，很有意思。 https://twitter.com/1NO0F20S05zEM51/status/1637736209899192320<br></div>
 
 ### 11: [2023-03-20 23:50:28+08:00 推文](https://twitter.com/realcaixia/status/1637844061930528768)
 
@@ -129,19 +129,19 @@ Re @ChanrichAmy 手术成功了！真是很暖心的好消息🌹🌹。祝贺�
 
 ### 29: [2023-03-23 11:47:45+08:00 推文](https://twitter.com/realcaixia/status/1638749346283008002)
 
-岸田文雄有政治家的胆略和气魄。 https://twitter.com/weixinart/status/1638523587828109312<div class="rsshub-quote"><br><br>WeiXin Art: 日本首相岸田文雄周二突访乌克兰首都基辅。这是自俄入侵乌克兰以来，日本领导人首次访问乌克兰。岸田文雄在访问印度后飞往波兰，随后乘火车前往基辅。他前往被指发生俄军屠杀平民惨案的布查镇悼念遇难者。随后他与乌克兰总统泽连斯基举行了会谈。<br><br>配图：iPad绘画 https://t.co/X55xxqEQln<br><br><img style="" src="https://pbs.twimg.com/media/Fr00hIwXgAAkSiS?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+岸田文雄有政治家的胆略和气魄。<div class="rsshub-quote"><br><br>WeiXin Art: 日本首相岸田文雄周二突访乌克兰首都基辅。这是自俄入侵乌克兰以来，日本领导人首次访问乌克兰。岸田文雄在访问印度后飞往波兰，随后乘火车前往基辅。他前往被指发生俄军屠杀平民惨案的布查镇悼念遇难者。随后他与乌克兰总统泽连斯基举行了会谈。<br><br>配图：iPad绘画 https://t.co/X55xxqEQln<br><br><img style="" src="https://pbs.twimg.com/media/Fr00hIwXgAAkSiS?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 30: [2023-03-24 01:34:26+08:00 推文](https://twitter.com/realcaixia/status/1638957390677549060)
 
-拿镜中花水中月搞大忽悠已经蒙不住人了。看看台湾人的生活实实在在是啥样的，他们手里的选票实实在在地决定总统是谁，他们的护照实实在在地拿在自己手里，去世界旅游免签、落地签或电子签证入境的国家多达146个，完全涵盖欧美发达国家。再看看中国人过的是啥日子，有没有真选票，出境入境是啥样的<div class="rsshub-quote"><br><br>jason hu: https://t.co/JD42PRBxfB<br><br><img style="" src="https://pbs.twimg.com/media/Fr39GeJWYAAfsJg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+拿镜中花水中月搞大忽悠已经蒙不住人了。看看台湾人的生活实实在在是啥样的，他们手里的选票实实在在地决定总统是谁，他们的护照实实在在地拿在自己手里，去世界旅游免签、落地签或电子签证入境的国家多达146个，完全涵盖欧美发达国家。再看看中国人过的是啥日子，有没有真选票，出境入境是啥样的 https://twitter.com/jason27873170/status/1638744130837700612<div class="rsshub-quote"><br><br>jason hu: https://t.co/JD42PRBxfB<br><br><img style="" src="https://pbs.twimg.com/media/Fr39GeJWYAAfsJg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 31: [2023-03-24 01:55:35+08:00 推文](https://twitter.com/realcaixia/status/1638962710967644169)
 
-支持童屹女士！拆掉中共互联网防火墙—中共阻碍信息自由流通的互联网柏林墙—这是改善中国人权状况、推进宪政民主的基础。<div class="rsshub-quote"><br><br>EndGFW Official 拆墙运动公号2: 【如何快速改善中国？拆墙排第1】<br><br>童逸近期给美国国会开出的改善中国民主2大招，包括了拆除互联网防火墙、资助记者律师。她指出，中共最怕本国人民，如果中国人能自由上网，那就易知社会真相，而真相本身就自带强大力量，能打破中共几十年来打造的谎言世界，促成反对派力量的联合。#EndGFW #拆墙运动 https://t.co/mdS6VjWOBZ<br><br><video src="https://video.twimg.com/ext_tw_video/1638588314310836224/pu/vid/644x360/Wki49V9XXLHeMoBP.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1638588314310836224/pu/img/N6d7apNOm4MYdQJz.jpg"></video></div>
+支持童屹女士！拆掉中共互联网防火墙—中共阻碍信息自由流通的互联网柏林墙—这是改善中国人权状况、推进宪政民主的基础。 https://twitter.com/endgfw2/status/1638591903712317440<div class="rsshub-quote"><br><br>EndGFW Official 拆墙运动公号2: 【如何快速改善中国？拆墙排第1】<br><br>童逸近期给美国国会开出的改善中国民主2大招，包括了拆除互联网防火墙、资助记者律师。她指出，中共最怕本国人民，如果中国人能自由上网，那就易知社会真相，而真相本身就自带强大力量，能打破中共几十年来打造的谎言世界，促成反对派力量的联合。#EndGFW #拆墙运动 https://t.co/mdS6VjWOBZ<br><br><video src="https://video.twimg.com/ext_tw_video/1638588314310836224/pu/vid/644x360/Wki49V9XXLHeMoBP.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1638588314310836224/pu/img/N6d7apNOm4MYdQJz.jpg"></video></div>
 
 ### 32: [2023-03-24 03:23:16+08:00 推文](https://twitter.com/realcaixia/status/1638984777377239042)
 
-一个小粉红被专政铁拳砸醒了。警察抓他，非要给他按个“罪名”，以强词夺理说抓他“合理合法”。他从此就有了“污点记录”，这会影响到他的一生生活和前途。<br>希望更多的年轻人醒悟过来。在一个无法治，无公开透明，无言论自由，无人权保障的国度里，今天发生在别人身上的事，说不定明天就发生在你身上。 https://twitter.com/tgtm_official/status/1637997459854221312<div class="rsshub-quote"><br><br>The Great Translation Movement 大翻译运动官方推号: A 22 years old boy who live in Shanghai  taken away by the police due to some unreasonable charges<br><br>#大翻译运动<br>#TheGreatTranslationMovement <br>#大翻譯運動 https://t.co/HpOJEaKq42<br><br><img style="" src="https://pbs.twimg.com/media/FrtNwvTXsAAKVlb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrtNwvNX0AECNiV?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+一个小粉红被专政铁拳砸醒了。警察抓他，非要给他按个“罪名”，以强词夺理说抓他“合理合法”。他从此就有了“污点记录”，这会影响到他的一生生活和前途。<br>希望更多的年轻人醒悟过来。在一个无法治，无公开透明，无言论自由，无人权保障的国度里，今天发生在别人身上的事，说不定明天就发生在你身上。 https://twitter.com/tgtm_official/status/1637997459854221312
 
 ### 33: [2023-03-24 08:10:05+08:00 推文](https://twitter.com/realcaixia/status/1639056958576791554)
 
@@ -157,7 +157,7 @@ Re @zhaochangqing89 是胡石根长老。在京时就多次听说过他的名字
 
 ### 36: [2023-03-25 00:49:05+08:00 推文](https://twitter.com/realcaixia/status/1639308364965617669)
 
-推荐这位推文和目前为止的推特跟帖，跟帖的推友们和推主认真讨论习与国务院系统的关系。习近平帮伙20大灭中共成习“党”，两会灭中国国家体制成习朝。习朝军机处呼之欲出，蔡二掌柜领头。 https://twitter.com/locean0410/status/1639182083297013760<div class="rsshub-quote"><br><br>洋同学的宏观笔记: 最新《国务院工作规则》总则中，<br>1、指导思想删去“马毛邓三科”，只留习思想，强调“党中央权威和集中统一领导”<br>2、总则中删去工作准则，另起到第三章，转而强调“旗帜鲜明讲政治”、“两个确立”、“两个维护”等…<br><br>上条推文的表述，有较强带节奏嫌疑，删了重发，下面附上全文，建议任何信息还是看下全文 https://t.co/REmftIs0Sc<br><br><img style="" src="https://pbs.twimg.com/media/Fr-LagLaYAA21eD?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+推荐这位推文和目前为止的推特跟帖，跟帖的推友们和推主认真讨论习与国务院系统的关系。习近平帮伙20大灭中共成习“党”，两会灭中国国家体制成习朝。习朝军机处呼之欲出，蔡二掌柜领头。<div class="rsshub-quote"><br><br>洋同学的宏观笔记: 最新《国务院工作规则》总则中，<br>1、指导思想删去“马毛邓三科”，只留习思想，强调“党中央权威和集中统一领导”<br>2、总则中删去工作准则，另起到第三章，转而强调“旗帜鲜明讲政治”、“两个确立”、“两个维护”等…<br><br>上条推文的表述，有较强带节奏嫌疑，删了重发，下面附上全文，建议任何信息还是看下全文 https://t.co/REmftIs0Sc<br><br><img style="" src="https://pbs.twimg.com/media/Fr-LagLaYAA21eD?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 37: [2023-03-25 02:01:52+08:00 推文](https://twitter.com/realcaixia/status/1639326679343542273)
 
@@ -165,7 +165,7 @@ Re @zhaochangqing89 是胡石根长老。在京时就多次听说过他的名字
 
 ### 38: [2023-03-25 02:16:22+08:00 推文](https://twitter.com/realcaixia/status/1639330327750377485)
 
-藏人人权组织如果将这类资料收集起来整理翻译成英文，可以让世界更多地了解，1949以来中国极权统治集团对大藏人地区施行的暴力统治真相。如果把资料交到海牙国际人权法院，要求像制裁前南共领导人米洛舍维奇那样，制裁中国犯罪的极权党党魁和酷吏，相信总有一天，正义的呼会给人们回应的。 https://twitter.com/shaojiang/status/1638988966929092615<div class="rsshub-quote"><br><br>Shao Jiang 邵江: Tibetan writer Zangkar Jamyang confirmed serving a 4-year prison sentence after criticising China’s move to drop teaching Tibetan in schools<br>图博红原县作家桑噶蒋扬发表文章批评当局强制汉化教育，被以“煽动分裂国家罪”判刑四年。https://www.rfa.org/english/news/tibet/zangkar-jamyang-03132023170659.html https://cn.vot.org/2023/03/17/%e8%a5%bf%e8%97%8f%e4%b8%80%e4%bd%9c%e5%ae%b6%e5%9b%a0%e5%8f%8d%e5%af%b9%e5%bd%93%e5%b1%80%e5%8f%ab%e5%81%9c%e8%97%8f%e8%af%ad%e8%af%be%e8%80%8c%e9%81%ad%e5%88%a4%e5%88%91%ef%bc%8c%e4%ba%ba%e6%9d%83/<br></div>
+藏人人权组织如果将这类资料收集起来整理翻译成英文，可以让世界更多地了解，1949以来中国极权统治集团对大藏人地区施行的暴力统治真相。如果把资料交到海牙国际人权法院，要求像制裁前南共领导人米洛舍维奇那样，制裁中国犯罪的极权党党魁和酷吏，相信总有一天，正义的呼会给人们回应的。<div class="rsshub-quote"><br><br>Shao Jiang 邵江: Tibetan writer Zangkar Jamyang confirmed serving a 4-year prison sentence after criticising China’s move to drop teaching Tibetan in schools<br>图博红原县作家桑噶蒋扬发表文章批评当局强制汉化教育，被以“煽动分裂国家罪”判刑四年。https://www.rfa.org/english/news/tibet/zangkar-jamyang-03132023170659.html https://cn.vot.org/2023/03/17/%e8%a5%bf%e8%97%8f%e4%b8%80%e4%bd%9c%e5%ae%b6%e5%9b%a0%e5%8f%8d%e5%af%b9%e5%bd%93%e5%b1%80%e5%8f%ab%e5%81%9c%e8%97%8f%e8%af%ad%e8%af%be%e8%80%8c%e9%81%ad%e5%88%a4%e5%88%91%ef%bc%8c%e4%ba%ba%e6%9d%83/<br></div>
 
 ### 39: [2023-03-25 02:24:44+08:00 推文](https://twitter.com/realcaixia/status/1639332433731502080)
 
@@ -197,7 +197,7 @@ Re @LifetoDeathG @yjpc007 不是畸形的逻辑思维，他们没有逻辑，只
 
 ### 46: [2023-03-26 07:43:22+08:00 推文](https://twitter.com/realcaixia/status/1639775008909303808)
 
-在京一次面试申请蔡定剑宪法教育基金奖学金的大学生时，问怎么看当局一面宣传发扬民主，一面压制言论和民主？一位北大学生说“对党和政府要有同情性理解”。<br>我问学生谁教你们这么理解的，答北大法学院强世功教授。我让那学生出去休息，对着在场的北大老师就开骂了：说这么无耻的话配当北大教授吗？！<div class="rsshub-quote"><br><br>李承鹏（真正的大眼哥）: 总看到一些人劝说“宽容比自由重要”。<br><br>其实胡适的原话还有半句，我什么都能容忍，除了愚蠢。<br><br>宽容比自由重要，前提是在一个自由的社会里。如果你在朝鲜，见人们饿得皮包骨头，你还大谈宽容比自由重要，这就太脏了。<br></div>
+在京一次面试申请蔡定剑宪法教育基金奖学金的大学生时，问怎么看当局一面宣传发扬民主，一面压制言论和民主？一位北大学生说“对党和政府要有同情性理解”。<br>我问学生谁教你们这么理解的，答北大法学院强世功教授。我让那学生出去休息，对着在场的北大老师就开骂了：说这么无耻的话配当北大教授吗？！ https://twitter.com/dayangelcp/status/1639567725445124098<div class="rsshub-quote"><br><br>李承鹏（真正的大眼哥）: 总看到一些人劝说“宽容比自由重要”。<br><br>其实胡适的原话还有半句，我什么都能容忍，除了愚蠢。<br><br>宽容比自由重要，前提是在一个自由的社会里。如果你在朝鲜，见人们饿得皮包骨头，你还大谈宽容比自由重要，这就太脏了。<br></div>
 
 ### 47: [2023-03-26 11:16:38+08:00 推文](https://twitter.com/realcaixia/status/1639828680473198592)
 
