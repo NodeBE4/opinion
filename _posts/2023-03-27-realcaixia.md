@@ -23,3 +23,11 @@ title: 'Twitter @蔡霞: 2023-03-27~2023-04-02'
 
 我们都来关注编程随想阮晓寰先生吧，关注就是声援！关注就是支持，关注也是我们尽可能地努力保护阮晓寰。<div class="rsshub-quote"><br><br>中国数字时代: “打开编程随想的一篇篇博文，每一个读者都会看到，这就是21世纪的中国人，在网络上抵抗专制，争取自由的真切证明。”2月10日，“编程随想”阮晓寰被上海市第二中级人民法院以“煽动颠覆国家政权罪”判处有期徒刑七年，没收财产人民币两万元。在《404档案馆》重温编程随想的故事：https://buff.ly/42KyTOb https://t.co/oRT9ncgspM<br><br><video src="https://video.twimg.com/ext_tw_video/1640036656790085637/pu/vid/720x720/x6voXvDZfiATvAyc.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1640036656790085637/pu/img/gTu0j_lWyQ_0zNbe.jpg"></video></div>
 
+### 3: [2023-03-27 10:50:56+08:00 推文](https://twitter.com/realcaixia/status/1640184600592007169)
+
+前外交部副部长傅莹的文章被封。 https://twitter.com/zhanglifan/status/1639991808221487104 https://t.co/qWM6WXp1PQ<br><img style="" src="https://pbs.twimg.com/media/FsMbMwkaUAEA31-?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FsMbMwpaQAEY3um?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><div class="rsshub-quote"><br><br>章立凡 Zhang Lifan: 【前外交部副部长傅莹：一旦中美闹翻，有没有国家会站在中国一边】🔗 https://mp.weixin.qq.com/s/hz4w7vzN7QSz-6PbkKsmvQ https://t.co/NVbwhlivfT<br><br><img style="" src="https://pbs.twimg.com/media/FsJr2M_WwAIR18Q?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 4: [2023-03-27 11:03:24+08:00 推文](https://twitter.com/realcaixia/status/1640187737461649408)
+
+向保卫乌克兰主权和领土完整的勇敢战士们致敬！ https://twitter.com/ukrainiansquad/status/1639946357128478721<div class="rsshub-quote"><br><br>UKRAINIAN SQUAD🇺🇦: Keep believing in these 🇺🇦Warriors. https://t.co/alEyRpXWNR<br><br><video src="https://video.twimg.com/ext_tw_video/1639946222591963136/pu/vid/718x1280/mUWWAjzdf9QATB24.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1639946222591963136/pu/img/T4huAiJSWz7ES2qL.jpg"></video></div>
+
