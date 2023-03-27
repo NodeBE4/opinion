@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2023-03-27~2023-04-02'
 
 ### 1: [2023-03-27 10:20:46+08:00 推文](https://twitter.com/realcaixia/status/1640177008805294080)
 
-看到这些照片，不由得想到709律师的夫人们那几年的艰难抗争。<br>现在是她们——罗胜春、施明磊、陈紫娟与丈夫站在一起，勇敢反对中共极权政权，为争得人权保障，争得自由民主而艰难抗争。他们是新一批令人尊敬令人崇敬的坚强女性！<div class="rsshub-quote"><br><br>FreeChengYuan 释放程渊: 罗胜春@luoshch、陈紫娟 @zijuan_chen 我们仨今天在中国驻美大使馆前抗议，要求 #释放丁家喜 #释放常玮平 #释放许志永 #释放李翘楚 #释放程渊 #StopMilwaukeeToolSlaveLabor https://t.co/DcoTnvErYu<br><br><img style="" src="https://pbs.twimg.com/media/FsHhV0LWAAE5X1K?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FsHhV0JXoAYzNwk?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+看到这些照片，不由得想到709律师的夫人们那几年的艰难抗争。<br>现在是她们——罗胜春、施明磊、陈紫娟与丈夫站在一起，勇敢反对中共极权政权，为争得人权保障，争得自由民主而艰难抗争。他们是新一批令人尊敬令人崇敬的坚强女性！ https://twitter.com/mindyshi227/status/1639839511323574274<div class="rsshub-quote"><br><br>FreeChengYuan 释放程渊: 罗胜春@luoshch、陈紫娟 @zijuan_chen 我们仨今天在中国驻美大使馆前抗议，要求 #释放丁家喜 #释放常玮平 #释放许志永 #释放李翘楚 #释放程渊 #StopMilwaukeeToolSlaveLabor https://t.co/DcoTnvErYu<br><br><img style="" src="https://pbs.twimg.com/media/FsHhV0LWAAE5X1K?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FsHhV0JXoAYzNwk?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 2: [2023-03-27 10:40:49+08:00 推文](https://twitter.com/realcaixia/status/1640182052703305729)
 

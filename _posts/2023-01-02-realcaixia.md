@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2023-01-02~2023-01-08'
 
 ### 4: [2023-01-02 06:03:14+08:00 推文](https://twitter.com/realcaixia/status/1609671618250293248)
 
-这样的年轻人是我们这个民族的希望！
+这样的年轻人是我们这个民族的希望！ <a href="https://twitter.com/xtlu9/status/1609375518624727045" target="_blank" rel="noopener noreferrer">https://twitter.com/xtlu9/status/1609375518624727045</a>
 
 ### 5: [2023-01-02 23:31:00+08:00 推文](https://twitter.com/realcaixia/status/1609935297374195713)
 
@@ -109,7 +109,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FljVTxUaEAExHhB?format=jpg
 
 ### 24: [2023-01-06 09:32:49+08:00 推文](https://twitter.com/realcaixia/status/1611173912137863168)
 
-二十大上就是一个习帮灭了一个“共党”；2023年两会就是百分百的“一朝天子一朝臣”。<br><br>荣剑: 转2:二十大结束到明年三月两会召开，经济主管部门和骨干运行机构处于权力过渡期真空期，虽然不时看到听到旧内阁成员还在发声，但已经没有人再去注意了。未来的经济政策究竟是怎样的，人们无法根据可能入阁以往的行事风格政策主张做出判断。这与当年朱接任首辅前的情形大为不同。<br> <a href="https://twitter.com/rongjian1957/status/1611111265421692928" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1611111265421692928</a>
+二十大上就是一个习帮灭了一个“共党”；2023年两会就是百分百的“一朝天子一朝臣”。<br><br>荣剑: 转2:二十大结束到明年三月两会召开，经济主管部门和骨干运行机构处于权力过渡期真空期，虽然不时看到听到旧内阁成员还在发声，但已经没有人再去注意了。未来的经济政策究竟是怎样的，人们无法根据可能入阁以往的行事风格政策主张做出判断。这与当年朱接任首辅前的情形大为不同。<br>
 
 ### 25: [2023-01-06 23:22:17+08:00 推文](https://twitter.com/realcaixia/status/1611382652623532034)
 

@@ -101,7 +101,7 @@ Re @xinlijian110 这说的是老习与小习。
 
 ### 22: [2022-10-14 01:27:25+08:00 推文](https://twitter.com/realcaixia/status/1580611176462831616)
 
-让我们大家都来关注、都来声援都来响应彭载舟！<br><br>全球倒习救国翡翠运动: 他叫#彭载舟，本名#彭立发，号召大家从10月16日起全民#罢工#罢课#汽车鸣笛。他已经做出表率，在北京四通桥挂出横幅，震惊世界。他已经被拘捕，求仁得仁。一个彭立发，震惊世界。一万个彭立发，再造中国！<br><br><img style="" src="https://pbs.twimg.com/media/Fe9NXhfXgAIENym?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fe9NXheXkAIQmwj?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fe9NXhdWQAsRkdz?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fe9NXheXoAIcBbX?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+让我们大家都来关注、都来声援都来响应彭载舟！<br><br>全球倒习救国翡翠运动: 他叫#彭载舟，本名#彭立发，号召大家从10月16日起全民#罢工#罢课#汽车鸣笛。他已经做出表率，在北京四通桥挂出横幅，震惊世界。他已经被拘捕，求仁得仁。一个彭立发，震惊世界。一万个彭立发，再造中国！<br><br><img style="" src="https://pbs.twimg.com/media/Fe9NXhfXgAIENym?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fe9NXheXkAIQmwj?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fe9NXhdWQAsRkdz?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fe9NXheXoAIcBbX?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/changchengwai/status/1580534048614932481" target="_blank" rel="noopener noreferrer">https://twitter.com/changchengwai/status/1580534048614932481</a>
 
 ### 23: [2022-10-14 03:23:03+08:00 推文](https://twitter.com/realcaixia/status/1580640277106413568)
 

@@ -219,10 +219,10 @@ At the beginning of another short story, 'The Three Musketeers', Kipling include
 
 As recorded in *Redcoats*, the same verse goes:
 
-> Then we marched through Khalasan and we met the wild Afghan  
-> And made him at Karazia for to run boys, oh!  
+> Then we marched through Chalasan and we met the wild Afghan  
+> And made him at Char Asiab for to run boys, oh!  
 > And we marched into Kabul, and we took the Bala Hisar  
-> And we made them respect the British soldier.
+> And we made them to respect the British soldier.
 
 Kipling's version seems like a close enough deviation that might have gone around in the postwar period.
 
