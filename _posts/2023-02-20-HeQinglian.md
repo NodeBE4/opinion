@@ -225,7 +225,7 @@ Re @qqiaoqiao @Lucs24659702 你在推上找出三个以上比我更严谨的吧�
 
 ### 53: [2023-02-21 23:26:50+08:00 推文](https://twitter.com/HeQinglian/status/1628053641792786432)
 
-话说得这么直白，乌鸡血们又要来喷洒正义的热血了。<div class="rsshub-quote"><br><br>Isabel👑💎WW: 我再说一遍，挺俄需要更高门槛，因为需要对历史和现实重新认知，<br><br>挺乌不需要任何头脑，只需要情怀，而且这种情怀还是几十年人家灌输给你的。<br> <a href="https://twitter.com/123450terry/status/1627877464344231936" target="_blank" rel="noopener noreferrer">https://twitter.com/123450terry/status/1627877464344231936</a></div>
+话说得这么直白，乌鸡血们又要来喷洒正义的热血了。<div class="rsshub-quote"><br><br>Isabel👑💎WW: 我再说一遍，挺俄需要更高门槛，因为需要对历史和现实重新认知，<br><br>挺乌不需要任何头脑，只需要情怀，而且这种情怀还是几十年人家灌输给你的。<br></div>
 
 ### 54: [2023-02-21 23:31:02+08:00 推文](https://twitter.com/HeQinglian/status/1628054698199552002)
 
