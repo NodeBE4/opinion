@@ -929,7 +929,7 @@ Re @JianglinLi @Coco198946 @JsP7Y8 @Wu_Zhi 先饿死地主、富农，总归多�
 
 ### 229: [2022-05-07 13:51:33+08:00 推文](https://twitter.com/enoughtalk4/status/1522816386875023360)
 
-RT matho887<br>拜登集团窃选铁证如山💥💯💥<br><br>“在这部电影中，我们展示了至少有 400,000 张欺诈性选票，当你逐州查看它们时……如果你重新绘制选举地图，你会发现这意味着特朗普赢得了 2020 年的选举。 "<br><br>RSBN 🇺🇸: "In this movie, we show that there are at least 400,000 fraudulent votes and when you look at them state by state...And if you re-do the electoral map, you'll see that means that Trump WON the 2020 election." @dineshdsouza<br><br><video src="https://video.twimg.com/amplify_video/1522701583548616704/vid/1280x720/TGKyCj4VljhW_S1L.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1522701583548616704/img/Hi3p1gRxe8tEtw6o.jpg"></video>
+RT matho887<br>拜登集团窃选铁证如山💥💯💥<br><br>“在这部电影中，我们展示了至少有 400,000 张欺诈性选票，当你逐州查看它们时……如果你重新绘制选举地图，你会发现这意味着特朗普赢得了 2020 年的选举。 "
 
 ### 230: [2022-05-07 21:39:51+08:00 推文](https://twitter.com/JiangShangrong/status/1522934236667392000)
 
