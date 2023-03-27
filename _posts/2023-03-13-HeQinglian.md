@@ -17,7 +17,7 @@ title: 'Twitter @He Qinglian: 2023-03-13~2023-03-19'
 
 ### 1: [2023-03-13 01:31:00+08:00 推文](https://twitter.com/HeQinglian/status/1634970256207929346)
 
-英国法律史学家梅因最著名的一段话：<br>“迄今为止，人类历史上所有的进步（不是美国现在这“进步”），就是从身份到契约的转变”。<br>契约思想是西方文化的根基：<br>圣经：上帝与人立约；<br>民主政治：宪政法治就是契约政治的体现。选举政治就是人民委托治理政治，契约就是履行竞选承诺；<br>市场经济：信用基于契约 https://twitter.com/Wu_Zhi/status/1634942635956903937<div class="rsshub-quote"><br><br>zhix: @HeQinglian @JianglinLi 身份政治理论，其逻辑推理的结果最终就会导致种族隔离，现在在实践上还应验了。因此，身份政治理论是垃圾思想，逻辑上的种种矛盾，将会对现实的人类社会造成极大危害，对人类文明来说有害无益。<br></div>
+英国法律史学家梅因最著名的一段话：<br>“迄今为止，人类历史上所有的进步（不是美国现在这“进步”），就是从身份到契约的转变”。<br>契约思想是西方文化的根基：<br>圣经：上帝与人立约；<br>民主政治：宪政法治就是契约政治的体现。选举政治就是人民委托治理政治，契约就是履行竞选承诺；<br>市场经济：信用基于契约<div class="rsshub-quote"><br><br>zhix: @HeQinglian @JianglinLi 身份政治理论，其逻辑推理的结果最终就会导致种族隔离，现在在实践上还应验了。因此，身份政治理论是垃圾思想，逻辑上的种种矛盾，将会对现实的人类社会造成极大危害，对人类文明来说有害无益。<br></div>
 
 ### 2: [2023-03-13 01:34:20+08:00 推文](https://twitter.com/HeQinglian/status/1634971098956824577)
 
@@ -77,7 +77,7 @@ Re @mingshi_chen 这些人与当初那个歌星杰克逊一样，恨自己是黑
 
 ### 16: [2023-03-13 07:55:31+08:00 推文](https://twitter.com/HeQinglian/status/1635067025419825152)
 
-任何人都解决不了。<br>左右均占40%，其中极左28%。决定美国命运的是中间那20%的人，病久了，任何保守派当政，都只能慢慢来，第一任期稳住大盘，发展经济，在州层面扼制极左的胡闹；争取第二任期，再办其中部分事情。 https://twitter.com/wto518/status/1635006257378607111<div class="rsshub-quote"><br><br>麻辣空间: 问几个川普2024的常规问题<br>1、他能解决黑命贵吗？<br>2、他能解决安提法吗？<br>3、他能解决华盛顿罪恶政权吗？<br>4、他能解决变态彩旗吗？<br>5、他能解决FBI和CIA吗？<br>6、他能解决军方吗？<br>7、他能解决制造业吗？<br>8、他能解决左媒吗？<br>9、他能解决司法吗？<br>10、他能解决长生不死吗？… https://twitter.com/i/web/status/1635006257378607111<br></div>
+任何人都解决不了。<br>左右均占40%，其中极左28%。决定美国命运的是中间那20%的人，病久了，任何保守派当政，都只能慢慢来，第一任期稳住大盘，发展经济，在州层面扼制极左的胡闹；争取第二任期，再办其中部分事情。<div class="rsshub-quote"><br><br>麻辣空间: 问几个川普2024的常规问题<br>1、他能解决黑命贵吗？<br>2、他能解决安提法吗？<br>3、他能解决华盛顿罪恶政权吗？<br>4、他能解决变态彩旗吗？<br>5、他能解决FBI和CIA吗？<br>6、他能解决军方吗？<br>7、他能解决制造业吗？<br>8、他能解决左媒吗？<br>9、他能解决司法吗？<br>10、他能解决长生不死吗？… https://twitter.com/i/web/status/1635006257378607111<br></div>
 
 ### 17: [2023-03-13 08:18:47+08:00 推文](https://twitter.com/HeQinglian/status/1635072880055820288)
 
@@ -281,7 +281,7 @@ Re @BA17B8BB9 完全不是一回事。<br>俄乌战争是近30年前美国定出
 
 ### 67: [2023-03-14 03:51:39+08:00 推文](https://twitter.com/HeQinglian/status/1635368039830130688)
 
-Re @qihang19211 简单讲：<br>1、能源格局洗牌，中调整到有利位置，此后俄是中国的最大供家；<br>2、BRICKS势力扩张，原来一直想弄的内部支付系统这次轻易成了（去美元化，人民币国际化）；<br>3、和平12条饱受西方批评，说中国没有资格调停和平。中方立刻表演沙伊建立外交关系、中沙伊联盟。泽连斯基终于求来了与习通电话的机会
+RT He Qinglian<br>Re @qihang19211 简单讲：<br>1、能源格局洗牌，中调整到有利位置，此后俄是中国的最大供家；<br>2、BRICKS势力扩张，原来一直想弄的内部支付系统这次轻易成了（去美元化，人民币国际化）；<br>3、和平12条饱受西方批评，说中国没有资格调停和平。中方立刻表演沙伊建立外交关系、中沙伊联盟。泽连斯基终于求来了与习通电话的机会
 
 ### 68: [2023-03-14 03:52:23+08:00 推文](https://twitter.com/HeQinglian/status/1635368227072270338)
 
@@ -373,7 +373,7 @@ Re @JianglinLi @PrezXi 如果自带饭辙，那当然可以。需要赏饭可能
 
 ### 90: [2023-03-14 10:49:55+08:00 推文](https://twitter.com/shenliangqing2/status/1635473304093097985)
 
-RT 沈良庆二世<br>痴呆政府主导下的西方国家地缘政治：外交战略“既要…也要”第六病室辩证法 https://twitter.com/zaobaosg/status/1635437821245763588<div class="rsshub-quote"><br><br>联合早报 Lianhe Zaobao: 英国在更新版的外交政策框架中，将中国视为对世界秩序构成“划时代的挑战”，但它也表明，倾向于与北京增进合作与理解，并指英国的安全取决于乌克兰战争的结果。 https://www.zaobao.com.sg/realtime/world/story20230314-1372356<br></div>
+RT 沈良庆二世<br>痴呆政府主导下的西方国家地缘政治：外交战略“既要…也要”第六病室辩证法<div class="rsshub-quote"><br><br>联合早报 Lianhe Zaobao: 英国在更新版的外交政策框架中，将中国视为对世界秩序构成“划时代的挑战”，但它也表明，倾向于与北京增进合作与理解，并指英国的安全取决于乌克兰战争的结果。 https://www.zaobao.com.sg/realtime/world/story20230314-1372356<br></div>
 
 ### 91: [2023-03-14 22:01:26+08:00 推文](https://twitter.com/HeQinglian/status/1635642293825699850)
 
@@ -473,7 +473,7 @@ Re @franktianxie 如果你认为，和平12条事先没与俄罗斯沟通过，�
 
 ### 115: [2023-03-15 06:58:44+08:00 推文](https://twitter.com/HeQinglian/status/1635777509152157732)
 
-2008年世界金融危机由美国开始，波及欧洲。美国几个月后就站起来了，欧洲继续衰退。<br>这次金融危机如果将美国击倒，美国是大重置的抓手。除了拜登政府完全臣服于WEF，很难想象两者如何处理这矛盾。<div class="rsshub-quote"><br><br>Lala Dee 台北的天空🦋💫✨🦋💫✨: 世界經濟論壇內部人士承認矽谷銀行崩潰是一個“偉大的重置騙局”<br><br> 一位世界經濟論壇內部人士被抓到吹噓說，矽谷銀行的崩潰是一個精心策劃的陰謀，計劃完美——這次崩潰將對銀行業產生多米諾骨牌效應，導致全球金融崩潰。 https://t.co/DeKbhWhg5e<br><br><img style="" src="https://pbs.twimg.com/media/FrNjvlYWYAAzwch?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+2008年世界金融危机由美国开始，波及欧洲。美国几个月后就站起来了，欧洲继续衰退。<br>这次金融危机如果将美国击倒，美国是大重置的抓手。除了拜登政府完全臣服于WEF，很难想象两者如何处理这矛盾。 https://twitter.com/Lala_Deesky/status/1635760766635655169<div class="rsshub-quote"><br><br>Lala Dee 台北的天空🦋💫✨🦋💫✨: 世界經濟論壇內部人士承認矽谷銀行崩潰是一個“偉大的重置騙局”<br><br> 一位世界經濟論壇內部人士被抓到吹噓說，矽谷銀行的崩潰是一個精心策劃的陰謀，計劃完美——這次崩潰將對銀行業產生多米諾骨牌效應，導致全球金融崩潰。 https://t.co/DeKbhWhg5e<br><br><img style="" src="https://pbs.twimg.com/media/FrNjvlYWYAAzwch?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 116: [2023-03-15 07:33:38+08:00 推文](https://twitter.com/HeQinglian/status/1635786292481912833)
 
@@ -489,7 +489,7 @@ Re @Gerald87816828 还有大麻专业。<br>当然，如果你家愿意资助这
 
 ### 119: [2023-03-15 08:16:59+08:00 推文](https://twitter.com/HeQinglian/status/1635797202185379842)
 
-SVB是 BLM的主要捐助者。该组织是一个治理高度可疑的慈善组织，被可靠地指控腐败分配资金。<br>据克莱蒙特研究所称，记录显示硅谷银行已向BLM及相关团体认捐约 7400 万美元。<br>消费者研究执行董事威尔希尔德说，SVB 的失败“再次表明 SVB 专注于Woke而不是保护客户的存款。” <br>2023 <br>https://trendingpoliticsnews.com/svb-blm-knab/ https://twitter.com/kylenabecker/status/1635775478832275456<div class="rsshub-quote"><br><br>Kyle Becker: This just in: 'Woke' bank getting Biden bailout was a bigtime donor to Black Lives Matter.<br>https://open.substack.com/pub/thekylebecker/p/silicon-valley-bank-getting-a-biden?r=16zqp&amp;utm_campaign=post&amp;utm_medium=web<br></div>
+SVB是 BLM的主要捐助者。该组织是一个治理高度可疑的慈善组织，被可靠地指控腐败分配资金。<br>据克莱蒙特研究所称，记录显示硅谷银行已向BLM及相关团体认捐约 7400 万美元。<br>消费者研究执行董事威尔希尔德说，SVB 的失败“再次表明 SVB 专注于Woke而不是保护客户的存款。” <br>2023 <br>https://trendingpoliticsnews.com/svb-blm-knab/<div class="rsshub-quote"><br><br>Kyle Becker: This just in: 'Woke' bank getting Biden bailout was a bigtime donor to Black Lives Matter.<br>https://open.substack.com/pub/thekylebecker/p/silicon-valley-bank-getting-a-biden?r=16zqp&amp;utm_campaign=post&amp;utm_medium=web<br></div>
 
 ### 120: [2023-03-15 08:18:46+08:00 推文](https://twitter.com/HeQinglian/status/1635797650170859521)
 
@@ -533,7 +533,7 @@ Re @silenceserver @HH82661575 你将我看成了泥塑。<br>我先生脾气比�
 
 ### 130: [2023-03-15 22:11:29+08:00 推文](https://twitter.com/HeQinglian/status/1636007210835906560)
 
-与雷曼时刻相比有个根本的差别。<br>2008年是做金融产品——两房贷款出了问题。这次是Woke式经营出了问题。<br>有个行当叫做“企业诊断”（管理咨询）起源于美国，就是定期或不定期对企业管理状况、经营状况和财务状况进行全面分析。用这套方式诊断SVB，从企业经营理念、方向、管理目标、管理层专业素质，癌症。 https://twitter.com/bbcchinese/status/1635974418991071233<div class="rsshub-quote"><br><br>BBC News 中文: 雷曼倒，股市崩，金融海啸，席卷全球。15年前这一幕，至今还出现在金融人士的噩梦中。硅谷银行倒闭，让不少人联想起“雷曼事件”。那么，硅谷银行倒闭是否是第二个“雷曼事件”？ https://t.co/T3YwGUBELh<br><br><video src="https://video.twimg.com/amplify_video/1635963777064599553/vid/1080x1920/9eYqrBVlbN-Tq-qs.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/media/FrQmDyXX0AAPBPS?format=jpg&amp;name=orig"></video></div>
+与雷曼时刻相比有个根本的差别。<br>2008年是做金融产品——两房贷款出了问题。这次是Woke式经营出了问题。<br>有个行当叫做“企业诊断”（管理咨询）起源于美国，就是定期或不定期对企业管理状况、经营状况和财务状况进行全面分析。用这套方式诊断SVB，从企业经营理念、方向、管理目标、管理层专业素质，癌症。<div class="rsshub-quote"><br><br>BBC News 中文: 雷曼倒，股市崩，金融海啸，席卷全球。15年前这一幕，至今还出现在金融人士的噩梦中。硅谷银行倒闭，让不少人联想起“雷曼事件”。那么，硅谷银行倒闭是否是第二个“雷曼事件”？ https://t.co/T3YwGUBELh<br><br><video src="https://video.twimg.com/amplify_video/1635963777064599553/vid/1080x1920/9eYqrBVlbN-Tq-qs.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/media/FrQmDyXX0AAPBPS?format=jpg&amp;name=orig"></video></div>
 
 ### 131: [2023-03-15 22:14:40+08:00 推文](https://twitter.com/HeQinglian/status/1636008014422368256)
 
@@ -1069,7 +1069,7 @@ Re @Isabel_3299 这有什么好说的？当年茶党被整得奄奄一息，就�
 
 ### 264: [2023-03-19 05:30:52+08:00 推文](https://twitter.com/HeQinglian/status/1637204948780810242)
 
-将马克龙选下去就是，为什么要斩首？选了他，就是将这届权力委托给他了，要他下去，也应该按民主程序，哪怕弹劾、倒阁都行。<br>以民主共和自我标高，却偏要回到当年大革命时代。 https://twitter.com/KELMAND1/status/1636935219369631744<div class="rsshub-quote"><br><br>Ezio Mao☢: “我们斩首了路易十六，我们也可以斩首马克龙！”法国人非常坚决。<br><br>祝法国人民万事如意。我希望欧洲其他国家的人民效仿法国人的榜样。 https://twitter.com/KELMAND1/status/1636718538688966656 https://t.co/QmmjWqiQox<br><br><video src="https://video.twimg.com/ext_tw_video/1636935193335574528/pu/vid/640x352/Am0dBW5jnaRv1PW_.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1636935193335574528/pu/img/U3ldBFt5xkqOxcmV.jpg"></video></div>
+将马克龙选下去就是，为什么要斩首？选了他，就是将这届权力委托给他了，要他下去，也应该按民主程序，哪怕弹劾、倒阁都行。<br>以民主共和自我标高，却偏要回到当年大革命时代。<div class="rsshub-quote"><br><br>Ezio Mao☢: “我们斩首了路易十六，我们也可以斩首马克龙！”法国人非常坚决。<br><br>祝法国人民万事如意。我希望欧洲其他国家的人民效仿法国人的榜样。 https://t.co/QmmjWqiQox<br><br><video src="https://video.twimg.com/ext_tw_video/1636935193335574528/pu/vid/640x352/Am0dBW5jnaRv1PW_.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1636935193335574528/pu/img/U3ldBFt5xkqOxcmV.jpg"></video></div>
 
 ### 265: [2023-03-19 05:48:01+08:00 推文](https://twitter.com/HeQinglian/status/1637209267655655424)
 

@@ -171,3 +171,62 @@ I don't know why you decided just to assert the exact opposite of what my linked
 
 Kira/Odo is I think more polarising than that. Kira/Odo went ahead without really a full reckoning with all the heinous shit Odo got up to, and there's also a decent slice of the fanbase who – I think quite fairly – read early-season Kira as very queer and who basically read Odo as the latest in a series of male flings for Kira that just didn't really land (i.e. Bareil, Shakaar).
 
+----- __1160.2__ -----2023-03-27 08:56:04+08:00:
+
+On the previous thread I [wrote a little bit](https://www.reddit.com/r/HobbyDrama/comments/11vnlzo/hobby_scuffles_week_of_march_20_2023/jdq5zib/) about 'The Dutch in the Medway', a poem from 1911 about an event in 1667 set to music from the 1680s by a musician in 1982, which military music enthusiasts on Youtube have tried to pass off as being an 'English Folk Song' or an 'Anglo-Dutch War Song', neither of which is entirely true, but neither of which is entirely false either. But today I want to talk about a different song, one which I have listened to on and off for the past 6 years if not longer: 'Bang Upon the Big Drum'. This will be a little stream-of-consciousness-y, as I wrote this partly while actually following the leads, so it may be a case of the text being used to organise my thoughts rather than my thoughts being used to organise the text, unfortunately.
+
+The only recording of 'Bang Upon the Big Drum' by a professional group is on the 1971 album *Songs and Music of the Redcoats*, essentially a tie-in with Lewis Winstock's book of the same name, published the year before. Winstock sang in the chorus on part of the album, which was primarily recorded by Martyn Wyndham-Reed, a rather obscure trio called The Druids, and members of the Band of the Scots Guards. It's a very interesting album with selections ranging from the First English Civil War (1642-6) to the Second Anglo-Boer War (1899-1902), some with lyrics and some purely instrumental, including a rather nice rendition of [The Grenadier's Return](https://www.youtube.com/watch?v=QeAtpoZbyEE&t=895s), and in the section simply labelled 'Indian Wars', it has this particular gem: ['Bang Upon the Big Drum'](https://www.youtube.com/watch?v=GnzaR1158UA). Now, based on what people have reproduced of the album lining, Winstock had this to say about it:
+
+> Written at Kabul during the Second Afghan War, this seems to have been popular, as Kipling mentions it several times in his soldier stories.
+
+The Second Anglo-Afghan War, fought between 1878 and 1880, loomed large in the Anglo-Indian historical memory, with serious political failures despite ostensible military successes. And these military successes were not total either. The Battle of Maiwand on 27 July 1880 saw nearly 1000 British and Indian troops killed out of a force of 2500, in what was more or less the only battlefield defeat suffered by the Anglo-Indian army; the 66th (Berkshire) Regiment, one of the principal participants, would continue to mark 'Maiwand Day', even after its absorption into the Duke of Edinburgh's Royal Regiment, until that regiment was dissolved in 1994. The war also saw an incident where 46 cavalrymen drowned attempting a night crossing of the Kabul River, an event Kipling marked with the appropriately-titled ['Ford 'O Kabul River'](https://www.kiplingsociety.co.uk/poem/poems_ford.htm).
+
+But to my eye, it's not necessarily straightforward to claim that Kipling was *recording* a song. Kipling was born in India in 1865, but for the duration of the war, he was at a boarding school in Devon. It was, to be sure, a school run for the children of military officers (of which Kipling was not), but it doesn't seem like the sort of vector by which soldiers' songs would easily reach him. He would not return to India until he started his career as a journalist in 1882, and he then left again for London in 1889, and it is presumably in this period that he would have had the most contact with war veterans. In fact, he went on to have encounters with Second Afghan War veterans in various other places – the poem 'That Day', about the rout of the Berkshires at Maiwand, was inspired by an encounter with a veteran while on holiday in Bermuda in 1894.
+
+Funnily enough, the one place I hadn't thought to look until recently was the website of The Kipling Society, which maintains digitised copies of *The Kipling Journal*, which are made open-access after two years. And this includes the 178th issue of the journal from June 1971, with an article by (drum roll please)......... Lewis Winstock.
+
+*Bingo*.
+
+And what Winstock notes is that there is, in the British Museum, a copy of a song purportedly authored by one Phillip Crampton Neville, an officer in the 14th Lancers during the Second Anglo-Afghan War, titled 'Bang Upon the Big Drum'. I have so far been unable to track this down and I presume it simply isn't online, but assuming that Winstock and others reproduced it faithfully for *Redcoats*, then it appears to be the case that instead of it being pieced together from fragments of Kipling, that Kipling instead pulled fragments out of that. In particular, the following reappear in Kipling:
+
+> Bang upon the big drum, crash upon the cymbals  
+> We'll sing as we go marching along boys, along  
+> And although on this campaign  
+> There's no whiskey or champagne  
+> Still, we'll keep our spirits going with a song, boys!
+
+This, the chorus of the song, appears in the short story 'The Incarnation of Krishna Mulvaney', as follows:
+
+> Bang upon the big drum, bash upon the cymbals,  
+> As we go marchin’ along, boys, oh!  
+> For although  
+> in this campaign  
+> There’s no whisky nor champagne,  
+> We’ll keep our spirits goin’ with a song, boys!
+
+But Kipling also appears to have included alternate lyrics for the second half of one of the verses:
+
+> So they sent a corp’ril’s file,  
+> And they put me in the guard-room  
+> For conduck unbecomin’ of a soldier.
+
+At the beginning of another short story, 'The Three Musketeers', Kipling includes an anonymous 'Barrack-Room Ballad':
+
+> An' when the war began, we chased the bold Afghan,  
+> An' we made the bloomin' Ghazi for to flee, boys O!  
+> An' we marched into Kabul, an' we tuk the Balar 'Issar,  
+> An' we taught 'em to respect the British soldier.
+
+As recorded in *Redcoats*, the same verse goes:
+
+> Then we marched through Khalasan and we met the wild Afghan  
+> And made him at Karazia for to run boys, oh!  
+> And we marched into Kabul, and we took the Bala Hisar  
+> And we made them respect the British soldier.
+
+Kipling's version seems like a close enough deviation that might have gone around in the postwar period.
+
+So what makes this interesting is that the reason that I thought 'Bang Upon the Big Drum' might be a Kipling composite was listening through Peter Bellamy's settings of the Barrack-Room Ballads to music, which includes the tune ['The Bay'nit and the Butt'](https://www.youtube.com/watch?v=1ZSeaj0RM60), where the verse from 'The Three Musketeers' is used. As it turns out, it was Bellamy taking liberties here, by taking that variant of the verse from 'Bang Upon the Big Drum', following it up with a modified version of [the anonymous 'Barrack-Room Ballad'](https://www.kiplingsociety.co.uk/poem/poems_volley.htm) which opens 'The Taking of Lungtungpen'.
+
+Which basically means that I was wrong, but in a good way – the song is in fact real. The appearances of bits and pieces of that song in Kipling are not indications that the song was actually pieced together from Kipling, but rather that fragments did make it into his work by authentic means. And so one can now listen to 'Bang Upon the Big Drum' with considerably less guilt about its historical authenticity. Unless someone digs up the original score from 1889 and finds cause for complaint.
+
