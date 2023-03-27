@@ -141,7 +141,7 @@ Re @CCPoffice 我从部队回到地方定居苏州，后来父母养老都在苏
 
 ### 32: [2022-04-05 09:09:49+08:00 推文](https://twitter.com/realcaixia/status/1511149071708344328)
 
-大翻译找回2020年元旦央视迫害李文亮等八名s吹哨人的新闻播报。历史不能被忘记。需要让全世界更多的人知道武汉病毒的真相。<br><br>新闻调查: 大翻译运动又一杰作，武汉病毒的真相来了<br><br><video src="https://video.twimg.com/ext_tw_video/1510704705630269440/pu/vid/1280x720/d7gebXM6hxKtZKSU.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1510704705630269440/pu/img/exVPb1RXvZtcMvJq.jpg"></video>
+大翻译找回2020年元旦央视迫害李文亮等八名s吹哨人的新闻播报。历史不能被忘记。需要让全世界更多的人知道武汉病毒的真相。
 
 ### 33: [2022-04-05 09:12:06+08:00 推文](https://twitter.com/realcaixia/status/1511149645745078272)
 
@@ -253,7 +253,7 @@ RT @BigRmbusd: 要求解封的声音越来越大<br><video src="https://video.tw
 
 ### 60: [2022-04-07 20:09:30+08:00 推文](https://twitter.com/realcaixia/status/1512039862626656257)
 
-中共军队號稱“人民子弟兵”，8964向人民开枪。64以後，進京的27军向北京市民辯解說他們沒有開槍，開槍的是38軍，說明那時軍人心中還有負罪感。随着中国政治从改革开放转向封闭倒退反动，民众与极权统治矛盾的尖锐化，中共军警殘越来越暴兇惡地對待民眾、这类侵害人權的暴力犯罪行為，屡屡发生处处可见。<br><br>新闻/真话: 宁波一个捡破烂的老头，被狠狠的踩在一块木板下，目光呆滞，他一定在怀疑自己穿越了，遇到皇军了<br><br><img style="" src="https://pbs.twimg.com/media/FPvG935aIAIbxT6?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+中共军队號稱“人民子弟兵”，8964向人民开枪。64以後，進京的27军向北京市民辯解說他們沒有開槍，開槍的是38軍，說明那時軍人心中還有負罪感。随着中国政治从改革开放转向封闭倒退反动，民众与极权统治矛盾的尖锐化，中共军警殘越来越暴兇惡地對待民眾、这类侵害人權的暴力犯罪行為，屡屡发生处处可见。
 
 ### 61: [2022-04-08 20:27:47+08:00 推文](https://twitter.com/realcaixia/status/1512406852948181003)
 
@@ -269,7 +269,7 @@ RT @BigRmbusd: 要求解封的声音越来越大<br><video src="https://video.tw
 
 ### 64: [2022-04-09 22:04:41+08:00 推文](https://twitter.com/realcaixia/status/1512793625066979339)
 
-清零祸国殃民，祸首在海里吃喝不愁。21世纪，国际大都会，上海高楼大厦里，将有饿死冤魂。<br><br>大耳朵猫妹: 就一个字，惨<br><br><img style="" src="https://pbs.twimg.com/media/FP0sATZX0AwJPI7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP0sATpWUAMVMr_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP0sAU8XwAQ--Zh?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP0sAVJXwAQP4-q?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+清零祸国殃民，祸首在海里吃喝不愁。21世纪，国际大都会，上海高楼大厦里，将有饿死冤魂。
 
 ### 65: [2022-04-09 22:34:47+08:00 推文](https://twitter.com/realcaixia/status/1512801200147628033)
 
@@ -281,7 +281,7 @@ RT @BigRmbusd: 要求解封的声音越来越大<br><video src="https://video.tw
 
 ### 67: [2022-04-09 23:25:32+08:00 推文](https://twitter.com/realcaixia/status/1512813972965273600)
 
-习当局推行上海市清零封城：<br>独裁强权意志+计划控制思维+政府行政包揽+顺民臣民文化=人祸：大规模次生人道灾难
+习当局推行上海市清零封城：<br>独裁强权意志+计划控制思维+政府行政包揽+顺民臣民文化=人祸：大规模次生人道灾难<br><br>Murong Xuecun慕容雪村: 《上海人為什么會飢餓》，完整版<br><br><img style="" src="https://pbs.twimg.com/media/FP4ZNLDaQAUJgEE?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP4ZNLOakAAVEEq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP4ZNLJaQAElLPN?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 68: [2022-04-09 23:28:27+08:00 推文](https://twitter.com/realcaixia/status/1512814706800660480)
 
@@ -289,7 +289,7 @@ Re @JinYuzhe_ 我删了哪个推文？
 
 ### 69: [2022-04-10 00:19:18+08:00 推文](https://twitter.com/realcaixia/status/1512827504192598022)
 
-上海13万阳性，1例重症；98%为无症状感染者。上海封城迄今，封2600万人禁足挨饿。竟有多少婴幼儿被从母亲身边强行带走？竟有几万病人无法做肾透析？又有多少急病突发死于无医院救治？有多少人因封城断了生计而轻生赴死？有多少人因发出求生呼吁而被官员警察恐吓惩罚？有多少人遭百卫兵和警察毒打迫害？
+上海13万阳性，1例重症；98%为无症状感染者。上海封城迄今，封2600万人禁足挨饿。竟有多少婴幼儿被从母亲身边强行带走？竟有几万病人无法做肾透析？又有多少急病突发死于无医院救治？有多少人因封城断了生计而轻生赴死？有多少人因发出求生呼吁而被官员警察恐吓惩罚？有多少人遭百卫兵和警察毒打迫害？<br><br>荣剑: 最高指示要求以最小代价防控疫情，实际上是不计代价，上海目前13万阳，只有一例重症，没有死亡，却封了全上海，2500万人足不出户，真是看不懂。<br><br><img style="" src="https://pbs.twimg.com/media/FP0xz31VUAk-Lm6?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 70: [2022-04-10 03:41:35+08:00 推文](https://twitter.com/realcaixia/status/1512878409260703752)
 
@@ -305,5 +305,5 @@ Re @HenryCh34283099 @EdwinHChiang 就是我上面这个Edwin Chiang 的什么李
 
 ### 73: [2022-04-10 05:03:09+08:00 推文](https://twitter.com/realcaixia/status/1512898936020873220)
 
-萧瀚教授是有学识有境界的正义者。他对中共极权制度的揭露批判，对宪政民主政治的坚定信念，使他许多年来被剥夺教学上课的权利，但他始终没有后退过半步！十多年前我们一起在一共6人参加的晚餐上见面聊天。他低调，沉静，坚毅，令人敬佩。
+萧瀚教授是有学识有境界的正义者。他对中共极权制度的揭露批判，对宪政民主政治的坚定信念，使他许多年来被剥夺教学上课的权利，但他始终没有后退过半步！十多年前我们一起在一共6人参加的晚餐上见面聊天。他低调，沉静，坚毅，令人敬佩。<br><br>Nini艾番妮USA- Fata morgana🇺🇸🇭🇰🎗️✋👍: #上海疫情 一手资料，中国政法大学法学院副教授萧瀚不要命了，开天窗，痛骂习近平，此文随后被秒删。<br><br><img style="" src="https://pbs.twimg.com/media/FPzy988VUAIxWnO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPzy988VcAAHKTj?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPzy987VsAIwISb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPzy988VUAg7Ok-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

@@ -93,15 +93,15 @@ Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style src="
 
 ### 20: [2022-01-05 22:05:33+08:00 推文](https://twitter.com/realcaixia/status/1478729384701960202)
 
-中共如此害怕西安情况从民间传出去，可见中共官方对外隐藏了真相。在事涉社会公共事务并且每个人切身利益与当下情况有直接关联的，政府有责任及时公开情况，不得隐瞒更不得扭曲撒谎。这本是政府最基本的最起码的行事原则，但中共肆意与之相反，并且镇压民间叙述真实情况。反常必有妖，怕见光必有妖！<br><br>自由亚洲电台: 【“清零” 杀手锏】<br>【西安政府禁发小道疫情消息传负面新闻】<br>详细报道 : <br>西安居民手机收到政府“重要通知”:“群里不允许发疫情期间小道消息,马路新闻、小程序、链接、疫情视频，尤其是负面新闻，微信团队的 后台在监控着所有的微信群,如有负面新闻传播，这个群就会被封掉。”<br><br><img style="" src="https://pbs.twimg.com/media/FIVO1szXoAAaepT?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3pVdf8j" target="_blank" rel="noopener noreferrer">https://bit.ly/3pVdf8j</a>
+中共如此害怕西安情况从民间传出去，可见中共官方对外隐藏了真相。在事涉社会公共事务并且每个人切身利益与当下情况有直接关联的，政府有责任及时公开情况，不得隐瞒更不得扭曲撒谎。这本是政府最基本的最起码的行事原则，但中共肆意与之相反，并且镇压民间叙述真实情况。反常必有妖，怕见光必有妖！<br><br>自由亚洲电台: 【“清零” 杀手锏】<br>【西安政府禁发小道疫情消息传负面新闻】<br>详细报道 : <br>西安居民手机收到政府“重要通知”:“群里不允许发疫情期间小道消息,马路新闻、小程序、链接、疫情视频，尤其是负面新闻，微信团队的 后台在监控着所有的微信群,如有负面新闻传播，这个群就会被封掉。”<br><br><img style src="https://pbs.twimg.com/media/FIVO1szXoAAaepT?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3pVdf8j" target="_blank" rel="noopener noreferrer">https://bit.ly/3pVdf8j</a>
 
 ### 21: [2022-01-05 22:23:56+08:00 推文](https://twitter.com/realcaixia/status/1478734010260066307)
 
-封锁真相，禁止发声，这是专制独裁者的本能做法。言论自由新闻自由既是民主政治的前提又是民主政治的最基本最重要的要素。说真话遭镇压，何来民主？！把习的“全过程民主”说辞与中共当下对西安疫情做法一起观照，习的“全过程民主”就不只是荒谬可笑，实质是全过程恐怖暴政。<br><br>高瑜: 1300萬人被封城哪能不發聲！<br>西安雁塔區委書記、副書記被免職，人民日報的官微評論區評論上萬。<br>獨立媒體人，前財新記者江雪發表《長安十日》<br>不論聲音響不響，能發出就不易！不論代價如何，先致敬！撲滅這樣的聲音，那叫泯滅人性！<br><br><img style="" src="https://pbs.twimg.com/media/FIT8zUcakAEhi7k?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIT82lMaAAIQBlw?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://reurl.cc/8Wn0eo" target="_blank" rel="noopener noreferrer">https://reurl.cc/8Wn0eo</a> <a href="https://reurl.cc/bkRDAy" target="_blank" rel="noopener noreferrer">https://reurl.cc/bkRDAy</a>
+封锁真相，禁止发声，这是专制独裁者的本能做法。言论自由新闻自由既是民主政治的前提又是民主政治的最基本最重要的要素。说真话遭镇压，何来民主？！把习的“全过程民主”说辞与中共当下对西安疫情做法一起观照，习的“全过程民主”就不只是荒谬可笑，实质是全过程恐怖暴政。<br><br>高瑜: 1300萬人被封城哪能不發聲！<br>西安雁塔區委書記、副書記被免職，人民日報的官微評論區評論上萬。<br>獨立媒體人，前財新記者江雪發表《長安十日》<br>不論聲音響不響，能發出就不易！不論代價如何，先致敬！撲滅這樣的聲音，那叫泯滅人性！<br><br><img style src="https://pbs.twimg.com/media/FIT8zUcakAEhi7k?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIT82lMaAAIQBlw?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://reurl.cc/8Wn0eo" target="_blank" rel="noopener noreferrer">https://reurl.cc/8Wn0eo</a> <a href="https://reurl.cc/bkRDAy" target="_blank" rel="noopener noreferrer">https://reurl.cc/bkRDAy</a>
 
 ### 22: [2022-01-05 22:40:25+08:00 推文](https://twitter.com/realcaixia/status/1478738161132093449)
 
-偶然读到了这篇短文，好心酸。这是大陆最底层民生艰难的真实叙述，是一颗悲苦的灵魂最后的呼喊。希望更多的网友来读这篇带着孩子稚嫩笔迹的短文。特此推荐。<br><br>请勿提我的名字🙏: 小时候学朱自清的背影，最让我感动的就是父亲肥胖的背影那段描写，这篇短文再次让我感动了，小文不是视频，没办法摆拍吧<br><br><img style src="https://pbs.twimg.com/media/FITXz2tVcAErygy?format=jpg&name=orig" referrerpolicy="no-referrer">
+偶然读到了这篇短文，好心酸。这是大陆最底层民生艰难的真实叙述，是一颗悲苦的灵魂最后的呼喊。希望更多的网友来读这篇带着孩子稚嫩笔迹的短文。特此推荐。<br><br>请勿提我的名字🙏: 小时候学朱自清的背影，最让我感动的就是父亲肥胖的背影那段描写，这篇短文再次让我感动了，小文不是视频，没办法摆拍吧<br><br><img style="" src="https://pbs.twimg.com/media/FITXz2tVcAErygy?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 23: [2022-01-05 22:59:27+08:00 推文](https://twitter.com/realcaixia/status/1478742949714399236)
 
@@ -129,7 +129,7 @@ Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style src="
 
 ### 29: [2022-01-07 20:08:52+08:00 推文](https://twitter.com/realcaixia/status/1479424797704609792)
 
-央视每天关心美国报道美国，无视中国人感受，评论区再翻车。<br><br>rigi2019 (Parler and Safechat ID : @rigi2019: 央妈忘记关闭评论了（转）<br>😂🤣<br><br><img style src="https://pbs.twimg.com/media/FIdOGajXMAEEbVH?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIdOGagXwAA9_Hr?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIdOGaiWQAQOuvu?format=jpg&name=orig" referrerpolicy="no-referrer">
+央视每天关心美国报道美国，无视中国人感受，评论区再翻车。<br><br>rigi2019 (Parler and Safechat ID : @rigi2019: 央妈忘记关闭评论了（转）<br>😂🤣<br><br><img style="" src="https://pbs.twimg.com/media/FIdOGajXMAEEbVH?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIdOGagXwAA9_Hr?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIdOGaiWQAQOuvu?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 30: [2022-01-07 20:31:59+08:00 推文](https://twitter.com/realcaixia/status/1479430615606996993)
 
