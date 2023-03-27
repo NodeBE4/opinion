@@ -105,7 +105,7 @@ Re @TDTCCP @keke201707 並且黨國特色！
 
 ### 23: [2023-03-16 01:48:00+08:00 推文](https://twitter.com/realcaixia/status/1636061701966815234)
 
-推友說得太好了！蔣彥永醫生是唯一把2003年SARS、2019年至今的COVID-19 、1989年6.4凝集於一身的歷史性人物。<br>若中國有先賢祠，蔣彥永、李銳、何方、李洪林、杜光、李普、胡績偉、王若望、王若水、王元化、劉冰雁，方勵之等前輩必定在列。<br>而袁世凱、毛澤東、袁二世等必定被釘在中國歷史恥辱柱上。<div class="rsshub-quote"><br><br>赵兰健: ［蒋彦永：中华民族骄傲史诗符号］<br>蒋彦永医生是唯一能把2003年非典、新冠疫情、六四事件三件重要历史凝结在一起的全球关注焦点人物。他的超小型告别仪式正在戒备森严下举办。很多亲人、战友、同事都未被允许参加。自从2019年他被关起来后到现在，基本完全噤声，亲友全被威胁和限制。 https://t.co/aJjn9Gk1Tp<br><br><img style="" src="https://pbs.twimg.com/media/FrOzZcpXgAA-DbB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+推友說得太好了！蔣彥永醫生是唯一把2003年SARS、2019年至今的COVID-19 、1989年6.4凝集於一身的歷史性人物。<br>若中國有先賢祠，蔣彥永、李銳、何方、李洪林、杜光、李普、胡績偉、王若望、王若水、王元化、劉冰雁，方勵之等前輩必定在列。<br>而袁世凱、毛澤東、袁二世等必定被釘在中國歷史恥辱柱上。 https://twitter.com/uyunistar/status/1635848341891448834<div class="rsshub-quote"><br><br>赵兰健: ［蒋彦永：中华民族骄傲史诗符号］<br>蒋彦永医生是唯一能把2003年非典、新冠疫情、六四事件三件重要历史凝结在一起的全球关注焦点人物。他的超小型告别仪式正在戒备森严下举办。很多亲人、战友、同事都未被允许参加。自从2019年他被关起来后到现在，基本完全噤声，亲友全被威胁和限制。 https://t.co/aJjn9Gk1Tp<br><br><img style="" src="https://pbs.twimg.com/media/FrOzZcpXgAA-DbB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 24: [2023-03-16 02:37:17+08:00 推文](https://twitter.com/realcaixia/status/1636074101642240000)
 

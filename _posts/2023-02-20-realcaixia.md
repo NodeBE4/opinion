@@ -25,11 +25,11 @@ title: 'Twitter @蔡霞: 2023-02-20~2023-02-26'
 
 ### 3: [2023-02-20 08:33:23+08:00 推文](https://twitter.com/realcaixia/status/1627466410715906048)
 
-习吹中国式现代化创造人类文明新形态：<br>贫富悬殊，中共国占世界前五位；<br>经济：⬇️面窥一斑而见全貌；<br>政治：习共党深陷塔西陀陷阱，   民众从白纸—烟花—白发革命…<br>法治：铁链女、唐山四女、胡鑫宇，公检法合演“胡芦僧判葫芦案”<br>生态：土地、江海河流、空气，无不带毒；<br><br> https://m.youtube.com/watch?v=E-h3swakL_A
+习吹中国式现代化创造人类文明新形态：<br>贫富悬殊，中共国占世界前五位；<br>经济：⬇️面窥一斑而见全貌；<br>政治：习共党深陷塔西陀陷阱，   民众从白纸—烟花—白发革命…<br>法治：铁链女、唐山四女、胡鑫宇，公检法合演“胡芦僧判葫芦案”<br>生态：土地、江海河流、空气，无不带毒； <a href="https://m.youtube.com/watch?v=E-h3swakL_A" target="_blank" rel="noopener noreferrer">https://m.youtube.com/watch?v=E-h3swakL_A</a>
 
 ### 4: [2023-02-20 08:55:12+08:00 推文](https://twitter.com/realcaixia/status/1627471898752987137)
 
-Re 教育、文化、科技创新😭<br><br>消费：各地裁员滚滚，收入维持不了生活，谁敢消费？企业倒闭、商店关门，市场半瘫，恶性循环。<br><br>国际关系：信誉扫地，空前孤立，交好国尽为恐怖国家：俄罗斯、北朝鲜、伊朗…<br><br>瘟疫与战争：源头尽在中共等恐怖国…<br><br>中国式现代化究竟是人类文明新新形态还是人类劫难新记录？！<br><img style="" src="https://pbs.twimg.com/media/FpXxEBtaMAAVtQs?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpXxEBtacAITan3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re 教育、文化、科技创新😭<br><br>消费：各地裁员滚滚，收入维持不了生活，谁敢消费？企业倒闭、商店关门，市场半瘫，恶性循环。<br><br>国际关系：信誉扫地，空前孤立，交好国尽为恐怖国家：俄罗斯、北朝鲜、伊朗…<br><br>瘟疫与战争：源头尽在中共等恐怖国…<br><br>中国式现代化究竟是人类文明新新形态还是人类劫难新记录？！ https://t.co/KSGxX2oyHL<br><img style="" src="https://pbs.twimg.com/media/FpXxEBtaMAAVtQs?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpXxEBtacAITan3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2023-02-21 07:31:18+08:00 推文](https://twitter.com/realcaixia/status/1627813171519168513)
 
@@ -49,7 +49,7 @@ Re @reallijiakun 中庸是不走极端。
 
 ### 9: [2023-02-22 05:43:44+08:00 推文](https://twitter.com/realcaixia/status/1628148492396003328)
 
-特别推荐：长沙一个NGO组织创始人程渊，一直在从事维护权利平等活动，尤其对底层民众。他在他被监禁的3年半被剥夺合法权利，被判罪，被强制劳动等，他始终不屈服。<br>他的妻子施明磊同样非常了不起，勇敢站出来公开揭露中共黑监狱的种种黑内幕。请关注和支持程渊和施明磊。 https://youtu.be/9PGPK5eHnaQ
+特别推荐：长沙一个NGO组织创始人程渊，一直在从事维护权利平等活动，尤其对底层民众。他在他被监禁的3年半被剥夺合法权利，被判罪，被强制劳动等，他始终不屈服。<br>他的妻子施明磊同样非常了不起，勇敢站出来公开揭露中共黑监狱的种种黑内幕。请关注和支持程渊和施明磊。 <a href="https://youtu.be/9PGPK5eHnaQ" target="_blank" rel="noopener noreferrer">https://youtu.be/9PGPK5eHnaQ</a>
 
 ### 10: [2023-02-22 05:53:43+08:00 推文](https://twitter.com/realcaixia/status/1628151001617412103)
 
@@ -57,7 +57,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fphas_zaMAMf-a6?format=jpg
 
 ### 11: [2023-02-22 06:02:15+08:00 推文](https://twitter.com/realcaixia/status/1628153150954950656)
 
-凡恐怖国家平时都会训练孩子学用武器，到战争时期，孩子们被送上战场做炮灰。生长在恐怖国家的孩子们命运多舛，甚之生命就定格在少年时期。 https://twitter.com/zhangdong_sch/status/1627847135235387392<div class="rsshub-quote"><br><br>ZHANGDONG: 俄罗斯幼儿园，和中国小学生有一比。可怜的孩子们从小被军国主义毒化。 https://twitter.com/Gerashchenko_en/status/1627712977276227584<br></div>
+凡恐怖国家平时都会训练孩子学用武器，到战争时期，孩子们被送上战场做炮灰。生长在恐怖国家的孩子们命运多舛，甚之生命就定格在少年时期。<div class="rsshub-quote"><br><br>ZHANGDONG: 俄罗斯幼儿园，和中国小学生有一比。可怜的孩子们从小被军国主义毒化。<br></div>
 
 ### 12: [2023-02-22 06:31:11+08:00 推文](https://twitter.com/realcaixia/status/1628160432107098114)
 
@@ -65,7 +65,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fphas_zaMAMf-a6?format=jpg
 
 ### 13: [2023-02-22 06:35:45+08:00 推文](https://twitter.com/realcaixia/status/1628161581233078274)
 
-别说中国没一个孩子想，连成人都不敢想也不想想。<div class="rsshub-quote"><br><br>李隽🇦🇺: 听听这个少年说他为什么要上学，为什么学习知识。中国有一个孩子这样想吗？ https://t.co/MNz2NNWQqB<br><br><video src="https://video.twimg.com/ext_tw_video/1627617293026070528/pu/vid/592x1280/-gK6VxJG6LBYZCW3.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1627617293026070528/pu/img/TfEwb2TZd83-BPZ1.jpg"></video></div>
+别说中国没一个孩子想，连成人都不敢想也不想想。<div class="rsshub-quote"><br><br>李隽🇦🇺: 听听这个少年说他为什么要上学，为什么学习知识。中国有一个孩子这样想吗？<br><br><video src="https://video.twimg.com/ext_tw_video/1627617293026070528/pu/vid/592x1280/-gK6VxJG6LBYZCW3.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1627617293026070528/pu/img/TfEwb2TZd83-BPZ1.jpg"></video></div>
 
 ### 14: [2023-02-22 08:15:55+08:00 推文](https://twitter.com/realcaixia/status/1628186790698917888)
 
@@ -73,19 +73,19 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fphas_zaMAMf-a6?format=jpg
 
 ### 15: [2023-02-22 08:29:55+08:00 推文](https://twitter.com/realcaixia/status/1628190312098107394)
 
-Re https://t.co/TNult4X23E<br><img style="" src="https://pbs.twimg.com/media/Fph-dRUXoAIuM1n?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re <br><img style="" src="https://pbs.twimg.com/media/Fph-dRUXoAIuM1n?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 16: [2023-02-23 13:42:30+08:00 推文](https://twitter.com/realcaixia/status/1628631362818256898)
 
-泪目……，面对王藏和王丽这样的义士，所有语言都是苍白无力的。唯愿保护好自己，保护好身体，看他们垮台。 https://twitter.com/0530wlq/status/1628332885710376961<div class="rsshub-quote"><br><br>王丽（王藏妻子）: 王藏关押996天，今下午第一次会见到。<br>王藏十分消瘦，皮肤黝黑，感觉很憔悴。我心里非常难过心疼。<br>我两年半的刑期，他非常内疚自责。我说“我无怨无悔，我愿意”。<br>他收到了朋友寄的明信片，让我感谢朋友们！<br>特别感谢昆明的朋友一路陪同和热情款待！<br>感谢所有关心支持的朋友们，祝大家安康快乐！ https://t.co/8vfoyQjhhF<br><br><img style="" src="https://pbs.twimg.com/media/FpkAH8naYAAl4fv?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+泪目……，面对王藏和王丽这样的义士，所有语言都是苍白无力的。唯愿保护好自己，保护好身体，看他们垮台。<div class="rsshub-quote"><br><br>王丽（王藏妻子）: 王藏关押996天，今下午第一次会见到。<br>王藏十分消瘦，皮肤黝黑，感觉很憔悴。我心里非常难过心疼。<br>我两年半的刑期，他非常内疚自责。我说“我无怨无悔，我愿意”。<br>他收到了朋友寄的明信片，让我感谢朋友们！<br>特别感谢昆明的朋友一路陪同和热情款待！<br>感谢所有关心支持的朋友们，祝大家安康快乐！ https://t.co/8vfoyQjhhF<br><br><img style="" src="https://pbs.twimg.com/media/FpkAH8naYAAl4fv?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 17: [2023-02-24 04:06:26+08:00 推文](https://twitter.com/realcaixia/status/1628848780039831552)
 
-这样的遭遇未来还会发生。只要是“中国式”、“中国模式”、“中国特色”无论说得多么天花乱坠，实质是一个：华丽包装的背后是“12亿人都是习奴党奴”。当他们经济好时，他们吃肉，习奴党奴喝残羹剩汤；当他们经济不好时，他们对习奴党奴敲骨吸髓。何止河南村镇银行的储户如此，最近的“医保改革”更如此。<div class="rsshub-quote"><br><br>河南污名化储户侵占存款🇺🇦杨功迅，杨佳: @realcaixia 请同胞们帮转发下河南村镇银行悲惨储户，家破人亡了<br></div>
+这样的遭遇未来还会发生。只要是“中国式”、“中国模式”、“中国特色”无论说得多么天花乱坠，实质是一个：华丽包装的背后是“12亿人都是习奴党奴”。当他们经济好时，他们吃肉，习奴党奴喝残羹剩汤；当他们经济不好时，他们对习奴党奴敲骨吸髓。何止河南村镇银行的储户如此，最近的“医保改革”更如此。 https://twitter.com/officialsevil/status/1628189546574667777<div class="rsshub-quote"><br><br>河南污名化储户侵占存款🇺🇦杨功迅，杨佳: @realcaixia 请同胞们帮转发下河南村镇银行悲惨储户，家破人亡了 https://twitter.com/stephan65022719/status/1626920132877459458<br></div>
 
 ### 18: [2023-02-24 04:37:53+08:00 推文](https://twitter.com/realcaixia/status/1628856695278698496)
 
-说得好！莫斯科普京要恢复沙俄帝国的版图；北京习要把习国扩张成习天下，一带一路只是习的扩张序曲，一些非洲国家的人讲汉语唱红歌是习天下“中国梦”的一部分。 https://twitter.com/zhangdong_sch/status/1628790016921960451<div class="rsshub-quote"><br><br>ZHANGDONG: 2月24日乌俄战争爆发一周年之际，柏林勃兰登堡将有两个针锋相对的抗议集会，一方是支持乌克兰反抗俄普帝入侵战争，另一方是劝降求和出卖乌克兰。<br>很多劝降派被虚伪和平迷惑，殊不知普京胃口不止要吞并乌克兰一国，他是要恢复大俄沙皇帝国版图，前苏维埃加盟国都是他锅里的肉。普帝得逞，世界不得安宁。 https://twitter.com/LjudmylaMelnyk/status/1628469934681477121 https://t.co/DhkDSoVSRw<br><br><img style="" src="https://pbs.twimg.com/media/Fpqf4zyWcAAAypB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+说得好！莫斯科普京要恢复沙俄帝国的版图；北京习要把习国扩张成习天下，一带一路只是习的扩张序曲，一些非洲国家的人讲汉语唱红歌是习天下“中国梦”的一部分。<div class="rsshub-quote"><br><br>ZHANGDONG: 2月24日乌俄战争爆发一周年之际，柏林勃兰登堡将有两个针锋相对的抗议集会，一方是支持乌克兰反抗俄普帝入侵战争，另一方是劝降求和出卖乌克兰。<br>很多劝降派被虚伪和平迷惑，殊不知普京胃口不止要吞并乌克兰一国，他是要恢复大俄沙皇帝国版图，前苏维埃加盟国都是他锅里的肉。普帝得逞，世界不得安宁。 https://t.co/DhkDSoVSRw<br><br><img style="" src="https://pbs.twimg.com/media/Fpqf4zyWcAAAypB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 19: [2023-02-24 04:41:57+08:00 推文](https://twitter.com/realcaixia/status/1628857717413797888)
 
