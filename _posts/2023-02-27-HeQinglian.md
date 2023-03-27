@@ -361,7 +361,7 @@ Re @dinglili7 BLM会很不高兴。
 
 ### 87: [2023-03-02 01:45:23+08:00 推文](https://twitter.com/HeQinglian/status/1630987612650450947)
 
-RT He Qinglian<br>全球经济-政治版图之变：中美关系是杠杆<br>https://www.rfa.org/mandarin/pinglun/heqinglian/hql-03012023111612.html<br>中国2022年获得的8776亿美元顺差，8019亿来自于欧美。从2023年影响中美关系的六大变量来看，美国仍居于优势地位，能否发挥优势，一取决于美国国内经济政治状态，二取决于他国在新的多极世界中追随谁；三取决于美国的外交手段是否高明。
+全球经济-政治版图之变：中美关系是杠杆<br>https://www.rfa.org/mandarin/pinglun/heqinglian/hql-03012023111612.html<br>中国2022年获得的8776亿美元顺差，8019亿来自于欧美。从2023年影响中美关系的六大变量来看，美国仍居于优势地位，能否发挥优势，一取决于美国国内经济政治状态，二取决于他国在新的多极世界中追随谁；三取决于美国的外交手段是否高明。
 
 ### 88: [2023-03-02 01:52:16+08:00 推文](https://twitter.com/HeQinglian/status/1630989342985338880)
 
@@ -409,7 +409,7 @@ Re @Wpattern @Wu_Zhi 你这种人死了，也是垃圾。
 
 ### 99: [2023-03-02 05:28:57+08:00 推文](https://twitter.com/HeQinglian/status/1631043873211383808)
 
-这就得好好探究一下其中原因了。 https://twitter.com/NAConservative9/status/1631042652983504896<div class="rsshub-quote"><br><br>《北美保守评论》: 📍美国的教会正在衰落之中，在美国每周平均有86座新教教堂关闭，那是一天12间，田纳西州纳什维尔的 LifeWay https://youtu.be/CZV08xO4MEU… https://twitter.com/i/web/status/1631042652983504896 https://t.co/BWbVfcuUvm<br><br><video src="https://video.twimg.com/amplify_video/1631042621119295488/vid/888x494/_UaVw5MUM8QwPV84.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1631042621119295488/img/EizSWMbuB5JgrcTZ.jpg"></video></div>
+这就得好好探究一下其中原因了。<div class="rsshub-quote"><br><br>《北美保守评论》: 📍美国的教会正在衰落之中，在美国每周平均有86座新教教堂关闭，那是一天12间，田纳西州纳什维尔的 LifeWay https://youtu.be/CZV08xO4MEU… https://twitter.com/i/web/status/1631042652983504896 https://t.co/BWbVfcuUvm<br><br><video src="https://video.twimg.com/amplify_video/1631042621119295488/vid/888x494/_UaVw5MUM8QwPV84.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1631042621119295488/img/EizSWMbuB5JgrcTZ.jpg"></video></div>
 
 ### 100: [2023-03-02 06:02:06+08:00 推文](https://twitter.com/HeQinglian/status/1631052216680235008)
 
@@ -513,7 +513,7 @@ Re @JianglinLi @kanjianweilai @shenliangqing2 @Isabel_3299 行至水穷处，坐
 
 ### 125: [2023-03-03 01:12:14+08:00 推文](https://twitter.com/HeQinglian/status/1631341656623529984)
 
-三个主要原因导致了罗马帝国的崩溃。一，帝国变得过大，一个单一的中心已难以对其进行管治。分成东西两半，又破坏了其权力垄断性。二，帝国长期的狂妄自大造成了文化上的享乐主义，精英的腐败导致社会的全面腐败。三，持续的通货膨胀破坏这一体制的那种维持自身又无需作出社会牺牲的能力。 https://twitter.com/HeQinglian/status/1631290944552071171<div class="rsshub-quote"><br><br>He Qinglian: @shenliangqing2 @Isabel_3299 共和党最后只能先内部决战一场，说起来悲哀，美国国运悬于此一线，如果运气好，缓和几年，也许有机会。<br>但反正不会再是布热津斯基当年写《大棋局》时那种操盘一切的气势了，最多就是个棋手。<br>雅典的僭主政治+罗马帝国晚期的荒淫-身份政治。也许最后能够成就一部《新罗马帝国衰亡史》。<br></div>
+三个主要原因导致了罗马帝国的崩溃。一，帝国变得过大，一个单一的中心已难以对其进行管治。分成东西两半，又破坏了其权力垄断性。二，帝国长期的狂妄自大造成了文化上的享乐主义，精英的腐败导致社会的全面腐败。三，持续的通货膨胀破坏这一体制的那种维持自身又无需作出社会牺牲的能力。<div class="rsshub-quote"><br><br>He Qinglian: @shenliangqing2 @Isabel_3299 共和党最后只能先内部决战一场，说起来悲哀，美国国运悬于此一线，如果运气好，缓和几年，也许有机会。<br>但反正不会再是布热津斯基当年写《大棋局》时那种操盘一切的气势了，最多就是个棋手。<br>雅典的僭主政治+罗马帝国晚期的荒淫-身份政治。也许最后能够成就一部《新罗马帝国衰亡史》。<br></div>
 
 ### 126: [2023-03-03 01:16:03+08:00 推文](https://twitter.com/HeQinglian/status/1631342619069431809)
 
@@ -673,7 +673,7 @@ Re @chang36997001 治毒用重典吧。美国自己这样做，也不要再通�
 
 ### 165: [2023-03-05 10:47:55+08:00 推文](https://twitter.com/HeQinglian/status/1632211308287238144)
 
-这事与毛文革时“三结合”配置干部异曲同工：革委会必须按工农兵出身配置干部，是否专业不在考虑之列。<div class="rsshub-quote"><br><br>李江琳: 拜登提名的美国联邦航空管理局局长候选人对航空政策测试成绩：零蛋。---不过政治很正确。<br></div>
+这事与毛文革时“三结合”配置干部异曲同工：革委会必须按工农兵出身配置干部，是否专业不在考虑之列。 https://twitter.com/JianglinLi/status/1631840855030988804<div class="rsshub-quote"><br><br>李江琳: 拜登提名的美国联邦航空管理局局长候选人对航空政策测试成绩：零蛋。---不过政治很正确。 https://twitter.com/TheChiefNerd/status/1631655344115007490<br></div>
 
 ### 166: [2023-03-05 20:33:24+08:00 推文](https://twitter.com/HeQinglian/status/1632358649992495106)
 

@@ -25,7 +25,7 @@ Re @a4_dao @qiaoxinxin88 我同意这位网友的意见。
 
 ### 3: [2023-03-13 03:41:17+08:00 推文](https://twitter.com/realcaixia/status/1635003044655173634)
 
-我同意这位推友的意见，希望更多的人共同合作，一起努力。 https://twitter.com/a4_dao/status/1634974285491224576<div class="rsshub-quote"><br><br>A4DAO: 说“拆墙”是当前民运中最高优先级的发力点不为过，因为1.直接关系言论自由。2.可以秒级取证。而汤伟雄又让大家看到了“联署”这一有力武器，希望民运的领袖级人物都来关注 #拆墙行动  #EndGFW，贡献智力和其它资源。<br>https://chng.it/NyPKTcdr<br></div>
+我同意这位推友的意见，希望更多的人共同合作，一起努力。<div class="rsshub-quote"><br><br>A4DAO: 说“拆墙”是当前民运中最高优先级的发力点不为过，因为1.直接关系言论自由。2.可以秒级取证。而汤伟雄又让大家看到了“联署”这一有力武器，希望民运的领袖级人物都来关注 #拆墙行动  #EndGFW，贡献智力和其它资源。<br>https://chng.it/NyPKTcdr<br></div>
 
 ### 4: [2023-03-13 07:16:05+08:00 推文](https://twitter.com/realcaixia/status/1635057100387938307)
 
@@ -105,7 +105,7 @@ Re @TDTCCP @keke201707 並且黨國特色！
 
 ### 23: [2023-03-16 01:48:00+08:00 推文](https://twitter.com/realcaixia/status/1636061701966815234)
 
-推友說得太好了！蔣彥永醫生是唯一把2003年SARS、2019年至今的COVID-19 、1989年6.4凝集於一身的歷史性人物。<br>若中國有先賢祠，蔣彥永、李銳、何方、李洪林、杜光、李普、胡績偉、王若望、王若水、王元化、劉冰雁，方勵之等前輩必定在列。<br>而袁世凱、毛澤東、袁二世等必定被釘在中國歷史恥辱柱上。 https://twitter.com/uyunistar/status/1635848341891448834<div class="rsshub-quote"><br><br>赵兰健: ［蒋彦永：中华民族骄傲史诗符号］<br>蒋彦永医生是唯一能把2003年非典、新冠疫情、六四事件三件重要历史凝结在一起的全球关注焦点人物。他的超小型告别仪式正在戒备森严下举办。很多亲人、战友、同事都未被允许参加。自从2019年他被关起来后到现在，基本完全噤声，亲友全被威胁和限制。 https://t.co/aJjn9Gk1Tp<br><br><img style="" src="https://pbs.twimg.com/media/FrOzZcpXgAA-DbB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+推友說得太好了！蔣彥永醫生是唯一把2003年SARS、2019年至今的COVID-19 、1989年6.4凝集於一身的歷史性人物。<br>若中國有先賢祠，蔣彥永、李銳、何方、李洪林、杜光、李普、胡績偉、王若望、王若水、王元化、劉冰雁，方勵之等前輩必定在列。<br>而袁世凱、毛澤東、袁二世等必定被釘在中國歷史恥辱柱上。<div class="rsshub-quote"><br><br>赵兰健: ［蒋彦永：中华民族骄傲史诗符号］<br>蒋彦永医生是唯一能把2003年非典、新冠疫情、六四事件三件重要历史凝结在一起的全球关注焦点人物。他的超小型告别仪式正在戒备森严下举办。很多亲人、战友、同事都未被允许参加。自从2019年他被关起来后到现在，基本完全噤声，亲友全被威胁和限制。 https://t.co/aJjn9Gk1Tp<br><br><img style="" src="https://pbs.twimg.com/media/FrOzZcpXgAA-DbB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 24: [2023-03-16 02:37:17+08:00 推文](https://twitter.com/realcaixia/status/1636074101642240000)
 
@@ -121,7 +121,7 @@ Re @zechengyu1 @Perfectionalism @HongLong2022 李书磊的简历这份大致是�
 
 ### 27: [2023-03-18 03:23:42+08:00 推文](https://twitter.com/realcaixia/status/1636810560879706112)
 
-普京为了个人野心，将俄罗斯人和乌克兰人拖进战争血海中。国际海牙刑事法院对普京的逮捕令，可以警告世界上一切个人野心家战争狂，世界已经不允许任何人挑起毁灭人类文明的战争罪行！ https://twitter.com/zhangdong_sch/status/1636799372162654208<div class="rsshub-quote"><br><br>ZHANGDONG: 海牙国际刑事法院今天对普京发出逮捕令！<br>这下问题来了，习近平将于本月20号访俄拜会普京，拜访被国际法院通缉的战犯，史无前例！ https://www.icc-cpi.int/news/situation-ukraine-icc-judges-issue-arrest-warrants-against-vladimir-vladimirovich-putin-and<br></div>
+普京为了个人野心，将俄罗斯人和乌克兰人拖进战争血海中。国际海牙刑事法院对普京的逮捕令，可以警告世界上一切个人野心家战争狂，世界已经不允许任何人挑起毁灭人类文明的战争罪行！<div class="rsshub-quote"><br><br>ZHANGDONG: 海牙国际刑事法院今天对普京发出逮捕令！<br>这下问题来了，习近平将于本月20号访俄拜会普京，拜访被国际法院通缉的战犯，史无前例！ https://www.icc-cpi.int/news/situation-ukraine-icc-judges-issue-arrest-warrants-against-vladimir-vladimirovich-putin-and<br></div>
 
 ### 28: [2023-03-18 04:08:11+08:00 推文](https://twitter.com/realcaixia/status/1636821752046309376)
 
@@ -129,7 +129,7 @@ Re @ChrisLaw125 @Lewis57675410 @HongLong2022 李书磊出生于91年-93年曾任
 
 ### 29: [2023-03-18 10:08:21+08:00 推文](https://twitter.com/realcaixia/status/1636912392184508417)
 
-中共警察的野蛮残暴，在他们眼里中国民众如同动物。 https://twitter.com/lonelywarriorma/status/1636805414263349250<div class="rsshub-quote"><br><br>为自由而战-天山剑客: 中国警察用渔网捕人<br>就因为这女子用手机拍了他们做的恶<br><br> https://t.co/g9eTUrTGuP<br><br><video src="https://video.twimg.com/ext_tw_video/1636731478032920582/pu/vid/576x1018/SJooOoUDDCHeg-TX.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1636731478032920582/pu/img/nQnyaICFT50SVV-A.jpg"></video></div>
+中共警察的野蛮残暴，在他们眼里中国民众如同动物。<div class="rsshub-quote"><br><br>为自由而战-天山剑客: 中国警察用渔网捕人<br>就因为这女子用手机拍了他们做的恶<br><br> https://t.co/g9eTUrTGuP<br><br><video src="https://video.twimg.com/ext_tw_video/1636731478032920582/pu/vid/576x1018/SJooOoUDDCHeg-TX.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1636731478032920582/pu/img/nQnyaICFT50SVV-A.jpg"></video></div>
 
 ### 30: [2023-03-18 23:30:51+08:00 推文](https://twitter.com/realcaixia/status/1637114349130223616)
 
@@ -141,7 +141,7 @@ Re https://t.co/W3MtHBLRDk<br><img style="" src="https://pbs.twimg.com/media/Frg
 
 ### 32: [2023-03-18 23:43:19+08:00 推文](https://twitter.com/realcaixia/status/1637117485509148673)
 
-這具有海外報警的意義和作用。習黨大規模殘酷施行殘暴統治超過此前任何一個中共黨領導人當政時期，是從2014年開始的，至今依舊在進行中。<div class="rsshub-quote"><br><br>为自由而战-天山剑客: 紧急事件<br><br>新疆现在开始又大量抓捕少数民族，就在刚刚我家亲戚被秘密抓捕，45岁女被公安秘密抓捕。我朋友的爸爸被抓捕65岁，没有任何逮捕证，直接抓走了，我现在好愤怒，我X你M的共匪<br>在新疆的人要注意了，注意了<br>这几天新疆特别严格，共匪开始重新，手机要清空<br>重要的事说三遍，不要大意，不要大意<br></div>
+這具有海外報警的意義和作用。習黨大規模殘酷施行殘暴統治超過此前任何一個中共黨領導人當政時期，是從2014年開始的，至今依舊在進行中。 https://twitter.com/lonelywarriorma/status/1636406692534685696<div class="rsshub-quote"><br><br>为自由而战-天山剑客: 紧急事件<br><br>新疆现在开始又大量抓捕少数民族，就在刚刚我家亲戚被秘密抓捕，45岁女被公安秘密抓捕。我朋友的爸爸被抓捕65岁，没有任何逮捕证，直接抓走了，我现在好愤怒，我X你M的共匪<br>在新疆的人要注意了，注意了<br>这几天新疆特别严格，共匪开始重新，手机要清空<br>重要的事说三遍，不要大意，不要大意<br></div>
 
 ### 33: [2023-03-19 08:24:14+08:00 推文](https://twitter.com/realcaixia/status/1637248578103148544)
 
