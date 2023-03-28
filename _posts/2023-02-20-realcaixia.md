@@ -17,15 +17,15 @@ title: 'Twitter @蔡霞: 2023-02-20~2023-02-26'
 
 ### 1: [2023-02-20 01:32:52+08:00 推文](https://twitter.com/realcaixia/status/1627360581853528064)
 
-普京侵略乌克兰，送上战场上死了的都是普京的炮灰，普京自己不出一滴血。<br>习武统台湾将送上战场的军人与后备人员，相当于现在普京的炮灰，习的炮灰是18岁—60岁的人。对家庭来说，他们是家的顶梁柱；对民族传续而言，他们是中坚力量。为满足普习野心而自毁民族中坚，普习都是民族的罪人。<div class="rsshub-quote"><br><br>華潤萬家: 《兲朝🇨🇳预备役法》2023年3月1日开始实施，未雨绸缪，承平日久必有战事的历史规律加上国际形势变化，不得不提前布局。如果发生大战各级武装力量上战场顺序：<br>首批，现役陆海空各部队；<br>次批，武装警察部队；<br>三批，预备役和退役军人；<br>四批，18-60岁的普通人；<br>最后一批，人民警察等公务员队伍。<br><br><video src="https://video.twimg.com/ext_tw_video/1627274543260930049/pu/vid/720x720/MJ6EdYbFPVhu2rbm.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1627274543260930049/pu/img/CP8f1fRCKCHlVKEa.jpg"></video></div>
+普京侵略乌克兰，送上战场上死了的都是普京的炮灰，普京自己不出一滴血。<br>习武统台湾将送上战场的军人与后备人员，相当于现在普京的炮灰，习的炮灰是18岁—60岁的人。对家庭来说，他们是家的顶梁柱；对民族传续而言，他们是中坚力量。为满足普习野心而自毁民族中坚，普习都是民族的罪人。<div class="rsshub-quote"><br><br>華潤萬家: 《兲朝🇨🇳预备役法》2023年3月1日开始实施，未雨绸缪，承平日久必有战事的历史规律加上国际形势变化，不得不提前布局。如果发生大战各级武装力量上战场顺序：<br>首批，现役陆海空各部队；<br>次批，武装警察部队；<br>三批，预备役和退役军人；<br>四批，18-60岁的普通人；<br>最后一批，人民警察等公务员队伍。 https://t.co/lGy5mfmEEU<br><br><video src="https://video.twimg.com/ext_tw_video/1627274543260930049/pu/vid/720x720/MJ6EdYbFPVhu2rbm.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1627274543260930049/pu/img/CP8f1fRCKCHlVKEa.jpg"></video></div>
 
 ### 2: [2023-02-20 01:48:02+08:00 推文](https://twitter.com/realcaixia/status/1627364397743230976)
 
-很有道理。<div class="rsshub-quote"><br><br>量子跃迁: 原创：洪流滚滚 https://t.co/70Z7Ske4ix<br><br><img style="" src="https://pbs.twimg.com/media/FpVgwJRaYAEFLtS?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpVgwuUaEAEs9mE?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
+很有道理。 https://twitter.com/liangziyueqian1/status/1627313235488808963<div class="rsshub-quote"><br><br>量子跃迁: 原创：洪流滚滚 https://t.co/70Z7Ske4ix<br><br><img style="" src="https://pbs.twimg.com/media/FpVgwJRaYAEFLtS?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpVgwuUaEAEs9mE?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 3: [2023-02-20 08:33:23+08:00 推文](https://twitter.com/realcaixia/status/1627466410715906048)
 
-习吹中国式现代化创造人类文明新形态：<br>贫富悬殊，中共国占世界前五位；<br>经济：⬇️面窥一斑而见全貌；<br>政治：习共党深陷塔西陀陷阱，   民众从白纸—烟花—白发革命…<br>法治：铁链女、唐山四女、胡鑫宇，公检法合演“胡芦僧判葫芦案”<br>生态：土地、江海河流、空气，无不带毒； <a href="https://m.youtube.com/watch?v=E-h3swakL_A" target="_blank" rel="noopener noreferrer">https://m.youtube.com/watch?v=E-h3swakL_A</a>
+习吹中国式现代化创造人类文明新形态：<br>贫富悬殊，中共国占世界前五位；<br>经济：⬇️面窥一斑而见全貌；<br>政治：习共党深陷塔西陀陷阱，   民众从白纸—烟花—白发革命…<br>法治：铁链女、唐山四女、胡鑫宇，公检法合演“胡芦僧判葫芦案”<br>生态：土地、江海河流、空气，无不带毒；<br><br> https://m.youtube.com/watch?v=E-h3swakL_A
 
 ### 4: [2023-02-20 08:55:12+08:00 推文](https://twitter.com/realcaixia/status/1627471898752987137)
 
@@ -45,7 +45,7 @@ Re @reallijiakun 中庸是不走极端。
 
 ### 8: [2023-02-21 11:46:01+08:00 推文](https://twitter.com/realcaixia/status/1627877274325336067)
 
-以言治罪。<div class="rsshub-quote"><br><br>亚军&amp;王歪嘴: 革委会 https://t.co/y0DNmpqN5v<br><br><img style="" src="https://pbs.twimg.com/media/FpZr6U_aMAA1cZC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+以言治罪。<div class="rsshub-quote"><br><br>亚军&amp;王歪嘴: 革委会<br><br><img style="" src="https://pbs.twimg.com/media/FpZr6U_aMAA1cZC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 9: [2023-02-22 05:43:44+08:00 推文](https://twitter.com/realcaixia/status/1628148492396003328)
 
@@ -57,11 +57,11 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fphas_zaMAMf-a6?format=jpg
 
 ### 11: [2023-02-22 06:02:15+08:00 推文](https://twitter.com/realcaixia/status/1628153150954950656)
 
-凡恐怖国家平时都会训练孩子学用武器，到战争时期，孩子们被送上战场做炮灰。生长在恐怖国家的孩子们命运多舛，甚之生命就定格在少年时期。 https://twitter.com/zhangdong_sch/status/1627847135235387392<div class="rsshub-quote"><br><br>ZHANGDONG: 俄罗斯幼儿园，和中国小学生有一比。可怜的孩子们从小被军国主义毒化。 https://twitter.com/Gerashchenko_en/status/1627712977276227584<br></div>
+凡恐怖国家平时都会训练孩子学用武器，到战争时期，孩子们被送上战场做炮灰。生长在恐怖国家的孩子们命运多舛，甚之生命就定格在少年时期。<div class="rsshub-quote"><br><br>ZHANGDONG: 俄罗斯幼儿园，和中国小学生有一比。可怜的孩子们从小被军国主义毒化。<br> <a href="https://twitter.com/Gerashchenko_en/status/1627712977276227584" target="_blank" rel="noopener noreferrer">https://twitter.com/Gerashchenko_en/status/1627712977276227584</a></div>
 
 ### 12: [2023-02-22 06:31:11+08:00 推文](https://twitter.com/realcaixia/status/1628160432107098114)
 
-习控制的政府给俄军提供军粮，是比提供常规武器还严重的援助普京侵略战争行为。<div class="rsshub-quote"><br><br>ZHANGDONG: 中国向俄军提供军粮，虽然不是致命武器，但是保命，算不算军援呢？战场上敌对双方唯一目的就是消灭对方，杀伤有生力量，你死我活。现在有一种声音主张和平谈判，但是只要求西方停止向乌克兰提供武器，而不要求普京撤军停火。这是虚伪的和平主义者，是偏袒侵略方俄罗斯，而让乌克兰放下武器最终灭国。 https://t.co/KuVc1AaH9h<br><br><video src="https://video.twimg.com/ext_tw_video/1627708655838560266/pu/vid/720x1280/nT7r4Onn2h8RBM3K.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1627708655838560266/pu/img/OLWd_gPhC7t2y2RG.jpg"></video></div>
+习控制的政府给俄军提供军粮，是比提供常规武器还严重的援助普京侵略战争行为。<div class="rsshub-quote"><br><br>ZHANGDONG: 中国向俄军提供军粮，虽然不是致命武器，但是保命，算不算军援呢？战场上敌对双方唯一目的就是消灭对方，杀伤有生力量，你死我活。现在有一种声音主张和平谈判，但是只要求西方停止向乌克兰提供武器，而不要求普京撤军停火。这是虚伪的和平主义者，是偏袒侵略方俄罗斯，而让乌克兰放下武器最终灭国。<br><br><video src="https://video.twimg.com/ext_tw_video/1627708655838560266/pu/vid/720x1280/nT7r4Onn2h8RBM3K.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1627708655838560266/pu/img/OLWd_gPhC7t2y2RG.jpg"></video></div>
 
 ### 13: [2023-02-22 06:35:45+08:00 推文](https://twitter.com/realcaixia/status/1628161581233078274)
 
@@ -73,15 +73,15 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fphas_zaMAMf-a6?format=jpg
 
 ### 15: [2023-02-22 08:29:55+08:00 推文](https://twitter.com/realcaixia/status/1628190312098107394)
 
-Re <br><img style="" src="https://pbs.twimg.com/media/Fph-dRUXoAIuM1n?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re https://t.co/TNult4X23E<br><img style="" src="https://pbs.twimg.com/media/Fph-dRUXoAIuM1n?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 16: [2023-02-23 13:42:30+08:00 推文](https://twitter.com/realcaixia/status/1628631362818256898)
 
-泪目……，面对王藏和王丽这样的义士，所有语言都是苍白无力的。唯愿保护好自己，保护好身体，看他们垮台。<div class="rsshub-quote"><br><br>王丽（王藏妻子）: 王藏关押996天，今下午第一次会见到。<br>王藏十分消瘦，皮肤黝黑，感觉很憔悴。我心里非常难过心疼。<br>我两年半的刑期，他非常内疚自责。我说“我无怨无悔，我愿意”。<br>他收到了朋友寄的明信片，让我感谢朋友们！<br>特别感谢昆明的朋友一路陪同和热情款待！<br>感谢所有关心支持的朋友们，祝大家安康快乐！ https://t.co/8vfoyQjhhF<br><br><img style="" src="https://pbs.twimg.com/media/FpkAH8naYAAl4fv?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+泪目……，面对王藏和王丽这样的义士，所有语言都是苍白无力的。唯愿保护好自己，保护好身体，看他们垮台。 https://twitter.com/0530wlq/status/1628332885710376961<div class="rsshub-quote"><br><br>王丽（王藏妻子）: 王藏关押996天，今下午第一次会见到。<br>王藏十分消瘦，皮肤黝黑，感觉很憔悴。我心里非常难过心疼。<br>我两年半的刑期，他非常内疚自责。我说“我无怨无悔，我愿意”。<br>他收到了朋友寄的明信片，让我感谢朋友们！<br>特别感谢昆明的朋友一路陪同和热情款待！<br>感谢所有关心支持的朋友们，祝大家安康快乐！ https://t.co/8vfoyQjhhF<br><br><img style="" src="https://pbs.twimg.com/media/FpkAH8naYAAl4fv?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 17: [2023-02-24 04:06:26+08:00 推文](https://twitter.com/realcaixia/status/1628848780039831552)
 
-这样的遭遇未来还会发生。只要是“中国式”、“中国模式”、“中国特色”无论说得多么天花乱坠，实质是一个：华丽包装的背后是“12亿人都是习奴党奴”。当他们经济好时，他们吃肉，习奴党奴喝残羹剩汤；当他们经济不好时，他们对习奴党奴敲骨吸髓。何止河南村镇银行的储户如此，最近的“医保改革”更如此。 https://twitter.com/officialsevil/status/1628189546574667777<div class="rsshub-quote"><br><br>河南污名化储户侵占存款🇺🇦杨功迅，杨佳: @realcaixia 请同胞们帮转发下河南村镇银行悲惨储户，家破人亡了 https://twitter.com/stephan65022719/status/1626920132877459458<br></div>
+这样的遭遇未来还会发生。只要是“中国式”、“中国模式”、“中国特色”无论说得多么天花乱坠，实质是一个：华丽包装的背后是“12亿人都是习奴党奴”。当他们经济好时，他们吃肉，习奴党奴喝残羹剩汤；当他们经济不好时，他们对习奴党奴敲骨吸髓。何止河南村镇银行的储户如此，最近的“医保改革”更如此。<div class="rsshub-quote"><br><br>河南污名化储户侵占存款🇺🇦杨功迅，杨佳: @realcaixia 请同胞们帮转发下河南村镇银行悲惨储户，家破人亡了<br></div>
 
 ### 18: [2023-02-24 04:37:53+08:00 推文](https://twitter.com/realcaixia/status/1628856695278698496)
 
@@ -165,7 +165,7 @@ Re https://t.co/5cKJXflGKq<br><img style="" src="https://pbs.twimg.com/media/Fpw
 
 ### 38: [2023-02-25 05:31:25+08:00 推文](https://twitter.com/realcaixia/status/1629232556284715008)
 
-中共实行文化种族灭绝的又一罪证。<br>在新疆地区，中共差不多早10年左右就实行拆散家庭，把孩子进入寄宿幼儿园和寄宿学校，把孩子父母男女折开，送进所谓技校培训集中营；再把爷爷奶奶送到养老院集中居住，平时不得回家。灭绝文化与毁灭家庭结构同时推行。<div class="rsshub-quote"><br><br>《议报》: 桑杰嘉 | 文化种族灭绝政策——100万图伯特儿童在被强制同化 https://yibaochina.com/?p=249605  联合国人权机构注意到：中国政府设立越来越多的寄宿学校，要求藏人儿童从4岁开始入住寄宿学校，在学校强制实施纯汉语授课，藏语被政府有意边缘化。<br></div>
+中共实行文化种族灭绝的又一罪证。<br>在新疆地区，中共差不多早10年左右就实行拆散家庭，把孩子进入寄宿幼儿园和寄宿学校，把孩子父母男女折开，送进所谓技校培训集中营；再把爷爷奶奶送到养老院集中居住，平时不得回家。灭绝文化与毁灭家庭结构同时推行。 https://twitter.com/yibaochina/status/1629143567523250179<div class="rsshub-quote"><br><br>《议报》: 桑杰嘉 | 文化种族灭绝政策——100万图伯特儿童在被强制同化 https://yibaochina.com/?p=249605  联合国人权机构注意到：中国政府设立越来越多的寄宿学校，要求藏人儿童从4岁开始入住寄宿学校，在学校强制实施纯汉语授课，藏语被政府有意边缘化。<br></div>
 
 ### 39: [2023-02-25 12:25:15+08:00 推文](https://twitter.com/realcaixia/status/1629336699754127361)
 

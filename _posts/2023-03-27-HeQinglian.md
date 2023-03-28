@@ -69,7 +69,7 @@ Re @zhixiangziyou 不是笑话，是处心积虑的“体制内新长征”。
 
 ### 14: [2023-03-27 21:07:27+08:00 推文](https://twitter.com/HeQinglian/status/1640339753353584640)
 
-无知者无畏，这个 @xxgreatwall 开口就是“你懂不懂”。<br>普及一点常识：任何一国货币国际化两个指标：一是国际贸易结算时使用率高低；二是储备货币。<br>作为储备货币，在IMF让人民币入篮时已给过指标，一直没能使用足够；前者是作为结算货币<br>这位 @xxgreatwall 当然也不懂BRICKS之内结算系统如今是何状态<div class="rsshub-quote"><br><br>BONY M: @HeQinglian 扯淡，你懂不懂，如果只是把美元换算成人民币买石油，同时俄罗斯收的的人民币只能买中国商品，买不了其他国家的商品，那么实际上就是以物易物，哪有什么人民币国际化。<br></div>
+无知者无畏，这个 @xxgreatwall 开口就是“你懂不懂”。<br>普及一点常识：任何一国货币国际化两个指标：一是国际贸易结算时使用率高低；二是储备货币。<br>作为储备货币，在IMF让人民币入篮时已给过指标，一直没能使用足够；前者是作为结算货币<br>这位 @xxgreatwall 当然也不懂BRICKS之内结算系统如今是何状态 https://twitter.com/xxgreatwall/status/1640175068763549697<div class="rsshub-quote"><br><br>BONY M: @HeQinglian 扯淡，你懂不懂，如果只是把美元换算成人民币买石油，同时俄罗斯收的的人民币只能买中国商品，买不了其他国家的商品，那么实际上就是以物易物，哪有什么人民币国际化。<br></div>
 
 ### 15: [2023-03-27 21:09:53+08:00 推文](https://twitter.com/HeQinglian/status/1640340363700318210)
 
@@ -121,7 +121,7 @@ Re @mingshi_chen 货币互换，早在人民币入篮之前就开始了，香港
 
 ### 27: [2023-03-27 22:26:24+08:00 推文](https://twitter.com/HeQinglian/status/1640359621209604097)
 
-RT He Qinglian<br>Re 必须补充的一句是：<br>美国文革、美国共产主义2.0版，让我们这代人在晚年，陷入精神支撑崩塌，奋斗价值冰消之境。<br>如我这种少数派（5%），愿意认清事实重新出发。多数人抱着灯塔不放，哪怕事实上熄灭，也将想象当现实。<br>十年后，如果还有思考能力，灯塔派将比我等少数人更痛苦，依靠否定少数派是其指望
+Re 必须补充的一句是：<br>美国文革、美国共产主义2.0版，让我们这代人在晚年，陷入精神支撑崩塌，奋斗价值冰消之境。<br>如我这种少数派（5%），愿意认清事实重新出发。多数人抱着灯塔不放，哪怕事实上熄灭，也将想象当现实。<br>十年后，如果还有思考能力，灯塔派将比我等少数人更痛苦，依靠否定少数派是其指望
 
 ### 28: [2023-03-27 22:33:02+08:00 推文](https://twitter.com/HeQinglian/status/1640361291138179078)
 
@@ -145,7 +145,7 @@ Re @Chichoyroot 记得你是郭革命时，来过，挺郭派。😇😇<br>我�
 
 ### 33: [2023-03-28 03:05:41+08:00 推文](https://twitter.com/zhixiangziyou/status/1640429904478060544)
 
-RT L JM🇺🇸<br>《华尔街日报》的民意调查显示美国价值观的急剧下降是我们不应该在乌克兰与 WW3 玩足球的另一个原因<br><br>我们的国家正在分崩离析，我们的“领导人”正专注于 5,000 英里外的边界争端。<div class="rsshub-quote"><br><br>Charlie Kirk: The WSJ poll showing the precipitous decline in American values is yet another reason we shouldn't be in Ukraine playing footsie with WW3<br><br>Our country is falling apart and our "leaders" are focused on a border dispute 5,000 miles away. https://t.co/tmey8Jp12x<br><br><img style="" src="https://pbs.twimg.com/media/FsPLuDJakAE7zn7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT L JM🇺🇸<br>《华尔街日报》的民意调查显示美国价值观的急剧下降是我们不应该在乌克兰与 WW3 玩足球的另一个原因<br><br>我们的国家正在分崩离析，我们的“领导人”正专注于 5,000 英里外的边界争端。 https://twitter.com/charliekirk11/status/1640378779360202752<div class="rsshub-quote"><br><br>Charlie Kirk: The WSJ poll showing the precipitous decline in American values is yet another reason we shouldn't be in Ukraine playing footsie with WW3<br><br>Our country is falling apart and our "leaders" are focused on a border dispute 5,000 miles away. https://t.co/tmey8Jp12x<br><br><img style="" src="https://pbs.twimg.com/media/FsPLuDJakAE7zn7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 34: [2023-03-28 06:54:33+08:00 推文](https://twitter.com/HeQinglian/status/1640487500631232514)
 
@@ -223,15 +223,59 @@ Re @Gavinvslly 红二代们当然也读书，至少文革时，我们这些平�
 
 Re @Wu_Zhi @JianglinLi @ChristopherYaoo 解铃还需系铃人，女拳们自己制造出来的问题，自己解决。我对女权的赞赏，到第三代女权为止。<br>第四代女权观念、主张本就混乱之极，越搅越烂，在打倒男权的同时，需要应付另一类挟政治正确呼啸而来的跨性别女性。<br>网上有句粗口，叫做“自己约……”，让她们自己去闹腾吧。
 
-### 53: [2023-03-28 23:45:55+08:00 推文](https://twitter.com/HeQinglian/status/1640742016987418624)
+### 53: [2023-03-28 23:38:59+08:00 推文](https://twitter.com/Lucs24659702/status/1640740272580759553)
+
+RT Lucs<br>民意调查：美国人说对跨性别主义的接受已经“过头了”<br><br> 《华尔街日报》-NORC 的一项新民意调查发现，越来越多的美国人表示对跨性别主义的接受“太过分了”，而且大多数人拒绝使用“中性”代词“他们/他们”。<br><br> https://www.breitbart.com/politics/2023/03/27/poll-americans-acceptance-transgender-people-gone-too-far/
+
+### 54: [2023-03-28 23:45:55+08:00 推文](https://twitter.com/HeQinglian/status/1640742016987418624)
 
 Re @Elizabe47883246 因为海外华文圈话语权有不少在红二、落马官商及其后代手中。<br>记得以前，有异议人士谈红二掌权的理由之一：这些人从小生活在权力圈，比平民出身的有经验、有能力。
 
-### 54: [2023-03-29 00:44:23+08:00 推文](https://twitter.com/HeQinglian/status/1640756734422659072)
+### 55: [2023-03-29 00:44:23+08:00 推文](https://twitter.com/HeQinglian/status/1640756734422659072)
 
 Re @eGUAbe2V7j26GHw 我正在琢磨他在什么事上招皇上不高兴了。<br>在胡时代，刘确实成了民主新星，出文集，军中发行学习，异议江湖拥戴。但习上任后，刘立即宣布都是他人托名之作，然后开始表态拥护，习授上将军衔以示安抚。<br>2021年6月腾讯还发专文赞之誉之，12月传闻被抓。那正是习要连任的紧要关头。<br>是否在这事上不得圣心？
 
-### 55: [2023-03-29 00:46:37+08:00 推文](https://twitter.com/HeQinglian/status/1640757293632421892)
+### 56: [2023-03-29 00:46:37+08:00 推文](https://twitter.com/HeQinglian/status/1640757293632421892)
 
 Re @Tianshuihanyan 是你们的态度。
+
+### 57: [2023-03-29 04:16:15+08:00 推文](https://twitter.com/HeQinglian/status/1640810051928576127)
+
+Re @taohua2022 @zhaochangqing89 @JianglinLi @lss007 @shenliangqing2 你好好研究，先在左派阵营里维权，将你们从权利等级的底层拉拔到平等位置。<br>我们这些右派不伤害你们，支持堕胎权。<br>这是从纳税人角度与贫困代际传递角度而言，单亲母亲孩子多了，需要福利供着；有工作的单亲女性收入远低于男性。孩子在单亲家庭长大，不如双亲家庭的条件好。
+
+### 58: [2023-03-29 04:23:33+08:00 推文](https://twitter.com/HeQinglian/status/1640811886613614635)
+
+Re @youngalooo 以我听到的、看到的而言，大概是这样：<br>1、红色接班人之说。江山传给自家子女，放心。曾有第三梯队、第四梯队之说。刘源、薄熙来、习近平都是第三梯队人选。<br>2、1980年代陈云们等元老有个约定：一家一个子女进入政坛，以备接班。<br>以上，有据可查。
+
+### 59: [2023-03-29 04:56:10+08:00 推文](https://twitter.com/HeQinglian/status/1640820095965597708)
+
+Re @EllaSunMMP @wj20200118 @LexieBergen @Farmer9911 @Tianshuihanyan @franktianxie 民主政治的要义有二，首要的就是程序正义，其次才是实质正义。<br>两党初选要竞争，这是程序，必须要走。<br>2020大选，民主党通过各种操控手段，扭曲了选举程序正义。
+
+### 60: [2023-03-29 04:58:18+08:00 推文](https://twitter.com/HeQinglian/status/1640820634497196032)
+
+Re @taohua2022 @zhaochangqing89 @JianglinLi @lss007 @shenliangqing2 财富又不是依靠争来的，而是通过创造力与市场赢得的。<br>我已经知道你是谁，回你这几句。<br>世界上不公很多，弄清楚不公源泉很重要。第四代女权就是胡闹。
+
+### 61: [2023-03-29 05:03:16+08:00 推文](https://twitter.com/HeQinglian/status/1640821884332769280)
+
+Re @EllaSunMMP @wj20200118 @LexieBergen @Farmer9911 @Tianshuihanyan @franktianxie 就是这意思。但有人的意思是德桑蒂斯不能参选，参选就是忘恩负义。<br>这问题讨论到此为止，不想为一件不太聪明的自我折腾 再花精力了。
+
+### 62: [2023-03-29 05:06:52+08:00 推文](https://twitter.com/HeQinglian/status/1640822787022397440)
+
+Re @guppy_dong 台湾一直有几个中共扶持的小政党。我在台湾还见过台湾共产党的宣传车，播放“没有共产党就没有新中国”，在台北大街上缓缓经过，台湾人见怪不怪。<br>但这些党没有群众基础，捣点小乱而已。中共的代理人，目前还只能是国民党。
+
+### 63: [2023-03-29 05:39:52+08:00 推文](https://twitter.com/HeQinglian/status/1640831094688735232)
+
+Re @Lucs24659702 左派的各种荒唐主张层出不穷。Trans最有可能成为左派意识形态的滑铁卢。
+
+### 64: [2023-03-29 05:59:27+08:00 推文](https://twitter.com/HeQinglian/status/1640836022031269890)
+
+Re @seeyoua22819375 @Lucs24659702 美国人毕竟还有一半没有被精神阉割。
+
+### 65: [2023-03-29 06:03:57+08:00 推文](https://twitter.com/HeQinglian/status/1640837154505990148)
+
+Re @taohua2022 @zhaochangqing89 @JianglinLi @lss007 @shenliangqing2 你管了，用什么管？<br>先以维权谋生，再以女权谋生？你的职业是什么？捐了什么钱？我们有什么义务要为你们捐钱？<br>说出道理来，也许捐几个给你。<br>你不但是第四代女权代表，还是瞎胡闹代表。
+
+### 66: [2023-03-29 06:08:09+08:00 推文](https://twitter.com/HeQinglian/status/1640838212393349120)
+
+Re @AnnaWruiqin 习近平在商业资本金融资本时代打压民企，非常不明智。因为这个时代的财富不体现为生产资本，虚拟性很强，全靠头脑“经营”，财富才能再生。<br>抓、打、没收民营企业，抢来的财富（汽车、房子）不可再生，企业没有人，就成了无源之水<br>我什么时候写篇文章说道说道，不能总是打土豪分田地那种农业时代的样本
 
