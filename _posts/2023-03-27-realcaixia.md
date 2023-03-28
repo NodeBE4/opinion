@@ -17,19 +17,19 @@ title: 'Twitter @蔡霞: 2023-03-27~2023-04-02'
 
 ### 1: [2023-03-27 10:20:46+08:00 推文](https://twitter.com/realcaixia/status/1640177008805294080)
 
-看到这些照片，不由得想到709律师的夫人们那几年的艰难抗争。<br>现在是她们——罗胜春、施明磊、陈紫娟与丈夫站在一起，勇敢反对中共极权政权，为争得人权保障，争得自由民主而艰难抗争。他们是新一批令人尊敬令人崇敬的坚强女性！ https://twitter.com/mindyshi227/status/1639839511323574274<div class="rsshub-quote"><br><br>FreeChengYuan 释放程渊: 罗胜春@luoshch、陈紫娟 @zijuan_chen 我们仨今天在中国驻美大使馆前抗议，要求 #释放丁家喜 #释放常玮平 #释放许志永 #释放李翘楚 #释放程渊 #StopMilwaukeeToolSlaveLabor https://t.co/DcoTnvErYu<br><br><img style="" src="https://pbs.twimg.com/media/FsHhV0LWAAE5X1K?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FsHhV0JXoAYzNwk?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+看到这些照片，不由得想到709律师的夫人们那几年的艰难抗争。<br>现在是她们——罗胜春、施明磊、陈紫娟与丈夫站在一起，勇敢反对中共极权政权，为争得人权保障，争得自由民主而艰难抗争。他们是新一批令人尊敬令人崇敬的坚强女性！<div class="rsshub-quote"><br><br>FreeChengYuan 释放程渊: 罗胜春@luoshch、陈紫娟 @zijuan_chen 我们仨今天在中国驻美大使馆前抗议，要求 #释放丁家喜 #释放常玮平 #释放许志永 #释放李翘楚 #释放程渊 #StopMilwaukeeToolSlaveLabor https://t.co/DcoTnvErYu<br><br><img style="" src="https://pbs.twimg.com/media/FsHhV0LWAAE5X1K?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FsHhV0JXoAYzNwk?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 2: [2023-03-27 10:40:49+08:00 推文](https://twitter.com/realcaixia/status/1640182052703305729)
 
-我们都来关注编程随想阮晓寰先生吧，关注就是声援！关注就是支持，关注也是我们尽可能地努力保护阮晓寰。<div class="rsshub-quote"><br><br>中国数字时代: “打开编程随想的一篇篇博文，每一个读者都会看到，这就是21世纪的中国人，在网络上抵抗专制，争取自由的真切证明。”2月10日，“编程随想”阮晓寰被上海市第二中级人民法院以“煽动颠覆国家政权罪”判处有期徒刑七年，没收财产人民币两万元。在《404档案馆》重温编程随想的故事：https://buff.ly/42KyTOb https://t.co/oRT9ncgspM<br><br><video src="https://video.twimg.com/ext_tw_video/1640036656790085637/pu/vid/720x720/x6voXvDZfiATvAyc.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1640036656790085637/pu/img/gTu0j_lWyQ_0zNbe.jpg"></video></div>
+我们都来关注编程随想阮晓寰先生吧，关注就是声援！关注就是支持，关注也是我们尽可能地努力保护阮晓寰。 https://twitter.com/cdtchinese/status/1640036685047119872<div class="rsshub-quote"><br><br>中国数字时代: “打开编程随想的一篇篇博文，每一个读者都会看到，这就是21世纪的中国人，在网络上抵抗专制，争取自由的真切证明。”2月10日，“编程随想”阮晓寰被上海市第二中级人民法院以“煽动颠覆国家政权罪”判处有期徒刑七年，没收财产人民币两万元。在《404档案馆》重温编程随想的故事：https://buff.ly/42KyTOb https://t.co/oRT9ncgspM<br><br><video src="https://video.twimg.com/ext_tw_video/1640036656790085637/pu/vid/720x720/x6voXvDZfiATvAyc.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1640036656790085637/pu/img/gTu0j_lWyQ_0zNbe.jpg"></video></div>
 
 ### 3: [2023-03-27 10:50:56+08:00 推文](https://twitter.com/realcaixia/status/1640184600592007169)
 
-前外交部副部长傅莹的文章被封。 https://twitter.com/zhanglifan/status/1639991808221487104 https://t.co/qWM6WXp1PQ<br><img style="" src="https://pbs.twimg.com/media/FsMbMwkaUAEA31-?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FsMbMwpaQAEY3um?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><div class="rsshub-quote"><br><br>章立凡 Zhang Lifan: 【前外交部副部长傅莹：一旦中美闹翻，有没有国家会站在中国一边】🔗 https://mp.weixin.qq.com/s/hz4w7vzN7QSz-6PbkKsmvQ https://t.co/NVbwhlivfT<br><br><img style="" src="https://pbs.twimg.com/media/FsJr2M_WwAIR18Q?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+前外交部副部长傅莹的文章被封。 https://t.co/qWM6WXp1PQ<br><img style="" src="https://pbs.twimg.com/media/FsMbMwkaUAEA31-?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FsMbMwpaQAEY3um?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><div class="rsshub-quote"><br><br>章立凡 Zhang Lifan: 【前外交部副部长傅莹：一旦中美闹翻，有没有国家会站在中国一边】🔗 https://mp.weixin.qq.com/s/hz4w7vzN7QSz-6PbkKsmvQ https://t.co/NVbwhlivfT<br><br><img style="" src="https://pbs.twimg.com/media/FsJr2M_WwAIR18Q?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 4: [2023-03-27 11:03:24+08:00 推文](https://twitter.com/realcaixia/status/1640187737461649408)
 
-向保卫乌克兰主权和领土完整的勇敢战士们致敬！<div class="rsshub-quote"><br><br>UKRAINIAN SQUAD🇺🇦: Keep believing in these 🇺🇦Warriors. https://t.co/alEyRpXWNR<br><br><video src="https://video.twimg.com/ext_tw_video/1639946222591963136/pu/vid/718x1280/mUWWAjzdf9QATB24.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1639946222591963136/pu/img/T4huAiJSWz7ES2qL.jpg"></video></div>
+向保卫乌克兰主权和领土完整的勇敢战士们致敬！ https://twitter.com/ukrainiansquad/status/1639946357128478721<div class="rsshub-quote"><br><br>UKRAINIAN SQUAD🇺🇦: Keep believing in these 🇺🇦Warriors. https://t.co/alEyRpXWNR<br><br><video src="https://video.twimg.com/ext_tw_video/1639946222591963136/pu/vid/718x1280/mUWWAjzdf9QATB24.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1639946222591963136/pu/img/T4huAiJSWz7ES2qL.jpg"></video></div>
 
 ### 5: [2023-03-27 20:22:46+08:00 推文](https://twitter.com/realcaixia/status/1640328505270616064)
 
@@ -37,7 +37,7 @@ title: 'Twitter @蔡霞: 2023-03-27~2023-04-02'
 
 ### 6: [2023-03-28 05:46:47+08:00 推文](https://twitter.com/realcaixia/status/1640470444561121280)
 
-枪口抬高一寸，这是良知的召唤。感动。 https://twitter.com/xwpajq_dayu/status/1640197164809981952<div class="rsshub-quote"><br><br>新聞拍案驚奇 大宇: 希望更多人能在中共恶政体制下枪口提高一寸，人民不会忘记！ 👍<br> https://t.co/PK7y2nItNO<br><br><video src="https://video.twimg.com/ext_tw_video/1640090074154147840/pu/vid/464x360/m5RSR-Ew-go-eQvD.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1640090074154147840/pu/img/JWVWyu9SDmFtEDcv.jpg"></video></div>
+枪口抬高一寸，这是良知的召唤。感动。<div class="rsshub-quote"><br><br>新聞拍案驚奇 大宇: 希望更多人能在中共恶政体制下枪口提高一寸，人民不会忘记！ 👍<br> https://t.co/PK7y2nItNO<br><br><video src="https://video.twimg.com/ext_tw_video/1640090074154147840/pu/vid/464x360/m5RSR-Ew-go-eQvD.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1640090074154147840/pu/img/JWVWyu9SDmFtEDcv.jpg"></video></div>
 
 ### 7: [2023-03-28 06:02:39+08:00 推文](https://twitter.com/realcaixia/status/1640474438515712000)
 
@@ -49,7 +49,7 @@ Re 我写的意见之一是中国经济积压了大量问题，将酿成经济�
 
 ### 9: [2023-03-28 08:42:28+08:00 推文](https://twitter.com/realcaixia/status/1640514659802308609)
 
-可见习朝最怕开放互联网，他们可以看着TikTok被赶出美国，绝不不肯放弃封网。可见他们多么害怕信息的自由流通。推倒习朝网络柏林墙，习朝离垮塌就不远了。<div class="rsshub-quote"><br><br>希望之聲 - 中國時局: 【美国拟禁TikTok 中国企业家出应对“绝招” 文章被秒删】就美国政府拟禁中国短影音平台 #TikTok 一事，中国企业家 #梁建章 8月2日在新浪网撰文建议，中方应该 #开放互联网 ，以此凸显美国的 #封禁 没有正当性。这项建议被网友点赞，但文章已被火速下架。<br>https://www.soundofhope.org/post/407929 https://t.co/KuIotoJ8JB<br><br><img style="" src="https://pbs.twimg.com/media/EejgSXcWkAEpm0a?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+可见习朝最怕开放互联网，他们可以看着TikTok被赶出美国，绝不不肯放弃封网。可见他们多么害怕信息的自由流通。推倒习朝网络柏林墙，习朝离垮塌就不远了。 https://twitter.com/soundofhope_soh/status/1290527901167824896<div class="rsshub-quote"><br><br>希望之聲 - 中國時局: 【美国拟禁TikTok 中国企业家出应对“绝招” 文章被秒删】就美国政府拟禁中国短影音平台 #TikTok 一事，中国企业家 #梁建章 8月2日在新浪网撰文建议，中方应该 #开放互联网 ，以此凸显美国的 #封禁 没有正当性。这项建议被网友点赞，但文章已被火速下架。<br>https://www.soundofhope.org/post/407929 https://t.co/KuIotoJ8JB<br><br><img style="" src="https://pbs.twimg.com/media/EejgSXcWkAEpm0a?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 10: [2023-03-28 09:06:38+08:00 推文](https://twitter.com/realcaixia/status/1640520738439299073)
 
@@ -61,7 +61,7 @@ Re https://t.co/S6xQirXj9e<br><img style="" src="https://pbs.twimg.com/media/FsR
 
 ### 12: [2023-03-28 09:32:28+08:00 推文](https://twitter.com/realcaixia/status/1640527239350550530)
 
-这哪有一丝一毫公正审判的味道？！这是流氓坐大堂威胁中国平民。这类视频最好能翻译成英文广泛传到英文世界民众中，让更多的人看看中国法院里这些披着法官外衣的是些什么货色！ https://twitter.com/Danqing1953/status/1639338116988416000<div class="rsshub-quote"><br><br>笔墨✾丹青: 至今对中国法庭还不了解的人，看一下这个视频，就了解了。<br><br>一个国家到底有没有未来，只需看两个地方：一是教室，二是法庭。 https://t.co/PYUGZgUDst<br><br><video src="https://video.twimg.com/ext_tw_video/1639338019777048576/pu/vid/640x368/khQ9FnTVqw28OVjC.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1639338019777048576/pu/img/J3g_7e6jhAX6uP24.jpg"></video></div>
+这哪有一丝一毫公正审判的味道？！这是流氓坐大堂威胁中国平民。这类视频最好能翻译成英文广泛传到英文世界民众中，让更多的人看看中国法院里这些披着法官外衣的是些什么货色！ https://twitter.com/danqing1953/status/1639338116988416000<div class="rsshub-quote"><br><br>笔墨✾丹青: 至今对中国法庭还不了解的人，看一下这个视频，就了解了。<br><br>一个国家到底有没有未来，只需看两个地方：一是教室，二是法庭。 https://t.co/PYUGZgUDst<br><br><video src="https://video.twimg.com/ext_tw_video/1639338019777048576/pu/vid/640x368/khQ9FnTVqw28OVjC.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1639338019777048576/pu/img/J3g_7e6jhAX6uP24.jpg"></video></div>
 
 ### 13: [2023-03-28 09:37:36+08:00 推文](https://twitter.com/realcaixia/status/1640528534119620608)
 
