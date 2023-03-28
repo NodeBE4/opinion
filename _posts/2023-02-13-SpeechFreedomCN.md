@@ -17,11 +17,11 @@ title: 'Twitter @中国文字狱事件盘点: 2023-02-13~2023-02-19'
 
 ### 1: [2023-02-13 19:09:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1625089651676532737)
 
-江西省上犹县男子曾某，因在朋友圈发布内容称其“被狗咬了一下”并配图交通罚单，被认定为侮辱交警并被拘留3日。<br><img style="" src="https://pbs.twimg.com/media/Fo16KXTWAAAtDLw?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fo16MMdWcAYeASG?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fo16OGSXEAQPIad?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+江西省上犹县男子曾某，因在朋友圈发布内容称其“被狗咬了一下”并配图交通罚单，被认定为侮辱交警并被拘留3日。 https://t.co/1z8MLSN72G<br><img style="" src="https://pbs.twimg.com/media/Fo16KXTWAAAtDLw?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fo16MMdWcAYeASG?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fo16OGSXEAQPIad?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2023-02-13 19:10:17+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1625089974063230980)
 
-Man from Jiangxi surnamed Zeng detained for three days for his WeChat Moment post that said he got bitten by a dog, which police claimed insulted them as he included a photo of his traffic violation ticket in the post. https://t.co/8WJCdwBB5x<br><img style="" src="https://pbs.twimg.com/media/Fo16d6FWYAANBHJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fo16feRXgAcGEiR?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fo16hRUX0AAeDWn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Man from Jiangxi surnamed Zeng detained for three days for his WeChat Moment post that said he got bitten by a dog, which police claimed insulted them as he included a photo of his traffic violation ticket in the post.<br><img style="" src="https://pbs.twimg.com/media/Fo16d6FWYAANBHJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fo16feRXgAcGEiR?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fo16hRUX0AAeDWn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2023-02-15 20:26:52+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1625834023485415425)
 
