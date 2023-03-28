@@ -81,5 +81,5 @@ Re The phrase “an outstanding leader who had the utmost respect of our Party, 
 
 ### 17: [2022-12-02 14:56:18+08:00 推文](https://twitter.com/cnmediaproject/status/1598571743987523584)
 
-Some interesting insights in CMP's latest monthly discourse report with Sinocism. This one is free to read, so don't miss out!<br><br>Bill Bishop: China’s Political Discourse October 2022: The Dust Settles on the 20th National Congress of the CCP, by @cnmediaproject<br> <a href="https://open.substack.com/pub/sinocism/p/chinas-political-discourse-october-a83?r=2e&amp;utm_campaign=post&amp;utm_medium=web" target="_blank" rel="noopener noreferrer">https://open.substack.com/pub/sinocism/p/chinas-political-discourse-october-a83?r=2e&amp;utm_campaign=post&amp;utm_medium=web</a>
+Some interesting insights in CMP's latest monthly discourse report with Sinocism. This one is free to read, so don't miss out! <a href="https://twitter.com/niubi/status/1598480984647008256" target="_blank" rel="noopener noreferrer">https://twitter.com/niubi/status/1598480984647008256</a>
 
