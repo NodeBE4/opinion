@@ -593,7 +593,7 @@ RT 戴维<br>英国谚语：国王在众人之上，在上帝和法律之下�
 
 ### 145: [2022-10-30 21:11:18+08:00 推文](https://twitter.com/Tianshuihanyan/status/1586707317181087745)
 
-RT 纳姐 全媒体首席主播，全媒体美国小镇镇长<br>无论你给一个男人做什么样的手术，吃什么药物，都无法把他变成一个女人<br><br>matho887: 约翰霍普金斯大学精神病学家：跨性别是“精神障碍”； 变性“在生物学上是不可能的”<br>
+RT 纳姐 全媒体首席主播，全媒体美国小镇镇长<br>无论你给一个男人做什么样的手术，吃什么药物，都无法把他变成一个女人<br><br>matho887: 约翰霍普金斯大学精神病学家：跨性别是“精神障碍”； 变性“在生物学上是不可能的”<br> <a href="https://twitter.com/theMRC/status/1586311905202896896" target="_blank" rel="noopener noreferrer">https://twitter.com/theMRC/status/1586311905202896896</a>
 
 ### 146: [2022-10-30 22:44:09+08:00 推文](https://twitter.com/HeQinglian/status/1586730683262795781)
 
