@@ -69,7 +69,7 @@ Re LT视界这期节目，集中两个问题：1，美击落中共高空间谍�
 
 ### 14: [2023-02-10 03:29:03+08:00 推文](https://twitter.com/realcaixia/status/1623765944198909952)
 
-不仅是吹牛，而且是狂妄加野心。习既不直说与自由民主国家为敌，又大力推销中国模式，只能用吹牛和谎言为手段来蒙骗那些又想维持旧权力规则又想从中国捞到好处的某些发展中国家首脑。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 繼續吹牛😃<br></div>
+不仅是吹牛，而且是狂妄加野心。习既不直说与自由民主国家为敌，又大力推销中国模式，只能用吹牛和谎言为手段来蒙骗那些又想维持旧权力规则又想从中国捞到好处的某些发展中国家首脑。<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 繼續吹牛😃<br> <a href="https://twitter.com/rudyakmarina/status/1623759148100866051" target="_blank" rel="noopener noreferrer">https://twitter.com/rudyakmarina/status/1623759148100866051</a></div>
 
 ### 15: [2023-02-11 03:37:14+08:00 推文](https://twitter.com/realcaixia/status/1624130388430884881)
 
