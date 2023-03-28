@@ -29,7 +29,7 @@ The march toward the potent legacy phrase "Xi Thought" continues, this time with
 
 ### 4: [2021-12-06 12:39:21+08:00 推文](https://twitter.com/vshih2/status/1467715258198282240)
 
-RT Victor Shih<br>I wouldn’t make a big deal out of the 14 billion campaign cost of the US. Basically campaign costs are the bulk of the costs of operating both parties in the US. How much does it cost to run just one party in China?<br><br>人民日報  People's Daily: 【一圖起底！美國民主七大假象】5日，外交部網站發布《美國民主情況》報告，通過列舉事實、數字和各國相關機構、人士及專家觀點，梳理美國民主制度的弊端，分析美國國內民主實踐的亂象和對外輸出民主的危害。美國民主有哪些積弊？一圖揭開美國民主的真相👇👇👇<br><br><img style src="https://pbs.twimg.com/media/FF4lWmvUcAIzkUu?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Victor Shih<br>I wouldn’t make a big deal out of the 14 billion campaign cost of the US. Basically campaign costs are the bulk of the costs of operating both parties in the US. How much does it cost to run just one party in China?<br><br>人民日報  People's Daily: 【一圖起底！美國民主七大假象】5日，外交部網站發布《美國民主情況》報告，通過列舉事實、數字和各國相關機構、人士及專家觀點，梳理美國民主制度的弊端，分析美國國內民主實踐的亂象和對外輸出民主的危害。美國民主有哪些積弊？一圖揭開美國民主的真相👇👇👇<br><br><img style="" src="https://pbs.twimg.com/media/FF4lWmvUcAIzkUu?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2021-12-06 13:41:23+08:00 推文](https://twitter.com/klustout/status/1467730873202130952)
 
@@ -57,7 +57,7 @@ Topping page one of the People's Daily today -- the release of a new book on hum
 
 ### 11: [2021-12-08 08:17:00+08:00 推文](https://twitter.com/cnmediaproject/status/1468374013861072896)
 
-Re The book release was covered last night on the official newscast Xinwen Lianbo, which said that the "CCP and the Chinese government have respected and protected human rights throughout," and "found a path to human rights suiting national circumstances." <a href="https://www.yicai.com/news/101251439.html" target="_blank" rel="noopener noreferrer">https://www.yicai.com/news/101251439.html</a><br><img style src="https://pbs.twimg.com/media/FGC1qAAVEAQBVf_?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re The book release was covered last night on the official newscast Xinwen Lianbo, which said that the "CCP and the Chinese government have respected and protected human rights throughout," and "found a path to human rights suiting national circumstances." <a href="https://www.yicai.com/news/101251439.html" target="_blank" rel="noopener noreferrer">https://www.yicai.com/news/101251439.html</a><br><img style="" src="https://pbs.twimg.com/media/FGC1qAAVEAQBVf_?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2021-12-08 08:19:45+08:00 推文](https://twitter.com/niubi/status/1468374707007275015)
 
@@ -69,11 +69,11 @@ Re The book's publication is big news, right? And editors would freely choose to
 
 ### 14: [2021-12-08 08:24:04+08:00 推文](https://twitter.com/cnmediaproject/status/1468375793504239616)
 
-Re And here is Tianjin Daily, the official mouthpiece of the CCP leadership in Tianjin. Only different with People's Daily is placement of a horizontal headline on the 35th collective study session of the Politburo.<br><img style="" src="https://pbs.twimg.com/media/FGC3WlHUcAEq1nX?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re And here is Tianjin Daily, the official mouthpiece of the CCP leadership in Tianjin. Only different with People's Daily is placement of a horizontal headline on the 35th collective study session of the Politburo.<br><img style src="https://pbs.twimg.com/media/FGC3WlHUcAEq1nX?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 15: [2021-12-08 08:26:14+08:00 推文](https://twitter.com/cnmediaproject/status/1468376336456888322)
 
-Re How about Changjiang Daily, the official mouthpiece of the CCP leadership in the city of Wuhan? Deja vu all over again.<br><img style src="https://pbs.twimg.com/media/FGC4EBpUYAICIw0?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re How about Changjiang Daily, the official mouthpiece of the CCP leadership in the city of Wuhan? Deja vu all over again.<br><img style="" src="https://pbs.twimg.com/media/FGC4EBpUYAICIw0?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 16: [2021-12-08 08:27:31+08:00 推文](https://twitter.com/cnmediaproject/status/1468376658998861824)
 
@@ -101,7 +101,7 @@ Re It is always imp. to scrutinize CCP rhetoric to understand how the leadership
 
 ### 22: [2021-12-08 08:43:19+08:00 推文](https://twitter.com/cnmediaproject/status/1468380638026039300)
 
-Re On definitions, CMP is proud to be a partner in the excellent Decoding China project, which takes a deeper look at these issues. <a href="https://decodingchina.eu/" target="_blank" rel="noopener noreferrer">https://decodingchina.eu/</a><br><img style src="https://pbs.twimg.com/media/FGC8ZsDVkAArkh5?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re On definitions, CMP is proud to be a partner in the excellent Decoding China project, which takes a deeper look at these issues. <a href="https://decodingchina.eu/" target="_blank" rel="noopener noreferrer">https://decodingchina.eu/</a><br><img style="" src="https://pbs.twimg.com/media/FGC8ZsDVkAArkh5?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 23: [2021-12-08 19:00:19+08:00 推文](https://twitter.com/cnmediaproject/status/1468535910900047873)
 
@@ -117,7 +117,7 @@ RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Hot takes by @MaryGao on the PRC White Paper o
 
 ### 26: [2021-12-09 08:49:15+08:00 推文](https://twitter.com/cnmediaproject/status/1468744516048125955)
 
-Topping the People's Daily today, a message sent by Xi Jinping to the "South-South Human Rights Forum" (南南人权论坛). Begins: "XJP pointed out that human rights are a mark of the progress of human civilization." <a href="http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_1-01.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_1-01.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGIHHnRUUAAHriF?format=jpg&name=orig" referrerpolicy="no-referrer">
+Topping the People's Daily today, a message sent by Xi Jinping to the "South-South Human Rights Forum" (南南人权论坛). Begins: "XJP pointed out that human rights are a mark of the progress of human civilization." <a href="http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_1-01.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_1-01.htm</a><br><img style src="https://pbs.twimg.com/media/FGIHHnRUUAAHriF?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 27: [2021-12-09 08:53:13+08:00 推文](https://twitter.com/cnmediaproject/status/1468745515122958336)
 
@@ -125,7 +125,7 @@ Re A report from the Global Times late yesterday about the forum asserts that: "
 
 ### 28: [2021-12-09 09:03:10+08:00 推文](https://twitter.com/cnmediaproject/status/1468748020888240134)
 
-Re They are: Ma Zhaoxu, a MOFA vice-minister; Russia's Vladimir Norov of the SCO; Peng Qinxuan of Wuhan University Institute of International Law; and Zhu Ying of SW Univ of Pol. Science and Law. Zhu is a regular in human rights related takedowns of the West. <a href="https://hri.swupl.edu.cn/rmxx/301614.htm" target="_blank" rel="noopener noreferrer">https://hri.swupl.edu.cn/rmxx/301614.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGIKfxWUcAM0dVC?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re They are: Ma Zhaoxu, a MOFA vice-minister; Russia's Vladimir Norov of the SCO; Peng Qinxuan of Wuhan University Institute of International Law; and Zhu Ying of SW Univ of Pol. Science and Law. Zhu is a regular in human rights related takedowns of the West. <a href="https://hri.swupl.edu.cn/rmxx/301614.htm" target="_blank" rel="noopener noreferrer">https://hri.swupl.edu.cn/rmxx/301614.htm</a><br><img style src="https://pbs.twimg.com/media/FGIKfxWUcAM0dVC?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 29: [2021-12-09 09:29:12+08:00 推文](https://twitter.com/cnmediaproject/status/1468754569799028736)
 
@@ -137,27 +137,27 @@ Re He is listed as the dir. of the Cross-Cultural HR Centre, affiliated (?) with
 
 ### 31: [2021-12-09 09:39:10+08:00 推文](https://twitter.com/cnmediaproject/status/1468757077455966208)
 
-Re The video dates to the 2019 South-South HR Forum, and advocates moving "development" to the center of human rights concepts, a typical CCP point. . . But look more closely at the "News and Opinion" section on the Cross-Cultural Human Rights Centre website. <a href="https://crossculturalhumanrightscentre.com/?page_id=12" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=12</a><br><img style="" src="https://pbs.twimg.com/media/FGISi0SVkAA3yGf?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re The video dates to the 2019 South-South HR Forum, and advocates moving "development" to the center of human rights concepts, a typical CCP point. . . But look more closely at the "News and Opinion" section on the Cross-Cultural Human Rights Centre website. <a href="https://crossculturalhumanrightscentre.com/?page_id=12" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=12</a><br><img style src="https://pbs.twimg.com/media/FGISi0SVkAA3yGf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 32: [2021-12-09 09:49:20+08:00 推文](https://twitter.com/cnmediaproject/status/1468759639550734336)
 
-Re The latest article, from 11/28, follows CCP talking points nearly verbatim. It openly declares that the Cross-Cultural Human Rights Centre supports the China-Russia declaration following US announcement of the Summit for Democracy.<br><img style="" src="https://pbs.twimg.com/media/FGIVGCRUUAYVII2?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re The latest article, from 11/28, follows CCP talking points nearly verbatim. It openly declares that the Cross-Cultural Human Rights Centre supports the China-Russia declaration following US announcement of the Summit for Democracy.<br><img style src="https://pbs.twimg.com/media/FGIVGCRUUAYVII2?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 33: [2021-12-09 09:57:54+08:00 推文](https://twitter.com/cnmediaproject/status/1468761792512163846)
 
-Re Zwart appears regularly in state media to promote PRC developments on human rights. In China Daily he perfectly mirrors CCP points. "One of the many fields in which China has made significant progress over the past five years is human rights." <a href="https://www.chinadaily.com.cn/opinion/2017-11/15/content_34550323.htm" target="_blank" rel="noopener noreferrer">https://www.chinadaily.com.cn/opinion/2017-11/15/content_34550323.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGIXDsvVIAMltBE?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Zwart appears regularly in state media to promote PRC developments on human rights. In China Daily he perfectly mirrors CCP points. "One of the many fields in which China has made significant progress over the past five years is human rights." <a href="https://www.chinadaily.com.cn/opinion/2017-11/15/content_34550323.htm" target="_blank" rel="noopener noreferrer">https://www.chinadaily.com.cn/opinion/2017-11/15/content_34550323.htm</a><br><img style src="https://pbs.twimg.com/media/FGIXDsvVIAMltBE?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 34: [2021-12-09 10:01:19+08:00 推文](https://twitter.com/cnmediaproject/status/1468762654290624514)
 
-Re Back to this year's forum. The news of Xi's letter ran on CGTN, which noted the letter was read at the forum by Huang Kunming, head of the Central Propaganda Department. <a href="https://www.youtube.com/watch?v=-Fpndyrd664" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=-Fpndyrd664</a><br><img style src="https://pbs.twimg.com/media/FGIXynDVQAIgdEJ?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Back to this year's forum. The news of Xi's letter ran on CGTN, which noted the letter was read at the forum by Huang Kunming, head of the Central Propaganda Department. <a href="https://www.youtube.com/watch?v=-Fpndyrd664" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=-Fpndyrd664</a><br><img style="" src="https://pbs.twimg.com/media/FGIXynDVQAIgdEJ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 35: [2021-12-09 10:12:02+08:00 推文](https://twitter.com/cnmediaproject/status/1468765349042855937)
 
-Re The forum was launched in 2017, making this the 5th such event. The forum does have its own official website. But guess where that is hosted. Yes, on <a href="http://china.org.cn/" target="_blank" rel="noopener noreferrer">http://China.org.cn</a> <a href="http://p.china.org.cn/node_8001790.htm" target="_blank" rel="noopener noreferrer">http://p.china.org.cn/node_8001790.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGIaSmrUUAACS3y?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re The forum was launched in 2017, making this the 5th such event. The forum does have its own official website. But guess where that is hosted. Yes, on <a href="http://china.org.cn/" target="_blank" rel="noopener noreferrer">http://China.org.cn</a> <a href="http://p.china.org.cn/node_8001790.htm" target="_blank" rel="noopener noreferrer">http://p.china.org.cn/node_8001790.htm</a><br><img style src="https://pbs.twimg.com/media/FGIaSmrUUAACS3y?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 36: [2021-12-09 10:20:48+08:00 推文](https://twitter.com/cnmediaproject/status/1468767555016093696)
 
-Re Recall that the purpose of the SCIO, founded 1991, is external propaganda and "explaining China to the world." It is run by the CCP's Central Propaganda Department -- again under Huang Kunming, who read Xi's letter to the human rights forum. <a href="http://www.scio.gov.cn/xwbjs/" target="_blank" rel="noopener noreferrer">http://www.scio.gov.cn/xwbjs/</a><br><img style="" src="https://pbs.twimg.com/media/FGIcBy0VEAAf8lp?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Recall that the purpose of the SCIO, founded 1991, is external propaganda and "explaining China to the world." It is run by the CCP's Central Propaganda Department -- again under Huang Kunming, who read Xi's letter to the human rights forum. <a href="http://www.scio.gov.cn/xwbjs/" target="_blank" rel="noopener noreferrer">http://www.scio.gov.cn/xwbjs/</a><br><img style src="https://pbs.twimg.com/media/FGIcBy0VEAAf8lp?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 37: [2021-12-09 11:23:02+08:00 推文](https://twitter.com/cnmediaproject/status/1468783218573082631)
 
