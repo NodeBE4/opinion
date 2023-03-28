@@ -25,5 +25,5 @@ Guangxi man Li detained for 8 days for posting a video on Douyin to accuse local
 
 ### 3: [2023-01-19 19:59:49+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1616042742144008193)
 
-Ridiculously strange. China has long been known for imposing the most strict internet censorship in the world, yet when someone tried to report a comment on Bilibili that asked genocide for Japanese indiscriminately, the censorship team responded: it doesn’t violate our rules.<div class="rsshub-quote"><br><br>这个社会是有罪的: 网友试图举报B站上号召把日本人拿来做人体实验的评论，但举报不成功。<br><br><img style="" src="https://pbs.twimg.com/media/FmwRoN4WQAAFt2J?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+Ridiculously strange. China has long been known for imposing the most strict internet censorship in the world, yet when someone tried to report a comment on Bilibili that asked genocide for Japanese indiscriminately, the censorship team responded: it doesn’t violate our rules.<div class="rsshub-quote"><br><br>网易难民: 网友试图举报B站上号召把日本人拿来做人体实验的评论，但举报不成功。<br><br><img style="" src="https://pbs.twimg.com/media/FmwRoN4WQAAFt2J?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
