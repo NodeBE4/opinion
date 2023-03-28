@@ -33,13 +33,13 @@ Re 2/<br>Things that are worthwhile looking at:<br>- Attitude of the central gov
 
 Re 3/<br>- Demands of people. Slogans range from “end COVID lockdown” to “Down with CCP/ Xi.” It would be interesting to see whether there’s a consolidation of what people want<br>- Overseas protests. Tens of overseas protests were organised in the past weekend ....
 
-### 5: [2022-11-28 18:52:48+08:00 推文](https://twitter.com/nathanlawkc/status/1597181707933061120)
+### 5: [2022-11-28 18:52:48+08:00 推文](https://twitter.com/nathanlawkc/status/1597181710327611394)
 
-Re 4/<br>some of them (eg. London) had +1000 turnouts, most participants are Chinese students. We’ve never seen so much mobilization of them, who are often seen as either “apolitical” or “loyal”. <br>- Size of protest. With tighter control&amp; arrests made...
+Re 5/<br>whether the people continue to protest is the key. Colleges are still crucial sites. <br>- Intl support. Many are hesitant because PRC would label any foreign supports as “interference”, then weaken the moral appeal of the protest. How intl NGOs &amp; Orgs &amp; Govts gonna react?
 
-### 6: [2022-11-28 18:52:49+08:00 推文](https://twitter.com/nathanlawkc/status/1597181715692544000)
+### 6: [2022-11-28 18:52:49+08:00 推文](https://twitter.com/nathanlawkc/status/1597181713192394752)
 
-Re 7/<br>- Technical support. People with expertise in internet security and safe communication should come in and share knowledge.<br>- Help overseas Chinese who want to protest. Any kind of help — design work, logistic, dealing with govt&amp;police etc… you can do something with your exp.
+Re 6/<br>What we can do as non-local protestors:<br>- Retweet &amp; spread info. It’s crucial to educate more ppl about what’s happening in China.<br>- Solidarity. Protestors are often in fear and feel alone. They cannot publicly talk about it. Show your solidarity with them to keep them warm.
 
 ### 7: [2022-11-28 18:52:50+08:00 推文](https://twitter.com/nathanlawkc/status/1597181718263308288)
 
@@ -77,9 +77,9 @@ Re 5/<br>久而久之，大部分籠內的鳥，只視頭頂的漆黑為天空�
 
 Re 6/<br>換言之，比起「他們正在爭取甚麼」，更重要的，是他們「將會」爭取甚麼。作為一個群眾運動組織者，這就是Empowerment的意義，嘗試讓大家更了解身上的枷瑣，然後掙脫最限制自由的。當然，這涉及一個過程，也涉及很多辯論和修正。
 
-### 16: [2022-11-30 23:07:34+08:00 推文](https://twitter.com/nathanlawkc/status/1597970598059470850)
+### 16: [2022-11-30 23:07:34+08:00 推文](https://twitter.com/nathanlawkc/status/1597970601008058370)
 
-Re 7/<br>中共教育／外宣最大的遺毒，是將國族主義凌駕一切。就像聯群結黨，不問是非，只以族群（黨國）利益的「想像」作判別是非的唯一準則。他們嘗試說服牆內的人，這個世界一直都是這樣行事──美國人不罵美國，香港人想爭取改革就是外國勢力，任何動亂都是只「一小撮人」受「煽動」而發生。<br>這是錯的。
+Re 8/<br>公民的意思，就是將公義置於在民族主義之上。民主大於愛國，自由大於愛國，公義大於愛國。只談愛國不談價值，是一個披露光鮮外衣的流氓。<br>而愛國主義最高的情操，是用以推動公義的實踐，為疆土邊界內的子民服務。換句話來說，假若「國家」的代表、政權機關不義，是可以被挑戰、被動搖的。
 
 ### 17: [2022-11-30 23:07:35+08:00 推文](https://twitter.com/nathanlawkc/status/1597970603428184066)
 
