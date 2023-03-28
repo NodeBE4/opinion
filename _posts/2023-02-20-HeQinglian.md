@@ -493,7 +493,7 @@ Re @JianglinLi @Wu_Zhi @nuosu001 @seadognw 我在四川的同学有位同事在�
 
 ### 120: [2023-02-23 09:16:39+08:00 推文](https://twitter.com/HeQinglian/status/1628564461182132225)
 
-赫什文章指出：2022年2月7日在白宫，拜登告诉来访的德国总理肖尔茨，俄如果进攻乌克兰，北溪管道将不复存在。肖尔茨表示将与美国站在一起。会面结束的当晚，拜登公布了对北溪管道的打算。<br>我真的很好奇，肖尔茨需不需要对德国人解释这一点？ https://twitter.com/dw_chinese/status/1628404745214763012<div class="rsshub-quote"><br><br>DW 中文- 德国之声: 美国知名记者赫什网络发文爆料称这一破坏袭击是美国所为，让各种猜测沸腾。而参与调查的国家，包括德国的相关机构未公开任何与调查进展有关的信息。对媒体的询问，也多半讳莫如深。#北溪爆炸事件  https://p.dw.com/p/4Npqu<br></div>
+赫什文章指出：2022年2月7日在白宫，拜登告诉来访的德国总理肖尔茨，俄如果进攻乌克兰，北溪管道将不复存在。肖尔茨表示将与美国站在一起。会面结束的当晚，拜登公布了对北溪管道的打算。<br>我真的很好奇，肖尔茨需不需要对德国人解释这一点？<div class="rsshub-quote"><br><br>DW 中文- 德国之声: 美国知名记者赫什网络发文爆料称这一破坏袭击是美国所为，让各种猜测沸腾。而参与调查的国家，包括德国的相关机构未公开任何与调查进展有关的信息。对媒体的询问，也多半讳莫如深。#北溪爆炸事件  https://p.dw.com/p/4Npqu<br></div>
 
 ### 121: [2023-02-23 09:20:44+08:00 推文](https://twitter.com/HeQinglian/status/1628565488153382913)
 
@@ -569,7 +569,7 @@ Re @Lucs24659702 去年小拜登将美国释放的战略储备油卖给中石油
 
 ### 139: [2023-02-24 02:33:17+08:00 推文](https://twitter.com/HeQinglian/status/1628825340528263170)
 
-中美经济脱钩，从美国方面来说，于公于私都很难。<br>于私，是美国第一公子小拜登不时被公布的与中国的利益互动。<br>于公，据美方政府日前公布，2022年美国和中国货物贸易总额达6906亿美元，创历史新高。<br>中国贸易顺差逾6000亿，美国贸易逆差近万亿，中国的贸易顺差多数来自于美国。<br>拜粉能否读懂这些数据？ https://twitter.com/Lucs24659702/status/1628812816194080768<div class="rsshub-quote"><br><br>Lucs: Byron Donalds：亨特·拜登协助将钴矿出售给一家中国公司<br><br> “乔·拜登如此大力推动太阳能电池板、电池和电动汽车的原因之一是因为他的儿子促成了将钴矿出售给一家中国公司。” https://t.co/Wj2ek2X4AH<br><br><video src="https://video.twimg.com/ext_tw_video/1628812773571579905/pu/vid/1280x720/b8RktzccufT_6vyU.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1628812773571579905/pu/img/dwnZx9sEofrWfm7K.jpg"></video></div>
+中美经济脱钩，从美国方面来说，于公于私都很难。<br>于私，是美国第一公子小拜登不时被公布的与中国的利益互动。<br>于公，据美方政府日前公布，2022年美国和中国货物贸易总额达6906亿美元，创历史新高。<br>中国贸易顺差逾6000亿，美国贸易逆差近万亿，中国的贸易顺差多数来自于美国。<br>拜粉能否读懂这些数据？<div class="rsshub-quote"><br><br>Lucs: Byron Donalds：亨特·拜登协助将钴矿出售给一家中国公司<br><br> “乔·拜登如此大力推动太阳能电池板、电池和电动汽车的原因之一是因为他的儿子促成了将钴矿出售给一家中国公司。” https://t.co/Wj2ek2X4AH<br><br><video src="https://video.twimg.com/ext_tw_video/1628812773571579905/pu/vid/1280x720/b8RktzccufT_6vyU.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1628812773571579905/pu/img/dwnZx9sEofrWfm7K.jpg"></video></div>
 
 ### 140: [2023-02-24 03:42:23+08:00 推文](https://twitter.com/HeQinglian/status/1628842726924988417)
 
@@ -645,7 +645,7 @@ Re @Vince6610 近五年，美国已从中国第一大贸易伙伴，成为中国
 
 ### 158: [2023-02-24 06:46:38+08:00 推文](https://twitter.com/HeQinglian/status/1628889095509344256)
 
-俄乌战争以来，很多事美国没办好的原因，尤其是对俄制裁失败，主要是没弄清楚一点：<br>自2010年以来，全球化分工体系已经成为生产国、消费国与资源国，三类国家是互相依赖的互补关系。<br>美国是世界最大消费国，世界贸易顺差的主要来源；中国是生产国；俄罗斯是资源国，德国既是生产国（高端）又是消费国。<div class="rsshub-quote"><br><br>天降伟人包由检: 民主党机关报也觉得让俄罗斯内部推翻普京不那么现实，然后一直以来不知道哪根筋搭错了，总是特别希望包总来劝普京停手。这真挺有趣。我要是包总，肯定跟老美说“行啊，那总得有点好处吧……” https://t.co/Ma8VwyTLkX<br><br><img style="" src="https://pbs.twimg.com/media/FprvbLEWcAE-LQE?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLAWIAEkp__?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLAXgAI4e7z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLEXgAUvSha?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+俄乌战争以来，很多事美国没办好的原因，尤其是对俄制裁失败，主要是没弄清楚一点：<br>自2010年以来，全球化分工体系已经成为生产国、消费国与资源国，三类国家是互相依赖的互补关系。<br>美国是世界最大消费国，世界贸易顺差的主要来源；中国是生产国；俄罗斯是资源国，德国既是生产国（高端）又是消费国。 https://twitter.com/fading_you1/status/1628877470769246208<div class="rsshub-quote"><br><br>天降伟人包由检: 民主党机关报也觉得让俄罗斯内部推翻普京不那么现实，然后一直以来不知道哪根筋搭错了，总是特别希望包总来劝普京停手。这真挺有趣。我要是包总，肯定跟老美说“行啊，那总得有点好处吧……” https://t.co/Ma8VwyTLkX<br><br><img style="" src="https://pbs.twimg.com/media/FprvbLEWcAE-LQE?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLAWIAEkp__?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLAXgAI4e7z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLEXgAUvSha?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 159: [2023-02-24 07:05:36+08:00 推文](https://twitter.com/HeQinglian/status/1628893868212072448)
 
