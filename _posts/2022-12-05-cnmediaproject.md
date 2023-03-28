@@ -37,7 +37,7 @@ Re Regional company search portals and other services all black as well.<br><img
 
 ### 6: [2022-12-06 16:56:50+08:00 推文](https://twitter.com/chenchenzh/status/1600051628941266944)
 
-RT Chenchen Zhang 🤦🏻‍♀️<br>"make the spirit of the Constitution the people's belief" 🫠<br>meanwhile when netizens posted things like "isn't freedom of speech my constitutional rights" on the constitution day (Sunday) they got censored quickly<br><img style="" src="https://pbs.twimg.com/media/FjSGegsWIAAq37D?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><div class="rsshub-quote"><br><br>China Media Project: The homepage of People's Daily Online today. Jiang Zemin is the focus, but Xi Jinping still leads — his words being the news.<br><br><img style="" src="https://pbs.twimg.com/media/FjReumBaYAAMp7S?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT Chenchen Zhang 🤦🏻‍♀️<br>"make the spirit of the Constitution the people's belief" 🫠<br>meanwhile when netizens posted things like "isn't freedom of speech my constitutional rights" on the constitution day (Sunday) they got censored quickly<br><img style="" src="https://pbs.twimg.com/media/FjSGegsWIAAq37D?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><br>China Media Project: The homepage of People's Daily Online today. Jiang Zemin is the focus, but Xi Jinping still leads — his words being the news.<br><br><img style="" src="https://pbs.twimg.com/media/FjReumBaYAAMp7S?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2022-12-07 04:30:00+08:00 推文](https://twitter.com/NAFellows/status/1600226070141075457)
 
