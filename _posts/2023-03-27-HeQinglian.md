@@ -121,7 +121,7 @@ Re @mingshi_chen 货币互换，早在人民币入篮之前就开始了，香港
 
 ### 27: [2023-03-27 22:26:24+08:00 推文](https://twitter.com/HeQinglian/status/1640359621209604097)
 
-Re 必须补充的一句是：<br>美国文革、美国共产主义2.0版，让我们这代人在晚年，陷入精神支撑崩塌，奋斗价值冰消之境。<br>如我这种少数派（5%），愿意认清事实重新出发。多数人抱着灯塔不放，哪怕事实上熄灭，也将想象当现实。<br>十年后，如果还有思考能力，灯塔派将比我等少数人更痛苦，依靠否定少数派是其指望
+RT He Qinglian<br>Re 必须补充的一句是：<br>美国文革、美国共产主义2.0版，让我们这代人在晚年，陷入精神支撑崩塌，奋斗价值冰消之境。<br>如我这种少数派（5%），愿意认清事实重新出发。多数人抱着灯塔不放，哪怕事实上熄灭，也将想象当现实。<br>十年后，如果还有思考能力，灯塔派将比我等少数人更痛苦，依靠否定少数派是其指望
 
 ### 28: [2023-03-27 22:33:02+08:00 推文](https://twitter.com/HeQinglian/status/1640361291138179078)
 
@@ -142,4 +142,40 @@ Re @paulzhiyong 只要分清愿望与事实，就算好的“灯塔派”——�
 ### 32: [2023-03-28 01:29:30+08:00 推文](https://twitter.com/HeQinglian/status/1640405698067546155)
 
 Re @Chichoyroot 记得你是郭革命时，来过，挺郭派。😇😇<br>我一直是这样的，不知你刮去的是哪一层云翳？
+
+### 33: [2023-03-28 03:05:41+08:00 推文](https://twitter.com/zhixiangziyou/status/1640429904478060544)
+
+RT L JM🇺🇸<br>《华尔街日报》的民意调查显示美国价值观的急剧下降是我们不应该在乌克兰与 WW3 玩足球的另一个原因<br><br>我们的国家正在分崩离析，我们的“领导人”正专注于 5,000 英里外的边界争端。 https://twitter.com/charliekirk11/status/1640378779360202752<div class="rsshub-quote"><br><br>Charlie Kirk: The WSJ poll showing the precipitous decline in American values is yet another reason we shouldn't be in Ukraine playing footsie with WW3<br><br>Our country is falling apart and our "leaders" are focused on a border dispute 5,000 miles away. https://t.co/tmey8Jp12x<br><br><img style="" src="https://pbs.twimg.com/media/FsPLuDJakAE7zn7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 34: [2023-03-28 06:54:33+08:00 推文](https://twitter.com/HeQinglian/status/1640487500631232514)
+
+Re @catland95581230 连同下推一道回你：<br>1、从来没挺俄，也不挺乌，只是客观分析。只有黑白两色，要选个主子与依靠，是你，不是我。<br>2、我10岁遭遇文革，从来没参加、支持。因此生活在30-40年代，同样不会投奔延安、苏联。<br>3、对于栽赃诬赖对手再批判的手法，吓得倒别人，吓不倒我。<br>念你Fo多年，就此告别，自行离去。
+
+### 35: [2023-03-28 06:58:37+08:00 推文](https://twitter.com/HeQinglian/status/1640488523450007556)
+
+Re @Tianshuihanyan @franktianxie 纳姐，既然德桑蒂斯完全没竞争力，不是非常好么？<br>有信心，让所有想参选2024的人参加竞争，又公平，胜出后让任何人都无话可说。
+
+### 36: [2023-03-28 07:01:11+08:00 推文](https://twitter.com/HeQinglian/status/1640489168353517568)
+
+Re @catland95581230 你FO他吧，他与我各有推号。<br>一个自称奥派的人，连美元与人民币此消彼长是个极缓慢过程都不知道，我昨天特别留心看了一下你的自我介绍。
+
+### 37: [2023-03-28 07:04:45+08:00 推文](https://twitter.com/HeQinglian/status/1640490067809411075)
+
+Re @zhixiangziyou 说得不对，忘记最先失业的是政府预算支持的NGO。老牌NGO有自己的投资、产业，不在此列。
+
+### 38: [2023-03-28 07:13:09+08:00 推文](https://twitter.com/HeQinglian/status/1640492179075342338)
+
+Re @ssss00555538 @shenliangqing2 是这样，拜登政府只会加速这一过程。
+
+### 39: [2023-03-28 08:12:14+08:00 推文](https://twitter.com/HeQinglian/status/1640507048512172036)
+
+Re @Farmer9911 @Tianshuihanyan @franktianxie 如果川普支持者用这种态度对待德桑蒂斯的参选，如果后者初选失败，其支持者有部分不会转成支持川普。但如果公平竞选，稍微Nice一点，完全可以在党内初选后转化为川普支持者。
+
+### 40: [2023-03-28 08:45:44+08:00 推文](https://twitter.com/HeQinglian/status/1640515478383734784)
+
+Re @wj20200118 @Farmer9911 @Tianshuihanyan @franktianxie 何谓偷偷摸摸？地球人都知道他将参加党内初选。<br>我不知佛州的规定怎样，但在加州，贺锦丽以副总统参选，是选完之后两个月才辞职的。<br>如果说他说得不那么响亮，正是因为川普支持者成天在说他忘恩负义。
+
+### 41: [2023-03-28 08:48:48+08:00 推文](https://twitter.com/HeQinglian/status/1640516251167383553)
+
+Re @Tianshuihanyan @franktianxie 不用讲了。<br>他要选，你们也拦不住；更何况，2020年大选时，你就知道佛州共和党有不少人不支持川普。<br>结果就是：你们反对他参选，只会增加共和党内部矛盾。<br>不过，有人说了，宁可共和党失败，也要这样做。
 
