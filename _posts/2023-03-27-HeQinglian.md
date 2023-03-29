@@ -109,7 +109,7 @@ Re @JianglinLi @zhixiangziyou 查了一下，确实是匈牙利犹太人，从�
 
 ### 24: [2023-03-27 21:58:20+08:00 推文](https://twitter.com/HeQinglian/status/1640352556139401217)
 
-这一代人就是这样，人生长跑行将结束。多数人为稻粱谋，此外无非三类：体制内攀升者，体制外的政治反对者（包括表面反对实则合作），商界人物（1950年代生人较少这方面成功者）。<br>退休时回望，心之所安最重要，身外之物无非多收了三五斗。大厦千丈，所眠无非七尺之榻。 https://twitter.com/AnnaWruiqin/status/1640135504942301184<div class="rsshub-quote"><br><br>王安娜 · WangRuiqin: 胡石根长老曾经与胡春华是同室校友，只是胡石根选择了与胡春华完全不同的人生道路。3月26日胡长老在刑期满三天后从牢狱回到四壁空空的家中，24年铁窗生涯极大的伤害了他的健康。壮士垂暮衰老，再看习二强制把中国拉回毛时代不禁感慨<br><br>中国的苦难何时结束<br>勇士们还要付出多大代价？ https://twitter.com/annawruiqin/status/1639972789854650371<br></div>
+这一代人就是这样，人生长跑行将结束。多数人为稻粱谋，此外无非三类：体制内攀升者，体制外的政治反对者（包括表面反对实则合作），商界人物（1950年代生人较少这方面成功者）。<br>退休时回望，心之所安最重要，身外之物无非多收了三五斗。大厦千丈，所眠无非七尺之榻。<div class="rsshub-quote"><br><br>王安娜 · WangRuiqin: 胡石根长老曾经与胡春华是同室校友，只是胡石根选择了与胡春华完全不同的人生道路。3月26日胡长老在刑期满三天后从牢狱回到四壁空空的家中，24年铁窗生涯极大的伤害了他的健康。壮士垂暮衰老，再看习二强制把中国拉回毛时代不禁感慨<br><br>中国的苦难何时结束<br>勇士们还要付出多大代价？<br></div>
 
 ### 25: [2023-03-27 22:00:18+08:00 推文](https://twitter.com/HeQinglian/status/1640353050417045505)
 
@@ -121,7 +121,7 @@ Re @mingshi_chen 货币互换，早在人民币入篮之前就开始了，香港
 
 ### 27: [2023-03-27 22:26:24+08:00 推文](https://twitter.com/HeQinglian/status/1640359621209604097)
 
-RT He Qinglian<br>Re 必须补充的一句是：<br>美国文革、美国共产主义2.0版，让我们这代人在晚年，陷入精神支撑崩塌，奋斗价值冰消之境。<br>如我这种少数派（5%），愿意认清事实重新出发。多数人抱着灯塔不放，哪怕事实上熄灭，也将想象当现实。<br>十年后，如果还有思考能力，灯塔派将比我等少数人更痛苦，依靠否定少数派是其指望
+Re 必须补充的一句是：<br>美国文革、美国共产主义2.0版，让我们这代人在晚年，陷入精神支撑崩塌，奋斗价值冰消之境。<br>如我这种少数派（5%），愿意认清事实重新出发。多数人抱着灯塔不放，哪怕事实上熄灭，也将想象当现实。<br>十年后，如果还有思考能力，灯塔派将比我等少数人更痛苦，依靠否定少数派是其指望
 
 ### 28: [2023-03-27 22:33:02+08:00 推文](https://twitter.com/HeQinglian/status/1640361291138179078)
 
@@ -145,7 +145,7 @@ Re @Chichoyroot 记得你是郭革命时，来过，挺郭派。😇😇<br>我�
 
 ### 33: [2023-03-28 03:05:41+08:00 推文](https://twitter.com/zhixiangziyou/status/1640429904478060544)
 
-RT L JM🇺🇸<br>《华尔街日报》的民意调查显示美国价值观的急剧下降是我们不应该在乌克兰与 WW3 玩足球的另一个原因<br><br>我们的国家正在分崩离析，我们的“领导人”正专注于 5,000 英里外的边界争端。<div class="rsshub-quote"><br><br>Charlie Kirk: The WSJ poll showing the precipitous decline in American values is yet another reason we shouldn't be in Ukraine playing footsie with WW3<br><br>Our country is falling apart and our "leaders" are focused on a border dispute 5,000 miles away. https://t.co/tmey8Jp12x<br><br><img style="" src="https://pbs.twimg.com/media/FsPLuDJakAE7zn7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT L JM🇺🇸<br>《华尔街日报》的民意调查显示美国价值观的急剧下降是我们不应该在乌克兰与 WW3 玩足球的另一个原因<br><br>我们的国家正在分崩离析，我们的“领导人”正专注于 5,000 英里外的边界争端。 https://twitter.com/charliekirk11/status/1640378779360202752<div class="rsshub-quote"><br><br>Charlie Kirk: The WSJ poll showing the precipitous decline in American values is yet another reason we shouldn't be in Ukraine playing footsie with WW3<br><br>Our country is falling apart and our "leaders" are focused on a border dispute 5,000 miles away. https://t.co/tmey8Jp12x<br><br><img style="" src="https://pbs.twimg.com/media/FsPLuDJakAE7zn7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 34: [2023-03-28 06:54:33+08:00 推文](https://twitter.com/HeQinglian/status/1640487500631232514)
 
