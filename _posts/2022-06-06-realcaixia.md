@@ -73,11 +73,11 @@ Re @yonghewang1969 谢谢您和大家的支持鼓励，让我们在反抗极权�
 
 ### 15: [2022-06-09 00:00:05+08:00 推文](https://twitter.com/realcaixia/status/1534565938405617664)
 
-从小在中共洗脑欺骗下，我曾经以为“国民党反动派”这六个字是必须连读的一个“专用”名词，反动派是国民党的专利。在我逐步清除极权统治的谎言宣传洗脑毒害过程中，才明白一切反时代前进潮流而动的政治集团都是反动派。习当局就是反动派，他们岂只是开倒车、阻挡中国历史前进，他们是反动，反文明反人性。
+从小在中共洗脑欺骗下，我曾经以为“国民党反动派”这六个字是必须连读的一个“专用”名词，反动派是国民党的专利。在我逐步清除极权统治的谎言宣传洗脑毒害过程中，才明白一切反时代前进潮流而动的政治集团都是反动派。习当局就是反动派，他们岂只是开倒车、阻挡中国历史前进，他们是反动，反文明反人性。<br><br>LeLeFarley 乐乐法利: 喔！这段儿我在历史书上看过不止一次👍<br><br><img style="" src="https://pbs.twimg.com/media/FUqWGipWYAE3_6Q?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 16: [2022-06-09 20:43:51+08:00 推文](https://twitter.com/realcaixia/status/1534878944360644608)
 
-这就是反抗专制，维护自由香港精神，港人光复香港终有一天会到来。
+这就是反抗专制，维护自由香港精神，港人光复香港终有一天会到来。<br><br>RICHARD FULL: 6月3日晚，在维多利亚公园（香港六四烛光晚会曾经一直在这里举行，直到2020年被禁止），一名男子坐在那里看书，面前放着两根电蜡烛。警察搜查了他的包，问他在那里做什么。他说，"无可奉告"。<br><br>重压之下云淡风轻，了不起的香港人👍<br><br><img style="" src="https://pbs.twimg.com/media/FUXT5nPUcAEgLZb?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 17: [2022-06-09 20:52:33+08:00 推文](https://twitter.com/realcaixia/status/1534881131392294919)
 
@@ -105,7 +105,7 @@ Re @yonghewang1969 谢谢您和大家的支持鼓励，让我们在反抗极权�
 
 ### 23: [2022-06-10 02:05:53+08:00 推文](https://twitter.com/realcaixia/status/1534959984722726913)
 
-毛是个游走在城市边缘的乡村小知识分子，对大知识分子怀有复杂的感情：羡慕，嫉妒、忌恨、惧怕。1957毛对有真才实学又敢提出异议者，由欣赏到惧怕到镇压。习基本是文化白痴，对有风骨知识分子只能靠镇压。当年毛打压清华黄万里，现在习打压清华许章润。毛习能作恶全靠极权体制。除极权才能断人祸。<br><br>叶兵 YE BING: 今天是人民日报社论“这是为什么？”发表65周年。这标志着毛泽东“横扫牛鬼蛇神”的反右运动正式开始。黄万里教授因写小说《花丛小语》和诗词“百花齐放颂”被毛钦点为右派，厄运连连，仍矢志不渝，其批评三门峡和三峡工程的意见屡遭高层忽略。他被称为“二十世纪中国知识分子的标本”<br> <a href="https://www.voachinese.com/a/the-anniversary-of-mao-s-anti-rightists-campaign-remembered-as-crackdowns-on-dissent-intensify-20220606/6588272.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/the-anniversary-of-mao-s-anti-rightists-campaign-remembered-as-crackdowns-on-dissent-intensify-20220606/6588272.html</a>
+毛是个游走在城市边缘的乡村小知识分子，对大知识分子怀有复杂的感情：羡慕，嫉妒、忌恨、惧怕。1957毛对有真才实学又敢提出异议者，由欣赏到惧怕到镇压。习基本是文化白痴，对有风骨知识分子只能靠镇压。当年毛打压清华黄万里，现在习打压清华许章润。毛习能作恶全靠极权体制。除极权才能断人祸。
 
 ### 24: [2022-06-10 02:25:47+08:00 推文](https://twitter.com/realcaixia/status/1534964995758379008)
 
