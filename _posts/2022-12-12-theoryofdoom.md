@@ -13,9 +13,9 @@ title: theoryofdoom在2022-12-12~2022-12-18的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 429: [I'm not a student in psychology, or philosophy, but maybe you can help me make sense of these ideas.](https://old.reddit.com/r/Jung/comments/zjv3ab/im_not_a_student_in_psychology_or_philosophy_but/), submitted on 2022-12-12 18:29:00+08:00.
+### 430: [I'm not a student in psychology, or philosophy, but maybe you can help me make sense of these ideas.](https://old.reddit.com/r/Jung/comments/zjv3ab/im_not_a_student_in_psychology_or_philosophy_but/), submitted on 2022-12-12 18:29:00+08:00.
 
------ __429.1__ -----2022-12-13 12:49:04+08:00:
+----- __430.1__ -----2022-12-13 12:49:04+08:00:
 
 The quote you linked above is from Letters, Volume 1 at page 33 (English version).  Jung was writing to a potential patient, who sought to engage his services in overcoming her struggles to understand others.  
 
@@ -29,9 +29,9 @@ Jung wrote that dreams were the impartial, spontaneous products of our unconscio
 
 The idea is that by self understanding, we become the point reference through which we may orient our understanding of the external world.  In that way, we wake up.
 
-### 430: [Help me understand/integrate the part on the shadow](https://old.reddit.com/r/Jung/comments/zoe9iq/help_me_understandintegrate_the_part_on_the_shadow/), submitted on 2022-12-18 03:41:11+08:00.
+### 431: [Help me understand/integrate the part on the shadow](https://old.reddit.com/r/Jung/comments/zoe9iq/help_me_understandintegrate_the_part_on_the_shadow/), submitted on 2022-12-18 03:41:11+08:00.
 
------ __430.1__ -----2022-12-18 17:20:10+08:00:
+----- __431.1__ -----2022-12-18 17:20:10+08:00:
 
 As of the time this comment is posted, I do not see a satisfying explanation of what integrating the shadow actually means.  So I'll do it.  
 

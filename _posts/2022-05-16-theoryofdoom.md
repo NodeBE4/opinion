@@ -13,15 +13,15 @@ title: theoryofdoom在2022-05-16~2022-05-22的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 260: [What’s the point of doing a bug bounty if the bounty is ineligible for pay?](https://old.reddit.com/r/hacking/comments/uqjckx/whats_the_point_of_doing_a_bug_bounty_if_the/), submitted on 2022-05-16 08:23:11+08:00.
+### 261: [What’s the point of doing a bug bounty if the bounty is ineligible for pay?](https://old.reddit.com/r/hacking/comments/uqjckx/whats_the_point_of_doing_a_bug_bounty_if_the/), submitted on 2022-05-16 08:23:11+08:00.
 
------ __260.1__ -----2022-05-16 12:19:53+08:00:
+----- __261.1__ -----2022-05-16 12:19:53+08:00:
 
 If you find an exploit, seems like it might have more value on the open market.
 
-### 261: [Reddit are taking my account and I feel powerless.](https://old.reddit.com/r/ModSupport/comments/urajre/reddit_are_taking_my_account_and_i_feel_powerless/), submitted on 2022-05-17 08:48:49+08:00.
+### 262: [Reddit are taking my account and I feel powerless.](https://old.reddit.com/r/ModSupport/comments/urajre/reddit_are_taking_my_account_and_i_feel_powerless/), submitted on 2022-05-17 08:48:49+08:00.
 
------ __261.1__ -----2022-05-17 12:36:27+08:00:
+----- __262.1__ -----2022-05-17 12:36:27+08:00:
 
 The good news is that you are not powerless.  At this stage, the mark holder has just said you infringed.  Whether you actually have is far from established.  Even if it was, you have several defenses.  
 
@@ -51,9 +51,9 @@ u/instagram
 
 NOTE: Obviously talk to a lawyer.
 
-### 262: [Unofficial Daily Update for 2022-05-17. 5327 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/ursaxu/unofficial_daily_update_for_20220517_5327_new/), submitted on 2022-05-18 02:00:17+08:00.
+### 263: [Unofficial Daily Update for 2022-05-17. 5327 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/ursaxu/unofficial_daily_update_for_20220517_5327_new/), submitted on 2022-05-18 02:00:17+08:00.
 
------ __262.1__ -----2022-05-18 20:47:46+08:00:
+----- __263.1__ -----2022-05-18 20:47:46+08:00:
 
 > but there's that little voice that whispers "we still don't know the hidden effects of even asymptomatic infection"
 
@@ -77,9 +77,9 @@ Realize the significance of what I have said.  As a point of comparison, if you 
 
 Even if all of the above is too complicated, don't you think that if any mask actually did work, that SOMEONE in this country would have sought to obtain the appropriate regulatory indications?  So that they, unlike the universe of their competition, could carry the "FDA approved" designation?  What would have happened if Pfizer or Moderna tried to market their vaccines without regulatory clearance?  Is it enough that a whole bunch of people appear to have certain beliefs about efficacy or safety?  Absolutely not.  The underlying data to support safety and efficacy are the prerequisites for those products' being eligible for commercialization.  The entire reason the FDCA was passed is to protect consumers from being misled by "snake oil" type drugs and devices.  This is key difference between the so called field of "public health" and the people and companies that actually do the work of innovation in this space.
 
-### 263: [Arwady: "Chicago could soon reach 'high' COVID level" (or so she says)](https://old.reddit.com/r/CoronavirusIllinois/comments/usbioi/arwady_chicago_could_soon_reach_high_covid_level/), submitted on 2022-05-18 20:16:03+08:00.
+### 264: [Arwady: "Chicago could soon reach 'high' COVID level" (or so she says)](https://old.reddit.com/r/CoronavirusIllinois/comments/usbioi/arwady_chicago_could_soon_reach_high_covid_level/), submitted on 2022-05-18 20:16:03+08:00.
 
------ __263.1__ -----2022-05-18 20:18:13+08:00:
+----- __264.1__ -----2022-05-18 20:18:13+08:00:
 
 Arwady is a source of unyielding exhaustion, but has at least recognized that prior "mitigations" have no connection to any purported "metrics" whatsoever:
 

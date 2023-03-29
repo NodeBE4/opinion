@@ -13,35 +13,35 @@ title: theoryofdoom在2022-02-14~2022-02-20的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 92: [Joe Rogan's use of the n-word is another January 6 moment](https://old.reddit.com/r/stupidpol/comments/srng8q/joe_rogans_use_of_the_nword_is_another_january_6/), submitted on 2022-02-14 01:09:24+08:00.
+### 93: [Joe Rogan's use of the n-word is another January 6 moment](https://old.reddit.com/r/stupidpol/comments/srng8q/joe_rogans_use_of_the_nword_is_another_january_6/), submitted on 2022-02-14 01:09:24+08:00.
 
------ __92.1__ -----2022-02-14 09:46:30+08:00:
+----- __93.1__ -----2022-02-14 09:46:30+08:00:
 
 I feel like AI trained on Twitter comments could do a better job than CNN's "contributors" or content creators, like Brian Steltzer or whatever his name is.
 
-### 93: [A Russian court put a couple from Severodvinsk in prison for 3 years, who tortured the cat Kuzya to death. The sadists not only abused the animal, but posted a video on the social network. The case caused a wide public outcry, in 20 Russian cities there were actions calling for severe punishment.](https://old.reddit.com/r/russia/comments/sscgfy/a_russian_court_put_a_couple_from_severodvinsk_in/), submitted on 2022-02-14 22:55:26+08:00.
+### 94: [A Russian court put a couple from Severodvinsk in prison for 3 years, who tortured the cat Kuzya to death. The sadists not only abused the animal, but posted a video on the social network. The case caused a wide public outcry, in 20 Russian cities there were actions calling for severe punishment.](https://old.reddit.com/r/russia/comments/sscgfy/a_russian_court_put_a_couple_from_severodvinsk_in/), submitted on 2022-02-14 22:55:26+08:00.
 
------ __93.1__ -----2022-02-15 13:32:47+08:00:
+----- __94.1__ -----2022-02-15 13:32:47+08:00:
 
 Hе трахайся с кошками.
 
-### 94: [Enemies of My Enemy: How Fear of China Is Forging a New World Order](https://old.reddit.com/r/geopolitics/comments/sse3sr/enemies_of_my_enemy_how_fear_of_china_is_forging/), submitted on 2022-02-15 00:05:27+08:00.
+### 95: [Enemies of My Enemy: How Fear of China Is Forging a New World Order](https://old.reddit.com/r/geopolitics/comments/sse3sr/enemies_of_my_enemy_how_fear_of_china_is_forging/), submitted on 2022-02-15 00:05:27+08:00.
 
------ __94.1__ -----2022-02-16 08:51:06+08:00:
+----- __95.1__ -----2022-02-16 08:51:06+08:00:
 
 Don't do this again.
 
-### 95: [If You're Not A Sheep Like Them, And Have Any Differing Opinions Can Now Make Them Automatically Cancel And Freeze Your Back Accounts. Just For Supporting Freedom. #CanadaHasFallen.](https://old.reddit.com/r/walkaway/comments/ssojf8/if_youre_not_a_sheep_like_them_and_have_any/), submitted on 2022-02-15 07:43:07+08:00.
+### 96: [If You're Not A Sheep Like Them, And Have Any Differing Opinions Can Now Make Them Automatically Cancel And Freeze Your Back Accounts. Just For Supporting Freedom. #CanadaHasFallen.](https://old.reddit.com/r/walkaway/comments/ssojf8/if_youre_not_a_sheep_like_them_and_have_any/), submitted on 2022-02-15 07:43:07+08:00.
 
------ __95.1__ -----2022-02-15 20:46:40+08:00:
+----- __96.1__ -----2022-02-15 20:46:40+08:00:
 
 Canada is purporting to do to its citizens what the United States did to Russians who were involved in human rights violations, during the Obama administration.  
 
 Trudeau has lost his mind.
 
-### 96: [‘Not There Yet:' Lightfoot Refuses to Specify Date for Lifting Chicago's Mask Mandate](https://old.reddit.com/r/CoronavirusIllinois/comments/st4mbi/not_there_yet_lightfoot_refuses_to_specify_date/), submitted on 2022-02-15 22:50:20+08:00.
+### 97: [‘Not There Yet:' Lightfoot Refuses to Specify Date for Lifting Chicago's Mask Mandate](https://old.reddit.com/r/CoronavirusIllinois/comments/st4mbi/not_there_yet_lightfoot_refuses_to_specify_date/), submitted on 2022-02-15 22:50:20+08:00.
 
------ __96.1__ -----2022-02-16 13:04:06+08:00:
+----- __97.1__ -----2022-02-16 13:04:06+08:00:
 
 > This has been true for quite a broad spectrum of our public health response, actually. From the very beginning we've always acted like the vaccines don't actually do anything. That's why I call people like this the real anti-vaxxers.
 
@@ -53,7 +53,7 @@ People assume that because she holds a position she is competent and/or capable.
 
 Lori is going to be out.  And with her, so will the rest of this sea of incompetence.  I'm not a fan of Preckwinkle by any measure, but at least I can rely on her to keep the damn lights on.  I miss Rham.
 
------ __96.2__ -----2022-02-16 13:10:44+08:00:
+----- __97.2__ -----2022-02-16 13:10:44+08:00:
 
 > I think this is what the “eff it, I’m not getting re-elected anyways” plan looks like
 
@@ -61,42 +61,42 @@ I doubt it.  I'd bet Lori's advisors have actually told her the political risks 
 
 Republican will be elected governor.  I'd expect an executive order prohibiting the imposition of mask mandates in short order.
 
------ __96.3__ -----2022-02-16 13:13:06+08:00:
+----- __97.3__ -----2022-02-16 13:13:06+08:00:
 
 > Throughout the entire course of the pandemic Lori has made a very clear effort to somehow set herself apart from Pritzker in every decision made when it comes to mandates and restrictions. 
 
 It is actually hilarious how much she has failed in this respect, though.  She wants to be perceived as independent but is so deficient in leadership ability that she winds up just looking like a mindless contrarian.
 
-### 97: [ISIS EXECUTIONS of Syrian CHILDREN & Civilians by Islamic State Terroris...](https://old.reddit.com/r/terrorism/comments/st6a6i/isis_executions_of_syrian_children_civilians_by/), submitted on 2022-02-16 00:03:33+08:00.
+### 98: [ISIS EXECUTIONS of Syrian CHILDREN & Civilians by Islamic State Terroris...](https://old.reddit.com/r/terrorism/comments/st6a6i/isis_executions_of_syrian_children_civilians_by/), submitted on 2022-02-16 00:03:33+08:00.
 
------ __97.1__ -----2022-02-16 08:18:42+08:00:
+----- __98.1__ -----2022-02-16 08:18:42+08:00:
 
 Locked and permanently banned.
 
-### 98: [School mask mandate susepended?? (Not the appellate ruling)](https://old.reddit.com/r/CoronavirusIllinois/comments/stfa82/school_mask_mandate_susepended_not_the_appellate/), submitted on 2022-02-16 06:29:21+08:00.
+### 99: [School mask mandate susepended?? (Not the appellate ruling)](https://old.reddit.com/r/CoronavirusIllinois/comments/stfa82/school_mask_mandate_susepended_not_the_appellate/), submitted on 2022-02-16 06:29:21+08:00.
 
------ __98.1__ -----2022-02-17 10:15:01+08:00:
+----- __99.1__ -----2022-02-17 10:15:01+08:00:
 
 Most reddit moderators in these subs would have failed a high school advanced placement biology test.  The barometer of truth for them is whatever CNN says it is.  Others do not operate according to that standard, however.
 
-### 99: [[February 15, 2022] Community Update](https://old.reddit.com/r/CoronavirusIllinois/comments/stjy0o/february_15_2022_community_update/), submitted on 2022-02-16 10:00:15+08:00.
+### 100: [[February 15, 2022] Community Update](https://old.reddit.com/r/CoronavirusIllinois/comments/stjy0o/february_15_2022_community_update/), submitted on 2022-02-16 10:00:15+08:00.
 
------ __99.1__ -----2022-02-17 10:00:32+08:00:
+----- __100.1__ -----2022-02-17 10:00:32+08:00:
 
 Thanks.  On ivermectin, hydroxychloroquine and other out of patent compounds, it will take several years for the jury to be settled in the United States on that one.  The verdict will come in, but it likely won't be under the current leadership at NIAID/NIH.  It is regretful that the politics and economics surrounding those medications developed in the way they did.  
 
 On assuming users have knowledge, I tend to give people the chance to wade into the water whether they realize how deep it is or not.  That's because I'd rather see them step up to bat, swing and miss than sit in the dugout or never even show up to the game. 
  Individual users don't bother me on this pont, but I'll be very straightforward when I say that reading some of self-published substacks people have submitted here is like listening to a symphony of alley cats fighting over an empty can of tuna, music playing out of tune, nails on a chalkboard or any other appropriate comparison.  Thankfully few users here have ever conducted themselves in that way.
 
------ __99.2__ -----2022-02-18 05:32:41+08:00:
+----- __100.2__ -----2022-02-18 05:32:41+08:00:
 
 Don’t know what that is.
 
------ __99.3__ -----2022-02-18 11:35:48+08:00:
+----- __100.3__ -----2022-02-18 11:35:48+08:00:
 
 We filter all substacks by default, so that's why that got removed.  It would require manual approval, on a case by case basis.  Without reference to what you have linked, we have seen so many substacks that are self-published by crackpots and tin-foil hat types.  To not take a forward-looking approach in this way would be negligence on our part.
 
------ __99.4__ -----2022-02-19 11:35:50+08:00:
+----- __100.4__ -----2022-02-19 11:35:50+08:00:
 
 The article was appropriately titled, to the extent it referred to its voluminous length.  Less so, to the extent it referred to the quality of being informative.  
 
@@ -106,7 +106,7 @@ It has little appeal, outside of entertainment value I guess.  I have a hard tim
 
 At the outset it's clear what the Substack author is up to.  He's arguing, overtly and by implication, that all the science behind ivermectin's application to treat COVID was the product of one or more of stupidity or latent malice to deceive the world with false hope.  Smart people think ivermectin is horse paste and only stupid people believe the fake science behind Elgazzar and all the others like it.  Or so he says.  It's not persuasive.
 
------ __99.5__ -----2022-02-20 00:29:15+08:00:
+----- __100.5__ -----2022-02-20 00:29:15+08:00:
 
 There's a lot going on in your reply.  More than meets the eye at first glance.  So, to respond I'm going to have to lay some foundation and then I'm going to try to explain my current thoughts on the dialogue I think you're referring to, with respect to "those who 'believe' in ivermectin" and "there [being] no evidence that would convince them otherwise." 
 
@@ -139,7 +139,7 @@ There is no evidence which will change the media's mind because they're not inde
 
 At the lay level, this is solely a political issue because lay people don't have the sophistication to recognize what's going on.  They only see what they're shown and nothing else.  Even for people that purport to have the ability to do things like read and review published literature interpreting the results of clinical trials, they're beginning from the position of how the public narrative was set by the media's initial reporting.  Hence, why your substack guy wrote about that retracted study out of egypt, first. I don't care about this level because whether a drug should or should not be approved has nothing to do with politics.  It's become a partisan issue because of the money that's on the line in this debate.  And there is a LOT of money on the line.
 
------ __99.6__ -----2022-02-20 05:11:57+08:00:
+----- __100.6__ -----2022-02-20 05:11:57+08:00:
 
 > So what's the end game here? Allowing ivermectin to be used for covid?
 
@@ -175,15 +175,15 @@ I don't know what people you're referring to.  But again, I don't care about Red
 
 If you've got more questions, ask away.  I am speaking on a personal level here, though, and not in my capacity as a mod.
 
------ __99.7__ -----2022-02-20 05:26:09+08:00:
+----- __100.7__ -----2022-02-20 05:26:09+08:00:
 
 Thank you, and yes I agree the level of big anything's influence is troubling.  Big tobacco.  Big oil.  Big pharma.  Big media.  The list goes on.
 
------ __99.8__ -----2022-02-20 05:50:49+08:00:
+----- __100.8__ -----2022-02-20 05:50:49+08:00:
 
 As I said before, I'm just a guy on Reddit.  I am not in a position here to influence perception, when you can turn on the TV and hear what you hear.
 
------ __99.9__ -----2022-02-20 06:11:56+08:00:
+----- __100.9__ -----2022-02-20 06:11:56+08:00:
 
 > If the trial you posted in this sub 
 
@@ -201,23 +201,23 @@ This trial was the COVID-19 equivalent of giving tamiflu to those already hospit
 
 Prescribing to stop infection from progressing at the outset is what you logically should endeavor to test, based on the mechanisms of action seen in vitro.  Except that is not what they tested.  One wonders why.  If you are curious, the NIAID authorized a grant to test hydroxychloroquine in a similarly irrational way.  One also wonders why and how they decided to prescribe almost double the standard dose of ivermectin, when by their own admission the standard dose/regimen to treat parasitic infections likewise produced the most favorable outcomes.  See "DISCUSSION" section, 4th paragraph in your study; and citation nos. 27-34.  It's also curious how they selected patients for inclusion in the study: only the age group most likely to develop an acute immunologic response.
 
-### 100: [No wonder there is a housing crisis.](https://old.reddit.com/r/walkaway/comments/su2uaj/no_wonder_there_is_a_housing_crisis/), submitted on 2022-02-17 02:33:30+08:00.
+### 101: [No wonder there is a housing crisis.](https://old.reddit.com/r/walkaway/comments/su2uaj/no_wonder_there_is_a_housing_crisis/), submitted on 2022-02-17 02:33:30+08:00.
 
------ __100.1__ -----2022-02-17 12:50:34+08:00:
+----- __101.1__ -----2022-02-17 12:50:34+08:00:
 
 > Honestly as a rural NY dweller, I hate when people assume I live in the unbearable shithole that is NYC
 
 Rural upstate NY is beautiful.  I have no use for the city, either.  But if I had to live in a city in that failed state, I'd take Buffalo over NYC most days.  While also a shithole, it's less of a shithole than NYC.  Especially now.
 
-### 101: [Rates in Denmark going up after restrictions lifted](https://old.reddit.com/r/CoronavirusIllinois/comments/suc5j9/rates_in_denmark_going_up_after_restrictions/), submitted on 2022-02-17 09:24:08+08:00.
+### 102: [Rates in Denmark going up after restrictions lifted](https://old.reddit.com/r/CoronavirusIllinois/comments/suc5j9/rates_in_denmark_going_up_after_restrictions/), submitted on 2022-02-17 09:24:08+08:00.
 
------ __101.1__ -----2022-02-17 10:01:26+08:00:
+----- __102.1__ -----2022-02-17 10:01:26+08:00:
 
 I don't see how this is relevant to Illinois.
 
-### 102: [Unofficial Daily Update for 2022-02-17. 2538 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/suv4v1/unofficial_daily_update_for_20220217_2538_new/), submitted on 2022-02-18 02:05:04+08:00.
+### 103: [Unofficial Daily Update for 2022-02-17. 2538 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/suv4v1/unofficial_daily_update_for_20220217_2538_new/), submitted on 2022-02-18 02:05:04+08:00.
 
------ __102.1__ -----2022-02-18 12:00:50+08:00:
+----- __103.1__ -----2022-02-18 12:00:50+08:00:
 
 > paid sick and universal healthcare
 
@@ -243,13 +243,13 @@ My proposal would basically force shithole insurers like Ambetter and others tha
 
 So it was dead on arrival.  And that was the last time I ever did consulting work.
 
-### 103: [Judge Grischow sets CPS hearing: 'Show cause as to why the Defendants should not be held in contempt’](https://old.reddit.com/r/CoronavirusIllinois/comments/sv1pb3/judge_grischow_sets_cps_hearing_show_cause_as_to/), submitted on 2022-02-18 06:47:38+08:00.
+### 104: [Judge Grischow sets CPS hearing: 'Show cause as to why the Defendants should not be held in contempt’](https://old.reddit.com/r/CoronavirusIllinois/comments/sv1pb3/judge_grischow_sets_cps_hearing_show_cause_as_to/), submitted on 2022-02-18 06:47:38+08:00.
 
------ __103.1__ -----2022-02-18 08:13:43+08:00:
+----- __104.1__ -----2022-02-18 08:13:43+08:00:
 
 This low-effort noise adds no value whatsoever to the discussion.
 
------ __103.2__ -----2022-02-18 12:36:30+08:00:
+----- __104.2__ -----2022-02-18 12:36:30+08:00:
 
 > I wonder if he’s actually going to show up
 
@@ -257,21 +257,21 @@ Defying a court order carries the risk of confrontation with the police.  He'd b
 
 Last thing you want to do is add process crimes, when acting in your official capacity.
 
-### 104: [Appeal of TRO is ruled null because of JCAR vote. There is no longer a school mask mandate in Illinois.](https://old.reddit.com/r/CoronavirusIllinois/comments/svapqt/appeal_of_tro_is_ruled_null_because_of_jcar_vote/), submitted on 2022-02-18 14:07:36+08:00.
+### 105: [Appeal of TRO is ruled null because of JCAR vote. There is no longer a school mask mandate in Illinois.](https://old.reddit.com/r/CoronavirusIllinois/comments/svapqt/appeal_of_tro_is_ruled_null_because_of_jcar_vote/), submitted on 2022-02-18 14:07:36+08:00.
 
------ __104.1__ -----2022-02-18 20:10:36+08:00:
+----- __105.1__ -----2022-02-18 20:10:36+08:00:
 
 > The thought of a mask mandate in schools but nowhere else is laughable.
 
 It is, and the fact that JB sought to reimpose a mask mandate in schools despite dropping all the others is absurdity in itself.  Clearly he wanted to be the one who dropped the mandates, but legal challenges beat him to the punch.  That was a serious political miscalculation on his part.
 
------ __104.2__ -----2022-02-18 20:11:51+08:00:
+----- __105.2__ -----2022-02-18 20:11:51+08:00:
 
 > University of Illinois is going to be requiring masks in classes.
 
 Administrators want to, yes.  Whether they are able to see their way to implementing such a policy is another matter.
 
------ __104.3__ -----2022-02-18 20:49:34+08:00:
+----- __105.3__ -----2022-02-18 20:49:34+08:00:
 
 > It's entirely reasonable to expect another surge in the future that necessitates further mandates.
 
@@ -291,69 +291,69 @@ Is it possible that something like delta will happen again?  Sure, but if it doe
 
 The "public health" approach to COVID-19 is over.  Even if you accept the highly questionable evidence that mask *mandates* make any difference in community spread at face value, there is nothing to suggest their ongoing necessity in view of the fact that we are no-longer infection naive, and considering advances in both vaccines and therapeutics.  And more to the point, when a pandemic is "over" isn't really a public health question, either.  Rather, it's more of a political question that is informed by data points the field of public health suggests are relevant, measured against the general public's willingness to contend with whatever measures public health proposes.  When democrats line up against JB's mandates, you can see the answer to that question with little difficulty.
 
-### 105: [What if Russia Wins?: A Kremlin-Controlled Ukraine Would Transform Europe](https://old.reddit.com/r/geopolitics/comments/svjfgn/what_if_russia_wins_a_kremlincontrolled_ukraine/), submitted on 2022-02-18 22:36:10+08:00.
+### 106: [What if Russia Wins?: A Kremlin-Controlled Ukraine Would Transform Europe](https://old.reddit.com/r/geopolitics/comments/svjfgn/what_if_russia_wins_a_kremlincontrolled_ukraine/), submitted on 2022-02-18 22:36:10+08:00.
 
------ __105.1__ -----2022-02-20 01:05:14+08:00:
+----- __106.1__ -----2022-02-20 01:05:14+08:00:
 
 This thread is locked, due to the prolific array of conspiracy theories, unsavory innuendo and low-effort noise.
 
------ __105.2__ -----2022-02-20 01:06:41+08:00:
+----- __106.2__ -----2022-02-20 01:06:41+08:00:
 
 > he is a big pussy.
 
 Why would you think that is acceptable language to use here?
 
-### 106: [Pritzker to take school mask case to Illinois Supreme Court after ruling leaves masking up to local districts. More than 500 are mask optional; CPS staying the course.](https://old.reddit.com/r/CoronavirusIllinois/comments/svpkd5/pritzker_to_take_school_mask_case_to_illinois/), submitted on 2022-02-19 03:00:00+08:00.
+### 107: [Pritzker to take school mask case to Illinois Supreme Court after ruling leaves masking up to local districts. More than 500 are mask optional; CPS staying the course.](https://old.reddit.com/r/CoronavirusIllinois/comments/svpkd5/pritzker_to_take_school_mask_case_to_illinois/), submitted on 2022-02-19 03:00:00+08:00.
 
------ __106.1__ -----2022-02-19 12:52:52+08:00:
+----- __107.1__ -----2022-02-19 12:52:52+08:00:
 
 Pritzker expects the Illinois Supreme Court to conclude the issue is moot, because it is.  This appeal is solely for the purpose of theatrics.
 
-### 107: [India, UAE sign free trade deal expected to double trade to $100 billion in 5yrs | Latest News India - Hindustan Times](https://old.reddit.com/r/geopolitics/comments/sw64yz/india_uae_sign_free_trade_deal_expected_to_double/), submitted on 2022-02-19 17:26:30+08:00.
+### 108: [India, UAE sign free trade deal expected to double trade to $100 billion in 5yrs | Latest News India - Hindustan Times](https://old.reddit.com/r/geopolitics/comments/sw64yz/india_uae_sign_free_trade_deal_expected_to_double/), submitted on 2022-02-19 17:26:30+08:00.
 
------ __107.1__ -----2022-02-20 11:49:27+08:00:
+----- __108.1__ -----2022-02-20 11:49:27+08:00:
 
 Improperly formatted title and no submission statement after 18 hours.
 
-### 108: [Can organizations like the United Nations prevent war?](https://old.reddit.com/r/geopolitics/comments/swe5lj/can_organizations_like_the_united_nations_prevent/), submitted on 2022-02-20 00:42:55+08:00.
+### 109: [Can organizations like the United Nations prevent war?](https://old.reddit.com/r/geopolitics/comments/swe5lj/can_organizations_like_the_united_nations_prevent/), submitted on 2022-02-20 00:42:55+08:00.
 
------ __108.1__ -----2022-02-20 01:19:27+08:00:
+----- __109.1__ -----2022-02-20 01:19:27+08:00:
 
 This question has been reviewed and is approved.  While more elementary than some of the questions we typically see, this is a good opportunity to consider the basics of what role the United Nations plays in preserving world peace and underwriting the liberal world order.  Maybe some of you have considered this question in your lower level college classes.  We encourage you to share those perspectives.
 
-### 109: [Alien Newsletter #20: The Ukraine Invasion To-Be](https://old.reddit.com/r/geopolitics/comments/swec71/alien_newsletter_20_the_ukraine_invasion_tobe/), submitted on 2022-02-20 00:51:18+08:00.
+### 110: [Alien Newsletter #20: The Ukraine Invasion To-Be](https://old.reddit.com/r/geopolitics/comments/swec71/alien_newsletter_20_the_ukraine_invasion_tobe/), submitted on 2022-02-20 00:51:18+08:00.
 
------ __109.1__ -----2022-02-20 00:59:36+08:00:
+----- __110.1__ -----2022-02-20 00:59:36+08:00:
 
 Blogspam.  No submission statement.
 
-### 110: [Will Russia and China invade Ukraine and Taiwan simultaneously?](https://old.reddit.com/r/geopolitics/comments/swsfjj/will_russia_and_china_invade_ukraine_and_taiwan/), submitted on 2022-02-20 12:12:24+08:00.
+### 111: [Will Russia and China invade Ukraine and Taiwan simultaneously?](https://old.reddit.com/r/geopolitics/comments/swsfjj/will_russia_and_china_invade_ukraine_and_taiwan/), submitted on 2022-02-20 12:12:24+08:00.
 
------ __110.1__ -----2022-02-21 01:28:03+08:00:
+----- __111.1__ -----2022-02-21 01:28:03+08:00:
 
 I agree that China's strategy is to try and wear down Taiwan's and other actor's resolve.  China maximizes utility only when Taiwan's infrastructure is not a casualty in "unification" efforts.  So, if Taiwan's high-tech manufacturing capital is a casualty of war, it is not obvious Beijing is any better off.  
 
 I don't agree that China's mobilization times would be as long as you suggest, though that question is largely academic because the probability of a conventional invasion is fairly low to begin with (for reasons noted above).
 
-### 111: [What are some effective ways to get a man to stop hitting on you?](https://old.reddit.com/r/AskReddit/comments/swyrkc/what_are_some_effective_ways_to_get_a_man_to_stop/), submitted on 2022-02-20 18:54:39+08:00.
+### 112: [What are some effective ways to get a man to stop hitting on you?](https://old.reddit.com/r/AskReddit/comments/swyrkc/what_are_some_effective_ways_to_get_a_man_to_stop/), submitted on 2022-02-20 18:54:39+08:00.
 
------ __111.1__ -----2022-02-21 00:43:45+08:00:
+----- __112.1__ -----2022-02-21 00:43:45+08:00:
 
 Inform him of your devout commitment to Scientology.
 
-### 112: [Rosatom doubles down on the Arctic, will spend 1.5 trillion rubles on more nuclear icebreakers and other vessels through 2030](https://old.reddit.com/r/geopolitics/comments/sx1bgt/rosatom_doubles_down_on_the_arctic_will_spend_15/), submitted on 2022-02-20 21:30:41+08:00.
+### 113: [Rosatom doubles down on the Arctic, will spend 1.5 trillion rubles on more nuclear icebreakers and other vessels through 2030](https://old.reddit.com/r/geopolitics/comments/sx1bgt/rosatom_doubles_down_on_the_arctic_will_spend_15/), submitted on 2022-02-20 21:30:41+08:00.
 
------ __112.1__ -----2022-02-20 23:52:51+08:00:
+----- __113.1__ -----2022-02-20 23:52:51+08:00:
 
 Don't just cross-post something.  Post a submission statement explaining its relevance.
 
-### 113: [Map of Donbass (Published by the DPR)](https://old.reddit.com/r/geopolitics/comments/sx1pfk/map_of_donbass_published_by_the_dpr/), submitted on 2022-02-20 21:51:58+08:00.
+### 114: [Map of Donbass (Published by the DPR)](https://old.reddit.com/r/geopolitics/comments/sx1pfk/map_of_donbass_published_by_the_dpr/), submitted on 2022-02-20 21:51:58+08:00.
 
------ __113.1__ -----2022-02-20 23:51:59+08:00:
+----- __114.1__ -----2022-02-20 23:51:59+08:00:
 
 I will approve this if you post a submission statement explaining its relevance.  Aim for 3-5 sentences.
 
------ __113.2__ -----2022-02-21 12:45:08+08:00:
+----- __114.2__ -----2022-02-21 12:45:08+08:00:
 
 Try that again.
 

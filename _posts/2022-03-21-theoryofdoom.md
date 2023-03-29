@@ -13,21 +13,21 @@ title: theoryofdoom在2022-03-21~2022-03-27的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 190: [FYI, lrlourpresident, mod of subreddits like MurderedByAOC and OurPresident, has been offline since the US put in serious sanctions against Russia for Ukraine.](https://old.reddit.com/r/ActiveMeasures/comments/titwwg/fyi_lrlourpresident_mod_of_subreddits_like/), submitted on 2022-03-21 04:21:04+08:00.
+### 191: [FYI, lrlourpresident, mod of subreddits like MurderedByAOC and OurPresident, has been offline since the US put in serious sanctions against Russia for Ukraine.](https://old.reddit.com/r/ActiveMeasures/comments/titwwg/fyi_lrlourpresident_mod_of_subreddits_like/), submitted on 2022-03-21 04:21:04+08:00.
 
------ __190.1__ -----2022-03-21 11:51:28+08:00:
+----- __191.1__ -----2022-03-21 11:51:28+08:00:
 
 Very insightful find.
 
-### 191: [Unofficial Daily Update for 2022-03-21. 753 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/tjhtbr/unofficial_daily_update_for_20220321_753_new_cases/), submitted on 2022-03-22 02:00:19+08:00.
+### 192: [Unofficial Daily Update for 2022-03-21. 753 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/tjhtbr/unofficial_daily_update_for_20220321_753_new_cases/), submitted on 2022-03-22 02:00:19+08:00.
 
------ __191.1__ -----2022-03-22 10:14:45+08:00:
+----- __192.1__ -----2022-03-22 10:14:45+08:00:
 
 If you're going to keep baselessly speculating, you're going to be temp-banned.  You need evidence to support that kind of claim, which you currently lack (and historically have as well).  
 
 Think carefully about how, if at all, you respond to this post as well.  Just because you may disagree with me does not mean you get to violate all the other rules, which some people seem to forget.
 
------ __191.2__ -----2022-03-23 10:36:47+08:00:
+----- __192.2__ -----2022-03-23 10:36:47+08:00:
 
 We do not allow mindless prophecy of doom, on any timescale.  The era of unhinged speculation about impending armageddon without even plausible evidence to support such an inference is over.  
 
@@ -39,33 +39,33 @@ Here, you have cited various sources which, while insufficient to support your e
 
 Further, if you want to discuss moderation, do it via modmail.  Do not DM mods individually.
 
-### 192: [What’s a scientific experiment you’d be fascinated to see the results of, but could never be conducted due ethical concerns?](https://old.reddit.com/r/AskReddit/comments/tjphd9/whats_a_scientific_experiment_youd_be_fascinated/), submitted on 2022-03-22 07:44:34+08:00.
+### 193: [What’s a scientific experiment you’d be fascinated to see the results of, but could never be conducted due ethical concerns?](https://old.reddit.com/r/AskReddit/comments/tjphd9/whats_a_scientific_experiment_youd_be_fascinated/), submitted on 2022-03-22 07:44:34+08:00.
 
------ __192.1__ -----2022-03-22 20:04:22+08:00:
+----- __193.1__ -----2022-03-22 20:04:22+08:00:
 
 This has been tried, throughout the 20th century.
 
------ __192.2__ -----2022-03-22 20:05:36+08:00:
+----- __193.2__ -----2022-03-22 20:05:36+08:00:
 
 https://www.smithsonianmag.com/smart-news/how-mouse-utopias-1960s-led-grim-predictions-humans-180954423/
 
-### 193: [IdPol professor at BYU threatens students who posted screenshots of assignments with academic reprisal. Says what they are doing is violation of the Honor Code (which could result in suspension and expulsion).](https://old.reddit.com/r/stupidpol/comments/tjpug6/idpol_professor_at_byu_threatens_students_who/), submitted on 2022-03-22 08:02:23+08:00.
+### 194: [IdPol professor at BYU threatens students who posted screenshots of assignments with academic reprisal. Says what they are doing is violation of the Honor Code (which could result in suspension and expulsion).](https://old.reddit.com/r/stupidpol/comments/tjpug6/idpol_professor_at_byu_threatens_students_who/), submitted on 2022-03-22 08:02:23+08:00.
 
------ __193.1__ -----2022-03-22 12:20:27+08:00:
+----- __194.1__ -----2022-03-22 12:20:27+08:00:
 
 This so-called "professor" with a publication history [of mindless nonsense](https://byu.academia.edu/EricRuizBybee), in [irrelevant journals](https://www.tandfonline.com/doi/abs/10.1080/15348458.2019.1671195?journalCode=hlie20) that [literally no one ever reads](https://www.tandfonline.com/action/journalInformation?show=journalMetrics&journalCode=hlie20) wants to whine about the kiddos saying mean things about his stupid assignments, online?
 
 What a fucking disgrace.
 
------ __193.2__ -----2022-03-22 12:27:16+08:00:
+----- __194.2__ -----2022-03-22 12:27:16+08:00:
 
 He gets cited about [as much as incels get laid](https://scholar.google.com/citations?user=tdEel6sAAAAJ).  That's what you call having an impact in your field, folks.  And his [field](https://education.byu.edu/directory/view/bybee-eric) is a joke.
 
------ __193.3__ -----2022-03-22 19:41:10+08:00:
+----- __194.3__ -----2022-03-22 19:41:10+08:00:
 
 Sorry, but you're mistaken.  If you were even able to publish something "baity and stupid," your peers would ignore it for the reason that it was "baity and stupid."  You can't inflate your h-index just by trying to game the system.
 
------ __193.4__ -----2022-03-22 19:48:58+08:00:
+----- __194.4__ -----2022-03-22 19:48:58+08:00:
 
 > ad hominem is not an argument
 
@@ -83,25 +83,25 @@ But our friend the BYU professor isn't even in that boat.
 
 What field might that be?  Because I'll let you in on a secret.  Idpol journals no one ever reads don't publish according to the same standards as, say, medical journals.
 
------ __193.5__ -----2022-03-22 20:20:24+08:00:
+----- __194.5__ -----2022-03-22 20:20:24+08:00:
 
 I have a tendency to be sanctimonious in the face of idpol stupidity.
 
------ __193.6__ -----2022-03-23 11:56:12+08:00:
+----- __194.6__ -----2022-03-23 11:56:12+08:00:
 
 That was a pretty good find.  Read the abstract, anc couldn't help but laugh.  Reminds me of a Noam Chomsky lecture, recorded in one of the books he's published, where he talks about the language games certain types of normative theorists play to make what they're doing seem more sophisticated than it is.
 
-### 194: [Trudeau Gets Called Out Directly On The International Stage For His Authoritarianism](https://old.reddit.com/r/walkaway/comments/tliwnf/trudeau_gets_called_out_directly_on_the/), submitted on 2022-03-24 06:27:06+08:00.
+### 195: [Trudeau Gets Called Out Directly On The International Stage For His Authoritarianism](https://old.reddit.com/r/walkaway/comments/tliwnf/trudeau_gets_called_out_directly_on_the/), submitted on 2022-03-24 06:27:06+08:00.
 
------ __194.1__ -----2022-03-24 10:33:13+08:00:
+----- __195.1__ -----2022-03-24 10:33:13+08:00:
 
 > Hard times create good men
 
 Croatians of his age have blood equity in the values he's talking about.  When you've lived through something like that, seeing a so called liberal western liberal "leader" repudiate the civil liberty they claim to represent isn't just a moral indignation.  It's an abomination.  What Trudeau did would be like if Trump cited congressional authority given to FDR to fight the Third Reich, to destroy Black Lives Matter and anyone who ever voiced support for it.
 
-### 195: [Philadelphia men cheer as dogs savage family cat: video. Please keep this circulating so these pieces of garbage can be found and charged.](https://old.reddit.com/r/crime/comments/tm7bsc/philadelphia_men_cheer_as_dogs_savage_family_cat/), submitted on 2022-03-24 20:51:14+08:00.
+### 196: [Philadelphia men cheer as dogs savage family cat: video. Please keep this circulating so these pieces of garbage can be found and charged.](https://old.reddit.com/r/crime/comments/tm7bsc/philadelphia_men_cheer_as_dogs_savage_family_cat/), submitted on 2022-03-24 20:51:14+08:00.
 
------ __195.1__ -----2022-03-25 07:35:27+08:00:
+----- __196.1__ -----2022-03-25 07:35:27+08:00:
 
 There are so many levels on which this is disgusting, beyond the obvious barbarity to which someone's household pet was subjected.  
 
@@ -111,13 +111,13 @@ Training a dog to kill small animals on command means that a lot of other animal
 
 Bringing these individuals to justice must be a priority.
 
-### 196: [Airlines ask Biden to drop mask mandate and testing requirements for travelers](https://old.reddit.com/r/CoronavirusIllinois/comments/tmajdx/airlines_ask_biden_to_drop_mask_mandate_and/), submitted on 2022-03-24 21:35:58+08:00.
+### 197: [Airlines ask Biden to drop mask mandate and testing requirements for travelers](https://old.reddit.com/r/CoronavirusIllinois/comments/tmajdx/airlines_ask_biden_to_drop_mask_mandate_and/), submitted on 2022-03-24 21:35:58+08:00.
 
------ __196.1__ -----2022-03-25 03:25:13+08:00:
+----- __197.1__ -----2022-03-25 03:25:13+08:00:
 
 Obviously your comment violates Rule 1.  But even if it didn't, didn't you realize you posted it three different times?
 
------ __196.2__ -----2022-03-25 03:37:52+08:00:
+----- __197.2__ -----2022-03-25 03:37:52+08:00:
 
 People should absolutely have the choice of whether to wear a mask in any context, including on commercial flights.  No one is saying otherwise. 
 
@@ -133,15 +133,15 @@ It turns out that commercial aircraft have really excellent air filtration syste
 
 On trains, busses or in other contexts, the same can't be said.  But for planes, those costs are incurred without any added benefit to consumers whatsoever.
 
------ __196.3__ -----2022-03-28 00:02:33+08:00:
+----- __197.3__ -----2022-03-28 00:02:33+08:00:
 
 It is safe to go "maskless" regardless of whether you are vaccinated.  There is not now, nor has there ever been, any evidence to indicate that wearing a mask reduces COVID transmissibility or susceptibility to infection.  That politically driven narrative is among the most scientifically irresponsible lies to have emanated from the so called field of "public health."
 
------ __196.4__ -----2022-03-28 00:07:14+08:00:
+----- __197.4__ -----2022-03-28 00:07:14+08:00:
 
 If you ever see that happening, DM via modmail and it will be addressed.
 
------ __196.5__ -----2022-03-30 20:14:27+08:00:
+----- __197.5__ -----2022-03-30 20:14:27+08:00:
 
 So, the brigading begins.  A review of history will prove [salutary](https://www.reddit.com/r/CoronavirusIllinois/comments/t1hvgo/cdc_changes_mask_guidance/). 
 
@@ -193,35 +193,35 @@ Now I know some have probably googled some relevant terms and tried to find some
 
 If they did, they will struggle to find contrary evidence.  Because the state of the science is exactly where I said it was.
 
-### 197: [New 'Stealth Omicron' Could Dominate COVID Cases In Chicago Soon](https://old.reddit.com/r/CoronavirusIllinois/comments/tmi0pb/new_stealth_omicron_could_dominate_covid_cases_in/), submitted on 2022-03-24 23:41:33+08:00.
+### 198: [New 'Stealth Omicron' Could Dominate COVID Cases In Chicago Soon](https://old.reddit.com/r/CoronavirusIllinois/comments/tmi0pb/new_stealth_omicron_could_dominate_covid_cases_in/), submitted on 2022-03-24 23:41:33+08:00.
 
------ __197.1__ -----2022-03-27 23:35:45+08:00:
+----- __198.1__ -----2022-03-27 23:35:45+08:00:
 
 Permanently banned for posting COVID misinformation.
 
-### 198: [Unofficial Daily Update for 2022-03-24. 1723 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/tmrwfi/unofficial_daily_update_for_20220324_1723_new/), submitted on 2022-03-25 02:00:21+08:00.
+### 199: [Unofficial Daily Update for 2022-03-24. 1723 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/tmrwfi/unofficial_daily_update_for_20220324_1723_new/), submitted on 2022-03-25 02:00:21+08:00.
 
------ __198.1__ -----2022-03-27 23:26:41+08:00:
+----- __199.1__ -----2022-03-27 23:26:41+08:00:
 
 Do not induce malicious bots to post spam.
 
------ __198.2__ -----2022-03-27 23:31:51+08:00:
+----- __199.2__ -----2022-03-27 23:31:51+08:00:
 
 For too long, we have allowed reckless use of adjectives to imprecisely and improperly characterize data that it is obviously not understood. Mindless use of adjectives to characterize data in a vague and unsupported way is no longer going to be permitted. 
 
 Particularly where, as here, those characterizations are used in connection with post hoc speculation.
 
-### 199: [Unofficial Daily Update for 2022-03-25. 1309 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/tntvxr/unofficial_daily_update_for_20220325_1309_new/), submitted on 2022-03-26 02:00:20+08:00.
+### 200: [Unofficial Daily Update for 2022-03-25. 1309 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/tntvxr/unofficial_daily_update_for_20220325_1309_new/), submitted on 2022-03-26 02:00:20+08:00.
 
------ __199.1__ -----2022-03-27 23:40:09+08:00:
+----- __200.1__ -----2022-03-27 23:40:09+08:00:
 
 "[V]ery possible."  So you say.
 
------ __199.2__ -----2022-03-27 23:42:26+08:00:
+----- __200.2__ -----2022-03-27 23:42:26+08:00:
 
 Arwady is a mathematically illiterate political hack who demonstrates no indication whatsoever she is capable of performing any aspect of her job's functions.
 
------ __199.3__ -----2022-03-27 23:54:02+08:00:
+----- __200.3__ -----2022-03-27 23:54:02+08:00:
 
 These daily updates have ceased to be useful, to the limited extent they ever were.  It is exhausting to see mindless speculation about what isolated events mean, when data are viewed at *this* level of resolution.
 
@@ -231,9 +231,9 @@ Further, vaccines are imperfect but remain the best available option to prevent 
 
 Moreover, to the extent people do not want a vaccine and thereafter become hospitalized, the remedy is outpatient care, which the FDA has remarkably acknowledged is feasible more than six fiscal quarters too late.
 
-### 200: [Will Illinois re-instate mask mandates?](https://old.reddit.com/r/CoronavirusIllinois/comments/tpm6wt/will_illinois_reinstate_mask_mandates/), submitted on 2022-03-27 23:25:49+08:00.
+### 201: [Will Illinois re-instate mask mandates?](https://old.reddit.com/r/CoronavirusIllinois/comments/tpm6wt/will_illinois_reinstate_mask_mandates/), submitted on 2022-03-27 23:25:49+08:00.
 
------ __200.1__ -----2022-03-27 23:39:15+08:00:
+----- __201.1__ -----2022-03-27 23:39:15+08:00:
 
 Removed.  This discussion is better situated in the context of a empirical evidence, including for your question's implication that COVID "cases" are rising.
 

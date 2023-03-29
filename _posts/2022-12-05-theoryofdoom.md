@@ -13,9 +13,9 @@ title: theoryofdoom在2022-12-05~2022-12-11的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 423: [I (f21) "spent time" with my student (m13) and my colleagues don't think it's okay](https://old.reddit.com/r/relationship_advice/comments/zei6i0/i_f21_spent_time_with_my_student_m13_and_my/), submitted on 2022-12-07 05:09:58+08:00.
+### 424: [I (f21) "spent time" with my student (m13) and my colleagues don't think it's okay](https://old.reddit.com/r/relationship_advice/comments/zei6i0/i_f21_spent_time_with_my_student_m13_and_my/), submitted on 2022-12-07 05:09:58+08:00.
 
------ __423.1__ -----2022-12-07 22:13:12+08:00:
+----- __424.1__ -----2022-12-07 22:13:12+08:00:
 
 > I think the bigger "issue" for my colleagues is that I stayed with him for almost an hour (maybe 40-50 minutes) and they said it's not appropriate to spent time with a student outside of school.
 
@@ -23,15 +23,15 @@ Your colleagues are idiots.  You did not schedule an after-hours visit.  You ran
 
 Imagine if you had not stayed, but there was some kind of emergency after you left.  You would be consumed by guilt.
 
-### 424: [Fiancé 24 (M) doesn’t want “Jew Shit” at our wedding](https://old.reddit.com/r/relationship_advice/comments/zf17h1/fiancé_24_m_doesnt_want_jew_shit_at_our_wedding/), submitted on 2022-12-07 21:31:31+08:00.
+### 425: [Fiancé 24 (M) doesn’t want “Jew Shit” at our wedding](https://old.reddit.com/r/relationship_advice/comments/zf17h1/fiancé_24_m_doesnt_want_jew_shit_at_our_wedding/), submitted on 2022-12-07 21:31:31+08:00.
 
------ __424.1__ -----2022-12-07 22:05:17+08:00:
+----- __425.1__ -----2022-12-07 22:05:17+08:00:
 
 As many others have suggested, do not marry this person.
 
-### 425: [[REPOST] My view on (gender) identity](https://old.reddit.com/r/Jung/comments/zh9xbc/repost_my_view_on_gender_identity/), submitted on 2022-12-10 05:54:40+08:00.
+### 426: [[REPOST] My view on (gender) identity](https://old.reddit.com/r/Jung/comments/zh9xbc/repost_my_view_on_gender_identity/), submitted on 2022-12-10 05:54:40+08:00.
 
------ __425.1__ -----2022-12-10 15:46:26+08:00:
+----- __426.1__ -----2022-12-10 15:46:26+08:00:
 
 There are exactly two sexes.  There are also two "genders," corresponding to masculinity and femininity.  
 
@@ -100,7 +100,7 @@ Moreover, how stereotypes are expressed by individuals does not give form to new
 
 NOTE: I have slightly edited this for clarity.  I typed my original post late at night, and it wasn't as clear as it I meant it to be.
 
------ __425.2__ -----2022-12-11 01:39:49+08:00:
+----- __426.2__ -----2022-12-11 01:39:49+08:00:
 
 > This either makes complete sense or none at all depending on how you define "gender".
 
@@ -149,7 +149,7 @@ We should recognize the reason why, too.  That reason is because of all this stu
 
 Note that I have edited this for clarity, too.
 
------ __425.3__ -----2022-12-11 02:18:29+08:00:
+----- __426.3__ -----2022-12-11 02:18:29+08:00:
 
 I do not understand why you thought, on the one hand, sexual orientation; and on the other hand, gender or gender identity, have anything to do with one another.  They do not.  
 
@@ -163,11 +163,11 @@ But I assume you're making that argument because these differences between what 
 
 I encourage you to do so.
 
------ __425.4__ -----2022-12-11 02:26:02+08:00:
+----- __426.4__ -----2022-12-11 02:26:02+08:00:
 
 [No](https://i.kym-cdn.com/photos/images/original/001/736/993/69e.png).
 
------ __425.5__ -----2022-12-11 03:07:47+08:00:
+----- __426.5__ -----2022-12-11 03:07:47+08:00:
 
 Thank you.  
 
@@ -175,7 +175,7 @@ I don't contribute to platforms like TikTok, Tumblr or Twitter, but their weirdn
 
 I barely even contribute to Reddit these days, but it and many of its users also fall into the same category too (if you were curious).
 
------ __425.6__ -----2022-12-11 09:00:47+08:00:
+----- __426.6__ -----2022-12-11 09:00:47+08:00:
 
 >  This idea that the modern leftist undergraduate matches your description is laughable. 
 
@@ -183,13 +183,13 @@ You have failed to state a single coherent point in rebuttal to anything I said.
 
 You have characterized what I said in a variety of ways, such as the quote above.  But it doesn't seem like you have a clue what's going on here.
 
------ __425.7__ -----2022-12-11 09:30:20+08:00:
+----- __426.7__ -----2022-12-11 09:30:20+08:00:
 
 I think you should rewrite your commentary and see if you can make a point that addresses what I wrote.  
 
 If you can do that, I'll respond to the substance of what I wrote.  If not, I won't.
 
------ __425.8__ -----2022-12-12 01:09:55+08:00:
+----- __426.8__ -----2022-12-12 01:09:55+08:00:
 
 > I pointed out your use of a caricature as right-wing propaganda, straight out of a 2016 SJW “owned compilation.
 
@@ -203,23 +203,23 @@ Characterizing something is NOT THE SAME THING as rebutting it.  All you basical
 
 Negate a single premise I said and I will take you seriously.  Until you do that, you're irrelevant.
 
------ __425.9__ -----2022-12-12 03:31:35+08:00:
+----- __426.9__ -----2022-12-12 03:31:35+08:00:
 
 > Bottom line, try not to use propaganda
 
 This nonsense is getting old.  You are clearly failing to understand the concept of "rebuttal."
 
------ __425.10__ -----2022-12-12 08:18:09+08:00:
+----- __426.10__ -----2022-12-12 08:18:09+08:00:
 
 > you got downvoted by a TikTok femboi.
 
 lol oh my . . . you're probably right
 
------ __425.11__ -----2022-12-12 22:26:17+08:00:
+----- __426.11__ -----2022-12-12 22:26:17+08:00:
 
 Perhaps we should sit you down in front of one of those children’s toys to see whether you are capable of recognizing whether the square peg fits into the round hole.
 
------ __425.12__ -----2022-12-13 12:14:20+08:00:
+----- __426.12__ -----2022-12-13 12:14:20+08:00:
 
 A small part of me hoped you would rewrite your comments.  My expectations were too high, but I suppose they always are.  The reason I held out hope was because you approached a coherent thought, in recognizing the distinctions between sex and gender (as such).  
 
@@ -262,7 +262,7 @@ Your speculations about my politics are absolutely irrelevant to the points I ma
 
 Further, your lamentations about so-called "right wing propaganda" are unhelpful to your cause.  Do they not teach that ad hominem is fallacy, in your little philosophy program?  Please ask that your school refund your student loans, if so.  As it also turns out, I'm also gay, quite fond of Euphoria (including Hunter Schaefer's character, Jules) and I voted for Hillary Clinton.  I came here [for a proper discussion](https://www.youtube.com/watch?v=dNl3jvApJqU&ab_channel=UniversalPicturesAll-Access), but you were too busy talking nonsense.
 
------ __425.13__ -----2022-12-14 03:55:49+08:00:
+----- __426.13__ -----2022-12-14 03:55:49+08:00:
 
 > I was on topic. The length of my response does not indicate that I’m “not on topic” because I am. I also know that you are saying this because of the whole propaganda thing, which you have taken great issue to, so we will get to that.
 
@@ -284,29 +284,29 @@ Now, you're alluding to "racial antisemitic caracatures."
 
 When it turns out, the whole discussion was about gender identity . . . a subject that concerns neither, for reasons I have already said.
 
-### 426: [Move out to the suburbs tbey said. There's more green space for your kids.](https://old.reddit.com/r/Suburbanhell/comments/zhl3hh/move_out_to_the_suburbs_tbey_said_theres_more/), submitted on 2022-12-10 14:30:33+08:00.
+### 427: [Move out to the suburbs tbey said. There's more green space for your kids.](https://old.reddit.com/r/Suburbanhell/comments/zhl3hh/move_out_to_the_suburbs_tbey_said_theres_more/), submitted on 2022-12-10 14:30:33+08:00.
 
------ __426.1__ -----2022-12-11 03:31:27+08:00:
+----- __427.1__ -----2022-12-11 03:31:27+08:00:
 
 If hell is other people, then its ninth circle is other people in the suburbs.
 
-### 427: [As a philosophy undergrad interested in philosophy of science what 'science' should I know and how should I learn about it?](https://old.reddit.com/r/askphilosophy/comments/zhtg60/as_a_philosophy_undergrad_interested_in/), submitted on 2022-12-10 22:09:04+08:00.
+### 428: [As a philosophy undergrad interested in philosophy of science what 'science' should I know and how should I learn about it?](https://old.reddit.com/r/askphilosophy/comments/zhtg60/as_a_philosophy_undergrad_interested_in/), submitted on 2022-12-10 22:09:04+08:00.
 
------ __427.1__ -----2022-12-11 02:32:53+08:00:
+----- __428.1__ -----2022-12-11 02:32:53+08:00:
 
 > I think actually understanding what it is like to design and run an experiment and then muddle through the results will make you so much better informed on an intuitive level.
 
 I agree with this.
 
-### 428: [I don't want to die, but I don't want to be homeless': Canadian man, 65, has a doctor's approval for euthanasia despite admitting becoming POOR is a main reason he's applying to die](https://old.reddit.com/r/DarkFuturology/comments/zhxcfu/i_dont_want_to_die_but_i_dont_want_to_be_homeless/), submitted on 2022-12-11 00:56:57+08:00.
+### 429: [I don't want to die, but I don't want to be homeless': Canadian man, 65, has a doctor's approval for euthanasia despite admitting becoming POOR is a main reason he's applying to die](https://old.reddit.com/r/DarkFuturology/comments/zhxcfu/i_dont_want_to_die_but_i_dont_want_to_be_homeless/), submitted on 2022-12-11 00:56:57+08:00.
 
------ __428.1__ -----2022-12-11 03:43:35+08:00:
+----- __429.1__ -----2022-12-11 03:43:35+08:00:
 
 Canada's expansion of "euthanasia" (read: suicide, as readily accessible when facilitated by others) is the issue.  
 
 To make this point explicitly clear: we are not disagreeing that people have, and ought to have, complete bodily autonomy.  Instead, we are disagreeing about how you incorrectly framed the issues raised by Canada's expansion of "euthanasia."  Your error is in assuming that bodily autonomy is the issue, when it is not.  Further, his reasons, whatever they are, are irrelevant to the ethical issues raised by Canada's normalization of suicide and lowering its barriers to entry.
 
------ __428.2__ -----2022-12-11 08:10:08+08:00:
+----- __429.2__ -----2022-12-11 08:10:08+08:00:
 
 > You agree with body autonomy but only as long as it conforms to your definition of ethics? 
 
@@ -332,7 +332,7 @@ My concept of ethics has absolutely nothing whatsoever to do with any individual
 
 No, you "sound" like an illiterate fool, because your entire reaction is based on deficits in your reading comprehension.
 
------ __428.3__ -----2022-12-11 10:06:56+08:00:
+----- __429.3__ -----2022-12-11 10:06:56+08:00:
 
 > What then is your problem with this guy committing sanctioned suicide?
 
@@ -344,7 +344,7 @@ Let's try it this way.
 
 What is your question assuming?  We will start there.
 
------ __428.4__ -----2022-12-12 01:12:54+08:00:
+----- __429.4__ -----2022-12-12 01:12:54+08:00:
 
 Your question is assuming I have a problem with that guy committing sanctioned suicide.
 

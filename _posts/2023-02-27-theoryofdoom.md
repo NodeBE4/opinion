@@ -13,9 +13,9 @@ title: theoryofdoom在2023-02-27~2023-03-05的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 484: [Cochrane Review (the most rigorous and extensive review of the scientific literature and underlying data) concludes that neither surgical masks nor N95 masks have been shown to make a difference in reducing the spread of Covid-19 and other respiratory illnesses](https://old.reddit.com/r/CoronavirusIllinois/comments/11cvj9l/cochrane_review_the_most_rigorous_and_extensive/), submitted on 2023-02-27 06:57:28+08:00.
+### 485: [Cochrane Review (the most rigorous and extensive review of the scientific literature and underlying data) concludes that neither surgical masks nor N95 masks have been shown to make a difference in reducing the spread of Covid-19 and other respiratory illnesses](https://old.reddit.com/r/CoronavirusIllinois/comments/11cvj9l/cochrane_review_the_most_rigorous_and_extensive/), submitted on 2023-02-27 06:57:28+08:00.
 
------ __484.1__ -----2023-02-27 07:01:51+08:00:
+----- __485.1__ -----2023-02-27 07:01:51+08:00:
 
 The [Cochrane Review](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006207.pub6/full) to which I previously referred
 
@@ -25,13 +25,13 @@ I am aware this link has been shared on subreddits that a lot of folks here will
 
 I remind each and every one of you: this is about science, evidence and data.  Not politics.
 
------ __484.2__ -----2023-02-27 07:06:17+08:00:
+----- __485.2__ -----2023-02-27 07:06:17+08:00:
 
 The [Cochrane Review](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006207.pub6/full) to which I previously referred
 
 https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006207.pub6/full
 
------ __484.3__ -----2023-02-27 09:04:30+08:00:
+----- __485.3__ -----2023-02-27 09:04:30+08:00:
 
 > you've posted a link to a magazine
 
@@ -45,15 +45,15 @@ https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006207.pub6/full
 
 Do better.
 
------ __484.4__ -----2023-02-27 09:26:07+08:00:
+----- __485.4__ -----2023-02-27 09:26:07+08:00:
 
 That's understandable.
 
------ __484.5__ -----2023-02-27 10:30:10+08:00:
+----- __485.5__ -----2023-02-27 10:30:10+08:00:
 
 Indeed.  Do you understand what that means?
 
------ __484.6__ -----2023-02-27 10:41:59+08:00:
+----- __485.6__ -----2023-02-27 10:41:59+08:00:
 
 Cochrane is evaluating the research, as it exists.  They find the research inadequate to support the claim that masks make a difference, for COVID transmission.
 
@@ -65,7 +65,7 @@ This matters because it rejects the premise that most people have been incorrect
 
 It would be like if I sold you a drug to prevent cancer, but the data from all of my clinical trials found no such benefit.  I think we can all understand doing that would be very bad.
 
------ __484.7__ -----2023-02-27 11:22:56+08:00:
+----- __485.7__ -----2023-02-27 11:22:56+08:00:
 
 > Your comments and abrasive attitude
 
@@ -95,7 +95,7 @@ Neither of them change the bottom line.  The bottom line is simple: there is no 
 
 It wasn't your job to figure that out, though.  So it's not like you're responsible.
 
------ __484.8__ -----2023-02-27 13:23:42+08:00:
+----- __485.8__ -----2023-02-27 13:23:42+08:00:
 
 [THE REVIEW IS LINKED HERE](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006207.pub6/full)
 
@@ -103,7 +103,7 @@ REMINDER:  Follow the rules in the sidebar.
 
 Also, brigading will result in a permanent ban (and already has, on multiple occasions).  We can see whether you have a history of posting in this subreddit, too.
 
------ __484.9__ -----2023-02-27 15:13:07+08:00:
+----- __485.9__ -----2023-02-27 15:13:07+08:00:
 
 That's a large part of why it wouldn't matter if masks could be shown effective in a controlled setting. 
 
@@ -111,7 +111,7 @@ If people won't comply, the intervention won't work.  No matter what it is.
 
 This is a big problem with prescription drugs.
 
------ __484.10__ -----2023-03-01 11:37:05+08:00:
+----- __485.10__ -----2023-03-01 11:37:05+08:00:
 
 > Savage_XPfizer -1 points 7 hours ago 
 >
@@ -119,7 +119,7 @@ This is a big problem with prescription drugs.
 
 Yes, including mods.  Or former mods, as in this case.
 
------ __484.11__ -----2023-03-13 14:24:26+08:00:
+----- __485.11__ -----2023-03-13 14:24:26+08:00:
 
 The update is primarily addressed at the people whose comments were removed, which is worthwhile and I'm glad you linked it.  
 
@@ -141,15 +141,15 @@ The key problem with most of the comments here is simple: they incorrectly concl
 
 But that is not the case, either.  Science does not begin from the presumption that something is true, when there is no evidence for it (as the review plainly states).  The vacuous claims of public officials who should know better are no substitute for evidence, even if they may deceive a terrified and gullible public.
 
-### 485: [No tops are allowed in the fitting room](https://old.reddit.com/r/SuddenlyGay/comments/11dkawl/no_tops_are_allowed_in_the_fitting_room/), submitted on 2023-02-28 03:23:05+08:00.
+### 486: [No tops are allowed in the fitting room](https://old.reddit.com/r/SuddenlyGay/comments/11dkawl/no_tops_are_allowed_in_the_fitting_room/), submitted on 2023-02-28 03:23:05+08:00.
 
------ __485.1__ -----2023-02-28 13:36:56+08:00:
+----- __486.1__ -----2023-02-28 13:36:56+08:00:
 
 I feel attacked.
 
-### 486: [The fate of student loan forgiveness rests on the Supreme Court](https://old.reddit.com/r/college/comments/11eaxdk/the_fate_of_student_loan_forgiveness_rests_on_the/), submitted on 2023-02-28 23:23:27+08:00.
+### 487: [The fate of student loan forgiveness rests on the Supreme Court](https://old.reddit.com/r/college/comments/11eaxdk/the_fate_of_student_loan_forgiveness_rests_on_the/), submitted on 2023-02-28 23:23:27+08:00.
 
------ __486.1__ -----2023-03-01 22:33:56+08:00:
+----- __487.1__ -----2023-03-01 22:33:56+08:00:
 
 > I feel like student loan forgiveness won't pass because of all the "oh I paid mine you should pay yours" people.
 
@@ -157,33 +157,33 @@ I agree with this.  Despite the fact that student debt is crippling the economy 
 
 And then there's the issue of that guy from Dirty Jobs, Mike whatever his name is (Rowe?), who seems to know less than nothing about the subject.  His position is that it is unfair to forgive the debt of borrowers because that means you're using tax money from people who chose to get jobs in the trades right out of high school.  That argument has a lot of practical appeal, but only to the ignorant.  That is not how student loans are funded in any sense.
 
-### 487: [Michael Jackson did a concert in Seoul in 1996 and a fan climbed the crane up to him. MJ held him tightly to prevent him from falling, all while performing Earth Song](https://old.reddit.com/r/ImTheMainCharacter/comments/11eswdg/michael_jackson_did_a_concert_in_seoul_in_1996/), submitted on 2023-03-01 11:26:19+08:00.
+### 488: [Michael Jackson did a concert in Seoul in 1996 and a fan climbed the crane up to him. MJ held him tightly to prevent him from falling, all while performing Earth Song](https://old.reddit.com/r/ImTheMainCharacter/comments/11eswdg/michael_jackson_did_a_concert_in_seoul_in_1996/), submitted on 2023-03-01 11:26:19+08:00.
 
------ __487.1__ -----2023-03-01 21:53:25+08:00:
+----- __488.1__ -----2023-03-01 21:53:25+08:00:
 
 I doubt that was what MJ was thinking.  He was probably worried that the show would stop if the fan fell from the platform.
 
-### 488: [Chicago Mayor Lori Lightfoot will lose reelection bid, CNN projects, as crime concerns grow | CNN Politics](https://old.reddit.com/r/stupidpol/comments/11etxvm/chicago_mayor_lori_lightfoot_will_lose_reelection/), submitted on 2023-03-01 12:16:48+08:00.
+### 489: [Chicago Mayor Lori Lightfoot will lose reelection bid, CNN projects, as crime concerns grow | CNN Politics](https://old.reddit.com/r/stupidpol/comments/11etxvm/chicago_mayor_lori_lightfoot_will_lose_reelection/), submitted on 2023-03-01 12:16:48+08:00.
 
------ __488.1__ -----2023-03-01 22:06:42+08:00:
+----- __489.1__ -----2023-03-01 22:06:42+08:00:
 
 > I found public transport in Chicago much better than most other major American cities. The downtown districts felt safer compared to other cities I’ve lived in like DC or London.
 
 That was true in 2019.  Since then, things have gone downhill.
 
------ __488.2__ -----2023-03-01 22:08:24+08:00:
+----- __489.2__ -----2023-03-01 22:08:24+08:00:
 
 > If you took like half the punditry seriously last night, you would think Vallas was running on making chicago a white minority rule city a la South Africa, some sort of PW Botha with ethnic characteristics.
 
 Those "perspectives" can't be taken seriously, but I agree with your analysis of how the mayoral race has been covered.
 
------ __488.3__ -----2023-03-01 22:22:52+08:00:
+----- __489.3__ -----2023-03-01 22:22:52+08:00:
 
 I watched some of the coverage, but it was too stupid to even keep playing in the background.  
 
 Lori Lightfoot's problem is that she is incompetent and dispositionally ill-suited to hold executive responsibility.  I voted for her because I thought, at the time, she would be less worse than Preckwinkle.  But I was very wrong.
 
------ __488.4__ -----2023-03-01 22:35:13+08:00:
+----- __489.4__ -----2023-03-01 22:35:13+08:00:
 
 I think you're 100% correct on all counts. 
 
@@ -191,41 +191,41 @@ I think you're 100% correct on all counts.
 
 As a voter, I can confirm this.
 
-### 489: [China spends billions on pro-Russia disinformation, US special envoy says | China](https://old.reddit.com/r/Disinfo/comments/11ew2gh/china_spends_billions_on_prorussia_disinformation/), submitted on 2023-03-01 14:08:12+08:00.
+### 490: [China spends billions on pro-Russia disinformation, US special envoy says | China](https://old.reddit.com/r/Disinfo/comments/11ew2gh/china_spends_billions_on_prorussia_disinformation/), submitted on 2023-03-01 14:08:12+08:00.
 
------ __489.1__ -----2023-03-01 14:48:01+08:00:
+----- __490.1__ -----2023-03-01 14:48:01+08:00:
 
 Excellent article.
 
-### 490: [I worked hard on this essay and got it peer reviewed. The professor didn't even read the whole thing.](https://old.reddit.com/r/college/comments/11f4ake/i_worked_hard_on_this_essay_and_got_it_peer/), submitted on 2023-03-01 21:51:44+08:00.
+### 491: [I worked hard on this essay and got it peer reviewed. The professor didn't even read the whole thing.](https://old.reddit.com/r/college/comments/11f4ake/i_worked_hard_on_this_essay_and_got_it_peer/), submitted on 2023-03-01 21:51:44+08:00.
 
------ __490.1__ -----2023-03-02 11:46:38+08:00:
+----- __491.1__ -----2023-03-02 11:46:38+08:00:
 
 Former professor here.  I read the [prompt](https://www.reddit.com/r/college/comments/11f4ake/i_worked_hard_on_this_essay_and_got_it_peer/jahzpp9/?context=3).  This "feedback" appeared to be meaningless when I first reviewed it.  Now having read the prompt, I assume your professor is an idiot.  Whether you wrote a good essay or not is irrelevant at this point.  The individual teaching your class does not appear to be equipped to teach it.  
 
 And what kind of class is this, anyway?  How to be woke 101?
 
------ __490.2__ -----2023-03-02 11:55:54+08:00:
+----- __491.2__ -----2023-03-02 11:55:54+08:00:
 
 > I may need to speak with my advisor or the dean.
 
 The dean isn't going to take your side.  They never do.  They always side with the university, unless you belong to a protected class.
 
------ __490.3__ -----2023-03-02 11:59:13+08:00:
+----- __491.3__ -----2023-03-02 11:59:13+08:00:
 
 This class clearly is not a lab science.  And "discussion" cannot be graded impartially.
 
------ __490.4__ -----2023-03-02 12:00:31+08:00:
+----- __491.4__ -----2023-03-02 12:00:31+08:00:
 
 I assume this is your multi-account.  DM Me if you want.
 
------ __490.5__ -----2023-03-02 12:02:42+08:00:
+----- __491.5__ -----2023-03-02 12:02:42+08:00:
 
 > It is fine to stop reading after 2-3 pages, if the entire paper clearly needs overhauling.
 
 If.
 
------ __490.6__ -----2023-03-02 12:14:08+08:00:
+----- __491.6__ -----2023-03-02 12:14:08+08:00:
 
 > This is a professor that actually cares and is giving you another opportunity. 
 
@@ -244,9 +244,9 @@ Here is why your assumptions are wrong:
 
 It is beyond obvious many commenters here simply have not had the experience of dealing with people like this kid's professor.
 
-### 491: [Michael Shellenberger: Dismissing COVID lab leak theory highlights U.S. government disinformation](https://old.reddit.com/r/Disinfo/comments/11fprh8/michael_shellenberger_dismissing_covid_lab_leak/), submitted on 2023-03-02 10:10:42+08:00.
+### 492: [Michael Shellenberger: Dismissing COVID lab leak theory highlights U.S. government disinformation](https://old.reddit.com/r/Disinfo/comments/11fprh8/michael_shellenberger_dismissing_covid_lab_leak/), submitted on 2023-03-02 10:10:42+08:00.
 
------ __491.1__ -----2023-03-03 13:46:20+08:00:
+----- __492.1__ -----2023-03-03 13:46:20+08:00:
 
 > The FBI report
 
@@ -282,19 +282,19 @@ Further, RNA viruses can be modified to increase their resistance to antiviral t
 
 None of this is speculation.  It's the story of a virus's evolutionary history, told through the structure of its genetic material.
 
------ __491.2__ -----2023-03-03 13:48:05+08:00:
+----- __492.2__ -----2023-03-03 13:48:05+08:00:
 
 > Forensics from 3000 miles away
 
 Your statement is incoherent nonsense.  I am removing it.
 
------ __491.3__ -----2023-03-03 14:08:50+08:00:
+----- __492.3__ -----2023-03-03 14:08:50+08:00:
 
 > Peter Daszak
 
 Will have some explaining to do when the time is right.
 
------ __491.4__ -----2023-03-03 14:11:30+08:00:
+----- __492.4__ -----2023-03-03 14:11:30+08:00:
 
 The Chinese government and Anthony Fauci made contemporaneous claims about where COVID-19 originated.
 
@@ -320,13 +320,13 @@ This paper described the discovery of a new type of coronavirus, named SHC014-Co
 
 The authors concluded that the findings raised concerns about the potential for the virus to jump from bats to humans and cause a new outbreak similar to SARS. The publication of this paper has been cited in discussions about the origins of SARS-CoV-2, the virus that causes COVID-19, as it originated in bats and has a spike protein that is highly similar to that of SHC014-CoV.
 
------ __491.5__ -----2023-03-03 14:16:33+08:00:
+----- __492.5__ -----2023-03-03 14:16:33+08:00:
 
 > those concerned with ethics will be more comfortable pointing towards blameless causes (zoonotic) than causes implying blame (anything human). This is a good response and should be encouraged, particularly in non-scientific spaces (that's you, me, the government, and the press).
 
 Rejecting science because you don't know anything about it is absurd.
 
------ __491.6__ -----2023-03-03 17:22:28+08:00:
+----- __492.6__ -----2023-03-03 17:22:28+08:00:
 
 > 1) The FBI does not have jurisdiction over international labs. 
 
@@ -346,7 +346,7 @@ This is not a forensic analysis.
 
 They should have just sent a sample to Jonas Salk Institute, the University of North Carolina or somewhere equipped to sequence and analyze it.
 
------ __491.7__ -----2023-03-03 17:33:19+08:00:
+----- __492.7__ -----2023-03-03 17:33:19+08:00:
 
 > The lab leak theory is possible, but not probable, and the reason it was dismissed early on was because it didn't track with the vast majority of the data at the time showcasing a separate track of very common animal-human vectors already in progress at the wet market.
 
@@ -374,9 +374,9 @@ Your family can tell the world how they think the virus spread.  But none of you
 
 But even if it was collected, it likely would be wrong anyway.
 
-### 492: [Am I the only one creeped out by Jeffrey Marsh?](https://old.reddit.com/r/askgaybros/comments/11i0dz5/am_i_the_only_one_creeped_out_by_jeffrey_marsh/), submitted on 2023-03-04 22:25:50+08:00.
+### 493: [Am I the only one creeped out by Jeffrey Marsh?](https://old.reddit.com/r/askgaybros/comments/11i0dz5/am_i_the_only_one_creeped_out_by_jeffrey_marsh/), submitted on 2023-03-04 22:25:50+08:00.
 
------ __492.1__ -----2023-03-05 04:23:54+08:00:
+----- __493.1__ -----2023-03-05 04:23:54+08:00:
 
 Didn't know who this person was, before clicking on this thread.
 
@@ -388,15 +388,15 @@ I am creeped out by him.
 
 I don't pretend to know everything he's up to, but I think I know enough to know he's up to no good.
 
-### 493: [What does “all american” mean in a gay context?](https://old.reddit.com/r/askgaybros/comments/11i9o0s/what_does_all_american_mean_in_a_gay_context/), submitted on 2023-03-05 02:47:40+08:00.
+### 494: [What does “all american” mean in a gay context?](https://old.reddit.com/r/askgaybros/comments/11i9o0s/what_does_all_american_mean_in_a_gay_context/), submitted on 2023-03-05 02:47:40+08:00.
 
------ __493.1__ -----2023-03-05 04:46:54+08:00:
+----- __494.1__ -----2023-03-05 04:46:54+08:00:
 
 > White athletic jocks.
 
 With little body hair, slightly sweaty, wearing tight clothing and lightly tanned.
 
------ __493.2__ -----2023-03-05 04:47:36+08:00:
+----- __494.2__ -----2023-03-05 04:47:36+08:00:
 
 > Abercrombie and Fitch
 
@@ -404,33 +404,33 @@ Maybe from 1994-2007.
 
 Edit: 1994 to 2007, not 2004.
 
------ __493.3__ -----2023-03-05 04:49:23+08:00:
+----- __494.3__ -----2023-03-05 04:49:23+08:00:
 
 One of the lacrosse players I went to high school with wound up getting a job modeling for them.  He was straight af.  Sadly.
 
------ __493.4__ -----2023-03-05 04:52:25+08:00:
+----- __494.4__ -----2023-03-05 04:52:25+08:00:
 
 I edited to 1994.  I forgot about this somehow:
 
 https://www.vogue.fr/vogue-hommes/fashion/diaporama/flashback-bruce-webers-1990s-campaigns-for-abercrombie-fitch/36436
 
------ __493.5__ -----2023-03-05 05:05:47+08:00:
+----- __494.5__ -----2023-03-05 05:05:47+08:00:
 
 So basically [the guys in this ad from more than 20 years ago, from Abercrombie & Fitch](https://www.youtube.com/watch?v=IiKf8qCv5Y4&ab_channel=canuckcam).
 
------ __493.6__ -----2023-03-05 06:43:01+08:00:
+----- __494.6__ -----2023-03-05 06:43:01+08:00:
 
 There were a lot of problems with old A&F, but I miss the good old days.
 
------ __493.7__ -----2023-03-06 01:57:47+08:00:
+----- __494.7__ -----2023-03-06 01:57:47+08:00:
 
 > Remember the book they used to put out at the begining of the year aka soft porn ? Ahh 8th grade.
 
 The A&F Quarterly?
 
-### 494: [Why do people with children often get angry when they find out you don’t want any?](https://old.reddit.com/r/TooAfraidToAsk/comments/11isxtn/why_do_people_with_children_often_get_angry_when/), submitted on 2023-03-05 17:33:21+08:00.
+### 495: [Why do people with children often get angry when they find out you don’t want any?](https://old.reddit.com/r/TooAfraidToAsk/comments/11isxtn/why_do_people_with_children_often_get_angry_when/), submitted on 2023-03-05 17:33:21+08:00.
 
------ __494.1__ -----2023-03-06 02:12:40+08:00:
+----- __495.1__ -----2023-03-06 02:12:40+08:00:
 
 Not all people with kids get angry when they find out you don't want any.  
 
@@ -438,13 +438,13 @@ But some people do, because they feel like the difference between your prioritie
 
 This reflects latent insecurity.
 
-### 495: [What’s your type?](https://old.reddit.com/r/askgaybros/comments/11j0aa0/whats_your_type/), submitted on 2023-03-05 23:52:01+08:00.
+### 496: [What’s your type?](https://old.reddit.com/r/askgaybros/comments/11j0aa0/whats_your_type/), submitted on 2023-03-05 23:52:01+08:00.
 
------ __495.1__ -----2023-03-06 12:09:25+08:00:
+----- __496.1__ -----2023-03-06 12:09:25+08:00:
 
 12 pt font ftw.
 
------ __495.2__ -----2023-03-06 12:11:29+08:00:
+----- __496.2__ -----2023-03-06 12:11:29+08:00:
 
 Lanky twinky blonde boys [with fluffy hair](https://www.youtube.com/shorts/BDYmO7Ojqmk) and sweet personalities.
 

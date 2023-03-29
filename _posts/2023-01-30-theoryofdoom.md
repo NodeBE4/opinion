@@ -13,33 +13,33 @@ title: theoryofdoom在2023-01-30~2023-02-05的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 458: [8+ Redding CA police officers brutalize man. Attack him with K-9 and stomp on his head.](https://old.reddit.com/r/PublicFreakout/comments/10ol3f0/8_redding_ca_police_officers_brutalize_man_attack/), submitted on 2023-01-30 06:44:48+08:00.
+### 459: [8+ Redding CA police officers brutalize man. Attack him with K-9 and stomp on his head.](https://old.reddit.com/r/PublicFreakout/comments/10ol3f0/8_redding_ca_police_officers_brutalize_man_attack/), submitted on 2023-01-30 06:44:48+08:00.
 
------ __458.1__ -----2023-01-30 10:31:18+08:00:
+----- __459.1__ -----2023-01-30 10:31:18+08:00:
 
 This is why all the "back the blue" shit is intolerable.  More stupid fucking cops being stupid fucking cops.  Just what this country needs.  And California cops seem to be a special breed of pathologically anti-social and sadistic.
 
-### 459: [the extent to which college students are exploited for free labor is beyond unethical](https://old.reddit.com/r/college/comments/10p5nmi/the_extent_to_which_college_students_are/), submitted on 2023-01-30 23:30:57+08:00.
+### 460: [the extent to which college students are exploited for free labor is beyond unethical](https://old.reddit.com/r/college/comments/10p5nmi/the_extent_to_which_college_students_are/), submitted on 2023-01-30 23:30:57+08:00.
 
------ __459.1__ -----2023-01-31 15:42:56+08:00:
+----- __460.1__ -----2023-01-31 15:42:56+08:00:
 
 What is your internship in? 
 
 Relatedly, I agree with you.
 
------ __459.2__ -----2023-01-31 15:43:32+08:00:
+----- __460.2__ -----2023-01-31 15:43:32+08:00:
 
 > student teaching?
 
 Ah, yes.  The racket of higher education.
 
------ __459.3__ -----2023-01-31 15:45:32+08:00:
+----- __460.3__ -----2023-01-31 15:45:32+08:00:
 
 >  But I ALSO PAY TUITION for a whole semester
 
 You're getting ripped off.  Work in the private sector.
 
------ __459.4__ -----2023-02-01 12:58:06+08:00:
+----- __460.4__ -----2023-02-01 12:58:06+08:00:
 
 I disagree, but you're an education major and do not appear to be pursuing, or have obtained, a terminal degree, so the reasons why aren't likely to make sense for you. 
 
@@ -67,15 +67,15 @@ Unless you're one of the woke types, in which case you not only learned nothing 
 
 Indeed, a racket by definition.  And you've just heard from a ghost in the machine.
 
-### 460: [What is the best piece of advice you could give to a college freshman?](https://old.reddit.com/r/college/comments/10q0klz/what_is_the_best_piece_of_advice_you_could_give/), submitted on 2023-01-31 22:34:27+08:00.
+### 461: [What is the best piece of advice you could give to a college freshman?](https://old.reddit.com/r/college/comments/10q0klz/what_is_the_best_piece_of_advice_you_could_give/), submitted on 2023-01-31 22:34:27+08:00.
 
------ __460.1__ -----2023-02-01 13:08:09+08:00:
+----- __461.1__ -----2023-02-01 13:08:09+08:00:
 
 Don't pick a stupid major.  Stupid majors include, but are not limited to, education, women's studies, communication, history, sociology, psychology, English and the list goes on and on.  In your best life, you are working in Silicon Valley doing something like content moderation on Twitter or maybe you work in Human Resources at Google.  Layoffs abound, but that was foreseeable because those fields create no value whatsoever.  Pick a major that enables you to create value.
 
-### 461: [Ozzy Osbourne to retire from touring due to declining health](https://old.reddit.com/r/Metal/comments/10qrwzi/ozzy_osbourne_to_retire_from_touring_due_to/), submitted on 2023-02-01 19:41:39+08:00.
+### 462: [Ozzy Osbourne to retire from touring due to declining health](https://old.reddit.com/r/Metal/comments/10qrwzi/ozzy_osbourne_to_retire_from_touring_due_to/), submitted on 2023-02-01 19:41:39+08:00.
 
------ __461.1__ -----2023-02-02 13:47:35+08:00:
+----- __462.1__ -----2023-02-02 13:47:35+08:00:
 
 > Ozzy and Black Sabbath are some of the biggest musical influences in modern rock. As long as humans have music, his legacy will live on. He’s one of those guys that I never really pictured dying. It’s sad that he’s getting up there. What a legend.
 
@@ -85,45 +85,45 @@ His music has changed over the years, but he is a legend in his own rite.
 
 I wish I could get one more Ozzfest.
 
-### 462: [Joydivision/New Order nominated for rock and roll hall of fame](https://old.reddit.com/r/JoyDivision/comments/10qwmel/joydivisionnew_order_nominated_for_rock_and_roll/), submitted on 2023-02-01 22:54:02+08:00.
+### 463: [Joydivision/New Order nominated for rock and roll hall of fame](https://old.reddit.com/r/JoyDivision/comments/10qwmel/joydivisionnew_order_nominated_for_rock_and_roll/), submitted on 2023-02-01 22:54:02+08:00.
 
------ __462.1__ -----2023-02-02 13:53:32+08:00:
+----- __463.1__ -----2023-02-02 13:53:32+08:00:
 
 I am reminded of a Bill Burr comment on bands in that situation.
 
-### 463: [This guy](https://old.reddit.com/r/ImTheMainCharacter/comments/10ru7dx/this_guy/), submitted on 2023-02-03 00:37:53+08:00.
+### 464: [This guy](https://old.reddit.com/r/ImTheMainCharacter/comments/10ru7dx/this_guy/), submitted on 2023-02-03 00:37:53+08:00.
 
------ __463.1__ -----2023-02-25 13:41:59+08:00:
+----- __464.1__ -----2023-02-25 13:41:59+08:00:
 
 > There’s no reason to be doing this except to be a dick.
 
 He's in Chicago and I suspect he's stoned out of his mind.
 
-### 464: [9 years old girl was beaten on the school bus in Florida. Unprovoked attack.](https://old.reddit.com/r/ActualPublicFreakouts/comments/10sau5j/9_years_old_girl_was_beaten_on_the_school_bus_in/), submitted on 2023-02-03 12:17:45+08:00.
+### 465: [9 years old girl was beaten on the school bus in Florida. Unprovoked attack.](https://old.reddit.com/r/ActualPublicFreakouts/comments/10sau5j/9_years_old_girl_was_beaten_on_the_school_bus_in/), submitted on 2023-02-03 12:17:45+08:00.
 
------ __464.1__ -----2023-02-04 12:46:53+08:00:
+----- __465.1__ -----2023-02-04 12:46:53+08:00:
 
 What is SEL?
 
------ __464.2__ -----2023-02-04 12:56:49+08:00:
+----- __465.2__ -----2023-02-04 12:56:49+08:00:
 
 > According to my dad, some of the COs would tip the more violent inmates off about child abusers
 
 According to the accounts of people I know that have knowledge of such situations (I'm sorry I can't be more specific), that is indeed what happens.  That information will eventually be known by the general population, one way or another.  Even prison gangs that hate each other agree that they all hate child abusers more.  And they'll cooperate with one another to exact their own variety of justice.
 
------ __464.3__ -----2023-02-05 00:02:07+08:00:
+----- __465.3__ -----2023-02-05 00:02:07+08:00:
 
 What does that refer to?  I'm not trying to be petulant I just really have no idea what that means.  I have never taught grade school students and I haven't heard that term before.
 
-### 465: [WEF: What if everywhere has ubiquitous monitoring](https://old.reddit.com/r/DeclineIntoCensorship/comments/10t1u04/wef_what_if_everywhere_has_ubiquitous_monitoring/), submitted on 2023-02-04 09:50:07+08:00.
+### 466: [WEF: What if everywhere has ubiquitous monitoring](https://old.reddit.com/r/DeclineIntoCensorship/comments/10t1u04/wef_what_if_everywhere_has_ubiquitous_monitoring/), submitted on 2023-02-04 09:50:07+08:00.
 
------ __465.1__ -----2023-02-04 13:23:16+08:00:
+----- __466.1__ -----2023-02-04 13:23:16+08:00:
 
 If everywhere had ubiquitous monitoring, then maybe a certain mathematician whose name starts with the letter "K" was right.
 
-### 466: [Bill That Would Allow Inmates to Trade Their Organs for Less Prison Time Introduced in Massachusetts](https://old.reddit.com/r/DarkFuturology/comments/10t2lqw/bill_that_would_allow_inmates_to_trade_their/), submitted on 2023-02-04 10:27:18+08:00.
+### 467: [Bill That Would Allow Inmates to Trade Their Organs for Less Prison Time Introduced in Massachusetts](https://old.reddit.com/r/DarkFuturology/comments/10t2lqw/bill_that_would_allow_inmates_to_trade_their/), submitted on 2023-02-04 10:27:18+08:00.
 
------ __466.1__ -----2023-02-05 00:20:17+08:00:
+----- __467.1__ -----2023-02-05 00:20:17+08:00:
 
 Talk about creating an incentive to flood the prisons.  
 
@@ -139,21 +139,21 @@ Second, a very precise pool of candidate donors could be narrowed from the gener
 
 How that information might be used should shock the conscience of any decent, thinking person.
 
------ __466.2__ -----2023-02-05 11:46:14+08:00:
+----- __467.2__ -----2023-02-05 11:46:14+08:00:
 
 Ah, but how many people learn?
 
-### 467: ["AITA for telling my son that he is obviously gay?" Thoughts from other gaybros?](https://old.reddit.com/r/askgaybros/comments/10tioq8/aita_for_telling_my_son_that_he_is_obviously_gay/), submitted on 2023-02-04 23:14:05+08:00.
+### 468: ["AITA for telling my son that he is obviously gay?" Thoughts from other gaybros?](https://old.reddit.com/r/askgaybros/comments/10tioq8/aita_for_telling_my_son_that_he_is_obviously_gay/), submitted on 2023-02-04 23:14:05+08:00.
 
------ __467.1__ -----2023-02-05 22:32:41+08:00:
+----- __468.1__ -----2023-02-05 22:32:41+08:00:
 
 > I can see how this would be frustrating, but at the same time I wish my parents would have been this open and accepting of it. They clearly have seen the signs and know their son has feelings for the other boy, and instead of being homophobic and making them stop being friends or something worse, they asked the son if they would be including this important person in their lives on a family trip/vacation. If my parents had done this, sure I would have been embarrassed but I would have also secretly been relieved.
 
 Same
 
-### 468: [How can I make this email better?](https://old.reddit.com/r/college/comments/10tj1zl/how_can_i_make_this_email_better/), submitted on 2023-02-04 23:29:54+08:00.
+### 469: [How can I make this email better?](https://old.reddit.com/r/college/comments/10tj1zl/how_can_i_make_this_email_better/), submitted on 2023-02-04 23:29:54+08:00.
 
------ __468.1__ -----2023-02-05 07:43:15+08:00:
+----- __469.1__ -----2023-02-05 07:43:15+08:00:
 
 Use fewer words. 
 
