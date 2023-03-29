@@ -41,3 +41,21 @@ Fourth, if the professor changed the grading criteria mid-way through the semest
 
 Fifth, I suggest you take a step back and think about what the point of a math class is, in the first place.  The point is to equip students with a skillset that is useful in the world, outside of school.  The point is not to account for time spent doing a particular activity, such as ostensibly "mandatory" tutoring.  If OP was performing well without the bullshit participation component, based on the prior objective grading criteria (e.g., tests, quizzes, homework, etc.), it is nonsensical to add such a component that would drop his/her grade.  Your "advice" seems to have missed that most basic aspect.
 
+----- __515.2__ -----2023-03-29 21:40:37+08:00:
+
+> Regardless, I don't think OP intentionally tried to ignore work.
+
+Students with 4.0 GPAs tend to aim to meet expectations, no matter how stupid those expectations are.  
+
+Mandatory tutoring for a college math class is a stupid expectation.  It is not normal at all. 
+
+But it seems reasonable to infer that if that expectation was a part of the course requirements that the professor clearly communicated from the start (read: written out in the syllabus), OP wouldn't be in this situation.
+
+That is why the comment from "Charming-Barnacle-15" seems pretty vapid to me.
+
+----- __515.3__ -----2023-03-29 21:48:59+08:00:
+
+Yes, it is. And the whole approach of "assume the student fucked up," when OP says he/she has a 4.0 GPA otherwise is insane.  
+
+OP seems to have been blindsided by expectations that were changed mid-way through the semester.  Which is understandable.
+

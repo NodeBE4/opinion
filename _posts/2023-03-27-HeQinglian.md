@@ -109,7 +109,7 @@ Re @JianglinLi @zhixiangziyou 查了一下，确实是匈牙利犹太人，从�
 
 ### 24: [2023-03-27 21:58:20+08:00 推文](https://twitter.com/HeQinglian/status/1640352556139401217)
 
-这一代人就是这样，人生长跑行将结束。多数人为稻粱谋，此外无非三类：体制内攀升者，体制外的政治反对者（包括表面反对实则合作），商界人物（1950年代生人较少这方面成功者）。<br>退休时回望，心之所安最重要，身外之物无非多收了三五斗。大厦千丈，所眠无非七尺之榻。 https://twitter.com/AnnaWruiqin/status/1640135504942301184<div class="rsshub-quote"><br><br>王安娜 · WangRuiqin: 胡石根长老曾经与胡春华是同室校友，只是胡石根选择了与胡春华完全不同的人生道路。3月26日胡长老在刑期满三天后从牢狱回到四壁空空的家中，24年铁窗生涯极大的伤害了他的健康。壮士垂暮衰老，再看习二强制把中国拉回毛时代不禁感慨<br><br>中国的苦难何时结束<br>勇士们还要付出多大代价？ https://twitter.com/annawruiqin/status/1639972789854650371<br></div>
+这一代人就是这样，人生长跑行将结束。多数人为稻粱谋，此外无非三类：体制内攀升者，体制外的政治反对者（包括表面反对实则合作），商界人物（1950年代生人较少这方面成功者）。<br>退休时回望，心之所安最重要，身外之物无非多收了三五斗。大厦千丈，所眠无非七尺之榻。 https://twitter.com/AnnaWruiqin/status/1640135504942301184<div class="rsshub-quote"><br><br>王安娜 · WangRuiqin: 胡石根长老曾经与胡春华是同室校友，只是胡石根选择了与胡春华完全不同的人生道路。3月26日胡长老在刑期满三天后从牢狱回到四壁空空的家中，24年铁窗生涯极大的伤害了他的健康。壮士垂暮衰老，再看习二强制把中国拉回毛时代不禁感慨<br><br>中国的苦难何时结束<br>勇士们还要付出多大代价？ https://twitter.com/AnnaWruiqin/status/1639972789854650371<br></div>
 
 ### 25: [2023-03-27 22:00:18+08:00 推文](https://twitter.com/HeQinglian/status/1640353050417045505)
 
@@ -145,7 +145,7 @@ Re @Chichoyroot 记得你是郭革命时，来过，挺郭派。😇😇<br>我�
 
 ### 33: [2023-03-28 03:05:41+08:00 推文](https://twitter.com/zhixiangziyou/status/1640429904478060544)
 
-RT L JM🇺🇸<br>《华尔街日报》的民意调查显示美国价值观的急剧下降是我们不应该在乌克兰与 WW3 玩足球的另一个原因<br><br>我们的国家正在分崩离析，我们的“领导人”正专注于 5,000 英里外的边界争端。<div class="rsshub-quote"><br><br>Charlie Kirk: The WSJ poll showing the precipitous decline in American values is yet another reason we shouldn't be in Ukraine playing footsie with WW3<br><br>Our country is falling apart and our "leaders" are focused on a border dispute 5,000 miles away. https://t.co/tmey8Jp12x<br><br><img style="" src="https://pbs.twimg.com/media/FsPLuDJakAE7zn7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT L JM🇺🇸<br>《华尔街日报》的民意调查显示美国价值观的急剧下降是我们不应该在乌克兰与 WW3 玩足球的另一个原因<br><br>我们的国家正在分崩离析，我们的“领导人”正专注于 5,000 英里外的边界争端。 https://twitter.com/charliekirk11/status/1640378779360202752<div class="rsshub-quote"><br><br>Charlie Kirk: The WSJ poll showing the precipitous decline in American values is yet another reason we shouldn't be in Ukraine playing footsie with WW3<br><br>Our country is falling apart and our "leaders" are focused on a border dispute 5,000 miles away. https://t.co/tmey8Jp12x<br><br><img style="" src="https://pbs.twimg.com/media/FsPLuDJakAE7zn7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 34: [2023-03-28 06:54:33+08:00 推文](https://twitter.com/HeQinglian/status/1640487500631232514)
 
@@ -318,4 +318,24 @@ Re @AnnaWruiqin 郭文贵混的是国安线，沈栋是段伟红攀上了章培�
 ### 76: [2023-03-29 10:11:21+08:00 推文](https://twitter.com/HeQinglian/status/1640899414490329089)
 
 Re @AnnaWruiqin 马云几件事情颇犯圣忌。一是江南会，二是以民企之身办外交（那个见各国政要的照片簿）。<br>中国其实有混得好的，但不在政治上出头。<br>北京那个阿拉善SEE生态协会如今安在？<br>企业家做大了，政治上要出路。如今，西方大科技企业野心没边，要大重置；中国企业家连服务社会的门径都没有——要是能求个中道，多好
+
+### 77: [2023-03-29 21:39:34+08:00 推文](https://twitter.com/HeQinglian/status/1641072609130577921)
+
+Re @JianglinLi 昨天那职业革命女的小号居然要求我们捐款，说海外民运靠她出钱养（我怀疑她发推时喝高了）。<br>一无职业者，从来没工作，四处化缘，好不容易跑到加拿大吃上福利，居然养海外民运？还找错门了，找上咱们三不吃民运饭的人，不知是哪个海外民运拿过她打赏的三瓜两枣？<br>这是郭事件的后遗症，说民运拿钱没错
+
+### 78: [2023-03-29 21:42:20+08:00 推文](https://twitter.com/HeQinglian/status/1641073306148257794)
+
+Re @JianglinLi @Wu_Zhi @david_david1968 拜登政府管下，美国那四大印钞厂得24小时连轴转，每笔援助，可以养肥民主党关系网上的NGO与办事机构。<br>难怪想搞数码货币，连1%的印钞成本都节约了。
+
+### 79: [2023-03-29 21:45:55+08:00 推文](https://twitter.com/HeQinglian/status/1641074207806087173)
+
+Re @chinayvan 马云的明智选择应该是呆在新加坡，遥控指挥大陆公司运作，资金流动要时刻准备着，三七开，七成留在大陆，有利润就转走（三成）。<br>毕竟，离开中国这制度环境，马云那套也不很灵光，这样肉身在外，公司在内，政府与马云双赢。
+
+### 80: [2023-03-29 21:47:09+08:00 推文](https://twitter.com/HeQinglian/status/1641074516309733378)
+
+Re @richard20211212 说的是。<br>崇祯毕竟最后要以发被面，煤山上吊，以示负责。
+
+### 81: [2023-03-29 21:49:28+08:00 推文](https://twitter.com/HeQinglian/status/1641075099800424451)
+
+Re @AnnaWruiqin 对民企，我有过不少研究。<br>以后有时间再聊，消灭私有制，是中共（共产主义）的娘胎病，治不好的。<br>如果允许民企存在，那是中共经济有问题之时。民企离开政府，也无法做大。
 
