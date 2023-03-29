@@ -69,7 +69,7 @@ Re @zhixiangziyou 不是笑话，是处心积虑的“体制内新长征”。
 
 ### 14: [2023-03-27 21:07:27+08:00 推文](https://twitter.com/HeQinglian/status/1640339753353584640)
 
-无知者无畏，这个 @xxgreatwall 开口就是“你懂不懂”。<br>普及一点常识：任何一国货币国际化两个指标：一是国际贸易结算时使用率高低；二是储备货币。<br>作为储备货币，在IMF让人民币入篮时已给过指标，一直没能使用足够；前者是作为结算货币<br>这位 @xxgreatwall 当然也不懂BRICKS之内结算系统如今是何状态 https://twitter.com/xxgreatwall/status/1640175068763549697<div class="rsshub-quote"><br><br>BONY M: @HeQinglian 扯淡，你懂不懂，如果只是把美元换算成人民币买石油，同时俄罗斯收的的人民币只能买中国商品，买不了其他国家的商品，那么实际上就是以物易物，哪有什么人民币国际化。<br></div>
+无知者无畏，这个 @xxgreatwall 开口就是“你懂不懂”。<br>普及一点常识：任何一国货币国际化两个指标：一是国际贸易结算时使用率高低；二是储备货币。<br>作为储备货币，在IMF让人民币入篮时已给过指标，一直没能使用足够；前者是作为结算货币<br>这位 @xxgreatwall 当然也不懂BRICKS之内结算系统如今是何状态<div class="rsshub-quote"><br><br>BONY M: @HeQinglian 扯淡，你懂不懂，如果只是把美元换算成人民币买石油，同时俄罗斯收的的人民币只能买中国商品，买不了其他国家的商品，那么实际上就是以物易物，哪有什么人民币国际化。<br></div>
 
 ### 15: [2023-03-27 21:09:53+08:00 推文](https://twitter.com/HeQinglian/status/1640340363700318210)
 
@@ -121,7 +121,7 @@ Re @mingshi_chen 货币互换，早在人民币入篮之前就开始了，香港
 
 ### 27: [2023-03-27 22:26:24+08:00 推文](https://twitter.com/HeQinglian/status/1640359621209604097)
 
-Re 必须补充的一句是：<br>美国文革、美国共产主义2.0版，让我们这代人在晚年，陷入精神支撑崩塌，奋斗价值冰消之境。<br>如我这种少数派（5%），愿意认清事实重新出发。多数人抱着灯塔不放，哪怕事实上熄灭，也将想象当现实。<br>十年后，如果还有思考能力，灯塔派将比我等少数人更痛苦，依靠否定少数派是其指望
+RT He Qinglian<br>Re 必须补充的一句是：<br>美国文革、美国共产主义2.0版，让我们这代人在晚年，陷入精神支撑崩塌，奋斗价值冰消之境。<br>如我这种少数派（5%），愿意认清事实重新出发。多数人抱着灯塔不放，哪怕事实上熄灭，也将想象当现实。<br>十年后，如果还有思考能力，灯塔派将比我等少数人更痛苦，依靠否定少数派是其指望
 
 ### 28: [2023-03-27 22:33:02+08:00 推文](https://twitter.com/HeQinglian/status/1640361291138179078)
 
@@ -145,7 +145,7 @@ Re @Chichoyroot 记得你是郭革命时，来过，挺郭派。😇😇<br>我�
 
 ### 33: [2023-03-28 03:05:41+08:00 推文](https://twitter.com/zhixiangziyou/status/1640429904478060544)
 
-RT L JM🇺🇸<br>《华尔街日报》的民意调查显示美国价值观的急剧下降是我们不应该在乌克兰与 WW3 玩足球的另一个原因<br><br>我们的国家正在分崩离析，我们的“领导人”正专注于 5,000 英里外的边界争端。 https://twitter.com/charliekirk11/status/1640378779360202752<div class="rsshub-quote"><br><br>Charlie Kirk: The WSJ poll showing the precipitous decline in American values is yet another reason we shouldn't be in Ukraine playing footsie with WW3<br><br>Our country is falling apart and our "leaders" are focused on a border dispute 5,000 miles away. https://t.co/tmey8Jp12x<br><br><img style="" src="https://pbs.twimg.com/media/FsPLuDJakAE7zn7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT L JM🇺🇸<br>《华尔街日报》的民意调查显示美国价值观的急剧下降是我们不应该在乌克兰与 WW3 玩足球的另一个原因<br><br>我们的国家正在分崩离析，我们的“领导人”正专注于 5,000 英里外的边界争端。<div class="rsshub-quote"><br><br>Charlie Kirk: The WSJ poll showing the precipitous decline in American values is yet another reason we shouldn't be in Ukraine playing footsie with WW3<br><br>Our country is falling apart and our "leaders" are focused on a border dispute 5,000 miles away. https://t.co/tmey8Jp12x<br><br><img style="" src="https://pbs.twimg.com/media/FsPLuDJakAE7zn7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 34: [2023-03-28 06:54:33+08:00 推文](https://twitter.com/HeQinglian/status/1640487500631232514)
 
@@ -282,4 +282,32 @@ Re @AnnaWruiqin 习近平在商业资本金融资本时代打压民企，非常�
 ### 67: [2023-03-29 07:03:13+08:00 推文](https://twitter.com/HeQinglian/status/1640852069778182144)
 
 Re @eGUAbe2V7j26GHw 今天翻找出这条资料：<br>遭冒名出書談政改 空軍上將擬究責<br>2013年1月13日<br>http://news.sina.com.hk/news/20130113/-162-2870566/1.html <br>明报：一本名為《劉亞洲國家思考錄》的新書，近日在網上引起熱議。該書聲稱輯錄了空軍上將劉亞洲發表過的言論，部分內容提及中國真正崛起取決於政改一役，而政改核心是民主化，尤其是中共內部民主化。
+
+### 68: [2023-03-29 08:02:42+08:00 推文](https://twitter.com/HeQinglian/status/1640867038880055296)
+
+Re @fading_you1 @eGUAbe2V7j26GHw 《团结在民主的旗帜下——读刘亚洲演讲有感》，此为陈子明用笔名王思睿发表，13.0千字) 》简历载明此文归属权是陈子明：http://bbs.tianya.cn/post-books-92365-1.shtml<br>我当时因为《中国改革的得与失》被盗名问题，特别留心了异议江湖为刘造神的现象，下载了此文。现在去搜，还有标题。
+
+### 69: [2023-03-29 08:05:53+08:00 推文](https://twitter.com/HeQinglian/status/1640867841355202564)
+
+Re @guppy_dong 你说得是。<br>现在大概是这样：独、统、维持现状各占三分之一。遇到危机，维持现状者会增加。<br>年轻人向往美国也相信美国会保护，但不希望自己上战场。年龄大的则不希望发生战争。<br>赖清德是绿营中的独，台海关系紧张时，民众确实不希望选他，担心会激化矛盾。<br>台湾大选在美国之前。
+
+### 70: [2023-03-29 08:08:09+08:00 推文](https://twitter.com/HeQinglian/status/1640868408551002112)
+
+Re @chinayvan 我没写过《中国快跑》，《无为大师》，ChatGPT居然派了这种文章给我？😅
+
+### 71: [2023-03-29 08:25:00+08:00 推文](https://twitter.com/HeQinglian/status/1640872652041592832)
+
+Re @guppy_dong 台湾只有两条路。<br>一条是依傍美国，努力迎合民主党的外交重点，lgbtqi+化，托庇美国保护，但也是时时惊心。<br>另一条就是你说的这一可能。<br>其他的余地不大。<br>如果美国不是民主党当政，国运不衰，可能台湾还能拖上一阵。
+
+### 72: [2023-03-29 09:26:02+08:00 推文](https://twitter.com/HeQinglian/status/1640888009691131904)
+
+Re @Lucs24659702 这类怪物在拜登统治时期倾巢而出。
+
+### 73: [2023-03-29 09:29:01+08:00 推文](https://twitter.com/HeQinglian/status/1640888761075507200)
+
+Re @noahmitchell07 我查到的信息：<br>刘最后在国内公开以正面形象出现，是2021年6月腾讯网上文章；2021年12月抓捕传闻出现。<br>如今不是海外传的，是国内传的，微信上很多。海外是依据国内的。
+
+### 74: [2023-03-29 09:41:45+08:00 推文](https://twitter.com/HeQinglian/status/1640891967256121346)
+
+Re @noahmitchell07 就是这，是微信圈先传的。
 
