@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2023-03-29
+date: 2023-03-30
 from: https://old.reddit.com/r/politics/comments/12458zk/the_us_doesnt_need_another_democracy_summit_it/
 layout: post
 tags:
@@ -29,4 +29,13 @@ As a candidate for president, Biden campaigned on the need to preserve democracy
 \[SS from the essay by Lawrence Norden, Senior Director of the Elections and Government Program at the Brennan Center for Justice at NYU Law; and Derek Tisler, who serves as Counsel in the Elections and Government Program at the Brennan Center for Justice at NYU Law.\]
 
 Effectively pushing back against election falsehoods can seem like an impossible task, but Americans have learned a lot in recent years, and there are communications strategies and legislative measures that can help blunt the effects of disinformation. The first is to continuously “pre-bunk” disinformation and direct citizens to trusted sources, before false information has been spread and believed. Analyses of online election-related conversations by the Stanford Internet Observatory, the Brennan Center, and others have found that high-profile election deniers rely on the same core false narratives over and over. This repetition means that it is possible to predict a good deal of election disinformation. Therefore, election officials, public leaders, and civic organizations can anticipate false points likely to be raised, train voters to recognize false information, provide factual evidence to rebut—or “pre-bunk”—recurring rumors, and direct voters to trusted sources.
+
+### 372: [Xi Jinping Says He Is Preparing China for War: The World Should Take Him Seriously](https://old.reddit.com/r/geopolitics/comments/1261txp/xi_jinping_says_he_is_preparing_china_for_war_the/), submitted on 2023-03-30 05:49:37+08:00.
+
+----- __372.1__ -----2023-03-30 05:56:07+08:00:
+
+\[SS from the article by John Pomfret, former Beijing Bureau Chief for The Washington Post; and Matt Pottinger, Chair of the China program at the Foundation for Defense of Democracies. From 2019 to 2021, he served as Deputy National Security Adviser.\]
+
+It is too early to say for certain what these developments mean. Conflict is not certain or imminent. But something has changed in Beijing that policymakers and business leaders worldwide cannot afford to ignore. If Xi says he is readying for war, it would be foolish not to take him at his word.  
+The first sign that this year’s meetings of the National People’s Congress and the Chinese People’s Political Consultative Conference—known as the “two-sessions” because both bodies meet simultaneously—might not be business as usual came on March 1, when the top theoretical journal of the Chinese Communist Party (CCP) published an essay titled “Under the Guidance of Xi Jinping Thought on Strengthening the Army, We Will Advance Victoriously.” The essay appeared under the name “Jun Zheng”—a homonym for “military government” that possibly refers to China’s top military body, the Central Military Commission—and argued that “the modernization of national defense and the military must be accelerated.” It also called for an intensification of Military-Civil Fusion, Xi’s policy requiring private companies and civilian institutions to serve China’s military modernization effort.
 
