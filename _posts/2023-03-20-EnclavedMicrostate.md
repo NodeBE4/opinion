@@ -230,3 +230,7 @@ So what makes this interesting is that the reason that I thought 'Bang Upon the 
 
 Which basically means that I was wrong, but in a good way – the song is in fact real. The appearances of bits and pieces of that song in Kipling are not indications that the song was actually pieced together from Kipling, but rather that fragments did make it into his work by authentic means. And so one can now listen to 'Bang Upon the Big Drum' with considerably less guilt about its historical authenticity. Unless someone digs up the original score from 1889 and finds cause for complaint.
 
+----- __1160.3__ -----2023-03-29 12:40:55+08:00:
+
+Oh hello, History Masters' student here, that makes three...
+
