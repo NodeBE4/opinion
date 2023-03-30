@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-03-30
+date: 2023-03-31
 from: https://twitter.com/HeQinglian/status/1640027478948233224
 layout: post
 tags:
@@ -109,7 +109,7 @@ Re @JianglinLi @zhixiangziyou 查了一下，确实是匈牙利犹太人，从�
 
 ### 24: [2023-03-27 21:58:20+08:00 推文](https://twitter.com/HeQinglian/status/1640352556139401217)
 
-这一代人就是这样，人生长跑行将结束。多数人为稻粱谋，此外无非三类：体制内攀升者，体制外的政治反对者（包括表面反对实则合作），商界人物（1950年代生人较少这方面成功者）。<br>退休时回望，心之所安最重要，身外之物无非多收了三五斗。大厦千丈，所眠无非七尺之榻。 https://twitter.com/AnnaWruiqin/status/1640135504942301184<div class="rsshub-quote"><br><br>王安娜 · WangRuiqin: 胡石根长老曾经与胡春华是同室校友，只是胡石根选择了与胡春华完全不同的人生道路。3月26日胡长老在刑期满三天后从牢狱回到四壁空空的家中，24年铁窗生涯极大的伤害了他的健康。壮士垂暮衰老，再看习二强制把中国拉回毛时代不禁感慨<br><br>中国的苦难何时结束<br>勇士们还要付出多大代价？ https://twitter.com/AnnaWruiqin/status/1639972789854650371<br></div>
+这一代人就是这样，人生长跑行将结束。多数人为稻粱谋，此外无非三类：体制内攀升者，体制外的政治反对者（包括表面反对实则合作），商界人物（1950年代生人较少这方面成功者）。<br>退休时回望，心之所安最重要，身外之物无非多收了三五斗。大厦千丈，所眠无非七尺之榻。 https://twitter.com/AnnaWruiqin/status/1640135504942301184<div class="rsshub-quote"><br><br>王安娜 · WangRuiqin: 胡石根长老曾经与胡春华是同室校友，只是胡石根选择了与胡春华完全不同的人生道路。3月26日胡长老在刑期满三天后从牢狱回到四壁空空的家中，24年铁窗生涯极大的伤害了他的健康。壮士垂暮衰老，再看习二强制把中国拉回毛时代不禁感慨<br><br>中国的苦难何时结束<br>勇士们还要付出多大代价？ https://twitter.com/annawruiqin/status/1639972789854650371<br></div>
 
 ### 25: [2023-03-27 22:00:18+08:00 推文](https://twitter.com/HeQinglian/status/1640353050417045505)
 
@@ -121,7 +121,7 @@ Re @mingshi_chen 货币互换，早在人民币入篮之前就开始了，香港
 
 ### 27: [2023-03-27 22:26:24+08:00 推文](https://twitter.com/HeQinglian/status/1640359621209604097)
 
-RT He Qinglian<br>Re 必须补充的一句是：<br>美国文革、美国共产主义2.0版，让我们这代人在晚年，陷入精神支撑崩塌，奋斗价值冰消之境。<br>如我这种少数派（5%），愿意认清事实重新出发。多数人抱着灯塔不放，哪怕事实上熄灭，也将想象当现实。<br>十年后，如果还有思考能力，灯塔派将比我等少数人更痛苦，依靠否定少数派是其指望
+Re 必须补充的一句是：<br>美国文革、美国共产主义2.0版，让我们这代人在晚年，陷入精神支撑崩塌，奋斗价值冰消之境。<br>如我这种少数派（5%），愿意认清事实重新出发。多数人抱着灯塔不放，哪怕事实上熄灭，也将想象当现实。<br>十年后，如果还有思考能力，灯塔派将比我等少数人更痛苦，依靠否定少数派是其指望
 
 ### 28: [2023-03-27 22:33:02+08:00 推文](https://twitter.com/HeQinglian/status/1640361291138179078)
 
@@ -389,7 +389,7 @@ Re @harry_shosta 这位可怜的 美国中学生，她不知道自己未出生�
 
 ### 94: [2023-03-30 10:33:52+08:00 推文](https://twitter.com/HeQinglian/status/1641267468113960961)
 
-这种恶例一开，中国辱骂领导人习近平的人更加遭殃，官方会振振有词地宣称：辱骂领导人的人判刑，在民主国家也同样如此。<br>西方人陷入这种恶政，还有什么好骄傲的？ https://twitter.com/Qing2022022/status/1641120784029564934<div class="rsshub-quote"><br><br>Qing: 法国一名妇女因在社交网络上侮辱马克龙而被捕。她称这位法国总统为“垃圾”，现在她将面临一年的牢狱之灾。 https://t.co/bJhlM7jekH<br><br><img style="" src="https://pbs.twimg.com/media/FsZupzRakAAayne?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+这种恶例一开，中国辱骂领导人习近平的人更加遭殃，官方会振振有词地宣称：辱骂领导人的人判刑，在民主国家也同样如此。<br>西方人陷入这种恶政，还有什么好骄傲的？<div class="rsshub-quote"><br><br>Qing: 法国一名妇女因在社交网络上侮辱马克龙而被捕。她称这位法国总统为“垃圾”，现在她将面临一年的牢狱之灾。 https://t.co/bJhlM7jekH<br><br><img style="" src="https://pbs.twimg.com/media/FsZupzRakAAayne?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 95: [2023-03-30 10:37:31+08:00 推文](https://twitter.com/HeQinglian/status/1641268385919934464)
 
@@ -438,4 +438,12 @@ Re @zhixiangziyou @dinglili7 欧洲是第一批，英相第一。<br>但在与�
 ### 106: [2023-03-30 23:21:20+08:00 推文](https://twitter.com/HeQinglian/status/1641460607386828801)
 
 Re @KELMAND1 重复阿富汗战争的军费、援建故事。<br>话说，全世界最好做的商人，还是与政府关系最好的商人。原来以为西方不这样，没想到近20多年这个问题显性化。
+
+### 107: [2023-03-31 01:16:27+08:00 推文](https://twitter.com/HeQinglian/status/1641489577335562240)
+
+民主党与左派内部揭露拜登各种丑闻与违规事件有个规律，那就是民主党面临外部压力较小之时，这时候就开始考虑让拜登退出2024大选。<br>一旦有外部压力，拜登丑闻立刻消声，全力帮助本党总统度过难关。<br>前一向山雨欲来，但中国汽球事件一出，拜登丑闻消失。<br>咱们看看这次接着来的是什么。<div class="rsshub-quote"><br><br>Lucs: 🚨🚨🚨突发事件——国家档案馆向美国第一法律机构承认，在宾夕法尼亚拜登中心发现了 1,170 页拜登的副总统记录。<br><br> 他们还承认，他们“没有保管”拜登在特拉华州发现的其他错放的记录。  🔥🔥🔥<br><br> 记录在哪里？  ⤵️<br><br> https://threadreaderapp.com/thread/1641474723946061825.html<br></div>
+
+### 108: [2023-03-31 01:19:10+08:00 推文](https://twitter.com/HeQinglian/status/1641490263871827986)
+
+Re @zymzpdba @ngexp 解释权在相关机构。你在哪个机构供职？如果没有，你还是消停一点，当个看客吧。须知，你的解释与我们一样，非权威。<br>自赋的权力不算。看你这样自赋解释权并攻击他人，我不打算Mark你的推文。
 

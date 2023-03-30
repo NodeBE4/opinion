@@ -305,7 +305,7 @@ RT Stacy Chen 🇨🇦🇺🇸<br>Re @franktianxie 从“1-6委员会”，到
 
 ### 73: [2022-06-25 21:11:23+08:00 推文](https://twitter.com/HeQinglian/status/1540684079456059392)
 
-堕胎与变性，一定得在当事人成年后知晓其中利害之后，这是政府责任<br>黄石公园女主贝丝13岁怀孕，不敢求助于父亲，找其大哥（养子），15岁男孩因保护妹妹与家庭名誉，去找印第安人，老妇告知该族的堕胎法将终生不能生育，他告知妹妹，妹妹不知利害，要求做手术。<br>这事成为贝丝终身之痛，兄妹父子失和的梗
+堕胎与变性，一定得在当事人成年后知晓其中利害之后，这是政府责任<br>黄石公园女主贝丝13岁怀孕，不敢求助于父亲，找其大哥（养子），15岁男孩因保护妹妹与家庭名誉，去找印第安人，老妇告知该族的堕胎法将终生不能生育，他告知妹妹，妹妹不知利害，要求做手术。<br>这事成为贝丝终身之痛，兄妹父子失和的梗<br><br>RFI 華語 - 法國國際廣播電台: 美最高法院終結墮胎權憲法保障後，美西岸3州承諾捍衛墮胎權<br><br><img style="" src="https://pbs.twimg.com/media/FWDXjlXUAAAlx1N?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8Wuu.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8Wuu.t</a>
 
 ### 74: [2022-06-25 21:13:54+08:00 推文](https://twitter.com/HeQinglian/status/1540684709931274240)
 
