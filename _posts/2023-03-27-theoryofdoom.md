@@ -71,6 +71,12 @@ Your further misapprehensions do not require my response.
 
 Your further misapprehensions do not require my response.
 
+----- __515.6__ -----2023-03-30 19:32:36+08:00:
+
+Determining whether the syllabus, in electronic form, was changed, is not complicated.  But the student may not be able to do it.  The department chair easily could. Assuming the syllabus is electronic, the metadata and version history would say whether it had been recently changed.  An audit log on the back-end should be easily obtainable. But it almost certainly doesn't even need to get that far.  The department chair should ask the instructor whether the grading requirements were changed.  And if so, why.  It is possible the instructor had a good reason.  
+
+Tangentially, it is my view that tutoring requirements which form a participation component of a student's final grade in a math class are nonsensical.
+
 ### 516: [WARNING: The TikTok bill is a Trojan horse. Prepare for the Patriot Act for the internet](https://old.reddit.com/r/FreeSpeech/comments/126841p/warning_the_tiktok_bill_is_a_trojan_horse_prepare/), submitted on 2023-03-30 10:02:52+08:00.
 
 ----- __516.1__ -----2023-03-30 12:16:45+08:00:
