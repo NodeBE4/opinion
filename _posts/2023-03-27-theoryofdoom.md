@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2023-03-29
+date: 2023-03-30
 from: https://old.reddit.com/r/college/comments/1250xrm/my_professor_has_made_tutoring_mandatory/
 layout: post
 tags:
@@ -64,4 +64,10 @@ OP seems to have been blindsided by expectations that were changed mid-way throu
 If tutoring is mandatory where you teach, you are in no position to weigh in on pedagogy.  That would be like asking Nikocado Avocado for dietary advice. 
 
 Your further misapprehensions do not require my response.
+
+### 516: [WARNING: The TikTok bill is a Trojan horse. Prepare for the Patriot Act for the internet](https://old.reddit.com/r/FreeSpeech/comments/126841p/warning_the_tiktok_bill_is_a_trojan_horse_prepare/), submitted on 2023-03-30 10:02:52+08:00.
+
+----- __516.1__ -----2023-03-30 12:16:45+08:00:
+
+Damn right.
 

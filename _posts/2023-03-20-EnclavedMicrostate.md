@@ -234,3 +234,11 @@ Which basically means that I was wrong, but in a good way – the song is in fac
 
 Oh hello, History Masters' student here, that makes three...
 
+----- __1160.4__ -----2023-03-30 11:59:44+08:00:
+
+> in a infinite skys the limit state.
+
+I er....
+
+Could you please clarify?
+

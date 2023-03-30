@@ -25,11 +25,11 @@ title: 'Twitter @蔡霞: 2022-07-11~2022-07-17'
 
 ### 3: [2022-07-14 03:39:34+08:00 推文](https://twitter.com/realcaixia/status/1547304749938130944)
 
-纪念刘晓波。我作为后来者会继续往前走，宪政民主是中国政治走向现代文明必须实现的首要目标。
+纪念刘晓波。我作为后来者会继续往前走，宪政民主是中国政治走向现代文明必须实现的首要目标。<br><br>ZHANGDONG: 五年前的今天他走了，在北欧留下了一把空椅和未竟的事业。<br><br><img style="" src="https://pbs.twimg.com/media/FXkHj9VX0AA-gJt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FXkHkSPWIAMDhWI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2022-07-14 09:52:58+08:00 推文](https://twitter.com/realcaixia/status/1547398719150211073)
 
-纪念刘晓波，我们拒绝遗忘。每年今日就犹如每年的六·四一样：<br>纪念为所有争取自由民主而献出生命的英魂，他们的精神感召与激励着更多的人加入为此而奋斗的行列。相信无论前路如何艰难，无论需要多长的时间，未来的中国终将走向宪政民主。<br><br>胡发云 hufayun: 胡發雲：索爾維格之歌的故事 <br>怀念小波。<br> <a href="https://youtu.be/rEI8vbana4c" target="_blank" rel="noopener noreferrer">https://youtu.be/rEI8vbana4c</a>
+纪念刘晓波，我们拒绝遗忘。每年今日就犹如每年的六·四一样：<br>纪念为所有争取自由民主而献出生命的英魂，他们的精神感召与激励着更多的人加入为此而奋斗的行列。相信无论前路如何艰难，无论需要多长的时间，未来的中国终将走向宪政民主。
 
 ### 5: [2022-07-14 09:58:48+08:00 推文](https://twitter.com/realcaixia/status/1547400187169181697)
 
