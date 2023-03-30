@@ -69,11 +69,11 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Ffb6tbZWIAQrHYw?format=jpg
 
 ### 14: [2022-10-19 21:51:17+08:00 推文](https://twitter.com/realcaixia/status/1582731111595413505)
 
-英文版议报推特 ：<br>推荐英国媒体关于中共曼城领事馆暴力事件的报道，英国可能会因此事驱出中共外交官。<br><br>YiBao English《議報》英文: UK may expel Chinese diplomats over Manchester consulate violence!! #goodjobjamescleverly #flexingmusclesinchinia<br> <a href="https://www.theguardian.com/politics/2022/oct/19/uk-may-expel-chinese-diplomats-over-manchester-consulate-violence" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/politics/2022/oct/19/uk-may-expel-chinese-diplomats-over-manchester-consulate-violence</a>
+英文版议报推特 ：<br>推荐英国媒体关于中共曼城领事馆暴力事件的报道，英国可能会因此事驱出中共外交官。<br><br>YiBao English 議報 英文: UK may expel Chinese diplomats over Manchester consulate violence!! #goodjobjamescleverly #flexingmusclesinchinia<br> <a href="https://www.theguardian.com/politics/2022/oct/19/uk-may-expel-chinese-diplomats-over-manchester-consulate-violence" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/politics/2022/oct/19/uk-may-expel-chinese-diplomats-over-manchester-consulate-violence</a>
 
 ### 15: [2022-10-19 21:53:50+08:00 推文](https://twitter.com/realcaixia/status/1582731752791232512)
 
-英文版议报的推特跟进了英国曼城事件。请看：<br><br>YiBao English《議報》英文: Peaceful protest should be a fundamental right in everywhere. Shame on Chinese "Wolf Warrior Diplomacy"!<br> <a href="https://twitter.com/JamesCleverly/status/1582410222735196160" target="_blank" rel="noopener noreferrer">https://twitter.com/JamesCleverly/status/1582410222735196160</a>
+英文版议报的推特跟进了英国曼城事件。请看：<br><br>YiBao English 議報 英文: Peaceful protest should be a fundamental right in everywhere. Shame on Chinese "Wolf Warrior Diplomacy"!<br>
 
 ### 16: [2022-10-21 21:23:27+08:00 推文](https://twitter.com/realcaixia/status/1583448884675678208)
 

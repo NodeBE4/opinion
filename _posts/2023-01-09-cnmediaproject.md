@@ -41,7 +41,7 @@ RT Yian Lee 李易安<br>My first contribution for the Reporter (報導者): a
 
 ### 7: [2023-01-12 05:36:21+08:00 推文](https://twitter.com/EmilyZFeng/status/1613288729472389121)
 
-RT Emily Feng 冯哲芸<br>A publishing editor. An accountant and rock music fan. Young journalists. A techno fan who happened to be at a bar near the Liangma River when protestors held a peaceful vigil against Zero Covid on November 27. Now they - almost all women- are arrested. <br>https://www.npr.org/2023/01/11/1148251868/china-covid-lockdown-protests-arrests
+RT Emily Feng 冯哲芸<br>A publishing editor. An accountant and rock music fan. Young journalists. A techno fan who happened to be at a bar near the Liangma River when protestors held a peaceful vigil against Zero Covid on November 27. Now they - almost all women- are arrested. <a href="https://www.npr.org/2023/01/11/1148251868/china-covid-lockdown-protests-arrests" target="_blank" rel="noopener noreferrer">https://www.npr.org/2023/01/11/1148251868/china-covid-lockdown-protests-arrests</a>
 
 ### 8: [2023-01-12 05:44:02+08:00 推文](https://twitter.com/EmilyZFeng/status/1613290662237032479)
 

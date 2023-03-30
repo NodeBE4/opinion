@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-03-29
+date: 2023-03-30
 from: https://twitter.com/HeQinglian/status/1640027478948233224
 layout: post
 tags:
@@ -338,4 +338,72 @@ Re @richard20211212 说的是。<br>崇祯毕竟最后要以发被面，煤山�
 ### 81: [2023-03-29 21:49:28+08:00 推文](https://twitter.com/HeQinglian/status/1641075099800424451)
 
 Re @AnnaWruiqin 对民企，我有过不少研究。<br>以后有时间再聊，消灭私有制，是中共（共产主义）的娘胎病，治不好的。<br>如果允许民企存在，那是中共经济有问题之时。民企离开政府，也无法做大。
+
+### 82: [2023-03-30 08:42:08+08:00 推文](https://twitter.com/HeQinglian/status/1641239350229729281)
+
+Re @richard20211212 应该是在与中国贸易时放弃美元吧？向美国出口还得用美元结算。
+
+### 83: [2023-03-30 08:48:58+08:00 推文](https://twitter.com/HeQinglian/status/1641241070838116352)
+
+Re @richard20211212 @chinayvan 今天的内部消息（一朋友与国内企业界关系十二分密切，是局中人），马的公司已经切割成六块，马云只拥有其中一块。消息很快就会公布。
+
+### 84: [2023-03-30 08:55:03+08:00 推文](https://twitter.com/HeQinglian/status/1641242599032868864)
+
+Re @princeton_walk @JianglinLi 我每天要收不少，还有拜登民主党的。干脆全进垃圾箱。现在少了不少。
+
+### 85: [2023-03-30 09:01:53+08:00 推文](https://twitter.com/HeQinglian/status/1641244322216509440)
+
+我其实就想知道：他们什么时候承认这个病毒是有意合作研究（这已经很清楚了）、有意放出魔瓶？<br>他们要解释一点：施瓦布为什么兴高采烈地宣告这是大重置的时机，简方达为何说是上帝赐给左派的礼物？<br>左派天天骂天骂地，为何不骂这两人是魔鬼之舌？ https://twitter.com/KELMAND1/status/1641242137756061696<div class="rsshub-quote"><br><br>Ezio Mao☢: “失去的十年”来临<br><br>世界银行本周发布了一份非常有趣的预测。简而言之，丰衣足食的时代已经结束，“失去的十年”即将到来。世界经济平均增速为2.2%，为近30年来最低。<br><br>在原因中，经济学家指出了流行病、通货膨胀和人口结构。有了大流行，一切都清楚了....<br><br>https://www.worldbank.org/en/news/press-release/2023/03/27/global-economy-s-speed-limit-set-to-fall-to-three-decade-low<br></div>
+
+### 86: [2023-03-30 09:02:52+08:00 推文](https://twitter.com/HeQinglian/status/1641244565846781952)
+
+Re @Lucs24659702 明年大规模邮寄选票时需要另找理由了。
+
+### 87: [2023-03-30 09:06:24+08:00 推文](https://twitter.com/HeQinglian/status/1641245456956116992)
+
+Re @NAConservative9 如果能够做到，算是为中国六四讨个说法做了个榜样。
+
+### 88: [2023-03-30 09:11:27+08:00 推文](https://twitter.com/HeQinglian/status/1641246727351984128)
+
+Re @dinglili7 以色列一直是美国华府宠儿，在川普时代尤其得宠。<br>如今发生什么了？左派阵营不少犹太人支持，包括索罗斯都是犹太人。难道这些犹太人不喜欢以色列？
+
+### 89: [2023-03-30 10:16:48+08:00 推文](https://twitter.com/HeQinglian/status/1641263173935218688)
+
+Re @chongzhen141 @dinglili7 华府不断奉献给以色列，谁是宠儿？
+
+### 90: [2023-03-30 10:21:32+08:00 推文](https://twitter.com/HeQinglian/status/1641264363255353349)
+
+Re @Vince6610 @dinglili7 我的印象中与你说的相符。但原因，我觉得是拜登政府的外交政策核心。<br>今天与一位保守基督徒谈及俄乌战争，这是普京反对者。我说，你们基督教如今彩虹化，普京在捍卫基督教的纯正性，你们为什么看不到这点？答曰：普京是侵略者、独裁者，我们不背这包袱。<br>我只回了一句：你们先救自己吧。
+
+### 91: [2023-03-30 10:26:28+08:00 推文](https://twitter.com/HeQinglian/status/1641265607617261568)
+
+Re @KELMAND1 按新马左派宗师阿明的边缘-中心理论，资源出口国是后发展国家，受美欧资本主义剥削。<br>谁能告诉我，美国为何现在甘愿成为资源、粮食出口大国，与落后的资源国家抢饭碗？
+
+### 92: [2023-03-30 10:28:01+08:00 推文](https://twitter.com/HeQinglian/status/1641265997268021249)
+
+Re @zhixiangziyou 他至少代表了42%的左派，还有那些偏爱民主党的无党派人士。
+
+### 93: [2023-03-30 10:30:55+08:00 推文](https://twitter.com/HeQinglian/status/1641266726271606786)
+
+Re @harry_shosta 这位可怜的 美国中学生，她不知道自己未出生之前的美国，没有现在这样可怕。
+
+### 94: [2023-03-30 10:33:52+08:00 推文](https://twitter.com/HeQinglian/status/1641267468113960961)
+
+这种恶例一开，中国辱骂领导人习近平的人更加遭殃，官方会振振有词地宣称：辱骂领导人的人判刑，在民主国家也同样如此。<br>西方人陷入这种恶政，还有什么好骄傲的？ https://twitter.com/Qing2022022/status/1641120784029564934<div class="rsshub-quote"><br><br>Qing: 法国一名妇女因在社交网络上侮辱马克龙而被捕。她称这位法国总统为“垃圾”，现在她将面临一年的牢狱之灾。 https://t.co/bJhlM7jekH<br><br><img style="" src="https://pbs.twimg.com/media/FsZupzRakAAayne?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 95: [2023-03-30 10:37:31+08:00 推文](https://twitter.com/HeQinglian/status/1641268385919934464)
+
+Re @richard20211212 @chinayvan 并非如此，你们忘记了纽约时报曾经揭露的内幕：三代常委当中有七人的家属与阿里巴巴有关。<br>那些股份应该早就成了党产，如何转让产权，是国家机密。<br>可惜，纽时也只能掌握内部爆料的部分，不能连续追踪报道。
+
+### 96: [2023-03-30 10:41:37+08:00 推文](https://twitter.com/HeQinglian/status/1641269419014799363)
+
+Re @KELMAND1 那理论，伦敦政治经济学院的镇院之宝——至少在五年前是如此。
+
+### 97: [2023-03-30 10:45:40+08:00 推文](https://twitter.com/HeQinglian/status/1641270437811306497)
+
+Re @Wu_Zhi @KELMAND1 不骗你说，这些正在发生的变化，很多人是看不见的。
+
+### 98: [2023-03-30 10:46:59+08:00 推文](https://twitter.com/HeQinglian/status/1641270768175652865)
+
+Re @KELMAND1 不是按贸易类型分，是按照技术（工业化国家）、资源（农业国），这是殖民理论的精粹。
 
