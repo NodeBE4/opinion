@@ -246,3 +246,7 @@ I er....
 
 Could you please clarify?
 
+----- __1160.5__ -----2023-03-31 05:13:54+08:00:
+
+Oh I see now – I had been having difficulty parsing the sentence, which you've clarified is 'an infinite "sky's the limit" state'. Thanks!
+

@@ -29,7 +29,7 @@ RT Craig Kafura<br>New for @ChicagoCouncil's Running Numbers: how do older and
 
 ### 4: [2022-01-19 07:14:43+08:00 推文](https://twitter.com/cnmediaproject/status/1483578629733105664)
 
-China’s first annual Short Video Online Influencer Night offers a glimpse into how the CCP hopes to use the popularity of short videos to sing the CCP’s “main melody” (主旋律) and conduct external propaganda, "telling China's story well." <a href="https://chinamediaproject.org/2022/01/18/streaming-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/18/streaming-the-china-story/</a><br><img style="" src="https://pbs.twimg.com/media/FJa6xOEaQAQDEa6?format=jpg&name=orig" referrerpolicy="no-referrer">
+China’s first annual Short Video Online Influencer Night offers a glimpse into how the CCP hopes to use the popularity of short videos to sing the CCP’s “main melody” (主旋律) and conduct external propaganda, "telling China's story well." <a href="https://chinamediaproject.org/2022/01/18/streaming-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/18/streaming-the-china-story/</a><br><img style src="https://pbs.twimg.com/media/FJa6xOEaQAQDEa6?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2022-01-19 10:07:53+08:00 推文](https://twitter.com/cnmediaproject/status/1483622209730256896)
 
@@ -57,7 +57,7 @@ Re Dutch media have reported in the last 24 hours that the Cross-Cultural Human 
 
 ### 11: [2022-01-20 07:57:17+08:00 推文](https://twitter.com/cnmediaproject/status/1483951731277197312)
 
-Re CCHRC content is strikingly in line with the CCP line, though Zwart insists he "is able to operate independently despite the funding from China." Here is a "news" piece attacking the Summit for Democracy and linking to China's foreign ministry. <a href="https://crossculturalhumanrightscentre.com/?page_id=12" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=12</a><br><img style="" src="https://pbs.twimg.com/media/FJgOOT2aIAMARaX?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re CCHRC content is strikingly in line with the CCP line, though Zwart insists he "is able to operate independently despite the funding from China." Here is a "news" piece attacking the Summit for Democracy and linking to China's foreign ministry. <a href="https://crossculturalhumanrightscentre.com/?page_id=12" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=12</a><br><img style src="https://pbs.twimg.com/media/FJgOOT2aIAMARaX?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2022-01-20 08:04:20+08:00 推文](https://twitter.com/cnmediaproject/status/1483953502523371520)
 
@@ -73,7 +73,7 @@ Re Peng is listed in 2016 as head of the Assoc. of Chinese Students Netherlands,
 
 ### 15: [2022-01-20 09:05:05+08:00 推文](https://twitter.com/cnmediaproject/status/1483968793651326976)
 
-Re The association's links with the Chinese government, aren't clear from the "About Us" section of their website ( <a href="https://www.acssnl.nl/1" target="_blank" rel="noopener noreferrer">https://www.acssnl.nl/1</a> <a href="https://bit.ly/3fL6Syo" target="_blank" rel="noopener noreferrer">https://bit.ly/3fL6Syo</a><br><img style="" src="https://pbs.twimg.com/media/FJgdu46aUAUB0qh?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re The association's links with the Chinese government, aren't clear from the "About Us" section of their website ( <a href="https://www.acssnl.nl/1" target="_blank" rel="noopener noreferrer">https://www.acssnl.nl/1</a> <a href="https://bit.ly/3fL6Syo" target="_blank" rel="noopener noreferrer">https://bit.ly/3fL6Syo</a><br><img style="" src="https://pbs.twimg.com/media/FJgdu46aUAUB0qh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 16: [2022-01-20 09:24:43+08:00 推文](https://twitter.com/cnmediaproject/status/1483973733660655617)
 
@@ -81,11 +81,11 @@ Re Scholars and their supposed independence aside, it is clear that the Free Uni
 
 ### 17: [2022-01-20 09:26:53+08:00 推文](https://twitter.com/cnmediaproject/status/1483974277301161985)
 
-Re Peng Qinxuan's CSSA presidency is listed at the China Society for Human Rights Studies ( <a href="https://bit.ly/33rDRWk" target="_blank" rel="noopener noreferrer">https://bit.ly/33rDRWk</a><br><img style="" src="https://pbs.twimg.com/media/FJgiuTpaUAUV0hm?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Peng Qinxuan's CSSA presidency is listed at the China Society for Human Rights Studies ( <a href="https://bit.ly/33rDRWk" target="_blank" rel="noopener noreferrer">https://bit.ly/33rDRWk</a><br><img style src="https://pbs.twimg.com/media/FJgiuTpaUAUV0hm?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2022-01-20 12:43:44+08:00 推文](https://twitter.com/dakekang/status/1484023815596216320)
 
-RT Dake Kang<br>Emily went to report a nice feature story about a food she loves, calls it pungent &amp; smelly but delicious (just the way many in China describe it), and… gets harassed by police, called a race-traitor infiltrator, smeared in state media.<br><br>Just the worst blend of Kafka and Orwell.<br><br>Emily Feng 冯哲芸: 1/ This story has generated vitriolic backlash in China, and reporting it turned out to be more difficult than I imagined. A Tweet thread 🧵on reporting in China these days: <br><br>Last year, we lined up interviews with factories and government noodle officials (yes, they exist)<br> <a href="https://twitter.com/EmilyZFeng/status/1483632947370467331" target="_blank" rel="noopener noreferrer">https://twitter.com/EmilyZFeng/status/1483632947370467331</a>
+RT Dake Kang<br>Emily went to report a nice feature story about a food she loves, calls it pungent & smelly but delicious (just the way many in China describe it), and… gets harassed by police, called a race-traitor infiltrator, smeared in state media.<br><br>Just the worst blend of Kafka and Orwell.<br><br>Emily Feng 冯哲芸: 1/ This story has generated vitriolic backlash in China, and reporting it turned out to be more difficult than I imagined. A Tweet thread 🧵on reporting in China these days: <br><br>Last year, we lined up interviews with factories and government noodle officials (yes, they exist)<br> <a href="https://twitter.com/EmilyZFeng/status/1483632947370467331" target="_blank" rel="noopener noreferrer">https://twitter.com/EmilyZFeng/status/1483632947370467331</a>
 
 ### 19: [2022-01-20 15:42:11+08:00 推文](https://twitter.com/vshih2/status/1484068724445310976)
 
@@ -97,7 +97,7 @@ RT Alan Wong<br>Chinese contact tracing accidentally revealed a migrant worker
 
 ### 21: [2022-01-20 17:24:22+08:00 推文](https://twitter.com/SPCmonitor/status/1484094440939655170)
 
-RT Susan Finder<br>Dean Jiang Huiling on Chinese Judicial Reform <a href="http://supremepeoplescourtmonitor.com/2022/01/20/dean-jiang-huiling-on-chinese-judicial-reform/" target="_blank" rel="noopener noreferrer">http://supremepeoplescourtmonitor.com/2022/01/20/dean-jiang-huiling-on-chinese-judicial-reform/</a>
+RT Susan Finder<br>Dean Jiang Huiling on Chinese Judicial&nbsp;Reform <a href="http://supremepeoplescourtmonitor.com/2022/01/20/dean-jiang-huiling-on-chinese-judicial-reform/" target="_blank" rel="noopener noreferrer">http://supremepeoplescourtmonitor.com/2022/01/20/dean-jiang-huiling-on-chinese-judicial-reform/</a>
 
 ### 22: [2022-01-20 22:45:15+08:00 推文](https://twitter.com/eileenguo/status/1484175192934871046)
 
