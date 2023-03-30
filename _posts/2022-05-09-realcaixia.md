@@ -145,7 +145,7 @@ Re @tlzhlyq 我和毛新宇同班同学。党校招考博士研究生很严格�
 
 ### 33: [2022-05-09 20:46:36+08:00 推文](https://twitter.com/realcaixia/status/1523645612666761216)
 
-中共党和政府是世界上最大的撒谎者。央视天天撒谎。<br>很多年前，觉醒了的中国人说人日报和央视新华社都撒谎，只有天气预报是真的。<br>自从美国驻华大使馆顶住中国压力发布空气污染指数，越来越多中国人重视PM2.5后，中共气象台被迫播报空气质量，但很快人们知道原来天气预报也造假。中共信誉已经彻底破产<br><br>美国驻华使领馆 US MissionCN: 五角大楼新闻秘书@PentagonPresSec：2022年4月20日，美国国防部长@SecDef与中华人民共和国国防部长通话。中华人民共和国国防部发布的会后汇报错误地宣称“the United States adheres to the one-China principle”（美国坚持一个中国原则<br> <a href="http://eng.mod.gov.cn/news/2022-04/20/content_4909446.htm" target="_blank" rel="noopener noreferrer">http://eng.mod.gov.cn/news/2022-04/20/content_4909446.htm</a> <a href="https://twitter.com/DeptofDefense/status/1522322906319044608" target="_blank" rel="noopener noreferrer">https://twitter.com/DeptofDefense/status/1522322906319044608</a>
+中共党和政府是世界上最大的撒谎者。央视天天撒谎。<br>很多年前，觉醒了的中国人说人日报和央视新华社都撒谎，只有天气预报是真的。<br>自从美国驻华大使馆顶住中国压力发布空气污染指数，越来越多中国人重视PM2.5后，中共气象台被迫播报空气质量，但很快人们知道原来天气预报也造假。中共信誉已经彻底破产
 
 ### 34: [2022-05-09 21:07:43+08:00 推文](https://twitter.com/realcaixia/status/1523650927336382465)
 
@@ -165,7 +165,7 @@ Re @q5E5KqUxIoWkM33 @AndrickLi 我遇到过两次查我：1，2013年我发文�
 
 ### 38: [2022-05-09 22:02:46+08:00 推文](https://twitter.com/realcaixia/status/1523664777976852481)
 
-这个文件如果是真实的，很值得关注。文革时期的各种做法改头换面的死灰复燃了。“斗争”是文革时期的主旋律，以各种借口挑起民众斗民众，并且还是政府组织一支队伍斗争民众。
+这个文件如果是真实的，很值得关注。文革时期的各种做法改头换面的死灰复燃了。“斗争”是文革时期的主旋律，以各种借口挑起民众斗民众，并且还是政府组织一支队伍斗争民众。<br><br>餘錢 100: @realcaixia 【組建法理鬥爭民兵排】什麼玩意東西？難道是中共見識到了上海的懂法群眾，專門組建起來用來對付敢言的法學教授或學者？打不贏就用糾纏？這不就是文革式流氓嗎？司法局難道要文革复闢打倒法學教材嗎？上海人的主張是完全有法理的，法理鬥爭民兵排拿什麼來鬥爭？用假法理鬥爭真法理？真的是貽笑大方！<br><br><img style="" src="https://pbs.twimg.com/media/FSUYNMQXsAAw_WQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 39: [2022-05-10 02:09:28+08:00 推文](https://twitter.com/realcaixia/status/1523726863918534658)
 
@@ -185,7 +185,7 @@ Re @UGy9oNugsWfeYes 这个文件我不知道。
 
 ### 43: [2022-05-10 22:26:29+08:00 推文](https://twitter.com/realcaixia/status/1524033138153951232)
 
-极权统治下，人权灾难既能发生在新疆西藏也能发生在国际大都市的上海。曾经以为只要安分守己远离政治就可以岁月静好的人，现在不得不面对难以想象的，发生在和平时期的居家囚禁、饥饿死亡威胁、被面目模糊亦警亦匪白卫兵暴力恫吓有家不得居、出门即遭打，霎时就被抓的恐怖煎熬。这即中国特色防疫优势。
+极权统治下，人权灾难既能发生在新疆西藏也能发生在国际大都市的上海。曾经以为只要安分守己远离政治就可以岁月静好的人，现在不得不面对难以想象的，发生在和平时期的居家囚禁、饥饿死亡威胁、被面目模糊亦警亦匪白卫兵暴力恫吓有家不得居、出门即遭打，霎时就被抓的恐怖煎熬。这即中国特色防疫优势。<br><br>荣剑: 上海自开埠以来，和平时期，从未遭遇如此人为之灾难。<br><br><img style="" src="https://pbs.twimg.com/media/FSUYQUdVUAArSMe?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 44: [2022-05-11 04:59:52+08:00 推文](https://twitter.com/realcaixia/status/1524132136407605248)
 
@@ -193,7 +193,7 @@ Re @UGy9oNugsWfeYes 这个文件我不知道。
 
 ### 45: [2022-05-11 21:21:45+08:00 推文](https://twitter.com/realcaixia/status/1524379234466250761)
 
-這位推友說得好！這是清零防疫帶來巨大人禍災難的本質！
+這位推友說得好！這是清零防疫帶來巨大人禍災難的本質！<br><br>躲猫猫3.0: 新冠目前比艾滋和癌症更让民众恐惧，恐惧的不是医学上的危害，而是政治上的恐惧和社会性的死亡，说到底，新冠现在是一种严重的政治病和人身迫害症。<br><br><video src="https://video.twimg.com/ext_tw_video/1524015266509639680/pu/vid/720x960/TdVj1QB1zDjghph1.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1524015266509639680/pu/img/ddOjckRe3OBKVC-d.jpg"></video>
 
 ### 46: [2022-05-12 00:52:51+08:00 推文](https://twitter.com/realcaixia/status/1524432357956145152)
 
@@ -229,11 +229,11 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FSrg9DDUUAEO-Jq?format=jpg
 
 ### 54: [2022-05-15 22:24:54+08:00 推文](https://twitter.com/realcaixia/status/1525844675994652672)
 
-这是大陆一位很有造诣的政治学学者的文章。特别推荐。
+这是大陆一位很有造诣的政治学学者的文章。特别推荐。<br><br>《议报》: 包刚升: 贫富冲突与现代政治<br> <a href="https://yibaochina.com/?p=246460" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246460</a>
 
 ### 55: [2022-05-15 22:25:52+08:00 推文](https://twitter.com/realcaixia/status/1525844920161820672)
 
-特别推荐。
+特别推荐。<br><br>《议报》: 柴思原：对于 “不可知论”的反驳以及何为现代人的“多元主义”<br> <a href="https://yibaochina.com/?p=246464" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246464</a>
 
 ### 56: [2022-05-15 22:38:50+08:00 推文](https://twitter.com/realcaixia/status/1525848181522587648)
 
@@ -249,5 +249,5 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FSrg9DDUUAEO-Jq?format=jpg
 
 ### 59: [2022-05-15 23:02:55+08:00 推文](https://twitter.com/realcaixia/status/1525854245110489090)
 
-英雄出狱。
+英雄出狱。<br><br>维权网: 维权网: 获刑3年的安徽合肥著名异议人士沈良庆刑满出狱<br><br><img style="" src="https://pbs.twimg.com/media/FSxcWf1akAcphhR?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSxcXTAagAAqJRm?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSxcYYtacAApsZq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://wqw2010.blogspot.com/2022/05/3.html?spref=tw" target="_blank" rel="noopener noreferrer">https://wqw2010.blogspot.com/2022/05/3.html?spref=tw</a>
 
