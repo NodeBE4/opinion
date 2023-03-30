@@ -35,3 +35,7 @@ Re The page on biology links the subject to patriotic goals and love of the CCP,
 
 Re To understand more about unique Chinese Communist Party vocabularies, visit the wonderful project Decoding China, in which CMP is pleased to be involved. https://decodingchina.eu/
 
+### 6: [2023-03-30 12:05:44+08:00 推文](https://twitter.com/cnmediaproject/status/1641290587637968897)
+
+Should we call it the Chinese Communist Party (CCP) or the Communist Party of China (CPC)? <br><br>@rhokilpatrick delves into the archives to find out when this distinction arose, why it has so recently been given prominence, and whether or not it even matters.<br><br>https://chinamediaproject.org/2023/03/30/ccp-or-cpc-a-china-watchers-rorschach/
+

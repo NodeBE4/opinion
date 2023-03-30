@@ -57,7 +57,7 @@ RT Caixin Global<br>Weekend Long Read: Chinese cuisine has been hard to judge 
 
 ### 11: [2022-01-08 14:05:27+08:00 推文](https://twitter.com/cnmediaproject/status/1479695726209036289)
 
-Just stumbled across this wonderful historical example of how CCP official discourse reverberates through all disciplines in China in ways that are often absurd and giggle-inducing. Well-needed humor as we head into a year of pre-20th Congress CCP gobbledygook.<br><img style src="https://pbs.twimg.com/media/FIjvXcjaUAE1zq0?format=jpg&name=orig" referrerpolicy="no-referrer">
+Just stumbled across this wonderful historical example of how CCP official discourse reverberates through all disciplines in China in ways that are often absurd and giggle-inducing. Well-needed humor as we head into a year of pre-20th Congress CCP gobbledygook.<br><img style="" src="https://pbs.twimg.com/media/FIjvXcjaUAE1zq0?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2022-01-09 23:39:43+08:00 推文](https://twitter.com/GeringTuvia/status/1480202634829127687)
 

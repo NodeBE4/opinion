@@ -29,19 +29,19 @@ title: 'Twitter @蔡霞: 2023-03-27~2023-04-02'
 
 ### 4: [2023-03-27 11:03:24+08:00 推文](https://twitter.com/realcaixia/status/1640187737461649408)
 
-向保卫乌克兰主权和领土完整的勇敢战士们致敬！<div class="rsshub-quote"><br><br>UKRAINIAN SQUAD🇺🇦: Keep believing in these 🇺🇦Warriors. https://t.co/alEyRpXWNR<br><br><video src="https://video.twimg.com/ext_tw_video/1639946222591963136/pu/vid/718x1280/mUWWAjzdf9QATB24.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1639946222591963136/pu/img/T4huAiJSWz7ES2qL.jpg"></video></div>
+向保卫乌克兰主权和领土完整的勇敢战士们致敬！ https://twitter.com/ukrainiansquad/status/1639946357128478721<div class="rsshub-quote"><br><br>UKRAINIAN SQUAD🇺🇦: Keep believing in these 🇺🇦Warriors. https://t.co/alEyRpXWNR<br><br><video src="https://video.twimg.com/ext_tw_video/1639946222591963136/pu/vid/718x1280/mUWWAjzdf9QATB24.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1639946222591963136/pu/img/T4huAiJSWz7ES2qL.jpg"></video></div>
 
 ### 5: [2023-03-27 20:22:46+08:00 推文](https://twitter.com/realcaixia/status/1640328505270616064)
 
-这些习党打手无法无天，肆无忌惮。中共国是恐怖国家。<div class="rsshub-quote"><br><br>Suyutong: #关注编程随想案  #罪恶档案 <br>1，这是2021年5月10日中午，上海杨浦区公安局进入阮晓寰家中暴力查抄和抓人时，阮晓寰被打破的眼镜。<br>2，公安未出示搜查证（3天后被签），查抄电脑等各种物品亦未给家属留下清单，而是把清单带走。<br>3，对阮晓寰的拘留通知是2周后才下达。<br>4，检察院、法院也是暗箱操作。… https://twitter.com/i/web/status/1640288057050923009 https://t.co/ZsFmQjHshC<br><br><img style="" src="https://pbs.twimg.com/media/FsN5NUtWYAE1utB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+这些习党打手无法无天，肆无忌惮。中共国是恐怖国家。 https://twitter.com/suyutong/status/1640288057050923009<div class="rsshub-quote"><br><br>Suyutong: #关注编程随想案  #罪恶档案 <br>1，这是2021年5月10日中午，上海杨浦区公安局进入阮晓寰家中暴力查抄和抓人时，阮晓寰被打破的眼镜。<br>2，公安未出示搜查证（3天后被签），查抄电脑等各种物品亦未给家属留下清单，而是把清单带走。<br>3，对阮晓寰的拘留通知是2周后才下达。<br>4，检察院、法院也是暗箱操作。… https://twitter.com/i/web/status/1640288057050923009 https://t.co/ZsFmQjHshC<br><br><img style="" src="https://pbs.twimg.com/media/FsN5NUtWYAE1utB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 6: [2023-03-28 05:46:47+08:00 推文](https://twitter.com/realcaixia/status/1640470444561121280)
 
-枪口抬高一寸，这是良知的召唤。感动。 https://twitter.com/xwpajq_dayu/status/1640197164809981952<div class="rsshub-quote"><br><br>新聞拍案驚奇 大宇: 希望更多人能在中共恶政体制下枪口提高一寸，人民不会忘记！ 👍<br> https://t.co/PK7y2nItNO<br><br><video src="https://video.twimg.com/ext_tw_video/1640090074154147840/pu/vid/464x360/m5RSR-Ew-go-eQvD.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1640090074154147840/pu/img/JWVWyu9SDmFtEDcv.jpg"></video></div>
+枪口抬高一寸，这是良知的召唤。感动。<div class="rsshub-quote"><br><br>新聞拍案驚奇 大宇: 希望更多人能在中共恶政体制下枪口提高一寸，人民不会忘记！ 👍<br> https://t.co/PK7y2nItNO<br><br><video src="https://video.twimg.com/ext_tw_video/1640090074154147840/pu/vid/464x360/m5RSR-Ew-go-eQvD.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1640090074154147840/pu/img/JWVWyu9SDmFtEDcv.jpg"></video></div>
 
 ### 7: [2023-03-28 06:02:39+08:00 推文](https://twitter.com/realcaixia/status/1640474438515712000)
 
-老蛮数据库说得对。2015年一位体制内顶层经济学家与我和另一谈经济时就说“情况很糟糕”，按经济规律中国当时就在经济危机门坎上了。2016年2月，任志强短微博批评央视向习肉麻表忠，被北京市委“千龙网”扣上“反党”罪名，我站出来为任志强说话，惹怒了习。中央党校要我“交代”为什么公开写文章为任说话，<div class="rsshub-quote"><br><br>老蛮数据库: 中共经济危机早在2017年就发生了，经济崩溃从2022年就开始了，只是还没到全面垮坝的时候，这一时刻很快就要来临。<br>最具破坏性的突破口在房地产，这个庞大的"堰塞湖"如果垮塌，将直接冲毁债务市场和银行系统。特别是银行系统，它相当于中共经济的"三峡大坝"，一旦溃坝，华夏大地将赤野千里<br>来自量子跃迁<br></div>
+老蛮数据库说得对。2015年一位体制内顶层经济学家与我和另一谈经济时就说“情况很糟糕”，按经济规律中国当时就在经济危机门坎上了。2016年2月，任志强短微博批评央视向习肉麻表忠，被北京市委“千龙网”扣上“反党”罪名，我站出来为任志强说话，惹怒了习。中央党校要我“交代”为什么公开写文章为任说话， https://twitter.com/laomanshujuku/status/1640357809157201921<div class="rsshub-quote"><br><br>老蛮数据库: 中共经济危机早在2017年就发生了，经济崩溃从2022年就开始了，只是还没到全面垮坝的时候，这一时刻很快就要来临。<br>最具破坏性的突破口在房地产，这个庞大的"堰塞湖"如果垮塌，将直接冲毁债务市场和银行系统。特别是银行系统，它相当于中共经济的"三峡大坝"，一旦溃坝，华夏大地将赤野千里<br>来自量子跃迁<br></div>
 
 ### 8: [2023-03-28 06:36:25+08:00 推文](https://twitter.com/realcaixia/status/1640482938616786944)
 
@@ -49,7 +49,7 @@ Re 我写的意见之一是中国经济积压了大量问题，将酿成经济�
 
 ### 9: [2023-03-28 08:42:28+08:00 推文](https://twitter.com/realcaixia/status/1640514659802308609)
 
-可见习朝最怕开放互联网，他们可以看着TikTok被赶出美国，绝不不肯放弃封网。可见他们多么害怕信息的自由流通。推倒习朝网络柏林墙，习朝离垮塌就不远了。 https://twitter.com/SoundOfHope_SOH/status/1290527901167824896<div class="rsshub-quote"><br><br>希望之聲 - 中國時局: 【美国拟禁TikTok 中国企业家出应对“绝招” 文章被秒删】就美国政府拟禁中国短影音平台 #TikTok 一事，中国企业家 #梁建章 8月2日在新浪网撰文建议，中方应该 #开放互联网 ，以此凸显美国的 #封禁 没有正当性。这项建议被网友点赞，但文章已被火速下架。<br>https://www.soundofhope.org/post/407929 https://t.co/KuIotoJ8JB<br><br><img style="" src="https://pbs.twimg.com/media/EejgSXcWkAEpm0a?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+可见习朝最怕开放互联网，他们可以看着TikTok被赶出美国，绝不不肯放弃封网。可见他们多么害怕信息的自由流通。推倒习朝网络柏林墙，习朝离垮塌就不远了。<div class="rsshub-quote"><br><br>希望之聲 - 中國時局: 【美国拟禁TikTok 中国企业家出应对“绝招” 文章被秒删】就美国政府拟禁中国短影音平台 #TikTok 一事，中国企业家 #梁建章 8月2日在新浪网撰文建议，中方应该 #开放互联网 ，以此凸显美国的 #封禁 没有正当性。这项建议被网友点赞，但文章已被火速下架。<br>https://www.soundofhope.org/post/407929 https://t.co/KuIotoJ8JB<br><br><img style="" src="https://pbs.twimg.com/media/EejgSXcWkAEpm0a?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 10: [2023-03-28 09:06:38+08:00 推文](https://twitter.com/realcaixia/status/1640520738439299073)
 
@@ -61,11 +61,11 @@ Re https://t.co/S6xQirXj9e<br><img style="" src="https://pbs.twimg.com/media/FsR
 
 ### 12: [2023-03-28 09:32:28+08:00 推文](https://twitter.com/realcaixia/status/1640527239350550530)
 
-这哪有一丝一毫公正审判的味道？！这是流氓坐大堂威胁中国平民。这类视频最好能翻译成英文广泛传到英文世界民众中，让更多的人看看中国法院里这些披着法官外衣的是些什么货色！<div class="rsshub-quote"><br><br>笔墨✾丹青: 至今对中国法庭还不了解的人，看一下这个视频，就了解了。<br><br>一个国家到底有没有未来，只需看两个地方：一是教室，二是法庭。 https://t.co/PYUGZgUDst<br><br><video src="https://video.twimg.com/ext_tw_video/1639338019777048576/pu/vid/640x368/khQ9FnTVqw28OVjC.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1639338019777048576/pu/img/J3g_7e6jhAX6uP24.jpg"></video></div>
+这哪有一丝一毫公正审判的味道？！这是流氓坐大堂威胁中国平民。这类视频最好能翻译成英文广泛传到英文世界民众中，让更多的人看看中国法院里这些披着法官外衣的是些什么货色！ https://twitter.com/danqing1953/status/1639338116988416000<div class="rsshub-quote"><br><br>笔墨✾丹青: 至今对中国法庭还不了解的人，看一下这个视频，就了解了。<br><br>一个国家到底有没有未来，只需看两个地方：一是教室，二是法庭。 https://t.co/PYUGZgUDst<br><br><video src="https://video.twimg.com/ext_tw_video/1639338019777048576/pu/vid/640x368/khQ9FnTVqw28OVjC.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1639338019777048576/pu/img/J3g_7e6jhAX6uP24.jpg"></video></div>
 
 ### 13: [2023-03-28 09:37:36+08:00 推文](https://twitter.com/realcaixia/status/1640528534119620608)
 
-那场大火烧碎了全国人的心，唯独这帮官员们无动于衷，据说这个况丽后来调动还提拔了！<div class="rsshub-quote"><br><br>人微言轻: 1994年12月8号，新疆克拉玛依大火，教育局官员 #况丽 高喊了一句“同学们别动,让领导先走！”随后躲进女厕所并把厕所门给反锁,任凭孩子们哭喊也绝不开门,直接导致孩子们全部葬身火海！大火造成325人死亡，其中包括288名小学生。<br>如果那些孩子活着，现在应该三十几岁了…纪念那些葬身火海的孩子们。🙏 https://t.co/Kjjbq05gHc<br><br><img style="" src="https://pbs.twimg.com/media/FsQwR87WIAA4Lj0?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+那场大火烧碎了全国人的心，唯独这帮官员们无动于衷，据说这个况丽后来调动还提拔了！ https://twitter.com/renweiyanqing01/status/1640489252545765379<div class="rsshub-quote"><br><br>人微言轻: 1994年12月8号，新疆克拉玛依大火，教育局官员 #况丽 高喊了一句“同学们别动,让领导先走！”随后躲进女厕所并把厕所门给反锁,任凭孩子们哭喊也绝不开门,直接导致孩子们全部葬身火海！大火造成325人死亡，其中包括288名小学生。<br>如果那些孩子活着，现在应该三十几岁了…纪念那些葬身火海的孩子们。🙏 https://t.co/Kjjbq05gHc<br><br><img style="" src="https://pbs.twimg.com/media/FsQwR87WIAA4Lj0?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 14: [2023-03-29 08:56:31+08:00 推文](https://twitter.com/realcaixia/status/1640880581906153472)
 
@@ -98,4 +98,20 @@ Re @ANONYMITY0129 😂
 ### 21: [2023-03-30 11:40:17+08:00 推文](https://twitter.com/realcaixia/status/1641284183464222722)
 
 文章介绍了阮晓寰是网络技术奇才，介绍了他的正直善良纯净，令人敬佩。<br>这样少有的创造性人才，却因言论而被定罪重判。中国司法人员剥夺他妻子为他请律师的合法权利，硬把官方指定“律师”塞给他，并多方刁难莫律师与尚律师履行律师职责。中国司法之黑恶，世所罕见。<br><br> https://ngocn2.org/article/2023-03-29-program-think-enemy-of-the-state/
+
+### 22: [2023-03-30 12:52:12+08:00 推文](https://twitter.com/realcaixia/status/1641302282670071808)
+
+Dissident Scholar: China’s Xi Like a “Gang Boss” https://youtu.be/EkZ6-YGbwYw 来自 @YouTube<br>偶然看到20年8月底的访谈视频有了英文字幕，非常感谢自由亚洲电台的努力。2年多前的访谈今天再看感触良多：20大开过后，“党已不党”，中央常委清一色习帮伙；两会过后，“国已不国”，国务院只是习的小跟班。 https://t.co/V42gaFJ2Jw<br><img style="" src="https://pbs.twimg.com/media/FscTuZdWYAEKp2H?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 23: [2023-03-30 12:58:29+08:00 推文](https://twitter.com/realcaixia/status/1641303864279277569)
+
+Re https://t.co/W3zky3KVon<br><img style="" src="https://pbs.twimg.com/media/FscVKjxWAAE7FF8?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 24: [2023-03-30 13:18:13+08:00 推文](https://twitter.com/realcaixia/status/1641308828930064384)
+
+RFA独家  蔡霞（下）: 中国体制不变 美中对抗只会加剧|观点 https://youtu.be/omfSJuYOprI 来自 @YouTube https://t.co/9rItVRgIYm<br><img style="" src="https://pbs.twimg.com/media/FscZrRdXoAIPe4R?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FscZrRbXgAAwq9V?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FscZrRaWwAAaxah?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FscZrRbWYAAhG4t?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 25: [2023-03-30 13:19:58+08:00 推文](https://twitter.com/realcaixia/status/1641309269130657792)
+
+Re https://t.co/oU3nzzff4R<br><img style="" src="https://pbs.twimg.com/media/FscaFJ_WIAUY77V?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
