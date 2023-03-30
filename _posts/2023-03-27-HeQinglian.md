@@ -69,7 +69,7 @@ Re @zhixiangziyou 不是笑话，是处心积虑的“体制内新长征”。
 
 ### 14: [2023-03-27 21:07:27+08:00 推文](https://twitter.com/HeQinglian/status/1640339753353584640)
 
-无知者无畏，这个 @xxgreatwall 开口就是“你懂不懂”。<br>普及一点常识：任何一国货币国际化两个指标：一是国际贸易结算时使用率高低；二是储备货币。<br>作为储备货币，在IMF让人民币入篮时已给过指标，一直没能使用足够；前者是作为结算货币<br>这位 @xxgreatwall 当然也不懂BRICKS之内结算系统如今是何状态<div class="rsshub-quote"><br><br>BONY M: @HeQinglian 扯淡，你懂不懂，如果只是把美元换算成人民币买石油，同时俄罗斯收的的人民币只能买中国商品，买不了其他国家的商品，那么实际上就是以物易物，哪有什么人民币国际化。<br></div>
+无知者无畏，这个 @xxgreatwall 开口就是“你懂不懂”。<br>普及一点常识：任何一国货币国际化两个指标：一是国际贸易结算时使用率高低；二是储备货币。<br>作为储备货币，在IMF让人民币入篮时已给过指标，一直没能使用足够；前者是作为结算货币<br>这位 @xxgreatwall 当然也不懂BRICKS之内结算系统如今是何状态 https://twitter.com/xxgreatwall/status/1640175068763549697<div class="rsshub-quote"><br><br>BONY M: @HeQinglian 扯淡，你懂不懂，如果只是把美元换算成人民币买石油，同时俄罗斯收的的人民币只能买中国商品，买不了其他国家的商品，那么实际上就是以物易物，哪有什么人民币国际化。<br></div>
 
 ### 15: [2023-03-27 21:09:53+08:00 推文](https://twitter.com/HeQinglian/status/1640340363700318210)
 
@@ -121,7 +121,7 @@ Re @mingshi_chen 货币互换，早在人民币入篮之前就开始了，香港
 
 ### 27: [2023-03-27 22:26:24+08:00 推文](https://twitter.com/HeQinglian/status/1640359621209604097)
 
-Re 必须补充的一句是：<br>美国文革、美国共产主义2.0版，让我们这代人在晚年，陷入精神支撑崩塌，奋斗价值冰消之境。<br>如我这种少数派（5%），愿意认清事实重新出发。多数人抱着灯塔不放，哪怕事实上熄灭，也将想象当现实。<br>十年后，如果还有思考能力，灯塔派将比我等少数人更痛苦，依靠否定少数派是其指望
+RT He Qinglian<br>Re 必须补充的一句是：<br>美国文革、美国共产主义2.0版，让我们这代人在晚年，陷入精神支撑崩塌，奋斗价值冰消之境。<br>如我这种少数派（5%），愿意认清事实重新出发。多数人抱着灯塔不放，哪怕事实上熄灭，也将想象当现实。<br>十年后，如果还有思考能力，灯塔派将比我等少数人更痛苦，依靠否定少数派是其指望
 
 ### 28: [2023-03-27 22:33:02+08:00 推文](https://twitter.com/HeQinglian/status/1640361291138179078)
 
@@ -353,7 +353,7 @@ Re @princeton_walk @JianglinLi 我每天要收不少，还有拜登民主党的�
 
 ### 85: [2023-03-30 09:01:53+08:00 推文](https://twitter.com/HeQinglian/status/1641244322216509440)
 
-我其实就想知道：他们什么时候承认这个病毒是有意合作研究（这已经很清楚了）、有意放出魔瓶？<br>他们要解释一点：施瓦布为什么兴高采烈地宣告这是大重置的时机，简方达为何说是上帝赐给左派的礼物？<br>左派天天骂天骂地，为何不骂这两人是魔鬼之舌？<div class="rsshub-quote"><br><br>Ezio Mao☢: “失去的十年”来临<br><br>世界银行本周发布了一份非常有趣的预测。简而言之，丰衣足食的时代已经结束，“失去的十年”即将到来。世界经济平均增速为2.2%，为近30年来最低。<br><br>在原因中，经济学家指出了流行病、通货膨胀和人口结构。有了大流行，一切都清楚了....<br><br>https://www.worldbank.org/en/news/press-release/2023/03/27/global-economy-s-speed-limit-set-to-fall-to-three-decade-low<br></div>
+我其实就想知道：他们什么时候承认这个病毒是有意合作研究（这已经很清楚了）、有意放出魔瓶？<br>他们要解释一点：施瓦布为什么兴高采烈地宣告这是大重置的时机，简方达为何说是上帝赐给左派的礼物？<br>左派天天骂天骂地，为何不骂这两人是魔鬼之舌？ https://twitter.com/KELMAND1/status/1641242137756061696<div class="rsshub-quote"><br><br>Ezio Mao☢: “失去的十年”来临<br><br>世界银行本周发布了一份非常有趣的预测。简而言之，丰衣足食的时代已经结束，“失去的十年”即将到来。世界经济平均增速为2.2%，为近30年来最低。<br><br>在原因中，经济学家指出了流行病、通货膨胀和人口结构。有了大流行，一切都清楚了....<br><br>https://www.worldbank.org/en/news/press-release/2023/03/27/global-economy-s-speed-limit-set-to-fall-to-three-decade-low<br></div>
 
 ### 86: [2023-03-30 09:02:52+08:00 推文](https://twitter.com/HeQinglian/status/1641244565846781952)
 
@@ -389,7 +389,7 @@ Re @harry_shosta 这位可怜的 美国中学生，她不知道自己未出生�
 
 ### 94: [2023-03-30 10:33:52+08:00 推文](https://twitter.com/HeQinglian/status/1641267468113960961)
 
-这种恶例一开，中国辱骂领导人习近平的人更加遭殃，官方会振振有词地宣称：辱骂领导人的人判刑，在民主国家也同样如此。<br>西方人陷入这种恶政，还有什么好骄傲的？<div class="rsshub-quote"><br><br>Qing: 法国一名妇女因在社交网络上侮辱马克龙而被捕。她称这位法国总统为“垃圾”，现在她将面临一年的牢狱之灾。 https://t.co/bJhlM7jekH<br><br><img style="" src="https://pbs.twimg.com/media/FsZupzRakAAayne?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+这种恶例一开，中国辱骂领导人习近平的人更加遭殃，官方会振振有词地宣称：辱骂领导人的人判刑，在民主国家也同样如此。<br>西方人陷入这种恶政，还有什么好骄傲的？ https://twitter.com/Qing2022022/status/1641120784029564934<div class="rsshub-quote"><br><br>Qing: 法国一名妇女因在社交网络上侮辱马克龙而被捕。她称这位法国总统为“垃圾”，现在她将面临一年的牢狱之灾。 https://t.co/bJhlM7jekH<br><br><img style="" src="https://pbs.twimg.com/media/FsZupzRakAAayne?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 95: [2023-03-30 10:37:31+08:00 推文](https://twitter.com/HeQinglian/status/1641268385919934464)
 
