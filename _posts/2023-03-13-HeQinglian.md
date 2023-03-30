@@ -29,7 +29,7 @@ Re @_HicRhodus 所有人佩服奥巴马以前的美国宪政文明，是佩服�
 
 ### 4: [2023-03-13 03:38:35+08:00 推文](https://twitter.com/HeQinglian/status/1635002366494908418)
 
-留言中有位“老枪”，非得将挺川与挺拜当作挺个人，这种见识太差劲了。<br>其实就我而言，是支持川普的政治主张与相关政策，以及这种主张与政策对传统生活方式的守护。挺拜的人也同样如此，是支持拜登政治主张与政策对美国传统生活方式的颠覆。<br>我相信多数挺川的都如此。 https://twitter.com/HeQinglian/status/1634910100367511558<div class="rsshub-quote"><br><br>He Qinglian: 今天看到华拜粉在某处留言，说学问大挺川，说明学问让人糊涂。<br>在媒体一片声黑化川普及其政策时，挺川不仅需要起码的知识与常识，还需要思考。不比挺拜与民主党，只需要认同移民无国界与福利，学几句人道口号，会举拳头就行了。<br></div>
+留言中有位“老枪”，非得将挺川与挺拜当作挺个人，这种见识太差劲了。<br>其实就我而言，是支持川普的政治主张与相关政策，以及这种主张与政策对传统生活方式的守护。挺拜的人也同样如此，是支持拜登政治主张与政策对美国传统生活方式的颠覆。<br>我相信多数挺川的都如此。<div class="rsshub-quote"><br><br>He Qinglian: 今天看到华拜粉在某处留言，说学问大挺川，说明学问让人糊涂。<br>在媒体一片声黑化川普及其政策时，挺川不仅需要起码的知识与常识，还需要思考。不比挺拜与民主党，只需要认同移民无国界与福利，学几句人道口号，会举拳头就行了。<br></div>
 
 ### 5: [2023-03-13 03:44:13+08:00 推文](https://twitter.com/HeQinglian/status/1635003784526196739)
 
@@ -321,7 +321,7 @@ Re @ivan4131 @qihang19211 看来我的学术经历你一无所知。比你好一
 
 ### 77: [2023-03-14 04:28:03+08:00 推文](https://twitter.com/HeQinglian/status/1635377202526314503)
 
-RT He Qinglian<br>Re @qihang19211 还有一赢，我干脆说了，拜粉躺地上打滚吧。<br>中国从没象现在这样对待任何一位白宫主人，就连被美媒污名化到无以复加的川普，北京也还算讲外交礼仪。<br>从拜登上台开始至今，各种外交场合，基本都是中方趾高气扬，美方则是舆论上批倒中方，会见时摆出一副“求求你，跪下吧”，每求一次，中方的头向上扬一分。
+Re @qihang19211 还有一赢，我干脆说了，拜粉躺地上打滚吧。<br>中国从没象现在这样对待任何一位白宫主人，就连被美媒污名化到无以复加的川普，北京也还算讲外交礼仪。<br>从拜登上台开始至今，各种外交场合，基本都是中方趾高气扬，美方则是舆论上批倒中方，会见时摆出一副“求求你，跪下吧”，每求一次，中方的头向上扬一分。
 
 ### 78: [2023-03-14 04:52:32+08:00 推文](https://twitter.com/HeQinglian/status/1635383362935476224)
 
@@ -813,7 +813,7 @@ Re @shenliangqing2 他当年在挺郭兴奋期也曾发表一段攻击我的视�
 
 ### 200: [2023-03-17 02:06:04+08:00 推文](https://twitter.com/zhixiangziyou/status/1636428635354611744)
 
-RT L JM🇺🇸<br>爆炸性报告：银行记录显示罗伯·沃克是拜登家族的同伙，他利用他的公司从一家中国能源公司向哈莉·拜登、詹姆斯·拜登、亨特·拜登和另一个“不知名的拜登”转账。 https://twitter.com/chuckcallesto/status/1636424667689889793<div class="rsshub-quote"><br><br>Chuck Callesto: BREAKING REPORT: Bank records emerge identifying Rob Walker, A BIDEN FAMILY ASSOCIATE used his company to transfer money FROM A CHINESE ENERGY COMPANY to Hallie Biden, James Biden, Hunter Biden, and another “unknown Biden.”<br></div>
+RT L JM🇺🇸<br>爆炸性报告：银行记录显示罗伯·沃克是拜登家族的同伙，他利用他的公司从一家中国能源公司向哈莉·拜登、詹姆斯·拜登、亨特·拜登和另一个“不知名的拜登”转账。<div class="rsshub-quote"><br><br>Chuck Callesto: BREAKING REPORT: Bank records emerge identifying Rob Walker, A BIDEN FAMILY ASSOCIATE used his company to transfer money FROM A CHINESE ENERGY COMPANY to Hallie Biden, James Biden, Hunter Biden, and another “unknown Biden.”<br></div>
 
 ### 201: [2023-03-17 02:06:17+08:00 推文](https://twitter.com/HeQinglian/status/1636428690824339457)
 
@@ -881,7 +881,7 @@ Re @aptx48693734 瑞信已经折腾了十多年，从全球一家最优金融机
 
 ### 217: [2023-03-17 21:08:48+08:00 推文](https://twitter.com/HeQinglian/status/1636716214054449152)
 
-你说的是真实情况。<br>我这几天查资料，发现欧洲早就这样玩，但全民觉得正常。美国还没烂透，这次硅谷的Woke化经营被挖出来当事情说，至少纽约邮报、Fox等愿意说，CNN、纽时、华邮则挑美联储加息来说，非说成是普遍性的。<br>Got Woke，Go Broke，不烂到底，那一半喜欢Woke的美国左派国民不会醒的。 https://twitter.com/hustzhuch/status/1636579388069126144<div class="rsshub-quote"><br><br>hustzhuch: @HeQinglian 欧美很多公司都搞这个鬼，他妈的还不能说。迟早完蛋<br></div>
+你说的是真实情况。<br>我这几天查资料，发现欧洲早就这样玩，但全民觉得正常。美国还没烂透，这次硅谷的Woke化经营被挖出来当事情说，至少纽约邮报、Fox等愿意说，CNN、纽时、华邮则挑美联储加息来说，非说成是普遍性的。<br>Got Woke，Go Broke，不烂到底，那一半喜欢Woke的美国左派国民不会醒的。<div class="rsshub-quote"><br><br>hustzhuch: @HeQinglian 欧美很多公司都搞这个鬼，他妈的还不能说。迟早完蛋<br></div>
 
 ### 218: [2023-03-17 21:19:05+08:00 推文](https://twitter.com/HeQinglian/status/1636718800954376192)
 
@@ -913,7 +913,7 @@ Re @zhixiangziyou 纽约民主党选民应该承受这结果——你们受连�
 
 ### 225: [2023-03-17 21:40:15+08:00 推文](https://twitter.com/HeQinglian/status/1636724128399994883)
 
-1、同意第一句。<br>2、民运不用他撕裂，他也没破坏美国民主（至少他没操纵选举），他的存在只是将所有的恶给引出来了，让所有参与表演者尽情展示。<br>3、整个戏剧是闹剧与拙劣马戏，没有半点悲剧的庄严感。 https://twitter.com/ZJ20672066/status/1636557486508462080<div class="rsshub-quote"><br><br>张杰: 郭文贵是中国权贵资本所长出的恶之花。他最大罪恶是撕裂民运和破坏美国民主。他本可以利用他的资金与民运联合对抗中共，但他一直在与中共勾兑，并对众多民运人士进行迫害。郭的爆料基本都是虚假的。郭在美国竞选中制造谣言。郭的官商勾结、不折手段和欺诈的中国商人特征，最终使他成为一个悲剧性人物。<br></div>
+1、同意第一句。<br>2、民运不用他撕裂，他也没破坏美国民主（至少他没操纵选举），他的存在只是将所有的恶给引出来了，让所有参与表演者尽情展示。<br>3、整个戏剧是闹剧与拙劣马戏，没有半点悲剧的庄严感。<div class="rsshub-quote"><br><br>张杰: 郭文贵是中国权贵资本所长出的恶之花。他最大罪恶是撕裂民运和破坏美国民主。他本可以利用他的资金与民运联合对抗中共，但他一直在与中共勾兑，并对众多民运人士进行迫害。郭的爆料基本都是虚假的。郭在美国竞选中制造谣言。郭的官商勾结、不折手段和欺诈的中国商人特征，最终使他成为一个悲剧性人物。<br></div>
 
 ### 226: [2023-03-17 21:47:55+08:00 推文](https://twitter.com/HeQinglian/status/1636726057511297024)
 
@@ -1065,7 +1065,7 @@ Re @Isabel_3299 这有什么好说的？当年茶党被整得奄奄一息，就�
 
 ### 263: [2023-03-19 05:27:29+08:00 推文](https://twitter.com/HeQinglian/status/1637204096380817408)
 
-以规模性指标为例，中国最好的金融机构资产规模只相当于美国60%左右——与两国按可比价格计算的GDP差距相同，而最弱的金融衍生品规模不到美国的1%。这就决定了两国金融体系结构完全不同，中国一直以银行为主导（因为无法大规模发债），而美国则以资本市场为主导，国债规模接近32万亿美元。<br>此为霸权所在<div class="rsshub-quote"><br><br>明实：没法眼佛眼但有真眼: @HeQinglian @lianghuiwang2 去吧，我继续臆想。<br>近几周有美债3000亿已经被抵押到FED换美元现金了……<br>比烂的时代，不用着急，败灯们会折腾的。<br></div>
+以规模性指标为例，中国最好的金融机构资产规模只相当于美国60%左右——与两国按可比价格计算的GDP差距相同，而最弱的金融衍生品规模不到美国的1%。这就决定了两国金融体系结构完全不同，中国一直以银行为主导（因为无法大规模发债），而美国则以资本市场为主导，国债规模接近32万亿美元。<br>此为霸权所在 https://twitter.com/mingshi_chen/status/1637201503306895363<div class="rsshub-quote"><br><br>明实：没法眼佛眼但有真眼: @HeQinglian @lianghuiwang2 去吧，我继续臆想。<br>近几周有美债3000亿已经被抵押到FED换美元现金了……<br>比烂的时代，不用着急，败灯们会折腾的。<br></div>
 
 ### 264: [2023-03-19 05:30:52+08:00 推文](https://twitter.com/HeQinglian/status/1637204948780810242)
 
