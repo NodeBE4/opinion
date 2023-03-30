@@ -33,7 +33,7 @@ Re 2. Hong Kong March is a cultural festival that lasts for a month, and partner
 
 Re 3. We encourage Hongkongers living in the UK to bring their neighbors to enjoy our culture. We collaborate with tens of stores to offer a discount when their friends accompany them. Making local friends and understanding the community make us strong. https://t.co/vBBH5VXYSI<br><img style="" src="https://pbs.twimg.com/media/FqFse3BXoAU1e6l?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FqFsfbcX0AAJncr?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FqFsgDwWIAcroFT?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 5: [2023-03-01 07:04:17+08:00 推文](https://twitter.com/nathanlawkc/status/1630705479230914560)
+### 5: [2023-03-01 07:04:17+08:00 推文](https://twitter.com/nathanlawkc/status/1630705476189974528)
 
-Re 5. If you are looking for a place to go on Saturday, come to Ealing -- our opening ceremony in a wonderful gallery awaits you.<br><br>Date: 4 March 2023<br>Time: 10am - 4pm<br>Location: Pitzhanger Manor &amp; Gallery , Ealing Green, London W5 5EQ<br>Directions： http://www.pitzhanger.org.uk/visit/plan-your-visit/<br><br>/END https://t.co/H1K2A8S0Kh<br><img style="" src="https://pbs.twimg.com/media/FqFteUzWYAIuNNa?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re 4. Please visit http://hkmarch.uk for all the information about our partners, events and shop discounts.<br>I also highly recommend @HKFF_UK  (http://hkff.uk), which we are showing 26+ amazing films this year.<br>Supporting our culture helps us promote what we believe. https://t.co/vgfGiz0gzG<br><img style="" src="https://pbs.twimg.com/media/FqFtroKWYAAJROu?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
