@@ -105,7 +105,7 @@ Re @ErR7YLP9yZf4Yem 中共9000多万内是有分化的，并非铁板一块。�
 
 ### 23: [2023-01-19 04:42:22+08:00 推文](https://twitter.com/realcaixia/status/1615811861299204096)
 
-感动。<div class="rsshub-quote"><br><br>韩连潮: 一位癌症患者为做化疗不得不去剃掉长发，而她的理发师做了一件出人意料的事：<br> <a href="https://twitter.com/Brink_Thinker/status/1614983092980121600" target="_blank" rel="noopener noreferrer">https://twitter.com/Brink_Thinker/status/1614983092980121600</a></div>
+感动。<div class="rsshub-quote"><br><br>韩连潮: 一位癌症患者为做化疗不得不去剃掉长发，而她的理发师做了一件出人意料的事：<br></div>
 
 ### 24: [2023-01-19 05:14:11+08:00 推文](https://twitter.com/realcaixia/status/1615819868238131200)
 
