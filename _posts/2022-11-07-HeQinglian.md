@@ -117,7 +117,7 @@ Re @seeyoua22819375 @xxj2040 高玉宝、雷锋至少是正常人、普通人。
 
 ### 26: [2022-11-08 05:20:39+08:00 推文](https://twitter.com/HeQinglian/status/1589729566943498240)
 
-“习近平思想”将中国导向何方？<br><br>人民经济、人类命运共同体、绿色经济是“道”，用来争当“世界领袖”的理论工具，这点习继承了毛的衣钵<br>加强党对经济工作的领导、坚持公有制为主体、供给侧改革谓之“术”，这是习对邓小平理论的继承，“术”可以随时调整，可以“摸着石头过河”，允许试错<br><br>自由亚洲电台: 评论 | #何清涟 @HeQinglian：“#习近平思想”将中国导向何方？<br> <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter</a>
+RT He Qinglian<br>“习近平思想”将中国导向何方？<br><br>人民经济、人类命运共同体、绿色经济是“道”，用来争当“世界领袖”的理论工具，这点习继承了毛的衣钵<br>加强党对经济工作的领导、坚持公有制为主体、供给侧改革谓之“术”，这是习对邓小平理论的继承，“术”可以随时调整，可以“摸着石头过河”，允许试错<br><br>自由亚洲电台: 评论 | #何清涟 @HeQinglian：“#习近平思想”将中国导向何方？<br> <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-11072022132732.html#.Y2lW91lNxYY.twitter</a>
 
 ### 27: [2022-11-08 05:37:04+08:00 推文](https://twitter.com/HeQinglian/status/1589733697666056192)
 
@@ -669,7 +669,7 @@ Re @heimijiu 宾州共和党躺平，可能有你讲的原因。<br>我们客观
 
 ### 164: [2022-11-13 06:30:57+08:00 推文](https://twitter.com/HeQinglian/status/1591559200408207360)
 
-川普与桑德斯的极左都是在两党内借窝生蛋，但影响完全不同。<br>极左方阵在党内进退都是有组织的帮派，最后让拜登、波洛西这些所谓传统民主党人完全按照其意愿做事，极左当道。<br>川普从上任到现在，在党内始终是孤军奋战状态。他任命的人就算与他合作得不错，也被民主党收拾。MAGA与共和党始终是两张皮。<br><br>He Qinglian: 我多次说过，川普本人的长处是Rally，他也特别享受这种Rally，但缺乏基层的组织能力，无法深耕社区，将Rally的支持化为投票中制约民主党舞弊的组织性抗衡力量。<br>这本来是RNC应该做的工作，显然RNC工作没到位。<br> <a href="https://twitter.com/zhixiangziyou/status/1591285807129640960" target="_blank" rel="noopener noreferrer">https://twitter.com/zhixiangziyou/status/1591285807129640960</a>
+川普与桑德斯的极左都是在两党内借窝生蛋，但影响完全不同。<br>极左方阵在党内进退都是有组织的帮派，最后让拜登、波洛西这些所谓传统民主党人完全按照其意愿做事，极左当道。<br>川普从上任到现在，在党内始终是孤军奋战状态。他任命的人就算与他合作得不错，也被民主党收拾。MAGA与共和党始终是两张皮。<br><br>He Qinglian: 我多次说过，川普本人的长处是Rally，他也特别享受这种Rally，但缺乏基层的组织能力，无法深耕社区，将Rally的支持化为投票中制约民主党舞弊的组织性抗衡力量。<br>这本来是RNC应该做的工作，显然RNC工作没到位。<br>
 
 ### 165: [2022-11-13 06:38:31+08:00 推文](https://twitter.com/HeQinglian/status/1591561102520901632)
 
