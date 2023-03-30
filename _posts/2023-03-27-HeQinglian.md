@@ -109,7 +109,7 @@ Re @JianglinLi @zhixiangziyou 查了一下，确实是匈牙利犹太人，从�
 
 ### 24: [2023-03-27 21:58:20+08:00 推文](https://twitter.com/HeQinglian/status/1640352556139401217)
 
-这一代人就是这样，人生长跑行将结束。多数人为稻粱谋，此外无非三类：体制内攀升者，体制外的政治反对者（包括表面反对实则合作），商界人物（1950年代生人较少这方面成功者）。<br>退休时回望，心之所安最重要，身外之物无非多收了三五斗。大厦千丈，所眠无非七尺之榻。 https://twitter.com/AnnaWruiqin/status/1640135504942301184<div class="rsshub-quote"><br><br>王安娜 · WangRuiqin: 胡石根长老曾经与胡春华是同室校友，只是胡石根选择了与胡春华完全不同的人生道路。3月26日胡长老在刑期满三天后从牢狱回到四壁空空的家中，24年铁窗生涯极大的伤害了他的健康。壮士垂暮衰老，再看习二强制把中国拉回毛时代不禁感慨<br><br>中国的苦难何时结束<br>勇士们还要付出多大代价？ https://twitter.com/annawruiqin/status/1639972789854650371<br></div>
+这一代人就是这样，人生长跑行将结束。多数人为稻粱谋，此外无非三类：体制内攀升者，体制外的政治反对者（包括表面反对实则合作），商界人物（1950年代生人较少这方面成功者）。<br>退休时回望，心之所安最重要，身外之物无非多收了三五斗。大厦千丈，所眠无非七尺之榻。 https://twitter.com/AnnaWruiqin/status/1640135504942301184<div class="rsshub-quote"><br><br>王安娜 · WangRuiqin: 胡石根长老曾经与胡春华是同室校友，只是胡石根选择了与胡春华完全不同的人生道路。3月26日胡长老在刑期满三天后从牢狱回到四壁空空的家中，24年铁窗生涯极大的伤害了他的健康。壮士垂暮衰老，再看习二强制把中国拉回毛时代不禁感慨<br><br>中国的苦难何时结束<br>勇士们还要付出多大代价？ https://twitter.com/AnnaWruiqin/status/1639972789854650371<br></div>
 
 ### 25: [2023-03-27 22:00:18+08:00 推文](https://twitter.com/HeQinglian/status/1640353050417045505)
 
@@ -145,7 +145,7 @@ Re @Chichoyroot 记得你是郭革命时，来过，挺郭派。😇😇<br>我�
 
 ### 33: [2023-03-28 03:05:41+08:00 推文](https://twitter.com/zhixiangziyou/status/1640429904478060544)
 
-RT L JM🇺🇸<br>《华尔街日报》的民意调查显示美国价值观的急剧下降是我们不应该在乌克兰与 WW3 玩足球的另一个原因<br><br>我们的国家正在分崩离析，我们的“领导人”正专注于 5,000 英里外的边界争端。 https://twitter.com/charliekirk11/status/1640378779360202752<div class="rsshub-quote"><br><br>Charlie Kirk: The WSJ poll showing the precipitous decline in American values is yet another reason we shouldn't be in Ukraine playing footsie with WW3<br><br>Our country is falling apart and our "leaders" are focused on a border dispute 5,000 miles away. https://t.co/tmey8Jp12x<br><br><img style="" src="https://pbs.twimg.com/media/FsPLuDJakAE7zn7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT L JM🇺🇸<br>《华尔街日报》的民意调查显示美国价值观的急剧下降是我们不应该在乌克兰与 WW3 玩足球的另一个原因<br><br>我们的国家正在分崩离析，我们的“领导人”正专注于 5,000 英里外的边界争端。<div class="rsshub-quote"><br><br>Charlie Kirk: The WSJ poll showing the precipitous decline in American values is yet another reason we shouldn't be in Ukraine playing footsie with WW3<br><br>Our country is falling apart and our "leaders" are focused on a border dispute 5,000 miles away. https://t.co/tmey8Jp12x<br><br><img style="" src="https://pbs.twimg.com/media/FsPLuDJakAE7zn7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 34: [2023-03-28 06:54:33+08:00 推文](https://twitter.com/HeQinglian/status/1640487500631232514)
 
@@ -406,4 +406,20 @@ Re @Wu_Zhi @KELMAND1 不骗你说，这些正在发生的变化，很多人是�
 ### 98: [2023-03-30 10:46:59+08:00 推文](https://twitter.com/HeQinglian/status/1641270768175652865)
 
 Re @KELMAND1 不是按贸易类型分，是按照技术（工业化国家）、资源（农业国），这是殖民理论的精粹。
+
+### 99: [2023-03-30 11:00:35+08:00 推文](https://twitter.com/HeQinglian/status/1641274192690651145)
+
+Re @Wu_Zhi @KELMAND1 货币国际化的两个指标，其一就是用于国际贸易的结算货币。<br>1月份中国严重下降，有两个明显的原因，一是因为疫情，二是春节期间休假。下个月我查一下SWIFT的相关数据。
+
+### 100: [2023-03-30 11:02:40+08:00 推文](https://twitter.com/HeQinglian/status/1641274714533380103)
+
+Re @richard20211212 @chinayvan 这几个大企业，严格说来不是民企，是官僚资本——目前，很多人分不清国家资本主义与官僚资本主义的区别。
+
+### 101: [2023-03-30 11:06:14+08:00 推文](https://twitter.com/HeQinglian/status/1641275615415357442)
+
+Re @KELMAND1 末法子。有件事情我很好奇：中国公知们对俄乌战争的看法，好象凝固在去年3月的侵略论，后来揭露出来的一切，包括这场战争的文化内涵，对他们好象毫无影响？<br>很希望你能解释一下，何以至于此地步？
+
+### 102: [2023-03-30 11:16:42+08:00 推文](https://twitter.com/HeQinglian/status/1641278249534627840)
+
+Re @AnnaWruiqin 事实如此，中国制度环境下，民企没法拔着头发升天。<br>我认识很多做企业的，太知道其中内情了。
 

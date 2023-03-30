@@ -25,11 +25,11 @@ Re @a4_dao @qiaoxinxin88 我同意这位网友的意见。
 
 ### 3: [2023-03-13 03:41:17+08:00 推文](https://twitter.com/realcaixia/status/1635003044655173634)
 
-我同意这位推友的意见，希望更多的人共同合作，一起努力。 https://twitter.com/a4_dao/status/1634974285491224576<div class="rsshub-quote"><br><br>A4DAO: 说“拆墙”是当前民运中最高优先级的发力点不为过，因为1.直接关系言论自由。2.可以秒级取证。而汤伟雄又让大家看到了“联署”这一有力武器，希望民运的领袖级人物都来关注 #拆墙行动  #EndGFW，贡献智力和其它资源。<br>https://chng.it/NyPKTcdr<br></div>
+我同意这位推友的意见，希望更多的人共同合作，一起努力。<div class="rsshub-quote"><br><br>A4DAO: 说“拆墙”是当前民运中最高优先级的发力点不为过，因为1.直接关系言论自由。2.可以秒级取证。而汤伟雄又让大家看到了“联署”这一有力武器，希望民运的领袖级人物都来关注 #拆墙行动  #EndGFW，贡献智力和其它资源。<br>https://chng.it/NyPKTcdr<br></div>
 
 ### 4: [2023-03-13 07:16:05+08:00 推文](https://twitter.com/realcaixia/status/1635057100387938307)
 
-我也很喜欢不明白博客，每期节目都很有价值。<div class="rsshub-quote"><br><br>Grey: 这个节目是很好的内容，值得仔细得听。想先听我讲的部分的朋友们可以先从1:00 （一个小时）开始听。<br></div>
+我也很喜欢不明白博客，每期节目都很有价值。 https://twitter.com/geleilaoshi/status/1634853753672331264<div class="rsshub-quote"><br><br>Grey: 这个节目是很好的内容，值得仔细得听。想先听我讲的部分的朋友们可以先从1:00 （一个小时）开始听。 https://twitter.com/bumingbaipod/status/1634822015063412736<br></div>
 
 ### 5: [2023-03-13 08:13:49+08:00 推文](https://twitter.com/realcaixia/status/1635071629456982017)
 
@@ -85,7 +85,7 @@ Re @TDTCCP @keke201707 並且黨國特色！
 
 ### 18: [2023-03-14 10:44:26+08:00 推文](https://twitter.com/realcaixia/status/1635471921788911617)
 
-民间高手在！ https://twitter.com/xingzhe2021/status/1634361062974693377<div class="rsshub-quote"><br><br>墻國荒誕字（墙国荒诞字）: 《憤怒的皇帝》系列搞笑劇:<br>第22集: 《不吉利的登基日》 https://t.co/otZYDB03y9<br><br><video src="https://video.twimg.com/ext_tw_video/1634360906707501056/pu/vid/1280x720/RkvkF3_rAelooV7T.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1634360906707501056/pu/img/9YxWuxJl7UZ7eP-F.jpg"></video></div>
+民间高手在！<div class="rsshub-quote"><br><br>墻國荒誕字（墙国荒诞字）: 《憤怒的皇帝》系列搞笑劇:<br>第22集: 《不吉利的登基日》 https://t.co/otZYDB03y9<br><br><video src="https://video.twimg.com/ext_tw_video/1634360906707501056/pu/vid/1280x720/RkvkF3_rAelooV7T.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1634360906707501056/pu/img/9YxWuxJl7UZ7eP-F.jpg"></video></div>
 
 ### 19: [2023-03-15 00:50:11+08:00 推文](https://twitter.com/realcaixia/status/1635684760680034304)
 
@@ -117,7 +117,7 @@ Re @zechengyu1 @Perfectionalism @HongLong2022 李书磊的简历这份大致是�
 
 ### 26: [2023-03-18 03:18:16+08:00 推文](https://twitter.com/realcaixia/status/1636809191707770880)
 
-大好事！这个战争罪犯必须得到法律制裁。<div class="rsshub-quote"><br><br>美国之音中文网: 国际刑事法院对俄罗斯总统普京发出逮捕令，习近平下周与普京会谈 http://dlvr.it/Sl3Yl9<br></div>
+大好事！这个战争罪犯必须得到法律制裁。 https://twitter.com/voachinese/status/1636780200175480833<div class="rsshub-quote"><br><br>美国之音中文网: 国际刑事法院对俄罗斯总统普京发出逮捕令，习近平下周与普京会谈 http://dlvr.it/Sl3Yl9<br></div>
 
 ### 27: [2023-03-18 03:23:42+08:00 推文](https://twitter.com/realcaixia/status/1636810560879706112)
 
@@ -129,7 +129,7 @@ Re @ChrisLaw125 @Lewis57675410 @HongLong2022 李书磊出生于91年-93年曾任
 
 ### 29: [2023-03-18 10:08:21+08:00 推文](https://twitter.com/realcaixia/status/1636912392184508417)
 
-中共警察的野蛮残暴，在他们眼里中国民众如同动物。<div class="rsshub-quote"><br><br>为自由而战-天山剑客: 中国警察用渔网捕人<br>就因为这女子用手机拍了他们做的恶<br><br> https://t.co/g9eTUrTGuP<br><br><video src="https://video.twimg.com/ext_tw_video/1636731478032920582/pu/vid/576x1018/SJooOoUDDCHeg-TX.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1636731478032920582/pu/img/nQnyaICFT50SVV-A.jpg"></video></div>
+中共警察的野蛮残暴，在他们眼里中国民众如同动物。 https://twitter.com/LonelyWarriorMa/status/1636805414263349250<div class="rsshub-quote"><br><br>为自由而战-天山剑客: 中国警察用渔网捕人<br>就因为这女子用手机拍了他们做的恶<br><br> https://t.co/g9eTUrTGuP<br><br><video src="https://video.twimg.com/ext_tw_video/1636731478032920582/pu/vid/576x1018/SJooOoUDDCHeg-TX.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1636731478032920582/pu/img/nQnyaICFT50SVV-A.jpg"></video></div>
 
 ### 30: [2023-03-18 23:30:51+08:00 推文](https://twitter.com/realcaixia/status/1637114349130223616)
 

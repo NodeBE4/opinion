@@ -23,3 +23,15 @@ A commentary in the People's Daily today criticizes the US for "politicizing" th
 
 Re Here is the People's Daily commentary, which is by "Zhong Sheng" (钟声), an official pen name used routinely for important pieces on international affairs on which the leadership wishes to register its view. http://paper.people.com.cn/rmrb/html/2023-03/30/nw.D110000renmrb_20230330_6-03.htm https://t.co/UIavUiUMN0<br><img style="" src="https://pbs.twimg.com/media/FsbsgaQaEAAIYV8?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 3: [2023-03-30 10:03:20+08:00 推文](https://twitter.com/cnmediaproject/status/1641259782970671104)
+
+Re Our CMP Dictionary entry on "ideological and political education" (思政) includes a passage from Chinese science textbooks linking genetics to "red genes," or the CCP legacy. https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/
+
+### 4: [2023-03-30 10:04:34+08:00 推文](https://twitter.com/cnmediaproject/status/1641260097312813056)
+
+Re The page on biology links the subject to patriotic goals and love of the CCP, encouraging an attitude of thankfulness and indebtedness: “Inspiring and leading students to use scientific knowledge to repay kindness to the mother country is the best means of passing on red genes.” https://t.co/vBMcqW2RkA<br><img style="" src="https://pbs.twimg.com/media/FsbtWrmakAAacQ-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2023-03-30 10:06:12+08:00 推文](https://twitter.com/cnmediaproject/status/1641260507087896576)
+
+Re To understand more about unique Chinese Communist Party vocabularies, visit the wonderful project Decoding China, in which CMP is pleased to be involved. https://decodingchina.eu/
+

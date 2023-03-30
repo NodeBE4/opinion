@@ -59,3 +59,9 @@ Yes, it is. And the whole approach of "assume the student fucked up," when OP sa
 
 OP seems to have been blindsided by expectations that were changed mid-way through the semester.  Which is understandable.
 
+----- __515.4__ -----2023-03-30 11:29:13+08:00:
+
+If tutoring is mandatory where you teach, you are in no position to weigh in on pedagogy.  That would be like asking Nikocado Avocado for dietary advice. 
+
+Your further misapprehensions do not require my response.
+

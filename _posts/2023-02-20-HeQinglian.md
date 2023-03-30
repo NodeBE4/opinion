@@ -201,7 +201,7 @@ Re @washearg 除了美国还有些家底，其余的国家，就算了吧。
 
 ### 47: [2023-02-21 23:05:51+08:00 推文](https://twitter.com/HeQinglian/status/1628048359180181507)
 
-RT He Qinglian<br>Re @Lucs24659702 很多乌鸡血们，包括那位说自己“曾经是农民、永远是农民”的“瞧瞧桥”老妹子在内，不相信乌克兰的第10次征兵令，这是原推，信不信由他们，懂乌语的请好心一点翻译给她听，让她再也不要在见识上“永远是农民”。<div class="rsshub-quote"><br><br>绫波: 乌克兰泽连斯基发起第10次征兵令，打算征召100万名士兵。<br><br>征兵令中规定，成年男性65岁以上，85岁以下必须参军。<br><br><img style="" src="https://pbs.twimg.com/media/FpYOaBgaYAAL-9z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+Re @Lucs24659702 很多乌鸡血们，包括那位说自己“曾经是农民、永远是农民”的“瞧瞧桥”老妹子在内，不相信乌克兰的第10次征兵令，这是原推，信不信由他们，懂乌语的请好心一点翻译给她听，让她再也不要在见识上“永远是农民”。<div class="rsshub-quote"><br><br>绫波: 乌克兰泽连斯基发起第10次征兵令，打算征召100万名士兵。<br><br>征兵令中规定，成年男性65岁以上，85岁以下必须参军。<br><br><img style="" src="https://pbs.twimg.com/media/FpYOaBgaYAAL-9z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 48: [2023-02-21 23:08:41+08:00 推文](https://twitter.com/HeQinglian/status/1628049071679188993)
 
@@ -569,7 +569,7 @@ Re @Lucs24659702 去年小拜登将美国释放的战略储备油卖给中石油
 
 ### 139: [2023-02-24 02:33:17+08:00 推文](https://twitter.com/HeQinglian/status/1628825340528263170)
 
-中美经济脱钩，从美国方面来说，于公于私都很难。<br>于私，是美国第一公子小拜登不时被公布的与中国的利益互动。<br>于公，据美方政府日前公布，2022年美国和中国货物贸易总额达6906亿美元，创历史新高。<br>中国贸易顺差逾6000亿，美国贸易逆差近万亿，中国的贸易顺差多数来自于美国。<br>拜粉能否读懂这些数据？ https://twitter.com/Lucs24659702/status/1628812816194080768<div class="rsshub-quote"><br><br>Lucs: Byron Donalds：亨特·拜登协助将钴矿出售给一家中国公司<br><br> “乔·拜登如此大力推动太阳能电池板、电池和电动汽车的原因之一是因为他的儿子促成了将钴矿出售给一家中国公司。” https://t.co/Wj2ek2X4AH<br><br><video src="https://video.twimg.com/ext_tw_video/1628812773571579905/pu/vid/1280x720/b8RktzccufT_6vyU.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1628812773571579905/pu/img/dwnZx9sEofrWfm7K.jpg"></video></div>
+中美经济脱钩，从美国方面来说，于公于私都很难。<br>于私，是美国第一公子小拜登不时被公布的与中国的利益互动。<br>于公，据美方政府日前公布，2022年美国和中国货物贸易总额达6906亿美元，创历史新高。<br>中国贸易顺差逾6000亿，美国贸易逆差近万亿，中国的贸易顺差多数来自于美国。<br>拜粉能否读懂这些数据？<div class="rsshub-quote"><br><br>Lucs: Byron Donalds：亨特·拜登协助将钴矿出售给一家中国公司<br><br> “乔·拜登如此大力推动太阳能电池板、电池和电动汽车的原因之一是因为他的儿子促成了将钴矿出售给一家中国公司。” https://t.co/Wj2ek2X4AH<br><br><video src="https://video.twimg.com/ext_tw_video/1628812773571579905/pu/vid/1280x720/b8RktzccufT_6vyU.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1628812773571579905/pu/img/dwnZx9sEofrWfm7K.jpg"></video></div>
 
 ### 140: [2023-02-24 03:42:23+08:00 推文](https://twitter.com/HeQinglian/status/1628842726924988417)
 
@@ -645,7 +645,7 @@ Re @Vince6610 近五年，美国已从中国第一大贸易伙伴，成为中国
 
 ### 158: [2023-02-24 06:46:38+08:00 推文](https://twitter.com/HeQinglian/status/1628889095509344256)
 
-俄乌战争以来，很多事美国没办好的原因，尤其是对俄制裁失败，主要是没弄清楚一点：<br>自2010年以来，全球化分工体系已经成为生产国、消费国与资源国，三类国家是互相依赖的互补关系。<br>美国是世界最大消费国，世界贸易顺差的主要来源；中国是生产国；俄罗斯是资源国，德国既是生产国（高端）又是消费国。 https://twitter.com/fading_you1/status/1628877470769246208<div class="rsshub-quote"><br><br>天降伟人包由检: 民主党机关报也觉得让俄罗斯内部推翻普京不那么现实，然后一直以来不知道哪根筋搭错了，总是特别希望包总来劝普京停手。这真挺有趣。我要是包总，肯定跟老美说“行啊，那总得有点好处吧……” https://t.co/Ma8VwyTLkX<br><br><img style="" src="https://pbs.twimg.com/media/FprvbLEWcAE-LQE?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLAWIAEkp__?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLAXgAI4e7z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLEXgAUvSha?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+俄乌战争以来，很多事美国没办好的原因，尤其是对俄制裁失败，主要是没弄清楚一点：<br>自2010年以来，全球化分工体系已经成为生产国、消费国与资源国，三类国家是互相依赖的互补关系。<br>美国是世界最大消费国，世界贸易顺差的主要来源；中国是生产国；俄罗斯是资源国，德国既是生产国（高端）又是消费国。<div class="rsshub-quote"><br><br>天降伟人包由检: 民主党机关报也觉得让俄罗斯内部推翻普京不那么现实，然后一直以来不知道哪根筋搭错了，总是特别希望包总来劝普京停手。这真挺有趣。我要是包总，肯定跟老美说“行啊，那总得有点好处吧……” https://t.co/Ma8VwyTLkX<br><br><img style="" src="https://pbs.twimg.com/media/FprvbLEWcAE-LQE?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLAWIAEkp__?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLAXgAI4e7z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLEXgAUvSha?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 159: [2023-02-24 07:05:36+08:00 推文](https://twitter.com/HeQinglian/status/1628893868212072448)
 
@@ -681,7 +681,7 @@ Re @eGUAbe2V7j26GHw 去年，德国去工业化，倒闭大批企业；法国、
 
 ### 167: [2023-02-24 09:11:57+08:00 推文](https://twitter.com/HeQinglian/status/1628925667579420672)
 
-【前外交部長王毅最近升任中共中央政治局局長】<br>请问推友，中国什么时候设立了这个职位——中共中央政治局局长？ https://twitter.com/QQzk_prs/status/1628568255311888384
+【前外交部長王毅最近升任中共中央政治局局長】<br>请问推友，中国什么时候设立了这个职位——中共中央政治局局长？
 
 ### 168: [2023-02-24 09:14:53+08:00 推文](https://twitter.com/HeQinglian/status/1628926404371927040)
 
@@ -1165,7 +1165,7 @@ RT Richard<br>Re @kiu49570071 @HeQinglian 时间，地点，人物都有，你
 
 ### 288: [2023-02-26 22:14:03+08:00 推文](https://twitter.com/HeQinglian/status/1629847262649040897)
 
-历史重温：<br>几乎同时段，江泽民在高层内部会议上提出：吸取六四一代过于政治化的教训，放开社会娱乐管制，将年轻一代的注意力吸引到非政治化领域，减少对政治话题的关注——此后养成的中国70、80生代，多数是“娱乐至死”、不关心政治，与六四一代精神完全不同。<br>不清楚江是否从“奶头乐理论”获得灵感。<div class="rsshub-quote"><br><br>He Qinglian: 这些来自各国的社会顶层精英，纷纷表达了对未来世界的担忧。<br>他们认为，随着高科技的进步与发展，机器将取代人力，整个社会只需要10%左右的人创造性地工作，还有30%的人从事各种社会服务业，多数会成为奶瓶阶层，这会引起社会矛盾的大爆发。<br>布热津斯基在会上提出了他的解决方案——著名的“奶头乐理论”<br></div>
+历史重温：<br>几乎同时段，江泽民在高层内部会议上提出：吸取六四一代过于政治化的教训，放开社会娱乐管制，将年轻一代的注意力吸引到非政治化领域，减少对政治话题的关注——此后养成的中国70、80生代，多数是“娱乐至死”、不关心政治，与六四一代精神完全不同。<br>不清楚江是否从“奶头乐理论”获得灵感。 https://twitter.com/HeQinglian/status/1629684014809325571<div class="rsshub-quote"><br><br>He Qinglian: 这些来自各国的社会顶层精英，纷纷表达了对未来世界的担忧。<br>他们认为，随着高科技的进步与发展，机器将取代人力，整个社会只需要10%左右的人创造性地工作，还有30%的人从事各种社会服务业，多数会成为奶瓶阶层，这会引起社会矛盾的大爆发。<br>布热津斯基在会上提出了他的解决方案——著名的“奶头乐理论”<br></div>
 
 ### 289: [2023-02-26 22:19:32+08:00 推文](https://twitter.com/HeQinglian/status/1629848642612781056)
 

@@ -377,11 +377,11 @@ Re @Wu_Zhi 最大的成就是将美国冷战结束之后，历届总统都奉行
 
 ### 91: [2023-03-11 11:01:39+08:00 推文](https://twitter.com/JianglinLi/status/1634389092266831872)
 
-RT 李江琳<br>老妖婆的“1月6日调查委员会”竟然根本没看那些录像！这不是赤裸裸的政治迫害嘛！😡😡😡 https://twitter.com/TomFitton/status/1634355413905727488<div class="rsshub-quote"><br><br>Tom Fitton: WHAT?! Top Democrat On Pelosi rump J6 Committee: We Actually Didn’t Review Any Of The Surveillance Video https://thefederalist.com/2023/03/09/top-democrat-on-j6-committee-we-actually-didnt-review-any-of-the-surveillance-video/<br></div>
+RT 李江琳<br>老妖婆的“1月6日调查委员会”竟然根本没看那些录像！这不是赤裸裸的政治迫害嘛！😡😡😡<div class="rsshub-quote"><br><br>Tom Fitton: WHAT?! Top Democrat On Pelosi rump J6 Committee: We Actually Didn’t Review Any Of The Surveillance Video https://thefederalist.com/2023/03/09/top-democrat-on-j6-committee-we-actually-didnt-review-any-of-the-surveillance-video/<br></div>
 
 ### 92: [2023-03-11 11:56:01+08:00 推文](https://twitter.com/JianglinLi/status/1634402773767782400)
 
-RT 李江琳<br>这篇向共和党支持者和保守派道歉的公开信值得一读：<div class="rsshub-quote"><br><br>No Bailouts Poso 🚫💰: NAOMI WOLF: Dear conservatives, I'm sorry I believed so many media lies<br><br>https://humanevents.com/2023/03/10/naomi-wolf-dear-conservatives-im-sorry-i-believed-so-many-media-lies?utm_campaign=64483<br></div>
+RT 李江琳<br>这篇向共和党支持者和保守派道歉的公开信值得一读： https://twitter.com/JackPosobiec/status/1634357506687356930<div class="rsshub-quote"><br><br>No Bailouts Poso 🚫💰: NAOMI WOLF: Dear conservatives, I'm sorry I believed so many media lies<br><br>https://humanevents.com/2023/03/10/naomi-wolf-dear-conservatives-im-sorry-i-believed-so-many-media-lies?utm_campaign=64483<br></div>
 
 ### 93: [2023-03-11 21:29:11+08:00 推文](https://twitter.com/HeQinglian/status/1634547014741491713)
 
@@ -393,7 +393,7 @@ Re @CoffeeBallad 刘本来就是垃圾，你原来是垃圾中的垃圾。
 
 ### 95: [2023-03-11 21:39:16+08:00 推文](https://twitter.com/HeQinglian/status/1634549551502598144)
 
-这帖有趣，需要回答：<br>挺川至少是正常人，有正常家庭，不吸毒，不乱伦，不腐败，人家夫人不会70岁的学16岁小姑娘打扮。<br>挺拜的人，且不论lgb，主要喜欢Trans（特喜欢诱导未成年人变性），鼓励全民吸大麻甚至吸毒，还特别喜欢BLM零元购，通货膨胀，将弗洛伊德当英雄。<br>这已经是正常人类与反人类的区别。<div class="rsshub-quote"><br><br>David: @HeQinglian 您伉俪夫妇是挺川黑拜专业户哈，是什么原因让你们如此无脑？<br></div>
+这帖有趣，需要回答：<br>挺川至少是正常人，有正常家庭，不吸毒，不乱伦，不腐败，人家夫人不会70岁的学16岁小姑娘打扮。<br>挺拜的人，且不论lgb，主要喜欢Trans（特喜欢诱导未成年人变性），鼓励全民吸大麻甚至吸毒，还特别喜欢BLM零元购，通货膨胀，将弗洛伊德当英雄。<br>这已经是正常人类与反人类的区别。 https://twitter.com/David02366662/status/1634478540216479747<div class="rsshub-quote"><br><br>David: @HeQinglian 您伉俪夫妇是挺川黑拜专业户哈，是什么原因让你们如此无脑？<br></div>
 
 ### 96: [2023-03-11 21:44:20+08:00 推文](https://twitter.com/HeQinglian/status/1634550826977882113)
 

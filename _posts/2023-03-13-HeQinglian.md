@@ -29,7 +29,7 @@ Re @_HicRhodus 所有人佩服奥巴马以前的美国宪政文明，是佩服�
 
 ### 4: [2023-03-13 03:38:35+08:00 推文](https://twitter.com/HeQinglian/status/1635002366494908418)
 
-留言中有位“老枪”，非得将挺川与挺拜当作挺个人，这种见识太差劲了。<br>其实就我而言，是支持川普的政治主张与相关政策，以及这种主张与政策对传统生活方式的守护。挺拜的人也同样如此，是支持拜登政治主张与政策对美国传统生活方式的颠覆。<br>我相信多数挺川的都如此。 https://twitter.com/HeQinglian/status/1634910100367511558<div class="rsshub-quote"><br><br>He Qinglian: 今天看到华拜粉在某处留言，说学问大挺川，说明学问让人糊涂。<br>在媒体一片声黑化川普及其政策时，挺川不仅需要起码的知识与常识，还需要思考。不比挺拜与民主党，只需要认同移民无国界与福利，学几句人道口号，会举拳头就行了。<br></div>
+留言中有位“老枪”，非得将挺川与挺拜当作挺个人，这种见识太差劲了。<br>其实就我而言，是支持川普的政治主张与相关政策，以及这种主张与政策对传统生活方式的守护。挺拜的人也同样如此，是支持拜登政治主张与政策对美国传统生活方式的颠覆。<br>我相信多数挺川的都如此。<div class="rsshub-quote"><br><br>He Qinglian: 今天看到华拜粉在某处留言，说学问大挺川，说明学问让人糊涂。<br>在媒体一片声黑化川普及其政策时，挺川不仅需要起码的知识与常识，还需要思考。不比挺拜与民主党，只需要认同移民无国界与福利，学几句人道口号，会举拳头就行了。<br></div>
 
 ### 5: [2023-03-13 03:44:13+08:00 推文](https://twitter.com/HeQinglian/status/1635003784526196739)
 
@@ -37,7 +37,7 @@ Re @DZhe1984 @Isabel_3299 左派一向玩名实脱离伎俩，当一个名词好
 
 ### 6: [2023-03-13 03:46:28+08:00 推文](https://twitter.com/HeQinglian/status/1635004348504887296)
 
-就我而言，是支持川普的政治主张与相关政策，以及这种主张与政策对传统生活方式的守护。挺拜的人也同样如此，是支持拜登政治主张与政策对美国传统生活方式的颠覆。<br>我相信多数挺川的都如此。<br>你的留言证明你的水平。 https://twitter.com/akakak474747/status/1634986969536270338<div class="rsshub-quote"><br><br>老枪: @HeQinglian 挺拜的都认为拜是有缺陷的，挺川的都认为川是完美的。<br></div>
+就我而言，是支持川普的政治主张与相关政策，以及这种主张与政策对传统生活方式的守护。挺拜的人也同样如此，是支持拜登政治主张与政策对美国传统生活方式的颠覆。<br>我相信多数挺川的都如此。<br>你的留言证明你的水平。<div class="rsshub-quote"><br><br>老枪: @HeQinglian 挺拜的都认为拜是有缺陷的，挺川的都认为川是完美的。<br></div>
 
 ### 7: [2023-03-13 03:50:15+08:00 推文](https://twitter.com/HeQinglian/status/1635005299668160512)
 
@@ -321,7 +321,7 @@ Re @ivan4131 @qihang19211 看来我的学术经历你一无所知。比你好一
 
 ### 77: [2023-03-14 04:28:03+08:00 推文](https://twitter.com/HeQinglian/status/1635377202526314503)
 
-RT He Qinglian<br>Re @qihang19211 还有一赢，我干脆说了，拜粉躺地上打滚吧。<br>中国从没象现在这样对待任何一位白宫主人，就连被美媒污名化到无以复加的川普，北京也还算讲外交礼仪。<br>从拜登上台开始至今，各种外交场合，基本都是中方趾高气扬，美方则是舆论上批倒中方，会见时摆出一副“求求你，跪下吧”，每求一次，中方的头向上扬一分。
+Re @qihang19211 还有一赢，我干脆说了，拜粉躺地上打滚吧。<br>中国从没象现在这样对待任何一位白宫主人，就连被美媒污名化到无以复加的川普，北京也还算讲外交礼仪。<br>从拜登上台开始至今，各种外交场合，基本都是中方趾高气扬，美方则是舆论上批倒中方，会见时摆出一副“求求你，跪下吧”，每求一次，中方的头向上扬一分。
 
 ### 78: [2023-03-14 04:52:32+08:00 推文](https://twitter.com/HeQinglian/status/1635383362935476224)
 
@@ -373,7 +373,7 @@ Re @JianglinLi @PrezXi 如果自带饭辙，那当然可以。需要赏饭可能
 
 ### 90: [2023-03-14 10:49:55+08:00 推文](https://twitter.com/shenliangqing2/status/1635473304093097985)
 
-RT 沈良庆二世<br>痴呆政府主导下的西方国家地缘政治：外交战略“既要…也要”第六病室辩证法<div class="rsshub-quote"><br><br>联合早报 Lianhe Zaobao: 英国在更新版的外交政策框架中，将中国视为对世界秩序构成“划时代的挑战”，但它也表明，倾向于与北京增进合作与理解，并指英国的安全取决于乌克兰战争的结果。 https://www.zaobao.com.sg/realtime/world/story20230314-1372356<br></div>
+RT 沈良庆二世<br>痴呆政府主导下的西方国家地缘政治：外交战略“既要…也要”第六病室辩证法 https://twitter.com/zaobaosg/status/1635437821245763588<div class="rsshub-quote"><br><br>联合早报 Lianhe Zaobao: 英国在更新版的外交政策框架中，将中国视为对世界秩序构成“划时代的挑战”，但它也表明，倾向于与北京增进合作与理解，并指英国的安全取决于乌克兰战争的结果。 https://www.zaobao.com.sg/realtime/world/story20230314-1372356<br></div>
 
 ### 91: [2023-03-14 22:01:26+08:00 推文](https://twitter.com/HeQinglian/status/1635642293825699850)
 
@@ -633,7 +633,7 @@ Re @SSK2024 他要表达的，正是主流媒体要表达的。
 
 ### 155: [2023-03-16 09:03:50+08:00 推文](https://twitter.com/zhixiangziyou/status/1636171379736182784)
 
-RT L JM🇺🇸<br>1/ THREAD 🚨 #TwitterFiles<br><br>@elonmusk将 CISA 审查网络抨击为“宣传平台”。<br><br>这个由国土安全部支持的审查联盟使用了 120 名分析师来审查数百万关于选举和 covid-19 的社交媒体帖子。 https://twitter.com/kanekoathegreat/status/1608231209875963904<div class="rsshub-quote"><br><br>kanekoa.substack.com: 1/ THREAD🚨 #TwitterFiles<br><br>@elonmusk slams CISA censorship network as 'propaganda platform.'<br><br>This DHS-backed censorship consortium used 120 analysts to censor millions of social media posts on elections and covid-19.<br><br>https://kanekoa.substack.com/p/elon-musk-slams-cisa-censorship-network<br></div>
+RT L JM🇺🇸<br>1/ THREAD 🚨 #TwitterFiles<br><br>@elonmusk将 CISA 审查网络抨击为“宣传平台”。<br><br>这个由国土安全部支持的审查联盟使用了 120 名分析师来审查数百万关于选举和 covid-19 的社交媒体帖子。<div class="rsshub-quote"><br><br>kanekoa.substack.com: 1/ THREAD🚨 #TwitterFiles<br><br>@elonmusk slams CISA censorship network as 'propaganda platform.'<br><br>This DHS-backed censorship consortium used 120 analysts to censor millions of social media posts on elections and covid-19.<br><br>https://kanekoa.substack.com/p/elon-musk-slams-cisa-censorship-network<br></div>
 
 ### 156: [2023-03-16 10:52:46+08:00 推文](https://twitter.com/shenliangqing2/status/1636198795330609152)
 
@@ -913,7 +913,7 @@ Re @zhixiangziyou 纽约民主党选民应该承受这结果——你们受连�
 
 ### 225: [2023-03-17 21:40:15+08:00 推文](https://twitter.com/HeQinglian/status/1636724128399994883)
 
-1、同意第一句。<br>2、民运不用他撕裂，他也没破坏美国民主（至少他没操纵选举），他的存在只是将所有的恶给引出来了，让所有参与表演者尽情展示。<br>3、整个戏剧是闹剧与拙劣马戏，没有半点悲剧的庄严感。 https://twitter.com/ZJ20672066/status/1636557486508462080<div class="rsshub-quote"><br><br>张杰: 郭文贵是中国权贵资本所长出的恶之花。他最大罪恶是撕裂民运和破坏美国民主。他本可以利用他的资金与民运联合对抗中共，但他一直在与中共勾兑，并对众多民运人士进行迫害。郭的爆料基本都是虚假的。郭在美国竞选中制造谣言。郭的官商勾结、不折手段和欺诈的中国商人特征，最终使他成为一个悲剧性人物。<br></div>
+1、同意第一句。<br>2、民运不用他撕裂，他也没破坏美国民主（至少他没操纵选举），他的存在只是将所有的恶给引出来了，让所有参与表演者尽情展示。<br>3、整个戏剧是闹剧与拙劣马戏，没有半点悲剧的庄严感。<div class="rsshub-quote"><br><br>张杰: 郭文贵是中国权贵资本所长出的恶之花。他最大罪恶是撕裂民运和破坏美国民主。他本可以利用他的资金与民运联合对抗中共，但他一直在与中共勾兑，并对众多民运人士进行迫害。郭的爆料基本都是虚假的。郭在美国竞选中制造谣言。郭的官商勾结、不折手段和欺诈的中国商人特征，最终使他成为一个悲剧性人物。<br></div>
 
 ### 226: [2023-03-17 21:47:55+08:00 推文](https://twitter.com/HeQinglian/status/1636726057511297024)
 

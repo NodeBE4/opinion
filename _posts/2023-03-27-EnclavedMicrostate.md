@@ -33,6 +33,12 @@ Cantonese for HK, Hokkien for Taiwan. Done and dusted.
 
 I mean Bae speaks Cantonese at home, just not on stream.
 
+----- __1162.3__ -----2023-03-30 10:54:59+08:00:
+
+> Almost all of those are in Taiwan.
+
+Maybe it's my local bias but I feel like it's a roughly 50/50 HK-TW split, at least historically. This year seems a bit quieter than last.
+
 ### 1163: [An Early Medieval Viking, a Mongol serving under Genghis Khan, and a Samurai from the Heian Period sit down and have a chat. What would they each think of each other?](https://old.reddit.com/r/AskHistorians/comments/124ifox/an_early_medieval_viking_a_mongol_serving_under/), submitted on 2023-03-28 16:52:26+08:00.
 
 ----- __1163.1__ -----2023-03-28 17:38:20+08:00:
