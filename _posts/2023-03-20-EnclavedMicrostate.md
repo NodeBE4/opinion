@@ -163,6 +163,10 @@ No. The term *changcheng* ('long walls') appears in a variety of contexts well i
 
 I don't know why you decided just to assert the exact opposite of what my linked answers say without attempting to cite any sources, because no, *that is untrue*. We can be reasonably sure the Qin walls were maintained into the Han, but after that no new walls would be built until the Sui and those that did exist seem to have fallen into disrepair; the Sui walls again don't seem to have been maintained for very long either. The Ming walls were built from scratch, and often do not follow the course of the Qin or Sui walls at all. If you can provide *any* kind of evidence that there was a northern frontier wall that was meaningfully still in existence between the 11th and 15th centuries, then you'd better do so.
 
+----- __1159.7__ -----2023-03-30 21:23:04+08:00:
+
+What I'm referring to here is the idea of the walls constantly being built in roughly the same place. What Northern Qi, Khitan Liao, and Jurchen Jin did was build walls on the edges of *their* empires, which were at considerable geographical remove from the prior walls built by Han Chinese states.
+
 ### 1160: [[Hobby Scuffles] Week of March 27, 2023](https://old.reddit.com/r/HobbyDrama/comments/122p0v8/hobby_scuffles_week_of_march_27_2023/), submitted on 2023-03-26 23:03:12+08:00.
 
 ----- __1160.1__ -----2023-03-27 07:11:08+08:00:
