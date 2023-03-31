@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2023-03-31
+date: 2023-04-01
 from: https://twitter.com/realcaixia/status/1640177008805294080
 layout: post
 tags:
@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2023-03-27~2023-04-02'
 
 ### 1: [2023-03-27 10:20:46+08:00 推文](https://twitter.com/realcaixia/status/1640177008805294080)
 
-看到这些照片，不由得想到709律师的夫人们那几年的艰难抗争。<br>现在是她们——罗胜春、施明磊、陈紫娟与丈夫站在一起，勇敢反对中共极权政权，为争得人权保障，争得自由民主而艰难抗争。他们是新一批令人尊敬令人崇敬的坚强女性！ https://twitter.com/mindyshi227/status/1639839511323574274<div class="rsshub-quote"><br><br>FreeChengYuan 释放程渊: 罗胜春@luoshch、陈紫娟 @zijuan_chen 我们仨今天在中国驻美大使馆前抗议，要求 #释放丁家喜 #释放常玮平 #释放许志永 #释放李翘楚 #释放程渊 #StopMilwaukeeToolSlaveLabor https://t.co/DcoTnvErYu<br><br><img style="" src="https://pbs.twimg.com/media/FsHhV0LWAAE5X1K?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FsHhV0JXoAYzNwk?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+看到这些照片，不由得想到709律师的夫人们那几年的艰难抗争。<br>现在是她们——罗胜春、施明磊、陈紫娟与丈夫站在一起，勇敢反对中共极权政权，为争得人权保障，争得自由民主而艰难抗争。他们是新一批令人尊敬令人崇敬的坚强女性！<div class="rsshub-quote"><br><br>FreeChengYuan 释放程渊: 罗胜春@luoshch、陈紫娟 @zijuan_chen 我们仨今天在中国驻美大使馆前抗议，要求 #释放丁家喜 #释放常玮平 #释放许志永 #释放李翘楚 #释放程渊 #StopMilwaukeeToolSlaveLabor https://t.co/DcoTnvErYu<br><br><img style="" src="https://pbs.twimg.com/media/FsHhV0LWAAE5X1K?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FsHhV0JXoAYzNwk?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 2: [2023-03-27 10:40:49+08:00 推文](https://twitter.com/realcaixia/status/1640182052703305729)
 
@@ -25,15 +25,15 @@ title: 'Twitter @蔡霞: 2023-03-27~2023-04-02'
 
 ### 3: [2023-03-27 10:50:56+08:00 推文](https://twitter.com/realcaixia/status/1640184600592007169)
 
-前外交部副部长傅莹的文章被封。 https://twitter.com/zhanglifan/status/1639991808221487104 https://t.co/qWM6WXp1PQ<br><img style="" src="https://pbs.twimg.com/media/FsMbMwkaUAEA31-?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FsMbMwpaQAEY3um?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><div class="rsshub-quote"><br><br>章立凡 Zhang Lifan: 【前外交部副部长傅莹：一旦中美闹翻，有没有国家会站在中国一边】🔗 https://mp.weixin.qq.com/s/hz4w7vzN7QSz-6PbkKsmvQ https://t.co/NVbwhlivfT<br><br><img style="" src="https://pbs.twimg.com/media/FsJr2M_WwAIR18Q?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+前外交部副部长傅莹的文章被封。 https://t.co/qWM6WXp1PQ<br><img style="" src="https://pbs.twimg.com/media/FsMbMwkaUAEA31-?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FsMbMwpaQAEY3um?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><div class="rsshub-quote"><br><br>章立凡 Zhang Lifan: 【前外交部副部长傅莹：一旦中美闹翻，有没有国家会站在中国一边】🔗 https://mp.weixin.qq.com/s/hz4w7vzN7QSz-6PbkKsmvQ https://t.co/NVbwhlivfT<br><br><img style="" src="https://pbs.twimg.com/media/FsJr2M_WwAIR18Q?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 4: [2023-03-27 11:03:24+08:00 推文](https://twitter.com/realcaixia/status/1640187737461649408)
 
-向保卫乌克兰主权和领土完整的勇敢战士们致敬！<div class="rsshub-quote"><br><br>UKRAINIAN SQUAD🇺🇦: Keep believing in these 🇺🇦Warriors. https://t.co/alEyRpXWNR<br><br><video src="https://video.twimg.com/ext_tw_video/1639946222591963136/pu/vid/718x1280/mUWWAjzdf9QATB24.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1639946222591963136/pu/img/T4huAiJSWz7ES2qL.jpg"></video></div>
+向保卫乌克兰主权和领土完整的勇敢战士们致敬！ https://twitter.com/ukrainiansquad/status/1639946357128478721<div class="rsshub-quote"><br><br>UKRAINIAN SQUAD🇺🇦: Keep believing in these 🇺🇦Warriors. https://t.co/alEyRpXWNR<br><br><video src="https://video.twimg.com/ext_tw_video/1639946222591963136/pu/vid/718x1280/mUWWAjzdf9QATB24.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1639946222591963136/pu/img/T4huAiJSWz7ES2qL.jpg"></video></div>
 
 ### 5: [2023-03-27 20:22:46+08:00 推文](https://twitter.com/realcaixia/status/1640328505270616064)
 
-这些习党打手无法无天，肆无忌惮。中共国是恐怖国家。<div class="rsshub-quote"><br><br>Suyutong: #关注编程随想案  #罪恶档案 <br>1，这是2021年5月10日中午，上海杨浦区公安局进入阮晓寰家中暴力查抄和抓人时，阮晓寰被打破的眼镜。<br>2，公安未出示搜查证（3天后被签），查抄电脑等各种物品亦未给家属留下清单，而是把清单带走。<br>3，对阮晓寰的拘留通知是2周后才下达。<br>4，检察院、法院也是暗箱操作。… https://twitter.com/i/web/status/1640288057050923009 https://t.co/ZsFmQjHshC<br><br><img style="" src="https://pbs.twimg.com/media/FsN5NUtWYAE1utB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+这些习党打手无法无天，肆无忌惮。中共国是恐怖国家。 https://twitter.com/suyutong/status/1640288057050923009<div class="rsshub-quote"><br><br>Suyutong: #关注编程随想案  #罪恶档案 <br>1，这是2021年5月10日中午，上海杨浦区公安局进入阮晓寰家中暴力查抄和抓人时，阮晓寰被打破的眼镜。<br>2，公安未出示搜查证（3天后被签），查抄电脑等各种物品亦未给家属留下清单，而是把清单带走。<br>3，对阮晓寰的拘留通知是2周后才下达。<br>4，检察院、法院也是暗箱操作。… https://twitter.com/i/web/status/1640288057050923009 https://t.co/ZsFmQjHshC<br><br><img style="" src="https://pbs.twimg.com/media/FsN5NUtWYAE1utB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 6: [2023-03-28 05:46:47+08:00 推文](https://twitter.com/realcaixia/status/1640470444561121280)
 
@@ -49,7 +49,7 @@ Re 我写的意见之一是中国经济积压了大量问题，将酿成经济�
 
 ### 9: [2023-03-28 08:42:28+08:00 推文](https://twitter.com/realcaixia/status/1640514659802308609)
 
-可见习朝最怕开放互联网，他们可以看着TikTok被赶出美国，绝不不肯放弃封网。可见他们多么害怕信息的自由流通。推倒习朝网络柏林墙，习朝离垮塌就不远了。 https://twitter.com/SoundOfHope_SOH/status/1290527901167824896<div class="rsshub-quote"><br><br>希望之聲 - 中國時局: 【美国拟禁TikTok 中国企业家出应对“绝招” 文章被秒删】就美国政府拟禁中国短影音平台 #TikTok 一事，中国企业家 #梁建章 8月2日在新浪网撰文建议，中方应该 #开放互联网 ，以此凸显美国的 #封禁 没有正当性。这项建议被网友点赞，但文章已被火速下架。<br>https://www.soundofhope.org/post/407929 https://t.co/KuIotoJ8JB<br><br><img style="" src="https://pbs.twimg.com/media/EejgSXcWkAEpm0a?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+可见习朝最怕开放互联网，他们可以看着TikTok被赶出美国，绝不不肯放弃封网。可见他们多么害怕信息的自由流通。推倒习朝网络柏林墙，习朝离垮塌就不远了。 https://twitter.com/soundofhope_soh/status/1290527901167824896<div class="rsshub-quote"><br><br>希望之聲 - 中國時局: 【美国拟禁TikTok 中国企业家出应对“绝招” 文章被秒删】就美国政府拟禁中国短影音平台 #TikTok 一事，中国企业家 #梁建章 8月2日在新浪网撰文建议，中方应该 #开放互联网 ，以此凸显美国的 #封禁 没有正当性。这项建议被网友点赞，但文章已被火速下架。<br>https://www.soundofhope.org/post/407929 https://t.co/KuIotoJ8JB<br><br><img style="" src="https://pbs.twimg.com/media/EejgSXcWkAEpm0a?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 10: [2023-03-28 09:06:38+08:00 推文](https://twitter.com/realcaixia/status/1640520738439299073)
 
@@ -61,7 +61,7 @@ Re https://t.co/S6xQirXj9e<br><img style="" src="https://pbs.twimg.com/media/FsR
 
 ### 12: [2023-03-28 09:32:28+08:00 推文](https://twitter.com/realcaixia/status/1640527239350550530)
 
-这哪有一丝一毫公正审判的味道？！这是流氓坐大堂威胁中国平民。这类视频最好能翻译成英文广泛传到英文世界民众中，让更多的人看看中国法院里这些披着法官外衣的是些什么货色！ https://twitter.com/Danqing1953/status/1639338116988416000<div class="rsshub-quote"><br><br>笔墨✾丹青: 至今对中国法庭还不了解的人，看一下这个视频，就了解了。<br><br>一个国家到底有没有未来，只需看两个地方：一是教室，二是法庭。 https://t.co/PYUGZgUDst<br><br><video src="https://video.twimg.com/ext_tw_video/1639338019777048576/pu/vid/640x368/khQ9FnTVqw28OVjC.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1639338019777048576/pu/img/J3g_7e6jhAX6uP24.jpg"></video></div>
+这哪有一丝一毫公正审判的味道？！这是流氓坐大堂威胁中国平民。这类视频最好能翻译成英文广泛传到英文世界民众中，让更多的人看看中国法院里这些披着法官外衣的是些什么货色！<div class="rsshub-quote"><br><br>笔墨✾丹青: 至今对中国法庭还不了解的人，看一下这个视频，就了解了。<br><br>一个国家到底有没有未来，只需看两个地方：一是教室，二是法庭。 https://t.co/PYUGZgUDst<br><br><video src="https://video.twimg.com/ext_tw_video/1639338019777048576/pu/vid/640x368/khQ9FnTVqw28OVjC.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1639338019777048576/pu/img/J3g_7e6jhAX6uP24.jpg"></video></div>
 
 ### 13: [2023-03-28 09:37:36+08:00 推文](https://twitter.com/realcaixia/status/1640528534119620608)
 
@@ -73,7 +73,7 @@ Re https://t.co/S6xQirXj9e<br><img style="" src="https://pbs.twimg.com/media/FsR
 
 ### 15: [2023-03-29 09:55:44+08:00 推文](https://twitter.com/realcaixia/status/1640895483357847555)
 
-韩先生提出了一个非常重要的具有战略意义的观点，我赞成！同时略作改动：如何推动形成新一轮全球民主化浪潮击败专制的大战略，在此基础上明确相应的政策思路，提出切实可行的政策建议和具体措施。 https://twitter.com/lianchaohan/status/1640791499247058944<div class="rsshub-quote"><br><br>韩连潮: 美国发起召开的第二届全球民主峰会今天已经在华盛顿开幕，明天正式开始。对这个峰会攻击得最狠是中共党国和俄罗斯，说明这个会开对了，应当制度化地开下去，但我觉得议题还应要放在如何通过推动新一轮全球民主化浪潮击败专制的大战略和具体措施上，如通过外空基互联网推动数字经济和信息自由等。 https://t.co/yh5gsfDYZf<br><br><img style="" src="https://pbs.twimg.com/media/FsVBLqAXsAAY4D7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+韩先生提出了一个非常重要的具有战略意义的观点，我赞成！同时略作改动：如何推动形成新一轮全球民主化浪潮击败专制的大战略，在此基础上明确相应的政策思路，提出切实可行的政策建议和具体措施。<div class="rsshub-quote"><br><br>韩连潮: 美国发起召开的第二届全球民主峰会今天已经在华盛顿开幕，明天正式开始。对这个峰会攻击得最狠是中共党国和俄罗斯，说明这个会开对了，应当制度化地开下去，但我觉得议题还应要放在如何通过推动新一轮全球民主化浪潮击败专制的大战略和具体措施上，如通过外空基互联网推动数字经济和信息自由等。 https://t.co/yh5gsfDYZf<br><br><img style="" src="https://pbs.twimg.com/media/FsVBLqAXsAAY4D7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 16: [2023-03-29 11:50:34+08:00 推文](https://twitter.com/realcaixia/status/1640924381382868992)
 
@@ -129,7 +129,7 @@ Dissident Scholar: COVID-19 Reveals “Gangster Nature” of China’s Communi..
 
 ### 29: [2023-03-31 10:17:58+08:00 推文](https://twitter.com/realcaixia/status/1641625853695254528)
 
-这是什么情况？ https://twitter.com/zhanglifan/status/1641585524946399233<div class="rsshub-quote"><br><br>章立凡 Zhang Lifan: 求证一下，发生了什么事？<br>这种手纸，早就没人订了，闹这么大阵仗干什么？<br><br>【网传：人民日报 3月30日报纸紧急停发停投，已停投报纸要求就地封存并销毀】 https://t.co/wRolhwVPuy<br><br><img style="" src="https://pbs.twimg.com/media/FsgVUuDaQAA9Obb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+这是什么情况？<div class="rsshub-quote"><br><br>章立凡 Zhang Lifan: 求证一下，发生了什么事？<br>这种手纸，早就没人订了，闹这么大阵仗干什么？<br><br>【网传：人民日报 3月30日报纸紧急停发停投，已停投报纸要求就地封存并销毀】 https://t.co/wRolhwVPuy<br><br><img style="" src="https://pbs.twimg.com/media/FsgVUuDaQAA9Obb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 30: [2023-03-31 10:27:57+08:00 推文](https://twitter.com/realcaixia/status/1641628365668093952)
 
@@ -154,4 +154,8 @@ Re @chenjia66669696 @caojitw 您可查维基百科，所有二战历史文件都
 ### 35: [2023-03-31 14:22:00+08:00 推文](https://twitter.com/realcaixia/status/1641687269940527105)
 
 Re @fiat_lux1 有可能，我也是凭印象，记忆有误是可能的。现在网上都不一定能查找到习去央视的视频画面了。
+
+### 36: [2023-04-01 01:45:27+08:00 推文](https://twitter.com/realcaixia/status/1641859265072869376)
+
+Re @xiaritiantang 批评的有道理。谢谢您。🌹
 

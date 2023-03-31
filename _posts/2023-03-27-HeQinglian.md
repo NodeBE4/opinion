@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2023-03-31
+date: 2023-04-01
 from: https://twitter.com/HeQinglian/status/1640027478948233224
 layout: post
 tags:
@@ -69,7 +69,7 @@ Re @zhixiangziyou 不是笑话，是处心积虑的“体制内新长征”。
 
 ### 14: [2023-03-27 21:07:27+08:00 推文](https://twitter.com/HeQinglian/status/1640339753353584640)
 
-无知者无畏，这个 @xxgreatwall 开口就是“你懂不懂”。<br>普及一点常识：任何一国货币国际化两个指标：一是国际贸易结算时使用率高低；二是储备货币。<br>作为储备货币，在IMF让人民币入篮时已给过指标，一直没能使用足够；前者是作为结算货币<br>这位 @xxgreatwall 当然也不懂BRICKS之内结算系统如今是何状态<div class="rsshub-quote"><br><br>BONY M: @HeQinglian 扯淡，你懂不懂，如果只是把美元换算成人民币买石油，同时俄罗斯收的的人民币只能买中国商品，买不了其他国家的商品，那么实际上就是以物易物，哪有什么人民币国际化。<br></div>
+无知者无畏，这个 @xxgreatwall 开口就是“你懂不懂”。<br>普及一点常识：任何一国货币国际化两个指标：一是国际贸易结算时使用率高低；二是储备货币。<br>作为储备货币，在IMF让人民币入篮时已给过指标，一直没能使用足够；前者是作为结算货币<br>这位 @xxgreatwall 当然也不懂BRICKS之内结算系统如今是何状态 https://twitter.com/xxgreatwall/status/1640175068763549697<div class="rsshub-quote"><br><br>BONY M: @HeQinglian 扯淡，你懂不懂，如果只是把美元换算成人民币买石油，同时俄罗斯收的的人民币只能买中国商品，买不了其他国家的商品，那么实际上就是以物易物，哪有什么人民币国际化。<br></div>
 
 ### 15: [2023-03-27 21:09:53+08:00 推文](https://twitter.com/HeQinglian/status/1640340363700318210)
 
@@ -121,7 +121,7 @@ Re @mingshi_chen 货币互换，早在人民币入篮之前就开始了，香港
 
 ### 27: [2023-03-27 22:26:24+08:00 推文](https://twitter.com/HeQinglian/status/1640359621209604097)
 
-Re 必须补充的一句是：<br>美国文革、美国共产主义2.0版，让我们这代人在晚年，陷入精神支撑崩塌，奋斗价值冰消之境。<br>如我这种少数派（5%），愿意认清事实重新出发。多数人抱着灯塔不放，哪怕事实上熄灭，也将想象当现实。<br>十年后，如果还有思考能力，灯塔派将比我等少数人更痛苦，依靠否定少数派是其指望
+RT He Qinglian<br>Re 必须补充的一句是：<br>美国文革、美国共产主义2.0版，让我们这代人在晚年，陷入精神支撑崩塌，奋斗价值冰消之境。<br>如我这种少数派（5%），愿意认清事实重新出发。多数人抱着灯塔不放，哪怕事实上熄灭，也将想象当现实。<br>十年后，如果还有思考能力，灯塔派将比我等少数人更痛苦，依靠否定少数派是其指望
 
 ### 28: [2023-03-27 22:33:02+08:00 推文](https://twitter.com/HeQinglian/status/1640361291138179078)
 
@@ -145,7 +145,7 @@ Re @Chichoyroot 记得你是郭革命时，来过，挺郭派。😇😇<br>我�
 
 ### 33: [2023-03-28 03:05:41+08:00 推文](https://twitter.com/zhixiangziyou/status/1640429904478060544)
 
-RT L JM🇺🇸<br>《华尔街日报》的民意调查显示美国价值观的急剧下降是我们不应该在乌克兰与 WW3 玩足球的另一个原因<br><br>我们的国家正在分崩离析，我们的“领导人”正专注于 5,000 英里外的边界争端。 https://twitter.com/charliekirk11/status/1640378779360202752<div class="rsshub-quote"><br><br>Charlie Kirk: The WSJ poll showing the precipitous decline in American values is yet another reason we shouldn't be in Ukraine playing footsie with WW3<br><br>Our country is falling apart and our "leaders" are focused on a border dispute 5,000 miles away. https://t.co/tmey8Jp12x<br><br><img style="" src="https://pbs.twimg.com/media/FsPLuDJakAE7zn7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT L JM🇺🇸<br>《华尔街日报》的民意调查显示美国价值观的急剧下降是我们不应该在乌克兰与 WW3 玩足球的另一个原因<br><br>我们的国家正在分崩离析，我们的“领导人”正专注于 5,000 英里外的边界争端。<div class="rsshub-quote"><br><br>Charlie Kirk: The WSJ poll showing the precipitous decline in American values is yet another reason we shouldn't be in Ukraine playing footsie with WW3<br><br>Our country is falling apart and our "leaders" are focused on a border dispute 5,000 miles away. https://t.co/tmey8Jp12x<br><br><img style="" src="https://pbs.twimg.com/media/FsPLuDJakAE7zn7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 34: [2023-03-28 06:54:33+08:00 推文](https://twitter.com/HeQinglian/status/1640487500631232514)
 
@@ -474,4 +474,12 @@ Re @zhixiangziyou 你打开错了。但我删除了这条推文。
 ### 115: [2023-03-31 22:46:06+08:00 推文](https://twitter.com/HeQinglian/status/1641814128393175044)
 
 Re @shenliangqing2 法律工具化，媒体政党化，为党争利益服务，这是2020年大选就已经非常明显的。<br>我将去民主化四特征放置推特头条，时刻提醒灯塔教徒。
+
+### 116: [2023-04-01 00:48:40+08:00 推文](https://twitter.com/HeQinglian/status/1641844972700696578)
+
+Re @vinceLi60688407 @shenliangqing2 不是川普在劫难逃，而是美国的宪政、法治与秩序在劫难逃。<br>我要看美国究竟能够堕落到什么地步。
+
+### 117: [2023-04-01 01:52:12+08:00 推文](https://twitter.com/HeQinglian/status/1641860963019227137)
+
+Re @chinayvan 真不知说的是哪个美国。欧洲当然更不是。
 
