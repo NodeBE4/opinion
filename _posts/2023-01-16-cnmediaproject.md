@@ -17,11 +17,11 @@ The CMP is an independent research project studying the Chinese media landscape 
 
 ### 1: [2023-01-16 17:30:52+08:00 推文](https://twitter.com/mikechinoy/status/1614918096174845953)
 
-RT Mike Chinoy<br>My new book on the history of American journalists in China, "Assignment China," is now available through the website of  Columbia University Press.  https://cup.columbia.edu/book/assignment-china/9780231207997    You'll get a 20% discount by ordering with the promo code CUP20.  Thanks to everyone for your interest!
+RT Mike Chinoy<br>My new book on the history of American journalists in China, "Assignment China," is now available through the website of  Columbia University Press. <a href="https://cup.columbia.edu/book/assignment-china/9780231207997" target="_blank" rel="noopener noreferrer">https://cup.columbia.edu/book/assignment-china/9780231207997</a>
 
 ### 2: [2023-01-17 11:26:57+08:00 推文](https://twitter.com/yunjulietzhou/status/1615188899717910528)
 
-RT Yun Zhou<br>This is a sea change (while buried at the end): China’s National Bureau of Statistics has put out an official report of population shrinkage—not just slowed growth—but actual decline.<br><img style="" src="https://pbs.twimg.com/media/FmpNko-XEAELiZF?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FmpNko9XoAUUKtF?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT Yun Zhou<br>This is a sea change (while buried at the end): China’s National Bureau of Statistics has put out an official report of population shrinkage—not just slowed growth—but actual decline. https://t.co/Q0kBZX4ASi<br><img style="" src="https://pbs.twimg.com/media/FmpNko-XEAELiZF?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FmpNko9XoAUUKtF?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2023-01-19 05:32:01+08:00 推文](https://twitter.com/EmilyZFeng/status/1615824356508147723)
 

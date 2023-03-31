@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2023-03-30
+date: 2023-03-31
 from: https://twitter.com/CWM_en/status/1640300130023919616
 layout: post
 tags:
@@ -46,4 +46,8 @@ Should we call it the Chinese Communist Party (CCP) or the Communist Party of Ch
 ### 8: [2023-03-30 18:30:00+08:00 推文](https://twitter.com/CWM_en/status/1641387292186251265)
 
 RT CommonWealth Magazine<br>A viral footage of a confrontation between a professor and a student in #China reveals how individuals’ voices are erased and replaced with that of the Party’s.<br><br>Read: https://bit.ly/407x0cr by @dbandurski of @cnmediaproject
+
+### 9: [2023-03-31 07:34:21+08:00 推文](https://twitter.com/RudyakMarina/status/1641584678204317699)
+
+RT Marina Rudyak 卢玛丽<br>Thank you for the invitation, for the full house and the really good questions from the audience.<div class="rsshub-quote"><br><br>Dr. Ammar A. Malik عمار ملک: ⁦Full house here at ⁦@williamandmary⁩ listening to ⁦@RudyakMarina⁩ explain why we need to, and how to, take time to understand global China 🇨🇳 global_wm⁩ ⁦@AidData⁩ ⁦ https://t.co/PuDsPUctoT<br><br><img style="" src="https://pbs.twimg.com/media/Fsf7r22aAAA0OH9?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
