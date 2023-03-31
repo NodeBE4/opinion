@@ -373,7 +373,7 @@ Re @JianglinLi @PrezXi 如果自带饭辙，那当然可以。需要赏饭可能
 
 ### 90: [2023-03-14 10:49:55+08:00 推文](https://twitter.com/shenliangqing2/status/1635473304093097985)
 
-RT 沈良庆二世<br>痴呆政府主导下的西方国家地缘政治：外交战略“既要…也要”第六病室辩证法 https://twitter.com/zaobaosg/status/1635437821245763588<div class="rsshub-quote"><br><br>联合早报 Lianhe Zaobao: 英国在更新版的外交政策框架中，将中国视为对世界秩序构成“划时代的挑战”，但它也表明，倾向于与北京增进合作与理解，并指英国的安全取决于乌克兰战争的结果。 https://www.zaobao.com.sg/realtime/world/story20230314-1372356<br></div>
+RT 沈良庆二世<br>痴呆政府主导下的西方国家地缘政治：外交战略“既要…也要”第六病室辩证法<div class="rsshub-quote"><br><br>联合早报 Lianhe Zaobao: 英国在更新版的外交政策框架中，将中国视为对世界秩序构成“划时代的挑战”，但它也表明，倾向于与北京增进合作与理解，并指英国的安全取决于乌克兰战争的结果。 https://www.zaobao.com.sg/realtime/world/story20230314-1372356<br></div>
 
 ### 91: [2023-03-14 22:01:26+08:00 推文](https://twitter.com/HeQinglian/status/1635642293825699850)
 
@@ -473,7 +473,7 @@ Re @franktianxie 如果你认为，和平12条事先没与俄罗斯沟通过，�
 
 ### 115: [2023-03-15 06:58:44+08:00 推文](https://twitter.com/HeQinglian/status/1635777509152157732)
 
-2008年世界金融危机由美国开始，波及欧洲。美国几个月后就站起来了，欧洲继续衰退。<br>这次金融危机如果将美国击倒，美国是大重置的抓手。除了拜登政府完全臣服于WEF，很难想象两者如何处理这矛盾。<div class="rsshub-quote"><br><br>Lala Dee 台北的天空🦋💫✨🦋💫✨: 世界經濟論壇內部人士承認矽谷銀行崩潰是一個“偉大的重置騙局”<br><br> 一位世界經濟論壇內部人士被抓到吹噓說，矽谷銀行的崩潰是一個精心策劃的陰謀，計劃完美——這次崩潰將對銀行業產生多米諾骨牌效應，導致全球金融崩潰。 https://t.co/DeKbhWhg5e<br><br><img style="" src="https://pbs.twimg.com/media/FrNjvlYWYAAzwch?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+2008年世界金融危机由美国开始，波及欧洲。美国几个月后就站起来了，欧洲继续衰退。<br>这次金融危机如果将美国击倒，美国是大重置的抓手。除了拜登政府完全臣服于WEF，很难想象两者如何处理这矛盾。 https://twitter.com/Lala_Deesky/status/1635760766635655169<div class="rsshub-quote"><br><br>Lala Dee 台北的天空🦋💫✨🦋💫✨: 世界經濟論壇內部人士承認矽谷銀行崩潰是一個“偉大的重置騙局”<br><br> 一位世界經濟論壇內部人士被抓到吹噓說，矽谷銀行的崩潰是一個精心策劃的陰謀，計劃完美——這次崩潰將對銀行業產生多米諾骨牌效應，導致全球金融崩潰。 https://t.co/DeKbhWhg5e<br><br><img style="" src="https://pbs.twimg.com/media/FrNjvlYWYAAzwch?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 116: [2023-03-15 07:33:38+08:00 推文](https://twitter.com/HeQinglian/status/1635786292481912833)
 
@@ -533,7 +533,7 @@ Re @silenceserver @HH82661575 你将我看成了泥塑。<br>我先生脾气比�
 
 ### 130: [2023-03-15 22:11:29+08:00 推文](https://twitter.com/HeQinglian/status/1636007210835906560)
 
-与雷曼时刻相比有个根本的差别。<br>2008年是做金融产品——两房贷款出了问题。这次是Woke式经营出了问题。<br>有个行当叫做“企业诊断”（管理咨询）起源于美国，就是定期或不定期对企业管理状况、经营状况和财务状况进行全面分析。用这套方式诊断SVB，从企业经营理念、方向、管理目标、管理层专业素质，癌症。 https://twitter.com/bbcchinese/status/1635974418991071233<div class="rsshub-quote"><br><br>BBC News 中文: 雷曼倒，股市崩，金融海啸，席卷全球。15年前这一幕，至今还出现在金融人士的噩梦中。硅谷银行倒闭，让不少人联想起“雷曼事件”。那么，硅谷银行倒闭是否是第二个“雷曼事件”？ https://t.co/T3YwGUBELh<br><br><video src="https://video.twimg.com/amplify_video/1635963777064599553/vid/1080x1920/9eYqrBVlbN-Tq-qs.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/media/FrQmDyXX0AAPBPS?format=jpg&amp;name=orig"></video></div>
+与雷曼时刻相比有个根本的差别。<br>2008年是做金融产品——两房贷款出了问题。这次是Woke式经营出了问题。<br>有个行当叫做“企业诊断”（管理咨询）起源于美国，就是定期或不定期对企业管理状况、经营状况和财务状况进行全面分析。用这套方式诊断SVB，从企业经营理念、方向、管理目标、管理层专业素质，癌症。<div class="rsshub-quote"><br><br>BBC News 中文: 雷曼倒，股市崩，金融海啸，席卷全球。15年前这一幕，至今还出现在金融人士的噩梦中。硅谷银行倒闭，让不少人联想起“雷曼事件”。那么，硅谷银行倒闭是否是第二个“雷曼事件”？ https://t.co/T3YwGUBELh<br><br><video src="https://video.twimg.com/amplify_video/1635963777064599553/vid/1080x1920/9eYqrBVlbN-Tq-qs.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/media/FrQmDyXX0AAPBPS?format=jpg&amp;name=orig"></video></div>
 
 ### 131: [2023-03-15 22:14:40+08:00 推文](https://twitter.com/HeQinglian/status/1636008014422368256)
 
@@ -581,7 +581,7 @@ Re @O43DGSy2NA4BdKf 好，如此甚好。法事做完了，请通知一声。�
 
 ### 142: [2023-03-16 01:11:48+08:00 推文](https://twitter.com/HeQinglian/status/1636052591699189763)
 
-每逢谈大麻有害时，就有些推主来我这谈大麻的好处，以及烟酒的坏处。<br>这种蠢货的思路是：不管什么有害东西，总得沾一样，数害相权取其轻（这轻是想出来的）。<br>坚决不同情。 https://twitter.com/KELMAND1/status/1635895141151158273<div class="rsshub-quote"><br><br>Ezio Mao☢: 《纽约邮报》讲述了一个美国新的不幸 - 年轻人正在大量吸入“笑气”，这已经成为一种新的毒瘾。<br><br>你认为应该怪谁？当然不是美国，不是社会氛围，不是智力水平或者道德教育。好吧，你猜对了，对吧？没错，就是中国。<br><br>为什么？因为吸完发到网上，叫whiptok（Whippit+TikTok）😅<br><br>https://nypost.com/2023/03/14/inside-gen-zs-hippy-crack-epidemic-bigger-risk-than-cocaine/<br></div>
+每逢谈大麻有害时，就有些推主来我这谈大麻的好处，以及烟酒的坏处。<br>这种蠢货的思路是：不管什么有害东西，总得沾一样，数害相权取其轻（这轻是想出来的）。<br>坚决不同情。<div class="rsshub-quote"><br><br>Ezio Mao☢: 《纽约邮报》讲述了一个美国新的不幸 - 年轻人正在大量吸入“笑气”，这已经成为一种新的毒瘾。<br><br>你认为应该怪谁？当然不是美国，不是社会氛围，不是智力水平或者道德教育。好吧，你猜对了，对吧？没错，就是中国。<br><br>为什么？因为吸完发到网上，叫whiptok（Whippit+TikTok）😅<br><br>https://nypost.com/2023/03/14/inside-gen-zs-hippy-crack-epidemic-bigger-risk-than-cocaine/<br></div>
 
 ### 143: [2023-03-16 03:58:53+08:00 推文](https://twitter.com/HeQinglian/status/1636094638594441216)
 
@@ -813,7 +813,7 @@ Re @shenliangqing2 他当年在挺郭兴奋期也曾发表一段攻击我的视�
 
 ### 200: [2023-03-17 02:06:04+08:00 推文](https://twitter.com/zhixiangziyou/status/1636428635354611744)
 
-RT L JM🇺🇸<br>爆炸性报告：银行记录显示罗伯·沃克是拜登家族的同伙，他利用他的公司从一家中国能源公司向哈莉·拜登、詹姆斯·拜登、亨特·拜登和另一个“不知名的拜登”转账。 https://twitter.com/chuckcallesto/status/1636424667689889793<div class="rsshub-quote"><br><br>Chuck Callesto: BREAKING REPORT: Bank records emerge identifying Rob Walker, A BIDEN FAMILY ASSOCIATE used his company to transfer money FROM A CHINESE ENERGY COMPANY to Hallie Biden, James Biden, Hunter Biden, and another “unknown Biden.”<br></div>
+RT L JM🇺🇸<br>爆炸性报告：银行记录显示罗伯·沃克是拜登家族的同伙，他利用他的公司从一家中国能源公司向哈莉·拜登、詹姆斯·拜登、亨特·拜登和另一个“不知名的拜登”转账。<div class="rsshub-quote"><br><br>Chuck Callesto: BREAKING REPORT: Bank records emerge identifying Rob Walker, A BIDEN FAMILY ASSOCIATE used his company to transfer money FROM A CHINESE ENERGY COMPANY to Hallie Biden, James Biden, Hunter Biden, and another “unknown Biden.”<br></div>
 
 ### 201: [2023-03-17 02:06:17+08:00 推文](https://twitter.com/HeQinglian/status/1636428690824339457)
 
@@ -881,7 +881,7 @@ Re @aptx48693734 瑞信已经折腾了十多年，从全球一家最优金融机
 
 ### 217: [2023-03-17 21:08:48+08:00 推文](https://twitter.com/HeQinglian/status/1636716214054449152)
 
-你说的是真实情况。<br>我这几天查资料，发现欧洲早就这样玩，但全民觉得正常。美国还没烂透，这次硅谷的Woke化经营被挖出来当事情说，至少纽约邮报、Fox等愿意说，CNN、纽时、华邮则挑美联储加息来说，非说成是普遍性的。<br>Got Woke，Go Broke，不烂到底，那一半喜欢Woke的美国左派国民不会醒的。<div class="rsshub-quote"><br><br>hustzhuch: @HeQinglian 欧美很多公司都搞这个鬼，他妈的还不能说。迟早完蛋<br></div>
+你说的是真实情况。<br>我这几天查资料，发现欧洲早就这样玩，但全民觉得正常。美国还没烂透，这次硅谷的Woke化经营被挖出来当事情说，至少纽约邮报、Fox等愿意说，CNN、纽时、华邮则挑美联储加息来说，非说成是普遍性的。<br>Got Woke，Go Broke，不烂到底，那一半喜欢Woke的美国左派国民不会醒的。 https://twitter.com/hustzhuch/status/1636579388069126144<div class="rsshub-quote"><br><br>hustzhuch: @HeQinglian 欧美很多公司都搞这个鬼，他妈的还不能说。迟早完蛋<br></div>
 
 ### 218: [2023-03-17 21:19:05+08:00 推文](https://twitter.com/HeQinglian/status/1636718800954376192)
 
@@ -913,7 +913,7 @@ Re @zhixiangziyou 纽约民主党选民应该承受这结果——你们受连�
 
 ### 225: [2023-03-17 21:40:15+08:00 推文](https://twitter.com/HeQinglian/status/1636724128399994883)
 
-1、同意第一句。<br>2、民运不用他撕裂，他也没破坏美国民主（至少他没操纵选举），他的存在只是将所有的恶给引出来了，让所有参与表演者尽情展示。<br>3、整个戏剧是闹剧与拙劣马戏，没有半点悲剧的庄严感。<div class="rsshub-quote"><br><br>张杰: 郭文贵是中国权贵资本所长出的恶之花。他最大罪恶是撕裂民运和破坏美国民主。他本可以利用他的资金与民运联合对抗中共，但他一直在与中共勾兑，并对众多民运人士进行迫害。郭的爆料基本都是虚假的。郭在美国竞选中制造谣言。郭的官商勾结、不折手段和欺诈的中国商人特征，最终使他成为一个悲剧性人物。<br></div>
+1、同意第一句。<br>2、民运不用他撕裂，他也没破坏美国民主（至少他没操纵选举），他的存在只是将所有的恶给引出来了，让所有参与表演者尽情展示。<br>3、整个戏剧是闹剧与拙劣马戏，没有半点悲剧的庄严感。 https://twitter.com/ZJ20672066/status/1636557486508462080<div class="rsshub-quote"><br><br>张杰: 郭文贵是中国权贵资本所长出的恶之花。他最大罪恶是撕裂民运和破坏美国民主。他本可以利用他的资金与民运联合对抗中共，但他一直在与中共勾兑，并对众多民运人士进行迫害。郭的爆料基本都是虚假的。郭在美国竞选中制造谣言。郭的官商勾结、不折手段和欺诈的中国商人特征，最终使他成为一个悲剧性人物。<br></div>
 
 ### 226: [2023-03-17 21:47:55+08:00 推文](https://twitter.com/HeQinglian/status/1636726057511297024)
 
@@ -1065,7 +1065,7 @@ Re @Isabel_3299 这有什么好说的？当年茶党被整得奄奄一息，就�
 
 ### 263: [2023-03-19 05:27:29+08:00 推文](https://twitter.com/HeQinglian/status/1637204096380817408)
 
-以规模性指标为例，中国最好的金融机构资产规模只相当于美国60%左右——与两国按可比价格计算的GDP差距相同，而最弱的金融衍生品规模不到美国的1%。这就决定了两国金融体系结构完全不同，中国一直以银行为主导（因为无法大规模发债），而美国则以资本市场为主导，国债规模接近32万亿美元。<br>此为霸权所在 https://twitter.com/mingshi_chen/status/1637201503306895363<div class="rsshub-quote"><br><br>明实：没法眼佛眼但有真眼: @HeQinglian @lianghuiwang2 去吧，我继续臆想。<br>近几周有美债3000亿已经被抵押到FED换美元现金了……<br>比烂的时代，不用着急，败灯们会折腾的。<br></div>
+以规模性指标为例，中国最好的金融机构资产规模只相当于美国60%左右——与两国按可比价格计算的GDP差距相同，而最弱的金融衍生品规模不到美国的1%。这就决定了两国金融体系结构完全不同，中国一直以银行为主导（因为无法大规模发债），而美国则以资本市场为主导，国债规模接近32万亿美元。<br>此为霸权所在<div class="rsshub-quote"><br><br>明实：没法眼佛眼但有真眼: @HeQinglian @lianghuiwang2 去吧，我继续臆想。<br>近几周有美债3000亿已经被抵押到FED换美元现金了……<br>比烂的时代，不用着急，败灯们会折腾的。<br></div>
 
 ### 264: [2023-03-19 05:30:52+08:00 推文](https://twitter.com/HeQinglian/status/1637204948780810242)
 
@@ -1181,7 +1181,7 @@ Re @jojowheel 按尊驾见解，Woke方向是对的，任何专业都不需要�
 
 ### 292: [2023-03-19 23:40:50+08:00 推文](https://twitter.com/HeQinglian/status/1637479248909725699)
 
-看了下面的回帖，一半是否定民主制度，希望暴力革命的。<br>美国算是半暴力——利用BLM与Antifa在摇摆州进行暴力活动与威胁 ，在选举中心全场紧逼（《时代周刊》引用“捍卫民主”机构的策略用语），加上司法偏袒与不作为，操纵选举获取政权，引发大家如此想也算情理中事。<br>人类社会进入转折点。<div class="rsshub-quote"><br><br>He Qinglian: 将马克龙选下去就是，为什么要斩首？选了他，就是将这届权力委托给他了，要他下去，也应该按民主程序，哪怕弹劾、倒阁都行。<br>以民主共和自我标高，却偏要回到当年大革命时代。<br></div>
+看了下面的回帖，一半是否定民主制度，希望暴力革命的。<br>美国算是半暴力——利用BLM与Antifa在摇摆州进行暴力活动与威胁 ，在选举中心全场紧逼（《时代周刊》引用“捍卫民主”机构的策略用语），加上司法偏袒与不作为，操纵选举获取政权，引发大家如此想也算情理中事。<br>人类社会进入转折点。 https://twitter.com/HeQinglian/status/1637204948780810242<div class="rsshub-quote"><br><br>He Qinglian: 将马克龙选下去就是，为什么要斩首？选了他，就是将这届权力委托给他了，要他下去，也应该按民主程序，哪怕弹劾、倒阁都行。<br>以民主共和自我标高，却偏要回到当年大革命时代。 https://twitter.com/KELMAND1/status/1636935219369631744<br></div>
 
 ### 293: [2023-03-19 23:43:02+08:00 推文](https://twitter.com/HeQinglian/status/1637479802222305282)
 
