@@ -97,15 +97,15 @@ Re @wuzuolai 祚来老师大度平和🌹🌹👍。
 
 ### 21: [2022-01-21 07:13:54+08:00 推文](https://twitter.com/realcaixia/status/1484303197841854466)
 
-中国的公安局警察是货真价实的统治工具，他们最主要的“工作”就是监控信访民众异议人士；勒索钱财，比如交通警察以罚款为目的；镇压民众，为强拆民房强占土地充当打手保镖。<br><br>NFcloud Official: 这才是真实的芸芸众生。<br><br><img style="" src="https://pbs.twimg.com/media/FJhhDQeaAAInHtv?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/keaising/status/1483852802204246016" target="_blank" rel="noopener noreferrer">https://twitter.com/keaising/status/1483852802204246016</a>
+中国的公安局警察是货真价实的统治工具，他们最主要的“工作”就是监控信访民众异议人士；勒索钱财，比如交通警察以罚款为目的；镇压民众，为强拆民房强占土地充当打手保镖。<br><br>NFcloud Official: 这才是真实的芸芸众生。<br><br><img style="" src="https://pbs.twimg.com/media/FJhhDQeaAAInHtv?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/keaising/status/1483852802204246016" target="_blank" rel="noopener noreferrer">https://twitter.com/keaising/status/1483852802204246016</a>
 
 ### 22: [2022-01-21 07:14:10+08:00 推文](https://twitter.com/realcaixia/status/1484303267408805888)
 
-中国的公安局警察是货真价实的统治工具，他们最主要的“工作”就是监控信访民众异议人士；勒索钱财，比如交通警察以罚款为目的；镇压民众，为强拆民房强占土地充当打手保镖。<br><br>NFcloud Official: 这才是真实的芸芸众生。<br><br><img style src="https://pbs.twimg.com/media/FJhhDQeaAAInHtv?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/keaising/status/1483852802204246016" target="_blank" rel="noopener noreferrer">https://twitter.com/keaising/status/1483852802204246016</a>
+中国的公安局警察是货真价实的统治工具，他们最主要的“工作”就是监控信访民众异议人士；勒索钱财，比如交通警察以罚款为目的；镇压民众，为强拆民房强占土地充当打手保镖。<br><br>NFcloud Official: 这才是真实的芸芸众生。<br><br><img style="" src="https://pbs.twimg.com/media/FJhhDQeaAAInHtv?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/keaising/status/1483852802204246016" target="_blank" rel="noopener noreferrer">https://twitter.com/keaising/status/1483852802204246016</a>
 
 ### 23: [2022-01-22 01:47:52+08:00 推文](https://twitter.com/realcaixia/status/1484583540524212232)
 
-真是转频道精彩绝伦！风趣幽默且智慧。<br><br>BBC News 中文: “你好，认识你很高兴！”<br><br>英国首相约翰逊被自由民主党党魁埃德·戴维爵士要求下台时，忽然用普通话跟议长打招呼，引起全场哄动。<br><br>戴维爵士在担任能源大臣期间，收受李贞驹5,000英镑捐款。军情五处（MI5）最近警告，李贞驹为中国共产党秘密渗透议会。<br><br>有人估计约翰逊突然“转频道”，是为挖苦戴维爵士。<br><br><video src="https://video.twimg.com/amplify_video/1484447221491904516/vid/640x360/jaTYWOrx3n5ZRB6N.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/FJnfb9cXsAI6oXU?format=jpg&amp;name=orig"></video>
+真是转频道精彩绝伦！风趣幽默且智慧。<br><br>BBC News 中文: “你好，认识你很高兴！”<br><br>英国首相约翰逊被自由民主党党魁埃德·戴维爵士要求下台时，忽然用普通话跟议长打招呼，引起全场哄动。<br><br>戴维爵士在担任能源大臣期间，收受李贞驹5,000英镑捐款。军情五处（MI5）最近警告，李贞驹为中国共产党秘密渗透议会。<br><br>有人估计约翰逊突然“转频道”，是为挖苦戴维爵士。<br><br><video src="https://video.twimg.com/amplify_video/1484447221491904516/vid/640x360/jaTYWOrx3n5ZRB6N.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/FJxneogXwAIvRjJ?format=jpg&name=orig"></video>
 
 ### 24: [2022-01-22 19:19:29+08:00 推文](https://twitter.com/realcaixia/status/1484848186212638720)
 
