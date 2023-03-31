@@ -69,7 +69,7 @@ Re @zhixiangziyou 不是笑话，是处心积虑的“体制内新长征”。
 
 ### 14: [2023-03-27 21:07:27+08:00 推文](https://twitter.com/HeQinglian/status/1640339753353584640)
 
-无知者无畏，这个 @xxgreatwall 开口就是“你懂不懂”。<br>普及一点常识：任何一国货币国际化两个指标：一是国际贸易结算时使用率高低；二是储备货币。<br>作为储备货币，在IMF让人民币入篮时已给过指标，一直没能使用足够；前者是作为结算货币<br>这位 @xxgreatwall 当然也不懂BRICKS之内结算系统如今是何状态<div class="rsshub-quote"><br><br>BONY M: @HeQinglian 扯淡，你懂不懂，如果只是把美元换算成人民币买石油，同时俄罗斯收的的人民币只能买中国商品，买不了其他国家的商品，那么实际上就是以物易物，哪有什么人民币国际化。<br></div>
+无知者无畏，这个 @xxgreatwall 开口就是“你懂不懂”。<br>普及一点常识：任何一国货币国际化两个指标：一是国际贸易结算时使用率高低；二是储备货币。<br>作为储备货币，在IMF让人民币入篮时已给过指标，一直没能使用足够；前者是作为结算货币<br>这位 @xxgreatwall 当然也不懂BRICKS之内结算系统如今是何状态 https://twitter.com/xxgreatwall/status/1640175068763549697<div class="rsshub-quote"><br><br>BONY M: @HeQinglian 扯淡，你懂不懂，如果只是把美元换算成人民币买石油，同时俄罗斯收的的人民币只能买中国商品，买不了其他国家的商品，那么实际上就是以物易物，哪有什么人民币国际化。<br></div>
 
 ### 15: [2023-03-27 21:09:53+08:00 推文](https://twitter.com/HeQinglian/status/1640340363700318210)
 
@@ -121,7 +121,7 @@ Re @mingshi_chen 货币互换，早在人民币入篮之前就开始了，香港
 
 ### 27: [2023-03-27 22:26:24+08:00 推文](https://twitter.com/HeQinglian/status/1640359621209604097)
 
-Re 必须补充的一句是：<br>美国文革、美国共产主义2.0版，让我们这代人在晚年，陷入精神支撑崩塌，奋斗价值冰消之境。<br>如我这种少数派（5%），愿意认清事实重新出发。多数人抱着灯塔不放，哪怕事实上熄灭，也将想象当现实。<br>十年后，如果还有思考能力，灯塔派将比我等少数人更痛苦，依靠否定少数派是其指望
+RT He Qinglian<br>Re 必须补充的一句是：<br>美国文革、美国共产主义2.0版，让我们这代人在晚年，陷入精神支撑崩塌，奋斗价值冰消之境。<br>如我这种少数派（5%），愿意认清事实重新出发。多数人抱着灯塔不放，哪怕事实上熄灭，也将想象当现实。<br>十年后，如果还有思考能力，灯塔派将比我等少数人更痛苦，依靠否定少数派是其指望
 
 ### 28: [2023-03-27 22:33:02+08:00 推文](https://twitter.com/HeQinglian/status/1640361291138179078)
 
@@ -353,7 +353,7 @@ Re @princeton_walk @JianglinLi 我每天要收不少，还有拜登民主党的�
 
 ### 85: [2023-03-30 09:01:53+08:00 推文](https://twitter.com/HeQinglian/status/1641244322216509440)
 
-我其实就想知道：他们什么时候承认这个病毒是有意合作研究（这已经很清楚了）、有意放出魔瓶？<br>他们要解释一点：施瓦布为什么兴高采烈地宣告这是大重置的时机，简方达为何说是上帝赐给左派的礼物？<br>左派天天骂天骂地，为何不骂这两人是魔鬼之舌？ https://twitter.com/KELMAND1/status/1641242137756061696<div class="rsshub-quote"><br><br>Ezio Mao☢: “失去的十年”来临<br><br>世界银行本周发布了一份非常有趣的预测。简而言之，丰衣足食的时代已经结束，“失去的十年”即将到来。世界经济平均增速为2.2%，为近30年来最低。<br><br>在原因中，经济学家指出了流行病、通货膨胀和人口结构。有了大流行，一切都清楚了....<br><br>https://www.worldbank.org/en/news/press-release/2023/03/27/global-economy-s-speed-limit-set-to-fall-to-three-decade-low<br></div>
+我其实就想知道：他们什么时候承认这个病毒是有意合作研究（这已经很清楚了）、有意放出魔瓶？<br>他们要解释一点：施瓦布为什么兴高采烈地宣告这是大重置的时机，简方达为何说是上帝赐给左派的礼物？<br>左派天天骂天骂地，为何不骂这两人是魔鬼之舌？<div class="rsshub-quote"><br><br>Ezio Mao☢: “失去的十年”来临<br><br>世界银行本周发布了一份非常有趣的预测。简而言之，丰衣足食的时代已经结束，“失去的十年”即将到来。世界经济平均增速为2.2%，为近30年来最低。<br><br>在原因中，经济学家指出了流行病、通货膨胀和人口结构。有了大流行，一切都清楚了....<br><br>https://www.worldbank.org/en/news/press-release/2023/03/27/global-economy-s-speed-limit-set-to-fall-to-three-decade-low<br></div>
 
 ### 86: [2023-03-30 09:02:52+08:00 推文](https://twitter.com/HeQinglian/status/1641244565846781952)
 
@@ -441,7 +441,7 @@ Re @KELMAND1 重复阿富汗战争的军费、援建故事。<br>话说，全世
 
 ### 107: [2023-03-31 01:16:27+08:00 推文](https://twitter.com/HeQinglian/status/1641489577335562240)
 
-民主党与左派内部揭露拜登各种丑闻与违规事件有个规律，那就是民主党面临外部压力较小之时，这时候就开始考虑让拜登退出2024大选。<br>一旦有外部压力，拜登丑闻立刻消声，全力帮助本党总统度过难关。<br>前一向山雨欲来，但中国汽球事件一出，拜登丑闻消失。<br>咱们看看这次接着来的是什么。<div class="rsshub-quote"><br><br>Lucs: 🚨🚨🚨突发事件——国家档案馆向美国第一法律机构承认，在宾夕法尼亚拜登中心发现了 1,170 页拜登的副总统记录。<br><br> 他们还承认，他们“没有保管”拜登在特拉华州发现的其他错放的记录。  🔥🔥🔥<br><br> 记录在哪里？  ⤵️<br><br> https://threadreaderapp.com/thread/1641474723946061825.html<br></div>
+民主党与左派内部揭露拜登各种丑闻与违规事件有个规律，那就是民主党面临外部压力较小之时，这时候就开始考虑让拜登退出2024大选。<br>一旦有外部压力，拜登丑闻立刻消声，全力帮助本党总统度过难关。<br>前一向山雨欲来，但中国汽球事件一出，拜登丑闻消失。<br>咱们看看这次接着来的是什么。 https://twitter.com/Lucs24659702/status/1641479598990061569<div class="rsshub-quote"><br><br>Lucs: 🚨🚨🚨突发事件——国家档案馆向美国第一法律机构承认，在宾夕法尼亚拜登中心发现了 1,170 页拜登的副总统记录。<br><br> 他们还承认，他们“没有保管”拜登在特拉华州发现的其他错放的记录。  🔥🔥🔥<br><br> 记录在哪里？  ⤵️<br><br> https://threadreaderapp.com/thread/1641474723946061825.html<br></div>
 
 ### 108: [2023-03-31 01:19:10+08:00 推文](https://twitter.com/HeQinglian/status/1641490263871827986)
 
@@ -482,4 +482,20 @@ Re @vinceLi60688407 @shenliangqing2 不是川普在劫难逃，而是美国的�
 ### 117: [2023-04-01 01:52:12+08:00 推文](https://twitter.com/HeQinglian/status/1641860963019227137)
 
 Re @chinayvan 真不知说的是哪个美国。欧洲当然更不是。
+
+### 118: [2023-04-01 03:53:22+08:00 推文](https://twitter.com/NAConservative9/status/1641891457425461269)
+
+RT 《北美保守评论》<br>《“我与川普总统交谈过了”：盖兹在与川普通话后发布重要消息》<br>https://nacr.info/WordPress/index.php/2023/03/31/i-spoke-with-president-trump-gaetz-drops-big-update-after-call-with-trump/… https://twitter.com/i/web/status/1641891457425461269 https://t.co/vitlLDorwI<br><img style="" src="https://pbs.twimg.com/media/FskrfibWAAASVln?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 119: [2023-04-01 05:27:18+08:00 推文](https://twitter.com/HeQinglian/status/1641915096258469889)
+
+Re @richard20211212 @chinayvan 他说的不是居住，是电力来源。<br>从美国目前的电力结构来看，2020年美国可再生能源占美国发电量的比例提高至1/5，即20.6%。其中，排在首位的是风力发电，占美国发电量的8.3%，其次是水电，占7.2%。<br>德克萨斯州前年的电力危机，你自己查一下。<br>居住与电力可自行解决，完全是不同的两回事。
+
+### 120: [2023-04-01 05:28:03+08:00 推文](https://twitter.com/HeQinglian/status/1641915282531790850)
+
+Re @fading_you1 外加北大那几位举彩虹旗被抓捕的革命新秀。
+
+### 121: [2023-04-01 05:36:02+08:00 推文](https://twitter.com/HeQinglian/status/1641917291028684800)
+
+Re @Wu_Zhi @JianglinLi @disclosetv 我一直很好奇，假设某天一个侵犯案子里，BLM、Trans还有穆斯林三种高等“种姓”同时出现，有的是侵犯者，有的是受害者，美国进步派法官依据什么判案？
 

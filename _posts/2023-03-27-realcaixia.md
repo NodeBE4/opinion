@@ -17,11 +17,11 @@ title: 'Twitter @蔡霞: 2023-03-27~2023-04-02'
 
 ### 1: [2023-03-27 10:20:46+08:00 推文](https://twitter.com/realcaixia/status/1640177008805294080)
 
-看到这些照片，不由得想到709律师的夫人们那几年的艰难抗争。<br>现在是她们——罗胜春、施明磊、陈紫娟与丈夫站在一起，勇敢反对中共极权政权，为争得人权保障，争得自由民主而艰难抗争。他们是新一批令人尊敬令人崇敬的坚强女性！ https://twitter.com/mindyshi227/status/1639839511323574274<div class="rsshub-quote"><br><br>FreeChengYuan 释放程渊: 罗胜春@luoshch、陈紫娟 @zijuan_chen 我们仨今天在中国驻美大使馆前抗议，要求 #释放丁家喜 #释放常玮平 #释放许志永 #释放李翘楚 #释放程渊 #StopMilwaukeeToolSlaveLabor https://t.co/DcoTnvErYu<br><br><img style="" src="https://pbs.twimg.com/media/FsHhV0LWAAE5X1K?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FsHhV0JXoAYzNwk?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+看到这些照片，不由得想到709律师的夫人们那几年的艰难抗争。<br>现在是她们——罗胜春、施明磊、陈紫娟与丈夫站在一起，勇敢反对中共极权政权，为争得人权保障，争得自由民主而艰难抗争。他们是新一批令人尊敬令人崇敬的坚强女性！<div class="rsshub-quote"><br><br>FreeChengYuan 释放程渊: 罗胜春@luoshch、陈紫娟 @zijuan_chen 我们仨今天在中国驻美大使馆前抗议，要求 #释放丁家喜 #释放常玮平 #释放许志永 #释放李翘楚 #释放程渊 #StopMilwaukeeToolSlaveLabor https://t.co/DcoTnvErYu<br><br><img style="" src="https://pbs.twimg.com/media/FsHhV0LWAAE5X1K?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FsHhV0JXoAYzNwk?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 2: [2023-03-27 10:40:49+08:00 推文](https://twitter.com/realcaixia/status/1640182052703305729)
 
-我们都来关注编程随想阮晓寰先生吧，关注就是声援！关注就是支持，关注也是我们尽可能地努力保护阮晓寰。<div class="rsshub-quote"><br><br>中国数字时代: “打开编程随想的一篇篇博文，每一个读者都会看到，这就是21世纪的中国人，在网络上抵抗专制，争取自由的真切证明。”2月10日，“编程随想”阮晓寰被上海市第二中级人民法院以“煽动颠覆国家政权罪”判处有期徒刑七年，没收财产人民币两万元。在《404档案馆》重温编程随想的故事：https://buff.ly/42KyTOb https://t.co/oRT9ncgspM<br><br><video src="https://video.twimg.com/ext_tw_video/1640036656790085637/pu/vid/720x720/x6voXvDZfiATvAyc.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1640036656790085637/pu/img/gTu0j_lWyQ_0zNbe.jpg"></video></div>
+我们都来关注编程随想阮晓寰先生吧，关注就是声援！关注就是支持，关注也是我们尽可能地努力保护阮晓寰。 https://twitter.com/cdtchinese/status/1640036685047119872<div class="rsshub-quote"><br><br>中国数字时代: “打开编程随想的一篇篇博文，每一个读者都会看到，这就是21世纪的中国人，在网络上抵抗专制，争取自由的真切证明。”2月10日，“编程随想”阮晓寰被上海市第二中级人民法院以“煽动颠覆国家政权罪”判处有期徒刑七年，没收财产人民币两万元。在《404档案馆》重温编程随想的故事：https://buff.ly/42KyTOb https://t.co/oRT9ncgspM<br><br><video src="https://video.twimg.com/ext_tw_video/1640036656790085637/pu/vid/720x720/x6voXvDZfiATvAyc.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1640036656790085637/pu/img/gTu0j_lWyQ_0zNbe.jpg"></video></div>
 
 ### 3: [2023-03-27 10:50:56+08:00 推文](https://twitter.com/realcaixia/status/1640184600592007169)
 
@@ -29,15 +29,15 @@ title: 'Twitter @蔡霞: 2023-03-27~2023-04-02'
 
 ### 4: [2023-03-27 11:03:24+08:00 推文](https://twitter.com/realcaixia/status/1640187737461649408)
 
-向保卫乌克兰主权和领土完整的勇敢战士们致敬！<div class="rsshub-quote"><br><br>UKRAINIAN SQUAD🇺🇦: Keep believing in these 🇺🇦Warriors. https://t.co/alEyRpXWNR<br><br><video src="https://video.twimg.com/ext_tw_video/1639946222591963136/pu/vid/718x1280/mUWWAjzdf9QATB24.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1639946222591963136/pu/img/T4huAiJSWz7ES2qL.jpg"></video></div>
+向保卫乌克兰主权和领土完整的勇敢战士们致敬！ https://twitter.com/ukrainiansquad/status/1639946357128478721<div class="rsshub-quote"><br><br>UKRAINIAN SQUAD🇺🇦: Keep believing in these 🇺🇦Warriors. https://t.co/alEyRpXWNR<br><br><video src="https://video.twimg.com/ext_tw_video/1639946222591963136/pu/vid/718x1280/mUWWAjzdf9QATB24.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1639946222591963136/pu/img/T4huAiJSWz7ES2qL.jpg"></video></div>
 
 ### 5: [2023-03-27 20:22:46+08:00 推文](https://twitter.com/realcaixia/status/1640328505270616064)
 
-这些习党打手无法无天，肆无忌惮。中共国是恐怖国家。<div class="rsshub-quote"><br><br>Suyutong: #关注编程随想案  #罪恶档案 <br>1，这是2021年5月10日中午，上海杨浦区公安局进入阮晓寰家中暴力查抄和抓人时，阮晓寰被打破的眼镜。<br>2，公安未出示搜查证（3天后被签），查抄电脑等各种物品亦未给家属留下清单，而是把清单带走。<br>3，对阮晓寰的拘留通知是2周后才下达。<br>4，检察院、法院也是暗箱操作。… https://twitter.com/i/web/status/1640288057050923009 https://t.co/ZsFmQjHshC<br><br><img style="" src="https://pbs.twimg.com/media/FsN5NUtWYAE1utB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+这些习党打手无法无天，肆无忌惮。中共国是恐怖国家。 https://twitter.com/suyutong/status/1640288057050923009<div class="rsshub-quote"><br><br>Suyutong: #关注编程随想案  #罪恶档案 <br>1，这是2021年5月10日中午，上海杨浦区公安局进入阮晓寰家中暴力查抄和抓人时，阮晓寰被打破的眼镜。<br>2，公安未出示搜查证（3天后被签），查抄电脑等各种物品亦未给家属留下清单，而是把清单带走。<br>3，对阮晓寰的拘留通知是2周后才下达。<br>4，检察院、法院也是暗箱操作。… https://twitter.com/i/web/status/1640288057050923009 https://t.co/ZsFmQjHshC<br><br><img style="" src="https://pbs.twimg.com/media/FsN5NUtWYAE1utB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 6: [2023-03-28 05:46:47+08:00 推文](https://twitter.com/realcaixia/status/1640470444561121280)
 
-枪口抬高一寸，这是良知的召唤。感动。<div class="rsshub-quote"><br><br>新聞拍案驚奇 大宇: 希望更多人能在中共恶政体制下枪口提高一寸，人民不会忘记！ 👍<br> https://t.co/PK7y2nItNO<br><br><video src="https://video.twimg.com/ext_tw_video/1640090074154147840/pu/vid/464x360/m5RSR-Ew-go-eQvD.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1640090074154147840/pu/img/JWVWyu9SDmFtEDcv.jpg"></video></div>
+枪口抬高一寸，这是良知的召唤。感动。 https://twitter.com/xwpajq_dayu/status/1640197164809981952<div class="rsshub-quote"><br><br>新聞拍案驚奇 大宇: 希望更多人能在中共恶政体制下枪口提高一寸，人民不会忘记！ 👍<br> https://t.co/PK7y2nItNO<br><br><video src="https://video.twimg.com/ext_tw_video/1640090074154147840/pu/vid/464x360/m5RSR-Ew-go-eQvD.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1640090074154147840/pu/img/JWVWyu9SDmFtEDcv.jpg"></video></div>
 
 ### 7: [2023-03-28 06:02:39+08:00 推文](https://twitter.com/realcaixia/status/1640474438515712000)
 
@@ -61,7 +61,7 @@ Re https://t.co/S6xQirXj9e<br><img style="" src="https://pbs.twimg.com/media/FsR
 
 ### 12: [2023-03-28 09:32:28+08:00 推文](https://twitter.com/realcaixia/status/1640527239350550530)
 
-这哪有一丝一毫公正审判的味道？！这是流氓坐大堂威胁中国平民。这类视频最好能翻译成英文广泛传到英文世界民众中，让更多的人看看中国法院里这些披着法官外衣的是些什么货色！ https://twitter.com/danqing1953/status/1639338116988416000<div class="rsshub-quote"><br><br>笔墨✾丹青: 至今对中国法庭还不了解的人，看一下这个视频，就了解了。<br><br>一个国家到底有没有未来，只需看两个地方：一是教室，二是法庭。 https://t.co/PYUGZgUDst<br><br><video src="https://video.twimg.com/ext_tw_video/1639338019777048576/pu/vid/640x368/khQ9FnTVqw28OVjC.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1639338019777048576/pu/img/J3g_7e6jhAX6uP24.jpg"></video></div>
+这哪有一丝一毫公正审判的味道？！这是流氓坐大堂威胁中国平民。这类视频最好能翻译成英文广泛传到英文世界民众中，让更多的人看看中国法院里这些披着法官外衣的是些什么货色！<div class="rsshub-quote"><br><br>笔墨✾丹青: 至今对中国法庭还不了解的人，看一下这个视频，就了解了。<br><br>一个国家到底有没有未来，只需看两个地方：一是教室，二是法庭。 https://t.co/PYUGZgUDst<br><br><video src="https://video.twimg.com/ext_tw_video/1639338019777048576/pu/vid/640x368/khQ9FnTVqw28OVjC.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1639338019777048576/pu/img/J3g_7e6jhAX6uP24.jpg"></video></div>
 
 ### 13: [2023-03-28 09:37:36+08:00 推文](https://twitter.com/realcaixia/status/1640528534119620608)
 
@@ -89,7 +89,7 @@ Re 习近平2/19/2016上午视察三家官媒：人民日报、新华社、央�
 
 ### 19: [2023-03-30 01:19:08+08:00 推文](https://twitter.com/realcaixia/status/1641127863821942785)
 
-快递也规定了敏感词！原先知道凡外国出版的书快递不给邮寄、海运不给装箱运输，现在才知道“思想”一词成了快递禁品。是否意味着中国凡印刷品寄出封面都禁止有“思想”一词？！<br>中国是一尊遮天万物凋零。剥夺言论剥夺人权剥夺思想，中国只许存在吃飯干活不许躺平不许思想的“人”。 https://twitter.com/rongjian1957/status/1640924300671844352<div class="rsshub-quote"><br><br>荣剑: 【恐惧思想，思想不能寄】收到台湾思想杂志样书，打算给一位朋友寄一本，中通小哥来取书，一看封面说不能寄，我问为啥，他说有思想两字。见我不信，他拍照发到公司，公司回复说，不能寄。 https://t.co/TferBzySoV<br><br><img style="" src="https://pbs.twimg.com/media/FsW76hlaEAAQHaD?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FsW77hAaYAAA98Q?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FsW78SaakAMeSr_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FsW786JagAAeZ3E?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+快递也规定了敏感词！原先知道凡外国出版的书快递不给邮寄、海运不给装箱运输，现在才知道“思想”一词成了快递禁品。是否意味着中国凡印刷品寄出封面都禁止有“思想”一词？！<br>中国是一尊遮天万物凋零。剥夺言论剥夺人权剥夺思想，中国只许存在吃飯干活不许躺平不许思想的“人”。<div class="rsshub-quote"><br><br>荣剑: 【恐惧思想，思想不能寄】收到台湾思想杂志样书，打算给一位朋友寄一本，中通小哥来取书，一看封面说不能寄，我问为啥，他说有思想两字。见我不信，他拍照发到公司，公司回复说，不能寄。 https://t.co/TferBzySoV<br><br><img style="" src="https://pbs.twimg.com/media/FsW76hlaEAAQHaD?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FsW77hAaYAAA98Q?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FsW78SaakAMeSr_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FsW786JagAAeZ3E?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 20: [2023-03-30 10:00:32+08:00 推文](https://twitter.com/realcaixia/status/1641259078218567680)
 
@@ -121,7 +121,7 @@ Dissident Scholar: COVID-19 Reveals “Gangster Nature” of China’s Communi..
 
 ### 27: [2023-03-31 00:42:25+08:00 推文](https://twitter.com/realcaixia/status/1641481011388198921)
 
-从刘同肪教授的问题开始接着刨根列宁主义、斯大林主义；刨中共（现在是习党）的思想理论之根，剥去所谓“习思想”的皇帝的新衣。<br>“习思想”的特质至少有：华丽空洞的宏大叙事➕玩弄文字瞎编名词冒充理论创新➕毫无逻辑的标语口号冒充“理论精华”➕即兴胡言乱语成“思想”。江胡习三代党魁共用一王出“思想”。 https://twitter.com/jam79922967/status/1641285486873391109<div class="rsshub-quote"><br><br>Petrichor: 浙江大学马克思主义学院院长刘同舫教授走出国门后，第一次读到韦伯的《马克思主义的批判》，被吓了一跳，原来马克思主义可以批判。于是开始了反思，他的怀疑主要是来自于对现实的反思。 https://t.co/VUbW8FMJbQ<br><br><img style="" src="https://pbs.twimg.com/media/FscEcnJWYAAA6Hy?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FscEcnMXwAA_sG7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FscEcnIXsAEFPaP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FscEcnKXsAEqiSe?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+从刘同肪教授的问题开始接着刨根列宁主义、斯大林主义；刨中共（现在是习党）的思想理论之根，剥去所谓“习思想”的皇帝的新衣。<br>“习思想”的特质至少有：华丽空洞的宏大叙事➕玩弄文字瞎编名词冒充理论创新➕毫无逻辑的标语口号冒充“理论精华”➕即兴胡言乱语成“思想”。江胡习三代党魁共用一王出“思想”。<div class="rsshub-quote"><br><br>Petrichor: 浙江大学马克思主义学院院长刘同舫教授走出国门后，第一次读到韦伯的《马克思主义的批判》，被吓了一跳，原来马克思主义可以批判。于是开始了反思，他的怀疑主要是来自于对现实的反思。 https://t.co/VUbW8FMJbQ<br><br><img style="" src="https://pbs.twimg.com/media/FscEcnJWYAAA6Hy?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FscEcnMXwAA_sG7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FscEcnIXsAEFPaP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FscEcnKXsAEqiSe?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 28: [2023-03-31 07:24:23+08:00 推文](https://twitter.com/realcaixia/status/1641582171642032128)
 
@@ -129,7 +129,7 @@ Dissident Scholar: COVID-19 Reveals “Gangster Nature” of China’s Communi..
 
 ### 29: [2023-03-31 10:17:58+08:00 推文](https://twitter.com/realcaixia/status/1641625853695254528)
 
-这是什么情况？ https://twitter.com/zhanglifan/status/1641585524946399233<div class="rsshub-quote"><br><br>章立凡 Zhang Lifan: 求证一下，发生了什么事？<br>这种手纸，早就没人订了，闹这么大阵仗干什么？<br><br>【网传：人民日报 3月30日报纸紧急停发停投，已停投报纸要求就地封存并销毀】 https://t.co/wRolhwVPuy<br><br><img style="" src="https://pbs.twimg.com/media/FsgVUuDaQAA9Obb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+这是什么情况？<div class="rsshub-quote"><br><br>章立凡 Zhang Lifan: 求证一下，发生了什么事？<br>这种手纸，早就没人订了，闹这么大阵仗干什么？<br><br>【网传：人民日报 3月30日报纸紧急停发停投，已停投报纸要求就地封存并销毀】 https://t.co/wRolhwVPuy<br><br><img style="" src="https://pbs.twimg.com/media/FsgVUuDaQAA9Obb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 30: [2023-03-31 10:27:57+08:00 推文](https://twitter.com/realcaixia/status/1641628365668093952)
 
