@@ -17,11 +17,11 @@ The CMP is an independent research project studying the Chinese media landscape 
 
 ### 1: [2021-12-20 06:13:17+08:00 推文](https://twitter.com/lingli_vienna/status/1472691531605811202)
 
-RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>8 knowledge points that one shall make when teaching in China to shield oneself from being reported to the authority by students:<br><img style src="https://pbs.twimg.com/media/FHANIm9XsAkQ8or?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>8 knowledge points that one shall make when teaching in China to shield oneself from being reported to the authority by students:<br><img style="" src="https://pbs.twimg.com/media/FHANIm9XsAkQ8or?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2021-12-20 12:15:49+08:00 推文](https://twitter.com/cnmediaproject/status/1472782768145047556)
 
-Journalism teacher Song Gengyi was fired for making "erroneous remarks" on the # of Nanjing Massacre victims. Her firing prompted a fierce struggle online between those who saw her as a lacking patriotism and those who believed she was treated unfairly. <a href="https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/</a><br><img style="" src="https://pbs.twimg.com/media/FHBf76_akAALtQv?format=jpg&name=orig" referrerpolicy="no-referrer">
+Journalism teacher Song Gengyi was fired for making "erroneous remarks" on the # of Nanjing Massacre victims. Her firing prompted a fierce struggle online between those who saw her as a lacking patriotism and those who believed she was treated unfairly. <a href="https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/</a><br><img style src="https://pbs.twimg.com/media/FHBf76_akAALtQv?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2021-12-20 12:17:11+08:00 推文](https://twitter.com/cnmediaproject/status/1472783109792100352)
 
@@ -61,7 +61,7 @@ RT Muyi Xiao<br>Re We translated several key service items and their requireme
 
 ### 12: [2021-12-21 08:01:12+08:00 推文](https://twitter.com/lingli_vienna/status/1473081080228028417)
 
-RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Everyone needs to learn Party history.<br><br>PRC national college English proficiency test (CET) level 6 was held yesterday. <br><br>Topics for the Chinese to English Translation test:<br><br>井冈山革命根据地<br>延安革命根据地<br>中共一大会址<br><img style src="https://pbs.twimg.com/media/FHFvbdaXwAMWosS?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHFvbdiXsAY7AQb?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHFvbdjXEAE7Qho?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHFvbdaXMBAwdGZ?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Everyone needs to learn Party history.<br><br>PRC national college English proficiency test (CET) level 6 was held yesterday. <br><br>Topics for the Chinese to English Translation test:<br><br>井冈山革命根据地<br>延安革命根据地<br>中共一大会址<br><img style="" src="https://pbs.twimg.com/media/FHFvbdaXwAMWosS?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHFvbdiXsAY7AQb?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHFvbdjXEAE7Qho?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHFvbdaXMBAwdGZ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 13: [2021-12-21 08:26:57+08:00 推文](https://twitter.com/cnmediaproject/status/1473087558108463106)
 
@@ -73,7 +73,7 @@ RT Adrienne Carter<br>My heart is broken by the loss of @CRTejada. He was an a
 
 ### 15: [2021-12-21 15:41:45+08:00 推文](https://twitter.com/GeringTuvia/status/1473196979463229441)
 
-RT Tuvia Gering 陶文亚<br>Re And in case you're wondering where Hu's replacement, Fan Zhengwei, will take the GT, an editorial published yesterday stated that "the US military kills innocent people indiscriminately, and the international community should hold it accountable." @cnmediaproject called it<br><img style src="https://pbs.twimg.com/media/FHHX1U7VUAAw_gS?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHHYqfQVQAEfebz?format=png&name=orig" referrerpolicy="no-referrer">
+RT Tuvia Gering 陶文亚<br>Re And in case you're wondering where Hu's replacement, Fan Zhengwei, will take the GT, an editorial published yesterday stated that "the US military kills innocent people indiscriminately, and the international community should hold it accountable." @cnmediaproject called it<br><img style="" src="https://pbs.twimg.com/media/FHHX1U7VUAAw_gS?format=png&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHHYqfQVQAEfebz?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 16: [2021-12-21 23:50:00+08:00 推文](https://twitter.com/BonnieGlaser/status/1473319853687779331)
 
