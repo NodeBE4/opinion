@@ -17,7 +17,7 @@ title: 'Twitter @He Qinglian: 2023-03-13~2023-03-19'
 
 ### 1: [2023-03-13 01:31:00+08:00 推文](https://twitter.com/HeQinglian/status/1634970256207929346)
 
-英国法律史学家梅因最著名的一段话：<br>“迄今为止，人类历史上所有的进步（不是美国现在这“进步”），就是从身份到契约的转变”。<br>契约思想是西方文化的根基：<br>圣经：上帝与人立约；<br>民主政治：宪政法治就是契约政治的体现。选举政治就是人民委托治理政治，契约就是履行竞选承诺；<br>市场经济：信用基于契约<div class="rsshub-quote"><br><br>zhix: @HeQinglian @JianglinLi 身份政治理论，其逻辑推理的结果最终就会导致种族隔离，现在在实践上还应验了。因此，身份政治理论是垃圾思想，逻辑上的种种矛盾，将会对现实的人类社会造成极大危害，对人类文明来说有害无益。<br></div>
+英国法律史学家梅因最著名的一段话：<br>“迄今为止，人类历史上所有的进步（不是美国现在这“进步”），就是从身份到契约的转变”。<br>契约思想是西方文化的根基：<br>圣经：上帝与人立约；<br>民主政治：宪政法治就是契约政治的体现。选举政治就是人民委托治理政治，契约就是履行竞选承诺；<br>市场经济：信用基于契约 https://twitter.com/Wu_Zhi/status/1634942635956903937<div class="rsshub-quote"><br><br>zhix: @HeQinglian @JianglinLi 身份政治理论，其逻辑推理的结果最终就会导致种族隔离，现在在实践上还应验了。因此，身份政治理论是垃圾思想，逻辑上的种种矛盾，将会对现实的人类社会造成极大危害，对人类文明来说有害无益。<br></div>
 
 ### 2: [2023-03-13 01:34:20+08:00 推文](https://twitter.com/HeQinglian/status/1634971098956824577)
 
@@ -373,7 +373,7 @@ Re @JianglinLi @PrezXi 如果自带饭辙，那当然可以。需要赏饭可能
 
 ### 90: [2023-03-14 10:49:55+08:00 推文](https://twitter.com/shenliangqing2/status/1635473304093097985)
 
-RT 沈良庆二世<br>痴呆政府主导下的西方国家地缘政治：外交战略“既要…也要”第六病室辩证法<div class="rsshub-quote"><br><br>联合早报 Lianhe Zaobao: 英国在更新版的外交政策框架中，将中国视为对世界秩序构成“划时代的挑战”，但它也表明，倾向于与北京增进合作与理解，并指英国的安全取决于乌克兰战争的结果。 https://www.zaobao.com.sg/realtime/world/story20230314-1372356<br></div>
+RT 沈良庆二世<br>痴呆政府主导下的西方国家地缘政治：外交战略“既要…也要”第六病室辩证法 https://twitter.com/zaobaosg/status/1635437821245763588<div class="rsshub-quote"><br><br>联合早报 Lianhe Zaobao: 英国在更新版的外交政策框架中，将中国视为对世界秩序构成“划时代的挑战”，但它也表明，倾向于与北京增进合作与理解，并指英国的安全取决于乌克兰战争的结果。 https://www.zaobao.com.sg/realtime/world/story20230314-1372356<br></div>
 
 ### 91: [2023-03-14 22:01:26+08:00 推文](https://twitter.com/HeQinglian/status/1635642293825699850)
 
@@ -473,7 +473,7 @@ Re @franktianxie 如果你认为，和平12条事先没与俄罗斯沟通过，�
 
 ### 115: [2023-03-15 06:58:44+08:00 推文](https://twitter.com/HeQinglian/status/1635777509152157732)
 
-2008年世界金融危机由美国开始，波及欧洲。美国几个月后就站起来了，欧洲继续衰退。<br>这次金融危机如果将美国击倒，美国是大重置的抓手。除了拜登政府完全臣服于WEF，很难想象两者如何处理这矛盾。<div class="rsshub-quote"><br><br>Lala Dee 台北的天空🦋💫✨🦋💫✨: 世界經濟論壇內部人士承認矽谷銀行崩潰是一個“偉大的重置騙局”<br><br> 一位世界經濟論壇內部人士被抓到吹噓說，矽谷銀行的崩潰是一個精心策劃的陰謀，計劃完美——這次崩潰將對銀行業產生多米諾骨牌效應，導致全球金融崩潰。 https://t.co/DeKbhWhg5e<br><br><img style="" src="https://pbs.twimg.com/media/FrNjvlYWYAAzwch?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+2008年世界金融危机由美国开始，波及欧洲。美国几个月后就站起来了，欧洲继续衰退。<br>这次金融危机如果将美国击倒，美国是大重置的抓手。除了拜登政府完全臣服于WEF，很难想象两者如何处理这矛盾。 https://twitter.com/Lala_Deesky/status/1635760766635655169<div class="rsshub-quote"><br><br>Lala Dee 台北的天空🦋💫✨🦋💫✨: 世界經濟論壇內部人士承認矽谷銀行崩潰是一個“偉大的重置騙局”<br><br> 一位世界經濟論壇內部人士被抓到吹噓說，矽谷銀行的崩潰是一個精心策劃的陰謀，計劃完美——這次崩潰將對銀行業產生多米諾骨牌效應，導致全球金融崩潰。 https://t.co/DeKbhWhg5e<br><br><img style="" src="https://pbs.twimg.com/media/FrNjvlYWYAAzwch?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 116: [2023-03-15 07:33:38+08:00 推文](https://twitter.com/HeQinglian/status/1635786292481912833)
 
@@ -625,7 +625,7 @@ Re @wto518 郭文贵竟然成了“民运”的三大支派之一？
 
 ### 153: [2023-03-16 08:42:16+08:00 推文](https://twitter.com/HeQinglian/status/1636165954563461121)
 
-RT He Qinglian<br>Re @JianglinLi @arfred_1979 @fading_you1 旧金山每位黑人获赔500万美元：<br>申请人须年满18岁并证明自己符合八项额外标准中的两项：1940-96年出生或移民旧金山，本人或直系亲属曾在“失败的毒品战争”期间被监禁，祖先是1865年前被奴役者……<br>https://nypost.com/2023/01/16/sf-reparations-panel-proposes-5m-lump-sum-payment-to-eligible-residents/<br>如果SVB未倒闭，应该是经营这项业务的首选。
+Re @JianglinLi @arfred_1979 @fading_you1 旧金山每位黑人获赔500万美元：<br>申请人须年满18岁并证明自己符合八项额外标准中的两项：1940-96年出生或移民旧金山，本人或直系亲属曾在“失败的毒品战争”期间被监禁，祖先是1865年前被奴役者……<br>https://nypost.com/2023/01/16/sf-reparations-panel-proposes-5m-lump-sum-payment-to-eligible-residents/<br>如果SVB未倒闭，应该是经营这项业务的首选。
 
 ### 154: [2023-03-16 08:47:12+08:00 推文](https://twitter.com/HeQinglian/status/1636167193246281729)
 
@@ -633,7 +633,7 @@ Re @SSK2024 他要表达的，正是主流媒体要表达的。
 
 ### 155: [2023-03-16 09:03:50+08:00 推文](https://twitter.com/zhixiangziyou/status/1636171379736182784)
 
-RT L JM🇺🇸<br>1/ THREAD 🚨 #TwitterFiles<br><br>@elonmusk将 CISA 审查网络抨击为“宣传平台”。<br><br>这个由国土安全部支持的审查联盟使用了 120 名分析师来审查数百万关于选举和 covid-19 的社交媒体帖子。 https://twitter.com/kanekoathegreat/status/1608231209875963904<div class="rsshub-quote"><br><br>kanekoa.substack.com: 1/ THREAD🚨 #TwitterFiles<br><br>@elonmusk slams CISA censorship network as 'propaganda platform.'<br><br>This DHS-backed censorship consortium used 120 analysts to censor millions of social media posts on elections and covid-19.<br><br>https://kanekoa.substack.com/p/elon-musk-slams-cisa-censorship-network<br></div>
+RT L JM🇺🇸<br>1/ THREAD 🚨 #TwitterFiles<br><br>@elonmusk将 CISA 审查网络抨击为“宣传平台”。<br><br>这个由国土安全部支持的审查联盟使用了 120 名分析师来审查数百万关于选举和 covid-19 的社交媒体帖子。<div class="rsshub-quote"><br><br>kanekoa.substack.com: 1/ THREAD🚨 #TwitterFiles<br><br>@elonmusk slams CISA censorship network as 'propaganda platform.'<br><br>This DHS-backed censorship consortium used 120 analysts to censor millions of social media posts on elections and covid-19.<br><br>https://kanekoa.substack.com/p/elon-musk-slams-cisa-censorship-network<br></div>
 
 ### 156: [2023-03-16 10:52:46+08:00 推文](https://twitter.com/shenliangqing2/status/1636198795330609152)
 
@@ -881,7 +881,7 @@ Re @aptx48693734 瑞信已经折腾了十多年，从全球一家最优金融机
 
 ### 217: [2023-03-17 21:08:48+08:00 推文](https://twitter.com/HeQinglian/status/1636716214054449152)
 
-你说的是真实情况。<br>我这几天查资料，发现欧洲早就这样玩，但全民觉得正常。美国还没烂透，这次硅谷的Woke化经营被挖出来当事情说，至少纽约邮报、Fox等愿意说，CNN、纽时、华邮则挑美联储加息来说，非说成是普遍性的。<br>Got Woke，Go Broke，不烂到底，那一半喜欢Woke的美国左派国民不会醒的。 https://twitter.com/hustzhuch/status/1636579388069126144<div class="rsshub-quote"><br><br>hustzhuch: @HeQinglian 欧美很多公司都搞这个鬼，他妈的还不能说。迟早完蛋<br></div>
+你说的是真实情况。<br>我这几天查资料，发现欧洲早就这样玩，但全民觉得正常。美国还没烂透，这次硅谷的Woke化经营被挖出来当事情说，至少纽约邮报、Fox等愿意说，CNN、纽时、华邮则挑美联储加息来说，非说成是普遍性的。<br>Got Woke，Go Broke，不烂到底，那一半喜欢Woke的美国左派国民不会醒的。<div class="rsshub-quote"><br><br>hustzhuch: @HeQinglian 欧美很多公司都搞这个鬼，他妈的还不能说。迟早完蛋<br></div>
 
 ### 218: [2023-03-17 21:19:05+08:00 推文](https://twitter.com/HeQinglian/status/1636718800954376192)
 
@@ -913,7 +913,7 @@ Re @zhixiangziyou 纽约民主党选民应该承受这结果——你们受连�
 
 ### 225: [2023-03-17 21:40:15+08:00 推文](https://twitter.com/HeQinglian/status/1636724128399994883)
 
-1、同意第一句。<br>2、民运不用他撕裂，他也没破坏美国民主（至少他没操纵选举），他的存在只是将所有的恶给引出来了，让所有参与表演者尽情展示。<br>3、整个戏剧是闹剧与拙劣马戏，没有半点悲剧的庄严感。 https://twitter.com/ZJ20672066/status/1636557486508462080<div class="rsshub-quote"><br><br>张杰: 郭文贵是中国权贵资本所长出的恶之花。他最大罪恶是撕裂民运和破坏美国民主。他本可以利用他的资金与民运联合对抗中共，但他一直在与中共勾兑，并对众多民运人士进行迫害。郭的爆料基本都是虚假的。郭在美国竞选中制造谣言。郭的官商勾结、不折手段和欺诈的中国商人特征，最终使他成为一个悲剧性人物。<br></div>
+1、同意第一句。<br>2、民运不用他撕裂，他也没破坏美国民主（至少他没操纵选举），他的存在只是将所有的恶给引出来了，让所有参与表演者尽情展示。<br>3、整个戏剧是闹剧与拙劣马戏，没有半点悲剧的庄严感。<div class="rsshub-quote"><br><br>张杰: 郭文贵是中国权贵资本所长出的恶之花。他最大罪恶是撕裂民运和破坏美国民主。他本可以利用他的资金与民运联合对抗中共，但他一直在与中共勾兑，并对众多民运人士进行迫害。郭的爆料基本都是虚假的。郭在美国竞选中制造谣言。郭的官商勾结、不折手段和欺诈的中国商人特征，最终使他成为一个悲剧性人物。<br></div>
 
 ### 226: [2023-03-17 21:47:55+08:00 推文](https://twitter.com/HeQinglian/status/1636726057511297024)
 
