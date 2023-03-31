@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2023-03-30
+date: 2023-03-31
 from: https://old.reddit.com/r/college/comments/1250xrm/my_professor_has_made_tutoring_mandatory/
 layout: post
 tags:
@@ -82,4 +82,20 @@ Tangentially, it is my view that tutoring requirements which form a participatio
 ----- __516.1__ -----2023-03-30 12:16:45+08:00:
 
 Damn right.
+
+### 517: [Is college mostly just about putting the work in and not necessarily being smart](https://old.reddit.com/r/college/comments/127ecyl/is_college_mostly_just_about_putting_the_work_in/), submitted on 2023-03-31 16:03:20+08:00.
+
+----- __517.1__ -----2023-03-31 21:19:17+08:00:
+
+The ASVAB is something like an IQ test.  The idea is to determine whether you're smart enough to be useful in the military.  As you probably know from recruiting, it's a low bar.
+
+If you scored in the 75th percentile or higher on the ASAB, you should assume  you have the capability to outperform most college students in most college settings.  Obviously, some colleges are more competitive than others (e.g., Columbia would be more competitive than Pace University).  And some majors are going to be more competitive than others (e.g., majoring in engineering is harder than majoring in history).  
+
+Even still, intelligence and education are not the same thing.  There are plenty of stupid civilian kids that get college degrees.  There are plenty of smart Marines who enlist right out of high school and don't go to college.  Some of them don't have any other options.  Some of them don't want to go to college.  And some of them want to get out in the world and actually do something that matters, as opposed to sitting in a classroom for four more years listening to some self-styled intellectual drone on about gender theory.
+
+I almost enlisted right out of high school.  The marine recruiter saw my SAT scores, ASVAB scores and was doing everything he could to keep me from talking to the Air Force recruiter.  This was shortly after 9/11, although my reasons for wanting to enlist were personal.  Sometimes I wonder what direction my life would have taken, if I'd enlisted.  
+
+I wound up going to college on a full ride, got a couple of graduate degrees, and taught college kids for a little while.  I refused to put up with bullshit of higher academia.  Now I work in biotech. 
+
+DM me if there is ever anything I can do to help you.  If you're trying to figure out what to do after the Marines, I might be able to help with that too.
 
