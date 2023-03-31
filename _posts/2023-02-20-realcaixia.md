@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2023-02-20~2023-02-26'
 
 ### 2: [2023-02-20 01:48:02+08:00 推文](https://twitter.com/realcaixia/status/1627364397743230976)
 
-很有道理。 https://twitter.com/liangziyueqian1/status/1627313235488808963<div class="rsshub-quote"><br><br>量子跃迁: 原创：洪流滚滚 https://t.co/70Z7Ske4ix<br><br><img style="" src="https://pbs.twimg.com/media/FpVgwJRaYAEFLtS?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpVgwuUaEAEs9mE?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
+很有道理。<div class="rsshub-quote"><br><br>量子跃迁: 原创：洪流滚滚<br><br><img style="" src="https://pbs.twimg.com/media/FpVgwJRaYAEFLtS?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpVgwuUaEAEs9mE?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 3: [2023-02-20 08:33:23+08:00 推文](https://twitter.com/realcaixia/status/1627466410715906048)
 
@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2023-02-20~2023-02-26'
 
 ### 4: [2023-02-20 08:55:12+08:00 推文](https://twitter.com/realcaixia/status/1627471898752987137)
 
-Re 教育、文化、科技创新😭<br><br>消费：各地裁员滚滚，收入维持不了生活，谁敢消费？企业倒闭、商店关门，市场半瘫，恶性循环。<br><br>国际关系：信誉扫地，空前孤立，交好国尽为恐怖国家：俄罗斯、北朝鲜、伊朗…<br><br>瘟疫与战争：源头尽在中共等恐怖国…<br><br>中国式现代化究竟是人类文明新新形态还是人类劫难新记录？！<br><img style="" src="https://pbs.twimg.com/media/FpXxEBtaMAAVtQs?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpXxEBtacAITan3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re 教育、文化、科技创新😭<br><br>消费：各地裁员滚滚，收入维持不了生活，谁敢消费？企业倒闭、商店关门，市场半瘫，恶性循环。<br><br>国际关系：信誉扫地，空前孤立，交好国尽为恐怖国家：俄罗斯、北朝鲜、伊朗…<br><br>瘟疫与战争：源头尽在中共等恐怖国…<br><br>中国式现代化究竟是人类文明新新形态还是人类劫难新记录？！ https://t.co/KSGxX2oyHL<br><img style="" src="https://pbs.twimg.com/media/FpXxEBtaMAAVtQs?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpXxEBtacAITan3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2023-02-21 07:31:18+08:00 推文](https://twitter.com/realcaixia/status/1627813171519168513)
 
@@ -37,7 +37,7 @@ Re @reallijiakun 中庸是不走极端。
 
 ### 6: [2023-02-21 08:07:20+08:00 推文](https://twitter.com/realcaixia/status/1627822241848377344)
 
-这个央视播音员真和习近平文化水平一般“高”吗？同样小学毕业、初中还正经读过？简直是自取其辱，无耻到不惜自黑自污来迎合统治者习近平、民间义和团吗？<br>这个年纪至少还得活三四十年吧？嘴里能说出这样无知无耻不要脸的话，等习和中共倒台，他如何面对观众听众，如何面对他的儿女和孙辈？！这人名字？<div class="rsshub-quote"><br><br>李老师不是你老师: 成本17美分的百元美钞应该价值多少美元？<br><br><video src="https://video.twimg.com/ext_tw_video/1627815198353489922/pu/vid/592x1280/o4Qe1hZ0_TbejyFL.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1627815198353489922/pu/img/2xqiv6z_hbNcS0gu.jpg"></video></div>
+这个央视播音员真和习近平文化水平一般“高”吗？同样小学毕业、初中还正经读过？简直是自取其辱，无耻到不惜自黑自污来迎合统治者习近平、民间义和团吗？<br>这个年纪至少还得活三四十年吧？嘴里能说出这样无知无耻不要脸的话，等习和中共倒台，他如何面对观众听众，如何面对他的儿女和孙辈？！这人名字？ https://twitter.com/whyyoutouzhele/status/1627815848587980801<div class="rsshub-quote"><br><br>李老师不是你老师: 成本17美分的百元美钞应该价值多少美元？ https://t.co/Vj4BM5oRxM<br><br><video src="https://video.twimg.com/ext_tw_video/1627815198353489922/pu/vid/592x1280/o4Qe1hZ0_TbejyFL.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1627815198353489922/pu/img/2xqiv6z_hbNcS0gu.jpg"></video></div>
 
 ### 7: [2023-02-21 11:44:14+08:00 推文](https://twitter.com/realcaixia/status/1627876827011096576)
 
@@ -45,7 +45,7 @@ Re @reallijiakun 中庸是不走极端。
 
 ### 8: [2023-02-21 11:46:01+08:00 推文](https://twitter.com/realcaixia/status/1627877274325336067)
 
-以言治罪。 https://twitter.com/yajunwwz/status/1627606973205340160<div class="rsshub-quote"><br><br>亚军&amp;王歪嘴: 革委会 https://t.co/y0DNmpqN5v<br><br><img style="" src="https://pbs.twimg.com/media/FpZr6U_aMAA1cZC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+以言治罪。<div class="rsshub-quote"><br><br>亚军&amp;王歪嘴: 革委会 https://t.co/y0DNmpqN5v<br><br><img style="" src="https://pbs.twimg.com/media/FpZr6U_aMAA1cZC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 9: [2023-02-22 05:43:44+08:00 推文](https://twitter.com/realcaixia/status/1628148492396003328)
 
@@ -61,19 +61,19 @@ Re https://t.co/ByuG6ocezr<br><img style="" src="https://pbs.twimg.com/media/Fph
 
 ### 12: [2023-02-22 06:31:11+08:00 推文](https://twitter.com/realcaixia/status/1628160432107098114)
 
-习控制的政府给俄军提供军粮，是比提供常规武器还严重的援助普京侵略战争行为。<div class="rsshub-quote"><br><br>ZHANGDONG: 中国向俄军提供军粮，虽然不是致命武器，但是保命，算不算军援呢？战场上敌对双方唯一目的就是消灭对方，杀伤有生力量，你死我活。现在有一种声音主张和平谈判，但是只要求西方停止向乌克兰提供武器，而不要求普京撤军停火。这是虚伪的和平主义者，是偏袒侵略方俄罗斯，而让乌克兰放下武器最终灭国。<br><br><video src="https://video.twimg.com/ext_tw_video/1627708655838560266/pu/vid/720x1280/nT7r4Onn2h8RBM3K.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1627708655838560266/pu/img/OLWd_gPhC7t2y2RG.jpg"></video></div>
+习控制的政府给俄军提供军粮，是比提供常规武器还严重的援助普京侵略战争行为。 https://twitter.com/zhangdong_sch/status/1627708736344031239<div class="rsshub-quote"><br><br>ZHANGDONG: 中国向俄军提供军粮，虽然不是致命武器，但是保命，算不算军援呢？战场上敌对双方唯一目的就是消灭对方，杀伤有生力量，你死我活。现在有一种声音主张和平谈判，但是只要求西方停止向乌克兰提供武器，而不要求普京撤军停火。这是虚伪的和平主义者，是偏袒侵略方俄罗斯，而让乌克兰放下武器最终灭国。 https://t.co/KuVc1AaH9h<br><br><video src="https://video.twimg.com/ext_tw_video/1627708655838560266/pu/vid/720x1280/nT7r4Onn2h8RBM3K.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1627708655838560266/pu/img/OLWd_gPhC7t2y2RG.jpg"></video></div>
 
 ### 13: [2023-02-22 06:35:45+08:00 推文](https://twitter.com/realcaixia/status/1628161581233078274)
 
-别说中国没一个孩子想，连成人都不敢想也不想想。<div class="rsshub-quote"><br><br>李隽🇦🇺: 听听这个少年说他为什么要上学，为什么学习知识。中国有一个孩子这样想吗？<br><br><video src="https://video.twimg.com/ext_tw_video/1627617293026070528/pu/vid/592x1280/-gK6VxJG6LBYZCW3.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1627617293026070528/pu/img/TfEwb2TZd83-BPZ1.jpg"></video></div>
+别说中国没一个孩子想，连成人都不敢想也不想想。<div class="rsshub-quote"><br><br>李隽🇦🇺: 听听这个少年说他为什么要上学，为什么学习知识。中国有一个孩子这样想吗？ https://t.co/MNz2NNWQqB<br><br><video src="https://video.twimg.com/ext_tw_video/1627617293026070528/pu/vid/592x1280/-gK6VxJG6LBYZCW3.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1627617293026070528/pu/img/TfEwb2TZd83-BPZ1.jpg"></video></div>
 
 ### 14: [2023-02-22 08:15:55+08:00 推文](https://twitter.com/realcaixia/status/1628186790698917888)
 
-推荐这期岳戈节目。习召开20大政治局会议，放风再一次国家机构“改革”，实质是反动。习权欲熏心与绝对控制狂。<br>李强总理未坐定即被收权，李强或弱过李克强；二中全会机构改革规模大，中共教授怒批：哪还有党政分开！要求检讨三年疫控，哪位“民主党派”人士胆子如... https://youtu.be/gYwbKDW5Tr8 来自YouTube
+推荐这期岳戈节目。习召开20大政治局会议，放风再一次国家机构“改革”，实质是反动。习权欲熏心与绝对控制狂。<br>李强总理未坐定即被收权，李强或弱过李克强；二中全会机构改革规模大，中共教授怒批：哪还有党政分开！要求检讨三年疫控，哪位“民主党派”人士胆子如... <a href="https://youtu.be/gYwbKDW5Tr8" target="_blank" rel="noopener noreferrer">https://youtu.be/gYwbKDW5Tr8</a>
 
 ### 15: [2023-02-22 08:29:55+08:00 推文](https://twitter.com/realcaixia/status/1628190312098107394)
 
-Re https://t.co/TNult4X23E<br><img style="" src="https://pbs.twimg.com/media/Fph-dRUXoAIuM1n?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re <br><img style="" src="https://pbs.twimg.com/media/Fph-dRUXoAIuM1n?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 16: [2023-02-23 13:42:30+08:00 推文](https://twitter.com/realcaixia/status/1628631362818256898)
 
@@ -89,11 +89,11 @@ Re https://t.co/TNult4X23E<br><img style="" src="https://pbs.twimg.com/media/Fph
 
 ### 19: [2023-02-24 04:41:57+08:00 推文](https://twitter.com/realcaixia/status/1628857717413797888)
 
-真希望我也能参加声援乌克兰声明联署签名。 https://twitter.com/zhangdong_sch/status/1628690130096513024<div class="rsshub-quote"><br><br>ZHANGDONG: 支持乌克兰自卫反击战恢复领土完整捍卫国家主权，反对虚伪和平投降论。这个声援乌克兰声明联署将在明天乌俄战争爆发一周年之际交给乌克兰驻柏林使馆以示声援乌克兰。我签名了。<br>【背景】前几天德国极左和女权主义代表发表了一个所谓的和平宣言要求乌克兰放下武器停战和谈（1） https://weact.campact.de/petitions/manifest-gegen-das-manifest-von-wagenknecht-und-schwarzer<br></div>
+真希望我也能参加声援乌克兰声明联署签名。<div class="rsshub-quote"><br><br>ZHANGDONG: 支持乌克兰自卫反击战恢复领土完整捍卫国家主权，反对虚伪和平投降论。这个声援乌克兰声明联署将在明天乌俄战争爆发一周年之际交给乌克兰驻柏林使馆以示声援乌克兰。我签名了。<br>【背景】前几天德国极左和女权主义代表发表了一个所谓的和平宣言要求乌克兰放下武器停战和谈（1） https://weact.campact.de/petitions/manifest-gegen-das-manifest-von-wagenknecht-und-schwarzer<br></div>
 
 ### 20: [2023-02-24 05:21:46+08:00 推文](https://twitter.com/realcaixia/status/1628867738243588098)
 
-今天纽约一会议，有中共国人发言提出“俄乌停战”，搞“不战不和”。我们千万不能忘记“三八线”停火，使东亚70年笼罩于北韩核威胁战争阴霾中。<br>现又有一些中共国人鼓吹俄与乌再来一次“不战不和”停火游戏。人们绝不可上当！停火让普京喘息，当有力有利时，中 、俄、北韩结成邪恶轴心国，威胁全球和平。 https://twitter.com/zhangdong_sch/status/1628421095530323971<div class="rsshub-quote"><br><br>ZHANGDONG: 在乌俄战争爆发一年之际王毅跑到莫斯科去为普京站台，并强调加强中俄政治和战略伙伴关系，彻底撕下中立假面具。所以中国吹嘘的所谓和平倡议就是毫无价值的一纸空文！中共拙劣的外交把自己推上了小丑的舞台，供全世界贻笑大方。 https://twitter.com/derspiegel/status/1628400859871854593<br></div>
+今天纽约一会议，有中共国人发言提出“俄乌停战”，搞“不战不和”。我们千万不能忘记“三八线”停火，使东亚70年笼罩于北韩核威胁战争阴霾中。<br>现又有一些中共国人鼓吹俄与乌再来一次“不战不和”停火游戏。人们绝不可上当！停火让普京喘息，当有力有利时，中 、俄、北韩结成邪恶轴心国，威胁全球和平。<div class="rsshub-quote"><br><br>ZHANGDONG: 在乌俄战争爆发一年之际王毅跑到莫斯科去为普京站台，并强调加强中俄政治和战略伙伴关系，彻底撕下中立假面具。所以中国吹嘘的所谓和平倡议就是毫无价值的一纸空文！中共拙劣的外交把自己推上了小丑的舞台，供全世界贻笑大方。<br></div>
 
 ### 21: [2023-02-24 09:21:17+08:00 推文](https://twitter.com/realcaixia/status/1628928016884846596)
 
@@ -109,7 +109,7 @@ Re @ErR7YLP9yZf4Yem 抱歉，你的这个调查问卷，我没看到，如果我
 
 ### 24: [2023-02-24 11:32:04+08:00 推文](https://twitter.com/realcaixia/status/1628960927197396993)
 
-令人寒心！如此冷漠无情，有一天那些进进出出的顾客和超市工作人员遇到险境，会指望别人帮你救你吗？只顾自己岁月静好、对别人冷漠无情已是社会道德感社会同情心跌到底线以下。<div class="rsshub-quote"><br><br>章立凡 Zhang Lifan: 视频【人心可以冷漠到如此地步！】 https://t.co/wZYAI7Eh6m<br><br><video src="https://video.twimg.com/ext_tw_video/1628649746356408320/pu/vid/720x960/h5E6ZUvItB8oj67_.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1628649746356408320/pu/img/FhbymVzEFzg6qTkn.jpg"></video></div>
+令人寒心！如此冷漠无情，有一天那些进进出出的顾客和超市工作人员遇到险境，会指望别人帮你救你吗？只顾自己岁月静好、对别人冷漠无情已是社会道德感社会同情心跌到底线以下。 https://twitter.com/zhanglifan/status/1628649972181909505<div class="rsshub-quote"><br><br>章立凡 Zhang Lifan: 视频【人心可以冷漠到如此地步！】 https://t.co/wZYAI7Eh6m<br><br><video src="https://video.twimg.com/ext_tw_video/1628649746356408320/pu/vid/720x960/h5E6ZUvItB8oj67_.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1628649746356408320/pu/img/FhbymVzEFzg6qTkn.jpg"></video></div>
 
 ### 25: [2023-02-24 14:57:20+08:00 推文](https://twitter.com/realcaixia/status/1629012585851850754)
 
