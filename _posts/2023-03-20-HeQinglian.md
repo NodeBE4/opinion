@@ -161,7 +161,7 @@ RT 李江琳<br>拜登的银行记录。这可真是鸡犬升天。 https://tw
 
 ### 37: [2023-03-22 08:00:27+08:00 推文](https://twitter.com/HeQinglian/status/1638329758134984704)
 
-美国国务院发言人约翰·柯比：“LGBQI+的权利是美国的外交政策核心”。 https://twitter.com/realDailyWire/status/1638267335634046978<div class="rsshub-quote"><br><br>Daily Wire: Kirby: "LGBTQ+ rights...are a core part of our foreign policy." <br>https://t.co/qfdXTr52B9<br><br><video src="https://video.twimg.com/ext_tw_video/1638265285164650508/pu/vid/720x406/XirVONbtsrH17VI7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1638265285164650508/pu/img/S1NR7Qa4_SPM3nDP.jpg"></video></div>
+美国国务院发言人约翰·柯比：“LGBQI+的权利是美国的外交政策核心”。<div class="rsshub-quote"><br><br>Daily Wire: Kirby: "LGBTQ+ rights...are a core part of our foreign policy." <br>https://t.co/qfdXTr52B9<br><br><video src="https://video.twimg.com/ext_tw_video/1638265285164650508/pu/vid/720x406/XirVONbtsrH17VI7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1638265285164650508/pu/img/S1NR7Qa4_SPM3nDP.jpg"></video></div>
 
 ### 38: [2023-03-22 08:05:48+08:00 推文](https://twitter.com/HeQinglian/status/1638331101759299585)
 
@@ -249,7 +249,7 @@ RT 中国数字时代<br>Re https://chinadigitaltimes.net/chinese/675225.html
 
 ### 59: [2023-03-24 12:48:02+08:00 推文](https://twitter.com/zhixiangziyou/status/1639126903943737349)
 
-RT L JM🇺🇸<br>Gateway Pundit 报道了亚利桑那州参议院选举委员会的一项调查和介绍，该委员会估计 2022 年将有近 300,000 张选票无法通过签名验证标准。选票签名是证明选票是由真实选民投票的唯一方式。<div class="rsshub-quote"><br><br>DC_Draino: The Gateway Pundit reported on an investigation and presentation in the Arizona Senate Elections Committee, which estimated that nearly 300,000 ballots in 2022 would fail signature verification standards. Ballot signatures are the only way of proving that a ballot was cast by a… https://twitter.com/i/web/status/1638751315294670848<br></div>
+RT L JM🇺🇸<br>Gateway Pundit 报道了亚利桑那州参议院选举委员会的一项调查和介绍，该委员会估计 2022 年将有近 300,000 张选票无法通过签名验证标准。选票签名是证明选票是由真实选民投票的唯一方式。 https://twitter.com/dc_draino/status/1638751315294670848<div class="rsshub-quote"><br><br>DC_Draino: The Gateway Pundit reported on an investigation and presentation in the Arizona Senate Elections Committee, which estimated that nearly 300,000 ballots in 2022 would fail signature verification standards. Ballot signatures are the only way of proving that a ballot was cast by a… https://twitter.com/i/web/status/1638751315294670848<br></div>
 
 ### 60: [2023-03-24 21:25:55+08:00 推文](https://twitter.com/HeQinglian/status/1639257236177551361)
 
@@ -285,7 +285,7 @@ Re @JianglinLi @Wu_Zhi @david_david1968 @HongfuDing 小丑一个，粘着别人�
 
 ### 68: [2023-03-25 08:06:53+08:00 推文](https://twitter.com/HeQinglian/status/1639418539437113344)
 
-美国北约不赢就是输。理由：北约成员国经济总量占全球的约48%左右，俄GDP总量占全球不到2%；在全球军费开支方面，2021年，美国及北约盟国合计占全球军费开支的55%； 俄军费开支659亿美元，占全球军费总开支2万亿的3.3%。如果不能赢，美国的全球领导地位将形成极大的冲击力。https://www.rfa.org/mandarin/pinglun/heqinglian/hql-03242023125009.html https://twitter.com/KELMAND1/status/1639136603368202246<div class="rsshub-quote"><br><br>Ezio Mao☢: 许多美国高级军方和情报官员认为，乌克兰将无法再从当前的冲突中取得胜利。<br><br>“大部分乌克兰军队已经阵亡。在美国受训的最优秀的士兵要么阵亡，要么无法行动。没有人能抹杀乌克兰的英勇，但俄罗斯无论如何都有可能获胜，这要归功于压倒性的资源”Keith Kellogg中将表示。<br><br>https://www.americanthinker.com/blog/2023/03/it_slowly_dawns_on_the_west_that_ukraine_is_not_going_to_win.html<br></div>
+美国北约不赢就是输。理由：北约成员国经济总量占全球的约48%左右，俄GDP总量占全球不到2%；在全球军费开支方面，2021年，美国及北约盟国合计占全球军费开支的55%； 俄军费开支659亿美元，占全球军费总开支2万亿的3.3%。如果不能赢，美国的全球领导地位将形成极大的冲击力。https://www.rfa.org/mandarin/pinglun/heqinglian/hql-03242023125009.html<div class="rsshub-quote"><br><br>Ezio Mao☢: 许多美国高级军方和情报官员认为，乌克兰将无法再从当前的冲突中取得胜利。<br><br>“大部分乌克兰军队已经阵亡。在美国受训的最优秀的士兵要么阵亡，要么无法行动。没有人能抹杀乌克兰的英勇，但俄罗斯无论如何都有可能获胜，这要归功于压倒性的资源”Keith Kellogg中将表示。<br><br>https://www.americanthinker.com/blog/2023/03/it_slowly_dawns_on_the_west_that_ukraine_is_not_going_to_win.html<br></div>
 
 ### 69: [2023-03-25 09:24:21+08:00 推文](https://twitter.com/HeQinglian/status/1639438036810252288)
 

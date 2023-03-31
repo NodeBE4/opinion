@@ -61,7 +61,7 @@ RT Kenneth Roth<br>Because of Beijing's "national security" law, "Hong Kong, o
 
 ### 12: [2022-05-04 17:23:00+08:00 推文](https://twitter.com/Tominmedill/status/1521782435452706816)
 
-RT Thomas Yau<br>1/2 A major controversy in #Shanghai lockdown is how much power does neighbourhood committees ("Ju Wei") have. Technically they are self-governing bodies of residents, but in reality they are under the leadership of street admin ("Jie Dao").<br><br>Edward Lawrence: As already mentioned, four days ago we were meant to be released and allowed into our sub-district due to not having any cases for weeks, but compound management won't allow it - and the final decision is theirs. Guess they don't want to risk any consequences if it goes wrong...<br>
+RT Thomas Yau<br>1/2 A major controversy in #Shanghai lockdown is how much power does neighbourhood committees ("Ju Wei") have. Technically they are self-governing bodies of residents, but in reality they are under the leadership of street admin ("Jie Dao").
 
 ### 13: [2022-05-05 04:02:14+08:00 推文](https://twitter.com/osmastro/status/1521943301586313219)
 
