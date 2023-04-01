@@ -17,11 +17,11 @@ title: 'Twitter @蔡霞: 2023-03-20~2023-03-26'
 
 ### 1: [2023-03-20 03:23:04+08:00 推文](https://twitter.com/realcaixia/status/1637535174052446208)
 
-高瑜大姐多多保重。杜光老先生唱“茶馆小调”我也在场，印象很深。我是后知后觉，我当时只理解q歌词的字面意思。<br>现在想来鲍彤、杜光、蒋彦永等老一代，1940年代是他们青春岁月，他们反抗蒋国民党政府禁言；到了耄耋之年，他们反抗习与中共禁言，老先生唱这歌，实质是总结了他们的一生。令人感慨万千！<div class="rsshub-quote"><br><br>高瑜: 2022年張思之、蔣宗曹、鮑彤三位先生相繼去世，我都被站崗，都被阻止參加告別式，禁止送花圈。送別鮑老那天，國保竟然來了十個人，還從派出所叫來十個片警，揚言要拘捕我兒子，讓我再一次嘗試專政鐵拳。今年兩會被旅遊中，蔣彥永、杜光先生又相繼去世，我更被禁言，我的痛苦像再一次經歷了六四，那年 https://t.co/sbzNfWuIA5<br><br><img style="" src="https://pbs.twimg.com/media/FrkUWYuaUAAWjYp?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrkVO_zaEAA4PPL?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrkXT2waYAcvzw7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+高瑜大姐多多保重。杜光老先生唱“茶馆小调”我也在场，印象很深。我是后知后觉，我当时只理解q歌词的字面意思。<br>现在想来鲍彤、杜光、蒋彦永等老一代，1940年代是他们青春岁月，他们反抗蒋国民党政府禁言；到了耄耋之年，他们反抗习与中共禁言，老先生唱这歌，实质是总结了他们的一生。令人感慨万千！ https://twitter.com/gaoyu200812/status/1637381346401349638<div class="rsshub-quote"><br><br>高瑜: 2022年張思之、蔣宗曹、鮑彤三位先生相繼去世，我都被站崗，都被阻止參加告別式，禁止送花圈。送別鮑老那天，國保竟然來了十個人，還從派出所叫來十個片警，揚言要拘捕我兒子，讓我再一次嘗試專政鐵拳。今年兩會被旅遊中，蔣彥永、杜光先生又相繼去世，我更被禁言，我的痛苦像再一次經歷了六四，那年 https://t.co/sbzNfWuIA5<br><br><img style="" src="https://pbs.twimg.com/media/FrkUWYuaUAAWjYp?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrkVO_zaEAA4PPL?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrkXT2waYAcvzw7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 2: [2023-03-20 04:37:09+08:00 推文](https://twitter.com/realcaixia/status/1637553819340120065)
 
-中共在1949以后的统治模式不脱4个字:专制掠夺。“掠夺”私人财产，一直没停止过。<br>王先生⬇️文章揭露中共对环境资源的“掠夺”式开采带来的恶果：破坏自然环境，不仅危害中国人而且将危害全球人类未来的生存。<br>中共掠夺式的开采利用资源，已经使中国空气、水、土地、食品严重污染，癌症发病率死亡率高于全球 https://twitter.com/yibaochina/status/1636474477088317446<div class="rsshub-quote"><br><br>《议报》: 王维洛 | 西藏高原生态环境恶化加剧 https://yibaochina.com/?p=249761 未来中国冰川面积的减少，将是一个持续加速的过程。西藏流亡政府在2015年在巴黎气候大会之前，提出的到2050年西藏三分之二的冰川可能因气候变迁而消失的预测，将会提前出现。那是习近平的第二个一百年，山河破碎的第二个一百年。<br></div>
+中共在1949以后的统治模式不脱4个字:专制掠夺。“掠夺”私人财产，一直没停止过。<br>王先生⬇️文章揭露中共对环境资源的“掠夺”式开采带来的恶果：破坏自然环境，不仅危害中国人而且将危害全球人类未来的生存。<br>中共掠夺式的开采利用资源，已经使中国空气、水、土地、食品严重污染，癌症发病率死亡率高于全球<div class="rsshub-quote"><br><br>《议报》: 王维洛 | 西藏高原生态环境恶化加剧 https://yibaochina.com/?p=249761 未来中国冰川面积的减少，将是一个持续加速的过程。西藏流亡政府在2015年在巴黎气候大会之前，提出的到2050年西藏三分之二的冰川可能因气候变迁而消失的预测，将会提前出现。那是习近平的第二个一百年，山河破碎的第二个一百年。<br></div>
 
 ### 3: [2023-03-20 04:55:24+08:00 推文](https://twitter.com/realcaixia/status/1637558411717144577)
 
@@ -29,7 +29,7 @@ Re 举中国2020年癌症发病数和死亡数为证：中国新发癌症人数�
 
 ### 4: [2023-03-20 05:10:08+08:00 推文](https://twitter.com/realcaixia/status/1637562118663999488)
 
-真是开心一刻！😄！👍！ https://twitter.com/xingzhe2021/status/1637491595405557764<div class="rsshub-quote"><br><br>墻國荒誕字（墙国荒诞字）: 《憤怒的皇帝》系列搞笑劇:<br>第24集: 《進退兩難》<br>皇帝即將訪問俄羅斯，海牙國際刑事法庭突發普京逮捕令，讓皇帝措手不及，進退兩難… https://t.co/S5loYnc2iu<br><br><video src="https://video.twimg.com/ext_tw_video/1637491218421624832/pu/vid/1280x720/5b3vTTBC5ec08GrT.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1637491218421624832/pu/img/TsAI6sWtcCnFK8r9.jpg"></video></div>
+真是开心一刻！😄！👍！<div class="rsshub-quote"><br><br>墻國荒誕字（墙国荒诞字）: 《憤怒的皇帝》系列搞笑劇:<br>第24集: 《進退兩難》<br>皇帝即將訪問俄羅斯，海牙國際刑事法庭突發普京逮捕令，讓皇帝措手不及，進退兩難… https://t.co/S5loYnc2iu<br><br><video src="https://video.twimg.com/ext_tw_video/1637491218421624832/pu/vid/1280x720/5b3vTTBC5ec08GrT.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1637491218421624832/pu/img/TsAI6sWtcCnFK8r9.jpg"></video></div>
 
 ### 5: [2023-03-20 05:21:59+08:00 推文](https://twitter.com/realcaixia/status/1637565100554059776)
 
@@ -65,15 +65,15 @@ Re 举中国2020年癌症发病数和死亡数为证：中国新发癌症人数�
 
 ### 13: [2023-03-21 01:20:01+08:00 推文](https://twitter.com/realcaixia/status/1637866597091278848)
 
-笑蜀这篇文章有深度思考。深刻不等于也不应该等于极端化。 https://twitter.com/yibaochina/status/1635859554775777280<div class="rsshub-quote"><br><br>《议报》: 笑蜀 | 警惕深刻 https://yibaochina.com/?p=249755 看似深刻的推理被现实撞得粉碎，这说明了一个问题，即深刻本身在某种程度上与现实的对立、深刻本身在某种程度上的破产。国人往往崇拜理论上的深刻，殊不知，很多所谓的深刻很容易沦为理论上的极化，最典型的就是马教的决定论。<br></div>
+笑蜀这篇文章有深度思考。深刻不等于也不应该等于极端化。<div class="rsshub-quote"><br><br>《议报》: 笑蜀 | 警惕深刻 https://yibaochina.com/?p=249755 看似深刻的推理被现实撞得粉碎，这说明了一个问题，即深刻本身在某种程度上与现实的对立、深刻本身在某种程度上的破产。国人往往崇拜理论上的深刻，殊不知，很多所谓的深刻很容易沦为理论上的极化，最典型的就是马教的决定论。<br></div>
 
 ### 14: [2023-03-21 22:10:16+08:00 推文](https://twitter.com/realcaixia/status/1638181231191003136)
 
-还用说吗？天天吹嘘“东升西降”，从“建设人类命运共同体”到给世界“提供人类文明新形态”，具有“制度优势”的习朝中国，三年疫情给国人发过一分钱生活补贴费吗？何论派飞机接回国人。<div class="rsshub-quote"><br><br>李承鹏（真正的大眼哥）: 昨天晚餐听陈天庸夫人“马耳他的鱼儿”讲了一个真实故事：<br>疫情爆发后，马耳他这小国无法承载，由该国政府出资包机运返各国游客（游客也出一点小费用）。各国政府均迅速配合，开放关口。<br>只有一个国家拒绝接回自己的国民，且没有给出任何回复。<br>有的人只好在迪拜机场住了几个月。<br>你猜这是哪个国家。… https://twitter.com/i/web/status/1637959260662542336<br></div>
+还用说吗？天天吹嘘“东升西降”，从“建设人类命运共同体”到给世界“提供人类文明新形态”，具有“制度优势”的习朝中国，三年疫情给国人发过一分钱生活补贴费吗？何论派飞机接回国人。 https://twitter.com/dayangelcp/status/1637959260662542336<div class="rsshub-quote"><br><br>李承鹏（真正的大眼哥）: 昨天晚餐听陈天庸夫人“马耳他的鱼儿”讲了一个真实故事：<br>疫情爆发后，马耳他这小国无法承载，由该国政府出资包机运返各国游客（游客也出一点小费用）。各国政府均迅速配合，开放关口。<br>只有一个国家拒绝接回自己的国民，且没有给出任何回复。<br>有的人只好在迪拜机场住了几个月。<br>你猜这是哪个国家。… https://twitter.com/i/web/status/1637959260662542336<br></div>
 
 ### 15: [2023-03-21 22:15:09+08:00 推文](https://twitter.com/realcaixia/status/1638182460851888130)
 
-秘密拘押已成常态，任何一个人走在路上都可能瞬间消失。电影“秋菊打官司”里有这个场面，不理解的可以去找那部电影看看。<div class="rsshub-quote"><br><br>尚寶軍: 編程隨想似乎有下落了 https://t.co/DhDsik8cAu<br><br><img style="" src="https://pbs.twimg.com/media/Frt6UIbaIAAngyZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+秘密拘押已成常态，任何一个人走在路上都可能瞬间消失。电影“秋菊打官司”里有这个场面，不理解的可以去找那部电影看看。 https://twitter.com/zt9i7ye015ljzg0/status/1638037384557391874<div class="rsshub-quote"><br><br>尚寶軍: 編程隨想似乎有下落了 https://t.co/DhDsik8cAu<br><br><img style="" src="https://pbs.twimg.com/media/Frt6UIbaIAAngyZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 16: [2023-03-21 22:20:16+08:00 推文](https://twitter.com/realcaixia/status/1638183750180933632)
 
@@ -117,7 +117,7 @@ Re @ChanrichAmy 手术成功了！真是很暖心的好消息🌹🌹。祝贺�
 
 ### 26: [2023-03-23 11:30:17+08:00 推文](https://twitter.com/realcaixia/status/1638744949821956099)
 
-邹幸彤香港青年的人格典范。<div class="rsshub-quote"><br><br>《议报》: 邹幸彤 | 法庭陈词 https://yibaochina.com/?p=249820 当人民在权力面前变得愈来愈透明，但权力却在人民面前变得愈来愈不透明的时候，人民就不再是国家的主人，而是国家的奴隶。而“国家安全”亦只会成为掩饰这种奴役的借口。<br></div>
+邹幸彤香港青年的人格典范。 https://twitter.com/yibaochina/status/1638672411393392640<div class="rsshub-quote"><br><br>《议报》: 邹幸彤 | 法庭陈词 https://yibaochina.com/?p=249820 当人民在权力面前变得愈来愈透明，但权力却在人民面前变得愈来愈不透明的时候，人民就不再是国家的主人，而是国家的奴隶。而“国家安全”亦只会成为掩饰这种奴役的借口。<br></div>
 
 ### 27: [2023-03-23 11:32:45+08:00 推文](https://twitter.com/realcaixia/status/1638745572256669700)
 
@@ -125,7 +125,7 @@ Re @ChanrichAmy 手术成功了！真是很暖心的好消息🌹🌹。祝贺�
 
 ### 28: [2023-03-23 11:39:15+08:00 推文](https://twitter.com/realcaixia/status/1638747209612300289)
 
-中共国就怕真相，就怕信息自由流动。一个毫不讲外交基本道德规范的政权，他们只会破坏世界秩序，破坏世界和平。<div class="rsshub-quote"><br><br>美国驻华使领馆 US MissionCN: 昨天，中华人民共和国的审查者对我们关于布林肯国务卿发布2022年度人权报告的微信和微博内容采取措施，限制网民的互动和知晓。如布林肯国务卿所说：“本报告的目的不是说教或羞辱……”<br></div>
+中共国就怕真相，就怕信息自由流动。一个毫不讲外交基本道德规范的政权，他们只会破坏世界秩序，破坏世界和平。 https://twitter.com/usa_china_talk/status/1638457380273881088<div class="rsshub-quote"><br><br>美国驻华使领馆 US MissionCN: 昨天，中华人民共和国的审查者对我们关于布林肯国务卿发布2022年度人权报告的微信和微博内容采取措施，限制网民的互动和知晓。如布林肯国务卿所说：“本报告的目的不是说教或羞辱……” https://twitter.com/USA_China_Talk/status/1638457166670561281<br></div>
 
 ### 29: [2023-03-23 11:47:45+08:00 推文](https://twitter.com/realcaixia/status/1638749346283008002)
 
@@ -141,7 +141,7 @@ Re @ChanrichAmy 手术成功了！真是很暖心的好消息🌹🌹。祝贺�
 
 ### 32: [2023-03-24 03:23:16+08:00 推文](https://twitter.com/realcaixia/status/1638984777377239042)
 
-一个小粉红被专政铁拳砸醒了。警察抓他，非要给他按个“罪名”，以强词夺理说抓他“合理合法”。他从此就有了“污点记录”，这会影响到他的一生生活和前途。<br>希望更多的年轻人醒悟过来。在一个无法治，无公开透明，无言论自由，无人权保障的国度里，今天发生在别人身上的事，说不定明天就发生在你身上。 https://twitter.com/tgtm_official/status/1637997459854221312<div class="rsshub-quote"><br><br>The Great Translation Movement 大翻译运动官方推号: A 22 years old boy who live in Shanghai  taken away by the police due to some unreasonable charges<br><br>#大翻译运动<br>#TheGreatTranslationMovement <br>#大翻譯運動 https://t.co/HpOJEaKq42<br><br><img style="" src="https://pbs.twimg.com/media/FrtNwvTXsAAKVlb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrtNwvNX0AECNiV?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+一个小粉红被专政铁拳砸醒了。警察抓他，非要给他按个“罪名”，以强词夺理说抓他“合理合法”。他从此就有了“污点记录”，这会影响到他的一生生活和前途。<br>希望更多的年轻人醒悟过来。在一个无法治，无公开透明，无言论自由，无人权保障的国度里，今天发生在别人身上的事，说不定明天就发生在你身上。 https://twitter.com/tgtm_official/status/1637997459854221312
 
 ### 33: [2023-03-24 08:10:05+08:00 推文](https://twitter.com/realcaixia/status/1639056958576791554)
 
@@ -161,7 +161,7 @@ Re @zhaochangqing89 是胡石根长老。在京时就多次听说过他的名字
 
 ### 37: [2023-03-25 02:01:52+08:00 推文](https://twitter.com/realcaixia/status/1639326679343542273)
 
-列宁主义政党及以党领导一切（统治一切）为核心的极权国家，如何推倒极权制度实现政治转型，既是长时段的学术性话题，也是事关极权国家民众命运、事关全球秩序与世界和平的最重大的政治议题。<br>特别最近的普习会中习说“共同推动未有之百年大变局”，更使人们无法否认邪恶的“房间里的大象”。<br>特推荐一读 https://twitter.com/yibaochina/status/1639320436193230862<div class="rsshub-quote"><br><br>《议报》: 周舵 | 俄罗斯未竟的革命——读书报告之二十三 https://yibaochina.com/?p=249833 俄乌战争充分表明俄罗斯民主转型的失败，这对中国未来的现代化转型极具借鉴意义，所以我选这本《俄罗斯未竟的革命》（美国斯坦福大学教授M.麦克福尔著，上海人民出版社2014年出版）介绍给大家。<br></div>
+列宁主义政党及以党领导一切（统治一切）为核心的极权国家，如何推倒极权制度实现政治转型，既是长时段的学术性话题，也是事关极权国家民众命运、事关全球秩序与世界和平的最重大的政治议题。<br>特别最近的普习会中习说“共同推动未有之百年大变局”，更使人们无法否认邪恶的“房间里的大象”。<br>特推荐一读<div class="rsshub-quote"><br><br>《议报》: 周舵 | 俄罗斯未竟的革命——读书报告之二十三 https://yibaochina.com/?p=249833 俄乌战争充分表明俄罗斯民主转型的失败，这对中国未来的现代化转型极具借鉴意义，所以我选这本《俄罗斯未竟的革命》（美国斯坦福大学教授M.麦克福尔著，上海人民出版社2014年出版）介绍给大家。<br></div>
 
 ### 38: [2023-03-25 02:16:22+08:00 推文](https://twitter.com/realcaixia/status/1639330327750377485)
 
@@ -173,7 +173,7 @@ Re 一句话写错，现作更正：特别是最新的习普会中习说共同�
 
 ### 40: [2023-03-25 13:43:07+08:00 推文](https://twitter.com/realcaixia/status/1639503155540144130)
 
-1980年代两岸开放，老兵回大陆探亲。一天回家见到个陌生人正和父亲谈天。父亲经常是家乡口音的普通话，那天他与那人说着一口家乡土话，爽朗的笑声直传到院门外。父亲叫我近前去，说：“叫大伯，我的堂哥。他去了台湾，一走就40多年，总算回来了。以后要常来看看。”一海之隔生死两茫茫，大伯揉着眼睛点头 https://twitter.com/rfa_chinese/status/1638646742475481088<div class="rsshub-quote"><br><br>自由亚洲电台: 【我的1949: 乡愁的送行者】<br>年近九旬的高秉涵律师老家在山东，1949年跟着国民政府大撤退来到台湾，30多年来，他抱了2、300个老兵骨灰回大陆，一场疫情打断回乡步伐，今年初中国解封国境，老律师继续扛起乡愁的担子前行。<br>如今台海紧张对峙，他说“两岸都是我的母亲，不要再受伤，绝对不能变成弹药库。” https://t.co/ryDaOqchxr<br><br><video src="https://video.twimg.com/amplify_video/1638279357788573703/vid/1920x1080/dImsS1qfxH4HeQbf.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1638279357788573703/img/KvfP-hcUruM9Incf.jpg"></video></div>
+1980年代两岸开放，老兵回大陆探亲。一天回家见到个陌生人正和父亲谈天。父亲经常是家乡口音的普通话，那天他与那人说着一口家乡土话，爽朗的笑声直传到院门外。父亲叫我近前去，说：“叫大伯，我的堂哥。他去了台湾，一走就40多年，总算回来了。以后要常来看看。”一海之隔生死两茫茫，大伯揉着眼睛点头<div class="rsshub-quote"><br><br>自由亚洲电台: 【我的1949: 乡愁的送行者】<br>年近九旬的高秉涵律师老家在山东，1949年跟着国民政府大撤退来到台湾，30多年来，他抱了2、300个老兵骨灰回大陆，一场疫情打断回乡步伐，今年初中国解封国境，老律师继续扛起乡愁的担子前行。<br>如今台海紧张对峙，他说“两岸都是我的母亲，不要再受伤，绝对不能变成弹药库。” https://t.co/ryDaOqchxr<br><br><video src="https://video.twimg.com/amplify_video/1638279357788573703/vid/1920x1080/dImsS1qfxH4HeQbf.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1638279357788573703/img/KvfP-hcUruM9Incf.jpg"></video></div>
 
 ### 41: [2023-03-25 22:13:20+08:00 推文](https://twitter.com/realcaixia/status/1639631555365838849)
 
@@ -197,7 +197,7 @@ Re @LifetoDeathG @yjpc007 不是畸形的逻辑思维，他们没有逻辑，只
 
 ### 46: [2023-03-26 07:43:22+08:00 推文](https://twitter.com/realcaixia/status/1639775008909303808)
 
-在京一次面试申请蔡定剑宪法教育基金奖学金的大学生时，问怎么看当局一面宣传发扬民主，一面压制言论和民主？一位北大学生说“对党和政府要有同情性理解”。<br>我问学生谁教你们这么理解的，答北大法学院强世功教授。我让那学生出去休息，对着在场的北大老师就开骂了：说这么无耻的话配当北大教授吗？！ https://twitter.com/dayangelcp/status/1639567725445124098<div class="rsshub-quote"><br><br>李承鹏（真正的大眼哥）: 总看到一些人劝说“宽容比自由重要”。<br><br>其实胡适的原话还有半句，我什么都能容忍，除了愚蠢。<br><br>宽容比自由重要，前提是在一个自由的社会里。如果你在朝鲜，见人们饿得皮包骨头，你还大谈宽容比自由重要，这就太脏了。<br></div>
+在京一次面试申请蔡定剑宪法教育基金奖学金的大学生时，问怎么看当局一面宣传发扬民主，一面压制言论和民主？一位北大学生说“对党和政府要有同情性理解”。<br>我问学生谁教你们这么理解的，答北大法学院强世功教授。我让那学生出去休息，对着在场的北大老师就开骂了：说这么无耻的话配当北大教授吗？！<div class="rsshub-quote"><br><br>李承鹏（真正的大眼哥）: 总看到一些人劝说“宽容比自由重要”。<br><br>其实胡适的原话还有半句，我什么都能容忍，除了愚蠢。<br><br>宽容比自由重要，前提是在一个自由的社会里。如果你在朝鲜，见人们饿得皮包骨头，你还大谈宽容比自由重要，这就太脏了。<br></div>
 
 ### 47: [2023-03-26 11:16:38+08:00 推文](https://twitter.com/realcaixia/status/1639828680473198592)
 
