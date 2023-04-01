@@ -109,3 +109,25 @@ The United States Government found a way around that little problem.  Their solu
 
 Just pay private companies to violate the first amendment on the government's behalf.  Like Twitter, before Elon Musk bought it.
 
+----- __518.2__ -----2023-04-01 22:25:00+08:00:
+
+The government can and has done that.  Many suspect that government contracts of this type were the only reason Twitter appeared profitable, before Musk bought it.
+
+Twitter set up a portal for federal employees to flag content that would be removed from the platform.  Twitter also throttled the visibility of entire categories of discussion, the activity of specific people (including journalists) and groups.  
+
+The workflow was more complicated than this, but basically here is how it worked:
+
+1. Employee of the federal government finds content they don't like, people who post content the employee didn't like, conceptual categories, and the like.
+2. Employee of the federal government identifies that content, user or group, or conceptual category to Twitter's so-called "Trust & Safety" team.
+3. Twitter's so-called "Trust & Safety" team removes the information, throttles its visibility, throttles user visibility, etc. 
+
+This bullshit was initially described as necessary to control "misinformation."  But that was not what Twitter was doing.  Twitter was engaged in overt censorship of political dissent, among other egregious constitutional violations at the behest of the federal government.  Some folks at some media outlets knew this was going on and knowingly decided to withhold it from the public.  
+
+But then Elon Musk bought Twitter and this information was made public.  Astonishingly, the media (except folks like Matt Taibbi) tried to spin this as a good thing.  More astonishingly, some citizens were ok with the censorship. 
+
+Relatedly, the discussion of these issues has been very nonsensical.  For example, some argued Twitter had a right to decide how to operate the platform, because Twitter is a private company.  
+
+Those people did not understand that Twitter was censoring content at the behest of the government.  Obviously, the government's use of a company as its cat's paw to violate the first amendment is just as wrong as doing the same thing, directly.  
+
+Disgraceful.
+

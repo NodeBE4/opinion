@@ -79,6 +79,10 @@ If I were to summarise the narrative thrust here, it's that the 'Silk Road' is n
 
 I also feel I must also overrule /u/DanKensington slightly because the name is also problematic. It's a name coined by a German in the 1890s to describe a particular route described in a particular source, that was then conflated out to a wide variety of contexts well beyond what that original German was going for, as noted in the linked post.
 
+----- __1165.5__ -----2023-04-01 21:51:12+08:00:
+
+Precisely. There's nothing special about the 'Silk Road' within medieval Eurasia, let alone within the broader spatial and temporal scope of human history.
+
 ### 1166: [A Brief and Unimportant Note from the Mod Team About Some Minor Bot Testing Over the Next 24 to 36 hours.](https://old.reddit.com/r/AskHistorians/comments/127yw7e/a_brief_and_unimportant_note_from_the_mod_team/), submitted on 2023-04-01 04:50:14+08:00.
 
 ----- __1166.1__ -----2023-04-01 15:23:38+08:00:

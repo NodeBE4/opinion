@@ -49,7 +49,7 @@ RT CommonWealth Magazine<br>A viral footage of a confrontation between a profe
 
 ### 9: [2023-03-31 07:34:21+08:00 推文](https://twitter.com/RudyakMarina/status/1641584678204317699)
 
-RT Marina Rudyak 卢玛丽<br>Thank you for the invitation, for the full house and the really good questions from the audience. https://twitter.com/malikammar/status/1641557326841929728<div class="rsshub-quote"><br><br>Dr. Ammar A. Malik عمار ملک: ⁦Full house here at ⁦@williamandmary⁩ listening to ⁦@RudyakMarina⁩ explain why we need to, and how to, take time to understand global China 🇨🇳 global_wm⁩ ⁦@AidData⁩ ⁦ https://t.co/PuDsPUctoT<br><br><img style="" src="https://pbs.twimg.com/media/Fsf7r22aAAA0OH9?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT Marina Rudyak 卢玛丽<br>Thank you for the invitation, for the full house and the really good questions from the audience.<div class="rsshub-quote"><br><br>Dr. Ammar A. Malik عمار ملک: ⁦Full house here at ⁦@williamandmary⁩ listening to ⁦@RudyakMarina⁩ explain why we need to, and how to, take time to understand global China 🇨🇳 global_wm⁩ ⁦@AidData⁩ ⁦ https://t.co/PuDsPUctoT<br><br><img style="" src="https://pbs.twimg.com/media/Fsf7r22aAAA0OH9?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 10: [2023-03-31 15:10:05+08:00 推文](https://twitter.com/lingli_vienna/status/1641699367974305794)
 
