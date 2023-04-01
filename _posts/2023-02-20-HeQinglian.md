@@ -441,7 +441,7 @@ Re @FightForJiuCai 乌克兰人好歹有形式上的民主啊。<br>如果如乌
 
 ### 107: [2023-02-23 04:37:55+08:00 推文](https://twitter.com/HeQinglian/status/1628494315533000717)
 
-Re @shenliangqing2 建议与这一起参看。再加上骄傲月、零元购、裸体大游 行，就是左派们梦寐以求的进步主义NWO.<div class="rsshub-quote"><br><br>低级黑小明: 来看一下美国版的“操你妈逼”<br><br>现在的lgbt小屁孩一个二个都没有人样了，觉得只要别人把自己性别说错或者不承认自己的性别就要操你妈逼。<br><br><video src="https://video.twimg.com/amplify_video/1628179434556751872/vid/720x1280/ES33umab5NJKiUDD.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1628179434556751872/img/wfYMeOGe0leEv67A.jpg"></video></div>
+Re @shenliangqing2 建议与这一起参看。再加上骄傲月、零元购、裸体大游 行，就是左派们梦寐以求的进步主义NWO. https://twitter.com/djhxiaoming/status/1628179486452891648<div class="rsshub-quote"><br><br>低级黑小明: 来看一下美国版的“操你妈逼”<br><br>现在的lgbt小屁孩一个二个都没有人样了，觉得只要别人把自己性别说错或者不承认自己的性别就要操你妈逼。 https://t.co/xWwdJ4goYi<br><br><video src="https://video.twimg.com/amplify_video/1628179434556751872/vid/720x1280/ES33umab5NJKiUDD.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1628179434556751872/img/wfYMeOGe0leEv67A.jpg"></video></div>
 
 ### 108: [2023-02-23 04:41:44+08:00 推文](https://twitter.com/HeQinglian/status/1628495274657153026)
 
@@ -493,7 +493,7 @@ Re @JianglinLi @Wu_Zhi @nuosu001 @seadognw 我在四川的同学有位同事在�
 
 ### 120: [2023-02-23 09:16:39+08:00 推文](https://twitter.com/HeQinglian/status/1628564461182132225)
 
-赫什文章指出：2022年2月7日在白宫，拜登告诉来访的德国总理肖尔茨，俄如果进攻乌克兰，北溪管道将不复存在。肖尔茨表示将与美国站在一起。会面结束的当晚，拜登公布了对北溪管道的打算。<br>我真的很好奇，肖尔茨需不需要对德国人解释这一点？ https://twitter.com/dw_chinese/status/1628404745214763012<div class="rsshub-quote"><br><br>DW 中文- 德国之声: 美国知名记者赫什网络发文爆料称这一破坏袭击是美国所为，让各种猜测沸腾。而参与调查的国家，包括德国的相关机构未公开任何与调查进展有关的信息。对媒体的询问，也多半讳莫如深。#北溪爆炸事件  https://p.dw.com/p/4Npqu<br></div>
+赫什文章指出：2022年2月7日在白宫，拜登告诉来访的德国总理肖尔茨，俄如果进攻乌克兰，北溪管道将不复存在。肖尔茨表示将与美国站在一起。会面结束的当晚，拜登公布了对北溪管道的打算。<br>我真的很好奇，肖尔茨需不需要对德国人解释这一点？<div class="rsshub-quote"><br><br>DW 中文- 德国之声: 美国知名记者赫什网络发文爆料称这一破坏袭击是美国所为，让各种猜测沸腾。而参与调查的国家，包括德国的相关机构未公开任何与调查进展有关的信息。对媒体的询问，也多半讳莫如深。#北溪爆炸事件  https://p.dw.com/p/4Npqu<br></div>
 
 ### 121: [2023-02-23 09:20:44+08:00 推文](https://twitter.com/HeQinglian/status/1628565488153382913)
 
@@ -645,7 +645,7 @@ Re @Vince6610 近五年，美国已从中国第一大贸易伙伴，成为中国
 
 ### 158: [2023-02-24 06:46:38+08:00 推文](https://twitter.com/HeQinglian/status/1628889095509344256)
 
-俄乌战争以来，很多事美国没办好的原因，尤其是对俄制裁失败，主要是没弄清楚一点：<br>自2010年以来，全球化分工体系已经成为生产国、消费国与资源国，三类国家是互相依赖的互补关系。<br>美国是世界最大消费国，世界贸易顺差的主要来源；中国是生产国；俄罗斯是资源国，德国既是生产国（高端）又是消费国。<div class="rsshub-quote"><br><br>天降伟人包由检: 民主党机关报也觉得让俄罗斯内部推翻普京不那么现实，然后一直以来不知道哪根筋搭错了，总是特别希望包总来劝普京停手。这真挺有趣。我要是包总，肯定跟老美说“行啊，那总得有点好处吧……” https://t.co/Ma8VwyTLkX<br><br><img style="" src="https://pbs.twimg.com/media/FprvbLEWcAE-LQE?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLAWIAEkp__?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLAXgAI4e7z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLEXgAUvSha?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+俄乌战争以来，很多事美国没办好的原因，尤其是对俄制裁失败，主要是没弄清楚一点：<br>自2010年以来，全球化分工体系已经成为生产国、消费国与资源国，三类国家是互相依赖的互补关系。<br>美国是世界最大消费国，世界贸易顺差的主要来源；中国是生产国；俄罗斯是资源国，德国既是生产国（高端）又是消费国。 https://twitter.com/fading_you1/status/1628877470769246208<div class="rsshub-quote"><br><br>天降伟人包由检: 民主党机关报也觉得让俄罗斯内部推翻普京不那么现实，然后一直以来不知道哪根筋搭错了，总是特别希望包总来劝普京停手。这真挺有趣。我要是包总，肯定跟老美说“行啊，那总得有点好处吧……” https://t.co/Ma8VwyTLkX<br><br><img style="" src="https://pbs.twimg.com/media/FprvbLEWcAE-LQE?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLAWIAEkp__?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLAXgAI4e7z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FprvbLEXgAUvSha?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 159: [2023-02-24 07:05:36+08:00 推文](https://twitter.com/HeQinglian/status/1628893868212072448)
 
@@ -681,7 +681,7 @@ Re @eGUAbe2V7j26GHw 去年，德国去工业化，倒闭大批企业；法国、
 
 ### 167: [2023-02-24 09:11:57+08:00 推文](https://twitter.com/HeQinglian/status/1628925667579420672)
 
-【前外交部長王毅最近升任中共中央政治局局長】<br>请问推友，中国什么时候设立了这个职位——中共中央政治局局长？ https://twitter.com/QQzk_prs/status/1628568255311888384
+【前外交部長王毅最近升任中共中央政治局局長】<br>请问推友，中国什么时候设立了这个职位——中共中央政治局局长？
 
 ### 168: [2023-02-24 09:14:53+08:00 推文](https://twitter.com/HeQinglian/status/1628926404371927040)
 
