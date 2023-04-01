@@ -97,7 +97,7 @@ Re @TDTCCP @keke201707 並且黨國特色！
 
 ### 21: [2023-03-15 13:23:21+08:00 推文](https://twitter.com/realcaixia/status/1635874304582664193)
 
-深切哀悼杜光先生！<br>杜光1940年代参加中共，1958年被打成右派，1980年才平反昭雪。他1987年参与组建中国政治改革研究会，6.4后被解散。以后杜光写了大量文章谈宪政民主，从没屈服过当局压力。学校部门找我谈话时说“别像杜光那样…”。“什么样？”“他应是副部级养老待遇，被降为副局级待遇。”老先生千古！ https://twitter.com/newcenturybaopu/status/1635843263264595968<div class="rsshub-quote"><br><br>Bao Pu 鮑樸: 原中央黨校理論研究室副主任杜光先生，於2023年3月13日在北京仙逝，享年96歲。 https://t.co/x8hK4V74QO<br><br><img style="" src="https://pbs.twimg.com/media/FrOurp7agAADiav?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+深切哀悼杜光先生！<br>杜光1940年代参加中共，1958年被打成右派，1980年才平反昭雪。他1987年参与组建中国政治改革研究会，6.4后被解散。以后杜光写了大量文章谈宪政民主，从没屈服过当局压力。学校部门找我谈话时说“别像杜光那样…”。“什么样？”“他应是副部级养老待遇，被降为副局级待遇。”老先生千古！<div class="rsshub-quote"><br><br>Bao Pu 鮑樸: 原中央黨校理論研究室副主任杜光先生，於2023年3月13日在北京仙逝，享年96歲。 https://t.co/x8hK4V74QO<br><br><img style="" src="https://pbs.twimg.com/media/FrOurp7agAADiav?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 22: [2023-03-15 23:08:45+08:00 推文](https://twitter.com/realcaixia/status/1636021623219421184)
 
@@ -121,7 +121,7 @@ Re @zechengyu1 @Perfectionalism @HongLong2022 李书磊的简历这份大致是�
 
 ### 27: [2023-03-18 03:23:42+08:00 推文](https://twitter.com/realcaixia/status/1636810560879706112)
 
-普京为了个人野心，将俄罗斯人和乌克兰人拖进战争血海中。国际海牙刑事法院对普京的逮捕令，可以警告世界上一切个人野心家战争狂，世界已经不允许任何人挑起毁灭人类文明的战争罪行！ https://twitter.com/zhangdong_sch/status/1636799372162654208<div class="rsshub-quote"><br><br>ZHANGDONG: 海牙国际刑事法院今天对普京发出逮捕令！<br>这下问题来了，习近平将于本月20号访俄拜会普京，拜访被国际法院通缉的战犯，史无前例！ https://www.icc-cpi.int/news/situation-ukraine-icc-judges-issue-arrest-warrants-against-vladimir-vladimirovich-putin-and<br></div>
+普京为了个人野心，将俄罗斯人和乌克兰人拖进战争血海中。国际海牙刑事法院对普京的逮捕令，可以警告世界上一切个人野心家战争狂，世界已经不允许任何人挑起毁灭人类文明的战争罪行！<div class="rsshub-quote"><br><br>ZHANGDONG: 海牙国际刑事法院今天对普京发出逮捕令！<br>这下问题来了，习近平将于本月20号访俄拜会普京，拜访被国际法院通缉的战犯，史无前例！ https://www.icc-cpi.int/news/situation-ukraine-icc-judges-issue-arrest-warrants-against-vladimir-vladimirovich-putin-and<br></div>
 
 ### 28: [2023-03-18 04:08:11+08:00 推文](https://twitter.com/realcaixia/status/1636821752046309376)
 
@@ -129,7 +129,7 @@ Re @ChrisLaw125 @Lewis57675410 @HongLong2022 李书磊出生于91年-93年曾任
 
 ### 29: [2023-03-18 10:08:21+08:00 推文](https://twitter.com/realcaixia/status/1636912392184508417)
 
-中共警察的野蛮残暴，在他们眼里中国民众如同动物。<div class="rsshub-quote"><br><br>为自由而战-天山剑客: 中国警察用渔网捕人<br>就因为这女子用手机拍了他们做的恶<br><br> https://t.co/g9eTUrTGuP<br><br><video src="https://video.twimg.com/ext_tw_video/1636731478032920582/pu/vid/576x1018/SJooOoUDDCHeg-TX.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1636731478032920582/pu/img/nQnyaICFT50SVV-A.jpg"></video></div>
+中共警察的野蛮残暴，在他们眼里中国民众如同动物。 https://twitter.com/LonelyWarriorMa/status/1636805414263349250<div class="rsshub-quote"><br><br>为自由而战-天山剑客: 中国警察用渔网捕人<br>就因为这女子用手机拍了他们做的恶<br><br> https://t.co/g9eTUrTGuP<br><br><video src="https://video.twimg.com/ext_tw_video/1636731478032920582/pu/vid/576x1018/SJooOoUDDCHeg-TX.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1636731478032920582/pu/img/nQnyaICFT50SVV-A.jpg"></video></div>
 
 ### 30: [2023-03-18 23:30:51+08:00 推文](https://twitter.com/realcaixia/status/1637114349130223616)
 
@@ -141,7 +141,7 @@ Re https://t.co/W3MtHBLRDk<br><img style="" src="https://pbs.twimg.com/media/Frg
 
 ### 32: [2023-03-18 23:43:19+08:00 推文](https://twitter.com/realcaixia/status/1637117485509148673)
 
-這具有海外報警的意義和作用。習黨大規模殘酷施行殘暴統治超過此前任何一個中共黨領導人當政時期，是從2014年開始的，至今依舊在進行中。 https://twitter.com/lonelywarriorma/status/1636406692534685696<div class="rsshub-quote"><br><br>为自由而战-天山剑客: 紧急事件<br><br>新疆现在开始又大量抓捕少数民族，就在刚刚我家亲戚被秘密抓捕，45岁女被公安秘密抓捕。我朋友的爸爸被抓捕65岁，没有任何逮捕证，直接抓走了，我现在好愤怒，我X你M的共匪<br>在新疆的人要注意了，注意了<br>这几天新疆特别严格，共匪开始重新，手机要清空<br>重要的事说三遍，不要大意，不要大意<br></div>
+這具有海外報警的意義和作用。習黨大規模殘酷施行殘暴統治超過此前任何一個中共黨領導人當政時期，是從2014年開始的，至今依舊在進行中。<div class="rsshub-quote"><br><br>为自由而战-天山剑客: 紧急事件<br><br>新疆现在开始又大量抓捕少数民族，就在刚刚我家亲戚被秘密抓捕，45岁女被公安秘密抓捕。我朋友的爸爸被抓捕65岁，没有任何逮捕证，直接抓走了，我现在好愤怒，我X你M的共匪<br>在新疆的人要注意了，注意了<br>这几天新疆特别严格，共匪开始重新，手机要清空<br>重要的事说三遍，不要大意，不要大意<br></div>
 
 ### 33: [2023-03-19 08:24:14+08:00 推文](https://twitter.com/realcaixia/status/1637248578103148544)
 

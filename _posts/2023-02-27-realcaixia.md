@@ -57,7 +57,7 @@ Re https://t.co/z96hhSQ4Y2<br><img style="" src="https://pbs.twimg.com/media/FqG
 
 ### 11: [2023-03-02 09:37:10+08:00 推文](https://twitter.com/realcaixia/status/1631106341614895105)
 
-任志强先生会被很多人记住，会被历史记住。任志强先生是中共体制内反对中共政权极权专制统治的良知者与大勇者的代表。任志强也是红二代中反对极权统治，真心推进宪政、推动中国走向自由民主的代表性人物。 https://twitter.com/543dom_/status/1630753827392565249<div class="rsshub-quote"><br><br>正視歷史▪️傳播真相🇺🇸: 好像都沒人記得他了☹️☹️☹️<br><br>他本可以對這個黑暗的社會視而不見，安享晚年，可他卻選擇了在嚴冬裡為我們抱薪而被判18年，他在為10億韭菜坐牢，他不該被遺忘。<br><br>完整版鏈接：<br>https://youtu.be/47z7QlWHlWc<br><br>#任志強 #任大炮 我們的社會責任是把面前的墻推倒，建立我們的民主制度。 https://t.co/jnSNRDX3XO<br><br><video src="https://video.twimg.com/ext_tw_video/1630751216077615104/pu/vid/640x360/8-3iWtulZ6UPAFzj.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1630751216077615104/pu/img/ytgT7FRvdsi-G1mk.jpg"></video></div>
+任志强先生会被很多人记住，会被历史记住。任志强先生是中共体制内反对中共政权极权专制统治的良知者与大勇者的代表。任志强也是红二代中反对极权统治，真心推进宪政、推动中国走向自由民主的代表性人物。<div class="rsshub-quote"><br><br>正視歷史▪️傳播真相🇺🇸: 好像都沒人記得他了☹️☹️☹️<br><br>他本可以對這個黑暗的社會視而不見，安享晚年，可他卻選擇了在嚴冬裡為我們抱薪而被判18年，他在為10億韭菜坐牢，他不該被遺忘。<br><br>完整版鏈接：<br>https://youtu.be/47z7QlWHlWc<br><br>#任志強 #任大炮 我們的社會責任是把面前的墻推倒，建立我們的民主制度。 https://t.co/jnSNRDX3XO<br><br><video src="https://video.twimg.com/ext_tw_video/1630751216077615104/pu/vid/640x360/8-3iWtulZ6UPAFzj.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1630751216077615104/pu/img/ytgT7FRvdsi-G1mk.jpg"></video></div>
 
 ### 12: [2023-03-02 10:04:19+08:00 推文](https://twitter.com/realcaixia/status/1631113172701659142)
 
@@ -89,7 +89,7 @@ Re 科学研究无国界，恰恰需要多国合作。前美苏冷战时期，�
 
 ### 19: [2023-03-03 04:22:32+08:00 推文](https://twitter.com/realcaixia/status/1631389547576836096)
 
-极权统治反人道反人伦。 https://twitter.com/Ipkmedia/status/1631324322919862273<div class="rsshub-quote"><br><br>光傳媒官推 官網 https://www.ipkmedia.com: 【关注胡佳·反对强制离京式迫害】<br><br>中共每年两会扰民伤财，强制许多民主人士离京是惯例。八十岁高瑜先生已经被迫离京<br>胡佳父母是中国少有的右派夫妻，历经磨难，其母亲已经去世，父亲病危，<br>呼吁停止被迫离京这种侵权和迫害<br><br>胡佳：强制离京避两会成惯例 不堪忍受无法为病危老父送终 <br>来自voachinese<br></div>
+极权统治反人道反人伦。 https://twitter.com/ipkmedia/status/1631324322919862273<div class="rsshub-quote"><br><br>光傳媒官推 官網 https://www.ipkmedia.com: 【关注胡佳·反对强制离京式迫害】<br><br>中共每年两会扰民伤财，强制许多民主人士离京是惯例。八十岁高瑜先生已经被迫离京<br>胡佳父母是中国少有的右派夫妻，历经磨难，其母亲已经去世，父亲病危，<br>呼吁停止被迫离京这种侵权和迫害<br><br>胡佳：强制离京避两会成惯例 不堪忍受无法为病危老父送终 <br>来自voachinese<br></div>
 
 ### 20: [2023-03-03 08:42:05+08:00 推文](https://twitter.com/realcaixia/status/1631454867175931905)
 
