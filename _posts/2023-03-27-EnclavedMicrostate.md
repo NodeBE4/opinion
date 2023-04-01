@@ -57,6 +57,14 @@ This submission has been removed because it involves current events.  To keep fr
 
 A book which I'm surprised has not been brought up by anyone here so far is Scott Levi's *The Bukharan Crisis* (2020), which, in brief, *demolishes* the concept of the 'Silk Road' pretty comprehensively. He builds on Hansen to some extent, but his main thrust is that the entire concept of a 'Silk Road' is Orientalist scholarship trying to assign special significance to Sino-European overland trade that it fundamentally didn't have. From a Central Asian perspective, the notion that the region was historically subordinated to the whims of European demand for Chinese goods smacks of a certain sedentary-centrism, and also blatantly ignores Central Asia's considerable trade links with South Asia, which 'Silk Road' models of Eurasian trade flagrantly disregard. Granted, he's coming at this from specifically an Early Modern standpoint, rather than the medieval one which 'Silk Road' discussions usually come framed in, but this too is, he notes, problematic – overland trade didn't suddenly stop at some point, indeed it *intensified* as maritime links between Europe and Asia became strengthened. It's been very influential on my own thinking and it's why I pretty consistently try to put up big asterisks whenever a 'Silk Road' discussion comes up on the sub.
 
+----- __1165.2__ -----2023-04-01 17:10:09+08:00:
+
+I can't speak for anyone but myself, but it was definitely not a slow read for me! Also, unlike a lot of books, it actually has the footnotes *on the page*, which means you get all of the little snarky comments...
+
+----- __1165.3__ -----2023-04-01 17:13:30+08:00:
+
+Speaking from a Qing perspective, the Qing did appropriate Chinese dynastic historiographical orthodoxy to a great extent, primarily though not exclusively within China. For instance, it's notable that in the 1790s, the Qianlong Emperor cited both the Yuan and Ming states as (negative) historical exemplars in justifying increased oversight over succession to office within the Tibetan clergy. But for the most part, the appropriation of Chinese historiographical orthodoxy applied *within China proper*, rather than in Inner Asia. So the modern Chinese appeal to the dynastic succession is based on a different interpretation of that succession than the Mongols and the Manchus would have understood.
+
 ### 1166: [A Brief and Unimportant Note from the Mod Team About Some Minor Bot Testing Over the Next 24 to 36 hours.](https://old.reddit.com/r/AskHistorians/comments/127yw7e/a_brief_and_unimportant_note_from_the_mod_team/), submitted on 2023-04-01 04:50:14+08:00.
 
 ----- __1166.1__ -----2023-04-01 15:23:38+08:00:
