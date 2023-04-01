@@ -281,7 +281,7 @@ Re @BA17B8BB9 完全不是一回事。<br>俄乌战争是近30年前美国定出
 
 ### 67: [2023-03-14 03:51:39+08:00 推文](https://twitter.com/HeQinglian/status/1635368039830130688)
 
-Re @qihang19211 简单讲：<br>1、能源格局洗牌，中调整到有利位置，此后俄是中国的最大供家；<br>2、BRICKS势力扩张，原来一直想弄的内部支付系统这次轻易成了（去美元化，人民币国际化）；<br>3、和平12条饱受西方批评，说中国没有资格调停和平。中方立刻表演沙伊建立外交关系、中沙伊联盟。泽连斯基终于求来了与习通电话的机会
+RT He Qinglian<br>Re @qihang19211 简单讲：<br>1、能源格局洗牌，中调整到有利位置，此后俄是中国的最大供家；<br>2、BRICKS势力扩张，原来一直想弄的内部支付系统这次轻易成了（去美元化，人民币国际化）；<br>3、和平12条饱受西方批评，说中国没有资格调停和平。中方立刻表演沙伊建立外交关系、中沙伊联盟。泽连斯基终于求来了与习通电话的机会
 
 ### 68: [2023-03-14 03:52:23+08:00 推文](https://twitter.com/HeQinglian/status/1635368227072270338)
 
@@ -373,7 +373,7 @@ Re @JianglinLi @PrezXi 如果自带饭辙，那当然可以。需要赏饭可能
 
 ### 90: [2023-03-14 10:49:55+08:00 推文](https://twitter.com/shenliangqing2/status/1635473304093097985)
 
-RT 沈良庆二世<br>痴呆政府主导下的西方国家地缘政治：外交战略“既要…也要”第六病室辩证法<div class="rsshub-quote"><br><br>联合早报 Lianhe Zaobao: 英国在更新版的外交政策框架中，将中国视为对世界秩序构成“划时代的挑战”，但它也表明，倾向于与北京增进合作与理解，并指英国的安全取决于乌克兰战争的结果。 https://www.zaobao.com.sg/realtime/world/story20230314-1372356<br></div>
+RT 沈良庆二世<br>痴呆政府主导下的西方国家地缘政治：外交战略“既要…也要”第六病室辩证法 https://twitter.com/zaobaosg/status/1635437821245763588<div class="rsshub-quote"><br><br>联合早报 Lianhe Zaobao: 英国在更新版的外交政策框架中，将中国视为对世界秩序构成“划时代的挑战”，但它也表明，倾向于与北京增进合作与理解，并指英国的安全取决于乌克兰战争的结果。 https://www.zaobao.com.sg/realtime/world/story20230314-1372356<br></div>
 
 ### 91: [2023-03-14 22:01:26+08:00 推文](https://twitter.com/HeQinglian/status/1635642293825699850)
 
@@ -489,7 +489,7 @@ Re @Gerald87816828 还有大麻专业。<br>当然，如果你家愿意资助这
 
 ### 119: [2023-03-15 08:16:59+08:00 推文](https://twitter.com/HeQinglian/status/1635797202185379842)
 
-SVB是 BLM的主要捐助者。该组织是一个治理高度可疑的慈善组织，被可靠地指控腐败分配资金。<br>据克莱蒙特研究所称，记录显示硅谷银行已向BLM及相关团体认捐约 7400 万美元。<br>消费者研究执行董事威尔希尔德说，SVB 的失败“再次表明 SVB 专注于Woke而不是保护客户的存款。” <br>2023 <br>https://trendingpoliticsnews.com/svb-blm-knab/ https://twitter.com/kylenabecker/status/1635775478832275456<div class="rsshub-quote"><br><br>Kyle Becker: This just in: 'Woke' bank getting Biden bailout was a bigtime donor to Black Lives Matter.<br>https://open.substack.com/pub/thekylebecker/p/silicon-valley-bank-getting-a-biden?r=16zqp&amp;utm_campaign=post&amp;utm_medium=web<br></div>
+SVB是 BLM的主要捐助者。该组织是一个治理高度可疑的慈善组织，被可靠地指控腐败分配资金。<br>据克莱蒙特研究所称，记录显示硅谷银行已向BLM及相关团体认捐约 7400 万美元。<br>消费者研究执行董事威尔希尔德说，SVB 的失败“再次表明 SVB 专注于Woke而不是保护客户的存款。” <br>2023 <br>https://trendingpoliticsnews.com/svb-blm-knab/<div class="rsshub-quote"><br><br>Kyle Becker: This just in: 'Woke' bank getting Biden bailout was a bigtime donor to Black Lives Matter.<br>https://open.substack.com/pub/thekylebecker/p/silicon-valley-bank-getting-a-biden?r=16zqp&amp;utm_campaign=post&amp;utm_medium=web<br></div>
 
 ### 120: [2023-03-15 08:18:46+08:00 推文](https://twitter.com/HeQinglian/status/1635797650170859521)
 
@@ -581,7 +581,7 @@ Re @O43DGSy2NA4BdKf 好，如此甚好。法事做完了，请通知一声。�
 
 ### 142: [2023-03-16 01:11:48+08:00 推文](https://twitter.com/HeQinglian/status/1636052591699189763)
 
-每逢谈大麻有害时，就有些推主来我这谈大麻的好处，以及烟酒的坏处。<br>这种蠢货的思路是：不管什么有害东西，总得沾一样，数害相权取其轻（这轻是想出来的）。<br>坚决不同情。 https://twitter.com/KELMAND1/status/1635895141151158273<div class="rsshub-quote"><br><br>Ezio Mao☢: 《纽约邮报》讲述了一个美国新的不幸 - 年轻人正在大量吸入“笑气”，这已经成为一种新的毒瘾。<br><br>你认为应该怪谁？当然不是美国，不是社会氛围，不是智力水平或者道德教育。好吧，你猜对了，对吧？没错，就是中国。<br><br>为什么？因为吸完发到网上，叫whiptok（Whippit+TikTok）😅<br><br>https://nypost.com/2023/03/14/inside-gen-zs-hippy-crack-epidemic-bigger-risk-than-cocaine/<br></div>
+每逢谈大麻有害时，就有些推主来我这谈大麻的好处，以及烟酒的坏处。<br>这种蠢货的思路是：不管什么有害东西，总得沾一样，数害相权取其轻（这轻是想出来的）。<br>坚决不同情。<div class="rsshub-quote"><br><br>Ezio Mao☢: 《纽约邮报》讲述了一个美国新的不幸 - 年轻人正在大量吸入“笑气”，这已经成为一种新的毒瘾。<br><br>你认为应该怪谁？当然不是美国，不是社会氛围，不是智力水平或者道德教育。好吧，你猜对了，对吧？没错，就是中国。<br><br>为什么？因为吸完发到网上，叫whiptok（Whippit+TikTok）😅<br><br>https://nypost.com/2023/03/14/inside-gen-zs-hippy-crack-epidemic-bigger-risk-than-cocaine/<br></div>
 
 ### 143: [2023-03-16 03:58:53+08:00 推文](https://twitter.com/HeQinglian/status/1636094638594441216)
 
@@ -633,7 +633,7 @@ Re @SSK2024 他要表达的，正是主流媒体要表达的。
 
 ### 155: [2023-03-16 09:03:50+08:00 推文](https://twitter.com/zhixiangziyou/status/1636171379736182784)
 
-RT L JM🇺🇸<br>1/ THREAD 🚨 #TwitterFiles<br><br>@elonmusk将 CISA 审查网络抨击为“宣传平台”。<br><br>这个由国土安全部支持的审查联盟使用了 120 名分析师来审查数百万关于选举和 covid-19 的社交媒体帖子。 https://twitter.com/kanekoathegreat/status/1608231209875963904<div class="rsshub-quote"><br><br>kanekoa.substack.com: 1/ THREAD🚨 #TwitterFiles<br><br>@elonmusk slams CISA censorship network as 'propaganda platform.'<br><br>This DHS-backed censorship consortium used 120 analysts to censor millions of social media posts on elections and covid-19.<br><br>https://kanekoa.substack.com/p/elon-musk-slams-cisa-censorship-network<br></div>
+RT L JM🇺🇸<br>1/ THREAD 🚨 #TwitterFiles<br><br>@elonmusk将 CISA 审查网络抨击为“宣传平台”。<br><br>这个由国土安全部支持的审查联盟使用了 120 名分析师来审查数百万关于选举和 covid-19 的社交媒体帖子。<div class="rsshub-quote"><br><br>kanekoa.substack.com: 1/ THREAD🚨 #TwitterFiles<br><br>@elonmusk slams CISA censorship network as 'propaganda platform.'<br><br>This DHS-backed censorship consortium used 120 analysts to censor millions of social media posts on elections and covid-19.<br><br>https://kanekoa.substack.com/p/elon-musk-slams-cisa-censorship-network<br></div>
 
 ### 156: [2023-03-16 10:52:46+08:00 推文](https://twitter.com/shenliangqing2/status/1636198795330609152)
 
@@ -813,7 +813,7 @@ Re @shenliangqing2 他当年在挺郭兴奋期也曾发表一段攻击我的视�
 
 ### 200: [2023-03-17 02:06:04+08:00 推文](https://twitter.com/zhixiangziyou/status/1636428635354611744)
 
-RT L JM🇺🇸<br>爆炸性报告：银行记录显示罗伯·沃克是拜登家族的同伙，他利用他的公司从一家中国能源公司向哈莉·拜登、詹姆斯·拜登、亨特·拜登和另一个“不知名的拜登”转账。 https://twitter.com/chuckcallesto/status/1636424667689889793<div class="rsshub-quote"><br><br>Chuck Callesto: BREAKING REPORT: Bank records emerge identifying Rob Walker, A BIDEN FAMILY ASSOCIATE used his company to transfer money FROM A CHINESE ENERGY COMPANY to Hallie Biden, James Biden, Hunter Biden, and another “unknown Biden.”<br></div>
+RT L JM🇺🇸<br>爆炸性报告：银行记录显示罗伯·沃克是拜登家族的同伙，他利用他的公司从一家中国能源公司向哈莉·拜登、詹姆斯·拜登、亨特·拜登和另一个“不知名的拜登”转账。<div class="rsshub-quote"><br><br>Chuck Callesto: BREAKING REPORT: Bank records emerge identifying Rob Walker, A BIDEN FAMILY ASSOCIATE used his company to transfer money FROM A CHINESE ENERGY COMPANY to Hallie Biden, James Biden, Hunter Biden, and another “unknown Biden.”<br></div>
 
 ### 201: [2023-03-17 02:06:17+08:00 推文](https://twitter.com/HeQinglian/status/1636428690824339457)
 
@@ -913,7 +913,7 @@ Re @zhixiangziyou 纽约民主党选民应该承受这结果——你们受连�
 
 ### 225: [2023-03-17 21:40:15+08:00 推文](https://twitter.com/HeQinglian/status/1636724128399994883)
 
-1、同意第一句。<br>2、民运不用他撕裂，他也没破坏美国民主（至少他没操纵选举），他的存在只是将所有的恶给引出来了，让所有参与表演者尽情展示。<br>3、整个戏剧是闹剧与拙劣马戏，没有半点悲剧的庄严感。<div class="rsshub-quote"><br><br>张杰: 郭文贵是中国权贵资本所长出的恶之花。他最大罪恶是撕裂民运和破坏美国民主。他本可以利用他的资金与民运联合对抗中共，但他一直在与中共勾兑，并对众多民运人士进行迫害。郭的爆料基本都是虚假的。郭在美国竞选中制造谣言。郭的官商勾结、不折手段和欺诈的中国商人特征，最终使他成为一个悲剧性人物。<br></div>
+1、同意第一句。<br>2、民运不用他撕裂，他也没破坏美国民主（至少他没操纵选举），他的存在只是将所有的恶给引出来了，让所有参与表演者尽情展示。<br>3、整个戏剧是闹剧与拙劣马戏，没有半点悲剧的庄严感。 https://twitter.com/ZJ20672066/status/1636557486508462080<div class="rsshub-quote"><br><br>张杰: 郭文贵是中国权贵资本所长出的恶之花。他最大罪恶是撕裂民运和破坏美国民主。他本可以利用他的资金与民运联合对抗中共，但他一直在与中共勾兑，并对众多民运人士进行迫害。郭的爆料基本都是虚假的。郭在美国竞选中制造谣言。郭的官商勾结、不折手段和欺诈的中国商人特征，最终使他成为一个悲剧性人物。<br></div>
 
 ### 226: [2023-03-17 21:47:55+08:00 推文](https://twitter.com/HeQinglian/status/1636726057511297024)
 
