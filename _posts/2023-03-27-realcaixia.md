@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2023-03-27~2023-04-02'
 
 ### 1: [2023-03-27 10:20:46+08:00 推文](https://twitter.com/realcaixia/status/1640177008805294080)
 
-看到这些照片，不由得想到709律师的夫人们那几年的艰难抗争。<br>现在是她们——罗胜春、施明磊、陈紫娟与丈夫站在一起，勇敢反对中共极权政权，为争得人权保障，争得自由民主而艰难抗争。他们是新一批令人尊敬令人崇敬的坚强女性！<div class="rsshub-quote"><br><br>FreeChengYuan 释放程渊: 罗胜春@luoshch、陈紫娟 @zijuan_chen 我们仨今天在中国驻美大使馆前抗议，要求 #释放丁家喜 #释放常玮平 #释放许志永 #释放李翘楚 #释放程渊 #StopMilwaukeeToolSlaveLabor https://t.co/DcoTnvErYu<br><br><img style="" src="https://pbs.twimg.com/media/FsHhV0LWAAE5X1K?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FsHhV0JXoAYzNwk?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+看到这些照片，不由得想到709律师的夫人们那几年的艰难抗争。<br>现在是她们——罗胜春、施明磊、陈紫娟与丈夫站在一起，勇敢反对中共极权政权，为争得人权保障，争得自由民主而艰难抗争。他们是新一批令人尊敬令人崇敬的坚强女性！ https://twitter.com/mindyshi227/status/1639839511323574274<div class="rsshub-quote"><br><br>FreeChengYuan 释放程渊: 罗胜春@luoshch、陈紫娟 @zijuan_chen 我们仨今天在中国驻美大使馆前抗议，要求 #释放丁家喜 #释放常玮平 #释放许志永 #释放李翘楚 #释放程渊 #StopMilwaukeeToolSlaveLabor https://t.co/DcoTnvErYu<br><br><img style="" src="https://pbs.twimg.com/media/FsHhV0LWAAE5X1K?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FsHhV0JXoAYzNwk?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 2: [2023-03-27 10:40:49+08:00 推文](https://twitter.com/realcaixia/status/1640182052703305729)
 
@@ -25,19 +25,19 @@ title: 'Twitter @蔡霞: 2023-03-27~2023-04-02'
 
 ### 3: [2023-03-27 10:50:56+08:00 推文](https://twitter.com/realcaixia/status/1640184600592007169)
 
-前外交部副部长傅莹的文章被封。 https://t.co/qWM6WXp1PQ<br><img style="" src="https://pbs.twimg.com/media/FsMbMwkaUAEA31-?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FsMbMwpaQAEY3um?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><div class="rsshub-quote"><br><br>章立凡 Zhang Lifan: 【前外交部副部长傅莹：一旦中美闹翻，有没有国家会站在中国一边】🔗 https://mp.weixin.qq.com/s/hz4w7vzN7QSz-6PbkKsmvQ https://t.co/NVbwhlivfT<br><br><img style="" src="https://pbs.twimg.com/media/FsJr2M_WwAIR18Q?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+前外交部副部长傅莹的文章被封。 https://twitter.com/zhanglifan/status/1639991808221487104 https://t.co/qWM6WXp1PQ<br><img style="" src="https://pbs.twimg.com/media/FsMbMwkaUAEA31-?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FsMbMwpaQAEY3um?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><div class="rsshub-quote"><br><br>章立凡 Zhang Lifan: 【前外交部副部长傅莹：一旦中美闹翻，有没有国家会站在中国一边】🔗 https://mp.weixin.qq.com/s/hz4w7vzN7QSz-6PbkKsmvQ https://t.co/NVbwhlivfT<br><br><img style="" src="https://pbs.twimg.com/media/FsJr2M_WwAIR18Q?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 4: [2023-03-27 11:03:24+08:00 推文](https://twitter.com/realcaixia/status/1640187737461649408)
 
-向保卫乌克兰主权和领土完整的勇敢战士们致敬！ https://twitter.com/ukrainiansquad/status/1639946357128478721<div class="rsshub-quote"><br><br>UKRAINIAN SQUAD🇺🇦: Keep believing in these 🇺🇦Warriors. https://t.co/alEyRpXWNR<br><br><video src="https://video.twimg.com/ext_tw_video/1639946222591963136/pu/vid/718x1280/mUWWAjzdf9QATB24.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1639946222591963136/pu/img/T4huAiJSWz7ES2qL.jpg"></video></div>
+向保卫乌克兰主权和领土完整的勇敢战士们致敬！<div class="rsshub-quote"><br><br>UKRAINIAN SQUAD🇺🇦: Keep believing in these 🇺🇦Warriors. https://t.co/alEyRpXWNR<br><br><video src="https://video.twimg.com/ext_tw_video/1639946222591963136/pu/vid/718x1280/mUWWAjzdf9QATB24.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1639946222591963136/pu/img/T4huAiJSWz7ES2qL.jpg"></video></div>
 
 ### 5: [2023-03-27 20:22:46+08:00 推文](https://twitter.com/realcaixia/status/1640328505270616064)
 
-这些习党打手无法无天，肆无忌惮。中共国是恐怖国家。 https://twitter.com/suyutong/status/1640288057050923009<div class="rsshub-quote"><br><br>Suyutong: #关注编程随想案  #罪恶档案 <br>1，这是2021年5月10日中午，上海杨浦区公安局进入阮晓寰家中暴力查抄和抓人时，阮晓寰被打破的眼镜。<br>2，公安未出示搜查证（3天后被签），查抄电脑等各种物品亦未给家属留下清单，而是把清单带走。<br>3，对阮晓寰的拘留通知是2周后才下达。<br>4，检察院、法院也是暗箱操作。… https://twitter.com/i/web/status/1640288057050923009 https://t.co/ZsFmQjHshC<br><br><img style="" src="https://pbs.twimg.com/media/FsN5NUtWYAE1utB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+这些习党打手无法无天，肆无忌惮。中共国是恐怖国家。<div class="rsshub-quote"><br><br>Suyutong: #关注编程随想案  #罪恶档案 <br>1，这是2021年5月10日中午，上海杨浦区公安局进入阮晓寰家中暴力查抄和抓人时，阮晓寰被打破的眼镜。<br>2，公安未出示搜查证（3天后被签），查抄电脑等各种物品亦未给家属留下清单，而是把清单带走。<br>3，对阮晓寰的拘留通知是2周后才下达。<br>4，检察院、法院也是暗箱操作。… https://twitter.com/i/web/status/1640288057050923009 https://t.co/ZsFmQjHshC<br><br><img style="" src="https://pbs.twimg.com/media/FsN5NUtWYAE1utB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 6: [2023-03-28 05:46:47+08:00 推文](https://twitter.com/realcaixia/status/1640470444561121280)
 
-枪口抬高一寸，这是良知的召唤。感动。<div class="rsshub-quote"><br><br>新聞拍案驚奇 大宇: 希望更多人能在中共恶政体制下枪口提高一寸，人民不会忘记！ 👍<br> https://t.co/PK7y2nItNO<br><br><video src="https://video.twimg.com/ext_tw_video/1640090074154147840/pu/vid/464x360/m5RSR-Ew-go-eQvD.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1640090074154147840/pu/img/JWVWyu9SDmFtEDcv.jpg"></video></div>
+枪口抬高一寸，这是良知的召唤。感动。 https://twitter.com/xwpajq_dayu/status/1640197164809981952<div class="rsshub-quote"><br><br>新聞拍案驚奇 大宇: 希望更多人能在中共恶政体制下枪口提高一寸，人民不会忘记！ 👍<br> https://t.co/PK7y2nItNO<br><br><video src="https://video.twimg.com/ext_tw_video/1640090074154147840/pu/vid/464x360/m5RSR-Ew-go-eQvD.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1640090074154147840/pu/img/JWVWyu9SDmFtEDcv.jpg"></video></div>
 
 ### 7: [2023-03-28 06:02:39+08:00 推文](https://twitter.com/realcaixia/status/1640474438515712000)
 
@@ -61,19 +61,19 @@ Re https://t.co/S6xQirXj9e<br><img style="" src="https://pbs.twimg.com/media/FsR
 
 ### 12: [2023-03-28 09:32:28+08:00 推文](https://twitter.com/realcaixia/status/1640527239350550530)
 
-这哪有一丝一毫公正审判的味道？！这是流氓坐大堂威胁中国平民。这类视频最好能翻译成英文广泛传到英文世界民众中，让更多的人看看中国法院里这些披着法官外衣的是些什么货色！ https://twitter.com/danqing1953/status/1639338116988416000<div class="rsshub-quote"><br><br>笔墨✾丹青: 至今对中国法庭还不了解的人，看一下这个视频，就了解了。<br><br>一个国家到底有没有未来，只需看两个地方：一是教室，二是法庭。 https://t.co/PYUGZgUDst<br><br><video src="https://video.twimg.com/ext_tw_video/1639338019777048576/pu/vid/640x368/khQ9FnTVqw28OVjC.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1639338019777048576/pu/img/J3g_7e6jhAX6uP24.jpg"></video></div>
+这哪有一丝一毫公正审判的味道？！这是流氓坐大堂威胁中国平民。这类视频最好能翻译成英文广泛传到英文世界民众中，让更多的人看看中国法院里这些披着法官外衣的是些什么货色！<div class="rsshub-quote"><br><br>笔墨✾丹青: 至今对中国法庭还不了解的人，看一下这个视频，就了解了。<br><br>一个国家到底有没有未来，只需看两个地方：一是教室，二是法庭。 https://t.co/PYUGZgUDst<br><br><video src="https://video.twimg.com/ext_tw_video/1639338019777048576/pu/vid/640x368/khQ9FnTVqw28OVjC.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1639338019777048576/pu/img/J3g_7e6jhAX6uP24.jpg"></video></div>
 
 ### 13: [2023-03-28 09:37:36+08:00 推文](https://twitter.com/realcaixia/status/1640528534119620608)
 
-那场大火烧碎了全国人的心，唯独这帮官员们无动于衷，据说这个况丽后来调动还提拔了！<div class="rsshub-quote"><br><br>人微言轻: 1994年12月8号，新疆克拉玛依大火，教育局官员 #况丽 高喊了一句“同学们别动,让领导先走！”随后躲进女厕所并把厕所门给反锁,任凭孩子们哭喊也绝不开门,直接导致孩子们全部葬身火海！大火造成325人死亡，其中包括288名小学生。<br>如果那些孩子活着，现在应该三十几岁了…纪念那些葬身火海的孩子们。🙏 https://t.co/Kjjbq05gHc<br><br><img style="" src="https://pbs.twimg.com/media/FsQwR87WIAA4Lj0?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+那场大火烧碎了全国人的心，唯独这帮官员们无动于衷，据说这个况丽后来调动还提拔了！ https://twitter.com/renweiyanqing01/status/1640489252545765379<div class="rsshub-quote"><br><br>人微言轻: 1994年12月8号，新疆克拉玛依大火，教育局官员 #况丽 高喊了一句“同学们别动,让领导先走！”随后躲进女厕所并把厕所门给反锁,任凭孩子们哭喊也绝不开门,直接导致孩子们全部葬身火海！大火造成325人死亡，其中包括288名小学生。<br>如果那些孩子活着，现在应该三十几岁了…纪念那些葬身火海的孩子们。🙏 https://t.co/Kjjbq05gHc<br><br><img style="" src="https://pbs.twimg.com/media/FsQwR87WIAA4Lj0?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 14: [2023-03-29 08:56:31+08:00 推文](https://twitter.com/realcaixia/status/1640880581906153472)
 
-给所有站着坚持常识，坚持说真话的人鼓掌，向石国鹏老师致敬。 https://twitter.com/m_wo8y/status/1640870667813027840<div class="rsshub-quote"><br><br>楊錦麟: 在一個只有跪下去才能生存的時代，請給那些還堅持站著的人一點掌聲。 https://t.co/YHvzLbvQko<br><br><img style="" src="https://pbs.twimg.com/media/FsWLLDbaUAAp0j3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+给所有站着坚持常识，坚持说真话的人鼓掌，向石国鹏老师致敬。<div class="rsshub-quote"><br><br>楊錦麟: 在一個只有跪下去才能生存的時代，請給那些還堅持站著的人一點掌聲。 https://t.co/YHvzLbvQko<br><br><img style="" src="https://pbs.twimg.com/media/FsWLLDbaUAAp0j3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 15: [2023-03-29 09:55:44+08:00 推文](https://twitter.com/realcaixia/status/1640895483357847555)
 
-韩先生提出了一个非常重要的具有战略意义的观点，我赞成！同时略作改动：如何推动形成新一轮全球民主化浪潮击败专制的大战略，在此基础上明确相应的政策思路，提出切实可行的政策建议和具体措施。<div class="rsshub-quote"><br><br>韩连潮: 美国发起召开的第二届全球民主峰会今天已经在华盛顿开幕，明天正式开始。对这个峰会攻击得最狠是中共党国和俄罗斯，说明这个会开对了，应当制度化地开下去，但我觉得议题还应要放在如何通过推动新一轮全球民主化浪潮击败专制的大战略和具体措施上，如通过外空基互联网推动数字经济和信息自由等。 https://t.co/yh5gsfDYZf<br><br><img style="" src="https://pbs.twimg.com/media/FsVBLqAXsAAY4D7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+韩先生提出了一个非常重要的具有战略意义的观点，我赞成！同时略作改动：如何推动形成新一轮全球民主化浪潮击败专制的大战略，在此基础上明确相应的政策思路，提出切实可行的政策建议和具体措施。 https://twitter.com/lianchaohan/status/1640791499247058944<div class="rsshub-quote"><br><br>韩连潮: 美国发起召开的第二届全球民主峰会今天已经在华盛顿开幕，明天正式开始。对这个峰会攻击得最狠是中共党国和俄罗斯，说明这个会开对了，应当制度化地开下去，但我觉得议题还应要放在如何通过推动新一轮全球民主化浪潮击败专制的大战略和具体措施上，如通过外空基互联网推动数字经济和信息自由等。 https://t.co/yh5gsfDYZf<br><br><img style="" src="https://pbs.twimg.com/media/FsVBLqAXsAAY4D7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 16: [2023-03-29 11:50:34+08:00 推文](https://twitter.com/realcaixia/status/1640924381382868992)
 
@@ -89,7 +89,7 @@ Re 习近平2/19/2016上午视察三家官媒：人民日报、新华社、央�
 
 ### 19: [2023-03-30 01:19:08+08:00 推文](https://twitter.com/realcaixia/status/1641127863821942785)
 
-快递也规定了敏感词！原先知道凡外国出版的书快递不给邮寄、海运不给装箱运输，现在才知道“思想”一词成了快递禁品。是否意味着中国凡印刷品寄出封面都禁止有“思想”一词？！<br>中国是一尊遮天万物凋零。剥夺言论剥夺人权剥夺思想，中国只许存在吃飯干活不许躺平不许思想的“人”。 https://twitter.com/rongjian1957/status/1640924300671844352<div class="rsshub-quote"><br><br>荣剑: 【恐惧思想，思想不能寄】收到台湾思想杂志样书，打算给一位朋友寄一本，中通小哥来取书，一看封面说不能寄，我问为啥，他说有思想两字。见我不信，他拍照发到公司，公司回复说，不能寄。 https://t.co/TferBzySoV<br><br><img style="" src="https://pbs.twimg.com/media/FsW76hlaEAAQHaD?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FsW77hAaYAAA98Q?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FsW78SaakAMeSr_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FsW786JagAAeZ3E?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+快递也规定了敏感词！原先知道凡外国出版的书快递不给邮寄、海运不给装箱运输，现在才知道“思想”一词成了快递禁品。是否意味着中国凡印刷品寄出封面都禁止有“思想”一词？！<br>中国是一尊遮天万物凋零。剥夺言论剥夺人权剥夺思想，中国只许存在吃飯干活不许躺平不许思想的“人”。<div class="rsshub-quote"><br><br>荣剑: 【恐惧思想，思想不能寄】收到台湾思想杂志样书，打算给一位朋友寄一本，中通小哥来取书，一看封面说不能寄，我问为啥，他说有思想两字。见我不信，他拍照发到公司，公司回复说，不能寄。 https://t.co/TferBzySoV<br><br><img style="" src="https://pbs.twimg.com/media/FsW76hlaEAAQHaD?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FsW77hAaYAAA98Q?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FsW78SaakAMeSr_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FsW786JagAAeZ3E?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 20: [2023-03-30 10:00:32+08:00 推文](https://twitter.com/realcaixia/status/1641259078218567680)
 
@@ -129,7 +129,7 @@ Dissident Scholar: COVID-19 Reveals “Gangster Nature” of China’s Communi..
 
 ### 29: [2023-03-31 10:17:58+08:00 推文](https://twitter.com/realcaixia/status/1641625853695254528)
 
-这是什么情况？<div class="rsshub-quote"><br><br>章立凡 Zhang Lifan: 求证一下，发生了什么事？<br>这种手纸，早就没人订了，闹这么大阵仗干什么？<br><br>【网传：人民日报 3月30日报纸紧急停发停投，已停投报纸要求就地封存并销毀】 https://t.co/wRolhwVPuy<br><br><img style="" src="https://pbs.twimg.com/media/FsgVUuDaQAA9Obb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+这是什么情况？ https://twitter.com/zhanglifan/status/1641585524946399233<div class="rsshub-quote"><br><br>章立凡 Zhang Lifan: 求证一下，发生了什么事？<br>这种手纸，早就没人订了，闹这么大阵仗干什么？<br><br>【网传：人民日报 3月30日报纸紧急停发停投，已停投报纸要求就地封存并销毀】 https://t.co/wRolhwVPuy<br><br><img style="" src="https://pbs.twimg.com/media/FsgVUuDaQAA9Obb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 30: [2023-03-31 10:27:57+08:00 推文](https://twitter.com/realcaixia/status/1641628365668093952)
 
@@ -177,7 +177,7 @@ Re https://t.co/LX751vAPYN<br><img style="" src="https://pbs.twimg.com/media/Fsl
 
 ### 41: [2023-04-01 23:25:32+08:00 推文](https://twitter.com/realcaixia/status/1642186442498531329)
 
-向乌克兰民族致敬！向泽连斯基总统致敬！<br>回头想想，若是当初泽连斯基听从了欧美国家政要的好心，乘着他们派来的直升飞机离开乌克兰去国外当寓公，现在的乌克兰将会是什么样的？现在的普京与俄国侵略者将有多大的野心，还将张开多大的吞并血盆大口？<div class="rsshub-quote"><br><br>NiKITa🇺🇦 ꑭ: 烏克蘭只有在不戰而勝的情況下，俄國從烏克蘭領土上撤軍，才會與俄國進行談判—澤倫斯基<br> “烏克蘭反抗將俄國打倒在地，那麼跟俄國就沒什麼好談的了。” https://t.co/kH0chdiuce<br><br><img style="" src="https://pbs.twimg.com/media/Fske1uwakAAJ4W3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+向乌克兰民族致敬！向泽连斯基总统致敬！<br>回头想想，若是当初泽连斯基听从了欧美国家政要的好心，乘着他们派来的直升飞机离开乌克兰去国外当寓公，现在的乌克兰将会是什么样的？现在的普京与俄国侵略者将有多大的野心，还将张开多大的吞并血盆大口？ https://twitter.com/NiKiTa_32156/status/1641877454083219457<div class="rsshub-quote"><br><br>NiKITa🇺🇦 ꑭ: 烏克蘭只有在不戰而勝的情況下，俄國從烏克蘭領土上撤軍，才會與俄國進行談判—澤倫斯基<br> “烏克蘭反抗將俄國打倒在地，那麼跟俄國就沒什麼好談的了。” https://t.co/kH0chdiuce<br><br><img style="" src="https://pbs.twimg.com/media/Fske1uwakAAJ4W3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 42: [2023-04-02 00:19:20+08:00 推文](https://twitter.com/realcaixia/status/1642199980239917057)
 
@@ -186,4 +186,16 @@ Re https://t.co/LX751vAPYN<br><img style="" src="https://pbs.twimg.com/media/Fsl
 ### 43: [2023-04-02 00:28:44+08:00 推文](https://twitter.com/realcaixia/status/1642202344778788864)
 
 Re 刚刚在李承鹏老师推特下看到一个跟帖说是《辩护人》，那我就是记忆出错了，或许另一部电影名就是《辩护人》。<br>对照韩国影片所表现的韩国转型时期，中国这些年来正在经历韩国那一时期的过程……，其中中国的良心记者、正义律师、良知学人和许多公民运动人士，是站在中国社会争取宪政民主最前沿的。
+
+### 44: [2023-04-02 01:26:04+08:00 推文](https://twitter.com/realcaixia/status/1642216775965368320)
+
+Re @dev_china 我也想办法上网搜索来看。
+
+### 45: [2023-04-02 01:31:51+08:00 推文](https://twitter.com/realcaixia/status/1642218230734528512)
+
+Re @HSBD73718819 都要上网去搜索来看，《辩护人》我也是一直没能看到。
+
+### 46: [2023-04-02 02:28:00+08:00 推文](https://twitter.com/realcaixia/status/1642232360862367747)
+
+Re @ArtcourtCHEN 感谢鼓励我。🌹🤝。
 
