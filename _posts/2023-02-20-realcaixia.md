@@ -37,23 +37,23 @@ Re @reallijiakun 中庸是不走极端。
 
 ### 6: [2023-02-21 08:07:20+08:00 推文](https://twitter.com/realcaixia/status/1627822241848377344)
 
-这个央视播音员真和习近平文化水平一般“高”吗？同样小学毕业、初中还正经读过？简直是自取其辱，无耻到不惜自黑自污来迎合统治者习近平、民间义和团吗？<br>这个年纪至少还得活三四十年吧？嘴里能说出这样无知无耻不要脸的话，等习和中共倒台，他如何面对观众听众，如何面对他的儿女和孙辈？！这人名字？<div class="rsshub-quote"><br><br>李老师不是你老师: 成本17美分的百元美钞应该价值多少美元？ https://t.co/Vj4BM5oRxM<br><br><video src="https://video.twimg.com/ext_tw_video/1627815198353489922/pu/vid/592x1280/o4Qe1hZ0_TbejyFL.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1627815198353489922/pu/img/2xqiv6z_hbNcS0gu.jpg"></video></div>
+这个央视播音员真和习近平文化水平一般“高”吗？同样小学毕业、初中还正经读过？简直是自取其辱，无耻到不惜自黑自污来迎合统治者习近平、民间义和团吗？<br>这个年纪至少还得活三四十年吧？嘴里能说出这样无知无耻不要脸的话，等习和中共倒台，他如何面对观众听众，如何面对他的儿女和孙辈？！这人名字？<div class="rsshub-quote"><br><br>李老师不是你老师: 成本17美分的百元美钞应该价值多少美元？<br><br><video src="https://video.twimg.com/ext_tw_video/1627815198353489922/pu/vid/592x1280/o4Qe1hZ0_TbejyFL.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1627815198353489922/pu/img/2xqiv6z_hbNcS0gu.jpg"></video></div>
 
 ### 7: [2023-02-21 11:44:14+08:00 推文](https://twitter.com/realcaixia/status/1627876827011096576)
 
-街头出现习语朗读间，这可真是中国式现代化的一大发明创新。<div class="rsshub-quote"><br><br>Kingsley: @yajunwwz https://t.co/wy74yNn324<br><br><img style="" src="https://pbs.twimg.com/media/FpZxKtEaMAE0-jk?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+街头出现习语朗读间，这可真是中国式现代化的一大发明创新。 https://twitter.com/kingsley3072/status/1627612751240757248<div class="rsshub-quote"><br><br>Kingsley: @yajunwwz https://t.co/wy74yNn324<br><br><img style="" src="https://pbs.twimg.com/media/FpZxKtEaMAE0-jk?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 8: [2023-02-21 11:46:01+08:00 推文](https://twitter.com/realcaixia/status/1627877274325336067)
 
-以言治罪。 https://twitter.com/yajunwwz/status/1627606973205340160<div class="rsshub-quote"><br><br>亚军&amp;王歪嘴: 革委会 https://t.co/y0DNmpqN5v<br><br><img style="" src="https://pbs.twimg.com/media/FpZr6U_aMAA1cZC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+以言治罪。<div class="rsshub-quote"><br><br>亚军&amp;王歪嘴: 革委会<br><br><img style="" src="https://pbs.twimg.com/media/FpZr6U_aMAA1cZC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 9: [2023-02-22 05:43:44+08:00 推文](https://twitter.com/realcaixia/status/1628148492396003328)
 
-特别推荐：长沙一个NGO组织创始人程渊，一直在从事维护权利平等活动，尤其对底层民众。他在他被监禁的3年半被剥夺合法权利，被判罪，被强制劳动等，他始终不屈服。<br>他的妻子施明磊同样非常了不起，勇敢站出来公开揭露中共黑监狱的种种黑内幕。请关注和支持程渊和施明磊。 https://youtu.be/9PGPK5eHnaQ
+特别推荐：长沙一个NGO组织创始人程渊，一直在从事维护权利平等活动，尤其对底层民众。他在他被监禁的3年半被剥夺合法权利，被判罪，被强制劳动等，他始终不屈服。<br>他的妻子施明磊同样非常了不起，勇敢站出来公开揭露中共黑监狱的种种黑内幕。请关注和支持程渊和施明磊。 <a href="https://youtu.be/9PGPK5eHnaQ" target="_blank" rel="noopener noreferrer">https://youtu.be/9PGPK5eHnaQ</a>
 
 ### 10: [2023-02-22 05:53:43+08:00 推文](https://twitter.com/realcaixia/status/1628151001617412103)
 
-Re https://t.co/ByuG6ocezr<br><img style="" src="https://pbs.twimg.com/media/Fphas_zaMAMf-a6?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fphas_zaMAciWUY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fphas_zaMAgPJI9?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fphas_0aMAIA1bM?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re <br><img style="" src="https://pbs.twimg.com/media/Fphas_zaMAMf-a6?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fphas_zaMAciWUY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fphas_zaMAgPJI9?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fphas_0aMAIA1bM?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 11: [2023-02-22 06:02:15+08:00 推文](https://twitter.com/realcaixia/status/1628153150954950656)
 
@@ -65,15 +65,15 @@ Re https://t.co/ByuG6ocezr<br><img style="" src="https://pbs.twimg.com/media/Fph
 
 ### 13: [2023-02-22 06:35:45+08:00 推文](https://twitter.com/realcaixia/status/1628161581233078274)
 
-别说中国没一个孩子想，连成人都不敢想也不想想。 https://twitter.com/juanli324/status/1627617406163259393<div class="rsshub-quote"><br><br>李隽🇦🇺: 听听这个少年说他为什么要上学，为什么学习知识。中国有一个孩子这样想吗？ https://t.co/MNz2NNWQqB<br><br><video src="https://video.twimg.com/ext_tw_video/1627617293026070528/pu/vid/592x1280/-gK6VxJG6LBYZCW3.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1627617293026070528/pu/img/TfEwb2TZd83-BPZ1.jpg"></video></div>
+别说中国没一个孩子想，连成人都不敢想也不想想。<div class="rsshub-quote"><br><br>李隽🇦🇺: 听听这个少年说他为什么要上学，为什么学习知识。中国有一个孩子这样想吗？ https://t.co/MNz2NNWQqB<br><br><video src="https://video.twimg.com/ext_tw_video/1627617293026070528/pu/vid/592x1280/-gK6VxJG6LBYZCW3.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1627617293026070528/pu/img/TfEwb2TZd83-BPZ1.jpg"></video></div>
 
 ### 14: [2023-02-22 08:15:55+08:00 推文](https://twitter.com/realcaixia/status/1628186790698917888)
 
-推荐这期岳戈节目。习召开20大政治局会议，放风再一次国家机构“改革”，实质是反动。习权欲熏心与绝对控制狂。<br>李强总理未坐定即被收权，李强或弱过李克强；二中全会机构改革规模大，中共教授怒批：哪还有党政分开！要求检讨三年疫控，哪位“民主党派”人士胆子如... https://youtu.be/gYwbKDW5Tr8 来自YouTube
+推荐这期岳戈节目。习召开20大政治局会议，放风再一次国家机构“改革”，实质是反动。习权欲熏心与绝对控制狂。<br>李强总理未坐定即被收权，李强或弱过李克强；二中全会机构改革规模大，中共教授怒批：哪还有党政分开！要求检讨三年疫控，哪位“民主党派”人士胆子如... <a href="https://youtu.be/gYwbKDW5Tr8" target="_blank" rel="noopener noreferrer">https://youtu.be/gYwbKDW5Tr8</a>
 
 ### 15: [2023-02-22 08:29:55+08:00 推文](https://twitter.com/realcaixia/status/1628190312098107394)
 
-Re <br><img style="" src="https://pbs.twimg.com/media/Fph-dRUXoAIuM1n?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re https://t.co/TNult4X23E<br><img style="" src="https://pbs.twimg.com/media/Fph-dRUXoAIuM1n?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 16: [2023-02-23 13:42:30+08:00 推文](https://twitter.com/realcaixia/status/1628631362818256898)
 
@@ -89,15 +89,15 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fph-dRUXoAIuM1n?format=jpg
 
 ### 19: [2023-02-24 04:41:57+08:00 推文](https://twitter.com/realcaixia/status/1628857717413797888)
 
-真希望我也能参加声援乌克兰声明联署签名。 https://twitter.com/ZhangDong_SCH/status/1628690130096513024<div class="rsshub-quote"><br><br>ZHANGDONG: 支持乌克兰自卫反击战恢复领土完整捍卫国家主权，反对虚伪和平投降论。这个声援乌克兰声明联署将在明天乌俄战争爆发一周年之际交给乌克兰驻柏林使馆以示声援乌克兰。我签名了。<br>【背景】前几天德国极左和女权主义代表发表了一个所谓的和平宣言要求乌克兰放下武器停战和谈（1） https://weact.campact.de/petitions/manifest-gegen-das-manifest-von-wagenknecht-und-schwarzer<br></div>
+真希望我也能参加声援乌克兰声明联署签名。 https://twitter.com/zhangdong_sch/status/1628690130096513024<div class="rsshub-quote"><br><br>ZHANGDONG: 支持乌克兰自卫反击战恢复领土完整捍卫国家主权，反对虚伪和平投降论。这个声援乌克兰声明联署将在明天乌俄战争爆发一周年之际交给乌克兰驻柏林使馆以示声援乌克兰。我签名了。<br>【背景】前几天德国极左和女权主义代表发表了一个所谓的和平宣言要求乌克兰放下武器停战和谈（1） https://weact.campact.de/petitions/manifest-gegen-das-manifest-von-wagenknecht-und-schwarzer<br></div>
 
 ### 20: [2023-02-24 05:21:46+08:00 推文](https://twitter.com/realcaixia/status/1628867738243588098)
 
-今天纽约一会议，有中共国人发言提出“俄乌停战”，搞“不战不和”。我们千万不能忘记“三八线”停火，使东亚70年笼罩于北韩核威胁战争阴霾中。<br>现又有一些中共国人鼓吹俄与乌再来一次“不战不和”停火游戏。人们绝不可上当！停火让普京喘息，当有力有利时，中 、俄、北韩结成邪恶轴心国，威胁全球和平。<div class="rsshub-quote"><br><br>ZHANGDONG: 在乌俄战争爆发一年之际王毅跑到莫斯科去为普京站台，并强调加强中俄政治和战略伙伴关系，彻底撕下中立假面具。所以中国吹嘘的所谓和平倡议就是毫无价值的一纸空文！中共拙劣的外交把自己推上了小丑的舞台，供全世界贻笑大方。<br></div>
+今天纽约一会议，有中共国人发言提出“俄乌停战”，搞“不战不和”。我们千万不能忘记“三八线”停火，使东亚70年笼罩于北韩核威胁战争阴霾中。<br>现又有一些中共国人鼓吹俄与乌再来一次“不战不和”停火游戏。人们绝不可上当！停火让普京喘息，当有力有利时，中 、俄、北韩结成邪恶轴心国，威胁全球和平。 https://twitter.com/zhangdong_sch/status/1628421095530323971<div class="rsshub-quote"><br><br>ZHANGDONG: 在乌俄战争爆发一年之际王毅跑到莫斯科去为普京站台，并强调加强中俄政治和战略伙伴关系，彻底撕下中立假面具。所以中国吹嘘的所谓和平倡议就是毫无价值的一纸空文！中共拙劣的外交把自己推上了小丑的舞台，供全世界贻笑大方。 https://twitter.com/derspiegel/status/1628400859871854593<br></div>
 
 ### 21: [2023-02-24 09:21:17+08:00 推文](https://twitter.com/realcaixia/status/1628928016884846596)
 
-中共把中国民间研究ChatGPT的几位年轻科学家抓进了无锡看守所，发文不允许在中国运用ChatGPT。因为ChatGPT搜集网上所有相关资料，搞不好就把外面的言论观点思想传给墙里人了。这样拒斥现代科学创新、拒斥现代文明，真像晚期满清朝廷。如此，中共国还想与发达国家特别是美国，竞争高科技创新能力吗？ https://twitter.com/xchen156/status/1628434801962242054<div class="rsshub-quote"><br><br>陈小平: 与中国有关芯片盗窃案最近很多：最新是南韩三星电子7名前员工被判刑，此前，阿斯麦证实中国雇员盗窃，此外，还有台湾出生的美国华人教授石怡驰非法出口军用芯片入狱63个月，美国华人何朝辉因试图从美国加州向中国走私抗辐射微芯片判入狱三年。<br><br>为了搞到芯片，有关单位这些年使出了洪荒力。<br></div>
+中共把中国民间研究ChatGPT的几位年轻科学家抓进了无锡看守所，发文不允许在中国运用ChatGPT。因为ChatGPT搜集网上所有相关资料，搞不好就把外面的言论观点思想传给墙里人了。这样拒斥现代科学创新、拒斥现代文明，真像晚期满清朝廷。如此，中共国还想与发达国家特别是美国，竞争高科技创新能力吗？<div class="rsshub-quote"><br><br>陈小平: 与中国有关芯片盗窃案最近很多：最新是南韩三星电子7名前员工被判刑，此前，阿斯麦证实中国雇员盗窃，此外，还有台湾出生的美国华人教授石怡驰非法出口军用芯片入狱63个月，美国华人何朝辉因试图从美国加州向中国走私抗辐射微芯片判入狱三年。<br><br>为了搞到芯片，有关单位这些年使出了洪荒力。<br></div>
 
 ### 22: [2023-02-24 10:47:14+08:00 推文](https://twitter.com/realcaixia/status/1628949643903262721)
 
@@ -141,7 +141,7 @@ Re @jinping12847710 @JeremyCherish 到上面这个Jeremy Cherish的推特上查�
 
 ### 32: [2023-02-24 23:24:07+08:00 推文](https://twitter.com/realcaixia/status/1629140119679631361)
 
-一针见血，直接说透问题根本。他们就怕与台湾比，一比较，中共大陆政权就立马原型毕露！台湾是民主自由文明，大陆是专制极权野蛮。“用脚投票”这一定律早就表明了人心所向，请看北京美国驻华使馆外每天排队的长龙阵势；请看2022香港民众大批离港，大量资金撤离大陆和香港。人走、钱走，习共人心尽失。 https://twitter.com/muyang909/status/1626490877139906564<div class="rsshub-quote"><br><br>mu yang: 有道理嗎？ https://t.co/V98NljpiIx<br><br><img style="" src="https://pbs.twimg.com/media/FpJ01UDXwAAY3hT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+一针见血，直接说透问题根本。他们就怕与台湾比，一比较，中共大陆政权就立马原型毕露！台湾是民主自由文明，大陆是专制极权野蛮。“用脚投票”这一定律早就表明了人心所向，请看北京美国驻华使馆外每天排队的长龙阵势；请看2022香港民众大批离港，大量资金撤离大陆和香港。人走、钱走，习共人心尽失。<div class="rsshub-quote"><br><br>mu yang: 有道理嗎？ https://t.co/V98NljpiIx<br><br><img style="" src="https://pbs.twimg.com/media/FpJ01UDXwAAY3hT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 33: [2023-02-25 02:14:23+08:00 推文](https://twitter.com/realcaixia/status/1629182968089436163)
 
