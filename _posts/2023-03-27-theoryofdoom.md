@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2023-03-31
+date: 2023-04-01
 from: https://old.reddit.com/r/college/comments/1250xrm/my_professor_has_made_tutoring_mandatory/
 layout: post
 tags:
@@ -98,4 +98,14 @@ I almost enlisted right out of high school.  The marine recruiter saw my SAT sco
 I wound up going to college on a full ride, got a couple of graduate degrees, and taught college kids for a little while.  I refused to put up with bullshit of higher academia.  Now I work in biotech. 
 
 DM me if there is ever anything I can do to help you.  If you're trying to figure out what to do after the Marines, I might be able to help with that too.
+
+### 518: [Woman Faces $13,000 Fine For Calling French President ‘Filth’ On Facebook](https://old.reddit.com/r/FreeSpeech/comments/1286uzp/woman_faces_13000_fine_for_calling_french/), submitted on 2023-04-01 09:21:00+08:00.
+
+----- __518.1__ -----2023-04-01 13:44:36+08:00:
+
+> First amendment
+
+The United States Government found a way around that little problem.  Their solution was simple:  don't censor people directly, with laws that can be scrutinized.  Or agencies that can be subject to FOIA requests. 
+
+Just pay private companies to violate the first amendment on the government's behalf.  Like Twitter, before Elon Musk bought it.
 
