@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2023-01-09~2023-01-15'
 
 ### 2: [2023-01-09 11:20:44+08:00 推文](https://twitter.com/realcaixia/status/1612288233962090497)
 
-不仅民企在大量裁员，而且中共国央企总部也在裁员。有多少青年人和中年人原本以为疫情劫波度后生机再现，未曾想连谋生都成了难题。2023对打工者、对城市白领甚至高校应届毕业生来说，失业将把他们逼入困境，前路茫茫，希望何在？<div class="rsshub-quote"><br><br>寒江独钓: 【失业大潮席卷中国】进来，国企、央企屡屡爆发裁员降薪潮，抖音母公司字节跳动一夜裁员上万人，年轻人纷纷抱头痛哭。<br><br><video src="https://video.twimg.com/ext_tw_video/1611510144923492352/pu/vid/1280x720/56ZDtfTGg93HI37-.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1611510144923492352/pu/img/BJQC-4jdMF2DzWZx.jpg"></video></div>
+不仅民企在大量裁员，而且中共国央企总部也在裁员。有多少青年人和中年人原本以为疫情劫波度后生机再现，未曾想连谋生都成了难题。2023对打工者、对城市白领甚至高校应届毕业生来说，失业将把他们逼入困境，前路茫茫，希望何在？<br><br>寒江独钓: 【失业大潮席卷中国】进来，国企、央企屡屡爆发裁员降薪潮，抖音母公司字节跳动一夜裁员上万人，年轻人纷纷抱头痛哭。<br><br><video src="https://video.twimg.com/ext_tw_video/1611510144923492352/pu/vid/1280x720/56ZDtfTGg93HI37-.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1611510144923492352/pu/img/BJQC-4jdMF2DzWZx.jpg"></video>
 
 ### 3: [2023-01-09 11:31:51+08:00 推文](https://twitter.com/realcaixia/status/1612291032531742723)
 
