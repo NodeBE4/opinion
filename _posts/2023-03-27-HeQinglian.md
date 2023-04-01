@@ -109,7 +109,7 @@ Re @JianglinLi @zhixiangziyou 查了一下，确实是匈牙利犹太人，从�
 
 ### 24: [2023-03-27 21:58:20+08:00 推文](https://twitter.com/HeQinglian/status/1640352556139401217)
 
-这一代人就是这样，人生长跑行将结束。多数人为稻粱谋，此外无非三类：体制内攀升者，体制外的政治反对者（包括表面反对实则合作），商界人物（1950年代生人较少这方面成功者）。<br>退休时回望，心之所安最重要，身外之物无非多收了三五斗。大厦千丈，所眠无非七尺之榻。 https://twitter.com/AnnaWruiqin/status/1640135504942301184<div class="rsshub-quote"><br><br>王安娜 · WangRuiqin: 胡石根长老曾经与胡春华是同室校友，只是胡石根选择了与胡春华完全不同的人生道路。3月26日胡长老在刑期满三天后从牢狱回到四壁空空的家中，24年铁窗生涯极大的伤害了他的健康。壮士垂暮衰老，再看习二强制把中国拉回毛时代不禁感慨<br><br>中国的苦难何时结束<br>勇士们还要付出多大代价？ https://twitter.com/annawruiqin/status/1639972789854650371<br></div>
+这一代人就是这样，人生长跑行将结束。多数人为稻粱谋，此外无非三类：体制内攀升者，体制外的政治反对者（包括表面反对实则合作），商界人物（1950年代生人较少这方面成功者）。<br>退休时回望，心之所安最重要，身外之物无非多收了三五斗。大厦千丈，所眠无非七尺之榻。<div class="rsshub-quote"><br><br>王安娜 · WangRuiqin: 胡石根长老曾经与胡春华是同室校友，只是胡石根选择了与胡春华完全不同的人生道路。3月26日胡长老在刑期满三天后从牢狱回到四壁空空的家中，24年铁窗生涯极大的伤害了他的健康。壮士垂暮衰老，再看习二强制把中国拉回毛时代不禁感慨<br><br>中国的苦难何时结束<br>勇士们还要付出多大代价？<br></div>
 
 ### 25: [2023-03-27 22:00:18+08:00 推文](https://twitter.com/HeQinglian/status/1640353050417045505)
 
@@ -121,7 +121,7 @@ Re @mingshi_chen 货币互换，早在人民币入篮之前就开始了，香港
 
 ### 27: [2023-03-27 22:26:24+08:00 推文](https://twitter.com/HeQinglian/status/1640359621209604097)
 
-Re 必须补充的一句是：<br>美国文革、美国共产主义2.0版，让我们这代人在晚年，陷入精神支撑崩塌，奋斗价值冰消之境。<br>如我这种少数派（5%），愿意认清事实重新出发。多数人抱着灯塔不放，哪怕事实上熄灭，也将想象当现实。<br>十年后，如果还有思考能力，灯塔派将比我等少数人更痛苦，依靠否定少数派是其指望
+RT He Qinglian<br>Re 必须补充的一句是：<br>美国文革、美国共产主义2.0版，让我们这代人在晚年，陷入精神支撑崩塌，奋斗价值冰消之境。<br>如我这种少数派（5%），愿意认清事实重新出发。多数人抱着灯塔不放，哪怕事实上熄灭，也将想象当现实。<br>十年后，如果还有思考能力，灯塔派将比我等少数人更痛苦，依靠否定少数派是其指望
 
 ### 28: [2023-03-27 22:33:02+08:00 推文](https://twitter.com/HeQinglian/status/1640361291138179078)
 
@@ -353,7 +353,7 @@ Re @princeton_walk @JianglinLi 我每天要收不少，还有拜登民主党的�
 
 ### 85: [2023-03-30 09:01:53+08:00 推文](https://twitter.com/HeQinglian/status/1641244322216509440)
 
-我其实就想知道：他们什么时候承认这个病毒是有意合作研究（这已经很清楚了）、有意放出魔瓶？<br>他们要解释一点：施瓦布为什么兴高采烈地宣告这是大重置的时机，简方达为何说是上帝赐给左派的礼物？<br>左派天天骂天骂地，为何不骂这两人是魔鬼之舌？<div class="rsshub-quote"><br><br>Ezio Mao☢: “失去的十年”来临<br><br>世界银行本周发布了一份非常有趣的预测。简而言之，丰衣足食的时代已经结束，“失去的十年”即将到来。世界经济平均增速为2.2%，为近30年来最低。<br><br>在原因中，经济学家指出了流行病、通货膨胀和人口结构。有了大流行，一切都清楚了....<br><br>https://www.worldbank.org/en/news/press-release/2023/03/27/global-economy-s-speed-limit-set-to-fall-to-three-decade-low<br></div>
+我其实就想知道：他们什么时候承认这个病毒是有意合作研究（这已经很清楚了）、有意放出魔瓶？<br>他们要解释一点：施瓦布为什么兴高采烈地宣告这是大重置的时机，简方达为何说是上帝赐给左派的礼物？<br>左派天天骂天骂地，为何不骂这两人是魔鬼之舌？ https://twitter.com/KELMAND1/status/1641242137756061696<div class="rsshub-quote"><br><br>Ezio Mao☢: “失去的十年”来临<br><br>世界银行本周发布了一份非常有趣的预测。简而言之，丰衣足食的时代已经结束，“失去的十年”即将到来。世界经济平均增速为2.2%，为近30年来最低。<br><br>在原因中，经济学家指出了流行病、通货膨胀和人口结构。有了大流行，一切都清楚了....<br><br>https://www.worldbank.org/en/news/press-release/2023/03/27/global-economy-s-speed-limit-set-to-fall-to-three-decade-low<br></div>
 
 ### 86: [2023-03-30 09:02:52+08:00 推文](https://twitter.com/HeQinglian/status/1641244565846781952)
 
@@ -389,7 +389,7 @@ Re @harry_shosta 这位可怜的 美国中学生，她不知道自己未出生�
 
 ### 94: [2023-03-30 10:33:52+08:00 推文](https://twitter.com/HeQinglian/status/1641267468113960961)
 
-这种恶例一开，中国辱骂领导人习近平的人更加遭殃，官方会振振有词地宣称：辱骂领导人的人判刑，在民主国家也同样如此。<br>西方人陷入这种恶政，还有什么好骄傲的？<div class="rsshub-quote"><br><br>Qing: 法国一名妇女因在社交网络上侮辱马克龙而被捕。她称这位法国总统为“垃圾”，现在她将面临一年的牢狱之灾。 https://t.co/bJhlM7jekH<br><br><img style="" src="https://pbs.twimg.com/media/FsZupzRakAAayne?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+这种恶例一开，中国辱骂领导人习近平的人更加遭殃，官方会振振有词地宣称：辱骂领导人的人判刑，在民主国家也同样如此。<br>西方人陷入这种恶政，还有什么好骄傲的？ https://twitter.com/Qing2022022/status/1641120784029564934<div class="rsshub-quote"><br><br>Qing: 法国一名妇女因在社交网络上侮辱马克龙而被捕。她称这位法国总统为“垃圾”，现在她将面临一年的牢狱之灾。 https://t.co/bJhlM7jekH<br><br><img style="" src="https://pbs.twimg.com/media/FsZupzRakAAayne?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 95: [2023-03-30 10:37:31+08:00 推文](https://twitter.com/HeQinglian/status/1641268385919934464)
 
@@ -510,4 +510,28 @@ Re @worldpeople2019 @fading_you1 能否见告，大陆的自由民主人士（�
 ### 124: [2023-04-01 09:30:07+08:00 推文](https://twitter.com/HeQinglian/status/1641976200305291266)
 
 Re @richard20211212 @chinayvan 本小区30%以上的人装了备用系统，防止停电。成本约15000一台，一年可能用上一两次。… https://twitter.com/i/web/status/1641976200305291266
+
+### 125: [2023-04-01 20:32:01+08:00 推文](https://twitter.com/HeQinglian/status/1642142775603875846)
+
+Re @shenliangqing2 即使这样，还有不少高端知识分子认为普京更反人类、敌基督。<br>其实，就是认为只要反普京，就站稳了立场。
+
+### 126: [2023-04-01 20:39:16+08:00 推文](https://twitter.com/HeQinglian/status/1642144597223657473)
+
+对大陪审团的构成，我不意外。美剧《庭审专家》专门展现如何挑选陪审团成员以及如何操控陪审员。主人公Jason Bull博士是一位心理学家，他把这一能力运用到法庭上，得以判断每一位陪审员对案件原告与被告双方的看法和态度，藉此对症下药，以得到对己方有利的判决结果。… https://twitter.com/i/web/status/1642144597223657473<div class="rsshub-quote"><br><br>🇺🇸波光粼粼🇺🇸: 不顾一切要起诉川普的曼哈顿检察长布拉格，以及站在他身后的投票决定起诉川普总统的所谓纽约大陪审团👇👇。<br>这里是美国吗‼️<br>我以为到了非洲的原始部落，看来美国非洲化不远了‼️ https://t.co/dYx5cHzl3j<br><br><img style="" src="https://pbs.twimg.com/media/FslAU3GWwAoOlZS?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+
+### 127: [2023-04-01 20:46:22+08:00 推文](https://twitter.com/HeQinglian/status/1642146384898928641)
+
+Re @Rainding45 @shenliangqing2 参考郭文贵事件。<br>华丽转身不需要理由，只要痛骂某一方就行。
+
+### 128: [2023-04-01 20:48:03+08:00 推文](https://twitter.com/HeQinglian/status/1642146808246812673)
+
+Re @Vince6610 @richard20211212 @chinayvan 提高能源成本，以环保与人类未来之名，养了一个新类型企业——只要查投资者来历就知道端详。
+
+### 129: [2023-04-01 20:51:49+08:00 推文](https://twitter.com/HeQinglian/status/1642147754817253377)
+
+Re @zymzpdba @ngexp 1、一个人开口就对别人恶言并干预他人Mark推文，还要求别人做一个尊重他人自由与边界的文明人。<br>2、原来在你眼中，自己的身份也可以自我界定，没有社会标准——如果性别心理认同一样。<br>5分钟以后送走你。让你看到我的回复。所有的发泄，全回到你自己身上。
+
+### 130: [2023-04-01 20:54:57+08:00 推文](https://twitter.com/HeQinglian/status/1642148544709533696)
+
+Re @Tepezano161 如果他能够做到，早就不玩这借鸡生蛋的把戏了。<br>他不是一个组织能力很强的人，团队中也没这种人。铁杆支持者擅长口号站队，并无宋教仁这种人，当然也没有2020年大选中美国左派组织捍卫民主负责人——全美总工会主席助理那种选举与组织专家。
 

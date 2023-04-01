@@ -33,7 +33,7 @@ Re https://t.co/kaatc091nt<br><img style="" src="https://pbs.twimg.com/media/Fp6
 
 ### 5: [2023-03-01 10:36:57+08:00 推文](https://twitter.com/realcaixia/status/1630758997128011779)
 
-致敬姚先生！十年被迫害，老 先生依然气质高雅，凛凛正气。充分显示老先生十年坚持风骨气节，保持尊严，挺立于天地之间！<div class="rsshub-quote"><br><br>Bao Pu 鮑樸: 在大陸冤獄10年的香港「晨鐘出版社」出版人姚文田先生（右二）2023年2月27日終於「刑滿」出獄。左三是姚夫人。 https://t.co/V3ksmrcO59<br><br><img style="" src="https://pbs.twimg.com/media/FqDeAo6aIAAW5TO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+致敬姚先生！十年被迫害，老 先生依然气质高雅，凛凛正气。充分显示老先生十年坚持风骨气节，保持尊严，挺立于天地之间！ https://twitter.com/NewCenturyBaopu/status/1630548083632402439<div class="rsshub-quote"><br><br>Bao Pu 鮑樸: 在大陸冤獄10年的香港「晨鐘出版社」出版人姚文田先生（右二）2023年2月27日終於「刑滿」出獄。左三是姚夫人。 https://t.co/V3ksmrcO59<br><br><img style="" src="https://pbs.twimg.com/media/FqDeAo6aIAAW5TO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 6: [2023-03-01 11:18:53+08:00 推文](https://twitter.com/realcaixia/status/1630769550923841539)
 
@@ -49,7 +49,7 @@ Re https://t.co/z96hhSQ4Y2<br><img style="" src="https://pbs.twimg.com/media/FqG
 
 ### 9: [2023-03-02 01:42:31+08:00 推文](https://twitter.com/realcaixia/status/1630986890898989056)
 
-我同意韩先生的看法。我细读了两遍刘亚洲先生的文章，我很认同这篇文章，尽管我并不完全认同刘亚洲将军其他的观点。<br>习近平担心控制不了军队，以年龄为由迫使刘晓江、刘源、刘亚洲退役。<br>三位上将中，刘亚洲很有独立思想和很强的表达能力。习为了能全部控制军队，以莫须有罪名置刘亚洲死地。<div class="rsshub-quote"><br><br>韩连潮: 社會只存在著一個思想，那就是君主的思想。只存在著一個聲音，那就是君主的聲音。在一個國家，某種思想一旦成為「惟一」，而且「法定」，這個民族就休想再有什麼想像力和靈性了<br>--刘亚洲：甲申年再祭<br>刘亚洲看透了中国帝王人治社会本质，他的观点直接威胁习近平独裁，习要用莫须有罪名置他于死地。 https://t.co/UwY6fJHXud<br><br><img style="" src="https://pbs.twimg.com/media/FqBEhZzWAAEqj0b?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+我同意韩先生的看法。我细读了两遍刘亚洲先生的文章，我很认同这篇文章，尽管我并不完全认同刘亚洲将军其他的观点。<br>习近平担心控制不了军队，以年龄为由迫使刘晓江、刘源、刘亚洲退役。<br>三位上将中，刘亚洲很有独立思想和很强的表达能力。习为了能全部控制军队，以莫须有罪名置刘亚洲死地。 https://twitter.com/lianchaohan/status/1630378407853735936<div class="rsshub-quote"><br><br>韩连潮: 社會只存在著一個思想，那就是君主的思想。只存在著一個聲音，那就是君主的聲音。在一個國家，某種思想一旦成為「惟一」，而且「法定」，這個民族就休想再有什麼想像力和靈性了<br>--刘亚洲：甲申年再祭<br>刘亚洲看透了中国帝王人治社会本质，他的观点直接威胁习近平独裁，习要用莫须有罪名置他于死地。 https://t.co/UwY6fJHXud<br><br><img style="" src="https://pbs.twimg.com/media/FqBEhZzWAAEqj0b?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 10: [2023-03-02 02:07:03+08:00 推文](https://twitter.com/realcaixia/status/1630993063345782784)
 

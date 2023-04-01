@@ -25,11 +25,11 @@ title: 'Twitter @蔡霞: 2023-03-27~2023-04-02'
 
 ### 3: [2023-03-27 10:50:56+08:00 推文](https://twitter.com/realcaixia/status/1640184600592007169)
 
-前外交部副部长傅莹的文章被封。 https://twitter.com/zhanglifan/status/1639991808221487104 https://t.co/qWM6WXp1PQ<br><img style="" src="https://pbs.twimg.com/media/FsMbMwkaUAEA31-?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FsMbMwpaQAEY3um?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><div class="rsshub-quote"><br><br>章立凡 Zhang Lifan: 【前外交部副部长傅莹：一旦中美闹翻，有没有国家会站在中国一边】🔗 https://mp.weixin.qq.com/s/hz4w7vzN7QSz-6PbkKsmvQ https://t.co/NVbwhlivfT<br><br><img style="" src="https://pbs.twimg.com/media/FsJr2M_WwAIR18Q?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+前外交部副部长傅莹的文章被封。 https://t.co/qWM6WXp1PQ<br><img style="" src="https://pbs.twimg.com/media/FsMbMwkaUAEA31-?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FsMbMwpaQAEY3um?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><div class="rsshub-quote"><br><br>章立凡 Zhang Lifan: 【前外交部副部长傅莹：一旦中美闹翻，有没有国家会站在中国一边】🔗 https://mp.weixin.qq.com/s/hz4w7vzN7QSz-6PbkKsmvQ https://t.co/NVbwhlivfT<br><br><img style="" src="https://pbs.twimg.com/media/FsJr2M_WwAIR18Q?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 4: [2023-03-27 11:03:24+08:00 推文](https://twitter.com/realcaixia/status/1640187737461649408)
 
-向保卫乌克兰主权和领土完整的勇敢战士们致敬！ https://twitter.com/ukrainiansquad/status/1639946357128478721<div class="rsshub-quote"><br><br>UKRAINIAN SQUAD🇺🇦: Keep believing in these 🇺🇦Warriors. https://t.co/alEyRpXWNR<br><br><video src="https://video.twimg.com/ext_tw_video/1639946222591963136/pu/vid/718x1280/mUWWAjzdf9QATB24.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1639946222591963136/pu/img/T4huAiJSWz7ES2qL.jpg"></video></div>
+向保卫乌克兰主权和领土完整的勇敢战士们致敬！<div class="rsshub-quote"><br><br>UKRAINIAN SQUAD🇺🇦: Keep believing in these 🇺🇦Warriors. https://t.co/alEyRpXWNR<br><br><video src="https://video.twimg.com/ext_tw_video/1639946222591963136/pu/vid/718x1280/mUWWAjzdf9QATB24.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1639946222591963136/pu/img/T4huAiJSWz7ES2qL.jpg"></video></div>
 
 ### 5: [2023-03-27 20:22:46+08:00 推文](https://twitter.com/realcaixia/status/1640328505270616064)
 
@@ -49,7 +49,7 @@ Re 我写的意见之一是中国经济积压了大量问题，将酿成经济�
 
 ### 9: [2023-03-28 08:42:28+08:00 推文](https://twitter.com/realcaixia/status/1640514659802308609)
 
-可见习朝最怕开放互联网，他们可以看着TikTok被赶出美国，绝不不肯放弃封网。可见他们多么害怕信息的自由流通。推倒习朝网络柏林墙，习朝离垮塌就不远了。 https://twitter.com/SoundOfHope_SOH/status/1290527901167824896<div class="rsshub-quote"><br><br>希望之聲 - 中國時局: 【美国拟禁TikTok 中国企业家出应对“绝招” 文章被秒删】就美国政府拟禁中国短影音平台 #TikTok 一事，中国企业家 #梁建章 8月2日在新浪网撰文建议，中方应该 #开放互联网 ，以此凸显美国的 #封禁 没有正当性。这项建议被网友点赞，但文章已被火速下架。<br>https://www.soundofhope.org/post/407929 https://t.co/KuIotoJ8JB<br><br><img style="" src="https://pbs.twimg.com/media/EejgSXcWkAEpm0a?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+可见习朝最怕开放互联网，他们可以看着TikTok被赶出美国，绝不不肯放弃封网。可见他们多么害怕信息的自由流通。推倒习朝网络柏林墙，习朝离垮塌就不远了。 https://twitter.com/soundofhope_soh/status/1290527901167824896<div class="rsshub-quote"><br><br>希望之聲 - 中國時局: 【美国拟禁TikTok 中国企业家出应对“绝招” 文章被秒删】就美国政府拟禁中国短影音平台 #TikTok 一事，中国企业家 #梁建章 8月2日在新浪网撰文建议，中方应该 #开放互联网 ，以此凸显美国的 #封禁 没有正当性。这项建议被网友点赞，但文章已被火速下架。<br>https://www.soundofhope.org/post/407929 https://t.co/KuIotoJ8JB<br><br><img style="" src="https://pbs.twimg.com/media/EejgSXcWkAEpm0a?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 10: [2023-03-28 09:06:38+08:00 推文](https://twitter.com/realcaixia/status/1640520738439299073)
 
@@ -65,15 +65,15 @@ Re https://t.co/S6xQirXj9e<br><img style="" src="https://pbs.twimg.com/media/FsR
 
 ### 13: [2023-03-28 09:37:36+08:00 推文](https://twitter.com/realcaixia/status/1640528534119620608)
 
-那场大火烧碎了全国人的心，唯独这帮官员们无动于衷，据说这个况丽后来调动还提拔了！<div class="rsshub-quote"><br><br>人微言轻: 1994年12月8号，新疆克拉玛依大火，教育局官员 #况丽 高喊了一句“同学们别动,让领导先走！”随后躲进女厕所并把厕所门给反锁,任凭孩子们哭喊也绝不开门,直接导致孩子们全部葬身火海！大火造成325人死亡，其中包括288名小学生。<br>如果那些孩子活着，现在应该三十几岁了…纪念那些葬身火海的孩子们。🙏 https://t.co/Kjjbq05gHc<br><br><img style="" src="https://pbs.twimg.com/media/FsQwR87WIAA4Lj0?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+那场大火烧碎了全国人的心，唯独这帮官员们无动于衷，据说这个况丽后来调动还提拔了！ https://twitter.com/renweiyanqing01/status/1640489252545765379<div class="rsshub-quote"><br><br>人微言轻: 1994年12月8号，新疆克拉玛依大火，教育局官员 #况丽 高喊了一句“同学们别动,让领导先走！”随后躲进女厕所并把厕所门给反锁,任凭孩子们哭喊也绝不开门,直接导致孩子们全部葬身火海！大火造成325人死亡，其中包括288名小学生。<br>如果那些孩子活着，现在应该三十几岁了…纪念那些葬身火海的孩子们。🙏 https://t.co/Kjjbq05gHc<br><br><img style="" src="https://pbs.twimg.com/media/FsQwR87WIAA4Lj0?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 14: [2023-03-29 08:56:31+08:00 推文](https://twitter.com/realcaixia/status/1640880581906153472)
 
-给所有站着坚持常识，坚持说真话的人鼓掌，向石国鹏老师致敬。<div class="rsshub-quote"><br><br>楊錦麟: 在一個只有跪下去才能生存的時代，請給那些還堅持站著的人一點掌聲。 https://t.co/YHvzLbvQko<br><br><img style="" src="https://pbs.twimg.com/media/FsWLLDbaUAAp0j3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+给所有站着坚持常识，坚持说真话的人鼓掌，向石国鹏老师致敬。 https://twitter.com/m_wo8y/status/1640870667813027840<div class="rsshub-quote"><br><br>楊錦麟: 在一個只有跪下去才能生存的時代，請給那些還堅持站著的人一點掌聲。 https://t.co/YHvzLbvQko<br><br><img style="" src="https://pbs.twimg.com/media/FsWLLDbaUAAp0j3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 15: [2023-03-29 09:55:44+08:00 推文](https://twitter.com/realcaixia/status/1640895483357847555)
 
-韩先生提出了一个非常重要的具有战略意义的观点，我赞成！同时略作改动：如何推动形成新一轮全球民主化浪潮击败专制的大战略，在此基础上明确相应的政策思路，提出切实可行的政策建议和具体措施。 https://twitter.com/lianchaohan/status/1640791499247058944<div class="rsshub-quote"><br><br>韩连潮: 美国发起召开的第二届全球民主峰会今天已经在华盛顿开幕，明天正式开始。对这个峰会攻击得最狠是中共党国和俄罗斯，说明这个会开对了，应当制度化地开下去，但我觉得议题还应要放在如何通过推动新一轮全球民主化浪潮击败专制的大战略和具体措施上，如通过外空基互联网推动数字经济和信息自由等。 https://t.co/yh5gsfDYZf<br><br><img style="" src="https://pbs.twimg.com/media/FsVBLqAXsAAY4D7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+韩先生提出了一个非常重要的具有战略意义的观点，我赞成！同时略作改动：如何推动形成新一轮全球民主化浪潮击败专制的大战略，在此基础上明确相应的政策思路，提出切实可行的政策建议和具体措施。<div class="rsshub-quote"><br><br>韩连潮: 美国发起召开的第二届全球民主峰会今天已经在华盛顿开幕，明天正式开始。对这个峰会攻击得最狠是中共党国和俄罗斯，说明这个会开对了，应当制度化地开下去，但我觉得议题还应要放在如何通过推动新一轮全球民主化浪潮击败专制的大战略和具体措施上，如通过外空基互联网推动数字经济和信息自由等。 https://t.co/yh5gsfDYZf<br><br><img style="" src="https://pbs.twimg.com/media/FsVBLqAXsAAY4D7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 16: [2023-03-29 11:50:34+08:00 推文](https://twitter.com/realcaixia/status/1640924381382868992)
 
@@ -129,7 +129,7 @@ Dissident Scholar: COVID-19 Reveals “Gangster Nature” of China’s Communi..
 
 ### 29: [2023-03-31 10:17:58+08:00 推文](https://twitter.com/realcaixia/status/1641625853695254528)
 
-这是什么情况？ https://twitter.com/zhanglifan/status/1641585524946399233<div class="rsshub-quote"><br><br>章立凡 Zhang Lifan: 求证一下，发生了什么事？<br>这种手纸，早就没人订了，闹这么大阵仗干什么？<br><br>【网传：人民日报 3月30日报纸紧急停发停投，已停投报纸要求就地封存并销毀】 https://t.co/wRolhwVPuy<br><br><img style="" src="https://pbs.twimg.com/media/FsgVUuDaQAA9Obb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+这是什么情况？<div class="rsshub-quote"><br><br>章立凡 Zhang Lifan: 求证一下，发生了什么事？<br>这种手纸，早就没人订了，闹这么大阵仗干什么？<br><br>【网传：人民日报 3月30日报纸紧急停发停投，已停投报纸要求就地封存并销毀】 https://t.co/wRolhwVPuy<br><br><img style="" src="https://pbs.twimg.com/media/FsgVUuDaQAA9Obb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 30: [2023-03-31 10:27:57+08:00 推文](https://twitter.com/realcaixia/status/1641628365668093952)
 

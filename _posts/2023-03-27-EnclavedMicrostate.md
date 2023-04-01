@@ -65,6 +65,20 @@ I can't speak for anyone but myself, but it was definitely not a slow read for m
 
 Speaking from a Qing perspective, the Qing did appropriate Chinese dynastic historiographical orthodoxy to a great extent, primarily though not exclusively within China. For instance, it's notable that in the 1790s, the Qianlong Emperor cited both the Yuan and Ming states as (negative) historical exemplars in justifying increased oversight over succession to office within the Tibetan clergy. But for the most part, the appropriation of Chinese historiographical orthodoxy applied *within China proper*, rather than in Inner Asia. So the modern Chinese appeal to the dynastic succession is based on a different interpretation of that succession than the Mongols and the Manchus would have understood.
 
+----- __1165.4__ -----2023-04-01 19:43:47+08:00:
+
+So, to address the three in turn:
+
+1. The *network* is not defined by a single directional interaction. If you're trying to describe a *network* based on the movement of a single commodity in a single direction, you are not describing the network as a whole, you are describing a feature of the network.
+
+2. By focussing on a single commodity in a single direction, you are *no longer talking about the network*. You are, to put it another way, talking *over* the network. You are *choosing* to make Europe and Asia the absentee protagonists of Central Asian history.
+
+3. By emphasising the 'Silk Road' specifically, you *aren't looking at the network*, because the land trade network and the sea trade network were parts of the same fundamental network.
+
+If I were to summarise the narrative thrust here, it's that the 'Silk Road' is not the story of a network, it is a cherry-picked story taken from a network, that actively elides the rest of the network by asserting the primacy of that specific story within it.
+
+I also feel I must also overrule /u/DanKensington slightly because the name is also problematic. It's a name coined by a German in the 1890s to describe a particular route described in a particular source, that was then conflated out to a wide variety of contexts well beyond what that original German was going for, as noted in the linked post.
+
 ### 1166: [A Brief and Unimportant Note from the Mod Team About Some Minor Bot Testing Over the Next 24 to 36 hours.](https://old.reddit.com/r/AskHistorians/comments/127yw7e/a_brief_and_unimportant_note_from_the_mod_team/), submitted on 2023-04-01 04:50:14+08:00.
 
 ----- __1166.1__ -----2023-04-01 15:23:38+08:00:
