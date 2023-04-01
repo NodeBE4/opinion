@@ -131,3 +131,13 @@ Those people did not understand that Twitter was censoring content at the behest
 
 Disgraceful.
 
+----- __518.3__ -----2023-04-01 22:37:42+08:00:
+
+> Legally can they do that? I mean 1st amendment and all?
+
+Constitutional rights mean nothing if they are not enforced.  Who will enforce them?  The government, of course.  Except when doing so does not suit the government.
+
+People should have read what Snowden disclosed.  And made some effort to understand it. Do you seriously think that agencies of the government give a shit about the constitution?  The government will impede on liberty to the extent it can get away with doing so.  That is the norm.  Need proof?  Remember when James Clapper lied under oath about what information the NSA was collecting under the Patriot Act?  There was no accountability.
+
+And there has been no accountability for Twitter, so far, or the individuals (many of whom Elon Musk fired shortly after joining) who participated in or developed the scheme I described above.
+

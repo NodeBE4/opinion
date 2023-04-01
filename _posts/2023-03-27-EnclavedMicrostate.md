@@ -83,6 +83,12 @@ I also feel I must also overrule /u/DanKensington slightly because the name is a
 
 Precisely. There's nothing special about the 'Silk Road' within medieval Eurasia, let alone within the broader spatial and temporal scope of human history.
 
+----- __1165.6__ -----2023-04-01 23:27:46+08:00:
+
+> I guess to me using the overland silk trade between Europe and China as a shorthand to describe the exchange as a whole is akin to using, I dunno, the transatlantic slave trade to represent slavery in the early-modern period.
+
+I'm going to push back on this point, because it isn't even comparable from a scale perspective. The coincidental movement of luxury goods from east to west across Central Asia was not even the largest component of Central Asian trade. For a glib analogy it'd be like saying Paris is particularly significant for being on the rail line from Calais to Marseille. It *is* on the rail line from Calais to Marseilles, but that linkage is hardly the defining feature that makes Paris what it is. The discarding of the 'Silk Road' is being proposed in order to actually understand the multifaceted relationships between Central Asia as a region and its neighbours, rather than centring its history away towards entities at its fringe.
+
 ### 1166: [A Brief and Unimportant Note from the Mod Team About Some Minor Bot Testing Over the Next 24 to 36 hours.](https://old.reddit.com/r/AskHistorians/comments/127yw7e/a_brief_and_unimportant_note_from_the_mod_team/), submitted on 2023-04-01 04:50:14+08:00.
 
 ----- __1166.1__ -----2023-04-01 15:23:38+08:00:
