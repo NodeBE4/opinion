@@ -51,9 +51,15 @@ Sorry, but your submission has been removed because we [don't allow hypothetical
 
 This submission has been removed because it involves current events.  To keep from discussion of politics, we have a [20-year rule](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events) here.  You may want to try /r/ask_politics, /r/NeutralPolitics, or another current-events focused sub. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
-### 1165: [How did the creation of the video game "Pong" impact the construction of the Great Wall of China?](https://old.reddit.com/r/AskHistorians/comments/1280sog/how_did_the_creation_of_the_video_game_pong/), submitted on 2023-04-01 05:50:54+08:00.
+### 1165: [Why do so many important cultural origins and people seem to originate from around Kazakhstan, and why is it so rarely taught?](https://old.reddit.com/r/AskHistorians/comments/127rrg8/why_do_so_many_important_cultural_origins_and/), submitted on 2023-04-01 00:58:53+08:00.
 
------ __1165.1__ -----2023-04-01 08:50:34+08:00:
+----- __1165.1__ -----2023-04-01 11:34:01+08:00:
+
+A book which I'm surprised has not been brought up by anyone here so far is Scott Levi's *The Bukharan Crisis* (2020), which, in brief, *demolishes* the concept of the 'Silk Road' pretty comprehensively. He builds on Hansen to some extent, but his main thrust is that the entire concept of a 'Silk Road' is Orientalist scholarship trying to assign special significance to Sino-European overland trade that it fundamentally didn't have. From a Central Asian perspective, the notion that the region was historically subordinated to the whims of European demand for Chinese goods smacks of a certain sedentary-centrism, and also blatantly ignores Central Asia's considerable trade links with South Asia, which 'Silk Road' models of Eurasian trade flagrantly disregard. Granted, he's coming at this from specifically an Early Modern standpoint, rather than the medieval one which 'Silk Road' discussions usually come framed in, but this too is, he notes, problematic – overland trade didn't suddenly stop at some point, indeed it *intensified* as maritime links between Europe and Asia became strengthened. It's been very influential on my own thinking and it's why I pretty consistently try to put up big asterisks whenever a 'Silk Road' discussion comes up on the sub.
+
+### 1166: [How did the creation of the video game "Pong" impact the construction of the Great Wall of China?](https://old.reddit.com/r/AskHistorians/comments/1280sog/how_did_the_creation_of_the_video_game_pong/), submitted on 2023-04-01 05:50:54+08:00.
+
+----- __1166.1__ -----2023-04-01 08:50:34+08:00:
 
 This is a surprisingly rich story, involving three court ministers, Ping, Pong, and Pang, in the time of the emperor Altoum. Now, Altoum is not exactly a very Chinese name, and there is a reason for that – the events in question took place during the short-lived Western Yi Dynasty, a brief and obscure period principally known through the private chronicle of 普只尼, established by an Inner Asian tribe of uncertain origin. Like many states in China founded by Inner Asian polities, the ruling dynasty in turn found itself at threat from the steppe that it had left behind, as new tribes emerged to fill the gap. By Altoum's time, this was becoming dire, as the collapse of the Tartarian Empire of Tamerlane had created fierce competition in the steppe that threatened to spill into his territories, and the emperor struggled with the problem of how to explain to these roaming nomads that his nice neat border was not to be traversed.
 
@@ -70,4 +76,10 @@ This proved to be an apt statement, as Altoum appears to have had a eureka momen
 But there is, however, a tragicomic coda to all this. Pang, jilted by his former friends, stole Pong's research into steel elasticity, and travelled into the steppe, where he made contact with the Muslim warlord A'Tari, bringing with him a proposal for a new siege engine. A steel ball, initially launched by a catapult, would be repeatedly reflected against a large steel plate, allowing a wall to slowly be worn down, brick by brick. Unfortunately, a lack of access to sufficient steel meant that in practice, instead of a plate large enough to reflect the ball consistently, there was instead a smaller plate that would have to be moved by gantry to meet the ball every time it bounced off the target wall. Any failure to intercept the ball as it rolled back could be fatal to the operators, and it was deemed that any more than three lives lost in this way meant the siege should be called off.
 
 And so it was that Pang, the forgotten colleague of Ping and Pong, invented Breakout.
+
+### 1167: [Are there any other known instances of Gods crossing pantheons besides Kratos?](https://old.reddit.com/r/AskHistorians/comments/1288qri/are_there_any_other_known_instances_of_gods/), submitted on 2023-04-01 10:41:51+08:00.
+
+----- __1167.1__ -----2023-04-01 11:29:21+08:00:
+
+If this was an April Fool's post, we regret to inform you that only our patented HistoryBot(TM) is permitted to post questions about unconventional historical connections.
 
