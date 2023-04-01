@@ -57,9 +57,15 @@ This submission has been removed because it involves current events.  To keep fr
 
 A book which I'm surprised has not been brought up by anyone here so far is Scott Levi's *The Bukharan Crisis* (2020), which, in brief, *demolishes* the concept of the 'Silk Road' pretty comprehensively. He builds on Hansen to some extent, but his main thrust is that the entire concept of a 'Silk Road' is Orientalist scholarship trying to assign special significance to Sino-European overland trade that it fundamentally didn't have. From a Central Asian perspective, the notion that the region was historically subordinated to the whims of European demand for Chinese goods smacks of a certain sedentary-centrism, and also blatantly ignores Central Asia's considerable trade links with South Asia, which 'Silk Road' models of Eurasian trade flagrantly disregard. Granted, he's coming at this from specifically an Early Modern standpoint, rather than the medieval one which 'Silk Road' discussions usually come framed in, but this too is, he notes, problematic – overland trade didn't suddenly stop at some point, indeed it *intensified* as maritime links between Europe and Asia became strengthened. It's been very influential on my own thinking and it's why I pretty consistently try to put up big asterisks whenever a 'Silk Road' discussion comes up on the sub.
 
-### 1166: [How did the creation of the video game "Pong" impact the construction of the Great Wall of China?](https://old.reddit.com/r/AskHistorians/comments/1280sog/how_did_the_creation_of_the_video_game_pong/), submitted on 2023-04-01 05:50:54+08:00.
+### 1166: [A Brief and Unimportant Note from the Mod Team About Some Minor Bot Testing Over the Next 24 to 36 hours.](https://old.reddit.com/r/AskHistorians/comments/127yw7e/a_brief_and_unimportant_note_from_the_mod_team/), submitted on 2023-04-01 04:50:14+08:00.
 
------ __1166.1__ -----2023-04-01 08:50:34+08:00:
+----- __1166.1__ -----2023-04-01 15:23:38+08:00:
+
+No. Don't confuse HistoryBot!
+
+### 1167: [How did the creation of the video game "Pong" impact the construction of the Great Wall of China?](https://old.reddit.com/r/AskHistorians/comments/1280sog/how_did_the_creation_of_the_video_game_pong/), submitted on 2023-04-01 05:50:54+08:00.
+
+----- __1167.1__ -----2023-04-01 08:50:34+08:00:
 
 This is a surprisingly rich story, involving three court ministers, Ping, Pong, and Pang, in the time of the emperor Altoum. Now, Altoum is not exactly a very Chinese name, and there is a reason for that – the events in question took place during the short-lived Western Yi Dynasty, a brief and obscure period principally known through the private chronicle of 普只尼, established by an Inner Asian tribe of uncertain origin. Like many states in China founded by Inner Asian polities, the ruling dynasty in turn found itself at threat from the steppe that it had left behind, as new tribes emerged to fill the gap. By Altoum's time, this was becoming dire, as the collapse of the Tartarian Empire of Tamerlane had created fierce competition in the steppe that threatened to spill into his territories, and the emperor struggled with the problem of how to explain to these roaming nomads that his nice neat border was not to be traversed.
 
@@ -77,15 +83,37 @@ But there is, however, a tragicomic coda to all this. Pang, jilted by his former
 
 And so it was that Pang, the forgotten colleague of Ping and Pong, invented Breakout.
 
-### 1167: [Are there any other known instances of Gods crossing pantheons besides Kratos?](https://old.reddit.com/r/AskHistorians/comments/1288qri/are_there_any_other_known_instances_of_gods/), submitted on 2023-04-01 10:41:51+08:00.
+### 1168: [People in history who rose up to the test despite their illness/affliction?](https://old.reddit.com/r/AskHistorians/comments/1286tpc/people_in_history_who_rose_up_to_the_test_despite/), submitted on 2023-04-01 09:19:32+08:00.
 
------ __1167.1__ -----2023-04-01 11:29:21+08:00:
+----- __1168.1__ -----2023-04-01 14:48:19+08:00:
+
+**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
+
+Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
+
+Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 1169: [Are there any other known instances of Gods crossing pantheons besides Kratos?](https://old.reddit.com/r/AskHistorians/comments/1288qri/are_there_any_other_known_instances_of_gods/), submitted on 2023-04-01 10:41:51+08:00.
+
+----- __1169.1__ -----2023-04-01 11:29:21+08:00:
 
 If this was an April Fool's post, we regret to inform you that only our patented HistoryBot(TM) is permitted to post questions about unconventional historical connections.
 
-### 1168: [Why were there two Byzantine Emperors named Basil, but not a single one named Oregano?](https://old.reddit.com/r/AskHistorians/comments/1289y55/why_were_there_two_byzantine_emperors_named_basil/), submitted on 2023-04-01 11:35:28+08:00.
+### 1170: [Why were there two Byzantine Emperors named Basil, but not a single one named Oregano?](https://old.reddit.com/r/AskHistorians/comments/1289y55/why_were_there_two_byzantine_emperors_named_basil/), submitted on 2023-04-01 11:35:28+08:00.
 
------ __1168.1__ -----2023-04-01 11:40:45+08:00:
+----- __1170.1__ -----2023-04-01 11:40:45+08:00:
+
+If this was an April Fool's post, we regret to inform you that only our patented HistoryBot(TM) is permitted to post questions about unconventional historical connections today, to avoid inadvertent contamination.
+
+### 1171: [Which Egyptian dynasty did Yu-Gi-Oh take place in?](https://old.reddit.com/r/AskHistorians/comments/128b4vp/which_egyptian_dynasty_did_yugioh_take_place_in/), submitted on 2023-04-01 12:29:54+08:00.
+
+----- __1171.1__ -----2023-04-01 14:47:36+08:00:
+
+If this was an April Fool's post, we regret to inform you that only our patented HistoryBot(TM) is permitted to post questions about unconventional historical connections today, to avoid inadvertent contamination.
+
+### 1172: [How did the popularity of Fortnite impact the unification of Germany?](https://old.reddit.com/r/AskHistorians/comments/128dbkd/how_did_the_popularity_of_fortnite_impact_the/), submitted on 2023-04-01 14:16:44+08:00.
+
+----- __1172.1__ -----2023-04-01 14:47:54+08:00:
 
 If this was an April Fool's post, we regret to inform you that only our patented HistoryBot(TM) is permitted to post questions about unconventional historical connections today, to avoid inadvertent contamination.
 
