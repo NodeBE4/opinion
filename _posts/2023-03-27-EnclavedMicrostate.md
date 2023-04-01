@@ -83,3 +83,9 @@ And so it was that Pang, the forgotten colleague of Ping and Pong, invented Brea
 
 If this was an April Fool's post, we regret to inform you that only our patented HistoryBot(TM) is permitted to post questions about unconventional historical connections.
 
+### 1168: [Why were there two Byzantine Emperors named Basil, but not a single one named Oregano?](https://old.reddit.com/r/AskHistorians/comments/1289y55/why_were_there_two_byzantine_emperors_named_basil/), submitted on 2023-04-01 11:35:28+08:00.
+
+----- __1168.1__ -----2023-04-01 11:40:45+08:00:
+
+If this was an April Fool's post, we regret to inform you that only our patented HistoryBot(TM) is permitted to post questions about unconventional historical connections today, to avoid inadvertent contamination.
+
