@@ -25,7 +25,7 @@ Zhejiang man Li detained for 7 days for referring to police as animals and dogs 
 
 ### 3: [2022-12-09 19:56:43+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1601184059740545026)
 
-近日有自称黑客的人拿着这几张图片邀功说这是他们从法院系统盗取的资料，其实显然不是，这个案子是由当事人自己曝光的，不是什么黑客从法院内部系统盗取的资料。图片显然也是对纸质文件拍的照片，不是黑客从内部盗取的资料的样子。<div class="rsshub-quote"><br><br>中国文字狱事件盘点: 北京异议人士李红安（@LiHongAn922），因在推特发表了关于六四事件、香港民主运动和宣扬民主等言论（官方称虚假信息和辱骂性信息），被判处有期徒刑两年半，已于今年二月刑满释放。<br><br><img style="" src="https://pbs.twimg.com/media/FQFs9sJXIA0zqpS?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FQFs9sjWUAE4ue_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FQFs9tLXwA0J0Zc?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FQFs9tcXoAUtTtZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+近日有自称黑客的人拿着这几张图片邀功说这是他们从法院系统盗取的资料，其实显然不是，这个案子是由当事人自己曝光的，不是什么黑客从法院内部系统盗取的资料。图片显然也是对纸质文件拍的照片，不是黑客从内部盗取的资料的样子。<br><br>中国文字狱事件盘点: 北京异议人士李红安（@LiHongAn922），因在推特发表了关于六四事件、香港民主运动和宣扬民主等言论（官方称虚假信息和辱骂性信息），被判处有期徒刑两年半，已于今年二月刑满释放。<br><br><img style="" src="https://pbs.twimg.com/media/FQFs9sJXIA0zqpS?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FQFs9sjWUAE4ue_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FQFs9tLXwA0J0Zc?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FQFs9tcXoAUtTtZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2022-12-09 22:38:48+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1601224851527983104)
 
