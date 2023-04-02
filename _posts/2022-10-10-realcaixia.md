@@ -37,7 +37,7 @@ Re @Zealots2022 她好像没有在电视台工作过。
 
 ### 6: [2022-10-10 18:13:56+08:00 推文](https://twitter.com/realcaixia/status/1579414923838648320)
 
-转发推荐：<br><br>Li Yuan: 非常为我们的团队骄傲。一个5月份才开始的播客，没有任何平台、经费，每个人都是用爱发电，很多周末和深夜都用在了制作、编辑播客上。也非常感谢中文听众的大力支持和传播，“不明白播客”成功在微博上成为敏感词～<br> <a href="https://twitter.com/bumingbaipod/status/1579358385694466050" target="_blank" rel="noopener noreferrer">https://twitter.com/bumingbaipod/status/1579358385694466050</a>
+转发推荐：<br><br>Li Yuan: 非常为我们的团队骄傲。一个5月份才开始的播客，没有任何平台、经费，每个人都是用爱发电，很多周末和深夜都用在了制作、编辑播客上。也非常感谢中文听众的大力支持和传播，“不明白播客”成功在微博上成为敏感词～<br>
 
 ### 7: [2022-10-10 18:57:20+08:00 推文](https://twitter.com/realcaixia/status/1579425845063868416)
 
