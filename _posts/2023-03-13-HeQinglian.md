@@ -29,7 +29,7 @@ Re @_HicRhodus 所有人佩服奥巴马以前的美国宪政文明，是佩服�
 
 ### 4: [2023-03-13 03:38:35+08:00 推文](https://twitter.com/HeQinglian/status/1635002366494908418)
 
-留言中有位“老枪”，非得将挺川与挺拜当作挺个人，这种见识太差劲了。<br>其实就我而言，是支持川普的政治主张与相关政策，以及这种主张与政策对传统生活方式的守护。挺拜的人也同样如此，是支持拜登政治主张与政策对美国传统生活方式的颠覆。<br>我相信多数挺川的都如此。 https://twitter.com/HeQinglian/status/1634910100367511558<div class="rsshub-quote"><br><br>He Qinglian: 今天看到华拜粉在某处留言，说学问大挺川，说明学问让人糊涂。<br>在媒体一片声黑化川普及其政策时，挺川不仅需要起码的知识与常识，还需要思考。不比挺拜与民主党，只需要认同移民无国界与福利，学几句人道口号，会举拳头就行了。<br></div>
+留言中有位“老枪”，非得将挺川与挺拜当作挺个人，这种见识太差劲了。<br>其实就我而言，是支持川普的政治主张与相关政策，以及这种主张与政策对传统生活方式的守护。挺拜的人也同样如此，是支持拜登政治主张与政策对美国传统生活方式的颠覆。<br>我相信多数挺川的都如此。<div class="rsshub-quote"><br><br>He Qinglian: 今天看到华拜粉在某处留言，说学问大挺川，说明学问让人糊涂。<br>在媒体一片声黑化川普及其政策时，挺川不仅需要起码的知识与常识，还需要思考。不比挺拜与民主党，只需要认同移民无国界与福利，学几句人道口号，会举拳头就行了。<br></div>
 
 ### 5: [2023-03-13 03:44:13+08:00 推文](https://twitter.com/HeQinglian/status/1635003784526196739)
 
@@ -37,7 +37,7 @@ Re @DZhe1984 @Isabel_3299 左派一向玩名实脱离伎俩，当一个名词好
 
 ### 6: [2023-03-13 03:46:28+08:00 推文](https://twitter.com/HeQinglian/status/1635004348504887296)
 
-就我而言，是支持川普的政治主张与相关政策，以及这种主张与政策对传统生活方式的守护。挺拜的人也同样如此，是支持拜登政治主张与政策对美国传统生活方式的颠覆。<br>我相信多数挺川的都如此。<br>你的留言证明你的水平。<div class="rsshub-quote"><br><br>老枪: @HeQinglian 挺拜的都认为拜是有缺陷的，挺川的都认为川是完美的。<br></div>
+就我而言，是支持川普的政治主张与相关政策，以及这种主张与政策对传统生活方式的守护。挺拜的人也同样如此，是支持拜登政治主张与政策对美国传统生活方式的颠覆。<br>我相信多数挺川的都如此。<br>你的留言证明你的水平。 https://twitter.com/akakak474747/status/1634986969536270338<div class="rsshub-quote"><br><br>老枪: @HeQinglian 挺拜的都认为拜是有缺陷的，挺川的都认为川是完美的。<br></div>
 
 ### 7: [2023-03-13 03:50:15+08:00 推文](https://twitter.com/HeQinglian/status/1635005299668160512)
 
@@ -473,7 +473,7 @@ Re @franktianxie 如果你认为，和平12条事先没与俄罗斯沟通过，�
 
 ### 115: [2023-03-15 06:58:44+08:00 推文](https://twitter.com/HeQinglian/status/1635777509152157732)
 
-2008年世界金融危机由美国开始，波及欧洲。美国几个月后就站起来了，欧洲继续衰退。<br>这次金融危机如果将美国击倒，美国是大重置的抓手。除了拜登政府完全臣服于WEF，很难想象两者如何处理这矛盾。 https://twitter.com/Lala_Deesky/status/1635760766635655169<div class="rsshub-quote"><br><br>Lala Dee 台北的天空🦋💫✨🦋💫✨: 世界經濟論壇內部人士承認矽谷銀行崩潰是一個“偉大的重置騙局”<br><br> 一位世界經濟論壇內部人士被抓到吹噓說，矽谷銀行的崩潰是一個精心策劃的陰謀，計劃完美——這次崩潰將對銀行業產生多米諾骨牌效應，導致全球金融崩潰。 https://t.co/DeKbhWhg5e<br><br><img style="" src="https://pbs.twimg.com/media/FrNjvlYWYAAzwch?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+2008年世界金融危机由美国开始，波及欧洲。美国几个月后就站起来了，欧洲继续衰退。<br>这次金融危机如果将美国击倒，美国是大重置的抓手。除了拜登政府完全臣服于WEF，很难想象两者如何处理这矛盾。<div class="rsshub-quote"><br><br>Lala Dee 台北的天空🦋💫✨🦋💫✨: 世界經濟論壇內部人士承認矽谷銀行崩潰是一個“偉大的重置騙局”<br><br> 一位世界經濟論壇內部人士被抓到吹噓說，矽谷銀行的崩潰是一個精心策劃的陰謀，計劃完美——這次崩潰將對銀行業產生多米諾骨牌效應，導致全球金融崩潰。 https://t.co/DeKbhWhg5e<br><br><img style="" src="https://pbs.twimg.com/media/FrNjvlYWYAAzwch?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 116: [2023-03-15 07:33:38+08:00 推文](https://twitter.com/HeQinglian/status/1635786292481912833)
 
@@ -533,7 +533,7 @@ Re @silenceserver @HH82661575 你将我看成了泥塑。<br>我先生脾气比�
 
 ### 130: [2023-03-15 22:11:29+08:00 推文](https://twitter.com/HeQinglian/status/1636007210835906560)
 
-与雷曼时刻相比有个根本的差别。<br>2008年是做金融产品——两房贷款出了问题。这次是Woke式经营出了问题。<br>有个行当叫做“企业诊断”（管理咨询）起源于美国，就是定期或不定期对企业管理状况、经营状况和财务状况进行全面分析。用这套方式诊断SVB，从企业经营理念、方向、管理目标、管理层专业素质，癌症。 https://twitter.com/bbcchinese/status/1635974418991071233<div class="rsshub-quote"><br><br>BBC News 中文: 雷曼倒，股市崩，金融海啸，席卷全球。15年前这一幕，至今还出现在金融人士的噩梦中。硅谷银行倒闭，让不少人联想起“雷曼事件”。那么，硅谷银行倒闭是否是第二个“雷曼事件”？ https://t.co/T3YwGUBELh<br><br><video src="https://video.twimg.com/amplify_video/1635963777064599553/vid/1080x1920/9eYqrBVlbN-Tq-qs.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/media/FrQmDyXX0AAPBPS?format=jpg&amp;name=orig"></video></div>
+与雷曼时刻相比有个根本的差别。<br>2008年是做金融产品——两房贷款出了问题。这次是Woke式经营出了问题。<br>有个行当叫做“企业诊断”（管理咨询）起源于美国，就是定期或不定期对企业管理状况、经营状况和财务状况进行全面分析。用这套方式诊断SVB，从企业经营理念、方向、管理目标、管理层专业素质，癌症。<div class="rsshub-quote"><br><br>BBC News 中文: 雷曼倒，股市崩，金融海啸，席卷全球。15年前这一幕，至今还出现在金融人士的噩梦中。硅谷银行倒闭，让不少人联想起“雷曼事件”。那么，硅谷银行倒闭是否是第二个“雷曼事件”？ https://t.co/T3YwGUBELh<br><br><video src="https://video.twimg.com/amplify_video/1635963777064599553/vid/1080x1920/9eYqrBVlbN-Tq-qs.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/media/FrQmDyXX0AAPBPS?format=jpg&amp;name=orig"></video></div>
 
 ### 131: [2023-03-15 22:14:40+08:00 推文](https://twitter.com/HeQinglian/status/1636008014422368256)
 
@@ -881,7 +881,7 @@ Re @aptx48693734 瑞信已经折腾了十多年，从全球一家最优金融机
 
 ### 217: [2023-03-17 21:08:48+08:00 推文](https://twitter.com/HeQinglian/status/1636716214054449152)
 
-你说的是真实情况。<br>我这几天查资料，发现欧洲早就这样玩，但全民觉得正常。美国还没烂透，这次硅谷的Woke化经营被挖出来当事情说，至少纽约邮报、Fox等愿意说，CNN、纽时、华邮则挑美联储加息来说，非说成是普遍性的。<br>Got Woke，Go Broke，不烂到底，那一半喜欢Woke的美国左派国民不会醒的。 https://twitter.com/hustzhuch/status/1636579388069126144<div class="rsshub-quote"><br><br>hustzhuch: @HeQinglian 欧美很多公司都搞这个鬼，他妈的还不能说。迟早完蛋<br></div>
+你说的是真实情况。<br>我这几天查资料，发现欧洲早就这样玩，但全民觉得正常。美国还没烂透，这次硅谷的Woke化经营被挖出来当事情说，至少纽约邮报、Fox等愿意说，CNN、纽时、华邮则挑美联储加息来说，非说成是普遍性的。<br>Got Woke，Go Broke，不烂到底，那一半喜欢Woke的美国左派国民不会醒的。<div class="rsshub-quote"><br><br>hustzhuch: @HeQinglian 欧美很多公司都搞这个鬼，他妈的还不能说。迟早完蛋<br></div>
 
 ### 218: [2023-03-17 21:19:05+08:00 推文](https://twitter.com/HeQinglian/status/1636718800954376192)
 
@@ -985,7 +985,7 @@ Re @mingshi_chen @lianghuiwang2 你忘记一件最大的事情，这是SWIFT系�
 
 ### 243: [2023-03-18 21:10:24+08:00 推文](https://twitter.com/HeQinglian/status/1637079002262142979)
 
-美國2023金融爆雷第一家──矽谷銀行病理診斷<br>https://www.upmedia.mg/news_info.php?Type=2&amp;SerialNo=168181<br>美主媒一致强调硅谷银行困境的普遍性（美联储加息），想掩盖这家银行破产的特殊性：将Woke事业当作经营主打<br>本文对该行做企业诊断：该董事会及经营管理人员构成，经营方向、服务目标均服务于拜登政府的Woke政治，指出其必败之由
+RT He Qinglian<br>美國2023金融爆雷第一家──矽谷銀行病理診斷<br>https://www.upmedia.mg/news_info.php?Type=2&amp;SerialNo=168181<br>美主媒一致强调硅谷银行困境的普遍性（美联储加息），想掩盖这家银行破产的特殊性：将Woke事业当作经营主打<br>本文对该行做企业诊断：该董事会及经营管理人员构成，经营方向、服务目标均服务于拜登政府的Woke政治，指出其必败之由
 
 ### 244: [2023-03-18 21:13:57+08:00 推文](https://twitter.com/HeQinglian/status/1637079897716715521)
 

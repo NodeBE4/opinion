@@ -85,7 +85,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FmsHud-agAAIUi8?format=jpg
 
 ### 18: [2023-01-18 07:59:41+08:00 推文](https://twitter.com/realcaixia/status/1615499130557665281)
 
-是上海市崇明岛。<div class="rsshub-quote"><br><br>量子跃迁: 我看着这些面对自己亲人堆积如山的尸体仍默默忍耐的民众，我深刻理解了为什么中共在三年大饥荒中饿死了9000多万民众而政权无恙的原因。胆小、懦弱、奴性，让广大百姓没有人性的存在，只有动物性的存在！<br></div>
+是上海市崇明岛。<div class="rsshub-quote"><br><br>量子跃迁: 我看着这些面对自己亲人堆积如山的尸体仍默默忍耐的民众，我深刻理解了为什么中共在三年大饥荒中饿死了9000多万民众而政权无恙的原因。胆小、懦弱、奴性，让广大百姓没有人性的存在，只有动物性的存在！<br> <a href="https://twitter.com/jacklee7281/status/1614717528160305154" target="_blank" rel="noopener noreferrer">https://twitter.com/jacklee7281/status/1614717528160305154</a></div>
 
 ### 19: [2023-01-18 08:02:19+08:00 推文](https://twitter.com/realcaixia/status/1615499790443331584)
 

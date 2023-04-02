@@ -353,7 +353,7 @@ Re @princeton_walk @JianglinLi 我每天要收不少，还有拜登民主党的�
 
 ### 85: [2023-03-30 09:01:53+08:00 推文](https://twitter.com/HeQinglian/status/1641244322216509440)
 
-我其实就想知道：他们什么时候承认这个病毒是有意合作研究（这已经很清楚了）、有意放出魔瓶？<br>他们要解释一点：施瓦布为什么兴高采烈地宣告这是大重置的时机，简方达为何说是上帝赐给左派的礼物？<br>左派天天骂天骂地，为何不骂这两人是魔鬼之舌？ https://twitter.com/KELMAND1/status/1641242137756061696<div class="rsshub-quote"><br><br>Ezio Mao☢: “失去的十年”来临<br><br>世界银行本周发布了一份非常有趣的预测。简而言之，丰衣足食的时代已经结束，“失去的十年”即将到来。世界经济平均增速为2.2%，为近30年来最低。<br><br>在原因中，经济学家指出了流行病、通货膨胀和人口结构。有了大流行，一切都清楚了....<br><br>https://www.worldbank.org/en/news/press-release/2023/03/27/global-economy-s-speed-limit-set-to-fall-to-three-decade-low<br></div>
+我其实就想知道：他们什么时候承认这个病毒是有意合作研究（这已经很清楚了）、有意放出魔瓶？<br>他们要解释一点：施瓦布为什么兴高采烈地宣告这是大重置的时机，简方达为何说是上帝赐给左派的礼物？<br>左派天天骂天骂地，为何不骂这两人是魔鬼之舌？<div class="rsshub-quote"><br><br>Ezio Mao☢: “失去的十年”来临<br><br>世界银行本周发布了一份非常有趣的预测。简而言之，丰衣足食的时代已经结束，“失去的十年”即将到来。世界经济平均增速为2.2%，为近30年来最低。<br><br>在原因中，经济学家指出了流行病、通货膨胀和人口结构。有了大流行，一切都清楚了....<br><br>https://www.worldbank.org/en/news/press-release/2023/03/27/global-economy-s-speed-limit-set-to-fall-to-three-decade-low<br></div>
 
 ### 86: [2023-03-30 09:02:52+08:00 推文](https://twitter.com/HeQinglian/status/1641244565846781952)
 
@@ -389,7 +389,7 @@ Re @harry_shosta 这位可怜的 美国中学生，她不知道自己未出生�
 
 ### 94: [2023-03-30 10:33:52+08:00 推文](https://twitter.com/HeQinglian/status/1641267468113960961)
 
-这种恶例一开，中国辱骂领导人习近平的人更加遭殃，官方会振振有词地宣称：辱骂领导人的人判刑，在民主国家也同样如此。<br>西方人陷入这种恶政，还有什么好骄傲的？ https://twitter.com/Qing2022022/status/1641120784029564934<div class="rsshub-quote"><br><br>Qing: 法国一名妇女因在社交网络上侮辱马克龙而被捕。她称这位法国总统为“垃圾”，现在她将面临一年的牢狱之灾。 https://t.co/bJhlM7jekH<br><br><img style="" src="https://pbs.twimg.com/media/FsZupzRakAAayne?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+这种恶例一开，中国辱骂领导人习近平的人更加遭殃，官方会振振有词地宣称：辱骂领导人的人判刑，在民主国家也同样如此。<br>西方人陷入这种恶政，还有什么好骄傲的？<div class="rsshub-quote"><br><br>Qing: 法国一名妇女因在社交网络上侮辱马克龙而被捕。她称这位法国总统为“垃圾”，现在她将面临一年的牢狱之灾。 https://t.co/bJhlM7jekH<br><br><img style="" src="https://pbs.twimg.com/media/FsZupzRakAAayne?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 95: [2023-03-30 10:37:31+08:00 推文](https://twitter.com/HeQinglian/status/1641268385919934464)
 
@@ -546,4 +546,20 @@ Re @BigBrotherDamnU 下次遇到类似情况，你可以贴出相关链接，说
 ### 133: [2023-04-02 01:25:25+08:00 推文](https://twitter.com/HeQinglian/status/1642216612425080832)
 
 Re @JianglinLi @direkchannel 昨天我去理发，有只小狗非常活泼可爱，浑身白毛，脚掌至小腿由浅棕至淡茶色，主人将宠物的马甲、铃铛、小头饰全套装备，唯一的缺点就是白毛象灰色的。理发师问我，可不可爱？我说，这是你的？怎么不洗干净点？理发师笑着努努嘴，主人在那。… https://twitter.com/i/web/status/1642216612425080832
+
+### 134: [2023-04-02 07:16:15+08:00 推文](https://twitter.com/HeQinglian/status/1642304902209609728)
+
+Re @601NSnH1aVBj8fG @shenliangqing2 用“好人”这个概念去评价政府首脑，太幼儿化了。<br>一个领导者，关键看其当政时期对本国的贡献，在捍卫国家利益方面的能耐与决心。<br>历史需要时间沉淀，再过20年，评价普京不迟。但是，白左的恶评，只会证明普京的正确。
+
+### 135: [2023-04-02 07:26:26+08:00 推文](https://twitter.com/HeQinglian/status/1642307462077227008)
+
+Re @zhixiangziyou @JianglinLi @direkchannel 在理发店应该不是乞讨，听起来，店员与她是熟悉的。<br>但那只小狗确实活泼可爱，如果有这种聪明活泼的供收养，说不定我养一只。😅
+
+### 136: [2023-04-02 07:50:24+08:00 推文](https://twitter.com/HeQinglian/status/1642313492756660224)
+
+Re @JianglinLi @ngexp 我今天翻查旧文，发现一个明显的特点：<br>2015年以前，我也是灯塔派，对美国在外国发动的颜色革命基本持赞赏态度，只有一点，认为可能要考虑路径依赖，否则就算颜色革命成功，也只会产生民主残次品；… https://twitter.com/i/web/status/1642313492756660224
+
+### 137: [2023-04-02 09:02:06+08:00 推文](https://twitter.com/HeQinglian/status/1642331540548907015)
+
+Re @eGUAbe2V7j26GHw @zhixiangziyou @JianglinLi @direkchannel 谢谢两位建议。目前只是喜欢看别人的小动物，自己是完全没有时间顾及这些。<br>今后如果真要行动了，会征求你们这些有经验的推友的意见。
 

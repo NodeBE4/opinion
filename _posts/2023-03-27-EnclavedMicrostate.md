@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2023-04-01
+date: 2023-04-02
 from: https://old.reddit.com/r/wargaming/comments/122tovi/i_feel_like_a_god_of_freehanding_some_more_15mm/
 layout: post
 tags:
@@ -148,4 +148,10 @@ If this was an April Fool's post, we regret to inform you that only our patented
 ----- __1172.1__ -----2023-04-01 14:47:54+08:00:
 
 If this was an April Fool's post, we regret to inform you that only our patented HistoryBot(TM) is permitted to post questions about unconventional historical connections today, to avoid inadvertent contamination.
+
+### 1173: [Howdy partners! The sheriff lookin very cool in her outfit!](https://old.reddit.com/r/Hololive/comments/1291kwt/howdy_partners_the_sheriff_lookin_very_cool_in/), submitted on 2023-04-02 06:47:46+08:00.
+
+----- __1173.1__ -----2023-04-02 09:04:00+08:00:
+
+I'm gonna say that if it's lever-action, then it's basically a Martini-Henry-style lever with a relatively small tab currently concealed by her hand, rather than a Henry/Winchester-style large ring lever that the whole hand fits into.
 
