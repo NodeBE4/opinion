@@ -69,7 +69,7 @@ Re @zhixiangziyou 不是笑话，是处心积虑的“体制内新长征”。
 
 ### 14: [2023-03-27 21:07:27+08:00 推文](https://twitter.com/HeQinglian/status/1640339753353584640)
 
-无知者无畏，这个 @xxgreatwall 开口就是“你懂不懂”。<br>普及一点常识：任何一国货币国际化两个指标：一是国际贸易结算时使用率高低；二是储备货币。<br>作为储备货币，在IMF让人民币入篮时已给过指标，一直没能使用足够；前者是作为结算货币<br>这位 @xxgreatwall 当然也不懂BRICKS之内结算系统如今是何状态 https://twitter.com/xxgreatwall/status/1640175068763549697<div class="rsshub-quote"><br><br>BONY M: @HeQinglian 扯淡，你懂不懂，如果只是把美元换算成人民币买石油，同时俄罗斯收的的人民币只能买中国商品，买不了其他国家的商品，那么实际上就是以物易物，哪有什么人民币国际化。<br></div>
+无知者无畏，这个 @xxgreatwall 开口就是“你懂不懂”。<br>普及一点常识：任何一国货币国际化两个指标：一是国际贸易结算时使用率高低；二是储备货币。<br>作为储备货币，在IMF让人民币入篮时已给过指标，一直没能使用足够；前者是作为结算货币<br>这位 @xxgreatwall 当然也不懂BRICKS之内结算系统如今是何状态<div class="rsshub-quote"><br><br>BONY M: @HeQinglian 扯淡，你懂不懂，如果只是把美元换算成人民币买石油，同时俄罗斯收的的人民币只能买中国商品，买不了其他国家的商品，那么实际上就是以物易物，哪有什么人民币国际化。<br></div>
 
 ### 15: [2023-03-27 21:09:53+08:00 推文](https://twitter.com/HeQinglian/status/1640340363700318210)
 
@@ -537,7 +537,7 @@ Re @Tepezano161 如果他能够做到，早就不玩这借鸡生蛋的把戏了�
 
 ### 131: [2023-04-01 21:11:57+08:00 推文](https://twitter.com/HeQinglian/status/1642152825110028289)
 
-关于川普被纽约民主党检察官起诉、精选的大陪审团裁定有罪，有推友问我，这次川普是否在劫难逃？<br>我的回答如下：<div class="rsshub-quote"><br><br>He Qinglian: @vinceLi60688407 @shenliangqing2 不是川普在劫难逃，而是美国的宪政、法治与秩序在劫难逃。<br>我要看美国究竟能够堕落到什么地步。<br></div>
+关于川普被纽约民主党检察官起诉、精选的大陪审团裁定有罪，有推友问我，这次川普是否在劫难逃？<br>我的回答如下： https://twitter.com/HeQinglian/status/1641844972700696578<div class="rsshub-quote"><br><br>He Qinglian: @vinceLi60688407 @shenliangqing2 不是川普在劫难逃，而是美国的宪政、法治与秩序在劫难逃。<br>我要看美国究竟能够堕落到什么地步。<br></div>
 
 ### 132: [2023-04-02 00:44:25+08:00 推文](https://twitter.com/HeQinglian/status/1642206292386217984)
 
@@ -562,4 +562,16 @@ Re @JianglinLi @ngexp 我今天翻查旧文，发现一个明显的特点：<br>
 ### 137: [2023-04-02 09:02:06+08:00 推文](https://twitter.com/HeQinglian/status/1642331540548907015)
 
 Re @eGUAbe2V7j26GHw @zhixiangziyou @JianglinLi @direkchannel 谢谢两位建议。目前只是喜欢看别人的小动物，自己是完全没有时间顾及这些。<br>今后如果真要行动了，会征求你们这些有经验的推友的意见。
+
+### 138: [2023-04-02 21:36:00+08:00 推文](https://twitter.com/HeQinglian/status/1642521265532534785)
+
+Re @seeyoua22819375 @JianglinLi @ngexp 那时觉得美国代表正义、人类方向，俄罗斯被弱化、打击，是美国为人类做了正确的事情。
+
+### 139: [2023-04-02 21:41:05+08:00 推文](https://twitter.com/HeQinglian/status/1642522544241623040)
+
+Re @shenliangqing2 看教会，我不乐观。目前在继续坚持的教会多是乡村的。失乐园是必定的。
+
+### 140: [2023-04-02 22:07:35+08:00 推文](https://twitter.com/HeQinglian/status/1642529210664120320)
+
+Re @shenliangqing2 @Jack02072486 @vinceLi60688407 夏虫不可语冰。<br>这种人永远就是只苍蝇。
 
