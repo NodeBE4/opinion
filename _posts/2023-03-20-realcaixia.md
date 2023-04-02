@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2023-03-20~2023-03-26'
 
 ### 2: [2023-03-20 04:37:09+08:00 推文](https://twitter.com/realcaixia/status/1637553819340120065)
 
-中共在1949以后的统治模式不脱4个字:专制掠夺。“掠夺”私人财产，一直没停止过。<br>王先生⬇️文章揭露中共对环境资源的“掠夺”式开采带来的恶果：破坏自然环境，不仅危害中国人而且将危害全球人类未来的生存。<br>中共掠夺式的开采利用资源，已经使中国空气、水、土地、食品严重污染，癌症发病率死亡率高于全球 https://twitter.com/yibaochina/status/1636474477088317446<div class="rsshub-quote"><br><br>《议报》: 王维洛 | 西藏高原生态环境恶化加剧 https://yibaochina.com/?p=249761 未来中国冰川面积的减少，将是一个持续加速的过程。西藏流亡政府在2015年在巴黎气候大会之前，提出的到2050年西藏三分之二的冰川可能因气候变迁而消失的预测，将会提前出现。那是习近平的第二个一百年，山河破碎的第二个一百年。<br></div>
+中共在1949以后的统治模式不脱4个字:专制掠夺。“掠夺”私人财产，一直没停止过。<br>王先生⬇️文章揭露中共对环境资源的“掠夺”式开采带来的恶果：破坏自然环境，不仅危害中国人而且将危害全球人类未来的生存。<br>中共掠夺式的开采利用资源，已经使中国空气、水、土地、食品严重污染，癌症发病率死亡率高于全球<div class="rsshub-quote"><br><br>《议报》: 王维洛 | 西藏高原生态环境恶化加剧 https://yibaochina.com/?p=249761 未来中国冰川面积的减少，将是一个持续加速的过程。西藏流亡政府在2015年在巴黎气候大会之前，提出的到2050年西藏三分之二的冰川可能因气候变迁而消失的预测，将会提前出现。那是习近平的第二个一百年，山河破碎的第二个一百年。<br></div>
 
 ### 3: [2023-03-20 04:55:24+08:00 推文](https://twitter.com/realcaixia/status/1637558411717144577)
 
@@ -37,7 +37,7 @@ Re 举中国2020年癌症发病数和死亡数为证：中国新发癌症人数�
 
 ### 6: [2023-03-20 05:35:39+08:00 推文](https://twitter.com/realcaixia/status/1637568542647390208)
 
-说得好！中共国所有问题的根源都在于政治，在于中共党，在于这党统治国家的制度和党内的权力结构与组织机制。习上台后，这些问题不仅没有解决还加上一条：党魁独裁，无法无天无底线。<div class="rsshub-quote"><br><br>荣剑: 稍有常识的人，都看出大国问题的实质:消费不振，投资不力，信心不足，预期不好，究其终极原因，都是政治问题。中国经济学，不是政治经济学，其实就是政治学，只有政治，没有经济。 https://t.co/TcDQD4D1ji<br><br><img style="" src="https://pbs.twimg.com/media/Fri3zP3XgAAzdMq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fri30NqXwAIMQbg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+说得好！中共国所有问题的根源都在于政治，在于中共党，在于这党统治国家的制度和党内的权力结构与组织机制。习上台后，这些问题不仅没有解决还加上一条：党魁独裁，无法无天无底线。 https://twitter.com/rongjian1957/status/1637260587792052226<div class="rsshub-quote"><br><br>荣剑: 稍有常识的人，都看出大国问题的实质:消费不振，投资不力，信心不足，预期不好，究其终极原因，都是政治问题。中国经济学，不是政治经济学，其实就是政治学，只有政治，没有经济。 https://t.co/TcDQD4D1ji<br><br><img style="" src="https://pbs.twimg.com/media/Fri3zP3XgAAzdMq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fri30NqXwAIMQbg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 7: [2023-03-20 06:13:42+08:00 推文](https://twitter.com/realcaixia/status/1637578118721576962)
 
@@ -61,7 +61,7 @@ Re 举中国2020年癌症发病数和死亡数为证：中国新发癌症人数�
 
 ### 12: [2023-03-21 00:56:42+08:00 推文](https://twitter.com/realcaixia/status/1637860729947824135)
 
-我很同意这个观点。在自由民主国家，寻找一份工作，有了收入支撑自己的生活，在此基础上努力为促进祖国实现宪政民主做好自己该做的能做的事。如不能解决好自己的生计，依靠各种捐助款生活的人，即便想为自由民主而努力也是走不远的。 https://twitter.com/yjpc007/status/1637846481947471875<div class="rsshub-quote"><br><br>一剑飘尘 007: 昨天见到一个我们同一个时代的哥们，非常成功的生意人，非常支持民主运动。从这个哥们身上，验证了我一直劝导民主圈年轻人的话：追求民主和发家致富不矛盾！追求民主是理念，现实生活也要做好。只有自己事业成功的，追求民主才真正是出于初心。不要把自己现实生活中的失败，都归结为专制制度。<br></div>
+我很同意这个观点。在自由民主国家，寻找一份工作，有了收入支撑自己的生活，在此基础上努力为促进祖国实现宪政民主做好自己该做的能做的事。如不能解决好自己的生计，依靠各种捐助款生活的人，即便想为自由民主而努力也是走不远的。<div class="rsshub-quote"><br><br>一剑飘尘 007: 昨天见到一个我们同一个时代的哥们，非常成功的生意人，非常支持民主运动。从这个哥们身上，验证了我一直劝导民主圈年轻人的话：追求民主和发家致富不矛盾！追求民主是理念，现实生活也要做好。只有自己事业成功的，追求民主才真正是出于初心。不要把自己现实生活中的失败，都归结为专制制度。<br></div>
 
 ### 13: [2023-03-21 01:20:01+08:00 推文](https://twitter.com/realcaixia/status/1637866597091278848)
 
@@ -109,7 +109,7 @@ Re 拖到今天才转发芳菲和程晓农老师的访谈上下集。这期访�
 
 ### 24: [2023-03-23 04:45:24+08:00 推文](https://twitter.com/realcaixia/status/1638643060774158336)
 
-窗帘拉开了还能再拉上，同样一国历史进一步退两步也成现实。<br>曾以为改革开放拥抱现代文明了，就会一直往前走，现实却并非如此。2014年行走伊朗，硬生生的看到拥抱了现代文明还会再退到神权时期；回头看中国，曾经走出了帝制拥抱共和，1949后再退回帝国皇权——；1978开了国门，2012以后习朝要半关半开。 https://twitter.com/XIAOMIEHM/status/1638284397341298695<div class="rsshub-quote"><br><br>罗翔: 邪恶组织专门拉开窗帘再拉上窗帘，反复如此循环！😂😂😂😂😂😄！<br>这位教授的讲课方式令人叫绝，但这个故事更触动我的是:窗帘拉开了还能再拉上…… https://t.co/7WyDuTF3ev<br><br><img style="" src="https://pbs.twimg.com/media/Frxa-QkXoAAhaf4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+窗帘拉开了还能再拉上，同样一国历史进一步退两步也成现实。<br>曾以为改革开放拥抱现代文明了，就会一直往前走，现实却并非如此。2014年行走伊朗，硬生生的看到拥抱了现代文明还会再退到神权时期；回头看中国，曾经走出了帝制拥抱共和，1949后再退回帝国皇权——；1978开了国门，2012以后习朝要半关半开。 https://twitter.com/xiaomiehm/status/1638284397341298695<div class="rsshub-quote"><br><br>罗翔: 邪恶组织专门拉开窗帘再拉上窗帘，反复如此循环！😂😂😂😂😂😄！<br>这位教授的讲课方式令人叫绝，但这个故事更触动我的是:窗帘拉开了还能再拉上…… https://t.co/7WyDuTF3ev<br><br><img style="" src="https://pbs.twimg.com/media/Frxa-QkXoAAhaf4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 25: [2023-03-23 11:23:02+08:00 推文](https://twitter.com/realcaixia/status/1638743126352486401)
 
@@ -117,7 +117,7 @@ Re @ChanrichAmy 手术成功了！真是很暖心的好消息🌹🌹。祝贺�
 
 ### 26: [2023-03-23 11:30:17+08:00 推文](https://twitter.com/realcaixia/status/1638744949821956099)
 
-邹幸彤香港青年的人格典范。 https://twitter.com/yibaochina/status/1638672411393392640<div class="rsshub-quote"><br><br>《议报》: 邹幸彤 | 法庭陈词 https://yibaochina.com/?p=249820 当人民在权力面前变得愈来愈透明，但权力却在人民面前变得愈来愈不透明的时候，人民就不再是国家的主人，而是国家的奴隶。而“国家安全”亦只会成为掩饰这种奴役的借口。<br></div>
+邹幸彤香港青年的人格典范。<div class="rsshub-quote"><br><br>《议报》: 邹幸彤 | 法庭陈词 https://yibaochina.com/?p=249820 当人民在权力面前变得愈来愈透明，但权力却在人民面前变得愈来愈不透明的时候，人民就不再是国家的主人，而是国家的奴隶。而“国家安全”亦只会成为掩饰这种奴役的借口。<br></div>
 
 ### 27: [2023-03-23 11:32:45+08:00 推文](https://twitter.com/realcaixia/status/1638745572256669700)
 
@@ -133,15 +133,15 @@ Re @ChanrichAmy 手术成功了！真是很暖心的好消息🌹🌹。祝贺�
 
 ### 30: [2023-03-24 01:34:26+08:00 推文](https://twitter.com/realcaixia/status/1638957390677549060)
 
-拿镜中花水中月搞大忽悠已经蒙不住人了。看看台湾人的生活实实在在是啥样的，他们手里的选票实实在在地决定总统是谁，他们的护照实实在在地拿在自己手里，去世界旅游免签、落地签或电子签证入境的国家多达146个，完全涵盖欧美发达国家。再看看中国人过的是啥日子，有没有真选票，出境入境是啥样的 https://twitter.com/jason27873170/status/1638744130837700612<div class="rsshub-quote"><br><br>jason hu: https://t.co/JD42PRBxfB<br><br><img style="" src="https://pbs.twimg.com/media/Fr39GeJWYAAfsJg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+拿镜中花水中月搞大忽悠已经蒙不住人了。看看台湾人的生活实实在在是啥样的，他们手里的选票实实在在地决定总统是谁，他们的护照实实在在地拿在自己手里，去世界旅游免签、落地签或电子签证入境的国家多达146个，完全涵盖欧美发达国家。再看看中国人过的是啥日子，有没有真选票，出境入境是啥样的<div class="rsshub-quote"><br><br>jason hu: https://t.co/JD42PRBxfB<br><br><img style="" src="https://pbs.twimg.com/media/Fr39GeJWYAAfsJg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 31: [2023-03-24 01:55:35+08:00 推文](https://twitter.com/realcaixia/status/1638962710967644169)
 
-支持童屹女士！拆掉中共互联网防火墙—中共阻碍信息自由流通的互联网柏林墙—这是改善中国人权状况、推进宪政民主的基础。<div class="rsshub-quote"><br><br>EndGFW Official 拆墙运动公号2: 【如何快速改善中国？拆墙排第1】<br><br>童逸近期给美国国会开出的改善中国民主2大招，包括了拆除互联网防火墙、资助记者律师。她指出，中共最怕本国人民，如果中国人能自由上网，那就易知社会真相，而真相本身就自带强大力量，能打破中共几十年来打造的谎言世界，促成反对派力量的联合。#EndGFW #拆墙运动 https://t.co/mdS6VjWOBZ<br><br><video src="https://video.twimg.com/ext_tw_video/1638588314310836224/pu/vid/644x360/Wki49V9XXLHeMoBP.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1638588314310836224/pu/img/N6d7apNOm4MYdQJz.jpg"></video></div>
+支持童屹女士！拆掉中共互联网防火墙—中共阻碍信息自由流通的互联网柏林墙—这是改善中国人权状况、推进宪政民主的基础。 https://twitter.com/endgfw2/status/1638591903712317440<div class="rsshub-quote"><br><br>EndGFW Official 拆墙运动公号2: 【如何快速改善中国？拆墙排第1】<br><br>童逸近期给美国国会开出的改善中国民主2大招，包括了拆除互联网防火墙、资助记者律师。她指出，中共最怕本国人民，如果中国人能自由上网，那就易知社会真相，而真相本身就自带强大力量，能打破中共几十年来打造的谎言世界，促成反对派力量的联合。#EndGFW #拆墙运动 https://t.co/mdS6VjWOBZ<br><br><video src="https://video.twimg.com/ext_tw_video/1638588314310836224/pu/vid/644x360/Wki49V9XXLHeMoBP.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1638588314310836224/pu/img/N6d7apNOm4MYdQJz.jpg"></video></div>
 
 ### 32: [2023-03-24 03:23:16+08:00 推文](https://twitter.com/realcaixia/status/1638984777377239042)
 
-一个小粉红被专政铁拳砸醒了。警察抓他，非要给他按个“罪名”，以强词夺理说抓他“合理合法”。他从此就有了“污点记录”，这会影响到他的一生生活和前途。<br>希望更多的年轻人醒悟过来。在一个无法治，无公开透明，无言论自由，无人权保障的国度里，今天发生在别人身上的事，说不定明天就发生在你身上。 https://twitter.com/tgtm_official/status/1637997459854221312<div class="rsshub-quote"><br><br>The Great Translation Movement 大翻译运动官方推号: A 22 years old boy who live in Shanghai  taken away by the police due to some unreasonable charges<br><br>#大翻译运动<br>#TheGreatTranslationMovement <br>#大翻譯運動 https://t.co/HpOJEaKq42<br><br><img style="" src="https://pbs.twimg.com/media/FrtNwvTXsAAKVlb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FrtNwvNX0AECNiV?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+一个小粉红被专政铁拳砸醒了。警察抓他，非要给他按个“罪名”，以强词夺理说抓他“合理合法”。他从此就有了“污点记录”，这会影响到他的一生生活和前途。<br>希望更多的年轻人醒悟过来。在一个无法治，无公开透明，无言论自由，无人权保障的国度里，今天发生在别人身上的事，说不定明天就发生在你身上。 https://twitter.com/tgtm_official/status/1637997459854221312
 
 ### 33: [2023-03-24 08:10:05+08:00 推文](https://twitter.com/realcaixia/status/1639056958576791554)
 
@@ -173,7 +173,7 @@ Re 一句话写错，现作更正：特别是最新的习普会中习说共同�
 
 ### 40: [2023-03-25 13:43:07+08:00 推文](https://twitter.com/realcaixia/status/1639503155540144130)
 
-1980年代两岸开放，老兵回大陆探亲。一天回家见到个陌生人正和父亲谈天。父亲经常是家乡口音的普通话，那天他与那人说着一口家乡土话，爽朗的笑声直传到院门外。父亲叫我近前去，说：“叫大伯，我的堂哥。他去了台湾，一走就40多年，总算回来了。以后要常来看看。”一海之隔生死两茫茫，大伯揉着眼睛点头<div class="rsshub-quote"><br><br>自由亚洲电台: 【我的1949: 乡愁的送行者】<br>年近九旬的高秉涵律师老家在山东，1949年跟着国民政府大撤退来到台湾，30多年来，他抱了2、300个老兵骨灰回大陆，一场疫情打断回乡步伐，今年初中国解封国境，老律师继续扛起乡愁的担子前行。<br>如今台海紧张对峙，他说“两岸都是我的母亲，不要再受伤，绝对不能变成弹药库。” https://t.co/ryDaOqchxr<br><br><video src="https://video.twimg.com/amplify_video/1638279357788573703/vid/1920x1080/dImsS1qfxH4HeQbf.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1638279357788573703/img/KvfP-hcUruM9Incf.jpg"></video></div>
+1980年代两岸开放，老兵回大陆探亲。一天回家见到个陌生人正和父亲谈天。父亲经常是家乡口音的普通话，那天他与那人说着一口家乡土话，爽朗的笑声直传到院门外。父亲叫我近前去，说：“叫大伯，我的堂哥。他去了台湾，一走就40多年，总算回来了。以后要常来看看。”一海之隔生死两茫茫，大伯揉着眼睛点头 https://twitter.com/rfa_chinese/status/1638646742475481088<div class="rsshub-quote"><br><br>自由亚洲电台: 【我的1949: 乡愁的送行者】<br>年近九旬的高秉涵律师老家在山东，1949年跟着国民政府大撤退来到台湾，30多年来，他抱了2、300个老兵骨灰回大陆，一场疫情打断回乡步伐，今年初中国解封国境，老律师继续扛起乡愁的担子前行。<br>如今台海紧张对峙，他说“两岸都是我的母亲，不要再受伤，绝对不能变成弹药库。” https://t.co/ryDaOqchxr<br><br><video src="https://video.twimg.com/amplify_video/1638279357788573703/vid/1920x1080/dImsS1qfxH4HeQbf.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1638279357788573703/img/KvfP-hcUruM9Incf.jpg"></video></div>
 
 ### 41: [2023-03-25 22:13:20+08:00 推文](https://twitter.com/realcaixia/status/1639631555365838849)
 
@@ -197,7 +197,7 @@ Re @LifetoDeathG @yjpc007 不是畸形的逻辑思维，他们没有逻辑，只
 
 ### 46: [2023-03-26 07:43:22+08:00 推文](https://twitter.com/realcaixia/status/1639775008909303808)
 
-在京一次面试申请蔡定剑宪法教育基金奖学金的大学生时，问怎么看当局一面宣传发扬民主，一面压制言论和民主？一位北大学生说“对党和政府要有同情性理解”。<br>我问学生谁教你们这么理解的，答北大法学院强世功教授。我让那学生出去休息，对着在场的北大老师就开骂了：说这么无耻的话配当北大教授吗？！<div class="rsshub-quote"><br><br>李承鹏（真正的大眼哥）: 总看到一些人劝说“宽容比自由重要”。<br><br>其实胡适的原话还有半句，我什么都能容忍，除了愚蠢。<br><br>宽容比自由重要，前提是在一个自由的社会里。如果你在朝鲜，见人们饿得皮包骨头，你还大谈宽容比自由重要，这就太脏了。<br></div>
+在京一次面试申请蔡定剑宪法教育基金奖学金的大学生时，问怎么看当局一面宣传发扬民主，一面压制言论和民主？一位北大学生说“对党和政府要有同情性理解”。<br>我问学生谁教你们这么理解的，答北大法学院强世功教授。我让那学生出去休息，对着在场的北大老师就开骂了：说这么无耻的话配当北大教授吗？！ https://twitter.com/dayangelcp/status/1639567725445124098<div class="rsshub-quote"><br><br>李承鹏（真正的大眼哥）: 总看到一些人劝说“宽容比自由重要”。<br><br>其实胡适的原话还有半句，我什么都能容忍，除了愚蠢。<br><br>宽容比自由重要，前提是在一个自由的社会里。如果你在朝鲜，见人们饿得皮包骨头，你还大谈宽容比自由重要，这就太脏了。<br></div>
 
 ### 47: [2023-03-26 11:16:38+08:00 推文](https://twitter.com/realcaixia/status/1639828680473198592)
 
