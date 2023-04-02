@@ -25,17 +25,17 @@ Re 2/<br>From one extreme to another extreme doesn't work.<br>It shows the myth 
 
 Re 3/<br>Some popular guesses were after the Party Congress or the introduction of locally made mRNA vaccines ( as Beijing sees vaccine production as national pride and soft power). None of these predictions were right. Instead, it was after a series of A4 protests.
 
-### 3: [2022-12-15 20:47:17+08:00 推文](https://twitter.com/nathanlawkc/status/1603371113224228864)
+### 3: [2022-12-15 20:47:17+08:00 推文](https://twitter.com/nathanlawkc/status/1603371115870445568)
 
-Re 5/<br>This is nothing like how we expected a relaxation of COVID measures – people going out and spending more, the economy's engine restarting… If a gradual process of relaxing the measures had been in place, things would have been much better.
+Re 6/<br>After the recent Party Congress, when Xi centralized so much power, there was already analysis saying that the transformation of the CCP from a collective leadership to a single-strong-man leadership would lead to many problems.
 
-### 4: [2022-12-15 20:47:18+08:00 推文](https://twitter.com/nathanlawkc/status/1603371119284715522)
+### 4: [2022-12-15 20:47:18+08:00 推文](https://twitter.com/nathanlawkc/status/1603371117653147650)
 
-Re 8/<br>The change of narrative towards the pandemic is also shocking. We must understand the public discussion climate in China – when the Party has made a line on one thing, only supporting speeches are available.
+Re 7/<br>The lack of flexibility in policy implementation when the lower tier officials have to follow every word of the top without questioning, haphazard ways of changing policies, and more unpredictable moves… all manifest in this episode of sudden change.
 
-### 5: [2022-12-15 20:47:19+08:00 推文](https://twitter.com/nathanlawkc/status/1603371123055411201)
+### 5: [2022-12-15 20:47:19+08:00 推文](https://twitter.com/nathanlawkc/status/1603371121352622081)
 
-Re 10/<br>And the stigmatization of "living with COVID" also bounces back to themselves. State media had been portraying this idea as a foreign state conspiracy to overthrow the Party and put them at risk. They now have a hard time convincing people that we're going to be ok.
+Re 9/<br>When the PRC spoke on the importance of retaining the COVID measures was describing how deadly the virus is, people's perception was not changing in a few days. Many still see COVID as more dangerous than it is, and rush to the hospital no matter how light the symptoms are.
 
 ### 6: [2022-12-15 20:47:20+08:00 推文](https://twitter.com/nathanlawkc/status/1603371124817121286)
 

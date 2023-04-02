@@ -153,7 +153,7 @@ Re @KELMAND1 @82WztfvhHqZz0Ub 纠正：是瑞信，The Credit Suisse。这次瑞
 
 ### 35: [2023-03-21 22:14:05+08:00 推文](https://twitter.com/JianglinLi/status/1638182192009412610)
 
-RT 李江琳<br>拜登的银行记录。这可真是鸡犬升天。<div class="rsshub-quote"><br><br>Oversight Committee: 🤥🤥🤥🤥<br> <br>We’ve got the bank records. https://t.co/yDYPcOxKYW<br><br><img style="" src="https://pbs.twimg.com/media/FrrHOJQXsAEhtZy?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT 李江琳<br>拜登的银行记录。这可真是鸡犬升天。 https://twitter.com/GOPoversight/status/1637840708726816779<div class="rsshub-quote"><br><br>Oversight Committee: 🤥🤥🤥🤥<br> <br>We’ve got the bank records. https://twitter.com/FoxNews/status/1637111635797061633 https://t.co/yDYPcOxKYW<br><br><img style="" src="https://pbs.twimg.com/media/FrrHOJQXsAEhtZy?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 36: [2023-03-22 03:38:21+08:00 推文](https://twitter.com/HeQinglian/status/1638263799399477249)
 
@@ -285,7 +285,7 @@ Re @JianglinLi @Wu_Zhi @david_david1968 @HongfuDing 小丑一个，粘着别人�
 
 ### 68: [2023-03-25 08:06:53+08:00 推文](https://twitter.com/HeQinglian/status/1639418539437113344)
 
-美国北约不赢就是输。理由：北约成员国经济总量占全球的约48%左右，俄GDP总量占全球不到2%；在全球军费开支方面，2021年，美国及北约盟国合计占全球军费开支的55%； 俄军费开支659亿美元，占全球军费总开支2万亿的3.3%。如果不能赢，美国的全球领导地位将形成极大的冲击力。https://www.rfa.org/mandarin/pinglun/heqinglian/hql-03242023125009.html<div class="rsshub-quote"><br><br>Ezio Mao☢: 许多美国高级军方和情报官员认为，乌克兰将无法再从当前的冲突中取得胜利。<br><br>“大部分乌克兰军队已经阵亡。在美国受训的最优秀的士兵要么阵亡，要么无法行动。没有人能抹杀乌克兰的英勇，但俄罗斯无论如何都有可能获胜，这要归功于压倒性的资源”Keith Kellogg中将表示。<br><br>https://www.americanthinker.com/blog/2023/03/it_slowly_dawns_on_the_west_that_ukraine_is_not_going_to_win.html<br></div>
+美国北约不赢就是输。理由：北约成员国经济总量占全球的约48%左右，俄GDP总量占全球不到2%；在全球军费开支方面，2021年，美国及北约盟国合计占全球军费开支的55%； 俄军费开支659亿美元，占全球军费总开支2万亿的3.3%。如果不能赢，美国的全球领导地位将形成极大的冲击力。https://www.rfa.org/mandarin/pinglun/heqinglian/hql-03242023125009.html https://twitter.com/KELMAND1/status/1639136603368202246<div class="rsshub-quote"><br><br>Ezio Mao☢: 许多美国高级军方和情报官员认为，乌克兰将无法再从当前的冲突中取得胜利。<br><br>“大部分乌克兰军队已经阵亡。在美国受训的最优秀的士兵要么阵亡，要么无法行动。没有人能抹杀乌克兰的英勇，但俄罗斯无论如何都有可能获胜，这要归功于压倒性的资源”Keith Kellogg中将表示。<br><br>https://www.americanthinker.com/blog/2023/03/it_slowly_dawns_on_the_west_that_ukraine_is_not_going_to_win.html<br></div>
 
 ### 69: [2023-03-25 09:24:21+08:00 推文](https://twitter.com/HeQinglian/status/1639438036810252288)
 
