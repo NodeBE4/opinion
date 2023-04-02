@@ -149,9 +149,15 @@ If this was an April Fool's post, we regret to inform you that only our patented
 
 If this was an April Fool's post, we regret to inform you that only our patented HistoryBot(TM) is permitted to post questions about unconventional historical connections today, to avoid inadvertent contamination.
 
-### 1173: [Howdy partners! The sheriff lookin very cool in her outfit!](https://old.reddit.com/r/Hololive/comments/1291kwt/howdy_partners_the_sheriff_lookin_very_cool_in/), submitted on 2023-04-02 06:47:46+08:00.
+### 1173: [Official Discussion Thread - Volume 9, Episode 7: The Perils of Paper Houses](https://old.reddit.com/r/RWBY/comments/128o5wb/official_discussion_thread_volume_9_episode_7_the/), submitted on 2023-04-01 22:33:32+08:00.
 
------ __1173.1__ -----2023-04-02 09:04:00+08:00:
+----- __1173.1__ -----2023-04-02 13:38:31+08:00:
+
+In my read at least, she wasn't mocking the death itself, she was mocking Jaune's attitude towards the Paper Pleasers, but I'll grant that there was a mockery involved.
+
+### 1174: [Howdy partners! The sheriff lookin very cool in her outfit!](https://old.reddit.com/r/Hololive/comments/1291kwt/howdy_partners_the_sheriff_lookin_very_cool_in/), submitted on 2023-04-02 06:47:46+08:00.
+
+----- __1174.1__ -----2023-04-02 09:04:00+08:00:
 
 I'm gonna say that if it's lever-action, then it's basically a Martini-Henry-style lever with a relatively small tab currently concealed by her hand, rather than a Henry/Winchester-style large ring lever that the whole hand fits into.
 
