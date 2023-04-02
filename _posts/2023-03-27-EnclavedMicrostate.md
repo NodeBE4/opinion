@@ -161,3 +161,9 @@ In my read at least, she wasn't mocking the death itself, she was mocking Jaune'
 
 I'm gonna say that if it's lever-action, then it's basically a Martini-Henry-style lever with a relatively small tab currently concealed by her hand, rather than a Henry/Winchester-style large ring lever that the whole hand fits into.
 
+### 1175: [[Hobby Scuffles] Week of April 3, 2023](https://old.reddit.com/r/HobbyDrama/comments/129nsy0/hobby_scuffles_week_of_april_3_2023/), submitted on 2023-04-02 23:02:27+08:00.
+
+----- __1175.1__ -----2023-04-03 00:36:23+08:00:
+
+It's the 3rd where I am, ergo no.
+
