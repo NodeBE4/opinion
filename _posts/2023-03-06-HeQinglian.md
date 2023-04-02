@@ -169,11 +169,11 @@ Re 各位推友，拜登今天仍然说对华政策没变。<br>拜粉可以说�
 
 ### 39: [2023-03-08 09:41:16+08:00 推文](https://twitter.com/HeQinglian/status/1633281700389109760)
 
-这事，德国人信了就行。毕竟，需要美国这位盟友兼大哥，北溪事件的真相是什么不重要，德国人愿意相信什么最重要。<br>ZELT这篇报道，属于德国人正想打瞌睡，立刻有人送上枕头之类。 https://twitter.com/dinglili7/status/1633253353756172288<div class="rsshub-quote"><br><br>绫波: 🇩🇪德国《ZELT》：<br><br>ZEIT确定了据称用于秘密行动的船只是从波兰一家公司租来的游艇显然是两名乌克兰人所有。是由一个五男一女六人小组执行的。一名船长两名潜水员两名潜水助理和一名医生将炸药运到犯罪现场并放置在那里。肇事者的国籍不清楚，袭击者使用专业伪造的护照除其他外还被用来租船 https://t.co/Zt5vzwjWDA<br><br><img style="" src="https://pbs.twimg.com/media/Fqp7QFraMAEUsSV?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+这事，德国人信了就行。毕竟，需要美国这位盟友兼大哥，北溪事件的真相是什么不重要，德国人愿意相信什么最重要。<br>ZELT这篇报道，属于德国人正想打瞌睡，立刻有人送上枕头之类。<div class="rsshub-quote"><br><br>绫波: 🇩🇪德国《ZELT》：<br><br>ZEIT确定了据称用于秘密行动的船只是从波兰一家公司租来的游艇显然是两名乌克兰人所有。是由一个五男一女六人小组执行的。一名船长两名潜水员两名潜水助理和一名医生将炸药运到犯罪现场并放置在那里。肇事者的国籍不清楚，袭击者使用专业伪造的护照除其他外还被用来租船 https://t.co/Zt5vzwjWDA<br><br><img style="" src="https://pbs.twimg.com/media/Fqp7QFraMAEUsSV?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 40: [2023-03-08 18:57:26+08:00 推文](https://twitter.com/fading_you1/status/1633421661679628289)
 
-RT 天降伟人包由检<br>美国左派的意识形态输出，目的就是用政治正确阉割全世界不同国家的社会伦理，从而实现对传统价值的颠覆来“砸烂旧世界”，进而用左派意识形态重构一个大一统的“天下大同”新世界。<br><br>所以，此时此刻，反美才是最高的自由价值。 https://twitter.com/initiumnews/status/1633005939686248449<div class="rsshub-quote"><br><br>端傳媒 Initium Media: 【在女浴場遇「跨性別」感到恐懼？日本演員橋本愛為爭議言論道歉】 對於「跨性別女性」使用女性洗浴設施和公共廁所的相關問題，日本演員橋本愛本月5日於其IG story中發表評論，提議「最好根據身體的性別來區分」。有網民批評其言論涉嫌「歧視LGBT+」。隨後6日，橋本愛隨後再發布story就此番言論道歉。 https://t.co/7fytbI0Uev<br><br><img style="" src="https://pbs.twimg.com/media/FqmZ1a1aMAAXvoS?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT 天降伟人包由检<br>美国左派的意识形态输出，目的就是用政治正确阉割全世界不同国家的社会伦理，从而实现对传统价值的颠覆来“砸烂旧世界”，进而用左派意识形态重构一个大一统的“天下大同”新世界。<br><br>所以，此时此刻，反美才是最高的自由价值。<div class="rsshub-quote"><br><br>端傳媒 Initium Media: 【在女浴場遇「跨性別」感到恐懼？日本演員橋本愛為爭議言論道歉】 對於「跨性別女性」使用女性洗浴設施和公共廁所的相關問題，日本演員橋本愛本月5日於其IG story中發表評論，提議「最好根據身體的性別來區分」。有網民批評其言論涉嫌「歧視LGBT+」。隨後6日，橋本愛隨後再發布story就此番言論道歉。 https://t.co/7fytbI0Uev<br><br><img style="" src="https://pbs.twimg.com/media/FqmZ1a1aMAAXvoS?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 41: [2023-03-08 22:30:03+08:00 推文](https://twitter.com/HeQinglian/status/1633475168176619520)
 
@@ -253,7 +253,7 @@ Re @Wu_Zhi @KELMAND1 纵观人类战争史，总是向国际社会哭诉敌人�
 
 ### 60: [2023-03-09 22:35:28+08:00 推文](https://twitter.com/HeQinglian/status/1633838920936099840)
 
-这应该是一折戏的开头，估计是战争援助落幕前的一折。是否有重建援助，得看表现——美方权贵集团也有需要，参考阿富汗帐本。 https://twitter.com/KELMAND1/status/1633754495917363201<div class="rsshub-quote"><br><br>Ezio Mao☢: 乌克兰外交部长声称基辅没有参与破坏“北溪”<br><br>乌克兰外交部长德米特里库列巴在周四接受意大利报纸《共和国报》采访时表示：“我的政府与此无关。我认为没有证据的文章是有害的，因为它们会给人留下乌克兰对此负有责任的印象。我们正在等待调查结果。” https://twitter.com/KELMAND1/status/1633137260886654976 https://t.co/2VkgjGsLf6<br><br><img style="" src="https://pbs.twimg.com/media/FqxDCpBacAAtJDB?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
+这应该是一折戏的开头，估计是战争援助落幕前的一折。是否有重建援助，得看表现——美方权贵集团也有需要，参考阿富汗帐本。<div class="rsshub-quote"><br><br>Ezio Mao☢: 乌克兰外交部长声称基辅没有参与破坏“北溪”<br><br>乌克兰外交部长德米特里库列巴在周四接受意大利报纸《共和国报》采访时表示：“我的政府与此无关。我认为没有证据的文章是有害的，因为它们会给人留下乌克兰对此负有责任的印象。我们正在等待调查结果。” https://t.co/2VkgjGsLf6<br><br><img style="" src="https://pbs.twimg.com/media/FqxDCpBacAAtJDB?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 61: [2023-03-09 22:50:11+08:00 推文](https://twitter.com/JianglinLi/status/1633842624946933760)
 
