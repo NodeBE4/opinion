@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2022-05-23~2022-05-29'
 
 ### 2: [2022-05-23 03:41:29+08:00 推文](https://twitter.com/realcaixia/status/1528461062135087104)
 
-六四将近，当局要加强防控。借口就是“防疫”。全世界都知道Omicron传染性强但重症率死亡率都极低。全世界都在恢复正常开放，但中共国偏要封校封城。全世界都知道中共国假装防疫，中共当局也知道全世界都知道他们在假装，他们依然要把假装进行到底。这个“到底”是经济社会崩溃还是当局崩溃？且拭目以待。<br><br>新闻调查: 怕北大学生聚众闹事，开始疏散学生了！<br><br><img style="" src="https://pbs.twimg.com/media/FTXOw4IUcAAUMcD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+六四将近，当局要加强防控。借口就是“防疫”。全世界都知道Omicron传染性强但重症率死亡率都极低。全世界都在恢复正常开放，但中共国偏要封校封城。全世界都知道中共国假装防疫，中共当局也知道全世界都知道他们在假装，他们依然要把假装进行到底。这个“到底”是经济社会崩溃还是当局崩溃？且拭目以待。
 
 ### 3: [2022-05-23 05:38:34+08:00 推文](https://twitter.com/realcaixia/status/1528490529268240385)
 
@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2022-05-23~2022-05-29'
 
 ### 4: [2022-05-23 06:11:00+08:00 推文](https://twitter.com/realcaixia/status/1528498689857052673)
 
-这是我推下的一个推友跟帖。他发出了自己的声音。在中共极权高压下，这需要巨大的勇气。特别转推推荐。
+这是我推下的一个推友跟帖。他发出了自己的声音。在中共极权高压下，这需要巨大的勇气。特别转推推荐。<br><br>NewLife: @realcaixia 加油💪我們支持上海獨立‼️我們支持中國人獨立‼️奪回本應屬於我們的權力‼️加油💪<br> <a href="https://twitter.com/newlife62675967/status/1524463179778207745?s=21&amp;t=do5AVW58Lu0wBNv34KVEiQ" target="_blank" rel="noopener noreferrer">https://twitter.com/newlife62675967/status/1524463179778207745?s=21&amp;t=do5AVW58Lu0wBNv34KVEiQ</a>
 
 ### 5: [2022-05-23 06:18:14+08:00 推文](https://twitter.com/realcaixia/status/1528500511195836416)
 
@@ -77,7 +77,7 @@ Re @wang6332558 @xizhutou2020 @yjpc007 @YouTube 就是啊，相煎何太急！�
 
 ### 16: [2022-05-24 20:16:27+08:00 推文](https://twitter.com/realcaixia/status/1529073840462057472)
 
-转发好友推特，并借用推文，我将“解放”改为“自由”二字。<br>自救自治委员会成员已经行动起来，几个小区已先行获得自由，当有更多小区获得自由，我们就能逐步产生自由街道、行政区，最后自由全上海!<br>自由靠我们自己争取！请参与进来争取自由，在本小区内找到8个以上朋友，成立群组，纵深拓展，赢得主动权!<br><br>liqun chen（陈立群）: 上海同胞们:我们不要畏惧、退缩，我们维护自身权益、拯救上海，合法合规，合情合理!<br>自救自治委员会成员已经行动起来，先行解放几个小区。当有更多小区得到解放，我们就能逐步解放街道、行政区，最后解放全上海!<br>请参与进来争取自由，在本小区内找到8个以上朋友，成立群组，纵深拓展，赢得主动权!<br><br><video src="https://video.twimg.com/ext_tw_video/1529014988366663682/pu/vid/640x360/7n_EN97joLbXmejo.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1529014988366663682/pu/img/OwuWacBwiJe3vRi-.jpg"></video>
+转发好友推特，并借用推文，我将“解放”改为“自由”二字。<br>自救自治委员会成员已经行动起来，几个小区已先行获得自由，当有更多小区获得自由，我们就能逐步产生自由街道、行政区，最后自由全上海!<br>自由靠我们自己争取！请参与进来争取自由，在本小区内找到8个以上朋友，成立群组，纵深拓展，赢得主动权!
 
 ### 17: [2022-05-24 21:18:20+08:00 推文](https://twitter.com/realcaixia/status/1529089414449741825)
 
@@ -85,15 +85,15 @@ Re @wang6332558 @xizhutou2020 @yjpc007 @YouTube 就是啊，相煎何太急！�
 
 ### 18: [2022-05-24 21:40:13+08:00 推文](https://twitter.com/realcaixia/status/1529094922023862276)
 
-中共国内正万马齐喑，此将是最后的绝响，再后是“于无声处听惊雷”，但要经过一长短不定的至暗时刻与死寂社会，许多人将遭受更严酷的迫害摧残……。<br>信念不死，抗争将会继续，但需要更大的勇气，更多的智慧，更宽广的胸怀与更长远的眼光。对我们每个反抗者来说，要锤炼个人更高的素质，作更韧性的努力。
+中共国内正万马齐喑，此将是最后的绝响，再后是“于无声处听惊雷”，但要经过一长短不定的至暗时刻与死寂社会，许多人将遭受更严酷的迫害摧残……。<br>信念不死，抗争将会继续，但需要更大的勇气，更多的智慧，更宽广的胸怀与更长远的眼光。对我们每个反抗者来说，要锤炼个人更高的素质，作更韧性的努力。<br><br>ZHANGDONG: 遗憾！被封口或被迫闭嘴的还有清华教授郭于华，她的最后一条推特停留在2022年1月31日，微博公号还在九死一生地挣扎。此外，备受尊敬的鲍彤老先生也已长达四个月没再更新推特，与之互动频繁的老友孟孙先生也于3月11日告别推友。😭😭<br>何时起，东方苍茫大地万马齐喑？<br><br><img style="" src="https://pbs.twimg.com/media/FTgZ7JeWQAISNMM?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/gaoyu200812/status/1528943209975623680" target="_blank" rel="noopener noreferrer">https://twitter.com/gaoyu200812/status/1528943209975623680</a>
 
 ### 19: [2022-05-24 21:44:40+08:00 推文](https://twitter.com/realcaixia/status/1529096043987607552)
 
-这便是信念与信心的宣示。
+这便是信念与信心的宣示。<br><br>ZHANGDONG: 每年五月的第三个星期四是乌克兰的刺绣衫节，富有民族特色的刺绣衫象征着乌克兰民族团结和民族认同，它把乌克兰人民凝聚在一起。今天泽伦斯基总统用刺绣衫替换下了军绿T-恤衫，精神焕发，流露出乌克兰必胜信心。<br>欧盟女主席今天也亮出刺绣时装秀，表示在困难时期，与乌克兰人民一起共度时艰。<br><br><video src="https://video.twimg.com/ext_tw_video/1527359586797178888/pu/vid/848x480/sHK-f3ykZ1EM8_wr.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1527359586797178888/pu/img/NJdcjf_nGE0__CSv.jpg"></video> <a href="https://twitter.com/vonderleyen/status/1527317182623150080" target="_blank" rel="noopener noreferrer">https://twitter.com/vonderleyen/status/1527317182623150080</a>
 
 ### 20: [2022-05-24 21:52:40+08:00 推文](https://twitter.com/realcaixia/status/1529098058063089666)
 
-香港媒体当时记录的真实场面。中国一切热爱自由、争取自由的人，当永远记住6.4，并传告子孙后代。<br><br>🥜食花生🍻飲啤酒🤥吹吹水🤣: @realcaixia HK #TVB recorded the footage of the #8964 massacre that year, and the sound of gunfire was endless.<br><br>Many young people in China have never heard of June 4th. <br>Take a good look at it, keep it well, spread it widely, and remember it forever.<br>@un<br> #wuforget64<br><br><video src="https://video.twimg.com/ext_tw_video/1527617002948284417/pu/vid/932x720/X-xmm6o3emBHQB7f.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1527617002948284417/pu/img/MT4j0ivG0Wp8T9I0.jpg"></video>
+香港媒体当时记录的真实场面。中国一切热爱自由、争取自由的人，当永远记住6.4，并传告子孙后代。
 
 ### 21: [2022-05-25 12:00:44+08:00 推文](https://twitter.com/realcaixia/status/1529311480008560640)
 
@@ -109,11 +109,11 @@ Re @fishsalt8 说得好！不改变思维方式不可能真具有自由民主观
 
 ### 24: [2022-05-25 12:40:07+08:00 推文](https://twitter.com/realcaixia/status/1529321388275748864)
 
-这就是大度、豁达、善良，通透。不浪费时间精力打无聊口水仗，把时间精力投入在值得做的事情上。这就是活得坦荡。
+这就是大度、豁达、善良，通透。不浪费时间精力打无聊口水仗，把时间精力投入在值得做的事情上。这就是活得坦荡。<br><br>王局志安: 这两天有不少人告诉我一些人在攻击我，我第一不在意，第二不关心，第三我也不会回复那些子虚乌有的各种污蔑。话说我现在非常忙，上午日语课，下午找选题录节目，看办公室，看招聘的简历，和各路想要投资的人相谈。根本顾不上看这些攻击的言论。我已两鬓斑白，不想把有限的生命浪费到这些事情上。<br>
 
 ### 25: [2022-05-25 20:52:42+08:00 推文](https://twitter.com/realcaixia/status/1529445354650886146)
 
-陈全国这些话做实自己就是屠夫，陈说已经授权了，即屠杀维族人是北京最高层下令了。<br><br>韩连潮: 【格杀勿论令】陈全国5.28讲话：<br>“你像我们的17、8岁的孩子，20多岁的孩子，一参加暴恐团伙就击毙，这些人，不也是受蒙蔽的受害人吗？”<br>“...否则参加暴恐就击毙了，参加培训班还可以转化，转化之后还能生活..."<br>"...跑几步把他击毙了，你像这些你跑了就击毙没什么问题的，早都授权了。"<br><br><img style="" src="https://pbs.twimg.com/media/FTmeAw5XEAMRMs1?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+陈全国这些话做实自己就是屠夫，陈说已经授权了，即屠杀维族人是北京最高层下令了。
 
 ### 26: [2022-05-25 20:55:34+08:00 推文](https://twitter.com/realcaixia/status/1529446076134064132)
 
@@ -125,7 +125,7 @@ Re @fishsalt8 说得好！不改变思维方式不可能真具有自由民主观
 
 ### 28: [2022-05-26 02:17:21+08:00 推文](https://twitter.com/realcaixia/status/1529527052629528581)
 
-封城清零封到老鼠饿死在面店里。<br><br>吴文行wenxingwu: 上海因疫情店面关闭，老鼠被活活饿死！饥荒达到高水准！<br><br><img style="" src="https://pbs.twimg.com/media/FTlbvqPVsAAZA3s?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+封城清零封到老鼠饿死在面店里。
 
 ### 29: [2022-05-26 22:53:06+08:00 推文](https://twitter.com/realcaixia/status/1529838039152922625)
 
@@ -133,7 +133,7 @@ Re @fishsalt8 说得好！不改变思维方式不可能真具有自由民主观
 
 ### 30: [2022-05-26 23:05:36+08:00 推文](https://twitter.com/realcaixia/status/1529841185031716864)
 
-清零的“丰功伟绩”——经济大盘将崩，5/25李克强召开全国稳住经济大盘会议。李期望挽回经济，挽救中共党国将崩塌的统治基础，习和习小兄弟伙要保的是权力宝座。习李分歧明朗，各自代表不同利益。
+清零的“丰功伟绩”——经济大盘将崩，5/25李克强召开全国稳住经济大盘会议。李期望挽回经济，挽救中共党国将崩塌的统治基础，习和习小兄弟伙要保的是权力宝座。习李分歧明朗，各自代表不同利益。<br><br>Jam: “习主席，太伟大了！他做主席，做一辈子”，中国人口不用计划生育,也要减半。<br><br><video src="https://video.twimg.com/ext_tw_video/1529653249585860609/pu/vid/640x368/qR0MHZzcuVXN3qXg.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1529653249585860609/pu/img/GutYr44ZW7OaG9rj.jpg"></video>
 
 ### 31: [2022-05-27 07:36:34+08:00 推文](https://twitter.com/realcaixia/status/1529969775803260931)
 
