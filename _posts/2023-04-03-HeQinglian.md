@@ -19,3 +19,7 @@ title: 'Twitter @He Qinglian: 2023-04-03~2023-04-09'
 
 Re @Tianshuihanyan 在中国，坐吃等死。<br>《南方周末》多年前曾有个系列，采访福建华侨村村民。
 
+### 2: [2023-04-03 01:22:14+08:00 推文](https://twitter.com/HeQinglian/status/1642578196280295426)
+
+Re @WEICHUNNNN @Tianshuihanyan 每天他都在吧？
+

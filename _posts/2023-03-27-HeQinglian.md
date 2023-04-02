@@ -69,7 +69,7 @@ Re @zhixiangziyou 不是笑话，是处心积虑的“体制内新长征”。
 
 ### 14: [2023-03-27 21:07:27+08:00 推文](https://twitter.com/HeQinglian/status/1640339753353584640)
 
-无知者无畏，这个 @xxgreatwall 开口就是“你懂不懂”。<br>普及一点常识：任何一国货币国际化两个指标：一是国际贸易结算时使用率高低；二是储备货币。<br>作为储备货币，在IMF让人民币入篮时已给过指标，一直没能使用足够；前者是作为结算货币<br>这位 @xxgreatwall 当然也不懂BRICKS之内结算系统如今是何状态 https://twitter.com/xxgreatwall/status/1640175068763549697<div class="rsshub-quote"><br><br>BONY M: @HeQinglian 扯淡，你懂不懂，如果只是把美元换算成人民币买石油，同时俄罗斯收的的人民币只能买中国商品，买不了其他国家的商品，那么实际上就是以物易物，哪有什么人民币国际化。<br></div>
+无知者无畏，这个 @xxgreatwall 开口就是“你懂不懂”。<br>普及一点常识：任何一国货币国际化两个指标：一是国际贸易结算时使用率高低；二是储备货币。<br>作为储备货币，在IMF让人民币入篮时已给过指标，一直没能使用足够；前者是作为结算货币<br>这位 @xxgreatwall 当然也不懂BRICKS之内结算系统如今是何状态<div class="rsshub-quote"><br><br>BONY M: @HeQinglian 扯淡，你懂不懂，如果只是把美元换算成人民币买石油，同时俄罗斯收的的人民币只能买中国商品，买不了其他国家的商品，那么实际上就是以物易物，哪有什么人民币国际化。<br></div>
 
 ### 15: [2023-03-27 21:09:53+08:00 推文](https://twitter.com/HeQinglian/status/1640340363700318210)
 
@@ -145,7 +145,7 @@ Re @Chichoyroot 记得你是郭革命时，来过，挺郭派。😇😇<br>我�
 
 ### 33: [2023-03-28 03:05:41+08:00 推文](https://twitter.com/zhixiangziyou/status/1640429904478060544)
 
-RT L JM🇺🇸<br>《华尔街日报》的民意调查显示美国价值观的急剧下降是我们不应该在乌克兰与 WW3 玩足球的另一个原因<br><br>我们的国家正在分崩离析，我们的“领导人”正专注于 5,000 英里外的边界争端。<div class="rsshub-quote"><br><br>Charlie Kirk: The WSJ poll showing the precipitous decline in American values is yet another reason we shouldn't be in Ukraine playing footsie with WW3<br><br>Our country is falling apart and our "leaders" are focused on a border dispute 5,000 miles away. https://t.co/tmey8Jp12x<br><br><img style="" src="https://pbs.twimg.com/media/FsPLuDJakAE7zn7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT L JM🇺🇸<br>《华尔街日报》的民意调查显示美国价值观的急剧下降是我们不应该在乌克兰与 WW3 玩足球的另一个原因<br><br>我们的国家正在分崩离析，我们的“领导人”正专注于 5,000 英里外的边界争端。 https://twitter.com/charliekirk11/status/1640378779360202752<div class="rsshub-quote"><br><br>Charlie Kirk: The WSJ poll showing the precipitous decline in American values is yet another reason we shouldn't be in Ukraine playing footsie with WW3<br><br>Our country is falling apart and our "leaders" are focused on a border dispute 5,000 miles away. https://t.co/tmey8Jp12x<br><br><img style="" src="https://pbs.twimg.com/media/FsPLuDJakAE7zn7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 34: [2023-03-28 06:54:33+08:00 推文](https://twitter.com/HeQinglian/status/1640487500631232514)
 
@@ -441,7 +441,7 @@ Re @KELMAND1 重复阿富汗战争的军费、援建故事。<br>话说，全世
 
 ### 107: [2023-03-31 01:16:27+08:00 推文](https://twitter.com/HeQinglian/status/1641489577335562240)
 
-民主党与左派内部揭露拜登各种丑闻与违规事件有个规律，那就是民主党面临外部压力较小之时，这时候就开始考虑让拜登退出2024大选。<br>一旦有外部压力，拜登丑闻立刻消声，全力帮助本党总统度过难关。<br>前一向山雨欲来，但中国汽球事件一出，拜登丑闻消失。<br>咱们看看这次接着来的是什么。<div class="rsshub-quote"><br><br>Lucs: 🚨🚨🚨突发事件——国家档案馆向美国第一法律机构承认，在宾夕法尼亚拜登中心发现了 1,170 页拜登的副总统记录。<br><br> 他们还承认，他们“没有保管”拜登在特拉华州发现的其他错放的记录。  🔥🔥🔥<br><br> 记录在哪里？  ⤵️<br><br> https://threadreaderapp.com/thread/1641474723946061825.html<br></div>
+民主党与左派内部揭露拜登各种丑闻与违规事件有个规律，那就是民主党面临外部压力较小之时，这时候就开始考虑让拜登退出2024大选。<br>一旦有外部压力，拜登丑闻立刻消声，全力帮助本党总统度过难关。<br>前一向山雨欲来，但中国汽球事件一出，拜登丑闻消失。<br>咱们看看这次接着来的是什么。 https://twitter.com/Lucs24659702/status/1641479598990061569<div class="rsshub-quote"><br><br>Lucs: 🚨🚨🚨突发事件——国家档案馆向美国第一法律机构承认，在宾夕法尼亚拜登中心发现了 1,170 页拜登的副总统记录。<br><br> 他们还承认，他们“没有保管”拜登在特拉华州发现的其他错放的记录。  🔥🔥🔥<br><br> 记录在哪里？  ⤵️<br><br> https://threadreaderapp.com/thread/1641474723946061825.html<br></div>
 
 ### 108: [2023-03-31 01:19:10+08:00 推文](https://twitter.com/HeQinglian/status/1641490263871827986)
 
@@ -517,7 +517,7 @@ Re @shenliangqing2 即使这样，还有不少高端知识分子认为普京更�
 
 ### 126: [2023-04-01 20:39:16+08:00 推文](https://twitter.com/HeQinglian/status/1642144597223657473)
 
-对大陪审团的构成，我不意外。美剧《庭审专家》专门展现如何挑选陪审团成员以及如何操控陪审员。主人公Jason Bull博士是一位心理学家，他把这一能力运用到法庭上，得以判断每一位陪审员对案件原告与被告双方的看法和态度，藉此对症下药，以得到对己方有利的判决结果。… https://twitter.com/i/web/status/1642144597223657473<div class="rsshub-quote"><br><br>🇺🇸波光粼粼🇺🇸: 不顾一切要起诉川普的曼哈顿检察长布拉格，以及站在他身后的投票决定起诉川普总统的所谓纽约大陪审团👇👇。<br>这里是美国吗‼️<br>我以为到了非洲的原始部落，看来美国非洲化不远了‼️ https://t.co/dYx5cHzl3j<br><br><img style="" src="https://pbs.twimg.com/media/FslAU3GWwAoOlZS?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+对大陪审团的构成，我不意外。美剧《庭审专家》专门展现如何挑选陪审团成员以及如何操控陪审员。主人公Jason Bull博士是一位心理学家，他把这一能力运用到法庭上，得以判断每一位陪审员对案件原告与被告双方的看法和态度，藉此对症下药，以得到对己方有利的判决结果。… https://twitter.com/i/web/status/1642144597223657473
 
 ### 127: [2023-04-01 20:46:22+08:00 推文](https://twitter.com/HeQinglian/status/1642146384898928641)
 
