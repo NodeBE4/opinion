@@ -109,7 +109,7 @@ Re @JianglinLi @zhixiangziyou 查了一下，确实是匈牙利犹太人，从�
 
 ### 24: [2023-03-27 21:58:20+08:00 推文](https://twitter.com/HeQinglian/status/1640352556139401217)
 
-这一代人就是这样，人生长跑行将结束。多数人为稻粱谋，此外无非三类：体制内攀升者，体制外的政治反对者（包括表面反对实则合作），商界人物（1950年代生人较少这方面成功者）。<br>退休时回望，心之所安最重要，身外之物无非多收了三五斗。大厦千丈，所眠无非七尺之榻。 https://twitter.com/AnnaWruiqin/status/1640135504942301184<div class="rsshub-quote"><br><br>王安娜 · WangRuiqin: 胡石根长老曾经与胡春华是同室校友，只是胡石根选择了与胡春华完全不同的人生道路。3月26日胡长老在刑期满三天后从牢狱回到四壁空空的家中，24年铁窗生涯极大的伤害了他的健康。壮士垂暮衰老，再看习二强制把中国拉回毛时代不禁感慨<br><br>中国的苦难何时结束<br>勇士们还要付出多大代价？ https://twitter.com/AnnaWruiqin/status/1639972789854650371<br></div>
+这一代人就是这样，人生长跑行将结束。多数人为稻粱谋，此外无非三类：体制内攀升者，体制外的政治反对者（包括表面反对实则合作），商界人物（1950年代生人较少这方面成功者）。<br>退休时回望，心之所安最重要，身外之物无非多收了三五斗。大厦千丈，所眠无非七尺之榻。<div class="rsshub-quote"><br><br>王安娜 · WangRuiqin: 胡石根长老曾经与胡春华是同室校友，只是胡石根选择了与胡春华完全不同的人生道路。3月26日胡长老在刑期满三天后从牢狱回到四壁空空的家中，24年铁窗生涯极大的伤害了他的健康。壮士垂暮衰老，再看习二强制把中国拉回毛时代不禁感慨<br><br>中国的苦难何时结束<br>勇士们还要付出多大代价？<br></div>
 
 ### 25: [2023-03-27 22:00:18+08:00 推文](https://twitter.com/HeQinglian/status/1640353050417045505)
 
@@ -121,7 +121,7 @@ Re @mingshi_chen 货币互换，早在人民币入篮之前就开始了，香港
 
 ### 27: [2023-03-27 22:26:24+08:00 推文](https://twitter.com/HeQinglian/status/1640359621209604097)
 
-Re 必须补充的一句是：<br>美国文革、美国共产主义2.0版，让我们这代人在晚年，陷入精神支撑崩塌，奋斗价值冰消之境。<br>如我这种少数派（5%），愿意认清事实重新出发。多数人抱着灯塔不放，哪怕事实上熄灭，也将想象当现实。<br>十年后，如果还有思考能力，灯塔派将比我等少数人更痛苦，依靠否定少数派是其指望
+RT He Qinglian<br>Re 必须补充的一句是：<br>美国文革、美国共产主义2.0版，让我们这代人在晚年，陷入精神支撑崩塌，奋斗价值冰消之境。<br>如我这种少数派（5%），愿意认清事实重新出发。多数人抱着灯塔不放，哪怕事实上熄灭，也将想象当现实。<br>十年后，如果还有思考能力，灯塔派将比我等少数人更痛苦，依靠否定少数派是其指望
 
 ### 28: [2023-03-27 22:33:02+08:00 推文](https://twitter.com/HeQinglian/status/1640361291138179078)
 
@@ -145,7 +145,7 @@ Re @Chichoyroot 记得你是郭革命时，来过，挺郭派。😇😇<br>我�
 
 ### 33: [2023-03-28 03:05:41+08:00 推文](https://twitter.com/zhixiangziyou/status/1640429904478060544)
 
-RT L JM🇺🇸<br>《华尔街日报》的民意调查显示美国价值观的急剧下降是我们不应该在乌克兰与 WW3 玩足球的另一个原因<br><br>我们的国家正在分崩离析，我们的“领导人”正专注于 5,000 英里外的边界争端。 https://twitter.com/charliekirk11/status/1640378779360202752<div class="rsshub-quote"><br><br>Charlie Kirk: The WSJ poll showing the precipitous decline in American values is yet another reason we shouldn't be in Ukraine playing footsie with WW3<br><br>Our country is falling apart and our "leaders" are focused on a border dispute 5,000 miles away. https://t.co/tmey8Jp12x<br><br><img style="" src="https://pbs.twimg.com/media/FsPLuDJakAE7zn7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+RT L JM🇺🇸<br>《华尔街日报》的民意调查显示美国价值观的急剧下降是我们不应该在乌克兰与 WW3 玩足球的另一个原因<br><br>我们的国家正在分崩离析，我们的“领导人”正专注于 5,000 英里外的边界争端。<div class="rsshub-quote"><br><br>Charlie Kirk: The WSJ poll showing the precipitous decline in American values is yet another reason we shouldn't be in Ukraine playing footsie with WW3<br><br>Our country is falling apart and our "leaders" are focused on a border dispute 5,000 miles away. https://t.co/tmey8Jp12x<br><br><img style="" src="https://pbs.twimg.com/media/FsPLuDJakAE7zn7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 34: [2023-03-28 06:54:33+08:00 推文](https://twitter.com/HeQinglian/status/1640487500631232514)
 
@@ -353,7 +353,7 @@ Re @princeton_walk @JianglinLi 我每天要收不少，还有拜登民主党的�
 
 ### 85: [2023-03-30 09:01:53+08:00 推文](https://twitter.com/HeQinglian/status/1641244322216509440)
 
-我其实就想知道：他们什么时候承认这个病毒是有意合作研究（这已经很清楚了）、有意放出魔瓶？<br>他们要解释一点：施瓦布为什么兴高采烈地宣告这是大重置的时机，简方达为何说是上帝赐给左派的礼物？<br>左派天天骂天骂地，为何不骂这两人是魔鬼之舌？<div class="rsshub-quote"><br><br>Ezio Mao☢: “失去的十年”来临<br><br>世界银行本周发布了一份非常有趣的预测。简而言之，丰衣足食的时代已经结束，“失去的十年”即将到来。世界经济平均增速为2.2%，为近30年来最低。<br><br>在原因中，经济学家指出了流行病、通货膨胀和人口结构。有了大流行，一切都清楚了....<br><br>https://www.worldbank.org/en/news/press-release/2023/03/27/global-economy-s-speed-limit-set-to-fall-to-three-decade-low<br></div>
+我其实就想知道：他们什么时候承认这个病毒是有意合作研究（这已经很清楚了）、有意放出魔瓶？<br>他们要解释一点：施瓦布为什么兴高采烈地宣告这是大重置的时机，简方达为何说是上帝赐给左派的礼物？<br>左派天天骂天骂地，为何不骂这两人是魔鬼之舌？ https://twitter.com/KELMAND1/status/1641242137756061696<div class="rsshub-quote"><br><br>Ezio Mao☢: “失去的十年”来临<br><br>世界银行本周发布了一份非常有趣的预测。简而言之，丰衣足食的时代已经结束，“失去的十年”即将到来。世界经济平均增速为2.2%，为近30年来最低。<br><br>在原因中，经济学家指出了流行病、通货膨胀和人口结构。有了大流行，一切都清楚了....<br><br>https://www.worldbank.org/en/news/press-release/2023/03/27/global-economy-s-speed-limit-set-to-fall-to-three-decade-low<br></div>
 
 ### 86: [2023-03-30 09:02:52+08:00 推文](https://twitter.com/HeQinglian/status/1641244565846781952)
 
@@ -389,7 +389,7 @@ Re @harry_shosta 这位可怜的 美国中学生，她不知道自己未出生�
 
 ### 94: [2023-03-30 10:33:52+08:00 推文](https://twitter.com/HeQinglian/status/1641267468113960961)
 
-这种恶例一开，中国辱骂领导人习近平的人更加遭殃，官方会振振有词地宣称：辱骂领导人的人判刑，在民主国家也同样如此。<br>西方人陷入这种恶政，还有什么好骄傲的？ https://twitter.com/Qing2022022/status/1641120784029564934<div class="rsshub-quote"><br><br>Qing: 法国一名妇女因在社交网络上侮辱马克龙而被捕。她称这位法国总统为“垃圾”，现在她将面临一年的牢狱之灾。 https://t.co/bJhlM7jekH<br><br><img style="" src="https://pbs.twimg.com/media/FsZupzRakAAayne?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+这种恶例一开，中国辱骂领导人习近平的人更加遭殃，官方会振振有词地宣称：辱骂领导人的人判刑，在民主国家也同样如此。<br>西方人陷入这种恶政，还有什么好骄傲的？<div class="rsshub-quote"><br><br>Qing: 法国一名妇女因在社交网络上侮辱马克龙而被捕。她称这位法国总统为“垃圾”，现在她将面临一年的牢狱之灾。 https://t.co/bJhlM7jekH<br><br><img style="" src="https://pbs.twimg.com/media/FsZupzRakAAayne?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 95: [2023-03-30 10:37:31+08:00 推文](https://twitter.com/HeQinglian/status/1641268385919934464)
 
@@ -441,7 +441,7 @@ Re @KELMAND1 重复阿富汗战争的军费、援建故事。<br>话说，全世
 
 ### 107: [2023-03-31 01:16:27+08:00 推文](https://twitter.com/HeQinglian/status/1641489577335562240)
 
-民主党与左派内部揭露拜登各种丑闻与违规事件有个规律，那就是民主党面临外部压力较小之时，这时候就开始考虑让拜登退出2024大选。<br>一旦有外部压力，拜登丑闻立刻消声，全力帮助本党总统度过难关。<br>前一向山雨欲来，但中国汽球事件一出，拜登丑闻消失。<br>咱们看看这次接着来的是什么。<div class="rsshub-quote"><br><br>Lucs: 🚨🚨🚨突发事件——国家档案馆向美国第一法律机构承认，在宾夕法尼亚拜登中心发现了 1,170 页拜登的副总统记录。<br><br> 他们还承认，他们“没有保管”拜登在特拉华州发现的其他错放的记录。  🔥🔥🔥<br><br> 记录在哪里？  ⤵️<br><br> https://threadreaderapp.com/thread/1641474723946061825.html<br></div>
+民主党与左派内部揭露拜登各种丑闻与违规事件有个规律，那就是民主党面临外部压力较小之时，这时候就开始考虑让拜登退出2024大选。<br>一旦有外部压力，拜登丑闻立刻消声，全力帮助本党总统度过难关。<br>前一向山雨欲来，但中国汽球事件一出，拜登丑闻消失。<br>咱们看看这次接着来的是什么。 https://twitter.com/Lucs24659702/status/1641479598990061569<div class="rsshub-quote"><br><br>Lucs: 🚨🚨🚨突发事件——国家档案馆向美国第一法律机构承认，在宾夕法尼亚拜登中心发现了 1,170 页拜登的副总统记录。<br><br> 他们还承认，他们“没有保管”拜登在特拉华州发现的其他错放的记录。  🔥🔥🔥<br><br> 记录在哪里？  ⤵️<br><br> https://threadreaderapp.com/thread/1641474723946061825.html<br></div>
 
 ### 108: [2023-03-31 01:19:10+08:00 推文](https://twitter.com/HeQinglian/status/1641490263871827986)
 
@@ -537,7 +537,7 @@ Re @Tepezano161 如果他能够做到，早就不玩这借鸡生蛋的把戏了�
 
 ### 131: [2023-04-01 21:11:57+08:00 推文](https://twitter.com/HeQinglian/status/1642152825110028289)
 
-关于川普被纽约民主党检察官起诉、精选的大陪审团裁定有罪，有推友问我，这次川普是否在劫难逃？<br>我的回答如下：<div class="rsshub-quote"><br><br>He Qinglian: @vinceLi60688407 @shenliangqing2 不是川普在劫难逃，而是美国的宪政、法治与秩序在劫难逃。<br>我要看美国究竟能够堕落到什么地步。<br></div>
+关于川普被纽约民主党检察官起诉、精选的大陪审团裁定有罪，有推友问我，这次川普是否在劫难逃？<br>我的回答如下： https://twitter.com/HeQinglian/status/1641844972700696578<div class="rsshub-quote"><br><br>He Qinglian: @vinceLi60688407 @shenliangqing2 不是川普在劫难逃，而是美国的宪政、法治与秩序在劫难逃。<br>我要看美国究竟能够堕落到什么地步。<br></div>
 
 ### 132: [2023-04-02 00:44:25+08:00 推文](https://twitter.com/HeQinglian/status/1642206292386217984)
 
