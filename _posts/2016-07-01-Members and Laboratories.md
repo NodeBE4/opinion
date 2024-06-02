@@ -3,7 +3,7 @@ layout: post
 title: "Members and Laboratories"
 date: 2016-07-01
 author: 网络社会研究所
-from: https://www.caa-ins.org/archives/50
+from: https://caa-ins.org/archives/50
 tags: [ 网络社会研究所 ]
 categories: [ 网络社会研究所 ]
 ---
@@ -11,7 +11,7 @@ categories: [ 网络社会研究所 ]
 <article class="vce-single post-50 post type-post status-publish format-standard hentry category-laboratories" id="post-50">
  <header class="entry-header">
   <span class="meta-category">
-   <a class="category-9" href="https://www.caa-ins.org/archives/category/laboratories">
+   <a class="category-9" href="https://caa-ins.org/archives/category/laboratories">
     实验室
    </a>
   </span>
@@ -23,9 +23,6 @@ categories: [ 网络社会研究所 ]
     <span class="updated">
      2016-07-01
     </span>
-   </div>
-   <div class="meta-item views">
-    2,025 Views
    </div>
   </div>
  </header>
@@ -71,22 +68,6 @@ categories: [ 网络社会研究所 ]
   <hr/>
   <p>
    <strong>
-    范凌博士 客座研究員| 数位人文理论实践室
-   </strong>
-   <br/>
-   <strong>
-    Dr. Fang Ling / Theory Lab for Digital Humanities
-   </strong>
-  </p>
-  <p>
-   数字人文一方面研究新媒体和信息技术对文化、社会和人的影响；另一方面运用这些技术研究和追问文化、社会、历史和人的问题。与传统人文学科的工作方式不同，“实验室”的模式强调把每个研究问题落实到具体的项目计划（Project），并通过实验的方式来建构人文和数字的关联，这个关联既可以是发现（已有的），也可以是设计（未来的）。
-  </p>
-  <p>
-   Digital Humanities studies the cultural and social impact of new media and information technologies, as well as creates and applies these technologies to interrogate cultural, social, historical questions. Different from traditional humanities research approach, a lab format attempts to conduct research based on project, in which the connection between digital and humanities can be discovered, tested, or even designed.
-  </p>
-  <hr/>
-  <p>
-   <strong>
     李士杰 客座研究員| 物件社会与自然实验室
    </strong>
    <br/>
@@ -102,77 +83,67 @@ categories: [ 网络社会研究所 ]
   </p>
   <hr/>
   <p>
-   <strong>
-    李振华 客座研究員| 北京媒体艺术实验室
-   </strong>
-   <br/>
-   <strong>
-    Li Zhenhua / Laboratory Art Beijing
-   </strong>
-  </p>
-  <p>
-   北京艺术实验室成立于2006年，主旨发生了几次位移，第一次出现在2008年前后，北京艺术实验室，将针对整合媒体艺术和科学领域的愿望转化为，更贴近媒体作为一个大范围文化动向的研究工作，如翻译和整理了一些国际文本，后委托高飞、翁志娟、管盛盛进行的杭州调查、上海调查和纪录片调查，这些工作通过具体访问这些地区的艺术家，和基于媒体艺术领域的个体，试图发现媒体艺术在中国，关于教育、地区情况和媒介地缘的关系。北京艺术实验室，将在2015年10月再次正式对外开放，展出自2006年以来收集的媒体艺术作品，和基于媒体艺术思考的工作。
-  </p>
-  <p>
-   Laboratory Art Beijing was set up in 2006. Changes in the general tenor have happened since the lab’s formation. The first took place around 2008, when the lab changed its direction from “combining fields of media art and science” to “Media as means of researching trends in popular culture”. The lab contacted translation and edition of foreign texts, and entrusted Gao Fei, Weng Zhijuan, Guan Shengsheng to conduct investigations and film documentaries in the HangZhou and ShangHai area. The Lab hopes that by interviewing local artists to gain an overview of the multi-media art domain in China and establish a connection between education and the local situation along with its regional characteristics. The Laboratory Art Beijing will have another exhibition that will be open to the public in October 2015, exhibiting intermedia art works collected since the foundation of the lab in 2006, as well as reflections on intermedia based artwork.
-  </p>
-  <hr/>
-  <p>
    <b>
     助理研究员 Assistant Reachers
    </b>
   </p>
   <p>
-   卢瑞洋｜中国美术学院跨媒体艺术学院 当代社会思想与策展研究 硕士
+   崔雨｜SOAS University of London, Critical Media and Cultural Studies 硕士
    <br/>
+   <span style="font-size: inherit;">
+    卢瑞洋｜中国美术学院跨媒体艺术学院 当代社会思想与策展研究 硕士 技术与哲学博士在读
+    <br/>
+   </span>
    叶薇 ｜中国美术学院跨媒体艺术学院 当代社会思想与策展研究 硕士
    <br/>
    張騁｜东南大学建筑学院 建筑历史与理论专业 博士生
    <br/>
    王杜若｜Dutch Art Institute（DAI Roaming Academy）, ArtEz University of the Arts 碩士
   </p>
-  <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;referrer=https%3A%2F%2Fwww.caa-ins.org%2Farchives%2F50" style="height: 212px; width: 100%;">
-  </iframe>
+  <figure class="likecoin-embed likecoin-button">
+   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fcaa-ins.org%2Farchives%2F50" style="height:212px;width: 360px;">
+   </iframe>
+  </figure>
   <div class="sharedaddy sd-sharing-enabled">
    <div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing">
     <h3 class="sd-title">
-     共享此文章：
+     Share this:
     </h3>
     <div class="sd-content">
      <ul>
       <li class="share-facebook">
-       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-50" href="https://www.caa-ins.org/archives/50?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="点击以在 Facebook 上共享">
+       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-50" href="https://caa-ins.org/archives/50?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击以在 Facebook 上共享（在新窗口中打开）
+         Click to share on Facebook (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-twitter">
-       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-50" href="https://www.caa-ins.org/archives/50?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="点击以在 Twitter 上共享">
+       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-50" href="https://caa-ins.org/archives/50?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击以在 Twitter 上共享（在新窗口中打开）
+         Click to share on Twitter (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-custom share-custom-">
-       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/50?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="单击在 新浪微博 上共享">
-        <span style="background-image:url(http://open.weibo.com/favicon.ico)">
+       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/50?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on 新浪微博">
+        <span style='background-image:url("http://open.weibo.com/favicon.ico");'>
         </span>
         <span class="sharing-screen-reader-text">
-         单击在 新浪微博 上共享（在新窗口中打开）
+         Click to share on 新浪微博 (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-telegram">
-       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/50?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="点击以在 Telegram 上共享">
+       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/50?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Telegram">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击以在 Telegram 上共享（在新窗口中打开）
+         Click to share on Telegram (Opens in new window)
         </span>
        </a>
       </li>
