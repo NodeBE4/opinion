@@ -3,7 +3,7 @@ layout: post
 title: "“造反城市”的合作社平台联合起来——Trebor Scholz专访"
 date: 2016-11-10
 author: 网络社会研究所
-from: https://www.caa-ins.org/archives/575
+from: https://caa-ins.org/archives/575
 tags: [ 网络社会研究所 ]
 categories: [ 网络社会研究所 ]
 ---
@@ -11,13 +11,13 @@ categories: [ 网络社会研究所 ]
 <article class="vce-single post-575 post type-post status-publish format-standard has-post-thumbnail hentry category-insreview category-1 tag-platform-cooperativism tag-trebor-scholz tag-89 tag-28" id="post-575">
  <header class="entry-header">
   <span class="meta-category">
-   <a class="category-79" href="https://www.caa-ins.org/archives/category/ins%ef%b9%8dreview">
+   <a class="category-79" href="https://caa-ins.org/archives/category/ins%ef%b9%8dreview">
     INS REVIEW
    </a>
    <span>
     •
    </span>
-   <a class="category-1" href="https://www.caa-ins.org/archives/category/%e9%bb%91%e5%ae%a2%e6%9d%be">
+   <a class="category-1" href="https://caa-ins.org/archives/category/%e9%bb%91%e5%ae%a2%e6%9d%be">
     黑客松
    </a>
   </span>
@@ -29,9 +29,6 @@ categories: [ 网络社会研究所 ]
     <span class="updated">
      2016-11-10
     </span>
-   </div>
-   <div class="meta-item views">
-    1,171 Views
    </div>
   </div>
  </header>
@@ -54,7 +51,9 @@ categories: [ 网络社会研究所 ]
    </span>
   </p>
   <div class="wp-caption alignnone" id="attachment_578" style="width: 780px">
-   <img alt="PHOTOGRAPH © 2016 MICHAEL NAGLE NEW YORK, NY -- MARCH 22, 2016: Author Trebor Scholz, associate professor of Culture &amp; Media Studies at The New School, stands for a portrait on Tuesday, March 22, 2016 in New York City. PHOTOGRAPH BY MICHAEL NAGLE" aria-describedby="caption-attachment-578" class="wp-image-578" data-attachment-id="578" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"4","credit":"Michael Nagle","camera":"Canon EOS 5D Mark III","caption":"PHOTOGRAPH \u00a9 2016 MICHAEL NAGLE\r\rNEW YORK, NY -- MARCH 22, 2016: Author Trebor Scholz, associate professor of Culture &amp; Media Studies at The New School, stands for a portrait on Tuesday, March 22, 2016 in New York City.  PHOTOGRAPH BY MICHAEL NAGLE","created_timestamp":"1458676677","copyright":"\u00a9 2016 Michael Nagle","focal_length":"50","iso":"160","shutter_speed":"0.0008","title":"Trebor Scholz","orientation":"1"}' data-image-title="Trebor Scholz" data-large-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/20160322TreborScholz0167.jpg?fit=675%2C450&amp;ssl=1" data-medium-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/20160322TreborScholz0167.jpg?fit=300%2C200&amp;ssl=1" data-orig-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/20160322TreborScholz0167.jpg?fit=675%2C450&amp;ssl=1" data-orig-size="675,450" data-permalink="https://www.caa-ins.org/archives/575/trebor-scholz" data-recalc-dims="1" height="513" loading="lazy" sizes="(max-width: 770px) 100vw, 770px" src="https://i2.wp.com/caa-ins.org/wp-content/uploads/2016/11/20160322TreborScholz0167-300x200.jpg?resize=770%2C513&amp;ssl=1" srcset="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/20160322TreborScholz0167.jpg?resize=300%2C200&amp;ssl=1 300w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/20160322TreborScholz0167.jpg?w=675&amp;ssl=1 675w" width="770">
+   <img alt="PHOTOGRAPH © 2016 MICHAEL NAGLE NEW YORK, NY -- MARCH 22, 2016: Author Trebor Scholz, associate professor of Culture &amp; Media Studies at The New School, stands for a portrait on Tuesday, March 22, 2016 in New York City. PHOTOGRAPH BY MICHAEL NAGLE" aria-describedby="caption-attachment-578" class="wp-image-578" data-attachment-id="578" data-comments-opened="0" data-image-caption="&lt;p&gt;PHOTOGRAPH © 2016 MICHAEL NAGLE&lt;/p&gt;
+&lt;p&gt;NEW YORK, NY — MARCH 22, 2016: Author Trebor Scholz, associate professor of Culture &amp;amp; Media Studies at The New School, stands for a portrait on Tuesday, March 22, 2016 in New York City.  PHOTOGRAPH BY MICHAEL NAGLE&lt;/p&gt;
+" data-image-description="" data-image-meta='{"aperture":"4","credit":"Michael Nagle","camera":"Canon EOS 5D Mark III","caption":"PHOTOGRAPH \u00a9 2016 MICHAEL NAGLE\r\rNEW YORK, NY -- MARCH 22, 2016: Author Trebor Scholz, associate professor of Culture &amp; Media Studies at The New School, stands for a portrait on Tuesday, March 22, 2016 in New York City.  PHOTOGRAPH BY MICHAEL NAGLE","created_timestamp":"1458676677","copyright":"\u00a9 2016 Michael Nagle","focal_length":"50","iso":"160","shutter_speed":"0.0008","title":"Trebor Scholz","orientation":"1"}' data-image-title="Trebor Scholz" data-large-file="https://caa-ins.org/wp-content/uploads/2016/11/20160322TreborScholz0167.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2016/11/20160322TreborScholz0167-300x200.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2016/11/20160322TreborScholz0167.jpg" data-orig-size="675,450" data-permalink="https://caa-ins.org/archives/575/trebor-scholz" decoding="async" fetchpriority="high" height="513" sizes="(max-width: 770px) 100vw, 770px" src="https://13.124.147.85/wp-content/uploads/2016/11/20160322TreborScholz0167-300x200.jpg" srcset="https://caa-ins.org/wp-content/uploads/2016/11/20160322TreborScholz0167-300x200.jpg 300w, https://caa-ins.org/wp-content/uploads/2016/11/20160322TreborScholz0167.jpg 675w" width="770">
     <p class="wp-caption-text" id="caption-attachment-578">
      Trebor Scholz PHOTOGRAPH BY MICHAEL NAGLE
     </p>
@@ -234,48 +233,50 @@ categories: [ 网络社会研究所 ]
     TS：不全是这样；我们的确在搭建一个平台合作社联盟，来帮助在这个生态系统中的实践者们相互连接，连接那些可以帮助他们转变认识、注入真正价值的组织，这也是一个对真实的人们更加公平的网络。
    </span>
   </p>
-  <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;referrer=https%3A%2F%2Fwww.caa-ins.org%2Farchives%2F575" style="height: 212px; width: 100%;">
-  </iframe>
+  <figure class="likecoin-embed likecoin-button">
+   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fcaa-ins.org%2Farchives%2F575" style="height:212px;width: 360px;">
+   </iframe>
+  </figure>
   <div class="sharedaddy sd-sharing-enabled">
    <div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing">
     <h3 class="sd-title">
-     共享此文章：
+     Share this:
     </h3>
     <div class="sd-content">
      <ul>
       <li class="share-facebook">
-       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-575" href="https://www.caa-ins.org/archives/575?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="点击以在 Facebook 上共享">
+       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-575" href="https://caa-ins.org/archives/575?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击以在 Facebook 上共享（在新窗口中打开）
+         Click to share on Facebook (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-twitter">
-       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-575" href="https://www.caa-ins.org/archives/575?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="点击以在 Twitter 上共享">
+       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-575" href="https://caa-ins.org/archives/575?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击以在 Twitter 上共享（在新窗口中打开）
+         Click to share on Twitter (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-custom share-custom-">
-       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/575?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="单击在 新浪微博 上共享">
-        <span style="background-image:url(http://open.weibo.com/favicon.ico)">
+       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/575?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on 新浪微博">
+        <span style='background-image:url("http://open.weibo.com/favicon.ico");'>
         </span>
         <span class="sharing-screen-reader-text">
-         单击在 新浪微博 上共享（在新窗口中打开）
+         Click to share on 新浪微博 (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-telegram">
-       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/575?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="点击以在 Telegram 上共享">
+       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/575?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Telegram">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击以在 Telegram 上共享（在新窗口中打开）
+         Click to share on Telegram (Opens in new window)
         </span>
        </a>
       </li>
@@ -288,16 +289,16 @@ categories: [ 网络社会研究所 ]
  </div>
  <footer class="entry-footer">
   <div class="meta-tags">
-   <a href="https://www.caa-ins.org/archives/tag/platform-cooperativism" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/platform-cooperativism" rel="tag">
     platform cooperativism
    </a>
-   <a href="https://www.caa-ins.org/archives/tag/trebor-scholz" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/trebor-scholz" rel="tag">
     Trebor Scholz
    </a>
-   <a href="https://www.caa-ins.org/archives/tag/%e5%90%88%e4%bd%9c%e7%a4%be" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/%e5%90%88%e4%bd%9c%e7%a4%be" rel="tag">
     合作社
    </a>
-   <a href="https://www.caa-ins.org/archives/tag/%e9%bb%91%e5%ae%a2%e6%9d%be" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/%e9%bb%91%e5%ae%a2%e6%9d%be" rel="tag">
     黑客松
    </a>
   </div>

@@ -3,7 +3,7 @@ layout: post
 title: "沪托邦合作松 Code for Co-ops"
 date: 2016-11-19
 author: 网络社会研究所
-from: https://www.caa-ins.org/archives/592
+from: https://caa-ins.org/archives/592
 tags: [ 网络社会研究所 ]
 categories: [ 网络社会研究所 ]
 ---
@@ -11,13 +11,13 @@ categories: [ 网络社会研究所 ]
 <article class="vce-single post-592 post type-post status-publish format-standard has-post-thumbnail hentry category-feature category-1 tag-platform-cooperativism tag-89 tag-28" id="post-592">
  <header class="entry-header">
   <span class="meta-category">
-   <a class="category-78" href="https://www.caa-ins.org/archives/category/feature">
+   <a class="category-78" href="https://caa-ins.org/archives/category/feature">
     Feature
    </a>
    <span>
     •
    </span>
-   <a class="category-1" href="https://www.caa-ins.org/archives/category/%e9%bb%91%e5%ae%a2%e6%9d%be">
+   <a class="category-1" href="https://caa-ins.org/archives/category/%e9%bb%91%e5%ae%a2%e6%9d%be">
     黑客松
    </a>
   </span>
@@ -29,9 +29,6 @@ categories: [ 网络社会研究所 ]
     <span class="updated">
      2016-11-19
     </span>
-   </div>
-   <div class="meta-item views">
-    948 Views
    </div>
   </div>
  </header>
@@ -64,7 +61,7 @@ categories: [ 网络社会研究所 ]
    如今我们生活在一个终端化的世界中，生产与消费在工业化的分工之下鸿沟相隔，我们不知自己日用的来源，不知一件艺术作品在对谁发声。生产过程对于消费者而言好比暗箱，消费的选项也由营销所导向，不由分说地轰炸着你我的个人终端。这个循环仅仅在恶性事件中暂停，随后又回到令人眼花缭乱的冷漠中。
   </p>
   <p>
-   <img alt="3544296546_888deecc00_b_905" class="wp-image-623 aligncenter" data-attachment-id="623" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="3544296546_888deecc00_b_905" data-large-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/3544296546_888deecc00_b_905.jpg?fit=800%2C534&amp;ssl=1" data-medium-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/3544296546_888deecc00_b_905.jpg?fit=300%2C200&amp;ssl=1" data-orig-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/3544296546_888deecc00_b_905.jpg?fit=800%2C534&amp;ssl=1" data-orig-size="800,534" data-permalink="https://www.caa-ins.org/archives/592/3544296546_888deecc00_b_905" data-recalc-dims="1" height="285" loading="lazy" sizes="(max-width: 428px) 100vw, 428px" src="https://i0.wp.com/caa-ins.org/wp-content/uploads/2016/11/3544296546_888deecc00_b_905-300x200.jpg?resize=428%2C285&amp;ssl=1" srcset="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/3544296546_888deecc00_b_905.jpg?resize=300%2C200&amp;ssl=1 300w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/3544296546_888deecc00_b_905.jpg?resize=768%2C513&amp;ssl=1 768w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/3544296546_888deecc00_b_905.jpg?w=800&amp;ssl=1 800w" width="428"/>
+   <img alt="3544296546_888deecc00_b_905" class="wp-image-623 aligncenter" data-attachment-id="623" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="3544296546_888deecc00_b_905" data-large-file="https://caa-ins.org/wp-content/uploads/2016/11/3544296546_888deecc00_b_905.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2016/11/3544296546_888deecc00_b_905-300x200.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2016/11/3544296546_888deecc00_b_905.jpg" data-orig-size="800,534" data-permalink="https://caa-ins.org/archives/592/3544296546_888deecc00_b_905" decoding="async" fetchpriority="high" height="285" sizes="(max-width: 428px) 100vw, 428px" src="https://13.124.147.85/wp-content/uploads/2016/11/3544296546_888deecc00_b_905-300x200.jpg" srcset="https://caa-ins.org/wp-content/uploads/2016/11/3544296546_888deecc00_b_905-300x200.jpg 300w, https://caa-ins.org/wp-content/uploads/2016/11/3544296546_888deecc00_b_905-768x513.jpg 768w, https://caa-ins.org/wp-content/uploads/2016/11/3544296546_888deecc00_b_905.jpg 800w" width="428"/>
   </p>
   <p>
    数码和网络的技术把用户抽象为终端的同时，也提供了协作与相互贡献的条件，在网络社会中有开源社区，在现实世界中则有各式各样的合作社。合作運動的基础是共同需求，用集体的方式解决个体的困境，盈余最终回归集体。依靠集体的力量，我们能选择有益于当地经济和环境的供应商，基于爱好者的讨论举办自己的文化活动，为真正的多元性创造流通环境，而不僅僅消费它。在共同生活里创造对未来的共同欲望。
@@ -73,7 +70,7 @@ categories: [ 网络社会研究所 ]
    即便网络带来新的经济组织方式，让自雇者在机会中却丧失自我组织的方式，交由 airbnb，uber/滴滴打车来统一，其令人不安的原因是：自雇者的劳力市场、分享经济的好处以及社交媒体越来越被几个巨头垄断。
   </p>
   <p>
-   <img alt="3548203901-582c2c3c26828_big" class="alignnone wp-image-591" data-attachment-id="591" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="3548203901-582c2c3c26828_big" data-large-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/3548203901-582c2c3c26828_big.jpg?fit=660%2C372&amp;ssl=1" data-medium-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/3548203901-582c2c3c26828_big.jpg?fit=300%2C169&amp;ssl=1" data-orig-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/3548203901-582c2c3c26828_big.jpg?fit=660%2C372&amp;ssl=1" data-orig-size="660,372" data-permalink="https://www.caa-ins.org/archives/events/%e6%b2%aa%e6%89%98%e9%82%a6%e5%90%88%e4%bd%9c%e6%9d%be-code-for-co-ops/3548203901-582c2c3c26828_big" data-recalc-dims="1" height="450" loading="lazy" sizes="(max-width: 799px) 100vw, 799px" src="https://i2.wp.com/caa-ins.org/wp-content/uploads/2016/11/3548203901-582c2c3c26828_big-300x169.jpg?resize=799%2C450&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/3548203901-582c2c3c26828_big.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/3548203901-582c2c3c26828_big.jpg?w=660&amp;ssl=1 660w" width="799"/>
+   <img alt="3548203901-582c2c3c26828_big" class="alignnone wp-image-591" data-attachment-id="591" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="3548203901-582c2c3c26828_big" data-large-file="https://caa-ins.org/wp-content/uploads/2016/11/3548203901-582c2c3c26828_big.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2016/11/3548203901-582c2c3c26828_big-300x169.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2016/11/3548203901-582c2c3c26828_big.jpg" data-orig-size="660,372" data-permalink="https://caa-ins.org/?attachment_id=591" decoding="async" height="450" sizes="(max-width: 799px) 100vw, 799px" src="https://13.124.147.85/wp-content/uploads/2016/11/3548203901-582c2c3c26828_big-300x169.jpg" srcset="https://caa-ins.org/wp-content/uploads/2016/11/3548203901-582c2c3c26828_big-300x169.jpg 300w, https://caa-ins.org/wp-content/uploads/2016/11/3548203901-582c2c3c26828_big.jpg 660w" width="799"/>
   </p>
   <p>
    应对数码封建主义：一种风险社会化而利润私有化的平台资本主义，优步化工作与低薪现象（uberworked and underpaid）– 其正在兴起的平台合作主义（platform cooperativism）逐渐成为热点。如 2016 年 11 月 11-13 日在纽约新学院（New School）举办的“
@@ -103,10 +100,10 @@ categories: [ 网络社会研究所 ]
    则致力于都市中产居民的需求与小农生产的连结与介面等等。
   </p>
   <p>
-   <img alt="8327cabcd6da0df4b1804a1f68eeccde-original" class="alignnone wp-image-625" data-attachment-id="625" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="8327cabcd6da0df4b1804a1f68eeccde-original" data-large-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/8327cabcd6da0df4b1804a1f68eeccde-original.png?fit=708%2C1024&amp;ssl=1" data-medium-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/8327cabcd6da0df4b1804a1f68eeccde-original.png?fit=207%2C300&amp;ssl=1" data-orig-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/8327cabcd6da0df4b1804a1f68eeccde-original.png?fit=990%2C1432&amp;ssl=1" data-orig-size="990,1432" data-permalink="https://www.caa-ins.org/archives/592/8327cabcd6da0df4b1804a1f68eeccde-original" data-recalc-dims="1" height="181" loading="lazy" sizes="(max-width: 125px) 100vw, 125px" src="https://i0.wp.com/caa-ins.org/wp-content/uploads/2016/11/8327cabcd6da0df4b1804a1f68eeccde-original-207x300.png?resize=125%2C181&amp;ssl=1" srcset="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/8327cabcd6da0df4b1804a1f68eeccde-original.png?resize=207%2C300&amp;ssl=1 207w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/8327cabcd6da0df4b1804a1f68eeccde-original.png?resize=768%2C1111&amp;ssl=1 768w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/8327cabcd6da0df4b1804a1f68eeccde-original.png?resize=708%2C1024&amp;ssl=1 708w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/8327cabcd6da0df4b1804a1f68eeccde-original.png?resize=810%2C1172&amp;ssl=1 810w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/8327cabcd6da0df4b1804a1f68eeccde-original.png?w=990&amp;ssl=1 990w" width="125"/>
-   <img alt="loconomics-logo" class="alignnone wp-image-626" data-attachment-id="626" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="loconomics-logo" data-large-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/loconomics-logo.png?fit=618%2C518&amp;ssl=1" data-medium-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/loconomics-logo.png?fit=300%2C251&amp;ssl=1" data-orig-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/loconomics-logo.png?fit=618%2C518&amp;ssl=1" data-orig-size="618,518" data-permalink="https://www.caa-ins.org/archives/592/loconomics-logo" data-recalc-dims="1" height="142" loading="lazy" sizes="(max-width: 169px) 100vw, 169px" src="https://i2.wp.com/caa-ins.org/wp-content/uploads/2016/11/loconomics-logo-300x251.png?resize=169%2C142&amp;ssl=1" srcset="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/loconomics-logo.png?resize=300%2C251&amp;ssl=1 300w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/loconomics-logo.png?w=618&amp;ssl=1 618w" width="169"/>
-   <img alt="mq1" class="alignnone wp-image-627" data-attachment-id="627" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="mq1" data-large-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/mq1.jpg?fit=240%2C240&amp;ssl=1" data-medium-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/mq1.jpg?fit=240%2C240&amp;ssl=1" data-orig-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/mq1.jpg?fit=240%2C240&amp;ssl=1" data-orig-size="240,240" data-permalink="https://www.caa-ins.org/archives/592/mq1" data-recalc-dims="1" height="171" loading="lazy" sizes="(max-width: 171px) 100vw, 171px" src="https://i0.wp.com/caa-ins.org/wp-content/uploads/2016/11/mq1.jpg?resize=171%2C171&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/mq1.jpg?w=240&amp;ssl=1 240w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/mq1.jpg?resize=150%2C150&amp;ssl=1 150w" width="171"/>
-   <img alt="8" class="alignnone wp-image-624" data-attachment-id="624" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"Erika Macedo","camera":"","caption":"","created_timestamp":"1468000882","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="8" data-large-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/8.jpg?fit=810%2C540&amp;ssl=1" data-medium-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/8.jpg?fit=300%2C200&amp;ssl=1" data-orig-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/8.jpg?fit=1889%2C1260&amp;ssl=1" data-orig-size="1889,1260" data-permalink="https://www.caa-ins.org/archives/592/attachment/8" data-recalc-dims="1" height="125" loading="lazy" sizes="(max-width: 188px) 100vw, 188px" src="https://i1.wp.com/caa-ins.org/wp-content/uploads/2016/11/8-300x200.jpg?resize=188%2C125&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/8.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/8.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/8.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/8.jpg?resize=810%2C540&amp;ssl=1 810w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/8.jpg?resize=1140%2C760&amp;ssl=1 1140w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/8.jpg?w=1889&amp;ssl=1 1889w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/8.jpg?w=1620&amp;ssl=1 1620w" width="188"/>
+   <img alt="8327cabcd6da0df4b1804a1f68eeccde-original" class="alignnone wp-image-625" data-attachment-id="625" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="8327cabcd6da0df4b1804a1f68eeccde-original" data-large-file="https://caa-ins.org/wp-content/uploads/2016/11/8327cabcd6da0df4b1804a1f68eeccde-original-708x1024.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2016/11/8327cabcd6da0df4b1804a1f68eeccde-original-207x300.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2016/11/8327cabcd6da0df4b1804a1f68eeccde-original.png" data-orig-size="990,1432" data-permalink="https://caa-ins.org/archives/592/8327cabcd6da0df4b1804a1f68eeccde-original" decoding="async" height="181" sizes="(max-width: 125px) 100vw, 125px" src="https://13.124.147.85/wp-content/uploads/2016/11/8327cabcd6da0df4b1804a1f68eeccde-original-207x300.png" srcset="https://caa-ins.org/wp-content/uploads/2016/11/8327cabcd6da0df4b1804a1f68eeccde-original-207x300.png 207w, https://caa-ins.org/wp-content/uploads/2016/11/8327cabcd6da0df4b1804a1f68eeccde-original-768x1111.png 768w, https://caa-ins.org/wp-content/uploads/2016/11/8327cabcd6da0df4b1804a1f68eeccde-original-708x1024.png 708w, https://caa-ins.org/wp-content/uploads/2016/11/8327cabcd6da0df4b1804a1f68eeccde-original-810x1172.png 810w, https://caa-ins.org/wp-content/uploads/2016/11/8327cabcd6da0df4b1804a1f68eeccde-original.png 990w" width="125"/>
+   <img alt="loconomics-logo" class="alignnone wp-image-626" data-attachment-id="626" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="loconomics-logo" data-large-file="https://caa-ins.org/wp-content/uploads/2016/11/loconomics-logo.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2016/11/loconomics-logo-300x251.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2016/11/loconomics-logo.png" data-orig-size="618,518" data-permalink="https://caa-ins.org/archives/592/loconomics-logo" decoding="async" height="142" loading="lazy" sizes="(max-width: 169px) 100vw, 169px" src="https://13.124.147.85/wp-content/uploads/2016/11/loconomics-logo-300x251.png" srcset="https://caa-ins.org/wp-content/uploads/2016/11/loconomics-logo-300x251.png 300w, https://caa-ins.org/wp-content/uploads/2016/11/loconomics-logo.png 618w" width="169"/>
+   <img alt="mq1" class="alignnone wp-image-627" data-attachment-id="627" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="mq1" data-large-file="https://caa-ins.org/wp-content/uploads/2016/11/mq1.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2016/11/mq1.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2016/11/mq1.jpg" data-orig-size="240,240" data-permalink="https://caa-ins.org/archives/592/mq1" decoding="async" height="171" loading="lazy" sizes="(max-width: 171px) 100vw, 171px" src="https://13.124.147.85/wp-content/uploads/2016/11/mq1.jpg" srcset="https://caa-ins.org/wp-content/uploads/2016/11/mq1.jpg 240w, https://caa-ins.org/wp-content/uploads/2016/11/mq1-150x150.jpg 150w" width="171"/>
+   <img alt="8" class="alignnone wp-image-624" data-attachment-id="624" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"Erika Macedo","camera":"","caption":"","created_timestamp":"1468000882","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="8" data-large-file="https://caa-ins.org/wp-content/uploads/2016/11/8-1024x683.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2016/11/8-300x200.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2016/11/8.jpg" data-orig-size="1889,1260" data-permalink="https://caa-ins.org/archives/592/attachment/8" decoding="async" height="125" loading="lazy" sizes="(max-width: 188px) 100vw, 188px" src="https://13.124.147.85/wp-content/uploads/2016/11/8-300x200.jpg" srcset="https://caa-ins.org/wp-content/uploads/2016/11/8-300x200.jpg 300w, https://caa-ins.org/wp-content/uploads/2016/11/8-768x512.jpg 768w, https://caa-ins.org/wp-content/uploads/2016/11/8-1024x683.jpg 1024w, https://caa-ins.org/wp-content/uploads/2016/11/8-810x540.jpg 810w, https://caa-ins.org/wp-content/uploads/2016/11/8-1140x760.jpg 1140w, https://caa-ins.org/wp-content/uploads/2016/11/8.jpg 1889w" width="188"/>
   </p>
   <p>
    这次合作松就是要结合开源的黑客精神与合作社的“共”精神，邀请对合作运动有所专精的讲者来勾画战略地图与愿景，邀请传统合作社，社区支持农业（CSA）与社区支持万事（community support everything）的共造(commoning)伙伴们提出切身的需求，伙伴中有的是生产合作，有的是消费合作，有的则是产消合作者（prosumer）。一同与黑客们协力解决合作社的运营和管理等方面的问题。更为重要的是，我们希望在地的实践者相互看见，让各合作社除了社交媒体的宣传窗口外还有“自己人”的共同舞台。也许我们可以将它称为“合作社的合作社”，社与社之间互通有无，相互激励，以致全球联动。基于平台合作主义的思考，合作松希望连结已经成为组织的单位而非个人劳动者，在组织间创立协作基础，解决组织面临的基本技术问题，以及未来沟通合作的介面与其技术之想像。
@@ -301,7 +298,7 @@ categories: [ 网络社会研究所 ]
    </tbody>
   </table>
   <h2>
-   <img alt="A27EE1B80CAF11A251B3BFC4BE430B8B" class="wp-image-628 aligncenter" data-attachment-id="628" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="A27EE1B80CAF11A251B3BFC4BE430B8B" data-large-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/A27EE1B80CAF11A251B3BFC4BE430B8B.gif?fit=810%2C605&amp;ssl=1" data-medium-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/A27EE1B80CAF11A251B3BFC4BE430B8B.gif?fit=300%2C224&amp;ssl=1" data-orig-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/A27EE1B80CAF11A251B3BFC4BE430B8B.gif?fit=1000%2C747&amp;ssl=1" data-orig-size="1000,747" data-permalink="https://www.caa-ins.org/archives/592/a27ee1b80caf11a251b3bfc4be430b8b" data-recalc-dims="1" height="244" loading="lazy" sizes="(max-width: 327px) 100vw, 327px" src="https://i0.wp.com/caa-ins.org/wp-content/uploads/2016/11/A27EE1B80CAF11A251B3BFC4BE430B8B-300x224.gif?resize=327%2C244&amp;ssl=1" srcset="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/A27EE1B80CAF11A251B3BFC4BE430B8B.gif?resize=300%2C224&amp;ssl=1 300w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/A27EE1B80CAF11A251B3BFC4BE430B8B.gif?resize=768%2C574&amp;ssl=1 768w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2016/11/A27EE1B80CAF11A251B3BFC4BE430B8B.gif?resize=810%2C605&amp;ssl=1 810w" width="327"/>
+   <img alt="A27EE1B80CAF11A251B3BFC4BE430B8B" class="wp-image-628 aligncenter" data-attachment-id="628" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="A27EE1B80CAF11A251B3BFC4BE430B8B" data-large-file="https://caa-ins.org/wp-content/uploads/2016/11/A27EE1B80CAF11A251B3BFC4BE430B8B.gif" data-medium-file="https://caa-ins.org/wp-content/uploads/2016/11/A27EE1B80CAF11A251B3BFC4BE430B8B-300x224.gif" data-orig-file="https://caa-ins.org/wp-content/uploads/2016/11/A27EE1B80CAF11A251B3BFC4BE430B8B.gif" data-orig-size="1000,747" data-permalink="https://caa-ins.org/archives/592/a27ee1b80caf11a251b3bfc4be430b8b" decoding="async" height="244" loading="lazy" sizes="(max-width: 327px) 100vw, 327px" src="https://13.124.147.85/wp-content/uploads/2016/11/A27EE1B80CAF11A251B3BFC4BE430B8B-300x224.gif" srcset="https://caa-ins.org/wp-content/uploads/2016/11/A27EE1B80CAF11A251B3BFC4BE430B8B-300x224.gif 300w, https://caa-ins.org/wp-content/uploads/2016/11/A27EE1B80CAF11A251B3BFC4BE430B8B-768x574.gif 768w, https://caa-ins.org/wp-content/uploads/2016/11/A27EE1B80CAF11A251B3BFC4BE430B8B-810x605.gif 810w" width="327"/>
   </h2>
   <h2>
    <span style="color: #ff6600;">
@@ -389,8 +386,8 @@ categories: [ 网络社会研究所 ]
       中文
      </span>
      <span class="author-p-23 url">
-      <a href="http://caa-ins.org/archives/575">
-       http://caa-ins.org/archives/575
+      <a href="https://13.124.147.85/archives/575">
+       https://13.124.147.85/archives/575
       </a>
      </span>
     </li>
@@ -403,8 +400,8 @@ categories: [ 网络社会研究所 ]
       艺术合作社与集体创新动员的力量 中文
      </span>
      <span class="author-p-4 url">
-      <a href="http://caa-ins.org/archives/499">
-       http://caa-ins.org/archives/499
+      <a href="https://13.124.147.85/archives/499">
+       https://13.124.147.85/archives/499
       </a>
      </span>
      <span class="author-p-4">
@@ -439,8 +436,8 @@ categories: [ 网络社会研究所 ]
       自由协作：Geert Lovink对话Trebor Scholz
      </span>
      <span class="author-p-4 url">
-      <a href="http://caa-ins.org/archives/520">
-       http://caa-ins.org/archives/520
+      <a href="https://13.124.147.85/archives/520">
+       https://13.124.147.85/archives/520
       </a>
      </span>
     </li>
@@ -833,48 +830,50 @@ categories: [ 网络社会研究所 ]
     </li>
    </ol>
   </div>
-  <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;referrer=https%3A%2F%2Fwww.caa-ins.org%2Farchives%2F592" style="height: 212px; width: 100%;">
-  </iframe>
+  <figure class="likecoin-embed likecoin-button">
+   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fcaa-ins.org%2Farchives%2F592" style="height:212px;width: 360px;">
+   </iframe>
+  </figure>
   <div class="sharedaddy sd-sharing-enabled">
    <div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing">
     <h3 class="sd-title">
-     共享此文章：
+     Share this:
     </h3>
     <div class="sd-content">
      <ul>
       <li class="share-facebook">
-       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-592" href="https://www.caa-ins.org/archives/592?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="点击以在 Facebook 上共享">
+       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-592" href="https://caa-ins.org/archives/592?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击以在 Facebook 上共享（在新窗口中打开）
+         Click to share on Facebook (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-twitter">
-       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-592" href="https://www.caa-ins.org/archives/592?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="点击以在 Twitter 上共享">
+       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-592" href="https://caa-ins.org/archives/592?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击以在 Twitter 上共享（在新窗口中打开）
+         Click to share on Twitter (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-custom share-custom-">
-       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/592?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="单击在 新浪微博 上共享">
-        <span style="background-image:url(http://open.weibo.com/favicon.ico)">
+       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/592?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on 新浪微博">
+        <span style='background-image:url("http://open.weibo.com/favicon.ico");'>
         </span>
         <span class="sharing-screen-reader-text">
-         单击在 新浪微博 上共享（在新窗口中打开）
+         Click to share on 新浪微博 (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-telegram">
-       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/592?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="点击以在 Telegram 上共享">
+       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/592?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Telegram">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击以在 Telegram 上共享（在新窗口中打开）
+         Click to share on Telegram (Opens in new window)
         </span>
        </a>
       </li>
@@ -887,13 +886,13 @@ categories: [ 网络社会研究所 ]
  </div>
  <footer class="entry-footer">
   <div class="meta-tags">
-   <a href="https://www.caa-ins.org/archives/tag/platform-cooperativism" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/platform-cooperativism" rel="tag">
     platform cooperativism
    </a>
-   <a href="https://www.caa-ins.org/archives/tag/%e5%90%88%e4%bd%9c%e7%a4%be" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/%e5%90%88%e4%bd%9c%e7%a4%be" rel="tag">
     合作社
    </a>
-   <a href="https://www.caa-ins.org/archives/tag/%e9%bb%91%e5%ae%a2%e6%9d%be" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/%e9%bb%91%e5%ae%a2%e6%9d%be" rel="tag">
     黑客松
    </a>
   </div>
