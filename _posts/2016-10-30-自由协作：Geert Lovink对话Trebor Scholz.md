@@ -3,7 +3,7 @@ layout: post
 title: "自由协作：Geert Lovink对话Trebor Scholz"
 date: 2016-10-30
 author: 网络社会研究所
-from: https://www.caa-ins.org/archives/520
+from: https://caa-ins.org/archives/520
 tags: [ 网络社会研究所 ]
 categories: [ 网络社会研究所 ]
 ---
@@ -11,13 +11,13 @@ categories: [ 网络社会研究所 ]
 <article class="vce-single post-520 post type-post status-publish format-standard has-post-thumbnail hentry category-insreview category-3 tag-geert-lovink tag-trebor-scholz" id="post-520">
  <header class="entry-header">
   <span class="meta-category">
-   <a class="category-79" href="https://www.caa-ins.org/archives/category/ins%ef%b9%8dreview">
+   <a class="category-79" href="https://caa-ins.org/archives/category/ins%ef%b9%8dreview">
     INS REVIEW
    </a>
    <span>
     •
    </span>
-   <a class="category-3" href="https://www.caa-ins.org/archives/category/%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a">
+   <a class="category-3" href="https://caa-ins.org/archives/category/%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a">
     网络社会年会
    </a>
   </span>
@@ -29,9 +29,6 @@ categories: [ 网络社会研究所 ]
     <span class="updated">
      2016-10-30
     </span>
-   </div>
-   <div class="meta-item views">
-    495 Views
    </div>
   </div>
  </header>
@@ -45,7 +42,7 @@ Trebor Scholz （以下简称TS）
 
 </pre>
   <div class="wp-caption aligncenter" id="attachment_538" style="width: 657px">
-   <img alt="屏幕快照 2016-10-30 下午8.33.51" aria-describedby="caption-attachment-538" class="wp-image-538" data-attachment-id="538" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="屏幕快照 2016-10-30 下午8.33.51" data-large-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午8.33.51.png?fit=810%2C401&amp;ssl=1" data-medium-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午8.33.51.png?fit=300%2C148&amp;ssl=1" data-orig-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午8.33.51.png?fit=2150%2C1064&amp;ssl=1" data-orig-size="2150,1064" data-permalink="https://www.caa-ins.org/archives/520/%e5%b1%8f%e5%b9%95%e5%bf%ab%e7%85%a7-2016-10-30-%e4%b8%8b%e5%8d%888-33-51" data-recalc-dims="1" height="319" loading="lazy" sizes="(max-width: 647px) 100vw, 647px" src="https://i0.wp.com/caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午8.33.51-300x148.png?resize=647%2C319&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午8.33.51.png?resize=300%2C148&amp;ssl=1 300w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午8.33.51.png?resize=768%2C380&amp;ssl=1 768w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午8.33.51.png?resize=1024%2C507&amp;ssl=1 1024w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午8.33.51.png?resize=810%2C401&amp;ssl=1 810w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午8.33.51.png?resize=1140%2C564&amp;ssl=1 1140w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午8.33.51.png?w=1620&amp;ssl=1 1620w" width="647">
+   <img alt="屏幕快照 2016-10-30 下午8.33.51" aria-describedby="caption-attachment-538" class="wp-image-538" data-attachment-id="538" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="屏幕快照 2016-10-30 下午8.33.51" data-large-file="https://caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午8.33.51-1024x507.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午8.33.51-300x148.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午8.33.51.png" data-orig-size="2150,1064" data-permalink="https://caa-ins.org/archives/520/%e5%b1%8f%e5%b9%95%e5%bf%ab%e7%85%a7-2016-10-30-%e4%b8%8b%e5%8d%888-33-51" decoding="async" fetchpriority="high" height="319" sizes="(max-width: 647px) 100vw, 647px" src="https://13.124.147.85/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午8.33.51-300x148.png" srcset="https://caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午8.33.51-300x148.png 300w, https://caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午8.33.51-768x380.png 768w, https://caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午8.33.51-1024x507.png 1024w, https://caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午8.33.51-810x401.png 810w, https://caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午8.33.51-1140x564.png 1140w" width="647">
     <p class="wp-caption-text" id="caption-attachment-538">
      左为Trebor Scholz；右为Geert Lovink
     </p>
@@ -61,7 +58,7 @@ Trebor Scholz （以下简称TS）
    对我来说，真正的挑战是将“组织化的网络”organized network模型转化到真正的虚拟社群，这些虚拟社区想要或者不想要和真实世界相连接。正是在真实和虚拟世界之间的界面决定了协作的形式。以我的经验而言，这非常困难，并且很长一段时间在线上协作，而不在真实生活里见面开会是非常费力且令人泄气的。线上的工作可能是非常缓慢没有效率的。如果你想要在那个层面上成功，你需要有耐心。当一些人相信网络标语“用光速交流”，这根本没有描述出事实，如果你和一群分散在全球各地的人们，在更加复杂的项目上工作，尤其是在技术－文化领域的义务工作。在一开始，你可能会兴奋，但真正的问题是一年或者两年后你如何持续一个项目。
   </p>
   <div class="wp-caption alignnone" id="attachment_528" style="width: 878px">
-   <img alt="屏幕快照 2016-10-30 下午7.19.42" aria-describedby="caption-attachment-528" class="wp-image-528" data-attachment-id="528" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="屏幕快照 2016-10-30 下午7.19.42" data-large-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午7.19.42.png?fit=810%2C103&amp;ssl=1" data-medium-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午7.19.42.png?fit=300%2C38&amp;ssl=1" data-orig-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午7.19.42.png?fit=2794%2C356&amp;ssl=1" data-orig-size="2794,356" data-permalink="https://www.caa-ins.org/archives/520/%e5%b1%8f%e5%b9%95%e5%bf%ab%e7%85%a7-2016-10-30-%e4%b8%8b%e5%8d%887-19-42" data-recalc-dims="1" height="103" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://i2.wp.com/caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午7.19.42-300x38.png?resize=810%2C103&amp;ssl=1" srcset="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午7.19.42.png?resize=300%2C38&amp;ssl=1 300w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午7.19.42.png?resize=768%2C98&amp;ssl=1 768w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午7.19.42.png?resize=1024%2C130&amp;ssl=1 1024w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午7.19.42.png?resize=810%2C103&amp;ssl=1 810w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午7.19.42.png?resize=1140%2C145&amp;ssl=1 1140w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午7.19.42.png?w=1620&amp;ssl=1 1620w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午7.19.42.png?w=2430&amp;ssl=1 2430w" width="810">
+   <img alt="屏幕快照 2016-10-30 下午7.19.42" aria-describedby="caption-attachment-528" class="wp-image-528" data-attachment-id="528" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="屏幕快照 2016-10-30 下午7.19.42" data-large-file="https://caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午7.19.42-1024x130.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午7.19.42-300x38.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午7.19.42.png" data-orig-size="2794,356" data-permalink="https://caa-ins.org/archives/520/%e5%b1%8f%e5%b9%95%e5%bf%ab%e7%85%a7-2016-10-30-%e4%b8%8b%e5%8d%887-19-42" decoding="async" height="110" sizes="(max-width: 868px) 100vw, 868px" src="https://13.124.147.85/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午7.19.42-300x38.png" srcset="https://caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午7.19.42-300x38.png 300w, https://caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午7.19.42-768x98.png 768w, https://caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午7.19.42-1024x130.png 1024w, https://caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午7.19.42-810x103.png 810w, https://caa-ins.org/wp-content/uploads/2016/10/屏幕快照-2016-10-30-下午7.19.42-1140x145.png 1140w" width="868">
     <p class="wp-caption-text" id="caption-attachment-528">
      Images from Networks, Art, &amp; Collaboration – a conference that took place at SUNY Buffalo, April 24-25, 2004.
     </p>
@@ -97,48 +94,50 @@ Trebor Scholz （以下简称TS）
   <p>
    GL：关于“文本主义”paperism和“座谈小组主义”panelism的批评并没有什么新鲜的。我们不要过分夸大它。对于那些时常参加学术会议，并且对于那些活动期间的仪式和形式赶到不满的人来说，这个批评并不令人震惊。在我们的情况里，协作它自己是主题，这就让它更容易地去明确实验形式，但是这种强烈的欲望是无处不在的。新媒体传播方式仅仅是加速了这个过程。年轻人仅仅是不再有那种耐心，去听某人读40分钟的论文。就是如此简单。这就是关于在现实生活中会面并且对话的全部。有些人或许有时有去听名人报告的欲望，但是对我而言，这并不是聚到一起的根本。
   </p>
-  <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;referrer=https%3A%2F%2Fwww.caa-ins.org%2Farchives%2F520" style="height: 212px; width: 100%;">
-  </iframe>
+  <figure class="likecoin-embed likecoin-button">
+   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fcaa-ins.org%2Farchives%2F520" style="height:212px;width: 360px;">
+   </iframe>
+  </figure>
   <div class="sharedaddy sd-sharing-enabled">
    <div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing">
     <h3 class="sd-title">
-     共享此文章：
+     Share this:
     </h3>
     <div class="sd-content">
      <ul>
       <li class="share-facebook">
-       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-520" href="https://www.caa-ins.org/archives/520?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="点击以在 Facebook 上共享">
+       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-520" href="https://caa-ins.org/archives/520?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击以在 Facebook 上共享（在新窗口中打开）
+         Click to share on Facebook (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-twitter">
-       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-520" href="https://www.caa-ins.org/archives/520?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="点击以在 Twitter 上共享">
+       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-520" href="https://caa-ins.org/archives/520?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击以在 Twitter 上共享（在新窗口中打开）
+         Click to share on Twitter (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-custom share-custom-">
-       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/520?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="单击在 新浪微博 上共享">
-        <span style="background-image:url(http://open.weibo.com/favicon.ico)">
+       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/520?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on 新浪微博">
+        <span style='background-image:url("http://open.weibo.com/favicon.ico");'>
         </span>
         <span class="sharing-screen-reader-text">
-         单击在 新浪微博 上共享（在新窗口中打开）
+         Click to share on 新浪微博 (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-telegram">
-       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/520?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="点击以在 Telegram 上共享">
+       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/520?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Telegram">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击以在 Telegram 上共享（在新窗口中打开）
+         Click to share on Telegram (Opens in new window)
         </span>
        </a>
       </li>
@@ -151,10 +150,10 @@ Trebor Scholz （以下简称TS）
  </div>
  <footer class="entry-footer">
   <div class="meta-tags">
-   <a href="https://www.caa-ins.org/archives/tag/geert-lovink" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/geert-lovink" rel="tag">
     Geert Lovink
    </a>
-   <a href="https://www.caa-ins.org/archives/tag/trebor-scholz" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/trebor-scholz" rel="tag">
     Trebor Scholz
    </a>
   </div>
