@@ -3,7 +3,7 @@ layout: post
 title: "INS aletheia #2 ｜ 《让我们平台合作社吧！》"
 date: 2017-07-18
 author: 网络社会研究所
-from: https://www.caa-ins.org/archives/1957
+from: https://caa-ins.org/archives/1957
 tags: [ 网络社会研究所 ]
 categories: [ 网络社会研究所 ]
 ---
@@ -11,7 +11,7 @@ categories: [ 网络社会研究所 ]
 <article class="vce-single post-1957 post type-post status-publish format-standard has-post-thumbnail hentry category-5 tag-aletheia tag-89 tag-105" id="post-1957">
  <header class="entry-header">
   <span class="meta-category">
-   <a class="category-5" href="https://www.caa-ins.org/archives/category/%e5%87%ba%e7%89%88">
+   <a class="category-5" href="https://caa-ins.org/archives/category/%e5%87%ba%e7%89%88">
     出版
    </a>
   </span>
@@ -24,14 +24,11 @@ categories: [ 网络社会研究所 ]
      2017-07-18
     </span>
    </div>
-   <div class="meta-item views">
-    2,527 Views
-   </div>
   </div>
  </header>
  <div class="entry-content">
   <p>
-   <img alt="" class="aligncenter wp-image-1958 size-large" data-attachment-id="1958" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="cover (1)" data-large-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/cover-1.jpg?fit=781%2C1024&amp;ssl=1" data-medium-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/cover-1.jpg?fit=229%2C300&amp;ssl=1" data-orig-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/cover-1.jpg?fit=1800%2C2360&amp;ssl=1" data-orig-size="1800,2360" data-permalink="https://www.caa-ins.org/archives/1957/cover-1" data-recalc-dims="1" height="1024" loading="lazy" sizes="(max-width: 781px) 100vw, 781px" src="https://i2.wp.com/caa-ins.org/wp-content/uploads/2017/07/cover-1-781x1024.jpg?resize=781%2C1024&amp;ssl=1" srcset="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/cover-1.jpg?resize=781%2C1024&amp;ssl=1 781w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/cover-1.jpg?resize=229%2C300&amp;ssl=1 229w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/cover-1.jpg?resize=768%2C1007&amp;ssl=1 768w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/cover-1.jpg?resize=810%2C1062&amp;ssl=1 810w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/cover-1.jpg?resize=1140%2C1495&amp;ssl=1 1140w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/cover-1.jpg?w=1800&amp;ssl=1 1800w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/cover-1.jpg?w=1620&amp;ssl=1 1620w" width="781"/>
+   <img alt="" class="aligncenter wp-image-1958 size-large" data-attachment-id="1958" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="cover (1)" data-large-file="https://caa-ins.org/wp-content/uploads/2017/07/cover-1-781x1024.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2017/07/cover-1-229x300.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2017/07/cover-1.jpg" data-orig-size="1800,2360" data-permalink="https://caa-ins.org/archives/1957/cover-1" decoding="async" fetchpriority="high" height="1024" sizes="(max-width: 781px) 100vw, 781px" src="https://13.124.147.85/wp-content/uploads/2017/07/cover-1-781x1024.jpg" srcset="https://caa-ins.org/wp-content/uploads/2017/07/cover-1-781x1024.jpg 781w, https://caa-ins.org/wp-content/uploads/2017/07/cover-1-229x300.jpg 229w, https://caa-ins.org/wp-content/uploads/2017/07/cover-1-768x1007.jpg 768w, https://caa-ins.org/wp-content/uploads/2017/07/cover-1-810x1062.jpg 810w, https://caa-ins.org/wp-content/uploads/2017/07/cover-1-1140x1495.jpg 1140w, https://caa-ins.org/wp-content/uploads/2017/07/cover-1.jpg 1800w" width="781"/>
   </p>
   <p>
   </p>
@@ -124,7 +121,7 @@ categories: [ 网络社会研究所 ]
   <p class="comments-section">
    书里中所有翻译文章，均附有原文链接，
    <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license noopener" target="_blank">
-    <img alt="創用 CC 授權條款" data-recalc-dims="1" src="https://i0.wp.com/i.creativecommons.org/l/by-sa/4.0/88x31.png?w=810&amp;ssl=1"/>
+    <img alt="創用 CC 授權條款" decoding="async" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png"/>
    </a>
    <br/>
    本著作係採用
@@ -143,48 +140,50 @@ categories: [ 网络社会研究所 ]
     2017.7
    </strong>
   </p>
-  <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;referrer=https%3A%2F%2Fwww.caa-ins.org%2Farchives%2F1957" style="height: 212px; width: 100%;">
-  </iframe>
+  <figure class="likecoin-embed likecoin-button">
+   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fcaa-ins.org%2Farchives%2F1957" style="height:212px;width: 360px;">
+   </iframe>
+  </figure>
   <div class="sharedaddy sd-sharing-enabled">
    <div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing">
     <h3 class="sd-title">
-     共享此文章：
+     Share this:
     </h3>
     <div class="sd-content">
      <ul>
       <li class="share-facebook">
-       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-1957" href="https://www.caa-ins.org/archives/1957?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="点击以在 Facebook 上共享">
+       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-1957" href="https://caa-ins.org/archives/1957?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击以在 Facebook 上共享（在新窗口中打开）
+         Click to share on Facebook (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-twitter">
-       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-1957" href="https://www.caa-ins.org/archives/1957?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="点击以在 Twitter 上共享">
+       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-1957" href="https://caa-ins.org/archives/1957?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击以在 Twitter 上共享（在新窗口中打开）
+         Click to share on Twitter (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-custom share-custom-">
-       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/1957?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="单击在 新浪微博 上共享">
-        <span style="background-image:url(http://open.weibo.com/favicon.ico)">
+       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/1957?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on 新浪微博">
+        <span style='background-image:url("http://open.weibo.com/favicon.ico");'>
         </span>
         <span class="sharing-screen-reader-text">
-         单击在 新浪微博 上共享（在新窗口中打开）
+         Click to share on 新浪微博 (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-telegram">
-       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/1957?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="点击以在 Telegram 上共享">
+       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/1957?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Telegram">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击以在 Telegram 上共享（在新窗口中打开）
+         Click to share on Telegram (Opens in new window)
         </span>
        </a>
       </li>
@@ -197,13 +196,13 @@ categories: [ 网络社会研究所 ]
  </div>
  <footer class="entry-footer">
   <div class="meta-tags">
-   <a href="https://www.caa-ins.org/archives/tag/aletheia" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/aletheia" rel="tag">
     aletheia
    </a>
-   <a href="https://www.caa-ins.org/archives/tag/%e5%90%88%e4%bd%9c%e7%a4%be" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/%e5%90%88%e4%bd%9c%e7%a4%be" rel="tag">
     合作社
    </a>
-   <a href="https://www.caa-ins.org/archives/tag/%e5%b9%b3%e5%8f%b0%e5%90%88%e4%bd%9c%e4%b8%bb%e4%b9%89" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/%e5%b9%b3%e5%8f%b0%e5%90%88%e4%bd%9c%e4%b8%bb%e4%b9%89" rel="tag">
     平台合作主义
    </a>
   </div>

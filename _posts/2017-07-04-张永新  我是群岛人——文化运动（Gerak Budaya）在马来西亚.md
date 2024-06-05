@@ -3,15 +3,15 @@ layout: post
 title: "张永新 | 我是群岛人——文化运动（Gerak Budaya）在马来西亚"
 date: 2017-07-04
 author: 网络社会研究所
-from: https://www.caa-ins.org/archives/1899
+from: https://caa-ins.org/archives/1899
 tags: [ 网络社会研究所 ]
 categories: [ 网络社会研究所 ]
 ---
 
-<article class="vce-single post-1899 post type-post status-publish format-standard has-post-thumbnail hentry category-4 tag-147 has-post-video" id="post-1899">
+<article class="vce-single post-1899 post type-post status-publish format-standard has-post-thumbnail hentry category-4 tag-147" id="post-1899">
  <header class="entry-header">
   <span class="meta-category">
-   <a class="category-4" href="https://www.caa-ins.org/archives/category/%e5%9b%bd%e9%99%85%e8%ae%b2%e5%ba%a7">
+   <a class="category-4" href="https://caa-ins.org/archives/category/%e5%9b%bd%e9%99%85%e8%ae%b2%e5%ba%a7">
     国际讲座
    </a>
   </span>
@@ -23,9 +23,6 @@ categories: [ 网络社会研究所 ]
     <span class="updated">
      2017-07-04
     </span>
-   </div>
-   <div class="meta-item views">
-    1,667 Views
    </div>
   </div>
  </header>
@@ -51,7 +48,7 @@ categories: [ 网络社会研究所 ]
    无论如何呢我还是要介绍一下马来西亚的一些历史背景。马来西亚早期其实是叫马来亚，马来半岛包括新加坡，它是一个政治单位。独立的时候是马来亚，不包括新加坡。后期在1963年的时候，才成为了马来西亚。马来西亚就包括新加坡、文莱、沙巴、砂拉越。那其实是一个六十年代冷战时期的新殖民主义的产物。应该说新加坡、沙巴、砂拉越还是在英国的控制下，马来亚1957年就独立了，新殖民主义的产物就成立了马来西亚。马来西亚到1965年，不久之后跟文莱谈不妥，它就不加入了，新加坡是在1965年脱离马来西亚成立了新加坡共和国。我本来的看法是，因为是新殖民主义的产物，所以沙巴、砂拉越应该是独立的，但是如果我在马来西亚国内这样说的话是非常敏感的，就是鼓吹分离分裂啊。有时候偶然还是会提到这个，但是不能够很明显的谈。我的看法它们应该啦，应该是一个独立的单位。而新加坡和马来西亚应该是连在一起的。像我们这些当时的左派或是年长一些的人，他们都认为新加坡是马来半岛的，和马来亚是一体的，但是现在是隔开来了，这个是一个状况。
   </p>
   <p>
-   <img alt="" class="size-large wp-image-1901 aligncenter" data-attachment-id="1901" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图1" data-large-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/图1.jpg?fit=810%2C493&amp;ssl=1" data-medium-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/图1.jpg?fit=300%2C182&amp;ssl=1" data-orig-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/图1.jpg?fit=1399%2C851&amp;ssl=1" data-orig-size="1399,851" data-permalink="https://www.caa-ins.org/archives/1899/%e5%9b%be1-5" data-recalc-dims="1" height="493" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://i2.wp.com/caa-ins.org/wp-content/uploads/2017/07/图1-1024x623.jpg?resize=810%2C493&amp;ssl=1" srcset="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/图1.jpg?resize=1024%2C623&amp;ssl=1 1024w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/图1.jpg?resize=300%2C182&amp;ssl=1 300w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/图1.jpg?resize=768%2C467&amp;ssl=1 768w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/图1.jpg?resize=810%2C493&amp;ssl=1 810w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/图1.jpg?resize=1140%2C693&amp;ssl=1 1140w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/图1.jpg?w=1399&amp;ssl=1 1399w" width="810"/>
+   <img alt="" class="size-large wp-image-1901 aligncenter" data-attachment-id="1901" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图1" data-large-file="https://caa-ins.org/wp-content/uploads/2017/07/图1-1024x623.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2017/07/图1-300x182.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2017/07/图1.jpg" data-orig-size="1399,851" data-permalink="https://caa-ins.org/archives/1899/%e5%9b%be1-5" decoding="async" fetchpriority="high" height="493" sizes="(max-width: 810px) 100vw, 810px" src="https://13.124.147.85/wp-content/uploads/2017/07/图1-1024x623.jpg" srcset="https://caa-ins.org/wp-content/uploads/2017/07/图1-1024x623.jpg 1024w, https://caa-ins.org/wp-content/uploads/2017/07/图1-300x182.jpg 300w, https://caa-ins.org/wp-content/uploads/2017/07/图1-768x467.jpg 768w, https://caa-ins.org/wp-content/uploads/2017/07/图1-810x493.jpg 810w, https://caa-ins.org/wp-content/uploads/2017/07/图1-1140x693.jpg 1140w, https://caa-ins.org/wp-content/uploads/2017/07/图1.jpg 1399w" width="810"/>
   </p>
   <p>
    我们马来亚的历史也不算很长，所以我们看这个马六甲王朝，以前马来西亚半岛有原住民，那是很久很久以前了，原住民不是马来人，是最早期在那边的人，听说马来人是七世纪从云南那边移居过来的，这是很早期了。后期就是从印尼啊、苏门答腊、爪哇那边又是另外一批马来人移到马来半岛了。所以说马来半岛除了原住民以外呢可以说都是移民。因为他们是比较早到那边的，所以现在马来人认为他们是当地的主人，其他的这些族群是外来的。还有这样的观念，当然这种观念也并不正确，问题并非谁先到谁后到，其实还是说大家是成为了一个一体的，不论是说马来西亚民族啊，马来西亚人或是马来西亚国家。马六甲王朝是在1400年成立，1400年是十五世纪，那时候中国是明朝，所以有郑和下西洋，到马来半岛、印尼、菲律宾，所以在马六甲那边也有郑和的纪念馆、郑和水井、郑和庙等等存在的古迹。马六甲王朝到1511年就灭亡了，是葡萄牙人在1511年寻找海外殖民地，占领了马六甲王朝，不包括整个马来半岛。到了1641年，葡萄牙人和荷兰人谈判，之后就被赶走了，荷兰人又占领了马六甲王朝到1824年。那时候，英国人在1786年就已经占领槟城了，在那边建立他们的基地。所以就跟荷兰谈判，当时整个印尼都是属于荷兰人的殖民地，英国就撤出了印尼，荷兰人就撤出马六甲，让给英国人。这是西方殖民主义者的谈判，来瓜分殖民地，这是1786年。然后到1819年，英国人占领了马六甲，后来再慢慢扩展，大概1884年整个马来半岛包括新加坡都受英国控制，都是英国人的殖民地。虽然，那些土邦，讲土邦有点不太尊敬，马来半岛还有原本的那些马六甲王朝过后还有的一些王朝，英国人也没完全把它们消灭。像中国是分省，我们那边很小，所以我们那边是叫“州”，我们有马六甲州、霹雳州、槟城州、雪兰莪州等等，一个州以前就是一个国王，所以我们有九个，除了槟城、马六甲后来被英国人占领，把苏丹（马来西亚至今还有九个世袭的苏丹国，这些苏丹国的元首就是苏丹，9个苏丹中的一个是国家的最高元首）废除了，变成他们的直辖殖民地。所以我们现在有九个州，九个国王，还要包括选出的一个最高元首，我们叫“Agong”，所以我们是有十个国王的国家，很多人不知道，这很妙。这个是马来半岛的历史。
@@ -131,7 +128,7 @@ categories: [ 网络社会研究所 ]
    要是有人问我，我是什么人，在族群上我其实不知道自己是什么人，我不知道自己是不是汉人，因为客家人总是到处流窜，我的老祖宗有没有和别的什么族群通婚我怎么知道。假如没有，那种族上我是汉人。但在文化认同上我说自己是群岛人，我不觉得自己纯粹是华人文化，不强调自己的祖宗根源是中国。所以说群岛人有特殊含义，指的是群岛文化，包括了印尼、马来西亚、新加坡、菲律宾、泰国南部的文化。我们在努力进行文化交流。
   </p>
   <p>
-   <img alt="" class="size-full wp-image-1902 aligncenter" data-attachment-id="1902" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图2" data-large-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/图2.jpg?fit=600%2C400&amp;ssl=1" data-medium-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/图2.jpg?fit=300%2C200&amp;ssl=1" data-orig-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/图2.jpg?fit=600%2C400&amp;ssl=1" data-orig-size="600,400" data-permalink="https://www.caa-ins.org/archives/1899/%e5%9b%be2-5" data-recalc-dims="1" height="400" loading="lazy" sizes="(max-width: 600px) 100vw, 600px" src="https://i0.wp.com/caa-ins.org/wp-content/uploads/2017/07/图2.jpg?resize=600%2C400&amp;ssl=1" srcset="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/图2.jpg?w=600&amp;ssl=1 600w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/图2.jpg?resize=300%2C200&amp;ssl=1 300w" width="600"/>
+   <img alt="" class="size-full wp-image-1902 aligncenter" data-attachment-id="1902" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图2" data-large-file="https://caa-ins.org/wp-content/uploads/2017/07/图2.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2017/07/图2-300x200.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2017/07/图2.jpg" data-orig-size="600,400" data-permalink="https://caa-ins.org/archives/1899/%e5%9b%be2-5" decoding="async" height="400" sizes="(max-width: 600px) 100vw, 600px" src="https://13.124.147.85/wp-content/uploads/2017/07/图2.jpg" srcset="https://caa-ins.org/wp-content/uploads/2017/07/图2.jpg 600w, https://caa-ins.org/wp-content/uploads/2017/07/图2-300x200.jpg 300w" width="600"/>
   </p>
   <p>
    其实在更早的时候，在殖民者还没有来到印尼、马来西亚、东南亚的时候，并没有什么国界，人都是很自由的。所以我们原本就很自由，现在虽然有国家的单位，有政治的单位，但我认为我们还是可以联合。我不强调自己是华人，我文化认同上是群岛人。
@@ -149,7 +146,7 @@ categories: [ 网络社会研究所 ]
    到了2000年的时候，我就成立了公司，“文运”，运动是movement，社会运动，另外移动也是运动，所以我强调文运不是文化运动，社会运动，而是文化运输，从一个地方到另一个地方的运输，文化通过书去运输，但难的是从一个脑袋到另一个脑袋，那种运输就是文化的传播。所以卖书不只是卖书，也是传播，人家买了，你就传到那个地方去了，不通过商业性的买卖，怎么传播呢？所以就成立了文化企业，搞出版，分销，没有印刷，还有销售。销售就是大学有活动，民间组织有活动，我们就去摆卖。我们不是开一间书店卖书，那时还没有书店，只有一个展示厅，小屋子，在那里做办事处。所以出去很重要，这也是运动，它是运动式的不是静止式的，我们到处去摆卖。当然要征得允许，有些是我们的朋友，在大学里的朋友说我有个研讨会，你来摆卖书吧，特别是社会科学的书，是我们的主营，我们也常出现在社会科学系的那些活动。就是这样一直搞，从1985年一直搞到2000年，2000年后也一直做。
   </p>
   <div class="wp-caption aligncenter" id="attachment_1903" style="width: 820px">
-   <img alt="" aria-describedby="caption-attachment-1903" class="wp-image-1903 size-large" data-attachment-id="1903" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图3" data-large-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/图3.jpg?fit=810%2C506&amp;ssl=1" data-medium-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/图3.jpg?fit=300%2C187&amp;ssl=1" data-orig-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/图3.jpg?fit=1620%2C1012&amp;ssl=1" data-orig-size="1620,1012" data-permalink="https://www.caa-ins.org/archives/1899/%e5%9b%be3-5" data-recalc-dims="1" height="506" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://i2.wp.com/caa-ins.org/wp-content/uploads/2017/07/图3-1024x640.jpg?resize=810%2C506&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/图3.jpg?resize=1024%2C640&amp;ssl=1 1024w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/图3.jpg?resize=300%2C187&amp;ssl=1 300w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/图3.jpg?resize=768%2C480&amp;ssl=1 768w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/图3.jpg?resize=810%2C506&amp;ssl=1 810w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/图3.jpg?resize=1140%2C712&amp;ssl=1 1140w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/图3.jpg?w=1620&amp;ssl=1 1620w" width="810"/>
+   <img alt="" aria-describedby="caption-attachment-1903" class="wp-image-1903 size-large" data-attachment-id="1903" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图3" data-large-file="https://caa-ins.org/wp-content/uploads/2017/07/图3-1024x640.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2017/07/图3-300x187.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2017/07/图3.jpg" data-orig-size="1620,1012" data-permalink="https://caa-ins.org/archives/1899/%e5%9b%be3-5" decoding="async" height="506" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://13.124.147.85/wp-content/uploads/2017/07/图3-1024x640.jpg" srcset="https://caa-ins.org/wp-content/uploads/2017/07/图3-1024x640.jpg 1024w, https://caa-ins.org/wp-content/uploads/2017/07/图3-300x187.jpg 300w, https://caa-ins.org/wp-content/uploads/2017/07/图3-768x480.jpg 768w, https://caa-ins.org/wp-content/uploads/2017/07/图3-810x506.jpg 810w, https://caa-ins.org/wp-content/uploads/2017/07/图3-1140x712.jpg 1140w, https://caa-ins.org/wp-content/uploads/2017/07/图3.jpg 1620w" width="810"/>
    <p class="wp-caption-text" id="caption-attachment-1903">
     书店内部
    </p>
@@ -176,7 +173,7 @@ categories: [ 网络社会研究所 ]
    我在正规学校里读书太少，那么还好呢，我这个是个秘密了，还好在我20岁的时候（1968年时）就被扣留了，成为政治扣留者，不是犯人，不是政治犯，没有上法庭的，没有定罪的，我是无罪的。但是我们那时候有条法令叫内部安全法令，它可以扣留一个人不需要上法庭，只要那个部长签名，我扣留你两年，就扣留两年。两年以后，你还不适合出去，再扣留你两年。又犯两年了，所以一直两年两年，我拿了四张两年，总共八年。对我来讲不是坏事。我那个时候没有工作，书又读的少，不知怎么彷徨了。如果没有被扣留，我可能去吸毒，或者指不定做一个坏人，自然今天也不会在这里跟你们谈论这个问题。我相当幸运，就被扣留了。
   </p>
   <div class="wp-caption aligncenter" id="attachment_1904" style="width: 820px">
-   <img alt="" aria-describedby="caption-attachment-1904" class="wp-image-1904 size-large" data-attachment-id="1904" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"5.6","credit":"","camera":"Canon EOS 5D Mark III","caption":"","created_timestamp":"1460049764","copyright":"","focal_length":"105","iso":"100","shutter_speed":"0.6","title":"","orientation":"1"}' data-image-title="图4" data-large-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/图4.jpg?fit=810%2C509&amp;ssl=1" data-medium-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/图4.jpg?fit=300%2C188&amp;ssl=1" data-orig-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/图4.jpg?fit=1620%2C1017&amp;ssl=1" data-orig-size="1620,1017" data-permalink="https://www.caa-ins.org/archives/1899/%e5%9b%be4-5" data-recalc-dims="1" height="509" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://i2.wp.com/caa-ins.org/wp-content/uploads/2017/07/图4-1024x643.jpg?resize=810%2C509&amp;ssl=1" srcset="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/图4.jpg?resize=1024%2C643&amp;ssl=1 1024w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/图4.jpg?resize=300%2C188&amp;ssl=1 300w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/图4.jpg?resize=768%2C482&amp;ssl=1 768w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/图4.jpg?resize=810%2C509&amp;ssl=1 810w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/图4.jpg?resize=1140%2C716&amp;ssl=1 1140w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2017/07/图4.jpg?w=1620&amp;ssl=1 1620w" width="810"/>
+   <img alt="" aria-describedby="caption-attachment-1904" class="wp-image-1904 size-large" data-attachment-id="1904" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"5.6","credit":"","camera":"Canon EOS 5D Mark III","caption":"","created_timestamp":"1460049764","copyright":"","focal_length":"105","iso":"100","shutter_speed":"0.6","title":"","orientation":"1"}' data-image-title="图4" data-large-file="https://caa-ins.org/wp-content/uploads/2017/07/图4-1024x643.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2017/07/图4-300x188.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2017/07/图4.jpg" data-orig-size="1620,1017" data-permalink="https://caa-ins.org/archives/1899/%e5%9b%be4-5" decoding="async" height="509" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://13.124.147.85/wp-content/uploads/2017/07/图4-1024x643.jpg" srcset="https://caa-ins.org/wp-content/uploads/2017/07/图4-1024x643.jpg 1024w, https://caa-ins.org/wp-content/uploads/2017/07/图4-300x188.jpg 300w, https://caa-ins.org/wp-content/uploads/2017/07/图4-768x482.jpg 768w, https://caa-ins.org/wp-content/uploads/2017/07/图4-810x509.jpg 810w, https://caa-ins.org/wp-content/uploads/2017/07/图4-1140x716.jpg 1140w, https://caa-ins.org/wp-content/uploads/2017/07/图4.jpg 1620w" width="810"/>
    <p class="wp-caption-text" id="caption-attachment-1904">
     扣留营合影
    </p>
@@ -309,48 +306,50 @@ categories: [ 网络社会研究所 ]
   <p>
    所以总体来说有改善。我们这里妇女组织和政党都是有的，各政党都有妇女组织、社团。但也还是有很多偏差。说到同工同酬，男女都出去工作，我们现在也在争论一个问题，夫妻如果都出去工作，假如没有佣人，谁来做家务？好的情况是两个人都做，但也可能丈夫在看报纸，妻子做家务，女性相当于做了双重的工作。所以马来西亚的情况不是太理想，但有所改善。女性受了文化、思想的束缚，但更多的是家庭的束缚，如果孩子多就更难办，育儿的确是个问题。所以有些私人公司也在办托儿所，让女性可以带着孩子来上班，但这种情况还不普遍。
   </p>
-  <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;referrer=https%3A%2F%2Fwww.caa-ins.org%2Farchives%2F1899" style="height: 212px; width: 100%;">
-  </iframe>
+  <figure class="likecoin-embed likecoin-button">
+   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fcaa-ins.org%2Farchives%2F1899" style="height:212px;width: 360px;">
+   </iframe>
+  </figure>
   <div class="sharedaddy sd-sharing-enabled">
    <div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing">
     <h3 class="sd-title">
-     共享此文章：
+     Share this:
     </h3>
     <div class="sd-content">
      <ul>
       <li class="share-facebook">
-       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-1899" href="https://www.caa-ins.org/archives/1899?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="点击以在 Facebook 上共享">
+       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-1899" href="https://caa-ins.org/archives/1899?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击以在 Facebook 上共享（在新窗口中打开）
+         Click to share on Facebook (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-twitter">
-       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-1899" href="https://www.caa-ins.org/archives/1899?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="点击以在 Twitter 上共享">
+       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-1899" href="https://caa-ins.org/archives/1899?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击以在 Twitter 上共享（在新窗口中打开）
+         Click to share on Twitter (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-custom share-custom-">
-       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/1899?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="单击在 新浪微博 上共享">
-        <span style="background-image:url(http://open.weibo.com/favicon.ico)">
+       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/1899?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on 新浪微博">
+        <span style='background-image:url("http://open.weibo.com/favicon.ico");'>
         </span>
         <span class="sharing-screen-reader-text">
-         单击在 新浪微博 上共享（在新窗口中打开）
+         Click to share on 新浪微博 (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-telegram">
-       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/1899?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="点击以在 Telegram 上共享">
+       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/1899?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Telegram">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击以在 Telegram 上共享（在新窗口中打开）
+         Click to share on Telegram (Opens in new window)
         </span>
        </a>
       </li>
@@ -363,7 +362,7 @@ categories: [ 网络社会研究所 ]
  </div>
  <footer class="entry-footer">
   <div class="meta-tags">
-   <a href="https://www.caa-ins.org/archives/tag/%e5%bc%a0%e6%b0%b8%e6%96%b0" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/%e5%bc%a0%e6%b0%b8%e6%96%b0" rel="tag">
     张永新
    </a>
   </div>
