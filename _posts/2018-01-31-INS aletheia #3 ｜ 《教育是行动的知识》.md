@@ -3,7 +3,7 @@ layout: post
 title: "INS aletheia #3 ｜ 《教育是行动的知识》"
 date: 2018-01-31
 author: 网络社会研究所
-from: https://www.caa-ins.org/archives/2592
+from: https://caa-ins.org/archives/2592
 tags: [ 网络社会研究所 ]
 categories: [ 网络社会研究所 ]
 ---
@@ -11,7 +11,7 @@ categories: [ 网络社会研究所 ]
 <article class="vce-single post-2592 post type-post status-publish format-standard has-post-thumbnail hentry category-5 tag-aletheia tag-189 tag-188" id="post-2592">
  <header class="entry-header">
   <span class="meta-category">
-   <a class="category-5" href="https://www.caa-ins.org/archives/category/%e5%87%ba%e7%89%88">
+   <a class="category-5" href="https://caa-ins.org/archives/category/%e5%87%ba%e7%89%88">
     出版
    </a>
   </span>
@@ -23,9 +23,6 @@ categories: [ 网络社会研究所 ]
     <span class="updated">
      2018-01-31
     </span>
-   </div>
-   <div class="meta-item views">
-    1,226 Views
    </div>
   </div>
  </header>
@@ -40,7 +37,7 @@ categories: [ 网络社会研究所 ]
   </header>
   <div class="entry-content">
    <p>
-    <img alt="" class="wp-image-2593 size-large aligncenter" data-attachment-id="2593" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="ccc" data-large-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/01/ccc.jpg?fit=801%2C1024&amp;ssl=1" data-medium-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/01/ccc.jpg?fit=235%2C300&amp;ssl=1" data-orig-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/01/ccc.jpg?fit=1800%2C2300&amp;ssl=1" data-orig-size="1800,2300" data-permalink="https://www.caa-ins.org/archives/2592/ccc" data-recalc-dims="1" height="1024" loading="lazy" sizes="(max-width: 801px) 100vw, 801px" src="https://i0.wp.com/caa-ins.org/wp-content/uploads/2018/01/ccc-801x1024.jpg?resize=801%2C1024&amp;ssl=1" srcset="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/01/ccc.jpg?resize=801%2C1024&amp;ssl=1 801w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/01/ccc.jpg?resize=235%2C300&amp;ssl=1 235w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/01/ccc.jpg?resize=768%2C981&amp;ssl=1 768w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/01/ccc.jpg?resize=810%2C1035&amp;ssl=1 810w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/01/ccc.jpg?resize=1140%2C1457&amp;ssl=1 1140w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/01/ccc.jpg?w=1800&amp;ssl=1 1800w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/01/ccc.jpg?w=1620&amp;ssl=1 1620w" width="801"/>
+    <img alt="" class="wp-image-2593 size-large aligncenter" data-attachment-id="2593" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="ccc" data-large-file="https://caa-ins.org/wp-content/uploads/2018/01/ccc-801x1024.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2018/01/ccc-235x300.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2018/01/ccc.jpg" data-orig-size="1800,2300" data-permalink="https://caa-ins.org/archives/2592/ccc" decoding="async" fetchpriority="high" height="1024" sizes="(max-width: 801px) 100vw, 801px" src="https://13.124.147.85/wp-content/uploads/2018/01/ccc-801x1024.jpg" srcset="https://caa-ins.org/wp-content/uploads/2018/01/ccc-801x1024.jpg 801w, https://caa-ins.org/wp-content/uploads/2018/01/ccc-235x300.jpg 235w, https://caa-ins.org/wp-content/uploads/2018/01/ccc-768x981.jpg 768w, https://caa-ins.org/wp-content/uploads/2018/01/ccc-810x1035.jpg 810w, https://caa-ins.org/wp-content/uploads/2018/01/ccc-1140x1457.jpg 1140w, https://caa-ins.org/wp-content/uploads/2018/01/ccc.jpg 1800w" width="801"/>
    </p>
    <p>
     <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;">
@@ -105,7 +102,7 @@ categories: [ 网络社会研究所 ]
        </em>
       </p>
       <p>
-       <img alt="" class="size-medium wp-image-2594 aligncenter" data-attachment-id="2594" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="諸眾之貌-1" data-large-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/01/諸眾之貌-1.png?fit=300%2C152&amp;ssl=1" data-medium-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/01/諸眾之貌-1.png?fit=300%2C152&amp;ssl=1" data-orig-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/01/諸眾之貌-1.png?fit=300%2C152&amp;ssl=1" data-orig-size="300,152" data-permalink="https://www.caa-ins.org/archives/2592/%e8%ab%b8%e7%9c%be%e4%b9%8b%e8%b2%8c-1" data-recalc-dims="1" height="152" loading="lazy" src="https://i0.wp.com/caa-ins.org/wp-content/uploads/2018/01/諸眾之貌-1-300x152.png?resize=300%2C152&amp;ssl=1" width="300"/>
+       <img alt="" class="size-medium wp-image-2594 aligncenter" data-attachment-id="2594" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="諸眾之貌-1" data-large-file="https://caa-ins.org/wp-content/uploads/2018/01/諸眾之貌-1.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2018/01/諸眾之貌-1-300x152.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2018/01/諸眾之貌-1.png" data-orig-size="300,152" data-permalink="https://caa-ins.org/archives/2592/%e8%ab%b8%e7%9c%be%e4%b9%8b%e8%b2%8c-1" decoding="async" height="152" src="https://13.124.147.85/wp-content/uploads/2018/01/諸眾之貌-1-300x152.png" width="300"/>
       </p>
       <p>
        无以计数的词汇被创造出来描绘社会的集合,人民、大众、人群、群众、诸众,阶级等等。 越是从上而下的权力布署就喜欢调动这些词汇,知识分子与民粹主义者几乎同样热情的表达 对这些词汇的爱好。它们出现在各种传播媒介上,网络技术的发展使得它们愈来愈精采地指 涉与它们的恰恰相反的事务,菁英、少数、小众、资产阶级集团的偏好。
@@ -174,7 +171,7 @@ categories: [ 网络社会研究所 ]
       </span>
      </p>
      <div class="wp-caption aligncenter" id="attachment_2598" style="width: 820px">
-      <img alt="" aria-describedby="caption-attachment-2598" class="wp-image-2598 size-large" data-attachment-id="2598" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"2.2","credit":"","camera":"iPhone 6 Plus","caption":"","created_timestamp":"1443871105","copyright":"","focal_length":"4.15","iso":"100","shutter_speed":"0.058823529411765","title":"","orientation":"1"}' data-image-title="这张转黑白在最开头用" data-large-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/01/这张转黑白在最开头用.jpg?fit=810%2C608&amp;ssl=1" data-medium-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/01/这张转黑白在最开头用.jpg?fit=300%2C225&amp;ssl=1" data-orig-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/01/这张转黑白在最开头用.jpg?fit=3264%2C2448&amp;ssl=1" data-orig-size="3264,2448" data-permalink="https://www.caa-ins.org/archives/2592/%e8%bf%99%e5%bc%a0%e8%bd%ac%e9%bb%91%e7%99%bd%e5%9c%a8%e6%9c%80%e5%bc%80%e5%a4%b4%e7%94%a8" data-recalc-dims="1" height="608" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://i0.wp.com/caa-ins.org/wp-content/uploads/2018/01/这张转黑白在最开头用-1024x768.jpg?resize=810%2C608&amp;ssl=1" srcset="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/01/这张转黑白在最开头用.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/01/这张转黑白在最开头用.jpg?resize=300%2C225&amp;ssl=1 300w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/01/这张转黑白在最开头用.jpg?resize=768%2C576&amp;ssl=1 768w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/01/这张转黑白在最开头用.jpg?resize=810%2C608&amp;ssl=1 810w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/01/这张转黑白在最开头用.jpg?resize=1140%2C855&amp;ssl=1 1140w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/01/这张转黑白在最开头用.jpg?w=1620&amp;ssl=1 1620w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/01/这张转黑白在最开头用.jpg?w=2430&amp;ssl=1 2430w" width="810"/>
+      <img alt="" aria-describedby="caption-attachment-2598" class="wp-image-2598 size-large" data-attachment-id="2598" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"2.2","credit":"","camera":"iPhone 6 Plus","caption":"","created_timestamp":"1443871105","copyright":"","focal_length":"4.15","iso":"100","shutter_speed":"0.058823529411765","title":"","orientation":"1"}' data-image-title="这张转黑白在最开头用" data-large-file="https://caa-ins.org/wp-content/uploads/2018/01/这张转黑白在最开头用-1024x768.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2018/01/这张转黑白在最开头用-300x225.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2018/01/这张转黑白在最开头用.jpg" data-orig-size="3264,2448" data-permalink="https://caa-ins.org/archives/2592/%e8%bf%99%e5%bc%a0%e8%bd%ac%e9%bb%91%e7%99%bd%e5%9c%a8%e6%9c%80%e5%bc%80%e5%a4%b4%e7%94%a8" decoding="async" height="608" sizes="(max-width: 810px) 100vw, 810px" src="https://13.124.147.85/wp-content/uploads/2018/01/这张转黑白在最开头用-1024x768.jpg" srcset="https://caa-ins.org/wp-content/uploads/2018/01/这张转黑白在最开头用-1024x768.jpg 1024w, https://caa-ins.org/wp-content/uploads/2018/01/这张转黑白在最开头用-300x225.jpg 300w, https://caa-ins.org/wp-content/uploads/2018/01/这张转黑白在最开头用-768x576.jpg 768w, https://caa-ins.org/wp-content/uploads/2018/01/这张转黑白在最开头用-810x608.jpg 810w, https://caa-ins.org/wp-content/uploads/2018/01/这张转黑白在最开头用-1140x855.jpg 1140w" width="810"/>
       <p class="wp-caption-text" id="caption-attachment-2598">
        M.P. PARAMESWARAN博士在讲课
       </p>
@@ -197,48 +194,50 @@ categories: [ 网络社会研究所 ]
     </div>
    </div>
   </div>
-  <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;referrer=https%3A%2F%2Fwww.caa-ins.org%2Farchives%2F2592" style="height: 212px; width: 100%;">
-  </iframe>
+  <figure class="likecoin-embed likecoin-button">
+   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fcaa-ins.org%2Farchives%2F2592" style="height:212px;width: 360px;">
+   </iframe>
+  </figure>
   <div class="sharedaddy sd-sharing-enabled">
    <div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing">
     <h3 class="sd-title">
-     共享此文章：
+     Share this:
     </h3>
     <div class="sd-content">
      <ul>
       <li class="share-facebook">
-       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-2592" href="https://www.caa-ins.org/archives/2592?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="点击以在 Facebook 上共享">
+       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-2592" href="https://caa-ins.org/archives/2592?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击以在 Facebook 上共享（在新窗口中打开）
+         Click to share on Facebook (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-twitter">
-       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-2592" href="https://www.caa-ins.org/archives/2592?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="点击以在 Twitter 上共享">
+       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-2592" href="https://caa-ins.org/archives/2592?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击以在 Twitter 上共享（在新窗口中打开）
+         Click to share on Twitter (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-custom share-custom-">
-       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/2592?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="单击在 新浪微博 上共享">
-        <span style="background-image:url(http://open.weibo.com/favicon.ico)">
+       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/2592?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on 新浪微博">
+        <span style='background-image:url("http://open.weibo.com/favicon.ico");'>
         </span>
         <span class="sharing-screen-reader-text">
-         单击在 新浪微博 上共享（在新窗口中打开）
+         Click to share on 新浪微博 (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-telegram">
-       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/2592?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="点击以在 Telegram 上共享">
+       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/2592?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Telegram">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击以在 Telegram 上共享（在新窗口中打开）
+         Click to share on Telegram (Opens in new window)
         </span>
        </a>
       </li>
@@ -251,13 +250,13 @@ categories: [ 网络社会研究所 ]
  </div>
  <footer class="entry-footer">
   <div class="meta-tags">
-   <a href="https://www.caa-ins.org/archives/tag/aletheia" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/aletheia" rel="tag">
     aletheia
    </a>
-   <a href="https://www.caa-ins.org/archives/tag/%e6%95%99%e8%82%b2" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/%e6%95%99%e8%82%b2" rel="tag">
     教育
    </a>
-   <a href="https://www.caa-ins.org/archives/tag/%e8%af%b8%e4%bc%97%e4%b9%8b%e8%b2%8c" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/%e8%af%b8%e4%bc%97%e4%b9%8b%e8%b2%8c" rel="tag">
     诸众之貌
    </a>
   </div>
