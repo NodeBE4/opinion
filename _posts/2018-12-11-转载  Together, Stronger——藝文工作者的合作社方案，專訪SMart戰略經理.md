@@ -3,7 +3,7 @@ layout: post
 title: "转载 | Together, Stronger——藝文工作者的合作社方案，專訪SMart戰略經理"
 date: 2018-12-11
 author: 网络社会研究所
-from: https://www.caa-ins.org/archives/3283
+from: https://caa-ins.org/archives/3283
 tags: [ 网络社会研究所 ]
 categories: [ 网络社会研究所 ]
 ---
@@ -11,13 +11,13 @@ categories: [ 网络社会研究所 ]
 <article class="vce-single post-3283 post type-post status-publish format-standard has-post-thumbnail hentry category-insreview category-1 tag-pcc tag-89 tag-105" id="post-3283">
  <header class="entry-header">
   <span class="meta-category">
-   <a class="category-79" href="https://www.caa-ins.org/archives/category/ins%ef%b9%8dreview">
+   <a class="category-79" href="https://caa-ins.org/archives/category/ins%ef%b9%8dreview">
     INS REVIEW
    </a>
    <span>
     •
    </span>
-   <a class="category-1" href="https://www.caa-ins.org/archives/category/%e9%bb%91%e5%ae%a2%e6%9d%be">
+   <a class="category-1" href="https://caa-ins.org/archives/category/%e9%bb%91%e5%ae%a2%e6%9d%be">
     黑客松
    </a>
   </span>
@@ -30,9 +30,6 @@ categories: [ 网络社会研究所 ]
      2018-12-11
     </span>
    </div>
-   <div class="meta-item views">
-    365 Views
-   </div>
   </div>
  </header>
  <div class="entry-content">
@@ -42,7 +39,8 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter">
-    <img alt="" class="wp-image-4775" data-attachment-id="4775" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="2018113064946805" data-large-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064946805.jpg?fit=504%2C607&amp;ssl=1" data-medium-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064946805.jpg?fit=249%2C300&amp;ssl=1" data-orig-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064946805.jpg?fit=504%2C607&amp;ssl=1" data-orig-size="504,607" data-permalink="https://www.caa-ins.org/archives/3283/attachment/2018113064946805" data-recalc-dims="1" height="607" loading="lazy" sizes="(max-width: 504px) 100vw, 504px" src="https://i2.wp.com/caa-ins.org/wp-content/uploads/2018/12/2018113064946805.jpg?resize=504%2C607&amp;ssl=1" srcset="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064946805.jpg?w=504&amp;ssl=1 504w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064946805.jpg?resize=249%2C300&amp;ssl=1 249w" width="504">
+    <img alt="" class="wp-image-4775" data-attachment-id="4775" data-comments-opened="0" data-image-caption="&lt;p&gt;2017年台灣行業薪資水準比較表。（作者提供）&lt;/p&gt;
+" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="2018113064946805" data-large-file="https://caa-ins.org/wp-content/uploads/2018/12/2018113064946805.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2018/12/2018113064946805-249x300.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2018/12/2018113064946805.jpg" data-orig-size="504,607" data-permalink="https://caa-ins.org/archives/3283/attachment/2018113064946805" decoding="async" fetchpriority="high" height="607" sizes="(max-width: 504px) 100vw, 504px" src="https://13.124.147.85/wp-content/uploads/2018/12/2018113064946805.jpg" srcset="https://caa-ins.org/wp-content/uploads/2018/12/2018113064946805.jpg 504w, https://caa-ins.org/wp-content/uploads/2018/12/2018113064946805-249x300.jpg 249w" width="504">
      <figcaption>
       2017年台灣行業薪資水準比較表。（作者提供）
      </figcaption>
@@ -57,7 +55,8 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter">
-    <img alt="" class="wp-image-4778" data-attachment-id="4778" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="2018113064931413" data-large-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064931413.jpg?fit=810%2C540&amp;ssl=1" data-medium-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064931413.jpg?fit=300%2C200&amp;ssl=1" data-orig-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064931413.jpg?fit=911%2C607&amp;ssl=1" data-orig-size="911,607" data-permalink="https://www.caa-ins.org/archives/3283/attachment/2018113064931413" data-recalc-dims="1" height="540" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://i1.wp.com/caa-ins.org/wp-content/uploads/2018/12/2018113064931413.jpg?resize=810%2C540&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064931413.jpg?w=911&amp;ssl=1 911w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064931413.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064931413.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064931413.jpg?resize=810%2C540&amp;ssl=1 810w" width="810">
+    <img alt="" class="wp-image-4778" data-attachment-id="4778" data-comments-opened="0" data-image-caption="&lt;p&gt;SMart位於比利時聖吉爾的辦公室。（© SMart）&lt;/p&gt;
+" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="2018113064931413" data-large-file="https://caa-ins.org/wp-content/uploads/2018/12/2018113064931413.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2018/12/2018113064931413-300x200.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2018/12/2018113064931413.jpg" data-orig-size="911,607" data-permalink="https://caa-ins.org/archives/3283/attachment/2018113064931413" decoding="async" height="607" sizes="(max-width: 911px) 100vw, 911px" src="https://13.124.147.85/wp-content/uploads/2018/12/2018113064931413.jpg" srcset="https://caa-ins.org/wp-content/uploads/2018/12/2018113064931413.jpg 911w, https://caa-ins.org/wp-content/uploads/2018/12/2018113064931413-300x200.jpg 300w, https://caa-ins.org/wp-content/uploads/2018/12/2018113064931413-768x512.jpg 768w, https://caa-ins.org/wp-content/uploads/2018/12/2018113064931413-810x540.jpg 810w" width="911">
      <figcaption>
       SMart位於比利時聖吉爾的辦公室。（© SMart）
      </figcaption>
@@ -80,7 +79,7 @@ categories: [ 网络社会研究所 ]
    的開發，透過這些豐富的經驗，黛森掌握數位化對當代藝文工作環境的影響，在倡導更公平的數位經濟同時，代表SMart參與合作平台主義運動。
   </p>
   <figure class="wp-block-image">
-   <img alt="" class="wp-image-4782" data-attachment-id="4782" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="2018113064915661" data-large-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064915661.jpg?fit=607%2C607&amp;ssl=1" data-medium-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064915661.jpg?fit=300%2C300&amp;ssl=1" data-orig-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064915661.jpg?fit=607%2C607&amp;ssl=1" data-orig-size="607,607" data-permalink="https://www.caa-ins.org/archives/3283/attachment/2018113064915661" data-recalc-dims="1" height="607" loading="lazy" sizes="(max-width: 607px) 100vw, 607px" src="https://i1.wp.com/caa-ins.org/wp-content/uploads/2018/12/2018113064915661.jpg?resize=607%2C607&amp;ssl=1" srcset="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064915661.jpg?w=607&amp;ssl=1 607w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064915661.jpg?resize=150%2C150&amp;ssl=1 150w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064915661.jpg?resize=300%2C300&amp;ssl=1 300w" width="607"/>
+   <img alt="" class="wp-image-4782" data-attachment-id="4782" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="2018113064915661" data-large-file="https://caa-ins.org/wp-content/uploads/2018/12/2018113064915661.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2018/12/2018113064915661-300x300.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2018/12/2018113064915661.jpg" data-orig-size="607,607" data-permalink="https://caa-ins.org/archives/3283/attachment/2018113064915661" decoding="async" height="607" sizes="(max-width: 607px) 100vw, 607px" src="https://13.124.147.85/wp-content/uploads/2018/12/2018113064915661.jpg" srcset="https://caa-ins.org/wp-content/uploads/2018/12/2018113064915661.jpg 607w, https://caa-ins.org/wp-content/uploads/2018/12/2018113064915661-150x150.jpg 150w, https://caa-ins.org/wp-content/uploads/2018/12/2018113064915661-300x300.jpg 300w" width="607"/>
    <figcaption>
     SMart戰略經理麗莎．黛森（Lieza Dessein）。（© SMart）
    </figcaption>
@@ -89,7 +88,8 @@ categories: [ 网络社会研究所 ]
    訪談間，黛森向我介紹SMart一路以來的發展。SMart的創立，始於創始人意識到藝術家正面臨越來越複雜的行政和法律環境，當地藝術家不論在發展創意創業、獲取社會保護上都變得更加困難，成立初期，SMart的目標就定位在於透過「互助共生」（mutualization）的方式來解決這些挑戰。創始者決定用共享公司的方式與這些創業者相互組織，組織體制被設計為與他們的成員——「個人創業者」分擔固有的風險。
   </p>
   <figure class="wp-block-image">
-   <img alt="" class="wp-image-4781" data-attachment-id="4781" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="2018113064921645" data-large-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064921645.jpg?fit=810%2C540&amp;ssl=1" data-medium-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064921645.jpg?fit=300%2C200&amp;ssl=1" data-orig-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064921645.jpg?fit=911%2C607&amp;ssl=1" data-orig-size="911,607" data-permalink="https://www.caa-ins.org/archives/3283/attachment/2018113064921645" data-recalc-dims="1" height="540" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://i2.wp.com/caa-ins.org/wp-content/uploads/2018/12/2018113064921645.jpg?resize=810%2C540&amp;ssl=1" srcset="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064921645.jpg?w=911&amp;ssl=1 911w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064921645.jpg?resize=300%2C200&amp;ssl=1 300w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064921645.jpg?resize=768%2C512&amp;ssl=1 768w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064921645.jpg?resize=810%2C540&amp;ssl=1 810w" width="810"/>
+   <img alt="" class="wp-image-4781" data-attachment-id="4781" data-comments-opened="0" data-image-caption="&lt;p&gt;SMart位於比利時聖吉爾的辦公室。（© SMart）&lt;/p&gt;
+" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="2018113064921645" data-large-file="https://caa-ins.org/wp-content/uploads/2018/12/2018113064921645.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2018/12/2018113064921645-300x200.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2018/12/2018113064921645.jpg" data-orig-size="911,607" data-permalink="https://caa-ins.org/archives/3283/attachment/2018113064921645" decoding="async" height="607" loading="lazy" sizes="(max-width: 911px) 100vw, 911px" src="https://13.124.147.85/wp-content/uploads/2018/12/2018113064921645.jpg" srcset="https://caa-ins.org/wp-content/uploads/2018/12/2018113064921645.jpg 911w, https://caa-ins.org/wp-content/uploads/2018/12/2018113064921645-300x200.jpg 300w, https://caa-ins.org/wp-content/uploads/2018/12/2018113064921645-768x512.jpg 768w, https://caa-ins.org/wp-content/uploads/2018/12/2018113064921645-810x540.jpg 810w" width="911"/>
    <figcaption>
     SMart位於比利時聖吉爾的辦公室。（© SMart）
    </figcaption>
@@ -120,12 +120,10 @@ categories: [ 网络社会研究所 ]
   </p>
   <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
    <div class="wp-block-embed__wrapper">
-    <div class="smartideo">
-     <div class="player">
-      <iframe allowfullscreen="true" frameborder="0" height="100%" src="//www.youtube.com/embed/CpKexSz7pYs" width="100%">
-      </iframe>
-     </div>
-    </div>
+    <span class="embed-youtube" style="text-align:center; display: block;">
+     <iframe allowfullscreen="true" class="youtube-player" height="456" loading="lazy" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox" src="https://www.youtube.com/embed/CpKexSz7pYs?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=en-US&amp;autohide=2&amp;wmode=transparent" style="border:0;" width="810">
+     </iframe>
+    </span>
    </div>
   </figure>
   <p>
@@ -149,7 +147,8 @@ categories: [ 网络社会研究所 ]
    3.創新服務：涵括創意中心、全職合約、歐洲發展與政治遊說。
   </p>
   <figure class="wp-block-image">
-   <img alt="" class="wp-image-4776" data-attachment-id="4776" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="2018113064942057" data-large-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064942057.jpg?fit=810%2C540&amp;ssl=1" data-medium-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064942057.jpg?fit=300%2C200&amp;ssl=1" data-orig-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064942057.jpg?fit=911%2C607&amp;ssl=1" data-orig-size="911,607" data-permalink="https://www.caa-ins.org/archives/3283/attachment/2018113064942057" data-recalc-dims="1" height="540" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://i2.wp.com/caa-ins.org/wp-content/uploads/2018/12/2018113064942057.jpg?resize=810%2C540&amp;ssl=1" srcset="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064942057.jpg?w=911&amp;ssl=1 911w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064942057.jpg?resize=300%2C200&amp;ssl=1 300w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064942057.jpg?resize=768%2C512&amp;ssl=1 768w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064942057.jpg?resize=810%2C540&amp;ssl=1 810w" width="810"/>
+   <img alt="" class="wp-image-4776" data-attachment-id="4776" data-comments-opened="0" data-image-caption="&lt;p&gt;SMart位於比利時聖吉爾的辦公室，內部空間規劃可多元利用，這也是「LET’S COOP」舉辦論壇的場地。（© SMart）&lt;/p&gt;
+" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="2018113064942057" data-large-file="https://caa-ins.org/wp-content/uploads/2018/12/2018113064942057.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2018/12/2018113064942057-300x200.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2018/12/2018113064942057.jpg" data-orig-size="911,607" data-permalink="https://caa-ins.org/archives/3283/attachment/2018113064942057" decoding="async" height="607" loading="lazy" sizes="(max-width: 911px) 100vw, 911px" src="https://13.124.147.85/wp-content/uploads/2018/12/2018113064942057.jpg" srcset="https://caa-ins.org/wp-content/uploads/2018/12/2018113064942057.jpg 911w, https://caa-ins.org/wp-content/uploads/2018/12/2018113064942057-300x200.jpg 300w, https://caa-ins.org/wp-content/uploads/2018/12/2018113064942057-768x512.jpg 768w, https://caa-ins.org/wp-content/uploads/2018/12/2018113064942057-810x540.jpg 810w" width="911"/>
    <figcaption>
     SMart位於比利時聖吉爾的辦公室，內部空間規劃可多元利用，這也是「LET’S COOP」舉辦論壇的場地。（© SMart）
    </figcaption>
@@ -167,7 +166,8 @@ categories: [ 网络社会研究所 ]
    <br/>
   </p>
   <figure class="wp-block-image">
-   <img alt="" class="wp-image-4774" data-attachment-id="4774" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="2018113064951913" data-large-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064951913.jpg?fit=810%2C540&amp;ssl=1" data-medium-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064951913.jpg?fit=300%2C200&amp;ssl=1" data-orig-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064951913.jpg?fit=911%2C607&amp;ssl=1" data-orig-size="911,607" data-permalink="https://www.caa-ins.org/archives/3283/attachment/2018113064951913" data-recalc-dims="1" height="540" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://i0.wp.com/caa-ins.org/wp-content/uploads/2018/12/2018113064951913.jpg?resize=810%2C540&amp;ssl=1" srcset="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064951913.jpg?w=911&amp;ssl=1 911w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064951913.jpg?resize=300%2C200&amp;ssl=1 300w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064951913.jpg?resize=768%2C512&amp;ssl=1 768w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064951913.jpg?resize=810%2C540&amp;ssl=1 810w" width="810"/>
+   <img alt="" class="wp-image-4774" data-attachment-id="4774" data-comments-opened="0" data-image-caption="&lt;p&gt;「LET’S COOP」是SMart固定舉辦的活動之一，活動內容包含：圓桌會議、研討會、各種主題的辯論，討論主題包含：合作社、數位經濟、合作平台、共有運動（the movement of Commons）、共同企業內的參與和協作。（© SMart）&lt;/p&gt;
+" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="2018113064951913" data-large-file="https://caa-ins.org/wp-content/uploads/2018/12/2018113064951913.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2018/12/2018113064951913-300x200.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2018/12/2018113064951913.jpg" data-orig-size="911,607" data-permalink="https://caa-ins.org/archives/3283/attachment/2018113064951913" decoding="async" height="607" loading="lazy" sizes="(max-width: 911px) 100vw, 911px" src="https://13.124.147.85/wp-content/uploads/2018/12/2018113064951913.jpg" srcset="https://caa-ins.org/wp-content/uploads/2018/12/2018113064951913.jpg 911w, https://caa-ins.org/wp-content/uploads/2018/12/2018113064951913-300x200.jpg 300w, https://caa-ins.org/wp-content/uploads/2018/12/2018113064951913-768x512.jpg 768w, https://caa-ins.org/wp-content/uploads/2018/12/2018113064951913-810x540.jpg 810w" width="911"/>
    <figcaption>
     「LET’S COOP」是SMart固定舉辦的活動之一，活動內容包含：圓桌會議、研討會、各種主題的辯論，討論主題包含：合作社、數位經濟、合作平台、共有運動（the movement of Commons）、共同企業內的參與和協作。（© SMart）
    </figcaption>
@@ -184,7 +184,8 @@ categories: [ 网络社会研究所 ]
    其中最讓我印象深刻的是，SMart制定了一系列靈活的財務管理政策，替創意工作者處理財務問題，成員們在組織內接案，收入會回到組織。黛森認為他們在處理這類案例上比一般銀行來的輕鬆，「在建立雙方良好關係的前提下，並如果藝術家提出設備上的需求，SMart的評估人員會跟藝術家討論面臨的狀況，並以他的工作狀況來考量這樣的設備支出是否是他所能負擔的，在了解他的需求是合理的情況下，我們會簽一份契約來保障雙方的責任與義務。」而比利時本部的現有成員皆能以員工身分獲得最佳的社會保障，共享公司並以雇主－僱員關係接納我們的每位成員，我們為他們提供了員工般的社會保護。
   </p>
   <figure class="wp-block-image">
-   <img alt="" class="wp-image-4780" data-attachment-id="4780" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="2018113064926537 (1)" data-large-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064926537-1.jpg?fit=810%2C540&amp;ssl=1" data-medium-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064926537-1.jpg?fit=300%2C200&amp;ssl=1" data-orig-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064926537-1.jpg?fit=911%2C607&amp;ssl=1" data-orig-size="911,607" data-permalink="https://www.caa-ins.org/archives/3283/2018113064926537-1" data-recalc-dims="1" height="540" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://i0.wp.com/caa-ins.org/wp-content/uploads/2018/12/2018113064926537-1.jpg?resize=810%2C540&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064926537-1.jpg?w=911&amp;ssl=1 911w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064926537-1.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064926537-1.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064926537-1.jpg?resize=810%2C540&amp;ssl=1 810w" width="810"/>
+   <img alt="" class="wp-image-4780" data-attachment-id="4780" data-comments-opened="0" data-image-caption="&lt;p&gt;「LET’S COOP」是SMart固定舉辦的活動之一，活動內容包含：圓桌會議、研討會、各種主題的辯論，討論主題包含：合作社、數位經濟、合作平台、共有運動（the movement of Commons）、共同企業內的參與和協作。（© SMart）&lt;/p&gt;
+" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="2018113064926537 (1)" data-large-file="https://caa-ins.org/wp-content/uploads/2018/12/2018113064926537-1.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2018/12/2018113064926537-1-300x200.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2018/12/2018113064926537-1.jpg" data-orig-size="911,607" data-permalink="https://caa-ins.org/archives/3283/2018113064926537-1" decoding="async" height="607" loading="lazy" sizes="(max-width: 911px) 100vw, 911px" src="https://13.124.147.85/wp-content/uploads/2018/12/2018113064926537-1.jpg" srcset="https://caa-ins.org/wp-content/uploads/2018/12/2018113064926537-1.jpg 911w, https://caa-ins.org/wp-content/uploads/2018/12/2018113064926537-1-300x200.jpg 300w, https://caa-ins.org/wp-content/uploads/2018/12/2018113064926537-1-768x512.jpg 768w, https://caa-ins.org/wp-content/uploads/2018/12/2018113064926537-1-810x540.jpg 810w" width="911"/>
    <figcaption>
     「LET’S COOP」是SMart固定舉辦的活動之一，活動內容包含：圓桌會議、研討會、各種主題的辯論，討論主題包含：合作社、數位經濟、合作平台、共有運動（the movement of Commons）、共同企業內的參與和協作。（© SMart）
    </figcaption>
@@ -198,7 +199,8 @@ categories: [ 网络社会研究所 ]
    近年，SMart更拓展了他們的創新服務，他們在比利時管理好幾個空間，黛森認為大多數成員在SMart的發展中有機地成長。在過去十年中，他們在創意樞紐（creative hubs）發展了更完整的管理專業知識，並將這些專業知識應用於「LaVallée」，這間佔地5,000平方公尺的布魯塞爾洗衣廠，起初是希望滿足藝術家們總需要一個能夠將工作與生活空間區隔開來，一個能夠喝咖啡，與其他藝術文化工作者交流的空間。在發展過程中，LaVallée建立出一套新的營運機制，與一般的共同工作空間（co-working space）不同，「我們所有駐村居民都有自己的個人空間（我們不採用共用工作桌或是小時計費的解決方案）， 所有這些人都有一份不需煩惱的完整使用權（full time）合約，這很重要，因為這些空間的目的是在使用者之間建立關係，而這是需要時間慢慢積累的。」
   </p>
   <figure class="wp-block-image">
-   <img alt="" class="wp-image-4777" data-attachment-id="4777" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="2018113064936693" data-large-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064936693.jpg?fit=810%2C540&amp;ssl=1" data-medium-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064936693.jpg?fit=300%2C200&amp;ssl=1" data-orig-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064936693.jpg?fit=911%2C607&amp;ssl=1" data-orig-size="911,607" data-permalink="https://www.caa-ins.org/archives/3283/attachment/2018113064936693" data-recalc-dims="1" height="540" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://i0.wp.com/caa-ins.org/wp-content/uploads/2018/12/2018113064936693.jpg?resize=810%2C540&amp;ssl=1" srcset="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064936693.jpg?w=911&amp;ssl=1 911w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064936693.jpg?resize=300%2C200&amp;ssl=1 300w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064936693.jpg?resize=768%2C512&amp;ssl=1 768w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064936693.jpg?resize=810%2C540&amp;ssl=1 810w" width="810"/>
+   <img alt="" class="wp-image-4777" data-attachment-id="4777" data-comments-opened="0" data-image-caption="&lt;p&gt;SMart在這些空間也經常舉辦共同活動，讓成員們有機會互相交流。（© SMart）&lt;/p&gt;
+" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="2018113064936693" data-large-file="https://caa-ins.org/wp-content/uploads/2018/12/2018113064936693.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2018/12/2018113064936693-300x200.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2018/12/2018113064936693.jpg" data-orig-size="911,607" data-permalink="https://caa-ins.org/archives/3283/attachment/2018113064936693" decoding="async" height="607" loading="lazy" sizes="(max-width: 911px) 100vw, 911px" src="https://13.124.147.85/wp-content/uploads/2018/12/2018113064936693.jpg" srcset="https://caa-ins.org/wp-content/uploads/2018/12/2018113064936693.jpg 911w, https://caa-ins.org/wp-content/uploads/2018/12/2018113064936693-300x200.jpg 300w, https://caa-ins.org/wp-content/uploads/2018/12/2018113064936693-768x512.jpg 768w, https://caa-ins.org/wp-content/uploads/2018/12/2018113064936693-810x540.jpg 810w" width="911"/>
    <figcaption>
     SMart在這些空間也經常舉辦共同活動，讓成員們有機會互相交流。（© SMart）
    </figcaption>
@@ -212,55 +214,58 @@ categories: [ 网络社会研究所 ]
    多數當代藝術作品都在探討社會現況所產生的問題，是時候該回頭關心自身勞動條件了。知名的社會運動與女權運動者羅莎・施奈德曼（Rose Schneiderman）有段廣為人知的口號，那是她在1912年在克里夫蘭的一個小房間內鼓勵上百名女性勞工組織起來時所發表的言論：「工人們必須擁有麵包，但同時她們也該擁有玫瑰」，如果麵包是薪資給我們帶來的購買力，玫瑰就該是擁有合理工作時間之餘，讓我們能夠擁有自由時間去過上自己想要的人生。這段話意在呼籲人們除了每隔幾年向政治人物投下選票以外，我們可以有其他選擇，透過自治找到通向共享經濟的鑰匙，或許礙於社會現實狀態的差異，我們暫時無法一步到位，但透過理解一個成功的案例，或許更能開啟我們奪回所有權的想像力與實踐力。
   </p>
   <figure class="wp-block-image">
-   <img alt="" class="wp-image-4773" data-attachment-id="4773" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="2018113064956833" data-large-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064956833.jpg?fit=810%2C540&amp;ssl=1" data-medium-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064956833.jpg?fit=300%2C200&amp;ssl=1" data-orig-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064956833.jpg?fit=911%2C607&amp;ssl=1" data-orig-size="911,607" data-permalink="https://www.caa-ins.org/archives/3283/attachment/2018113064956833" data-recalc-dims="1" height="540" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://i1.wp.com/caa-ins.org/wp-content/uploads/2018/12/2018113064956833.jpg?resize=810%2C540&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064956833.jpg?w=911&amp;ssl=1 911w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064956833.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064956833.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/12/2018113064956833.jpg?resize=810%2C540&amp;ssl=1 810w" width="810"/>
+   <img alt="" class="wp-image-4773" data-attachment-id="4773" data-comments-opened="0" data-image-caption="&lt;p&gt;SMart辦公室的外牆是由多國藝術家以各自的語言塗鴉聯合完成。（© SMart）&lt;/p&gt;
+" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="2018113064956833" data-large-file="https://caa-ins.org/wp-content/uploads/2018/12/2018113064956833.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2018/12/2018113064956833-300x200.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2018/12/2018113064956833.jpg" data-orig-size="911,607" data-permalink="https://caa-ins.org/archives/3283/attachment/2018113064956833" decoding="async" height="607" loading="lazy" sizes="(max-width: 911px) 100vw, 911px" src="https://13.124.147.85/wp-content/uploads/2018/12/2018113064956833.jpg" srcset="https://caa-ins.org/wp-content/uploads/2018/12/2018113064956833.jpg 911w, https://caa-ins.org/wp-content/uploads/2018/12/2018113064956833-300x200.jpg 300w, https://caa-ins.org/wp-content/uploads/2018/12/2018113064956833-768x512.jpg 768w, https://caa-ins.org/wp-content/uploads/2018/12/2018113064956833-810x540.jpg 810w" width="911"/>
    <figcaption>
     SMart辦公室的外牆是由多國藝術家以各自的語言塗鴉聯合完成。（© SMart）
    </figcaption>
   </figure>
   <p>
   </p>
-  <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;referrer=https%3A%2F%2Fwww.caa-ins.org%2Farchives%2F3283" style="height: 212px; width: 100%;">
-  </iframe>
+  <figure class="likecoin-embed likecoin-button">
+   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fcaa-ins.org%2Farchives%2F3283" style="height:212px;width: 360px;">
+   </iframe>
+  </figure>
   <div class="sharedaddy sd-sharing-enabled">
    <div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing">
     <h3 class="sd-title">
-     共享此文章：
+     Share this:
     </h3>
     <div class="sd-content">
      <ul>
       <li class="share-facebook">
-       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-3283" href="https://www.caa-ins.org/archives/3283?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="点击以在 Facebook 上共享">
+       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-3283" href="https://caa-ins.org/archives/3283?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击以在 Facebook 上共享（在新窗口中打开）
+         Click to share on Facebook (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-twitter">
-       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-3283" href="https://www.caa-ins.org/archives/3283?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="点击以在 Twitter 上共享">
+       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-3283" href="https://caa-ins.org/archives/3283?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击以在 Twitter 上共享（在新窗口中打开）
+         Click to share on Twitter (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-custom share-custom-">
-       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/3283?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="单击在 新浪微博 上共享">
-        <span style="background-image:url(http://open.weibo.com/favicon.ico)">
+       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/3283?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on 新浪微博">
+        <span style='background-image:url("http://open.weibo.com/favicon.ico");'>
         </span>
         <span class="sharing-screen-reader-text">
-         单击在 新浪微博 上共享（在新窗口中打开）
+         Click to share on 新浪微博 (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-telegram">
-       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/3283?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="点击以在 Telegram 上共享">
+       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/3283?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Telegram">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击以在 Telegram 上共享（在新窗口中打开）
+         Click to share on Telegram (Opens in new window)
         </span>
        </a>
       </li>
@@ -273,13 +278,13 @@ categories: [ 网络社会研究所 ]
  </div>
  <footer class="entry-footer">
   <div class="meta-tags">
-   <a href="https://www.caa-ins.org/archives/tag/pcc" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/pcc" rel="tag">
     pcc
    </a>
-   <a href="https://www.caa-ins.org/archives/tag/%e5%90%88%e4%bd%9c%e7%a4%be" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/%e5%90%88%e4%bd%9c%e7%a4%be" rel="tag">
     合作社
    </a>
-   <a href="https://www.caa-ins.org/archives/tag/%e5%b9%b3%e5%8f%b0%e5%90%88%e4%bd%9c%e4%b8%bb%e4%b9%89" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/%e5%b9%b3%e5%8f%b0%e5%90%88%e4%bd%9c%e4%b8%bb%e4%b9%89" rel="tag">
     平台合作主义
    </a>
   </div>

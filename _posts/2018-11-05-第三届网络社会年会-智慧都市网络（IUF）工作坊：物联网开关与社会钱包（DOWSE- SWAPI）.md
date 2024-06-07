@@ -3,7 +3,7 @@ layout: post
 title: "第三届网络社会年会-智慧都市网络（IUF）工作坊：物联网开关与社会钱包（DOWSE- SWAPI）"
 date: 2018-11-05
 author: 网络社会研究所
-from: https://www.caa-ins.org/archives/3031
+from: https://caa-ins.org/archives/3031
 tags: [ 网络社会研究所 ]
 categories: [ 网络社会研究所 ]
 ---
@@ -11,13 +11,13 @@ categories: [ 网络社会研究所 ]
 <article class="vce-single post-3031 post type-post status-publish format-standard has-post-thumbnail hentry category-3 category-1 tag-dyne tag-federico-bonelli tag-jaromil tag-25" id="post-3031">
  <header class="entry-header">
   <span class="meta-category">
-   <a class="category-3" href="https://www.caa-ins.org/archives/category/%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a">
+   <a class="category-3" href="https://caa-ins.org/archives/category/%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a">
     网络社会年会
    </a>
    <span>
     •
    </span>
-   <a class="category-1" href="https://www.caa-ins.org/archives/category/%e9%bb%91%e5%ae%a2%e6%9d%be">
+   <a class="category-1" href="https://caa-ins.org/archives/category/%e9%bb%91%e5%ae%a2%e6%9d%be">
     黑客松
    </a>
   </span>
@@ -29,9 +29,6 @@ categories: [ 网络社会研究所 ]
     <span class="updated">
      2018-11-05
     </span>
-   </div>
-   <div class="meta-item views">
-    952 Views
    </div>
   </div>
  </header>
@@ -53,16 +50,13 @@ categories: [ 网络社会研究所 ]
   <p>
   </p>
   <p>
-   <img alt="" class="size-large wp-image-3032 aligncenter" data-attachment-id="3032" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="屏幕快照 2018-11-01 下午6.07.25" data-large-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/11/屏幕快照-2018-11-01-下午6.07.25.png?fit=810%2C257&amp;ssl=1" data-medium-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/11/屏幕快照-2018-11-01-下午6.07.25.png?fit=300%2C95&amp;ssl=1" data-orig-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/11/屏幕快照-2018-11-01-下午6.07.25.png?fit=2088%2C662&amp;ssl=1" data-orig-size="2088,662" data-permalink="https://www.caa-ins.org/archives/3031/%e5%b1%8f%e5%b9%95%e5%bf%ab%e7%85%a7-2018-11-01-%e4%b8%8b%e5%8d%886-07-25" data-recalc-dims="1" height="257" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://i1.wp.com/caa-ins.org/wp-content/uploads/2018/11/屏幕快照-2018-11-01-下午6.07.25-1024x325.png?resize=810%2C257&amp;ssl=1" srcset="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/11/屏幕快照-2018-11-01-下午6.07.25.png?resize=1024%2C325&amp;ssl=1 1024w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/11/屏幕快照-2018-11-01-下午6.07.25.png?resize=300%2C95&amp;ssl=1 300w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/11/屏幕快照-2018-11-01-下午6.07.25.png?resize=768%2C243&amp;ssl=1 768w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/11/屏幕快照-2018-11-01-下午6.07.25.png?resize=810%2C257&amp;ssl=1 810w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/11/屏幕快照-2018-11-01-下午6.07.25.png?resize=1140%2C361&amp;ssl=1 1140w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/11/屏幕快照-2018-11-01-下午6.07.25.png?w=1620&amp;ssl=1 1620w" width="810"/>
+   <img alt="" class="size-large wp-image-3032 aligncenter" data-attachment-id="3032" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="屏幕快照 2018-11-01 下午6.07.25" data-large-file="https://caa-ins.org/wp-content/uploads/2018/11/屏幕快照-2018-11-01-下午6.07.25-1024x325.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2018/11/屏幕快照-2018-11-01-下午6.07.25-300x95.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2018/11/屏幕快照-2018-11-01-下午6.07.25.png" data-orig-size="2088,662" data-permalink="https://caa-ins.org/archives/3031/%e5%b1%8f%e5%b9%95%e5%bf%ab%e7%85%a7-2018-11-01-%e4%b8%8b%e5%8d%886-07-25" decoding="async" fetchpriority="high" height="257" sizes="(max-width: 810px) 100vw, 810px" src="https://13.124.147.85/wp-content/uploads/2018/11/屏幕快照-2018-11-01-下午6.07.25-1024x325.png" srcset="https://caa-ins.org/wp-content/uploads/2018/11/屏幕快照-2018-11-01-下午6.07.25-1024x325.png 1024w, https://caa-ins.org/wp-content/uploads/2018/11/屏幕快照-2018-11-01-下午6.07.25-300x95.png 300w, https://caa-ins.org/wp-content/uploads/2018/11/屏幕快照-2018-11-01-下午6.07.25-768x243.png 768w, https://caa-ins.org/wp-content/uploads/2018/11/屏幕快照-2018-11-01-下午6.07.25-810x257.png 810w, https://caa-ins.org/wp-content/uploads/2018/11/屏幕快照-2018-11-01-下午6.07.25-1140x361.png 1140w" width="810"/>
   </p>
   <p>
   </p>
   <p>
    <strong>
-    <span class="mks_dropcap_letter" style="font-size: 52px; color: #dd3333; ">
-     组
-    </span>
-    织者： Dyne.org
+    [mks_dropcap style=”letter” size=”52″ bg_color=”#ffffff” txt_color=”#dd3333″]组[/mks_dropcap]织者： Dyne.org
    </strong>
    <br/>
    罗布·范·克拉内堡（Rob van Kranenburg）、亚罗米尔（Jaromil）、弗里德里克·波利尼（Federico Bonelli ）、阿斯帕西娅·本尼迪（Aspasia Beneti ）
@@ -97,20 +91,20 @@ categories: [ 网络社会研究所 ]
    <br/>
    Room 405, Building 4, China Academy of Art, Nanshan Camps, 218 NanShan Road,Hangzhou
   </p>
-  <div class="smartideo">
-   <div class="player">
-    <iframe allowfullscreen="true" frameborder="0" height="100%" src="//www.youtube.com/embed/sqm7_3Ee7XI" width="100%">
+  <p>
+   <span class="embed-youtube" style="text-align:center; display: block;">
+    <iframe allowfullscreen="true" class="youtube-player" height="456" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox" src="https://www.youtube.com/embed/sqm7_3Ee7XI?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=en-US&amp;autohide=2&amp;wmode=transparent" style="border:0;" width="810">
     </iframe>
-   </div>
-  </div>
+   </span>
+  </p>
   <p>
   </p>
-  <div class="smartideo">
-   <div class="player">
-    <iframe allowfullscreen="true" frameborder="0" height="100%" src="//www.youtube.com/embed/s8R8Fj-lv-c" width="100%">
+  <p>
+   <span class="embed-youtube" style="text-align:center; display: block;">
+    <iframe allowfullscreen="true" class="youtube-player" height="456" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox" src="https://www.youtube.com/embed/s8R8Fj-lv-c?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=en-US&amp;autohide=2&amp;wmode=transparent" style="border:0;" width="810">
     </iframe>
-   </div>
-  </div>
+   </span>
+  </p>
   <h3>
   </h3>
   <h2>
@@ -168,7 +162,7 @@ categories: [ 网络社会研究所 ]
   <p>
   </p>
   <p>
-   <img alt="" class="alignleft" data-recalc-dims="1" height="224" loading="lazy" src="https://i0.wp.com/culturelab.tw/wp-content/uploads/2018/11/螢幕快照-2018-11-05-下午7.15.40-e1541417019353.png?resize=162%2C224&amp;ssl=1" width="162"/>
+   <img alt="" class="alignleft" decoding="async" height="224" loading="lazy" src="http://culturelab.tw/wp-content/uploads/2018/11/螢幕快照-2018-11-05-下午7.15.40-e1541417019353.png" width="162"/>
   </p>
   <p>
    互联网开关工作坊大约以一天的时间（实际安排以大会最后决定议程为主）让与会者透过 DOWSE 开放硬体设定、探索与反映私人网段讯息、共享资源、网路觉察等讯息。Dyne 的艺术家与黑客会引导大家制作自己的 DOWSE 盒子，持续关注那些你想要追踪的周遭讯息。
@@ -221,7 +215,7 @@ categories: [ 网络社会研究所 ]
    不是的，我们当前的处境并非由两股相对势力混合而成的媒介状态，而是由一组遵守幂定律的三角多项式构筑而成。我们永远都处在三重的辩证世界，而非二元对立的拉扯。
   </p>
   <p>
-   <img alt="" class="aligncenter" data-recalc-dims="1" height="874" loading="lazy" src="https://i1.wp.com/culturelab.tw/wp-content/uploads/2018/11/螢幕快照-2018-11-05-下午7.15.56.png?resize=652%2C874&amp;ssl=1" width="652"/>
+   <img alt="" class="aligncenter" decoding="async" height="874" loading="lazy" src="http://culturelab.tw/wp-content/uploads/2018/11/螢幕快照-2018-11-05-下午7.15.56.png" width="652"/>
   </p>
   <p>
   </p>
@@ -243,264 +237,266 @@ categories: [ 网络社会研究所 ]
   </p>
   <p>
    “Dowsing is a type of divination employed in attempts to locate ground water, buried metals or ores, gemstones, oil, grave sites, and many other objects and materials without the use of scientific apparatus.Dowsing is considered a pseudoscience, and there is no scientific evidence that it is any more effective than random chance. Dowsing is also known as divining, doodle bugging or (when searching specifically for water) water finding, water witching (in the United States) or water dowsing.”   [Webster Dictionary]
-   <p>
-    We want to visualise/perform a setting in which people resonate with media through simulating processes. Simulating processes that are actual processes, for in a digitised real, any process might become experiential, might resonate. In such a digitised real, a hybrid reality in which our analogue bodies and digital processing fuse into each other, any data might become information; that is: data to which we relate, resonate.
-   </p>
-   <p>
-    If we manage to win back common sense conflict management in everyday life as well as agency over energy (p2p, solar, blockchained, see
-    <a href="https://www.dajie.eu">
-     https://www.dajie.eu
-    </a>
-    ) over connectivity (see
-    <a href="https://twitter.com/thethingsntwrk">
-     @thethingsntwrk
-    </a>
-    ) over the Local Area Network (see
-    <a href="http://dowse.eu">
-     http://dowse.eu
-    </a>
-    ), over identity (decodeproject.eu DECODE OS) over a free messaging service keeping all data in a local server (a robot dressed as a tortoise crouching up and down the street) over forms of swapping value in payments (all kinds of #crypto and
-    <a href="https://freecoin.dyne.org">
-     https://freecoin.dyne.org
-    </a>
-    ) over forms of creating new relationships and potential for growing these (@Trasformatorio), well if we can do all that we can build a real good balance between our corporeal identities and intelligences and virtual capabilities.
-   </p>
-   <p>
-    In time, in time, we will no doubt grow along and inside each other but we must walk up to that carefully and gently, along the byways, scratching our hands in the bushes as we brush them.
-   </p>
-   <p>
-    Any other path leads to oblivion of our souls and must be resisted.
-   </p>
-   <p>
-   </p>
-   <h3 style="text-align: center;">
-    First part: Digital Megatrends: Internet of Things
-   </h3>
-   <p>
-   </p>
-   <p>
-    The current Cyber security paradigm is broken. Cyberattacks cost for example UK businesses £18 billion in lost revenue and £16 billion in increased IT spending per year as a result of these hacks. It is clear that this simple fact demonstrates that all stakeholders in the industry benefit from the current situation.
-   </p>
-   <p>
-    Internet of Things is in its essence the seamless flow between the
-   </p>
-   <ul>
-    <li>
-     BAN (body area network): the ambient hearing aide, the smart t-shirt
-    </li>
-    <li>
-     LAN (local area network): the smart meter as a home interface
-    </li>
-    <li>
-     WAN (wide area network): Telematics, ITS, Connected Car
-    </li>
-    <li>
-     VWAN (very wide area network): the smart city as e-gov services everywhere no longer tied to physical locations
-    </li>
-   </ul>
-   <p>
-    Whoever ensures traceability, sustainability and security linking up the gateways (Fog and Cloud) is able to offer the best possible feedback on physical and mental health, the best possible household decisions based on real time monitoring for resource allocation, the best possible decision making based on real time data and information from open sources and the best possible alignments of local energy providers with the global potential of wider communities. Google, for example- is rolling out Glass and Lens, the Google Power meter and NEST, the Car and automotive, open data initiatives, and cultural hegemony through google.org We want to argue that these gateways, the platform and the ‚app’ or service store model should be in public hands.
-   </p>
-   <p>
-    We have to take the entire system to a new level.
-   </p>
-   <p>
-    How?
-   </p>
-   <h3 style="text-align: center;">
-    Hands On one: Dowse the net
-   </h3>
-   <p>
-   </p>
-   <p>
-    In DOWSE workshop we propose building blocks with a general methodology, designing for dowse.
-   </p>
-   <p>
-    Dowse, Network Sensing AKA: the ON-OFF switch for the Internet of Things
-   </p>
-   <p>
-    The router is increasingly identified as a key weak spot. Dowse takes over just after the connection to the internet is made (modem function) and offers end-users full awareness on network level. You can be aware of flows, you can block them if necessary. And you can switch off the internet in case of malfunction. Plus a simple way to program behaviours in your networked vicinity to translate this awareness to your own mental map. Personalised awareness, expansion of coscience and (maybe) peace.
-   </p>
-   <p>
-    DOWSE is open source and open hardware device that you can setup on a low cost computer board (as a raspberry-pi).
-    <br/>
-    It is easy to set up dowse in your network, it configures in a breeze.
-   </p>
-   <p>
-    Between other tasks will will speed the home network up, eliminating malware and unwanted advertising. Moreover allows you to be invisible, if you want so, and aware of all your devices activities in a glimpse. Phones, tablets, computer applications or other electronic things “calling home”; fridge and shoes included will pop up on your DOWSE radar and you can decide to switch them off.
-   </p>
-   <p>
-    SET DOWSE IN YOUR HOME, so you can sense and switch off any unwonted network communication and block it.
-   </p>
-   <p>
-    PS: DOWSE IS GREAT FOR MAKERS: allows you to practice the art of “dowsing the net” wile you create your own smart meters, your responsive environments or objects. Talks Websockets and OSC and interfaces with anything, allowing you to create the interface you want.
-   </p>
-   <p>
-    THE DOWSE WORKSHOP is a day dedicated to set up, explore and reflect on the notion of private network, shared resources, net awareness through dowse. You will be guided by dyne.org hackers and artists in making your own dowse box to bring home and in inventing ways to bring to your attention events interfacing with it.
-   </p>
-   <h1>
-   </h1>
-   <h3 style="text-align: center;">
-    SOME TECH INFO ABOUT THIS WORKSHOP:
-   </h3>
-   <p>
-    WHAT SHOULD YOU BRING: your laptop of choice if you like, your dev platform, and anything physical: arduino stuff, midi osc enabled controllers, touch pads, motors, plants or lamps and other mumbo-jumbo and creative ideas alike. Level of workshop is ANY. All served, from the uber-geek to the beginner alike.
-   </p>
-   <p>
-    END OF THE DAY:
-   </p>
-   <p>
-    You will be introduced to Dowse, you will know more about co-design methodologies of
+  </p>
+  <p>
+   We want to visualise/perform a setting in which people resonate with media through simulating processes. Simulating processes that are actual processes, for in a digitised real, any process might become experiential, might resonate. In such a digitised real, a hybrid reality in which our analogue bodies and digital processing fuse into each other, any data might become information; that is: data to which we relate, resonate.
+  </p>
+  <p>
+   If we manage to win back common sense conflict management in everyday life as well as agency over energy (p2p, solar, blockchained, see
+   <a href="https://www.dajie.eu">
+    https://www.dajie.eu
+   </a>
+   ) over connectivity (see
+   <a href="https://twitter.com/thethingsntwrk">
+    @thethingsntwrk
+   </a>
+   ) over the Local Area Network (see
+   <a href="http://dowse.eu">
+    http://dowse.eu
+   </a>
+   ), over identity (decodeproject.eu DECODE OS) over a free messaging service keeping all data in a local server (a robot dressed as a tortoise crouching up and down the street) over forms of swapping value in payments (all kinds of #crypto and
+   <a href="https://freecoin.dyne.org">
+    https://freecoin.dyne.org
+   </a>
+   ) over forms of creating new relationships and potential for growing these (@Trasformatorio), well if we can do all that we can build a real good balance between our corporeal identities and intelligences and virtual capabilities.
+  </p>
+  <p>
+   In time, in time, we will no doubt grow along and inside each other but we must walk up to that carefully and gently, along the byways, scratching our hands in the bushes as we brush them.
+  </p>
+  <p>
+   Any other path leads to oblivion of our souls and must be resisted.
+  </p>
+  <p>
+  </p>
+  <h3 style="text-align: center;">
+   First part: Digital Megatrends: Internet of Things
+  </h3>
+  <p>
+  </p>
+  <p>
+   The current Cyber security paradigm is broken. Cyberattacks cost for example UK businesses £18 billion in lost revenue and £16 billion in increased IT spending per year as a result of these hacks. It is clear that this simple fact demonstrates that all stakeholders in the industry benefit from the current situation.
+  </p>
+  <p>
+   Internet of Things is in its essence the seamless flow between the
+  </p>
+  <ul>
+   <li>
+    BAN (body area network): the ambient hearing aide, the smart t-shirt
+   </li>
+   <li>
+    LAN (local area network): the smart meter as a home interface
+   </li>
+   <li>
+    WAN (wide area network): Telematics, ITS, Connected Car
+   </li>
+   <li>
+    VWAN (very wide area network): the smart city as e-gov services everywhere no longer tied to physical locations
+   </li>
+  </ul>
+  <p>
+   Whoever ensures traceability, sustainability and security linking up the gateways (Fog and Cloud) is able to offer the best possible feedback on physical and mental health, the best possible household decisions based on real time monitoring for resource allocation, the best possible decision making based on real time data and information from open sources and the best possible alignments of local energy providers with the global potential of wider communities. Google, for example- is rolling out Glass and Lens, the Google Power meter and NEST, the Car and automotive, open data initiatives, and cultural hegemony through google.org We want to argue that these gateways, the platform and the ‚app’ or service store model should be in public hands.
+  </p>
+  <p>
+   We have to take the entire system to a new level.
+  </p>
+  <p>
+   How?
+  </p>
+  <h3 style="text-align: center;">
+   Hands On one: Dowse the net
+  </h3>
+  <p>
+  </p>
+  <p>
+   In DOWSE workshop we propose building blocks with a general methodology, designing for dowse.
+  </p>
+  <p>
+   Dowse, Network Sensing AKA: the ON-OFF switch for the Internet of Things
+  </p>
+  <p>
+   The router is increasingly identified as a key weak spot. Dowse takes over just after the connection to the internet is made (modem function) and offers end-users full awareness on network level. You can be aware of flows, you can block them if necessary. And you can switch off the internet in case of malfunction. Plus a simple way to program behaviours in your networked vicinity to translate this awareness to your own mental map. Personalised awareness, expansion of coscience and (maybe) peace.
+  </p>
+  <p>
+   DOWSE is open source and open hardware device that you can setup on a low cost computer board (as a raspberry-pi).
+   <br/>
+   It is easy to set up dowse in your network, it configures in a breeze.
+  </p>
+  <p>
+   Between other tasks will will speed the home network up, eliminating malware and unwanted advertising. Moreover allows you to be invisible, if you want so, and aware of all your devices activities in a glimpse. Phones, tablets, computer applications or other electronic things “calling home”; fridge and shoes included will pop up on your DOWSE radar and you can decide to switch them off.
+  </p>
+  <p>
+   SET DOWSE IN YOUR HOME, so you can sense and switch off any unwonted network communication and block it.
+  </p>
+  <p>
+   PS: DOWSE IS GREAT FOR MAKERS: allows you to practice the art of “dowsing the net” wile you create your own smart meters, your responsive environments or objects. Talks Websockets and OSC and interfaces with anything, allowing you to create the interface you want.
+  </p>
+  <p>
+   THE DOWSE WORKSHOP is a day dedicated to set up, explore and reflect on the notion of private network, shared resources, net awareness through dowse. You will be guided by dyne.org hackers and artists in making your own dowse box to bring home and in inventing ways to bring to your attention events interfacing with it.
+  </p>
+  <h1>
+  </h1>
+  <h3 style="text-align: center;">
+   SOME TECH INFO ABOUT THIS WORKSHOP:
+  </h3>
+  <p>
+   WHAT SHOULD YOU BRING: your laptop of choice if you like, your dev platform, and anything physical: arduino stuff, midi osc enabled controllers, touch pads, motors, plants or lamps and other mumbo-jumbo and creative ideas alike. Level of workshop is ANY. All served, from the uber-geek to the beginner alike.
+  </p>
+  <p>
+   END OF THE DAY:
+  </p>
+  <p>
+   You will be introduced to Dowse, you will know more about co-design methodologies of
+   <a href="http://dyne.org">
+    dyne.org
+   </a>
+   , you will have an idea, maybe two and a small project to realise in your spare time…
+  </p>
+  <p>
+   DOWSE is developed by dyne.org, your favourite free-software Think&amp;do Tank
+  </p>
+  <p>
+   more info:
+   <br/>
+   <a href="http://www.dowse.eu/">
+    www.dowse.eu
+   </a>
+   <br/>
+   <a href="http://www.dyne.org/">
+    www.dyne.org
+   </a>
+  </p>
+  <p>
+   Hands On Two: identity and Social Wallet
+  </p>
+  <p>
+   Another approach to questions raised by #IoT passes through radical observation exercises and speculative design. This speculative design approach is based on various principles: unix philosophy (flow of information between small tools doing one thing well versus big complex tools), the open world assumption and her almost metaphysical consequences, complex dynamics and chaos theory, radical observation and some assumptions on the fluidity of basic concepts that have been intended monolithically since: identity, personal property, money.
+  </p>
+  <p>
+   We argument that different structure, more useful, can be assembled with these elements enlighten (or darkened) by current technology.
+  </p>
+  <p>
+   This workshop consist in two parts: in the first one a introduction to the complex interaction of the situation is introduced through a table game. In the second some of the ideas appeared are co-designed into possible MVP using free software and Dyne toolkit.
+  </p>
+  <p>
+   Tools that are part of Dyne’s own toolkit of software and speculative design methodologies:
+  </p>
+  <ol>
+   <li>
+    Zenroom’s restricted execution environment: is a sort of sandbox whose parser is based on LUA’s syntax-direct translation engine and has coarse-grained control of computations and memory. The Zenroom VM it is designed to “brittle” and exit execution returning a meaningful messages on any error occurred. Zenroom’s documentation and examples are being written to encourage a declarative approach to scripting, treating even complex data structures as first-class citizens. (Jaromil,
     <a href="http://dyne.org">
-     dyne.org
+     org
     </a>
-    , you will have an idea, maybe two and a small project to realise in your spare time…
-   </p>
-   <p>
-    DOWSE is developed by dyne.org, your favourite free-software Think&amp;do Tank
-   </p>
-   <p>
-    more info:
-    <br/>
-    <a href="http://www.dowse.eu/">
-     www.dowse.eu
+    )
+   </li>
+   <li>
+    SWAPI Social Wallet API, create, run and model within a wallet your complementary currency. The social Wallet toolkit is a collection of open source software components that can be used to create custom and configurable wallets that are backed by a database and can connect to multiple blockchains. The wallet toolkit is useful for any company, organisation or community that wants to adopt a complementary currency, experiment with reward schemes or needs a wallet to connect to an existing cryptocurrency wallet. The software is flexible and adaptable and can be adjusted to specific requirements. (Aspasia “aspra” Beneti, Lead developet SWAPI,
+    <a href="http://dyne.org">
+     org
     </a>
-    <br/>
-    <a href="http://www.dyne.org/">
-     www.dyne.org
+    )
+   </li>
+   <li>
+    TRASFORMATOR analysis: Transformation occurs when the rise of complexity is welcomed. This means there is agency. Trauma occurs when the rise of complexity is un-welcomed. This means there is no agency, only ‘exposure’. The trasformatorio methodology stimulates and evaluates the circulation of creative knowledge – into a sustainable innovation ecosystem through which artists and technologists, share knowledge to: (1) realise sustainable design; (2) initiate and promote local bottom-up initiatives; (3) operate effectively in remote areas; (4) involving local communities. (Federico “fredd” Bonelli,
+    <a href="http://dyne.org">
+     org
     </a>
-   </p>
-   <p>
-    Hands On Two: identity and Social Wallet
-   </p>
-   <p>
-    Another approach to questions raised by #IoT passes through radical observation exercises and speculative design. This speculative design approach is based on various principles: unix philosophy (flow of information between small tools doing one thing well versus big complex tools), the open world assumption and her almost metaphysical consequences, complex dynamics and chaos theory, radical observation and some assumptions on the fluidity of basic concepts that have been intended monolithically since: identity, personal property, money.
-   </p>
-   <p>
-    We argument that different structure, more useful, can be assembled with these elements enlighten (or darkened) by current technology.
-   </p>
-   <p>
-    This workshop consist in two parts: in the first one a introduction to the complex interaction of the situation is introduced through a table game. In the second some of the ideas appeared are co-designed into possible MVP using free software and Dyne toolkit.
-   </p>
-   <p>
-    Tools that are part of Dyne’s own toolkit of software and speculative design methodologies:
-   </p>
-   <ol>
-    <li>
-     Zenroom’s restricted execution environment: is a sort of sandbox whose parser is based on LUA’s syntax-direct translation engine and has coarse-grained control of computations and memory. The Zenroom VM it is designed to “brittle” and exit execution returning a meaningful messages on any error occurred. Zenroom’s documentation and examples are being written to encourage a declarative approach to scripting, treating even complex data structures as first-class citizens. (Jaromil,
-     <a href="http://dyne.org">
-      org
-     </a>
-     )
-    </li>
-    <li>
-     SWAPI Social Wallet API, create, run and model within a wallet your complementary currency. The social Wallet toolkit is a collection of open source software components that can be used to create custom and configurable wallets that are backed by a database and can connect to multiple blockchains. The wallet toolkit is useful for any company, organisation or community that wants to adopt a complementary currency, experiment with reward schemes or needs a wallet to connect to an existing cryptocurrency wallet. The software is flexible and adaptable and can be adjusted to specific requirements. (Aspasia “aspra” Beneti, Lead developet SWAPI,
-     <a href="http://dyne.org">
-      org
-     </a>
-     )
-    </li>
-    <li>
-     TRASFORMATOR analysis: Transformation occurs when the rise of complexity is welcomed. This means there is agency. Trauma occurs when the rise of complexity is un-welcomed. This means there is no agency, only ‘exposure’. The trasformatorio methodology stimulates and evaluates the circulation of creative knowledge – into a sustainable innovation ecosystem through which artists and technologists, share knowledge to: (1) realise sustainable design; (2) initiate and promote local bottom-up initiatives; (3) operate effectively in remote areas; (4) involving local communities. (Federico “fredd” Bonelli,
-     <a href="http://dyne.org">
-      org
-     </a>
-     )
-    </li>
-    <li>
-     Anything we cannot handle locally: Stafford Beer called this an algedonic signal. These can be handled one level up each time.We have to make sure we are present at any level. Let us assume these will scale alongside the current blocs. We thus have to be in the architectures of a 500 million zone called Europe. The world itself – as our world – is just another set of protocols tuned to its ultimate goal of providing a joyful existence to humans, animals, plants and machines.
-    </li>
-   </ol>
-   <p>
-    No, the situation is not a hybrid between opposing forces but a triangular concept. Not a mediation but a power law.
-   </p>
-   <p>
-    We are always in three worlds, not two.
-   </p>
-   <p>
-    <a href="#_ftnref1" name="_ftn1">
-     <sup>
-      [1]
-     </sup>
-    </a>
-    Date: Mon, 28 Nov 2005 15:56:41 -0500 Subject: The Zapatistas: A New Strategy
-   </p>
-   <p>
-    http://www.infoshop.org/inews/article.php?story 051119000316439 From Red &amp;Black Revolution 10 – 2005 – online soon
-   </p>
-   <p>
-    <a href="#_ftnref2" name="_ftn2">
-     <sup>
-      [2]
-     </sup>
-    </a>
-    Fanfare for effective freedom cybernetic praxis in government. by Stafford Beer Published 1973 by The Polytechnic in Brighton
-   </p>
-   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;referrer=https%3A%2F%2Fwww.caa-ins.org%2Farchives%2F3031" style="height: 212px; width: 100%;">
+    )
+   </li>
+   <li>
+    Anything we cannot handle locally: Stafford Beer called this an algedonic signal. These can be handled one level up each time.We have to make sure we are present at any level. Let us assume these will scale alongside the current blocs. We thus have to be in the architectures of a 500 million zone called Europe. The world itself – as our world – is just another set of protocols tuned to its ultimate goal of providing a joyful existence to humans, animals, plants and machines.
+   </li>
+  </ol>
+  <p>
+   No, the situation is not a hybrid between opposing forces but a triangular concept. Not a mediation but a power law.
+  </p>
+  <p>
+   We are always in three worlds, not two.
+  </p>
+  <p>
+   <a href="#_ftnref1" name="_ftn1">
+    <sup>
+     [1]
+    </sup>
+   </a>
+   Date: Mon, 28 Nov 2005 15:56:41 -0500 Subject: The Zapatistas: A New Strategy
+  </p>
+  <p>
+   http://www.infoshop.org/inews/article.php?story 051119000316439 From Red &amp;Black Revolution 10 – 2005 – online soon
+  </p>
+  <p>
+   <a href="#_ftnref2" name="_ftn2">
+    <sup>
+     [2]
+    </sup>
+   </a>
+   Fanfare for effective freedom cybernetic praxis in government. by Stafford Beer Published 1973 by The Polytechnic in Brighton
+  </p>
+  <figure class="likecoin-embed likecoin-button">
+   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fcaa-ins.org%2Farchives%2F3031" style="height:212px;width: 360px;">
    </iframe>
-   <div class="sharedaddy sd-sharing-enabled">
-    <div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing">
-     <h3 class="sd-title">
-      共享此文章：
-     </h3>
-     <div class="sd-content">
-      <ul>
-       <li class="share-facebook">
-        <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-3031" href="https://www.caa-ins.org/archives/3031?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="点击以在 Facebook 上共享">
-         <span>
-         </span>
-         <span class="sharing-screen-reader-text">
-          点击以在 Facebook 上共享（在新窗口中打开）
-         </span>
-        </a>
-       </li>
-       <li class="share-twitter">
-        <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-3031" href="https://www.caa-ins.org/archives/3031?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="点击以在 Twitter 上共享">
-         <span>
-         </span>
-         <span class="sharing-screen-reader-text">
-          点击以在 Twitter 上共享（在新窗口中打开）
-         </span>
-        </a>
-       </li>
-       <li class="share-custom share-custom-">
-        <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/3031?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="单击在 新浪微博 上共享">
-         <span style="background-image:url(http://open.weibo.com/favicon.ico)">
-         </span>
-         <span class="sharing-screen-reader-text">
-          单击在 新浪微博 上共享（在新窗口中打开）
-         </span>
-        </a>
-       </li>
-       <li class="share-telegram">
-        <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/3031?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="点击以在 Telegram 上共享">
-         <span>
-         </span>
-         <span class="sharing-screen-reader-text">
-          点击以在 Telegram 上共享（在新窗口中打开）
-         </span>
-        </a>
-       </li>
-       <li class="share-end">
-       </li>
-      </ul>
-     </div>
+  </figure>
+  <div class="sharedaddy sd-sharing-enabled">
+   <div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing">
+    <h3 class="sd-title">
+     Share this:
+    </h3>
+    <div class="sd-content">
+     <ul>
+      <li class="share-facebook">
+       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-3031" href="https://caa-ins.org/archives/3031?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook">
+        <span>
+        </span>
+        <span class="sharing-screen-reader-text">
+         Click to share on Facebook (Opens in new window)
+        </span>
+       </a>
+      </li>
+      <li class="share-twitter">
+       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-3031" href="https://caa-ins.org/archives/3031?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter">
+        <span>
+        </span>
+        <span class="sharing-screen-reader-text">
+         Click to share on Twitter (Opens in new window)
+        </span>
+       </a>
+      </li>
+      <li class="share-custom share-custom-">
+       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/3031?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on 新浪微博">
+        <span style='background-image:url("http://open.weibo.com/favicon.ico");'>
+        </span>
+        <span class="sharing-screen-reader-text">
+         Click to share on 新浪微博 (Opens in new window)
+        </span>
+       </a>
+      </li>
+      <li class="share-telegram">
+       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/3031?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Telegram">
+        <span>
+        </span>
+        <span class="sharing-screen-reader-text">
+         Click to share on Telegram (Opens in new window)
+        </span>
+       </a>
+      </li>
+      <li class="share-end">
+      </li>
+     </ul>
     </div>
    </div>
-  </p>
+  </div>
  </div>
  <footer class="entry-footer">
   <div class="meta-tags">
-   <a href="https://www.caa-ins.org/archives/tag/dyne" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/dyne" rel="tag">
     Dyne
    </a>
-   <a href="https://www.caa-ins.org/archives/tag/federico-bonelli" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/federico-bonelli" rel="tag">
     Federico Bonelli
    </a>
-   <a href="https://www.caa-ins.org/archives/tag/jaromil" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/jaromil" rel="tag">
     Jaromil
    </a>
-   <a href="https://www.caa-ins.org/archives/tag/%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a" rel="tag">
     网络社会年会
    </a>
   </div>
