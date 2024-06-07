@@ -3,7 +3,7 @@ layout: post
 title: "Feeling empowered——合作松2第一天"
 date: 2018-09-27
 author: 网络社会研究所
-from: https://www.caa-ins.org/archives/2872
+from: https://caa-ins.org/archives/2872
 tags: [ 网络社会研究所 ]
 categories: [ 网络社会研究所 ]
 ---
@@ -11,7 +11,7 @@ categories: [ 网络社会研究所 ]
 <article class="vce-single post-2872 post type-post status-publish format-standard has-post-thumbnail hentry category-1" id="post-2872">
  <header class="entry-header">
   <span class="meta-category">
-   <a class="category-1" href="https://www.caa-ins.org/archives/category/%e9%bb%91%e5%ae%a2%e6%9d%be">
+   <a class="category-1" href="https://caa-ins.org/archives/category/%e9%bb%91%e5%ae%a2%e6%9d%be">
     黑客松
    </a>
   </span>
@@ -23,9 +23,6 @@ categories: [ 网络社会研究所 ]
     <span class="updated">
      2018-09-27
     </span>
-   </div>
-   <div class="meta-item views">
-    1,157 Views
    </div>
   </div>
  </header>
@@ -66,7 +63,7 @@ categories: [ 网络社会研究所 ]
    </span>
    <span class="s2">
     2”&lt;fn&gt;“
-    <a href="http://caa-ins.org/archives/896">
+    <a href="https://13.124.147.85/archives/896">
      为了合作社的编码——合作松1
     </a>
     ” 于2016年12月11-12日在上海虹桥天地裸心社举行。&lt;/fn&gt;
@@ -76,7 +73,7 @@ categories: [ 网络社会研究所 ]
    </span>
   </p>
   <p>
-   <img alt="" class="alignnone size-large wp-image-2885" data-attachment-id="2885" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="NY2A5777-1140×679" data-large-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5777-1140x679.jpg?fit=810%2C483&amp;ssl=1" data-medium-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5777-1140x679.jpg?fit=300%2C179&amp;ssl=1" data-orig-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5777-1140x679.jpg?fit=1140%2C679&amp;ssl=1" data-orig-size="1140,679" data-permalink="https://www.caa-ins.org/archives/2872/ny2a5777-1140x679" data-recalc-dims="1" height="483" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://i0.wp.com/caa-ins.org/wp-content/uploads/2018/09/NY2A5777-1140x679-1024x610.jpg?resize=810%2C483&amp;ssl=1" srcset="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5777-1140x679.jpg?resize=1024%2C610&amp;ssl=1 1024w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5777-1140x679.jpg?resize=300%2C179&amp;ssl=1 300w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5777-1140x679.jpg?resize=768%2C457&amp;ssl=1 768w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5777-1140x679.jpg?resize=810%2C482&amp;ssl=1 810w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5777-1140x679.jpg?resize=1140%2C679&amp;ssl=1 1140w" width="810"/>
+   <img alt="" class="alignnone size-large wp-image-2885" data-attachment-id="2885" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="NY2A5777-1140×679" data-large-file="https://caa-ins.org/wp-content/uploads/2018/09/NY2A5777-1140x679-1024x610.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2018/09/NY2A5777-1140x679-300x179.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2018/09/NY2A5777-1140x679.jpg" data-orig-size="1140,679" data-permalink="https://caa-ins.org/archives/2872/ny2a5777-1140x679" decoding="async" fetchpriority="high" height="483" sizes="(max-width: 810px) 100vw, 810px" src="https://13.124.147.85/wp-content/uploads/2018/09/NY2A5777-1140x679-1024x610.jpg" srcset="https://caa-ins.org/wp-content/uploads/2018/09/NY2A5777-1140x679-1024x610.jpg 1024w, https://caa-ins.org/wp-content/uploads/2018/09/NY2A5777-1140x679-300x179.jpg 300w, https://caa-ins.org/wp-content/uploads/2018/09/NY2A5777-1140x679-768x457.jpg 768w, https://caa-ins.org/wp-content/uploads/2018/09/NY2A5777-1140x679-810x482.jpg 810w, https://caa-ins.org/wp-content/uploads/2018/09/NY2A5777-1140x679.jpg 1140w" width="810"/>
   </p>
   <p>
    <span class="s2">
@@ -159,7 +156,8 @@ categories: [ 网络社会研究所 ]
    </span>
   </p>
   <div class="wp-caption alignnone" id="attachment_2879" style="width: 820px">
-   <img alt="" aria-describedby="caption-attachment-2879" class="size-large wp-image-2879" data-attachment-id="2879" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="NY2A5311-1140×632" data-large-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5311-1140x632.jpg?fit=810%2C449&amp;ssl=1" data-medium-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5311-1140x632.jpg?fit=300%2C166&amp;ssl=1" data-orig-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5311-1140x632.jpg?fit=1140%2C632&amp;ssl=1" data-orig-size="1140,632" data-permalink="https://www.caa-ins.org/archives/2872/ny2a5311-1140x632" data-recalc-dims="1" height="449" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://i0.wp.com/caa-ins.org/wp-content/uploads/2018/09/NY2A5311-1140x632-1024x568.jpg?resize=810%2C449&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5311-1140x632.jpg?resize=1024%2C568&amp;ssl=1 1024w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5311-1140x632.jpg?resize=300%2C166&amp;ssl=1 300w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5311-1140x632.jpg?resize=768%2C426&amp;ssl=1 768w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5311-1140x632.jpg?resize=810%2C449&amp;ssl=1 810w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5311-1140x632.jpg?resize=1140%2C632&amp;ssl=1 1140w" width="810">
+   <img alt="" aria-describedby="caption-attachment-2879" class="size-large wp-image-2879" data-attachment-id="2879" data-comments-opened="0" data-image-caption="&lt;p&gt;行前见面会&lt;/p&gt;
+" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="NY2A5311-1140×632" data-large-file="https://caa-ins.org/wp-content/uploads/2018/09/NY2A5311-1140x632-1024x568.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2018/09/NY2A5311-1140x632-300x166.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2018/09/NY2A5311-1140x632.jpg" data-orig-size="1140,632" data-permalink="https://caa-ins.org/archives/2872/ny2a5311-1140x632" decoding="async" height="449" sizes="(max-width: 810px) 100vw, 810px" src="https://13.124.147.85/wp-content/uploads/2018/09/NY2A5311-1140x632-1024x568.jpg" srcset="https://caa-ins.org/wp-content/uploads/2018/09/NY2A5311-1140x632-1024x568.jpg 1024w, https://caa-ins.org/wp-content/uploads/2018/09/NY2A5311-1140x632-300x166.jpg 300w, https://caa-ins.org/wp-content/uploads/2018/09/NY2A5311-1140x632-768x426.jpg 768w, https://caa-ins.org/wp-content/uploads/2018/09/NY2A5311-1140x632-810x449.jpg 810w, https://caa-ins.org/wp-content/uploads/2018/09/NY2A5311-1140x632.jpg 1140w" width="810">
     <p class="wp-caption-text" id="caption-attachment-2879">
      行前见面会
     </p>
@@ -268,7 +266,8 @@ categories: [ 网络社会研究所 ]
    </span>
   </p>
   <div class="wp-caption alignnone" id="attachment_2883" style="width: 820px">
-   <img alt="" aria-describedby="caption-attachment-2883" class="size-large wp-image-2883" data-attachment-id="2883" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="NY2A5553-1140×633" data-large-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5553-1140x633.jpg?fit=810%2C450&amp;ssl=1" data-medium-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5553-1140x633.jpg?fit=300%2C167&amp;ssl=1" data-orig-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5553-1140x633.jpg?fit=1140%2C633&amp;ssl=1" data-orig-size="1140,633" data-permalink="https://www.caa-ins.org/archives/2872/ny2a5553-1140x633" data-recalc-dims="1" height="450" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://i0.wp.com/caa-ins.org/wp-content/uploads/2018/09/NY2A5553-1140x633-1024x569.jpg?resize=810%2C450&amp;ssl=1" srcset="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5553-1140x633.jpg?resize=1024%2C569&amp;ssl=1 1024w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5553-1140x633.jpg?resize=300%2C167&amp;ssl=1 300w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5553-1140x633.jpg?resize=768%2C426&amp;ssl=1 768w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5553-1140x633.jpg?resize=810%2C450&amp;ssl=1 810w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5553-1140x633.jpg?resize=1140%2C633&amp;ssl=1 1140w" width="810"/>
+   <img alt="" aria-describedby="caption-attachment-2883" class="size-large wp-image-2883" data-attachment-id="2883" data-comments-opened="0" data-image-caption="&lt;p&gt;吴柏旻主持提案环节&lt;/p&gt;
+" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="NY2A5553-1140×633" data-large-file="https://caa-ins.org/wp-content/uploads/2018/09/NY2A5553-1140x633-1024x569.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2018/09/NY2A5553-1140x633-300x167.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2018/09/NY2A5553-1140x633.jpg" data-orig-size="1140,633" data-permalink="https://caa-ins.org/archives/2872/ny2a5553-1140x633" decoding="async" height="450" sizes="(max-width: 810px) 100vw, 810px" src="https://13.124.147.85/wp-content/uploads/2018/09/NY2A5553-1140x633-1024x569.jpg" srcset="https://caa-ins.org/wp-content/uploads/2018/09/NY2A5553-1140x633-1024x569.jpg 1024w, https://caa-ins.org/wp-content/uploads/2018/09/NY2A5553-1140x633-300x167.jpg 300w, https://caa-ins.org/wp-content/uploads/2018/09/NY2A5553-1140x633-768x426.jpg 768w, https://caa-ins.org/wp-content/uploads/2018/09/NY2A5553-1140x633-810x450.jpg 810w, https://caa-ins.org/wp-content/uploads/2018/09/NY2A5553-1140x633.jpg 1140w" width="810"/>
    <p class="wp-caption-text" id="caption-attachment-2883">
     吴柏旻主持提案环节
    </p>
@@ -381,7 +380,8 @@ categories: [ 网络社会研究所 ]
    </span>
   </p>
   <div class="wp-caption alignnone" id="attachment_2884" style="width: 820px">
-   <img alt="" aria-describedby="caption-attachment-2884" class="size-large wp-image-2884" data-attachment-id="2884" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="NY2A5578-1140×760" data-large-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5578-1140x760.jpg?fit=810%2C540&amp;ssl=1" data-medium-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5578-1140x760.jpg?fit=300%2C200&amp;ssl=1" data-orig-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5578-1140x760.jpg?fit=1140%2C760&amp;ssl=1" data-orig-size="1140,760" data-permalink="https://www.caa-ins.org/archives/2872/ny2a5578-1140x760" data-recalc-dims="1" height="540" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://i0.wp.com/caa-ins.org/wp-content/uploads/2018/09/NY2A5578-1140x760-1024x683.jpg?resize=810%2C540&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5578-1140x760.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5578-1140x760.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5578-1140x760.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5578-1140x760.jpg?resize=810%2C540&amp;ssl=1 810w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5578-1140x760.jpg?resize=1140%2C760&amp;ssl=1 1140w" width="810"/>
+   <img alt="" aria-describedby="caption-attachment-2884" class="size-large wp-image-2884" data-attachment-id="2884" data-comments-opened="0" data-image-caption="&lt;p&gt;成都生活家社区合作社代表李丹（左）与王翠菱（右）&lt;/p&gt;
+" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="NY2A5578-1140×760" data-large-file="https://caa-ins.org/wp-content/uploads/2018/09/NY2A5578-1140x760-1024x683.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2018/09/NY2A5578-1140x760-300x200.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2018/09/NY2A5578-1140x760.jpg" data-orig-size="1140,760" data-permalink="https://caa-ins.org/archives/2872/ny2a5578-1140x760" decoding="async" height="540" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://13.124.147.85/wp-content/uploads/2018/09/NY2A5578-1140x760-1024x683.jpg" srcset="https://caa-ins.org/wp-content/uploads/2018/09/NY2A5578-1140x760-1024x683.jpg 1024w, https://caa-ins.org/wp-content/uploads/2018/09/NY2A5578-1140x760-300x200.jpg 300w, https://caa-ins.org/wp-content/uploads/2018/09/NY2A5578-1140x760-768x512.jpg 768w, https://caa-ins.org/wp-content/uploads/2018/09/NY2A5578-1140x760-810x540.jpg 810w, https://caa-ins.org/wp-content/uploads/2018/09/NY2A5578-1140x760.jpg 1140w" width="810"/>
    <p class="wp-caption-text" id="caption-attachment-2884">
     成都生活家社区合作社代表李丹（左）与王翠菱（右）
    </p>
@@ -410,7 +410,8 @@ categories: [ 网络社会研究所 ]
    </span>
   </p>
   <div class="wp-caption alignnone" id="attachment_2881" style="width: 820px">
-   <img alt="" aria-describedby="caption-attachment-2881" class="size-large wp-image-2881" data-attachment-id="2881" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="NY2A5537-1140×818" data-large-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5537-1140x818.jpg?fit=810%2C581&amp;ssl=1" data-medium-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5537-1140x818.jpg?fit=300%2C215&amp;ssl=1" data-orig-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5537-1140x818.jpg?fit=1140%2C818&amp;ssl=1" data-orig-size="1140,818" data-permalink="https://www.caa-ins.org/archives/2872/ny2a5537-1140x818" data-recalc-dims="1" height="581" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://i0.wp.com/caa-ins.org/wp-content/uploads/2018/09/NY2A5537-1140x818-1024x735.jpg?resize=810%2C581&amp;ssl=1" srcset="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5537-1140x818.jpg?resize=1024%2C735&amp;ssl=1 1024w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5537-1140x818.jpg?resize=300%2C215&amp;ssl=1 300w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5537-1140x818.jpg?resize=768%2C551&amp;ssl=1 768w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5537-1140x818.jpg?resize=810%2C581&amp;ssl=1 810w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5537-1140x818.jpg?resize=1140%2C818&amp;ssl=1 1140w" width="810"/>
+   <img alt="" aria-describedby="caption-attachment-2881" class="size-large wp-image-2881" data-attachment-id="2881" data-comments-opened="0" data-image-caption="&lt;p&gt;Danyl Strype（图左）、崔灿文、朱焕杰、David Brooks（图右）&lt;/p&gt;
+" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="NY2A5537-1140×818" data-large-file="https://caa-ins.org/wp-content/uploads/2018/09/NY2A5537-1140x818-1024x735.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2018/09/NY2A5537-1140x818-300x215.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2018/09/NY2A5537-1140x818.jpg" data-orig-size="1140,818" data-permalink="https://caa-ins.org/archives/2872/ny2a5537-1140x818" decoding="async" height="581" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://13.124.147.85/wp-content/uploads/2018/09/NY2A5537-1140x818-1024x735.jpg" srcset="https://caa-ins.org/wp-content/uploads/2018/09/NY2A5537-1140x818-1024x735.jpg 1024w, https://caa-ins.org/wp-content/uploads/2018/09/NY2A5537-1140x818-300x215.jpg 300w, https://caa-ins.org/wp-content/uploads/2018/09/NY2A5537-1140x818-768x551.jpg 768w, https://caa-ins.org/wp-content/uploads/2018/09/NY2A5537-1140x818-810x581.jpg 810w, https://caa-ins.org/wp-content/uploads/2018/09/NY2A5537-1140x818.jpg 1140w" width="810"/>
    <p class="wp-caption-text" id="caption-attachment-2881">
     Danyl Strype（图左）、许灿文、朱焕杰、David Brooks（图右）
    </p>
@@ -442,7 +443,8 @@ categories: [ 网络社会研究所 ]
    </span>
   </p>
   <div class="wp-caption alignnone" id="attachment_2880" style="width: 820px">
-   <img alt="" aria-describedby="caption-attachment-2880" class="size-large wp-image-2880" data-attachment-id="2880" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="NY2A5475-1140×653" data-large-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5475-1140x653.jpg?fit=810%2C464&amp;ssl=1" data-medium-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5475-1140x653.jpg?fit=300%2C172&amp;ssl=1" data-orig-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5475-1140x653.jpg?fit=1140%2C653&amp;ssl=1" data-orig-size="1140,653" data-permalink="https://www.caa-ins.org/archives/2872/ny2a5475-1140x653" data-recalc-dims="1" height="464" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://i1.wp.com/caa-ins.org/wp-content/uploads/2018/09/NY2A5475-1140x653-1024x587.jpg?resize=810%2C464&amp;ssl=1" srcset="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5475-1140x653.jpg?resize=1024%2C587&amp;ssl=1 1024w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5475-1140x653.jpg?resize=300%2C172&amp;ssl=1 300w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5475-1140x653.jpg?resize=768%2C440&amp;ssl=1 768w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5475-1140x653.jpg?resize=810%2C464&amp;ssl=1 810w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/NY2A5475-1140x653.jpg?resize=1140%2C653&amp;ssl=1 1140w" width="810"/>
+   <img alt="" aria-describedby="caption-attachment-2880" class="size-large wp-image-2880" data-attachment-id="2880" data-comments-opened="0" data-image-caption="&lt;p&gt;穿蓝色衬衫的是来自纽约Co-lab的Danny Spitzberg&lt;/p&gt;
+" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="NY2A5475-1140×653" data-large-file="https://caa-ins.org/wp-content/uploads/2018/09/NY2A5475-1140x653-1024x587.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2018/09/NY2A5475-1140x653-300x172.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2018/09/NY2A5475-1140x653.jpg" data-orig-size="1140,653" data-permalink="https://caa-ins.org/archives/2872/ny2a5475-1140x653" decoding="async" height="464" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://13.124.147.85/wp-content/uploads/2018/09/NY2A5475-1140x653-1024x587.jpg" srcset="https://caa-ins.org/wp-content/uploads/2018/09/NY2A5475-1140x653-1024x587.jpg 1024w, https://caa-ins.org/wp-content/uploads/2018/09/NY2A5475-1140x653-300x172.jpg 300w, https://caa-ins.org/wp-content/uploads/2018/09/NY2A5475-1140x653-768x440.jpg 768w, https://caa-ins.org/wp-content/uploads/2018/09/NY2A5475-1140x653-810x464.jpg 810w, https://caa-ins.org/wp-content/uploads/2018/09/NY2A5475-1140x653.jpg 1140w" width="810"/>
    <p class="wp-caption-text" id="caption-attachment-2880">
     穿蓝色衬衫的是来自纽约Co-lab的Danny Spitzberg
    </p>
@@ -501,7 +503,7 @@ categories: [ 网络社会研究所 ]
    </span>
   </p>
   <p>
-   <img alt="" class="alignnone size-large wp-image-2888" data-attachment-id="2888" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="评分标准" data-large-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/评分标准-.jpg?fit=810%2C674&amp;ssl=1" data-medium-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/评分标准-.jpg?fit=300%2C250&amp;ssl=1" data-orig-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/评分标准-.jpg?fit=1140%2C949&amp;ssl=1" data-orig-size="1140,949" data-permalink="https://www.caa-ins.org/archives/2872/%e8%af%84%e5%88%86%e6%a0%87%e5%87%86" data-recalc-dims="1" height="674" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://i0.wp.com/caa-ins.org/wp-content/uploads/2018/09/评分标准--1024x852.jpg?resize=810%2C674&amp;ssl=1" srcset="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/评分标准-.jpg?resize=1024%2C852&amp;ssl=1 1024w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/评分标准-.jpg?resize=300%2C250&amp;ssl=1 300w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/评分标准-.jpg?resize=768%2C639&amp;ssl=1 768w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/评分标准-.jpg?resize=810%2C674&amp;ssl=1 810w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/评分标准-.jpg?w=1140&amp;ssl=1 1140w" width="810"/>
+   <img alt="" class="alignnone size-large wp-image-2888" data-attachment-id="2888" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="评分标准" data-large-file="https://caa-ins.org/wp-content/uploads/2018/09/评分标准--1024x852.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2018/09/评分标准--300x250.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2018/09/评分标准-.jpg" data-orig-size="1140,949" data-permalink="https://caa-ins.org/archives/2872/%e8%af%84%e5%88%86%e6%a0%87%e5%87%86" decoding="async" height="674" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://13.124.147.85/wp-content/uploads/2018/09/评分标准--1024x852.jpg" srcset="https://caa-ins.org/wp-content/uploads/2018/09/评分标准--1024x852.jpg 1024w, https://caa-ins.org/wp-content/uploads/2018/09/评分标准--300x250.jpg 300w, https://caa-ins.org/wp-content/uploads/2018/09/评分标准--768x639.jpg 768w, https://caa-ins.org/wp-content/uploads/2018/09/评分标准--810x674.jpg 810w, https://caa-ins.org/wp-content/uploads/2018/09/评分标准-.jpg 1140w" width="810"/>
   </p>
   <hr/>
   <p>
@@ -534,7 +536,8 @@ categories: [ 网络社会研究所 ]
    </span>
   </p>
   <div class="wp-caption alignnone" id="attachment_2878" style="width: 820px">
-   <img alt="" aria-describedby="caption-attachment-2878" class="size-large wp-image-2878" data-attachment-id="2878" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="IMG_1932-1140×855" data-large-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/IMG_1932-1140x855.jpg?fit=810%2C608&amp;ssl=1" data-medium-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/IMG_1932-1140x855.jpg?fit=300%2C225&amp;ssl=1" data-orig-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/IMG_1932-1140x855.jpg?fit=1140%2C855&amp;ssl=1" data-orig-size="1140,855" data-permalink="https://www.caa-ins.org/archives/2872/img_1932-1140x855" data-recalc-dims="1" height="608" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://i2.wp.com/caa-ins.org/wp-content/uploads/2018/09/IMG_1932-1140x855-1024x768.jpg?resize=810%2C608&amp;ssl=1" srcset="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/IMG_1932-1140x855.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/IMG_1932-1140x855.jpg?resize=300%2C225&amp;ssl=1 300w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/IMG_1932-1140x855.jpg?resize=768%2C576&amp;ssl=1 768w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/IMG_1932-1140x855.jpg?resize=810%2C608&amp;ssl=1 810w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2018/09/IMG_1932-1140x855.jpg?resize=1140%2C855&amp;ssl=1 1140w" width="810"/>
+   <img alt="" aria-describedby="caption-attachment-2878" class="size-large wp-image-2878" data-attachment-id="2878" data-comments-opened="0" data-image-caption="&lt;p&gt;《合作社介绍手册》与《平台点合作》&lt;/p&gt;
+" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="IMG_1932-1140×855" data-large-file="https://caa-ins.org/wp-content/uploads/2018/09/IMG_1932-1140x855-1024x768.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2018/09/IMG_1932-1140x855-300x225.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2018/09/IMG_1932-1140x855.jpg" data-orig-size="1140,855" data-permalink="https://caa-ins.org/archives/2872/img_1932-1140x855" decoding="async" height="608" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://13.124.147.85/wp-content/uploads/2018/09/IMG_1932-1140x855-1024x768.jpg" srcset="https://caa-ins.org/wp-content/uploads/2018/09/IMG_1932-1140x855-1024x768.jpg 1024w, https://caa-ins.org/wp-content/uploads/2018/09/IMG_1932-1140x855-300x225.jpg 300w, https://caa-ins.org/wp-content/uploads/2018/09/IMG_1932-1140x855-768x576.jpg 768w, https://caa-ins.org/wp-content/uploads/2018/09/IMG_1932-1140x855-810x608.jpg 810w, https://caa-ins.org/wp-content/uploads/2018/09/IMG_1932-1140x855.jpg 1140w" width="810"/>
    <p class="wp-caption-text" id="caption-attachment-2878">
     《合作社介绍手册》与《平台点合作》
    </p>
@@ -542,48 +545,50 @@ categories: [ 网络社会研究所 ]
   <p>
    ​
   </p>
-  <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;referrer=https%3A%2F%2Fwww.caa-ins.org%2Farchives%2F2872" style="height: 212px; width: 100%;">
-  </iframe>
+  <figure class="likecoin-embed likecoin-button">
+   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fcaa-ins.org%2Farchives%2F2872" style="height:212px;width: 360px;">
+   </iframe>
+  </figure>
   <div class="sharedaddy sd-sharing-enabled">
    <div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing">
     <h3 class="sd-title">
-     共享此文章：
+     Share this:
     </h3>
     <div class="sd-content">
      <ul>
       <li class="share-facebook">
-       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-2872" href="https://www.caa-ins.org/archives/2872?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="点击以在 Facebook 上共享">
+       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-2872" href="https://caa-ins.org/archives/2872?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击以在 Facebook 上共享（在新窗口中打开）
+         Click to share on Facebook (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-twitter">
-       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-2872" href="https://www.caa-ins.org/archives/2872?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="点击以在 Twitter 上共享">
+       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-2872" href="https://caa-ins.org/archives/2872?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击以在 Twitter 上共享（在新窗口中打开）
+         Click to share on Twitter (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-custom share-custom-">
-       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/2872?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="单击在 新浪微博 上共享">
-        <span style="background-image:url(http://open.weibo.com/favicon.ico)">
+       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/2872?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on 新浪微博">
+        <span style='background-image:url("http://open.weibo.com/favicon.ico");'>
         </span>
         <span class="sharing-screen-reader-text">
-         单击在 新浪微博 上共享（在新窗口中打开）
+         Click to share on 新浪微博 (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-telegram">
-       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/2872?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="点击以在 Telegram 上共享">
+       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/2872?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Telegram">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击以在 Telegram 上共享（在新窗口中打开）
+         Click to share on Telegram (Opens in new window)
         </span>
        </a>
       </li>
