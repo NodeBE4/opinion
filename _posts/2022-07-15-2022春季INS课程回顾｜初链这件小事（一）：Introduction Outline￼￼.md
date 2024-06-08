@@ -3,15 +3,21 @@ layout: post
 title: "2022春季INS课程回顾｜初链这件小事（一）：Introduction Outline￼￼"
 date: 2022-07-15
 author: 网络社会研究所
-from: https://www.caa-ins.org/archives/9053
+from: https://caa-ins.org/archives/9053
 tags: [ 网络社会研究所 ]
 categories: [ 网络社会研究所 ]
 ---
 
-<article class="vce-single post-9053 post type-post status-publish format-standard has-post-thumbnail hentry category-4 tag-276 tag-326" id="post-9053">
+<article class="vce-single post-9053 post type-post status-publish format-standard has-post-thumbnail hentry category-coop category-4 tag-276 tag-326" id="post-9053">
  <header class="entry-header">
   <span class="meta-category">
-   <a class="category-4" href="https://www.caa-ins.org/archives/category/%e5%9b%bd%e9%99%85%e8%ae%b2%e5%ba%a7">
+   <a class="category-312" href="https://caa-ins.org/archives/category/coop">
+    COOP
+   </a>
+   <span>
+    •
+   </span>
+   <a class="category-4" href="https://caa-ins.org/archives/category/%e5%9b%bd%e9%99%85%e8%ae%b2%e5%ba%a7">
     国际讲座
    </a>
   </span>
@@ -23,9 +29,6 @@ categories: [ 网络社会研究所 ]
     <span class="updated">
      2022-07-15
     </span>
-   </div>
-   <div class="meta-item views">
-    8 Views
    </div>
   </div>
  </header>
@@ -63,7 +66,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <p>
   </p>
-  <h4 class="has-vce-cat-230-color has-text-color has-large-font-size">
+  <h4 class="has-vce-cat-230-color has-text-color has-large-font-size wp-block-heading">
    专题一 基础工具和知识的回顾与掌握
   </h4>
   <ul class="has-normal-font-size">
@@ -82,14 +85,14 @@ categories: [ 网络社会研究所 ]
   </ul>
   <div class="wp-block-image">
    <figure class="aligncenter size-large">
-    <img alt="" class="wp-image-9074" data-attachment-id="9074" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="1657852630512-1" data-large-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/07/1657852630512-1.jpg?fit=810%2C456&amp;ssl=1" data-medium-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/07/1657852630512-1.jpg?fit=300%2C169&amp;ssl=1" data-orig-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/07/1657852630512-1.jpg?fit=2022%2C1140&amp;ssl=1" data-orig-size="2022,1140" data-permalink="https://www.caa-ins.org/archives/9053/1657852630512-1" data-recalc-dims="1" height="456" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/07/1657852630512-1.jpg?resize=810%2C456&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/07/1657852630512-1.jpg?resize=1024%2C577&amp;ssl=1 1024w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/07/1657852630512-1.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/07/1657852630512-1.jpg?resize=768%2C433&amp;ssl=1 768w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/07/1657852630512-1.jpg?resize=1536%2C866&amp;ssl=1 1536w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/07/1657852630512-1.jpg?resize=810%2C457&amp;ssl=1 810w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/07/1657852630512-1.jpg?resize=1140%2C643&amp;ssl=1 1140w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/07/1657852630512-1.jpg?w=2022&amp;ssl=1 2022w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/07/1657852630512-1.jpg?w=1620&amp;ssl=1 1620w" width="810"/>
+    <img alt="" class="wp-image-9074" data-attachment-id="9074" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="1657852630512-1" data-large-file="https://caa-ins.org/wp-content/uploads/2022/07/1657852630512-1-1024x577.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2022/07/1657852630512-1-300x169.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2022/07/1657852630512-1.jpg" data-orig-size="2022,1140" data-permalink="https://caa-ins.org/archives/9053/1657852630512-1" decoding="async" fetchpriority="high" height="577" sizes="(max-width: 1024px) 100vw, 1024px" src="https://13.124.147.85/wp-content/uploads/2022/07/1657852630512-1-1024x577.jpg" srcset="https://caa-ins.org/wp-content/uploads/2022/07/1657852630512-1-1024x577.jpg 1024w, https://caa-ins.org/wp-content/uploads/2022/07/1657852630512-1-300x169.jpg 300w, https://caa-ins.org/wp-content/uploads/2022/07/1657852630512-1-768x433.jpg 768w, https://caa-ins.org/wp-content/uploads/2022/07/1657852630512-1-1536x866.jpg 1536w, https://caa-ins.org/wp-content/uploads/2022/07/1657852630512-1-810x457.jpg 810w, https://caa-ins.org/wp-content/uploads/2022/07/1657852630512-1-1140x643.jpg 1140w, https://caa-ins.org/wp-content/uploads/2022/07/1657852630512-1.jpg 2022w" width="1024"/>
    </figure>
   </div>
   <figure class="wp-block-image size-large">
-   <img alt="" class="wp-image-9075" data-attachment-id="9075" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="1657852811723" data-large-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/07/1657852811723.jpg?fit=810%2C449&amp;ssl=1" data-medium-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/07/1657852811723.jpg?fit=300%2C166&amp;ssl=1" data-orig-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/07/1657852811723.jpg?fit=2018%2C1118&amp;ssl=1" data-orig-size="2018,1118" data-permalink="https://www.caa-ins.org/archives/9053/attachment/1657852811723" data-recalc-dims="1" height="449" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/07/1657852811723.jpg?resize=810%2C449&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/07/1657852811723.jpg?resize=1024%2C567&amp;ssl=1 1024w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/07/1657852811723.jpg?resize=300%2C166&amp;ssl=1 300w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/07/1657852811723.jpg?resize=768%2C425&amp;ssl=1 768w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/07/1657852811723.jpg?resize=1536%2C851&amp;ssl=1 1536w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/07/1657852811723.jpg?resize=810%2C449&amp;ssl=1 810w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/07/1657852811723.jpg?resize=1140%2C632&amp;ssl=1 1140w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/07/1657852811723.jpg?w=2018&amp;ssl=1 2018w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/07/1657852811723.jpg?w=1620&amp;ssl=1 1620w" width="810"/>
+   <img alt="" class="wp-image-9075" data-attachment-id="9075" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="1657852811723" data-large-file="https://caa-ins.org/wp-content/uploads/2022/07/1657852811723-1024x567.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2022/07/1657852811723-300x166.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2022/07/1657852811723.jpg" data-orig-size="2018,1118" data-permalink="https://caa-ins.org/archives/9053/attachment/1657852811723" decoding="async" height="567" sizes="(max-width: 1024px) 100vw, 1024px" src="https://13.124.147.85/wp-content/uploads/2022/07/1657852811723-1024x567.jpg" srcset="https://caa-ins.org/wp-content/uploads/2022/07/1657852811723-1024x567.jpg 1024w, https://caa-ins.org/wp-content/uploads/2022/07/1657852811723-300x166.jpg 300w, https://caa-ins.org/wp-content/uploads/2022/07/1657852811723-768x425.jpg 768w, https://caa-ins.org/wp-content/uploads/2022/07/1657852811723-1536x851.jpg 1536w, https://caa-ins.org/wp-content/uploads/2022/07/1657852811723-810x449.jpg 810w, https://caa-ins.org/wp-content/uploads/2022/07/1657852811723-1140x632.jpg 1140w, https://caa-ins.org/wp-content/uploads/2022/07/1657852811723.jpg 2018w" width="1024"/>
   </figure>
   <hr class="wp-block-separator has-alpha-channel-opacity"/>
-  <h2 style="font-size:38px">
+  <h2 class="wp-block-heading" style="font-size:38px">
    内容总结：
   </h2>
   <p>
@@ -220,49 +223,49 @@ categories: [ 网络社会研究所 ]
   <p>
   </p>
   <figure class="likecoin-embed likecoin-button">
-   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fwww.caa-ins.org%2Farchives%2F9053" style="height: 212px; width: 100%;">
+   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fcaa-ins.org%2Farchives%2F9053" style="height:212px;width: 360px;">
    </iframe>
   </figure>
   <div class="sharedaddy sd-sharing-enabled">
    <div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing">
     <h3 class="sd-title">
-     分享到：
+     Share this:
     </h3>
     <div class="sd-content">
      <ul>
       <li class="share-facebook">
-       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-9053" href="https://www.caa-ins.org/archives/9053?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="点击分享到 Facebook ">
+       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-9053" href="https://caa-ins.org/archives/9053?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击分享到 Facebook （在新窗口中打开）
+         Click to share on Facebook (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-twitter">
-       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-9053" href="https://www.caa-ins.org/archives/9053?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="点击分享到Twitter">
+       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-9053" href="https://caa-ins.org/archives/9053?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击分享到Twitter（在新窗口中打开）
+         Click to share on Twitter (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-custom share-custom-">
-       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/9053?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="点击分享到新浪微博">
-        <span style="background-image:url(http://open.weibo.com/favicon.ico)">
+       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/9053?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on 新浪微博">
+        <span style='background-image:url("http://open.weibo.com/favicon.ico");'>
         </span>
         <span class="sharing-screen-reader-text">
-         点击分享到新浪微博（在新窗口中打开）
+         Click to share on 新浪微博 (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-telegram">
-       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/9053?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="点击分享到Telegram">
+       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/9053?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Telegram">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击分享到Telegram（在新窗口中打开）
+         Click to share on Telegram (Opens in new window)
         </span>
        </a>
       </li>
@@ -275,10 +278,10 @@ categories: [ 网络社会研究所 ]
  </div>
  <footer class="entry-footer">
   <div class="meta-tags">
-   <a href="https://www.caa-ins.org/archives/tag/%e5%88%98%e6%80%bf%e6%96%af" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/%e5%88%98%e6%80%bf%e6%96%af" rel="tag">
     刘怿斯
    </a>
-   <a href="https://www.caa-ins.org/archives/tag/%e5%88%9d%e9%93%be%e8%bf%99%e4%bb%b6%e5%b0%8f%e4%ba%8b" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/%e5%88%9d%e9%93%be%e8%bf%99%e4%bb%b6%e5%b0%8f%e4%ba%8b" rel="tag">
     初链这件小事
    </a>
   </div>
