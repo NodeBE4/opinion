@@ -3,7 +3,7 @@ layout: post
 title: "第六届网络社会年会 | SparkLink 星火燎原的NFT分享计划"
 date: 2021-11-24
 author: 网络社会研究所
-from: https://www.caa-ins.org/archives/8367
+from: https://caa-ins.org/archives/8367
 tags: [ 网络社会研究所 ]
 categories: [ 网络社会研究所 ]
 ---
@@ -11,7 +11,7 @@ categories: [ 网络社会研究所 ]
 <article class="vce-single post-8367 post type-post status-publish format-standard has-post-thumbnail hentry category-3 tag-nft tag-sparklink tag-301" id="post-8367">
  <header class="entry-header">
   <span class="meta-category">
-   <a class="category-3" href="https://www.caa-ins.org/archives/category/%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a">
+   <a class="category-3" href="https://caa-ins.org/archives/category/%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a">
     网络社会年会
    </a>
   </span>
@@ -23,9 +23,6 @@ categories: [ 网络社会研究所 ]
     <span class="updated">
      2021-11-24
     </span>
-   </div>
-   <div class="meta-item views">
-    367 Views
    </div>
   </div>
  </header>
@@ -40,7 +37,7 @@ categories: [ 网络社会研究所 ]
      <br/>
      线下会场：上海市杨浦区长阳路1568号19号楼（地铁宁国路站附近） 请持0.1COOP入场
      <br/>
-     Zoom线上会议：878 3890 7288（限500人）
+     Zoom线上会议：825 9466 5364（限500人）
      <br/>
      <a href="http://live.bilibili.com/1802589">
       Bilibili直播
@@ -79,7 +76,7 @@ categories: [ 网络社会研究所 ]
   </figure>
   <div class="wp-block-image">
    <figure class="aligncenter size-large">
-    <img alt="" class="wp-image-8415" data-attachment-id="8415" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="6040810E-6A5E-4F65-BFE1-5277FCBEDD59" data-large-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2021/11/6040810E-6A5E-4F65-BFE1-5277FCBEDD59.jpeg?fit=810%2C492&amp;ssl=1" data-medium-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2021/11/6040810E-6A5E-4F65-BFE1-5277FCBEDD59.jpeg?fit=300%2C182&amp;ssl=1" data-orig-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2021/11/6040810E-6A5E-4F65-BFE1-5277FCBEDD59.jpeg?fit=1396%2C848&amp;ssl=1" data-orig-size="1396,848" data-permalink="https://www.caa-ins.org/archives/8367/6040810e-6a5e-4f65-bfe1-5277fcbedd59" data-recalc-dims="1" height="492" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2021/11/6040810E-6A5E-4F65-BFE1-5277FCBEDD59.jpeg?resize=810%2C492&amp;ssl=1" srcset="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2021/11/6040810E-6A5E-4F65-BFE1-5277FCBEDD59.jpeg?resize=1024%2C622&amp;ssl=1 1024w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2021/11/6040810E-6A5E-4F65-BFE1-5277FCBEDD59.jpeg?resize=300%2C182&amp;ssl=1 300w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2021/11/6040810E-6A5E-4F65-BFE1-5277FCBEDD59.jpeg?resize=768%2C467&amp;ssl=1 768w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2021/11/6040810E-6A5E-4F65-BFE1-5277FCBEDD59.jpeg?resize=810%2C492&amp;ssl=1 810w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2021/11/6040810E-6A5E-4F65-BFE1-5277FCBEDD59.jpeg?resize=1140%2C692&amp;ssl=1 1140w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2021/11/6040810E-6A5E-4F65-BFE1-5277FCBEDD59.jpeg?w=1396&amp;ssl=1 1396w" width="810"/>
+    <img alt="" class="wp-image-8415" data-attachment-id="8415" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="6040810E-6A5E-4F65-BFE1-5277FCBEDD59" data-large-file="https://caa-ins.org/wp-content/uploads/2021/11/6040810E-6A5E-4F65-BFE1-5277FCBEDD59-1024x622.jpeg" data-medium-file="https://caa-ins.org/wp-content/uploads/2021/11/6040810E-6A5E-4F65-BFE1-5277FCBEDD59-300x182.jpeg" data-orig-file="https://caa-ins.org/wp-content/uploads/2021/11/6040810E-6A5E-4F65-BFE1-5277FCBEDD59.jpeg" data-orig-size="1396,848" data-permalink="https://caa-ins.org/archives/8367/6040810e-6a5e-4f65-bfe1-5277fcbedd59" decoding="async" fetchpriority="high" height="622" sizes="(max-width: 1024px) 100vw, 1024px" src="https://13.124.147.85/wp-content/uploads/2021/11/6040810E-6A5E-4F65-BFE1-5277FCBEDD59-1024x622.jpeg" srcset="https://caa-ins.org/wp-content/uploads/2021/11/6040810E-6A5E-4F65-BFE1-5277FCBEDD59-1024x622.jpeg 1024w, https://caa-ins.org/wp-content/uploads/2021/11/6040810E-6A5E-4F65-BFE1-5277FCBEDD59-300x182.jpeg 300w, https://caa-ins.org/wp-content/uploads/2021/11/6040810E-6A5E-4F65-BFE1-5277FCBEDD59-768x467.jpeg 768w, https://caa-ins.org/wp-content/uploads/2021/11/6040810E-6A5E-4F65-BFE1-5277FCBEDD59-810x492.jpeg 810w, https://caa-ins.org/wp-content/uploads/2021/11/6040810E-6A5E-4F65-BFE1-5277FCBEDD59-1140x692.jpeg 1140w, https://caa-ins.org/wp-content/uploads/2021/11/6040810E-6A5E-4F65-BFE1-5277FCBEDD59.jpeg 1396w" width="1024"/>
    </figure>
   </div>
   <p>
@@ -101,19 +98,19 @@ categories: [ 网络社会研究所 ]
    </a>
    .
    <br/>
-   <img alt="" data-recalc-dims="1" src="https://i2.wp.com/i.imgur.com/WqfVWoP.png?w=810&amp;ssl=1"/>
+   <img alt="" decoding="async" src="https://i.imgur.com/WqfVWoP.png"/>
   </p>
   <p class="has-text-align-center">
-   <img height="235" loading="lazy" src="https://lh3.googleusercontent.com/Zz_wKBOpvpn8PJyULgAGXDF1-yrSIl5-uRTgRfu4s0fX3O8OdS8N_OuyrqTh6NqQDeHhSVQAP8GsGEAA_uAUaNtpf2f-l80E5L3oj0q2O1DOpS6c_EEGxm7afHbfxZzmSzfqk3WE" width="624"/>
+   <img decoding="async" height="235" src="https://lh3.googleusercontent.com/Zz_wKBOpvpn8PJyULgAGXDF1-yrSIl5-uRTgRfu4s0fX3O8OdS8N_OuyrqTh6NqQDeHhSVQAP8GsGEAA_uAUaNtpf2f-l80E5L3oj0q2O1DOpS6c_EEGxm7afHbfxZzmSzfqk3WE" width="624"/>
   </p>
   <p class="has-text-align-center">
-   <img height="235" loading="lazy" src="https://lh4.googleusercontent.com/Onai5oVOa8X0wT5PgA6UoV6mmtLnENGtQLT04-Acx1w0FKdsm5m7Y9HMLmzkOIzAzLxse5WIUlWLIa9gzmrfITIb4dgbjGXpE5wehYVbvS_QExv_8hN3QcjBNV2R-LQ7itETb1KC" width="624"/>
+   <img decoding="async" height="235" src="https://lh4.googleusercontent.com/Onai5oVOa8X0wT5PgA6UoV6mmtLnENGtQLT04-Acx1w0FKdsm5m7Y9HMLmzkOIzAzLxse5WIUlWLIa9gzmrfITIb4dgbjGXpE5wehYVbvS_QExv_8hN3QcjBNV2R-LQ7itETb1KC" width="624"/>
   </p>
   <p class="has-text-align-center">
-   <img height="240" loading="lazy" src="https://lh4.googleusercontent.com/EAddQSu6LosvVrahs__NahkJaO4Ty4UuP0WshZRmNBn12Rz8GamySo0oOGnNxfbWdUoCy3RK06KkC5P08Q1AGEROMPFRcfHuIiLSunkjobXdsb4pZeO0-JAuVxLk3j_3ek6HKD19" width="624"/>
+   <img decoding="async" height="240" loading="lazy" src="https://lh4.googleusercontent.com/EAddQSu6LosvVrahs__NahkJaO4Ty4UuP0WshZRmNBn12Rz8GamySo0oOGnNxfbWdUoCy3RK06KkC5P08Q1AGEROMPFRcfHuIiLSunkjobXdsb4pZeO0-JAuVxLk3j_3ek6HKD19" width="624"/>
   </p>
   <p class="has-text-align-center">
-   <img height="240" loading="lazy" src="https://lh3.googleusercontent.com/3jjHPhrWungdavXD_7Ilhi4vmbhDG_SXXvsfOJRyJwQC6ZTC5cGL-dUw-EVKp6QrcqhiTmJ2ndUAb2ZdCst1MiJ7Oi7DO62_1uPeM_hmFqmrhOAG4pEQUIiYnRS4cM9xD7vLay8B" width="624"/>
+   <img decoding="async" height="240" loading="lazy" src="https://lh3.googleusercontent.com/3jjHPhrWungdavXD_7Ilhi4vmbhDG_SXXvsfOJRyJwQC6ZTC5cGL-dUw-EVKp6QrcqhiTmJ2ndUAb2ZdCst1MiJ7Oi7DO62_1uPeM_hmFqmrhOAG4pEQUIiYnRS4cM9xD7vLay8B" width="624"/>
   </p>
   <hr class="wp-block-separator"/>
   <p>
@@ -124,7 +121,7 @@ categories: [ 网络社会研究所 ]
     <ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper">
      <li class="wp-block-jetpack-slideshow_slide swiper-slide">
       <figure>
-       <img alt="" class="wp-block-jetpack-slideshow_image wp-image-8065" data-id="8065" data-recalc-dims="1" height="404" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2021/11/cameron-hejazi.png?resize=810%2C404&amp;ssl=1" srcset="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2021/11/cameron-hejazi.png?w=1566&amp;ssl=1 1566w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2021/11/cameron-hejazi.png?resize=300%2C150&amp;ssl=1 300w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2021/11/cameron-hejazi.png?resize=1024%2C511&amp;ssl=1 1024w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2021/11/cameron-hejazi.png?resize=768%2C384&amp;ssl=1 768w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2021/11/cameron-hejazi.png?resize=1536%2C767&amp;ssl=1 1536w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2021/11/cameron-hejazi.png?resize=810%2C404&amp;ssl=1 810w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2021/11/cameron-hejazi.png?resize=1140%2C569&amp;ssl=1 1140w" width="810">
+       <img alt="" class="wp-block-jetpack-slideshow_image wp-image-8065" data-id="8065" decoding="async" height="782" loading="lazy" sizes="(max-width: 1566px) 100vw, 1566px" src="https://13.124.147.85/wp-content/uploads/2021/11/cameron-hejazi.png" srcset="https://caa-ins.org/wp-content/uploads/2021/11/cameron-hejazi.png 1566w, https://caa-ins.org/wp-content/uploads/2021/11/cameron-hejazi-300x150.png 300w, https://caa-ins.org/wp-content/uploads/2021/11/cameron-hejazi-1024x511.png 1024w, https://caa-ins.org/wp-content/uploads/2021/11/cameron-hejazi-768x384.png 768w, https://caa-ins.org/wp-content/uploads/2021/11/cameron-hejazi-1536x767.png 1536w, https://caa-ins.org/wp-content/uploads/2021/11/cameron-hejazi-810x404.png 810w, https://caa-ins.org/wp-content/uploads/2021/11/cameron-hejazi-1140x569.png 1140w" width="1566">
         <figcaption class="wp-block-jetpack-slideshow_caption gallery-caption">
          Cameron Hejazi（Cent 创始人）
         </figcaption>
@@ -133,7 +130,7 @@ categories: [ 网络社会研究所 ]
      </li>
      <li class="wp-block-jetpack-slideshow_slide swiper-slide">
       <figure>
-       <img alt="" class="wp-block-jetpack-slideshow_image wp-image-8082" data-id="8082" data-recalc-dims="1" height="810" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2021/11/GuoLiu.jpg?resize=810%2C810&amp;ssl=1" srcset="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2021/11/GuoLiu.jpg?w=926&amp;ssl=1 926w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2021/11/GuoLiu.jpg?resize=300%2C300&amp;ssl=1 300w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2021/11/GuoLiu.jpg?resize=150%2C150&amp;ssl=1 150w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2021/11/GuoLiu.jpg?resize=768%2C768&amp;ssl=1 768w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2021/11/GuoLiu.jpg?resize=810%2C810&amp;ssl=1 810w" width="810">
+       <img alt="" class="wp-block-jetpack-slideshow_image wp-image-8082" data-id="8082" decoding="async" height="926" loading="lazy" sizes="(max-width: 926px) 100vw, 926px" src="https://13.124.147.85/wp-content/uploads/2021/11/GuoLiu.jpg" srcset="https://caa-ins.org/wp-content/uploads/2021/11/GuoLiu.jpg 926w, https://caa-ins.org/wp-content/uploads/2021/11/GuoLiu-300x300.jpg 300w, https://caa-ins.org/wp-content/uploads/2021/11/GuoLiu-150x150.jpg 150w, https://caa-ins.org/wp-content/uploads/2021/11/GuoLiu-768x768.jpg 768w, https://caa-ins.org/wp-content/uploads/2021/11/GuoLiu-810x810.jpg 810w" width="926">
         <figcaption class="wp-block-jetpack-slideshow_caption gallery-caption">
          刘果 Guo Liu（Matters Lab技术长）
         </figcaption>
@@ -142,7 +139,7 @@ categories: [ 网络社会研究所 ]
      </li>
      <li class="wp-block-jetpack-slideshow_slide swiper-slide">
       <figure>
-       <img alt="" class="wp-block-jetpack-slideshow_image wp-image-8031" data-id="8031" data-recalc-dims="1" height="500" loading="lazy" sizes="(max-width: 500px) 100vw, 500px" src="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2021/11/WechatIMG38689.jpeg?resize=500%2C500&amp;ssl=1" srcset="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2021/11/WechatIMG38689.jpeg?w=500&amp;ssl=1 500w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2021/11/WechatIMG38689.jpeg?resize=300%2C300&amp;ssl=1 300w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2021/11/WechatIMG38689.jpeg?resize=150%2C150&amp;ssl=1 150w" width="500">
+       <img alt="" class="wp-block-jetpack-slideshow_image wp-image-8031" data-id="8031" decoding="async" height="500" loading="lazy" sizes="(max-width: 500px) 100vw, 500px" src="https://13.124.147.85/wp-content/uploads/2021/11/WechatIMG38689.jpeg" srcset="https://caa-ins.org/wp-content/uploads/2021/11/WechatIMG38689.jpeg 500w, https://caa-ins.org/wp-content/uploads/2021/11/WechatIMG38689-300x300.jpeg 300w, https://caa-ins.org/wp-content/uploads/2021/11/WechatIMG38689-150x150.jpeg 150w" width="500">
         <figcaption class="wp-block-jetpack-slideshow_caption gallery-caption">
          Jon Ippolito（缅因大学 教授）
         </figcaption>
@@ -151,7 +148,7 @@ categories: [ 网络社会研究所 ]
      </li>
      <li class="wp-block-jetpack-slideshow_slide swiper-slide">
       <figure>
-       <img alt="" class="wp-block-jetpack-slideshow_image wp-image-8410" data-id="8410" data-recalc-dims="1" height="512" loading="lazy" sizes="(max-width: 512px) 100vw, 512px" src="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2021/11/DB5D045A-50E1-45CA-8CFD-2A40652B4048.png?resize=512%2C512&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2021/11/DB5D045A-50E1-45CA-8CFD-2A40652B4048.png?w=512&amp;ssl=1 512w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2021/11/DB5D045A-50E1-45CA-8CFD-2A40652B4048.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2021/11/DB5D045A-50E1-45CA-8CFD-2A40652B4048.png?resize=150%2C150&amp;ssl=1 150w" width="512">
+       <img alt="" class="wp-block-jetpack-slideshow_image wp-image-8410" data-id="8410" decoding="async" height="512" loading="lazy" sizes="(max-width: 512px) 100vw, 512px" src="https://13.124.147.85/wp-content/uploads/2021/11/DB5D045A-50E1-45CA-8CFD-2A40652B4048.png" srcset="https://caa-ins.org/wp-content/uploads/2021/11/DB5D045A-50E1-45CA-8CFD-2A40652B4048.png 512w, https://caa-ins.org/wp-content/uploads/2021/11/DB5D045A-50E1-45CA-8CFD-2A40652B4048-300x300.png 300w, https://caa-ins.org/wp-content/uploads/2021/11/DB5D045A-50E1-45CA-8CFD-2A40652B4048-150x150.png 150w" width="512">
         <figcaption class="wp-block-jetpack-slideshow_caption gallery-caption">
          高重建Kin Ko（LikeCoin创始人）
         </figcaption>
@@ -169,7 +166,7 @@ categories: [ 网络社会研究所 ]
     </div>
    </div>
   </div>
-  <h4>
+  <h4 class="wp-block-heading">
    评述嘉宾简介 演讲题目及内容摘要：
   </h4>
   <p>
@@ -219,49 +216,49 @@ categories: [ 网络社会研究所 ]
    ，將有30名的參與者可獲贈領取的gas費用。
   </p>
   <figure class="likecoin-embed likecoin-button">
-   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fwww.caa-ins.org%2Farchives%2F8367" style="height: 212px; width: 100%;">
+   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fcaa-ins.org%2Farchives%2F8367" style="height:212px;width: 360px;">
    </iframe>
   </figure>
   <div class="sharedaddy sd-sharing-enabled">
    <div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing">
     <h3 class="sd-title">
-     分享到：
+     Share this:
     </h3>
     <div class="sd-content">
      <ul>
       <li class="share-facebook">
-       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-8367" href="https://www.caa-ins.org/archives/8367?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="点击分享到 Facebook ">
+       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-8367" href="https://caa-ins.org/archives/8367?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击分享到 Facebook （在新窗口中打开）
+         Click to share on Facebook (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-twitter">
-       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-8367" href="https://www.caa-ins.org/archives/8367?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="点击分享到Twitter">
+       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-8367" href="https://caa-ins.org/archives/8367?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击分享到Twitter（在新窗口中打开）
+         Click to share on Twitter (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-custom share-custom-">
-       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/8367?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="点击分享到新浪微博">
-        <span style="background-image:url(http://open.weibo.com/favicon.ico)">
+       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/8367?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on 新浪微博">
+        <span style='background-image:url("http://open.weibo.com/favicon.ico");'>
         </span>
         <span class="sharing-screen-reader-text">
-         点击分享到新浪微博（在新窗口中打开）
+         Click to share on 新浪微博 (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-telegram">
-       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/8367?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="点击分享到Telegram">
+       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/8367?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Telegram">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击分享到Telegram（在新窗口中打开）
+         Click to share on Telegram (Opens in new window)
         </span>
        </a>
       </li>
@@ -274,13 +271,13 @@ categories: [ 网络社会研究所 ]
  </div>
  <footer class="entry-footer">
   <div class="meta-tags">
-   <a href="https://www.caa-ins.org/archives/tag/nft" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/nft" rel="tag">
     NFT
    </a>
-   <a href="https://www.caa-ins.org/archives/tag/sparklink" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/sparklink" rel="tag">
     SparkLink
    </a>
-   <a href="https://www.caa-ins.org/archives/tag/%e7%ac%ac%e5%85%ad%e5%b1%8a%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/%e7%ac%ac%e5%85%ad%e5%b1%8a%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a" rel="tag">
     第六届网络社会年会
    </a>
   </div>
