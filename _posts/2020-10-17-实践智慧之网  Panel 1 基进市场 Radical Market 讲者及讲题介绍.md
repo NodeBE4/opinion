@@ -3,7 +3,7 @@ layout: post
 title: "实践智慧之网 | Panel 1: 基进市场 Radical Market 讲者及讲题介绍"
 date: 2020-10-17
 author: 网络社会研究所
-from: https://www.caa-ins.org/archives/7104
+from: https://caa-ins.org/archives/7104
 tags: [ 网络社会研究所 ]
 categories: [ 网络社会研究所 ]
 ---
@@ -11,7 +11,7 @@ categories: [ 网络社会研究所 ]
 <article class="vce-single post-7104 post type-post status-publish format-standard has-post-thumbnail hentry category-3" id="post-7104">
  <header class="entry-header">
   <span class="meta-category">
-   <a class="category-3" href="https://www.caa-ins.org/archives/category/%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a">
+   <a class="category-3" href="https://caa-ins.org/archives/category/%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a">
     网络社会年会
    </a>
   </span>
@@ -24,9 +24,6 @@ categories: [ 网络社会研究所 ]
      2020-10-17
     </span>
    </div>
-   <div class="meta-item views">
-    19 Views
-   </div>
   </div>
  </header>
  <div class="entry-content">
@@ -35,7 +32,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter size-large is-resized">
-    <img alt="" class="wp-image-7118" data-attachment-id="7118" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="radical-market" data-large-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/radical-market.jpg?fit=672%2C1024&amp;ssl=1" data-medium-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/radical-market.jpg?fit=197%2C300&amp;ssl=1" data-orig-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/radical-market.jpg?fit=1575%2C2400&amp;ssl=1" data-orig-size="1575,2400" data-permalink="https://www.caa-ins.org/archives/7104/radical-market" data-recalc-dims="1" height="675" loading="lazy" sizes="(max-width: 443px) 100vw, 443px" src="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/radical-market.jpg?resize=443%2C675&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/radical-market.jpg?resize=672%2C1024&amp;ssl=1 672w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/radical-market.jpg?resize=197%2C300&amp;ssl=1 197w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/radical-market.jpg?resize=768%2C1170&amp;ssl=1 768w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/radical-market.jpg?resize=1008%2C1536&amp;ssl=1 1008w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/radical-market.jpg?resize=1344%2C2048&amp;ssl=1 1344w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/radical-market.jpg?resize=810%2C1234&amp;ssl=1 810w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/radical-market.jpg?resize=1140%2C1737&amp;ssl=1 1140w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/radical-market.jpg?w=1575&amp;ssl=1 1575w" width="443">
+    <img alt="" class="wp-image-7118" data-attachment-id="7118" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="radical-market" data-large-file="https://caa-ins.org/wp-content/uploads/2020/10/radical-market-672x1024.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2020/10/radical-market-197x300.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2020/10/radical-market.jpg" data-orig-size="1575,2400" data-permalink="https://caa-ins.org/archives/7104/radical-market" decoding="async" fetchpriority="high" height="675" sizes="(max-width: 443px) 100vw, 443px" src="https://13.124.147.85/wp-content/uploads/2020/10/radical-market-672x1024.jpg" srcset="https://caa-ins.org/wp-content/uploads/2020/10/radical-market-672x1024.jpg 672w, https://caa-ins.org/wp-content/uploads/2020/10/radical-market-197x300.jpg 197w, https://caa-ins.org/wp-content/uploads/2020/10/radical-market-768x1170.jpg 768w, https://caa-ins.org/wp-content/uploads/2020/10/radical-market-1008x1536.jpg 1008w, https://caa-ins.org/wp-content/uploads/2020/10/radical-market-1344x2048.jpg 1344w, https://caa-ins.org/wp-content/uploads/2020/10/radical-market-810x1234.jpg 810w, https://caa-ins.org/wp-content/uploads/2020/10/radical-market-1140x1737.jpg 1140w, https://caa-ins.org/wp-content/uploads/2020/10/radical-market.jpg 1575w" width="443">
      <figcaption>
       Radical Markets
       <br/>
@@ -48,7 +45,7 @@ categories: [ 网络社会研究所 ]
   </div>
   <div class="wp-block-image">
    <figure class="aligncenter size-large is-resized">
-    <img alt="" class="wp-image-7119" data-attachment-id="7119" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="radicalxchange" data-large-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/radicalxchange.png?fit=320%2C286&amp;ssl=1" data-medium-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/radicalxchange.png?fit=300%2C268&amp;ssl=1" data-orig-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/radicalxchange.png?fit=320%2C286&amp;ssl=1" data-orig-size="320,286" data-permalink="https://www.caa-ins.org/archives/7104/radicalxchange" data-recalc-dims="1" height="396" loading="lazy" sizes="(max-width: 443px) 100vw, 443px" src="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/radicalxchange.png?resize=443%2C396&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/radicalxchange.png?w=320&amp;ssl=1 320w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/radicalxchange.png?resize=300%2C268&amp;ssl=1 300w" width="443">
+    <img alt="" class="wp-image-7119" data-attachment-id="7119" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="radicalxchange" data-large-file="https://caa-ins.org/wp-content/uploads/2020/10/radicalxchange.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2020/10/radicalxchange-300x268.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2020/10/radicalxchange.png" data-orig-size="320,286" data-permalink="https://caa-ins.org/archives/7104/radicalxchange" decoding="async" height="396" sizes="(max-width: 443px) 100vw, 443px" src="https://13.124.147.85/wp-content/uploads/2020/10/radicalxchange.png" srcset="https://caa-ins.org/wp-content/uploads/2020/10/radicalxchange.png 320w, https://caa-ins.org/wp-content/uploads/2020/10/radicalxchange-300x268.png 300w" width="443">
      <figcaption>
       RadicalxChange
       <br/>
@@ -219,7 +216,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter size-large is-resized">
-    <img alt="" class="wp-image-7108" data-attachment-id="7108" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Vitalik-Buterin（圆的）" data-large-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/Vitalik-Buterin（圆的）.jpg?fit=810%2C810&amp;ssl=1" data-medium-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/Vitalik-Buterin（圆的）.jpg?fit=300%2C300&amp;ssl=1" data-orig-file="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/Vitalik-Buterin（圆的）.jpg?fit=2018%2C2018&amp;ssl=1" data-orig-size="2018,2018" data-permalink="https://www.caa-ins.org/archives/7104/vitalik-buterin%ef%bc%88%e5%9c%86%e7%9a%84%ef%bc%89" data-recalc-dims="1" height="163" loading="lazy" sizes="(max-width: 163px) 100vw, 163px" src="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/Vitalik-Buterin（圆的）.jpg?resize=163%2C163&amp;ssl=1" srcset="https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/Vitalik-Buterin（圆的）.jpg?resize=1024%2C1024&amp;ssl=1 1024w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/Vitalik-Buterin（圆的）.jpg?resize=300%2C300&amp;ssl=1 300w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/Vitalik-Buterin（圆的）.jpg?resize=150%2C150&amp;ssl=1 150w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/Vitalik-Buterin（圆的）.jpg?resize=768%2C768&amp;ssl=1 768w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/Vitalik-Buterin（圆的）.jpg?resize=1536%2C1536&amp;ssl=1 1536w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/Vitalik-Buterin（圆的）.jpg?resize=810%2C810&amp;ssl=1 810w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/Vitalik-Buterin（圆的）.jpg?resize=1140%2C1140&amp;ssl=1 1140w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/Vitalik-Buterin（圆的）.jpg?w=2018&amp;ssl=1 2018w, https://i2.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/Vitalik-Buterin（圆的）.jpg?w=1620&amp;ssl=1 1620w" width="163"/>
+    <img alt="" class="wp-image-7108" data-attachment-id="7108" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Vitalik-Buterin（圆的）" data-large-file="https://caa-ins.org/wp-content/uploads/2020/10/Vitalik-Buterin（圆的）-1024x1024.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2020/10/Vitalik-Buterin（圆的）-300x300.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2020/10/Vitalik-Buterin（圆的）.jpg" data-orig-size="2018,2018" data-permalink="https://caa-ins.org/archives/7104/vitalik-buterin%ef%bc%88%e5%9c%86%e7%9a%84%ef%bc%89" decoding="async" height="163" sizes="(max-width: 163px) 100vw, 163px" src="https://13.124.147.85/wp-content/uploads/2020/10/Vitalik-Buterin（圆的）-1024x1024.jpg" srcset="https://caa-ins.org/wp-content/uploads/2020/10/Vitalik-Buterin（圆的）-1024x1024.jpg 1024w, https://caa-ins.org/wp-content/uploads/2020/10/Vitalik-Buterin（圆的）-300x300.jpg 300w, https://caa-ins.org/wp-content/uploads/2020/10/Vitalik-Buterin（圆的）-150x150.jpg 150w, https://caa-ins.org/wp-content/uploads/2020/10/Vitalik-Buterin（圆的）-768x768.jpg 768w, https://caa-ins.org/wp-content/uploads/2020/10/Vitalik-Buterin（圆的）-1536x1536.jpg 1536w, https://caa-ins.org/wp-content/uploads/2020/10/Vitalik-Buterin（圆的）-810x810.jpg 810w, https://caa-ins.org/wp-content/uploads/2020/10/Vitalik-Buterin（圆的）-1140x1140.jpg 1140w, https://caa-ins.org/wp-content/uploads/2020/10/Vitalik-Buterin（圆的）.jpg 2018w" width="163"/>
    </figure>
   </div>
   <p>
@@ -315,7 +312,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter size-large is-resized">
-    <img alt="" class="wp-image-7109" data-attachment-id="7109" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Glen-Weyl（圆的）" data-large-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/Glen-Weyl（圆的）.jpg?fit=810%2C810&amp;ssl=1" data-medium-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/Glen-Weyl（圆的）.jpg?fit=300%2C300&amp;ssl=1" data-orig-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/Glen-Weyl（圆的）.jpg?fit=2081%2C2081&amp;ssl=1" data-orig-size="2081,2081" data-permalink="https://www.caa-ins.org/archives/7104/glen-weyl%ef%bc%88%e5%9c%86%e7%9a%84%ef%bc%89" data-recalc-dims="1" height="176" loading="lazy" sizes="(max-width: 176px) 100vw, 176px" src="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/Glen-Weyl（圆的）.jpg?resize=176%2C176&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/Glen-Weyl（圆的）.jpg?resize=1024%2C1024&amp;ssl=1 1024w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/Glen-Weyl（圆的）.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/Glen-Weyl（圆的）.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/Glen-Weyl（圆的）.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/Glen-Weyl（圆的）.jpg?resize=1536%2C1536&amp;ssl=1 1536w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/Glen-Weyl（圆的）.jpg?resize=2048%2C2048&amp;ssl=1 2048w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/Glen-Weyl（圆的）.jpg?resize=810%2C810&amp;ssl=1 810w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/Glen-Weyl（圆的）.jpg?resize=1140%2C1140&amp;ssl=1 1140w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/Glen-Weyl（圆的）.jpg?w=1620&amp;ssl=1 1620w" width="176"/>
+    <img alt="" class="wp-image-7109" data-attachment-id="7109" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Glen-Weyl（圆的）" data-large-file="https://caa-ins.org/wp-content/uploads/2020/10/Glen-Weyl（圆的）-1024x1024.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2020/10/Glen-Weyl（圆的）-300x300.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2020/10/Glen-Weyl（圆的）.jpg" data-orig-size="2081,2081" data-permalink="https://caa-ins.org/archives/7104/glen-weyl%ef%bc%88%e5%9c%86%e7%9a%84%ef%bc%89" decoding="async" height="176" loading="lazy" sizes="(max-width: 176px) 100vw, 176px" src="https://13.124.147.85/wp-content/uploads/2020/10/Glen-Weyl（圆的）-1024x1024.jpg" srcset="https://caa-ins.org/wp-content/uploads/2020/10/Glen-Weyl（圆的）-1024x1024.jpg 1024w, https://caa-ins.org/wp-content/uploads/2020/10/Glen-Weyl（圆的）-300x300.jpg 300w, https://caa-ins.org/wp-content/uploads/2020/10/Glen-Weyl（圆的）-150x150.jpg 150w, https://caa-ins.org/wp-content/uploads/2020/10/Glen-Weyl（圆的）-768x768.jpg 768w, https://caa-ins.org/wp-content/uploads/2020/10/Glen-Weyl（圆的）-1536x1536.jpg 1536w, https://caa-ins.org/wp-content/uploads/2020/10/Glen-Weyl（圆的）-2048x2048.jpg 2048w, https://caa-ins.org/wp-content/uploads/2020/10/Glen-Weyl（圆的）-810x810.jpg 810w, https://caa-ins.org/wp-content/uploads/2020/10/Glen-Weyl（圆的）-1140x1140.jpg 1140w" width="176"/>
    </figure>
   </div>
   <p>
@@ -427,7 +424,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter size-large is-resized">
-    <img alt="" class="wp-image-7120" data-attachment-id="7120" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="第五届年会小logo" data-large-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/第五届年会小logo.jpeg?fit=810%2C803&amp;ssl=1" data-medium-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/第五届年会小logo.jpeg?fit=300%2C297&amp;ssl=1" data-orig-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/第五届年会小logo.jpeg?fit=874%2C866&amp;ssl=1" data-orig-size="874,866" data-permalink="https://www.caa-ins.org/archives/7104/%e7%ac%ac%e4%ba%94%e5%b1%8a%e5%b9%b4%e4%bc%9a%e5%b0%8flogo" data-recalc-dims="1" height="312" loading="lazy" sizes="(max-width: 316px) 100vw, 316px" src="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/第五届年会小logo.jpeg?resize=316%2C312&amp;ssl=1" srcset="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/第五届年会小logo.jpeg?w=874&amp;ssl=1 874w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/第五届年会小logo.jpeg?resize=300%2C297&amp;ssl=1 300w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/第五届年会小logo.jpeg?resize=768%2C761&amp;ssl=1 768w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/第五届年会小logo.jpeg?resize=810%2C803&amp;ssl=1 810w" width="316"/>
+    <img alt="" class="wp-image-7120" data-attachment-id="7120" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="第五届年会小logo" data-large-file="https://caa-ins.org/wp-content/uploads/2020/10/第五届年会小logo.jpeg" data-medium-file="https://caa-ins.org/wp-content/uploads/2020/10/第五届年会小logo-300x297.jpeg" data-orig-file="https://caa-ins.org/wp-content/uploads/2020/10/第五届年会小logo.jpeg" data-orig-size="874,866" data-permalink="https://caa-ins.org/archives/7104/%e7%ac%ac%e4%ba%94%e5%b1%8a%e5%b9%b4%e4%bc%9a%e5%b0%8flogo" decoding="async" height="312" loading="lazy" sizes="(max-width: 316px) 100vw, 316px" src="https://13.124.147.85/wp-content/uploads/2020/10/第五届年会小logo.jpeg" srcset="https://caa-ins.org/wp-content/uploads/2020/10/第五届年会小logo.jpeg 874w, https://caa-ins.org/wp-content/uploads/2020/10/第五届年会小logo-300x297.jpeg 300w, https://caa-ins.org/wp-content/uploads/2020/10/第五届年会小logo-768x761.jpeg 768w, https://caa-ins.org/wp-content/uploads/2020/10/第五届年会小logo-810x803.jpeg 810w" width="316"/>
    </figure>
   </div>
   <p class="has-text-align-center">
@@ -515,7 +512,7 @@ categories: [ 网络社会研究所 ]
    </strong>
   </p>
   <p class="has-text-align-center">
-   <img src="https://mmbiz.qpic.cn/mmbiz_png/Jw8hS31CicltBGZwuDLaWS5peg2JLl2tHWuzUz25PKzohYxO8WTR9lfDmLLiaNFCnIBkT086qLdonhNIg2YF1ePQ/640?wx_fmt=png"/>
+   <img decoding="async" src="https://mmbiz.qpic.cn/mmbiz_png/Jw8hS31CicltBGZwuDLaWS5peg2JLl2tHWuzUz25PKzohYxO8WTR9lfDmLLiaNFCnIBkT086qLdonhNIg2YF1ePQ/640?wx_fmt=png"/>
   </p>
   <p class="has-text-align-center">
    <strong>
@@ -528,10 +525,10 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter size-large is-resized">
-    <img alt="" class="wp-image-7105" data-attachment-id="7105" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="天问报名二维码" data-large-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/天问报名二维码.png?fit=300%2C300&amp;ssl=1" data-medium-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/天问报名二维码.png?fit=300%2C300&amp;ssl=1" data-orig-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/天问报名二维码.png?fit=300%2C300&amp;ssl=1" data-orig-size="300,300" data-permalink="https://www.caa-ins.org/archives/7104/%e5%a4%a9%e9%97%ae%e6%8a%a5%e5%90%8d%e4%ba%8c%e7%bb%b4%e7%a0%81" data-recalc-dims="1" height="267" loading="lazy" sizes="(max-width: 267px) 100vw, 267px" src="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/天问报名二维码.png?resize=267%2C267&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/天问报名二维码.png?w=300&amp;ssl=1 300w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/10/天问报名二维码.png?resize=150%2C150&amp;ssl=1 150w" width="267"/>
+    <img alt="" class="wp-image-7105" data-attachment-id="7105" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="天问报名二维码" data-large-file="https://caa-ins.org/wp-content/uploads/2020/10/天问报名二维码.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2020/10/天问报名二维码.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2020/10/天问报名二维码.png" data-orig-size="300,300" data-permalink="https://caa-ins.org/archives/7104/%e5%a4%a9%e9%97%ae%e6%8a%a5%e5%90%8d%e4%ba%8c%e7%bb%b4%e7%a0%81" decoding="async" height="267" loading="lazy" sizes="(max-width: 267px) 100vw, 267px" src="https://13.124.147.85/wp-content/uploads/2020/10/天问报名二维码.png" srcset="https://caa-ins.org/wp-content/uploads/2020/10/天问报名二维码.png 300w, https://caa-ins.org/wp-content/uploads/2020/10/天问报名二维码-150x150.png 150w" width="267"/>
    </figure>
   </div>
-  <h1>
+  <h1 class="wp-block-heading">
   </h1>
   <p class="has-text-align-center">
    <strong>
@@ -613,53 +610,55 @@ categories: [ 网络社会研究所 ]
   <p class="has-text-align-center">
    —
    <br/>
-   <img src="https://mmbiz.qpic.cn/mmbiz_jpg/Jw8hS31CiclvgRTkWMZUGByDgozVYX5ibrTX7TEaxKkQdhYmNzP75ibQs3UU6ukmYBkVicibxuqLguxzSBKt9hicwaicQ/640?wx_fmt=jpeg"/>
+   <img decoding="async" src="https://mmbiz.qpic.cn/mmbiz_jpg/Jw8hS31CiclvgRTkWMZUGByDgozVYX5ibrTX7TEaxKkQdhYmNzP75ibQs3UU6ukmYBkVicibxuqLguxzSBKt9hicwaicQ/640?wx_fmt=jpeg"/>
   </p>
   <p class="has-text-align-center">
    中国美术学院 网络社会研究所
   </p>
-  <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;referrer=https%3A%2F%2Fwww.caa-ins.org%2Farchives%2F7104" style="height: 212px; width: 100%;">
-  </iframe>
+  <figure class="likecoin-embed likecoin-button">
+   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fcaa-ins.org%2Farchives%2F7104" style="height:212px;width: 360px;">
+   </iframe>
+  </figure>
   <div class="sharedaddy sd-sharing-enabled">
    <div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing">
     <h3 class="sd-title">
-     共享此文章：
+     Share this:
     </h3>
     <div class="sd-content">
      <ul>
       <li class="share-facebook">
-       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-7104" href="https://www.caa-ins.org/archives/7104?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="点击以在 Facebook 上共享">
+       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-7104" href="https://caa-ins.org/archives/7104?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击以在 Facebook 上共享（在新窗口中打开）
+         Click to share on Facebook (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-twitter">
-       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-7104" href="https://www.caa-ins.org/archives/7104?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="点击以在 Twitter 上共享">
+       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-7104" href="https://caa-ins.org/archives/7104?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击以在 Twitter 上共享（在新窗口中打开）
+         Click to share on Twitter (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-custom share-custom-">
-       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/7104?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="单击在 新浪微博 上共享">
-        <span style="background-image:url(http://open.weibo.com/favicon.ico)">
+       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/7104?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on 新浪微博">
+        <span style='background-image:url("http://open.weibo.com/favicon.ico");'>
         </span>
         <span class="sharing-screen-reader-text">
-         单击在 新浪微博 上共享（在新窗口中打开）
+         Click to share on 新浪微博 (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-telegram">
-       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/7104?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="点击以在 Telegram 上共享">
+       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/7104?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Telegram">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击以在 Telegram 上共享（在新窗口中打开）
+         Click to share on Telegram (Opens in new window)
         </span>
        </a>
       </li>

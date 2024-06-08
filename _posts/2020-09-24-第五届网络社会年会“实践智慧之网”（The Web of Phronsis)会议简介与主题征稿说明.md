@@ -3,7 +3,7 @@ layout: post
 title: "第五届网络社会年会“实践智慧之网”（The Web of Phronsis)会议简介与主题征稿说明"
 date: 2020-09-24
 author: 网络社会研究所
-from: https://www.caa-ins.org/archives/6881
+from: https://caa-ins.org/archives/6881
 tags: [ 网络社会研究所 ]
 categories: [ 网络社会研究所 ]
 ---
@@ -11,7 +11,7 @@ categories: [ 网络社会研究所 ]
 <article class="vce-single post-6881 post type-post status-publish format-standard has-post-thumbnail hentry category-3" id="post-6881">
  <header class="entry-header">
   <span class="meta-category">
-   <a class="category-3" href="https://www.caa-ins.org/archives/category/%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a">
+   <a class="category-3" href="https://caa-ins.org/archives/category/%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a">
     网络社会年会
    </a>
   </span>
@@ -24,42 +24,15 @@ categories: [ 网络社会研究所 ]
      2020-09-24
     </span>
    </div>
-   <div class="meta-item views">
-    8 Views
-   </div>
   </div>
  </header>
  <div class="entry-content">
-  <p>
-   <strong>
-    论文摘要投稿期限：10/10
-   </strong>
-  </p>
-  <p>
-   <strong>
-    第一场研讨主题，天问场次：10/20
-   </strong>
-  </p>
-  <p>
-   <strong>
-    网状网络工作坊 11/14、15
-   </strong>
-  </p>
-  <p>
-   <strong>
-    年会三场研讨主题＋青年学者发表 11/20-22/20-22
-   </strong>
-  </p>
+  <pre class="wp-block-preformatted"><strong>论文摘要投稿期限：10/10</strong><br/><strong>第一场研讨主题，天问场次：10/20</strong><br/><strong>网状网络工作坊 11/14、15</strong><br/><strong>年会三场研讨主题＋青年学者发表 11/20-22/20-22</strong></pre>
   <p>
    本次年会是技术与思想的大会。我们追问行使技术背后的经验及其累积的智慧，以谋求更好的未来。除了一个工作坊与四个主题演讲外，网络社会研究所现热切邀请国内外青年学者与有志思想实验之士踊跃投稿，分享自己的研究成果与对未来的雏议。
   </p>
-  <div class="wp-block-image">
-   <figure class="aligncenter size-large is-resized">
-    <img alt="" height="1106" loading="lazy" src="blob:https://www.caa-ins.org/e98a97c4-76b4-4e2f-ab29-5118fb85a916" width="596"/>
-   </figure>
-  </div>
   <hr class="wp-block-separator"/>
-  <h3>
+  <h3 class="wp-block-heading">
    <br/>
    <strong>
     主题一 “基进市场” RadicalMarket
@@ -71,12 +44,19 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-media-text alignwide is-stacked-on-mobile">
    <figure class="wp-block-media-text__media">
-    <img alt="" src="blob:https://www.caa-ins.org/fda74a15-3243-4e75-b7ae-9477954dd894"/>
+    <img alt="" class="wp-image-6910" data-attachment-id="6910" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="51NgqyF1uPL._SX320_BO1204203200_" data-large-file="https://caa-ins.org/wp-content/uploads/2020/09/51NgqyF1uPL._SX320_BO1204203200_.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2020/09/51NgqyF1uPL._SX320_BO1204203200_-194x300.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2020/09/51NgqyF1uPL._SX320_BO1204203200_.jpg" data-orig-size="322,499" data-permalink="https://caa-ins.org/archives/6881/51ngqyf1upl-_sx320_bo1204203200_" decoding="async" fetchpriority="high" height="499" sizes="(max-width: 322px) 100vw, 322px" src="https://13.124.147.85/wp-content/uploads/2020/09/51NgqyF1uPL._SX320_BO1204203200_.jpg" srcset="https://caa-ins.org/wp-content/uploads/2020/09/51NgqyF1uPL._SX320_BO1204203200_.jpg 322w, https://caa-ins.org/wp-content/uploads/2020/09/51NgqyF1uPL._SX320_BO1204203200_-194x300.jpg 194w" width="322"/>
    </figure>
    <div class="wp-block-media-text__content">
     <p class="has-large-font-size">
-     作为在问题重重当下构想的思想实验文本，《基进市场》是市场主义的，强调“以市场本身的力量监管市场”，构建一种可以自主的市场机制。《基进市场》提出的五种思想实验，皆针对当前新自由主义失灵与政府治理政策的落后，作者藉由经济理论大师们的努力的珍贵遗产，结合了当今技术条件、灵活而务实的理想，从而提出五个提案：
+     作为在问题重重当下构想的思想实验文本，《基进市场》是市场主义的，强调“以市场本身的力量监管市场”，构建一种可以自主的市场机制。《基进市场》提出的五种思想实验，皆针对当前新自由主义失灵与政府治理政策的落后，作者藉由经济理论大师们的努力的珍贵遗产，结合了当今技术条件、灵活而务实的理想，从而提出五个提案
     </p>
+   </div>
+  </div>
+  <div class="wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top">
+   <figure class="wp-block-media-text__media">
+    <img alt="" decoding="async" src="blob:https://13.124.147.85/fda74a15-3243-4e75-b7ae-9477954dd894"/>
+   </figure>
+   <div class="wp-block-media-text__content">
    </div>
   </div>
   <p>
@@ -111,29 +91,30 @@ categories: [ 网络社会研究所 ]
    互联网数据所有权过于中心化的问题。此提案认为定义着个人身份的数据正流散在网络平台，仅为少部分大公司掌握和肆意利用。当代技术发展的真相不是“机器”取代“人力”，而是以“无偿劳动”取代“有偿劳动”。因此，用户与诸如Facebook、Google等收集个人数据以服务的产品间的关系应该被重新定义，分布式网络当被支持和鼓励。此外，作者还主张设置数据劳动工会（Data Labour Union)，来保护那些在互联网上留下个人数据的劳工用户的权益。 这些提案中，作者重新发明了市场主义的运作的形式，来保证经济自由与政治制度设计的 “可持续性”，避免对权力的去中心化一而再地触底回弹为各种新型的集权，以治愈新自由主义市场经济模式引发的创伤。提案中，高度依赖建立互信机制、共享资讯平台等等，可以想见区块链与智能合约在其中可扮演的角色，可以想像会引起多少资讯网络实践者的兴趣。作者也唤起了右派与左派的内心恐惧，右派担心资产不保与垄断不再，左派则担心政治设计总是偏向于投资诱，而无产者无能参与竞标。但真的触动神经的恐怖还是自由─技术─政治的完美键接构想。 这场主题演讲是中国美术学院与世界青年科学家峰会合办的”天问”的其中一场,将有上百位科学家、艺术家的参与。邀请到以太坊创始人，横跨计算机、经济学、密码学、分布式系统、信息论、数学等交叉领域的知识与见解的技术实践者Vitalik Buterin，与《基进市场》作者之一，微软首席技术官、Radical x Change Foundation创始人，政治经济学家和社会技术专家，Glen Weyl博士与我们分享激进市场的思想实验。
   </p>
   <hr class="wp-block-separator"/>
-  <h3>
+  <h3 class="wp-block-heading">
    <strong>
     主题二：“网际网络档案馆 ”Internet Archive
    </strong>
   </h3>
   <p>
   </p>
-  <div class="wp-block-image">
-   <figure class="aligncenter size-large is-resized">
-    <img alt="" class="wp-image-6893" data-attachment-id="6893" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Internet_Archive_logo_and_wordmark.svg_-2" data-large-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2020/09/Internet_Archive_logo_and_wordmark.svg_-2.png?fit=810%2C787&amp;ssl=1" data-medium-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2020/09/Internet_Archive_logo_and_wordmark.svg_-2.png?fit=300%2C292&amp;ssl=1" data-orig-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2020/09/Internet_Archive_logo_and_wordmark.svg_-2.png?fit=1200%2C1166&amp;ssl=1" data-orig-size="1200,1166" data-permalink="https://www.caa-ins.org/archives/6881/internet_archive_logo_and_wordmark-svg_-2" data-recalc-dims="1" height="458" loading="lazy" sizes="(max-width: 472px) 100vw, 472px" src="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2020/09/Internet_Archive_logo_and_wordmark.svg_-2.png?resize=472%2C458&amp;ssl=1" srcset="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2020/09/Internet_Archive_logo_and_wordmark.svg_-2.png?resize=1024%2C995&amp;ssl=1 1024w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2020/09/Internet_Archive_logo_and_wordmark.svg_-2.png?resize=300%2C292&amp;ssl=1 300w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2020/09/Internet_Archive_logo_and_wordmark.svg_-2.png?resize=768%2C746&amp;ssl=1 768w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2020/09/Internet_Archive_logo_and_wordmark.svg_-2.png?resize=810%2C787&amp;ssl=1 810w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2020/09/Internet_Archive_logo_and_wordmark.svg_-2.png?resize=1140%2C1108&amp;ssl=1 1140w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2020/09/Internet_Archive_logo_and_wordmark.svg_-2.png?w=1200&amp;ssl=1 1200w" width="472"/>
-    <figcaption>
-     网际网络档案馆Logo（图片来自网络）
-    </figcaption>
+  <div class="wp-block-media-text alignwide is-stacked-on-mobile">
+   <figure class="wp-block-media-text__media">
+    <img alt="" class="wp-image-6893" data-attachment-id="6893" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Internet_Archive_logo_and_wordmark.svg_-2" data-large-file="https://caa-ins.org/wp-content/uploads/2020/09/Internet_Archive_logo_and_wordmark.svg_-2-1024x995.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2020/09/Internet_Archive_logo_and_wordmark.svg_-2-300x292.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2020/09/Internet_Archive_logo_and_wordmark.svg_-2.png" data-orig-size="1200,1166" data-permalink="https://caa-ins.org/archives/6881/internet_archive_logo_and_wordmark-svg_-2" decoding="async" height="995" sizes="(max-width: 1024px) 100vw, 1024px" src="https://13.124.147.85/wp-content/uploads/2020/09/Internet_Archive_logo_and_wordmark.svg_-2-1024x995.png" srcset="https://caa-ins.org/wp-content/uploads/2020/09/Internet_Archive_logo_and_wordmark.svg_-2-1024x995.png 1024w, https://caa-ins.org/wp-content/uploads/2020/09/Internet_Archive_logo_and_wordmark.svg_-2-300x292.png 300w, https://caa-ins.org/wp-content/uploads/2020/09/Internet_Archive_logo_and_wordmark.svg_-2-768x746.png 768w, https://caa-ins.org/wp-content/uploads/2020/09/Internet_Archive_logo_and_wordmark.svg_-2-810x787.png 810w, https://caa-ins.org/wp-content/uploads/2020/09/Internet_Archive_logo_and_wordmark.svg_-2-1140x1108.png 1140w, https://caa-ins.org/wp-content/uploads/2020/09/Internet_Archive_logo_and_wordmark.svg_-2.png 1200w" width="1024"/>
    </figure>
+   <div class="wp-block-media-text__content">
+    <p class="has-large-font-size">
+     1996年，宣称要“让所有知识为所有人触及”（to provide UniversalAccess to All Knowledge）的非营利性电子资料库
+     <strong>
+      “网际网络档案馆（Internet Archive）”
+     </strong>
+     成立，人类保存当代文明的方法被发明了出来。
+    </p>
+   </div>
   </div>
   <p>
   </p>
   <p>
-   1996年，宣称要“让所有知识为所有人触及”（to provide UniversalAccess to All Knowledge）的非营利性电子资料库
-   <strong>
-    “网际网络档案馆（Internet Archive）”
-   </strong>
-   成立，人类保存当代文明的方法被发明了出来。
   </p>
   <p>
    <strong>
@@ -148,12 +129,26 @@ categories: [ 网络社会研究所 ]
    这个场次将邀请该领域的专家分享焦虑与技术思考。包括中国互联网档案整理与收集者周蓬岸；Arweave（一家企图永久保存资料的CEO）Sam Williams以及香港AAA（亚洲艺术文献库）的代表讲者。
   </p>
   <hr class="wp-block-separator"/>
-  <h3>
+  <h3 class="wp-block-heading">
    <strong>
     <br/>
     主题三，主题四：网状网络工作坊与分布式网络 Mesh Network + DWeb
    </strong>
   </h3>
+  <div class="wp-block-media-text alignwide is-stacked-on-mobile">
+   <figure class="wp-block-media-text__media">
+    <img alt="" class="wp-image-6911" data-attachment-id="6911" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Screen-Capture-Sep-7-2020-at-1.02.26-PM" data-large-file="https://caa-ins.org/wp-content/uploads/2020/09/Screen-Capture-Sep-7-2020-at-1.02.26-PM-1024x1020.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2020/09/Screen-Capture-Sep-7-2020-at-1.02.26-PM-300x300.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2020/09/Screen-Capture-Sep-7-2020-at-1.02.26-PM.jpg" data-orig-size="1156,1152" data-permalink="https://caa-ins.org/archives/6881/screen-capture-sep-7-2020-at-1-02-26-pm" decoding="async" height="1020" sizes="(max-width: 1024px) 100vw, 1024px" src="https://13.124.147.85/wp-content/uploads/2020/09/Screen-Capture-Sep-7-2020-at-1.02.26-PM-1024x1020.jpg" srcset="https://caa-ins.org/wp-content/uploads/2020/09/Screen-Capture-Sep-7-2020-at-1.02.26-PM-1024x1020.jpg 1024w, https://caa-ins.org/wp-content/uploads/2020/09/Screen-Capture-Sep-7-2020-at-1.02.26-PM-300x300.jpg 300w, https://caa-ins.org/wp-content/uploads/2020/09/Screen-Capture-Sep-7-2020-at-1.02.26-PM-150x150.jpg 150w, https://caa-ins.org/wp-content/uploads/2020/09/Screen-Capture-Sep-7-2020-at-1.02.26-PM-768x765.jpg 768w, https://caa-ins.org/wp-content/uploads/2020/09/Screen-Capture-Sep-7-2020-at-1.02.26-PM-810x807.jpg 810w, https://caa-ins.org/wp-content/uploads/2020/09/Screen-Capture-Sep-7-2020-at-1.02.26-PM-1140x1136.jpg 1140w, https://caa-ins.org/wp-content/uploads/2020/09/Screen-Capture-Sep-7-2020-at-1.02.26-PM.jpg 1156w" width="1024"/>
+   </figure>
+   <div class="wp-block-media-text__content">
+    <p class="has-large-font-size">
+     我们的生活已经无法离开互联网。吃饭付钱需要支付宝或者微信支付，甚至连点菜都需要扫码网络下单；公交地铁也都支持并鼓励使用手机 App 扫码进站上车；疫情期间想要出门，也需要手机联网获得自己的健康码才能出入公共场所。我们不禁要问：
+     <strong>
+      没了互联网我们还能继续生活下去吗
+     </strong>
+     ？
+    </p>
+   </div>
+  </div>
   <p>
    我们的生活已经无法离开互联网。吃饭付钱需要支付宝或者微信支付，甚至连点菜都需要扫码网络下单；公交地铁也都支持并鼓励使用手机 App 扫码进站上车；疫情期间想要出门，也需要手机联网获得自己的健康码才能出入公共场所。我们不禁要问：
    <strong>
@@ -172,7 +167,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter is-resized">
-    <img alt="" class="wp-image-6886" data-attachment-id="6886" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Dweb" data-large-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/09/Dweb.png?fit=800%2C440&amp;ssl=1" data-medium-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/09/Dweb.png?fit=300%2C165&amp;ssl=1" data-orig-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/09/Dweb.png?fit=800%2C440&amp;ssl=1" data-orig-size="800,440" data-permalink="https://www.caa-ins.org/archives/6881/dweb" data-recalc-dims="1" height="370" loading="lazy" sizes="(max-width: 674px) 100vw, 674px" src="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/09/Dweb.png?resize=674%2C370&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/09/Dweb.png?w=800&amp;ssl=1 800w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/09/Dweb.png?resize=300%2C165&amp;ssl=1 300w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2020/09/Dweb.png?resize=768%2C422&amp;ssl=1 768w" width="674"/>
+    <img alt="" class="wp-image-6886" data-attachment-id="6886" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Dweb" data-large-file="https://caa-ins.org/wp-content/uploads/2020/09/Dweb.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2020/09/Dweb-300x165.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2020/09/Dweb.png" data-orig-size="800,440" data-permalink="https://caa-ins.org/archives/6881/dweb" decoding="async" height="370" loading="lazy" sizes="(max-width: 674px) 100vw, 674px" src="https://13.124.147.85/wp-content/uploads/2020/09/Dweb.png" srcset="https://caa-ins.org/wp-content/uploads/2020/09/Dweb.png 800w, https://caa-ins.org/wp-content/uploads/2020/09/Dweb-300x165.png 300w, https://caa-ins.org/wp-content/uploads/2020/09/Dweb-768x422.png 768w" width="674"/>
     <figcaption>
      中心化网络，去中心化网络和分布式网络示意图。
     </figcaption>
@@ -200,19 +195,26 @@ categories: [ 网络社会研究所 ]
    </em>
   </p>
   <hr class="wp-block-separator"/>
-  <h3>
+  <h3 class="wp-block-heading">
    <strong>
     主题五：加密主义 Cypto-ist
    </strong>
   </h3>
+  <div class="wp-block-media-text alignwide is-stacked-on-mobile">
+   <figure class="wp-block-media-text__media">
+    <img alt="" class="wp-image-6912" data-attachment-id="6912" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Screen-Capture-Sep-7-2020-at-12.49.49-PM" data-large-file="https://caa-ins.org/wp-content/uploads/2020/09/Screen-Capture-Sep-7-2020-at-12.49.49-PM-1024x720.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2020/09/Screen-Capture-Sep-7-2020-at-12.49.49-PM-300x211.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2020/09/Screen-Capture-Sep-7-2020-at-12.49.49-PM.jpg" data-orig-size="1328,934" data-permalink="https://caa-ins.org/archives/6881/screen-capture-sep-7-2020-at-12-49-49-pm" decoding="async" height="720" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="https://13.124.147.85/wp-content/uploads/2020/09/Screen-Capture-Sep-7-2020-at-12.49.49-PM-1024x720.jpg" srcset="https://caa-ins.org/wp-content/uploads/2020/09/Screen-Capture-Sep-7-2020-at-12.49.49-PM-1024x720.jpg 1024w, https://caa-ins.org/wp-content/uploads/2020/09/Screen-Capture-Sep-7-2020-at-12.49.49-PM-300x211.jpg 300w, https://caa-ins.org/wp-content/uploads/2020/09/Screen-Capture-Sep-7-2020-at-12.49.49-PM-768x540.jpg 768w, https://caa-ins.org/wp-content/uploads/2020/09/Screen-Capture-Sep-7-2020-at-12.49.49-PM-810x570.jpg 810w, https://caa-ins.org/wp-content/uploads/2020/09/Screen-Capture-Sep-7-2020-at-12.49.49-PM-1140x802.jpg 1140w, https://caa-ins.org/wp-content/uploads/2020/09/Screen-Capture-Sep-7-2020-at-12.49.49-PM.jpg 1328w" width="1024"/>
+   </figure>
+   <div class="wp-block-media-text__content">
+    <p style="font-size:15px">
+     <strong>
+      “密”(Crypto)
+     </strong>
+     在古希腊语中有“隐藏”之意。有藏就有抓，作为应对方法，战争时期的密码技术应对的是敌方对我方重要信息的缉拿。只需一览两次世界大战期间密码机发展的小史，我们便能理解在“加密”“解密”一来一回的拉锯中，密码较量是如何演变为一种军备竞赛。而自从密码技术从军队专属转向民用，信息的争夺的双方也不再仅限于“政府和政府”之间，而是衍生政至“政府和平民”之间。作为武器的加密技术于是在上世纪七十年代迎来诸如“ITAR”和“EAA”之类将密码作为武器进行监管的法案。这些法案也正反映出密码作为用户维护个人数据所有权的武器，是如何狡黠而勇猛地冲击着互联网大企业对其作为数据农奴的个人用户自上而下的监控和开采。
+    </p>
+   </div>
+  </div>
   <p>
    <br/>
-   <strong>
-    “密”(Crypto)
-   </strong>
-   在古希腊语中有“隐藏”之意。有藏就有抓，作为应对方法，战争时期的密码技术应对的是敌方对我方重要信息的缉拿。只需一览两次世界大战期间密码机发展的小史，我们便能理解在“加密”“解密”一来一回的拉锯中，密码较量是如何演变为一种军备竞赛。而自从密码技术从军队专属转向民用，信息的争夺的双方也不再仅限于“政府和政府”之间，而是衍生政至“政府和平民”之间。作为武器的加密技术于是在上世纪七十年代迎来诸如“ITAR”和“EAA”之类将密码作为武器进行监管的法案。这些法案也正反映出密码作为用户维护个人数据所有权的武器，是如何狡黠而勇猛地冲击着互联网大企业对其作为数据农奴的个人用户自上而下的监控和开采。
-  </p>
-  <p>
    在各大互联网企业联合政府对用户信息进行大规模集中收集（这些信息有的用于商业，有的用于政治）的现代，“加密主义”其实是“监控之下”的加密主义。这些大规模监控常以“维护安全”之名进行，其中典型包括641A室，以及911事件之后以维护安全和反恐之名由美国国家安全局运作的“棱镜计划”。
   </p>
   <p>
@@ -227,7 +229,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter is-resized">
-    <img alt="" class="wp-image-6887" data-attachment-id="6887" data-comments-opened="0" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="crypto配图" data-large-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2020/09/crypto配图.jpg?fit=769%2C1024&amp;ssl=1" data-medium-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2020/09/crypto配图.jpg?fit=225%2C300&amp;ssl=1" data-orig-file="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2020/09/crypto配图.jpg?fit=1536%2C2046&amp;ssl=1" data-orig-size="1536,2046" data-permalink="https://www.caa-ins.org/archives/6881/crypto%e9%85%8d%e5%9b%be" data-recalc-dims="1" height="737" loading="lazy" sizes="(max-width: 553px) 100vw, 553px" src="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2020/09/crypto配图.jpg?resize=553%2C737&amp;ssl=1" srcset="https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2020/09/crypto配图.jpg?resize=769%2C1024&amp;ssl=1 769w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2020/09/crypto配图.jpg?resize=225%2C300&amp;ssl=1 225w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2020/09/crypto配图.jpg?resize=768%2C1023&amp;ssl=1 768w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2020/09/crypto配图.jpg?resize=1153%2C1536&amp;ssl=1 1153w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2020/09/crypto配图.jpg?resize=810%2C1079&amp;ssl=1 810w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2020/09/crypto配图.jpg?resize=1140%2C1519&amp;ssl=1 1140w, https://i1.wp.com/www.caa-ins.org/wp-content/uploads/2020/09/crypto配图.jpg?w=1536&amp;ssl=1 1536w" width="553"/>
+    <img alt="" class="wp-image-6887" data-attachment-id="6887" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="crypto配图" data-large-file="https://caa-ins.org/wp-content/uploads/2020/09/crypto配图-769x1024.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2020/09/crypto配图-225x300.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2020/09/crypto配图.jpg" data-orig-size="1536,2046" data-permalink="https://caa-ins.org/archives/6881/crypto%e9%85%8d%e5%9b%be" decoding="async" height="737" loading="lazy" sizes="(max-width: 553px) 100vw, 553px" src="https://13.124.147.85/wp-content/uploads/2020/09/crypto配图-769x1024.jpg" srcset="https://caa-ins.org/wp-content/uploads/2020/09/crypto配图-769x1024.jpg 769w, https://caa-ins.org/wp-content/uploads/2020/09/crypto配图-225x300.jpg 225w, https://caa-ins.org/wp-content/uploads/2020/09/crypto配图-768x1023.jpg 768w, https://caa-ins.org/wp-content/uploads/2020/09/crypto配图-1153x1536.jpg 1153w, https://caa-ins.org/wp-content/uploads/2020/09/crypto配图-810x1079.jpg 810w, https://caa-ins.org/wp-content/uploads/2020/09/crypto配图-1140x1519.jpg 1140w, https://caa-ins.org/wp-content/uploads/2020/09/crypto配图.jpg 1536w" width="553"/>
     <figcaption>
      由上至下由左至右：Maskbook，Likecoin，I2P，Tor，Tox，Open Bazaar（图片来自网络）
     </figcaption>
@@ -246,28 +248,27 @@ categories: [ 网络社会研究所 ]
    为触发讨论，本届年会有幸邀请该领域的技术实践者来分享他们对加密主义的洞见。他们包括LikeCoin和Decentralizehk的创始人高重建；共同组织“Cypherpunk Bitstream Podcast”的密码朋克和加密主义者FrankBraun及Smuggler；Inria de Paris的访问学者，麻省理工大学社会技术系统研究中心（Sociotechnical System Research Center）区块链技术研究员，Nym Technologies的CEO Harry Halpin；IT security company Nethemba s.r.o.的CEO，现居斯洛伐克的加密无政府主义者Pavol Luptak，以及Dimension &amp; Sujitech的CEO及创始人，Maskbook的创始人阎晗。
   </p>
   <hr class="wp-block-separator"/>
-  <h3>
+  <h3 class="wp-block-heading">
    <strong>
     过往年会资料
    </strong>
   </h3>
-  <h4>
+  <h4 class="wp-block-heading">
    第一届年会“网络化的力量”
   </h4>
-  <h5>
+  <h5 class="wp-block-heading">
    介绍与记录
   </h5>
   <p>
    <a href="http://mp.weixin.qq.com/s?__biz=MzI0MzQzNTczMA==&amp;mid=2247483976&amp;idx=1&amp;sn=c1510449acca7f476a35c3e32261ca35&amp;chksm=e96c53f5de1bdae3765da50d164922cbd56a37a2f620ed1ecf58c0402a06f601bfbe79ca4841&amp;scene=21#wechat_redirect" rel="noreferrer noopener" target="_blank">
     1.第一届网络社会年会花絮（多图）
    </a>
-  </p>
-  <p>
+   <br/>
    <a href="http://mp.weixin.qq.com/s?__biz=MzI0MzQzNTczMA==&amp;mid=2247483807&amp;idx=1&amp;sn=a44b086645b6a386a24bf89ce6c749e2&amp;chksm=e96c5022de1bd934de454e3bfa5d954c12190fa55148b60fc26c8e7b637f560e44741c22e995&amp;scene=21#wechat_redirect" rel="noreferrer noopener" target="_blank">
     2.2016年11月14-16日，中国杭州第一届网络社会年会邀请函
    </a>
   </p>
-  <h5>
+  <h5 class="wp-block-heading">
    出版物
   </h5>
   <p>
@@ -275,7 +276,7 @@ categories: [ 网络社会研究所 ]
     1.《“网络化的力量”——第一届网络社会年会论文集》新书出版
    </a>
   </p>
-  <h5>
+  <h5 class="wp-block-heading">
    现场演讲
   </h5>
   <p>
@@ -346,10 +347,10 @@ categories: [ 网络社会研究所 ]
    <br/>
    <br/>
   </p>
-  <h4>
+  <h4 class="wp-block-heading">
    第二届年会 “与列斐伏尔前行：算法时代的都市论与日常生活批判”
   </h4>
-  <h5>
+  <h5 class="wp-block-heading">
    介绍与记录
   </h5>
   <p>
@@ -362,7 +363,7 @@ categories: [ 网络社会研究所 ]
     2.2017年第二届网络社会年会全记录
    </a>
   </p>
-  <h5>
+  <h5 class="wp-block-heading">
    现场演讲
   </h5>
   <p>
@@ -450,10 +451,10 @@ categories: [ 网络社会研究所 ]
    </a>
    <br/>
   </p>
-  <h4>
+  <h4 class="wp-block-heading">
    第三届年会 “智慧都市网络”
   </h4>
-  <h5>
+  <h5 class="wp-block-heading">
    介绍与记录
   </h5>
   <p>
@@ -466,7 +467,7 @@ categories: [ 网络社会研究所 ]
     2.一个允诺政治对话框架的数字都市未来 — 第三届网络社会年会“智慧都市网络”圆满闭幕
    </a>
   </p>
-  <h5>
+  <h5 class="wp-block-heading">
    现场演讲
   </h5>
   <p>
@@ -542,10 +543,10 @@ categories: [ 网络社会研究所 ]
    </a>
    <br/>
   </p>
-  <h4>
+  <h4 class="wp-block-heading">
    第四届年会“网民21：超越个人账户”
   </h4>
-  <h5>
+  <h5 class="wp-block-heading">
    介绍与记录
   </h5>
   <p>
@@ -566,7 +567,7 @@ categories: [ 网络社会研究所 ]
     超越个人帐户: 第四届网络社会年会“网民21”备忘录
    </a>
   </p>
-  <h5>
+  <h5 class="wp-block-heading">
    现场演讲
   </h5>
   <p>
@@ -637,48 +638,50 @@ categories: [ 网络社会研究所 ]
   </p>
   <p>
   </p>
-  <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;referrer=https%3A%2F%2Fwww.caa-ins.org%2Farchives%2F6881" style="height: 212px; width: 100%;">
-  </iframe>
+  <figure class="likecoin-embed likecoin-button">
+   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fcaa-ins.org%2Farchives%2F6881" style="height:212px;width: 360px;">
+   </iframe>
+  </figure>
   <div class="sharedaddy sd-sharing-enabled">
    <div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing">
     <h3 class="sd-title">
-     共享此文章：
+     Share this:
     </h3>
     <div class="sd-content">
      <ul>
       <li class="share-facebook">
-       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-6881" href="https://www.caa-ins.org/archives/6881?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="点击以在 Facebook 上共享">
+       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-6881" href="https://caa-ins.org/archives/6881?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击以在 Facebook 上共享（在新窗口中打开）
+         Click to share on Facebook (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-twitter">
-       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-6881" href="https://www.caa-ins.org/archives/6881?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="点击以在 Twitter 上共享">
+       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-6881" href="https://caa-ins.org/archives/6881?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击以在 Twitter 上共享（在新窗口中打开）
+         Click to share on Twitter (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-custom share-custom-">
-       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/6881?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="单击在 新浪微博 上共享">
-        <span style="background-image:url(http://open.weibo.com/favicon.ico)">
+       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/6881?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on 新浪微博">
+        <span style='background-image:url("http://open.weibo.com/favicon.ico");'>
         </span>
         <span class="sharing-screen-reader-text">
-         单击在 新浪微博 上共享（在新窗口中打开）
+         Click to share on 新浪微博 (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-telegram">
-       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/6881?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="点击以在 Telegram 上共享">
+       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/6881?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Telegram">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击以在 Telegram 上共享（在新窗口中打开）
+         Click to share on Telegram (Opens in new window)
         </span>
        </a>
       </li>
