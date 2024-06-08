@@ -3,7 +3,7 @@ layout: post
 title: "第六届网络社会年会|刘怿斯：SparkLink，知识与艺术传播NFT分享计划"
 date: 2022-03-24
 author: 网络社会研究所
-from: https://www.caa-ins.org/archives/8614
+from: https://caa-ins.org/archives/8614
 tags: [ 网络社会研究所 ]
 categories: [ 网络社会研究所 ]
 ---
@@ -11,7 +11,7 @@ categories: [ 网络社会研究所 ]
 <article class="vce-single post-8614 post type-post status-publish format-standard has-post-thumbnail hentry category-3 tag-276 tag-301" id="post-8614">
  <header class="entry-header">
   <span class="meta-category">
-   <a class="category-3" href="https://www.caa-ins.org/archives/category/%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a">
+   <a class="category-3" href="https://caa-ins.org/archives/category/%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a">
     网络社会年会
    </a>
   </span>
@@ -24,29 +24,29 @@ categories: [ 网络社会研究所 ]
      2022-03-24
     </span>
    </div>
-   <div class="meta-item views">
-    5 Views
-   </div>
   </div>
  </header>
  <div class="entry-content">
   <figure class="wp-block-embed is-type-video is-provider-vimeo wp-block-embed-vimeo wp-embed-aspect-16-9 wp-has-aspect-ratio">
    <div class="wp-block-embed__wrapper">
     <div class="embed-vimeo" style="text-align: center;">
-     <iframe allowfullscreen="" frameborder="0" height="456" loading="lazy" mozallowfullscreen="" src="https://player.vimeo.com/video/691694620" webkitallowfullscreen="" width="810">
+     <iframe allowfullscreen="" frameborder="0" height="456" mozallowfullscreen="" src="https://player.vimeo.com/video/691694620" webkitallowfullscreen="" width="810">
      </iframe>
     </div>
    </div>
+   <figcaption>
+    视频剪辑：张述轩
+   </figcaption>
   </figure>
-  <h4 class="has-text-align-center" style="font-size:20px">
+  <h4 class="has-text-align-center wp-block-heading" style="font-size:20px">
    <strong>
     SparkLink，知识与艺术传播NFT分享计划
    </strong>
   </h4>
-  <h5 class="has-text-align-center" style="font-size:14px">
+  <h5 class="has-text-align-center wp-block-heading" style="font-size:14px">
    报告人 / 刘怿斯
   </h5>
-  <h5 class="has-text-align-center" style="font-size:14px">
+  <h5 class="has-text-align-center wp-block-heading" style="font-size:14px">
    图文整理 / 汤睿沄
   </h5>
   <p class="has-vce-meta-color has-vce-bg-background-color has-text-color has-background" style="font-size:15px">
@@ -66,21 +66,22 @@ categories: [ 网络社会研究所 ]
    在 web2.0时代，我们受到了无数中心化垄断技术的荼毒。我们隐私数据的所有权在所有中心化技术的侵蚀下不断被剥夺。与此同时，我也是互联网的内容生产者，每天我们在上网时产生的任何一次点击，任何一条推特，任何一次评论，都是对互联网中心化平台的一种贡献。不知不觉间，我们都成为了被大公司或者大平台剥削的数据劳工。
   </p>
   <p style="font-size:15px">
-   网络出现之前，人与人的连接依靠的可能是面对面的交流或是亲笔信件。我们通过分享彼此所爱的，形成认同或是建立连接与信任。但无论过去还是当下，分享者与受众之间总存在着一些无法回避的第三方。比如，作家与读者之间有时隔着出版社和经销商；演员，导演与观众之间隔着发行方与院线等等。这些多重中心化组织的参与，有时会使内容分享变得臃肿和低效，让作品的价值不再简单取决于作品内容本身，甚至令“创作”的价值被低估。如今，能以稿费或者版税盈余为生的作者少之又少，能在诸如medium和substack，或者review、方格子、max、知乎、微信公众号等付费墙，通过独立写作而活的作者更是难得一见。虽然创作者所获甚微，但对读者来说，结识一份内容可能需要各种付费购买。这些付费墙在某种程度上使得为网络所“拉进”的读者和作者之间的距离又越来越远了。
+   网络出现之前，人与人的连接依靠的可能是面对面的交流或是亲笔信件。我们通过分享彼此所爱的，形成认同或是建立连接与信任。但无论过去还是当下，分享者与受众之间总存在着一些无法回避的第三方。比如，作家与读者之间有时隔着出版社和经销商；演员，导演与观众之间隔着发行方与院线等等。这些多重中心化组织的参与，有时会使内容分享变得臃肿和低效，让作品的价值不再简单取决于作品内容本身，甚至令“创作”的价值被低估。如今，能以稿费或者版税盈余为生的作者少之又少，能在诸如Medium和Substack，或者Review、方格子知乎、微信公众号等付费墙，通过独立写作而活的作者更是难得一见。虽然创作者所获甚微，但对读者来说，结识一份内容可能需要各种付费购买。这些付费墙在某种程度上使得为网络所“拉进”的读者和作者之间的距离又越来越远了。
   </p>
-  <p style="font-size:15px">
-   <img src="blob:https://www.caa-ins.org/fec04873-33a3-4515-9b0e-71b4ab509f1e"/>
-  </p>
+  <div class="wp-block-image">
+   <figure class="aligncenter size-full">
+    <img alt="" class="wp-image-8651" data-attachment-id="8651" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="6th-con-yisi-插图" data-large-file="https://caa-ins.org/wp-content/uploads/2022/03/6th-con-yisi-插图.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2022/03/6th-con-yisi-插图-300x161.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2022/03/6th-con-yisi-插图.png" data-orig-size="605,325" data-permalink="https://caa-ins.org/archives/8614/6th-con-yisi-%e6%8f%92%e5%9b%be" decoding="async" fetchpriority="high" height="325" sizes="(max-width: 605px) 100vw, 605px" src="https://13.124.147.85/wp-content/uploads/2022/03/6th-con-yisi-插图.png" srcset="https://caa-ins.org/wp-content/uploads/2022/03/6th-con-yisi-插图.png 605w, https://caa-ins.org/wp-content/uploads/2022/03/6th-con-yisi-插图-300x161.png 300w" width="605">
+     <figcaption>
+      图1: Medium的一则内容订阅提示（图片取自作者ppt）
+     </figcaption>
+    </img>
+   </figure>
+  </div>
   <p style="font-size:15px">
    要获得一份内容，用户所面临的除了“付费”外，可能还有各种cookies
-   <sup class="modern-footnotes-footnote" data-mfn="1" data-mfn-post-scope="00000000265d59fa000000004d698c71_8614">
-    <a aria-describedby="mfn-content-00000000265d59fa000000004d698c71_8614" aria-pressed="false" href="javascript:void(0)" role="button">
-     1
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="1" id="mfn-content-00000000265d59fa000000004d698c71_8614" role="tooltip" tabindex="0">
+   <mfn>
     网站的某些网站为了辨别用户身份，进行Session跟踪而储存在用户本地终端上的数据（通常经过加密），由用户客户端计算机暂时或永久保存的信息网站的某些网站为了辨别用户身份，进行Session跟踪而储存在用户本地终端上的数据（通常经过加密），由用户客户端计算机暂时或永久保存的信息
-   </span>
+   </mfn>
    ；读者的金钱支付往往也不仅是惠及作者，还包括了平台本身的运作费用。除此之外，读者还要面对想读的书动辄绝版、停刊之类尴尬的状况。而常常被误以为中心化出版生态最终获利者的发行商和平台也并不是高枕无忧的，他们其实同样也承担着商业和政治的风险，以至于不得不对部分内容进行严苛地审核，还负担着高昂的印刷出版费和商业洽谈费。
   </p>
   <p style="font-size:15px">
@@ -95,9 +96,15 @@ categories: [ 网络社会研究所 ]
   <p style="font-size:15px">
    如大家所见，流程图最顶端的是”Root NFT“。作者在发行某作品时，我们会帮他铸造NFT。作为作者，他可以设定初始价格，也可以设定该NFT被分享和被购买的次数；而作为读者，我们可以选择去购买某个这样的NFT，成为所谓的“subscirber A”、“subscirber B“或者“subscirber N”。作为”subscribers“，我们又可以根据原始的NFT或原始作品进行二次创作做，铸造出新的子NFT，供更多人购买。当然，如果你只是想要去阅读或者是想传播原始NFT的话，你可以选择成为subscirber B，购买并将原始NFT传播下去。每一层购买NFT的行为都会为原作者贡献一定金额的版税。SparkLink将确保所有的传播，都将惠及内容原作者。在这个过程中，若传播者们（这些“subscriber A”，“subscribe B”们）尽职地挑选出了自己认可的内容，这些内容也为其他观众所承认，Root NFT有了更多层的购买，除了使优质内容的作者获益以外，传播者们也会因自己的工作获得相应的回报。在SparkLink整个项目中，我们最希望的就是把传播本身，即所谓“link”本身的价值体现出来。
   </p>
-  <p style="font-size:15px">
-   <img src="blob:https://www.caa-ins.org/12a04f3a-faed-4be8-9882-58ae2f0dacdf"/>
-  </p>
+  <div class="wp-block-image">
+   <figure class="aligncenter size-full">
+    <img alt="" class="wp-image-8653" data-attachment-id="8653" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="6th-con-yisi-pic2" data-large-file="https://caa-ins.org/wp-content/uploads/2022/03/6th-con-yisi-pic2.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2022/03/6th-con-yisi-pic2-300x180.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2022/03/6th-con-yisi-pic2.png" data-orig-size="500,300" data-permalink="https://caa-ins.org/archives/8614/6th-con-yisi-pic2" decoding="async" height="300" sizes="(max-width: 500px) 100vw, 500px" src="https://13.124.147.85/wp-content/uploads/2022/03/6th-con-yisi-pic2.png" srcset="https://caa-ins.org/wp-content/uploads/2022/03/6th-con-yisi-pic2.png 500w, https://caa-ins.org/wp-content/uploads/2022/03/6th-con-yisi-pic2-300x180.png 300w" width="500">
+     <figcaption>
+      图2:SparkLink运行机制图示（图片取自作者ppt）
+     </figcaption>
+    </img>
+   </figure>
+  </div>
   <p style="font-size:15px">
    除此之外，值得一提的是每一次更新的传播——如果你把 root看成level 0的话，那么上述Subscriber A就变成了level one，那subscirber c就是在下面大家可以看到，它其实level two——都将降低该内容在下一层的售价（最终，作品的价格将无限趋于0）。通过这样的机制，我们希望真正被更多人认同的内容创作能以更便宜的模式呈现在广大读者面前。如果各位对SparkLink的机制感兴趣，可以直接去
    <em>
@@ -113,18 +120,33 @@ categories: [ 网络社会研究所 ]
   <p style="font-size:15px">
    其实这类的需求在现今的NFT社区里也是普遍存在的——就拿crypto punks举例来说吧。crypto punks应该称得上是今年最流行的NFT了，它的“地板价”（floor price）曾经高达100以太币。这意味着一部分人看重其投资价值的人愿意花费30万、40万美金来购得一个头像。但在这类人之外，我发现更多人只是想要获得某张图片的使用权而已——他们只是需要把这一系列像素图当成自己的推特和微信头像，而”租赁“这类图像使用权的需求就应运而生。总之，针对Crypto Punks这样的案例来说，一部分人确实需要某NTF作品的”所有权“，但另有一部分人其实只是想要图像的使用权。
   </p>
-  <p>
-   <img src="blob:https://www.caa-ins.org/bd03da3e-c0c2-4eef-9e36-e2a94e8342b3"/>
-  </p>
+  <div class="wp-block-image">
+   <figure class="aligncenter size-full">
+    <img alt="" class="wp-image-8655" data-attachment-id="8655" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="6th-con-yisi-pic3" data-large-file="https://caa-ins.org/wp-content/uploads/2022/03/6th-con-yisi-pic3.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2022/03/6th-con-yisi-pic3-300x170.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2022/03/6th-con-yisi-pic3.png" data-orig-size="605,343" data-permalink="https://caa-ins.org/archives/8614/6th-con-yisi-pic3" decoding="async" height="343" loading="lazy" sizes="(max-width: 605px) 100vw, 605px" src="https://13.124.147.85/wp-content/uploads/2022/03/6th-con-yisi-pic3.png" srcset="https://caa-ins.org/wp-content/uploads/2022/03/6th-con-yisi-pic3.png 605w, https://caa-ins.org/wp-content/uploads/2022/03/6th-con-yisi-pic3-300x170.png 300w" width="605"/>
+    <figcaption>
+     图3:Cryptopunks（图片取自作者ppt）
+    </figcaption>
+   </figure>
+  </div>
   <p style="font-size:15px">
    今年，中国NFT社区里也诞生了一个非常有意思的实验，就是People’s Punk。他们组织内的每个人付出了一个以太坊的价格，集资购买了一个叼着烟斗的 Punk，这个小组于是获得了头像的所有权，而组内每个成员都获得了这一图像的使用权，并且对其进行了许多的二次创作。我今天也很想与各位讨论：这种碎片化的形式，尤其是著作权与使用权分离的机制多大程度上适用于我们所追求的新的公共知识出版机制呢？
   </p>
-  <p>
-   <img src="blob:https://www.caa-ins.org/59ca677d-9bbe-4673-9e4d-bbdb91e09268"/>
-  </p>
-  <p style="font-size:15px">
-   <img src="blob:https://www.caa-ins.org/a6b27a0d-e807-4dba-8899-7f8543c6a9c0"/>
-  </p>
+  <div class="wp-block-image">
+   <figure class="aligncenter size-full">
+    <img alt="" class="wp-image-8657" data-attachment-id="8657" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="6thcon-yisi-pic4" data-large-file="https://caa-ins.org/wp-content/uploads/2022/03/6thcon-yisi-pic4.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2022/03/6thcon-yisi-pic4-300x159.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2022/03/6thcon-yisi-pic4.png" data-orig-size="605,321" data-permalink="https://caa-ins.org/archives/8614/6thcon-yisi-pic4" decoding="async" height="321" loading="lazy" sizes="(max-width: 605px) 100vw, 605px" src="https://13.124.147.85/wp-content/uploads/2022/03/6thcon-yisi-pic4.png" srcset="https://caa-ins.org/wp-content/uploads/2022/03/6thcon-yisi-pic4.png 605w, https://caa-ins.org/wp-content/uploads/2022/03/6thcon-yisi-pic4-300x159.png 300w" width="605"/>
+    <figcaption>
+     图4:People’s Punk（图片取自作者ppt）
+    </figcaption>
+   </figure>
+  </div>
+  <div class="wp-block-image">
+   <figure class="aligncenter size-full">
+    <img alt="" class="wp-image-8658" data-attachment-id="8658" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="6th-con-yisi-pic5" data-large-file="https://caa-ins.org/wp-content/uploads/2022/03/6th-con-yisi-pic5.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2022/03/6th-con-yisi-pic5-300x167.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2022/03/6th-con-yisi-pic5.png" data-orig-size="605,337" data-permalink="https://caa-ins.org/archives/8614/6th-con-yisi-pic5" decoding="async" height="337" loading="lazy" sizes="(max-width: 605px) 100vw, 605px" src="https://13.124.147.85/wp-content/uploads/2022/03/6th-con-yisi-pic5.png" srcset="https://caa-ins.org/wp-content/uploads/2022/03/6th-con-yisi-pic5.png 605w, https://caa-ins.org/wp-content/uploads/2022/03/6th-con-yisi-pic5-300x167.png 300w" width="605"/>
+    <figcaption>
+     图5:SparkLink可能的使用场景（图片取自作者ppt）
+    </figcaption>
+   </figure>
+  </div>
   <p style="font-size:15px">
    最后，我还想在我的报告中介绍一些可能适用于SparkLink的应用场景。
   </p>
@@ -134,20 +156,19 @@ categories: [ 网络社会研究所 ]
   <p style="font-size:15px">
    最后我还想说，如今代理我们公共知识出版的部分中间商和大平台将知识价值制定原则死死封在了“算法”的黑盒子里，我认为这种不透明不仅为炒作和坐地起价提供了很大的便利，还加剧了我们普通的技术工作者改变现状的难度。因此，我们将SparkLink安置于开源的区块链技术至上，至少令内容的价值和价格堆砌过程完全公示出来。我们并不会因为追求价值知识的价值而避讳知识的价格，而是要公平的主动的参与公共领域知识的定价，令公共领域内知识的价值转化为群体的利益，而非那些代缴纳的代理的或者说那些所被垄断的那种费用。我的报告就到此为止了，请大家批评，也希望今天的讨论能为项目的未来发展建立一个比较好的基础。谢谢大家。
   </p>
-  <h5 class="has-text-align-center">
+  <h5 class="has-text-align-center wp-block-heading">
    <strong>
     本文作者
    </strong>
   </h5>
   <div class="wp-block-image">
    <figure class="aligncenter size-large is-resized">
-    <img alt="" class="wp-image-8647" data-attachment-id="8647" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="15DBB628-41AD-4F23-AB68-4CAD8F2E2B49" data-large-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/03/15DBB628-41AD-4F23-AB68-4CAD8F2E2B49.png?fit=810%2C810&amp;ssl=1" data-medium-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/03/15DBB628-41AD-4F23-AB68-4CAD8F2E2B49.png?fit=300%2C300&amp;ssl=1" data-orig-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/03/15DBB628-41AD-4F23-AB68-4CAD8F2E2B49.png?fit=3264%2C3264&amp;ssl=1" data-orig-size="3264,3264" data-permalink="https://www.caa-ins.org/archives/8614/15dbb628-41ad-4f23-ab68-4cad8f2e2b49" data-recalc-dims="1" height="-411" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/03/15DBB628-41AD-4F23-AB68-4CAD8F2E2B49.png?resize=810%2C810&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/03/15DBB628-41AD-4F23-AB68-4CAD8F2E2B49.png?resize=1024%2C1024&amp;ssl=1 1024w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/03/15DBB628-41AD-4F23-AB68-4CAD8F2E2B49.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/03/15DBB628-41AD-4F23-AB68-4CAD8F2E2B49.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/03/15DBB628-41AD-4F23-AB68-4CAD8F2E2B49.png?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/03/15DBB628-41AD-4F23-AB68-4CAD8F2E2B49.png?resize=1536%2C1536&amp;ssl=1 1536w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/03/15DBB628-41AD-4F23-AB68-4CAD8F2E2B49.png?resize=2048%2C2048&amp;ssl=1 2048w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/03/15DBB628-41AD-4F23-AB68-4CAD8F2E2B49.png?resize=810%2C810&amp;ssl=1 810w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/03/15DBB628-41AD-4F23-AB68-4CAD8F2E2B49.png?resize=1140%2C1140&amp;ssl=1 1140w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/03/15DBB628-41AD-4F23-AB68-4CAD8F2E2B49.png?w=1620&amp;ssl=1 1620w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/03/15DBB628-41AD-4F23-AB68-4CAD8F2E2B49.png?w=2430&amp;ssl=1 2430w" width="-411">
-     <figcaption>
-      刘怿斯
-      <br/>
-      Dimension.im 技术长
-     </figcaption>
-    </img>
+    <img alt="" class="wp-image-8647" data-attachment-id="8647" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="15DBB628-41AD-4F23-AB68-4CAD8F2E2B49" data-large-file="https://caa-ins.org/wp-content/uploads/2022/03/15DBB628-41AD-4F23-AB68-4CAD8F2E2B49-1024x1024.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2022/03/15DBB628-41AD-4F23-AB68-4CAD8F2E2B49-300x300.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2022/03/15DBB628-41AD-4F23-AB68-4CAD8F2E2B49.png" data-orig-size="3264,3264" data-permalink="https://caa-ins.org/archives/8614/15dbb628-41ad-4f23-ab68-4cad8f2e2b49" decoding="async" height="-998" sizes="(max-width: 1024px) 100vw, 1024px" src="https://13.124.147.85/wp-content/uploads/2022/03/15DBB628-41AD-4F23-AB68-4CAD8F2E2B49-1024x1024.png" srcset="https://caa-ins.org/wp-content/uploads/2022/03/15DBB628-41AD-4F23-AB68-4CAD8F2E2B49-1024x1024.png 1024w, https://caa-ins.org/wp-content/uploads/2022/03/15DBB628-41AD-4F23-AB68-4CAD8F2E2B49-300x300.png 300w, https://caa-ins.org/wp-content/uploads/2022/03/15DBB628-41AD-4F23-AB68-4CAD8F2E2B49-150x150.png 150w, https://caa-ins.org/wp-content/uploads/2022/03/15DBB628-41AD-4F23-AB68-4CAD8F2E2B49-768x768.png 768w, https://caa-ins.org/wp-content/uploads/2022/03/15DBB628-41AD-4F23-AB68-4CAD8F2E2B49-1536x1536.png 1536w, https://caa-ins.org/wp-content/uploads/2022/03/15DBB628-41AD-4F23-AB68-4CAD8F2E2B49-2048x2048.png 2048w, https://caa-ins.org/wp-content/uploads/2022/03/15DBB628-41AD-4F23-AB68-4CAD8F2E2B49-810x810.png 810w, https://caa-ins.org/wp-content/uploads/2022/03/15DBB628-41AD-4F23-AB68-4CAD8F2E2B49-1140x1140.png 1140w" width="-998"/>
+    <figcaption>
+     刘怿斯
+     <br/>
+     Dimension.im 技术长
+    </figcaption>
    </figure>
   </div>
   <p>
@@ -155,49 +176,49 @@ categories: [ 网络社会研究所 ]
   <p>
   </p>
   <figure class="likecoin-embed likecoin-button">
-   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fwww.caa-ins.org%2Farchives%2F8614" style="height: 212px; width: 100%;">
+   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fcaa-ins.org%2Farchives%2F8614" style="height:212px;width: 360px;">
    </iframe>
   </figure>
   <div class="sharedaddy sd-sharing-enabled">
    <div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing">
     <h3 class="sd-title">
-     分享到：
+     Share this:
     </h3>
     <div class="sd-content">
      <ul>
       <li class="share-facebook">
-       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-8614" href="https://www.caa-ins.org/archives/8614?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="点击分享到 Facebook ">
+       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-8614" href="https://caa-ins.org/archives/8614?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击分享到 Facebook （在新窗口中打开）
+         Click to share on Facebook (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-twitter">
-       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-8614" href="https://www.caa-ins.org/archives/8614?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="点击分享到Twitter">
+       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-8614" href="https://caa-ins.org/archives/8614?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击分享到Twitter（在新窗口中打开）
+         Click to share on Twitter (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-custom share-custom-">
-       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/8614?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="点击分享到新浪微博">
-        <span style="background-image:url(http://open.weibo.com/favicon.ico)">
+       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/8614?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on 新浪微博">
+        <span style='background-image:url("http://open.weibo.com/favicon.ico");'>
         </span>
         <span class="sharing-screen-reader-text">
-         点击分享到新浪微博（在新窗口中打开）
+         Click to share on 新浪微博 (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-telegram">
-       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/8614?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="点击分享到Telegram">
+       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/8614?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Telegram">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击分享到Telegram（在新窗口中打开）
+         Click to share on Telegram (Opens in new window)
         </span>
        </a>
       </li>
@@ -210,10 +231,10 @@ categories: [ 网络社会研究所 ]
  </div>
  <footer class="entry-footer">
   <div class="meta-tags">
-   <a href="https://www.caa-ins.org/archives/tag/%e5%88%98%e6%80%bf%e6%96%af" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/%e5%88%98%e6%80%bf%e6%96%af" rel="tag">
     刘怿斯
    </a>
-   <a href="https://www.caa-ins.org/archives/tag/%e7%ac%ac%e5%85%ad%e5%b1%8a%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/%e7%ac%ac%e5%85%ad%e5%b1%8a%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a" rel="tag">
     第六届网络社会年会
    </a>
   </div>
