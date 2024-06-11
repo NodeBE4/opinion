@@ -3,7 +3,7 @@ layout: post
 title: "第七届网络社会年会 杭州论坛 主题演讲|Daniel Ross：当不再有欲望，就没有爱，当不再有爱，友爱就不复存"
 date: 2022-12-27
 author: 网络社会研究所
-from: https://www.caa-ins.org/archives/10346
+from: https://caa-ins.org/archives/10346
 tags: [ 网络社会研究所 ]
 categories: [ 网络社会研究所 ]
 ---
@@ -11,7 +11,7 @@ categories: [ 网络社会研究所 ]
 <article class="vce-single post-10346 post type-post status-publish format-standard has-post-thumbnail hentry category-3 tag-daniel-ross tag-361 tag-413 tag-414 tag-412 tag-331" id="post-10346">
  <header class="entry-header">
   <span class="meta-category">
-   <a class="category-3" href="https://www.caa-ins.org/archives/category/%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a">
+   <a class="category-3" href="https://caa-ins.org/archives/category/%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a">
     网络社会年会
    </a>
   </span>
@@ -23,9 +23,6 @@ categories: [ 网络社会研究所 ]
     <span class="updated">
      2022-12-27
     </span>
-   </div>
-   <div class="meta-item views">
-    26 Views
    </div>
   </div>
  </header>
@@ -46,7 +43,7 @@ categories: [ 网络社会研究所 ]
    </figcaption>
   </figure>
   <hr class="wp-block-separator has-alpha-channel-opacity"/>
-  <h2 class="has-text-align-center">
+  <h2 class="has-text-align-center wp-block-heading">
    当不再有欲望，就没有爱，当不再有爱，友爱就不复存
   </h2>
   <p class="has-text-align-center">
@@ -83,7 +80,7 @@ categories: [ 网络社会研究所 ]
     </p>
    </blockquote>
   </figure>
-  <h3 class="has-text-align-left">
+  <h3 class="has-text-align-left wp-block-heading">
    <strong>
     简介
    </strong>
@@ -97,7 +94,7 @@ categories: [ 网络社会研究所 ]
   <p>
    虽然这份手稿既没有以英文也没有以法文出版，但无可置疑的是这份手稿仍然是丰富而重要的，值得见诸于世。在此，请允许我以下面这篇过于简略的文章对手稿所包含的大量充满关怀的思想做个介绍。但与任何时候一样，这意味着首先要把斯蒂格勒的作品作为一个整体来介绍。
   </p>
-  <h3>
+  <h3 class="wp-block-heading">
    <strong>
     斯蒂格勒的复杂起源
    </strong>
@@ -107,14 +104,9 @@ categories: [ 网络社会研究所 ]
   </p>
   <p>
    据斯蒂格勒说，他真正的哲学出发点源于阅读亚里士多德的《论灵魂》，特别是其中对植物的、感觉的和心智的灵魂的描述
-   <sup class="modern-footnotes-footnote" data-mfn="1" data-mfn-post-scope="0000000000c97e53000000006e5f0794_10346">
-    <a aria-describedby="mfn-content-0000000000c97e53000000006e5f0794_10346" aria-pressed="false" href="javascript:void(0)" role="button">
-     1
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="1" id="mfn-content-0000000000c97e53000000006e5f0794_10346" role="tooltip" tabindex="0">
+   <mfn>
     Bernard Stiegler, _Acting Out_, trans. David Barison, Daniel Ross and Patrick Crogan (Stanford: Stanford University Press, 2009), pp. 12–15; Bernard Stiegler, _The Age of Disruption: Technology and Madness in Computational Capitalism_, trans. Daniel Ross (Cambridge: Polity Press, 2019), p. 209.
-   </span>
+   </mfn>
    。这一起源本身是复杂的，通过阅读黑格尔对亚里士多德的阐释，它才向斯蒂格勒敞开。黑格尔从潜能与实现的角度解读了亚氏对这一自持、自动的生成过程的三分法。斯蒂格勒解读了黑格尔对亚里士多德的解读，其关键在于，心智灵魂的实现是一种上升，只能是间歇性的，是对于无法消除的回落、下降或倒退的趋势的暂时的对抗-趋势；其次，要看到，心智灵魂的可能性条件源于它与专门针对这种间歇地可实现的潜能的某种环境的纠缠状态。斯蒂格勒的问题变成了，这种心智环境的本质为何。
   </p>
   <p>
@@ -132,7 +124,7 @@ categories: [ 网络社会研究所 ]
   <p>
    斯蒂格勒在上个十年的中期，在遭遇行星系统极限的情况下，转向了熵和信息的观念的地位，如果考虑到以上这一点，我们就能把这个转向看作已经深深地隐含在心智间歇性的问题以及它和赋予它投射能力的滞留环境的关联的问题中，这些是当务之急。如果我们不牢记这个复杂的起源，就很难准确地看到斯蒂格勒关于”谁”和”什么”的共同演化的论述是如何必然地导致关于熵和信息的问题，这些问题最终占据了他的工作和思想的最后时期。
   </p>
-  <h2>
+  <h2 class="wp-block-heading">
    <strong>
     前三卷与后二十本
    </strong>
@@ -142,32 +134,17 @@ categories: [ 网络社会研究所 ]
   </p>
   <p>
    《爱比米修斯的过失》一开始就提出了我们已经概述过的论点：“本书的对象是技术，它被理解为即将来临的一切可能性和未来的一切可能性之地平线。”
-   <sup class="modern-footnotes-footnote" data-mfn="2" data-mfn-post-scope="0000000000c97e53000000006e5f0794_10346">
-    <a aria-describedby="mfn-content-0000000000c97e53000000006e5f0794_10346" aria-pressed="false" href="javascript:void(0)" role="button">
-     2
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="2" id="mfn-content-0000000000c97e53000000006e5f0794_10346" role="tooltip" tabindex="0">
+   <mfn>
     Bernard Stiegler, _Technics and Time, 1: The Fault of Epimetheus_, trans. Richard Beardsworth and George Collins (Stanford: Stanford University Press, 1998), p. ix.
-   </span>
+   </mfn>
    即便这个对象被压抑了，但是它表达为一个拥有异于内体式生命进化的动力的对象，始于马克思和恩格斯在《德意志意识形态》中的这句话：人类 “一旦开始生产他们的生计资料，就开始把自己与动物区分开来”，而且这种生产不仅涉及生计，还涉及人类的个人和群体的”一种决定性的生活方式”
-   <sup class="modern-footnotes-footnote" data-mfn="3" data-mfn-post-scope="0000000000c97e53000000006e5f0794_10346">
-    <a aria-describedby="mfn-content-0000000000c97e53000000006e5f0794_10346" aria-pressed="false" href="javascript:void(0)" role="button">
-     3
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="3" id="mfn-content-0000000000c97e53000000006e5f0794_10346" role="tooltip" tabindex="0">
+   <mfn>
     Karl Marx and Friedrich Engels, _The German Ideology_, students edition, trans. W. Lough, C. Dutt and C. P. Magill (London: Lawrence &amp; Wishart, 1974), p. 42.
-   </span>
+   </mfn>
    。这将导致马克思在《资本论》中提出需要”关于技术的批判性历史研究”，因为”社会中的人类的生产器官是每一个特定社会组织的物质基础【……】其历史”，应该得到与达尔文关注”自然技术的历史”
-   <sup class="modern-footnotes-footnote" data-mfn="4" data-mfn-post-scope="0000000000c97e53000000006e5f0794_10346">
-    <a aria-describedby="mfn-content-0000000000c97e53000000006e5f0794_10346" aria-pressed="false" href="javascript:void(0)" role="button">
-     4
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="4" id="mfn-content-0000000000c97e53000000006e5f0794_10346" role="tooltip" tabindex="0">
+   <mfn>
     Karl Marx, _Capital: A Critique of Political Economy, Volume One_, trans. Ben Fowkes (Harmondsworth, Middlesex: Penguin, 1976), p. 493, n. 4.
-   </span>
+   </mfn>
    时同样的关注。
   </p>
   <p>
@@ -175,56 +152,31 @@ categories: [ 网络社会研究所 ]
   </p>
   <p>
    新的技术系统与其他系统的协调总是一种权宜之计，通过一些任意的行动力，并伴随着必然/必要的各种错误和反转，直到一个令人满意的平衡出现
-   <sup class="modern-footnotes-footnote" data-mfn="5" data-mfn-post-scope="0000000000c97e53000000006e5f0794_10346">
-    <a aria-describedby="mfn-content-0000000000c97e53000000006e5f0794_10346" aria-pressed="false" href="javascript:void(0)" role="button">
-     5
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="5" id="mfn-content-0000000000c97e53000000006e5f0794_10346" role="tooltip" tabindex="0">
+   <mfn>
     Bertrand Gille, _The History of Techniques, Volume 1: Techniques and Civilizations_, trans. P. Southgate and T. Williamson (New York: Gordon &amp; Breach, 1986), p. 66.
-   </span>
+   </mfn>
    。
   </p>
   <p>
    今天，”创新和经济增长总是捆绑并进了”
-   <sup class="modern-footnotes-footnote" data-mfn="6" data-mfn-post-scope="0000000000c97e53000000006e5f0794_10346">
-    <a aria-describedby="mfn-content-0000000000c97e53000000006e5f0794_10346" aria-pressed="false" href="javascript:void(0)" role="button">
-     6
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="6" id="mfn-content-0000000000c97e53000000006e5f0794_10346" role="tooltip" tabindex="0">
+   <mfn>
     Ibid., p. 63.
-   </span>
+   </mfn>
    ，这个过程被斯蒂格勒称为 “永久创新”
-   <sup class="modern-footnotes-footnote" data-mfn="7" data-mfn-post-scope="0000000000c97e53000000006e5f0794_10346">
-    <a aria-describedby="mfn-content-0000000000c97e53000000006e5f0794_10346" aria-pressed="false" href="javascript:void(0)" role="button">
-     7
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="7" id="mfn-content-0000000000c97e53000000006e5f0794_10346" role="tooltip" tabindex="0">
+   <mfn>
     Stiegler, _Technics and Time, 1_, p. 15.
-   </span>
+   </mfn>
    ，它导致技术系统与社会系统分家，也就是说，导致在技术和文化的关怀能力之间的速度差。在安德烈·勒鲁瓦-古尔汉（André Leroi-Gourhan）那里，这种动态被设想为”技术趋势”和”技术事实”之间的关系，前者在不同的文化中具有相似性，因而越过了人类存在的”族群”划分，后者是这些趋势的偶然表达，它在技术和族群的相互作用中展开
-   <sup class="modern-footnotes-footnote" data-mfn="8" data-mfn-post-scope="0000000000c97e53000000006e5f0794_10346">
-    <a aria-describedby="mfn-content-0000000000c97e53000000006e5f0794_10346" aria-pressed="false" href="javascript:void(0)" role="button">
-     8
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="8" id="mfn-content-0000000000c97e53000000006e5f0794_10346" role="tooltip" tabindex="0">
+   <mfn>
     See André Leroi-Gourhan, _Milieu et techniques_ (Paris: Albin Michel, 1945).
-   </span>
+   </mfn>
    。
   </p>
   <p>
    古尔汉最重要的观点是，生命是一部征服空间和时间的历史，
-   <sup class="modern-footnotes-footnote" data-mfn="9" data-mfn-post-scope="0000000000c97e53000000006e5f0794_10346">
-    <a aria-describedby="mfn-content-0000000000c97e53000000006e5f0794_10346" aria-pressed="false" href="javascript:void(0)" role="button">
-     9
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="9" id="mfn-content-0000000000c97e53000000006e5f0794_10346" role="tooltip" tabindex="0">
+   <mfn>
     André Leroi-Gourhan, _Gesture and Speech_, trans. Anna Bostock Berger (Cambridge, Massachusetts and London: MIT Press, 1993), p. 26.
-   </span>
+   </mfn>
    而且这是通过记忆的形式来实现的，首先是以基因的形式，然后是神经的，但它后来被第三种记忆所增补，这种记忆不再是有机的，但又是有机化了的。古尔汉称这为”外化”，即”与种群的存续有关的操作性程序的外化”，它：
   </p>
   <figure class="wp-block-pullquote">
@@ -233,14 +185,9 @@ categories: [ 网络社会研究所 ]
      <em>
       在当今社会中引发了巨大的解放，以至于工具和姿势如今都被包含进机器中了，操作性的记忆被包含进自动设备中，而编程本身也被包含进电子设备中了。
      </em>
-     <sup class="modern-footnotes-footnote" data-mfn="10" data-mfn-post-scope="0000000000c97e53000000006e5f0794_10346">
-      <a aria-describedby="mfn-content-0000000000c97e53000000006e5f0794_10346" aria-pressed="false" href="javascript:void(0)" role="button">
-       10
-      </a>
-     </sup>
-     <span class="modern-footnotes-footnote__note" data-mfn="10" id="mfn-content-0000000000c97e53000000006e5f0794_10346" role="tooltip" tabindex="0">
+     <mfn>
       Ibid., pp. 237–38.
-     </span>
+     </mfn>
     </p>
    </blockquote>
   </figure>
@@ -249,14 +196,9 @@ categories: [ 网络社会研究所 ]
   </p>
   <p>
    与吉尔伯特·西蒙东（Gilbert Simondon）一样，斯蒂格勒把吉尔说的永久创新和古尔汉的族群解体理解为”技术的自主化”的后果，“通过这种自主化，它就是它自己的法律，简直成了唯一的法律”。这是技术的”具体化”，它被其功能性过度决定，但这种动态也”极有可能导致人类操作者的消失（或被替代）”。
-   <sup class="modern-footnotes-footnote" data-mfn="11" data-mfn-post-scope="0000000000c97e53000000006e5f0794_10346">
-    <a aria-describedby="mfn-content-0000000000c97e53000000006e5f0794_10346" aria-pressed="false" href="javascript:void(0)" role="button">
-     11
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="11" id="mfn-content-0000000000c97e53000000006e5f0794_10346" role="tooltip" tabindex="0">
+   <mfn>
     Stiegler, _Technics and Time, 1_, pp. 92–93.
-   </span>
+   </mfn>
    因此，技术系统的个体化问题导致了海德格尔的“集置”（Gestell）问题，也就是技术自主化的进程问题，它甚至”架置”了自然和人类，使它们被迫“呈报”，并以某种方式被“削减”为那些系统——它们不再只是技术的，而且是信息的——的效能性。
   </p>
   <p>
@@ -264,14 +206,9 @@ categories: [ 网络社会研究所 ]
   </p>
   <p>
    《迷失方向》通过批判胡塞尔关于时间意识的论述，来探索作为所有可能性和所有未来的地平线的技术问题。
-   <sup class="modern-footnotes-footnote" data-mfn="12" data-mfn-post-scope="0000000000c97e53000000006e5f0794_10346">
-    <a aria-describedby="mfn-content-0000000000c97e53000000006e5f0794_10346" aria-pressed="false" href="javascript:void(0)" role="button">
-     12
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="12" id="mfn-content-0000000000c97e53000000006e5f0794_10346" role="tooltip" tabindex="0">
+   <mfn>
     Edmund Husserl, _On the Phenomenology of the Consciousness of Internal Time (1893–1917)_, trans. John Barnett Brough (Dordrecht: Kluwer Academic Publishers, 1991); Bernard Stiegler, _Technics and Time, 2: Disorientation_, trans. Stephen Barker (Stanford: Stanford University Press, 2009), chs 1–3.
-   </span>
+   </mfn>
    斯蒂格勒承认第一滞留和第二滞留之间的区别对于说明心智的时间性的建构是必要的，但
    <strong>
     他坚持认为
@@ -280,123 +217,68 @@ categories: [ 网络社会研究所 ]
   </p>
   <p>
    斯蒂格勒称那些致力于教育的社会机构为”编程机构”，因为它们通过塑造注意力，使开放的未来成为可能。
-   <sup class="modern-footnotes-footnote" data-mfn="13" data-mfn-post-scope="0000000000c97e53000000006e5f0794_10346">
-    <a aria-describedby="mfn-content-0000000000c97e53000000006e5f0794_10346" aria-pressed="false" href="javascript:void(0)" role="button">
-     13
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="13" id="mfn-content-0000000000c97e53000000006e5f0794_10346" role="tooltip" tabindex="0">
+   <mfn>
     Bernard Stiegler, _Taking Care of Youth and the Generations_, trans. Stephen Barker (Stanford: Stanford University Press, 2010), ch. 4.
-   </span>
+   </mfn>
    然而，随着工业革命的发生，各种新型的第三滞留出现了，它们越来越将知识转化为信息，无论是将其编写入机器还是作为”新闻”来传播
-   <sup class="modern-footnotes-footnote" data-mfn="14" data-mfn-post-scope="0000000000c97e53000000006e5f0794_10346">
-    <a aria-describedby="mfn-content-0000000000c97e53000000006e5f0794_10346" aria-pressed="false" href="javascript:void(0)" role="button">
-     14
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="14" id="mfn-content-0000000000c97e53000000006e5f0794_10346" role="tooltip" tabindex="0">
+   <mfn>
     Stiegler, _Technics and Time, 2_, p. 112.
-   </span>
+   </mfn>
    。知识是注意力的对象，是知识让人能关照未来的视野并保持其开放，但信息的现代含义却越来越被构想为市场上的商品，因此随着时间流逝和在空间中的传播，信息往往会失去其价值。
-   <sup class="modern-footnotes-footnote" data-mfn="15" data-mfn-post-scope="0000000000c97e53000000006e5f0794_10346">
-    <a aria-describedby="mfn-content-0000000000c97e53000000006e5f0794_10346" aria-pressed="false" href="javascript:void(0)" role="button">
-     15
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="15" id="mfn-content-0000000000c97e53000000006e5f0794_10346" role="tooltip" tabindex="0">
+   <mfn>
     Technics and Time, 4_ will express this distinction between information and knowledge in economic terms as the difference between rivalrous and non-rivalrous goods (§36).
-   </span>
+   </mfn>
    在这个过程中，编程机构们发现自己正在与作为文化工业、进而是信息工业的编程工业斗争，后者作为营销，其目的就是切断知识的跨代传承所依赖的代际联系。从前，为培育知识而做的对空间和时间的安排使个人和团体能根据日历、一天中的时辰和神圣的场所来为自己定向，而信息市场则以效果和利润为由，几乎将所有这些都溶解为无时间的时间和空洞的空间。
   </p>
   <p>
    《电影般的时间与不适的问题》又回到了第三滞留的问题上。胡塞尔关注的是作为典型的”时间客体”的旋律，通过它可以区分第一滞留与第二滞留，而在第三卷中，斯蒂格勒从听觉转向了视听——电影（包括电视）。正是电影和电视的发明将以生产为中心的工业的生活方式转变为以消费为中心的超工业的方式，在转变过程中，这些模拟式的视听技术被证明是让全球接受”美式生活”梦想时最重要的手段。
-   <sup class="modern-footnotes-footnote" data-mfn="16" data-mfn-post-scope="0000000000c97e53000000006e5f0794_10346">
-    <a aria-describedby="mfn-content-0000000000c97e53000000006e5f0794_10346" aria-pressed="false" href="javascript:void(0)" role="button">
-     16
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="16" id="mfn-content-0000000000c97e53000000006e5f0794_10346" role="tooltip" tabindex="0">
+   <mfn>
     Bernard Stiegler, _Technics and Time, 3: Cinematic Time and the Question of Malaise_, trans. Stephen Barker (Stanford: Stanford University Press, 2011), ch. 3.
-   </span>
+   </mfn>
    斯蒂格勒发现，这种使新的消费主义霸权成为可能的电影的力量，首先来自于这样一个事实：电影，就像罗兰·巴特所描述的摄影
-   <sup class="modern-footnotes-footnote" data-mfn="17" data-mfn-post-scope="0000000000c97e53000000006e5f0794_10346">
-    <a aria-describedby="mfn-content-0000000000c97e53000000006e5f0794_10346" aria-pressed="false" href="javascript:void(0)" role="button">
-     17
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="17" id="mfn-content-0000000000c97e53000000006e5f0794_10346" role="tooltip" tabindex="0">
+   <mfn>
     Roland Barthes, _Camera Lucida: Reflections on Photography_, trans. Richard Howard (London: HarperCollins, 1984).
-   </span>
+   </mfn>
    ，涉及一种物质性的链接、一条光子链，它将被记录的对象与观众对记录的感知联系起来，产生了一种强烈的”真实效果”；其次，这种力量也源于电影拥有与意识本身相似的特征，确切说来是这样，感知涉及到一种筛选，从可能的第一滞留中进行选择（并且，筛选标准来自第二滞留，而后者本身又受制于第三滞留），或者换句话说，正是在感知的进行中，感知就已经被剪辑、被后期制作过了，这可以说是在暗地里做的。
-   <sup class="modern-footnotes-footnote" data-mfn="18" data-mfn-post-scope="0000000000c97e53000000006e5f0794_10346">
-    <a aria-describedby="mfn-content-0000000000c97e53000000006e5f0794_10346" aria-pressed="false" href="javascript:void(0)" role="button">
-     18
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="18" id="mfn-content-0000000000c97e53000000006e5f0794_10346" role="tooltip" tabindex="0">
+   <mfn>
     Stiegler, _Technics and Time, 3_, ch. 1; see also Bernard Stiegler, ‘The Discrete Image’, in Jacques Derrida and Bernard Stiegler, _Echographies of Television: Filmed Interviews_, trans. Jennifer Bajorek (Cambridge: Polity Press, 2002).
-   </span>
+   </mfn>
   </p>
   <p>
    斯蒂格勒在关于电影的一次演讲中扩展了这一论点：如果确实是第三滞留开启了区分第一滞留和第二滞留的可能性，那么，与其说电影就像是意识的结构，不如说意识的可能性来自于某种类似于元-电影的东西，而且最初来自于一种史前的原始-电影，斯蒂格勒就把肖维岩洞和拉斯科岩洞的岩画认作这种原始-电影，根据马克·阿泽马（Marc Azéma），这些岩画已经在某种程度上动画化了。
-   <sup class="modern-footnotes-footnote" data-mfn="19" data-mfn-post-scope="0000000000c97e53000000006e5f0794_10346">
-    <a aria-describedby="mfn-content-0000000000c97e53000000006e5f0794_10346" aria-pressed="false" href="javascript:void(0)" role="button">
-     19
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="19" id="mfn-content-0000000000c97e53000000006e5f0794_10346" role="tooltip" tabindex="0">
+   <mfn>
     Bernard Stiegler, _The Neganthropocene_, trans. Daniel Ross (London: Open Humanities Press, 2018), ch. 10; see also Marc Azéma, _La Préhistoire ducinéma: Origines paléolithiques de la narration graphique et du cinématographe…_ (Paris: Errance, 2011).
-   </span>
+   </mfn>
    斯蒂格勒认为，康德正因为没有看到这一点，他才声称将直观的材料（第一滞留）与知性的概念连接起来的东西，是一种先验的想象力。而事实上，这种连接所依据的图型总是具有种种技术性的条件，也就是说，第三滞留式的条件，它们植根于外化的历史中。
-   <sup class="modern-footnotes-footnote" data-mfn="20" data-mfn-post-scope="0000000000c97e53000000006e5f0794_10346">
-    <a aria-describedby="mfn-content-0000000000c97e53000000006e5f0794_10346" aria-pressed="false" href="javascript:void(0)" role="button">
-     20
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="20" id="mfn-content-0000000000c97e53000000006e5f0794_10346" role="tooltip" tabindex="0">
+   <mfn>
     Stiegler, _Technics and Time, 3_, ch. 2.
-   </span>
+   </mfn>
    康德无法预料的情况，以及那些停留在康德的思想模式中的人——即使他们同时认为自己是马克思主义传统的一部分(比如阿多诺和霍克海默对付文化工业的路径)——无法有效地批判的情况是，当记忆-技术被完全吸纳到技术本身中，这最终有可能导致直观、知性和想象力的功能的危机，也就是说，导致理性的危机。随着计算机器的分析能力迅速提高，并越来越多地”殖民”了知性的心智过程，心智的综合能力越来越被削弱，被牺牲在营销和效果的命令之下，也就是被牺牲在利润之下。
   </p>
   <p>
    在第三卷出版后的时段里，斯蒂格勒的工作出现了几个重要的转折，但仍保持在《技术与时间》计划的思想轨迹内。斯蒂格勒经历了”9-11″事件的冲击，当时他正在做着关于电视的力量的讲座，就被贡比涅技术大学的总干事打断了，他叫喊着让他来看看（电视上）正在发生的事情。此后，2002年3月又发生了理查德·杜恩的屠杀，以及同年晚些时候国民阵线在选举中取得空前的成绩。经历了这些之后，斯蒂格勒的出版物越来越迫切地围绕阐述一种”新的政治经济学批判”，这种批判的基础，将不会再压抑我们的政治经济的未来视野具有的基本的技术性。
-   <sup class="modern-footnotes-footnote" data-mfn="21" data-mfn-post-scope="0000000000c97e53000000006e5f0794_10346">
-    <a aria-describedby="mfn-content-0000000000c97e53000000006e5f0794_10346" aria-pressed="false" href="javascript:void(0)" role="button">
-     21
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="21" id="mfn-content-0000000000c97e53000000006e5f0794_10346" role="tooltip" tabindex="0">
+   <mfn>
     Stiegler, ‘To Love, to Love Me, to Love Us: From September 11 to April 21’, in _Acting Out_; Stiegler, _The Age of Disruption_, ch. 1 and p. 51; and Bernard Stiegler, _For a New Critique of Political Economy_, trans. Daniel Ross (Cambridge: Polity Press, 2010).
-   </span>
+   </mfn>
    如果政治和经济的根本关切是在可能的未来中进行决断和选择，从而不仅能找到活着的方式，而且能找到好生活、更好生活的新方式，这是因为，这些可能的未来的分配不是预先确定的，而是向着各种可能性开放的，而这些可能性对于心理-社会的生命的动态来说，既是积极的，也是消极的，既是治疗的，也是毒害的。在一种强烈的预感的推动下，从这时起，斯蒂格勒不厌其烦地论证，正是技术的这种”药学”特征导致了各种可能性的分配，也导致我们必须在政治和经济上做出总是无法最终确定的决断和选择。
   </p>
   <p>
    此外，他还发展了对”语法化”过程的思考，认为它是这种可能性分配的关键驱动力。
-   <sup class="modern-footnotes-footnote" data-mfn="22" data-mfn-post-scope="0000000000c97e53000000006e5f0794_10346">
-    <a aria-describedby="mfn-content-0000000000c97e53000000006e5f0794_10346" aria-pressed="false" href="javascript:void(0)" role="button">
-     22
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="22" id="mfn-content-0000000000c97e53000000006e5f0794_10346" role="tooltip" tabindex="0">
+   <mfn>
     Bernard Stiegler, _Symbolic Misery, Volume 1: The Hyper-Industrial Epoch_, trans. Barnaby Norman (Cambridge: Polity Press, 2014), ch. 3.
-   </span>
+   </mfn>
    它关涉的是任何时间现象的空间化和物质化的过程（比如把言说变成文字、把织工的手势变成机器的程序，把交响乐团的表演变成可在唱机上播放的模拟式录音，或者把几乎任何东西变成可在计算机上操作的可计算的数据），这一基本的分析式运作因而命名了使知识能够变成信息的过程。因此，在那些将旧石器时代居民的个体、集体梦想物质化和空间化的岩画中就已经开始的语法化，也是导致知识丧失的过程（这并不意味着语法化不能同时导致新知识产生，它确实不断地产出新知，但不是必然地、永久地如此），由此引发了另一个过程：无产阶级化。后者首先是对知识的毁坏的称呼，而当它成了系统、成了系统性的东西，破坏着经济和政治生活的条件时，就必须有一种新的批判。
   </p>
   <p>
    大约从2014年开始，斯蒂格勒越来越被引向：(1) “人类世”的观念，它意味着的问题远不止地质时期的改变；(2)”熵”和”负熵”的问题，后者相当于一种总是局部性的有机的对抗-趋势，它永远无法打败热力学上的熵增趋势，但只要它持续存在，它就可以维持住对它起保护作用的种种生物选择。(3) 一个相当奇怪的事实是，同一个术语，即熵，也出现在信息理论中，由此引发一个问题：是什么把信息和熵带入同一轨道，以及这与信息技术目前被安排得似乎带有巨大的负面药学特征这一事实有何关系。
-   <sup class="modern-footnotes-footnote" data-mfn="23" data-mfn-post-scope="0000000000c97e53000000006e5f0794_10346">
-    <a aria-describedby="mfn-content-0000000000c97e53000000006e5f0794_10346" aria-pressed="false" href="javascript:void(0)" role="button">
-     23
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="23" id="mfn-content-0000000000c97e53000000006e5f0794_10346" role="tooltip" tabindex="0">
+   <mfn>
     See in particular Bernard Stiegler, _Automatic Society, Volume 1: The Future of Work_, trans. Daniel Ross (Cambridge: Polity Press, 2016), and Stiegler, _The Neganthropocene_.
-   </span>
+   </mfn>
   </p>
   <p>
    如果说斯蒂格勒一直把”对立”理解为实际上综合着的种种过程（它们总是有可能崩解）的排布，也就是说，是趋势和对抗-趋势的螺旋，而这些对抗-趋势就是亚里士多德所说的三种灵魂，那么，也许并不奇怪，关于心智与技术的纠缠的药学特性的问题，最终必然会被从趋势斗争的角度来阐释，而这种斗争也必然包括、又必然超出针对热力学宇宙特有的整体熵增倾向的负熵性斗争。负（人）熵，斯蒂格勒以之命名特殊的体外形式的负熵，它似乎依然是关于对抗极不可能者随着时间的流逝而被较为可能者抹去的这一趋势的问题，但这里所说的较为可能者和极不可能者不再是一个关于”物理状态”的问题，即有组织的物质趋于解散的事实，而是关于超物质的过程的问题，即不可计算的意义难免被削减为平均值的可计算状态的事实。对于斯蒂格勒来说，负人类世将是我们必须瞄准的极不可能的目的地的名字，在那里，这种”（人）熵的“趋势将被一种负（人）熵的复兴所对抗，这种负（人）熵足以避免生物圈的终结，足以哺育知识和欲望的新的多样性——关怀的新的多样性。
   </p>
-  <h3>
+  <h3 class="wp-block-heading">
    <strong>
     论”信息的观念“
    </strong>
@@ -415,56 +297,31 @@ categories: [ 网络社会研究所 ]
   </p>
   <p>
    这也相当于说，教育是有种种条件的（例如，不存在也从未存在过任何’无条件的大学’
-   <sup class="modern-footnotes-footnote" data-mfn="24" data-mfn-post-scope="0000000000c97e53000000006e5f0794_10346">
-    <a aria-describedby="mfn-content-0000000000c97e53000000006e5f0794_10346" aria-pressed="false" href="javascript:void(0)" role="button">
-     24
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="24" id="mfn-content-0000000000c97e53000000006e5f0794_10346" role="tooltip" tabindex="0">
+   <mfn>
     Cf., Jacques Derrida, ‘The University Without Condition’, _Without Alibi_, trans. Peggy Kamuf (Stanford: Stanford University Press, 2002). And see Bernard Stiegler, _States of Shock: Stupidity and Knowledge in the Twenty-First Century_, trans. Daniel Ross (Cambridge: Polity Press, 2015), Part 2.
-   </span>
+   </mfn>
    ，斯蒂格勒将它们理解为康德所说的那些官能，即认识、欲求和判断的能力——决断和理性能力的官能，的形成条件。这些是个体（简单的外有机体）的心智官能，但在今天，它们也关联着那些作为不同学科的不同知识领域的机构（复杂的外有机体）而存在的。然而，今天我们有一个新的学科，数据科学，它往往导致其他学科的消失，而且其他学科大多没有发展出批判这个新学科的能力（§5）。这就是斯蒂格勒所说的学科的、功能的新冲突，在这场学科之争中，心智——它需要从个体与学科的互动中产生——就既不在个体这里也不在机构这里。因此，新的学科之争表明，需要重新组织各个学科的跨个体化。
   </p>
   <p>
    要权衡这一新的冲突、担负它带来的任务，斯蒂格勒寄希望于对熵和知识的关系有一个新的概念。但正如他所承认的那样，将熵的概念转移到热力学以外的领域的尝试一直是充满困难和混乱的（§10）。特别是，当埃尔温·薛定谔认为生物性的生命涉及一种趋势，能局部地、暂时地与物理宇宙的熵增趋势相抗，
-   <sup class="modern-footnotes-footnote" data-mfn="25" data-mfn-post-scope="0000000000c97e53000000006e5f0794_10346">
-    <a aria-describedby="mfn-content-0000000000c97e53000000006e5f0794_10346" aria-pressed="false" href="javascript:void(0)" role="button">
-     25
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="25" id="mfn-content-0000000000c97e53000000006e5f0794_10346" role="tooltip" tabindex="0">
+   <mfn>
     Erwin Schrödinger, _What is Life?, in What is Life?, with Mind and Matter and Autobiographical Sketches_ (Cambridge: Cambridge University Press, 1992).
-   </span>
+   </mfn>
    如果他是对的，那么就有一个问题：相较于这种生命的“负熵”或“反熵”，如何构想非生物性的、”自我运动”的有机化了的物质，如机器。例如，诺伯特·维纳（Norbert Wiener）可能不会认为有机体和机器完全相同地是”反熵”的，但他确实认为”它们都能体现局部反熵过程”。
-   <sup class="modern-footnotes-footnote" data-mfn="26" data-mfn-post-scope="0000000000c97e53000000006e5f0794_10346">
-    <a aria-describedby="mfn-content-0000000000c97e53000000006e5f0794_10346" aria-pressed="false" href="javascript:void(0)" role="button">
-     26
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="26" id="mfn-content-0000000000c97e53000000006e5f0794_10346" role="tooltip" tabindex="0">
+   <mfn>
     Norbert Wiener, _The Human Use of Human Beings: Cybernetics and Society_ (London: Free Association Books, 1989), p. 32.
-   </span>
+   </mfn>
    然而，根据斯蒂格勒的观点，这里包含的错误是，它忽略了一个事实，即机器被局部化的方式与体内式有机体的是不同的：如果机器可以被理解为某一反熵趋势的一部分，那是因为机器的存在必然与简单和复杂的外有机体关联在一起。而简单和复杂的外有机体也正是因为与体外式生命所生产的人造物相连，才存在。
   </p>
   <p>
    就体外式生命而言什么是熵，这个问题造成了具体的混乱，此外，基本的问题是，熵这种趋势不是可以从”存在论”上构想的某个东西：熵不是（什么），熵只变化（§14）。局部地、暂时地与这种变化相抗的东西必然超出任何本体论的概念。由于这个原因，德里达对作为”生命史”（使自身异于这一熵趋势并延迟它）的延异
-   <sup class="modern-footnotes-footnote" data-mfn="27" data-mfn-post-scope="0000000000c97e53000000006e5f0794_10346">
-    <a aria-describedby="mfn-content-0000000000c97e53000000006e5f0794_10346" aria-pressed="false" href="javascript:void(0)" role="button">
-     27
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="27" id="mfn-content-0000000000c97e53000000006e5f0794_10346" role="tooltip" tabindex="0">
+   <mfn>
     Jacques Derrida, _Of Grammatology_, corrected edition, trans. Gayatri Chakravorty Spivak (Baltimore and London: Johns Hopkins University Press, 1997), p. 84.
-   </span>
+   </mfn>
    的思考仍然至关重要，但它必须（通过一种相互批判）与西蒙东的个体化理论相结合。后者是理论化体内式生命、体外式生命的不-可分（个体化）趋势的重要资源，因为西蒙东对于个体化的论述是”关系性”的，从而试图克服形式和质料的对立。例如，在体内式生命中，如朱塞佩·隆戈（Giuseppe Longo）所说，不可能 “区分软件（logiciel）和硬件（matériel），生命仅仅是由DNA和RNA构成的，仅仅是由这些膜构成的，是由它们的物理化学构成的，除此无他”。
-   <sup class="modern-footnotes-footnote" data-mfn="28" data-mfn-post-scope="0000000000c97e53000000006e5f0794_10346">
-    <a aria-describedby="mfn-content-0000000000c97e53000000006e5f0794_10346" aria-pressed="false" href="javascript:void(0)" role="button">
-     28
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="28" id="mfn-content-0000000000c97e53000000006e5f0794_10346" role="tooltip" tabindex="0">
+   <mfn>
     Giuseppe Longo, ‘Complexité, science et démocratie (Entretien avec Giuseppe Longo)’, _Glass Bead_, available at: &lt;http://www.glass-bead.org/wp-content/uploads/LongoEntretien.pdf&gt;.
-   </span>
+   </mfn>
   </p>
   <p>
    然而，斯蒂格勒认为，西蒙东对某种一般性理论的渴望导致他过快地将信息的观念与个体化的观念同化了。西蒙东没有充分考虑到体外式的信息与作为遗传”指令”或感觉”数据”的体内式”信息”具有不同的性质：体外式信息是超物质的，它是由无生命的、确切说来是非-生命的、第三滞留式的支撑物组成的，这就意味着，这种信息总是既可能支撑也可能破坏个体化。正是由于这个原因，技术要求关怀。由此，超物质命名了一种困境和一种问题，引出了政治、法律和经济的述行性。因此，《技术与时间4》的第一部分阐发了为何有必要重新思考信息的观念，分别从熵与知识的关系、对西蒙东的批判的必要性、必须从体外化的角度来看待现代对所谓的信息的使用，从这三方面来阐发。
@@ -507,26 +364,16 @@ categories: [ 网络社会研究所 ]
   </p>
   <p>
    斯蒂格勒通过参考许煜的工作表明，西蒙东拒绝了克劳德·香农对信息进行的那种量化，并希望用一个定性的概念来取代它，其中重要的是信息给一个系统（即给一个个体化过程）造成的差异，这种差异涉及系统中张力的解决。
-   <sup class="modern-footnotes-footnote" data-mfn="29" data-mfn-post-scope="0000000000c97e53000000006e5f0794_10346">
-    <a aria-describedby="mfn-content-0000000000c97e53000000006e5f0794_10346" aria-pressed="false" href="javascript:void(0)" role="button">
-     29
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="29" id="mfn-content-0000000000c97e53000000006e5f0794_10346" role="tooltip" tabindex="0">
+   <mfn>
     Yuk Hui, ‘Simondon et la question de l’information’, _Cahiers Simondon_ 6 (2015), pp. 29–47.
-   </span>
+   </mfn>
    但是，斯蒂格勒问道，如果一个体内或体外式系统中的张力是指它所坚持的朝向未来的方式，是指它容纳促成转变（发作为相变或处在张力中的潜能的解决）的各种潜能的方式，那么这不就相当于说，张力的本质在于反熵系统的组织方式，在于和可能的未来相连而存在的滞留过程？而这样说就等于说，在体外式系统的情况下，这种张力实际上是心智性存在的前摄特性的结果，心智存在就是一种向前-伸张（pro-tension）。（§25）德里达之所以能够用一个非常广泛的前摄概念来描述一般的生命，
-   <sup class="modern-footnotes-footnote" data-mfn="30" data-mfn-post-scope="0000000000c97e53000000006e5f0794_10346">
-    <a aria-describedby="mfn-content-0000000000c97e53000000006e5f0794_10346" aria-pressed="false" href="javascript:void(0)" role="button">
-     30
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="30" id="mfn-content-0000000000c97e53000000006e5f0794_10346" role="tooltip" tabindex="0">
+   <mfn>
     Derrida, _Of Grammatology_, p. 84.
-   </span>
+   </mfn>
    那是因为生命就是这种与未来的紧张关系的组织，但是，在体外式生命的情况下，斯蒂格勒坚持认为，对这种前张力（protension）的滞留性支撑物，必须具体地、就着它们的一个个第三滞留方面的体制的历史来理解。
   </p>
-  <h3>
+  <h3 class="wp-block-heading">
    <strong>
     本地性的药学
    </strong>
@@ -548,31 +395,21 @@ categories: [ 网络社会研究所 ]
   </p>
   <p>
    体内式有机体是“紧张的”，因为它们所有的强连接的部分（如体内器官；或构成如蜂巢的各种类型的群体成员）都只能作为一种永久的危机、一种”扩大的临界状态”而存在，
-   <sup class="modern-footnotes-footnote" data-mfn="31" data-mfn-post-scope="0000000000c97e53000000006e5f0794_10346">
-    <a aria-describedby="mfn-content-0000000000c97e53000000006e5f0794_10346" aria-pressed="false" href="javascript:void(0)" role="button">
-     31
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="31" id="mfn-content-0000000000c97e53000000006e5f0794_10346" role="tooltip" tabindex="0">
+   <mfn>
     Francis Bailly and Giuseppe Longo, ‘Extended Critical Situations: The Physical Singularity of Life Phenomena’, _Journal of Biological_ Systems 16 (2008), pp. 309–36; Bailly and Longo, ‘Biological Organization and Anti-Entropy’, _Journal of Biological Systems_ 17 (2009), pp, 63–96; Bailly and Longo, _Mathematics and the Natural Sciences: The Physical Singularity of Life_ (London: Imperial College Press, 2011).
-   </span>
+   </mfn>
    不断地为着有机个体和物种的未来而斗争，对抗着熵增及其相关危险所带来的持续威胁（§§8-9）。体外式有机体（外有机体）的紧张方式不同：它们不仅必须为活下去而斗争，而且要关怀着一种根本上开放的和不确定的未来，它们能做的，只是通过药性的斗争，不断地维持和更新知识，对抗知识“（人）熵化地”、刻板地解体为陈词滥调、教条和信息的趋势。
   </p>
   <p>
    斯蒂格勒把这种总是被器具所装备的外有机体命名为独特文本（idiotext）（§39），idios指的是作为这一外有机体的特征的个体化过程的独特性，而text指的是滞留条件的超物质性，这种条件把它抛入能拥有某个未来的可能性，而不是随着它（最终、不可避免地）屈服于熵的趋势而关闭其存在。在第三滞留和有意识或无意识的心理滞留的邂逅中，这个独特文本要么发现自己被刻板地、（人）熵性地去独特化了，它的个体化的前张力（前摄性的张力）也减弱了，要么被创伤地和负（人）熵性地独特化了，信息的前张力也增加了（§44）
-   <sup class="modern-footnotes-footnote" data-mfn="32" data-mfn-post-scope="0000000000c97e53000000006e5f0794_10346">
-    <a aria-describedby="mfn-content-0000000000c97e53000000006e5f0794_10346" aria-pressed="false" href="javascript:void(0)" role="button">
-     32
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="32" id="mfn-content-0000000000c97e53000000006e5f0794_10346" role="tooltip" tabindex="0">
+   <mfn>
     See also Bernard Stiegler, ‘Ce qui fait défaut’, _Césure_ 8 (1995), pp. 231–78.
-   </span>
+   </mfn>
    。
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter size-large">
-    <img alt="" class="wp-image-10350" data-attachment-id="10350" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="A2440982-35D6-4506-A242-0562A4387144" data-large-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/12/A2440982-35D6-4506-A242-0562A4387144.jpeg?fit=810%2C813&amp;ssl=1" data-medium-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/12/A2440982-35D6-4506-A242-0562A4387144.jpeg?fit=300%2C300&amp;ssl=1" data-orig-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/12/A2440982-35D6-4506-A242-0562A4387144.jpeg?fit=1078%2C1082&amp;ssl=1" data-orig-size="1078,1082" data-permalink="https://www.caa-ins.org/archives/10346/a2440982-35d6-4506-a242-0562a4387144" data-recalc-dims="1" decoding="async" height="813" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/12/A2440982-35D6-4506-A242-0562A4387144.jpeg?resize=810%2C813&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/12/A2440982-35D6-4506-A242-0562A4387144.jpeg?resize=1020%2C1024&amp;ssl=1 1020w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/12/A2440982-35D6-4506-A242-0562A4387144.jpeg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/12/A2440982-35D6-4506-A242-0562A4387144.jpeg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/12/A2440982-35D6-4506-A242-0562A4387144.jpeg?resize=768%2C771&amp;ssl=1 768w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/12/A2440982-35D6-4506-A242-0562A4387144.jpeg?resize=810%2C813&amp;ssl=1 810w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/12/A2440982-35D6-4506-A242-0562A4387144.jpeg?w=1078&amp;ssl=1 1078w" width="810">
+    <img alt="" class="wp-image-10350" data-attachment-id="10350" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="A2440982-35D6-4506-A242-0562A4387144" data-large-file="https://caa-ins.org/wp-content/uploads/2022/12/A2440982-35D6-4506-A242-0562A4387144-1020x1024.jpeg" data-medium-file="https://caa-ins.org/wp-content/uploads/2022/12/A2440982-35D6-4506-A242-0562A4387144-300x300.jpeg" data-orig-file="https://caa-ins.org/wp-content/uploads/2022/12/A2440982-35D6-4506-A242-0562A4387144.jpeg" data-orig-size="1078,1082" data-permalink="https://caa-ins.org/archives/10346/a2440982-35d6-4506-a242-0562a4387144" decoding="async" fetchpriority="high" height="1024" sizes="(max-width: 1020px) 100vw, 1020px" src="https://13.124.147.85/wp-content/uploads/2022/12/A2440982-35D6-4506-A242-0562A4387144-1020x1024.jpeg" srcset="https://caa-ins.org/wp-content/uploads/2022/12/A2440982-35D6-4506-A242-0562A4387144-1020x1024.jpeg 1020w, https://caa-ins.org/wp-content/uploads/2022/12/A2440982-35D6-4506-A242-0562A4387144-300x300.jpeg 300w, https://caa-ins.org/wp-content/uploads/2022/12/A2440982-35D6-4506-A242-0562A4387144-150x150.jpeg 150w, https://caa-ins.org/wp-content/uploads/2022/12/A2440982-35D6-4506-A242-0562A4387144-768x771.jpeg 768w, https://caa-ins.org/wp-content/uploads/2022/12/A2440982-35D6-4506-A242-0562A4387144-810x813.jpeg 810w, https://caa-ins.org/wp-content/uploads/2022/12/A2440982-35D6-4506-A242-0562A4387144.jpeg 1078w" width="1020">
      <figcaption class="wp-element-caption">
       <em>
        图1：斯蒂格勒绘制的独特文本图式
@@ -584,7 +421,7 @@ categories: [ 网络社会研究所 ]
   <p>
    正是在这些可能性的并立和斗争中，独特文本将自己本地化或去本地化，成为海德格尔所说的此在的“此”。当本地性的问题在负人类学的意义上接受了玻尔兹曼、薛定谔和洛特卡，以此为基础（即在物理学的熵、体内式的负熵和体外式的负（人）熵的基础上）被重新提出时，它就成了宇宙论的、经济的、政治的这些尺度上的药理学，外有机体的责任也就不再能从古典的”道德”角度来设想，而必须被理解为经济的和宇宙的：保持种种本地性尺度的容贯性和张力，由此，一种力比多经济使驱力改变其视点的数量级，成为对不实存（但容贯）的东西的无限欲望，并开启新的超现实的、宇宙的梦想（§51）。
   </p>
-  <h3>
+  <h3 class="wp-block-heading">
    <strong>
     间歇性的器官学
    </strong>
@@ -603,14 +440,9 @@ categories: [ 网络社会研究所 ]
   </p>
   <p>
    在一个间歇性被破坏的世界里，也就是说，平凡与超凡、下降与上升之间的摆荡被破坏了，在这样一个世界里，不可能有欲望，因此也不可能有爱，包括对”此地”的爱，而“此”需要欲望和爱：依恋（§60）。本地性和领土性的依恋是必要的，这并不是要拒绝”此”的边界之外的东西，恰恰相反：依恋希望离去又返回，为寻找非凡的东西，是一种对”扩充”的经验，一种丰产的个体化。在某种意义上，这是对每一个”此”的异域元素的拥抱（§62）
-   <sup class="modern-footnotes-footnote" data-mfn="33" data-mfn-post-scope="0000000000c97e53000000006e5f0794_10346">
-    <a aria-describedby="mfn-content-0000000000c97e53000000006e5f0794_10346" aria-pressed="false" href="javascript:void(0)" role="button">
-     33
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="33" id="mfn-content-0000000000c97e53000000006e5f0794_10346" role="tooltip" tabindex="0">
+   <mfn>
     In the sense of Victor Segalen, _Essay on Exoticism: An Aesthetics of Diversity_, trans. Yaël Rachel Schlick (Durham, North Carolina and London: Duke University Press, 2002).
-   </span>
+   </mfn>
    因此，斯蒂格勒呼吁一种能滋养新的本地间歇性的政治，这不是拒绝或忽视普世主义式的”关怀形式”，而是要让它经受批判。因此，他也呼吁一种贡献式经济，要牢记，除非同时关怀着生计的条件，否则就不可能关怀知识的学科，而前者首先是关怀国与家的生活，因为专注和依恋首先是在那里形成的；因此，最后，他呼吁一种能回馈欲望的经济，进而培养出一种新的力比多经济，因为没有欲望和依恋就不可能有贡献式经济（§61-62）。
   </p>
   <p>
@@ -624,14 +456,9 @@ categories: [ 网络社会研究所 ]
   </p>
   <p>
    斯蒂格勒在《技术与时间4》未出版手稿的结尾，向我们提起康德在出版《单纯理性限度内的宗教》后收到的威胁，是腓特烈·威廉二世1794年的一封信。康德在《学科之争》的开头转引了这封信，表明这部1798年的作品相当于他对普鲁士国王的回复。
-   <sup class="modern-footnotes-footnote" data-mfn="34" data-mfn-post-scope="0000000000c97e53000000006e5f0794_10346">
-    <a aria-describedby="mfn-content-0000000000c97e53000000006e5f0794_10346" aria-pressed="false" href="javascript:void(0)" role="button">
-     34
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="34" id="mfn-content-0000000000c97e53000000006e5f0794_10346" role="tooltip" tabindex="0">
+   <mfn>
     Immanuel Kant, _The Conflict of the Faculties_, trans. Mary J. Gregor (New York: Abaris Books, 1979), pp. 10–13.
-   </span>
+   </mfn>
    在这场冲突中，神学、法学和医学等 “高等”学科享有自己的地位，因为它们与体现在当时最高复杂外有机体中的权威有关，而”低等”学科，即哲学，尚未与科学明确区分的哲学，仍然相对比较自由。斯蒂格勒希望我们看到，在我们的心智官能和功能的安排中，我们是如何成为这种情况的继承者。但他也希望我们看到这种情况是如何变化的，神学几乎消失了，所有其他机构性的学科现在都受到动力因霸权（由数据科学这个新学科供给）的威胁。这种霸权想要消除所有极不可能的东西，以及任何此类自由。
   </p>
   <p>
@@ -639,14 +466,9 @@ categories: [ 网络社会研究所 ]
   </p>
   <p>
    从这种情况中解脱出来，不是靠否认它，也不是通过辩证化它，而是通过在其中找到重新配置一种准-因果性的力量，而这一定会是对四因说的全新理解。
-   <sup class="modern-footnotes-footnote" data-mfn="35" data-mfn-post-scope="0000000000c97e53000000006e5f0794_10346">
-    <a aria-describedby="mfn-content-0000000000c97e53000000006e5f0794_10346" aria-pressed="false" href="javascript:void(0)" role="button">
-     35
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="35" id="mfn-content-0000000000c97e53000000006e5f0794_10346" role="tooltip" tabindex="0">
+   <mfn>
     See also Bernard Stiegler, ‘The Ordeal of Truth: Causes and Quasi-Causes in the Entropocene’, trans. Daniel Ross, _Foundations of Science_ 27 (2022), pp. 271–80.
-   </span>
+   </mfn>
    （§73）。
   </p>
   <p>
@@ -657,7 +479,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter size-large">
-    <img alt="" class="wp-image-10358" data-attachment-id="10358" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="截屏2022-12-27-16.15.04" data-large-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/12/截屏2022-12-27-16.15.04.png?fit=810%2C506&amp;ssl=1" data-medium-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/12/截屏2022-12-27-16.15.04.png?fit=300%2C188&amp;ssl=1" data-orig-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/12/截屏2022-12-27-16.15.04.png?fit=3072%2C1920&amp;ssl=1" data-orig-size="3072,1920" data-permalink="https://www.caa-ins.org/archives/10346/%e6%88%aa%e5%b1%8f2022-12-27-16-15-04" data-recalc-dims="1" decoding="async" height="506" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/12/截屏2022-12-27-16.15.04.png?resize=810%2C506&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/12/截屏2022-12-27-16.15.04.png?resize=1024%2C640&amp;ssl=1 1024w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/12/截屏2022-12-27-16.15.04.png?resize=300%2C188&amp;ssl=1 300w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/12/截屏2022-12-27-16.15.04.png?resize=768%2C480&amp;ssl=1 768w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/12/截屏2022-12-27-16.15.04.png?resize=1536%2C960&amp;ssl=1 1536w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/12/截屏2022-12-27-16.15.04.png?resize=2048%2C1280&amp;ssl=1 2048w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/12/截屏2022-12-27-16.15.04.png?resize=810%2C506&amp;ssl=1 810w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/12/截屏2022-12-27-16.15.04.png?resize=1140%2C713&amp;ssl=1 1140w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/12/截屏2022-12-27-16.15.04.png?w=1620&amp;ssl=1 1620w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/12/截屏2022-12-27-16.15.04.png?w=2430&amp;ssl=1 2430w" width="810">
+    <img alt="" class="wp-image-10358" data-attachment-id="10358" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="截屏2022-12-27-16.15.04" data-large-file="https://caa-ins.org/wp-content/uploads/2022/12/截屏2022-12-27-16.15.04-1024x640.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2022/12/截屏2022-12-27-16.15.04-300x188.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2022/12/截屏2022-12-27-16.15.04.png" data-orig-size="3072,1920" data-permalink="https://caa-ins.org/archives/10346/%e6%88%aa%e5%b1%8f2022-12-27-16-15-04" decoding="async" height="640" sizes="(max-width: 1024px) 100vw, 1024px" src="https://13.124.147.85/wp-content/uploads/2022/12/截屏2022-12-27-16.15.04-1024x640.png" srcset="https://caa-ins.org/wp-content/uploads/2022/12/截屏2022-12-27-16.15.04-1024x640.png 1024w, https://caa-ins.org/wp-content/uploads/2022/12/截屏2022-12-27-16.15.04-300x188.png 300w, https://caa-ins.org/wp-content/uploads/2022/12/截屏2022-12-27-16.15.04-768x480.png 768w, https://caa-ins.org/wp-content/uploads/2022/12/截屏2022-12-27-16.15.04-1536x960.png 1536w, https://caa-ins.org/wp-content/uploads/2022/12/截屏2022-12-27-16.15.04-2048x1280.png 2048w, https://caa-ins.org/wp-content/uploads/2022/12/截屏2022-12-27-16.15.04-810x506.png 810w, https://caa-ins.org/wp-content/uploads/2022/12/截屏2022-12-27-16.15.04-1140x713.png 1140w" width="1024">
      <figcaption class="wp-element-caption">
       本文作者 Daniel Ross 发言中（图片截取自本演讲视频）
      </figcaption>
@@ -665,12 +487,12 @@ categories: [ 网络社会研究所 ]
    </figure>
   </div>
   <hr class="wp-block-separator has-alpha-channel-opacity"/>
-  <h2 class="has-text-align-center">
+  <h2 class="has-text-align-center wp-block-heading">
    本文作者
   </h2>
   <div class="wp-block-image">
    <figure class="aligncenter size-full is-resized">
-    <img alt="" class="wp-image-9565" data-attachment-id="9565" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Daniel-Ross-1" data-large-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/10/Daniel-Ross-1.png?fit=451%2C451&amp;ssl=1" data-medium-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/10/Daniel-Ross-1.png?fit=300%2C300&amp;ssl=1" data-orig-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/10/Daniel-Ross-1.png?fit=451%2C451&amp;ssl=1" data-orig-size="451,451" data-permalink="https://www.caa-ins.org/archives/9420/daniel-ross-1" data-recalc-dims="1" decoding="async" height="222" loading="lazy" sizes="(max-width: 222px) 100vw, 222px" src="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/10/Daniel-Ross-1.png?resize=222%2C222&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/10/Daniel-Ross-1.png?w=451&amp;ssl=1 451w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/10/Daniel-Ross-1.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/10/Daniel-Ross-1.png?resize=150%2C150&amp;ssl=1 150w" width="222"/>
+    <img alt="" class="wp-image-9565" data-attachment-id="9565" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Daniel-Ross-1" data-large-file="https://caa-ins.org/wp-content/uploads/2022/10/Daniel-Ross-1.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2022/10/Daniel-Ross-1-300x300.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2022/10/Daniel-Ross-1.png" data-orig-size="451,451" data-permalink="https://caa-ins.org/archives/9420/daniel-ross-1" decoding="async" height="222" loading="lazy" sizes="(max-width: 222px) 100vw, 222px" src="https://13.124.147.85/wp-content/uploads/2022/10/Daniel-Ross-1.png" srcset="https://caa-ins.org/wp-content/uploads/2022/10/Daniel-Ross-1.png 451w, https://caa-ins.org/wp-content/uploads/2022/10/Daniel-Ross-1-300x300.png 300w, https://caa-ins.org/wp-content/uploads/2022/10/Daniel-Ross-1-150x150.png 150w" width="222"/>
     <figcaption class="wp-element-caption">
      Daniel Ross
     </figcaption>
@@ -682,58 +504,58 @@ categories: [ 网络社会研究所 ]
   <hr class="wp-block-separator has-alpha-channel-opacity"/>
   <div class="wp-block-image">
    <figure class="aligncenter size-large is-resized">
-    <img alt="" class="wp-image-9427" data-attachment-id="9427" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"1666534994","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="IMG_4118-1" data-large-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/10/IMG_4118-1-scaled.jpg?fit=810%2C456&amp;ssl=1" data-medium-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/10/IMG_4118-1-scaled.jpg?fit=300%2C169&amp;ssl=1" data-orig-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/10/IMG_4118-1-scaled.jpg?fit=2560%2C1440&amp;ssl=1" data-orig-size="2560,1440" data-permalink="https://www.caa-ins.org/archives/9420/img_4118-1" data-recalc-dims="1" decoding="async" height="219" loading="lazy" sizes="(max-width: 389px) 100vw, 389px" src="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/10/IMG_4118-1.jpg?resize=389%2C219&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/10/IMG_4118-1-scaled.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/10/IMG_4118-1-scaled.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/10/IMG_4118-1-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/10/IMG_4118-1-scaled.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/10/IMG_4118-1-scaled.jpg?resize=2048%2C1152&amp;ssl=1 2048w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/10/IMG_4118-1-scaled.jpg?resize=810%2C456&amp;ssl=1 810w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/10/IMG_4118-1-scaled.jpg?resize=1140%2C641&amp;ssl=1 1140w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/10/IMG_4118-1-scaled.jpg?w=1620&amp;ssl=1 1620w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/10/IMG_4118-1-scaled.jpg?w=2430&amp;ssl=1 2430w" width="389"/>
+    <img alt="" class="wp-image-9427" data-attachment-id="9427" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"1666534994","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="IMG_4118-1" data-large-file="https://caa-ins.org/wp-content/uploads/2022/10/IMG_4118-1-1024x576.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2022/10/IMG_4118-1-300x169.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2022/10/IMG_4118-1-scaled.jpg" data-orig-size="2560,1440" data-permalink="https://caa-ins.org/archives/9420/img_4118-1" decoding="async" height="219" loading="lazy" sizes="(max-width: 389px) 100vw, 389px" src="https://13.124.147.85/wp-content/uploads/2022/10/IMG_4118-1-1024x576.jpg" srcset="https://caa-ins.org/wp-content/uploads/2022/10/IMG_4118-1-1024x576.jpg 1024w, https://caa-ins.org/wp-content/uploads/2022/10/IMG_4118-1-300x169.jpg 300w, https://caa-ins.org/wp-content/uploads/2022/10/IMG_4118-1-768x432.jpg 768w, https://caa-ins.org/wp-content/uploads/2022/10/IMG_4118-1-1536x864.jpg 1536w, https://caa-ins.org/wp-content/uploads/2022/10/IMG_4118-1-2048x1152.jpg 2048w, https://caa-ins.org/wp-content/uploads/2022/10/IMG_4118-1-810x456.jpg 810w, https://caa-ins.org/wp-content/uploads/2022/10/IMG_4118-1-1140x641.jpg 1140w" width="389"/>
     <figcaption class="wp-element-caption">
-     <a href="https://www.caa-ins.org/archives/9420">
+     <a href="https://13.124.147.85/archives/9420">
       第七届网络社会年会（2022年11月20日-11月28日）
      </a>
     </figcaption>
    </figure>
   </div>
   <figure class="likecoin-embed likecoin-button">
-   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fwww.caa-ins.org%2Farchives%2F10346" style="height:212px;width: 360px;">
+   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fcaa-ins.org%2Farchives%2F10346" style="height:212px;width: 360px;">
    </iframe>
   </figure>
   <div class="sharedaddy sd-sharing-enabled">
    <div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing">
     <h3 class="sd-title">
-     分享到：
+     Share this:
     </h3>
     <div class="sd-content">
      <ul>
       <li class="share-facebook">
-       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-10346" href="https://www.caa-ins.org/archives/10346?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="点击分享到 Facebook ">
+       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-10346" href="https://caa-ins.org/archives/10346?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击分享到 Facebook （在新窗口中打开）
+         Click to share on Facebook (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-twitter">
-       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-10346" href="https://www.caa-ins.org/archives/10346?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="点击分享到Twitter">
+       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-10346" href="https://caa-ins.org/archives/10346?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击分享到Twitter（在新窗口中打开）
+         Click to share on Twitter (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-custom share-custom-">
-       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/10346?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="点击分享到新浪微博">
-        <span style="background-image:url(http://open.weibo.com/favicon.ico)">
+       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/10346?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on 新浪微博">
+        <span style='background-image:url("http://open.weibo.com/favicon.ico");'>
         </span>
         <span class="sharing-screen-reader-text">
-         点击分享到新浪微博（在新窗口中打开）
+         Click to share on 新浪微博 (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-telegram">
-       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/10346?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="点击分享到Telegram">
+       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/10346?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Telegram">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击分享到Telegram（在新窗口中打开）
+         Click to share on Telegram (Opens in new window)
         </span>
        </a>
       </li>
@@ -746,22 +568,22 @@ categories: [ 网络社会研究所 ]
  </div>
  <footer class="entry-footer">
   <div class="meta-tags">
-   <a href="https://www.caa-ins.org/archives/tag/daniel-ross" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/daniel-ross" rel="tag">
     Daniel Ross
    </a>
-   <a href="https://www.caa-ins.org/archives/tag/%e5%9f%8e%e5%b8%82%e8%ae%ba%e5%9d%9b" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/%e5%9f%8e%e5%b8%82%e8%ae%ba%e5%9d%9b" rel="tag">
     城市论坛
    </a>
-   <a href="https://www.caa-ins.org/archives/tag/%e6%8a%80%e6%9c%af%e4%b8%8e%e5%ae%9e%e8%b7%b5" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/%e6%8a%80%e6%9c%af%e4%b8%8e%e5%ae%9e%e8%b7%b5" rel="tag">
     技术与实践
    </a>
-   <a href="https://www.caa-ins.org/archives/tag/%e6%8a%80%e6%9c%af%e4%b8%8e%e6%97%b6%e9%97%b4" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/%e6%8a%80%e6%9c%af%e4%b8%8e%e6%97%b6%e9%97%b4" rel="tag">
     技术与时间
    </a>
-   <a href="https://www.caa-ins.org/archives/tag/%e6%96%af%e8%92%82%e6%a0%bc%e5%8b%92" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/%e6%96%af%e8%92%82%e6%a0%bc%e5%8b%92" rel="tag">
     斯蒂格勒
    </a>
-   <a href="https://www.caa-ins.org/archives/tag/%e7%ac%ac%e4%b8%83%e5%b1%8a%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/%e7%ac%ac%e4%b8%83%e5%b1%8a%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a" rel="tag">
     第七届网络社会年会
    </a>
   </div>

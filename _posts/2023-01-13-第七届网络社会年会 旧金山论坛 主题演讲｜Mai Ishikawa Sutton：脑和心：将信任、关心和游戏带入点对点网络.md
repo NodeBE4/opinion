@@ -3,7 +3,7 @@ layout: post
 title: "第七届网络社会年会 旧金山论坛 主题演讲｜Mai Ishikawa Sutton：脑和心：将信任、关心和游戏带入点对点网络"
 date: 2023-01-13
 author: 网络社会研究所
-from: https://www.caa-ins.org/archives/10391
+from: https://caa-ins.org/archives/10391
 tags: [ 网络社会研究所 ]
 categories: [ 网络社会研究所 ]
 ---
@@ -11,7 +11,7 @@ categories: [ 网络社会研究所 ]
 <article class="vce-single post-10391 post type-post status-publish format-standard has-post-thumbnail hentry category-3 tag-dweb tag-mai-ishikawa-sutton tag-361 tag-331" id="post-10391">
  <header class="entry-header">
   <span class="meta-category">
-   <a class="category-3" href="https://www.caa-ins.org/archives/category/%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a">
+   <a class="category-3" href="https://caa-ins.org/archives/category/%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a">
     网络社会年会
    </a>
   </span>
@@ -23,9 +23,6 @@ categories: [ 网络社会研究所 ]
     <span class="updated">
      2023-01-13
     </span>
-   </div>
-   <div class="meta-item views">
-    9 Views
    </div>
   </div>
  </header>
@@ -44,7 +41,7 @@ categories: [ 网络社会研究所 ]
   <p class="has-text-align-center">
    第七届网络社会年会旧金山论坛 主题演讲
   </p>
-  <h2 class="has-text-align-center">
+  <h2 class="has-text-align-center wp-block-heading">
    脑和心：将信任、关心和游戏带入点对点网络
   </h2>
   <p class="has-text-align-center">
@@ -61,7 +58,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter size-full is-resized">
-    <img alt="" class="wp-image-10394" data-attachment-id="10394" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="image" data-large-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image.png?fit=810%2C456&amp;ssl=1" data-medium-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image.png?fit=300%2C169&amp;ssl=1" data-orig-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image.png?fit=960%2C540&amp;ssl=1" data-orig-size="960,540" data-permalink="https://www.caa-ins.org/archives/10391/image-38" data-recalc-dims="1" decoding="async" height="444" loading="lazy" sizes="(max-width: 790px) 100vw, 790px" src="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image.png?resize=790%2C444&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image.png?w=960&amp;ssl=1 960w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image.png?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image.png?resize=810%2C456&amp;ssl=1 810w" width="790">
+    <img alt="" class="wp-image-10394" data-attachment-id="10394" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="image" data-large-file="https://caa-ins.org/wp-content/uploads/2023/01/image.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2023/01/image-300x169.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2023/01/image.png" data-orig-size="960,540" data-permalink="https://caa-ins.org/archives/10391/image-38" decoding="async" fetchpriority="high" height="444" sizes="(max-width: 790px) 100vw, 790px" src="https://13.124.147.85/wp-content/uploads/2023/01/image.png" srcset="https://caa-ins.org/wp-content/uploads/2023/01/image.png 960w, https://caa-ins.org/wp-content/uploads/2023/01/image-300x169.png 300w, https://caa-ins.org/wp-content/uploads/2023/01/image-768x432.png 768w, https://caa-ins.org/wp-content/uploads/2023/01/image-810x456.png 810w" width="790">
      <figcaption class="wp-element-caption">
       图1
      </figcaption>
@@ -73,7 +70,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter size-full is-resized">
-    <img alt="" class="wp-image-10395" data-attachment-id="10395" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="image-1" data-large-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-1.png?fit=810%2C456&amp;ssl=1" data-medium-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-1.png?fit=300%2C169&amp;ssl=1" data-orig-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-1.png?fit=960%2C540&amp;ssl=1" data-orig-size="960,540" data-permalink="https://www.caa-ins.org/archives/10391/image-1-13" data-recalc-dims="1" decoding="async" height="444" loading="lazy" sizes="(max-width: 790px) 100vw, 790px" src="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-1.png?resize=790%2C444&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-1.png?w=960&amp;ssl=1 960w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-1.png?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-1.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-1.png?resize=810%2C456&amp;ssl=1 810w" width="790">
+    <img alt="" class="wp-image-10395" data-attachment-id="10395" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="image-1" data-large-file="https://caa-ins.org/wp-content/uploads/2023/01/image-1.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2023/01/image-1-300x169.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2023/01/image-1.png" data-orig-size="960,540" data-permalink="https://caa-ins.org/archives/10391/image-1-13" decoding="async" height="444" sizes="(max-width: 790px) 100vw, 790px" src="https://13.124.147.85/wp-content/uploads/2023/01/image-1.png" srcset="https://caa-ins.org/wp-content/uploads/2023/01/image-1.png 960w, https://caa-ins.org/wp-content/uploads/2023/01/image-1-300x169.png 300w, https://caa-ins.org/wp-content/uploads/2023/01/image-1-768x432.png 768w, https://caa-ins.org/wp-content/uploads/2023/01/image-1-810x456.png 810w" width="790">
      <figcaption class="wp-element-caption">
       图2
      </figcaption>
@@ -81,7 +78,7 @@ categories: [ 网络社会研究所 ]
    </figure>
   </div>
   <hr class="wp-block-separator has-alpha-channel-opacity"/>
-  <h3>
+  <h3 class="wp-block-heading">
    数字公地是什么
   </h3>
   <p>
@@ -92,7 +89,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter size-full">
-    <img alt="" class="wp-image-10397" data-attachment-id="10397" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="image-2" data-large-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-2.png?fit=810%2C456&amp;ssl=1" data-medium-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-2.png?fit=300%2C169&amp;ssl=1" data-orig-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-2.png?fit=960%2C540&amp;ssl=1" data-orig-size="960,540" data-permalink="https://www.caa-ins.org/archives/10391/image-2-13" data-recalc-dims="1" decoding="async" height="456" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-2.png?resize=810%2C456&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-2.png?w=960&amp;ssl=1 960w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-2.png?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-2.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-2.png?resize=810%2C456&amp;ssl=1 810w" width="810"/>
+    <img alt="" class="wp-image-10397" data-attachment-id="10397" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="image-2" data-large-file="https://caa-ins.org/wp-content/uploads/2023/01/image-2.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2023/01/image-2-300x169.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2023/01/image-2.png" data-orig-size="960,540" data-permalink="https://caa-ins.org/archives/10391/image-2-13" decoding="async" height="540" loading="lazy" sizes="(max-width: 960px) 100vw, 960px" src="https://13.124.147.85/wp-content/uploads/2023/01/image-2.png" srcset="https://caa-ins.org/wp-content/uploads/2023/01/image-2.png 960w, https://caa-ins.org/wp-content/uploads/2023/01/image-2-300x169.png 300w, https://caa-ins.org/wp-content/uploads/2023/01/image-2-768x432.png 768w, https://caa-ins.org/wp-content/uploads/2023/01/image-2-810x456.png 810w" width="960"/>
     <figcaption class="wp-element-caption">
      图3
     </figcaption>
@@ -103,7 +100,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter size-full is-resized">
-    <img alt="" class="wp-image-10398" data-attachment-id="10398" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="image-3" data-large-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-3.png?fit=810%2C456&amp;ssl=1" data-medium-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-3.png?fit=300%2C169&amp;ssl=1" data-orig-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-3.png?fit=960%2C540&amp;ssl=1" data-orig-size="960,540" data-permalink="https://www.caa-ins.org/archives/10391/image-3-13" data-recalc-dims="1" decoding="async" height="444" loading="lazy" sizes="(max-width: 790px) 100vw, 790px" src="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-3.png?resize=790%2C444&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-3.png?w=960&amp;ssl=1 960w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-3.png?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-3.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-3.png?resize=810%2C456&amp;ssl=1 810w" width="790"/>
+    <img alt="" class="wp-image-10398" data-attachment-id="10398" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="image-3" data-large-file="https://caa-ins.org/wp-content/uploads/2023/01/image-3.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2023/01/image-3-300x169.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2023/01/image-3.png" data-orig-size="960,540" data-permalink="https://caa-ins.org/archives/10391/image-3-13" decoding="async" height="444" loading="lazy" sizes="(max-width: 790px) 100vw, 790px" src="https://13.124.147.85/wp-content/uploads/2023/01/image-3.png" srcset="https://caa-ins.org/wp-content/uploads/2023/01/image-3.png 960w, https://caa-ins.org/wp-content/uploads/2023/01/image-3-300x169.png 300w, https://caa-ins.org/wp-content/uploads/2023/01/image-3-768x432.png 768w, https://caa-ins.org/wp-content/uploads/2023/01/image-3-810x456.png 810w" width="790"/>
     <figcaption class="wp-element-caption">
      图4
     </figcaption>
@@ -111,29 +108,24 @@ categories: [ 网络社会研究所 ]
   </div>
   <p>
    埃莉诺·奥斯特罗姆（Elinor Ostrom）是印第安纳大学和亚利桑那大学的教授，她是第一位诺贝尔经济学奖女性获得者，在她的经济治理（economic governance）研究中，她定义的公共资源（common pool resources），是指人们关心的社会实践和规范/行为，如一个湖泊，一个农场，或人们一起使用的东西。如果你看一下她公地管理的八个原则
-   <sup class="modern-footnotes-footnote" data-mfn="1" data-mfn-post-scope="000000006149261e000000004a0bb315_10391">
-    <a aria-describedby="mfn-content-000000006149261e000000004a0bb315_10391" aria-pressed="false" href="javascript:void(0)" role="button">
-     1
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="1" id="mfn-content-000000006149261e000000004a0bb315_10391" role="tooltip" tabindex="0">
+   <mfn>
     参见
     <a href="https://www.onthecommons.org/magazine/elinor-ostroms-8-principles-managing-commmons" rel="noreferrer noopener" target="_blank">
      https://www.onthecommons.org/magazine/elinor-ostroms-8-principles-managing-commmons
     </a>
-   </span>
+   </mfn>
    ，你会注意到它们都是关于人本身的。谁是管理公地管理的一部分，这个问题界限应该如何界定？谁能够访问公共资源？如何确保退出机制以改变人们如何分享资源的规则。这些作为社会实践的问题，埃莉诺·奥斯特罗姆在大约 20 年前为我们奠定了答案的基础。
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter size-full">
-    <img alt="" class="wp-image-10399" data-attachment-id="10399" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="image-4" data-large-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-4.png?fit=810%2C456&amp;ssl=1" data-medium-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-4.png?fit=300%2C169&amp;ssl=1" data-orig-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-4.png?fit=960%2C540&amp;ssl=1" data-orig-size="960,540" data-permalink="https://www.caa-ins.org/archives/10391/image-4-12" data-recalc-dims="1" decoding="async" height="456" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-4.png?resize=810%2C456&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-4.png?w=960&amp;ssl=1 960w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-4.png?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-4.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-4.png?resize=810%2C456&amp;ssl=1 810w" width="810"/>
+    <img alt="" class="wp-image-10399" data-attachment-id="10399" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="image-4" data-large-file="https://caa-ins.org/wp-content/uploads/2023/01/image-4.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2023/01/image-4-300x169.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2023/01/image-4.png" data-orig-size="960,540" data-permalink="https://caa-ins.org/archives/10391/image-4-12" decoding="async" height="540" loading="lazy" sizes="(max-width: 960px) 100vw, 960px" src="https://13.124.147.85/wp-content/uploads/2023/01/image-4.png" srcset="https://caa-ins.org/wp-content/uploads/2023/01/image-4.png 960w, https://caa-ins.org/wp-content/uploads/2023/01/image-4-300x169.png 300w, https://caa-ins.org/wp-content/uploads/2023/01/image-4-768x432.png 768w, https://caa-ins.org/wp-content/uploads/2023/01/image-4-810x456.png 810w" width="960"/>
     <figcaption class="wp-element-caption">
      图5
     </figcaption>
    </figure>
   </div>
   <hr class="wp-block-separator has-alpha-channel-opacity"/>
-  <h4 class="has-text-align-left">
+  <h4 class="has-text-align-left wp-block-heading">
    数字公地的类型
   </h4>
   <p>
@@ -141,7 +133,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter size-full is-resized">
-    <img alt="" class="wp-image-10401" data-attachment-id="10401" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="image-5" data-large-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-5.png?fit=810%2C456&amp;ssl=1" data-medium-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-5.png?fit=300%2C169&amp;ssl=1" data-orig-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-5.png?fit=960%2C540&amp;ssl=1" data-orig-size="960,540" data-permalink="https://www.caa-ins.org/archives/10391/image-5-12" data-recalc-dims="1" decoding="async" height="444" loading="lazy" sizes="(max-width: 790px) 100vw, 790px" src="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-5.png?resize=790%2C444&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-5.png?w=960&amp;ssl=1 960w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-5.png?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-5.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/01/image-5.png?resize=810%2C456&amp;ssl=1 810w" width="790"/>
+    <img alt="" class="wp-image-10401" data-attachment-id="10401" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="image-5" data-large-file="https://caa-ins.org/wp-content/uploads/2023/01/image-5.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2023/01/image-5-300x169.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2023/01/image-5.png" data-orig-size="960,540" data-permalink="https://caa-ins.org/archives/10391/image-5-12" decoding="async" height="444" loading="lazy" sizes="(max-width: 790px) 100vw, 790px" src="https://13.124.147.85/wp-content/uploads/2023/01/image-5.png" srcset="https://caa-ins.org/wp-content/uploads/2023/01/image-5.png 960w, https://caa-ins.org/wp-content/uploads/2023/01/image-5-300x169.png 300w, https://caa-ins.org/wp-content/uploads/2023/01/image-5-768x432.png 768w, https://caa-ins.org/wp-content/uploads/2023/01/image-5-810x456.png 810w" width="790"/>
     <figcaption class="wp-element-caption">
      图6
     </figcaption>
@@ -152,14 +144,14 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter">
-    <img alt="" data-recalc-dims="1" decoding="async" src="https://i0.wp.com/i.imgur.com/MRuXjUM.jpg?w=810&amp;ssl=1"/>
+    <img alt="" decoding="async" src="https://i.imgur.com/MRuXjUM.jpg"/>
     <figcaption class="wp-element-caption">
      图7
     </figcaption>
    </figure>
   </div>
   <hr class="wp-block-separator has-alpha-channel-opacity"/>
-  <h3 id="三个嵌套的方法">
+  <h3 class="wp-block-heading" id="三个嵌套的方法">
    <a href="https://codimd.caa-ins.org/apmtCm89QzuCxxxZhhSxfg?view#%E4%B8%89%E4%B8%AA%E5%B5%8C%E5%A5%97%E7%9A%84%E6%96%B9%E6%B3%95">
    </a>
    三个嵌套的方法
@@ -169,13 +161,13 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter">
-    <img alt="" data-recalc-dims="1" decoding="async" src="https://i0.wp.com/i.imgur.com/TpgOS4h.jpg?w=810&amp;ssl=1"/>
+    <img alt="" decoding="async" src="https://i.imgur.com/TpgOS4h.jpg"/>
     <figcaption class="wp-element-caption">
      图8
     </figcaption>
    </figure>
   </div>
-  <h4 id="方法一：定义共同价值观">
+  <h4 class="wp-block-heading" id="方法一：定义共同价值观">
    <a href="https://codimd.caa-ins.org/apmtCm89QzuCxxxZhhSxfg?view#%E6%96%B9%E6%B3%95%E4%B8%80%EF%BC%9A%E5%AE%9A%E4%B9%89%E5%85%B1%E5%90%8C%E4%BB%B7%E5%80%BC%E8%A7%82">
    </a>
    方法一：定义共同价值观
@@ -185,7 +177,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter">
-    <img alt="" data-recalc-dims="1" decoding="async" src="https://i0.wp.com/i.imgur.com/xzmxJQD.jpg?w=810&amp;ssl=1"/>
+    <img alt="" decoding="async" src="https://i.imgur.com/xzmxJQD.jpg"/>
     <figcaption class="wp-element-caption">
      图9
     </figcaption>
@@ -199,7 +191,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter">
-    <img alt="" data-recalc-dims="1" decoding="async" src="https://i0.wp.com/i.imgur.com/IOBd5aR.jpg?w=810&amp;ssl=1"/>
+    <img alt="" decoding="async" src="https://i.imgur.com/IOBd5aR.jpg"/>
     <figcaption class="wp-element-caption">
      图10
     </figcaption>
@@ -210,7 +202,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter">
-    <img alt="" data-recalc-dims="1" decoding="async" src="https://i0.wp.com/i.imgur.com/m3hvT1V.jpg?w=810&amp;ssl=1"/>
+    <img alt="" decoding="async" src="https://i.imgur.com/m3hvT1V.jpg"/>
     <figcaption class="wp-element-caption">
      图11
     </figcaption>
@@ -224,7 +216,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter">
-    <img alt="" data-recalc-dims="1" decoding="async" src="https://i0.wp.com/i.imgur.com/zyqKIad.jpg?w=810&amp;ssl=1"/>
+    <img alt="" decoding="async" src="https://i.imgur.com/zyqKIad.jpg"/>
     <figcaption class="wp-element-caption">
      图12
     </figcaption>
@@ -235,7 +227,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter">
-    <img alt="" data-recalc-dims="1" decoding="async" src="https://i0.wp.com/i.imgur.com/yLvOQYH.jpg?w=810&amp;ssl=1"/>
+    <img alt="" decoding="async" src="https://i.imgur.com/yLvOQYH.jpg"/>
     <figcaption class="wp-element-caption">
      图13
     </figcaption>
@@ -243,7 +235,7 @@ categories: [ 网络社会研究所 ]
   </div>
   <div class="wp-block-image">
    <figure class="aligncenter">
-    <img alt="" data-recalc-dims="1" decoding="async" src="https://i0.wp.com/i.imgur.com/b5Ky06Q.jpg?w=810&amp;ssl=1"/>
+    <img alt="" decoding="async" src="https://i.imgur.com/b5Ky06Q.jpg"/>
     <figcaption class="wp-element-caption">
      图14
     </figcaption>
@@ -254,7 +246,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter is-resized">
-    <img alt="" data-recalc-dims="1" decoding="async" height="444" loading="lazy" src="https://i0.wp.com/i.imgur.com/Frp1qDc.jpg?resize=790%2C444&amp;ssl=1" width="790"/>
+    <img alt="" decoding="async" height="444" loading="lazy" src="https://i.imgur.com/Frp1qDc.jpg" width="790"/>
     <figcaption class="wp-element-caption">
      图15
     </figcaption>
@@ -262,7 +254,7 @@ categories: [ 网络社会研究所 ]
   </div>
   <div class="wp-block-image">
    <figure class="aligncenter">
-    <img alt="" data-recalc-dims="1" decoding="async" src="https://i0.wp.com/i.imgur.com/TBimher.jpg?w=810&amp;ssl=1"/>
+    <img alt="" decoding="async" src="https://i.imgur.com/TBimher.jpg"/>
     <figcaption class="wp-element-caption">
      图16
     </figcaption>
@@ -273,7 +265,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter">
-    <img alt="" data-recalc-dims="1" decoding="async" src="https://i0.wp.com/i.imgur.com/eY8Vkcc.jpg?w=810&amp;ssl=1"/>
+    <img alt="" decoding="async" src="https://i.imgur.com/eY8Vkcc.jpg"/>
     <figcaption class="wp-element-caption">
      图17
     </figcaption>
@@ -281,7 +273,7 @@ categories: [ 网络社会研究所 ]
   </div>
   <div class="wp-block-image">
    <figure class="aligncenter">
-    <img alt="" data-recalc-dims="1" decoding="async" src="https://i0.wp.com/i.imgur.com/UBxwrMx.jpg?w=810&amp;ssl=1"/>
+    <img alt="" decoding="async" src="https://i.imgur.com/UBxwrMx.jpg"/>
     <figcaption class="wp-element-caption">
      图18
     </figcaption>
@@ -292,7 +284,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter is-resized">
-    <img alt="" data-recalc-dims="1" decoding="async" height="444" loading="lazy" src="https://i0.wp.com/i.imgur.com/wjUMw8j.jpg?resize=790%2C444&amp;ssl=1" width="790"/>
+    <img alt="" decoding="async" height="444" loading="lazy" src="https://i.imgur.com/wjUMw8j.jpg" width="790"/>
     <figcaption class="wp-element-caption">
      图19
     </figcaption>
@@ -300,7 +292,7 @@ categories: [ 网络社会研究所 ]
   </div>
   <div class="wp-block-image">
    <figure class="aligncenter">
-    <img alt="" data-recalc-dims="1" decoding="async" src="https://i0.wp.com/i.imgur.com/rdz8MZK.jpg?w=810&amp;ssl=1"/>
+    <img alt="" decoding="async" src="https://i.imgur.com/rdz8MZK.jpg"/>
     <figcaption class="wp-element-caption">
      图20
     </figcaption>
@@ -311,7 +303,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter">
-    <img alt="" data-recalc-dims="1" decoding="async" src="https://i0.wp.com/i.imgur.com/SHpmBfG.jpg?w=810&amp;ssl=1"/>
+    <img alt="" decoding="async" src="https://i.imgur.com/SHpmBfG.jpg"/>
     <figcaption class="wp-element-caption">
      图21
     </figcaption>
@@ -319,7 +311,7 @@ categories: [ 网络社会研究所 ]
   </div>
   <div class="wp-block-image">
    <figure class="aligncenter">
-    <img alt="" data-recalc-dims="1" decoding="async" src="https://i0.wp.com/i.imgur.com/VqzqgER.jpg?w=810&amp;ssl=1"/>
+    <img alt="" decoding="async" src="https://i.imgur.com/VqzqgER.jpg"/>
     <figcaption class="wp-element-caption">
      图22
     </figcaption>
@@ -327,28 +319,23 @@ categories: [ 网络社会研究所 ]
   </div>
   <p>
    这些只是一些原则的罗列，在 DWeb 网站
-   <sup class="modern-footnotes-footnote" data-mfn="2" data-mfn-post-scope="000000006149261e000000004a0bb315_10391">
-    <a aria-describedby="mfn-content-000000006149261e000000004a0bb315_10391" aria-pressed="false" href="javascript:void(0)" role="button">
-     2
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="2" id="mfn-content-000000006149261e000000004a0bb315_10391" role="tooltip" tabindex="0">
+   <mfn>
     参见
     <a href="https://getdweb.net/principles" rel="noreferrer noopener" target="_blank">
      https://getdweb.net/principles
     </a>
-   </span>
+   </mfn>
    上你可以看到所有内容。你可以阅读并消化它们。但我们觉得这只是一次尝试，努力尝试来定义我们所代表的东西。我们衷心希望整个 DWeb 的其它项目在他们的工作中也能坚持这些原则。
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter">
-    <img alt="" data-recalc-dims="1" decoding="async" src="https://i0.wp.com/i.imgur.com/JyQqCfj.jpg?w=810&amp;ssl=1"/>
+    <img alt="" decoding="async" src="https://i.imgur.com/JyQqCfj.jpg"/>
     <figcaption class="wp-element-caption">
      图23
     </figcaption>
    </figure>
   </div>
-  <h4 id="方法二：建立一种信任和相互尊重的文化">
+  <h4 class="wp-block-heading" id="方法二：建立一种信任和相互尊重的文化">
    <a href="https://codimd.caa-ins.org/apmtCm89QzuCxxxZhhSxfg?view#%E6%96%B9%E6%B3%95%E4%BA%8C%EF%BC%9A%E5%BB%BA%E7%AB%8B%E4%B8%80%E7%A7%8D%E4%BF%A1%E4%BB%BB%E5%92%8C%E7%9B%B8%E4%BA%92%E5%B0%8A%E9%87%8D%E7%9A%84%E6%96%87%E5%8C%96">
    </a>
    方法二：建立一种信任和相互尊重的文化
@@ -358,7 +345,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter">
-    <img alt="" data-recalc-dims="1" decoding="async" src="https://i0.wp.com/i.imgur.com/6cOvQm2.jpg?w=810&amp;ssl=1"/>
+    <img alt="" decoding="async" src="https://i.imgur.com/6cOvQm2.jpg"/>
     <figcaption class="wp-element-caption">
      图24
     </figcaption>
@@ -369,13 +356,13 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter">
-    <img alt="" data-recalc-dims="1" decoding="async" src="https://i0.wp.com/i.imgur.com/R1mWNvC.jpg?w=810&amp;ssl=1"/>
+    <img alt="" decoding="async" src="https://i.imgur.com/R1mWNvC.jpg"/>
     <figcaption class="wp-element-caption">
      图25
     </figcaption>
    </figure>
   </div>
-  <h4 id="方法三：建立围绕劳动的明确界限">
+  <h4 class="wp-block-heading" id="方法三：建立围绕劳动的明确界限">
    <a href="https://codimd.caa-ins.org/apmtCm89QzuCxxxZhhSxfg?view#%E6%96%B9%E6%B3%95%E4%B8%89%EF%BC%9A%E5%BB%BA%E7%AB%8B%E5%9B%B4%E7%BB%95%E5%8A%B3%E5%8A%A8%E7%9A%84%E6%98%8E%E7%A1%AE%E7%95%8C%E9%99%90">
    </a>
    方法三：建立围绕劳动的明确界限
@@ -385,7 +372,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter">
-    <img alt="" data-recalc-dims="1" decoding="async" src="https://i0.wp.com/i.imgur.com/QpJ2aYT.jpg?w=810&amp;ssl=1"/>
+    <img alt="" decoding="async" src="https://i.imgur.com/QpJ2aYT.jpg"/>
     <figcaption class="wp-element-caption">
      图26
     </figcaption>
@@ -396,7 +383,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter">
-    <img alt="" data-recalc-dims="1" decoding="async" src="https://i0.wp.com/i.imgur.com/k1VXUPw.jpg?w=810&amp;ssl=1"/>
+    <img alt="" decoding="async" src="https://i.imgur.com/k1VXUPw.jpg"/>
     <figcaption class="wp-element-caption">
      图27
     </figcaption>
@@ -404,7 +391,7 @@ categories: [ 网络社会研究所 ]
   </div>
   <div class="wp-block-image">
    <figure class="aligncenter">
-    <img alt="" data-recalc-dims="1" decoding="async" src="https://i0.wp.com/i.imgur.com/LLAODkJ.jpg?w=810&amp;ssl=1"/>
+    <img alt="" decoding="async" src="https://i.imgur.com/LLAODkJ.jpg"/>
     <figcaption class="wp-element-caption">
      图28
     </figcaption>
@@ -412,58 +399,38 @@ categories: [ 网络社会研究所 ]
   </div>
   <p>
    在最开始的时候，在我们推出 COMPOST 之前，对我来说，知道其他创始人与我在所相信的事物上保持一致真的很重要。因此，我们开始了自己的旅程，来建立我们的价值观。我们的三个主要支柱是团结经济（solidarity economics），确保我们共享利益，确保我们的劳动得到补偿，确保这不会是又一个我们都热爱但最后变得疲倦不堪，不再想多看一眼的志愿项目，我们衷心希望它是可持续的。另一支柱为有意义的参与（meaningful participation）。我们认识到并强调，有很多代表性不足的艺术家和活动家没有参与到去中心化网络的发展中。另一支柱是创造性实验（creative experimentation）。我们很多人沉迷于互联网，实际上是因为我们能够看到的所有网络迷因、视频、笑话和音乐。那么，为什么不把这些纳入去中心化网络，这样我们就可以在去中心化网络上发掘一些万维网上不一定有的内容。这是我们的第一期
-   <sup class="modern-footnotes-footnote" data-mfn="3" data-mfn-post-scope="000000006149261e000000004a0bb315_10391">
-    <a aria-describedby="mfn-content-000000006149261e000000004a0bb315_10391" aria-pressed="false" href="javascript:void(0)" role="button">
-     3
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="3" id="mfn-content-000000006149261e000000004a0bb315_10391" role="tooltip" tabindex="0">
+   <mfn>
     参见
     <a href="https://one.compost.digital/" rel="noreferrer noopener" target="_blank">
      https://one.compost.digital/
     </a>
-   </span>
+   </mfn>
    ，在 2021 年 3 月发行。你会注意到，hyper://one.compost.digital 这里的 URL 是 hyper 开头的，这意味着它可以通过 hypercore 协议上访问。这是在 IPFS 上的第二期
-   <sup class="modern-footnotes-footnote" data-mfn="4" data-mfn-post-scope="000000006149261e000000004a0bb315_10391">
-    <a aria-describedby="mfn-content-000000006149261e000000004a0bb315_10391" aria-pressed="false" href="javascript:void(0)" role="button">
-     4
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="4" id="mfn-content-000000006149261e000000004a0bb315_10391" role="tooltip" tabindex="0">
+   <mfn>
     参见
     <a href="https://two.compost.digital/" rel="noreferrer noopener" target="_blank">
      https://two.compost.digital/
     </a>
-   </span>
+   </mfn>
    ，你可以通过 ipns://two.compost.digital 进入，可以使用 Brave 浏览器
-   <sup class="modern-footnotes-footnote" data-mfn="5" data-mfn-post-scope="000000006149261e000000004a0bb315_10391">
-    <a aria-describedby="mfn-content-000000006149261e000000004a0bb315_10391" aria-pressed="false" href="javascript:void(0)" role="button">
-     5
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="5" id="mfn-content-000000006149261e000000004a0bb315_10391" role="tooltip" tabindex="0">
+   <mfn>
     参见
     <a href="https://brave.com/" rel="noreferrer noopener" target="_blank">
      https://brave.com/
     </a>
-   </span>
+   </mfn>
    或 Aggregor 浏览器
-   <sup class="modern-footnotes-footnote" data-mfn="6" data-mfn-post-scope="000000006149261e000000004a0bb315_10391">
-    <a aria-describedby="mfn-content-000000006149261e000000004a0bb315_10391" aria-pressed="false" href="javascript:void(0)" role="button">
-     6
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="6" id="mfn-content-000000006149261e000000004a0bb315_10391" role="tooltip" tabindex="0">
+   <mfn>
     参见
     <a href="https://github.com/AgregoreWeb/agregore-browser" rel="noreferrer noopener" target="_blank">
      https://github.com/AgregoreWeb/agregore-browser
     </a>
-   </span>
+   </mfn>
    来访问 IPFS 上的页面。
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter">
-    <img alt="" data-recalc-dims="1" decoding="async" src="https://i0.wp.com/i.imgur.com/euuyqpY.jpg?w=810&amp;ssl=1"/>
+    <img alt="" decoding="async" src="https://i.imgur.com/euuyqpY.jpg"/>
     <figcaption class="wp-element-caption">
      图29
     </figcaption>
@@ -471,7 +438,7 @@ categories: [ 网络社会研究所 ]
   </div>
   <div class="wp-block-image">
    <figure class="aligncenter">
-    <img alt="" data-recalc-dims="1" decoding="async" src="https://i0.wp.com/i.imgur.com/lFZca1Z.jpg?w=810&amp;ssl=1"/>
+    <img alt="" decoding="async" src="https://i.imgur.com/lFZca1Z.jpg"/>
     <figcaption class="wp-element-caption">
      图30
     </figcaption>
@@ -479,21 +446,16 @@ categories: [ 网络社会研究所 ]
   </div>
   <p>
    这里有几个注意事项，前面的发言者也在谈论，比如可持续的劳动，以及确保劳动得到回报。到目前为止，这个项目是由赠款资助的，但我们希望能有一个订阅模式。我们在 Open Collective 上有一个账户
-   <sup class="modern-footnotes-footnote" data-mfn="7" data-mfn-post-scope="000000006149261e000000004a0bb315_10391">
-    <a aria-describedby="mfn-content-000000006149261e000000004a0bb315_10391" aria-pressed="false" href="javascript:void(0)" role="button">
-     7
-    </a>
-   </sup>
-   <span class="modern-footnotes-footnote__note" data-mfn="7" id="mfn-content-000000006149261e000000004a0bb315_10391" role="tooltip" tabindex="0">
+   <mfn>
     参见
     <a href="https://opencollective.com/compost" rel="noreferrer noopener" target="_blank">
      https://opencollective.com/compost
     </a>
-   </span>
+   </mfn>
    ，这是一个为非营利组织提供财务托管的平台，包括任何其他没有取得法定注册资格的项目，允许他们以透明的方式接收资金和分配资金。因此，我们有一个开放的集体账户，由多伦多一个名为 Haifa worker 合作企业的企业在财务上托管。我们很想尝试和建立这个。另一点是，因为 COMPOST 本身就像一个压缩文件，所有东西都是包含在其中的。所以我们甚至有文本部分。我们也有一些互动的地图和互动的故事片段。这些都是包含在这个文件的 JavaScript 中的。我们希望整个文件能被复制到尽可能多的地方，因为这就是去中心化网络应该工作的方式。同时，我们想确保杂志的贡献者得到足够的补偿。因此，我们资金的很大一部分是在帮助我们的作者写作和创作他们为 COMPOST 提供的作品，另外，给我们提供对 Distributed Press 的反馈、以及研究这个工具的伙伴也会得到补偿。另外，这些作品需要得到创意共享许可（creative commons licensed）。因为如果我们想让它像种子一样到处传播，我们不希望有任何问题。因此，我们必须从一开始就与创作者达成的协议。因此，我们希望通过这些考虑，来改变围绕创造性劳动的那种思维，因为我对版权有很大的偏见。但是，我认为版权对许多艺术家来说不是一个好的赚钱模式，所以我认为去中心化网络是一个非常好的时机来思考我们如何为艺术家创造新的获得报酬的方式。
   </p>
   <hr class="wp-block-separator has-alpha-channel-opacity"/>
-  <h3 id="结语">
+  <h3 class="wp-block-heading" id="结语">
    <a href="https://codimd.caa-ins.org/apmtCm89QzuCxxxZhhSxfg?view#%E7%BB%93%E8%AF%AD">
    </a>
    结语
@@ -503,7 +465,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter">
-    <img alt="" data-recalc-dims="1" decoding="async" src="https://i0.wp.com/i.imgur.com/Mss7SIx.jpg?w=810&amp;ssl=1"/>
+    <img alt="" decoding="async" src="https://i.imgur.com/Mss7SIx.jpg"/>
     <figcaption class="wp-element-caption">
      图31
     </figcaption>
@@ -511,7 +473,7 @@ categories: [ 网络社会研究所 ]
   </div>
   <div class="wp-block-image">
    <figure class="aligncenter">
-    <img alt="" data-recalc-dims="1" decoding="async" src="https://i0.wp.com/i.imgur.com/Rc3MYK0.jpg?w=810&amp;ssl=1"/>
+    <img alt="" decoding="async" src="https://i.imgur.com/Rc3MYK0.jpg"/>
     <figcaption class="wp-element-caption">
      图32
     </figcaption>
@@ -519,7 +481,7 @@ categories: [ 网络社会研究所 ]
   </div>
   <div class="wp-block-image">
    <figure class="aligncenter">
-    <img alt="" data-recalc-dims="1" decoding="async" src="https://i0.wp.com/i.imgur.com/caU4sCt.jpg?w=810&amp;ssl=1"/>
+    <img alt="" decoding="async" src="https://i.imgur.com/caU4sCt.jpg"/>
     <figcaption class="wp-element-caption">
      图33
     </figcaption>
@@ -530,7 +492,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter is-resized">
-    <img alt="" data-recalc-dims="1" decoding="async" height="444" loading="lazy" src="https://i0.wp.com/i.imgur.com/RZc2Git.jpg?resize=790%2C444&amp;ssl=1" width="790"/>
+    <img alt="" decoding="async" height="444" loading="lazy" src="https://i.imgur.com/RZc2Git.jpg" width="790"/>
     <figcaption class="wp-element-caption">
      图34
     </figcaption>
@@ -538,7 +500,7 @@ categories: [ 网络社会研究所 ]
   </div>
   <div class="wp-block-image">
    <figure class="aligncenter">
-    <img alt="" data-recalc-dims="1" decoding="async" src="https://i0.wp.com/i.imgur.com/7b9WI0G.jpg?w=810&amp;ssl=1"/>
+    <img alt="" decoding="async" src="https://i.imgur.com/7b9WI0G.jpg"/>
     <figcaption class="wp-element-caption">
      图35
     </figcaption>
@@ -549,7 +511,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter is-resized">
-    <img alt="" data-recalc-dims="1" decoding="async" height="444" loading="lazy" src="https://i0.wp.com/i.imgur.com/OBrL3xA.jpg?resize=790%2C444&amp;ssl=1" width="790"/>
+    <img alt="" decoding="async" height="444" loading="lazy" src="https://i.imgur.com/OBrL3xA.jpg" width="790"/>
     <figcaption class="wp-element-caption">
      图36
     </figcaption>
@@ -557,7 +519,7 @@ categories: [ 网络社会研究所 ]
   </div>
   <div class="wp-block-image">
    <figure class="aligncenter">
-    <img alt="" data-recalc-dims="1" decoding="async" src="https://i0.wp.com/i.imgur.com/KEW1HaE.jpg?w=810&amp;ssl=1"/>
+    <img alt="" decoding="async" src="https://i.imgur.com/KEW1HaE.jpg"/>
     <figcaption class="wp-element-caption">
      图37
     </figcaption>
@@ -576,7 +538,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter">
-    <img alt="" data-recalc-dims="1" decoding="async" src="https://i0.wp.com/i.imgur.com/12JPAqN.jpg?w=810&amp;ssl=1"/>
+    <img alt="" decoding="async" src="https://i.imgur.com/12JPAqN.jpg"/>
     <figcaption class="wp-element-caption">
      图38
     </figcaption>
@@ -584,19 +546,19 @@ categories: [ 网络社会研究所 ]
   </div>
   <div class="wp-block-image">
    <figure class="aligncenter">
-    <img alt="" data-recalc-dims="1" decoding="async" src="https://i0.wp.com/i.imgur.com/ISjHmKe.jpg?w=810&amp;ssl=1"/>
+    <img alt="" decoding="async" src="https://i.imgur.com/ISjHmKe.jpg"/>
     <figcaption class="wp-element-caption">
      图39
     </figcaption>
    </figure>
   </div>
   <hr class="wp-block-separator has-alpha-channel-opacity"/>
-  <h2 class="has-text-align-center">
+  <h2 class="has-text-align-center wp-block-heading">
    Mai Ishikawa Sutton
   </h2>
   <div class="wp-block-image">
    <figure class="aligncenter size-full is-resized">
-    <img alt="" class="wp-image-10165" data-attachment-id="10165" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="mai-1" data-large-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/11/mai-1.png?fit=451%2C451&amp;ssl=1" data-medium-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/11/mai-1.png?fit=300%2C300&amp;ssl=1" data-orig-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/11/mai-1.png?fit=451%2C451&amp;ssl=1" data-orig-size="451,451" data-permalink="https://www.caa-ins.org/archives/10123/mai-1" data-recalc-dims="1" decoding="async" height="284" loading="lazy" sizes="(max-width: 284px) 100vw, 284px" src="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/11/mai-1.png?resize=284%2C284&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/11/mai-1.png?w=451&amp;ssl=1 451w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/11/mai-1.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/11/mai-1.png?resize=150%2C150&amp;ssl=1 150w" width="284"/>
+    <img alt="" class="wp-image-10165" data-attachment-id="10165" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="mai-1" data-large-file="https://caa-ins.org/wp-content/uploads/2022/11/mai-1.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2022/11/mai-1-300x300.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2022/11/mai-1.png" data-orig-size="451,451" data-permalink="https://caa-ins.org/archives/10123/mai-1" decoding="async" height="284" loading="lazy" sizes="(max-width: 284px) 100vw, 284px" src="https://13.124.147.85/wp-content/uploads/2022/11/mai-1.png" srcset="https://caa-ins.org/wp-content/uploads/2022/11/mai-1.png 451w, https://caa-ins.org/wp-content/uploads/2022/11/mai-1-300x300.png 300w, https://caa-ins.org/wp-content/uploads/2022/11/mai-1-150x150.png 150w" width="284"/>
    </figure>
   </div>
   <p style="font-size:15px">
@@ -621,58 +583,58 @@ categories: [ 网络社会研究所 ]
   <hr class="wp-block-separator has-alpha-channel-opacity"/>
   <div class="wp-block-image">
    <figure class="aligncenter is-resized" id="block-6ba4f187-cc75-4d97-a822-f0db57da8641">
-    <img alt="此图片的alt属性为空；文件名为1572737931-abdbfdd343216d1c9212220ccbeaa775067c3b73e1df08d43d0581ee8dbb2477-d_640.jpg" data-recalc-dims="1" decoding="async" height="193" loading="lazy" src="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/12/1572737931-abdbfdd343216d1c9212220ccbeaa775067c3b73e1df08d43d0581ee8dbb2477-d_640.jpg?resize=345%2C193&amp;ssl=1" width="345"/>
+    <img alt="此图片的alt属性为空；文件名为1572737931-abdbfdd343216d1c9212220ccbeaa775067c3b73e1df08d43d0581ee8dbb2477-d_640.jpg" decoding="async" height="193" loading="lazy" src="https://13.124.147.85/wp-content/uploads/2022/12/1572737931-abdbfdd343216d1c9212220ccbeaa775067c3b73e1df08d43d0581ee8dbb2477-d_640.jpg" width="345"/>
     <figcaption class="wp-element-caption">
-     <a href="https://www.caa-ins.org/archives/9420">
+     <a href="https://13.124.147.85/archives/9420">
       第七届网络社会年会（2022年11月20日-11月28日）
      </a>
     </figcaption>
    </figure>
   </div>
   <figure class="likecoin-embed likecoin-button">
-   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fwww.caa-ins.org%2Farchives%2F10391" style="height:212px;width: 360px;">
+   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fcaa-ins.org%2Farchives%2F10391" style="height:212px;width: 360px;">
    </iframe>
   </figure>
   <div class="sharedaddy sd-sharing-enabled">
    <div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing">
     <h3 class="sd-title">
-     分享到：
+     Share this:
     </h3>
     <div class="sd-content">
      <ul>
       <li class="share-facebook">
-       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-10391" href="https://www.caa-ins.org/archives/10391?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="点击分享到 Facebook ">
+       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-10391" href="https://caa-ins.org/archives/10391?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击分享到 Facebook （在新窗口中打开）
+         Click to share on Facebook (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-twitter">
-       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-10391" href="https://www.caa-ins.org/archives/10391?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="点击分享到Twitter">
+       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-10391" href="https://caa-ins.org/archives/10391?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击分享到Twitter（在新窗口中打开）
+         Click to share on Twitter (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-custom share-custom-">
-       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/10391?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="点击分享到新浪微博">
-        <span style="background-image:url(http://open.weibo.com/favicon.ico)">
+       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/10391?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on 新浪微博">
+        <span style='background-image:url("http://open.weibo.com/favicon.ico");'>
         </span>
         <span class="sharing-screen-reader-text">
-         点击分享到新浪微博（在新窗口中打开）
+         Click to share on 新浪微博 (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-telegram">
-       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/10391?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="点击分享到Telegram">
+       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/10391?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Telegram">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击分享到Telegram（在新窗口中打开）
+         Click to share on Telegram (Opens in new window)
         </span>
        </a>
       </li>
@@ -685,16 +647,16 @@ categories: [ 网络社会研究所 ]
  </div>
  <footer class="entry-footer">
   <div class="meta-tags">
-   <a href="https://www.caa-ins.org/archives/tag/dweb" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/dweb" rel="tag">
     dweb
    </a>
-   <a href="https://www.caa-ins.org/archives/tag/mai-ishikawa-sutton" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/mai-ishikawa-sutton" rel="tag">
     Mai Ishikawa Sutton
    </a>
-   <a href="https://www.caa-ins.org/archives/tag/%e5%9f%8e%e5%b8%82%e8%ae%ba%e5%9d%9b" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/%e5%9f%8e%e5%b8%82%e8%ae%ba%e5%9d%9b" rel="tag">
     城市论坛
    </a>
-   <a href="https://www.caa-ins.org/archives/tag/%e7%ac%ac%e4%b8%83%e5%b1%8a%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/%e7%ac%ac%e4%b8%83%e5%b1%8a%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a" rel="tag">
     第七届网络社会年会
    </a>
   </div>
