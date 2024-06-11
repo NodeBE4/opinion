@@ -3,7 +3,7 @@ layout: post
 title: "第七届网络社会年会 旧金山论坛｜Garry Brents：芯片音乐与黑金属：复古保真与音乐的另类时间线"
 date: 2023-02-17
 author: 网络社会研究所
-from: https://www.caa-ins.org/archives/10523
+from: https://caa-ins.org/archives/10523
 tags: [ 网络社会研究所 ]
 categories: [ 网络社会研究所 ]
 ---
@@ -11,7 +11,7 @@ categories: [ 网络社会研究所 ]
 <article class="vce-single post-10523 post type-post status-publish format-standard has-post-thumbnail hentry category-3 tag-garry-brents tag-361 tag-331" id="post-10523">
  <header class="entry-header">
   <span class="meta-category">
-   <a class="category-3" href="https://www.caa-ins.org/archives/category/%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a">
+   <a class="category-3" href="https://caa-ins.org/archives/category/%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a">
     网络社会年会
    </a>
   </span>
@@ -23,9 +23,6 @@ categories: [ 网络社会研究所 ]
     <span class="updated">
      2023-02-17
     </span>
-   </div>
-   <div class="meta-item views">
-    5 Views
    </div>
   </div>
  </header>
@@ -48,7 +45,7 @@ categories: [ 网络社会研究所 ]
    回应 &amp; 编译：张铎翰
   </p>
   <hr class="wp-block-separator has-alpha-channel-opacity"/>
-  <h2 class="has-text-align-center">
+  <h2 class="has-text-align-center wp-block-heading">
    芯片音乐与黑金属：复古保真与音乐的另类时间线
   </h2>
   <p>
@@ -59,7 +56,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter size-large">
-    <img alt="" class="wp-image-10526" data-attachment-id="10526" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="FCCE5D28-FE82-45F2-9C51-00DB25D466E0" data-large-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/FCCE5D28-FE82-45F2-9C51-00DB25D466E0.jpeg?fit=717%2C1024&amp;ssl=1" data-medium-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/FCCE5D28-FE82-45F2-9C51-00DB25D466E0.jpeg?fit=210%2C300&amp;ssl=1" data-orig-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/FCCE5D28-FE82-45F2-9C51-00DB25D466E0.jpeg?fit=1118%2C1596&amp;ssl=1" data-orig-size="1118,1596" data-permalink="https://www.caa-ins.org/archives/10523/fcce5d28-fe82-45f2-9c51-00db25d466e0" data-recalc-dims="1" decoding="async" height="1024" loading="lazy" sizes="(max-width: 717px) 100vw, 717px" src="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/FCCE5D28-FE82-45F2-9C51-00DB25D466E0.jpeg?resize=717%2C1024&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/FCCE5D28-FE82-45F2-9C51-00DB25D466E0.jpeg?resize=717%2C1024&amp;ssl=1 717w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/FCCE5D28-FE82-45F2-9C51-00DB25D466E0.jpeg?resize=210%2C300&amp;ssl=1 210w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/FCCE5D28-FE82-45F2-9C51-00DB25D466E0.jpeg?resize=768%2C1096&amp;ssl=1 768w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/FCCE5D28-FE82-45F2-9C51-00DB25D466E0.jpeg?resize=1076%2C1536&amp;ssl=1 1076w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/FCCE5D28-FE82-45F2-9C51-00DB25D466E0.jpeg?resize=810%2C1156&amp;ssl=1 810w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/FCCE5D28-FE82-45F2-9C51-00DB25D466E0.jpeg?w=1118&amp;ssl=1 1118w" width="717">
+    <img alt="" class="wp-image-10526" data-attachment-id="10526" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="FCCE5D28-FE82-45F2-9C51-00DB25D466E0" data-large-file="https://caa-ins.org/wp-content/uploads/2023/02/FCCE5D28-FE82-45F2-9C51-00DB25D466E0-717x1024.jpeg" data-medium-file="https://caa-ins.org/wp-content/uploads/2023/02/FCCE5D28-FE82-45F2-9C51-00DB25D466E0-210x300.jpeg" data-orig-file="https://caa-ins.org/wp-content/uploads/2023/02/FCCE5D28-FE82-45F2-9C51-00DB25D466E0.jpeg" data-orig-size="1118,1596" data-permalink="https://caa-ins.org/archives/10523/fcce5d28-fe82-45f2-9c51-00db25d466e0" decoding="async" fetchpriority="high" height="1024" sizes="(max-width: 717px) 100vw, 717px" src="https://13.124.147.85/wp-content/uploads/2023/02/FCCE5D28-FE82-45F2-9C51-00DB25D466E0-717x1024.jpeg" srcset="https://caa-ins.org/wp-content/uploads/2023/02/FCCE5D28-FE82-45F2-9C51-00DB25D466E0-717x1024.jpeg 717w, https://caa-ins.org/wp-content/uploads/2023/02/FCCE5D28-FE82-45F2-9C51-00DB25D466E0-210x300.jpeg 210w, https://caa-ins.org/wp-content/uploads/2023/02/FCCE5D28-FE82-45F2-9C51-00DB25D466E0-768x1096.jpeg 768w, https://caa-ins.org/wp-content/uploads/2023/02/FCCE5D28-FE82-45F2-9C51-00DB25D466E0-1076x1536.jpeg 1076w, https://caa-ins.org/wp-content/uploads/2023/02/FCCE5D28-FE82-45F2-9C51-00DB25D466E0-810x1156.jpeg 810w, https://caa-ins.org/wp-content/uploads/2023/02/FCCE5D28-FE82-45F2-9C51-00DB25D466E0.jpeg 1118w" width="717">
      <figcaption class="wp-element-caption">
       Garry Brents演讲画面
      </figcaption>
@@ -68,7 +65,7 @@ categories: [ 网络社会研究所 ]
   </div>
   <div class="wp-block-image">
    <figure class="aligncenter size-large">
-    <img alt="" class="wp-image-10529" data-attachment-id="10529" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="5A69E9A5-92CE-494F-B574-F492D42A95F3" data-large-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/5A69E9A5-92CE-494F-B574-F492D42A95F3.jpeg?fit=810%2C569&amp;ssl=1" data-medium-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/5A69E9A5-92CE-494F-B574-F492D42A95F3.jpeg?fit=300%2C211&amp;ssl=1" data-orig-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/5A69E9A5-92CE-494F-B574-F492D42A95F3.jpeg?fit=1114%2C782&amp;ssl=1" data-orig-size="1114,782" data-permalink="https://www.caa-ins.org/archives/10523/5a69e9a5-92ce-494f-b574-f492d42a95f3" data-recalc-dims="1" decoding="async" height="569" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/5A69E9A5-92CE-494F-B574-F492D42A95F3.jpeg?resize=810%2C569&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/5A69E9A5-92CE-494F-B574-F492D42A95F3.jpeg?resize=1024%2C719&amp;ssl=1 1024w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/5A69E9A5-92CE-494F-B574-F492D42A95F3.jpeg?resize=300%2C211&amp;ssl=1 300w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/5A69E9A5-92CE-494F-B574-F492D42A95F3.jpeg?resize=768%2C539&amp;ssl=1 768w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/5A69E9A5-92CE-494F-B574-F492D42A95F3.jpeg?resize=810%2C569&amp;ssl=1 810w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/5A69E9A5-92CE-494F-B574-F492D42A95F3.jpeg?w=1114&amp;ssl=1 1114w" width="810">
+    <img alt="" class="wp-image-10529" data-attachment-id="10529" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="5A69E9A5-92CE-494F-B574-F492D42A95F3" data-large-file="https://caa-ins.org/wp-content/uploads/2023/02/5A69E9A5-92CE-494F-B574-F492D42A95F3-1024x719.jpeg" data-medium-file="https://caa-ins.org/wp-content/uploads/2023/02/5A69E9A5-92CE-494F-B574-F492D42A95F3-300x211.jpeg" data-orig-file="https://caa-ins.org/wp-content/uploads/2023/02/5A69E9A5-92CE-494F-B574-F492D42A95F3.jpeg" data-orig-size="1114,782" data-permalink="https://caa-ins.org/archives/10523/5a69e9a5-92ce-494f-b574-f492d42a95f3" decoding="async" height="719" sizes="(max-width: 1024px) 100vw, 1024px" src="https://13.124.147.85/wp-content/uploads/2023/02/5A69E9A5-92CE-494F-B574-F492D42A95F3-1024x719.jpeg" srcset="https://caa-ins.org/wp-content/uploads/2023/02/5A69E9A5-92CE-494F-B574-F492D42A95F3-1024x719.jpeg 1024w, https://caa-ins.org/wp-content/uploads/2023/02/5A69E9A5-92CE-494F-B574-F492D42A95F3-300x211.jpeg 300w, https://caa-ins.org/wp-content/uploads/2023/02/5A69E9A5-92CE-494F-B574-F492D42A95F3-768x539.jpeg 768w, https://caa-ins.org/wp-content/uploads/2023/02/5A69E9A5-92CE-494F-B574-F492D42A95F3-810x569.jpeg 810w, https://caa-ins.org/wp-content/uploads/2023/02/5A69E9A5-92CE-494F-B574-F492D42A95F3.jpeg 1114w" width="1024">
      <figcaption class="wp-element-caption">
       Gonemage是Garry Brents专门探索黑金属/芯片音乐的个人计划
      </figcaption>
@@ -80,7 +77,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter size-full">
-    <img alt="" class="wp-image-10531" data-attachment-id="10531" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="57D26AFF-19B4-4D03-8308-6679ED747068" data-large-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/57D26AFF-19B4-4D03-8308-6679ED747068.jpeg?fit=810%2C917&amp;ssl=1" data-medium-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/57D26AFF-19B4-4D03-8308-6679ED747068.jpeg?fit=265%2C300&amp;ssl=1" data-orig-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/57D26AFF-19B4-4D03-8308-6679ED747068.jpeg?fit=816%2C924&amp;ssl=1" data-orig-size="816,924" data-permalink="https://www.caa-ins.org/archives/10523/57d26aff-19b4-4d03-8308-6679ed747068" data-recalc-dims="1" decoding="async" height="917" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/57D26AFF-19B4-4D03-8308-6679ED747068.jpeg?resize=810%2C917&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/57D26AFF-19B4-4D03-8308-6679ED747068.jpeg?w=816&amp;ssl=1 816w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/57D26AFF-19B4-4D03-8308-6679ED747068.jpeg?resize=265%2C300&amp;ssl=1 265w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/57D26AFF-19B4-4D03-8308-6679ED747068.jpeg?resize=768%2C870&amp;ssl=1 768w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/57D26AFF-19B4-4D03-8308-6679ED747068.jpeg?resize=810%2C917&amp;ssl=1 810w" width="810"/>
+    <img alt="" class="wp-image-10531" data-attachment-id="10531" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="57D26AFF-19B4-4D03-8308-6679ED747068" data-large-file="https://caa-ins.org/wp-content/uploads/2023/02/57D26AFF-19B4-4D03-8308-6679ED747068.jpeg" data-medium-file="https://caa-ins.org/wp-content/uploads/2023/02/57D26AFF-19B4-4D03-8308-6679ED747068-265x300.jpeg" data-orig-file="https://caa-ins.org/wp-content/uploads/2023/02/57D26AFF-19B4-4D03-8308-6679ED747068.jpeg" data-orig-size="816,924" data-permalink="https://caa-ins.org/archives/10523/57d26aff-19b4-4d03-8308-6679ed747068" decoding="async" height="924" loading="lazy" sizes="(max-width: 816px) 100vw, 816px" src="https://13.124.147.85/wp-content/uploads/2023/02/57D26AFF-19B4-4D03-8308-6679ED747068.jpeg" srcset="https://caa-ins.org/wp-content/uploads/2023/02/57D26AFF-19B4-4D03-8308-6679ED747068.jpeg 816w, https://caa-ins.org/wp-content/uploads/2023/02/57D26AFF-19B4-4D03-8308-6679ED747068-265x300.jpeg 265w, https://caa-ins.org/wp-content/uploads/2023/02/57D26AFF-19B4-4D03-8308-6679ED747068-768x870.jpeg 768w, https://caa-ins.org/wp-content/uploads/2023/02/57D26AFF-19B4-4D03-8308-6679ED747068-810x917.jpeg 810w" width="816"/>
     <figcaption class="wp-element-caption">
      Yellow Magic Orchestra（1978-2012）日本电子音乐团体，由高桥幸宏和细野晴臣和坂本龙一组建
     </figcaption>
@@ -91,7 +88,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter size-large">
-    <img alt="" class="wp-image-10533" data-attachment-id="10533" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="3D036371-8978-4D79-8B8D-956A8D2D1BD6" data-large-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/3D036371-8978-4D79-8B8D-956A8D2D1BD6.jpeg?fit=810%2C742&amp;ssl=1" data-medium-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/3D036371-8978-4D79-8B8D-956A8D2D1BD6.jpeg?fit=300%2C275&amp;ssl=1" data-orig-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/3D036371-8978-4D79-8B8D-956A8D2D1BD6.jpeg?fit=1074%2C984&amp;ssl=1" data-orig-size="1074,984" data-permalink="https://www.caa-ins.org/archives/10523/3d036371-8978-4d79-8b8d-956a8d2d1bd6" data-recalc-dims="1" decoding="async" height="742" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/3D036371-8978-4D79-8B8D-956A8D2D1BD6.jpeg?resize=810%2C742&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/3D036371-8978-4D79-8B8D-956A8D2D1BD6.jpeg?resize=1024%2C938&amp;ssl=1 1024w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/3D036371-8978-4D79-8B8D-956A8D2D1BD6.jpeg?resize=300%2C275&amp;ssl=1 300w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/3D036371-8978-4D79-8B8D-956A8D2D1BD6.jpeg?resize=768%2C704&amp;ssl=1 768w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/3D036371-8978-4D79-8B8D-956A8D2D1BD6.jpeg?resize=810%2C742&amp;ssl=1 810w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/3D036371-8978-4D79-8B8D-956A8D2D1BD6.jpeg?w=1074&amp;ssl=1 1074w" width="810"/>
+    <img alt="" class="wp-image-10533" data-attachment-id="10533" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="3D036371-8978-4D79-8B8D-956A8D2D1BD6" data-large-file="https://caa-ins.org/wp-content/uploads/2023/02/3D036371-8978-4D79-8B8D-956A8D2D1BD6-1024x938.jpeg" data-medium-file="https://caa-ins.org/wp-content/uploads/2023/02/3D036371-8978-4D79-8B8D-956A8D2D1BD6-300x275.jpeg" data-orig-file="https://caa-ins.org/wp-content/uploads/2023/02/3D036371-8978-4D79-8B8D-956A8D2D1BD6.jpeg" data-orig-size="1074,984" data-permalink="https://caa-ins.org/archives/10523/3d036371-8978-4d79-8b8d-956a8d2d1bd6" decoding="async" height="938" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="https://13.124.147.85/wp-content/uploads/2023/02/3D036371-8978-4D79-8B8D-956A8D2D1BD6-1024x938.jpeg" srcset="https://caa-ins.org/wp-content/uploads/2023/02/3D036371-8978-4D79-8B8D-956A8D2D1BD6-1024x938.jpeg 1024w, https://caa-ins.org/wp-content/uploads/2023/02/3D036371-8978-4D79-8B8D-956A8D2D1BD6-300x275.jpeg 300w, https://caa-ins.org/wp-content/uploads/2023/02/3D036371-8978-4D79-8B8D-956A8D2D1BD6-768x704.jpeg 768w, https://caa-ins.org/wp-content/uploads/2023/02/3D036371-8978-4D79-8B8D-956A8D2D1BD6-810x742.jpeg 810w, https://caa-ins.org/wp-content/uploads/2023/02/3D036371-8978-4D79-8B8D-956A8D2D1BD6.jpeg 1074w" width="1024"/>
     <figcaption class="wp-element-caption">
      Venom – Black Metal（1982）
     </figcaption>
@@ -105,7 +102,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter size-large">
-    <img alt="" class="wp-image-10535" data-attachment-id="10535" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="3637A48E-A9C0-4C40-B1F6-705D601BD3B0" data-large-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/3637A48E-A9C0-4C40-B1F6-705D601BD3B0.jpeg?fit=810%2C810&amp;ssl=1" data-medium-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/3637A48E-A9C0-4C40-B1F6-705D601BD3B0.jpeg?fit=300%2C300&amp;ssl=1" data-orig-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/3637A48E-A9C0-4C40-B1F6-705D601BD3B0.jpeg?fit=1118%2C1118&amp;ssl=1" data-orig-size="1118,1118" data-permalink="https://www.caa-ins.org/archives/10523/3637a48e-a9c0-4c40-b1f6-705d601bd3b0" data-recalc-dims="1" decoding="async" height="810" loading="lazy" sizes="(max-width: 810px) 100vw, 810px" src="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/3637A48E-A9C0-4C40-B1F6-705D601BD3B0.jpeg?resize=810%2C810&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/3637A48E-A9C0-4C40-B1F6-705D601BD3B0.jpeg?resize=1024%2C1024&amp;ssl=1 1024w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/3637A48E-A9C0-4C40-B1F6-705D601BD3B0.jpeg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/3637A48E-A9C0-4C40-B1F6-705D601BD3B0.jpeg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/3637A48E-A9C0-4C40-B1F6-705D601BD3B0.jpeg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/3637A48E-A9C0-4C40-B1F6-705D601BD3B0.jpeg?resize=810%2C810&amp;ssl=1 810w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/3637A48E-A9C0-4C40-B1F6-705D601BD3B0.jpeg?w=1118&amp;ssl=1 1118w" width="810"/>
+    <img alt="" class="wp-image-10535" data-attachment-id="10535" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="3637A48E-A9C0-4C40-B1F6-705D601BD3B0" data-large-file="https://caa-ins.org/wp-content/uploads/2023/02/3637A48E-A9C0-4C40-B1F6-705D601BD3B0-1024x1024.jpeg" data-medium-file="https://caa-ins.org/wp-content/uploads/2023/02/3637A48E-A9C0-4C40-B1F6-705D601BD3B0-300x300.jpeg" data-orig-file="https://caa-ins.org/wp-content/uploads/2023/02/3637A48E-A9C0-4C40-B1F6-705D601BD3B0.jpeg" data-orig-size="1118,1118" data-permalink="https://caa-ins.org/archives/10523/3637a48e-a9c0-4c40-b1f6-705d601bd3b0" decoding="async" height="1024" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="https://13.124.147.85/wp-content/uploads/2023/02/3637A48E-A9C0-4C40-B1F6-705D601BD3B0-1024x1024.jpeg" srcset="https://caa-ins.org/wp-content/uploads/2023/02/3637A48E-A9C0-4C40-B1F6-705D601BD3B0-1024x1024.jpeg 1024w, https://caa-ins.org/wp-content/uploads/2023/02/3637A48E-A9C0-4C40-B1F6-705D601BD3B0-300x300.jpeg 300w, https://caa-ins.org/wp-content/uploads/2023/02/3637A48E-A9C0-4C40-B1F6-705D601BD3B0-150x150.jpeg 150w, https://caa-ins.org/wp-content/uploads/2023/02/3637A48E-A9C0-4C40-B1F6-705D601BD3B0-768x768.jpeg 768w, https://caa-ins.org/wp-content/uploads/2023/02/3637A48E-A9C0-4C40-B1F6-705D601BD3B0-810x810.jpeg 810w, https://caa-ins.org/wp-content/uploads/2023/02/3637A48E-A9C0-4C40-B1F6-705D601BD3B0.jpeg 1118w" width="1024"/>
    </figure>
   </div>
   <p>
@@ -116,7 +113,7 @@ categories: [ 网络社会研究所 ]
    上查看我的音乐，那里有我所有的项目和音乐发行。谢谢你们。
   </p>
   <hr class="wp-block-separator has-alpha-channel-opacity"/>
-  <h2 class="has-text-align-center">
+  <h2 class="has-text-align-center wp-block-heading">
    <strong>
     回应
    </strong>
@@ -138,14 +135,14 @@ categories: [ 网络社会研究所 ]
    </a>
   </p>
   <hr class="wp-block-separator has-alpha-channel-opacity"/>
-  <h2 class="has-text-align-center">
+  <h2 class="has-text-align-center wp-block-heading">
    <strong>
     Garry Brents
    </strong>
   </h2>
   <div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:35% auto">
    <figure class="wp-block-media-text__media">
-    <img alt="" class="wp-image-10542 size-full" data-attachment-id="10542" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Garry-Brents" data-large-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/Garry-Brents.png?fit=451%2C451&amp;ssl=1" data-medium-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/Garry-Brents.png?fit=300%2C300&amp;ssl=1" data-orig-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/Garry-Brents.png?fit=451%2C451&amp;ssl=1" data-orig-size="451,451" data-permalink="https://www.caa-ins.org/archives/10523/garry-brents-2" data-recalc-dims="1" decoding="async" height="451" loading="lazy" sizes="(max-width: 451px) 100vw, 451px" src="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/Garry-Brents.png?resize=451%2C451&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/Garry-Brents.png?w=451&amp;ssl=1 451w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/Garry-Brents.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/Garry-Brents.png?resize=150%2C150&amp;ssl=1 150w" width="451"/>
+    <img alt="" class="wp-image-10542 size-full" data-attachment-id="10542" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Garry-Brents" data-large-file="https://caa-ins.org/wp-content/uploads/2023/02/Garry-Brents.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2023/02/Garry-Brents-300x300.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2023/02/Garry-Brents.png" data-orig-size="451,451" data-permalink="https://caa-ins.org/archives/10523/garry-brents-2" decoding="async" height="451" loading="lazy" sizes="(max-width: 451px) 100vw, 451px" src="https://13.124.147.85/wp-content/uploads/2023/02/Garry-Brents.png" srcset="https://caa-ins.org/wp-content/uploads/2023/02/Garry-Brents.png 451w, https://caa-ins.org/wp-content/uploads/2023/02/Garry-Brents-300x300.png 300w, https://caa-ins.org/wp-content/uploads/2023/02/Garry-Brents-150x150.png 150w" width="451"/>
    </figure>
    <div class="wp-block-media-text__content">
     <p>
@@ -156,59 +153,59 @@ categories: [ 网络社会研究所 ]
   <hr class="wp-block-separator has-alpha-channel-opacity"/>
   <div class="wp-block-image">
    <figure class="aligncenter size-large is-resized">
-    <img alt="" class="wp-image-10516" data-attachment-id="10516" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="AA27B28A-332E-482C-B075-EBD0215DF198-1" data-large-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/AA27B28A-332E-482C-B075-EBD0215DF198-1.jpeg?fit=810%2C454&amp;ssl=1" data-medium-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/AA27B28A-332E-482C-B075-EBD0215DF198-1.jpeg?fit=300%2C168&amp;ssl=1" data-orig-file="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/AA27B28A-332E-482C-B075-EBD0215DF198-1.jpeg?fit=2142%2C1200&amp;ssl=1" data-orig-size="2142,1200" data-permalink="https://www.caa-ins.org/archives/10479/aa27b28a-332e-482c-b075-ebd0215df198-1" data-recalc-dims="1" decoding="async" height="253" loading="lazy" sizes="(max-width: 453px) 100vw, 453px" src="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/AA27B28A-332E-482C-B075-EBD0215DF198-1.jpeg?resize=453%2C253&amp;ssl=1" srcset="https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/AA27B28A-332E-482C-B075-EBD0215DF198-1.jpeg?resize=1024%2C574&amp;ssl=1 1024w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/AA27B28A-332E-482C-B075-EBD0215DF198-1.jpeg?resize=300%2C168&amp;ssl=1 300w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/AA27B28A-332E-482C-B075-EBD0215DF198-1.jpeg?resize=768%2C430&amp;ssl=1 768w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/AA27B28A-332E-482C-B075-EBD0215DF198-1.jpeg?resize=1536%2C861&amp;ssl=1 1536w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/AA27B28A-332E-482C-B075-EBD0215DF198-1.jpeg?resize=2048%2C1147&amp;ssl=1 2048w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/AA27B28A-332E-482C-B075-EBD0215DF198-1.jpeg?resize=810%2C454&amp;ssl=1 810w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/AA27B28A-332E-482C-B075-EBD0215DF198-1.jpeg?resize=1140%2C639&amp;ssl=1 1140w, https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2023/02/AA27B28A-332E-482C-B075-EBD0215DF198-1.jpeg?w=1620&amp;ssl=1 1620w" width="453"/>
+    <img alt="" class="wp-image-10516" data-attachment-id="10516" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="AA27B28A-332E-482C-B075-EBD0215DF198-1" data-large-file="https://caa-ins.org/wp-content/uploads/2023/02/AA27B28A-332E-482C-B075-EBD0215DF198-1-1024x574.jpeg" data-medium-file="https://caa-ins.org/wp-content/uploads/2023/02/AA27B28A-332E-482C-B075-EBD0215DF198-1-300x168.jpeg" data-orig-file="https://caa-ins.org/wp-content/uploads/2023/02/AA27B28A-332E-482C-B075-EBD0215DF198-1.jpeg" data-orig-size="2142,1200" data-permalink="https://caa-ins.org/archives/10479/aa27b28a-332e-482c-b075-ebd0215df198-1" decoding="async" height="253" loading="lazy" sizes="(max-width: 453px) 100vw, 453px" src="https://13.124.147.85/wp-content/uploads/2023/02/AA27B28A-332E-482C-B075-EBD0215DF198-1-1024x574.jpeg" srcset="https://caa-ins.org/wp-content/uploads/2023/02/AA27B28A-332E-482C-B075-EBD0215DF198-1-1024x574.jpeg 1024w, https://caa-ins.org/wp-content/uploads/2023/02/AA27B28A-332E-482C-B075-EBD0215DF198-1-300x168.jpeg 300w, https://caa-ins.org/wp-content/uploads/2023/02/AA27B28A-332E-482C-B075-EBD0215DF198-1-768x430.jpeg 768w, https://caa-ins.org/wp-content/uploads/2023/02/AA27B28A-332E-482C-B075-EBD0215DF198-1-1536x861.jpeg 1536w, https://caa-ins.org/wp-content/uploads/2023/02/AA27B28A-332E-482C-B075-EBD0215DF198-1-2048x1147.jpeg 2048w, https://caa-ins.org/wp-content/uploads/2023/02/AA27B28A-332E-482C-B075-EBD0215DF198-1-810x454.jpeg 810w, https://caa-ins.org/wp-content/uploads/2023/02/AA27B28A-332E-482C-B075-EBD0215DF198-1-1140x639.jpeg 1140w" width="453"/>
     <figcaption class="wp-element-caption">
      第七届网络社会年会 2022年11月20-28日 👉
-     <a href="https://www.caa-ins.org/archives/9420">
+     <a href="https://13.124.147.85/archives/9420">
       点击查看活动详情
      </a>
     </figcaption>
    </figure>
   </div>
   <figure class="likecoin-embed likecoin-button">
-   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fwww.caa-ins.org%2Farchives%2F10523" style="height:212px;width: 360px;">
+   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fcaa-ins.org%2Farchives%2F10523" style="height:212px;width: 360px;">
    </iframe>
   </figure>
   <div class="sharedaddy sd-sharing-enabled">
    <div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing">
     <h3 class="sd-title">
-     分享到：
+     Share this:
     </h3>
     <div class="sd-content">
      <ul>
       <li class="share-facebook">
-       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-10523" href="https://www.caa-ins.org/archives/10523?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="点击分享到 Facebook ">
+       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-10523" href="https://caa-ins.org/archives/10523?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击分享到 Facebook （在新窗口中打开）
+         Click to share on Facebook (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-twitter">
-       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-10523" href="https://www.caa-ins.org/archives/10523?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="点击分享到Twitter">
+       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-10523" href="https://caa-ins.org/archives/10523?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击分享到Twitter（在新窗口中打开）
+         Click to share on Twitter (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-custom share-custom-">
-       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/10523?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="点击分享到新浪微博">
-        <span style="background-image:url(http://open.weibo.com/favicon.ico)">
+       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/10523?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on 新浪微博">
+        <span style='background-image:url("http://open.weibo.com/favicon.ico");'>
         </span>
         <span class="sharing-screen-reader-text">
-         点击分享到新浪微博（在新窗口中打开）
+         Click to share on 新浪微博 (Opens in new window)
         </span>
        </a>
       </li>
       <li class="share-telegram">
-       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/10523?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="点击分享到Telegram">
+       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/10523?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Telegram">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
-         点击分享到Telegram（在新窗口中打开）
+         Click to share on Telegram (Opens in new window)
         </span>
        </a>
       </li>
@@ -221,13 +218,13 @@ categories: [ 网络社会研究所 ]
  </div>
  <footer class="entry-footer">
   <div class="meta-tags">
-   <a href="https://www.caa-ins.org/archives/tag/garry-brents" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/garry-brents" rel="tag">
     Garry Brents
    </a>
-   <a href="https://www.caa-ins.org/archives/tag/%e5%9f%8e%e5%b8%82%e8%ae%ba%e5%9d%9b" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/%e5%9f%8e%e5%b8%82%e8%ae%ba%e5%9d%9b" rel="tag">
     城市论坛
    </a>
-   <a href="https://www.caa-ins.org/archives/tag/%e7%ac%ac%e4%b8%83%e5%b1%8a%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/%e7%ac%ac%e4%b8%83%e5%b1%8a%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a" rel="tag">
     第七届网络社会年会
    </a>
   </div>
