@@ -10,9 +10,7 @@ tags:
 title: 'Twitter @Nathan Law 羅冠聰: 2021-12-27~2022-01-02'
 ---
 
-#HongKong activist. Youngest lawmaker in HK history. Now Exiled in London.
-Author of Freedom, UK (https://t.co/2OFalKXJG1) and NA (https://t.co/mkF6N8U5d0) 
-#TIME100 
+Youngest lawmaker of #HongKong. Activist. Exiled in London. Author of Freedom. Co
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}
@@ -45,9 +43,9 @@ Re 6. I hope it does not create a domino effect that other smaller independent o
 
 Re 7. Let's not forget who are arrested. Denise Ho, a Hong Kong canto-pop diva who has been very vocal on LGBTQI rights and social justice. She could have lived a prosperous and fancy life if she had stayed silent. But she didn't. Wealth cannot buy out one's faith and values.<br><img style src="https://pbs.twimg.com/media/FHxsPZ4WUAUH41T?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 8: [2021-12-29 20:51:49+08:00 推文](https://twitter.com/nathanlawkc/status/1476174115883077644)
+### 8: [2021-12-29 20:51:49+08:00 推文](https://twitter.com/nathanlawkc/status/1476174113580404739)
 
-Re 9. Many more are facing political suppression, and we must extend our support to them as much as we can. Please spread the word on the erosion of freedom in HK. It's our beloved home, and it was once the freest city in Asia. Now, everything we were once proud of are gone. -END
+Re 8. Margaret Ng, a former legislator and well respected barrister. She is 73 and continues to campaign for a better judicial system in Hong Kong. Many political campaigners see her as a role model and the most powerful voice to preserve our values.<br><img style src="https://pbs.twimg.com/media/FHxsWd9WUAcWHKF?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 9: [2021-12-30 19:50:24+08:00 推文](https://twitter.com/nathanlawkc/status/1476521046668886020)
 

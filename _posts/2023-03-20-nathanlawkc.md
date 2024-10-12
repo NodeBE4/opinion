@@ -10,9 +10,7 @@ tags:
 title: 'Twitter @Nathan Law 羅冠聰: 2023-03-20~2023-03-26'
 ---
 
-#HongKong activist. Youngest lawmaker in HK history. Now Exiled in London.
-Author of Freedom, UK (https://t.co/2OFalKXJG1) and NA (https://t.co/mkF6N8U5d0) 
-#TIME100 
+Youngest lawmaker of #HongKong. Activist. Exiled in London. Author of Freedom. Co
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}
@@ -31,5 +29,5 @@ Arts should be liberating and showing humanity's resilience.<br>That's why we ha
 
 ### 4: [2023-03-24 05:17:43+08:00 推文](https://twitter.com/nathanlawkc/status/1639013580577095680)
 
-Salute @patrickamadon https://twitter.com/patrickamadon/status/1638933562706755584<div class="rsshub-quote"><br><br>Patrick Amadon: ✊🌏<br><br>https://apnews.com/article/hong-kong-art-censorship-no-rioters-amadon-956803ea3b5daf5c6ad8b68c55245c25<br></div>
+Salute @patrickamadon<div class="rsshub-quote"><br><br>Patrick Amadon: ✊🌏<br><br>https://apnews.com/article/hong-kong-art-censorship-no-rioters-amadon-956803ea3b5daf5c6ad8b68c55245c25<br></div>
 

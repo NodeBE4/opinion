@@ -10,9 +10,7 @@ tags:
 title: 'Twitter @Nathan Law 羅冠聰: 2023-02-06~2023-02-12'
 ---
 
-#HongKong activist. Youngest lawmaker in HK history. Now Exiled in London.
-Author of Freedom, UK (https://t.co/2OFalKXJG1) and NA (https://t.co/mkF6N8U5d0) 
-#TIME100 
+Youngest lawmaker of #HongKong. Activist. Exiled in London. Author of Freedom. Co
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}
@@ -29,9 +27,9 @@ Re 2. Campaigners are charged due to an action every party would do in a democra
 
 Re 3. The Beijing authority makes the rule for the trial. They handpicked judges, denied the right to a jury, and made the law. <br>4. Defendants' lawyers are named by pro-Beijing newspapers, which is a sign that the govt plans to go after them.
 
-### 4: [2023-02-07 22:18:06+08:00 推文](https://twitter.com/nathanlawkc/status/1622962914578644992)
+### 4: [2023-02-07 22:18:06+08:00 推文](https://twitter.com/nathanlawkc/status/1622962912313716736)
 
-Re 6. The maximum penalty they face is a life sentence. Though we think that it's unlikely they would get that maximum penalty; however, it is expected that "masterminds" like Benny Tai would receive more than a decade of imprisonment.
+Re 5. Most defendants pledged guilty to minimize sentencing. It's not a sign that they admitted wrongdoings — they are hopeless towards the justice system and wanted to get the sentence cut to leave jail as soon as possible.
 
 ### 5: [2023-02-07 22:18:07+08:00 推文](https://twitter.com/nathanlawkc/status/1622962919049777153)
 

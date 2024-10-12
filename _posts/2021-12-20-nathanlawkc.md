@@ -10,9 +10,7 @@ tags:
 title: 'Twitter @Nathan Law 羅冠聰: 2021-12-20~2021-12-26'
 ---
 
-#HongKong activist. Youngest lawmaker in HK history. Now Exiled in London.
-Author of Freedom, UK (https://t.co/2OFalKXJG1) and NA (https://t.co/mkF6N8U5d0) 
-#TIME100 
+Youngest lawmaker of #HongKong. Activist. Exiled in London. Author of Freedom. Co
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}
@@ -27,7 +25,7 @@ Publishing #Freedom means a lot to me. I’ve been trying different ways to rais
 
 ### 3: [2021-12-23 08:12:35+08:00 推文](https://twitter.com/nathanlawkc/status/1473808720983433221)
 
-The #PillarOfShame is removed, while memory lives.<br>We must remember what happened on June 4th, 1989.<br>#TiananmenMassacre<br><br>Xinqi Su 蘇昕琪: In a statement confirming its decision to remove #PillarOfShame, #HKU council said latest legal advice cautioned that the continued display of the statue would pose legal risks based on the Crimes Ordinance enacted in British colonial years. <br><br>So not #NSL?<br><br><img style src="https://pbs.twimg.com/media/FHP-A11UYAEvqUN?format=jpg&name=orig" referrerpolicy="no-referrer">
+The #PillarOfShame is removed, while memory lives.<br>We must remember what happened on June 4th, 1989.<br>#TiananmenMassacre<br><br>Xinqi Su 蘇昕琪: In a statement confirming its decision to remove #PillarOfShame, #HKU council said latest legal advice cautioned that the continued display of the statue would pose legal risks based on the Crimes Ordinance enacted in British colonial years. <br><br>So not #NSL?<br><br><img style="" src="https://pbs.twimg.com/media/FHP-A11UYAEvqUN?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-12-23 09:29:51+08:00 推文](https://twitter.com/nathanlawkc/status/1473828164279410688)
 
