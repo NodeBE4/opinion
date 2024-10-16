@@ -93,7 +93,7 @@ RT Amy Qin<br>Some personal news: after a decade in Asia, I'm moving back to t
 
 ### 20: [2022-07-23 05:24:58+08:00 推文](https://twitter.com/CarlMinzner/status/1550592767184748544)
 
-RT Carl Minzner<br>50 years later, we’re probably only a few years away from a 21st century Xi Jinping Thought version of this.<br><br>Development of Xi Jinping Thought on Diplomacy/Law/Ecological Civilization/etc was already a key step. The rest will follow soon enough …
+RT Carl Minzner<br>50 years later, we’re probably only a few years away from a 21st century Xi Jinping Thought version of this.<br><br>Development of Xi Jinping Thought on Diplomacy/Law/Ecological Civilization/etc was already a key step. The rest will follow soon enough …<br><br>Cultural Revolution OTD 1972: 22/7/72 The People's Daily celebrates the application of Mao Zedong Thought to the field of beekeeping, unlocking earlier egg-laying and more honey.<br>
 
 ### 21: [2022-07-23 07:21:26+08:00 推文](https://twitter.com/ruima/status/1550622075408113664)
 
