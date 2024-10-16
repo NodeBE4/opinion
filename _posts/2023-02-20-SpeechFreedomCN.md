@@ -21,7 +21,7 @@ title: 'Twitter @中国文字狱事件盘点: 2023-02-20~2023-02-26'
 
 ### 2: [2023-02-22 20:15:47+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1628367951777734659)
 
-Fujian man Zheng detained for 4 days for accusing local police of "being no different from bandits, immoral, inhumane and unforgivable" in a WeChat Moments post.<br><img style="" src="https://pbs.twimg.com/media/FpkfwbtXoAE6IsH?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Fujian man Zheng detained for 4 days for accusing local police of "being no different from bandits, immoral, inhumane and unforgivable" in a WeChat Moments post. https://t.co/ja1fln5ET8<br><img style="" src="https://pbs.twimg.com/media/FpkfwbtXoAE6IsH?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2023-02-23 21:31:09+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1628749304025255937)
 
