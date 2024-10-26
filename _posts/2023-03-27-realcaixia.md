@@ -29,11 +29,11 @@ title: 'Twitter @蔡霞: 2023-03-27~2023-04-02'
 
 ### 4: [2023-03-27 11:03:24+08:00 推文](https://twitter.com/realcaixia/status/1640187737461649408)
 
-向保卫乌克兰主权和领土完整的勇敢战士们致敬！ https://twitter.com/ukrainiansquad/status/1639946357128478721<div class="rsshub-quote"><br><br>UKRAINIAN SQUAD🇺🇦: Keep believing in these 🇺🇦Warriors. https://t.co/alEyRpXWNR<br><br><video src="https://video.twimg.com/ext_tw_video/1639946222591963136/pu/vid/718x1280/mUWWAjzdf9QATB24.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1639946222591963136/pu/img/T4huAiJSWz7ES2qL.jpg"></video></div>
+向保卫乌克兰主权和领土完整的勇敢战士们致敬！<div class="rsshub-quote"><br><br>UKRAINIAN SQUAD🇺🇦: Keep believing in these 🇺🇦Warriors. https://t.co/alEyRpXWNR<br><br><video src="https://video.twimg.com/ext_tw_video/1639946222591963136/pu/vid/718x1280/mUWWAjzdf9QATB24.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1639946222591963136/pu/img/T4huAiJSWz7ES2qL.jpg"></video></div>
 
 ### 5: [2023-03-27 20:22:46+08:00 推文](https://twitter.com/realcaixia/status/1640328505270616064)
 
-这些习党打手无法无天，肆无忌惮。中共国是恐怖国家。 https://twitter.com/suyutong/status/1640288057050923009<div class="rsshub-quote"><br><br>Suyutong: #关注编程随想案  #罪恶档案 <br>1，这是2021年5月10日中午，上海杨浦区公安局进入阮晓寰家中暴力查抄和抓人时，阮晓寰被打破的眼镜。<br>2，公安未出示搜查证（3天后被签），查抄电脑等各种物品亦未给家属留下清单，而是把清单带走。<br>3，对阮晓寰的拘留通知是2周后才下达。<br>4，检察院、法院也是暗箱操作。… https://twitter.com/i/web/status/1640288057050923009 https://t.co/ZsFmQjHshC<br><br><img style="" src="https://pbs.twimg.com/media/FsN5NUtWYAE1utB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+这些习党打手无法无天，肆无忌惮。中共国是恐怖国家。<div class="rsshub-quote"><br><br>Suyutong: #关注编程随想案  #罪恶档案 <br>1，这是2021年5月10日中午，上海杨浦区公安局进入阮晓寰家中暴力查抄和抓人时，阮晓寰被打破的眼镜。<br>2，公安未出示搜查证（3天后被签），查抄电脑等各种物品亦未给家属留下清单，而是把清单带走。<br>3，对阮晓寰的拘留通知是2周后才下达。<br>4，检察院、法院也是暗箱操作。… https://twitter.com/i/web/status/1640288057050923009 https://t.co/ZsFmQjHshC<br><br><img style="" src="https://pbs.twimg.com/media/FsN5NUtWYAE1utB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 6: [2023-03-28 05:46:47+08:00 推文](https://twitter.com/realcaixia/status/1640470444561121280)
 
@@ -69,7 +69,7 @@ Re https://t.co/S6xQirXj9e<br><img style="" src="https://pbs.twimg.com/media/FsR
 
 ### 14: [2023-03-29 08:56:31+08:00 推文](https://twitter.com/realcaixia/status/1640880581906153472)
 
-给所有站着坚持常识，坚持说真话的人鼓掌，向石国鹏老师致敬。<div class="rsshub-quote"><br><br>楊錦麟: 在一個只有跪下去才能生存的時代，請給那些還堅持站著的人一點掌聲。 https://t.co/YHvzLbvQko<br><br><img style="" src="https://pbs.twimg.com/media/FsWLLDbaUAAp0j3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+给所有站着坚持常识，坚持说真话的人鼓掌，向石国鹏老师致敬。 https://twitter.com/m_wo8y/status/1640870667813027840<div class="rsshub-quote"><br><br>楊錦麟: 在一個只有跪下去才能生存的時代，請給那些還堅持站著的人一點掌聲。 https://t.co/YHvzLbvQko<br><br><img style="" src="https://pbs.twimg.com/media/FsWLLDbaUAAp0j3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 15: [2023-03-29 09:55:44+08:00 推文](https://twitter.com/realcaixia/status/1640895483357847555)
 
@@ -121,7 +121,7 @@ Dissident Scholar: COVID-19 Reveals “Gangster Nature” of China’s Communi..
 
 ### 27: [2023-03-31 00:42:25+08:00 推文](https://twitter.com/realcaixia/status/1641481011388198921)
 
-从刘同肪教授的问题开始接着刨根列宁主义、斯大林主义；刨中共（现在是习党）的思想理论之根，剥去所谓“习思想”的皇帝的新衣。<br>“习思想”的特质至少有：华丽空洞的宏大叙事➕玩弄文字瞎编名词冒充理论创新➕毫无逻辑的标语口号冒充“理论精华”➕即兴胡言乱语成“思想”。江胡习三代党魁共用一王出“思想”。<div class="rsshub-quote"><br><br>Petrichor: 浙江大学马克思主义学院院长刘同舫教授走出国门后，第一次读到韦伯的《马克思主义的批判》，被吓了一跳，原来马克思主义可以批判。于是开始了反思，他的怀疑主要是来自于对现实的反思。 https://t.co/VUbW8FMJbQ<br><br><img style="" src="https://pbs.twimg.com/media/FscEcnJWYAAA6Hy?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FscEcnMXwAA_sG7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FscEcnIXsAEFPaP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FscEcnKXsAEqiSe?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+从刘同肪教授的问题开始接着刨根列宁主义、斯大林主义；刨中共（现在是习党）的思想理论之根，剥去所谓“习思想”的皇帝的新衣。<br>“习思想”的特质至少有：华丽空洞的宏大叙事➕玩弄文字瞎编名词冒充理论创新➕毫无逻辑的标语口号冒充“理论精华”➕即兴胡言乱语成“思想”。江胡习三代党魁共用一王出“思想”。 https://twitter.com/jam79922967/status/1641285486873391109<div class="rsshub-quote"><br><br>Petrichor: 浙江大学马克思主义学院院长刘同舫教授走出国门后，第一次读到韦伯的《马克思主义的批判》，被吓了一跳，原来马克思主义可以批判。于是开始了反思，他的怀疑主要是来自于对现实的反思。 https://t.co/VUbW8FMJbQ<br><br><img style="" src="https://pbs.twimg.com/media/FscEcnJWYAAA6Hy?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FscEcnMXwAA_sG7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FscEcnIXsAEFPaP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FscEcnKXsAEqiSe?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 28: [2023-03-31 07:24:23+08:00 推文](https://twitter.com/realcaixia/status/1641582171642032128)
 
@@ -173,7 +173,7 @@ Re https://t.co/LX751vAPYN<br><img style="" src="https://pbs.twimg.com/media/Fsl
 
 ### 40: [2023-04-01 23:13:09+08:00 推文](https://twitter.com/realcaixia/status/1642183324700405767)
 
-泪目了！好心痛。人要养家糊口要活着，都卑微到这个地步了，再往后怎么活？ https://twitter.com/lonelywarriorma/status/1641850794457841664<div class="rsshub-quote"><br><br>为自由而战-天山剑客: 3月31日江西<br><br>外卖员手上还有两单货没有送<br>怕电动车被偷 索性把车停在监控下面<br>不料保安把电动车给锁上<br>小哥跪地请求开锁<br>并表宗下次再世不乱停乱放厅<br><br>为了一口吃的，在中国已经到了什么地步？<br><br>大家心酸吗？ https://t.co/q9oB6JcGgZ<br><br><video src="https://video.twimg.com/ext_tw_video/1641850694293659648/pu/vid/720x1280/n0PmkAuUwEIYtICE.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1641850694293659648/pu/img/pwlAnEG5AEyxnvql.jpg"></video></div>
+泪目了！好心痛。人要养家糊口要活着，都卑微到这个地步了，再往后怎么活？<div class="rsshub-quote"><br><br>为自由而战-天山剑客: 3月31日江西<br><br>外卖员手上还有两单货没有送<br>怕电动车被偷 索性把车停在监控下面<br>不料保安把电动车给锁上<br>小哥跪地请求开锁<br>并表宗下次再世不乱停乱放厅<br><br>为了一口吃的，在中国已经到了什么地步？<br><br>大家心酸吗？ https://t.co/q9oB6JcGgZ<br><br><video src="https://video.twimg.com/ext_tw_video/1641850694293659648/pu/vid/720x1280/n0PmkAuUwEIYtICE.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1641850694293659648/pu/img/pwlAnEG5AEyxnvql.jpg"></video></div>
 
 ### 41: [2023-04-01 23:25:32+08:00 推文](https://twitter.com/realcaixia/status/1642186442498531329)
 
@@ -221,5 +221,5 @@ Re https://t.co/fmlaUXx3vk<br><img style="" src="https://pbs.twimg.com/media/Fst
 
 ### 52: [2023-04-02 23:55:48+08:00 推文](https://twitter.com/realcaixia/status/1642556446679375872)
 
-正在威胁世界和平，犯有反人类罪行的俄国代表竟然坐上联合国安理会轮值主席的位子，同时另一个同样犯有反人类罪行的中共党国，现在被习搞成习帝国，依旧是联合国安理会常任理事国，这真是对“安全理事会”的莫大讽刺。<br>需要世界各国勇敢发起改革联合国的架构和机制的共同倡议和行动。<div class="rsshub-quote"><br><br>ZHANGDONG: 愚人日俄国坐上了UNO安理会轮盘第一把交椅，新官上任第一把火：俄罗斯常驻联合国第一副代表德米特里·波利扬斯基在他的电报频道上扬言，任何挑衅俄罗斯的企图注定要失败。嚯！威胁世界口气不小。一个被国际刑事法庭通缉的战犯为总统的国家，一个武力侵犯邻国的国家，执掌UNO安全理事会，天下第一大笑话!<br></div>
+正在威胁世界和平，犯有反人类罪行的俄国代表竟然坐上联合国安理会轮值主席的位子，同时另一个同样犯有反人类罪行的中共党国，现在被习搞成习帝国，依旧是联合国安理会常任理事国，这真是对“安全理事会”的莫大讽刺。<br>需要世界各国勇敢发起改革联合国的架构和机制的共同倡议和行动。 https://twitter.com/zhangdong_sch/status/1642440333505048576<div class="rsshub-quote"><br><br>ZHANGDONG: 愚人日俄国坐上了UNO安理会轮盘第一把交椅，新官上任第一把火：俄罗斯常驻联合国第一副代表德米特里·波利扬斯基在他的电报频道上扬言，任何挑衅俄罗斯的企图注定要失败。嚯！威胁世界口气不小。一个被国际刑事法庭通缉的战犯为总统的国家，一个武力侵犯邻国的国家，执掌UNO安全理事会，天下第一大笑话! https://twitter.com/tassagency_en/status/1642368794722025473<br></div>
 
