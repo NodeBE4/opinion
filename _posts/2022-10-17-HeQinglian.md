@@ -241,7 +241,7 @@ RT 北美保守评论🇺🇸🇨🇦<br>《俄勒冈首富菲尔·奈特：�
 
 ### 57: [2022-10-21 06:28:52+08:00 推文](https://twitter.com/HeQinglian/status/1583223755803078661)
 
-此贴图来自于索罗斯11/1/1993发表的文章：<br>Toward a New World Order: The Future of NATOToward a New World Order: The Future of NATO<br><br>中国1990年代有本《战略与管理》，登过他主题类似的另一篇文章。当时据说他在美国还是另类，20多年过去寄生于左派之中终成主流。<br><br>李江琳: @Wu_Zhi @david_david1968 @HeQinglian @ngexp @RealBeiMing<br>
+此贴图来自于索罗斯11/1/1993发表的文章：<br>Toward a New World Order: The Future of NATOToward a New World Order: The Future of NATO<br><br>中国1990年代有本《战略与管理》，登过他主题类似的另一篇文章。当时据说他在美国还是另类，20多年过去寄生于左派之中终成主流。<br><br>李江琳: @Wu_Zhi @david_david1968 @HeQinglian @ngexp @RealBeiMing<br> <a href="https://twitter.com/echo_chamberz/status/1582504597804834817" target="_blank" rel="noopener noreferrer">https://twitter.com/echo_chamberz/status/1582504597804834817</a>
 
 ### 58: [2022-10-21 06:47:35+08:00 推文](https://twitter.com/Tianshuihanyan/status/1583228463406018560)
 
