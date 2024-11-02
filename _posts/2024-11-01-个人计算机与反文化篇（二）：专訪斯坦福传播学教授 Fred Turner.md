@@ -3,15 +3,15 @@ layout: post
 title: "个人计算机与反文化篇（二）：专訪斯坦福传播学教授 Fred Turner"
 date: 2024-11-01
 author: 网络社会研究所
-from: https://caa-ins.org/archives/12353
+from: https://www.caa-ins.org/archives/12353
 tags: [ 网络社会研究所 ]
 categories: [ 网络社会研究所 ]
 ---
 
-<article class="vce-single post-12353 post type-post status-publish format-standard hentry category-639 tag-counterculture tag-fred-turner tag-personal-computing tag-38" id="post-12353">
+<article class="vce-single post-12353 post type-post status-publish format-standard has-post-thumbnail hentry category-639 tag-counterculture tag-fred-turner tag-personal-computing tag-38" id="post-12353">
  <header class="entry-header">
   <span class="meta-category">
-   <a class="category-639" href="https://caa-ins.org/archives/category/%e8%ae%a1%e7%ae%97%e6%9c%ba%e4%b8%8e%e5%8f%8d%e6%96%87%e5%8c%96">
+   <a class="category-639" href="https://www.caa-ins.org/archives/category/%e8%ae%a1%e7%ae%97%e6%9c%ba%e4%b8%8e%e5%8f%8d%e6%96%87%e5%8c%96">
     计算机与反文化
    </a>
   </span>
@@ -36,15 +36,15 @@ categories: [ 网络社会研究所 ]
   <p class="has-text-align-center">
    ＊＊＊
   </p>
-  <p>
-  </p>
-  <p>
-   摄影 / 黄孙权 陈懋璋
-   <br/>
-   剪辑 / 姜奕竹 王婧洁 任柄霖 邵乐天
-   <br/>
-   特效 / 严正皓
-  </p>
+  <figure class="wp-block-embed is-type-video is-provider-vimeo wp-block-embed-vimeo wp-embed-aspect-16-9 wp-has-aspect-ratio">
+   <div class="wp-block-embed__wrapper">
+    <iframe allow="autoplay; fullscreen; picture-in-picture; clipboard-write" frameborder="0" height="456" src="https://player.vimeo.com/video/1025474307?dnt=1&amp;app_id=122963" width="810">
+    </iframe>
+   </div>
+   <figcaption class="wp-element-caption">
+    訪談影片（摄影 / 黄孙权 陈懋璋 剪辑 / 姜奕竹 王婧洁 任柄霖 邵乐天 特效 / 严正皓）
+   </figcaption>
+  </figure>
   <p class="has-text-align-center">
    <strong>
     访谈全文：
@@ -168,7 +168,7 @@ categories: [ 网络社会研究所 ]
    因此，我认为追问布兰德到底是“远见”还是“问题”的根源，并不是最合适的。他是一个聚集者，一个如巴纳姆般的角色，一个为他周围正在发生的马戏团发声的人，他擅长找到适合马戏团的演出，重要的演出，他擅长发现辩论的前沿。
   </p>
   <p>
-   而且他也是一个迷人的家伙 你知道我遇见他的时候，你知道吗？当我遇见他时，他对我非常开放。他让我读他的日记，这是一件令人难以置信的事情 那些日记非常的私密。他让我接触到一切，他是一个我认为，深信于开放性的人。这种开放性既是反反主流文化的 也是控制论的，你可以在如今的硅谷人们的生活和工作方式中，听到那种开放的回声。我非常钦佩这一点。我在许多政治问题上与斯图尔特·布兰德持不同意见，但撇开这些不谈，我非常钦佩他开放的心态，和能够团结不同社群，推动事物发展的能力。
+   而且他也是一个迷人的家伙 你知道我遇见他的时候，你知道吗？当我遇见他时，他对我非常开放。他让我读他的日记，这是一件令人难以置信的事情 那些日记非常的私密。他让我接触到一切，他是一个我认为，深信于开放性的人。这种开放性既是反主流文化的，也是控制论的，你可以在如今的硅谷人们的生活和工作方式中，听到那种开放的回声。我非常钦佩这一点。我在许多政治问题上与斯图尔特·布兰德持不同意见，但撇开这些不谈，我非常钦佩他开放的心态，和能够团结不同社群，推动事物发展的能力。
   </p>
   <p>
    <strong>
@@ -329,7 +329,7 @@ categories: [ 网络社会研究所 ]
    <strong>
     Fred Turner:
    </strong>
-   So, let me saya little bit about the cultural frameworks in both books,
+   So, let me say a little bit about the cultural frameworks in both books,
    <strong>
     <em>
      The Democratic Surround
@@ -542,7 +542,7 @@ categories: [ 网络社会研究所 ]
    ” That’s where we live now.
   </p>
   <p>
-   And at least in Silicon Valley, that’s the culture that we’re exporting now. The last thing to say is that in the stories about places like Facebook or Google, they will tell you”all users are equal. “Look, we make a technology for everyone – maybe they do. But they make a technology whose wealth disenfranchises most people. Most people are sources of mining data; a few people profit from that.It’s a lot like the early 20th century, when coal miners chopped up mountains, and people worked in the mines, and they got sick, and the owners lived somewhere else completely. It’s a mixed bag, because on the one hand, nothing changes in the sense that we really are,I think, in another predatory industrial period. But I do think some things change, and it’s hard to remember those at the same time. I think that the mass individuation we talked about earlier is an incredible phenomenon. I think that a mediascape that allows us to see so many different ways of being in the world is an incredible thing. I grew up in a very small town in the countryside where men who were effeminate there, when they were boys, would be beaten up.I watched my daughter go to her graduation from eighth grade.She was 13, and one of her friends stood on the stage and talked about what it was like to be a 13-year-old gay woman. That’s an incredible change in one generation, and it’s because of media, because of the internet, because of the ways that it shows us the world. So on the one hand, yes, the effects are often quite negative, but not exclusively negative.  And this is one of our challenges.
+   And at least in Silicon Valley, that’s the culture that we’re exporting now. The last thing to say is that in the stories about places like Facebook or Google, they will tell you”all users are equal. “Look, we make a technology for everyone – maybe they do. But they make a technology whose wealth disenfranchises most people. Most people are sources of mining data; a few people profit from that.It’s a lot like the early 20th century, when coal miners chopped up mountains, and people worked in the mines, and they got sick, and the owners lived somewhere else completely. It’s a mixed bag, because on the one hand, nothing changes in the sense that we really are,I think, in another predatory industrial period. But I do think some things change, and it’s hard to remember those at the same time. I think that the mass individuation we talked about earlier is an incredible phenomenon. I think that a mediascape that allows us to see so many different ways of being in the world is an incredible thing. I grew up in a very small town in the countryside where men who were effeminate there, when they were boys, would be beaten up.I watched my daughter go to her graduation from eighth grade. She was 13, and one of her friends stood on the stage and talked about what it was like to be a 13-year-old gay woman. That’s an incredible change in one generation, and it’s because of media, because of the internet, because of the ways that it shows us the world. So on the one hand, yes, the effects are often quite negative, but not exclusively negative.  And this is one of our challenges.
   </p>
   <p>
    <strong>
@@ -557,7 +557,7 @@ categories: [ 网络社会研究所 ]
    So, the visual culture of Silicon Valley has changed a lot. In the 1960s, both machines and culture were different: The machines tended to be very large, room-sized, kind of clunky. People were only just beginning to be able to do visual drawing kinds of things.It was still very number-heavy and point-heavy. By contrast, the art scene here,  such as it was, was very hand-drawn, hippie-fied. So the early Apple materials, if you can go back and look at early Apples, Apple’s very earliest pamphlets, they were all hand-drawn. They felt like a drawing that your friend had given you, and so the aesthetic was one of “Look, these super high-powered machines really belong in our very low-key, back-to-the-land, hand-written world.” That’s changed a lot.
   </p>
   <p>
-   Starting in the 1980s, the Burning Man Festival came along. But I think Burning Man is a very good representative of the new aesthetic. Burning Man is a festival where, last time, 70,000 people went. And they build a city out in the desert, and you live in different camps, different communities. And you make art. You make these large, technologically-centered art forms.And in Silicon Valley, the art is pretty high-tech and pretty hard to do. It’s very difficult to work out in that desert.It’s very hot. The desert sand itself is sort of toxic. It’s miserable.But people do it. And I asked them why they spent a lot of time there.And they say, “Well, you know, here, I can basically live out the values of Silicon Valley, the things they tell me I can get at work. But I can do it with my friends, and it’s my own. I own it. So you have these project teams working in the Valley, making high-tech art. And then that art will sometimes be sent back to San Francisco to be part of the city. That’s where we are now. And so the hand-making has really changed.
+   Starting in the 1980s, the Burning Man Festival came along. But I think Burning Man is a very good representative of the new aesthetic. Burning Man is a festival where, last time, 70,000 people went. And they build a city out in the desert, and you live in different camps, different communities. And you make art. You make these large, technologically-centered art forms. And in Silicon Valley, the art is pretty high-tech and pretty hard to do. It’s very difficult to work out in that desert.It’s very hot. The desert sand itself is sort of toxic. It’s miserable.But people do it. And I asked them why they spent a lot of time there.And they say, “Well, you know, here, I can basically live out the values of Silicon Valley, the things they tell me I can get at work. But I can do it with my friends, and it’s my own. I own it. So you have these project teams working in the Valley, making high-tech art. And then that art will sometimes be sent back to San Francisco to be part of the city. That’s where we are now. And so the hand-making has really changed.
   </p>
   <p>
    <strong>
@@ -569,7 +569,7 @@ categories: [ 网络社会研究所 ]
    <strong>
     Fred Turner:
    </strong>
-   No, they’re part of techno-utopianism, and blockchain in particular is part of a fantasy that we can trace back to the 1940s.A nd the fantasy is, again, this fantasy of a world without government. A world in which technologies and good-hearted people working with technologies can replace the self-evidently power-hungry worlds of politics. I don’t think it’s effective. Blockchain has not shown the ability to replace other institutions.On the contrary, you see the kinds of abuses in blockchain because it’s deinstitutionalized, because it’s not regulated, that you used to see in the stock market. So remember, I teach at Stanford, which producedSam Bankman-Fried. I don’t know if you’re familiar with Sam.Sam ran a multi-billion dollar scam in Bitcoin. And he ran that in Bitcoin in part because the industry was basically deregulated. And so, no, Maybe bitcoin is a new kind of money. Great. But will Bitcoin produce a happier society for more folks? I  doubt it very much.
+   No, they’re part of techno-utopianism, and blockchain in particular is part of a fantasy that we can trace back to the 1940s. And the fantasy is, again, this fantasy of a world without government. A world in which technologies and good-hearted people working with technologies can replace the self-evidently power-hungry worlds of politics. I don’t think it’s effective. Blockchain has not shown the ability to replace other institutions.On the contrary, you see the kinds of abuses in blockchain because it’s deinstitutionalized, because it’s not regulated, that you used to see in the stock market. So remember, I teach at Stanford, which producedSam Bankman-Fried. I don’t know if you’re familiar with Sam.Sam ran a multi-billion dollar scam in Bitcoin. And he ran that in Bitcoin in part because the industry was basically deregulated. And so, no, Maybe bitcoin is a new kind of money. Great. But will Bitcoin produce a happier society for more folks? I  doubt it very much.
   </p>
   <p>
    <strong>
@@ -581,10 +581,10 @@ categories: [ 网络社会研究所 ]
    <strong>
     Fred Turner:
    </strong>
-   Yeah. It’s a really great question.And it’s a much bigger question than I could probably give a real answer to. But I’ll try, because, you know, why not? For some years now, for some decades, the fantasy in Silicon Valley has been that if we build tech – we used to call technologies of consciousness, technologies of communication -and we build them large enough and we spread them throughout the world,a new, more democratic world will emerge. We’re seeing that that’s not true. Elon Musk, at the moment, controlsal most all of the satellites that are required for Starlink, which is the American government technology for providingh elp to the Ukrainians.We are dependent on a single private enterprise for what is essentially a national project. And you see that kind of privatization move happening in lots of different places.
+   Yeah. It’s a really great question.And it’s a much bigger question than I could probably give a real answer to. But I’ll try, because, you know, why not? For some years now, for some decades, the fantasy in Silicon Valley has been that if we build tech – we used to call technologies of consciousness, technologies of communication -and we build them large enough and we spread them throughout the world,a new, more democratic world will emerge. We’re seeing that that’s not true. Elon Musk, at the moment, controls almost all of the satellites that are required for Starlink, which is the American government technology for providing help to the Ukrainians.We are dependent on a single private enterprise for what is essentially a national project. And you see that kind of privatization move happening in lots of different places.
   </p>
   <p>
-   So my sense is that what we need to dois actually find ways to build institutions that can use tech, constrain tech, and improve our lives. I don’t think that technologically enhanced communication necessarily frees us. It individuates us, but that’s not the same thing as being free.  Being free depends on having institutions hat ensure the more equal distribution of resources, that ensure that when there’s a collective need,  that need is represented in some way, and it’s not just in the hands of one leader. You see this privatization impulse in tech in many other places.In America, private entities are trying to take over the school system, they’re trying to take over healthcare, they’re taking over healthcare. How do we have a representative of the collective good? How do we have institutions that do that fairly and well? That’s, I think, the question, and I think that one of the things you see around the world right now is different political systems competing to provide that. And I think every system has some things that are strong; many of them, including our own, tend toward authoritarian oligarchy. That’s a problem.
+   So my sense is that what we need to do is actually find ways to build institutions that can use tech, constrain tech, and improve our lives. I don’t think that technologically enhanced communication necessarily frees us. It individuates us, but that’s not the same thing as being free.  Being free depends on having institutions hat ensure the more equal distribution of resources, that ensure that when there’s a collective need,  that need is represented in some way, and it’s not just in the hands of one leader. You see this privatization impulse in tech in many other places.In America, private entities are trying to take over the school system, they’re trying to take over healthcare, they’re taking over healthcare. How do we have a representative of the collective good? How do we have institutions that do that fairly and well? That’s, I think, the question, and I think that one of the things you see around the world right now is different political systems competing to provide that. And I think every system has some things that are strong; many of them, including our own, tend toward authoritarian oligarchy. That’s a problem.
   </p>
   <p>
    I don’t know where we’re headed, but I think the answer is in politics, not in technology, and especially not in using technology in lieu of politics.
@@ -596,7 +596,7 @@ categories: [ 网络社会研究所 ]
    ＊＊＊
   </p>
   <figure class="wp-block-image size-large">
-   <img alt="" class="wp-image-12355" data-attachment-id="12355" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"1.8","credit":"","camera":"iPhone 11","caption":"","created_timestamp":"1693063981","copyright":"","focal_length":"4.25","iso":"320","shutter_speed":"0.020833333333333","title":"","orientation":"1"}' data-image-title="IMG_3100" data-large-file="https://caa-ins.org/wp-content/uploads/2024/10/IMG_3100-1024x768.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2024/10/IMG_3100-300x225.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2024/10/IMG_3100-scaled.jpg" data-orig-size="2560,1920" data-permalink="https://caa-ins.org/archives/12353/img_3100" decoding="async" fetchpriority="high" height="768" role="button" sizes="(max-width: 1024px) 100vw, 1024px" src="https://caa-ins.org/wp-content/uploads/2024/10/IMG_3100-1024x768.jpg" srcset="https://caa-ins.org/wp-content/uploads/2024/10/IMG_3100-1024x768.jpg 1024w, https://caa-ins.org/wp-content/uploads/2024/10/IMG_3100-300x225.jpg 300w, https://caa-ins.org/wp-content/uploads/2024/10/IMG_3100-768x576.jpg 768w, https://caa-ins.org/wp-content/uploads/2024/10/IMG_3100-1536x1152.jpg 1536w, https://caa-ins.org/wp-content/uploads/2024/10/IMG_3100-2048x1536.jpg 2048w, https://caa-ins.org/wp-content/uploads/2024/10/IMG_3100-810x608.jpg 810w, https://caa-ins.org/wp-content/uploads/2024/10/IMG_3100-1140x855.jpg 1140w" tabindex="0" width="1024"/>
+   <img alt="" class="wp-image-12355" data-attachment-id="12355" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"1.8","credit":"","camera":"iPhone 11","caption":"","created_timestamp":"1693063981","copyright":"","focal_length":"4.25","iso":"320","shutter_speed":"0.020833333333333","title":"","orientation":"1"}' data-image-title="IMG_3100" data-large-file="https://www.caa-ins.org/wp-content/uploads/2024/10/IMG_3100-1024x768.jpg" data-medium-file="https://www.caa-ins.org/wp-content/uploads/2024/10/IMG_3100-300x225.jpg" data-orig-file="https://www.caa-ins.org/wp-content/uploads/2024/10/IMG_3100-scaled.jpg" data-orig-size="2560,1920" data-permalink="https://www.caa-ins.org/archives/12353/img_3100" decoding="async" fetchpriority="high" height="768" role="button" sizes="(max-width: 1024px) 100vw, 1024px" src="https://caa-ins.org/wp-content/uploads/2024/10/IMG_3100-1024x768.jpg" srcset="https://www.caa-ins.org/wp-content/uploads/2024/10/IMG_3100-1024x768.jpg 1024w, https://www.caa-ins.org/wp-content/uploads/2024/10/IMG_3100-300x225.jpg 300w, https://www.caa-ins.org/wp-content/uploads/2024/10/IMG_3100-768x576.jpg 768w, https://www.caa-ins.org/wp-content/uploads/2024/10/IMG_3100-1536x1152.jpg 1536w, https://www.caa-ins.org/wp-content/uploads/2024/10/IMG_3100-2048x1536.jpg 2048w, https://www.caa-ins.org/wp-content/uploads/2024/10/IMG_3100-810x608.jpg 810w, https://www.caa-ins.org/wp-content/uploads/2024/10/IMG_3100-1140x855.jpg 1140w" tabindex="0" width="1024"/>
   </figure>
   <p class="has-text-align-center">
    ＊＊＊
@@ -604,7 +604,7 @@ categories: [ 网络社会研究所 ]
   <div class="wp-block-cover wp-duotone-333-rgb164164164-1">
    <span aria-hidden="true" class="wp-block-cover__background has-background-dim">
    </span>
-   <img alt="" class="wp-block-cover__image-background wp-image-12083" data-attachment-id="12083" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44" data-large-file="https://caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-1024x568.jpeg" data-medium-file="https://caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-300x167.jpeg" data-object-fit="cover" data-orig-file="https://caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-scaled.jpeg" data-orig-size="2560,1421" data-permalink="https://caa-ins.org/archives/12046/5e7b2b58-9b42-4466-adfd-e3e16b7f0a44" decoding="async" height="568" role="button" sizes="(max-width: 1024px) 100vw, 1024px" src="https://www.caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-1024x568.jpeg" srcset="https://caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-1024x568.jpeg 1024w, https://caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-300x167.jpeg 300w, https://caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-768x426.jpeg 768w, https://caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-1536x853.jpeg 1536w, https://caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-2048x1137.jpeg 2048w, https://caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-810x450.jpeg 810w, https://caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-1140x633.jpeg 1140w" tabindex="0" width="1024">
+   <img alt="" class="wp-block-cover__image-background wp-image-12083" data-attachment-id="12083" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44" data-large-file="https://www.caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-1024x568.jpeg" data-medium-file="https://www.caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-300x167.jpeg" data-object-fit="cover" data-orig-file="https://www.caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-scaled.jpeg" data-orig-size="2560,1421" data-permalink="https://www.caa-ins.org/archives/12046/5e7b2b58-9b42-4466-adfd-e3e16b7f0a44" decoding="async" height="568" role="button" sizes="(max-width: 1024px) 100vw, 1024px" src="https://www.caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-1024x568.jpeg" srcset="https://www.caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-1024x568.jpeg 1024w, https://www.caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-300x167.jpeg 300w, https://www.caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-768x426.jpeg 768w, https://www.caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-1536x853.jpeg 1536w, https://www.caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-2048x1137.jpeg 2048w, https://www.caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-810x450.jpeg 810w, https://www.caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-1140x633.jpeg 1140w" tabindex="0" width="1024">
     <div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
      <p class="has-text-align-left has-normal-font-size">
       文化与技术系列采访影像源于
@@ -623,7 +623,7 @@ categories: [ 网络社会研究所 ]
    </img>
   </div>
   <figure class="likecoin-embed likecoin-button">
-   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fcaa-ins.org%2Farchives%2F12353" style="height:212px;width: 360px;">
+   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fwww.caa-ins.org%2Farchives%2F12353" style="height:212px;width: 360px;">
    </iframe>
   </figure>
   <div class="sharedaddy sd-sharing-enabled">
@@ -634,7 +634,7 @@ categories: [ 网络社会研究所 ]
     <div class="sd-content">
      <ul>
       <li class="share-facebook">
-       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-12353" href="https://caa-ins.org/archives/12353?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook">
+       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-12353" href="https://www.caa-ins.org/archives/12353?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
@@ -643,7 +643,7 @@ categories: [ 网络社会研究所 ]
        </a>
       </li>
       <li class="share-twitter">
-       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-12353" href="https://caa-ins.org/archives/12353?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter">
+       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-12353" href="https://www.caa-ins.org/archives/12353?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
@@ -652,7 +652,7 @@ categories: [ 网络社会研究所 ]
        </a>
       </li>
       <li class="share-custom share-custom-">
-       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/12353?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on 新浪微博">
+       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/12353?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on 新浪微博">
         <span style='background-image:url("http://open.weibo.com/favicon.ico");'>
         </span>
         <span class="sharing-screen-reader-text">
@@ -661,7 +661,7 @@ categories: [ 网络社会研究所 ]
        </a>
       </li>
       <li class="share-telegram">
-       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/12353?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Telegram">
+       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/12353?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Telegram">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
@@ -678,16 +678,16 @@ categories: [ 网络社会研究所 ]
  </div>
  <footer class="entry-footer">
   <div class="meta-tags">
-   <a href="https://caa-ins.org/archives/tag/counterculture" rel="tag">
+   <a href="https://www.caa-ins.org/archives/tag/counterculture" rel="tag">
     counterculture
    </a>
-   <a href="https://caa-ins.org/archives/tag/fred-turner" rel="tag">
+   <a href="https://www.caa-ins.org/archives/tag/fred-turner" rel="tag">
     Fred Turner
    </a>
-   <a href="https://caa-ins.org/archives/tag/personal-computing" rel="tag">
+   <a href="https://www.caa-ins.org/archives/tag/personal-computing" rel="tag">
     personal computing
    </a>
-   <a href="https://caa-ins.org/archives/tag/%e9%bb%84%e5%ad%99%e6%9d%83" rel="tag">
+   <a href="https://www.caa-ins.org/archives/tag/%e9%bb%84%e5%ad%99%e6%9d%83" rel="tag">
     黄孙权
    </a>
   </div>
