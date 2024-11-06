@@ -57,7 +57,7 @@ Re @sakamoto2023 说得好！🌹我有时候还会不自觉地用习惯了的�
 
 ### 11: [2022-09-21 21:49:21+08:00 推文](https://twitter.com/realcaixia/status/1572583764949348352)
 
-这张照片让人泪下…心痛心碎。人的良知如何能唤醒哪些冷漠无情的人？<br><br>余钱100: 這張照片是一個女孩跳樓的時候，圍觀者都在等著看熱鬧和笑話，只有這個老人不斷含淚對女孩揮手說: 不要。 這張照片一直在提醒我說，看這些醜陋的鬼臉，在別人都這樣做的時候，你依然要守住內心的善良。<br><br><img style="" src="https://pbs.twimg.com/media/Fc-03JBaAAE6C4-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+这张照片让人泪下…心痛心碎。人的良知如何能唤醒哪些冷漠无情的人？<br><br>余钱💯: 這張照片是一個女孩跳樓的時候，圍觀者都在等著看熱鬧和笑話，只有這個老人不斷含淚對女孩揮手說: 不要。 這張照片一直在提醒我說，看這些醜陋的鬼臉，在別人都這樣做的時候，你依然要守住內心的善良。<br><br><img style="" src="https://pbs.twimg.com/media/Fc-03JBaAAE6C4-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2022-09-21 21:54:19+08:00 推文](https://twitter.com/realcaixia/status/1572585014285717515)
 
