@@ -37,7 +37,7 @@ title: 'Twitter @蔡霞: 2022-04-18~2022-04-24'
 
 ### 6: [2022-04-18 08:23:05+08:00 推文](https://twitter.com/realcaixia/status/1515848354290356226)
 
-查查现在的广西自治区委书记是什么人，估计是想20大争进局或2023年想进南院的。现在拍有点儿临死抱佛脚了，早干嘛去了？<br><br>韩连潮: 【广西马屁】刚才看到《广西日报》根据自治区党委的部署推出拍习马屁的系列重磅报道，将其称为“伟大复兴领航人”，还怕领航人不识“踔厉笃行”的踔字，又特意用横线标出，看来广西这个马屁恐怕拍到马蹄儿上了。<br><br><img style="" src="https://pbs.twimg.com/media/FQkp698XEAU82wD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+查查现在的广西自治区委书记是什么人，估计是想20大争进局或2023年想进南院的。现在拍有点儿临死抱佛脚了，早干嘛去了？
 
 ### 7: [2022-04-18 08:47:27+08:00 推文](https://twitter.com/realcaixia/status/1515854487893725192)
 
@@ -85,7 +85,7 @@ Re @yangjianli001 哈哈！
 
 ### 18: [2022-04-19 23:39:13+08:00 推文](https://twitter.com/realcaixia/status/1516441293584580611)
 
-这条视频满是网友评语飘过。弹幕恰反映了真实民意。党国官媒造神以为这就能搞定人心向背，看看这条视频，就知他们是在自欺欺人。 <a href="https://twitter.com/seer_cold_mist/status/1515919805756280835" target="_blank" rel="noopener noreferrer">https://twitter.com/seer_cold_mist/status/1515919805756280835</a>
+这条视频满是网友评语飘过。弹幕恰反映了真实民意。党国官媒造神以为这就能搞定人心向背，看看这条视频，就知他们是在自欺欺人。 <a href="https://twitter.com/Seer_Cold_Mist/status/1515919805756280835" target="_blank" rel="noopener noreferrer">https://twitter.com/Seer_Cold_Mist/status/1515919805756280835</a>
 
 ### 19: [2022-04-19 23:59:31+08:00 推文](https://twitter.com/realcaixia/status/1516446403698040841)
 
@@ -137,7 +137,7 @@ Re 在这个视频下为中共洗地的，全都不是人！这些家伙丧尽�
 
 ### 31: [2022-04-22 20:22:15+08:00 推文](https://twitter.com/realcaixia/status/1517478888280100865)
 
-李承鹏老师的散文，讽刺幽默笔如匕首投枪，嬉笑怒骂皆成文章。这篇文章字字犀利、悲愤力透纸背，悲悯穿透人心。庆父不死 鲁难未已。承鹏老师借小说《白鹿原》中一情节愤然诘问：“折腾到何时为止”！<br><br>《议报》: 李承鹏：上海是预示未来一百年的大河<br> <a href="https://yibaochina.com/?p=246090" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246090</a>
+李承鹏老师的散文，讽刺幽默笔如匕首投枪，嬉笑怒骂皆成文章。这篇文章字字犀利、悲愤力透纸背，悲悯穿透人心。庆父不死 鲁难未已。承鹏老师借小说《白鹿原》中一情节愤然诘问：“折腾到何时为止”！
 
 ### 32: [2022-04-22 21:05:00+08:00 推文](https://twitter.com/realcaixia/status/1517489646720229380)
 
