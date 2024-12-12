@@ -3,7 +3,7 @@ layout: post
 title: "个人计算机与反文化篇（三）：专访纽约时报记者与作家John Markoff"
 date: 2024-12-12
 author: 网络社会研究所
-from: https://caa-ins.org/archives/12528
+from: https://www.caa-ins.org/archives/12528
 tags: [ 网络社会研究所 ]
 categories: [ 网络社会研究所 ]
 ---
@@ -11,7 +11,7 @@ categories: [ 网络社会研究所 ]
 <article class="vce-single post-12528 post type-post status-publish format-standard has-post-thumbnail hentry category-639 tag-john-markoff tag-637 tag-638" id="post-12528">
  <header class="entry-header">
   <span class="meta-category">
-   <a class="category-639" href="https://caa-ins.org/archives/category/%e8%ae%a1%e7%ae%97%e6%9c%ba%e4%b8%8e%e5%8f%8d%e6%96%87%e5%8c%96">
+   <a class="category-639" href="https://www.caa-ins.org/archives/category/%e8%ae%a1%e7%ae%97%e6%9c%ba%e4%b8%8e%e5%8f%8d%e6%96%87%e5%8c%96">
     计算机与反文化
    </a>
   </span>
@@ -57,7 +57,7 @@ categories: [ 网络社会研究所 ]
   <div class="wp-block-cover">
    <span aria-hidden="true" class="wp-block-cover__background has-background-dim">
    </span>
-   <img alt="" class="wp-block-cover__image-background wp-image-12538" data-attachment-id="12538" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="John_Markoff_in_2022_by_Christopher_MIchel_01" data-large-file="https://caa-ins.org/wp-content/uploads/2024/12/John_Markoff_in_2022_by_Christopher_MIchel_01.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2024/12/John_Markoff_in_2022_by_Christopher_MIchel_01-200x300.jpg" data-object-fit="cover" data-object-position="43% 28%" data-orig-file="https://caa-ins.org/wp-content/uploads/2024/12/John_Markoff_in_2022_by_Christopher_MIchel_01.jpg" data-orig-size="440,660" data-permalink="https://caa-ins.org/archives/12528/john_markoff_in_2022_by_christopher_michel_01" decoding="async" fetchpriority="high" height="660" sizes="(max-width: 440px) 100vw, 440px" src="https://caa-ins.org/wp-content/uploads/2024/12/John_Markoff_in_2022_by_Christopher_MIchel_01.jpg" srcset="https://caa-ins.org/wp-content/uploads/2024/12/John_Markoff_in_2022_by_Christopher_MIchel_01.jpg 440w, https://caa-ins.org/wp-content/uploads/2024/12/John_Markoff_in_2022_by_Christopher_MIchel_01-200x300.jpg 200w" style="object-position:43% 28%" width="440">
+   <img alt="" class="wp-block-cover__image-background wp-image-12538" data-attachment-id="12538" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="John_Markoff_in_2022_by_Christopher_MIchel_01" data-large-file="https://www.caa-ins.org/wp-content/uploads/2024/12/John_Markoff_in_2022_by_Christopher_MIchel_01.jpg" data-medium-file="https://www.caa-ins.org/wp-content/uploads/2024/12/John_Markoff_in_2022_by_Christopher_MIchel_01-200x300.jpg" data-object-fit="cover" data-object-position="43% 28%" data-orig-file="https://www.caa-ins.org/wp-content/uploads/2024/12/John_Markoff_in_2022_by_Christopher_MIchel_01.jpg" data-orig-size="440,660" data-permalink="https://www.caa-ins.org/archives/12528/john_markoff_in_2022_by_christopher_michel_01" decoding="async" fetchpriority="high" height="660" sizes="(max-width: 440px) 100vw, 440px" src="https://caa-ins.org/wp-content/uploads/2024/12/John_Markoff_in_2022_by_Christopher_MIchel_01.jpg" srcset="https://www.caa-ins.org/wp-content/uploads/2024/12/John_Markoff_in_2022_by_Christopher_MIchel_01.jpg 440w, https://www.caa-ins.org/wp-content/uploads/2024/12/John_Markoff_in_2022_by_Christopher_MIchel_01-200x300.jpg 200w" style="object-position:43% 28%" width="440">
     <div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
      <p class="has-text-align-center has-large-font-size">
       <strong>
@@ -614,7 +614,7 @@ categories: [ 网络社会研究所 ]
   <div class="wp-block-cover wp-duotone-333-rgb164164164-1">
    <span aria-hidden="true" class="wp-block-cover__background has-background-dim">
    </span>
-   <img alt="" class="wp-block-cover__image-background wp-image-12083" data-attachment-id="12083" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44" data-large-file="https://caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-1024x568.jpeg" data-medium-file="https://caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-300x167.jpeg" data-object-fit="cover" data-orig-file="https://caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-scaled.jpeg" data-orig-size="2560,1421" data-permalink="https://caa-ins.org/archives/12046/5e7b2b58-9b42-4466-adfd-e3e16b7f0a44" decoding="async" height="568" sizes="(max-width: 1024px) 100vw, 1024px" src="https://www.caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-1024x568.jpeg" srcset="https://caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-1024x568.jpeg 1024w, https://caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-300x167.jpeg 300w, https://caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-768x426.jpeg 768w, https://caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-1536x853.jpeg 1536w, https://caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-2048x1137.jpeg 2048w, https://caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-810x450.jpeg 810w, https://caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-1140x633.jpeg 1140w" width="1024">
+   <img alt="" class="wp-block-cover__image-background wp-image-12083" data-attachment-id="12083" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44" data-large-file="https://www.caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-1024x568.jpeg" data-medium-file="https://www.caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-300x167.jpeg" data-object-fit="cover" data-orig-file="https://www.caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-scaled.jpeg" data-orig-size="2560,1421" data-permalink="https://www.caa-ins.org/archives/12046/5e7b2b58-9b42-4466-adfd-e3e16b7f0a44" decoding="async" height="568" sizes="(max-width: 1024px) 100vw, 1024px" src="https://www.caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-1024x568.jpeg" srcset="https://www.caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-1024x568.jpeg 1024w, https://www.caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-300x167.jpeg 300w, https://www.caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-768x426.jpeg 768w, https://www.caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-1536x853.jpeg 1536w, https://www.caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-2048x1137.jpeg 2048w, https://www.caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-810x450.jpeg 810w, https://www.caa-ins.org/wp-content/uploads/2024/10/5E7B2B58-9B42-4466-ADFD-E3E16B7F0A44-1140x633.jpeg 1140w" width="1024">
     <div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
      <p class="has-text-align-left has-normal-font-size">
       文化与技术系列采访影像源于
@@ -633,7 +633,7 @@ categories: [ 网络社会研究所 ]
    </img>
   </div>
   <figure class="likecoin-embed likecoin-button">
-   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fcaa-ins.org%2Farchives%2F12528" style="height:212px;width: 360px;">
+   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fwww.caa-ins.org%2Farchives%2F12528" style="height:212px;width: 360px;">
    </iframe>
   </figure>
   <div class="sharedaddy sd-sharing-enabled">
@@ -644,7 +644,7 @@ categories: [ 网络社会研究所 ]
     <div class="sd-content">
      <ul>
       <li class="share-facebook">
-       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-12528" href="https://caa-ins.org/archives/12528?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook">
+       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-12528" href="https://www.caa-ins.org/archives/12528?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
@@ -653,7 +653,7 @@ categories: [ 网络社会研究所 ]
        </a>
       </li>
       <li class="share-twitter">
-       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-12528" href="https://caa-ins.org/archives/12528?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter">
+       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-12528" href="https://www.caa-ins.org/archives/12528?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
@@ -662,7 +662,7 @@ categories: [ 网络社会研究所 ]
        </a>
       </li>
       <li class="share-custom share-custom-">
-       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/12528?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on 新浪微博">
+       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/12528?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on 新浪微博">
         <span style='background-image:url("http://open.weibo.com/favicon.ico");'>
         </span>
         <span class="sharing-screen-reader-text">
@@ -671,7 +671,7 @@ categories: [ 网络社会研究所 ]
        </a>
       </li>
       <li class="share-telegram">
-       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/12528?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Telegram">
+       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/12528?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Telegram">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
@@ -688,13 +688,13 @@ categories: [ 网络社会研究所 ]
  </div>
  <footer class="entry-footer">
   <div class="meta-tags">
-   <a href="https://caa-ins.org/archives/tag/john-markoff" rel="tag">
+   <a href="https://www.caa-ins.org/archives/tag/john-markoff" rel="tag">
     John Markoff
    </a>
-   <a href="https://caa-ins.org/archives/tag/%e4%b8%aa%e4%ba%ba%e8%ae%a1%e7%ae%97%e6%9c%ba%e4%b8%8e%e5%8f%8d%e6%96%87%e5%8c%96" rel="tag">
+   <a href="https://www.caa-ins.org/archives/tag/%e4%b8%aa%e4%ba%ba%e8%ae%a1%e7%ae%97%e6%9c%ba%e4%b8%8e%e5%8f%8d%e6%96%87%e5%8c%96" rel="tag">
     个人计算机与反文化
    </a>
-   <a href="https://caa-ins.org/archives/tag/%e6%96%87%e5%8c%96%e4%b8%8e%e6%8a%80%e6%9c%af%e4%b8%89%e9%83%a8%e6%9b%b2" rel="tag">
+   <a href="https://www.caa-ins.org/archives/tag/%e6%96%87%e5%8c%96%e4%b8%8e%e6%8a%80%e6%9c%af%e4%b8%89%e9%83%a8%e6%9b%b2" rel="tag">
     文化与技术三部曲
    </a>
   </div>
