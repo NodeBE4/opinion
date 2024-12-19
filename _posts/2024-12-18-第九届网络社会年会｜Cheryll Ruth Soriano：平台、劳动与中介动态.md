@@ -3,7 +3,7 @@ layout: post
 title: "第九届网络社会年会｜Cheryll Ruth Soriano：平台、劳动与中介动态"
 date: 2024-12-18
 author: 网络社会研究所
-from: https://caa-ins.org/archives/12559
+from: https://www.caa-ins.org/archives/12559
 tags: [ 网络社会研究所 ]
 categories: [ 网络社会研究所 ]
 ---
@@ -11,7 +11,7 @@ categories: [ 网络社会研究所 ]
 <article class="vce-single post-12559 post type-post status-publish format-standard has-post-thumbnail hentry category-3 tag-cheryll-ruth-soriano tag-648" id="post-12559">
  <header class="entry-header">
   <span class="meta-category">
-   <a class="category-3" href="https://caa-ins.org/archives/category/%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a">
+   <a class="category-3" href="https://www.caa-ins.org/archives/category/%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a">
     网络社会年会
    </a>
   </span>
@@ -115,7 +115,7 @@ categories: [ 网络社会研究所 ]
    <img alt="" decoding="async" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfomYpAuBGw5fBIBMkZVVVafqGry4R0nSChiWCvdQgRX55TolrD_pVOJQh4-ujDNPUqwkapGxBhuKeJ_iGs-4UH4hPX4wXd-jnIRxtxmCDDfXUpvJC6PIURGBev0IcgtvgUQmwy?key=LzCzaghezMpmyb9RAtP_CK-c"/>
   </figure>
   <p>
-   我不想过多谈论中介（brokerage）的概念。我借鉴了Stovel和Shaw关于将中介概念化的研究成果，并遵循他们的建议，探索中介角色在不同结构中的表现形式。中介在促成社会、经济和政治交易方面发挥着核心作用。当信息受限且分布不均时，便有可能给中介提供机会。中介者首先会从多个来源搜集关键信息，并将这些信息整合起来，以吸引那些难以自行理解这些信息的客户，从而为自己的工作增添价值。但除了使这些信息变得有意义之外，更重要的是，中介者通过连接原本没有联系的个体来创造价值，从根本上推动了新的连接的形成。尤为重要的是，在社会结构中，中介利用公共机构效率低下所产生的漏洞，使那些断开连接和孤立无援的个体能够在经济、政治和社会层面进行互动。中介的核心在于那些政府和公司甚至都无法察觉和正式控制的经济交易，中介可以表现为一系列与本地基础设施相关的非正式经济交易的本地化替代服务。
+   我不想过多谈论中介（brokerage）的概念。我借鉴了Stovel和Shaw关于将中介概念化的研究成果，并遵循他们的建议，探索中介角色在不同结构中的表现形式。中介在促成社会、经济和政治交易方面发挥着核心作用。当信息受限且分布不均时，便有可能给中介提供机会。中介首先会从多个来源搜集关键信息，并将这些信息整合起来，以吸引那些难以自行理解这些信息的客户，从而为自己的工作增添价值。但除了使这些信息变得有意义之外，更重要的是，中介通过连接原本没有联系的个体来创造价值，从根本上推动了新的连接的形成。尤为重要的是，在社会结构中，中介利用公共机构效率低下所产生的漏洞，使那些断开连接和孤立无援的个体能够在经济、政治和社会层面进行互动。中介业务的核心在于那些政府和公司甚至都无法察觉和正式控制的经济交易，其可以表现为一系列与本地基础设施相关的非正式经济交易的本地化替代服务。
   </p>
   <p>
    在菲律宾，中介业务的设立在不同的经济甚至政治进程中通常备受重视。在我们普遍存在的庇护人-依附者关系导向中，中介能够很好地发挥作用，它成为了社会服务与普通民众之间的桥梁。这种现象在移民问题上尤为明显，移民问题已被广泛研究。许多来自菲律宾农村地区的人会寻求移民海外，却不得不面对重重困难，比如要签署各种文件，还要浪费大量时间在摸索移民流程上。招聘和中介机构在某种程度上成为了这些移民的重要依靠，但它们的运作方式有时也带有剥削性质。
@@ -136,7 +136,7 @@ categories: [ 网络社会研究所 ]
    被废除时，这些中介实际上成为了菲律宾最早的工会领导人，这一现象暗示着中介制度已扩展到地方组织至关重要的制度化过程中。他们被视为大家庭中的家长，从而维持其合法性，成为工会的第一批领导人。与此同时，在劳工对大型机构信任度逐渐下降的背景下，中介行为通过开辟新的资源和信息流渠道，依然保持着其重要性和相关性。
   </p>
   <p>
-   因此，在当代数字背景下，我们可以看到社交媒体内容创作者的涌现。他们不仅展示自己的爱好、活动和愿望，还构建想象、探索可能性，更重要的是，他们为菲律宾人如何实现特定的共同愿望描绘了具体路径。在这里，我关注的是内容生产和吸引受众的工作，我将其视为一个持续进行的过程，一个不断创造受众并生产内容的过程。他们的努力不仅仅限于简单动员受众进行消费，他们还借鉴了以往的经验，探索如何建立情感网络，并更细致地观察情感究竟是如何联结的，分析为何这些影响者能产生实际影响力，以及他们究竟如何达成这一目标的。接下来，我们从不同层面来分析这个问题，包括女性主体性（feminine subjectivity）、种族关系（interracial relationships）、世界一流劳动（world-class labor），以及政治因素。但在本次演讲中，我将重点聚焦于劳动力，以便更加集中地探讨这一话题。
+   因此，在当代数字背景下，我们可以看到社交媒体内容创作者的涌现。他们不仅展示自己的爱好、活动和愿望，还构建想象、探索可能性，更重要的是，他们为菲律宾人如何实现特定的共同愿望描绘了具体路径。在这里，我关注的是内容生产和吸引受众的工作，我将其视为一个持续进行的过程，一个不断创造受众并生产内容的过程。他们的努力不仅仅限于简单动员受众进行消费，他们还借鉴了以往的经验，探索如何建立情感网络，并更细致地观察情感究竟是如何联结的，分析为何这些影响者能产生实际影响力，以及他们究竟如何达成这一目标的。接下来，我们从不同层面来分析这个问题，包括女性主体性（feminine subjectivity）、种族关系（interracial relationships）、世界级劳动（world-class labor），以及政治因素。但在本次演讲中，我将重点聚焦于劳动力，以便更加集中地探讨这一话题。
   </p>
   <figure class="wp-block-image">
    <img alt="" decoding="async" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc_AbSoaWAWsy_AhMK_V3jFg76tzlW5rQawv6Z5V8Bqc6GU_4ZYAaW6DgDhGZpWU_w9HhJpcRhR7B9UgXB0OjA2ysXh24PRVZt3_ls3iumer2R4YcFcOwwCJWdRBSwuDosruOvazw?key=LzCzaghezMpmyb9RAtP_CK-c"/>
@@ -242,7 +242,7 @@ categories: [ 网络社会研究所 ]
    获得平台就业指导的劳动者将这些有影响力的数字工作者视为自己的代理人，实质上也是自由职业道路上的引路人。我们通常亲切地称呼这些导师为“大哥”或“大姐”，而那些受到指导的人对此感到十分自豪。特别是在融资界，随着行业的不断发展，逐渐形成了一套导师制度。在这种制度下，如果你能宣称自己曾师从某位知名导师，那么你将有可能在该领域中生存下去。
   </p>
   <p>
-   关于劳动者与客户之间的工作关系，重点在于劳动者如何通过社交媒体与客户进行关系协商及进行日常互动，这包括分享策略、赢得客户信任、发布视觉图像以及构建成功的劳动者-客户关系规范等多个方面。在另一篇论文中，我探讨了劳动者们如何通过分享各自的担忧与顾虑，共同确认了平台工作的可行性。由于时间有限，我无法在此详细讨论这一点。我也谈到了这些网红如何构建出一种理想劳动者的特定形象——即服务于客户的顺从型劳动者，以及他们如何在这种形象中灵活应对，推动特定的代理行为，同时在客户面前展现出顺从的态度。从长期来看，我想知道这种形象和态度如何在自由职业经济中构建出一种特定的价值规范。
+   关于劳动者与客户之间的工作关系，重点在于劳动者如何通过社交媒体与客户进行关系协商及进行日常互动，这包括分享策略、赢得客户信任、发布视觉图像以及构建成功的劳动者-客户关系规范等多个方面。在另一篇论文中，我探讨了劳动者们如何通过分享各自的担忧与顾虑，共同确认了平台工作的可行性。由于时间有限，我无法在此详细讨论这一点。我也谈到了这些影响者如何构建出一种理想劳动者的特定形象——即服务于客户的顺从型劳动者，以及他们如何在这种形象中灵活应对，推动特定的代理行为，同时在客户面前展现出顺从的态度。从长期来看，我想知道这种形象和态度如何在自由职业经济中构建出一种特定的价值规范。
   </p>
   <figure class="wp-block-image">
    <img alt="" decoding="async" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdV-ytJ4BuCWZouSAoy__5w2Qiebq5s9uCU1bZjg0tgncDA0MfbVKegS4b2B_9CEnXlnIFYN2arYQMdI1WCHkcESoavdwo5cFj-jyM5dK46EkLXVpnEcI_rFm-ofVWV9GkDn5IG?key=LzCzaghezMpmyb9RAtP_CK-c"/>
@@ -254,7 +254,7 @@ categories: [ 网络社会研究所 ]
    <img alt="" decoding="async" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd4AUQJAtZgtZhxjqvuqbH37qXTNfIvFyAhRv5em5_9ocIzNNPecvh5mFljy13eOGJts44yJve9cHMnAV6zfOpWuKNiyJgfQSICEhSQV7y_ebNONzSBBPwM5HrB1WQ3tOpDNTuOqw?key=LzCzaghezMpmyb9RAtP_CK-c"/>
   </figure>
   <p>
-   现在，我即将进入下一个阶段，那就是再次进行外包。当我们于2019年至2020年间的某个时刻启动这项研究时，就已经观察到了第一阶段的现象，那就是劳动者们已经开始尝试再外包。正如我之前提到的，有些劳动者拥有了一批忠实的客户和较大的项目，于是他们会把这些项目交给自己的身边的人来完成，比如他们的丈夫、孩子、邻居，或者是家乡的村民。
+   现在，我即将进入下一个阶段，即再外包。当我们于2019年至2020年间的某个时刻启动这项研究时，就已经观察到了第一阶段的现象，那就是劳动者们已经开始尝试再外包。正如我之前提到的，有些劳动者拥有了一批忠实的客户和较大的项目，于是他们会把这些项目交给自己的身边的人来完成，比如他们的丈夫、孩子、邻居，或者是家乡的村民。
   </p>
   <figure class="wp-block-image">
    <img alt="" decoding="async" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdpG4dQ3tKKcpI5IY3ceYIQ4kwoMeZTvWHuvLqU1kMMTQKi_qMOBt8c6zvVqYEoIHJpjyT-WDtM330ZjbDK7DyfFxEf1sIEVf8CpiU2HCHqGh6e_CUuXyLr7eW5OciDqcHov6BK?key=LzCzaghezMpmyb9RAtP_CK-c"/>
@@ -290,7 +290,7 @@ categories: [ 网络社会研究所 ]
    <img alt="" decoding="async" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfsDh9fJW8c7WIXEErdKy0Ca1RxTrv5KvQj1kg3CJxhPvclEIa2TCThAdK_OChpMH0WA1lmdaP14zl1lPUpqgQxfFDXA_oIOMTlrAI5ilGtHy9iDM952B66wie-D9trf1liy6yfxg?key=LzCzaghezMpmyb9RAtP_CK-c"/>
   </figure>
   <p>
-   一旦进入这些网络空间，你就会看到各个代理机构设立的展位。任何求职者，不论是学生、实习生还是应届毕业生，都可以参与进来，直接面对这些代理机构，并在其中注册求职。当然，这些代理机构中的很多仍然与全球平台保持着联系。此外，还有一些代理机构的所有者同时也是社交媒体影响者。
+   一旦进入这些交流空间，你就会看到各个代理机构设立的展位。任何求职者，不论是学生、实习生还是应届毕业生，都可以参与进来，直接面对这些代理机构，并在其中注册求职。当然，这些代理机构中的很多仍然与全球平台保持着联系。此外，还有一些代理机构的所有者同时也是社交媒体影响者。
   </p>
   <figure class="wp-block-image">
    <img alt="" decoding="async" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdKILcf5y8ybhEM49MhtV9A5uF_Ghv_R5vrFjGrOYBZA_6CNCRxgY8LlilF2iPapqk0zU0ZH8--WSyx3Ler5QvGvEXqbz9yKWhKiOylj9DC9pQasVapKqcwZlvAxjjoNyHNvqFN?key=LzCzaghezMpmyb9RAtP_CK-c"/>
@@ -347,7 +347,7 @@ categories: [ 网络社会研究所 ]
    我想用几张幻灯片作为结尾，来回顾一下我刚刚讨论的内容。虽然劳动力平台化被视为为这一经济体系中组织劳动力提供了重要思想基础，但新兴的地方组织却在为当地劳动力构建平台劳动体验的动态过程中发挥着关键作用。与此同时，这也催生了新的技能形式和社会阶层。这里提到的一系列中介，在全球资本的劳动基础设施与当地的权力关系、合作关系以及社会交易的政治经济基础之间，起到了桥梁和调解的作用。而这些大多发生在正式的监管机构之外。
   </p>
   <p>
-   劳动平台为客户和工人之间的劳动安排牵线搭桥。然而，若缺乏由地方资本、地方政府以及家庭和社区等不同维度之间的关系构成的中介过程，这些安排在当地层面便不会获得太多实质性意义。尽管技能创造者和代理机构的中介行为看似规避了劳动监管机构对劳动的制约，但仔细观察便会发现，他们中介规则的运作最终促进了劳动者自身对劳动平台化的意识形态话语的接受。劳动者中介能够战略性地驾驭平台环境，使自己得以蓬勃发展，为劳动者创造获得更高收入的可能性，甚至让他们拥有了一种成就感——这种成就感源于一种利他主义，即 “我能够帮助我的社区创造就业机会”。
+   劳动平台为客户和劳动者之间的劳动安排牵线搭桥。然而，若缺乏由地方资本、地方政府以及家庭和社区等不同维度之间的关系构成的中介过程，这些安排在当地层面便不会获得太多实质性意义。尽管技能创造者和代理机构的中介行为看似规避了劳动监管机构对劳动的制约，但仔细观察便会发现，他们中介规则的运作最终促进了劳动者自身对劳动平台化的意识形态话语的接受。劳动者中介能够战略性地驾驭平台环境，使自己得以蓬勃发展，为劳动者创造获得更高收入的可能性，甚至让他们拥有了一种成就感——这种成就感源于一种利他主义，即 “我能够帮助我的社区创造就业机会”。
   </p>
   <p>
    另一方面，由于他们中的许多人同样依赖平台来维持生计，因此他们尚未组织起来，与政府或平台进行谈判，以推动系统性变革，从而为所有劳动者争取到公平的薪酬和更合理的劳动安排。不过，已经有一些机构开始在其能力范围内尝试解决这些问题。他们积极寻找本地客户，但并未直接挑战更广泛的劳动平台化结构。凭借创业精神，他们能够在本地环境中创造性地调整平台劳动模式。而新自由主义和迟迟未能实现的愿景，则在一定程度上塑造和重新定义了中介的行为和话语。这些数字实践也有助于人们协商和重塑新自由主义以及后殖民主义在全球南方所留下的影响和人们的生活经历。中介试图在制度的限制下重塑世界。
@@ -507,7 +507,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image is-style-rounded">
    <figure class="aligncenter size-full is-resized">
-    <img alt="" class="wp-image-12218" data-attachment-id="12218" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Soriano" data-large-file="https://caa-ins.org/wp-content/uploads/2024/10/Soriano-1024x1024.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2024/10/Soriano-300x300.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2024/10/Soriano.png" data-orig-size="1251,1250" data-permalink="https://caa-ins.org/archives/12164/soriano" decoding="async" fetchpriority="high" height="1250" sizes="(max-width: 1251px) 100vw, 1251px" src="https://www.caa-ins.org/wp-content/uploads/2024/10/Soriano.png" srcset="https://caa-ins.org/wp-content/uploads/2024/10/Soriano.png 1251w, https://caa-ins.org/wp-content/uploads/2024/10/Soriano-300x300.png 300w, https://caa-ins.org/wp-content/uploads/2024/10/Soriano-1024x1024.png 1024w, https://caa-ins.org/wp-content/uploads/2024/10/Soriano-150x150.png 150w, https://caa-ins.org/wp-content/uploads/2024/10/Soriano-768x767.png 768w, https://caa-ins.org/wp-content/uploads/2024/10/Soriano-810x809.png 810w, https://caa-ins.org/wp-content/uploads/2024/10/Soriano-1140x1139.png 1140w" style="width:320px;height:320px" width="1251"/>
+    <img alt="" class="wp-image-12218" data-attachment-id="12218" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Soriano" data-large-file="https://www.caa-ins.org/wp-content/uploads/2024/10/Soriano-1024x1024.png" data-medium-file="https://www.caa-ins.org/wp-content/uploads/2024/10/Soriano-300x300.png" data-orig-file="https://www.caa-ins.org/wp-content/uploads/2024/10/Soriano.png" data-orig-size="1251,1250" data-permalink="https://www.caa-ins.org/archives/12164/soriano" decoding="async" fetchpriority="high" height="1250" sizes="(max-width: 1251px) 100vw, 1251px" src="https://www.caa-ins.org/wp-content/uploads/2024/10/Soriano.png" srcset="https://www.caa-ins.org/wp-content/uploads/2024/10/Soriano.png 1251w, https://www.caa-ins.org/wp-content/uploads/2024/10/Soriano-300x300.png 300w, https://www.caa-ins.org/wp-content/uploads/2024/10/Soriano-1024x1024.png 1024w, https://www.caa-ins.org/wp-content/uploads/2024/10/Soriano-150x150.png 150w, https://www.caa-ins.org/wp-content/uploads/2024/10/Soriano-768x767.png 768w, https://www.caa-ins.org/wp-content/uploads/2024/10/Soriano-810x809.png 810w, https://www.caa-ins.org/wp-content/uploads/2024/10/Soriano-1140x1139.png 1140w" style="width:320px;height:320px" width="1251"/>
    </figure>
   </div>
   <p>
@@ -521,7 +521,7 @@ categories: [ 网络社会研究所 ]
   <p>
   </p>
   <figure class="likecoin-embed likecoin-button">
-   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fcaa-ins.org%2Farchives%2F12559" style="height:212px;width: 360px;">
+   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fwww.caa-ins.org%2Farchives%2F12559" style="height:212px;width: 360px;">
    </iframe>
   </figure>
   <div class="sharedaddy sd-sharing-enabled">
@@ -532,7 +532,7 @@ categories: [ 网络社会研究所 ]
     <div class="sd-content">
      <ul>
       <li class="share-facebook">
-       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-12559" href="https://caa-ins.org/archives/12559?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook">
+       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-12559" href="https://www.caa-ins.org/archives/12559?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
@@ -541,7 +541,7 @@ categories: [ 网络社会研究所 ]
        </a>
       </li>
       <li class="share-twitter">
-       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-12559" href="https://caa-ins.org/archives/12559?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter">
+       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-12559" href="https://www.caa-ins.org/archives/12559?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
@@ -550,7 +550,7 @@ categories: [ 网络社会研究所 ]
        </a>
       </li>
       <li class="share-custom share-custom-">
-       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/12559?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on 新浪微博">
+       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/12559?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on 新浪微博">
         <span style='background-image:url("http://open.weibo.com/favicon.ico");'>
         </span>
         <span class="sharing-screen-reader-text">
@@ -559,7 +559,7 @@ categories: [ 网络社会研究所 ]
        </a>
       </li>
       <li class="share-telegram">
-       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/12559?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Telegram">
+       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/12559?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Telegram">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
@@ -576,10 +576,10 @@ categories: [ 网络社会研究所 ]
  </div>
  <footer class="entry-footer">
   <div class="meta-tags">
-   <a href="https://caa-ins.org/archives/tag/cheryll-ruth-soriano" rel="tag">
+   <a href="https://www.caa-ins.org/archives/tag/cheryll-ruth-soriano" rel="tag">
     Cheryll Ruth Soriano
    </a>
-   <a href="https://caa-ins.org/archives/tag/%e7%ac%ac%e4%b9%9d%e5%b1%8a%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a" rel="tag">
+   <a href="https://www.caa-ins.org/archives/tag/%e7%ac%ac%e4%b9%9d%e5%b1%8a%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a" rel="tag">
     第九届网络社会年会
    </a>
   </div>
