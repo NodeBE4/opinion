@@ -3,7 +3,7 @@ layout: post
 title: "第九届网络社会年会 | Payal Arora：消除数据偏见以建立包容性技术"
 date: 2025-01-23
 author: 网络社会研究所
-from: https://www.caa-ins.org/archives/12609
+from: https://caa-ins.org/archives/12609
 tags: [ 网络社会研究所 ]
 categories: [ 网络社会研究所 ]
 ---
@@ -11,7 +11,7 @@ categories: [ 网络社会研究所 ]
 <article class="vce-single post-12609 post type-post status-publish format-standard has-post-thumbnail hentry category-3 tag-payal-arora tag-648" id="post-12609">
  <header class="entry-header">
   <span class="meta-category">
-   <a class="category-3" href="https://www.caa-ins.org/archives/category/%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a">
+   <a class="category-3" href="https://caa-ins.org/archives/category/%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a">
     网络社会年会
    </a>
   </span>
@@ -406,7 +406,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image is-style-rounded">
    <figure class="aligncenter size-full is-resized">
-    <img alt="" class="wp-image-12222" data-attachment-id="12222" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Payal Arora" data-large-file="https://www.caa-ins.org/wp-content/uploads/2024/10/Payal-Arora-1024x1024.png" data-medium-file="https://www.caa-ins.org/wp-content/uploads/2024/10/Payal-Arora-300x300.png" data-orig-file="https://www.caa-ins.org/wp-content/uploads/2024/10/Payal-Arora.png" data-orig-size="1251,1250" data-permalink="https://www.caa-ins.org/archives/12164/payal-arora" decoding="async" fetchpriority="high" height="1250" sizes="(max-width: 1251px) 100vw, 1251px" src="https://www.caa-ins.org/wp-content/uploads/2024/10/Payal-Arora.png" srcset="https://www.caa-ins.org/wp-content/uploads/2024/10/Payal-Arora.png 1251w, https://www.caa-ins.org/wp-content/uploads/2024/10/Payal-Arora-300x300.png 300w, https://www.caa-ins.org/wp-content/uploads/2024/10/Payal-Arora-1024x1024.png 1024w, https://www.caa-ins.org/wp-content/uploads/2024/10/Payal-Arora-150x150.png 150w, https://www.caa-ins.org/wp-content/uploads/2024/10/Payal-Arora-768x767.png 768w, https://www.caa-ins.org/wp-content/uploads/2024/10/Payal-Arora-810x809.png 810w, https://www.caa-ins.org/wp-content/uploads/2024/10/Payal-Arora-1140x1139.png 1140w" style="width:313px;height:313px" width="1251"/>
+    <img alt="" class="wp-image-12222" data-attachment-id="12222" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Payal Arora" data-large-file="https://caa-ins.org/wp-content/uploads/2024/10/Payal-Arora-1024x1024.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2024/10/Payal-Arora-300x300.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2024/10/Payal-Arora.png" data-orig-size="1251,1250" data-permalink="https://caa-ins.org/archives/12164/payal-arora" decoding="async" fetchpriority="high" height="1250" sizes="(max-width: 1251px) 100vw, 1251px" src="https://www.caa-ins.org/wp-content/uploads/2024/10/Payal-Arora.png" srcset="https://caa-ins.org/wp-content/uploads/2024/10/Payal-Arora.png 1251w, https://caa-ins.org/wp-content/uploads/2024/10/Payal-Arora-300x300.png 300w, https://caa-ins.org/wp-content/uploads/2024/10/Payal-Arora-1024x1024.png 1024w, https://caa-ins.org/wp-content/uploads/2024/10/Payal-Arora-150x150.png 150w, https://caa-ins.org/wp-content/uploads/2024/10/Payal-Arora-768x767.png 768w, https://caa-ins.org/wp-content/uploads/2024/10/Payal-Arora-810x809.png 810w, https://caa-ins.org/wp-content/uploads/2024/10/Payal-Arora-1140x1139.png 1140w" style="width:313px;height:313px" width="1251"/>
    </figure>
   </div>
   <p>
@@ -418,7 +418,7 @@ categories: [ 网络社会研究所 ]
   <p>
   </p>
   <figure class="likecoin-embed likecoin-button">
-   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fwww.caa-ins.org%2Farchives%2F12609" style="height:212px;width: 360px;">
+   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fcaa-ins.org%2Farchives%2F12609" style="height:212px;width: 360px;">
    </iframe>
   </figure>
   <div class="sharedaddy sd-sharing-enabled">
@@ -429,7 +429,7 @@ categories: [ 网络社会研究所 ]
     <div class="sd-content">
      <ul>
       <li class="share-facebook">
-       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-12609" href="https://www.caa-ins.org/archives/12609?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook">
+       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-12609" href="https://caa-ins.org/archives/12609?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
@@ -438,7 +438,7 @@ categories: [ 网络社会研究所 ]
        </a>
       </li>
       <li class="share-twitter">
-       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-12609" href="https://www.caa-ins.org/archives/12609?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter">
+       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-12609" href="https://caa-ins.org/archives/12609?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
@@ -447,7 +447,7 @@ categories: [ 网络社会研究所 ]
        </a>
       </li>
       <li class="share-custom share-custom-">
-       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/12609?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on 新浪微博">
+       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/12609?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on 新浪微博">
         <span style='background-image:url("http://open.weibo.com/favicon.ico");'>
         </span>
         <span class="sharing-screen-reader-text">
@@ -456,7 +456,7 @@ categories: [ 网络社会研究所 ]
        </a>
       </li>
       <li class="share-telegram">
-       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/12609?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Telegram">
+       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/12609?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Telegram">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
@@ -473,10 +473,10 @@ categories: [ 网络社会研究所 ]
  </div>
  <footer class="entry-footer">
   <div class="meta-tags">
-   <a href="https://www.caa-ins.org/archives/tag/payal-arora" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/payal-arora" rel="tag">
     Payal Arora
    </a>
-   <a href="https://www.caa-ins.org/archives/tag/%e7%ac%ac%e4%b9%9d%e5%b1%8a%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/%e7%ac%ac%e4%b9%9d%e5%b1%8a%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a" rel="tag">
     第九届网络社会年会
    </a>
   </div>
