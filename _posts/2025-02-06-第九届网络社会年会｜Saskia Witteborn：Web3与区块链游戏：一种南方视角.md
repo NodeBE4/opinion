@@ -3,7 +3,7 @@ layout: post
 title: "第九届网络社会年会｜Saskia Witteborn：Web3与区块链游戏：一种南方视角"
 date: 2025-02-06
 author: 网络社会研究所
-from: https://caa-ins.org/archives/12618
+from: https://www.caa-ins.org/archives/12618
 tags: [ 网络社会研究所 ]
 categories: [ 网络社会研究所 ]
 ---
@@ -11,7 +11,7 @@ categories: [ 网络社会研究所 ]
 <article class="vce-single post-12618 post type-post status-publish format-standard has-post-thumbnail hentry category-3 tag-saskia-witteborn tag-web3 tag-658 tag-648" id="post-12618">
  <header class="entry-header">
   <span class="meta-category">
-   <a class="category-3" href="https://caa-ins.org/archives/category/%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a">
+   <a class="category-3" href="https://www.caa-ins.org/archives/category/%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a">
     网络社会年会
    </a>
   </span>
@@ -258,7 +258,7 @@ categories: [ 网络社会研究所 ]
    <strong>
     中低收入国家（lower middle-income country）
    </strong>
-   （Ke, 2024），这一点非常重要。除了经济因素，还有哪些因素影响菲律宾人选择参与玩Axie Infinity这个游戏？在印第安地区，人们希望通过这种方式赚取一些收入，尤其是在
+   （Ke, 2024），这一点非常重要。除了经济因素，还有哪些因素影响菲律宾人选择参与玩Axie Infinity这个游戏？在中低收入地区，人们希望通过这种方式赚取一些收入，尤其是在
    <strong>
     劳动力外迁（labor out-migration）
    </strong>
@@ -269,7 +269,7 @@ categories: [ 网络社会研究所 ]
    <strong>
     业务流程外包（business process outsourcing, BPO）
    </strong>
-   ，尤其是呼叫中心行业。由于菲律宾的英语水平较高，这一行业得以在菲律宾蓬勃发展，这也与
+   ，比如呼叫中心行业。由于菲律宾的英语水平较高，这一行业得以进入菲律宾发展，这也与
    <strong>
     殖民历史（history of colonialism）
    </strong>
@@ -277,17 +277,17 @@ categories: [ 网络社会研究所 ]
    <strong>
     游戏和赌博历史（history of gaming &amp; gambling）
    </strong>
-   。在我开始采访时，许多人回忆起自己小时候的经历——“我9岁时就在当地的网吧玩游戏，11岁哥哥常常带我一起去。”这些经历也揭示了菲律宾独特的行业背景。
+   。在我开始采访时，许多人回忆起自己小时候的经历——“我9岁时就在当地的网吧玩游戏，11岁的哥哥常常带我一起去。”这些经历也揭示了菲律宾独特的行业背景。
   </p>
   <p>
-   另外，我还想提到菲律宾经济历史中一些特殊行业，比如赌场业。菲律宾一些地区拥有大型赌场企业，这些企业为政府带来了大量税收。然而，这些赌场行业去年7月遭遇关闭，原因是许多赌场来自中国，并涉及非法移民问题，以及其他争议。当前，鉴于菲律宾与中国的紧张关系，政府有时会采取这样的措施作为回应。
+   另外，我还想提到菲律宾经济历史中一些特殊行业，比如博彩业。菲律宾一些地区拥有大型博彩企业，这些企业为政府带来了大量税收。然而，这些博彩行业去年7月遭遇关闭，原因是许多大型博彩运营者来自中国，也将非法移民带入菲律宾，并引发其他诸多问题。当前，鉴于菲律宾与中国的紧张关系，政府有时会采取这样的措施作为回应。
   </p>
   <p>
    当我开始采访后，其中一个观点反复出现，起初我并未深刻理解，直到读到这句话，来自我采访的一位20多岁的年轻人：
   </p>
   <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
    <p>
-    Axie就像斗鸡，只不过是数字化且更具视觉冲击力的版本。但这款游戏开创了道路。如果没有Axie，人们不会拥有数字钱包，也不会了解NFT和加密货币。对于年轻人而言，Axie也是一种副业，我们喜欢它的灵活性，尤其是在COVID期间。”（男性，20多岁，统计学/传播学专业学生）
+    Axie就像斗鸡，只不过是数字化且更具视觉冲击力的版本。但这款游戏开创了道路。如果没有Axie，人们不会拥有数字钱包，也不会了解NFT和加密货币。对于年轻人而言，Axie也是一种副业，我们喜欢它的灵活性，尤其是在COVID期间。（男性，20多岁，统计学/传播学专业学生）
    </p>
   </blockquote>
   <figure class="wp-block-image">
@@ -381,7 +381,7 @@ categories: [ 网络社会研究所 ]
    </strong>
    ，而这在很大程度上取决于阶级（class）。我在此沿用了这个经典概念。来自较高社会经济阶层的玩家往往拥有更好的条件。他们可以退隐乡村，这意味着拥有私人空间，而这对游戏体验至关重要。玩Axie Infinity需要高度集中注意力，稳定且高速的互联网连接，以及使用电脑而非手机的条件。因此，拥有私人空间的玩家比起那些生活在嘈杂家庭环境、共享居住空间的人，往往具有更大的竞争优势。相较之下，处于较低社会经济阶层的玩家往往只能在极为有限的空间中进行游戏。例如，他们可能不得不在家中寻找一个角落，甚至躲进浴室玩游戏。有些人在工作时间偷闲玩，还有人在大学讲座期间玩，或一边听Zoom线上课程一边进行游戏。这种空间使用的差异进一步凸显了阶级对游戏参与方式的影响。因此，
    <strong>
-    访问权限
+    访问权
    </strong>
    构成了副业的一重要维度。
   </p>
@@ -407,11 +407,18 @@ categories: [ 网络社会研究所 ]
   </p>
   <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
    <p>
-    我们赚了数千美元，同时还学会了新技能。（Domenica，20岁，心理学博士生）。
+    我们赚了数千美元，同时还学会了新技能。（Domenica，20岁，心理学本科生）。
    </p>
   </blockquote>
   <p>
    特别是女性玩家，她们通过游戏培养了内容创作等技能，随后转向更广泛的数字经济。例如，一些女性开始成为博主创作内容，为香港、新加坡乃至全球性平台（如Decentraland）提供服务。这种技能的转化构建了全球化的基础，并重新定义了所有权的概念。在未来，所有权的界定不仅关乎财务收益，更与机构赋权和技能积累密切相关。尤其是对于希望进入网络经济的女性而言，技能的掌握与运用成为获得数字自主权的重要方式。
+  </p>
+  <p>
+   还有一个关键因素是
+   <strong>
+    家庭（Family）
+   </strong>
+   。当我们的家庭状况不佳时，我们希望能够帮助自己的家庭。许多受访者表示，他们利用游戏收入来帮助翻新房屋，这一叙事在全球化讨论中屡见不鲜。人们用这些钱购买房产、家电、笔记本电脑等。因此，可以清楚地看到其中的货币化因素。
   </p>
   <figure class="wp-block-image">
    <img alt="" decoding="async" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeaJIybdWucwRqyPveqKCiOAcV1u5-UJ5B07bMVLdHfhdI_G81lM2b4SI9ObgU86kqdh9HrTfKocR6NdI_2EvV8jbar2dhSbUgyndJGBDByiEecn4KFcQP7oBQVAqs17aa5IeyYkw?key=DiR9PSW01GbV1StXNpJIp7QV"/>
@@ -421,7 +428,7 @@ categories: [ 网络社会研究所 ]
    <strong>
     文化
    </strong>
-   因素。如果将“副业”视为一种既能娱乐又能带来经济收益的所有权形式，那么文化因素的作用又是什么？对我而言，这是研究中最具启发性的部分。然而，我并不想将其过度文化化（over-culturalize），因为这可能导致研究的去政治化（depoliticization）。尽管如此，我仍希望在分析中纳入这一视角，以探讨文化的作用。
+   因素。如果将“副业”视为一种既能娱乐又能带来经济收益的所有权形式，那么文化因素的作用又是什么？对我而言，这是研究中最具启发性的部分。我不想过分强调文化因素，否则就有可能削弱研究的政治性。尽管如此，我仍希望在分析中纳入这一视角，以探讨文化的作用。
   </p>
   <p>
    这让我联想到
@@ -437,10 +444,10 @@ categories: [ 网络社会研究所 ]
      12
     </a>
    </sup>
-   。菲律宾的奎松市（Quezon City）甚至举办类似世界杯的斗鸡赛事（World Slasher），并设有专门的斗鸡频道Sabong TV。即便在COVID疫情之后，斗鸡仍在菲律宾的城乡地区盛行，并逐步实现数字化，成为赌博行业的一部分。玩家不仅拥有斗鸡，还可以对其下注，形成了一个合法化的盈利与税收体系。
+   。菲律宾的奎松市（Quezon City）甚至举办类似世界杯的斗鸡赛事（World Slasher），并设有专门的斗鸡频道Sabong TV。即便在COVID疫情之后，斗鸡仍在菲律宾的城乡地区盛行，并逐步实现数字化，成为博彩行业的一部分。玩家不仅拥有斗鸡，还可以对其下注，形成了一个合法化的盈利与税收体系。
   </p>
   <p>
-   值得注意的是，菲律宾拥有众多离岸博彩运营商（Philippine Offshore Gaming Operators, POGOs），这些企业不仅涉足斗鸡，还掌控着更广泛的赌博产业，甚至成为部分城市的经济支柱。然而，近年由于非法移民和其他争议问题，菲律宾政府关闭了部分POGO运营商，这也反映出该行业面临的监管挑战。
+   值得注意的是，菲律宾拥有众多离岸博彩运营商（Philippine Offshore Gaming Operators, POGOs），这些企业不仅涉足斗鸡，还掌控着更广泛的博彩产业，甚至成为部分城市的经济支柱。然而，近年由于非法移民和其他争议问题，菲律宾政府关闭了部分POGO运营商，这也反映出该行业面临的监管挑战。
   </p>
   <p>
    这有助于大家理解菲律宾的历史背景，并从政治经济学的角度剖析斗鸡背后的文化因素，以及它如何塑造人们的游戏参与方式。因此，我引入
@@ -457,7 +464,7 @@ categories: [ 网络社会研究所 ]
    ）中对这一概念进行了重新诠释。他认为，深度游戏不仅仅是非理性的赌博行为，而是一种具有深厚社会意义的实践。
   </p>
   <p>
-   以斗鸡为例，为什么人们热衷于在村子里进行斗鸡？吉尔茨指出，斗鸡不仅是一种娱乐方式，更是一种社会行为，它在维系社区关系的同时，也能确认并拓展社会身份（social identity）。类似于其他游戏或娱乐活动，斗鸡充当了社会粘合剂，将社区成员凝聚在一起。此外，如果你的斗鸡在比赛中获胜，你的社会地位和在社区中的声誉也会随之提升。因此，斗鸡不仅仅是一场竞技，而是一种深植于社会结构中的象征性实践。我虽然不想简单地将其归类为“游戏”，但这正是斗鸡的核心意义所在。
+   以斗鸡为例，为什么人们热衷于在村子里进行斗鸡？吉尔茨指出，斗鸡不仅是一种娱乐方式，更是一种社会行为，它在维系社区关系的同时，也能确认并拓展社会身份（social identity）。类似于其他游戏或娱乐活动，斗鸡充当了社会粘合剂，将社区成员凝聚在一起。此外，如果你的斗鸡在比赛中获胜，你的社会地位和在社区中的声誉也会随之提升。因此，斗鸡不仅仅是一场竞技，而是一种深植于社会结构中的符号性实践。我虽然不想简单地将其归类为“游戏”，但这正是斗鸡的核心意义所在。
   </p>
   <p>
    当我开始探讨斗鸡与游戏之间的关联时，我发现这一观点极具说服力。当你看到Axie Infinity中两只愤怒的Axie彼此对抗时，便能深刻理解这些Axie如何成为玩家自我的延伸。这是你的Axie，你的NFT，你将它们投入竞技场进行战斗，它们相互较量。而在这一过程中，玩家不仅延展了自身身份，还在协商与构建自己的社会地位、声誉以及角色认同，比如作为子女或学生的身份。与此同时，玩家也在不断习得新技能，并提升自己在游戏社区中的地位。
@@ -466,22 +473,15 @@ categories: [ 网络社会研究所 ]
    <img alt="" decoding="async" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfk0LaTq7cKh6SiGRxgXFePOImZqVTZGsfXMY1leazAqKuk63hRVZhJIF5ub3JhvABQyo8Oy_hQrpMKjiJsPqPLUJC_w6_yKyuhpEqFZpiZn7be7iEvz3W96BP4Ul7J3Jqam0nV7g?key=DiR9PSW01GbV1StXNpJIp7QV"/>
   </figure>
   <p>
-   还有一个关键因素是
+   文化因素下另一个值得关注的核心维度：
    <strong>
-    家庭（Family）
+    性别定位（gender positioning）。
    </strong>
-   。当我们的家庭状况不佳时，我们希望拥有自己的家庭。许多受访者表示，他们利用游戏收入来帮助翻新房屋，这一叙事在全球化讨论中屡见不鲜。人们用这些钱购买房产、家电、笔记本电脑等。因此，可以清楚地看到其中的货币化因素。
-  </p>
-  <p>
-   另一个值得关注的现象是，玩家在参与游戏的同时，也在塑造并定位自身的
+   玩家在参与游戏的同时，也在塑造并定位自身的
    <strong>
     性别认同
    </strong>
-   。那么，
-   <strong>
-    性别定位（Gender positioning）
-   </strong>
-   意味着什么？一些女性玩家，曾探讨过游戏环境中的厌女现象。正如我们从Sara的分享中了解到的，厌女情绪在不同社会背景下均有所体现。而游戏，尤其是Web3游戏，长期以来一直是一个以男性为主导的领域。那么，这类游戏如何为女性玩家打开进入游戏世界的大门，并使她们得以展现自身能力、挑战传统性别刻板印象？
+   。一些女性玩家，曾探讨过游戏环境中的厌女现象。正如我们从Sara的分享中了解到的，厌女情绪在不同社会背景下均有所体现。而游戏，尤其是Web3游戏，长期以来一直是一个以男性为主导的领域。那么，这类游戏如何为女性玩家打开进入游戏世界的大门，并使她们得以展现自身能力、挑战传统性别刻板印象？
   </p>
   <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
    <p>
@@ -510,7 +510,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <p>
    <strong>
-    一方面，游戏平台的访问权与所有权遵循着普遍的逻辑。另一方面，家庭价值观与性别作为文化-历史筛选机制，塑造对P2E游戏（即play to earn）的参与方式。
+    一方面，游戏平台的访问权与所有权遵循着平台的通用逻辑。另一方面，家庭价值观与性别作为文化-历史筛选机制，塑造对P2E游戏（即play to earn）的参与方式。
    </strong>
    也就是说普遍逻辑在具体实践中受到社会文化与历史背景的深刻影响。例如，人们如何理解可供性，以及在特定情境下如何利用这些条件。在菲律宾，游戏的参与往往由家庭因素驱动，而在其他语境中，可能是不同的价值观或社会动力在发挥作用，也许就不一定涉及性别因素。
   </p>
@@ -519,7 +519,7 @@ categories: [ 网络社会研究所 ]
    <strong>
     包容性（inclusivity）
    </strong>
-   ，以及他们如何被吸引进入游戏世界。最初，游戏体验充满乐趣，但随着时间推移，它逐渐演变为一种折磨——这一表述在访谈中多次被提及。玩家们经历了极大的焦虑，不仅是那些后来成为研究者的人，尤其是那些持有生产资料的群体，即Axie Infinity的游戏团队。他们谈论自身如何难以入眠、对投资持续担忧、如何退出游戏，以及因游戏而陷入抑郁等心理困境。这一现象揭示了游戏平台不仅塑造了数字经济的运行模式，也深刻影响了玩家的情绪与社会关系（也就是上文所提出的掠夺性包容）。
+   ，以及他们如何被吸引进入游戏世界。最初，游戏体验充满乐趣，但随着时间推移，它逐渐演变为一种折磨——这一表述在访谈中多次被提及。玩家们经历了极大的焦虑，不仅是那些后来成为研究者的人，尤其是那些持有生产资料的群体，即Axie Infinity的游戏团队。他们谈论自身如何难以入眠、对投资持续担忧以及如何将资金退出，以及因资金过多而陷入抑郁等心理困境。这一现象揭示了游戏平台不仅塑造了数字经济的运行模式，也深刻影响了玩家的情绪与社会关系（也就是上文所提出的掠夺性包容）。
   </p>
   <p>
    鉴于这是一篇学术论文，这里需要一个更为复杂且深入的观点论述。核心问题在于全球资本主义如何塑造并重构地方社区，尤其是金融资本主义的“长臂”在游戏产业中的运作方式。例如，在这篇文章中
@@ -540,7 +540,7 @@ categories: [ 网络社会研究所 ]
    菲律宾与许多其他所谓的全球南方国家一样，对加密货币持开放态度。例如，在马卡蒂（Makati），已经设有加密货币ATM自动取款机，体现了这一技术的本地化进程。值得注意的是，菲律宾的加密货币生态系统与其移民经济密切相关。大量菲律宾劳工在香港、迪拜等世界各地工作，并依赖汇款支持国内家庭，而加密货币的便捷性正好满足了这一需求。
   </p>
   <p>
-   Axie Infinity在年轻群体中的流行，某种程度上是这一经济背景下的意外产物。通过游戏，他们逐渐学会如何创建加密钱包，并熟练使用Web3相关语言。这使得游戏不仅仅是一种娱乐形式，还涉及更深层次的国际政治与经济 议题。这一现象值得进一步研究，以探讨Web3经济如何重塑地方社会及全球资本流动的动态。
+   Axie Infinity在年轻群体中的流行，某种程度上是这一经济背景下的意外产物。通过游戏，他们逐渐学会如何创建加密钱包，并熟练使用Web3相关语言。这使得游戏不仅仅是一种娱乐形式，还涉及更深层次的国际政治与经济议题。这一现象值得进一步研究，以探讨Web3经济如何重塑地方社会及全球资本流动的动态。
   </p>
   <p>
    全球南方玩家如何积极参与Web3的实验性游戏是这项研究的目的，它调转了全球北方学者的研究偏向。我写这篇文章时的观众是来自全球北方的西方学者，然而，当我阅读文献或与许多同事交流时，他们常提到全球南方正在追赶，并成为技术实验的场域。在我看来，关于玩家如何战略性地采纳游戏，如何灵活利用系统，以及如何在不再感兴趣时退出的文献并不多。这些行为具有高度的战略性，且帮助年轻玩家掌握Web3游戏的规则。因此，我认为这些问题非常重要。我希望将这些观点传达给全球北方的观众，以帮助他们更好地理解全球南方玩家的积极参与，而不是简单地将他们视为受害者。
@@ -645,7 +645,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image is-style-rounded">
    <figure class="aligncenter size-full is-resized">
-    <img alt="" class="wp-image-12220" data-attachment-id="12220" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="SaskiaC" data-large-file="https://caa-ins.org/wp-content/uploads/2024/10/SaskiaC-1024x1024.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2024/10/SaskiaC-300x300.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2024/10/SaskiaC.png" data-orig-size="1250,1250" data-permalink="https://caa-ins.org/archives/12164/saskiac" decoding="async" fetchpriority="high" height="1250" sizes="(max-width: 1250px) 100vw, 1250px" src="https://www.caa-ins.org/wp-content/uploads/2024/10/SaskiaC.png" srcset="https://caa-ins.org/wp-content/uploads/2024/10/SaskiaC.png 1250w, https://caa-ins.org/wp-content/uploads/2024/10/SaskiaC-300x300.png 300w, https://caa-ins.org/wp-content/uploads/2024/10/SaskiaC-1024x1024.png 1024w, https://caa-ins.org/wp-content/uploads/2024/10/SaskiaC-150x150.png 150w, https://caa-ins.org/wp-content/uploads/2024/10/SaskiaC-768x768.png 768w, https://caa-ins.org/wp-content/uploads/2024/10/SaskiaC-810x810.png 810w, https://caa-ins.org/wp-content/uploads/2024/10/SaskiaC-1140x1140.png 1140w" style="width:323px;height:323px" width="1250"/>
+    <img alt="" class="wp-image-12220" data-attachment-id="12220" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="SaskiaC" data-large-file="https://www.caa-ins.org/wp-content/uploads/2024/10/SaskiaC-1024x1024.png" data-medium-file="https://www.caa-ins.org/wp-content/uploads/2024/10/SaskiaC-300x300.png" data-orig-file="https://www.caa-ins.org/wp-content/uploads/2024/10/SaskiaC.png" data-orig-size="1250,1250" data-permalink="https://www.caa-ins.org/archives/12164/saskiac" decoding="async" fetchpriority="high" height="1250" sizes="(max-width: 1250px) 100vw, 1250px" src="https://www.caa-ins.org/wp-content/uploads/2024/10/SaskiaC.png" srcset="https://www.caa-ins.org/wp-content/uploads/2024/10/SaskiaC.png 1250w, https://www.caa-ins.org/wp-content/uploads/2024/10/SaskiaC-300x300.png 300w, https://www.caa-ins.org/wp-content/uploads/2024/10/SaskiaC-1024x1024.png 1024w, https://www.caa-ins.org/wp-content/uploads/2024/10/SaskiaC-150x150.png 150w, https://www.caa-ins.org/wp-content/uploads/2024/10/SaskiaC-768x768.png 768w, https://www.caa-ins.org/wp-content/uploads/2024/10/SaskiaC-810x810.png 810w, https://www.caa-ins.org/wp-content/uploads/2024/10/SaskiaC-1140x1140.png 1140w" style="width:323px;height:323px" width="1250"/>
    </figure>
   </div>
   <p>
@@ -742,7 +742,7 @@ categories: [ 网络社会研究所 ]
    </li>
   </ol>
   <figure class="likecoin-embed likecoin-button">
-   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fcaa-ins.org%2Farchives%2F12618" style="height:212px;width: 360px;">
+   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fwww.caa-ins.org%2Farchives%2F12618" style="height:212px;width: 360px;">
    </iframe>
   </figure>
   <div class="sharedaddy sd-sharing-enabled">
@@ -753,7 +753,7 @@ categories: [ 网络社会研究所 ]
     <div class="sd-content">
      <ul>
       <li class="share-facebook">
-       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-12618" href="https://caa-ins.org/archives/12618?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook">
+       <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-12618" href="https://www.caa-ins.org/archives/12618?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
@@ -762,7 +762,7 @@ categories: [ 网络社会研究所 ]
        </a>
       </li>
       <li class="share-twitter">
-       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-12618" href="https://caa-ins.org/archives/12618?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter">
+       <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-12618" href="https://www.caa-ins.org/archives/12618?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
@@ -771,7 +771,7 @@ categories: [ 网络社会研究所 ]
        </a>
       </li>
       <li class="share-custom share-custom-">
-       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/12618?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on 新浪微博">
+       <a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/12618?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on 新浪微博">
         <span style='background-image:url("http://open.weibo.com/favicon.ico");'>
         </span>
         <span class="sharing-screen-reader-text">
@@ -780,7 +780,7 @@ categories: [ 网络社会研究所 ]
        </a>
       </li>
       <li class="share-telegram">
-       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/12618?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Telegram">
+       <a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://www.caa-ins.org/archives/12618?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Telegram">
         <span>
         </span>
         <span class="sharing-screen-reader-text">
@@ -797,16 +797,16 @@ categories: [ 网络社会研究所 ]
  </div>
  <footer class="entry-footer">
   <div class="meta-tags">
-   <a href="https://caa-ins.org/archives/tag/saskia-witteborn" rel="tag">
+   <a href="https://www.caa-ins.org/archives/tag/saskia-witteborn" rel="tag">
     Saskia Witteborn
    </a>
-   <a href="https://caa-ins.org/archives/tag/web3" rel="tag">
+   <a href="https://www.caa-ins.org/archives/tag/web3" rel="tag">
     Web3
    </a>
-   <a href="https://caa-ins.org/archives/tag/%e6%b8%b8%e6%88%8f" rel="tag">
+   <a href="https://www.caa-ins.org/archives/tag/%e6%b8%b8%e6%88%8f" rel="tag">
     游戏
    </a>
-   <a href="https://caa-ins.org/archives/tag/%e7%ac%ac%e4%b9%9d%e5%b1%8a%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a" rel="tag">
+   <a href="https://www.caa-ins.org/archives/tag/%e7%ac%ac%e4%b9%9d%e5%b1%8a%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a" rel="tag">
     第九届网络社会年会
    </a>
   </div>
