@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2023-02-20~2023-02-26'
 
 ### 4: [2023-02-20 08:55:12+08:00 推文](https://twitter.com/realcaixia/status/1627471898752987137)
 
-Re 教育、文化、科技创新😭<br><br>消费：各地裁员滚滚，收入维持不了生活，谁敢消费？企业倒闭、商店关门，市场半瘫，恶性循环。<br><br>国际关系：信誉扫地，空前孤立，交好国尽为恐怖国家：俄罗斯、北朝鲜、伊朗…<br><br>瘟疫与战争：源头尽在中共等恐怖国…<br><br>中国式现代化究竟是人类文明新新形态还是人类劫难新记录？！ https://t.co/KSGxX2oyHL<br><img style="" src="https://pbs.twimg.com/media/FpXxEBtaMAAVtQs?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpXxEBtacAITan3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re 教育、文化、科技创新😭<br><br>消费：各地裁员滚滚，收入维持不了生活，谁敢消费？企业倒闭、商店关门，市场半瘫，恶性循环。<br><br>国际关系：信誉扫地，空前孤立，交好国尽为恐怖国家：俄罗斯、北朝鲜、伊朗…<br><br>瘟疫与战争：源头尽在中共等恐怖国…<br><br>中国式现代化究竟是人类文明新新形态还是人类劫难新记录？！<br><img style="" src="https://pbs.twimg.com/media/FpXxEBtaMAAVtQs?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FpXxEBtacAITan3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2023-02-21 07:31:18+08:00 推文](https://twitter.com/realcaixia/status/1627813171519168513)
 
@@ -57,7 +57,7 @@ Re https://t.co/ByuG6ocezr<br><img style="" src="https://pbs.twimg.com/media/Fph
 
 ### 11: [2023-02-22 06:02:15+08:00 推文](https://twitter.com/realcaixia/status/1628153150954950656)
 
-凡恐怖国家平时都会训练孩子学用武器，到战争时期，孩子们被送上战场做炮灰。生长在恐怖国家的孩子们命运多舛，甚之生命就定格在少年时期。<div class="rsshub-quote"><br><br>ZHANGDONG: 俄罗斯幼儿园，和中国小学生有一比。可怜的孩子们从小被军国主义毒化。<br> <a href="https://twitter.com/Gerashchenko_en/status/1627712977276227584" target="_blank" rel="noopener noreferrer">https://twitter.com/Gerashchenko_en/status/1627712977276227584</a></div>
+凡恐怖国家平时都会训练孩子学用武器，到战争时期，孩子们被送上战场做炮灰。生长在恐怖国家的孩子们命运多舛，甚之生命就定格在少年时期。<div class="rsshub-quote"><br><br>ZHANGDONG: 俄罗斯幼儿园，和中国小学生有一比。可怜的孩子们从小被军国主义毒化。<br></div>
 
 ### 12: [2023-02-22 06:31:11+08:00 推文](https://twitter.com/realcaixia/status/1628160432107098114)
 
@@ -81,11 +81,11 @@ Re https://t.co/TNult4X23E<br><img style="" src="https://pbs.twimg.com/media/Fph
 
 ### 17: [2023-02-24 04:06:26+08:00 推文](https://twitter.com/realcaixia/status/1628848780039831552)
 
-这样的遭遇未来还会发生。只要是“中国式”、“中国模式”、“中国特色”无论说得多么天花乱坠，实质是一个：华丽包装的背后是“12亿人都是习奴党奴”。当他们经济好时，他们吃肉，习奴党奴喝残羹剩汤；当他们经济不好时，他们对习奴党奴敲骨吸髓。何止河南村镇银行的储户如此，最近的“医保改革”更如此。<div class="rsshub-quote"><br><br>河南污名化储户侵占存款🇺🇦杨功迅，杨佳: @realcaixia 请同胞们帮转发下河南村镇银行悲惨储户，家破人亡了<br></div>
+这样的遭遇未来还会发生。只要是“中国式”、“中国模式”、“中国特色”无论说得多么天花乱坠，实质是一个：华丽包装的背后是“12亿人都是习奴党奴”。当他们经济好时，他们吃肉，习奴党奴喝残羹剩汤；当他们经济不好时，他们对习奴党奴敲骨吸髓。何止河南村镇银行的储户如此，最近的“医保改革”更如此。 https://twitter.com/officialsevil/status/1628189546574667777<div class="rsshub-quote"><br><br>河南污名化储户侵占存款🇺🇦杨功迅，杨佳: @realcaixia 请同胞们帮转发下河南村镇银行悲惨储户，家破人亡了 https://twitter.com/stephan65022719/status/1626920132877459458<br></div>
 
 ### 18: [2023-02-24 04:37:53+08:00 推文](https://twitter.com/realcaixia/status/1628856695278698496)
 
-说得好！莫斯科普京要恢复沙俄帝国的版图；北京习要把习国扩张成习天下，一带一路只是习的扩张序曲，一些非洲国家的人讲汉语唱红歌是习天下“中国梦”的一部分。 https://twitter.com/zhangdong_sch/status/1628790016921960451<div class="rsshub-quote"><br><br>ZHANGDONG: 2月24日乌俄战争爆发一周年之际，柏林勃兰登堡将有两个针锋相对的抗议集会，一方是支持乌克兰反抗俄普帝入侵战争，另一方是劝降求和出卖乌克兰。<br>很多劝降派被虚伪和平迷惑，殊不知普京胃口不止要吞并乌克兰一国，他是要恢复大俄沙皇帝国版图，前苏维埃加盟国都是他锅里的肉。普帝得逞，世界不得安宁。 https://twitter.com/LjudmylaMelnyk/status/1628469934681477121 https://t.co/DhkDSoVSRw<br><br><img style="" src="https://pbs.twimg.com/media/Fpqf4zyWcAAAypB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
+说得好！莫斯科普京要恢复沙俄帝国的版图；北京习要把习国扩张成习天下，一带一路只是习的扩张序曲，一些非洲国家的人讲汉语唱红歌是习天下“中国梦”的一部分。<div class="rsshub-quote"><br><br>ZHANGDONG: 2月24日乌俄战争爆发一周年之际，柏林勃兰登堡将有两个针锋相对的抗议集会，一方是支持乌克兰反抗俄普帝入侵战争，另一方是劝降求和出卖乌克兰。<br>很多劝降派被虚伪和平迷惑，殊不知普京胃口不止要吞并乌克兰一国，他是要恢复大俄沙皇帝国版图，前苏维埃加盟国都是他锅里的肉。普帝得逞，世界不得安宁。 https://t.co/DhkDSoVSRw<br><br><img style="" src="https://pbs.twimg.com/media/Fpqf4zyWcAAAypB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>
 
 ### 19: [2023-02-24 04:41:57+08:00 推文](https://twitter.com/realcaixia/status/1628857717413797888)
 
@@ -177,7 +177,7 @@ Re @GanchengW 我去北朝鲜一周，又去韩国一周，还到了三八线最
 
 ### 41: [2023-02-26 04:38:20+08:00 推文](https://twitter.com/realcaixia/status/1629581584876675074)
 
-曾经大名鼎鼎的大企业现在都倒闭了！大企业如此，中小微企业更是可想而知了。那些不顾事实，依旧谎言夹着吹牛的粉红五毛中共网军黑幽灵，多么无耻、蠢恶。看看这些视频吧！我相信越来越多的粉红五毛自己的日子也每况愈下，除非你们把无耻蠢恶下三滥➕野蛮上推特、充当习帝国的网络暴力打手职业化！<div class="rsshub-quote"><br><br>反对独裁专治政权: 比亞迪廢了首家汕尾工廠倒閉2萬人失業，廣州LG工廠緊急撤離中國3萬人無工可打，聯想倒閉破產2萬人失業。 https://t.co/6vaG5wQunv<br><br><video src="https://video.twimg.com/ext_tw_video/1629524877345718272/pu/vid/856x480/xsVYbvn2xrIDsFrp.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1629524877345718272/pu/img/ycNF9Ibwbm7Fosw8.jpg"></video></div>
+曾经大名鼎鼎的大企业现在都倒闭了！大企业如此，中小微企业更是可想而知了。那些不顾事实，依旧谎言夹着吹牛的粉红五毛中共网军黑幽灵，多么无耻、蠢恶。看看这些视频吧！我相信越来越多的粉红五毛自己的日子也每况愈下，除非你们把无耻蠢恶下三滥➕野蛮上推特、充当习帝国的网络暴力打手职业化！ https://twitter.com/ffl0071/status/1629528093651238912<div class="rsshub-quote"><br><br>反对独裁专治政权: 比亞迪廢了首家汕尾工廠倒閉2萬人失業，廣州LG工廠緊急撤離中國3萬人無工可打，聯想倒閉破產2萬人失業。 https://t.co/6vaG5wQunv<br><br><video src="https://video.twimg.com/ext_tw_video/1629524877345718272/pu/vid/856x480/xsVYbvn2xrIDsFrp.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1629524877345718272/pu/img/ycNF9Ibwbm7Fosw8.jpg"></video></div>
 
 ### 42: [2023-02-26 10:45:29+08:00 推文](https://twitter.com/realcaixia/status/1629673978943148032)
 
