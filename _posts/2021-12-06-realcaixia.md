@@ -41,7 +41,7 @@ Re @mark89066384 @lunanweiyi 末日疯狂。上帝要让他灭亡，必先使其
 
 ### 7: [2021-12-09 00:09:43+08:00 推文](https://twitter.com/realcaixia/status/1468613773569277963)
 
-很朴实的三个字道尽人格尊严，致敬老人家！<br><br>鲁  难: 视频被封，我们暂时听不到卖蔗翁的声音。但是，我们都同意：不原谅！<br><br><img style="" src="https://pbs.twimg.com/media/FGGHthjXEBID_0V?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGGHthnX0AQJrw4?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGGHthlXMAMtmBJ?format=jpg&name=orig" referrerpolicy="no-referrer">
+很朴实的三个字道尽人格尊严，致敬老人家！<br><br>鲁  难: 视频被封，我们暂时听不到卖蔗翁的声音。但是，我们都同意：不原谅！<br><br><img style src="https://pbs.twimg.com/media/FGGHthjXEBID_0V?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGGHthnX0AQJrw4?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGGHthlXMAMtmBJ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2021-12-09 01:39:11+08:00 推文](https://twitter.com/realcaixia/status/1468636286114320390)
 
