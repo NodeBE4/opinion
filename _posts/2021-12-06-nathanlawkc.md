@@ -10,7 +10,7 @@ tags:
 title: 'Twitter @Nathan Law 羅冠聰: 2021-12-06~2021-12-12'
 ---
 
-Youngest lawmaker of #HongKong. Activist. Exiled in London. Author of Freedom. Co
+Youngest lawmaker of #HongKong. Exiled activist. Author of Freedom(https://t.co/ZofuhrdkPs) Documentary: https://t.co/Bv8QXOwd4z #TIME100 
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}
@@ -25,7 +25,7 @@ I am very honored to announce that I am invited by @POTUS to deliver a remark in
 
 ### 3: [2021-12-07 07:05:35+08:00 推文](https://twitter.com/nathanlawkc/status/1467993653415235585)
 
-From a student protest leader, the youngest elected legislator in Hong Kong, to a political prisoner and exiled activist … these all happened in my 20s. <br><br>And this is the story I want to share. <br><br>#Freedom is available in the US & Canada on 7th Dec. <a href="http://bit.ly/Freedom-Book" target="_blank" rel="noopener noreferrer">http://bit.ly/Freedom-Book</a><br><img style src="https://pbs.twimg.com/media/FF9b4lGXwBEW-Fa?format=jpg&name=orig" referrerpolicy="no-referrer">
+From a student protest leader, the youngest elected legislator in Hong Kong, to a political prisoner and exiled activist … these all happened in my 20s. <br><br>And this is the story I want to share. <br><br>#Freedom is available in the US & Canada on 7th Dec. <a href="http://bit.ly/Freedom-Book" target="_blank" rel="noopener noreferrer">http://bit.ly/Freedom-Book</a><br><img style="" src="https://pbs.twimg.com/media/FF9b4lGXwBEW-Fa?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-12-07 07:57:01+08:00 推文](https://twitter.com/nathanlawkc/status/1468006595804209154)
 
