@@ -33,7 +33,7 @@ title: 'Twitter @蔡霞: 2023-01-30~2023-02-05'
 
 ### 5: [2023-02-01 10:46:52+08:00 推文](https://twitter.com/realcaixia/status/1620614630254182402)
 
-病毒溯源的过程就是伸张正义、追究真相的过程！需要多国政府和民众共同努力，需要国际组织强有力的实际行动！<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 病毒溯源的為什麼👇<br></div>
+病毒溯源的过程就是伸张正义、追究真相的过程！需要多国政府和民众共同努力，需要国际组织强有力的实际行动！<div class="rsshub-quote"><br><br>YiBao English《議報》英文: 病毒溯源的為什麼👇<br> <a href="https://twitter.com/zonghengjp/status/1620371274160807937" target="_blank" rel="noopener noreferrer">https://twitter.com/zonghengjp/status/1620371274160807937</a></div>
 
 ### 6: [2023-02-01 14:46:01+08:00 推文](https://twitter.com/realcaixia/status/1620674815903277056)
 
