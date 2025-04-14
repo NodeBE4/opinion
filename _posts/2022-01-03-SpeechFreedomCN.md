@@ -10,14 +10,14 @@ tags:
 title: 'Twitter @中国文字狱事件盘点: 2022-01-03~2022-01-09'
 ---
 
-收录近年中国因言获罪案件/Documenting China’s violation of #speechfreedom. Summary Sheet/总表：https://t.co/T9XT429Wdt; Verdicts/判决书: https://t.co/rzOxnudsQc 
+收录近年中国因言获罪案件/Documenting China’s violation of #speechfreedom. Summary Sheet/总表：https://t.co/T9XT429Wdt; Verdicts/判决书: https://t.co/rzOxnudsQc （因推特使用体验变差，已卸载） 
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
 ### 1: [2022-01-04 09:37:54+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1478178845673013251)
 
-贵州省施秉县女子廖某，因在抖音发布短视频称交警“阴魂不散”，被认定为辱警并被拘留5日。<br><img style src="https://pbs.twimg.com/media/FIOLkq8XoAMjHaT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIOLm_aWQAQ-p36?format=png&name=orig" referrerpolicy="no-referrer">
+贵州省施秉县女子廖某，因在抖音发布短视频称交警“阴魂不散”，被认定为辱警并被拘留5日。<br><img style="" src="https://pbs.twimg.com/media/FIOLkq8XoAMjHaT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIOLm_aWQAQ-p36?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2022-01-04 09:39:23+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1478179218089459713)
 
@@ -33,7 +33,7 @@ Re 这些言论中的部分出处如下：<br><img style src="https://pbs.twimg.
 
 ### 5: [2022-01-06 11:47:17+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1478936182641856516)
 
-2019年2月，河北省灵寿县男子张某，因在快手发表一张警察巡逻的照片，并配文“xx保平安；有血统，有证的，警犬“，被处拘留5日。<br><img style="" src="https://pbs.twimg.com/media/FIY8C6TXoAEV_O7?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIY8IKbWYAE0KCF?format=png&name=orig" referrerpolicy="no-referrer">
+2019年2月，河北省灵寿县男子张某，因在快手发表一张警察巡逻的照片，并配文“xx保平安；有血统，有证的，警犬“，被处拘留5日。<br><img style src="https://pbs.twimg.com/media/FIY8C6TXoAEV_O7?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIY8IKbWYAE0KCF?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2022-01-06 11:48:22+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1478936453594116099)
 
@@ -45,5 +45,5 @@ Hebei man Zhang detained for 5 days for referring to police as "Licensed police 
 
 ### 8: [2022-01-07 22:35:59+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1479461818099765248)
 
-Government officer in China dismissed for publishing an article to criticize the handling of pandemic in Xi'an City, which is now under China style lockdown. The article said the pandemic combat measures were cruel and inhumane and people were suffering from it.<br><img style="" src="https://pbs.twimg.com/media/FIgYzjHXoAcdxxy?format=jpg&name=orig" referrerpolicy="no-referrer">
+Government officer in China dismissed for publishing an article to criticize the handling of pandemic in Xi'an City, which is now under China style lockdown. The article said the pandemic combat measures were cruel and inhumane and people were suffering from it.<br><img style="" src="https://pbs.twimg.com/media/FIgYzjHXoAcdxxy?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

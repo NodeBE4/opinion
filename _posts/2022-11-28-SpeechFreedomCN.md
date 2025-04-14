@@ -10,7 +10,7 @@ tags:
 title: 'Twitter @中国文字狱事件盘点: 2022-11-28~2022-12-04'
 ---
 
-收录近年中国因言获罪案件/Documenting China’s violation of #speechfreedom. Summary Sheet/总表：https://t.co/T9XT429Wdt; Verdicts/判决书: https://t.co/rzOxnudsQc 
+收录近年中国因言获罪案件/Documenting China’s violation of #speechfreedom. Summary Sheet/总表：https://t.co/T9XT429Wdt; Verdicts/判决书: https://t.co/rzOxnudsQc （因推特使用体验变差，已卸载） 
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}
@@ -41,5 +41,5 @@ Former NBA star Jeremy Lin fined 10,000 RMB for complaining about poor condition
 
 ### 7: [2022-12-03 02:31:18+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1598746646195617792)
 
-导致林书豪被罚款一万元的那个视频。<br><br>The video that made Jeremy Lin fined 10,000 RMB.
+导致林书豪被罚款一万元的那个视频。<br><br>The video that made Jeremy Lin fined 10,000 RMB. <a href="https://twitter.com/3ichae7/status/1598745802104393728" target="_blank" rel="noopener noreferrer">https://twitter.com/3ichae7/status/1598745802104393728</a>
 

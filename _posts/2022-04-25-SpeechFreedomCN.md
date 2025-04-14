@@ -10,7 +10,7 @@ tags:
 title: 'Twitter @中国文字狱事件盘点: 2022-04-25~2022-05-01'
 ---
 
-收录近年中国因言获罪案件/Documenting China’s violation of #speechfreedom. Summary Sheet/总表：https://t.co/T9XT429Wdt; Verdicts/判决书: https://t.co/rzOxnudsQc 
+收录近年中国因言获罪案件/Documenting China’s violation of #speechfreedom. Summary Sheet/总表：https://t.co/T9XT429Wdt; Verdicts/判决书: https://t.co/rzOxnudsQc （因推特使用体验变差，已卸载） 
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}
@@ -25,7 +25,7 @@ Henan man Zhang, who spread "harmful information on Twitter that slander the sta
 
 ### 3: [2022-04-28 20:11:54+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1519650614787158017)
 
-同问<br><br>推特小红旗: 我们的工作一定哪里出了问题。<br><br><img style="" src="https://pbs.twimg.com/media/FRa5qh7aMAAwVDx?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+同问
 
 ### 4: [2022-04-30 10:27:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1520228192434499587)
 

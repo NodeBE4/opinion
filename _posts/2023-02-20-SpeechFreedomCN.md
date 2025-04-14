@@ -10,7 +10,7 @@ tags:
 title: 'Twitter @中国文字狱事件盘点: 2023-02-20~2023-02-26'
 ---
 
-收录近年中国因言获罪案件/Documenting China’s violation of #speechfreedom. Summary Sheet/总表：https://t.co/T9XT429Wdt; Verdicts/判决书: https://t.co/rzOxnudsQc 
+收录近年中国因言获罪案件/Documenting China’s violation of #speechfreedom. Summary Sheet/总表：https://t.co/T9XT429Wdt; Verdicts/判决书: https://t.co/rzOxnudsQc （因推特使用体验变差，已卸载） 
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}
@@ -21,7 +21,7 @@ title: 'Twitter @中国文字狱事件盘点: 2023-02-20~2023-02-26'
 
 ### 2: [2023-02-22 20:15:47+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1628367951777734659)
 
-Fujian man Zheng detained for 4 days for accusing local police of "being no different from bandits, immoral, inhumane and unforgivable" in a WeChat Moments post. https://t.co/ja1fln5ET8<br><img style="" src="https://pbs.twimg.com/media/FpkfwbtXoAE6IsH?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Fujian man Zheng detained for 4 days for accusing local police of "being no different from bandits, immoral, inhumane and unforgivable" in a WeChat Moments post.<br><img style="" src="https://pbs.twimg.com/media/FpkfwbtXoAE6IsH?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2023-02-23 21:31:09+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1628749304025255937)
 
