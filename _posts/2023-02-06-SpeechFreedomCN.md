@@ -17,7 +17,7 @@ title: 'Twitter @中国文字狱事件盘点: 2023-02-06~2023-02-12'
 
 ### 1: [2023-02-08 10:56:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1623153644261736448)
 
-2019年4月，江苏张家港市男子陈某，因在朋友圈发文“第一次被狗咬”并配图交通罚单照片，被处拘留2日。 https://t.co/ZA7l189ptC<br><img style="" src="https://pbs.twimg.com/media/FoY5mq-WAAI2gHA?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FoY5oHlXgAQ4tgS?format=png&amp;name=orig" referrerpolicy="no-referrer">
+2019年4月，江苏张家港市男子陈某，因在朋友圈发文“第一次被狗咬”并配图交通罚单照片，被处拘留2日。<br><img style="" src="https://pbs.twimg.com/media/FoY5mq-WAAI2gHA?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FoY5oHlXgAQ4tgS?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2023-02-08 10:57:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1623153895920013312)
 
