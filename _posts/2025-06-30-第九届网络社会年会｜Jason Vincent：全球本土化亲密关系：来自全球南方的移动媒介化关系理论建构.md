@@ -3,7 +3,7 @@ layout: post
 title: "第九届网络社会年会｜Jason Vincent：全球本土化亲密关系：来自全球南方的移动媒介化关系理论建构"
 date: 2025-06-30
 author: 网络社会研究所
-from: https://www.caa-ins.org/archives/12723
+from: https://caa-ins.org/archives/12723
 tags: [ 网络社会研究所 ]
 categories: [ 网络社会研究所 ]
 ---
@@ -11,7 +11,7 @@ categories: [ 网络社会研究所 ]
 <article class="vce-single post-12723 post type-post status-publish format-standard has-post-thumbnail hentry category-3 tag-648" id="post-12723">
  <header class="entry-header">
   <span class="meta-category">
-   <a class="category-3" href="https://www.caa-ins.org/archives/category/%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a">
+   <a class="category-3" href="https://caa-ins.org/archives/category/%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a">
     网络社会年会
    </a>
   </span>
@@ -293,7 +293,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image is-style-rounded">
    <figure class="aligncenter size-large is-resized">
-    <img alt="" class="wp-image-12212" data-attachment-id="12212" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="JCabanes" data-large-file="https://www.caa-ins.org/wp-content/uploads/2024/10/JCabanes-1024x1024.png" data-medium-file="https://www.caa-ins.org/wp-content/uploads/2024/10/JCabanes-300x300.png" data-orig-file="https://www.caa-ins.org/wp-content/uploads/2024/10/JCabanes.png" data-orig-size="1251,1250" data-permalink="https://www.caa-ins.org/archives/12164/jcabanes" decoding="async" fetchpriority="high" height="1024" sizes="(max-width: 1024px) 100vw, 1024px" src="https://www.caa-ins.org/wp-content/uploads/2024/10/JCabanes-1024x1024.png" srcset="https://www.caa-ins.org/wp-content/uploads/2024/10/JCabanes-1024x1024.png 1024w, https://www.caa-ins.org/wp-content/uploads/2024/10/JCabanes-300x300.png 300w, https://www.caa-ins.org/wp-content/uploads/2024/10/JCabanes-150x150.png 150w, https://www.caa-ins.org/wp-content/uploads/2024/10/JCabanes-768x767.png 768w, https://www.caa-ins.org/wp-content/uploads/2024/10/JCabanes-810x809.png 810w, https://www.caa-ins.org/wp-content/uploads/2024/10/JCabanes-1140x1139.png 1140w, https://www.caa-ins.org/wp-content/uploads/2024/10/JCabanes.png 1251w" style="width:318px;height:318px" width="1024"/>
+    <img alt="" class="wp-image-12212" data-attachment-id="12212" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="JCabanes" data-large-file="https://caa-ins.org/wp-content/uploads/2024/10/JCabanes-1024x1024.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2024/10/JCabanes-300x300.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2024/10/JCabanes.png" data-orig-size="1251,1250" data-permalink="https://caa-ins.org/archives/12164/jcabanes" decoding="async" fetchpriority="high" height="1024" sizes="(max-width: 1024px) 100vw, 1024px" src="https://www.caa-ins.org/wp-content/uploads/2024/10/JCabanes-1024x1024.png" srcset="https://caa-ins.org/wp-content/uploads/2024/10/JCabanes-1024x1024.png 1024w, https://caa-ins.org/wp-content/uploads/2024/10/JCabanes-300x300.png 300w, https://caa-ins.org/wp-content/uploads/2024/10/JCabanes-150x150.png 150w, https://caa-ins.org/wp-content/uploads/2024/10/JCabanes-768x767.png 768w, https://caa-ins.org/wp-content/uploads/2024/10/JCabanes-810x809.png 810w, https://caa-ins.org/wp-content/uploads/2024/10/JCabanes-1140x1139.png 1140w, https://caa-ins.org/wp-content/uploads/2024/10/JCabanes.png 1251w" style="width:318px;height:318px" width="1024"/>
    </figure>
   </div>
   <p>
@@ -307,7 +307,7 @@ categories: [ 网络社会研究所 ]
   <p>
   </p>
   <figure class="likecoin-embed likecoin-button">
-   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fwww.caa-ins.org%2Farchives%2F12723" style="height:212px;width: 360px;">
+   <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fcaa-ins.org%2Farchives%2F12723" style="height:212px;width: 360px;">
    </iframe>
   </figure>
   <div class="sharedaddy sd-sharing-enabled">
@@ -318,7 +318,7 @@ categories: [ 网络社会研究所 ]
     <div class="sd-content">
      <ul>
       <li class="share-facebook">
-       <a aria-labelledby="sharing-facebook-12723" class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-12723" href="https://www.caa-ins.org/archives/12723?share=facebook" rel="nofollow noopener noreferrer" target="_blank">
+       <a aria-labelledby="sharing-facebook-12723" class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-12723" href="https://caa-ins.org/archives/12723?share=facebook" rel="nofollow noopener noreferrer" target="_blank">
         <span hidden="" id="sharing-facebook-12723">
          Click to share on Facebook (Opens in new window)
         </span>
@@ -328,7 +328,7 @@ categories: [ 网络社会研究所 ]
        </a>
       </li>
       <li class="share-twitter">
-       <a aria-labelledby="sharing-twitter-12723" class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-12723" href="https://www.caa-ins.org/archives/12723?share=twitter" rel="nofollow noopener noreferrer" target="_blank">
+       <a aria-labelledby="sharing-twitter-12723" class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-12723" href="https://caa-ins.org/archives/12723?share=twitter" rel="nofollow noopener noreferrer" target="_blank">
         <span hidden="" id="sharing-twitter-12723">
          Click to share on X (Opens in new window)
         </span>
@@ -338,7 +338,7 @@ categories: [ 网络社会研究所 ]
        </a>
       </li>
       <li class="share-custom share-custom-">
-       <a aria-labelledby="sharing-custom-12723" class="share-custom share-custom- sd-button share-icon no-text" data-shared="sharing-custom-12723" href="https://www.caa-ins.org/archives/12723?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank">
+       <a aria-labelledby="sharing-custom-12723" class="share-custom share-custom- sd-button share-icon no-text" data-shared="sharing-custom-12723" href="https://caa-ins.org/archives/12723?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank">
         <span hidden="" id="sharing-custom-12723">
          Click to share on 新浪微博 (Opens in new window)
         </span>
@@ -348,7 +348,7 @@ categories: [ 网络社会研究所 ]
        </a>
       </li>
       <li class="share-telegram">
-       <a aria-labelledby="sharing-telegram-12723" class="share-telegram sd-button share-icon no-text" data-shared="sharing-telegram-12723" href="https://www.caa-ins.org/archives/12723?share=telegram" rel="nofollow noopener noreferrer" target="_blank">
+       <a aria-labelledby="sharing-telegram-12723" class="share-telegram sd-button share-icon no-text" data-shared="sharing-telegram-12723" href="https://caa-ins.org/archives/12723?share=telegram" rel="nofollow noopener noreferrer" target="_blank">
         <span hidden="" id="sharing-telegram-12723">
          Click to share on Telegram (Opens in new window)
         </span>
@@ -366,7 +366,7 @@ categories: [ 网络社会研究所 ]
  </div>
  <footer class="entry-footer">
   <div class="meta-tags">
-   <a href="https://www.caa-ins.org/archives/tag/%e7%ac%ac%e4%b9%9d%e5%b1%8a%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a" rel="tag">
+   <a href="https://caa-ins.org/archives/tag/%e7%ac%ac%e4%b9%9d%e5%b1%8a%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a" rel="tag">
     第九届网络社会年会
    </a>
   </div>
