@@ -1,0 +1,1637 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title> 牛津社会学硕士课程  – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+牛津社会学硕士课程
+——
+" />
+    <meta property="og:description" content="
+牛津社会学硕士课程
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content=" 牛津社会学硕士课程 " />
+    <meta property="twitter:title" content=" 牛津社会学硕士课程 " />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17489)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fsociologist.xyz%2Foxford-sociology" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://sociologist.xyz/oxford-sociology" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://sociologist.xyz/oxford-sociology&text= 牛津社会学硕士课程 &hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://sociologist.xyz/oxford-sociology&title= 牛津社会学硕士课程 " class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://sociologist.xyz/oxford-sociology&title= 牛津社会学硕士课程 " class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject= 牛津社会学硕士课程 &body=
+牛津社会学硕士课程
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://sociologist.xyz/oxford-sociology" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://sociologist.xyz/oxford-sociology&title= 牛津社会学硕士课程 &caption=
+牛津社会学硕士课程
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text= 牛津社会学硕士课程 &url=https://sociologist.xyz/oxford-sociology" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1> 牛津社会学硕士课程 </h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2019-10-26
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#The Sociologist">
+          The Sociologist
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://sociologist.xyz/oxford-sociology" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="The Sociologist的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#The Sociologist 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1572134400000-->
+<p><a href="https://sociologist.xyz/oxford-sociology">牛津社会学硕士课程</a>
+——</p>
+
+<div>
+  <div class="photo">
+    <figure>
+<img src="https://i.typlog.com/sociologist/8428105764_832027.jpg" alt="The Sociologist.087.jpeg" />
+    </figure>
+  </div>
+  <p>牛津大学历史悠久，自十三世纪左右开始建立以来，在宗教、政治、哲学等人文研究领域多大建树，近百年来也在自然科学和应用科学领域取得长足发展。社会学系（Department of Sociology）虽然始建于 1999 年，距今不过二十年的历史，但承继社会研究传统与跨学科合作，开展社会流动调查、选举调查等前沿研究，具有分析性（analytical），经验性（empirical）与比较性（comparative）倾向，强于数据统计分析和模型研究，近几年来一直保持 QS 排名全球前三、英国与欧洲第一。</p>
+  <p>牛津社会学面向研究生的学位包括全职一年/兼职两年制的社会学理学硕士（MSc in Sociology）、21个月的社会学与人口学哲学硕士（MPhil in Sociology and Demography）以及三年全职/六至八年兼职的社会学哲学博士（DPhil in Sociology），学术强度由低到高。其中 MSc 与 MPhil 的学生手册中，介绍了为攻读博士阶段获得该学科的全面知识，以及主要研究技术。而文中也详细列出了各门课程的主旨、主题、核心与相关参考文献。本文即引介牛津社会学硕士教学中各项课程的<strong>阅读文献</strong>，以待阅读。关于各课程的具体 outcome、arrangement、assessment 等信息，请自行查阅学生手册文档。</p>
+  <p>我想，顶尖大学的课程阅读材料的价值已无需赘言了。MSc 与 MPhil 的课程基本重叠，后者因包含人口学研究，所以多了几门量化研究；前者则有质性研究（独有课程在标题后以「*」单独标记）。我从前两年开始关注各大学的社会学教学情况，发现牛津 2019/2020 比 2018/2019 学期的课程略有变动，标题后标记「18/19」的为被删去的前一学年的课程；而若同一课程相较有所变动，则视情况保留前一年被删去的内容。</p>
+  <p>为打破学术藩篱，我已尽自己所能收集了大部分著作论文的文档：👉<a href="https://github.com/DeSociologue/Oxford-Sociology-Texts/tree/master/Files">GitHub</a> 或 <a href="https://drive.google.com/drive/folders/1nMa_zO9D4pH0gyOtFXh_JiWo2glgwDid?usp=sharing">Google Drive</a>👈。部分文档的获取较为困难（未有获取的以「🈚️」标记），若对你来说唾手可得，希望能够怀着对改善社会的志趣不吝分享。</p>
+  <section class="toc">
+    <h1 id="section">目次</h1>
+    <ul>
+      <li><a href="#toc_1">Core</a>        <ul>
+          <li><a href="#toc_2">1. Sociological Analysis 社会学分析</a></li>
+          <li><a href="#toc_3">2. Research Method 研究方法</a>            <ul>
+              <li><a href="#toc_4">2.1 Qualitative Methods 质性研究法 *MSc</a></li>
+              <li><a href="#toc_5">2.2 Statistical Methods 统计方法</a></li>
+              <li><a href="#toc_6">2.3 Research Design 研究设计</a></li>
+            </ul>
+          </li>
+          <li><a href="#toc_7">3. Demographic Analysis 人口学分析 MPhil</a></li>
+          <li><a href="#toc_8">4. Life Course Research 生命历程研究 MPhil</a></li>
+          <li><a href="#toc_9">5. Replication Project 再现性项目 MPhil</a>            <ul>
+              <li><a href="#toc_10">核心材料</a></li>
+              <li><a href="#toc_11">相关材料</a></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li><a href="#toc_12">Option</a>        <ul>
+          <li><a href="#toc_13">1. Advanced Quantitative Methods 高级量化方法</a>            <ul>
+              <li><a href="#toc_14">核心材料</a></li>
+              <li><a href="#toc_15">Stata 相关材料</a></li>
+              <li><a href="#toc_16">其他实用材料</a></li>
+            </ul>
+          </li>
+          <li><a href="#toc_17">2. Causality: Methods of Causal Inference in the Social Sciences 因果关系: 社会科学中的因果推理方法</a></li>
+          <li><a href="#toc_18">3. Online Social Networks 线上社交网络</a>            <ul>
+              <li><a href="#toc_19">Week 1. Introduction 介绍</a></li>
+              <li><a href="#toc_20">Week 2. Ego-centred network data collection 个人网络信息收集</a></li>
+              <li><a href="#toc_21">Week 3. Sociocentric and partial data collection 社会中心和部分的数据收集</a></li>
+              <li><a href="#toc_22">Week 4. Dyads and homophily 二元体和同类交往</a></li>
+              <li><a href="#toc_23">Week 5: BREAK</a></li>
+              <li><a href="#toc_24">Week 6. Communities and clusters 社区与集群</a></li>
+              <li><a href="#toc_25">Week 7. Dynamic and Generative models 动态和生产模型</a></li>
+              <li><a href="#toc_26">Week 8. Network cognition and visualization 网络认知与可视化</a></li>
+              <li><a href="#toc_27">Week 9. Theorizing beyond the network 网络之外的理论</a></li>
+            </ul>
+          </li>
+          <li><a href="#toc_28">4. Political and Civil Conflict 政治和国内冲突</a></li>
+          <li><a href="#toc_29">5. Political Sociology 政治社会学*18/19</a></li>
+          <li><a href="#toc_30">6. Social Movements 社会运动</a></li>
+          <li><a href="#toc_31">7. Social Stratification 社会分层*18/19</a></li>
+          <li><a href="#toc_32">8. Sociology of China 中国社会学</a></li>
+          <li><a href="#toc_33">9. Sociology of Human Rights 人权社会学*18/19</a></li>
+          <li><a href="#toc_34">10. Sociology of Latin America 拉丁美洲社会</a></li>
+          <li><a href="#toc_35">11. Sociology of Japan 日本社会学</a></li>
+          <li><a href="#toc_36">12. Sociology of Mafias 黑手党社会学</a></li>
+          <li><a href="#toc_37">13. Sociology of the Family 学家庭社会学</a></li>
+          <li><a href="#toc_38">14. Sociogenomics 社会基因组学</a></li>
+        </ul>
+      </li>
+      <li><a href="#toc_39">后记</a></li>
+    </ul>
+  </section>
+  <h1 id="toc_1">Core</h1>
+  <h2 id="toc_2">1. Sociological Analysis 社会学分析</h2>
+  <div class="photo">
+    <figure>
+<img src="https://i.typlog.com/sociologist/8428105699_29986.jpg" alt="Untitled 2.002.jpeg" />
+    </figure>
+  </div>
+  <p>本课拓展解释社会现象的知识技能，包括发现问题、发展理论解释，并以实证研究加以检验。学生将了解用于解释社会现象的主要理论工具，以及当今社会学各分支领域的辩论。</p>
+  <div class="block-list">
+    <ul>
+      <li>Elster, J. (2015) <em>Explaining Social Behavior: More Nuts and Bolts for the Social Sciences</em>, 2nd ed., Cambridge University Press.</li>
+      <li>Collins, R. (1994) <em>Four Sociological Traditions, Oxford University Press</em>.</li>
+    </ul>
+  </div>
+  <h2 id="toc_3">2. Research Method 研究方法</h2>
+  <h3 id="toc_4">2.1 Qualitative Methods 质性研究法 *MSc</h3>
+  <div class="photo">
+    <figure>
+<img src="https://i.typlog.com/sociologist/8428104904_363526.jpg" alt="Untitled 2.004.jpeg" />
+    </figure>
+  </div>
+  <p>本课旨在向学生介绍质性资料收集的基本问题。学生将在研究设计，应用主要研究方法的和分析质性资料中获得实际经验。本课旨在培养学生领会质性方法在社会学研究中的重要性；决定什么时候一个研究课题需要质性研究方法，并选择最适当的方法解决研究问题；掌握访谈、焦点小组和民族志研究所需的技能；理解如何分析质性数据；理解如何在社会学研究中使用质性方法和其他方法；领会质性研究的伦理困境。</p>
+  <div class="block-list">
+    <ul>
+      <li>Arskey, H &amp; P. Knight (1996) <em>Interviewing for Social Scientists</em>, Sage.</li>
+      <li>Burgess, R. (1984) <em>In the Field</em>, Routledge.</li>
+      <li>King, G., R.O. Keohane and S. Verba (1994) <em>Designing Social Inquiry: scientific inference in qualitative research</em>. Princeton: Princeton University Press.</li>
+      <li>Krippendorff, K. (2004) <em>Content Analysis</em>, second ed. Sage.</li>
+      <li>Whyte, W. F. ([1943]1993) <em>Street corner society: the social structure of an Italian slum</em>. 4th Edition Chicago; London: University of Chicago Press.</li>
+    </ul>
+  </div>
+  <h3 id="toc_5">2.2 Statistical Methods 统计方法</h3>
+  <div class="photo">
+    <figure>
+<img src="https://i.typlog.com/sociologist/8428104876_579993.jpg" alt="Untitled 2.006.jpeg" />
+    </figure>
+  </div>
+  <p>本讲座旨在拓展统计思维的基础，并介绍社会科学研究中使用的最重要的统计模型。实践课程旨在让学生掌握使用 Stata 进行定量数据分析的技巧。主题包括抽样和概率模型的概念，从样本推断人口的基本方法，以及包括线性回归等一些常见类型的统计模型的使用和说明。</p>
+  <div class="block-list">
+    <ul>
+      <li>Agresti, A. and B. Finlay (1997/2009/2017) <em>Statistical Methods for the Social Sciences</em>, Pearson (3rd, 4th, or 5th edition; any will do).</li>
+      <li>Hamilton, L.C. (2013) <em>Statistics with Stata</em>, Version 12, 8th Edition. Cengage</li>
+    </ul>
+  </div>
+  <h3 id="toc_6">2.3 Research Design 研究设计</h3>
+  <div class="photo">
+    <figure>
+<img src="https://i.typlog.com/sociologist/8428104839_106815.jpg" alt="Untitled 2.008.jpeg" />
+    </figure>
+  </div>
+  <p>本课程涉及社会科学中实证调查（empirical investigation）的性质，涉及我们如何建立有关社会世界（social world）的系统知识。本课程依次考虑研究过程的各个阶段，时下不同类型的研究策略，以及关于进行调查的一般方法问题。课程各阶段结合实证研究案例。除了数据收集方法，也讨论社会机制。</p>
+  <div class="block-list">
+    <ul>
+      <li>King, G., R. Keohane and S. Verba (1994) <em>Designing Social Inquiry</em>, Princeton University Press.</li>
+      <li>Rick H. Hoyle, Charles M. Judd, Monica J Harris. 2001. <em>Research Methods in Social Relations</em>, (International Edition), Fort Worth, Holt, Rinehart and Winston. 7th edition. 🈚️</li>
+      <li>Elster, J. 1989. <em>Nuts and Bolts for the Social Sciences</em>. Cambridge University Press.</li>
+    </ul>
+  </div>
+  <h2 id="toc_7">3. Demographic Analysis 人口学分析 <em>MPhil</em></h2>
+  <div class="photo">
+    <figure>
+<img src="https://i.typlog.com/sociologist/8428104812_255799.jpg" alt="Untitled 2.010.jpeg" />
+    </figure>
+  </div>
+  <p>本课介绍关于人口动态 (population dynamics，不同学科译法各异，领会要旨即可)各方面研究，包括死亡率（mortality）、家庭变化（family change）、生育率（fertility）和移民（migration），培养计算人口统计和模型的技能。</p>
+  <div class="block-list">
+    <ul>
+      <li>Livi Bacci, M. (2012) <em>A Concise History of World Population</em>, Wiley-Blackwell.</li>
+      <li>Wachter, K.W. (2014) <em>Essential Demographic Methods</em>, Harvard University Press.</li>
+      <li>Preston, S.H, P. Heuveline and M. Guillot (2001) <em>Demography: Measuring and Modeling Population Processes</em>, Blackwell Publishers</li>
+      <li>A series of articles detailed in the syllabus.</li>
+    </ul>
+  </div>
+  <h2 id="toc_8">4. Life Course Research 生命历程研究 <em>MPhil</em></h2>
+  <div class="photo">
+    <figure>
+<img src="https://i.typlog.com/sociologist/8428104784_424871.jpg" alt="Untitled 2.012.jpeg" />
+    </figure>
+  </div>
+  <p>本课介绍生命历程研究的理论、视角和方法，包括一系列重要研究主题、重点理论和方法论取径等。</p>
+  <div class="block-list">
+    <ul>
+      <li>Mayer, K. (2009). <em>New directions in life course research</em>. Annual Reviews in Sociology. 35: 413-433.</li>
+      <li>Crosnoe, R. &amp; G.H. Elder Jr. (2015). Life Course: Sociological Aspects, J. Wright (Ed.) <em>International Encyclopedia of the Social and Behavioral Sciences</em>, 2nd edition. London: Elsevier. 🈚️</li>
+      <li>Billari, F.C. (2001) <em>The Analysis of Early Life Courses: Complex Descriptions of the Transition to Adulthood</em>, Journal of Population Research, 18(2): 119-142.</li>
+      <li>Blossfeld, H-P, and S Drobnic. (2001). "Theoretical perspectives on couples’ careers." pp. 16-50 in <em>Careers of couples in contemporary societies: from male breadwinner to dual-earner families</em>, edited by H-P Blossfeld and S Drobnic. Oxford: Oxford University Press. 🈚️</li>
+    </ul>
+  </div>
+  <h2 id="toc_9">5. Replication Project 再现性项目 <em>MPhil</em></h2>
+  <div class="photo">
+    <figure>
+<img src="https://i.typlog.com/sociologist/8428100941_757787.jpg" alt="Untitled 2.014.jpeg" />
+    </figure>
+  </div>
+  <p>「再现性研究」（replication research）是近年来社会学研究的新趋势和课题。社会科学研究中，数据和模型往往并不公开，这使得研究结果无从验证，也无助于帮助学界减少「造轮子」的浪费。故这一学术机制拉到了社会科学研究方法的讨论中来。这门课以再现近期学术著作为导向，讨论再现性研究的实证研究现状。第一周课程即介绍开放源代码的版本控制系统 Git、排版系统 LaTeX 以及高级统计和通用编程工具 R 和 Python；自第二周开始围绕 Christensen 等人最新的研究文本（见下方）和其他相关材料展开讨论。</p>
+  <h3 id="toc_10">核心材料</h3>
+  <div class="block-list">
+    <ul>
+      <li>Garret Christensen, Jeremy Freese, Edward Miguel (2019), <em>Transparent and Reproducible Social Science Research</em>, 1st Edition, University of California Press, ISBN: 9780520296954. 🈚️（仅有第一章）</li>
+    </ul>
+  </div>
+  <h3 id="toc_11">相关材料</h3>
+  <div class="block-list">
+    <ul>
+      <li>Gerber and Malhotra (2008), _Publication Bias in Empirical Sociological Research: Do Arbitrary Significance Levels Distort Published Results?_Sociological Methods and Research, 37, 1, 3-30.</li>
+      <li>John Ionnidis (2005), <em>Why Most Published Research Findings are False</em>, Plos Medicine, 2, 8.</li>
+      <li>Gary King (2006), <em>Publication, Publication</em>, PS: Political Science and Politics, 39, 1, 119-125.</li>
+      <li>Edward Leamer (1983), <em>Let's Take the Con Out of Econometrics</em>, The American Economic Review, 73, 1, 31- 43.</li>
+      <li>Freese and Peterson (2017), <em>Replication in Social Science</em>, Annual Review of Sociology, 43, 1, 147-165.</li>
+    </ul>
+  </div>
+  <h1 id="toc_12">Option</h1>
+  <h2 id="toc_13">1. Advanced Quantitative Methods 高级量化方法</h2>
+  <div class="photo">
+    <figure>
+<img src="https://i.typlog.com/sociologist/8428099615_561272.jpg" alt="Untitled 2.016.jpeg" />
+    </figure>
+  </div>
+  <p>本课重点为高级统计模型对社会科学数据对应用和解释。虽然每年的具体主题都因取决于授课者专业方向和兴趣各异而有所不一，但 2017/2018 和 2018/2019 两年都是一致的，而 2019/2020 的 course provider 还没定下来，姑且还是提供去年的主题范围。这门课程使用 Stata 这款统计软件，重视「应用」（applied），强调江先进的统计模型应用于典型社会科学数据，，但并不是把重点放在模型本身，而是对参数估计的校正和解释。</p>
+  <h3 id="toc_14">核心材料</h3>
+  <div class="block-list">
+    <ul>
+      <li>Joshua D. Angrist and Jorn-Steffen Pischke, <em>Mostly Harmless Econometrics</em>. Princeton University Press, 2009 [e-book, available from Bodleian through SOLO].</li>
+      <li>Carina Mood. (2010) ‘Logistic Regression: Why We Cannot Do What We Think We Can Do, and What We Can Do About It’, <em>European Sociological Review</em> 26 : 67–82.</li>
+      <li>Paul D. Allison, <em>Fixed Effect Regression Models</em>. Sage, 2009 [e-book, available from Bodleian through SOLO].</li>
+      <li>Charles N. Halaby, ‘Panel models in sociological research: theory into practice’, <em>Annual Review of Sociology</em>, 30:507-544, 2009.</li>
+    </ul>
+  </div>
+  <h3 id="toc_15"><em>Stata</em> 相关材料</h3>
+  <div class="block-list">
+    <ul>
+      <li>Long, J. Scott, &amp; Freese, Jeremy. (2014). <em>Regression Models for Categorical Dependent Variables Using Stata</em> (3rd ed.). College Station, TX: Stata Press.</li>
+      <li>Rabe-Hesketh, Sophia, &amp; Skrondal, Anders. (2012). <em>Multilevel and Longitudinal Modeling Using Stata. Volume I: Continuous Responses</em> (3rd ed.). College Station, TX: Stata Press.</li>
+      <li>Rabe-Hesketh, Sophia, &amp; Skrondal, Anders. (2012). <em>Multilevel and Longitudinal Modeling Using Stata. Volume II: Categorical Responses, Counts, and Survival</em> (3rd ed.). College Station, TX: Stata Press. 🈚️</li>
+    </ul>
+  </div>
+  <h3 id="toc_16">其他实用材料</h3>
+  <div class="block-list">
+    <ul>
+      <li>Paul D. Allison (2004). ‘Using panel data to estimate the effects of events’, <em>Sociological Methods and Research</em>, 23(2):174-199.</li>
+      <li>Douglas C. Montgomery, Elizabeth A. Peck and G Geoffrey Vining. (2012). <em>Introduction to Linear Regression Analysis.</em> John Wiley &amp; Sons [e-book, available from Bodleian through SOLO].</li>
+      <li>Richard Breen et. al. (2014). ‘Correlations and Nonlinear Probability Models’, <em>Sociological Methods &amp; Research</em> 43: 571- 605.</li>
+      <li>Mark L. Bryan and Stephen P. Jenkins. (2016). ‘Multilevel Modelling of Country Effects: A Cautionary Tale’. <em>European Sociological Review</em>, 32(1): 3–22.</li>
+    </ul>
+  </div>
+  <h2 id="toc_17">2. Causality: Methods of Causal Inference in the Social Sciences 因果关系: 社会科学中的因果推理方法</h2>
+  <div class="photo">
+    <figure>
+<img src="https://i.typlog.com/sociologist/8428028193_437917.jpg" alt="Untitled 2.017.jpeg" />
+    </figure>
+  </div>
+  <p>本课介绍「潜在结果」（potential outcomes）或「反事实」（counterfactual）模型，利用社会科学观测数据确定和估计因果关系，使用统计模型。各周重点如下：</p>
+  <p>Week 1: Review of Probability<br />Week 2: Review of Least Squares regression and properties of estimators<br />Week 3: The counterfactual model of causality, the fundamental problem of causality, randomized control trials.<br />Week 4: Matching estimators; regression and propensity scores<br />Week 5: Inverse probability of treatment weighting; robustness analysis<br />Week 6: Instrumental variables; natural experiments<br />Week 7: Control functions<br />Week 8: Regression discontinuity; fixed effects; difference in difference models</p>
+  <div class="block-list">
+    <ul>
+      <li>Fox, John. 2008. <em>A Mathematical Primer for Social Statistics</em>. QASS 159, Sage.</li>
+      <li>Morgan, Stephen L. and Christopher Winship. 2014. <em>Counterfactuals and Causal Inference: Methods and Principles for Social Research</em> (2nd edition), Cambridge University Press.</li>
+      <li>Angrist, Joshua and Jörn-Steffen Pischke. 2009. <em>Mostly Harmless Econometrics</em>. Princeton University Press.</li>
+    </ul>
+  </div>
+  <h2 id="toc_18">3. Online Social Networks 线上社交网络</h2>
+  <div class="photo">
+    <figure>
+<img src="https://i.typlog.com/sociologist/8428028183_79727.jpg" alt="Untitled 2.018.jpeg" />
+    </figure>
+  </div>
+  <p>本课程是社会网络分析（social network analysis, SNA）的入门课。虽然 SNA 这种结构分析（structural analysis）处于社会学前沿，但其重要性地位并不限于社会学，这也意味着这门课程涵盖了诸学科的方法。例如计算机科学的图形优化和可视化，统计学帮助了解偶然出现的网络，物理学提供对大规模级联行为（cascading behaviour）的了解和探测社区的方法。</p>
+  <p>而这门课的阅读材料方面提供了 Oxford Reading Lists Online，故更为详尽，每周都有 essential 和 recommended 两类材料，分别以「E」和「R」标记。</p>
+  <h3 id="toc_19">Week 1. Introduction 介绍</h3>
+  <p>本周的阅读材料都是关于网络（networks）的介绍性作品。建议首先阅读 Hogan 的文章，他从线上数据（online data）的角度对社交网络分析做一个总体概述。Harrington 的文章对图形（graphs）的介绍非常浅显易懂。Borgatti 等人则讨论了非常深入的不同类型的网络的概念，并从社会网络的角度来讨论这一问题。 本周的五篇 recommended 的重点各不相同。Granovetter 的研究可能是迄今为止社会网络分析中最著名的。Wellman 的文章阐明，网络是一种范式（paradigm），而不仅仅是现有类型的社会研究的「涡轮增压器」（turbo-charger），这种说法一直影响到今天。Butts 的文章非常具有技术性，更加面向统计学的网络介绍和当代网络分析思想。Hildago 在澄清社会网络分析与网络科学之间的关系方面做得很好。最后是 Hennig 等人对网络的简单介绍，与 Borgatti 等人异曲同工。</p>
+  <p><strong>E</strong></p>
+  <div class="block-list">
+    <ul>
+      <li>Fielding, N. G., Lee, R. M., &amp; Blank, G. (Eds.). (2008). <em>The SAGE handbook of online research methods</em>. Sage.        <ul>
+          <li>Online Social Networks: Concepts for Data Collection. pp. 241-258.</li>
+        </ul>
+      </li>
+      <li>Harrington, H. A., Beguerisse-Díaz, M., Rombach, M. P., Keating, L. M., &amp; Porter, M. A. (2013). <em>Commentary: Teach network science to teenagers</em>. Network science, 1(2), 226-247.</li>
+      <li>Borgatti, S. P., Everett, M. G., &amp; Johnson, J. C. (2018). <em>Analyzing social networks</em>. Sage.        <ul>
+          <li>Chapters 1-2.</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <p><strong>R</strong></p>
+  <div class="block-list">
+    <ul>
+      <li>Granovetter, M. S. (1977). The strength of weak ties. In <em>Social networks</em> (pp. 347-367). Academic Press.</li>
+      <li>Wellman, B., &amp; Berkowitz, S. D. (Eds.). (1988). <em>Social structures: A network approach</em> (Vol. 2). CUP Archive.        <ul>
+          <li>Structural Analysis: From Method and Metaphor to Theory and Substance. pp. 19-61.</li>
+        </ul>
+      </li>
+      <li>Hidalgo, C. A. (2016). Disconnected, fragmented, or united? a trans-disciplinary review of network science. <em>Applied Network Science</em>, 1(1), 6.</li>
+      <li>Butts, C. T. (2008). Social network analysis: A methodological introduction. <em>Asian Journal of Social Psychology</em>, 11(1), 13-41.</li>
+      <li>Hennig, M., Brandes, U., Pfeffer, J., &amp; Mergel, I. (2012). <em>Studying social networks: A guide to empirical research</em>. Campus Verlag.        <ul>
+          <li>Chapter 1. Pp 13-26. 🈚️</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <h3 id="toc_20">Week 2. Ego-centred network data collection 个人网络信息收集</h3>
+  <p>个人网络（personal networks，ego-centred networks，egocentric networks，ego-nets）是社会网络分析的重要组成部分。它是个体运作的一系列联系，在这个意义上，它是任何 given person 的所有活动的参照。虽然庞大的社会结构可能对个人施加隐藏的力量，不过个人网络对个人则施加更直接的力量。阅读材料集中在以个人为中心的网络数据的收集和分析，包括线上（online）和线下（offline）。 Hogan (2016) 强调了 Crossley 等人提到的数据收集的现代方法，Dunbar 讨论了如 Facebook 一般规模的网络是否具有意义。本周的 recommended 深入挖掘以个人为中心的网络分析。 Hogan (2017) 强调线上数据收集在许多情况下的不可行。Van Duijin 等人展示了 multilevel analysis 的典型的个人网络统计技术。这在后面 Crossley 等人的文章中也有讨论。Reyes 的论文展示了如何进行质性的网络研究，Giannella 和 Fisher 的论文描述了利用 random forests 对网络进行分类的现代技术。</p>
+  <p><strong>E</strong></p>
+  <div class="block-list">
+    <ul>
+      <li>Crossley, N., Bellotti, E., Edwards, G., Everett, M. G., Koskinen, J., &amp; Tranmer, M. (2015). <em>Social network analysis for ego-nets: Social network analysis for actor-centred networks</em>. Sage. 🈚️        <ul>
+          <li>Chapter 3. Pp 44-75.</li>
+        </ul>
+      </li>
+      <li>Hogan, B., Melville, J. R., Phillips II, G. L., Janulis, P., Contractor, N., Mustanski, B. S., &amp; Birkett, M. (2016, May). Evaluating the paper-to-screen translation of participant-aided sociograms with high-risk participants. In <em>Proceedings of the 2016 CHI conference on human factors in computing systems</em> (pp. 5360-5371). ACM.</li>
+      <li>Dunbar, R. I. (2016). Do online social media cut through the constraints that limit the size of offline social networks?. <em>Royal Society Open Science</em>, 3(1), 150292.</li>
+    </ul>
+  </div>
+  <p><strong>R</strong></p>
+  <div class="block-list">
+    <ul>
+      <li>Reyes, C. (2016). Eliciting data on social relationships: The use of hand-drawn network maps in tracing the perception of digitally mediated social ties. <em>International Review of Social Research</em>, 6(4), 256-268.</li>
+      <li>Hogan, B. (2016). Social media giveth, social media taketh away: Facebook, friendships, and APIs. <em>International Journal of Communication</em>, Forthcoming.</li>
+      <li>Van Duijn, M. A., Van Busschbach, J. T., &amp; Snijders, T. A. (1999). Multilevel analysis of personal networks as dependent variables. <em>Social networks</em>, 21(2), 187-210.</li>
+      <li>Giannella, E., &amp; Fischer, C. S. (2016). An inductive typology of egocentric networks. <em>Social Networks</em>, 47, 15-23.</li>
+    </ul>
+  </div>
+  <h3 id="toc_21">Week 3. Sociocentric and partial data collection 社会中心和部分的数据收集</h3>
+  <p>网络的整体和部分的边界定义、link 收集都超越了任何个人参照组网络，本周思考这些 link 聚集而形成的大规模 patterns 的质性和行为。此部分 essential 论文强调社会中心层面（sociocentric level）的新发现，利用大数据和线上数据探索更大规模的网络；recommended 则是数据收集思想的经典论文。</p>
+  <p><strong>E</strong></p>
+  <div class="block-list">
+    <ul>
+      <li>Borgatti, S. P., Everett, M. G., &amp; Johnson, J. C. (2018). <em>Analyzing social networks</em>. Sage.        <ul>
+          <li>Chapters 3-4.</li>
+        </ul>
+      </li>
+      <li>Ugander, J., Karrer, B., Backstrom, L., &amp; Marlow, C. (2011). The anatomy of the facebook social graph.<em>arXiv preprint arXiv:1111.4503</em>.        <ul>
+          <li>1-17</li>
+        </ul>
+      </li>
+      <li>Hodas, N. O., Kooti, F., &amp; Lerman, K. (2013, June). Friendship paradox redux: Your friends are more interesting than you. In <em>Seventh International AAAI Conference on Weblogs and Social Media</em>.</li>
+    </ul>
+  </div>
+  <p><strong>R</strong></p>
+  <div class="block-list">
+    <ul>
+      <li>Feld, S. L. (1991). Why your friends have more friends than you do. <em>American Journal of Sociology</em>, 96(6), 1464-1477.</li>
+      <li>Travers, J., &amp; Milgram, S. (1977). An experimental study of the small world problem. In <em>Social Networks</em> (pp. 179-197). Academic Press.</li>
+      <li>de Sola Pool, I., &amp; Kochen, M. (1978). Contacts and influence. I, 1(1), 5-51.</li>
+    </ul>
+  </div>
+  <h3 id="toc_22">Week 4. Dyads and homophily 二元体和同类交往</h3>
+  <p>二元体（dyads）是社交网络的核心组成部分。虽然面对一些重要的现象会加入三元体（triads），但大部还是二元体。二元体的许多特质都会产生不同的结果。例如，你的人际网络中有像你这样的人可以帮助你感受到一种团结（solidarity），但是这也会让你陷入责任（responsibilities）的泥潭。Rivera 等人探讨了二元体和二元分析的特点。McPherson 等人的论文是关于同类交往（homophily）的关键论文。Bakshy 等人的论文是一篇关于 Facebook 如何管理同类交往的很棒的论文。最后，Crossley 等人展示了如何使用 EI 指数和 Yule’s Q 来计算同类交往。课程中还将介绍相称性assortativity 和 mixing matrices。recommended 论文更深入地探讨了二元体和同类交往的问题。这篇 Cyberbalkans 的论文在社交媒体网站上引起轰动之前，在 20 年前就对 Filter Bubble 的论点进行了研究，1997 年首次发表，10 年后出版。那篇论文的作者之一，Marshall Van Alstyne 也写了一篇关于 Sinan Aral 的中介的重要论文。Gould 和 Fernandez 并不是 brokerage 和结构性缺口概念的创始人，但他们关于这一概念的论文非常出色，至今仍有影响。最后，Mizruchi 和 Marquis 展示了二元层面分析如何比其他层面拥有更多解释力，从而强调了这一层面研究的重要性。</p>
+  <p><strong>E</strong></p>
+  <div class="block-list">
+    <ul>
+      <li>Rivera, M. T., Soderstrom, S. B., &amp; Uzzi, B. (2010). Dynamics of dyads in social networks: Assortative, relational, and proximity mechanisms. <em>Annual Review of Sociology</em>, 36, 91-115.</li>
+      <li>Bakshy, E., Messing, S., &amp; Adamic, L. A. (2015). Exposure to ideologically diverse news and opinion on Facebook. <em>Science</em>, 348(6239), 1130-1132.</li>
+      <li>McPherson, M., Smith-Lovin, L., &amp; Cook, J. M. (2001). Birds of a feather: Homophily in social networks. <em>Annual review of sociology</em>, 27(1), 415-444.</li>
+      <li>Crossley, N., Bellotti, E., Edwards, G., Everett, M. G., Koskinen, J., &amp; Tranmer, M. (2015). <em>Social network analysis for ego-nets: Social network analysis for actor-centred networks</em>. Sage. 🈚️        <ul>
+          <li>Chapter 4. Pp. 76-104.</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <p><strong>R</strong></p>
+  <div class="block-list">
+    <ul>
+      <li>Gould, R. V., &amp; Fernandez, R. M. (1989). Structures of mediation: A formal approach to brokerage in transaction networks. <em>Sociological methodology</em>, 89-126.</li>
+      <li>Mizruchi, M. S., &amp; Marquis, C. (2006). Egocentric, sociocentric, or dyadic?: Identifying the appropriate level of analysis in the study of organizational networks. <em>Social Networks</em>, 28(3), 187-208.</li>
+      <li>Van Alstyne, M., &amp; Brynjolfsson, E. (2005). Global village or cyber-balkans? Modeling and measuring the integration of electronic communities. <em>Management Science</em>, 51(6), 851-868.</li>
+      <li>Aral, S., &amp; Van Alstyne, M. (2011). The diversity-bandwidth trade-off. <em>American Journal of Sociology</em>, 117(1), 90-171.</li>
+      <li>Feld, S. L. (1982). Social structural determinants of similarity among associates. <em>American sociological review</em>, 797-801.</li>
+    </ul>
+  </div>
+  <h3 id="toc_23">Week 5: BREAK</h3>
+  <h3 id="toc_24">Week 6. Communities and clusters 社区与集群</h3>
+  <p>同类交往（homophily）不会简单地导致二元体（dyads）之间的对立。是否每个人都需要融入一个社区？社区必须是不重叠的吗？ 这个领域仍然存在许多未解决的问题。Smith 等人的第一篇论文简单介绍了不同的 twitter 标签「#」如何明确的 community signals。第二篇论文是一篇关于 community detection 的评论。第三篇论文表明我们不应该过于倾向的 community detection，其中大部分的网络结构是在其他维度而不是网络拓扑。在人群中发现的高维网络中尤其重要。本周的 recommended 范围相当广泛。Fortunado 的论文关于 community detection，Porter 的则是节略版。 Newman 的是一篇早期的 community detection 论文，将许多不同的 conceptual strands 联系在一起，特别是 modularity。 Leskovec 显示了一种基于 conductance 而不是 modularity 的分区形式。 Moody 和 Gest 展示了早期的 community detection 算法和基于矩阵的方法，即 blockmodelling。Brooks 等人和 Watts 以及 Kossinetts 关注的是社区和使用数据跟踪的集群。</p>
+  <p><strong>E</strong></p>
+  <div class="block-list">
+    <ul>
+      <li>Smith, M. A., Rainie, L., Shneiderman, B., &amp; Himelboim, I. (2014). Mapping Twitter topic networks: From polarized crowds to community clusters. <em>Pew Research Center</em>, 20, 1-56.</li>
+      <li>Porter, M. A., Onnela, J. P., &amp; Mucha, P. J. (2009). Communities in networks. <em>Notices of the AMS</em>, 56(9), 1082-1097.</li>
+      <li>Hric, D., Darst, R. K., &amp; Fortunato, S. (2014). Community detection in networks: Structural communities versus ground truth. <em>Physical Review E</em>, 90(6), 062805.</li>
+    </ul>
+  </div>
+  <p><strong>R</strong></p>
+  <div class="block-list">
+    <ul>
+      <li>Newman, M. E. (2006). Modularity and community structure in networks. <em>Proceedings of the national academy of sciences</em>, 103(23), 8577-8582.</li>
+      <li>Gest, S. D., Moody, J., Rulison, K. L., Gest, S. D., Moody, J., &amp; Rulison, K. L. (2007). Density or distinction? The roles of data structure and group detection methods in describing adolescent peer groups. <em>Journal of Social Structure</em>, 8, 1-27.</li>
+      <li>Brooks, B., Hogan, B., Ellison, N., Lampe, C., &amp; Vitak, J. (2014). Assessing structural correlates to social capital in Facebook ego networks. <em>Social Networks</em>, 38, 1-15.</li>
+      <li>Kossinets, G., &amp; Watts, D. J. (2006). Empirical analysis of an evolving social network. <em>science</em>, 311(5757), 88-90.</li>
+      <li>Yang, J., &amp; Leskovec, J. (2015). Defining and evaluating network communities based on ground-truth. <em>Knowledge and Information Systems</em>, 42(1), 181-213.</li>
+      <li>Fortunato, S. (2010). Community detection in graphs. Physics reports, 486(3-5), 75-174.</li>
+    </ul>
+  </div>
+  <h3 id="toc_25">Week 7. Dynamic and Generative models 动态和生产模型</h3>
+  <p>网络是节点之间相互连接的方式，我们通常不能假定参与者（actors）是独立的。出于这个原因，我们必须考虑统计测试的替代规范（alternative specifications）。在许多可供选择的规范中，最重要的是指数随机图形模型（exponential random graph model，ERGm）及其变种。Robins 的章节介绍了 ERGms，Wimmer 和 Lewis 的论文把这个模型应用到 Facebook 收集的 Taste、Ties 和 Time 的数据集。其他规范也值得考虑。Borge-Holthoefer 和 Gonzalez-Bailon 对这些太了和新规范做了很好的 review 。这些规范中最重要的是面向随机参与者的模型（Stochastic Actor-Oriented Models，SAOMs）。这些模型很好地将选择效果（selection effects）与影响效果（influence effects）分离开来。Snijders 等人介绍了 SAOMs，Lewis 等人将其应用于上述的数据集。PNAS 的简短论文给出了总结和调查结果，提供了很好的细节信息。</p>
+  <p><strong>E</strong></p>
+  <div class="block-list">
+    <ul>
+      <li>Lusher, D., Koskinen, J., &amp; Robins, G. (Eds.). (2013). <em>Exponential random graph models for social networks: Theory, methods, and applications</em>. Cambridge University Press.        <ul>
+          <li>Chapters 2-5. Pp 9-36.</li>
+        </ul>
+      </li>
+      <li>Wimmer, A., &amp; Lewis, K. (2010). Beyond and below racial homophily: ERG models of a friendship network documented on Facebook. <em>American Journal of Sociology</em>, 116(2), 583-642.</li>
+    </ul>
+  </div>
+  <p><strong>R</strong></p>
+  <div class="block-list">
+    <ul>
+      <li>Snijders, T. A., Van de Bunt, G. G., &amp; Steglich, C. E. (2010). Introduction to stochastic actor-based models for network dynamics. <em>Social networks</em>, 32(1), 44-60.</li>
+      <li>Sloan, Luke, and Anabel Quan-Haase, eds. <em>The SAGE handbook of social media research methods</em>. Sage, 2017.        <ul>
+          <li>Chapter 15: Scale, Time, and Activity Patterns: Advanced Methods for the Analysis of Online Networks. Pp. 259–276.</li>
+        </ul>
+      </li>
+      <li>Lewis, K., Gonzalez, M., &amp; Kaufman, J. (2012). Social selection and peer influence in an online social network. <em>Proceedings of the National Academy of Sciences</em>, 109(1), 68-72.</li>
+    </ul>
+  </div>
+  <h3 id="toc_26">Week 8. Network cognition and visualization 网络认知与可视化</h3>
+  <p>可视化（visualization）从一开始就是网络分析的核心。可视化似乎只用简单的规则就连贯地表示了底层的网络结构。许多网络从物理学、统计学和数学以及社会科学中获取知识，而图形绘制则从计算机科学的许多研究中吸收经验，包括大规模图形绘制社区。第一篇论文是 Freeman 的作为他关于社会网络分析历史的著作的前身，详细介绍可视化的历史，强调了可视化在社会网络分析中的中心地位。 Welser 的论文展示了三种不同的可视化如何对usenet 参与者网络给出不同解释。 Lee 和 Archambault 及 Brashears 的论文都讨论了人们如何解释检测到的群集，并且将网络记忆为群集的可能。recommended 材料展现了了这个领域的广阔性。最早的的一本是 Fruchterman 和 Reingold 的著作，强调了人们长期以来对图形绘制的思考。他们的布局算法（layout algorithm）对今天的网络至关重要。Noack 的文章指出，Fruchterman-Rheingold 算法与 community detection 的关联有着重要的数学原因。第二历史悠久的论文是 Purchase 等人撰写的，展示了人们是如何偏好于某种类型的网络可视化。这可以与 Kieffer 相关联，可以学习人工绘制的布局，以优化其他布局算法，这篇文章是关于一些布局可以欺骗的事实的警示。最后是 Borgatti 等人的文章，关于于如何呈现网络可视化的指导。</p>
+  <p><strong>E</strong></p>
+  <div class="block-list">
+    <ul>
+      <li>Freeman, L. C. (2000). Visualizing social networks. <em>Journal of social structure</em>, 1(1), 4.</li>
+      <li>Lee, A., &amp; Archambault, D. (2016, May). Communities Found by Users--not Algorithms: Comparing Human and Algorithmically Generated Communities. In <em>Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems</em> (pp. 2396-2400). ACM.</li>
+      <li>Brashears, M. E. (2013). Humans use compression heuristics to improve the recall of social networks. <em>Scientific reports</em>, 3, 1513.</li>
+      <li>Welser, H. T., Gleave, E., Fisher, D., &amp; Smith, M. (2007). Visualizing the signatures of social roles in online discussion groups. <em>Journal of social structure</em>, 8(2), 1-32.</li>
+    </ul>
+  </div>
+  <p><strong>R</strong></p>
+  <div class="block-list">
+    <ul>
+      <li>Fruchterman, T. M., &amp; Reingold, E. M. (1991). Graph drawing by force‐directed placement. <em>Software: Practice and experience</em>, 21(11), 1129-1164.</li>
+      <li>Purchase, H. C., Pilcher, C., &amp; Plimmer, B. (2010). Graph drawing aesthetics—created by users, not algorithms. <em>IEEE Transactions on Visualization and Computer Graphics</em>, 18(1), 81-92.</li>
+      <li>Borgatti, S. P., Everett, M. G., &amp; Johnson, J. C. (2018).<em>Analyzing social networks</em>. Sage.        <ul>
+          <li>Chapter 7.</li>
+        </ul>
+      </li>
+      <li>McGrath, C., Blythe, J., &amp; Krackhardt, D. (1997). The effect of spatial arrangement on judgments and errors in interpreting graphs. <em>Social networks</em>, 19(3), 223-242.</li>
+      <li>Noack, A. (2009). Modularity clustering is force-directed layout. <em>Physical Review E</em>, 79(2), 026102.</li>
+      <li>Kieffer, S., Dwyer, T., Marriott, K., &amp; Wybrow, M. (2015). Hola: Human-like orthogonal network layout. <em>IEEE transactions on visualization and computer graphics</em>, 22(1), 349-358.</li>
+    </ul>
+  </div>
+  <h3 id="toc_27">Week 9. Theorizing beyond the network 网络之外的理论</h3>
+  <p>本周试图深入思考作为可操作化的网络和其所代表的社会结构之间的关系。还将将讨论来自 Emirbayer 的 relationalism 和来自 Healy 的 performativity。 第一篇论文要求我们思考到底什么是relations; 我们可以把它们看作是 things 吗？Healy 提出了一个有趣的例子，网络不再是表征（representations），因为我们正在用网络的形象创造世界。Hogan 和 Wellman 展示了社交网站是如何按照网络的形象建立起来的。recommended 论文再次深入挖掘了这些观点。Abbott 和 Emirbayer 的批判标准回归技术值得关注。Latour 的论文是 Healy 关于网络如何构 nodes 的论文的另一种选择，但仍属于 STS 范畴。 Pachuki 和 Brieger 的论文和 Levi-Martin 的论文都要求我们思考有多少社会结构实际上只是文化的一种表现（manifestation）。</p>
+  <p><strong>E</strong></p>
+  <div class="block-list">
+    <ul>
+      <li>Emirbayer, M. (1997). Manifesto for a relational sociology. <em>American journal of sociology</em>, 103(2), 281-317.</li>
+      <li>Healy, K. (2015). The performativity of networks. <em>European Journal of Sociology/Archives Européennes de Sociologie</em>, 56(2), 175-205.</li>
+      <li>Graham, M., &amp; Dutton, W. H. (Eds.). (2019). <em>Society and the internet: How networks of information and communication are changing our lives</em>. Oxford University Press.        <ul>
+          <li>The relational self-portrait: Selfies meet social networks. Pp 53-66.</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <p><strong>R</strong></p>
+  <div class="block-list">
+    <ul>
+      <li>Abbott, A. (1988). Transcending general linear reality. <em>Sociological theory</em>, 169-186.</li>
+      <li>Latour, B., Jensen, P., Venturini, T., Grauwin, S., &amp; Boullier, D. (2012). ‘The whole is always smaller than its parts’. A digital test of Gabriel Tarde’s monads. <em>The British journal of sociology</em>, 63(4), 590-615.</li>
+      <li>Martin, J. L. (2010). Life's a beach but you’re an ant, and other unwelcome news for the sociology of culture. <em>Poetics</em>, 38(2), 229-244.</li>
+      <li>Pachucki, M. A., &amp; Breiger, R. L. (2010). Cultural holes: Beyond relationality in social networks and culture. <em>Annual review of sociology</em>, 36, 205-224.</li>
+    </ul>
+  </div>
+  <h2 id="toc_28">4. Political and Civil Conflict 政治和国内冲突</h2>
+  <div class="photo">
+    <figure>
+<img src="https://i.typlog.com/sociologist/8428028175_352685.jpg" alt="Untitled 2.019.jpeg" />
+    </figure>
+  </div>
+  <p>本课程将检视社会科学中关于政治与国内冲突的最新研究，介绍冲突类型和性质的变化，行为者的动机，策略性使用暴力，结束暴力及其后果。本课首先研究暴力的政治和公民冲突随时间的变化。其后将侧重于内战，以及族裔在暴力冲突中的作用，招募加入暴力政治组织，反叛团体的组织方式及其对其行为的影响，对平民使用暴力的策略，包括使用自杀式袭击等。本课旨在培养学生了解关于政治和国内冲突的原因和后果以及行为者动机的关键理论的辩论，熟悉一系列不同的案例研究和调查这一专题的比照法所产生的问题，以便为关于暴力政治冲突的高级博士研究做好准备。</p>
+  <div class="block-list">
+    <ul>
+      <li>Kalyvas, Stathis (2006) <em>The Logic of Violence in Civil War</em>. Cambridge University Press</li>
+      <li>Kapuscinski, R. (2007). <em>Another day of life</em>. Vintage.</li>
+      <li>Petersen, Roger D. (2002) <em>Understanding Ethnic Violence: Fear, Hatred, and Resentment in Twentieth Century Eastern Europe</em>. Cambridge: Cambridge University Press</li>
+      <li>Tilly, Charles (2003) <em>The Politics of Collective Violence</em>. Cambridge: Cambridge University Press.</li>
+      <li>Weinstein Jeremy (2006). <em>Inside Rebellion: The Politics of Insurgent Violence</em>. Cambridge: Cambridge University Press.</li>
+    </ul>
+  </div>
+  <h2 id="toc_29">5. Political Sociology 政治社会学*18/19</h2>
+  <div class="photo">
+    <figure>
+<img src="https://i.typlog.com/sociologist/8428028103_043465.jpg" alt="Untitled 2.020.jpeg" />
+    </figure>
+  </div>
+  <p>本课向学生介绍政治社会学的高级研究，为博士研究做准备。本课鼓励学生熟悉和参与当前的研究问题，展开该领域的辩论。因此，阅读材料都是最重要的文本。本课培养学生熟悉实证研究的政治社会学、所使用的技术工具及所得的实证结果，熟练地从理论和经验两方面对该领域的研究进行评论。本课没有核心阅读文本（key text），但提供了了解背景的阅读材料。</p>
+  <div class="block-list">
+    <ul>
+      <li>Clemens, Elizabeth S. (2016) <em>What is Political Sociology?</em> Cambridge: Polity Press. 🈚️</li>
+      <li>Crouch, Colin (1999) <em>Social Change in Western Europe</em>. Oxford: Oxford University Press. 🈚️</li>
+      <li>Dalton, Russell (2014). <em>Citizen Politics: Public Opinion and Political Parties in Advanced Industrial Democracies</em> (6th edition). Washington, DC: Congressional Quarterly Press. 🈚️</li>
+      <li>Dalton, Russell Leighley (2007) <em>The Oxford Handbook of Political Behavior</em>. Oxford: Oxford University Press.</li>
+    </ul>
+  </div>
+  <h2 id="toc_30">6. Social Movements 社会运动</h2>
+  <div class="photo">
+    <figure>
+<img src="https://i.typlog.com/sociologist/8428028097_965576.jpg" alt="Untitled 2.021.jpeg" />
+    </figure>
+  </div>
+  <p>本课介绍有关社会运动和集体抗议的社会学文献，包括理论方法和实证方法。包括作为案例研究的女性解放运动，如何将社会运动和集体抗议概念化，运动与制度化的政治的相关性，运动组织面临着民主代表性的问题，抗议活动随着时间的推移而剧烈波动，如何衡量运动和抗议是否有影响等问题。</p>
+  <div class="block-list">
+    <ul>
+      <li>Tilly, C and S Tarrow. (2015) <em>Contentious Politics</em>, 2nd ed., Oxford: Oxford University Press.</li>
+      <li>Crossley, N. (2002) <em>Making Sense of Social Movements</em>, Buckingham: Open University Press.</li>
+      <li>Opp, K-D. (2009) <em>Theories of Political Protest and Social Movements: A Multidisciplinary Introduction, Critique, and Synthesis</em>, Abingdon: Routledge.</li>
+      <li>Staggenborg, S. (2012) <em>Social Movements</em>, 2nd. ed., Oxford: Oxford University Press. 🈚️</li>
+    </ul>
+  </div>
+  <h2 id="toc_31">7. Social Stratification 社会分层*18/19</h2>
+  <div class="photo">
+    <figure>
+<img src="https://i.typlog.com/sociologist/8428028084_845885.jpg" alt="Untitled 2.022.jpeg" />
+    </figure>
+  </div>
+  <p>本课向学生介绍当代社会分层研究，使其能够应用先进概念和技术自行研究问题。本课探讨当代社会分层和社会流动性的主要争论。例如如何解释近几十年来收入不平等的急速加剧？为什么学历的性别差距消失了？国家之间有多少不平等，全球收入不平等是在增加还是在缩小？社会阶层在现代社会中的重要性是否正在下降？阶层的优势和劣势是如何从父母传给孩子的？从什么意义上说英国是一个精英统治国家？文化不平等如何映射到社会不平等上？以及向学生介绍社会分层研究的核心概念和理论、关键的方法论问题以及主要的实证结果。</p>
+  <div class="block-list">
+    <ul>
+      <li>Arrow, K., S. Bowles and S. Darlauf, eds. (2000) <em>Meritocracy and Economic Inequality</em>, Princeton University Press. 🈚️</li>
+      <li>Bowles, S., H. Ginits and M. Osborne Groves, eds. (2005) <em>Unequal Chances: Family Background and Economic Success</em>, Princeton University Press.</li>
+      <li>Wright, E.O. ed. (2005) <em>Approaches to Class Analysis</em>, Cambridge University Press.</li>
+      <li>Devlin, B. et al. eds. (1997) <em>Intelligence, Genes and Success</em>, Copernicus.</li>
+      <li>Grusky, D.B. ed. (2008) <em>Social Stratification</em>, 3nd ed, Westview Press.</li>
+      <li>Goldthorpe, J.H. (1987) <em>Social Mobility and Class Structure in Modern Britain</em>, 2nd ed, Clarendon Press.        <ul>
+          <li>虽然没有找到这本书，但找到了同名的 Goldthorpe 的 lecture <a href="https://www.youtube.com/watch?v=4sQSnVLjcP4">视频</a> 和论文。</li>
+        </ul>
+      </li>
+      <li>Marshall, G., A. Swift and S. Roberts (1997) <em>Against the Odds?</em> Oxford University Press.</li>
+      <li>Firebaugh, G. (2003) <em>The New Geography of Global Income Inequality</em>, Harvard University Press. 🈚️</li>
+    </ul>
+  </div>
+  <h2 id="toc_32">8. Sociology of China 中国社会学</h2>
+  <div class="photo">
+    <figure>
+<img src="https://i.typlog.com/sociologist/8428028074_722445.jpg" alt="Untitled 2.023.jpeg" />
+    </figure>
+  </div>
+  <p>中国向市场社会的过渡，使其公民的生活发生了巨大的变化。在这个过程中，我们将考虑中国在继续进行改革和融入国际社会时面临的紧迫的社会问题。在整个课程中，我们使用来自中国各个历史时期、地区和社会群体以及其他发展中国家的比较，以丰富我们对社会变革关键层面的分析。我们讨论的问题包括:</p>
+  <div class="block-list">
+    <ul>
+      <li>中国大陆的社会关系有哪些独特之处和普遍之处？</li>
+      <li>中国有公民社会吗？</li>
+      <li>在中国，居住地、人力资本和政治背景哪一个更能决定人生机遇？</li>
+      <li>毛泽东时代以来，妇女的社会地位是有所提高还是有所下降？</li>
+      <li>中国少数民族地区抗议和紧张局势的一些可能性或可能的原因是什么？</li>
+      <li>市场改革以何种方式影响了中国的医疗服务？</li>
+      <li>教育制度和教育不平等的变化如何反映中国更广泛的社会和经济趋势？</li>
+    </ul>
+  </div>
+  <p>我们还将评估中国公民社会的行动者和政策制定者为概念化和处理国家最紧迫的社会问题所采取的不断发展的方法。我们将注意国家和非国家行为者如何相互作用以影响政策干预。我们进一步观察国家行动者如何不断修订其战略，以确保整个国家的力量和稳定，特别是各分群体（sub-groups）的福祉或政治默从。<br />本课将培养学生把中国作为一个发展中社会、一个社会主义晚期社会和一个迅速工业化的社会看待，以及如何从社会学的角度来研究；熟悉当代中国社会变迁的学术研究，为中国社会学的高级研究做好准备。</p>
+  <div class="block-list">
+    <ul>
+      <li>Goodman, D (2014) <em>Class in Contemporary China</em>, Polity Press.</li>
+      <li>Jacka, T, A. Kipnis and S. Sargeson (2013) <em>Contemporary China: Society and Social Change</em>, Cambridge University Press. 🈚️</li>
+      <li>Gries, P.H and S. Rosen, eds. (2004) <em>State and Society in 21st Century China: Crisis, Contention and Legitimation</em>. London: Routledge.</li>
+      <li>Chan, A, R Madsen, and J Unger. (2009). <em>Chen village: Revolution to globalization</em>. Berkeley: Univ. of California Press 🈚️</li>
+      <li>Perry, E.J. and M. Selden, eds. (2003) <em>Chinese Society: Change, Conflict and Resistance</em>, London: Routledge.</li>
+      <li>Gold, T, D Guthrie, and D Wank, eds. (2002). <em>Social connections in China: Institutions, culture, and the changing nature of guanxi</em>. New York: Cambridge Univ. Press</li>
+      <li>Walder, A G. (1986). <em>Communist neo-traditionalism: Work and authority in Chinese industry</em>. Berkeley: Univ. of California Press</li>
+    </ul>
+  </div>
+  <h2 id="toc_33">9. Sociology of Human Rights 人权社会学*18/19</h2>
+  <div class="photo">
+    <figure>
+<img src="https://i.typlog.com/sociologist/8428028066_484913.jpg" alt="Untitled 2.024.jpeg" />
+    </figure>
+  </div>
+  <p>本课程向学生介绍人权社会学的高级研究，并为该领域的博士研究培养学生。关于人权社会学的新文献伴随着人权理论和实践的最近转变，其中一些文献对传统的人权社会学方法提出了挑战，特别是对国家和个人分析的重视，与人权的普遍和集体概念形成了对比。新的研究方法借鉴了更符合世界各地人权理论和实践的社会学领域，如法律社会学、公共社会学、暴力社会学、社会运动、文化、种族、民族、原住民、妇女、LGBT 和身份认同运动、不平等、政治和经济边缘化和社会动员。</p>
+  <p>八周讲座将分为两部分，第一部分是理论与实践，包括 (1)社会学理论与人权，(2)分析人权的社会学方法，(3)解释人权立法，(4)解释人权主张的提出和结果；第二部分是人权的实证分析，包括 (5)公民权利和政治权利（国家侵犯、武装冲突中的侵犯），(6)经济、社会和文化权利（贫穷与人权，商业与人权，原住民与人权，移民与人权，强迫劳动），(7) 性别与 LGBT 权利（仇恨犯罪，女性割礼，性暴力和生殖暴力，作为战争罪的强奸），(八) 环境与人权。</p>
+  <div class="block-list">
+    <ul>
+      <li>M Frezzo, <em>The Sociology of Human Rights</em> 🈚️</li>
+      <li>D Levy, <em>Sovereignty Transformed: The Sociology of Human Rights</em></li>
+      <li>G Sjoberg et al “A Sociology of Human Rights” <em>Social Problems</em></li>
+      <li>M Delflen &amp; S Chicoine, “The Sociological Discourse on Human Rights: Lessons from the Sociology of Law” in <em>Development and Society</em></li>
+      <li>T Vaugn &amp; G Sjoberg, “Human Rights Theory and the Classical Sociological Tradition” in <em>Sociological Theory in Transformation</em> 🈚️</li>
+      <li>TR Young, <em>The Sociology of Human Rights, Humanity, and Society</em></li>
+      <li>Woodiweiss, “Taking the Sociology of Human Rights Seriously” in <em>Interpreting Human Rights</em></li>
+      <li>B Turner, “Outline of a Theory of Human Rights Sociology” in <em>Sociology</em></li>
+      <li>B Turner, “Sociology of Human Rights” in <em>Oxford Handbook of International Human Rights Law</em></li>
+      <li>M Somers &amp; C Roberts, “Toward a New Sociology of Rights,” in <em>Annual Review of Law and Social Sciences</em></li>
+      <li>M Buraway, “Introduction: A Public Sociology for Human Rights,” in <em>Public Sociology Reader</em></li>
+      <li>RW Connel “Sociology and Human Rights” <em>Australian and New Zealand Journal of Sociology</em> 🈚️</li>
+      <li>J Hagan &amp; R Levi, “Justiciability as Field Effect: When Sociology Meets Human Rights” in <em>Sociological Forum</em></li>
+      <li>L Morris “Sociology and Rights: An Emergent Field” in <em>Rights</em></li>
+      <li>R Fine, Towards a Sociology of Human Rights 🈚️</li>
+      <li>P Hynes et al, “Sociology and Human Rights” in <em>International Journal of Human Rights</em></li>
+      <li>K Nash, The Political Sociology of Human Rights</li>
+    </ul>
+  </div>
+  <h2 id="toc_34">10. Sociology of Latin America 拉丁美洲社会</h2>
+  <div class="photo">
+    <figure>
+<img src="https://i.typlog.com/sociologist/8428028048_6891165.jpg" alt="Untitled 2.025.jpeg" />
+    </figure>
+  </div>
+  <p>本课程回顾应用于拉丁美洲的主要社会学概念和理论，以及拉丁美洲学者对社会学领域的贡献。课程包括国家和民族的形成，发展，贫穷和不平等，性别，社会和革命运动，宗教，种族和民族，以及犯罪和暴力。</p>
+  <p>本课没有提供参考文献。</p>
+  <h2 id="toc_35">11. Sociology of Japan 日本社会学</h2>
+  <div class="photo">
+    <figure>
+<img src="https://i.typlog.com/sociologist/8428028011_4467945.jpg" alt="Untitled 2.026.jpeg" />
+    </figure>
+  </div>
+  <p>本课主要目的是从社会学的角度来理解当代日本社会作为一个非西方的高度发达的社会的特征，并探讨日本社会自二战以来的变化。除了希望学生能够了解当代日本社会的特点及其变化，还希望学生能够获得「社会学的想象力」（一种用社会学理论和方法的「从社会学角度」思考的方法） ，以了解包括日本和英国在内的当代（后）工业社会。</p>
+  <p>本课与牛津大学全球与地区研究学院（Oxford School for Global and Area Studies，OSGA）现代日本研究的 MSc 和 MPhil 课程合作。</p>
+  <div class="block-list">
+    <ul>
+      <li>Sugimoto, Y. <em>An introduction to Japanese society</em>, Cambridge, Cambridge University Press, 2003.</li>
+      <li>Kariya, T. <em>Education Reform and Social Class in Japan</em>, Routledge, 2013. 🈚️</li>
+      <li>Brinton, C. M., <em>Lost in Transition</em>, Cambridge University Press, 2010. 🈚️</li>
+      <li>Mouer, R. and Kawanishi, H. <em>A Sociology of Work in Japan</em>, 2005.</li>
+      <li>Schoppa, L. J. <em>Race for the exits: the unraveling of Japan's system of social protection</em>, Ithaca, N.Y. ; London, Cornell University Press, 2006. 🈚️</li>
+      <li>Ishida H. and Slater D eds. <em>Social Class in Contemporary Japan</em>, Routledge, 2010.</li>
+      <li>Yoichi F. and Kushner B. eds. <em>Examining Japan’s lost decades</em>, Routledge, 2015.*</li>
+    </ul>
+  </div>
+  <h2 id="toc_36">12. Sociology of Mafias 黑手党社会学</h2>
+  <div class="photo">
+    <figure>
+<img src="https://i.typlog.com/sociologist/8428027958_795725.jpg" alt="Untitled 2.027.jpeg" />
+    </figure>
+  </div>
+  <p>本课分析在不同时间和背景下出现的五个犯罪组织：西西里黑手党、美国黑手党、俄罗斯黑手党、香港三合会和日本暴力团体。我们探讨了这些案例尽管存在差异，但在多大程度上具有共同的关键特征和特点。我们研究了黑手党组织的起源、结构、组织规范、活动、与恐怖主义的关系、移植和衰落。我们从保护理论的角度来探讨和验证一些命题。</p>
+  <p><strong>课前阅读（选一）</strong></p>
+  <div class="block-list">
+    <ul>
+      <li>Pistone, J.D. and R. Woodley. <em>Donnie Brasco: My Undercover Life in the Mafia</em>, 1988.</li>
+      <li>Arlacchi, P. Men of Dishonor. 1992.</li>
+      <li>Maas, P. <em>Underboss: Sammy the Bull Gravano’s Story of Life in the Mafia</em>, 1997.</li>
+      <li>Escobar, R. Escobar. 2009. 🈚️</li>
+      <li>Leeson, The Invisible Hook. 2009.</li>
+      <li>Poulsen, K. Kingpin. 2011.</li>
+      <li>Glenny, M. Nemesis. 2015.</li>
+    </ul>
+  </div>
+  <p><strong>课前观看</strong></p>
+  <p>电影：《穷街陋巷》《教父 1》《教父 2》《好家伙》《赌城风云》《忠奸人》<br />电视剧：《毒枭》<br />纪录片：《贩毒之地》</p>
+  <p><strong>课程核心阅读</strong></p>
+  <div class="block-list">
+    <ul>
+      <li>Gambetta, D. 1993. The Sicilian Mafia. Harvard University Press.</li>
+      <li>Varese, F. 2017. Mafia Life. Profile and OUP.</li>
+      <li>Some key papers are collected in: Varese, F. (ed.) 2010. <em>Organized Crime. Critical Concepts in Criminology</em>, Routledge, 2010. 🈚️</li>
+    </ul>
+  </div>
+  <h2 id="toc_37">13. Sociology of the Family 学家庭社会学</h2>
+  <div class="photo">
+    <figure>
+<img src="https://i.typlog.com/sociologist/8428027928_873138.jpg" alt="Untitled 2.028.jpeg" />
+    </figure>
+  </div>
+  <p>本课想学生介绍有关家庭的理论和研究，特别强调工业化和后工业化中的婚姻、伴侣关系的形成和离婚。首先考虑结婚、生育和离婚的趋势，以及许多工业化社会中传统的男性养家糊口模式家庭的衰落，还讨论了福利国家政策，及其决定婚姻和生育的趋势、妇女参与劳动力市场的情况以及国内劳动分工。然后讨论家庭社会学中的一些重要话题：伴侣选择，家庭成员之间的关系，以及家庭形式对社会不平等的影响。</p>
+  <div class="block-list">
+    <ul>
+      <li>Bergstrom, T.C. (1997) A survey of theories of the family. In: Rosenzweig, M.R. &amp; O. Stark (Eds). <em>Handbook of Population and Family Economics</em>. Elsevier Science.</li>
+      <li>Cherlin, A. (2009) <em>The marriage-go-round</em>. Alfred Knopf.</li>
+      <li>Esping-Andersen, G. (2009) <em>The Incomplete revolution: Adapting welfare states to women's new roles</em>. 🈚️</li>
+      <li>McLanahan, S. (2004). Diverging destinies: How children are faring under the second demographic transition. <em>Demography</em> 41: 607–27.</li>
+      <li>Raymo, J. M., Park, H., Xie, Y., &amp; Yeung, W. J. J. (2015) Marriage and family in East Asia: Continuity and change. <em>Annual Review of Sociology</em> 41: 471-492.</li>
+      <li>Thomson, E. (2014) Family complexity in Europe. <em>The Annals of the American Academy of Political and Social Science</em> 654:245-58.</li>
+      <li>Zaidi, B. &amp; Morgan, S.P. (2017) The Second Demographic Transition Theory: A Review and Appraisal. <em>Annual Review of Sociology</em> 43: 473-492.</li>
+      <li>Cohen, P. N. (2019). The Coming Divorce Decline. <em>Socius</em> 5:1-6.</li>
+    </ul>
+  </div>
+  <h2 id="toc_38">14. Sociogenomics 社会基因组学</h2>
+  <div class="photo">
+    <figure>
+<img src="https://i.typlog.com/sociologist/8428027880_970113.jpg" alt="Untitled 2.029.jpeg" />
+    </figure>
+  </div>
+  <p>遗传学以有争议的、迅速的和令人兴奋的新方式进入了社会话语和社会科学领域。本课的目的是结合社会科学理论，数据和方法的分子遗传学向学生介绍当代的研究，公共辩论和对遗传学，伦理问题，核心主题和社会基因组学的新兴领域的理解。学生将精通这一高度的科际整合、公共讨论和关于遗传学在社会、科研、医学和政策应用中的作用和激烈的科学辩论。我们将探讨诸如 genetics 和 identity、祖先和种族、性、社会政策以及政府在精准医学和社会政策中采用遗传学的利弊等话题。我们还将涵盖与多样性、潜在歧视、隐私、伦理、商业化、数据使用和误用以及利用遗传数据解决法医悬案有关的主题。学生还将熟悉最近关于教育、生育、性行为、危险行为和成瘾等「社会基因组学」的遗传和社会预测的研究。</p>
+  <div class="blockquote">
+    <blockquote>
+      <p>其实这里有一部分是核心阅读，一部分是其他阅读，但两学年的部分不一样，所以就混在一起了。</p>
+    </blockquote>
+  </div>
+  <div class="block-list">
+    <ul>
+      <li>Belsky, D. W., &amp; Israel, S. (2014). Integrating genetics and social science: genetic risk scores. <em>Biodemography and Social Biology</em>, 60(2), 137–55.</li>
+      <li>Belsky, Daniel W., et al. (2016): The genetics of success: How single- nucleotide polymorphisms associated with educational attainment relate to life-course development. <em>Psychological Science</em> 27.7: 957-972.</li>
+      <li>Cesarini, D., &amp; Visscher, P. M. (2017). Genetics and educational attainment. <em>Npj Science of Learning</em>, 2(1), 4.</li>
+      <li>Courtiol, A., Tropf, F. C., &amp; Mills, M. C. (2016). When genes and environment disagree: Making sense of trends in recent human evolution. <em>Proceedings of the National Academy of Sciences</em>, 113(28), 7693–7695.</li>
+      <li>Conley, D. (2009). The promise and challenges of incorporating genetic data into longitudinal social science surveys and research. <em>Biodemography and Social Biology</em>, 55(2), 238–251.</li>
+      <li>Conley, D., et al. (2015). Is the Effect of Parental Education on Offspring Biased or Moderated by Genotype? <em>Sociological Science</em>, 2, 82–105.</li>
+      <li>Conley, D., &amp; Fletcher, J. (2017). Genome Factor. What the Social Genomics Revolution Reveals about Ourselves, Our History and the Future. Princeton University Press.</li>
+      <li>Domingue, B. W., Fletcher, J., Conley, D., &amp; Boardman, J. D. (2014). Genetic and educational assortative mating among US adults. <em>Proceedings of the National Academy of Sciences</em>, 111(22), 7996–8000.</li>
+      <li>Euesden, Jack, Cathryn M. Lewis, and Paul F. O’Reilly (2014). PRSice: polygenic risk score software. <em>Bioinformatics</em> 31.9: 1466-1468.</li>
+      <li>Harmon, A. (2018). Why White Supremacists are Chugging Milk (and Why Geneticists are Alarmed). <em>The New York Times</em>, Oct. 17, 2018. <a href="https://www.nytimes.com/2018/10/17/us/">https://www.nytimes.com/2018/10/17/us/</a> white-supremacists-science-dna.html</li>
+      <li>Khan, R. &amp; D. Mittelman. (2018). Consumer genomics will change your life, whether you get tested or not, <em>Genome Biology</em>, 19: 120.</li>
+      <li>Mehta, D., Tropf, F. C., et al. (2016). Evidence for Genetic Overlap Between Schizophrenia and Age at First Birth in Women. <em>JAMA Psychiatry</em>, 73(5), 497–505.</li>
+      <li>Mills, M. C., &amp; Tropf, F. C. (2016). The Biodemography of Fertility: A Review and Future Research Frontiers. <em>Kölner Zeitschrift Für Soziologie Und Sozialpsychologie</em>, 55, 397–424.</li>
+      <li>Mills, M.C. (2019). How do genes affect same- sex behaviour? <em>Science</em>, 365: 869-870.</li>
+      <li>Mills, M.C. &amp; F.C. Tropf (2020). Sociology, Genetics and the Coming of Age of Sociogenomics. <em>Annual Review of Sociology</em> (forthcoming, available upon request). 🈚️</li>
+      <li>Mills, M.C. et al. (2020). “Ethical Issues in Genomics Research,” pp. 359-376, <em>An Introduction to Applied Statistical Genetic Analysis</em>. Cambridge, MA: The MIT Press. 🈚️</li>
+      <li>Mills, M.C. &amp; C. Rahal (2019). A scientometric review of genome-wide association studies, <em>Communications Biology</em>, 2: 10.1038/s42003- 018-0261-x.</li>
+      <li>Neale, M. C., &amp; Cardon, L. R. (1992). <em>Methodology for genetic studies of twins and families</em>. Dordrecht, the Netherlands: Kluwer Academic Publishers.</li>
+      <li>Okbay, A., et al. (2016). Genome-wide association study identifies 74 loci associated with educational attainment. <em>Nature</em>, 533(7604), 539– 542.</li>
+      <li>Plomin, R. &amp; S. von Stumm. (2018). The new genetics of intelligence, <em>Nature Review Genetics</em>, 19, 148-159.</li>
+      <li>Rietveld, C. A., et al. (2013). Molecular genetics and subjective well-being. <em>Proceedings of the National Academy of Sciences</em>, 110(24), 9692–9697.</li>
+      <li>Torkamani, N.E et al. (2018). The personal and clinical use of polygenic risk scores. <em>Nature Review Genetics</em>, 19, 582-590.</li>
+      <li>Tropf, F. C., Stulp, G., Barban, N., Visscher, P., Yang, J., Snieder, H., &amp; Mills, M. C. (2015). Human fertility, molecular genetics, and natural selection in modern societies. <em>PloS One</em>, 10(6), e0126821.</li>
+      <li>Tropf, F. C., Barban, N., Mills, M. C., Snieder, H., &amp; Mandemakers, J. J. (2015). Genetic influence on age at first birth of female twins born in the UK, 1919-68. <em>Population Studies</em>, 69(2), 129–145.</li>
+      <li>Tropf, F. C., &amp; Mandemakers, J. J. (2017). Is the Association Between Education and Fertility Postponement Causal? The Role of Family Background Factors. <em>Demography</em>, 54(1), 71–91.</li>
+      <li>Tropf, Felix C., et al (2017). Hidden heritability due to heterogeneity across seven populations. <em>Nature human behaviour</em> 1.10: 757.</li>
+      <li>Zimmer, C. (2018). Genetic intelligence tests are next to worthless. The Atlantic.</li>
+    </ul>
+  </div>
+  <hr />
+  <h1 id="toc_39">后记</h1>
+  <p>我本以为这是个简单的整理工作，没想到还是耗费了我几天的时间精力。在这一过程中，我发现最大的问题是<strong>引用格式</strong>。可以从乱七八糟各不相同的 style 看出，院系并没有做统一化要求，也没有仔细校对，只是简单地将各课程 provider 提供的材料凑在了一起，但这也造成了学生、研究着和其他人的巨大困扰。</p>
+  <p>虽然社会学研究中更为推荐美国社会学协会的 ASA style，但实际上历史更为悠久、影响更为广泛的美国心理学协会的 APA style 在学界的应用更为普遍。的确，大部分课程也采用了这一格式，问题在于应用地过分随意。比如对于「.」这一重要分隔符的忽视，有时直接漏掉，有时用「,」替代。甚至也有掺杂着其他 style 的引用方式，不得不令人怀疑是为了应付要求东瓶西凑起来的 list。我重新整理了一部分，无奈文献太多没有更多的时间和精力将全部内容格式统一。</p>
+  <p>而除了引用格式问题，还存在<strong>标题错误</strong>的低级问题。部分论文和著作，作者已经有了更新的版本，却仍然提供<strong>数十年前的版本</strong>，虽然存在旧版的学术价值更高或更符合本课的主旨的可能，但粗略看了一下也并没有沾上这种极少情况。不论如何，我还是尽我所能找到了大部分论著的文本。</p>
+  <p>这个过程繁琐枯燥，时而令人沮丧，不过强迫自己去了解认知兴趣领域之外的<strong>其他方向</strong>，也带给我不少收获。比如我一直认为社会学同计算机科学等学科研究的交融过少，并未有效提高研究效率，整个学术界发展缓慢停滞。试想一下，一间线上广告公司为了解用户群体特征从而精准投放，竭尽全力地利用机器学习等新技术手段，并在这一过程中不断验证和改善。如此比较，今天的社会学在社会调查和量化研究方面的落后是显而易见的了。遵循数百年前通讯传播落后的限制下的「传统」，除了那几个掌握话语权的学术权威，或者说学术余孽们不愿走出他们的舒适圈，而攻讦所谓新方法和思维，我实在看不出有什么理由限制自己的视野，停止尝试的脚步。研究越深，反思越深；毫无反思的学者，即使拿出再多的成果，也只是混日子的最佳证明。</p>
+  <p>本文对专有名词的翻译基本参照台湾<a href="http://terms.naer.edu.tw">国家教育研究院双语词汇、学术名词暨辞书资讯网</a>，未收录的词汇则采取直接翻译，并标注原文，或者保留原文不予翻译。</p>
+  <p>再现性研究（replication research）这个译名并不满意，可除非保留原文，实在是找不到基本对应的现有的汉语词汇。往往本科阶段导论性的社会学课程，都会让学生留心身边校园内的现象，培养社会学的观察方式。若是我讲一门入门课，倒是愿意从「meta-sociology」的角度让学生跳出来看看我们的教学、研究、学术发表、研究者互动，学术与社会等。<strong>反思社会学</strong>提出来也不少年，可却也没几个学者真的有这样的观念。哪怕是希望推动变革的行动，本身却还是以旧形态展现出来，再现性研究一课的大部分文献都难以取得即为一例。分享文档的行为并非意味着我毫无版权意识，反而是我深知版权对著作者的保护早已变成了学术出版巨擘垄断知识的护身符。今年加利福尼亚大学同 Elsevier 的风波让许多学者意识到了「知识的代价」。即使国内早已展开旨在改善学术封闭的国家项目，可大部分在高校或研究机构的人依然「只知知网」，依赖或镜像，或专供中国的服务，好一片惨象。</p>
+  <p>这两天整理完这二十门课程后，应该会抽时间读一读其中已关注领域的，或是认为应该多了解认知方面的文献。今后也会继续收集整理其他大学、机构的课程材料，观察学术发展动态和方向。</p>
+  <hr />
+  <div class="block-html">
+    <script type="text/javascript">    document.write("<iframe scrolling='no' frameborder='0' sandbox='allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-storage-access-by-user-activation' style='height: 212px; width: 100%;' src='https://button.like.co/in/embed/csshadow/button?referrer="+encodeURIComponent(location.href.split("?")[0].split("#")[0])+"'></iframe>");</script>
+  </div>
+  <hr />
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#The Sociologist 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-05/%E7%BA%A6%E7%BF%B0%E9%9C%8D%E6%99%AE%E9%87%91%E6%96%AF%E5%A4%A7%E5%AD%A6%E9%AB%98%E7%AD%89%E5%9B%BD%E9%99%85%E7%A0%94%E7%A9%B6%E9%99%A2-SAIS-%E4%B8%AD%E5%9B%BD%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83%E5%8E%BB%E5%B9%B4-9-%E6%9C%88%E6%B1%87%E7%BC%96%E5%87%BA%E7%89%88%E4%BA%86-Studying-Ch/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2019-05-25/Hello,-World!-%E7%A4%BE%E4%BC%9A%E5%AD%A6%E4%BA%BA/">最早</a>--</span>
+    
+      <li>
+        <time>2019-12-13</time>
+        <a href="https://nodebe4.github.io/opinion/2019-12-13/A-Very-Short-List-of-Rock'n'Roll-and-Sociology/">
+           A Very Short List of Rock'n'Roll and Sociology 
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-11-19</time>
+        <a href="https://nodebe4.github.io/opinion/2019-11-19/%E9%A6%99%E6%B8%AF-%E7%A6%81%E8%92%99%E9%9D%A2%E8%A7%84%E4%BE%8B-%E9%A3%8E%E6%B3%A2/">
+           香港《禁蒙面规例》风波 
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-08-20</time>
+        <a href="https://nodebe4.github.io/opinion/2019-08-20/2019-%E5%B9%B4-8-%E6%9C%88-21-%E6%97%A5%E5%A4%87%E5%BF%98%E5%BD%95/">
+           2019 年 8 月 21 日备忘录 
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-08-10</time>
+        <a href="https://nodebe4.github.io/opinion/2019-08-10/%E5%9B%BE%E8%A1%A8%E7%9A%84%E8%83%8C%E5%90%8E/">
+           图表的背后 
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2019-10-26/%E7%94%A8%E6%95%B0%E5%AD%A6%E6%9D%A5%E4%BF%9D%E6%8A%A4%E6%B0%91%E4%B8%BB-%E6%90%AC%E8%BF%90%E6%95%B4%E7%90%86%E4%B8%80%E4%BA%9B%E5%85%B3%E4%BA%8Egerrymander%E7%9A%84%E8%AE%A8%E8%AE%BA/">
+            前一篇：用数学来保护民主（搬运整理一些关于gerrymander的讨论）
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2019-10-27/Spinkcat/">
+            後一篇：Spinkcat在2019-10-21~2019-10-27的言论
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2019-10-26/%E7%94%A8%E6%95%B0%E5%AD%A6%E6%9D%A5%E4%BF%9D%E6%8A%A4%E6%B0%91%E4%B8%BB-%E6%90%AC%E8%BF%90%E6%95%B4%E7%90%86%E4%B8%80%E4%BA%9B%E5%85%B3%E4%BA%8Egerrymander%E7%9A%84%E8%AE%A8%E8%AE%BA/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2019-10-27/Spinkcat/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2019-11-19/%E9%A6%99%E6%B8%AF-%E7%A6%81%E8%92%99%E9%9D%A2%E8%A7%84%E4%BE%8B-%E9%A3%8E%E6%B3%A2/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2019-08-20/2019-%E5%B9%B4-8-%E6%9C%88-21-%E6%97%A5%E5%A4%87%E5%BF%98%E5%BD%95/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2019-10-26/%E7%94%A8%E6%95%B0%E5%AD%A6%E6%9D%A5%E4%BF%9D%E6%8A%A4%E6%B0%91%E4%B8%BB-%E6%90%AC%E8%BF%90%E6%95%B4%E7%90%86%E4%B8%80%E4%BA%9B%E5%85%B3%E4%BA%8Egerrymander%E7%9A%84%E8%AE%A8%E8%AE%BA/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2019-10-27/Spinkcat/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<The Sociologist>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2019-11-19/%E9%A6%99%E6%B8%AF-%E7%A6%81%E8%92%99%E9%9D%A2%E8%A7%84%E4%BE%8B-%E9%A3%8E%E6%B3%A2/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<The Sociologist>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2019-08-20/2019-%E5%B9%B4-8-%E6%9C%88-21-%E6%97%A5%E5%A4%87%E5%BF%98%E5%BD%95/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>
