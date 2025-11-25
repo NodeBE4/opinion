@@ -3,15 +3,15 @@ layout: post
 title: "SMU Web3 Week | 第十届网络社会年会（新加坡场）"
 date: 2025-11-25
 author: 网络社会研究所
-from: https://www.caa-ins.org/archives/12917
+from: https://caa-ins.org/archives/12917
 tags: [ 网络社会研究所 ]
 categories: [ 网络社会研究所 ]
 ---
 
-<article class="vce-single post-12917 post type-post status-publish format-standard hentry category-3" id="post-12917">
+<article class="vce-single post-12917 post type-post status-publish format-standard has-post-thumbnail hentry category-3" id="post-12917">
  <header class="entry-header">
   <span class="meta-category">
-   <a class="category-3" href="https://www.caa-ins.org/archives/category/%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a">
+   <a class="category-3" href="https://caa-ins.org/archives/category/%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a">
     网络社会年会
    </a>
   </span>
@@ -210,12 +210,12 @@ categories: [ 网络社会研究所 ]
   </p>
   <hr class="wp-block-separator has-alpha-channel-opacity"/>
   <h2 class="wp-block-heading">
-   会议日程（年会部分部分）
+   会议日程（年会部分）
   </h2>
   <p>
   </p>
   <figure class="wp-block-image size-large">
-   <img alt="" class="wp-image-12918" data-attachment-id="12918" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="1124_(p2)" data-large-file="https://www.caa-ins.org/wp-content/uploads/2025/11/1124_p2-388x1024.png" data-medium-file="https://www.caa-ins.org/wp-content/uploads/2025/11/1124_p2-114x300.png" data-orig-file="https://www.caa-ins.org/wp-content/uploads/2025/11/1124_p2-scaled.png" data-orig-size="971,2560" data-permalink="https://www.caa-ins.org/archives/12917/1124_p2" decoding="async" fetchpriority="high" height="1024" sizes="(max-width: 388px) 100vw, 388px" src="https://www.caa-ins.org/wp-content/uploads/2025/11/1124_p2-388x1024.png" srcset="https://www.caa-ins.org/wp-content/uploads/2025/11/1124_p2-388x1024.png 388w, https://www.caa-ins.org/wp-content/uploads/2025/11/1124_p2-114x300.png 114w, https://www.caa-ins.org/wp-content/uploads/2025/11/1124_p2-768x2025.png 768w, https://www.caa-ins.org/wp-content/uploads/2025/11/1124_p2-582x1536.png 582w, https://www.caa-ins.org/wp-content/uploads/2025/11/1124_p2-777x2048.png 777w, https://www.caa-ins.org/wp-content/uploads/2025/11/1124_p2-810x2136.png 810w, https://www.caa-ins.org/wp-content/uploads/2025/11/1124_p2-1140x3006.png 1140w, https://www.caa-ins.org/wp-content/uploads/2025/11/1124_p2-scaled.png 971w" width="388"/>
+   <img alt="" class="wp-image-12918" data-attachment-id="12918" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="1124_(p2)" data-large-file="https://caa-ins.org/wp-content/uploads/2025/11/1124_p2-388x1024.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/11/1124_p2-114x300.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/11/1124_p2-scaled.png" data-orig-size="971,2560" data-permalink="https://caa-ins.org/archives/12917/1124_p2" decoding="async" fetchpriority="high" height="1024" sizes="(max-width: 388px) 100vw, 388px" src="https://www.caa-ins.org/wp-content/uploads/2025/11/1124_p2-388x1024.png" srcset="https://caa-ins.org/wp-content/uploads/2025/11/1124_p2-388x1024.png 388w, https://caa-ins.org/wp-content/uploads/2025/11/1124_p2-114x300.png 114w, https://caa-ins.org/wp-content/uploads/2025/11/1124_p2-768x2025.png 768w, https://caa-ins.org/wp-content/uploads/2025/11/1124_p2-582x1536.png 582w, https://caa-ins.org/wp-content/uploads/2025/11/1124_p2-777x2048.png 777w, https://caa-ins.org/wp-content/uploads/2025/11/1124_p2-810x2136.png 810w, https://caa-ins.org/wp-content/uploads/2025/11/1124_p2-1140x3006.png 1140w, https://caa-ins.org/wp-content/uploads/2025/11/1124_p2-scaled.png 971w" width="388"/>
   </figure>
   <p>
    <strong>
