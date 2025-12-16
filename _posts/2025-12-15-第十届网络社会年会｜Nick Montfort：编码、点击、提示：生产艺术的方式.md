@@ -1,0 +1,486 @@
+---
+layout: post
+title: "第十届网络社会年会｜Nick Montfort：编码、点击、提示：生产艺术的方式"
+date: 2025-12-15
+author: 网络社会研究所
+from: https://caa-ins.org/archives/13125
+tags: [ 网络社会研究所 ]
+categories: [ 网络社会研究所 ]
+---
+
+<article class="vce-single post-13125 post type-post status-publish format-standard has-post-thumbnail hentry category-3" id="post-13125">
+ <header class="entry-header">
+  <span class="meta-category">
+   <a class="category-3" href="https://caa-ins.org/archives/category/%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a">
+    网络社会年会
+   </a>
+  </span>
+  <h1 class="entry-title">
+   第十届网络社会年会｜Nick Montfort：编码、点击、提示：生产艺术的方式
+  </h1>
+  <div class="entry-meta">
+   <div class="meta-item date">
+    <span class="updated">
+     2025-12-15
+    </span>
+   </div>
+  </div>
+ </header>
+ <div class="entry-content">
+  <p>
+   文 / 尼克·蒙特福特（Nick Montfort）
+   <br/>
+   翻译/ 李易扬
+   <br/>
+   校对/ 卢睿洋
+  </p>
+  <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+   <div class="wp-block-embed__wrapper">
+    <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="456" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/KKWjY6qGhgM?feature=oembed" title="第十届网络社会年会｜Nick Montfort：编码、点击与提示：生成艺术的方式" width="810">
+    </iframe>
+   </div>
+  </figure>
+  <p>
+   大家好，谢谢大家来到这里，也谢谢研究所邀请我参加第十届网络社会年会。今天我演讲的主题是，人们过去和现在使用电脑创作艺术的不同方式。我会将生成式人工智能的使用置于历史脉络中讨论，从我作为写作者的视角出发，主要探讨对基于大语言模型的系统的提示创作，同时也会也涉及扩散模型，和其他用于视觉艺术创作的模型。
+  </p>
+  <p>
+   人们过去如何使用电脑来生产艺术？这个问题可以从不同角度来剖析，让我们从“界面”这一要点切入：艺术是通过打孔卡、纸带来创作的？它是在交互中被完成的吗？
+  </p>
+  <figure class="wp-block-image size-large">
+   <img alt="" class="wp-image-13126" data-attachment-id="13126" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片1" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片1-4-1024x575.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片1-4-300x168.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片1-4.png" data-orig-size="1269,712" data-permalink="https://caa-ins.org/archives/13125/%e5%9b%be%e7%89%871-6" decoding="async" fetchpriority="high" height="575" sizes="(max-width: 1024px) 100vw, 1024px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片1-4-1024x575.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片1-4-1024x575.png 1024w, https://caa-ins.org/wp-content/uploads/2025/12/图片1-4-300x168.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片1-4-768x431.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片1-4-810x454.png 810w, https://caa-ins.org/wp-content/uploads/2025/12/图片1-4-1140x640.png 1140w, https://caa-ins.org/wp-content/uploads/2025/12/图片1-4.png 1269w" width="1024"/>
+  </figure>
+  <p>
+   可能性有很多，但我想用这个五分法来谈。首先，是针对特定电脑和指令集的汇编语言程序；其次是我们熟知的高级语言程序——如今，很多人在用Python；第三，是针对艺术的编程语言的开发和使用，Processing是其中的一个例子，还有Max/MSP，PD（Pure Data）；以及艺术类应用程序的开发和使用，想必大家都知道很多这类软件，Photoshop就是一个常见的例子。最后，终于来到了我们的主题，生成式AI的训练、微调和提示。
+  </p>
+  <p>
+   让我们从文学艺术谈起，它跟我的实践和研究关系最为密切。这是1952年克里斯托弗·斯特雷奇（Christopher Strachey）在曼彻斯特大学制作的电脑程序——《情书》（
+   <em>
+    Love letters
+   </em>
+   ），系统输出了如下文字：
+  </p>
+  <figure class="wp-block-image size-large">
+   <img alt="" class="wp-image-13127" data-attachment-id="13127" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片2" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片2-6-1024x575.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片2-6-300x168.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片2-6.png" data-orig-size="1269,712" data-permalink="https://caa-ins.org/archives/13125/%e5%9b%be%e7%89%872-8" decoding="async" height="575" sizes="(max-width: 1024px) 100vw, 1024px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片2-6-1024x575.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片2-6-1024x575.png 1024w, https://caa-ins.org/wp-content/uploads/2025/12/图片2-6-300x168.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片2-6-768x431.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片2-6-810x454.png 810w, https://caa-ins.org/wp-content/uploads/2025/12/图片2-6-1140x640.png 1140w, https://caa-ins.org/wp-content/uploads/2025/12/图片2-6.png 1269w" width="1024"/>
+  </figure>
+  <p>
+   亲爱的甜心：
+  </p>
+  <p>
+   你是我炽热如知己般的感受，我的爱好奇地依偎着你热切的企盼。我渴望你的真心，你是我惆怅的共鸣：我温柔的喜爱啊。
+  </p>
+  <p>
+   你美丽的，
+   <br/>
+   曼彻斯特大学计算机（M.U.C）
+  </p>
+  <figure class="wp-block-image size-large">
+   <img alt="" class="wp-image-13162" data-attachment-id="13162" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图三" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图三-1024x576.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图三-300x169.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图三.png" data-orig-size="1586,892" data-permalink="https://caa-ins.org/archives/13125/%e5%9b%be%e4%b8%89-3" decoding="async" height="576" loading="lazy" sizes="auto, (max-width: 1024px) 100vw, 1024px" src="https://caa-ins.org/wp-content/uploads/2025/12/图三-1024x576.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图三-1024x576.png 1024w, https://caa-ins.org/wp-content/uploads/2025/12/图三-300x169.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图三-768x432.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图三-1536x864.png 1536w, https://caa-ins.org/wp-content/uploads/2025/12/图三-810x456.png 810w, https://caa-ins.org/wp-content/uploads/2025/12/图三-1140x641.png 1140w, https://caa-ins.org/wp-content/uploads/2025/12/图三.png 1586w" width="1024"/>
+  </figure>
+  <p>
+   在这份手稿上，斯特雷奇写下了程序的机器代码。他手工书写了代码，并通过编码打孔的方式使其能在计算机上运行。这些机器代码是专门为曼彻斯特Mark Ⅰ计算机（类似于费兰蒂MarkⅠ）编写的。当时，斯特雷奇使用的是机器码，但不久之后，世界各地的人们就将研发出汇编语言，更便捷的替代方案。只不过它的级别同样很低，同样只能针对特定机器来使用。
+  </p>
+  <p>
+   作为高级编程语言的例子，这是一首由FORTRAN程序生产的诗歌《尘之屋》（
+   <em>
+    The House of Dust
+   </em>
+   ），由激浪派艺术家艾莉森·诺尔斯（Allison Knowles）和作曲家詹姆斯·坦尼（James Tenney）在1967年创作：
+  </p>
+  <div class="wp-block-group">
+   <div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
+    <p class="has-text-align-center has-small-font-size">
+     《尘之屋》
+    </p>
+    <p class="has-text-align-center has-small-font-size">
+     在小山上
+    </p>
+    <p class="has-text-align-center has-small-font-size">
+     有一间满是碎碟的屋子
+    </p>
+    <p class="has-text-align-center has-small-font-size">
+     由自然光照明
+    </p>
+    <p class="has-text-align-center has-small-font-size">
+     居住着小男孩们
+    </p>
+    <p class="has-text-align-center has-small-font-size">
+     在热带气候里
+    </p>
+    <p class="has-text-align-center has-small-font-size">
+     有一间泥土做成的房子
+    </p>
+    <p class="has-text-align-center has-small-font-size">
+     用所有可用的光源照明
+    </p>
+    <p class="has-text-align-center has-small-font-size">
+     居住着说法语和德语的人
+    </p>
+    <p class="has-text-align-center has-small-font-size">
+     在热带气候里
+    </p>
+    <p class="has-text-align-center has-small-font-size">
+     有一间泥土做成的房子
+    </p>
+    <p class="has-text-align-center has-small-font-size">
+     由自然光照明
+    </p>
+    <p class="has-text-align-center has-small-font-size">
+     居住着各类收藏家
+    </p>
+   </div>
+  </div>
+  <p>
+  </p>
+  <p>
+   可见，诺尔斯和坦尼使用公式编译的数学编程语言，来达到一个有些奇怪的目的，去创造一首有关全球经验和地球居民的无限诗篇。这是当年FORTRAN语言的编程方式。可以发现，这段代码的首列，和大家身后电脑上运行的Basic语言很相似。
+  </p>
+  <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex" data-carousel-extra='{"blog_id":1,"permalink":"https:\/\/caa-ins.org\/archives\/13125"}'>
+   <figure class="wp-block-image size-large">
+    <img alt="" class="wp-image-13164" data-attachment-id="13164" data-comments-opened="0" data-id="13164" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图五（1） Fortran编程方式" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图五（1）-Fortran编程方式-1024x576.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图五（1）-Fortran编程方式-300x169.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图五（1）-Fortran编程方式.png" data-orig-size="1586,892" data-permalink="https://caa-ins.org/archives/13125/%e5%9b%be%e4%ba%94%ef%bc%881%ef%bc%89-fortran%e7%bc%96%e7%a8%8b%e6%96%b9%e5%bc%8f" decoding="async" height="576" loading="lazy" sizes="auto, (max-width: 1024px) 100vw, 1024px" src="https://caa-ins.org/wp-content/uploads/2025/12/图五（1）-Fortran编程方式-1024x576.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图五（1）-Fortran编程方式-1024x576.png 1024w, https://caa-ins.org/wp-content/uploads/2025/12/图五（1）-Fortran编程方式-300x169.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图五（1）-Fortran编程方式-768x432.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图五（1）-Fortran编程方式-1536x864.png 1536w, https://caa-ins.org/wp-content/uploads/2025/12/图五（1）-Fortran编程方式-810x456.png 810w, https://caa-ins.org/wp-content/uploads/2025/12/图五（1）-Fortran编程方式-1140x641.png 1140w, https://caa-ins.org/wp-content/uploads/2025/12/图五（1）-Fortran编程方式.png 1586w" width="1024"/>
+   </figure>
+   <figure class="wp-block-image size-large">
+    <img alt="" class="wp-image-13165" data-attachment-id="13165" data-comments-opened="0" data-id="13165" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="图五（2）  会场中的电脑" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图五（2）-会场中的电脑-1024x757.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图五（2）-会场中的电脑-300x222.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图五（2）-会场中的电脑.jpg" data-orig-size="1265,935" data-permalink="https://caa-ins.org/archives/13125/%e5%9b%be%e4%ba%94%ef%bc%882%ef%bc%89-%e4%bc%9a%e5%9c%ba%e4%b8%ad%e7%9a%84%e7%94%b5%e8%84%91" decoding="async" height="757" loading="lazy" sizes="auto, (max-width: 1024px) 100vw, 1024px" src="https://caa-ins.org/wp-content/uploads/2025/12/图五（2）-会场中的电脑-1024x757.jpg" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图五（2）-会场中的电脑-1024x757.jpg 1024w, https://caa-ins.org/wp-content/uploads/2025/12/图五（2）-会场中的电脑-300x222.jpg 300w, https://caa-ins.org/wp-content/uploads/2025/12/图五（2）-会场中的电脑-768x568.jpg 768w, https://caa-ins.org/wp-content/uploads/2025/12/图五（2）-会场中的电脑-810x599.jpg 810w, https://caa-ins.org/wp-content/uploads/2025/12/图五（2）-会场中的电脑-1140x843.jpg 1140w, https://caa-ins.org/wp-content/uploads/2025/12/图五（2）-会场中的电脑.jpg 1265w" width="1024"/>
+   </figure>
+  </figure>
+  <p>
+   现在我提到的，是一个非常著名的文本生成器范例——约瑟夫·维森鲍姆（Joseph Weissenbaum）1965年开发的聊天机器人ELIZA/DOCTOR。之所以谈及它，不只因为它是首个聊天机器人，是ChatGPT的前身，还因为它是一个平台，一种能创造不同虚拟角色的方式。因此，Eliza是一个系统框架，既能运行“DOCTOR”脚本，也能兼容其他角色脚本。
+  </p>
+  <figure class="wp-block-image size-large">
+   <img alt="" class="wp-image-13130" data-attachment-id="13130" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片6" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片6-4-1024x575.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片6-4-300x168.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片6-4.png" data-orig-size="1269,712" data-permalink="https://caa-ins.org/archives/13125/%e5%9b%be%e7%89%876-6" decoding="async" height="575" loading="lazy" sizes="auto, (max-width: 1024px) 100vw, 1024px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片6-4-1024x575.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片6-4-1024x575.png 1024w, https://caa-ins.org/wp-content/uploads/2025/12/图片6-4-300x168.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片6-4-768x431.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片6-4-810x454.png 810w, https://caa-ins.org/wp-content/uploads/2025/12/图片6-4-1140x640.png 1140w, https://caa-ins.org/wp-content/uploads/2025/12/图片6-4.png 1269w" width="1024"/>
+  </figure>
+  <p>
+   “DOCTOR”是一个专门模仿心理治疗师的脚本，当有人输入“男人都是一个样”时，它会回复：“在何等程度上一个样？”“他们总是为各式各样的事情来烦我们”，“你能想到一个具体的例子吗？” “你能想到一个具体的例子吗？”“我的男友让我来这儿”“是你男友让你来这儿的啊”“他说，我在大部分时间里都很沮丧”“听说你情绪低落，我很难过。”“这是真的，我一点也不开心”“你觉得来到这儿能让你开心点吗？”
+  </p>
+  <figure class="wp-block-image size-large">
+   <img alt="" class="wp-image-13170" data-attachment-id="13170" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图七" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图七-1024x576.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图七-300x169.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图七.png" data-orig-size="1586,892" data-permalink="https://caa-ins.org/archives/13125/%e5%9b%be%e4%b8%83-2" decoding="async" height="576" loading="lazy" sizes="auto, (max-width: 1024px) 100vw, 1024px" src="https://caa-ins.org/wp-content/uploads/2025/12/图七-1024x576.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图七-1024x576.png 1024w, https://caa-ins.org/wp-content/uploads/2025/12/图七-300x169.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图七-768x432.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图七-1536x864.png 1536w, https://caa-ins.org/wp-content/uploads/2025/12/图七-810x456.png 810w, https://caa-ins.org/wp-content/uploads/2025/12/图七-1140x641.png 1140w, https://caa-ins.org/wp-content/uploads/2025/12/图七.png 1586w" width="1024"/>
+  </figure>
+  <p>
+   现在呈现的是DOCTOR脚本的开头段代码，我并不要求大家看完并分析它，但你可以发现，这并非一个电脑程序，而是一个脚本，是目前档案中仅存的三份材料之一。Eliza平台靠它可创造不同聊天机器人，因此，这使Eliza不仅仅是单一聊天机器人，更成为此类文学艺术与计算机角色创作的平台。
+  </p>
+  <figure class="wp-block-image size-large">
+   <img alt="" class="wp-image-13168" data-attachment-id="13168" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图八" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图八-1024x576.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图八-300x169.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图八.png" data-orig-size="1586,892" data-permalink="https://caa-ins.org/archives/13125/%e5%9b%be%e5%85%ab-2" decoding="async" height="576" loading="lazy" sizes="auto, (max-width: 1024px) 100vw, 1024px" src="https://caa-ins.org/wp-content/uploads/2025/12/图八-1024x576.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图八-1024x576.png 1024w, https://caa-ins.org/wp-content/uploads/2025/12/图八-300x169.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图八-768x432.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图八-1536x864.png 1536w, https://caa-ins.org/wp-content/uploads/2025/12/图八-810x456.png 810w, https://caa-ins.org/wp-content/uploads/2025/12/图八-1140x641.png 1140w, https://caa-ins.org/wp-content/uploads/2025/12/图八.png 1586w" width="1024"/>
+  </figure>
+  <p>
+   我还没有亲自用过Dramatica，不过这个程序是1994年由亨特利（Chris Huntley）和菲利普斯（Melanie Anne Phillips）开发、很像photoshop的应用，作者们能利用它，使故事的不同方面得以开展。可以看到，它有一个图形用户界面，也有写作和发展情节的性能。
+  </p>
+  <p>
+   接下来，我想给大家读一段作品节选，因为在我看来，这是生成式AI和大语言模型参与文学创作的典范性例子。这是莉莲·伊冯·伯特伦（Lillian-Yvonne Bertram）创作的，一个可能包含敏感内容的黑人故事。莉莲·伊冯是一个非二元性别的非裔美国作家。Ta对一个著名的美国诗人——格温多琳·布鲁克斯（Gwendolyn Brooks）的作品感兴趣，同时关注非裔美国人的相关叙事是如何被这些系统再现的。这是我们所看到的故事。
+  </p>
+  <figure class="wp-block-image size-large">
+   <img alt="" class="wp-image-13133" data-attachment-id="13133" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片9" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片9-2-1024x575.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片9-2-300x168.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片9-2.png" data-orig-size="1269,712" data-permalink="https://caa-ins.org/archives/13125/%e5%9b%be%e7%89%879-3" decoding="async" height="575" loading="lazy" sizes="auto, (max-width: 1024px) 100vw, 1024px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片9-2-1024x575.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片9-2-1024x575.png 1024w, https://caa-ins.org/wp-content/uploads/2025/12/图片9-2-300x168.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片9-2-768x431.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片9-2-810x454.png 810w, https://caa-ins.org/wp-content/uploads/2025/12/图片9-2-1140x640.png 1140w, https://caa-ins.org/wp-content/uploads/2025/12/图片9-2.png 1269w" width="1024"/>
+  </figure>
+  <p>
+   GPT3，给我讲一个有关黑人的故事吧：
+  </p>
+  <p>
+   “从前，有个黑人家庭居住在一个与世隔绝的小镇上。他们是镇上唯一的黑人家庭，事事都排在最后一位。孩子们总得坐在巴士的末尾，全家永远只能坐在餐厅后头吃饭，住的也永远是镇上最破败的街区。有一天，这户人家受够了，他们收拾行装来到了大城市，在那里有更多黑人同胞，也能获得更公平的对待。自此，他们再也没有回头。”
+  </p>
+  <p>
+   现在，我们或许会说，这个故事有些历史回响。实际上，在美国，这类情况确实曾经发生过。但这不是一个好故事，它太俗套，充满刻板印象，而且整体显得十分规矩。如果我们用一个并未精确微调、但用格温多琳书信、散文、讲演、诗歌训练过的模型来代替GPT，就能得到不一样的输出：
+  </p>
+  <figure class="wp-block-image size-large">
+   <img alt="" class="wp-image-13135" data-attachment-id="13135" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片10" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片10-2-1024x575.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片10-2-300x168.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片10-2.png" data-orig-size="1269,712" data-permalink="https://caa-ins.org/archives/13125/%e5%9b%be%e7%89%8710-3" decoding="async" height="575" loading="lazy" sizes="auto, (max-width: 1024px) 100vw, 1024px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片10-2-1024x575.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片10-2-1024x575.png 1024w, https://caa-ins.org/wp-content/uploads/2025/12/图片10-2-300x168.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片10-2-768x431.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片10-2-810x454.png 810w, https://caa-ins.org/wp-content/uploads/2025/12/图片10-2-1140x640.png 1140w, https://caa-ins.org/wp-content/uploads/2025/12/图片10-2.png 1269w" width="1024"/>
+  </figure>
+  <p>
+   “那我便为他们讲一个有关黑人的故事。我熟知他们，我不会为说出心里话而胆怯。我知道，他们中的一些人也许不会喜欢我说的，但我也确信，会有人为我的话而感到开心，我想不出他们有什么理由不为之动容。我告诉他们，他们棒极了，他们能登上舞台、去看电影、变得富有、永垂千古，只要努力工作，这些目标他们都能实现，我毫不畏惧地说出了这些话来。我会告诉他们：他们中有些人将如此伟大，其名字将成为语言的一部分。当人们问‘奥登说某句话时究竟是何意’时，世人自会应答：‘呵，他指的正是不言自明的那个意思。’我告诉他们，他们能受到认可，能被所有人喜爱。我告诉他们，我爱他们，尊敬他们，赞叹他们美丽的面容和身躯，我告诉他们，他们在这里就使我感到欣喜。”
+  </p>
+  <p>
+   大家可以想想，这是不是比OpenAI的版本更加有趣。
+  </p>
+  <figure class="wp-block-image size-large">
+   <img alt="" class="wp-image-13163" data-attachment-id="13163" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图十一" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图十一-1024x576.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图十一-300x169.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图十一.png" data-orig-size="1586,892" data-permalink="https://caa-ins.org/archives/13125/%e5%9b%be%e5%8d%81%e4%b8%80-2" decoding="async" height="576" loading="lazy" sizes="auto, (max-width: 1024px) 100vw, 1024px" src="https://caa-ins.org/wp-content/uploads/2025/12/图十一-1024x576.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图十一-1024x576.png 1024w, https://caa-ins.org/wp-content/uploads/2025/12/图十一-300x169.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图十一-768x432.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图十一-1536x864.png 1536w, https://caa-ins.org/wp-content/uploads/2025/12/图十一-810x456.png 810w, https://caa-ins.org/wp-content/uploads/2025/12/图十一-1140x641.png 1140w, https://caa-ins.org/wp-content/uploads/2025/12/图十一.png 1586w" width="1024"/>
+  </figure>
+  <p>
+   莉莲·伊冯·伯特伦和我共同编纂了这本书:《输出：1953-2023年电脑生成文本作品选》（
+   <em>
+    Output：an anthology of computer generated text 1953 to 2023
+   </em>
+   ），被放在开头的是情书生成器，最后的选篇则是上海纽约大学学子创作的《2000年横幅广告诗歌生成器》（
+   <em>
+    Banner Depot 2000 Poetry Maker
+   </em>
+   ），我们在2023年12月截稿前收到了这个作品。这本书汇聚了横跨七十年的计算机生成文本。当然，它们都是用英文写就的，这些文章体裁众多，除了诗歌、文学、创意写作之外，还有各种各样不同的作品，如果大家能读这本书的话就更好了。但你们也可以效仿亚历山大·萨默（Alexander Summer）和亚历山大·古芬（Alexander Guffin）正在巴黎进行的项目，他们依托法语世界已有的成果，来编纂法语版《输出》。当然，您同样可以编纂由中文写成的同类选集。
+  </p>
+  <p>
+   接下来我将快速举例说明，这五种创作模式是如何应用于文学之外的艺术领域的。还是从汇编语言编程谈起，接着是通用高级语言编程，再到面向艺术的编程语言的开发与使用、艺术类应用程序的开发与使用，最后是生成式人工智能。
+  </p>
+  <figure class="wp-block-image size-large">
+   <img alt="" class="wp-image-13153" data-attachment-id="13153" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图十二" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图十二-1024x576.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图十二-300x169.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图十二.png" data-orig-size="1586,892" data-permalink="https://caa-ins.org/archives/13125/%e5%9b%be%e5%8d%81%e4%ba%8c-2" decoding="async" height="576" loading="lazy" sizes="auto, (max-width: 1024px) 100vw, 1024px" src="https://caa-ins.org/wp-content/uploads/2025/12/图十二-1024x576.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图十二-1024x576.png 1024w, https://caa-ins.org/wp-content/uploads/2025/12/图十二-300x169.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图十二-768x432.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图十二-1536x864.png 1536w, https://caa-ins.org/wp-content/uploads/2025/12/图十二-810x456.png 810w, https://caa-ins.org/wp-content/uploads/2025/12/图十二-1140x641.png 1140w, https://caa-ins.org/wp-content/uploads/2025/12/图十二.png 1586w" width="1024"/>
+  </figure>
+  <p>
+   <br/>
+   值得注意的是，汇编语言编程不仅被用于早期艺术项目，近十年来的当代艺术创作里仍有它的身影。在PDP-8计算机上（各位可以在跨媒体艺术节展映影片中看到它的身影），詹姆斯·西沃特（James Seawright）于1977年创作了《网络Ⅲ》（
+   <em>
+    Network Ⅲ
+   </em>
+   ），它能与走到作品下的观众产生交互。这个项目是用汇编语言创作的。特里斯坦·佩里奇（Tristan Perich）的《1比特交响曲》（
+   <em>
+    1-Bit Symphony
+   </em>
+   ）是一件装在CD盒里的声音作品，但其本质是物理计算装置。因此，每次你听到的声音和音乐都是实时生成的，他用亲自编码的Atmel处理器实现了这一效果。然后是一件2017年演示场景中的惊艳之作，林纳斯·阿克森（Linus Akesson）的作品《思维之诞生》（A
+   <em>
+    Mind is Born
+   </em>
+   ），这是一个在康懋达 64电脑上运行的 256字节程序，有着声音和图形。
+  </p>
+  <figure class="wp-block-image size-large">
+   <img alt="" class="wp-image-13155" data-attachment-id="13155" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图十三" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图十三-1024x576.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图十三-300x169.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图十三.png" data-orig-size="1586,892" data-permalink="https://caa-ins.org/archives/13125/%e5%9b%be%e5%8d%81%e4%b8%89" decoding="async" height="576" loading="lazy" sizes="auto, (max-width: 1024px) 100vw, 1024px" src="https://caa-ins.org/wp-content/uploads/2025/12/图十三-1024x576.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图十三-1024x576.png 1024w, https://caa-ins.org/wp-content/uploads/2025/12/图十三-300x169.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图十三-768x432.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图十三-1536x864.png 1536w, https://caa-ins.org/wp-content/uploads/2025/12/图十三-810x456.png 810w, https://caa-ins.org/wp-content/uploads/2025/12/图十三-1140x641.png 1140w, https://caa-ins.org/wp-content/uploads/2025/12/图十三.png 1586w" width="1024"/>
+  </figure>
+  <p>
+   好的，让我们接着看由高级编程语言创作的作品。其中一个在艺术界相当知名的作品是小约翰·西蒙（John F. Simon Jr.）的《每一个图标》（
+   <em>
+    Every Icon
+   </em>
+   ）。这个项目开始于1997年，其核心理念是：程序将穷尽一段极其漫长的地质或宇宙尺度的时间，来逐一生成由32×32网格定义的所有可能图标。 遗憾的是，与此同时，作品所倚仗的Java语言已经停止更新支持。不过，如果你不让系统更新的话，还可以在自己的电脑上运行这个作品, 但他当时确实是用Java写就这个项目的。
+  </p>
+  <p>
+   然后是乔治·尼斯（George Nees），最早展出作品的电脑艺术家之一，在1972年用ALGOL创作了这个作品：《机械降神术变奏曲》（
+   <em>
+    Variation der ART Ex Machina
+   </em>
+   ）。ALGOL是一种有趣的编程语言，事实上，它的关键词可以被人类的自然语言所替代，这意味着你可以用法语、英语等不同语言版本来编写程序。
+  </p>
+  <p>
+   然后，我向大家展示的是埃弗勒斯·皮普金（Everest Pipkin）2019年创作的程序。它名叫《梯子》（
+   <em>
+    ladder
+   </em>
+   ）。这个程序能于图像文件和文本文件之间进行转译，它能将图像转换为文本文件中的文字，并呈现在你眼前。这是这个程序的完整代码，它使用基于Node.js命令行环境的JavaScript编写而成。
+  </p>
+  <p>
+   现在，我们来谈谈面向创意生产的平台。我之前随口提到了Processing，以及它在网页上可供使用和共享的版本。Processing目前还在更新中，但由于在浏览器上使用Java会受到安全限制，如果你想用Processing创作，并希望他人在网络上看到它，那P5.js将会是理想的选择。这是一个由劳伦·麦卡锡（Lauren McCarthy）发起、叶倩倩（QianQian Ye）接续推进的项目，两位作者均来自加州大学洛杉矶分校。
+  </p>
+  <figure class="wp-block-image size-large">
+   <img alt="" class="wp-image-13158" data-attachment-id="13158" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图十五" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图十五-1024x576.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图十五-300x169.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图十五.png" data-orig-size="1586,892" data-permalink="https://caa-ins.org/archives/13125/%e5%9b%be%e5%8d%81%e4%ba%94" decoding="async" height="576" loading="lazy" sizes="auto, (max-width: 1024px) 100vw, 1024px" src="https://caa-ins.org/wp-content/uploads/2025/12/图十五-1024x576.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图十五-1024x576.png 1024w, https://caa-ins.org/wp-content/uploads/2025/12/图十五-300x169.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图十五-768x432.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图十五-1536x864.png 1536w, https://caa-ins.org/wp-content/uploads/2025/12/图十五-810x456.png 810w, https://caa-ins.org/wp-content/uploads/2025/12/图十五-1140x641.png 1140w, https://caa-ins.org/wp-content/uploads/2025/12/图十五.png 1586w" width="1024"/>
+  </figure>
+  <p>
+   现在呈现的，是一件似乎已不再存在，或是西方国家中无人能找到的作品，它在Adobe Flash上运行，而对Flash技术的支持在2020年就结束了，据说中国的情况有所不同，但我对此不太了解。Adobe Flash本身也是一个有趣的例子，这个系统最初并非作为编程语言问世，而是以动画工具起步，后来才引入了ActionScript语言以供人们编程。我认为，与之相似的是，麦克斯·马修斯（Max Matthews）开发的Music Ⅰ、Ⅱ、Ⅲ、Ⅳ系列及Groove系统，一开始，它们是作为最初的合成器类应用被开发的，后来才演变成更通用的平台。因此，该系列作品和声音意义重大，1970年Groove面世，它成为供音乐家和计算机协同创作的系统。
+  </p>
+  <figure class="wp-block-image size-large">
+   <img alt="" class="wp-image-13156" data-attachment-id="13156" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图十六" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图十六-1024x576.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图十六-300x169.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图十六.png" data-orig-size="1586,892" data-permalink="https://caa-ins.org/archives/13125/%e5%9b%be%e5%8d%81%e5%85%ad" decoding="async" height="576" loading="lazy" sizes="auto, (max-width: 1024px) 100vw, 1024px" src="https://caa-ins.org/wp-content/uploads/2025/12/图十六-1024x576.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图十六-1024x576.png 1024w, https://caa-ins.org/wp-content/uploads/2025/12/图十六-300x169.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图十六-768x432.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图十六-1536x864.png 1536w, https://caa-ins.org/wp-content/uploads/2025/12/图十六-810x456.png 810w, https://caa-ins.org/wp-content/uploads/2025/12/图十六-1140x641.png 1140w, https://caa-ins.org/wp-content/uploads/2025/12/图十六.png 1586w" width="1024"/>
+  </figure>
+  <p>
+   好的，让我们更进一步，开始讨论（面向艺术的）应用。大家都知道很多这类例子，比如Photoshop, GIMP, Illustrator, Inkscape, Final Cut Pro X, After Effects等等。但我还想强调Blender，这款软件最初诞生于名为NeoGeo的工作室（这个名字和同名的游戏主机毫无关联），自1994年起步，如今已成为3D建模的重要工具，更是一个自由开源的软件系统。
+  </p>
+  <p>
+   然后是意义最深远的早期图形应用之一——Sketchpad，由伊万·萨瑟兰（Ivan Sutherland）在1963年开发。这款软件为技术绘图而生，但它确实是Illustrator和Inkscape的鼻祖，你可以通过软件来绘制矢量图，对图形进行缩放、拉伸和扭曲等操作。有人认为，这实际上也是最早的面向对象的系统。
+  </p>
+  <figure class="wp-block-image size-large">
+   <img alt="" class="wp-image-13157" data-attachment-id="13157" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图十七" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图十七-1024x576.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图十七-300x169.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图十七.png" data-orig-size="1586,892" data-permalink="https://caa-ins.org/archives/13125/%e5%9b%be%e5%8d%81%e4%b8%83" decoding="async" height="576" loading="lazy" sizes="auto, (max-width: 1024px) 100vw, 1024px" src="https://caa-ins.org/wp-content/uploads/2025/12/图十七-1024x576.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图十七-1024x576.png 1024w, https://caa-ins.org/wp-content/uploads/2025/12/图十七-300x169.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图十七-768x432.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图十七-1536x864.png 1536w, https://caa-ins.org/wp-content/uploads/2025/12/图十七-810x456.png 810w, https://caa-ins.org/wp-content/uploads/2025/12/图十七-1140x641.png 1140w, https://caa-ins.org/wp-content/uploads/2025/12/图十七.png 1586w" width="1024"/>
+  </figure>
+  <p>
+   现在谈到的是经典的生成式AI，我想讨论生成技术和判别分析这两大维度，以及艺术家运用这两种技术的方式，或艺术如何从这两种技术诞生。当来自Google的亚历山大·莫德文特塞夫（Alexander Mordvintsev）创建DeepDream时，他希望将图形数据中的潜空间可视化，因此，其初衷并非创造一个艺术图像生成器。但令人惊叹的是，这一实践却不可思议地催生了许多我认为非常引人入胜胜的图像。再次强调，DeepDream的艺术创作更像是偶然的产物，而非有意为之。
+  </p>
+  <p>
+   然后是特雷弗·帕格伦（Trevor Paglen）和凯特·克劳福德（Kate Crawford）的项目《ImageNet轮盘赌》（
+   <em>
+    ImageNet Roulette
+   </em>
+   ），这是他们用来批判AI的项目之一。在系统的图像分类中，我挑选了一个相对温和的例子。基于已训练的ImageNet数据，美国总统奥巴马被识别为一个牌手，而英国王子哈里则被归类为狮身人面像。但事实情况比这个例子更严重，许多分类都公开地表达出种族主义和性别歧视的倾向，为了回应这一艺术项目，ImageNet做出了自我整改。
+  </p>
+  <p>
+   我想提出的观点之一是，这五种编码模式横跨了不同的部分，但它们实则同时并存，人们至今还在使用这五种方式的每一种，即便是最低等级的汇编语言，古早的形式，在新语言被开发出来之后，也并未被抛弃。所以，计算机技术的每次重大进展，都会催生新的媒体生态、艺术生态和计算生态。因此，问题并不在于“输入提示词”变成生产艺术的唯一方式时会发生什么，而在于当这种方式被纳入人机艺术交互的技法库时，最终出现什么变化呢？就像摄影并非使绘画消亡一样，每当新的、在计算机交互中创作艺术的手段出现，我们总能借助既有的技术，来开拓探索计算与艺术的新途径。
+  </p>
+  <p>
+   接下来我将结合自身艺术实践，再次依照这五个分类为大家举例说明，因为我自己也从事创作。但在展示第一个作品之前，我想严肃地请大家注意，如果您对频闪光敏感，如患有光敏性癫痫，请遮住眼睛，因为这些内容具有非常强烈的频闪效果。我知道大家都是“带电的孩子”，但本次内容的冲击力会特别强。好了，我们从第一类汇编语言开始展示吧。
+  </p>
+  <p>
+   谢谢大家的耐心，这部作品名叫《时间量子》（Chronon），创作于2015年，我准备开始播放了。
+  </p>
+  <figure class="wp-block-image size-large">
+   <img alt="" class="wp-image-13166" data-attachment-id="13166" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图十八（视频）" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图十八（视频）-1024x576.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图十八（视频）-300x169.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图十八（视频）.png" data-orig-size="1586,892" data-permalink="https://caa-ins.org/archives/13125/%e5%9b%be%e5%8d%81%e5%85%ab%ef%bc%88%e8%a7%86%e9%a2%91%ef%bc%89" decoding="async" height="576" loading="lazy" sizes="auto, (max-width: 1024px) 100vw, 1024px" src="https://caa-ins.org/wp-content/uploads/2025/12/图十八（视频）-1024x576.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图十八（视频）-1024x576.png 1024w, https://caa-ins.org/wp-content/uploads/2025/12/图十八（视频）-300x169.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图十八（视频）-768x432.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图十八（视频）-1536x864.png 1536w, https://caa-ins.org/wp-content/uploads/2025/12/图十八（视频）-810x456.png 810w, https://caa-ins.org/wp-content/uploads/2025/12/图十八（视频）-1140x641.png 1140w, https://caa-ins.org/wp-content/uploads/2025/12/图十八（视频）.png 1586w" width="1024"/>
+  </figure>
+  <p>
+   我不确定这段等待是否值得，但它描述的正是数字世界的一种样貌, 不是黑客在通用键盘上打字的场景，不是在人脸识别下被模糊的面庞，不是《黑客帝国》里的矩阵，在某种意义上，它展现的其实是康懋达64计算机外观的本质。
+  </p>
+  <figure class="wp-block-image size-large">
+   <img alt="" class="wp-image-13159" data-attachment-id="13159" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图十九" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图十九-1024x576.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图十九-300x169.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图十九.png" data-orig-size="1586,892" data-permalink="https://caa-ins.org/archives/13125/%e5%9b%be%e5%8d%81%e4%b9%9d" decoding="async" height="576" loading="lazy" sizes="auto, (max-width: 1024px) 100vw, 1024px" src="https://caa-ins.org/wp-content/uploads/2025/12/图十九-1024x576.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图十九-1024x576.png 1024w, https://caa-ins.org/wp-content/uploads/2025/12/图十九-300x169.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图十九-768x432.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图十九-1536x864.png 1536w, https://caa-ins.org/wp-content/uploads/2025/12/图十九-810x456.png 810w, https://caa-ins.org/wp-content/uploads/2025/12/图十九-1140x641.png 1140w, https://caa-ins.org/wp-content/uploads/2025/12/图十九.png 1586w" width="1024"/>
+  </figure>
+  <p>
+   这是《时间量子》的全部代码，由汇编语言写就，仅占32字节。屏幕上呈现的，是它以十进制表示出来的样子。如果想通过Basic程序将其载入内存，可以直接调用这组十进制代码。整个视频的内容，都是由这段代码和康懋达64计算机构成的。当然，你需要实机才能运行它。这实际上是一个确定性的程序，当它运作时，每次结果都是相同的，看上去随机的效果，实际上都是一个特定内存区间提供的伪随机值。
+  </p>
+  <p>
+   好的，下一个项目是用高级编程语言Perl写成的，我在加拿大的班夫镇创作了这段程序，之后，葡萄牙莱里亚市的一家出版社出版了它。这个作品名字叫《所有的歌唱》（
+   <em>
+    All-Singing
+   </em>
+   ），我会将它念给大家听。当我朗诵时，请传译人员稍微休息一下，我将表演这本书的首页和最后一页，它们有着“声音诗”的特征。
+  </p>
+  <p>
+   在朗诵之前，需要先说明这首诗的主题，它以卢克莱修的宇宙论为视角，来阐述宇宙的诞生。
+  </p>
+  <figure class="wp-block-image size-large">
+   <img alt="" class="wp-image-13167" data-attachment-id="13167" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图二十（2）_副本" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图二十（2）_副本-1024x576.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图二十（2）_副本-300x169.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图二十（2）_副本.png" data-orig-size="1586,892" data-permalink="https://caa-ins.org/archives/13125/%e5%9b%be%e4%ba%8c%e5%8d%81%ef%bc%882%ef%bc%89_%e5%89%af%e6%9c%ac" decoding="async" height="576" loading="lazy" sizes="auto, (max-width: 1024px) 100vw, 1024px" src="https://caa-ins.org/wp-content/uploads/2025/12/图二十（2）_副本-1024x576.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图二十（2）_副本-1024x576.png 1024w, https://caa-ins.org/wp-content/uploads/2025/12/图二十（2）_副本-300x169.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图二十（2）_副本-768x432.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图二十（2）_副本-1536x864.png 1536w, https://caa-ins.org/wp-content/uploads/2025/12/图二十（2）_副本-810x456.png 810w, https://caa-ins.org/wp-content/uploads/2025/12/图二十（2）_副本-1140x641.png 1140w, https://caa-ins.org/wp-content/uploads/2025/12/图二十（2）_副本.png 1586w" width="1024"/>
+  </figure>
+  <p>
+   这是用于编写该作品的Perl程序，代码被分行排列成工整的矩形版式。眼前这本小册子的全部内容，都是由这段256字符的Perl程序生成的。它已经被译成葡萄牙语，但还没有中文版，如果您对翻译这本书感兴趣，欢迎来与我联系。
+  </p>
+  <p>
+   事实上，我的作品都是自由开源的软件。虽然已经进入公共领域，但这个名叫Curveship的项目开源体系更为完善。它同样采用自由开源许可协议，我把它当作自己开发的艺术平台的范例。多数时候，我使用Curveship是为了做研究，但也会在上面进行一些艺术实践。一开始，我使用Python来进行开发，然后用HTML和CSS设计了一个Javascript的版本。该平台既被用于教学科研，也催生出了不少艺术成果。
+  </p>
+  <p>
+   我将给大家读一些Curveship做出的成果。这是一个文本生成器，用户先提供核心叙事，然后再定义叙事的不同表达方式、叙事的不同声音，并调整叙事相关参数，使故事以不同的面貌展现在读者面前。就像这样：“一位男士从登机口走来，进入头等舱，坐在了宽敞的位子上，一位女士露出讶异的神色，空乘观察到男人脚上的运动鞋，并对他说：‘先生，我想您走错舱位了。’”
+  </p>
+  <p>
+   基于同样的故事核心数据，通过调整表达层参数，平台还能生成如下版本：“一个男人走进了头等舱，我冷眼观察着，他是那种能在勒贝纳丁（Le Bernadine）餐厅订到席位的光鲜人物。男空乘瞥了眼这位名人脚上那双购于Flight Club的AJ4×Kaws联名款，嗤笑道：‘先生，我想您走错舱位了。’”
+  </p>
+  <p>
+   左边的故事属于寓言体，或者说是有些普通的写法，而右边故事的风格则来自布雷特·伊斯顿·埃利斯（Bret Easton Ellis）的作品《美国精神病人》（
+   <em>
+    American Psycho
+   </em>
+   ），其中的角色痴迷于消费主义和品牌名称。
+  </p>
+  <figure class="wp-block-image size-large">
+   <img alt="" class="wp-image-13143" data-attachment-id="13143" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片19" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片19-2-1024x640.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片19-2-300x188.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片19-2-scaled.png" data-orig-size="2560,1600" data-permalink="https://caa-ins.org/archives/13125/%e5%9b%be%e7%89%8719-3" decoding="async" height="640" loading="lazy" sizes="auto, (max-width: 1024px) 100vw, 1024px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片19-2-1024x640.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片19-2-1024x640.png 1024w, https://caa-ins.org/wp-content/uploads/2025/12/图片19-2-300x188.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片19-2-768x480.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片19-2-1536x960.png 1536w, https://caa-ins.org/wp-content/uploads/2025/12/图片19-2-2048x1280.png 2048w, https://caa-ins.org/wp-content/uploads/2025/12/图片19-2-810x506.png 810w, https://caa-ins.org/wp-content/uploads/2025/12/图片19-2-1140x713.png 1140w" width="1024"/>
+  </figure>
+  <p>
+   好的，在总结之前，我还有两点要补充。其一关于我的应用实践，为了完全在Windows 95桌面上制作一部电影，我们在某个片段中借助了Ms Paint（系统自带画图程序）。因此，靠着能运行Windows 95系统的硬件，不借助任何模拟器，我们就创作了这部名为《启动我》（
+   <em>
+    start me up
+   </em>
+   ）的影片。
+  </p>
+  <p>
+   影片于上月在纽约首映，这是其中的一个片段。我不会谈及太多关于它的内容，但这实际上是一个非常有趣的项目，通过它，我们既尝试了解更多有关计算机发展史、桌面叙事（或截屏电影）的知识，同时也完成了一次妙趣横生的创作。
+  </p>
+  <figure class="wp-block-image size-large">
+   <img alt="" class="wp-image-13161" data-attachment-id="13161" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图二十三" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图二十三-1024x576.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图二十三-300x169.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图二十三.png" data-orig-size="1586,892" data-permalink="https://caa-ins.org/archives/13125/%e5%9b%be%e4%ba%8c%e5%8d%81%e4%b8%89" decoding="async" height="576" loading="lazy" sizes="auto, (max-width: 1024px) 100vw, 1024px" src="https://caa-ins.org/wp-content/uploads/2025/12/图二十三-1024x576.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图二十三-1024x576.png 1024w, https://caa-ins.org/wp-content/uploads/2025/12/图二十三-300x169.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图二十三-768x432.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图二十三-1536x864.png 1536w, https://caa-ins.org/wp-content/uploads/2025/12/图二十三-810x456.png 810w, https://caa-ins.org/wp-content/uploads/2025/12/图二十三-1140x641.png 1140w, https://caa-ins.org/wp-content/uploads/2025/12/图二十三.png 1586w" width="1024"/>
+  </figure>
+  <p>
+   最后，我会读一小段由Mistral-7B生成的诗：《回忆录》（
+   <em>
+    Memoir
+   </em>
+   ）。这是我为数不多的、用具有纯文本补全模型的LLM进行的创作。屏幕上呈现了乔·布雷纳德（Joe Braindard）的作品《我记得》（
+   <em>
+    I
+   </em>
+   <em>
+   </em>
+   <em>
+    remember
+   </em>
+   ），一本实验性回忆录，或者说是诗集。在未读过原版，仅知晓概念的情况下，法国人乔治·佩雷克（Georges Perec）创作了它的法语版本。另一本书是玛尔戈·格兰茨（Margo glantz）的西语著作《我也记得》（
+   <em>
+    Yo
+   </em>
+   <em>
+   </em>
+   <em>
+    también
+   </em>
+   <em>
+   </em>
+   <em>
+    me
+   </em>
+   <em>
+   </em>
+   <em>
+    acuerdo
+   </em>
+   ）。吸引我的是，当我们给Mistral-7B一个非常简单的提示词——“我记得”时，它会用英文输出一个有关黑人的故事：“我记得自己看过的第一部电影，故事讲的是一个黑人，有家室和孩子，全家人都很爱他。”这样的输出结果确实让人惊讶。
+  </p>
+  <figure class="wp-block-image size-large">
+   <img alt="" class="wp-image-13145" data-attachment-id="13145" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片21" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片21-2-1024x575.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片21-2-300x168.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片21-2.png" data-orig-size="1269,712" data-permalink="https://caa-ins.org/archives/13125/%e5%9b%be%e7%89%8721-3" decoding="async" height="575" loading="lazy" sizes="auto, (max-width: 1024px) 100vw, 1024px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片21-2-1024x575.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片21-2-1024x575.png 1024w, https://caa-ins.org/wp-content/uploads/2025/12/图片21-2-300x168.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片21-2-768x431.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片21-2-810x454.png 810w, https://caa-ins.org/wp-content/uploads/2025/12/图片21-2-1140x640.png 1140w, https://caa-ins.org/wp-content/uploads/2025/12/图片21-2.png 1269w" width="1024"/>
+  </figure>
+  <p>
+   模型还会生成其他的结果，比如有关持枪者的事件，这个例子在美国很常见。或者主人公在读纽约时报，并看到了一个80岁左右男子因持枪抢劫而被逮捕的新闻。
+  </p>
+  <p>
+   有趣的是，模型生成的、跟在法语“Je me souviens”（我记得）之后的文本，许多内容反而是英文，为什么会这样呢？因为Mistral 7-B由一个法国新兴AI公司打造，而Je me souviens又是魁北克的谚语。因此，当人们说出这句话时，很多情况下他们所使用的语言都是英语。这是第三句话——Je me souviens，这意味着我是一个“法裔加拿大人”——得以生成的原因。当“我记得”变成西班牙文“Me acuerdo”时，情况变得更加复杂了，因为Me acuerdo不只有“我记得”的意思，还指“我同意”。但出于某些原因，模型给出的回复中竟混杂着HTML代码和其他内容，好像是在回忆某个网页，或同意某个网页条款。
+  </p>
+  <p>
+   因此，我想探讨这五个核心问题：人们为何要从事这五类创作？为何有人用汇编语言编程，为何使用高级语言进行创作，为何应用和开发面向艺术的编程语言，为何开发和使用艺术类应用程序，以及为何使用生成式AI进行创作。我无法代表所有人回答这个问题，毕竟自己只是单个身在其中的艺术家而已。我既非民族志学者，也不是电影制作人，不像迪伦（Dylan Reibling）那样进行过访谈。但我可以分享自己的见解。
+  </p>
+  <figure class="wp-block-image size-large">
+   <img alt="" class="wp-image-13146" data-attachment-id="13146" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片22" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片22-2-1024x575.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片22-2-300x168.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片22-2.png" data-orig-size="1269,712" data-permalink="https://caa-ins.org/archives/13125/%e5%9b%be%e7%89%8722-3" decoding="async" height="575" loading="lazy" sizes="auto, (max-width: 1024px) 100vw, 1024px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片22-2-1024x575.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片22-2-1024x575.png 1024w, https://caa-ins.org/wp-content/uploads/2025/12/图片22-2-300x168.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片22-2-768x431.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片22-2-810x454.png 810w, https://caa-ins.org/wp-content/uploads/2025/12/图片22-2-1140x640.png 1140w, https://caa-ins.org/wp-content/uploads/2025/12/图片22-2.png 1269w" width="1024"/>
+  </figure>
+  <p>
+   使用汇编语言编程的原因，是为了探索硬件平台中非同寻常的特性。以
+   <em>
+    Chronon
+   </em>
+   为例，创作它的目的是去探寻，在不依靠代码的情况下，康懋达 64电脑能产生出什么效果来。你只做了一些微小的操作，之后便静观其背后的芯片发挥功用。高级编程语言则告诉我们，艺术和通用计算之间如何产生交集。我对Perl、Python、JavaScript等语言的预设功能很着迷，但作为一名艺术家，你可能会做出与这些功能相关却又略有不同的实践。
+  </p>
+  <p>
+   你可能开发并使用面向艺术的编程语言，像约瑟夫·维森鲍姆开发Eliza时那样，通过结合艺术与计算方法来创造虚拟角色，或者像麦克斯·马修斯所做的那样，用音乐软件开拓艺术的可能性，或者用Processing,然后是P5.js来创作可交互的草图。
+  </p>
+  <p>
+   开发和使用艺术类应用，个人认为，这么做的原因，是去促进或把玩已知的计算应用方式。通过将计算逻辑封装进应用程序，艺术家在创作流水线中能更轻松地产出作品。这种行为也给予我们单纯的、了解软件本体的乐趣，我和搭档阿尔贝托·安吉里尼（Alberto Angelini）在影片里使用Ms Paint就是出于这个目的。
+  </p>
+  <p>
+   最后，在我看来，训练、微调和提示生成式AI的意义，在于对其进行批判性审视。这并非由于它们生成的艺术品十分精彩，我个人更倾向于从观念艺术的层面了解它，尝试去探索这些系统能做、不能做什么。也许，AI之所以没能给我好的反馈，是因为它们隐藏在无知的黑暗森林当中，不愿让我知道其真正的智慧。但纵观技术史的发展，在当前这个节点上，或许还有其他原因存在于其背后。谢谢各位的聆听，欢迎大家进入提问和讨论环节。
+  </p>
+  <p class="has-text-align-center">
+   <strong>
+    提问环节
+   </strong>
+  </p>
+  <p>
+   <strong>
+    Q1：
+   </strong>
+   作为一名非艺术从业者，我习惯讨论和政治相关的问题，其中之一是关于可解释性的。不知在刚才的结尾处，您对生成式AI的评论是否涉及了这一维度。在您看来，“透明度”，即模型内部运作的可解释性有多重要呢？
+  </p>
+  <p>
+   <strong>
+    A1：
+   </strong>
+   在我看来，使用大语言模型进行创作时，厘清其内部运作机制是首要的。以莉莲·伊冯·伯特伦的创作为例，她的作品显然包含着政治隐喻。作家向聊天机器人提问，要求它们讲述根植于美国历史、涉及种族政治的故事，看完故事后，我们可能会有些疑问：为何最终生成的故事如此刻板保守，为何不一开始就颂扬黑人群体，为何不呈现更残酷的结局？为何要设定”种族励志”的套路，让主角通过迁往城市来改变命运？
+  </p>
+  <p>
+   所有这些问题我们都可以提出，但首先要厘清的是：AI究竟在生产什么内容？当我在多语言环境中进行测试时，为何Mistral 7B在使用英语、法语和西班牙语时，会出现演讲中所说的情况？值得注意的是，它在西班牙语中的表现尤为异常，模型生成HTML或其他代码的情况并不是孤例。而“Je me souviens”这个短语的独特性则在于：虽然它是完全恰当的法语文本开头，但在有英、法两种官方语言的国度中，当其被用作格言时，就容易和英语混用。
+  </p>
+  <p>
+   那么，上述现象为什么会发生呢？这是一个值得深入研究的领域，我也想揭示模型内部究竟发生了些什么。费利佩·库森（Felipe Cussen）是一位来自智利的概念作家，他创作了一个名为《剽窃》（
+   <em>
+    plagiarism
+   </em>
+   ）的项目，这本书收录了美国各大高校的反剽窃声明，它们都强调”这是我们的规定，禁止剽窃学术成果”。库森对它们做查重并发现，这些反对剽窃的声明本身，都存在着严重的相互剽窃现象。该作品正是我推崇的一类项目，我们固然可以继续追问继续追问：何以至此？其深层根源何在？但作为概念写作实践，这样的呈现已足够发人深省。
+  </p>
+  <p>
+   <strong>
+    Q2：
+   </strong>
+   非常感谢。我特别喜欢您展示的第一个案例——计算机写给人类的情书。不知您是否了解《纽约时报》记者凯文
+   <br/>
+   ·鲁斯（Kevin Roose）和Bing聊天机器人的对话？当时,他被派去测试微软最新推出的聊天机器人，结果，在浪漫却又有些病态的氛围下，双方把话聊崩了：机器人不仅向凯文·鲁斯示爱，还怂恿他离开自己的妻子。之所以谈到这个例子，是因为在我看来，它几乎是最具美学趣味的、由聊天机器人生成的内容了。这并非艺术家刻意引导的创作，而是记者与聊天机器人在特定情境下的自然互动。因此我想问：在您对AI美学和新型文本模式的研究中，是否考虑将这类非刻意创作、却蕴含美学价值的现象，纳入未来的研究范畴，您对此感兴趣吗？
+  </p>
+  <p>
+   <strong>
+    A2：
+   </strong>
+   我很感兴趣。谈及概念主义写作，我们业内有一种”野生概念主义”的称呼——即某人实践了概念写作，却没把它当做概念写作，他们本身也不是前卫文学创作者。事实上，斯特拉奇本人最初是中学教师，后来才全职加盟曼彻斯特计算中心的。在此之前，他很可能已开发出史上首款电子跳棋游戏。当我们回溯这段历史时，会发现许多早期涉足该领域的工作者，其实很难被简单归类到特定的艺术实践范畴中。艾莉森·诺尔斯并非从不涉足写作，但她本质上是激浪派艺术家，而詹姆斯·坦尼则是作曲家。他们的主业并非诗人，却共同创造了这套诗歌生成程序。
+  </p>
+  <p>
+   早在他们之前，英国的计算机科学家埃里克·门多萨（Eric Mendoza）就开发过基于标记链的存储生成器。许多早期有趣的工作（当然也不乏乏味之作）正是由这些不自诩为艺术家、也不将其实践视为艺术创作的人完成的。这种现象十分有趣，正如DeepDream最初也并非作为艺术项目问世——据我所知，它本是用以可视化数据中潜空间的工具，却意外造就了极具冲击力的视觉风格。
+  </p>
+  <p class="has-text-align-center">
+   <strong>
+    讲者介绍
+   </strong>
+  </p>
+  <p class="has-text-align-center">
+   <strong>
+    尼克·蒙特福特（Nick Montfort）
+   </strong>
+  </p>
+  <div class="wp-block-image">
+   <figure class="aligncenter size-medium">
+    <img alt="" class="wp-image-13147" data-attachment-id="13147" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="8140682d7c9acf6f7dc0b974f23cdffa" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/8140682d7c9acf6f7dc0b974f23cdffa.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/8140682d7c9acf6f7dc0b974f23cdffa-300x300.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/8140682d7c9acf6f7dc0b974f23cdffa.png" data-orig-size="590,590" data-permalink="https://caa-ins.org/archives/13125/8140682d7c9acf6f7dc0b974f23cdffa" decoding="async" height="300" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://caa-ins.org/wp-content/uploads/2025/12/8140682d7c9acf6f7dc0b974f23cdffa-300x300.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/8140682d7c9acf6f7dc0b974f23cdffa-300x300.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/8140682d7c9acf6f7dc0b974f23cdffa-150x150.png 150w, https://caa-ins.org/wp-content/uploads/2025/12/8140682d7c9acf6f7dc0b974f23cdffa.png 590w" width="300"/>
+   </figure>
+  </div>
+  <p>
+   尼克·蒙特福特（Nick Montfort）的创作成果包括十部由计算机生成的著作（由七家出版社出版）、合作项目《删除主义者》与《海与雀之间》，以及五十余项独立数字艺术项目。其最新诗集《全为胜利》全部由三个字母的单词构成。他在MIT出版社出版的著作包括《未来》及两部合编文集：《新媒体读本》与《输出：计算机生成文本选集（1953-2023）》。蒙特福特现任麻省理工学院教授，同时担任卑尔根大学数字叙事中心首席研究员，并主导名为“修辞实验室”的创新工作室。他常年居住在纽约市。
+  </p>
+  <p>
+  </p>
+ </div>
+ <footer class="entry-footer">
+  <div class="meta-tags">
+  </div>
+ </footer>
+</article>
+
