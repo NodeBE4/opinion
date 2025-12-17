@@ -3,7 +3,7 @@ layout: post
 title: "第十届网络社会年会｜Scott Moore、Bogna Konior：机器决策并非最终：质疑“静默的编辑者”"
 date: 2025-12-14
 author: 网络社会研究所
-from: https://caa-ins.org/archives/13111
+from: https://www.caa-ins.org/archives/13111
 tags: [ 网络社会研究所 ]
 categories: [ 网络社会研究所 ]
 ---
@@ -11,7 +11,7 @@ categories: [ 网络社会研究所 ]
 <article class="vce-single post-13111 post type-post status-publish format-standard has-post-thumbnail hentry category-3" id="post-13111">
  <header class="entry-header">
   <span class="meta-category">
-   <a class="category-3" href="https://caa-ins.org/archives/category/%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a">
+   <a class="category-3" href="https://www.caa-ins.org/archives/category/%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a">
     网络社会年会
    </a>
   </span>
@@ -383,7 +383,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image">
    <figure class="aligncenter size-medium">
-    <img alt="" class="wp-image-13112" data-attachment-id="13112" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="IMG_9601" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/IMG_9601.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/IMG_9601-300x300.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/IMG_9601.png" data-orig-size="590,590" data-permalink="https://caa-ins.org/archives/13111/img_9601" decoding="async" fetchpriority="high" height="300" sizes="(max-width: 300px) 100vw, 300px" src="https://caa-ins.org/wp-content/uploads/2025/12/IMG_9601-300x300.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/IMG_9601-300x300.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/IMG_9601-150x150.png 150w, https://caa-ins.org/wp-content/uploads/2025/12/IMG_9601.png 590w" width="300"/>
+    <img alt="" class="wp-image-13112" data-attachment-id="13112" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="IMG_9601" data-large-file="https://www.caa-ins.org/wp-content/uploads/2025/12/IMG_9601.png" data-medium-file="https://www.caa-ins.org/wp-content/uploads/2025/12/IMG_9601-300x300.png" data-orig-file="https://www.caa-ins.org/wp-content/uploads/2025/12/IMG_9601.png" data-orig-size="590,590" data-permalink="https://www.caa-ins.org/archives/13111/img_9601" decoding="async" fetchpriority="high" height="300" sizes="(max-width: 300px) 100vw, 300px" src="https://caa-ins.org/wp-content/uploads/2025/12/IMG_9601-300x300.png" srcset="https://www.caa-ins.org/wp-content/uploads/2025/12/IMG_9601-300x300.png 300w, https://www.caa-ins.org/wp-content/uploads/2025/12/IMG_9601-150x150.png 150w, https://www.caa-ins.org/wp-content/uploads/2025/12/IMG_9601.png 590w" width="300"/>
    </figure>
   </div>
   <p>
@@ -396,7 +396,7 @@ categories: [ 网络社会研究所 ]
   </p>
   <div class="wp-block-image is-style-rounded">
    <figure class="aligncenter size-medium">
-    <img alt="" class="wp-image-13113" data-attachment-id="13113" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="IMG_9602" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/IMG_9602.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/IMG_9602-300x300.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/IMG_9602.jpg" data-orig-size="494,494" data-permalink="https://caa-ins.org/archives/13111/img_9602" decoding="async" height="300" sizes="(max-width: 300px) 100vw, 300px" src="https://caa-ins.org/wp-content/uploads/2025/12/IMG_9602-300x300.jpg" srcset="https://caa-ins.org/wp-content/uploads/2025/12/IMG_9602-300x300.jpg 300w, https://caa-ins.org/wp-content/uploads/2025/12/IMG_9602-150x150.jpg 150w, https://caa-ins.org/wp-content/uploads/2025/12/IMG_9602.jpg 494w" width="300"/>
+    <img alt="" class="wp-image-13113" data-attachment-id="13113" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="IMG_9602" data-large-file="https://www.caa-ins.org/wp-content/uploads/2025/12/IMG_9602.jpg" data-medium-file="https://www.caa-ins.org/wp-content/uploads/2025/12/IMG_9602-300x300.jpg" data-orig-file="https://www.caa-ins.org/wp-content/uploads/2025/12/IMG_9602.jpg" data-orig-size="494,494" data-permalink="https://www.caa-ins.org/archives/13111/img_9602" decoding="async" height="300" sizes="(max-width: 300px) 100vw, 300px" src="https://caa-ins.org/wp-content/uploads/2025/12/IMG_9602-300x300.jpg" srcset="https://www.caa-ins.org/wp-content/uploads/2025/12/IMG_9602-300x300.jpg 300w, https://www.caa-ins.org/wp-content/uploads/2025/12/IMG_9602-150x150.jpg 150w, https://www.caa-ins.org/wp-content/uploads/2025/12/IMG_9602.jpg 494w" width="300"/>
    </figure>
   </div>
   <p>
