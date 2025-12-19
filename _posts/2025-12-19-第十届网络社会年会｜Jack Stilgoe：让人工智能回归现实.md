@@ -1,0 +1,431 @@
+---
+layout: post
+title: "第十届网络社会年会｜Jack Stilgoe：让人工智能回归现实"
+date: 2025-12-19
+author: 网络社会研究所
+from: https://caa-ins.org/archives/13197
+tags: [ 网络社会研究所 ]
+categories: [ 网络社会研究所 ]
+---
+
+<article class="vce-single post-13197 post type-post status-publish format-standard has-post-thumbnail hentry category-3" id="post-13197">
+ <header class="entry-header">
+  <span class="meta-category">
+   <a class="category-3" href="https://caa-ins.org/archives/category/%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a">
+    网络社会年会
+   </a>
+  </span>
+  <h1 class="entry-title">
+   第十届网络社会年会｜Jack Stilgoe：让人工智能回归现实
+  </h1>
+  <div class="entry-meta">
+   <div class="meta-item date">
+    <span class="updated">
+     2025-12-19
+    </span>
+   </div>
+  </div>
+ </header>
+ <div class="entry-content">
+  <p>
+   文 / 杰克·斯蒂尔戈（Jack Stilgoe）
+   <br/>
+   翻译/ 曾梦蕊
+   <br/>
+   校对/ 叶云鹤
+  </p>
+  <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+   <div class="wp-block-embed__wrapper">
+    <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="456" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/eAnTYBLfEkk?feature=oembed" title="第十届网络社会年会｜Jack Stilgoe：让人工智能回归现实" width="810">
+    </iframe>
+   </div>
+  </figure>
+  <p>
+   感谢研究所的邀请，今天真是精彩的一天，我最享受的正是这种让我感到力不从心的跨学科对话，很荣幸成为今天在场“最无趣的人”。我的工作主要与科学家、政策制定者共同探讨如何在新技术的早期阶段做出决策。这是我目前在英国参与的一项大型研究计划，旨在将计算机科学家与各界人才汇集一堂，共同探索创造力的新形式与合作的新模式，期望借此在人工智能及周边领域取得更好的成果。我并非纯粹的AI研究者，我的研究方向是新兴技术，曾参与制定地球工程、纳米技术等相关政策，最近主要研究自动驾驶汽车领域。
+  </p>
+  <p>
+   不过，今天我要探讨的是我们如何尝试将关于人工智能的对话落到实处。许多身处政策圈的同仁都感到，当前相关讨论已逐渐失控且难以理清头绪。我将尝试承接今早几位同行的发言思路，在此基础上展开阐述。我将尽可能把讨论纳入我的工作框架——即“负责任创新”（responsible innovation）这一领域。具体而言，我的研究聚焦于如何将科技创新议题与责任议题相联结。我认为，这些责任议题本质上都具有政治属性。
+  </p>
+  <figure class="wp-block-image size-full">
+   <img alt="" class="wp-image-13199" data-attachment-id="13199" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片1" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片1-5.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片1-5-300x226.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片1-5.png" data-orig-size="956,720" data-permalink="https://caa-ins.org/archives/13197/%e5%9b%be%e7%89%871-7" decoding="async" fetchpriority="high" height="720" sizes="(max-width: 956px) 100vw, 956px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片1-5.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片1-5.png 956w, https://caa-ins.org/wp-content/uploads/2025/12/图片1-5-300x226.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片1-5-768x578.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片1-5-810x610.png 810w" width="956"/>
+  </figure>
+  <p>
+   我将从一种责任表态开始，这种表态本身存在争议。大家可能记得，在ChatGPT发布两个多月后，出现了一封仅有一句话的公开信，声称“降低人工智能带来的灭绝风险应与应对疫情、核战争等社会级风险同样成为全球优先事项”。对于那些希望就人工智能的意义展开民主对话的人而言，一个爆红的聊天机器人与某种可能导致人类灭绝的想象风险之间，存在着巨大且难以弥合的鸿沟。但参与此事的并非一群极端分子，而正是人工智能领域的核心领袖们。这种对技术风险的极端想象引起了我的浓厚兴趣，为此我向英国广播公司提议制作一档广播纪录片，探讨为何人工智能领域的新主宰者们会开始讨论世界末日，为何以世界末日般的视角来看待这种风险。
+  </p>
+  <figure class="wp-block-image size-full">
+   <img alt="" class="wp-image-13198" data-attachment-id="13198" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片2" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片2-7.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片2-7-300x225.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片2-7.png" data-orig-size="961,720" data-permalink="https://caa-ins.org/archives/13197/%e5%9b%be%e7%89%872-9" decoding="async" height="720" sizes="(max-width: 961px) 100vw, 961px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片2-7.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片2-7.png 961w, https://caa-ins.org/wp-content/uploads/2025/12/图片2-7-300x225.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片2-7-768x575.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片2-7-810x607.png 810w" width="961"/>
+  </figure>
+  <p>
+   在录制这部纪录片时，我首先拜访了联名信上的首位签署人杰弗里·辛顿（Geoffrey Hinton）——今天我们已经见过了他的照片。那时他尚未获得诺贝尔奖，因此也更容易约到电台采访。通常，人们拜访辛顿时总想一些技术层面的内容，大概没有谁比他更紧密地与“联结主义”（connectionism）
+   <sup>
+    1
+   </sup>
+   深度神经网络的理论联系在一起，而这套理论深远地影响了当今的人工智能研究。但我更想知道的是，为何这位科学家会以这种方式涉足政治议题？他为什么会有那样的信念？这是个相当敏感而微妙的话题。
+  </p>
+  <p>
+   他告诉我最有启发性的一点，并不是某种关于计算机如何导致“末日危机”的技术解释，而是一种政治洞见。这种洞见透露出他对传统政治的不信任，对民主制度治理能力的不信任。作为一位自称“左翼”的科学家，他认为民主体制无力应对这些重大挑战，也无法解决他视作关键的不平等问题。但辛顿实际上指出，唯有当风险被构想为全局性威胁时，各国政策制定者，也包括国际社会的政策制定者才会真正警醒。这种非极权主义意义上的全局风险认知，将成为凝聚共识的契机。这个观点相当有趣，揭示了“生存风险”（existential risk）这一理念背后隐含的政治立场。
+  </p>
+  <figure class="wp-block-image size-full">
+   <img alt="" class="wp-image-13201" data-attachment-id="13201" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片3" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片3-4.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片3-4-300x225.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片3-4.png" data-orig-size="961,720" data-permalink="https://caa-ins.org/archives/13197/%e5%9b%be%e7%89%873-5" decoding="async" height="720" loading="lazy" sizes="auto, (max-width: 961px) 100vw, 961px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片3-4.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片3-4.png 961w, https://caa-ins.org/wp-content/uploads/2025/12/图片3-4-300x225.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片3-4-768x575.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片3-4-810x607.png 810w" width="961"/>
+  </figure>
+  <p>
+   近期，或许是最极端的倡导者埃利泽·尤德考斯基（Eliezer Yudkowsky）主导了这种风险论述，他的新书已经开始获得相当多的关注。作为政策研究者，我需要强调，我的关切点不在于他们正确与否。若非要表态，我会认为其观点有误，但关键不在于此。关键在于：他们有意地忽视了当下的技术现实，并以此为借口，跳跃式地进入有关“未来”的讨论。他们在该书引言中明确写道，他们对当下我们身边已有的人工智能并不感兴趣；他们感兴趣的是想象中的未来技术。这种立场不仅带有特定的监管含义，也极其有利于那些正在建构人工智能、并希望削弱技术监管的人。
+  </p>
+  <figure class="wp-block-image size-full">
+   <img alt="" class="wp-image-13243" data-attachment-id="13243" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片4" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片4-5.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片4-5-300x226.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片4-5.png" data-orig-size="957,720" data-permalink="https://caa-ins.org/archives/13197/%e5%9b%be%e7%89%874-7" decoding="async" height="720" loading="lazy" sizes="auto, (max-width: 957px) 100vw, 957px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片4-5.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片4-5.png 957w, https://caa-ins.org/wp-content/uploads/2025/12/图片4-5-300x226.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片4-5-768x578.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片4-5-810x609.png 810w" width="957"/>
+  </figure>
+  <p>
+   这样的观念在科学史中并不新鲜。它不仅是某个痴迷“生存风险”的特定群体的主张，更可追溯至计算机科学的源头。就在几周前，我们在伦敦举办了一场会议，纪念我们之前提到过的“图灵测试”诞生七十五周年。1950年《模仿游戏》（The Imitation Game）论文中提出的图灵测试问世一年后，艾伦·图灵在一次演讲中，以极端和“存在论式”的语言，讨论了后来被称为“人工智能控制问题”（the control problem）的议题
+   <sup>
+    2
+   </sup>
+   ，并将其与一部熟悉的科幻作品联系起来——那可能是最早期的此类作品之一，出自塞缪尔·巴特勒（Samuel Butler）之手。
+  </p>
+  <figure class="wp-block-image size-full">
+   <img alt="" class="wp-image-13202" data-attachment-id="13202" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片5" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片5-5.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片5-5-300x225.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片5-5.png" data-orig-size="959,720" data-permalink="https://caa-ins.org/archives/13197/%e5%9b%be%e7%89%875-6" decoding="async" height="720" loading="lazy" sizes="auto, (max-width: 959px) 100vw, 959px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片5-5.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片5-5.png 959w, https://caa-ins.org/wp-content/uploads/2025/12/图片5-5-300x225.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片5-5-768x577.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片5-5-810x608.png 810w" width="959"/>
+  </figure>
+  <p>
+   让我们再度回到ChatGPT发布的时间点。山姆·阿尔特曼（Sam Altman）在 ChatGPT 发布后不久，展开了全球巡回之旅，而他在英国的停留点之一，就是我所在的大学——伦敦大学学院（UCL）。最初令我惊讶的是，阿尔特曼参与的许多此类对话都糟糕透顶，几乎没有人真正追问他为什么要做他正在做的事情。但当你追问“这项技术究竟能带来哪些益处？你所做的一切是为了什么？”时，事态就变得有趣了。他并未停留在比如“聊天机器人可以用来做这个、做那个，现在就能实现这些功能”这种具体阐述，他在这里采取“跳跃式逻辑”，把话题直接推向未来：“我们的终极目标是创造通用人工智能，并解决其安全性问题。”在这场辩论中，“安全”有着非常特定的含义。至于技术的益处是什么，那是之后再讨论的事情。这种态度本质上是拒绝就其技术产品的益处与目的接受问责。
+  </p>
+  <figure class="wp-block-image size-full">
+   <img alt="" class="wp-image-13203" data-attachment-id="13203" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片6" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片6-5.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片6-5-300x225.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片6-5.png" data-orig-size="960,720" data-permalink="https://caa-ins.org/archives/13197/%e5%9b%be%e7%89%876-7" decoding="async" height="720" loading="lazy" sizes="auto, (max-width: 960px) 100vw, 960px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片6-5.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片6-5.png 960w, https://caa-ins.org/wp-content/uploads/2025/12/图片6-5-300x225.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片6-5-768x576.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片6-5-810x608.png 810w" width="960"/>
+  </figure>
+  <p>
+   通用人工智能（AGI）如今已无处不在。我不知道你们当中有没有人注意到——我两天前就在这附近的大楼旁边拍下了这张照片（上图）。AGI已经成为一种关于未来想象的占位符。随着这个术语被广泛使用，科学家及其他各界人士试图为其赋予某种科学上的可信度，而这种努力在很大程度上可以追溯到人工智能研究的早期历史。
+  </p>
+  <figure class="wp-block-image size-full">
+   <img alt="" class="wp-image-13204" data-attachment-id="13204" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片7" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片7-4.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片7-4-300x226.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片7-4.png" data-orig-size="957,720" data-permalink="https://caa-ins.org/archives/13197/%e5%9b%be%e7%89%877-6" decoding="async" height="720" loading="lazy" sizes="auto, (max-width: 957px) 100vw, 957px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片7-4.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片7-4.png 957w, https://caa-ins.org/wp-content/uploads/2025/12/图片7-4-300x226.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片7-4-768x578.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片7-4-810x609.png 810w" width="957"/>
+  </figure>
+  <p>
+   上图这篇论文《通用人工智能的定义》（A Definition of AGI）——我想是昨天刚发表的——在座有些人可能认得其中几位作者，他们并非全都来自产业界，观点也不尽一致。例如，我们能看到像加里·马库斯（Gary Marcus）这样的公开批评者。因此，这篇论文更应被视为一种构建共识的尝试，旨在就“何谓通用人工智能”（AGI）达成某种共识。该论文的真正目标在于，为我们通往那个“或许有一天能被称之为通用人工智能”的未知境地，建立评估基准。至于我为何对此存疑，我稍后会谈到。
+  </p>
+  <figure class="wp-block-image size-full">
+   <img alt="" class="wp-image-13205" data-attachment-id="13205" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片8" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片8-4.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片8-4-300x225.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片8-4.png" data-orig-size="958,720" data-permalink="https://caa-ins.org/archives/13197/%e5%9b%be%e7%89%878-5" decoding="async" height="720" loading="lazy" sizes="auto, (max-width: 958px) 100vw, 958px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片8-4.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片8-4.png 958w, https://caa-ins.org/wp-content/uploads/2025/12/图片8-4-300x225.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片8-4-768x577.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片8-4-810x609.png 810w" width="958"/>
+  </figure>
+  <p>
+   AGI的叙事, 如今几乎已成为“生存风险”问题的孪生主题——在构想反乌托邦式风险的同时，又描绘着与之对应的乌托邦式福祉。我必须说明，我本人并不是计算机科学家，因此我尽量不去判断这些主张在技术上是否可信，而是试图剖析其背后的政治意涵：当我们执着于构建所谓“通用人工智能”的想象时，我们可能忽略了什么？
+  </p>
+  <p>
+   我只是试图表达我对这一叙事的一些直觉式看法。我的观点大致是这样的：这似乎是一种虚假的目的论（false teleology），若追问这些从业者的行为动机，AGI显然并非山姆·阿尔特曼（Sam Altman）的真正目标，更不是当下数以万亿资金涌入该领域的真实动因。从政策制定实践来看，这种叙事将深刻影响我们规划技术治理的思维方式。我已列举具体影响，或许我们可在问答环节继续探讨。AGI叙事最核心的作用之一，在于营造了技术发展的必然性。这种技术决定论的论调，或许最令像我这样的科学技术研究学者感到不安。
+  </p>
+  <figure class="wp-block-image size-full">
+   <img alt="" class="wp-image-13206" data-attachment-id="13206" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片9" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片9-3.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片9-3-300x225.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片9-3.png" data-orig-size="960,720" data-permalink="https://caa-ins.org/archives/13197/%e5%9b%be%e7%89%879-4" decoding="async" height="720" loading="lazy" sizes="auto, (max-width: 960px) 100vw, 960px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片9-3.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片9-3.png 960w, https://caa-ins.org/wp-content/uploads/2025/12/图片9-3-300x225.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片9-3-768x576.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片9-3-810x608.png 810w" width="960"/>
+  </figure>
+  <p>
+   与人工智能领域的许多情况一样，那些最重要的观点早在五十年前就已经被约瑟夫·维森鲍姆（Joseph Weizenbaum）提出了。我们今天其实已经提到过他。他在当时被视为“技术怪人”（technological curmudgeon），但他对自己亲身参与并推动发展的那些技术，都提出了极其重要且深刻的批评
+   <strong>
+    。
+   </strong>
+   正如尼克·蒙特福特（Nick Montfort）刚才在演讲中所提到的那样，维森鲍姆还对技术政治这一更广泛的问题作出了关键性的思考，尤其是关于“技术的必然性”叙事与“人类责任”叙事之间的关系。实际上，这是一种研究人员转移责任的方式。
+  </p>
+  <p>
+   那么，这种“技术必然性”的叙事在现实层面究竟是如何发挥作用的呢？或许明天詹姆斯·斯坦霍夫（James Steinhoff）的发言会深入探讨人工智能的政治经济学。事实上，这个叙事正在变得真实，常以物质化的形式显现出来。从物质层面来看，它具体体现在：人工智能公司自行建造的数据中心，以及它们要求美国政府投入建设。在投资模式中，这一点也变得极为具体。正如我前面提到的，这些投资的规模已达数万亿美元。我们正目睹一种系统的快速出现，这种系统具有“拜占庭式的”（Byzantine）
+   <sup>
+    3
+   </sup>
+   复杂性，以至于如今它们看起来已经呈现出“大而不能倒”的特征。当我们考虑美国人工智能泡沫可能破裂的情形时，需要意识到，这里牵扯着极其庞大的资金利益，而这些资金又以极其复杂的方式交织在一起。
+  </p>
+  <figure class="wp-block-image size-full">
+   <img alt="" class="wp-image-13207" data-attachment-id="13207" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片10" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片10-3.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片10-3-300x225.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片10-3.png" data-orig-size="960,720" data-permalink="https://caa-ins.org/archives/13197/%e5%9b%be%e7%89%8710-4" decoding="async" height="720" loading="lazy" sizes="auto, (max-width: 960px) 100vw, 960px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片10-3.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片10-3.png 960w, https://caa-ins.org/wp-content/uploads/2025/12/图片10-3-300x225.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片10-3-768x576.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片10-3-810x608.png 810w" width="960"/>
+  </figure>
+  <p>
+   我意识到这页幻灯片的标题“Figuring on biggering”几乎没人能看懂。有人知道这个标题的出处吗？如果知道请举手。好吧，没有人知道，看来我得重新考虑一下我的标题命名了。这个标题引用苏斯博士（Dr. Seuss）的《老雷斯的故事》（The Lorax），我认为这是个关于有责任的创新的重要寓言。建议大家把这本书加入阅读清单，标题中的典故正是出自这本书，不过下次我不会再用这个梗了。
+  </p>
+  <figure class="wp-block-image size-full">
+   <img alt="" class="wp-image-13208" data-attachment-id="13208" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片11" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片11-3.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片11-3-300x224.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片11-3.png" data-orig-size="963,720" data-permalink="https://caa-ins.org/archives/13197/%e5%9b%be%e7%89%8711-4" decoding="async" height="720" loading="lazy" sizes="auto, (max-width: 963px) 100vw, 963px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片11-3.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片11-3.png 963w, https://caa-ins.org/wp-content/uploads/2025/12/图片11-3-300x224.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片11-3-768x574.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片11-3-810x606.png 810w" width="963"/>
+  </figure>
+  <p>
+   当前正在发生的现象，似乎比传统的“监管-俘获”（regulatory capture）模式更为深刻。在传统模式中，企业通过渗透治理结构使其为自身利益服务。而现在的情况可能更复杂和关键，即便实际游说手段看似有所不同。这个想法源自一本刚出版的气候政治著作，作者的核心观点是：真正的创新成功不在于“监管-俘获”，而在于俘获公众想象力，即通过控制故事脉络，主导叙事走向，使你构想的未来成为看似必然的结局。当谈到人工智能时，这样的叙事尤为明显，它往往以一种我们可以称之为“AI例外论”（AI exceptionalism）的方式展开：主张人工智能不同于以往所有技术，因此我们从过往技术治理中积累的经验教训均已不再适用。
+  </p>
+  <figure class="wp-block-image size-full">
+   <img alt="" class="wp-image-13209" data-attachment-id="13209" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片12" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片12-3.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片12-3-300x225.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片12-3.png" data-orig-size="958,720" data-permalink="https://caa-ins.org/archives/13197/%e5%9b%be%e7%89%8712-4" decoding="async" height="720" loading="lazy" sizes="auto, (max-width: 958px) 100vw, 958px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片12-3.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片12-3.png 958w, https://caa-ins.org/wp-content/uploads/2025/12/图片12-3-300x225.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片12-3-768x577.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片12-3-810x609.png 810w" width="958"/>
+  </figure>
+  <p>
+   我认为这篇由普林斯顿大学两位计算机科学家撰写的文章——人工智能作为常规技术（AI as Normal Technology），是对那种叙事的一种非常有价值的回应。文章实际上提出了这样一个问题：如果我们摒弃行业极力宣扬的将AI视为一种“通用人工智能”或“超级智能”的模式，转而将AI视为寻常技术来探讨会如何？今天下午我将围绕这个思路展开，借助几位重要思想家的理论，共同探讨“寻常AI”（normal AI ）的意涵，以及如何提升相关讨论质量。
+  </p>
+  <figure class="wp-block-image size-full">
+   <img alt="" class="wp-image-13210" data-attachment-id="13210" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片13" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片13-3.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片13-3-300x225.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片13-3.png" data-orig-size="960,720" data-permalink="https://caa-ins.org/archives/13197/%e5%9b%be%e7%89%8713-4" decoding="async" height="720" loading="lazy" sizes="auto, (max-width: 960px) 100vw, 960px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片13-3.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片13-3.png 960w, https://caa-ins.org/wp-content/uploads/2025/12/图片13-3-300x225.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片13-3-768x576.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片13-3-810x608.png 810w" width="960"/>
+  </figure>
+  <p>
+   上图这位是前不久逝世的布鲁诺·拉图尔（Bruno Latour）——科学与技术研究领域的巨擘，相信许多人可能都读过他的著作。他关于“依附”（attachment）的概念十分精彩。他认为，创新叙事总宣扬要摆脱复杂性的束缚，但创新的现实本质却是相互纠缠。创新者往往不愿意承认这些依附，而事实上技术与社会相互纠缠。我最初接触这些理念，是在研究“自动驾驶汽车”（self-driving vehicles）的过程中。尽管这种技术通常被宣传为“自主交通工具”（autonomous vehicles），实则与其所处的地方环境、具体语境与特定使用需求紧密相连。
+  </p>
+  <figure class="wp-block-image size-full">
+   <img alt="" class="wp-image-13211" data-attachment-id="13211" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片14" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片14-3.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片14-3-300x225.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片14-3.png" data-orig-size="961,720" data-permalink="https://caa-ins.org/archives/13197/%e5%9b%be%e7%89%8714-4" decoding="async" height="720" loading="lazy" sizes="auto, (max-width: 961px) 100vw, 961px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片14-3.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片14-3.png 961w, https://caa-ins.org/wp-content/uploads/2025/12/图片14-3-300x225.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片14-3-768x575.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片14-3-810x607.png 810w" width="961"/>
+  </figure>
+  <p>
+   如果我们将人工智能视为一种“寻常技术”（normal technology），我们会发现它本质上处于未完成状态。AI从业者也会承认，在某种程度上需要靠社会来赋予这项技术意义。一个被投入世界的聊天机器人，其实就像是一场社会实验：没有明确的指令告诉它该做什么、如何造福人类，或者它的风险究竟是什么——除了那些模糊而抽象的设想之外。按照这种叙事，如何善用技术取决于我们自身。这个观点正是科学技术研究领域的经典认知：技术从来都是在社会环境中演进的，而非凭空诞生再交付社会。
+  </p>
+  <p>
+   这也对政策制定者提出了重大挑战：他们必须证明和确保这些技术确实可行有效，并帮助社会辨别AI技术的优劣。我常以新药开发为例：新冠疫苗的研发周期仅仅只有两周，科学家能非常迅速地制出候选疫苗，但后续对其有效性和安全性的验证过程才真正耗费时间与资金。
+  </p>
+  <p>
+   我们常常忘记，医学创新的真正工作，其实发生在临床试验阶段——这本质上是一个社会实验室。制造出疫苗本身只是第一步，远非终点。如今我们也能看到，人工智能领域确实开展了一些“临床试验”，但数量并不多。当你质问那些人工智能的开发者：“AI临床试验在哪里？有没有独立证据证明它真的有效？”时，这往往令他们坐立不安。而这种思想早在1970年代就已被维森鲍姆深刻阐述过了。
+  </p>
+  <figure class="wp-block-image size-full">
+   <img alt="" class="wp-image-13212" data-attachment-id="13212" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片15" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片15-3.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片15-3-300x225.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片15-3.png" data-orig-size="958,720" data-permalink="https://caa-ins.org/archives/13197/%e5%9b%be%e7%89%8715-4" decoding="async" height="720" loading="lazy" sizes="auto, (max-width: 958px) 100vw, 958px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片15-3.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片15-3.png 958w, https://caa-ins.org/wp-content/uploads/2025/12/图片15-3-300x225.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片15-3-768x577.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片15-3-810x609.png 810w" width="958"/>
+  </figure>
+  <p>
+   下面这个例子，是我认为的一种非常典型的“寻常技术”，同时也是一件值得我们思考的技术产物。上图是伦敦科学博物馆的展品，有人认得吗？这是福特T型车（Ford Model T），一款极具象征意义的汽车。它之所以具有标志性，并不是因为它是首款汽车，也不是因为它是最好的，而在于其亲民价格真正让普通大众也能够拥有汽车。在20世纪第一个十年，T型福特也许比任何其他发明都更推动了这项技术向中产家庭普及，它既引发了一系列社会变革，也迫使社会直面一场结构性的转型。
+  </p>
+  <figure class="wp-block-image size-full">
+   <img alt="" class="wp-image-13213" data-attachment-id="13213" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片16" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片16-3.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片16-3-300x225.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片16-3.png" data-orig-size="960,720" data-permalink="https://caa-ins.org/archives/13197/%e5%9b%be%e7%89%8716-4" decoding="async" height="720" loading="lazy" sizes="auto, (max-width: 960px) 100vw, 960px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片16-3.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片16-3.png 960w, https://caa-ins.org/wp-content/uploads/2025/12/图片16-3-300x225.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片16-3-768x576.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片16-3-810x608.png 810w" width="960"/>
+  </figure>
+  <p>
+   请注意上图图表。在福特T型车问世时，我们其实正处于技术扩散曲线中趋于平缓的初始阶段。 你可以看到，在 T 型福特 问世之后，美国的汽车数量在 20 世纪上半叶迅速飙升。曲线中那处明显的下跌是经济大萧条时期。
+  </p>
+  <figure class="wp-block-image size-full">
+   <img alt="" class="wp-image-13214" data-attachment-id="13214" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片17" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片17-3.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片17-3-300x226.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片17-3.png" data-orig-size="957,720" data-permalink="https://caa-ins.org/archives/13197/%e5%9b%be%e7%89%8717-4" decoding="async" height="720" loading="lazy" sizes="auto, (max-width: 957px) 100vw, 957px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片17-3.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片17-3.png 957w, https://caa-ins.org/wp-content/uploads/2025/12/图片17-3-300x226.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片17-3-768x578.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片17-3-810x609.png 810w" width="957"/>
+  </figure>
+  <p>
+   上图展示的是旧金山大地震前的著名早期影像资料，当时城市还尚未遭受严重破坏。图中呈现的是多元混合的道路交通生态，不同的交通方式彼此竞争、共同占据同一空间，以一种混乱甚至可以说令人胆战心惊的方式并存。你也能看到那出现在画面中的新技术——机动车（motor car）。随后美国许多城市出台了一系列政策决策，这些决策彻底重塑了城市格局，优先支持了这种新兴技术。公共交通被大幅削减或优化整合，行人被规训着离开行车道，限定在人行道与斑马线范围内。这个案例也提醒我们，道路在某种程度上始终是共享空间。我常给自动驾驶研发人员播放这段影像，以便提醒他们：尽管他们畅谈着全自动驾驶的未来，但别忘了我们今天在伦敦的街头依然能看到马的身影。
+  </p>
+  <p>
+   那么现在让我们回到二十世纪初的第一个十年里，当时政府成立了一个研究汽车的皇家委员会（Royal Commission），旨在对这种新技术进行风险评估。当时在英国，几乎没有多少人真正使用汽车，但人们普遍认为，这种机器很可能会受到欢迎，并可能带来深远的社会变革。科技政策学者大卫·科林里奇（David Collingridge）曾幽默地引用这个案例：1908年该委员会发布最终报告时（恰逢T型车投产前夜），当时最聪明的一批专家指出汽车存在一项重大风险——扬尘问题。这竟是那群被委托做风险评估的专家所认定的“主要问题”。这种认知的局限性，本质上源于未能洞察技术物与其他领域的内在依附关系及其可能引发的变革深度。
+  </p>
+  <figure class="wp-block-image size-full">
+   <img alt="" class="wp-image-13215" data-attachment-id="13215" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片18" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片18-3.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片18-3-300x225.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片18-3.png" data-orig-size="960,720" data-permalink="https://caa-ins.org/archives/13197/%e5%9b%be%e7%89%8718-4" decoding="async" height="720" loading="lazy" sizes="auto, (max-width: 960px) 100vw, 960px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片18-3.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片18-3.png 960w, https://caa-ins.org/wp-content/uploads/2025/12/图片18-3-300x225.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片18-3-768x576.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片18-3-810x608.png 810w" width="960"/>
+  </figure>
+  <p>
+   有些人或许认得上面这张图，这是我昨天在展览上拍的，揭示了汽车最明显、对未来社会影响最深远的依附对象或许就是道路。正是道路支撑了汽车功能的实现，催生了其效益，同时也彻底重塑了人们的生活方式、谋生手段，乃至城市规划与建筑空间的形态。正是道路让我们有机会去想象其他的可能性。我们可以重新想象这些事物的设计标准。
+  </p>
+  <figure class="wp-block-image size-full">
+   <img alt="" class="wp-image-13216" data-attachment-id="13216" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片19" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片19-3.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片19-3-287x300.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片19-3.png" data-orig-size="897,938" data-permalink="https://caa-ins.org/archives/13197/%e5%9b%be%e7%89%8719-4" decoding="async" height="938" loading="lazy" sizes="auto, (max-width: 897px) 100vw, 897px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片19-3.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片19-3.png 897w, https://caa-ins.org/wp-content/uploads/2025/12/图片19-3-287x300.png 287w, https://caa-ins.org/wp-content/uploads/2025/12/图片19-3-768x803.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片19-3-810x847.png 810w" width="897"/>
+  </figure>
+  <p>
+   这里展示的是伦敦的两条道路（上图）。上方是我大学附近的尤斯顿路（Euston Road），它是一个典型的例子，体现了我们所谓的“安全空间”（safe space）理念：公交车、自行车与行人被严格分隔开来，每个人都被要求待在自己的车道上。这就是我们所谓的安全方式，也是汽车能够快速行驶的方式。而下图则是“共享空间”（shared space）的实验性设计。有些人可能知道，这一理念起源于荷兰，至今仍然争议不断。在这个案例中，不同交通方式的界限被刻意模糊化。我展示两者并非要评判优劣，而是想说明，我们在组织不同交通方式时，其实存在着多种可能的安排方式，我们可以有不同的安全观念，也可以有不同的受益逻辑。
+  </p>
+  <figure class="wp-block-image size-full">
+   <img alt="" class="wp-image-13217" data-attachment-id="13217" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片20" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片20-4.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片20-4-300x225.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片20-4.png" data-orig-size="958,720" data-permalink="https://caa-ins.org/archives/13197/%e5%9b%be%e7%89%8720-5" decoding="async" height="720" loading="lazy" sizes="auto, (max-width: 958px) 100vw, 958px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片20-4.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片20-4.png 958w, https://caa-ins.org/wp-content/uploads/2025/12/图片20-4-300x225.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片20-4-768x577.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片20-4-810x609.png 810w" width="958"/>
+  </figure>
+  <p>
+   汽车作为一种“寻常技术”在过去百余年的发展历程，正是人类不断认知其复杂关联性与风险的过程。最显而易见和最常被自动驾驶汽车支持者提及的风险，正是灾难性的生命健康风险。一项每年导致超百万人死亡的技术本应被视为灾难，但多数社会仍认定其收益足够重大。而且除了美国之外，我们始终在持续降低机动车风险。世界上大多数富裕国家的道路交通整体日趋安全，唯独美国的情况令人沮丧。
+  </p>
+  <figure class="wp-block-image size-full">
+   <img alt="" class="wp-image-13218" data-attachment-id="13218" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片21" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片21-3.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片21-3-300x225.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片21-3.png" data-orig-size="958,720" data-permalink="https://caa-ins.org/archives/13197/%e5%9b%be%e7%89%8721-4" decoding="async" height="720" loading="lazy" sizes="auto, (max-width: 958px) 100vw, 958px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片21-3.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片21-3.png 958w, https://caa-ins.org/wp-content/uploads/2025/12/图片21-3-300x225.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片21-3-768x577.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片21-3-810x609.png 810w" width="958"/>
+  </figure>
+  <p>
+   回到人工智能领域，我们或许可以思考，在一种常态视角下，我们所想象的风险究竟是什么。谷歌伦敦AI实验室DeepMind研究人员发表的这篇论文——生成式人工智能系统带来的风险（Risks from Generative AI Systems），探讨了“社会-技术风险”，我认为这才是AI领域真实存在的风险。在论文中你可以看到，他们提出了一系列非常有意思的假想风险模型，涵盖了多个类别：既有技术应用的下游影响，也包括AI构建过程中的上游问题——例如数据来源合法性、模型训练与推理的能耗等。这些维度恰为我们提供了真正参与治理的切入点。
+  </p>
+  <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex" data-carousel-extra='{"blog_id":1,"permalink":"https:\/\/caa-ins.org\/archives\/13197"}'>
+   <figure class="wp-block-image size-large">
+    <img alt="" class="wp-image-13219" data-attachment-id="13219" data-comments-opened="0" data-id="13219" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片22" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片22-3.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片22-3-300x224.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片22-3.png" data-orig-size="963,720" data-permalink="https://caa-ins.org/archives/13197/%e5%9b%be%e7%89%8722-4" decoding="async" height="720" loading="lazy" sizes="auto, (max-width: 963px) 100vw, 963px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片22-3.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片22-3.png 963w, https://caa-ins.org/wp-content/uploads/2025/12/图片22-3-300x224.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片22-3-768x574.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片22-3-810x606.png 810w" width="963"/>
+   </figure>
+   <figure class="wp-block-image size-large">
+    <img alt="" class="wp-image-13220" data-attachment-id="13220" data-comments-opened="0" data-id="13220" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片23" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片23-2.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片23-2-300x225.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片23-2.png" data-orig-size="958,720" data-permalink="https://caa-ins.org/archives/13197/%e5%9b%be%e7%89%8723-3" decoding="async" height="720" loading="lazy" sizes="auto, (max-width: 958px) 100vw, 958px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片23-2.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片23-2.png 958w, https://caa-ins.org/wp-content/uploads/2025/12/图片23-2-300x225.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片23-2-768x577.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片23-2-810x609.png 810w" width="958"/>
+   </figure>
+  </figure>
+  <p>
+   虽然在这里不展开讨论卡玛拉·哈里斯（Kamala Harris），但她提到过一个很重要的现象。去年英国年度词汇“脑腐”（brain rot）已被新词“残渣”（slop）取代——这个术语特指AI生成的垃圾内容。该词汇隐含着一系列假设：草率粗糙、来源模糊、水印问题、基本事实缺失。这段视频各位可能记得，它曾被唐纳德·特朗普广泛转发。
+  </p>
+  <p>
+   就在最近几周，随着OpenAI发布最新版本的生成系统，这类AI生成视频正在大规模扩散。对许多人来说，这就是生成式AI带来的最直接的现实，而要准确弄清其中存在哪些风险并不容易。我们不应重蹈早期汽车专家的覆辙，断言这项技术一定会破坏选举。或许我们可以相当有把握地说，这是值得关注、值得警惕的事情。但除此之外，我们并不知道更多。只能说，现实世界里已经出现了数以百万计的这类例子，并且已经进入了人们的日常经验之中。
+  </p>
+  <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex" data-carousel-extra='{"blog_id":1,"permalink":"https:\/\/caa-ins.org\/archives\/13197"}'>
+   <figure class="wp-block-image size-large">
+    <img alt="" class="wp-image-13221" data-attachment-id="13221" data-comments-opened="0" data-id="13221" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片24" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片24-2.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片24-2-300x225.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片24-2.png" data-orig-size="959,720" data-permalink="https://caa-ins.org/archives/13197/%e5%9b%be%e7%89%8724-3" decoding="async" height="720" loading="lazy" sizes="auto, (max-width: 959px) 100vw, 959px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片24-2.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片24-2.png 959w, https://caa-ins.org/wp-content/uploads/2025/12/图片24-2-300x225.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片24-2-768x577.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片24-2-810x608.png 810w" width="959"/>
+   </figure>
+   <figure class="wp-block-image size-large">
+    <img alt="" class="wp-image-13222" data-attachment-id="13222" data-comments-opened="0" data-id="13222" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片25" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片25-2.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片25-2-300x225.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片25-2.png" data-orig-size="961,720" data-permalink="https://caa-ins.org/archives/13197/%e5%9b%be%e7%89%8725-3" decoding="async" height="720" loading="lazy" sizes="auto, (max-width: 961px) 100vw, 961px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片25-2.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片25-2.png 961w, https://caa-ins.org/wp-content/uploads/2025/12/图片25-2-300x225.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片25-2-768x575.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片25-2-810x607.png 810w" width="961"/>
+   </figure>
+  </figure>
+  <p>
+   我的重点工作之一就是洞察公众对新技术的真实态度，同时深入研究专家的想法，特别是专家对公众认知的预判。我想展示我们团队最近做的一些调查数据。首项公众调查数据显示，人们对人工智能监管抱有强烈期待。我认为政府亟需认识到：公众强烈要求对这些技术实施监管，且期待建立独立监管机制。我的团队将这些公众认知反馈给AI研究人员时，我们以相同问题调研了AI研究者，这可能是迄今规模最大的AI研究者问卷调查。
+  </p>
+  <figure class="wp-block-image size-full">
+   <img alt="" class="wp-image-13224" data-attachment-id="13224" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片26" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片26-3.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片26-3-300x194.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片26-3.png" data-orig-size="896,578" data-permalink="https://caa-ins.org/archives/13197/%e5%9b%be%e7%89%8726-4" decoding="async" height="578" loading="lazy" sizes="auto, (max-width: 896px) 100vw, 896px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片26-3.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片26-3.png 896w, https://caa-ins.org/wp-content/uploads/2025/12/图片26-3-300x194.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片26-3-768x495.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片26-3-810x523.png 810w" width="896"/>
+  </figure>
+  <p>
+   正如你们所看到的，我们获得了相当大规模的样本。对我这样一名社会科学研究者来说，平时的研究样本大约只有 50 人左右，而且大多数研究都是质性研究。这次收获4000份有效问卷令我格外兴奋。我们的样本很好地覆盖了全球主要AI研究区域，具有良好的代表性。
+  </p>
+  <figure class="wp-block-image size-full">
+   <img alt="" class="wp-image-13226" data-attachment-id="13226" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片27" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片27-4.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片27-4-300x192.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片27-4.png" data-orig-size="908,580" data-permalink="https://caa-ins.org/archives/13197/%e5%9b%be%e7%89%8727-5" decoding="async" height="580" loading="lazy" sizes="auto, (max-width: 908px) 100vw, 908px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片27-4.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片27-4.png 908w, https://caa-ins.org/wp-content/uploads/2025/12/图片27-4-300x192.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片27-4-768x491.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片27-4-810x517.png 810w" width="908"/>
+  </figure>
+  <p>
+   有些发现不出我们所料，当被问及“AI风险是否大于收益”时，大多数AI研究者选择上图绿色部分所示的“风险大于收益”，尽管也存在相当比例的摇摆态度，即图中的蓝色部分。
+  </p>
+  <figure class="wp-block-image size-full">
+   <img alt="" class="wp-image-13227" data-attachment-id="13227" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片28" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片28-2.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片28-2-300x185.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片28-2.png" data-orig-size="932,574" data-permalink="https://caa-ins.org/archives/13197/%e5%9b%be%e7%89%8728-3" decoding="async" height="574" loading="lazy" sizes="auto, (max-width: 932px) 100vw, 932px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片28-2.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片28-2.png 932w, https://caa-ins.org/wp-content/uploads/2025/12/图片28-2-300x185.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片28-2-768x473.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片28-2-810x499.png 810w" width="932"/>
+  </figure>
+  <p>
+   我们还将这一结果与一项关注人们对人工智能潜在收益想象的公众调查进行了对比，结果非常有趣，公众与研究者之间存在着显著分歧。抱歉这里遗漏了个信息：上图中，浅绿色代表公众，深绿色是AI研究者。公众对收益的预期更为模糊，而AI研究者则更为笃定，且双方对收益的排序也截然不同。例如，普通公众更倾向于想到一些具体、生活化的益处，例如购物更方便；而研究者则对学习和教育的前景更加兴奋。
+  </p>
+  <figure class="wp-block-image size-full">
+   <img alt="" class="wp-image-13228" data-attachment-id="13228" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片29" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片29-2.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片29-2-300x186.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片29-2.png" data-orig-size="932,577" data-permalink="https://caa-ins.org/archives/13197/%e5%9b%be%e7%89%8729-3" decoding="async" height="577" loading="lazy" sizes="auto, (max-width: 932px) 100vw, 932px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片29-2.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片29-2.png 932w, https://caa-ins.org/wp-content/uploads/2025/12/图片29-2-300x186.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片29-2-768x475.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片29-2-810x501.png 810w" width="932"/>
+  </figure>
+  <p>
+   但当我们转而询问风险时，双方展现出高度一致性。此处再次说明：浅绿色为公众，深绿色为研究者（抱歉我应避免使用“专家”称谓，因为科学技术研究领域对这个词始终保持警惕）。
+  </p>
+  <figure class="wp-block-image size-full">
+   <img alt="" class="wp-image-13229" data-attachment-id="13229" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片30" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片30-2.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片30-2-300x180.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片30-2.png" data-orig-size="920,551" data-permalink="https://caa-ins.org/archives/13197/%e5%9b%be%e7%89%8730-3" decoding="async" height="551" loading="lazy" sizes="auto, (max-width: 920px) 100vw, 920px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片30-2.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片30-2.png 920w, https://caa-ins.org/wp-content/uploads/2025/12/图片30-2-300x180.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片30-2-768x460.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片30-2-810x485.png 810w" width="920"/>
+  </figure>
+  <p>
+   调查还显示AI研究社群存在某种程度的技术决定论倾向——超半数研究者认为AGI是不可避免的，这当然也意味着，他们把AGI视作一个有意义的概念。我们马上就会谈到，为什么这点很有意思。我们还注意到，AI研究者中存在一种对公众的理解方式，在STS领域，我们称之为一种“缺失模型”（deficit model）。所谓“缺失模型”，即公众对科技的不信任源于其科技知识的匮乏，换句话说，更多的知识会带来更多的信任，而更多的信任会带来对科学与技术的更多支持。
+  </p>
+  <figure class="wp-block-image size-full">
+   <img alt="" class="wp-image-13230" data-attachment-id="13230" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片31" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片31-2.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片31-2-300x179.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片31-2.png" data-orig-size="912,545" data-permalink="https://caa-ins.org/archives/13197/%e5%9b%be%e7%89%8731-3" decoding="async" height="545" loading="lazy" sizes="auto, (max-width: 912px) 100vw, 912px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片31-2.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片31-2.png 912w, https://caa-ins.org/wp-content/uploads/2025/12/图片31-2-300x179.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片31-2-768x459.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片31-2-810x484.png 810w" width="912"/>
+  </figure>
+  <p>
+   我们可以看到，这种观点在 AI 研究群体中有相当高的认同度。同时，AI研究者强烈认为自身才是最能理解 AI 风险的人，而非可能直接受AI影响的普通大众。
+  </p>
+  <figure class="wp-block-image size-full">
+   <img alt="" class="wp-image-13231" data-attachment-id="13231" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片32" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片32-2.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片32-2-300x190.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片32-2.png" data-orig-size="912,577" data-permalink="https://caa-ins.org/archives/13197/%e5%9b%be%e7%89%8732-3" decoding="async" height="577" loading="lazy" sizes="auto, (max-width: 912px) 100vw, 912px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片32-2.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片32-2.png 912w, https://caa-ins.org/wp-content/uploads/2025/12/图片32-2-300x190.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片32-2-768x486.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片32-2-810x512.png 810w" width="912"/>
+  </figure>
+  <p>
+   这种态度带有明显的技术官僚主义与技术决定论倾向——他们倾向于认为，所谓“民主参与”的重要性，更多体现在让公众参与讨论AI的社会影响，而不是参与AI技术研发、模型训练等上游问题。换句话说，这实质上是认为民主机制应作用于技术发展的下游而非上游。
+  </p>
+  <figure class="wp-block-image size-full">
+   <img alt="" class="wp-image-13232" data-attachment-id="13232" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片33" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片33-1.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片33-1-300x186.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片33-1.png" data-orig-size="882,547" data-permalink="https://caa-ins.org/archives/13197/%e5%9b%be%e7%89%8733-2" decoding="async" height="547" loading="lazy" sizes="auto, (max-width: 882px) 100vw, 882px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片33-1.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片33-1.png 882w, https://caa-ins.org/wp-content/uploads/2025/12/图片33-1-300x186.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片33-1-768x476.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片33-1-810x502.png 810w" width="882"/>
+  </figure>
+  <p>
+   与此同时，我们还发现关于责任归属的回答也尤为有趣。当问及“是否认同AI创造者应为系统产生的现实影响负责”时（这是相当激进的问题，恰逢《奥本海默》上映，呼应了“负责任的创新”这一古老议题），令人惊讶的是，相当多研究者表达了希望以这种方式来想象“责任”，即认同AI创造者应为系统产生的现实影响负责。有趣的是，我们将受访者按悲观/乐观倾向分为两组后，发现悲观者明显更倾向于让这种“责任观”在现实世界中真正发挥作用。
+  </p>
+  <figure class="wp-block-image size-full">
+   <img alt="" class="wp-image-13233" data-attachment-id="13233" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片34" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片34.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片34-300x166.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片34.png" data-orig-size="956,528" data-permalink="https://caa-ins.org/archives/13197/%e5%9b%be%e7%89%8734" decoding="async" height="528" loading="lazy" sizes="auto, (max-width: 956px) 100vw, 956px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片34.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片34.png 956w, https://caa-ins.org/wp-content/uploads/2025/12/图片34-300x166.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片34-768x424.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片34-810x447.png 810w" width="956"/>
+  </figure>
+  <p>
+   我认为接下来这一点同样非常重要，因为在当时这涉及一个极其关键的政策辩论：是否应当修改著作权法为AI公司提供便利，允许他们任意使用所获数据进行训练。而我们观察到，公众与AI研究者之间在这一问题上表现出令人惊讶的高度共识，双方都认为需要更严格地关注训练数据问题。这说明，AI 研究者并不是那种“放开一切数据，我们要全部拿来训练”的态度。那种立场更像是由某些领先的人工智能公司所主张的。在我结束前，最后分享一组发现。在此次调查中，我们还让受访者（AI研究者）用自己的语言回答一个问题，即“对于人工智能，最让你担忧的是什么”。随后，我们将他们的回答按若干类别进行了归纳整理。有意思的是，计算机科学家们似乎很难遵守“列举一项”的要求，几乎所有人都给出了多重答案。
+  </p>
+  <figure class="wp-block-image size-full">
+   <img alt="" class="wp-image-13234" data-attachment-id="13234" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片35" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片35.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片35-300x225.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片35.png" data-orig-size="959,720" data-permalink="https://caa-ins.org/archives/13197/%e5%9b%be%e7%89%8735" decoding="async" height="720" loading="lazy" sizes="auto, (max-width: 959px) 100vw, 959px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片35.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片35.png 959w, https://caa-ins.org/wp-content/uploads/2025/12/图片35-300x225.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片35-768x577.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片35-810x608.png 810w" width="959"/>
+  </figure>
+  <p>
+   不过这并无大碍，我们已对多重答案进行了编码归类。从上图的表格中可以看到：“生存性风险”（existential risk）这个话题排在相当靠后的位置，仅约3%的人提到了它。一些相关的观念，如“对齐”（alignment）和“控制”（control）的问题，可能对你们中的一些人来说很熟悉，但这些问题的关注度也相对较低，只有4%的人提到了。相较于“生存性风险”问题，研究者们更担忧现实世界中的滥用、误用、虚假信息、就业影响等具体问题。我们还对这些问题进行了相关性分析。科学技术研究领域一直对性别与创新的问题非常感兴趣。将性别维度引入分析后，我们得出一个非常有趣的发现：女性研究者（我们样本中占比不足四分之一）对算法偏见的担忧程度几乎是男性的两倍以上。而那些认为“AGI不可避免”的受访者，往往也更倾向于关注存在性风险，这种关联性似乎构建了一套自洽的认知逻辑。
+  </p>
+  <figure class="wp-block-image size-full">
+   <img alt="" class="wp-image-13235" data-attachment-id="13235" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="图片36" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/图片36.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/图片36-300x177.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/图片36.png" data-orig-size="944,557" data-permalink="https://caa-ins.org/archives/13197/%e5%9b%be%e7%89%8736" decoding="async" height="557" loading="lazy" sizes="auto, (max-width: 944px) 100vw, 944px" src="https://caa-ins.org/wp-content/uploads/2025/12/图片36.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/图片36.png 944w, https://caa-ins.org/wp-content/uploads/2025/12/图片36-300x177.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/图片36-768x453.png 768w, https://caa-ins.org/wp-content/uploads/2025/12/图片36-810x478.png 810w" width="944"/>
+  </figure>
+  <p>
+   我们为何需要这样的研究？原因在于：我认为，我们迫切需要改善关于人工智能及其治理的辩论。我始终坚信一个理念：科学与科学家能够成为技术的良知，这个理念最初源自哈维·布鲁克斯（Harvey Brooks）。我们调查中呈现的多元观点，正是推动人工智能辩论更具建设性的思想资源。从中我们可以得出的结论其实很简单：当遭遇炒作时，我们绝不应轻信，更不该认定这是AI界的主流认知。艾伦·图灵（Alan Turing）固然是计算机科学的先驱，但他也对人工智能政策辩论造成了巨大的伤害，因为他将人工智能固守于智能的概念，而非其他更广泛的视角。监管体系不应持观望态度，而应主动捕捉预警信号，在技术发展早期阶段就引导它朝着更好的方向发展。正如之前提到的，很多我们需要做的事情，并不完全在人工智能公司的控制范围内。当前最严峻的问题在于，当前在AI的讨论中被反复引用的总是同一批声音，这些利益相关者被神化为先知而非平等的参与者。我们必须即刻推动话语体系的多元化。我的发言到此结束，希望还留有几分钟提问时间。谢谢各位。
+  </p>
+  <p class="has-text-align-center">
+   <strong>
+    提问环节
+   </strong>
+  </p>
+  <p class="has-text-align-left">
+   <strong>
+    Q1：
+   </strong>
+   教授您好。您的演讲使我对AI技术有了更全面的理解。我的问题是：鉴于AI研究与商业化的联系日益紧密，从您的研究视角来看，AI产品经理与AI科学家对“负责任的AI”的认知存在哪些差异？尤其是在他们各自应承担的责任方面，这种差异体现在哪里？同时，随着OpenAI等大模型领域的先行者，开发像Sora这样的突破性应用，请问您认为有哪些因素能促使AI产品经理在未来更好地践行“负责任的AI”理念？谢谢。
+  </p>
+  <p class="has-text-align-left">
+   <strong>
+    A1：
+   </strong>
+   这是一个非常有趣的问题。请允许我借用科学技术研究领域的另一个概念，最初由技术社会学学者唐纳德·麦肯齐（Donald MacKenzie）提出的“确定性低谷”（certainty trough）概念。他的观点是：往往是那些距离研究领域有一定间隔的人，对一项技术最为自信、最为笃定；而真正从事这项研究、了解其中各种偶然性与不确定性的人，反而是最不确定的。我们开展这项调查的初衷，正是希望通过接触一线研究者来呈现这些不确定性。因为我们从许多人工智能领域的领军人物那里听到的，往往是一种充满确定性的叙事，它具有强大的说服力。然而，这种叙事并没有真正揭示那些我们在STS中所认为的重要技术的偶然性与复杂性。这也带来一个后续的问题：对人工智能研究者和人工智能产品经理而言，这意味着什么。如今有许多人最初以研究者身份入行，如今却承担着类似产品经理的职能，这种角色转换确实已经发生，而且发生得非常快。
+  </p>
+  <p class="has-text-align-left">
+   这一问题也牵涉到一个非常重要的讨论：责任以及工程师与科学家在责任上的不同想象方式。从历史维度看，计算机科学孕育了独特的责任文化传统。我目前有一位博士生正在与企业内部的AI产品经理合作做研究，试图询问他们如何理解责任的问题。她发现这个群体普遍存在着深切的焦虑感，对自身参与的工作怀抱着强烈的矛盾心理。如果从她的研究中进一步推论，我会说，许多人都感到他们的角色变化速度远超出他们自身的理解能力。许多人在不知不觉中变成了产品经理，即便他们最初是以开发模型的计算机科学家，或是模型评估者的身份入行。若将其与汽车行业发展对比，我们会发现两者在速度上的本质差异。在汽车领域，我们曾拥有数十年时间逐步理解技术内涵、完善安全机制，厘清产品开发与评估的界限。但在人工智能领域，这种时间缓冲几乎不存在。我认为，这正是一个极为重要的分界线。谢谢。
+  </p>
+  <p>
+   <strong>
+    Q2：
+   </strong>
+   您好，感谢您的精彩演讲。延续您关于“汽车”的比喻，当年塞纳的悲剧性死亡促使一级方程式赛车（F1）国际汽联（FIA）追溯性地完善了安全措施，包括头盔、颈部保护装置乃至其他所有细节。那么我的问题是：您认为在人工智能领域，何种信号能类似地成为政策制定机构采取行动的催化剂？如果存在这种信号的可能性，抑或这正是问题的难点所在，当前社会对AI技术的宽容度是否使得我们难以识别那种预示危机的明显信号？
+  </p>
+  <p>
+   <strong>
+    A2：
+   </strong>
+   非常好的问题。航空工程师们常提到一个概念，他们称之为“墓碑式治理”（tombstone governance），即往往需要付出生命代价才能推动监管变革。我们或许本不该寄望于通过这种惨痛的社会觉醒时刻来改变监管体系。我最初投身自动驾驶研究正是因为几起备受关注的死亡事件，但令人惊讶的是，这些事件并未真正唤醒社会。换句话说，像一级方程式赛车（Formula One）
+   <sup>
+    4
+   </sup>
+   那样，由灾难触发的反思与改革机制，似乎并没有在自动驾驶领域上演。对于生成式AI，我认为真正值得思考的是：我们是否已经看到了某些早期预警信号？或者，未来这些信号可能会以怎样的形式出现？目前看来，真正引起部分人警觉的是一些象征性事件，例如版权方对大语言模型的集体诉讼。在英国，当埃尔顿·约翰（Elton John）等知名人士公开抗议后，那种“著作权法理应向AI公司倾斜”的预设才真正开始扭转。
+  </p>
+  <p>
+   最近更令人痛心的是，我们目睹了多起青少年因对AI产生情感依赖而自杀的案例。这其实今早也有讨论，这与人类与聊天机器人之间形成的“准社会关系”（parasocial relationship）有关。现有监管体系，无论是在系统内还是在系统外，都难以应对这类问题。而所有这些事件，正如美国正在发生的，最终都将转化为法律诉讼。这些案件的判决结果可能会产生深远影响。我不禁思考，我们需要开展情景模拟工作来辨识：究竟哪些现象可能构成早期预警信号？我们应该关注哪些具体迹象，才能使我们的治理体系更加精准地作出调整？
+  </p>
+  <p>
+   <strong>
+    Q3：
+   </strong>
+   教授您好。我非常赞同您提出的对AI进行临床试验的设想。我的问题是：相较于自动驾驶汽车可以通过道路测试（如北京亦庄、武汉的试点）来验证安全性，AI技术由于具有易获取、零成本传播等特性，很难限制公众使用。在这种特性下，我们可以通过哪些社会实验方法来有效检验AI的责任机制？谢谢。
+  </p>
+  <p>
+   <strong>
+    A3：
+   </strong>
+   这确实是一个非常有趣的问题。首先，我想指出的是，“社会实验”（social experimentation）这一语言非常有助于我们理解当前所面临的问题及其利害关系。我们应当记得，在新药研发的历史中，正是经历了一系列公众的愤怒与抗议之后，我们才逐渐建立起如今的临床试验体系。在那之前，人类也曾进行过灾难性、可怕且极不道德的实验，当时公众既不清楚其中的伦理困境，也不了解其对健康构成的威胁。
+  </p>
+  <p>
+   而在人工智能领域，值得注意的是，很少有人深入讨论模型发布所涉及的风险与代价。这源于软件行业的特殊传统：比如软件常以“明确标注的实验性项目”的名义发布，开发者宣称“唯一验证方式就是让所有人同时试用”。这完全是另一种模式，毕竟当Windows系统因漏洞崩溃时，你只需重启电脑；但如果是自动驾驶车辆发生事故，要么你自己出事，要么撞上别人。这两种情境下的风险等级天差地别。几年前我参与过围绕自动驾驶车辆的测试与试验的讨论。当时有一些哲学家提出，应当为自动驾驶汽车设立类似于临床试验的机制，我对此也表达过支持。这个建议被某些技术自由主义者称为“史上最愚蠢的想法”，他们声称这会阻碍技术落地的速度。
+  </p>
+  <p>
+   实际上，我们确实已经看到了某种意义上的“临床试验”正在开展，但这些试验全部发生在企业内部，也就是说，所有的治理过程都由公司自己完成。美国基本如此，中国则略有不同。中国是一个非常值得关注的例子，因为中国似乎正在出现一种不同的治理模式。我认为关键分水岭在于“独立评估机制”的建立。可信临床试验的核心前提是：验证证据绝不能由技术研发方自行提供。然而，在人工智能领域，我们几乎看不到这种类型的独立审查。相反，我们看到的是企业过度依赖自身的内部安全测试，比如发布自说自话的安全报告，宣称已排查部分风险并自我认定是安全的。我们尚未看到真正意义上的独立测试。虽然独立测试体系正在缓慢构建，“禁止企业既当运动员又当裁判员”的批评声也已出现。然而，相较于那些以许可式姿态开发和发布模型的企业规模，这套监督机制仍然微不足道。
+  </p>
+  <p>
+   <strong>
+    Q4：
+   </strong>
+   Jack，非常感谢您的精彩演讲。有一个问题我一直在思考：您提到类似临床试验的测试方法，但信息技术一旦投入大规模应用，其本质决定了它会在用户互动中不断智能化和可编程化。随着参与人数的增加，技术会在应用过程中不断演变，这种特性使得传统测试方法根本无法适用，我们只能进行事后审计。考虑到部分数字基础设施是由政府、军方与大型平台公司共同构建的，这种审计也未必能保持独立性。我认为，在中国独立审计确实是个难题，情况有所不同。但另一方面，技术的固有属性也决定了我们根本无法进行事前临床测试。
+  </p>
+  <p class="has-text-align-left">
+   <strong>
+    A4：
+   </strong>
+   这确实是个非常深刻的挑战。我的研究起点始终是通过类比其他技术及其治理模式来思考，但真正有效的方法必须深入理解特定技术的本质。您提出的挑战切中要害，或许我们在技术发布前获得的所有认知最终都可能失去意义，因为唯有通过大规模应用及后续发展，我们才能在具体使用过程真正理解这些技术的意义。这个逻辑同样适用于当年那些汽车风险评估者，按照这个论点，汽车风险在早期根本不可知。当全国只有百辆汽车时，你无法认知汽车真正的社会含义；但当汽车存量达到数百万，且整个社会围绕汽车重构运行方式时，某些真正的挑战才开始显现。
+  </p>
+  <p class="has-text-align-left">
+   您说得对。对于汽车，我们确实可以通过碰撞测试来检验其结构强度；同样，软件系统也可以通过极端压力测试来评估其鲁棒性（robustness）
+   <sup>
+    5
+   </sup>
+   。但关键在于——正如您指出的——这些评估结果的有效性在真实场景中会大打折扣。将实体汽车置于真实路况，或是将软件投入复杂多变的现实使用环境时，实验室里的测试结论就会显现出局限性。
+  </p>
+  <p>
+   因此这正体现了适应性治理的必要性，即我们必须依据早期预警采取行动，并持续监测这些预警信号。值得注意的是，汽车碰撞测试也是在付出惨痛代价后才建立的，当时不仅导致大量驾驶员死亡，更是夺走了无数儿童的生命。有趣的是，回溯“墓碑治理”模式，正是儿童安全风险成为了推动汽车安全立法的政治杠杆。而在AI领域，我们已看到类似趋势：保护儿童很可能成为未来AI治理干预的正当性依据。
+  </p>
+  <p>
+   <strong>
+    译注：
+   </strong>
+  </p>
+  <p>
+   1. “联结主义”（connectionism）：认知科学领域的一种研究方法，它以类似于脑的神经元网络系统来建立认知活动的模型，把认知解释为网络的整体活动。杰弗里·辛顿（Geoffrey Hinton）是当代联结主义最重要的推动者之一，他提出了反向传播算法在多层网络中的可行性，并与大卫·阿克利（David Ackley）、特里·赛杰诺维斯基（Terry Sejnowski）一同发明了波尔兹曼机，他的研究奠定了深度学习兴起的基础，也推动联结主义成为解释智能的主流范式之一。
+  </p>
+  <p>
+   2.“人工智能控制问题”（the control problem）：指如何在创造出高度智能、具备自主行为的机器之后，仍能确保它们的行动保持在人类可理解、可预测、可限制的范围内，不对人类构成威胁或失控。在图灵时代，这是哲学性的、存在论式的担忧，后来在 AI 安全研究中演化为诸如价值对齐（alignment）、可控性（controllability）等更具体的技术议题。
+  </p>
+  <p>
+   3.“拜占庭式的”（Byzantine）：不是指“拜占庭帝国本身”，而是一种常见修辞：指结构异常复杂、层层嵌套、迂回曲折、规则/关系多到难以看清全貌的系统，往往还带点“官僚化、盘根错节、很难问责”的意味。
+  </p>
+  <p>
+   4.一级方程式赛车（Formula One）：简称 F1，是国际汽车联合会（FIA）举办的最高级别汽车方程式锦标赛。在1994年大奖赛中，多名车手相继发生意外，其中包含三届车手世界冠军艾尔顿·塞纳，这使得国际汽联迅速地采取了一系列强制的措施来保证比赛的安全，这一年也是国际汽联强硬地强化F1比赛的安全的开始。
+  </p>
+  <p>
+   5.鲁棒性（robustness）：指系统或模型在受到噪声、扰动、数据偏差或环境变化时，仍能保持稳定性能与可靠输出的能力。它强调抗干扰性与可靠性，是评估复杂系统可靠度的重要指标。杰克·斯蒂尔戈（Jack Stilgoe）现任伦敦大学学院科学技术学教授，致力于新兴技术治理研究。他担任英国研究与创新署（UKRI）“负责任人工智能”领导团队成员（官网：www.rai.ac.uk），曾主持经济与社会研究理事会（ESRC）“无人驾驶未来”项目（2019-2022）。作为常受关注的媒体评论专家，他同时担任英国政府人工智能、自动驾驶汽车等新兴技术领域的政策顾问。
+  </p>
+  <p>
+  </p>
+  <p class="has-text-align-center">
+   <strong>
+    讲者介绍
+   </strong>
+  </p>
+  <p class="has-text-align-center">
+   杰克·斯蒂尔戈（Jack Stilgoe）
+  </p>
+  <div class="wp-block-image">
+   <figure class="aligncenter size-medium">
+    <img alt="" class="wp-image-13236" data-attachment-id="13236" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="IMG_9699" data-large-file="https://caa-ins.org/wp-content/uploads/2025/12/IMG_9699.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2025/12/IMG_9699-300x300.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2025/12/IMG_9699.png" data-orig-size="590,590" data-permalink="https://caa-ins.org/archives/13197/img_9699" decoding="async" height="300" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://caa-ins.org/wp-content/uploads/2025/12/IMG_9699-300x300.png" srcset="https://caa-ins.org/wp-content/uploads/2025/12/IMG_9699-300x300.png 300w, https://caa-ins.org/wp-content/uploads/2025/12/IMG_9699-150x150.png 150w, https://caa-ins.org/wp-content/uploads/2025/12/IMG_9699.png 590w" width="300"/>
+   </figure>
+  </div>
+  <p>
+   杰克·斯蒂尔戈（Jack Stilgoe）现任伦敦大学学院科学技术学教授，致力于新兴技术治理研究。他担任英国研究与创新署（UKRI）“负责任人工智能”领导团队成员（官网：www.rai.ac.uk），曾主持经济与社会研究理事会（ESRC）“无人驾驶未来”项目（2019-2022）。作为常受关注的媒体评论专家，他同时担任英国政府人工智能、自动驾驶汽车等新兴技术领域的政策顾问。
+  </p>
+  <p class="has-text-align-left">
+   <br/>
+   <br/>
+   <br/>
+   <br/>
+   <br/>
+   <br/>
+  </p>
+ </div>
+ <footer class="entry-footer">
+  <div class="meta-tags">
+  </div>
+ </footer>
+</article>
+
